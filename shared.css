@@ -1,0 +1,181 @@
+/* ============================================================
+   shared.css — Design tokens, fonts, and base reset
+   Imported by both dm.css and player.css
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+
+/* ── CSS Custom Properties ─────────────────────────────────── */
+:root {
+  /* Backgrounds */
+  --color-bg-dark:       #1a1410;
+  --color-bg-mid:        #2c2418;
+  --color-bg-card:       #3a2f20;
+  --color-bg-card-hover: #42352a;
+  --color-bg-input:      #221c12;
+
+  /* Accents */
+  --color-accent-gold:   #c9a84c;
+  --color-accent-gold-dim: #8a7030;
+  --color-accent-red:    #9b2226;
+  --color-accent-blue:   #2d6a8f;
+  --color-accent-green:  #3a7d44;
+
+  /* Text */
+  --color-text-primary:  #f0e6d0;
+  --color-text-muted:    #8c7a5e;
+  --color-text-dark:     #1a1410;
+
+  /* Borders */
+  --color-border:        #5c4a2a;
+  --color-border-light:  #7a6040;
+
+  /* HP Bar Colors */
+  --color-hp-high:       #3a7d44;
+  --color-hp-mid:        #d4a017;
+  --color-hp-low:        #9b2226;
+  --color-hp-dead:       #4a1515;
+
+  /* Type Colors */
+  --color-player:   #2d6a8f;
+  --color-monster:  #9b2226;
+  --color-npc:      #3a7d44;
+
+  /* Typography */
+  --font-heading:   'Cinzel', Georgia, 'Times New Roman', serif;
+  --font-body:      'Crimson Text', Georgia, 'Times New Roman', serif;
+
+  /* Spacing */
+  --space-xs:  4px;
+  --space-sm:  8px;
+  --space-md:  16px;
+  --space-lg:  24px;
+  --space-xl:  32px;
+
+  /* Border radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  /* Transitions */
+  --transition: 0.2s ease;
+}
+
+/* ── Base Reset ─────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  font-family: var(--font-body);
+  font-size: 16px;
+  background-color: var(--color-bg-dark);
+  color: var(--color-text-primary);
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  color: var(--color-accent-gold);
+  line-height: 1.2;
+}
+
+button {
+  font-family: var(--font-heading);
+  cursor: pointer;
+  border: none;
+  border-radius: var(--radius-sm);
+  transition: background-color var(--transition), transform var(--transition), box-shadow var(--transition);
+}
+
+button:active {
+  transform: translateY(1px);
+}
+
+input, select {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  background-color: var(--color-bg-input);
+  color: var(--color-text-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: var(--space-sm) var(--space-sm);
+  outline: none;
+  transition: border-color var(--transition);
+}
+
+input:focus, select:focus {
+  border-color: var(--color-accent-gold);
+}
+
+input::placeholder {
+  color: var(--color-text-muted);
+}
+
+/* Select option color fix */
+select option {
+  background-color: var(--color-bg-mid);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg-mid);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-accent-gold-dim);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent-gold);
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-accent-gold-dim) var(--color-bg-mid);
+}
+
+/* ── Utility Classes ────────────────────────────────────────── */
+.text-muted {
+  color: var(--color-text-muted);
+}
+
+.text-gold {
+  color: var(--color-accent-gold);
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* Type badge pills */
+.type-badge {
+  display: inline-block;
+  font-family: var(--font-heading);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  padding: 2px 7px;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+
+.type-badge.player  { background: var(--color-player);  color: #c8e6f5; }
+.type-badge.monster { background: var(--color-monster); color: #f5c8c8; }
+.type-badge.npc     { background: var(--color-npc);     color: #c8f0d0; }
+
+/* Type left-border accent used on cards */
+.type-border-player  { border-left: 4px solid var(--color-player); }
+.type-border-monster { border-left: 4px solid var(--color-monster); }
+.type-border-npc     { border-left: 4px solid var(--color-npc); }

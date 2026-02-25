@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>D&amp;D Initiative Tracker — DM View</title>
+  <link rel="stylesheet" href="shared.css" />
+  <link rel="stylesheet" href="dm.css" />
+</head>
+<body>
+
+  <!-- localStorage unavailable warning (hidden by default) -->
+  <div id="ls-warning" class="hidden">
+    <span>&#9888; localStorage unavailable — state will not persist after page reload.</span>
+  </div>
+
+  <!-- ── Header ──────────────────────────────────────────── -->
+  <header class="dm-header">
+    <div class="dm-header__left">
+      <h1>&#9876; Initiative Tracker</h1>
+      <span class="dm-header__subtitle">Dungeon Master View</span>
+    </div>
+
+    <div class="dm-header__center">
+      <span id="encounter-name-display" class="encounter-name" title="Click to rename">New Encounter</span>
+    </div>
+
+    <div class="dm-header__right">
+      <!-- Undo / Redo -->
+      <button id="btn-undo" class="btn btn--icon" disabled title="Undo (Ctrl+Z)">&#8617; Undo</button>
+      <button id="btn-redo" class="btn btn--icon" disabled title="Redo (Ctrl+Y)">&#8618; Redo</button>
+
+      <span class="header-divider"></span>
+
+      <!-- Save / Load -->
+      <button id="btn-save" class="btn btn--icon" title="Save encounter">&#128190; Save</button>
+      <button id="btn-load" class="btn btn--icon" title="Load a saved encounter">&#128194; Load</button>
+
+      <span class="header-divider"></span>
+
+      <!-- Export / Import -->
+      <button id="btn-export" class="btn btn--icon" title="Export as JSON">&#8593; Export</button>
+      <label class="btn btn--icon" for="input-import" title="Import from JSON" style="cursor:pointer;">
+        &#8595; Import
+      </label>
+      <input type="file" id="input-import" accept=".json,application/json" class="hidden" />
+
+      <span class="header-divider"></span>
+
+      <!-- Player View / Reset -->
+      <button id="btn-open-player" class="btn btn--secondary" title="Open player view for Chromecast">
+        &#128498; Player View
+      </button>
+      <button id="btn-reset" class="btn btn--danger" title="Reset the entire encounter">
+        &#128465; Reset
+      </button>
+    </div>
+  </header>
+
+  <!-- ── Main Layout ─────────────────────────────────────── -->
+  <main class="dm-main">
+
+    <!-- ── Left Column: Add Form + Turn Controls + Initiative List ── -->
+    <section class="dm-col dm-col--left">
+
+      <!-- Add Combatant Form -->
+      <div class="panel" id="panel-add">
+        <h2 class="panel__title">Add Combatant</h2>
+        <form id="form-add-combatant" autocomplete="off">
+          <!-- Row 1: Name · Initiative (combat only) · Quantity -->
+          <div class="form-row">
+            <div class="form-group form-group--grow">
+              <label for="input-name">Name</label>
+              <input type="text" id="input-name" placeholder="Goblin Chief" required maxlength="40" />
+            </div>
+            <div class="form-group form-group--narrow" id="initiative-field">
+              <label for="input-initiative">Initiative</label>
+              <input type="number" id="input-initiative" placeholder="15" min="-10" max="99" />
+            </div>
+            <div class="form-group form-group--xnarrow">
+              <label for="input-quantity">Qty</label>
+              <input type="number" id="input-quantity" placeholder="1" min="1" max="10" value="1" />
+            </div>
+          </div>
+          <!-- Row 2: Max HP · AC · Init Mod · Type · Submit -->
+          <div class="form-row">
+            <div class="form-group form-group--narrow">
+              <label for="input-hp">Max HP</label>
+              <input type="number" id="input-hp" placeholder="30" min="1" max="9999" required />
+            </div>
+            <div class="form-group form-group--xnarrow">
+              <label for="input-ac">AC</label>
+              <input type="number" id="input-ac" placeholder="10" min="1" max="30" value="10" />
+            </div>
+            <div class="form-group form-group--xnarrow">
+              <label for="input-init-mod">Init ±</label>
+              <input type="number" id="input-init-mod" placeholder="0" min="-10" max="10" value="0" />
+            </div>
+            <div class="form-group form-group--grow">
+              <label for="input-type">Type</label>
+              <select id="input-type">
+                <option value="player">Player</option>
+                <option value="monster" selected>Monster</option>
+                <option value="npc">NPC</option>
+              </select>
+            </div>
+            <div class="form-group form-group--auto">
+              <label>&nbsp;</label>
+              <button type="submit" class="btn btn--primary btn--full">+ Add</button>
+            </div>
+          </div>
+        </form>
+      </div>
+
+      <!-- Turn Controls — content rendered dynamically by dm.js -->
+      <div class="panel" id="panel-turns">
+        <!-- Populated by renderTurnControls() -->
+      </div>
+
+      <!-- Initiative Order List -->
+      <div class="panel panel--grow" id="panel-initiative">
+        <h2 class="panel__title">Initiative Order</h2>
+        <div id="combatant-list">
+          <p class="empty-message">No combatants yet. Add one above.</p>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- ── Right Column: Dice Roller ─────────────────────── -->
+    <section class="dm-col dm-col--right">
+
+      <div class="panel" id="panel-dice">
+        <h2 class="panel__title">&#127922; Dice Roller</h2>
+
+        <div class="dice-grid">
+          <button class="btn btn--die" data-sides="4">d4</button>
+          <button class="btn btn--die" data-sides="6">d6</button>
+          <button class="btn btn--die" data-sides="8">d8</button>
+          <button class="btn btn--die" data-sides="10">d10</button>
+          <button class="btn btn--die" data-sides="12">d12</button>
+          <button class="btn btn--die" data-sides="20">d20</button>
+          <button class="btn btn--die btn--die-wide" data-sides="100">d100</button>
+        </div>
+
+        <div class="dice-controls-row">
+          <div class="dice-field">
+            <label for="dice-count">Count</label>
+            <input type="number" id="dice-count" value="1" min="1" max="20" />
+          </div>
+          <div class="dice-field">
+            <label for="dice-modifier">Modifier</label>
+            <input type="number" id="dice-modifier" value="0" min="-20" max="20" />
+          </div>
+        </div>
+
+        <div class="dice-adv-row">
+          <button class="btn btn--adv-toggle btn--adv-toggle--active" data-adv="normal">Normal</button>
+          <button class="btn btn--adv-toggle" data-adv="advantage">Adv</button>
+          <button class="btn btn--adv-toggle" data-adv="disadvantage">Dis</button>
+        </div>
+
+        <div class="dice-result" id="dice-result">
+          <span class="dice-result__label">Roll a die above</span>
+        </div>
+
+        <div class="dice-history">
+          <div class="dice-history__header">
+            <h3 class="dice-history__title">History</h3>
+            <button class="btn btn--icon btn--sm" id="btn-clear-dice-history"
+              title="Clear dice history">&#10005;</button>
+          </div>
+          <ol id="dice-history-list">
+            <li class="text-muted">No rolls yet.</li>
+          </ol>
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- ── Start Combat Modal ──────────────────────────────── -->
+  <div id="modal-start-combat" class="modal-backdrop hidden" role="dialog"
+       aria-modal="true" aria-hidden="true" aria-labelledby="start-combat-title">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h2 id="start-combat-title">&#9876; Start Combat</h2>
+        <button class="btn btn--remove modal-close" aria-label="Close" data-close-modal="modal-start-combat">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-instructions">
+          Enter initiative scores for <strong>player characters</strong>.
+          Monster and NPC initiatives have been auto-rolled (1d20 + modifier) — use &#8635; to reroll any result.
+        </p>
+        <div id="start-combat-rows" class="start-combat-rows">
+          <!-- Populated by openStartCombatModal() -->
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button id="start-combat-cancel" class="btn btn--secondary">Cancel</button>
+        <button id="start-combat-submit" class="btn btn--primary">&#9654; Begin Combat!</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Saved Encounters Modal ──────────────────────────── -->
+  <div id="modal-saved-encounters" class="modal-backdrop hidden" role="dialog"
+       aria-modal="true" aria-hidden="true" aria-labelledby="saved-title">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h2 id="saved-title">&#128190; Saved Encounters</h2>
+        <button id="saved-encounters-close" class="btn btn--remove modal-close"
+                aria-label="Close" data-close-modal="modal-saved-encounters">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div id="saved-encounters-list" class="saved-encounters-list">
+          <!-- Populated by renderSavedEncountersList() -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="state.js"></script>
+  <script src="dm.js"></script>
+</body>
+</html>
