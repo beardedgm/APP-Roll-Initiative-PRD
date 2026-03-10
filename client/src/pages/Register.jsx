@@ -3,6 +3,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { useRegister } from '../api/useAuth';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import TurnstileWidget from '../components/ui/TurnstileWidget';
 import '../styles/marketing.css';
 
 export default function Register() {
@@ -10,6 +11,7 @@ export default function Register() {
   const register = useRegister();
   const [form, setForm] = useState({ email: '', password: '', displayName: '' });
   const [error, setError] = useState('');
+  const [turnstileToken, setTurnstileToken] = useState(null);
 
   function handleChange(e) {
     setForm(f => ({ ...f, [e.target.name]: e.target.value }));
@@ -19,7 +21,7 @@ export default function Register() {
     e.preventDefault();
     setError('');
     try {
-      await register.mutateAsync(form);
+      await register.mutateAsync({ ...form, turnstileToken });
       navigate('/tracker');
     } catch (err) {
       const msg = err.response?.data?.error || 'Registration failed';
@@ -77,6 +79,7 @@ export default function Register() {
               />
               <span className="auth-form__hint">At least 8 characters</span>
             </label>
+            <TurnstileWidget onToken={setTurnstileToken} />
             <button
               type="submit"
               className="btn btn--primary auth-form__submit"

@@ -3,16 +3,18 @@ import { Link } from 'react-router-dom';
 import { useForgotPassword } from '../api/useAuth';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import TurnstileWidget from '../components/ui/TurnstileWidget';
 import '../styles/marketing.css';
 
 export default function ForgotPassword() {
   const forgot = useForgotPassword();
   const [email, setEmail] = useState('');
   const [sent, setSent] = useState(false);
+  const [turnstileToken, setTurnstileToken] = useState(null);
 
   async function handleSubmit(e) {
     e.preventDefault();
-    await forgot.mutateAsync({ email });
+    await forgot.mutateAsync({ email, turnstileToken });
     setSent(true);
   }
 
@@ -45,6 +47,7 @@ export default function ForgotPassword() {
                     autoComplete="email"
                   />
                 </label>
+                <TurnstileWidget onToken={setTurnstileToken} />
                 <button
                   type="submit"
                   className="btn btn--primary auth-form__submit"

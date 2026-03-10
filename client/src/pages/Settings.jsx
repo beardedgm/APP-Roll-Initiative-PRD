@@ -1,18 +1,28 @@
 import { useState } from 'react';
-import { useCurrentUser, useChangePassword } from '../api/useAuth';
+import { useNavigate } from 'react-router-dom';
+import { useCurrentUser, useChangePassword, useUpdateProfile, useDeleteAccount } from '../api/useAuth';
 import { useBillingStatus, useCreatePortalSession } from '../api/useSubscription';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 import '../styles/marketing.css';
 
 export default function Settings() {
+  const navigate = useNavigate();
   const { data: user } = useCurrentUser();
   const { data: billing } = useBillingStatus();
   const portalSession = useCreatePortalSession();
   const changePassword = useChangePassword();
+  const updateProfile = useUpdateProfile();
+  const deleteAccount = useDeleteAccount();
   const [pwForm, setPwForm] = useState({ currentPassword: '', newPassword: '' });
   const [pwMsg, setPwMsg] = useState('');
   const [pwError, setPwError] = useState('');
+  const [editingName, setEditingName] = useState(false);
+  const [displayName, setDisplayName] = useState('');
+  const [nameMsg, setNameMsg] = useState('');
+  const [deletePassword, setDeletePassword] = useState('');
+  const [deleteError, setDeleteError] = useState('');
+  const [showDeleteConfirm, setShowDeleteConfirm] = useState(false);
 
   async function handleChangePassword(e) {
     e.preventDefault();
@@ -24,6 +34,29 @@ export default function Settings() {
       setPwForm({ currentPassword: '', newPassword: '' });
     } catch (err) {
       setPwError(err.response?.data?.error || 'Failed to change password');
+    }
+  }
+
+  async function handleUpdateName(e) {
+    e.preventDefault();
+    setNameMsg('');
+    try {
+      await updateProfile.mutateAsync({ displayName });
+      setNameMsg('Display name updated.');
+      setEditingName(false);
+    } catch (err) {
+      setNameMsg(err.response?.data?.error || 'Failed to update name');
+    }
+  }
+
+  async function handleDeleteAccount(e) {
+    e.preventDefault();
+    setDeleteError('');
+    try {
+      await deleteAccount.mutateAsync({ password: deletePassword });
+      navigate('/');
+    } catch (err) {
+      setDeleteError(err.response?.data?.error || 'Failed to delete account');
     }
   }
 
@@ -39,9 +72,39 @@ export default function Settings() {
           {/* Profile */}
           <section className="settings-section">
             <h2 className="settings-section__title">Profile</h2>
+            {nameMsg && <div className="settings-msg settings-msg--success">{nameMsg}</div>}
             <div className="settings-field">
               <span className="settings-field__label">Display Name</span>
-              <span className="settings-field__value">{user.displayName}</span>
+              {editingName ? (
+                <form onSubmit={handleUpdateName} style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
+                  <input
+                    type="text"
+                    className="auth-form__input"
+                    value={displayName}
+                    onChange={e => setDisplayName(e.target.value)}
+                    required
+                    maxLength={50}
+                    style={{ flex: 1 }}
+                  />
+                  <button type="submit" className="btn btn--primary" disabled={updateProfile.isPending}>
+                    {updateProfile.isPending ? 'Saving...' : 'Save'}
+                  </button>
+                  <button type="button" className="btn btn--outline" onClick={() => setEditingName(false)}>
+                    Cancel
+                  </button>
+                </form>
+              ) : (
+                <span className="settings-field__value">
+                  {user.displayName}{' '}
+                  <button
+                    className="btn btn--outline btn--small"
+                    onClick={() => { setDisplayName(user.displayName); setEditingName(true); setNameMsg(''); }}
+                    style={{ marginLeft: '0.5rem' }}
+                  >
+                    Edit
+                  </button>
+                </span>
+              )}
             </div>
             <div className="settings-field">
               <span className="settings-field__label">Email</span>
@@ -119,6 +182,57 @@ export default function Settings() {
                 {changePassword.isPending ? 'Updating...' : 'Update Password'}
               </button>
             </form>
+          </section>
+
+          {/* Danger Zone */}
+          <section className="settings-section" style={{ borderTop: '2px solid #e74c3c', paddingTop: '1.5rem', marginTop: '1.5rem' }}>
+            <h2 className="settings-section__title" style={{ color: '#e74c3c' }}>Danger Zone</h2>
+            {!showDeleteConfirm ? (
+              <button
+                className="btn btn--outline"
+                style={{ borderColor: '#e74c3c', color: '#e74c3c' }}
+                onClick={() => setShowDeleteConfirm(true)}
+              >
+                Delete Account
+              </button>
+            ) : (
+              <>
+                <p style={{ color: '#e74c3c', marginBottom: '1rem' }}>
+                  This will permanently delete your account, encounters, and cancel any subscription. This cannot be undone.
+                </p>
+                {deleteError && <div className="settings-msg settings-msg--error">{deleteError}</div>}
+                <form onSubmit={handleDeleteAccount} className="auth-form">
+                  <label className="auth-form__label">
+                    Confirm your password
+                    <input
+                      type="password"
+                      className="auth-form__input"
+                      value={deletePassword}
+                      onChange={e => setDeletePassword(e.target.value)}
+                      required
+                      autoComplete="current-password"
+                    />
+                  </label>
+                  <div style={{ display: 'flex', gap: '0.5rem' }}>
+                    <button
+                      type="submit"
+                      className="btn btn--primary"
+                      style={{ background: '#e74c3c' }}
+                      disabled={deleteAccount.isPending}
+                    >
+                      {deleteAccount.isPending ? 'Deleting...' : 'Permanently Delete'}
+                    </button>
+                    <button
+                      type="button"
+                      className="btn btn--outline"
+                      onClick={() => { setShowDeleteConfirm(false); setDeletePassword(''); setDeleteError(''); }}
+                    >
+                      Cancel
+                    </button>
+                  </div>
+                </form>
+              </>
+            )}
           </section>
         </div>
       </main>

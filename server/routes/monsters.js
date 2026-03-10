@@ -1,5 +1,6 @@
 import { Router } from 'express';
 import Monster from '../models/Monster.js';
+import logger from '../config/logger.js';
 
 const router = Router();
 
@@ -51,7 +52,7 @@ router.get('/api/monsters/search', async (req, res) => {
 
     res.json({ results: monsters, total, limit: lim, skip: sk });
   } catch (err) {
-    console.error('Monster search error:', err);
+    logger.error({ err }, 'Monster search failed');
     res.status(500).json({ error: 'Search failed' });
   }
 });
@@ -83,7 +84,7 @@ router.get('/api/monsters/:slug', async (req, res) => {
     }
     res.json(monster);
   } catch (err) {
-    console.error('Monster fetch error:', err);
+    logger.error({ err }, 'Monster fetch failed');
     res.status(500).json({ error: 'Fetch failed' });
   }
 });

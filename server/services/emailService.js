@@ -57,6 +57,59 @@ export async function sendPasswordResetEmail(email, displayName, token) {
   return sendEmail(email, 'Reset your password', html);
 }
 
+export async function sendWelcomeEmail(email, displayName) {
+  const html = wrap('Welcome to ' + APP_NAME, `
+    <h2 style="color:#d4a843;margin-top:0;">Welcome aboard, ${displayName}!</h2>
+    <p>Your account is ready. Start tracking initiative for your encounters right away.</p>
+    <div style="text-align:center;margin:24px 0;">
+      <a href="${APP_URL}/tracker" style="display:inline-block;padding:12px 32px;background:#d4a843;color:#1a1a2e;text-decoration:none;border-radius:6px;font-weight:bold;font-size:16px;">
+        Open Tracker
+      </a>
+    </div>
+    <p style="color:#888;font-size:13px;">May your rolls be ever in your favor.</p>
+  `);
+
+  return sendEmail(email, 'Welcome', html);
+}
+
+export async function sendPaymentReceiptEmail(email, displayName, amount, currency) {
+  const formatted = new Intl.NumberFormat('en-US', { style: 'currency', currency: currency || 'usd' }).format((amount || 0) / 100);
+  const html = wrap('Payment Receipt', `
+    <h2 style="color:#d4a843;margin-top:0;">Payment Received</h2>
+    <p>Hi ${displayName}, we received your payment of <strong>${formatted}</strong>.</p>
+    <p>Your premium subscription is active. Thank you for supporting ${APP_NAME}!</p>
+    <p style="color:#888;font-size:13px;">Questions? Reply to this email.</p>
+  `);
+
+  return sendEmail(email, 'Payment receipt', html);
+}
+
+export async function sendPaymentFailedEmail(email, displayName) {
+  const html = wrap('Payment Failed', `
+    <h2 style="color:#d4a843;margin-top:0;">Payment Issue</h2>
+    <p>Hi ${displayName}, we were unable to process your subscription payment.</p>
+    <p>Please update your payment method to keep your premium features active:</p>
+    <div style="text-align:center;margin:24px 0;">
+      <a href="${APP_URL}/settings" style="display:inline-block;padding:12px 32px;background:#d4a843;color:#1a1a2e;text-decoration:none;border-radius:6px;font-weight:bold;font-size:16px;">
+        Update Payment
+      </a>
+    </div>
+  `);
+
+  return sendEmail(email, 'Payment failed', html);
+}
+
+export async function sendSubscriptionCancelledEmail(email, displayName) {
+  const html = wrap('Subscription Cancelled', `
+    <h2 style="color:#d4a843;margin-top:0;">Subscription Cancelled</h2>
+    <p>Hi ${displayName}, your premium subscription has been cancelled.</p>
+    <p>You can still use the free features of ${APP_NAME}. If you change your mind, you can resubscribe anytime.</p>
+    <p style="color:#888;font-size:13px;">We hope to see you back at the table!</p>
+  `);
+
+  return sendEmail(email, 'Subscription cancelled', html);
+}
+
 async function sendEmail(to, subject, html) {
   if (!resend) {
     logger.warn({ to, subject }, 'Email skipped — Resend not configured');

@@ -5,6 +5,7 @@ import ProcessedEvent from '../models/ProcessedEvent.js';
 import requireAuth from '../middleware/requireAuth.js';
 import logger from '../config/logger.js';
 import express from 'express';
+import { sendPaymentReceiptEmail, sendPaymentFailedEmail, sendSubscriptionCancelledEmail } from '../services/emailService.js';
 
 const router = Router();
 
@@ -151,10 +152,13 @@ webhookRouter.post('/api/billing/webhook',
             const sub = await stripe.subscriptions.retrieve(invoice.subscription);
             const userId = sub.metadata.userId;
             if (userId) {
-              await User.findByIdAndUpdate(userId, {
+              const paidUser = await User.findByIdAndUpdate(userId, {
                 subscriptionStatus: 'active',
                 currentPeriodEnd: new Date(sub.current_period_end * 1000),
-              });
+              }, { new: true });
+              if (paidUser) {
+                sendPaymentReceiptEmail(paidUser.email, paidUser.displayName, invoice.amount_paid, invoice.currency).catch(() => {});
+              }
             }
           }
           break;
@@ -166,9 +170,12 @@ webhookRouter.post('/api/billing/webhook',
             const sub = await stripe.subscriptions.retrieve(invoice.subscription);
             const userId = sub.metadata.userId;
             if (userId) {
-              await User.findByIdAndUpdate(userId, {
+              const failedUser = await User.findByIdAndUpdate(userId, {
                 subscriptionStatus: 'past_due',
-              });
+              }, { new: true });
+              if (failedUser) {
+                sendPaymentFailedEmail(failedUser.email, failedUser.displayName).catch(() => {});
+              }
               logger.warn({ userId }, 'Subscription payment failed');
             }
           }
@@ -198,11 +205,14 @@ webhookRouter.post('/api/billing/webhook',
           const sub = event.data.object;
           const userId = sub.metadata.userId;
           if (userId) {
-            await User.findByIdAndUpdate(userId, {
+            const cancelledUser = await User.findByIdAndUpdate(userId, {
               subscriptionStatus: 'none',
               subscriptionId: null,
               currentPeriodEnd: null,
-            });
+            }, { new: true });
+            if (cancelledUser) {
+              sendSubscriptionCancelledEmail(cancelledUser.email, cancelledUser.displayName).catch(() => {});
+            }
             logger.info({ userId }, 'Subscription canceled');
           }
           break;
