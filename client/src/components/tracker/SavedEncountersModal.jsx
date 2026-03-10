@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useMemo } from 'react';
 import useCombatStore from '../../store/useCombatStore';
 import useUIStore from '../../store/useUIStore';
 import { loadNamedEncounters, deleteNamedEncounter } from '../../utils/encounterSaves';
@@ -9,11 +9,14 @@ export default function SavedEncountersModal() {
   const closeModal = useUIStore(s => s.closeModal);
   const activeModal = useUIStore(s => s.activeModal);
   const isOpen = activeModal === 'saved-encounters';
-  const [saves, setSaves] = useState([]);
+  const [deleteCount, setDeleteCount] = useState(0);
 
-  useEffect(() => {
-    if (isOpen) setSaves(loadNamedEncounters());
-  }, [isOpen]);
+  // Reload saves when modal opens or after a delete
+  const saves = useMemo(
+    () => isOpen ? loadNamedEncounters() : [],
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [isOpen, deleteCount]
+  );
 
   function handleLoad(id) {
     if (!window.confirm('Load this encounter? Unsaved changes will be lost.')) return;
@@ -26,7 +29,7 @@ export default function SavedEncountersModal() {
   function handleDelete(id) {
     if (!window.confirm('Delete this saved encounter?')) return;
     deleteNamedEncounter(id);
-    setSaves(loadNamedEncounters());
+    setDeleteCount(c => c + 1);
   }
 
   return (

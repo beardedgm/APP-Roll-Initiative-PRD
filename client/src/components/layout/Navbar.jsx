@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { useCurrentUser, useLogout } from '../../api/useAuth';
 
@@ -26,10 +26,7 @@ export default function Navbar() {
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
-  // Close menu on route change
-  useEffect(() => {
-    setMenuOpen(false);
-  }, [location]);
+  const closeMenu = useCallback(() => setMenuOpen(false), []);
 
   async function handleLogout() {
     await logout.mutateAsync();
@@ -56,6 +53,7 @@ export default function Navbar() {
         <li>
           <Link
             to="/"
+            onClick={closeMenu}
             className={`site-nav__link${location.pathname === '/' ? ' site-nav__link--active' : ''}`}
           >
             Home
@@ -64,6 +62,7 @@ export default function Navbar() {
         <li>
           <Link
             to="/features"
+            onClick={closeMenu}
             className={`site-nav__link${location.pathname === '/features' ? ' site-nav__link--active' : ''}`}
           >
             Features
@@ -74,16 +73,17 @@ export default function Navbar() {
             <li>
               <Link
                 to="/dashboard"
+                onClick={closeMenu}
                 className={`site-nav__link${location.pathname === '/dashboard' ? ' site-nav__link--active' : ''}`}
               >
                 Dashboard
               </Link>
             </li>
             <li>
-              <Link to="/tracker" className="site-nav__cta">Launch App</Link>
+              <Link to="/tracker" onClick={closeMenu} className="site-nav__cta">Launch App</Link>
             </li>
             <li>
-              <button onClick={handleLogout} className="site-nav__link site-nav__link--logout">
+              <button onClick={() => { closeMenu(); handleLogout(); }} className="site-nav__link site-nav__link--logout">
                 Log Out
               </button>
             </li>
@@ -93,13 +93,14 @@ export default function Navbar() {
             <li>
               <Link
                 to="/login"
+                onClick={closeMenu}
                 className={`site-nav__link${location.pathname === '/login' ? ' site-nav__link--active' : ''}`}
               >
                 Log In
               </Link>
             </li>
             <li>
-              <Link to="/tracker" className="site-nav__cta">Launch App</Link>
+              <Link to="/tracker" onClick={closeMenu} className="site-nav__cta">Launch App</Link>
             </li>
           </>
         )}

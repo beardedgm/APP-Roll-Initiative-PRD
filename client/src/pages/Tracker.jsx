@@ -1,6 +1,5 @@
 import { useEffect, useCallback, useRef } from 'react';
 import useCombatStore from '../store/useCombatStore';
-import useUIStore from '../store/useUIStore';
 import { useCurrentUser } from '../api/useAuth';
 import useCloudSync from '../hooks/useCloudSync';
 import TrackerHeader from '../components/tracker/TrackerHeader';
