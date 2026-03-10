@@ -199,6 +199,127 @@ body.marketing {
   50% { opacity: 1; transform: translate(-50%, -50%) scaleX(1); }
 }
 
+/* Floating dice motes — atmospheric particle field */
+.hero__particles {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.hero__mote {
+  position: absolute;
+  display: block;
+  animation:
+    mote-float 40s ease-in-out infinite,
+    mote-spin 60s linear infinite,
+    mote-pulse 10s ease-in-out infinite;
+}
+
+/* ── Shape: Diamond (d4/d8 evocation) ──────────────── */
+.hero__mote--diamond {
+  width: 50px;
+  height: 50px;
+  border: 1px solid rgba(201, 162, 103, 0.06);
+  transform: rotate(45deg);
+}
+
+/* ── Shape: Hexagon (d20 face evocation) ───────────── */
+.hero__mote--hex {
+  width: 56px;
+  height: 56px;
+  border: 1px solid rgba(201, 162, 103, 0.05);
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  background: transparent;
+  /* clip-path hides border, so use box-shadow for outline */
+  border: none;
+  box-shadow: inset 0 0 0 1px rgba(201, 162, 103, 0.06);
+}
+
+/* ── Shape: Dot (magical mote) ─────────────────────── */
+.hero__mote--dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: rgba(201, 162, 103, 0.12);
+  box-shadow: 0 0 8px rgba(201, 162, 103, 0.08);
+  animation:
+    mote-float 30s ease-in-out infinite,
+    mote-pulse 8s ease-in-out infinite;
+}
+
+/* ── Color variants ────────────────────────────────── */
+.hero__mote--blue.hero__mote--diamond {
+  border-color: rgba(52, 152, 219, 0.06);
+}
+.hero__mote--blue.hero__mote--hex {
+  box-shadow: inset 0 0 0 1px rgba(52, 152, 219, 0.05);
+}
+.hero__mote--blue.hero__mote--dot {
+  background: rgba(52, 152, 219, 0.12);
+  box-shadow: 0 0 8px rgba(52, 152, 219, 0.08);
+}
+
+.hero__mote--red.hero__mote--diamond {
+  border-color: rgba(229, 72, 77, 0.05);
+}
+.hero__mote--red.hero__mote--hex {
+  box-shadow: inset 0 0 0 1px rgba(229, 72, 77, 0.04);
+}
+.hero__mote--red.hero__mote--dot {
+  background: rgba(229, 72, 77, 0.10);
+  box-shadow: 0 0 8px rgba(229, 72, 77, 0.06);
+}
+
+.hero__mote--gold.hero__mote--dot {
+  background: rgba(201, 162, 103, 0.15);
+  box-shadow: 0 0 12px rgba(201, 162, 103, 0.10);
+}
+.hero__mote--gold.hero__mote--hex {
+  box-shadow: inset 0 0 0 1px rgba(201, 162, 103, 0.08);
+}
+
+/* ── Size variants ─────────────────────────────────── */
+.hero__mote--sm { transform: scale(0.6); }
+.hero__mote--sm.hero__mote--diamond { transform: rotate(45deg) scale(0.6); }
+
+.hero__mote--lg { transform: scale(1.4); }
+.hero__mote--lg.hero__mote--diamond { transform: rotate(45deg) scale(1.4); }
+
+/* ── Keyframes ─────────────────────────────────────── */
+@keyframes mote-float {
+  0%   { translate: 0  0; }
+  25%  { translate: 12px -20px; }
+  50%  { translate: -8px -35px; }
+  75%  { translate: 15px -15px; }
+  100% { translate: 0  0; }
+}
+
+@keyframes mote-spin {
+  from { rotate: 0deg; }
+  to   { rotate: 360deg; }
+}
+
+@keyframes mote-pulse {
+  0%, 100% { opacity: 0.4; }
+  50%      { opacity: 1; }
+}
+
+/* Desynchronize individual motes with nth-child durations */
+.hero__mote:nth-child(1)  { animation-duration: 45s, 70s, 12s; }
+.hero__mote:nth-child(2)  { animation-duration: 30s, 0s,  9s; }
+.hero__mote:nth-child(3)  { animation-duration: 55s, 80s, 14s; }
+.hero__mote:nth-child(4)  { animation-duration: 38s, 55s, 11s; }
+.hero__mote:nth-child(5)  { animation-duration: 28s, 0s,  7s; }
+.hero__mote:nth-child(6)  { animation-duration: 50s, 65s, 13s; }
+.hero__mote:nth-child(7)  { animation-duration: 42s, 90s, 10s; }
+.hero__mote:nth-child(8)  { animation-duration: 32s, 0s,  8s; }
+.hero__mote:nth-child(9)  { animation-duration: 48s, 75s, 15s; }
+.hero__mote:nth-child(10) { animation-duration: 35s, 50s, 9s; }
+.hero__mote:nth-child(11) { animation-duration: 26s, 0s,  11s; }
+.hero__mote:nth-child(12) { animation-duration: 52s, 85s, 12s; }
+
 .hero__content {
   position: relative;
   z-index: 1;
@@ -858,6 +979,10 @@ body.marketing {
   .hero::after {
     animation: none;
     opacity: 0;
+  }
+
+  .hero__particles {
+    display: none;
   }
 }
 
