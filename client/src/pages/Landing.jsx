@@ -13,6 +13,20 @@ export default function Landing() {
 
       {/* Hero */}
       <section className="hero">
+        <div className="hero__particles" aria-hidden="true">
+          <span className="hero__mote hero__mote--diamond" style={{ top: '15%', left: '7%', animationDelay: '-5s' }} />
+          <span className="hero__mote hero__mote--dot hero__mote--gold" style={{ top: '22%', left: '25%', animationDelay: '-12s' }} />
+          <span className="hero__mote hero__mote--hex hero__mote--lg" style={{ top: '18%', right: '10%', animationDelay: '-20s' }} />
+          <span className="hero__mote hero__mote--diamond hero__mote--blue hero__mote--sm" style={{ top: '55%', left: '5%', animationDelay: '-8s' }} />
+          <span className="hero__mote hero__mote--dot hero__mote--blue" style={{ top: '35%', left: '40%', animationDelay: '-30s' }} />
+          <span className="hero__mote hero__mote--hex hero__mote--sm" style={{ top: '70%', right: '20%', animationDelay: '-15s' }} />
+          <span className="hero__mote hero__mote--diamond hero__mote--lg" style={{ top: '45%', right: '6%', animationDelay: '-25s' }} />
+          <span className="hero__mote hero__mote--dot hero__mote--red" style={{ top: '75%', left: '30%', animationDelay: '-3s' }} />
+          <span className="hero__mote hero__mote--hex hero__mote--blue" style={{ top: '80%', left: '12%', animationDelay: '-18s' }} />
+          <span className="hero__mote hero__mote--diamond hero__mote--red hero__mote--sm" style={{ top: '30%', right: '30%', animationDelay: '-35s' }} />
+          <span className="hero__mote hero__mote--dot" style={{ top: '65%', right: '35%', animationDelay: '-22s' }} />
+          <span className="hero__mote hero__mote--hex hero__mote--lg hero__mote--gold" style={{ top: '50%', left: '50%', animationDelay: '-40s' }} />
+        </div>
         <div className="hero__content">
           <span className="hero__eyebrow reveal">D&amp;D 5e Combat Manager</span>
           <h1 className="hero__title reveal">
