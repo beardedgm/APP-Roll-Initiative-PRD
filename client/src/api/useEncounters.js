@@ -89,5 +89,6 @@ export function useSharedEncounter(code) {
     },
     enabled: !!code,
     refetchInterval: 2000, // Poll every 2 seconds
+    refetchIntervalInBackground: false,
   });
 }

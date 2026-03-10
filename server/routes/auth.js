@@ -86,6 +86,13 @@ router.post('/api/auth/login', rateLimitAuth, verifyTurnstile, validate(loginSch
       return res.status(401).json({ error: 'Invalid email or password' });
     }
 
+    if (!user.emailVerified) {
+      return res.status(403).json({
+        error: 'Please verify your email address before logging in. Check your inbox for the verification link.',
+        needsVerification: true
+      });
+    }
+
     // Clear login attempts on success
     const ip = req.ip || req.connection.remoteAddress;
     await LoginAttempt.deleteMany({ ip, email });

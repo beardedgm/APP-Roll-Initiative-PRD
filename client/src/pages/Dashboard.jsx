@@ -63,7 +63,11 @@ export default function Dashboard() {
   const handleShare = useCallback(async (id) => {
     const result = await shareEncounter.mutateAsync(id);
     const url = `${window.location.origin}/play/${result.shareCode}`;
-    await navigator.clipboard.writeText(url);
+    try {
+      await navigator.clipboard.writeText(url);
+    } catch {
+      // clipboard not available — silent fail
+    }
     setCopiedId(id);
     setTimeout(() => setCopiedId(null), 2000);
   }, [shareEncounter]);

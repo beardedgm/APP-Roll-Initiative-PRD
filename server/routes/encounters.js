@@ -8,6 +8,14 @@ import logger from '../config/logger.js';
 
 const router = Router();
 
+// Validate :id params as MongoDB ObjectId before hitting Mongoose
+router.param('id', (req, res, next, id) => {
+  if (!/^[a-f\d]{24}$/i.test(id)) {
+    return res.status(400).json({ error: 'Invalid encounter ID format' });
+  }
+  next();
+});
+
 // All encounter routes require auth + active subscription (admins bypass)
 router.use('/api/encounters', requireAuth, requireSubscription);
 
@@ -167,7 +175,39 @@ router.delete('/api/encounters/:id/share', async (req, res) => {
 // This route is mounted separately without auth middleware
 export const sharedEncounterRouter = Router();
 
-sharedEncounterRouter.get('/api/shared/:code', async (req, res) => {
+// In-memory rate limiter for shared endpoint (120 req / 15 min per IP)
+const sharedRateLimitMap = new Map();
+const SHARED_WINDOW_MS = 15 * 60 * 1000;
+const SHARED_MAX_REQUESTS = 120;
+
+function sharedRateLimit(req, res, next) {
+  const ip = req.ip || req.connection.remoteAddress;
+  const now = Date.now();
+  const entry = sharedRateLimitMap.get(ip);
+
+  // Clean stale entries periodically (every 100 requests)
+  if (sharedRateLimitMap.size > 1000) {
+    for (const [key, val] of sharedRateLimitMap) {
+      if (now - val.start > SHARED_WINDOW_MS) {
+        sharedRateLimitMap.delete(key);
+      }
+    }
+  }
+
+  if (!entry || now - entry.start > SHARED_WINDOW_MS) {
+    sharedRateLimitMap.set(ip, { count: 1, start: now });
+    return next();
+  }
+
+  entry.count += 1;
+  if (entry.count > SHARED_MAX_REQUESTS) {
+    return res.status(429).json({ error: 'Too many requests. Try again later.' });
+  }
+
+  next();
+}
+
+sharedEncounterRouter.get('/api/shared/:code', sharedRateLimit, async (req, res) => {
   try {
     const encounter = await Encounter.findOne({ shareCode: req.params.code })
       .select('name state currentRound activeCreatureId combatants updatedAt')

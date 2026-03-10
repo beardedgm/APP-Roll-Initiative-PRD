@@ -63,6 +63,13 @@ export function importEncounterJSON(file) {
         if (!Array.isArray(parsed.combatants)) {
           return reject(new Error('Invalid file: missing combatants array.'));
         }
+        const isValidCombatant = (c) =>
+          c && typeof c.name === 'string' && c.name.length > 0 &&
+          typeof c.id === 'string' &&
+          c.hp && typeof c.hp.current === 'number' && typeof c.hp.max === 'number';
+        if (!parsed.combatants.every(isValidCombatant)) {
+          return reject(new Error('Invalid combatant data in file'));
+        }
         resolve(parsed);
       } catch {
         reject(new Error('File is not valid JSON.'));
