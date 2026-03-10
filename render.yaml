@@ -1,0 +1,39 @@
+services:
+  - type: web
+    name: initiative-tracker
+    runtime: node
+    plan: starter
+    region: oregon
+    buildCommand: npm install && cd client && npm install && npm run build && cd ../server && npm install
+    startCommand: cd server && node app.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: APP_URL
+        sync: false
+      - key: APP_NAME
+        value: Initiative Tracker
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: MONGO_URI
+        sync: false
+      - key: STRIPE_SECRET_KEY
+        sync: false
+      - key: STRIPE_WEBHOOK_SECRET
+        sync: false
+      - key: STRIPE_PRICE_ID_MONTHLY
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false
+      - key: EMAIL_FROM
+        sync: false
+      - key: TURNSTILE_SECRET_KEY
+        sync: false
+      - key: SENTRY_DSN
+        sync: false
+      - key: VITE_POSTHOG_KEY
+        sync: false
+      - key: VITE_POSTHOG_HOST
+        sync: false

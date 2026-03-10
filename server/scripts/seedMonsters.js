@@ -1,0 +1,356 @@
+/**
+ * seedMonsters.js — Parse all .md stat blocks from Monsters/ and upsert into MongoDB.
+ *
+ * Supports 3 format families:
+ *   1. Standard (5.1 SRD, CC, ToB1/2/3, A5E): score+mod ability table | 21 (+5) |
+ *   2. SRD 5.2: 4-column ability table | STR | 21 | +5 | +5 |, explicit Initiative line
+ *   3. Black Flag: modifier-only ability table | +5 |, no alignment
+ *
+ * Usage: node scripts/seedMonsters.js
+ * Idempotent — uses bulkWrite with upsert on slug.
+ */
+
+import dotenv from 'dotenv';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import dns from 'dns';
+import fs from 'fs';
+import mongoose from 'mongoose';
+import Monster from '../models/Monster.js';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+dotenv.config({ path: path.join(__dirname, '..', '..', '.env') });
+dns.setServers(['8.8.8.8', '8.8.4.4']);
+
+// ── Source folder config ──────────────────────────────────────
+const MONSTERS_DIR = path.join(__dirname, '..', '..', 'Monsters');
+
+const SOURCE_MAP = {
+  '5.1_srd_(2015_mm)':       { key: '5.1_srd',   label: '5.1 SRD (2015 MM)', format: 'standard' },
+  '5.2_srd_(2025_mm)':       { key: '5.2_srd',   label: '5.2 SRD (2025 MM)', format: '5.2' },
+  'a5e_monstrous_menagerie': { key: 'a5e',        label: 'A5e Monstrous Menagerie', format: 'standard' },
+  'black_flag':              { key: 'black_flag', label: 'Black Flag', format: 'black_flag' },
+  'creature_codex':          { key: 'cc',         label: 'Creature Codex', format: 'standard' },
+  'tome_of_beasts_2':        { key: 'tob2',       label: 'Tome of Beasts 2', format: 'standard' },
+  'tome_of_beasts_2023':     { key: 'tob1',       label: 'Tome of Beasts 2023', format: 'standard' },
+  'tome_of_beasts_3':        { key: 'tob3',       label: 'Tome of Beasts 3', format: 'standard' },
+};
+
+// ── CR string → numeric ──────────────────────────────────────
+function parseCR(crStr) {
+  if (!crStr) return 0;
+  const s = crStr.trim();
+  if (s.includes('/')) {
+    const [num, den] = s.split('/').map(Number);
+    return den ? num / den : 0;
+  }
+  const n = parseFloat(s);
+  return isNaN(n) ? 0 : n;
+}
+
+// ── Slug from filename ───────────────────────────────────────
+function slugFromFilename(filename) {
+  return filename.replace(/\.md$/i, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+}
+
+// ── Parse standard format (5.1 SRD, CC, ToB, A5E) ───────────
+function parseStandard(md, sourceKey) {
+  const lines = md.split('\n');
+  const result = { abilities: {} };
+
+  // Name: first # heading
+  const nameMatch = md.match(/^#\s+(.+)$/m);
+  result.name = nameMatch ? nameMatch[1].trim() : 'Unknown';
+
+  // Size/Type/Alignment: *Size* *Type* *alignment* OR *Size* *Type*
+  const sizeTypeLine = lines.find(l => /^\*[A-Z]/.test(l) && !l.startsWith('**'));
+  if (sizeTypeLine) {
+    // Extract italic segments
+    const parts = sizeTypeLine.match(/\*([^*]+)\*/g);
+    if (parts) {
+      const cleaned = parts.map(p => p.replace(/\*/g, '').trim());
+      result.size = cleaned[0] || '';
+      result.type = cleaned[1] || '';
+      result.alignment = cleaned.slice(2).join(' ') || '';
+    }
+  }
+
+  // AC
+  const acMatch = md.match(/\*\*Armor Class:?\*\*\s*(\d+)\s*(.*)/i);
+  if (acMatch) {
+    result.ac = parseInt(acMatch[1]);
+    result.acDesc = acMatch[2] ? acMatch[2].replace(/^\(|\)$/g, '').trim() : '';
+  }
+
+  // HP
+  const hpMatch = md.match(/\*\*Hit Points:?\*\*\s*(\d+)\s*(?:\(([^)]+)\))?/i);
+  if (hpMatch) {
+    result.hp = parseInt(hpMatch[1]);
+    result.hpFormula = hpMatch[2] ? hpMatch[2].trim() : '';
+  }
+
+  // CR
+  const crMatch = md.match(/\*\*Challenge Rating:?\*\*\s*([\d/]+)/i);
+  if (crMatch) {
+    result.cr = crMatch[1];
+    result.crNumeric = parseCR(crMatch[1]);
+  }
+
+  // Ability scores: | 21 (+5) | 9 (-1) | ...
+  const abilityLine = lines.find(l => /\|\s*\d+\s*\([+-]\d+\)/.test(l));
+  if (abilityLine) {
+    const scores = abilityLine.match(/\d+\s*\([+-]?\d+\)/g);
+    const abilityNames = ['str', 'dex', 'con', 'int', 'wis', 'cha'];
+    if (scores) {
+      scores.forEach((s, i) => {
+        if (abilityNames[i]) {
+          result.abilities[abilityNames[i]] = parseInt(s);
+        }
+      });
+    }
+  }
+
+  // Init modifier: derive from DEX
+  result.initMod = result.abilities.dex
+    ? Math.floor((result.abilities.dex - 10) / 2)
+    : 0;
+
+  return result;
+}
+
+// ── Parse 5.2 SRD format ─────────────────────────────────────
+function parse52(md) {
+  const lines = md.split('\n');
+  const result = { abilities: {} };
+
+  // Name
+  const nameMatch = md.match(/^#\s+(.+)$/m);
+  result.name = nameMatch ? nameMatch[1].trim() : 'Unknown';
+
+  // Size/Type/Alignment: *Large Aberration, Lawful Evil*
+  const sizeTypeLine = lines.find(l => /^\*[A-Z]/.test(l) && !l.startsWith('**'));
+  if (sizeTypeLine) {
+    const inner = sizeTypeLine.replace(/^\*|\*$/g, '').trim();
+    // Split on comma — first part is "Size Type", rest is alignment
+    const commaIdx = inner.indexOf(',');
+    if (commaIdx !== -1) {
+      const sizeType = inner.slice(0, commaIdx).trim();
+      result.alignment = inner.slice(commaIdx + 1).trim();
+      const spaceIdx = sizeType.indexOf(' ');
+      result.size = sizeType.slice(0, spaceIdx).trim();
+      result.type = sizeType.slice(spaceIdx + 1).trim();
+    } else {
+      const spaceIdx = inner.indexOf(' ');
+      result.size = inner.slice(0, spaceIdx).trim();
+      result.type = inner.slice(spaceIdx + 1).trim();
+      result.alignment = '';
+    }
+  }
+
+  // AC
+  const acMatch = md.match(/\*\*Armor Class:?\*\*\s*(\d+)\s*(.*)/i);
+  if (acMatch) {
+    result.ac = parseInt(acMatch[1]);
+    result.acDesc = acMatch[2] ? acMatch[2].replace(/^\(|\)$/g, '').trim() : '';
+  }
+
+  // HP
+  const hpMatch = md.match(/\*\*Hit Points:?\*\*\s*(\d+)\s*(?:\(([^)]+)\))?/i);
+  if (hpMatch) {
+    result.hp = parseInt(hpMatch[1]);
+    result.hpFormula = hpMatch[2] ? hpMatch[2].trim() : '';
+  }
+
+  // CR: **CR** 10 (XP 5,900...)
+  const crMatch = md.match(/\*\*CR\*?\*?\s*([\d/]+)/i);
+  if (crMatch) {
+    result.cr = crMatch[1];
+    result.crNumeric = parseCR(crMatch[1]);
+  }
+
+  // Initiative: **Initiative**: +7 (17)
+  const initMatch = md.match(/\*\*Initiative\*\*:?\s*([+-]?\d+)/i);
+  if (initMatch) {
+    result.initMod = parseInt(initMatch[1]);
+  }
+
+  // Ability scores: 4-column table | STR | 21 | +5 | +5 |
+  const abilityNames = ['str', 'dex', 'con', 'int', 'wis', 'cha'];
+  for (const line of lines) {
+    const m = line.match(/\|\s*(STR|DEX|CON|INT|WIS|CHA)\s*\|\s*(\d+)\s*\|/i);
+    if (m) {
+      const ability = m[1].toLowerCase();
+      result.abilities[ability] = parseInt(m[2]);
+    }
+  }
+
+  // Fallback initMod from DEX if not explicitly set
+  if (result.initMod === undefined && result.abilities.dex) {
+    result.initMod = Math.floor((result.abilities.dex - 10) / 2);
+  }
+
+  return result;
+}
+
+// ── Parse Black Flag format ──────────────────────────────────
+function parseBlackFlag(md) {
+  const lines = md.split('\n');
+  const result = { abilities: {} };
+
+  // Name
+  const nameMatch = md.match(/^#\s+(.+)$/m);
+  result.name = nameMatch ? nameMatch[1].trim() : 'Unknown';
+
+  // Size/Type (no alignment): *Large* *Aberration*
+  const sizeTypeLine = lines.find(l => /^\*[A-Z]/.test(l) && !l.startsWith('**'));
+  if (sizeTypeLine) {
+    const parts = sizeTypeLine.match(/\*([^*]+)\*/g);
+    if (parts) {
+      const cleaned = parts.map(p => p.replace(/\*/g, '').trim());
+      result.size = cleaned[0] || '';
+      result.type = cleaned[1] || '';
+    }
+  }
+  result.alignment = '';
+
+  // AC
+  const acMatch = md.match(/\*\*Armor Class:?\*\*\s*(\d+)\s*(.*)/i);
+  if (acMatch) {
+    result.ac = parseInt(acMatch[1]);
+    result.acDesc = acMatch[2] ? acMatch[2].replace(/^\(|\)$/g, '').trim() : '';
+  }
+
+  // HP
+  const hpMatch = md.match(/\*\*Hit Points:?\*\*\s*(\d+)\s*(?:\(([^)]+)\))?/i);
+  if (hpMatch) {
+    result.hp = parseInt(hpMatch[1]);
+    result.hpFormula = hpMatch[2] ? hpMatch[2].trim() : '';
+  }
+
+  // CR
+  const crMatch = md.match(/\*\*Challenge Rating:?\*\*\s*([\d/]+)/i);
+  if (crMatch) {
+    result.cr = crMatch[1];
+    result.crNumeric = parseCR(crMatch[1]);
+  }
+
+  // Abilities: modifier-only table | +5 | -1 | +6 | +8 | +6 | +4 |
+  const headerLine = lines.findIndex(l => /\|\s*STR\s*\|/.test(l));
+  if (headerLine !== -1) {
+    // The modifier row is 2 lines after header (skip the separator)
+    const modLine = lines[headerLine + 2];
+    if (modLine) {
+      const mods = modLine.match(/[+-]?\d+/g);
+      const abilityNames = ['str', 'dex', 'con', 'int', 'wis', 'cha'];
+      if (mods) {
+        mods.forEach((m, i) => {
+          if (abilityNames[i]) {
+            // Convert modifier back to approximate score
+            const mod = parseInt(m);
+            result.abilities[abilityNames[i]] = 10 + mod * 2;
+          }
+        });
+      }
+    }
+  }
+
+  // Init modifier from DEX
+  const dexMod = result.abilities.dex ? Math.floor((result.abilities.dex - 10) / 2) : 0;
+  result.initMod = dexMod;
+
+  return result;
+}
+
+// ── Main seed function ───────────────────────────────────────
+async function seed() {
+  console.log('Connecting to MongoDB...');
+  await mongoose.connect(process.env.MONGO_URI);
+  console.log('Connected.\n');
+
+  const ops = [];
+  let totalFiles = 0;
+  let errors = 0;
+
+  for (const [folder, config] of Object.entries(SOURCE_MAP)) {
+    const folderPath = path.join(MONSTERS_DIR, folder);
+    if (!fs.existsSync(folderPath)) {
+      console.warn(`  Skipping missing folder: ${folder}`);
+      continue;
+    }
+
+    const files = fs.readdirSync(folderPath).filter(f => f.endsWith('.md'));
+    console.log(`  ${config.label}: ${files.length} files`);
+
+    for (const file of files) {
+      try {
+        const md = fs.readFileSync(path.join(folderPath, file), 'utf8');
+        const slug = `${config.key}--${slugFromFilename(file)}`;
+
+        let parsed;
+        if (config.format === '5.2') {
+          parsed = parse52(md);
+        } else if (config.format === 'black_flag') {
+          parsed = parseBlackFlag(md);
+        } else {
+          parsed = parseStandard(md, config.key);
+        }
+
+        ops.push({
+          updateOne: {
+            filter: { slug },
+            update: {
+              $set: {
+                name: parsed.name,
+                slug,
+                source: config.label,
+                sourceKey: config.key,
+                cr: parsed.cr || '',
+                crNumeric: parsed.crNumeric || 0,
+                hp: parsed.hp || 0,
+                hpFormula: parsed.hpFormula || '',
+                ac: parsed.ac || 10,
+                acDesc: parsed.acDesc || '',
+                initMod: parsed.initMod || 0,
+                size: parsed.size || '',
+                type: parsed.type || '',
+                alignment: parsed.alignment || '',
+                abilities: parsed.abilities || {},
+                rawMarkdown: md,
+              },
+            },
+            upsert: true,
+          },
+        });
+
+        totalFiles++;
+      } catch (err) {
+        console.error(`  ERROR parsing ${file}: ${err.message}`);
+        errors++;
+      }
+    }
+  }
+
+  console.log(`\nParsed ${totalFiles} monsters (${errors} errors).`);
+  console.log('Writing to MongoDB...');
+
+  // bulkWrite in batches of 500
+  const BATCH_SIZE = 500;
+  let written = 0;
+  for (let i = 0; i < ops.length; i += BATCH_SIZE) {
+    const batch = ops.slice(i, i + BATCH_SIZE);
+    const result = await Monster.bulkWrite(batch);
+    written += result.upsertedCount + result.modifiedCount;
+  }
+
+  console.log(`Done. ${written} documents upserted/modified.`);
+  console.log(`Total in DB: ${await Monster.countDocuments()}`);
+
+  await mongoose.connection.close();
+}
+
+seed().catch(err => {
+  console.error('Seed failed:', err);
+  process.exit(1);
+});

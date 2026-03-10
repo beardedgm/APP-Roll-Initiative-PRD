@@ -1,2 +1,38 @@
-# Claude Code session data
+# Claude Code
 .claude/
+
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Build output
+client/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+client/coverage/
+
+# Misc
+.cache/
