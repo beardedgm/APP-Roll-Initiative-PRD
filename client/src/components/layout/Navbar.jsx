@@ -1,10 +1,14 @@
 import { useState, useEffect } from 'react';
-import { Link, useLocation } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
+import { useCurrentUser, useLogout } from '../../api/useAuth';
 
 export default function Navbar() {
   const location = useLocation();
+  const navigate = useNavigate();
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const { data: user } = useCurrentUser();
+  const logout = useLogout();
 
   useEffect(() => {
     let ticking = false;
@@ -26,6 +30,11 @@ export default function Navbar() {
   useEffect(() => {
     setMenuOpen(false);
   }, [location]);
+
+  async function handleLogout() {
+    await logout.mutateAsync();
+    navigate('/');
+  }
 
   return (
     <nav className={`site-nav${scrolled ? ' site-nav--scrolled' : ''}`}>
@@ -60,9 +69,40 @@ export default function Navbar() {
             Features
           </Link>
         </li>
-        <li>
-          <Link to="/tracker" className="site-nav__cta">Launch App</Link>
-        </li>
+        {user ? (
+          <>
+            <li>
+              <Link
+                to="/dashboard"
+                className={`site-nav__link${location.pathname === '/dashboard' ? ' site-nav__link--active' : ''}`}
+              >
+                Dashboard
+              </Link>
+            </li>
+            <li>
+              <Link to="/tracker" className="site-nav__cta">Launch App</Link>
+            </li>
+            <li>
+              <button onClick={handleLogout} className="site-nav__link site-nav__link--logout">
+                Log Out
+              </button>
+            </li>
+          </>
+        ) : (
+          <>
+            <li>
+              <Link
+                to="/login"
+                className={`site-nav__link${location.pathname === '/login' ? ' site-nav__link--active' : ''}`}
+              >
+                Log In
+              </Link>
+            </li>
+            <li>
+              <Link to="/tracker" className="site-nav__cta">Launch App</Link>
+            </li>
+          </>
+        )}
       </ul>
     </nav>
   );

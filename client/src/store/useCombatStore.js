@@ -15,6 +15,8 @@ function getDefaultState() {
     activeCreatureId: null,
     combatants: [],
     diceHistory: [],
+    cloudId: null,     // MongoDB _id when saved to cloud
+    shareCode: null,   // share code for player view links
   };
 }
 
@@ -284,6 +286,14 @@ const useCombatStore = create(
         });
       },
 
+      setCloudId(cloudId) {
+        set({ cloudId });
+      },
+
+      setShareCode(shareCode) {
+        set({ shareCode });
+      },
+
       clearAll() {
         set({
           ...getDefaultState(),
@@ -337,6 +347,8 @@ const useCombatStore = create(
         activeCreatureId: state.activeCreatureId,
         combatants: state.combatants,
         diceHistory: state.diceHistory,
+        cloudId: state.cloudId,
+        shareCode: state.shareCode,
       }),
       merge: (persisted, current) => {
         if (!persisted) return current;
