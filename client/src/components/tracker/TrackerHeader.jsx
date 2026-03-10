@@ -1,5 +1,6 @@
 import { useRef, useState, useCallback } from 'react';
 import { Link } from 'react-router-dom';
+import { useShallow } from 'zustand/react/shallow';
 import useCombatStore from '../../store/useCombatStore';
 import { saveNamedEncounter } from '../../utils/encounterSaves';
 import { exportEncounterJSON, importEncounterJSON } from '../../utils/encounterSaves';
@@ -8,17 +9,22 @@ import { useCurrentUser } from '../../api/useAuth';
 import { useCreateEncounter, useShareEncounter, useUnshareEncounter } from '../../api/useEncounters';
 
 export default function TrackerHeader() {
-  const name = useCombatStore(s => s.name);
-  const undoStack = useCombatStore(s => s.undoStack);
-  const redoStack = useCombatStore(s => s.redoStack);
-  const cloudId = useCombatStore(s => s.cloudId);
-  const shareCode = useCombatStore(s => s.shareCode);
-  const undo = useCombatStore(s => s.undo);
-  const redo = useCombatStore(s => s.redo);
-  const renameEncounter = useCombatStore(s => s.renameEncounter);
-  const resetEncounter = useCombatStore(s => s.resetEncounter);
-  const setCloudId = useCombatStore(s => s.setCloudId);
-  const setShareCode = useCombatStore(s => s.setShareCode);
+  const {
+    name, undoStack, redoStack, cloudId, shareCode,
+    undo, redo, renameEncounter, resetEncounter, setCloudId, setShareCode,
+  } = useCombatStore(useShallow(s => ({
+    name: s.name,
+    undoStack: s.undoStack,
+    redoStack: s.redoStack,
+    cloudId: s.cloudId,
+    shareCode: s.shareCode,
+    undo: s.undo,
+    redo: s.redo,
+    renameEncounter: s.renameEncounter,
+    resetEncounter: s.resetEncounter,
+    setCloudId: s.setCloudId,
+    setShareCode: s.setShareCode,
+  })));
   const openModal = useUIStore(s => s.openModal);
   const importRef = useRef(null);
 

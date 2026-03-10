@@ -7,9 +7,11 @@ export default function TurnstileWidget({ onToken }) {
   const widgetIdRef = useRef(null);
   const [loaded, setLoaded] = useState(!!window.turnstile);
 
-  // Stable callback ref
+  // Stable callback ref — update in effect to satisfy react-hooks/refs
   const onTokenRef = useRef(onToken);
-  onTokenRef.current = onToken;
+  useEffect(() => {
+    onTokenRef.current = onToken;
+  });
 
   useEffect(() => {
     if (!SITE_KEY) {
@@ -24,9 +26,15 @@ export default function TurnstileWidget({ onToken }) {
       script.async = true;
       window.onTurnstileLoad = () => setLoaded(true);
       document.head.appendChild(script);
-    } else if (window.turnstile) {
-      setLoaded(true);
+    } else if (!window.turnstile) {
+      // Script tag exists but hasn't loaded yet — chain our callback
+      const prev = window.onTurnstileLoad;
+      window.onTurnstileLoad = () => {
+        if (prev) prev();
+        setLoaded(true);
+      };
     }
+    // If window.turnstile already exists, loaded was initialized to true via useState
   }, []);
 
   const handleToken = useCallback((token) => {

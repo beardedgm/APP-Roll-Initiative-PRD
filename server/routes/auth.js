@@ -44,9 +44,11 @@ router.post('/api/auth/register', rateLimitByIP('register', 5), verifyTurnstile,
   try {
     const { email, password, displayName } = req.validated;
 
+    // Always return the same response shape to prevent email enumeration
     const existing = await User.findOne({ email });
     if (existing) {
-      return res.status(409).json({ error: 'Unable to create account. Try logging in or use a different email.' });
+      logger.info({ email }, 'Registration attempted with existing email');
+      return res.json({ registered: true, message: 'Check your email to verify your account.' });
     }
 
     const { hashedPassword, salt } = await User.hashPassword(password);
@@ -59,14 +61,8 @@ router.post('/api/auth/register', rateLimitByIP('register', 5), verifyTurnstile,
     // Welcome email (fire-and-forget)
     sendWelcomeEmail(email, displayName).catch(() => {});
 
-    // Regenerate session to prevent fixation, then log them in
-    regenerateSession(req, user._id, (err) => {
-      if (err) {
-        return res.status(500).json({ error: 'Registration failed' });
-      }
-      logger.info({ userId: user._id, email }, 'User registered');
-      res.status(201).json({ user: user.toSafeJSON() });
-    });
+    logger.info({ userId: user._id, email }, 'User registered');
+    res.json({ registered: true, message: 'Check your email to verify your account.' });
   } catch (err) {
     logger.error({ err }, 'Registration failed');
     res.status(500).json({ error: 'Registration failed' });
@@ -145,7 +141,7 @@ router.get('/api/auth/me', async (req, res) => {
 /**
  * POST /api/auth/verify-email
  */
-router.post('/api/auth/verify-email', async (req, res) => {
+router.post('/api/auth/verify-email', rateLimitByIP('verify-email', 5), async (req, res) => {
   try {
     const { token } = req.body;
     if (!token) {
@@ -193,7 +189,7 @@ router.post('/api/auth/forgot-password', rateLimitByIP('forgot-password', 5), ve
 /**
  * POST /api/auth/reset-password
  */
-router.post('/api/auth/reset-password', validate(resetPasswordSchema), async (req, res) => {
+router.post('/api/auth/reset-password', rateLimitByIP('reset-password', 5), validate(resetPasswordSchema), async (req, res) => {
   try {
     const { token, password } = req.validated;
 
@@ -220,7 +216,7 @@ router.post('/api/auth/reset-password', validate(resetPasswordSchema), async (re
 /**
  * POST /api/auth/change-password (authenticated)
  */
-router.post('/api/auth/change-password', requireAuth, validate(changePasswordSchema), async (req, res) => {
+router.post('/api/auth/change-password', requireAuth, rateLimitByIP('change-password', 5), validate(changePasswordSchema), async (req, res) => {
   try {
     const { currentPassword, newPassword } = req.validated;
     const user = await User.findById(req.session.userId);
