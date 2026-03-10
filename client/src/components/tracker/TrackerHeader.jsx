@@ -10,12 +10,12 @@ import { useCreateEncounter, useShareEncounter, useUnshareEncounter } from '../.
 
 export default function TrackerHeader() {
   const {
-    name, undoStack, redoStack, cloudId, shareCode,
+    name, undoLen, redoLen, cloudId, shareCode,
     undo, redo, renameEncounter, resetEncounter, setCloudId, setShareCode,
   } = useCombatStore(useShallow(s => ({
     name: s.name,
-    undoStack: s.undoStack,
-    redoStack: s.redoStack,
+    undoLen: s.undoStack.length,
+    redoLen: s.redoStack.length,
     cloudId: s.cloudId,
     shareCode: s.shareCode,
     undo: s.undo,
@@ -102,23 +102,35 @@ export default function TrackerHeader() {
 
   const handleToggleShare = useCallback(async () => {
     if (!cloudId) return;
-    if (shareCode) {
-      await unshareEncounter.mutateAsync(cloudId);
-      setShareCode(null);
-    } else {
-      const result = await shareEncounter.mutateAsync(cloudId);
-      setShareCode(result.shareCode);
-      const url = `${window.location.origin}/play/${result.shareCode}`;
-      await navigator.clipboard.writeText(url);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
+    try {
+      if (shareCode) {
+        await unshareEncounter.mutateAsync(cloudId);
+        setShareCode(null);
+      } else {
+        const result = await shareEncounter.mutateAsync(cloudId);
+        setShareCode(result.shareCode);
+        const url = `${window.location.origin}/play/${result.shareCode}`;
+        try {
+          await navigator.clipboard.writeText(url);
+        } catch {
+          // clipboard not available — silent fail
+        }
+        setCopied(true);
+        setTimeout(() => setCopied(false), 2000);
+      }
+    } catch {
+      window.alert('Share toggle failed. Please try again.');
     }
   }, [cloudId, shareCode, shareEncounter, unshareEncounter, setShareCode]);
 
-  function handleOpenPlayerView() {
+  async function handleOpenPlayerView() {
     if (shareCode) {
       const url = `${window.location.origin}/play/${shareCode}`;
-      navigator.clipboard.writeText(url);
+      try {
+        await navigator.clipboard.writeText(url);
+      } catch {
+        // clipboard not available — silent fail
+      }
       window.open(`/play/${shareCode}`, 'playerView', 'width=1280,height=720,menubar=no,toolbar=no,location=no,status=no');
     } else {
       window.open('/play', 'playerView', 'width=1280,height=720,menubar=no,toolbar=no,location=no,status=no');
@@ -139,10 +151,10 @@ export default function TrackerHeader() {
       </div>
 
       <div className="dm-header__right">
-        <button className="btn btn--icon" disabled={undoStack.length === 0} onClick={undo} title="Undo (Ctrl+Z)">
+        <button className="btn btn--icon" disabled={undoLen === 0} onClick={undo} title="Undo (Ctrl+Z)">
           &#8617; Undo
         </button>
-        <button className="btn btn--icon" disabled={redoStack.length === 0} onClick={redo} title="Redo (Ctrl+Y)">
+        <button className="btn btn--icon" disabled={redoLen === 0} onClick={redo} title="Redo (Ctrl+Y)">
           &#8618; Redo
         </button>
 
