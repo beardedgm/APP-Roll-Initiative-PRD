@@ -14,14 +14,10 @@ export function useCurrentUser() {
 }
 
 export function useRegister() {
-  const qc = useQueryClient();
   return useMutation({
     mutationFn: async (body) => {
       const { data } = await axios.post('/auth/register', body);
-      return data.user;
-    },
-    onSuccess: (user) => {
-      qc.setQueryData(['auth', 'me'], user);
+      return data;
     },
   });
 }

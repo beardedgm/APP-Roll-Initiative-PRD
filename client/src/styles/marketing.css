@@ -221,7 +221,7 @@ body.marketing {
 .hero__mote--diamond {
   width: 50px;
   height: 50px;
-  border: 1px solid rgba(201, 162, 103, 0.06);
+  border: 1px solid rgba(201, 162, 103, 0.15);
   transform: rotate(45deg);
 }
 
@@ -229,21 +229,17 @@ body.marketing {
 .hero__mote--hex {
   width: 56px;
   height: 56px;
-  border: 1px solid rgba(201, 162, 103, 0.05);
   clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-  background: transparent;
-  /* clip-path hides border, so use box-shadow for outline */
-  border: none;
-  box-shadow: inset 0 0 0 1px rgba(201, 162, 103, 0.06);
+  background: rgba(201, 162, 103, 0.08);
 }
 
 /* ── Shape: Dot (magical mote) ─────────────────────── */
 .hero__mote--dot {
-  width: 5px;
-  height: 5px;
+  width: 8px;
+  height: 8px;
   border-radius: 50%;
-  background: rgba(201, 162, 103, 0.12);
-  box-shadow: 0 0 8px rgba(201, 162, 103, 0.08);
+  background: rgba(201, 162, 103, 0.2);
+  box-shadow: 0 0 12px rgba(201, 162, 103, 0.15);
   animation:
     mote-float 30s ease-in-out infinite,
     mote-pulse 8s ease-in-out infinite;
@@ -251,33 +247,33 @@ body.marketing {
 
 /* ── Color variants ────────────────────────────────── */
 .hero__mote--blue.hero__mote--diamond {
-  border-color: rgba(52, 152, 219, 0.06);
+  border-color: rgba(52, 152, 219, 0.15);
 }
 .hero__mote--blue.hero__mote--hex {
-  box-shadow: inset 0 0 0 1px rgba(52, 152, 219, 0.05);
+  background: rgba(52, 152, 219, 0.08);
 }
 .hero__mote--blue.hero__mote--dot {
-  background: rgba(52, 152, 219, 0.12);
-  box-shadow: 0 0 8px rgba(52, 152, 219, 0.08);
+  background: rgba(52, 152, 219, 0.2);
+  box-shadow: 0 0 12px rgba(52, 152, 219, 0.15);
 }
 
 .hero__mote--red.hero__mote--diamond {
-  border-color: rgba(229, 72, 77, 0.05);
+  border-color: rgba(229, 72, 77, 0.12);
 }
 .hero__mote--red.hero__mote--hex {
-  box-shadow: inset 0 0 0 1px rgba(229, 72, 77, 0.04);
+  background: rgba(229, 72, 77, 0.06);
 }
 .hero__mote--red.hero__mote--dot {
-  background: rgba(229, 72, 77, 0.10);
-  box-shadow: 0 0 8px rgba(229, 72, 77, 0.06);
+  background: rgba(229, 72, 77, 0.18);
+  box-shadow: 0 0 12px rgba(229, 72, 77, 0.12);
 }
 
 .hero__mote--gold.hero__mote--dot {
-  background: rgba(201, 162, 103, 0.15);
-  box-shadow: 0 0 12px rgba(201, 162, 103, 0.10);
+  background: rgba(201, 162, 103, 0.25);
+  box-shadow: 0 0 16px rgba(201, 162, 103, 0.18);
 }
 .hero__mote--gold.hero__mote--hex {
-  box-shadow: inset 0 0 0 1px rgba(201, 162, 103, 0.08);
+  background: rgba(201, 162, 103, 0.10);
 }
 
 /* ── Size variants ─────────────────────────────────── */
@@ -302,7 +298,7 @@ body.marketing {
 }
 
 @keyframes mote-pulse {
-  0%, 100% { opacity: 0.4; }
+  0%, 100% { opacity: 0.6; }
   50%      { opacity: 1; }
 }
 
@@ -1029,6 +1025,20 @@ body.marketing {
   font-size: 0.85rem;
   margin-bottom: var(--space-md);
   text-align: center;
+}
+
+.auth-card__success {
+  background: rgba(34, 197, 94, 0.12);
+  border: 1px solid rgba(34, 197, 94, 0.35);
+  color: #86efac;
+  padding: var(--space-md) var(--space-lg);
+  border-radius: var(--radius-sm);
+  font-size: 0.95rem;
+  margin-bottom: var(--space-md);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .auth-form {

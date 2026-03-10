@@ -128,13 +128,8 @@ Use this checklist when preparing any MERN monorepo for Render.
 - [ ] Verify `/api/health` endpoint exists for Render health checks
 - [ ] Ensure server binds to `process.env.PORT` (Render sets this automatically)
 
-## Known Issues (from code review)
+## Known Issues
 
-- Rate limiting only on `/api/auth/login`, not register/forgot-password
-- Session not invalidated on password change/reset
-- Email enumeration possible via register endpoint (409 response)
-- `requireSubscription` middleware missing try/catch
 - No React error boundaries
-- `console.error` used in `server/routes/monsters.js` instead of logger
-- TrackerHeader has 11 separate Zustand subscriptions (should use useShallow)
-- `diceHistory` validator uses `z.any()` instead of proper schema
+- No test infrastructure (unit/integration/e2e)
+- Data export/portability not yet available
