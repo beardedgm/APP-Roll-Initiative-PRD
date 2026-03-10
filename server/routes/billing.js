@@ -116,12 +116,17 @@ webhookRouter.post('/api/billing/webhook',
       );
     } catch (err) {
       logger.error({ err: err.message }, 'Webhook signature verification failed');
-      return res.status(400).send(`Webhook Error: ${err.message}`);
+      return res.status(400).send('Webhook signature verification failed');
     }
 
-    // Idempotency check
-    const existing = await ProcessedEvent.findOne({ eventId: event.id });
+    // Idempotency check (atomic upsert to prevent race conditions)
+    const existing = await ProcessedEvent.findOneAndUpdate(
+      { eventId: event.id },
+      { $setOnInsert: { eventId: event.id, processedAt: new Date() } },
+      { upsert: true, returnDocument: 'before' }
+    );
     if (existing) {
+      logger.info({ eventId: event.id }, 'Duplicate webhook event, skipping');
       return res.json({ received: true, duplicate: true });
     }
 
@@ -222,7 +227,6 @@ webhookRouter.post('/api/billing/webhook',
           logger.debug({ type: event.type }, 'Unhandled webhook event');
       }
 
-      await ProcessedEvent.create({ eventId: event.id });
       res.json({ received: true });
     } catch (err) {
       logger.error({ err, eventType: event.type }, 'Webhook handler error');

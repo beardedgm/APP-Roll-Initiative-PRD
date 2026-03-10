@@ -9,6 +9,7 @@ const __dirname = path.dirname(__filename);
 // Load .env from project root
 dotenv.config({ path: path.join(__dirname, '..', '.env') });
 
+import * as Sentry from '@sentry/node';
 import { initSentry } from './config/sentry.js';
 
 initSentry();
@@ -29,7 +30,20 @@ import billingRouter, { webhookRouter } from './routes/billing.js';
 import sitemapRouter from './routes/sitemap.js';
 import errorHandler from './middleware/errorHandler.js';
 
+// ── Process-level error handlers ─────────────────────────────
+process.on('unhandledRejection', (reason) => {
+  logger.error({ err: reason }, 'Unhandled promise rejection');
+  Sentry.captureException(reason);
+});
+
+process.on('uncaughtException', (err) => {
+  logger.error({ err }, 'Uncaught exception — shutting down');
+  Sentry.captureException(err);
+  Sentry.flush(2000).finally(() => process.exit(1));
+});
+
 const app = express();
+app.set('trust proxy', 1);
 const PORT = process.env.PORT || 5000;
 
 // ── Connect to MongoDB ─────────────────────────────────────
@@ -73,9 +87,6 @@ app.use(encountersRouter);
 app.use(billingRouter);
 app.use(sharedEncounterRouter); // public: no auth required
 
-// ── Error Handler (must be after all routes) ───────────────
-app.use(errorHandler);
-
 // ── Serve React build in production ────────────────────────
 if (process.env.NODE_ENV === 'production') {
   app.use(express.static(path.join(__dirname, '../client/dist')));
@@ -84,6 +95,9 @@ if (process.env.NODE_ENV === 'production') {
     res.sendFile(path.join(__dirname, '../client/dist/index.html'));
   });
 }
+
+// ── Error Handler (must be last middleware) ─────────────────
+app.use(errorHandler);
 
 // ── Start Server ───────────────────────────────────────────
 const server = app.listen(PORT, () => {

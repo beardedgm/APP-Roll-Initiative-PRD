@@ -41,7 +41,6 @@ export default async function verifyTurnstile(req, res, next) {
     next();
   } catch (err) {
     logger.error({ err }, 'Turnstile API call failed');
-    // Fail open — rate limiting still protects us
-    next();
+    res.status(503).json({ error: 'Verification service temporarily unavailable. Please try again.' });
   }
 }

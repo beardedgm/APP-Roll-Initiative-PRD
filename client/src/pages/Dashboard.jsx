@@ -43,6 +43,8 @@ export default function Dashboard() {
     const enc = data.encounter;
     loadSnapshot({
       id: enc._id,
+      cloudId: enc._id,
+      shareCode: enc.shareCode || null,
       name: enc.name,
       state: enc.state,
       currentRound: enc.currentRound,

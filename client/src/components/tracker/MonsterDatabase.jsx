@@ -253,9 +253,11 @@ function MonsterDetail({ monster, loading, onBack, onAdd, onRollDice }) {
     );
   }
 
-  const html = makeDiceClickable(
-    DOMPurify.sanitize(marked.parse(monster.rawMarkdown))
-  );
+  const htmlWithDice = makeDiceClickable(marked.parse(monster.rawMarkdown));
+  const html = DOMPurify.sanitize(htmlWithDice, {
+    ADD_ATTR: ['data-dice'],
+    ADD_TAGS: ['span'],
+  });
 
   return (
     <div className="monster-detail">
