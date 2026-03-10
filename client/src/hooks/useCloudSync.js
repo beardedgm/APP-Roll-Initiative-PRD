@@ -11,7 +11,7 @@ export default function useCloudSync(enabled) {
   const timerRef = useRef(null);
   const prevSnapshotRef = useRef(null);
 
-  const sync = useCallback(() => {
+  const sync = useCallback(async () => {
     const { cloudId, name, state, currentRound, activeCreatureId, combatants, diceHistory } = useCombatStore.getState();
     if (!cloudId) return;
 
@@ -19,17 +19,24 @@ export default function useCloudSync(enabled) {
 
     // Skip if nothing changed
     if (snapshot === prevSnapshotRef.current) return;
+    const previousSnapshot = prevSnapshotRef.current;
     prevSnapshotRef.current = snapshot;
 
-    updateEncounter.mutate({
-      id: cloudId,
-      name,
-      state,
-      currentRound,
-      activeCreatureId,
-      combatants,
-      diceHistory,
-    });
+    try {
+      await updateEncounter.mutateAsync({
+        id: cloudId,
+        name,
+        state,
+        currentRound,
+        activeCreatureId,
+        combatants,
+        diceHistory,
+      });
+    } catch (err) {
+      // Reset so the next sync attempt will retry
+      prevSnapshotRef.current = previousSnapshot;
+      console.error('[useCloudSync] Failed to sync encounter:', err);
+    }
   }, [updateEncounter]);
 
   useEffect(() => {
