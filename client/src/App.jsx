@@ -4,7 +4,17 @@ import Landing from './pages/Landing';
 import Features from './pages/Features';
 import Tracker from './pages/Tracker';
 import PlayerView from './pages/PlayerView';
+import SharedPlayerView from './pages/SharedPlayerView';
+import Dashboard from './pages/Dashboard';
+import Login from './pages/Login';
+import Register from './pages/Register';
+import ForgotPassword from './pages/ForgotPassword';
+import ResetPassword from './pages/ResetPassword';
+import VerifyEmail from './pages/VerifyEmail';
+import Pricing from './pages/Pricing';
+import Settings from './pages/Settings';
 import NotFound from './pages/NotFound';
+import ProtectedRoute from './components/layout/ProtectedRoute';
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -24,6 +34,15 @@ export default function App() {
           <Route path="/features" element={<Features />} />
           <Route path="/tracker" element={<Tracker />} />
           <Route path="/play" element={<PlayerView />} />
+          <Route path="/play/:code" element={<SharedPlayerView />} />
+          <Route path="/dashboard" element={<ProtectedRoute><Dashboard /></ProtectedRoute>} />
+          <Route path="/pricing" element={<Pricing />} />
+          <Route path="/settings" element={<ProtectedRoute><Settings /></ProtectedRoute>} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/register" element={<Register />} />
+          <Route path="/forgot-password" element={<ForgotPassword />} />
+          <Route path="/reset-password" element={<ResetPassword />} />
+          <Route path="/verify-email" element={<VerifyEmail />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

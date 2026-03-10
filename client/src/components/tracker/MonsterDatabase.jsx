@@ -50,8 +50,8 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
     return () => clearTimeout(timerRef.current);
   }, [query]);
 
-  // Reset page when filters change
-  useEffect(() => { setPage(0); }, [sourceFilter, crFilter]);
+  function handleSourceFilter(val) { setSourceFilter(val); setPage(0); }
+  function handleCrFilter(val) { setCrFilter(val); setPage(0); }
 
   const { data, isLoading } = useMonsterBrowse({
     q: debouncedQuery,
@@ -110,7 +110,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
           <select
             className="monster-db__select"
             value={sourceFilter}
-            onChange={e => setSourceFilter(e.target.value)}
+            onChange={e => handleSourceFilter(e.target.value)}
           >
             <option value="">All Sources</option>
             {sources.map(s => (
@@ -122,7 +122,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
           <select
             className="monster-db__select"
             value={crFilter}
-            onChange={e => setCrFilter(e.target.value)}
+            onChange={e => handleCrFilter(e.target.value)}
           >
             <option value="">All CRs</option>
             {CR_OPTIONS.map(cr => (

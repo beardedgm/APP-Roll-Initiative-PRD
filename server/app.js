@@ -16,8 +16,13 @@ import helmet from 'helmet';
 import { connectDB } from './config/db.js';
 import configureSession from './config/session.js';
 import logger from './config/logger.js';
+import requestLogger from './middleware/requestLogger.js';
 import healthRouter from './routes/health.js';
 import monstersRouter from './routes/monsters.js';
+import authRouter from './routes/auth.js';
+import encountersRouter, { sharedEncounterRouter } from './routes/encounters.js';
+import billingRouter, { webhookRouter } from './routes/billing.js';
+import sitemapRouter from './routes/sitemap.js';
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -37,6 +42,12 @@ app.use(cors({
   credentials: true,
 }));
 
+// Request logging
+app.use(requestLogger);
+
+// Stripe webhook needs raw body — mount BEFORE express.json()
+app.use(webhookRouter);
+
 app.use(express.json());
 
 // Only set up session store if DB is connected
@@ -46,9 +57,16 @@ if (dbConnected) {
   logger.warn('Sessions disabled — no database connection');
 }
 
+// ── SEO Routes ──────────────────────────────────────────────
+app.use(sitemapRouter);
+
 // ── API Routes ─────────────────────────────────────────────
 app.use(healthRouter);
+app.use(authRouter);
 app.use(monstersRouter);
+app.use(encountersRouter);
+app.use(billingRouter);
+app.use(sharedEncounterRouter); // public: no auth required
 
 // ── Serve React build in production ────────────────────────
 if (process.env.NODE_ENV === 'production') {

@@ -1,6 +1,7 @@
 import { useEffect, useCallback, useRef } from 'react';
 import useCombatStore from '../store/useCombatStore';
-import useUIStore from '../store/useUIStore';
+import { useCurrentUser } from '../api/useAuth';
+import useCloudSync from '../hooks/useCloudSync';
 import TrackerHeader from '../components/tracker/TrackerHeader';
 import CombatantForm from '../components/tracker/CombatantForm';
 import TurnControls from '../components/tracker/TurnControls';
@@ -18,6 +19,11 @@ export default function Tracker() {
   const redo = useCombatStore(s => s.redo);
   const addCombatant = useCombatStore(s => s.addCombatant);
   const rollDice = useCombatStore(s => s.rollDice);
+
+  // Cloud sync: auto-syncs state to server when encounter has a cloudId
+  const { data: user } = useCurrentUser();
+  const isPremium = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
+  useCloudSync(!!isPremium);
 
   useEffect(() => {
     function handleKeyDown(e) {
