@@ -7,9 +7,11 @@ export default function TurnstileWidget({ onToken }) {
   const widgetIdRef = useRef(null);
   const [loaded, setLoaded] = useState(!!window.turnstile);
 
-  // Stable callback ref
+  // Stable callback ref — update in effect to satisfy react-hooks/refs
   const onTokenRef = useRef(onToken);
-  onTokenRef.current = onToken;
+  useEffect(() => {
+    onTokenRef.current = onToken;
+  });
 
   useEffect(() => {
     if (!SITE_KEY) {
