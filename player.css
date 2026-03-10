@@ -14,10 +14,10 @@ html, body {
   flex-direction: column;
   height: 100vh;
   background: var(--color-bg-dark);
-  /* Subtle ornamental border on larger screens */
+  /* Subtle atmospheric glow */
   background-image:
-    radial-gradient(ellipse at top,    rgba(201, 168, 76, 0.04) 0%, transparent 60%),
-    radial-gradient(ellipse at bottom, rgba(201, 168, 76, 0.02) 0%, transparent 60%);
+    radial-gradient(ellipse at top,    rgba(201, 162, 103, 0.03) 0%, transparent 60%),
+    radial-gradient(ellipse at bottom, rgba(80, 100, 180, 0.02) 0%, transparent 60%);
 }
 
 /* ── Header ──────────────────────────────────────────────────── */
@@ -38,7 +38,7 @@ html, body {
   color: var(--color-accent-gold);
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  text-shadow: 0 0 20px rgba(201, 168, 76, 0.3);
+  text-shadow: 0 0 20px rgba(201, 162, 103, 0.3);
 }
 
 .player-header__round {
@@ -125,23 +125,23 @@ html, body {
   border-color: var(--color-accent-gold);
   border-left-color: var(--color-accent-gold);
   box-shadow:
-    0 0 30px rgba(201, 168, 76, 0.5),
-    0 0 60px rgba(201, 168, 76, 0.2),
-    0 0 4px rgba(201, 168, 76, 0.8);
+    0 0 30px rgba(201, 162, 103, 0.5),
+    0 0 60px rgba(201, 162, 103, 0.2),
+    0 0 4px rgba(201, 162, 103, 0.8);
   animation: glow-pulse 2s ease-in-out infinite;
 }
 
 @keyframes glow-pulse {
   0%, 100% {
     box-shadow:
-      0 0 30px rgba(201, 168, 76, 0.5),
-      0 0 60px rgba(201, 168, 76, 0.2);
+      0 0 30px rgba(201, 162, 103, 0.5),
+      0 0 60px rgba(201, 162, 103, 0.2);
   }
   50% {
     box-shadow:
-      0 0 40px rgba(201, 168, 76, 0.7),
-      0 0 80px rgba(201, 168, 76, 0.35),
-      0 0 6px rgba(201, 168, 76, 0.9);
+      0 0 40px rgba(201, 162, 103, 0.7),
+      0 0 80px rgba(201, 162, 103, 0.35),
+      0 0 6px rgba(201, 162, 103, 0.9);
   }
 }
 
@@ -247,21 +247,21 @@ html, body {
 }
 
 .status-badge--hurt {
-  background: rgba(212, 160, 23, 0.15);
-  color: #e0b830;
-  border: 2px solid rgba(212, 160, 23, 0.45);
+  background: rgba(245, 166, 35, 0.12);
+  color: #f5a623;
+  border: 2px solid rgba(245, 166, 35, 0.35);
 }
 
 .status-badge--bloody {
-  background: rgba(155, 34, 38, 0.2);
-  color: #e55555;
-  border: 2px solid rgba(155, 34, 38, 0.5);
+  background: rgba(229, 72, 77, 0.12);
+  color: #e5484d;
+  border: 2px solid rgba(229, 72, 77, 0.3);
 }
 
 .status-badge--unconscious {
-  background: rgba(100, 100, 100, 0.12);
+  background: rgba(131, 132, 149, 0.12);
   color: var(--color-text-muted);
-  border: 2px solid rgba(100, 100, 100, 0.28);
+  border: 2px solid rgba(131, 132, 149, 0.25);
 }
 
 /* Unconscious creature name gets a strikethrough */

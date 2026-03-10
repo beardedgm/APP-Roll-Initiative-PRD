@@ -3,47 +3,53 @@
    Imported by both dm.css and player.css
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Inter:wght@400;500;600;700&display=swap');
 
 /* ── CSS Custom Properties ─────────────────────────────────── */
 :root {
   /* Backgrounds */
-  --color-bg-dark:       #1a1410;
-  --color-bg-mid:        #2c2418;
-  --color-bg-card:       #3a2f20;
-  --color-bg-card-hover: #42352a;
-  --color-bg-input:      #221c12;
+  --color-bg-dark:       #0c0d12;
+  --color-bg-mid:        #12131a;
+  --color-bg-card:       #1a1b24;
+  --color-bg-card-hover: #22232e;
+  --color-bg-input:      #161720;
 
   /* Accents */
-  --color-accent-gold:   #c9a84c;
-  --color-accent-gold-dim: #8a7030;
-  --color-accent-red:    #9b2226;
-  --color-accent-blue:   #2d6a8f;
-  --color-accent-green:  #3a7d44;
+  --color-accent-gold:       #c9a267;
+  --color-accent-gold-hover: #dbb57e;
+  --color-accent-gold-dim:   rgba(201, 162, 103, 0.25);
+  --color-accent-gold-muted: rgba(201, 162, 103, 0.12);
+  --color-accent-red:        #e5484d;
+  --color-accent-red-hover:  #f06b6f;
+  --color-accent-blue:       #3498db;
+  --color-accent-green:      #30a46c;
+  --color-accent-green-hover:#3dbf70;
 
   /* Text */
-  --color-text-primary:  #f0e6d0;
-  --color-text-muted:    #8c7a5e;
-  --color-text-dark:     #1a1410;
+  --color-text-primary:   #e8e8ec;
+  --color-text-secondary: #8e8fa1;
+  --color-text-tertiary:  #8b8c9e;
+  --color-text-muted:     #838495;
+  --color-text-dark:      #0c0d12;
 
   /* Borders */
-  --color-border:        #5c4a2a;
-  --color-border-light:  #7a6040;
+  --color-border:        #1f2029;
+  --color-border-light:  #2e2f3d;
 
   /* HP Bar Colors */
-  --color-hp-high:       #3a7d44;
-  --color-hp-mid:        #d4a017;
-  --color-hp-low:        #9b2226;
-  --color-hp-dead:       #4a1515;
+  --color-hp-high:       #30a46c;
+  --color-hp-mid:        #f5a623;
+  --color-hp-low:        #e5484d;
+  --color-hp-dead:       rgba(229, 72, 77, 0.15);
 
   /* Type Colors */
-  --color-player:   #2d6a8f;
-  --color-monster:  #9b2226;
-  --color-npc:      #3a7d44;
+  --color-player:   #3498db;
+  --color-monster:  #e5484d;
+  --color-npc:      #30a46c;
 
   /* Typography */
   --font-heading:   'Cinzel', Georgia, 'Times New Roman', serif;
-  --font-body:      'Crimson Text', Georgia, 'Times New Roman', serif;
+  --font-body:      'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 
   /* Spacing */
   --space-xs:  4px;
@@ -53,12 +59,19 @@
   --space-xl:  32px;
 
   /* Border radius */
-  --radius-sm: 4px;
+  --radius-sm: 6px;
   --radius-md: 8px;
   --radius-lg: 12px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.5);
 
   /* Transitions */
-  --transition: 0.2s ease;
+  --transition-fast: 150ms ease;
+  --transition: 200ms ease;
 }
 
 /* ── Base Reset ─────────────────────────────────────────────── */
@@ -74,7 +87,9 @@ html, body {
   font-size: 16px;
   background-color: var(--color-bg-dark);
   color: var(--color-text-primary);
-  line-height: 1.5;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3, h4 {
@@ -89,7 +104,7 @@ button {
   cursor: pointer;
   border: none;
   border-radius: var(--radius-sm);
-  transition: background-color var(--transition), transform var(--transition), box-shadow var(--transition);
+  transition: background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
 }
 
 button:active {
@@ -98,18 +113,19 @@ button:active {
 
 input, select {
   font-family: var(--font-body);
-  font-size: 1rem;
+  font-size: 0.875rem;
   background-color: var(--color-bg-input);
   color: var(--color-text-primary);
   border: 1px solid var(--color-border);
-  border-radius: var(--radius-sm);
+  border-radius: var(--radius-md);
   padding: var(--space-sm) var(--space-sm);
   outline: none;
-  transition: border-color var(--transition);
+  transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
 }
 
 input:focus, select:focus {
   border-color: var(--color-accent-gold);
+  box-shadow: 0 0 0 2px var(--color-accent-gold-muted);
 }
 
 input::placeholder {
@@ -119,6 +135,25 @@ input::placeholder {
 /* Select option color fix */
 select option {
   background-color: var(--color-bg-mid);
+}
+
+/* Focus-visible for keyboard navigation */
+:focus-visible {
+  outline: none;
+  border-color: var(--color-accent-gold);
+  box-shadow: 0 0 0 2px var(--color-accent-gold-muted);
+}
+
+button:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--color-accent-gold-muted);
+}
+
+/* Disabled state */
+[disabled], .disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  pointer-events: none;
 }
 
 /* Scrollbar styling */
@@ -132,18 +167,18 @@ select option {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--color-accent-gold-dim);
+  background: var(--color-border-light);
   border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--color-accent-gold);
+  background: var(--color-accent-gold-dim);
 }
 
 /* Firefox */
 * {
   scrollbar-width: thin;
-  scrollbar-color: var(--color-accent-gold-dim) var(--color-bg-mid);
+  scrollbar-color: var(--color-border-light) var(--color-bg-mid);
 }
 
 /* ── Utility Classes ────────────────────────────────────────── */
@@ -163,19 +198,28 @@ select option {
 .type-badge {
   display: inline-block;
   font-family: var(--font-heading);
-  font-size: 0.65rem;
+  font-size: 0.6875rem;
   font-weight: 700;
   letter-spacing: 0.05em;
-  padding: 2px 7px;
-  border-radius: 3px;
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
   text-transform: uppercase;
 }
 
-.type-badge.player  { background: var(--color-player);  color: #c8e6f5; }
-.type-badge.monster { background: var(--color-monster); color: #f5c8c8; }
-.type-badge.npc     { background: var(--color-npc);     color: #c8f0d0; }
+.type-badge.player  { background: rgba(52, 152, 219, 0.15); color: #5dade2; border: 1px solid rgba(52, 152, 219, 0.3); }
+.type-badge.monster { background: rgba(229, 72, 77, 0.15);  color: #f1948a; border: 1px solid rgba(229, 72, 77, 0.3); }
+.type-badge.npc     { background: rgba(48, 164, 108, 0.15); color: #6dd4a0; border: 1px solid rgba(48, 164, 108, 0.3); }
 
 /* Type left-border accent used on cards */
 .type-border-player  { border-left: 4px solid var(--color-player); }
 .type-border-monster { border-left: 4px solid var(--color-monster); }
 .type-border-npc     { border-left: 4px solid var(--color-npc); }
+
+/* ── Reduced Motion ────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
