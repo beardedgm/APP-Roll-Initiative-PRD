@@ -45,7 +45,7 @@ export default function TrackerHeader() {
     if (!trimmed) return;
 
     store.renameEncounter(trimmed);
-    const { id, name: n, state, currentRound, activeCreatureId, combatants, diceHistory } = useCombatStore.getState();
+    const { id, state, currentRound, activeCreatureId, combatants, diceHistory } = useCombatStore.getState();
     saveNamedEncounter({
       id,
       name: trimmed,
