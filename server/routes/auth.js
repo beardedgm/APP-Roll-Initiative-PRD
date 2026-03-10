@@ -5,22 +5,48 @@ import LoginAttempt from '../models/LoginAttempt.js';
 import validate from '../middleware/validate.js';
 import requireAuth from '../middleware/requireAuth.js';
 import rateLimitAuth from '../middleware/rateLimitAuth.js';
-import { registerSchema, loginSchema, forgotPasswordSchema, resetPasswordSchema, changePasswordSchema } from '../validators/auth.js';
-import { sendVerificationEmail, sendPasswordResetEmail } from '../services/emailService.js';
+import { rateLimitByIP } from '../middleware/rateLimitGeneral.js';
+import { destroyOtherSessions, destroyAllSessions } from '../utils/sessionUtils.js';
+import verifyTurnstile from '../middleware/verifyTurnstile.js';
+import { registerSchema, loginSchema, forgotPasswordSchema, resetPasswordSchema, changePasswordSchema, updateProfileSchema, deleteAccountSchema } from '../validators/auth.js';
+import { sendVerificationEmail, sendPasswordResetEmail, sendWelcomeEmail } from '../services/emailService.js';
+import Encounter from '../models/Encounter.js';
+import stripe from '../config/stripe.js';
 import logger from '../config/logger.js';
 
 const router = Router();
 
 /**
+ * Regenerate session and set userId, then call the callback.
+ * Prevents session fixation by creating a new session ID after authentication.
+ */
+function regenerateSession(req, userId, callback) {
+  req.session.regenerate((err) => {
+    if (err) {
+      logger.error({ err }, 'Session regeneration failed');
+      return callback(err);
+    }
+    req.session.userId = userId;
+    req.session.save((err) => {
+      if (err) {
+        logger.error({ err }, 'Session save failed');
+        return callback(err);
+      }
+      callback(null);
+    });
+  });
+}
+
+/**
  * POST /api/auth/register
  */
-router.post('/api/auth/register', validate(registerSchema), async (req, res) => {
+router.post('/api/auth/register', rateLimitByIP('register', 5), verifyTurnstile, validate(registerSchema), async (req, res) => {
   try {
     const { email, password, displayName } = req.validated;
 
     const existing = await User.findOne({ email });
     if (existing) {
-      return res.status(409).json({ error: 'An account with this email already exists' });
+      return res.status(409).json({ error: 'Unable to create account. Try logging in or use a different email.' });
     }
 
     const { hashedPassword, salt } = await User.hashPassword(password);
@@ -30,11 +56,17 @@ router.post('/api/auth/register', validate(registerSchema), async (req, res) => 
     const emailToken = await EmailToken.generate(user._id, 'verify-email', 60);
     await sendVerificationEmail(email, displayName, emailToken.token);
 
-    // Log them in immediately
-    req.session.userId = user._id;
+    // Welcome email (fire-and-forget)
+    sendWelcomeEmail(email, displayName).catch(() => {});
 
-    logger.info({ userId: user._id, email }, 'User registered');
-    res.status(201).json({ user: user.toSafeJSON() });
+    // Regenerate session to prevent fixation, then log them in
+    regenerateSession(req, user._id, (err) => {
+      if (err) {
+        return res.status(500).json({ error: 'Registration failed' });
+      }
+      logger.info({ userId: user._id, email }, 'User registered');
+      res.status(201).json({ user: user.toSafeJSON() });
+    });
   } catch (err) {
     logger.error({ err }, 'Registration failed');
     res.status(500).json({ error: 'Registration failed' });
@@ -44,7 +76,7 @@ router.post('/api/auth/register', validate(registerSchema), async (req, res) => 
 /**
  * POST /api/auth/login
  */
-router.post('/api/auth/login', rateLimitAuth, validate(loginSchema), async (req, res) => {
+router.post('/api/auth/login', rateLimitAuth, verifyTurnstile, validate(loginSchema), async (req, res) => {
   try {
     const { email, password } = req.validated;
 
@@ -62,10 +94,14 @@ router.post('/api/auth/login', rateLimitAuth, validate(loginSchema), async (req,
     const ip = req.ip || req.connection.remoteAddress;
     await LoginAttempt.deleteMany({ ip, email });
 
-    req.session.userId = user._id;
-
-    logger.info({ userId: user._id, email }, 'User logged in');
-    res.json({ user: user.toSafeJSON() });
+    // Regenerate session to prevent fixation
+    regenerateSession(req, user._id, (err) => {
+      if (err) {
+        return res.status(500).json({ error: 'Login failed' });
+      }
+      logger.info({ userId: user._id, email }, 'User logged in');
+      res.json({ user: user.toSafeJSON() });
+    });
   } catch (err) {
     logger.error({ err }, 'Login failed');
     res.status(500).json({ error: 'Login failed' });
@@ -135,7 +171,7 @@ router.post('/api/auth/verify-email', async (req, res) => {
 /**
  * POST /api/auth/forgot-password
  */
-router.post('/api/auth/forgot-password', validate(forgotPasswordSchema), async (req, res) => {
+router.post('/api/auth/forgot-password', rateLimitByIP('forgot-password', 5), verifyTurnstile, validate(forgotPasswordSchema), async (req, res) => {
   try {
     const { email } = req.validated;
 
@@ -170,6 +206,9 @@ router.post('/api/auth/reset-password', validate(resetPasswordSchema), async (re
     await User.findByIdAndUpdate(emailToken.userId, { hashedPassword, salt });
     await EmailToken.deleteOne({ _id: emailToken._id });
 
+    // Invalidate all sessions — force re-login everywhere
+    await destroyAllSessions(emailToken.userId);
+
     logger.info({ userId: emailToken.userId }, 'Password reset');
     res.json({ success: true });
   } catch (err) {
@@ -199,11 +238,82 @@ router.post('/api/auth/change-password', requireAuth, validate(changePasswordSch
     user.salt = salt;
     await user.save();
 
+    // Invalidate all other sessions — keep the current one
+    await destroyOtherSessions(user._id, req.sessionID);
+
     logger.info({ userId: user._id }, 'Password changed');
     res.json({ success: true });
   } catch (err) {
     logger.error({ err }, 'Change password failed');
     res.status(500).json({ error: 'Change password failed' });
+  }
+});
+
+/**
+ * PATCH /api/auth/profile (authenticated)
+ */
+router.patch('/api/auth/profile', requireAuth, validate(updateProfileSchema), async (req, res) => {
+  try {
+    const { displayName } = req.validated;
+    const user = await User.findByIdAndUpdate(
+      req.session.userId,
+      { displayName },
+      { new: true },
+    );
+    if (!user) {
+      return res.status(404).json({ error: 'User not found' });
+    }
+    logger.info({ userId: user._id }, 'Profile updated');
+    res.json({ user: user.toSafeJSON() });
+  } catch (err) {
+    logger.error({ err }, 'Profile update failed');
+    res.status(500).json({ error: 'Profile update failed' });
+  }
+});
+
+/**
+ * DELETE /api/auth/account (authenticated)
+ */
+router.delete('/api/auth/account', requireAuth, validate(deleteAccountSchema), async (req, res) => {
+  try {
+    const { password } = req.validated;
+    const user = await User.findById(req.session.userId);
+    if (!user) {
+      return res.status(404).json({ error: 'User not found' });
+    }
+
+    const valid = await user.verifyPassword(password);
+    if (!valid) {
+      return res.status(401).json({ error: 'Password is incorrect' });
+    }
+
+    // Cancel Stripe subscription if active
+    if (stripe && user.subscriptionId) {
+      try {
+        await stripe.subscriptions.cancel(user.subscriptionId);
+      } catch (stripeErr) {
+        logger.warn({ err: stripeErr, userId: user._id }, 'Failed to cancel Stripe subscription during account deletion');
+      }
+    }
+
+    // Clean up user data
+    await Promise.all([
+      Encounter.deleteMany({ userId: user._id }),
+      EmailToken.deleteMany({ userId: user._id }),
+      destroyAllSessions(user._id),
+    ]);
+
+    await User.deleteOne({ _id: user._id });
+
+    // Destroy current session
+    req.session.destroy(() => {
+      res.clearCookie('connect.sid');
+      logger.info({ userId: user._id }, 'Account deleted');
+      res.json({ success: true });
+    });
+  } catch (err) {
+    logger.error({ err }, 'Account deletion failed');
+    res.status(500).json({ error: 'Account deletion failed' });
   }
 });
 

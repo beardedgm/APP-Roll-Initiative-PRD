@@ -3,6 +3,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { useLogin } from '../api/useAuth';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import TurnstileWidget from '../components/ui/TurnstileWidget';
 import '../styles/marketing.css';
 
 export default function Login() {
@@ -10,6 +11,7 @@ export default function Login() {
   const login = useLogin();
   const [form, setForm] = useState({ email: '', password: '' });
   const [error, setError] = useState('');
+  const [turnstileToken, setTurnstileToken] = useState(null);
 
   function handleChange(e) {
     setForm(f => ({ ...f, [e.target.name]: e.target.value }));
@@ -19,7 +21,7 @@ export default function Login() {
     e.preventDefault();
     setError('');
     try {
-      await login.mutateAsync(form);
+      await login.mutateAsync({ ...form, turnstileToken });
       navigate('/tracker');
     } catch (err) {
       setError(err.response?.data?.error || 'Login failed');
@@ -61,6 +63,7 @@ export default function Login() {
                 autoComplete="current-password"
               />
             </label>
+            <TurnstileWidget onToken={setTurnstileToken} />
             <button
               type="submit"
               className="btn btn--primary auth-form__submit"

@@ -1,5 +1,15 @@
 import { z } from 'zod';
 
+const diceHistoryEntrySchema = z.object({
+  id: z.string(),
+  sides: z.number().int().positive(),
+  count: z.number().int().positive(),
+  modifier: z.number().int(),
+  advantage: z.enum(['normal', 'advantage', 'disadvantage']),
+  rolls: z.array(z.number().int()).max(20),
+  total: z.number().int(),
+});
+
 const combatantSchema = z.object({
   id: z.string(),
   name: z.string().max(100),
@@ -21,7 +31,7 @@ export const createEncounterSchema = z.object({
   currentRound: z.number().int().min(1).default(1),
   activeCreatureId: z.string().nullable().default(null),
   combatants: z.array(combatantSchema).max(100).default([]),
-  diceHistory: z.array(z.any()).max(50).default([]),
+  diceHistory: z.array(diceHistoryEntrySchema).max(50).default([]),
 });
 
 export const updateEncounterSchema = z.object({
@@ -30,5 +40,5 @@ export const updateEncounterSchema = z.object({
   currentRound: z.number().int().min(1).optional(),
   activeCreatureId: z.string().nullable().optional(),
   combatants: z.array(combatantSchema).max(100).optional(),
-  diceHistory: z.array(z.any()).max(50).optional(),
+  diceHistory: z.array(diceHistoryEntrySchema).max(50).optional(),
 });

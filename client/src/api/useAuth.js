@@ -73,3 +73,27 @@ export function useChangePassword() {
     mutationFn: (body) => axios.post('/auth/change-password', body).then(r => r.data),
   });
 }
+
+export function useUpdateProfile() {
+  const qc = useQueryClient();
+  return useMutation({
+    mutationFn: async (body) => {
+      const { data } = await axios.patch('/auth/profile', body);
+      return data.user;
+    },
+    onSuccess: (user) => {
+      qc.setQueryData(['auth', 'me'], user);
+    },
+  });
+}
+
+export function useDeleteAccount() {
+  const qc = useQueryClient();
+  return useMutation({
+    mutationFn: (body) => axios.delete('/auth/account', { data: body }).then(r => r.data),
+    onSuccess: () => {
+      qc.setQueryData(['auth', 'me'], null);
+      qc.invalidateQueries({ queryKey: ['auth'] });
+    },
+  });
+}

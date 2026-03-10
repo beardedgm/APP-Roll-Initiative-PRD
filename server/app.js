@@ -9,6 +9,10 @@ const __dirname = path.dirname(__filename);
 // Load .env from project root
 dotenv.config({ path: path.join(__dirname, '..', '.env') });
 
+import { initSentry } from './config/sentry.js';
+
+initSentry();
+
 import express from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
@@ -23,6 +27,7 @@ import authRouter from './routes/auth.js';
 import encountersRouter, { sharedEncounterRouter } from './routes/encounters.js';
 import billingRouter, { webhookRouter } from './routes/billing.js';
 import sitemapRouter from './routes/sitemap.js';
+import errorHandler from './middleware/errorHandler.js';
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -67,6 +72,9 @@ app.use(monstersRouter);
 app.use(encountersRouter);
 app.use(billingRouter);
 app.use(sharedEncounterRouter); // public: no auth required
+
+// ── Error Handler (must be after all routes) ───────────────
+app.use(errorHandler);
 
 // ── Serve React build in production ────────────────────────
 if (process.env.NODE_ENV === 'production') {

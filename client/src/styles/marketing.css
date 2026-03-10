@@ -1262,3 +1262,49 @@ body.marketing {
   background: rgba(239, 83, 80, 0.15);
   color: #ef5350;
 }
+
+/* ── Legal Pages ───────────────────────────────────── */
+.legal-page {
+  min-height: 80vh;
+  padding: 2rem 1rem;
+}
+.legal-container {
+  max-width: 720px;
+  margin: 0 auto;
+}
+.legal-title {
+  font-size: 2rem;
+  color: var(--gold);
+  margin-bottom: 0.25rem;
+}
+.legal-updated {
+  color: #888;
+  font-size: 0.85rem;
+  margin-bottom: 2rem;
+}
+.legal-section {
+  margin-bottom: 1.5rem;
+}
+.legal-section h2 {
+  color: var(--gold);
+  font-size: 1.15rem;
+  margin-bottom: 0.5rem;
+}
+.legal-section p,
+.legal-section li {
+  color: #ccc;
+  line-height: 1.7;
+}
+.legal-section ul {
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+.legal-section a {
+  color: var(--gold);
+}
+.legal-section table {
+  color: #ccc;
+}
+.legal-section th {
+  color: var(--gold);
+}
