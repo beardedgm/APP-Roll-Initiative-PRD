@@ -3,7 +3,7 @@ import { persist } from 'zustand/middleware';
 
 const useUserDataStore = create(
   persist(
-    (set, get) => ({
+    (set) => ({
       // ── State ──────────────────────────────────────
       characters: [],
       customMonsters: [],
