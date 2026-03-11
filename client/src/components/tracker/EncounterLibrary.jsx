@@ -1,34 +1,30 @@
-import { useState, useCallback, useMemo } from 'react';
+import { useState, useCallback, useMemo, useRef } from 'react';
 import useCombatStore from '../../store/useCombatStore';
 import { useShallow } from 'zustand/react/shallow';
-import { useCurrentUser } from '../../api/useAuth';
-import { useEncounters, useCreateEncounter, useDeleteEncounter } from '../../api/useEncounters';
-import { loadNamedEncounters, saveNamedEncounter, deleteNamedEncounter } from '../../utils/encounterSaves';
+import { loadNamedEncounters, saveNamedEncounter, deleteNamedEncounter, exportEncounterJSON, importEncounterJSON } from '../../utils/encounterSaves';
 
 export default function EncounterLibrary() {
-  const { data: user } = useCurrentUser();
-  const isPremium = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
-
-  return isPremium ? <CloudEncounters /> : <LocalEncounters />;
+  return <LocalEncounters />;
 }
 
-/* ── Local Encounters (free users) ──────────────────────── */
+/* ── Local Encounters ──────────────────────────────────── */
 
 function LocalEncounters() {
-  const { name, combatants, state, currentRound, activeCreatureId, diceHistory } = useCombatStore(
+  const { combatants, state, currentRound, activeCreatureId, diceHistory } = useCombatStore(
     useShallow(s => ({
-      name: s.name, combatants: s.combatants, state: s.state,
+      combatants: s.combatants, state: s.state,
       currentRound: s.currentRound, activeCreatureId: s.activeCreatureId, diceHistory: s.diceHistory,
     }))
   );
   const loadSnapshot = useCombatStore(s => s.loadSnapshot);
   const [refresh, setRefresh] = useState(0);
+  const [saveName, setSaveName] = useState('');
+  const importRef = useRef(null);
 
   const saves = useMemo(() => loadNamedEncounters(), [refresh]);
 
   const handleSave = useCallback(() => {
-    const saveName = window.prompt('Save encounter as:', name || 'New Encounter');
-    if (!saveName?.trim()) return;
+    if (!saveName.trim()) return;
     const id = `save_${Date.now()}_${Math.random().toString(36).slice(2, 6)}`;
     saveNamedEncounter({
       id,
@@ -36,8 +32,9 @@ function LocalEncounters() {
       savedAt: new Date().toISOString(),
       snapshot: { name: saveName.trim(), combatants, state, currentRound, activeCreatureId, diceHistory },
     });
+    setSaveName('');
     setRefresh(n => n + 1);
-  }, [name, combatants, state, currentRound, activeCreatureId, diceHistory]);
+  }, [saveName, combatants, state, currentRound, activeCreatureId, diceHistory]);
 
   function handleLoad(save) {
     if (!window.confirm(`Load "${save.name}"? Unsaved changes will be lost.`)) return;
@@ -50,15 +47,28 @@ function LocalEncounters() {
     setRefresh(n => n + 1);
   }
 
+  function handleExport() {
+    const { id, name: n, state: s, currentRound: cr, activeCreatureId: ac, combatants: c, diceHistory: dh } = useCombatStore.getState();
+    exportEncounterJSON({ id, name: n, state: s, currentRound: cr, activeCreatureId: ac, combatants: c, diceHistory: dh });
+  }
+
+  function handleImport(e) {
+    const file = e.target.files[0];
+    if (!file) return;
+    importEncounterJSON(file)
+      .then(imported => {
+        if (!window.confirm(`Import "${imported.name || 'encounter'}"? This replaces the current encounter.`)) return;
+        useCombatStore.getState().loadSnapshot(imported);
+      })
+      .catch(err => window.alert(`Import failed: ${err.message}`));
+    e.target.value = '';
+  }
+
   // suppress unused variable lint
   void refresh;
 
   return (
     <div className="encounter-library">
-      <button className="btn btn--primary btn--full encounter-library__save-btn" onClick={handleSave}>
-        &#128190; Save Current Encounter
-      </button>
-
       <div className="encounter-library__list">
         {saves.length === 0 ? (
           <p className="encounter-library__empty">No saved encounters yet.</p>
@@ -75,79 +85,42 @@ function LocalEncounters() {
           ))
         )}
       </div>
-    </div>
-  );
-}
 
-/* ── Cloud Encounters (premium users) ───────────────────── */
+      <div className="encounter-library__footer">
+        <div className="encounter-library__actions-row">
+          <button className="btn btn--secondary btn--sm" onClick={handleExport} title="Export as JSON file">
+            &#8593; Export JSON
+          </button>
+          <label className="btn btn--secondary btn--sm" htmlFor="encounter-import" title="Import from JSON file" style={{ cursor: 'pointer' }}>
+            &#8595; Import JSON
+          </label>
+          <input
+            ref={importRef}
+            type="file"
+            id="encounter-import"
+            accept=".json,application/json"
+            className="hidden"
+            onChange={handleImport}
+          />
+        </div>
 
-function CloudEncounters() {
-  const { name, combatants, state, currentRound, activeCreatureId, diceHistory } = useCombatStore(
-    useShallow(s => ({
-      name: s.name, combatants: s.combatants, state: s.state,
-      currentRound: s.currentRound, activeCreatureId: s.activeCreatureId, diceHistory: s.diceHistory,
-    }))
-  );
-  const loadSnapshot = useCombatStore(s => s.loadSnapshot);
-  const setCloudId = useCombatStore(s => s.setCloudId);
-
-  const { data: encounters = [], isLoading } = useEncounters();
-  const createEncounter = useCreateEncounter();
-  const deleteEncounter = useDeleteEncounter();
-
-  const handleSave = useCallback(async () => {
-    try {
-      await createEncounter.mutateAsync({
-        name: name || 'New Encounter',
-        state, currentRound, activeCreatureId, combatants, diceHistory,
-      });
-    } catch {
-      window.alert('Save failed. Please try again.');
-    }
-  }, [name, combatants, state, currentRound, activeCreatureId, diceHistory, createEncounter]);
-
-  function handleLoad(enc) {
-    if (!window.confirm(`Load "${enc.name}"? Unsaved changes will be lost.`)) return;
-    loadSnapshot(enc);
-    setCloudId(enc._id);
-  }
-
-  async function handleDelete(id) {
-    if (!window.confirm('Delete this encounter from the cloud?')) return;
-    try {
-      await deleteEncounter.mutateAsync(id);
-    } catch {
-      window.alert('Delete failed.');
-    }
-  }
-
-  return (
-    <div className="encounter-library">
-      <button
-        className="btn btn--primary btn--full encounter-library__save-btn"
-        onClick={handleSave}
-        disabled={createEncounter.isPending}
-      >
-        &#9729; {createEncounter.isPending ? 'Saving...' : 'Save to Cloud'}
-      </button>
-
-      <div className="encounter-library__list">
-        {isLoading ? (
-          <p className="encounter-library__empty">Loading...</p>
-        ) : encounters.length === 0 ? (
-          <p className="encounter-library__empty">No cloud encounters yet.</p>
-        ) : (
-          encounters.map(enc => (
-            <EncounterRow
-              key={enc._id}
-              name={enc.name}
-              count={enc.combatantCount ?? enc.combatants?.length ?? 0}
-              date={enc.updatedAt}
-              onLoad={() => handleLoad(enc)}
-              onDelete={() => handleDelete(enc._id)}
-            />
-          ))
-        )}
+        <div className="encounter-library__save-row">
+          <input
+            type="text"
+            className="encounter-library__name-input"
+            placeholder="Encounter name..."
+            value={saveName}
+            onChange={e => setSaveName(e.target.value)}
+            onKeyDown={e => e.key === 'Enter' && handleSave()}
+          />
+          <button
+            className="btn btn--primary encounter-library__save-btn"
+            onClick={handleSave}
+            disabled={!saveName.trim()}
+          >
+            Save
+          </button>
+        </div>
       </div>
     </div>
   );
