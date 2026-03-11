@@ -1,5 +1,6 @@
 import { useEffect, useCallback, useRef } from 'react';
 import useCombatStore from '../store/useCombatStore';
+import useUIStore from '../store/useUIStore';
 import TrackerHeader from '../components/tracker/TrackerHeader';
 import TurnControls from '../components/tracker/TurnControls';
 import InitiativeList from '../components/tracker/InitiativeList';
@@ -18,6 +19,9 @@ export default function Tracker() {
   const redo = useCombatStore(s => s.redo);
   const addCombatant = useCombatStore(s => s.addCombatant);
   const rollDice = useCombatStore(s => s.rollDice);
+  const combatState = useCombatStore(s => s.state);
+  const combatants = useCombatStore(s => s.combatants);
+  const openModal = useUIStore(s => s.openModal);
 
   useEffect(() => {
     function handleKeyDown(e) {
@@ -80,6 +84,17 @@ export default function Tracker() {
         </section>
 
         <section className="dm-col dm-col--right">
+          {combatState === 'pre-combat' && (
+            <div className="panel">
+              <button
+                className="btn btn--combat-start btn--full"
+                disabled={combatants.length === 0}
+                onClick={() => openModal('start-combat')}
+              >
+                &#9876; Start Combat
+              </button>
+            </div>
+          )}
           <DiceRoller />
         </section>
       </main>

@@ -13,17 +13,7 @@ export default function TurnControls() {
   const openModal = useUIStore(s => s.openModal);
 
   if (combatState === 'pre-combat') {
-    return (
-      <div className="panel" id="panel-turns">
-        <button
-          className="btn btn--combat-start btn--full"
-          disabled={combatants.length === 0}
-          onClick={() => openModal('start-combat')}
-        >
-          &#9876; Start Combat
-        </button>
-      </div>
-    );
+    return null;
   }
 
   const active = combatants.find(c => c.id === activeCreatureId);
