@@ -7,6 +7,7 @@ const SOURCE_BADGES = {
   tob1: 'ToB',
   tob2: 'ToB2',
   tob3: 'ToB3',
+  custom: 'Custom',
 };
 
 export default SOURCE_BADGES;

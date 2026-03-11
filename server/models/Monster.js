@@ -23,13 +23,17 @@ const MonsterSchema = new mongoose.Schema({
     wis: Number,
     cha: Number,
   },
-  rawMarkdown: { type: String, required: true },
+  rawMarkdown: { type: String },
+  isCustom:   { type: Boolean, default: false },
+  createdBy:  { type: mongoose.Schema.Types.ObjectId, ref: 'User', default: null },
+  isPublic:   { type: Boolean, default: false },
 }, { timestamps: true });
 
 MonsterSchema.index({ name: 'text', type: 'text', source: 'text' });
 MonsterSchema.index({ crNumeric: 1 });
 MonsterSchema.index({ sourceKey: 1 });
 MonsterSchema.index({ name: 1 });
+MonsterSchema.index({ isCustom: 1, createdBy: 1 });
 
 const Monster = mongoose.model('Monster', MonsterSchema);
 

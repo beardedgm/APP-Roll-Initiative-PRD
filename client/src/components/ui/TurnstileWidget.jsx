@@ -6,6 +6,7 @@ export default function TurnstileWidget({ onToken }) {
   const containerRef = useRef(null);
   const widgetIdRef = useRef(null);
   const [loaded, setLoaded] = useState(!!window.turnstile);
+  const [verified, setVerified] = useState(false);
 
   // Stable callback ref — update in effect to satisfy react-hooks/refs
   const onTokenRef = useRef(onToken);
@@ -38,6 +39,7 @@ export default function TurnstileWidget({ onToken }) {
   }, []);
 
   const handleToken = useCallback((token) => {
+    setVerified(true);
     onTokenRef.current?.(token);
   }, []);
 
@@ -48,6 +50,7 @@ export default function TurnstileWidget({ onToken }) {
       sitekey: SITE_KEY,
       callback: handleToken,
       theme: 'dark',
+      size: 'flexible',
     });
 
     return () => {
@@ -59,5 +62,9 @@ export default function TurnstileWidget({ onToken }) {
 
   if (!SITE_KEY) return null;
 
-  return <div ref={containerRef} style={{ margin: '1rem 0' }} />;
+  return (
+    <div className={`turnstile-wrapper${verified ? ' turnstile-wrapper--verified' : ''}`}>
+      <div ref={containerRef} className="turnstile-container" />
+    </div>
+  );
 }

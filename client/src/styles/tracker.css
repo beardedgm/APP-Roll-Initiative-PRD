@@ -1329,3 +1329,350 @@
   background: var(--color-accent-gold-muted);
   color: var(--color-text-primary);
 }
+
+/* ── Monster Database Custom Actions ─────────────────────────── */
+.monster-db__custom-actions {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.25rem 0;
+}
+
+.monster-detail__header-actions {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+/* ── Import Monster Modal ────────────────────────────────────── */
+.import-monster__tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 1px solid var(--color-border);
+  margin-bottom: 1rem;
+}
+
+.import-monster__tab {
+  flex: 1;
+  padding: 0.5rem 1rem;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: color var(--transition-fast), border-color var(--transition-fast);
+}
+
+.import-monster__tab:hover {
+  color: var(--color-text-primary);
+}
+
+.import-monster__tab--active {
+  color: var(--color-accent-primary);
+  border-bottom-color: var(--color-accent-primary);
+}
+
+.import-monster__actions-row {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.import-monster__textarea {
+  width: 100%;
+  min-height: 200px;
+  padding: 0.75rem;
+  background: var(--color-bg-input);
+  color: var(--color-text-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-family: monospace;
+  font-size: 0.8rem;
+  resize: vertical;
+}
+
+.import-monster__upload {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.import-monster__file-loaded {
+  margin-top: 1rem;
+  color: var(--color-text-secondary);
+  font-size: 0.875rem;
+}
+
+.import-monster__errors {
+  margin: 0.75rem 0;
+  padding: 0.75rem;
+  background: rgba(220, 38, 38, 0.1);
+  border: 1px solid rgba(220, 38, 38, 0.3);
+  border-radius: var(--radius-sm);
+}
+
+.import-monster__error {
+  margin: 0.25rem 0;
+  color: var(--color-danger);
+  font-size: 0.85rem;
+}
+
+.import-monster__preview {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+}
+
+.import-monster__preview-title {
+  font-size: 1rem;
+  margin: 0 0 0.75rem;
+  color: var(--color-text-primary);
+}
+
+.import-monster__preview-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.35rem 1rem;
+  font-size: 0.85rem;
+  color: var(--color-text-secondary);
+}
+
+.import-monster__abilities {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--color-border);
+  justify-content: center;
+}
+
+.import-monster__ability {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+}
+
+.import-monster__ability strong {
+  font-size: 0.7rem;
+  color: var(--color-text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.import-monster__section {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--color-text-secondary);
+}
+
+.import-monster__save {
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.import-monster__local-note {
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  color: var(--color-text-tertiary);
+  text-align: center;
+}
+
+/* ── Monster Creation Form ───────────────────────────────── */
+.monster-form__error {
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 0.75rem;
+  background: rgba(220, 38, 38, 0.1);
+  border: 1px solid rgba(220, 38, 38, 0.3);
+  border-radius: var(--radius-sm);
+  color: var(--color-danger);
+  font-size: 0.85rem;
+}
+
+.monster-form__section {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  margin-bottom: 0.5rem;
+  overflow: hidden;
+}
+
+.monster-form__section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  background: var(--color-bg-card);
+  border: none;
+  color: var(--color-text-primary);
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.monster-form__section-header:hover {
+  background: var(--color-bg-card-hover);
+}
+
+.monster-form__section-arrow {
+  font-size: 0.65rem;
+  color: var(--color-text-tertiary);
+}
+
+.monster-form__section-body {
+  padding: 0.75rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.monster-form__row {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.monster-form__field {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 80px;
+}
+
+.monster-form__field--wide {
+  flex: 2;
+  min-width: 150px;
+}
+
+.monster-form__field--full {
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+.monster-form__field > span {
+  font-size: 0.7rem;
+  color: var(--color-text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.2rem;
+}
+
+.monster-form__field input,
+.monster-form__field select {
+  padding: 0.35rem 0.5rem;
+  background: var(--color-bg-input);
+  color: var(--color-text-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+}
+
+.monster-form__abilities {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.monster-form__ability {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.monster-form__ability-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--color-text-tertiary);
+  text-transform: uppercase;
+}
+
+.monster-form__ability input {
+  width: 48px;
+  text-align: center;
+  padding: 0.3rem;
+  background: var(--color-bg-input);
+  color: var(--color-text-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+}
+
+.monster-form__ability-mod {
+  font-size: 0.75rem;
+  color: var(--color-text-secondary);
+}
+
+.monster-form__hint {
+  font-size: 0.75rem;
+  color: var(--color-text-tertiary);
+  margin-bottom: 0.5rem;
+}
+
+.monster-form__markdown {
+  width: 100%;
+  min-height: 150px;
+  padding: 0.75rem;
+  background: var(--color-bg-input);
+  color: var(--color-text-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-family: monospace;
+  font-size: 0.8rem;
+  resize: vertical;
+}
+
+.monster-form__entries {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.monster-form__entry {
+  padding: 0.5rem;
+  background: var(--color-bg-input);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+}
+
+.monster-form__entry-header {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+
+.monster-form__entry-name {
+  flex: 1;
+  padding: 0.3rem 0.5rem;
+  background: var(--color-bg-card);
+  color: var(--color-text-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.monster-form__entry-desc {
+  width: 100%;
+  padding: 0.3rem 0.5rem;
+  background: var(--color-bg-card);
+  color: var(--color-text-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-size: 0.8rem;
+  resize: vertical;
+}
+
+.monster-form__submit {
+  width: 100%;
+  margin-top: 0.75rem;
+}
+
+.monster-form__local-note {
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  color: var(--color-text-tertiary);
+  text-align: center;
+}

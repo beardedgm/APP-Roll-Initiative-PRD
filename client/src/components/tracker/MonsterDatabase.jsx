@@ -1,9 +1,12 @@
 import { useState, useEffect, useRef, useCallback, forwardRef, useImperativeHandle } from 'react';
 import { marked } from 'marked';
 import DOMPurify from 'dompurify';
-import { useMonsterBrowse, useMonster, useMonsterSources } from '../../api/useMonsters';
+import { useMonsterBrowse, useMonster, useMonsterSources, useDeleteMonster } from '../../api/useMonsters';
+import { useCurrentUser } from '../../api/useAuth';
 import useCombatStore from '../../store/useCombatStore';
+import useUIStore from '../../store/useUIStore';
 import SOURCE_BADGES from '../../constants/monsterSources';
+import { searchLocalMonsters, getLocalMonster, deleteLocalMonster } from '../../utils/customMonsterStorage';
 
 const CR_OPTIONS = [
   '0', '1/8', '1/4', '1/2', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10',
@@ -20,14 +23,22 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
   const [crFilter, setCrFilter] = useState('');
   const [page, setPage] = useState(0);
   const [selectedSlug, setSelectedSlug] = useState(null);
+  const [localRefresh, setLocalRefresh] = useState(0);
   const timerRef = useRef(null);
 
   const addCombatant = useCombatStore(s => s.addCombatant);
+  const openModal = useUIStore(s => s.openModal);
+  const { data: user } = useCurrentUser();
+  const isPremium = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
 
-  // Allow parent to open a stat block by slug
+  /** Trigger re-render when localStorage monsters change */
+  const refreshLocal = useCallback(() => setLocalRefresh(n => n + 1), []);
+
+  // Allow parent to open a stat block by slug or refresh local monsters
   useImperativeHandle(ref, () => ({
     showStatBlock(slug) { setSelectedSlug(slug); },
-  }), []);
+    refreshLocal,
+  }), [refreshLocal]);
   const { data: sources = [] } = useMonsterSources();
 
   // Debounce
@@ -51,11 +62,43 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
     skip: page * PAGE_SIZE,
   });
 
-  const results = data?.results || [];
-  const total = data?.total || 0;
+  // Merge localStorage custom monsters for free users
+  const apiResults = data?.results || [];
+  const apiTotal = data?.total || 0;
+  const localMonsters = (!isPremium && !sourceFilter) || sourceFilter === 'custom'
+    ? searchLocalMonsters({ q: debouncedQuery, cr: crFilter || undefined })
+    : [];
+  // eslint-disable-next-line no-unused-vars
+  const _localDep = localRefresh; // trigger re-render on local changes
+  const results = sourceFilter === 'custom' && !isPremium
+    ? localMonsters
+    : [...apiResults, ...localMonsters].sort((a, b) => a.name.localeCompare(b.name)).slice(0, PAGE_SIZE);
+  const total = sourceFilter === 'custom' && !isPremium
+    ? localMonsters.length
+    : apiTotal + localMonsters.length;
   const totalPages = Math.ceil(total / PAGE_SIZE);
 
-  const { data: selectedMonster, isLoading: loadingDetail } = useMonster(selectedSlug);
+  const isLocalSlug = selectedSlug?.startsWith('local-');
+  const { data: apiMonster, isLoading: loadingApiDetail } = useMonster(isLocalSlug ? null : selectedSlug);
+  const localDetailMonster = isLocalSlug ? getLocalMonster(selectedSlug) : null;
+  const selectedMonster = isLocalSlug ? localDetailMonster : apiMonster;
+  const loadingDetail = isLocalSlug ? false : loadingApiDetail;
+
+  const deleteMonster = useDeleteMonster();
+
+  const handleDeleteMonster = useCallback(async (slug) => {
+    try {
+      if (slug.startsWith('local-')) {
+        deleteLocalMonster(slug);
+        refreshLocal();
+      } else {
+        await deleteMonster.mutateAsync(slug);
+      }
+      setSelectedSlug(null);
+    } catch {
+      window.alert('Failed to delete monster.');
+    }
+  }, [deleteMonster, refreshLocal]);
 
   const handleAddToEncounter = useCallback((monster) => {
     if (onAddToEncounter) {
@@ -82,6 +125,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
         onBack={() => setSelectedSlug(null)}
         onAdd={handleAddToEncounter}
         onRollDice={onRollDice}
+        onDelete={(isPremium || isLocalSlug) ? handleDeleteMonster : undefined}
       />
     );
   }
@@ -120,6 +164,21 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
             ))}
           </select>
         </div>
+      </div>
+
+      <div className="monster-db__custom-actions">
+        <button
+          className="btn btn--sm btn--primary"
+          onClick={() => openModal('monster-form')}
+        >
+          + Create Monster
+        </button>
+        <button
+          className="btn btn--sm"
+          onClick={() => openModal('import-monster')}
+        >
+          &#8595; Import JSON
+        </button>
       </div>
 
       <div className="monster-db__count">
@@ -199,7 +258,7 @@ export default MonsterDatabase;
 
 /* ── Stat Block Detail View ─────────────────────────────────── */
 
-function MonsterDetail({ monster, loading, onBack, onAdd, onRollDice }) {
+function MonsterDetail({ monster, loading, onBack, onAdd, onRollDice, onDelete }) {
   const detailRef = useRef(null);
 
   // After render, attach click handlers to dice notation
@@ -244,7 +303,8 @@ function MonsterDetail({ monster, loading, onBack, onAdd, onRollDice }) {
     );
   }
 
-  const htmlWithDice = makeDiceClickable(marked.parse(monster.rawMarkdown));
+  const markdown = monster.rawMarkdown || buildFallbackMarkdown(monster);
+  const htmlWithDice = makeDiceClickable(marked.parse(markdown));
   const html = DOMPurify.sanitize(htmlWithDice, {
     ADD_ATTR: ['data-dice'],
     ADD_TAGS: ['span'],
@@ -254,12 +314,26 @@ function MonsterDetail({ monster, loading, onBack, onAdd, onRollDice }) {
     <div className="monster-detail">
       <div className="monster-detail__header">
         <button className="monster-detail__back" onClick={onBack} aria-label="Back to list">&larr; Back</button>
-        <button
-          className="btn btn--primary btn--sm"
-          onClick={() => onAdd(monster)}
-        >
-          + Add to Encounter
-        </button>
+        <div className="monster-detail__header-actions">
+          {monster.isCustom && onDelete && (
+            <button
+              className="btn btn--danger btn--sm"
+              onClick={() => {
+                if (window.confirm(`Delete "${monster.name}"? This cannot be undone.`)) {
+                  onDelete(monster.slug);
+                }
+              }}
+            >
+              Delete
+            </button>
+          )}
+          <button
+            className="btn btn--primary btn--sm"
+            onClick={() => onAdd(monster)}
+          >
+            + Add to Encounter
+          </button>
+        </div>
       </div>
       <div
         ref={detailRef}
@@ -281,4 +355,75 @@ function makeDiceClickable(html) {
     /(\d+d\d+(?:\s*[+-]\s*\d+)?)/g,
     '<span class="dice-roll" data-dice="$1" title="Click to roll $1">$1</span>'
   );
+}
+
+/**
+ * Build a markdown stat block from structured monster data when rawMarkdown is missing.
+ */
+function buildFallbackMarkdown(m) {
+  const mod = (score) => {
+    const v = Math.floor((score - 10) / 2);
+    return v >= 0 ? `+${v}` : `${v}`;
+  };
+
+  const lines = [];
+  lines.push(`# ${m.name}`);
+  lines.push(`*${m.size || 'Medium'} ${m.type || 'creature'}${m.alignment ? `, ${m.alignment}` : ''}*`);
+  lines.push('---');
+  lines.push(`**Armor Class** ${m.ac || 10}${m.acDesc ? ` (${m.acDesc})` : ''}`);
+  lines.push(`**Hit Points** ${m.hp || 1}${m.hpFormula ? ` (${m.hpFormula})` : ''}`);
+  lines.push(`**Speed** ${m.speed || '30 ft.'}`);
+  lines.push('---');
+
+  if (m.abilities) {
+    const a = m.abilities;
+    lines.push(`| STR | DEX | CON | INT | WIS | CHA |`);
+    lines.push(`|:---:|:---:|:---:|:---:|:---:|:---:|`);
+    lines.push(`| ${a.str} (${mod(a.str)}) | ${a.dex} (${mod(a.dex)}) | ${a.con} (${mod(a.con)}) | ${a.int} (${mod(a.int)}) | ${a.wis} (${mod(a.wis)}) | ${a.cha} (${mod(a.cha)}) |`);
+    lines.push('---');
+  }
+
+  if (m.savingThrows) lines.push(`**Saving Throws** ${m.savingThrows}`);
+  if (m.skills) lines.push(`**Skills** ${m.skills}`);
+  if (m.damageResistances) lines.push(`**Damage Resistances** ${m.damageResistances}`);
+  if (m.damageImmunities) lines.push(`**Damage Immunities** ${m.damageImmunities}`);
+  if (m.damageVulnerabilities) lines.push(`**Damage Vulnerabilities** ${m.damageVulnerabilities}`);
+  if (m.conditionImmunities) lines.push(`**Condition Immunities** ${m.conditionImmunities}`);
+  if (m.senses) lines.push(`**Senses** ${m.senses}`);
+  if (m.languages) lines.push(`**Languages** ${m.languages}`);
+  if (m.cr) lines.push(`**Challenge** ${m.cr}`);
+
+  if (m.traits?.length) {
+    lines.push('---');
+    for (const t of m.traits) {
+      lines.push(`***${t.name}.*** ${t.description}`);
+      lines.push('');
+    }
+  }
+
+  if (m.actions?.length) {
+    lines.push('## Actions');
+    for (const a of m.actions) {
+      lines.push(`***${a.name}.*** ${a.description}`);
+      lines.push('');
+    }
+  }
+
+  if (m.reactions?.length) {
+    lines.push('## Reactions');
+    for (const r of m.reactions) {
+      lines.push(`***${r.name}.*** ${r.description}`);
+      lines.push('');
+    }
+  }
+
+  if (m.legendaryActions?.length) {
+    lines.push('## Legendary Actions');
+    for (const l of m.legendaryActions) {
+      lines.push(`***${l.name}.*** ${l.description}`);
+      lines.push('');
+    }
+  }
+
+  return lines.join('\n');
 }

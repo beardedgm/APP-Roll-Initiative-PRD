@@ -2,9 +2,7 @@ import { useRef, useState, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import { useShallow } from 'zustand/react/shallow';
 import useCombatStore from '../../store/useCombatStore';
-import { saveNamedEncounter } from '../../utils/encounterSaves';
 import { exportEncounterJSON, importEncounterJSON } from '../../utils/encounterSaves';
-import useUIStore from '../../store/useUIStore';
 import { useCurrentUser } from '../../api/useAuth';
 import { useCreateEncounter, useShareEncounter, useUnshareEncounter } from '../../api/useEncounters';
 import { useSyncStatus } from '../../hooks/useCloudSync';
@@ -26,7 +24,6 @@ export default function TrackerHeader() {
     setCloudId: s.setCloudId,
     setShareCode: s.setShareCode,
   })));
-  const openModal = useUIStore(s => s.openModal);
   const importRef = useRef(null);
 
   const { data: user } = useCurrentUser();
@@ -43,23 +40,6 @@ export default function TrackerHeader() {
     if (newName === null) return;
     const trimmed = newName.trim();
     if (trimmed) renameEncounter(trimmed);
-  }
-
-  function handleSave() {
-    const store = useCombatStore.getState();
-    const saveName = window.prompt('Save encounter as:', store.name || 'New Encounter');
-    if (saveName === null) return;
-    const trimmed = saveName.trim();
-    if (!trimmed) return;
-
-    store.renameEncounter(trimmed);
-    const { id, state, currentRound, activeCreatureId, combatants, diceHistory } = useCombatStore.getState();
-    saveNamedEncounter({
-      id,
-      name: trimmed,
-      savedAt: new Date().toISOString(),
-      snapshot: { id, name: trimmed, state, currentRound, activeCreatureId, combatants, diceHistory },
-    });
   }
 
   function handleExport() {
@@ -153,6 +133,7 @@ export default function TrackerHeader() {
       </div>
 
       <div className="dm-header__right">
+        {/* History */}
         <button className="btn btn--icon" disabled={undoLen === 0} onClick={undo} title="Undo (Ctrl+Z)">
           &#8617; Undo
         </button>
@@ -162,31 +143,9 @@ export default function TrackerHeader() {
 
         <span className="header-divider" />
 
-        <button className="btn btn--icon" onClick={handleSave} title="Save encounter">&#128190; Save</button>
-        <button className="btn btn--icon" onClick={() => openModal('saved-encounters')} title="Load a saved encounter">
-          &#128194; Load
-        </button>
-
-        <span className="header-divider" />
-
-        <button className="btn btn--icon" onClick={handleExport} title="Export as JSON">&#8593; Export</button>
-        <label className="btn btn--icon" htmlFor="input-import" title="Import from JSON" style={{ cursor: 'pointer' }}>
-          &#8595; Import
-        </label>
-        <input
-          ref={importRef}
-          type="file"
-          id="input-import"
-          accept=".json,application/json"
-          className="hidden"
-          onChange={handleImport}
-        />
-
-        <span className="header-divider" />
-
+        {/* Encounter management */}
         {isPremium && (
           <>
-            <span className="header-divider" />
             {cloudId ? (
               <>
                 <span className="sync-indicator" title={
@@ -206,15 +165,30 @@ export default function TrackerHeader() {
               </>
             ) : (
               <button className="btn btn--icon" onClick={handleCloudSave} disabled={createEncounter.isPending} title="Save to cloud">
-                &#9729; {createEncounter.isPending ? 'Saving...' : 'Cloud Save'}
+                &#9729; {createEncounter.isPending ? 'Saving...' : 'Save'}
               </button>
             )}
             <Link to="/dashboard" className="btn btn--icon" title="Saved encounters">&#128194; Dashboard</Link>
+            <span className="header-divider" />
           </>
         )}
 
+        <button className="btn btn--icon" onClick={handleExport} title="Export as JSON">&#8593; Export</button>
+        <label className="btn btn--icon" htmlFor="input-import" title="Import from JSON" style={{ cursor: 'pointer' }}>
+          &#8595; Import
+        </label>
+        <input
+          ref={importRef}
+          type="file"
+          id="input-import"
+          accept=".json,application/json"
+          className="hidden"
+          onChange={handleImport}
+        />
+
         <span className="header-divider" />
 
+        {/* Combat */}
         <button className="btn btn--secondary" onClick={handleOpenPlayerView} title={shareCode ? 'Open shared player view' : 'Open local player view'}>
           &#128498; Player View
         </button>
