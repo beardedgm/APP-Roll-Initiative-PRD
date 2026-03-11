@@ -72,6 +72,20 @@
   /* Transitions */
   --transition-fast: 150ms ease;
   --transition: 200ms ease;
+
+  /* Aliases for semantic usage */
+  --color-accent-primary: var(--color-accent-gold);
+  --color-surface-hover: var(--color-bg-card-hover);
+  --color-surface-dark: var(--color-bg-dark);
+  --color-danger: var(--color-accent-red);
+
+  /* Atmospheric effects */
+  --glow-gold-sm: 0 0 8px rgba(201,162,103,0.3);
+  --glow-gold-md: 0 0 16px rgba(201,162,103,0.4);
+  --gradient-gold: linear-gradient(135deg, #c9a267, #dbb57e);
+  --gradient-gold-subtle: linear-gradient(135deg, rgba(201,162,103,0.15), rgba(201,162,103,0.05));
+  --shadow-inset-subtle: inset 0 1px 0 rgba(255,255,255,0.03);
+  --transition-bounce: 200ms cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
 /* ── Base Reset ─────────────────────────────────────────────── */
@@ -109,6 +123,7 @@ button {
 
 button:active {
   transform: translateY(1px);
+  box-shadow: none;
 }
 
 input, select {
@@ -125,7 +140,7 @@ input, select {
 
 input:focus, select:focus {
   border-color: var(--color-accent-gold);
-  box-shadow: 0 0 0 2px var(--color-accent-gold-muted);
+  box-shadow: 0 0 0 3px var(--color-accent-gold-muted), 0 0 8px rgba(201,162,103,0.1);
 }
 
 input::placeholder {
@@ -141,7 +156,7 @@ select option {
 :focus-visible {
   outline: none;
   border-color: var(--color-accent-gold);
-  box-shadow: 0 0 0 2px var(--color-accent-gold-muted);
+  box-shadow: 0 0 0 3px var(--color-accent-gold-muted), 0 0 8px rgba(201,162,103,0.1);
 }
 
 button:focus-visible {
