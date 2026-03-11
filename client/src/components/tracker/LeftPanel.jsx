@@ -18,9 +18,6 @@ const LeftPanel = forwardRef(function LeftPanel({ onRollDice, onAddToEncounter }
       setActiveTab('monsters');
       monsterDbRef.current?.showStatBlock(slug);
     },
-    refreshLocal() {
-      monsterDbRef.current?.refreshLocal();
-    },
   }), []);
 
   return (
