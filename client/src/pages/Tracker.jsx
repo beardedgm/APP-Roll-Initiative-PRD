@@ -2,13 +2,11 @@ import { useEffect, useCallback, useRef } from 'react';
 import useCombatStore from '../store/useCombatStore';
 import { useCurrentUser } from '../api/useAuth';
 import useCloudSync from '../hooks/useCloudSync';
-import useUIStore from '../store/useUIStore';
 import TrackerHeader from '../components/tracker/TrackerHeader';
 import TurnControls from '../components/tracker/TurnControls';
-import AddCombatantModal from '../components/tracker/AddCombatantModal';
 import InitiativeList from '../components/tracker/InitiativeList';
 import DiceRoller from '../components/tracker/DiceRoller';
-import MonsterDatabase from '../components/tracker/MonsterDatabase';
+import LeftPanel from '../components/tracker/LeftPanel';
 import StartCombatModal from '../components/tracker/StartCombatModal';
 import StatBlockModal from '../components/tracker/StatBlockModal';
 import ImportMonsterModal from '../components/monsters/ImportMonsterModal';
@@ -16,8 +14,7 @@ import MonsterFormModal from '../components/monsters/MonsterFormModal';
 import '../styles/tracker.css';
 
 export default function Tracker() {
-  const monsterDbRef = useRef(null);
-  const openModal = useUIStore(s => s.openModal);
+  const leftPanelRef = useRef(null);
   const undo = useCombatStore(s => s.undo);
   const redo = useCombatStore(s => s.redo);
   const addCombatant = useCombatStore(s => s.addCombatant);
@@ -68,7 +65,7 @@ export default function Tracker() {
 
   /** Show stat block in the left-panel Monster Database */
   const handleViewStatBlock = useCallback((slug) => {
-    monsterDbRef.current?.showStatBlock(slug);
+    leftPanelRef.current?.showStatBlock(slug);
   }, []);
 
   return (
@@ -76,17 +73,14 @@ export default function Tracker() {
       <TrackerHeader />
       <main className="dm-main dm-main--3col">
         <section className="dm-col dm-col--left">
-          <MonsterDatabase
-            ref={monsterDbRef}
+          <LeftPanel
+            ref={leftPanelRef}
             onRollDice={handleStatBlockRoll}
             onAddToEncounter={handleAddMonster}
           />
         </section>
 
         <section className="dm-col dm-col--center">
-          <button className="btn btn--primary btn--full" onClick={() => openModal('add-combatant')}>
-            + Add Combatant
-          </button>
           <TurnControls />
           <InitiativeList onViewStatBlock={handleViewStatBlock} />
         </section>
@@ -95,14 +89,13 @@ export default function Tracker() {
           <DiceRoller />
         </section>
       </main>
-      <AddCombatantModal />
       <StartCombatModal />
       <StatBlockModal
         onAddToEncounter={handleAddMonster}
         onRollDice={handleStatBlockRoll}
       />
-      <ImportMonsterModal onLocalSave={() => monsterDbRef.current?.refreshLocal()} />
-      <MonsterFormModal onLocalSave={() => monsterDbRef.current?.refreshLocal()} />
+      <ImportMonsterModal onLocalSave={() => leftPanelRef.current?.refreshLocal()} />
+      <MonsterFormModal onLocalSave={() => leftPanelRef.current?.refreshLocal()} />
     </>
   );
 }
