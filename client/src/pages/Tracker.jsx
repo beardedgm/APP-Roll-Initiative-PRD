@@ -3,18 +3,18 @@ import useCombatStore from '../store/useCombatStore';
 import { useCurrentUser } from '../api/useAuth';
 import useCloudSync from '../hooks/useCloudSync';
 import TrackerHeader from '../components/tracker/TrackerHeader';
-import CombatantForm from '../components/tracker/CombatantForm';
 import TurnControls from '../components/tracker/TurnControls';
 import InitiativeList from '../components/tracker/InitiativeList';
 import DiceRoller from '../components/tracker/DiceRoller';
-import MonsterDatabase from '../components/tracker/MonsterDatabase';
+import LeftPanel from '../components/tracker/LeftPanel';
 import StartCombatModal from '../components/tracker/StartCombatModal';
-import SavedEncountersModal from '../components/tracker/SavedEncountersModal';
 import StatBlockModal from '../components/tracker/StatBlockModal';
+import ImportMonsterModal from '../components/monsters/ImportMonsterModal';
+import MonsterFormModal from '../components/monsters/MonsterFormModal';
 import '../styles/tracker.css';
 
 export default function Tracker() {
-  const monsterDbRef = useRef(null);
+  const leftPanelRef = useRef(null);
   const undo = useCombatStore(s => s.undo);
   const redo = useCombatStore(s => s.redo);
   const addCombatant = useCombatStore(s => s.addCombatant);
@@ -47,7 +47,7 @@ export default function Tracker() {
       maxHP: monsterData.hp || monsterData.maxHP,
       ac: monsterData.ac,
       initMod: monsterData.initiativeModifier ?? monsterData.initMod ?? 0,
-      type: monsterData.type || 'monster',
+      type: 'monster',
       quantity: 1,
       monsterSlug: monsterData.slug || monsterData.monsterSlug,
     });
@@ -65,7 +65,7 @@ export default function Tracker() {
 
   /** Show stat block in the left-panel Monster Database */
   const handleViewStatBlock = useCallback((slug) => {
-    monsterDbRef.current?.showStatBlock(slug);
+    leftPanelRef.current?.showStatBlock(slug);
   }, []);
 
   return (
@@ -73,15 +73,14 @@ export default function Tracker() {
       <TrackerHeader />
       <main className="dm-main dm-main--3col">
         <section className="dm-col dm-col--left">
-          <MonsterDatabase
-            ref={monsterDbRef}
+          <LeftPanel
+            ref={leftPanelRef}
             onRollDice={handleStatBlockRoll}
             onAddToEncounter={handleAddMonster}
           />
         </section>
 
         <section className="dm-col dm-col--center">
-          <CombatantForm />
           <TurnControls />
           <InitiativeList onViewStatBlock={handleViewStatBlock} />
         </section>
@@ -91,11 +90,12 @@ export default function Tracker() {
         </section>
       </main>
       <StartCombatModal />
-      <SavedEncountersModal />
       <StatBlockModal
         onAddToEncounter={handleAddMonster}
         onRollDice={handleStatBlockRoll}
       />
+      <ImportMonsterModal onLocalSave={() => leftPanelRef.current?.refreshLocal()} />
+      <MonsterFormModal onLocalSave={() => leftPanelRef.current?.refreshLocal()} />
     </>
   );
 }

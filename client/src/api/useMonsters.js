@@ -1,4 +1,4 @@
-import { useQuery } from '@tanstack/react-query';
+import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import api from './axiosInstance';
 
 /**
@@ -68,5 +68,53 @@ export function useMonsterSources() {
       return data;
     },
     staleTime: 60 * 60 * 1000, // 1 hour
+  });
+}
+
+/**
+ * Create a custom monster (premium).
+ */
+export function useCreateMonster() {
+  const queryClient = useQueryClient();
+  return useMutation({
+    mutationFn: async (monsterData) => {
+      const { data } = await api.post('/monsters', monsterData);
+      return data;
+    },
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['monsters'] });
+    },
+  });
+}
+
+/**
+ * Update a custom monster by slug (owner only).
+ */
+export function useUpdateMonster() {
+  const queryClient = useQueryClient();
+  return useMutation({
+    mutationFn: async ({ slug, ...updates }) => {
+      const { data } = await api.put(`/monsters/${slug}`, updates);
+      return data;
+    },
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['monsters'] });
+    },
+  });
+}
+
+/**
+ * Delete a custom monster by slug (owner only).
+ */
+export function useDeleteMonster() {
+  const queryClient = useQueryClient();
+  return useMutation({
+    mutationFn: async (slug) => {
+      const { data } = await api.delete(`/monsters/${slug}`);
+      return data;
+    },
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['monsters'] });
+    },
   });
 }
