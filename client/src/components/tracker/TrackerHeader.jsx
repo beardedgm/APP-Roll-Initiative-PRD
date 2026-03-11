@@ -1,8 +1,6 @@
-import { useCallback } from 'react';
 import useCombatStore from '../../store/useCombatStore';
 import { useShallow } from 'zustand/react/shallow';
-import { useCurrentUser } from '../../api/useAuth';
-import { useCreateEncounter } from '../../api/useEncounters';
+import useUserDataStore from '../../store/useUserDataStore';
 
 export default function TrackerHeader() {
   const {
@@ -16,32 +14,12 @@ export default function TrackerHeader() {
     resetEncounter: s.resetEncounter,
   })));
 
-  const { data: user } = useCurrentUser();
-  const isPremium = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
-  const createEncounter = useCreateEncounter();
+  const syncStatus = useUserDataStore(s => s.syncStatus);
 
   function handleReset() {
     if (!window.confirm('Reset encounter? Monsters and NPCs will be removed. Players are kept.')) return;
     resetEncounter();
   }
-
-  const handleSync = useCallback(async () => {
-    const store = useCombatStore.getState();
-    const saveName = window.prompt('Save encounter as:', store.name || 'New Encounter');
-    if (!saveName?.trim()) return;
-    try {
-      await createEncounter.mutateAsync({
-        name: saveName.trim(),
-        state: store.state,
-        currentRound: store.currentRound,
-        activeCreatureId: store.activeCreatureId,
-        combatants: store.combatants,
-        diceHistory: store.diceHistory,
-      });
-    } catch {
-      window.alert('Cloud save failed. Please try again.');
-    }
-  }, [createEncounter]);
 
   function handleOpenPlayerView() {
     window.open('/play', 'playerView', 'width=1280,height=720,menubar=no,toolbar=no,location=no,status=no');
@@ -61,16 +39,16 @@ export default function TrackerHeader() {
           &#8618; Redo
         </button>
 
-        <span className="header-divider" />
-
-        {isPremium && (
+        {syncStatus !== 'idle' && (
           <>
-            <button className="btn btn--icon" onClick={handleSync} disabled={createEncounter.isPending} title="Save encounter to cloud">
-              &#9729; {createEncounter.isPending ? 'Saving...' : 'Sync'}
-            </button>
             <span className="header-divider" />
+            <span className={`sync-indicator sync-indicator--${syncStatus}`}>
+              {syncStatus === 'syncing' ? 'Saving...' : syncStatus === 'synced' ? 'Saved' : syncStatus === 'error' ? 'Sync error' : ''}
+            </span>
           </>
         )}
+
+        <span className="header-divider" />
 
         <button className="btn btn--secondary" onClick={handleOpenPlayerView} title="Open player view">
           &#128498; Player View

@@ -1,40 +1,44 @@
 import { useState, useCallback } from 'react';
 import useCombatStore from '../../store/useCombatStore';
-import { getCharacters, saveCharacter, deleteCharacter } from '../../utils/characterStorage';
+import useUserDataStore from '../../store/useUserDataStore';
 
 const EMPTY_FORM = { name: '', type: 'player', maxHP: '', ac: '10', initMod: '0' };
 
 export default function CharacterLibrary() {
   const addCombatant = useCombatStore(s => s.addCombatant);
   const combatState = useCombatStore(s => s.state);
-  const [refresh, setRefresh] = useState(0);
+
+  const characters = useUserDataStore(s => s.characters);
+  const addCharacter = useUserDataStore(s => s.addCharacter);
+  const updateCharacter = useUserDataStore(s => s.updateCharacter);
+  const removeCharacter = useUserDataStore(s => s.removeCharacter);
+
   const [form, setForm] = useState(EMPTY_FORM);
   const [editId, setEditId] = useState(null);
   const [error, setError] = useState('');
-
-  const characters = getCharacters();
 
   const handleSave = useCallback(() => {
     const name = form.name.trim();
     if (!name) { setError('Name is required.'); return; }
 
-    try {
-      saveCharacter({
-        ...(editId ? { id: editId } : {}),
-        name,
-        type: form.type,
-        maxHP: form.maxHP ? parseInt(form.maxHP, 10) || null : null,
-        ac: parseInt(form.ac, 10) || 10,
-        initMod: parseInt(form.initMod, 10) || 0,
-      });
-      setForm(EMPTY_FORM);
-      setEditId(null);
-      setError('');
-      setRefresh(n => n + 1);
-    } catch (err) {
-      setError(err.message);
+    const charData = {
+      name,
+      type: form.type,
+      maxHP: form.maxHP ? parseInt(form.maxHP, 10) || null : null,
+      ac: parseInt(form.ac, 10) || 10,
+      initMod: parseInt(form.initMod, 10) || 0,
+    };
+
+    if (editId) {
+      updateCharacter(editId, charData);
+    } else {
+      addCharacter(charData);
     }
-  }, [form, editId]);
+
+    setForm(EMPTY_FORM);
+    setEditId(null);
+    setError('');
+  }, [form, editId, addCharacter, updateCharacter]);
 
   function handleEdit(char) {
     setEditId(char.id);
@@ -50,9 +54,8 @@ export default function CharacterLibrary() {
 
   function handleDelete(id) {
     if (!window.confirm('Delete this character?')) return;
-    deleteCharacter(id);
+    removeCharacter(id);
     if (editId === id) { setEditId(null); setForm(EMPTY_FORM); }
-    setRefresh(n => n + 1);
   }
 
   function handleAdd(char) {
@@ -75,9 +78,6 @@ export default function CharacterLibrary() {
     setForm(EMPTY_FORM);
     setError('');
   }
-
-  // suppress unused variable lint — refresh triggers re-render to read fresh localStorage
-  void refresh;
 
   return (
     <div className="character-library">
@@ -131,34 +131,15 @@ export default function CharacterLibrary() {
         <div className="character-library__form-row">
           <label className="character-library__field">
             <span>HP</span>
-            <input
-              type="number"
-              min={1}
-              max={9999}
-              placeholder="—"
-              value={form.maxHP}
-              onChange={e => setForm(f => ({ ...f, maxHP: e.target.value }))}
-            />
+            <input type="number" min={1} max={9999} placeholder="—" value={form.maxHP} onChange={e => setForm(f => ({ ...f, maxHP: e.target.value }))} />
           </label>
           <label className="character-library__field">
             <span>AC</span>
-            <input
-              type="number"
-              min={1}
-              max={30}
-              value={form.ac}
-              onChange={e => setForm(f => ({ ...f, ac: e.target.value }))}
-            />
+            <input type="number" min={1} max={30} value={form.ac} onChange={e => setForm(f => ({ ...f, ac: e.target.value }))} />
           </label>
           <label className="character-library__field">
             <span>Init &plusmn;</span>
-            <input
-              type="number"
-              min={-10}
-              max={10}
-              value={form.initMod}
-              onChange={e => setForm(f => ({ ...f, initMod: e.target.value }))}
-            />
+            <input type="number" min={-10} max={10} value={form.initMod} onChange={e => setForm(f => ({ ...f, initMod: e.target.value }))} />
           </label>
         </div>
         <div className="character-library__form-actions">

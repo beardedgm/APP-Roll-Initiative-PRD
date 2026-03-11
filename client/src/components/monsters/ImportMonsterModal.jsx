@@ -1,16 +1,12 @@
 import { useState, useRef } from 'react';
 import Modal from '../ui/Modal';
 import useUIStore from '../../store/useUIStore';
-import { useCurrentUser } from '../../api/useAuth';
-import { useCreateMonster } from '../../api/useMonsters';
+import useUserDataStore from '../../store/useUserDataStore';
 import { parseMonsterJSON, validateMonsterData, MONSTER_JSON_TEMPLATE } from '../../utils/monsterImport';
-import { saveLocalMonster } from '../../utils/customMonsterStorage';
 
-export default function ImportMonsterModal({ onLocalSave }) {
+export default function ImportMonsterModal() {
   const closeModal = useUIStore(s => s.closeModal);
-  const createMonster = useCreateMonster();
-  const { data: user } = useCurrentUser();
-  const isPremium = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
+  const addCustomMonster = useUserDataStore(s => s.addCustomMonster);
 
   const [tab, setTab] = useState('paste'); // 'paste' | 'upload'
   const [jsonText, setJsonText] = useState('');
@@ -67,17 +63,11 @@ export default function ImportMonsterModal({ onLocalSave }) {
     if (!parsed) return;
     setSaving(true);
     try {
-      if (isPremium) {
-        await createMonster.mutateAsync(parsed);
-      } else {
-        saveLocalMonster(parsed);
-        onLocalSave?.();
-      }
+      addCustomMonster(parsed);
       reset();
       closeModal();
     } catch (err) {
-      const msg = err.response?.data?.error || err.message || 'Save failed';
-      setErrors([msg]);
+      setErrors([err.message || 'Save failed']);
       setSaving(false);
     }
   }
@@ -204,13 +194,8 @@ export default function ImportMonsterModal({ onLocalSave }) {
               onClick={handleSave}
               disabled={saving}
             >
-              {saving ? 'Saving...' : isPremium ? 'Save to Library' : 'Save Locally'}
+              {saving ? 'Saving...' : 'Save to Library'}
             </button>
-            {!isPremium && (
-              <p className="import-monster__local-note">
-                Saved to browser storage (max 50). Upgrade for cloud sync.
-              </p>
-            )}
           </div>
         )}
       </div>

@@ -2134,3 +2134,22 @@
   gap: 0.5rem;
   margin-bottom: var(--space-sm);
 }
+
+/* ── Sync Status Indicator ─────────────────────────── */
+.sync-indicator {
+  font-family: var(--font-heading);
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+}
+.sync-indicator--syncing {
+  color: var(--color-accent-gold);
+}
+.sync-indicator--synced {
+  color: var(--color-accent-green, #4ade80);
+}
+.sync-indicator--error {
+  color: var(--color-accent-red);
+}

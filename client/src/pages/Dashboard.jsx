@@ -1,14 +1,10 @@
-import { useState, useCallback } from 'react';
+import { useCallback, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useCurrentUser } from '../api/useAuth';
-import {
-  useEncounters,
-  useCreateEncounter,
-  useDeleteEncounter,
-  useShareEncounter,
-  useUnshareEncounter,
-} from '../api/useEncounters';
+import { useUserData } from '../api/useUserData';
 import useCombatStore from '../store/useCombatStore';
+import useUserDataStore from '../store/useUserDataStore';
+import useUserDataSync from '../hooks/useUserDataSync';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 import '../styles/marketing.css';
@@ -16,65 +12,58 @@ import '../styles/marketing.css';
 export default function Dashboard() {
   const navigate = useNavigate();
   const { data: user } = useCurrentUser();
-  const { data: encounters, isLoading } = useEncounters();
-  const createEncounter = useCreateEncounter();
-  const deleteEncounter = useDeleteEncounter();
-  const shareEncounter = useShareEncounter();
-  const unshareEncounter = useUnshareEncounter();
-  const [copiedId, setCopiedId] = useState(null);
+  const isAuthenticated = !!user;
+  const { data: serverData } = useUserData(isAuthenticated);
+  const loadFromServer = useUserDataStore(s => s.loadFromServer);
+  const dataLoaded = useUserDataStore(s => s._loaded);
+
+  // Load server data into store on first fetch
+  useEffect(() => {
+    if (serverData && !dataLoaded) {
+      loadFromServer(serverData);
+    }
+  }, [serverData, dataLoaded, loadFromServer]);
+
+  // Enable auto-sync when authenticated
+  useUserDataSync(isAuthenticated);
+
+  const encounterPresets = useUserDataStore(s => s.encounterPresets);
+  const addEncounterPreset = useUserDataStore(s => s.addEncounterPreset);
+  const removeEncounterPreset = useUserDataStore(s => s.removeEncounterPreset);
+  const syncStatus = useUserDataStore(s => s.syncStatus);
 
   const loadSnapshot = useCombatStore(s => s.loadSnapshot);
 
-  const handleSaveCurrent = useCallback(async () => {
+  const handleSaveCurrent = useCallback(() => {
     const state = useCombatStore.getState();
-    await createEncounter.mutateAsync({
-      name: state.name,
+    const name = window.prompt('Save encounter as:', state.name || 'New Encounter');
+    if (!name?.trim()) return;
+    addEncounterPreset({
+      name: name.trim(),
+      combatants: state.combatants,
       state: state.state,
       currentRound: state.currentRound,
       activeCreatureId: state.activeCreatureId,
-      combatants: state.combatants,
       diceHistory: state.diceHistory,
     });
-  }, [createEncounter]);
+  }, [addEncounterPreset]);
 
-  const handleLoad = useCallback(async (encounter) => {
-    // Fetch full encounter data and load into store
-    const { data } = await (await import('../api/axiosInstance')).default.get(`/encounters/${encounter._id}`);
-    const enc = data.encounter;
+  const handleLoad = useCallback((preset) => {
     loadSnapshot({
-      id: enc._id,
-      cloudId: enc._id,
-      shareCode: enc.shareCode || null,
-      name: enc.name,
-      state: enc.state,
-      currentRound: enc.currentRound,
-      activeCreatureId: enc.activeCreatureId,
-      combatants: enc.combatants,
-      diceHistory: enc.diceHistory || [],
+      name: preset.name,
+      combatants: preset.combatants,
+      state: preset.state,
+      currentRound: preset.currentRound,
+      activeCreatureId: preset.activeCreatureId,
+      diceHistory: preset.diceHistory || [],
     });
     navigate('/tracker');
   }, [loadSnapshot, navigate]);
 
-  const handleDelete = useCallback(async (id) => {
+  const handleDelete = useCallback((id) => {
     if (!window.confirm('Delete this encounter? This cannot be undone.')) return;
-    await deleteEncounter.mutateAsync(id);
-  }, [deleteEncounter]);
-
-  const handleShare = useCallback(async (id) => {
-    const result = await shareEncounter.mutateAsync(id);
-    const url = `${window.location.origin}/play/${result.shareCode}`;
-    try {
-      await navigator.clipboard.writeText(url);
-    } catch {
-      // clipboard not available — silent fail
-    }
-    setCopiedId(id);
-    setTimeout(() => setCopiedId(null), 2000);
-  }, [shareEncounter]);
-
-  const handleUnshare = useCallback(async (id) => {
-    await unshareEncounter.mutateAsync(id);
-  }, [unshareEncounter]);
+    removeEncounterPreset(id);
+  }, [removeEncounterPreset]);
 
   if (!user) {
     return (
@@ -98,72 +87,59 @@ export default function Dashboard() {
         <div className="dashboard-container">
           <div className="dashboard-header">
             <h1 className="dashboard-header__title">Saved Encounters</h1>
-            <button
-              className="btn btn--primary"
-              onClick={handleSaveCurrent}
-              disabled={createEncounter.isPending}
-            >
-              {createEncounter.isPending ? 'Saving...' : 'Save Current Encounter'}
-            </button>
+            <div className="dashboard-header__actions">
+              <button
+                className="btn btn--primary"
+                onClick={handleSaveCurrent}
+              >
+                Save Current Encounter
+              </button>
+              {syncStatus !== 'idle' && (
+                <span className={`sync-indicator sync-indicator--${syncStatus}`}>
+                  {syncStatus === 'syncing' ? 'Saving...' : syncStatus === 'synced' ? 'Saved' : 'Sync error'}
+                </span>
+              )}
+            </div>
           </div>
 
-          {isLoading ? (
-            <p className="dashboard-loading">Loading encounters...</p>
-          ) : !encounters || encounters.length === 0 ? (
+          {encounterPresets.length === 0 ? (
             <div className="dashboard-empty">
               <p>No saved encounters yet.</p>
-              <p>Set up an encounter in the tracker, then come back here to save it to the cloud.</p>
+              <p>Set up an encounter in the tracker, then come back here to save it.</p>
             </div>
           ) : (
             <div className="dashboard-grid">
-              {encounters.map(enc => (
-                <div key={enc._id} className="encounter-card">
+              {encounterPresets.map(preset => (
+                <div key={preset.id} className="encounter-card">
                   <div className="encounter-card__header">
-                    <h3 className="encounter-card__name">{enc.name}</h3>
-                    <span className={`encounter-card__badge encounter-card__badge--${enc.state}`}>
-                      {enc.state === 'combat' ? `Round ${enc.currentRound}` : 'Pre-Combat'}
+                    <h3 className="encounter-card__name">{preset.name}</h3>
+                    <span className={`encounter-card__badge encounter-card__badge--${preset.state || 'pre-combat'}`}>
+                      {preset.state === 'combat' ? `Round ${preset.currentRound}` : 'Pre-Combat'}
                     </span>
                   </div>
                   <p className="encounter-card__meta">
-                    {enc.combatantCount} combatant{enc.combatantCount !== 1 ? 's' : ''}
-                    {' \u2022 '}
-                    Updated {new Date(enc.updatedAt).toLocaleDateString()}
+                    {preset.combatants?.length || 0} combatant{(preset.combatants?.length || 0) !== 1 ? 's' : ''}
+                    {preset.createdAt && (
+                      <>
+                        {' \u2022 '}
+                        Saved {new Date(preset.createdAt).toLocaleDateString()}
+                      </>
+                    )}
                   </p>
                   <div className="encounter-card__actions">
                     <button
                       className="btn btn--small btn--primary"
-                      onClick={() => handleLoad(enc)}
+                      onClick={() => handleLoad(preset)}
                     >
                       Load
                     </button>
-                    {enc.shareCode ? (
-                      <button
-                        className="btn btn--small btn--outline"
-                        onClick={() => handleUnshare(enc._id)}
-                      >
-                        Unshare
-                      </button>
-                    ) : (
-                      <button
-                        className="btn btn--small btn--outline"
-                        onClick={() => handleShare(enc._id)}
-                      >
-                        {copiedId === enc._id ? 'Copied!' : 'Share'}
-                      </button>
-                    )}
                     <button
                       className="btn btn--small btn--danger"
-                      onClick={() => handleDelete(enc._id)}
-                      disabled={deleteEncounter.isPending}
+                      onClick={() => handleDelete(preset.id)}
                     >
                       Delete
                     </button>
                   </div>
-                  {enc.shareCode && (
-                    <p className="encounter-card__share-url">
-                      Player link: /play/{enc.shareCode}
-                    </p>
-                  )}
                 </div>
               ))}
             </div>
