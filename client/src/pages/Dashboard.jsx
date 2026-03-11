@@ -1,8 +1,10 @@
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useCurrentUser } from '../api/useAuth';
+import { useUserData } from '../api/useUserData';
 import useCombatStore from '../store/useCombatStore';
 import useUserDataStore from '../store/useUserDataStore';
+import useUserDataSync from '../hooks/useUserDataSync';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 import '../styles/marketing.css';
@@ -10,6 +12,20 @@ import '../styles/marketing.css';
 export default function Dashboard() {
   const navigate = useNavigate();
   const { data: user } = useCurrentUser();
+  const isAuthenticated = !!user;
+  const { data: serverData } = useUserData(isAuthenticated);
+  const loadFromServer = useUserDataStore(s => s.loadFromServer);
+  const dataLoaded = useUserDataStore(s => s._loaded);
+
+  // Load server data into store on first fetch
+  useEffect(() => {
+    if (serverData && !dataLoaded) {
+      loadFromServer(serverData);
+    }
+  }, [serverData, dataLoaded, loadFromServer]);
+
+  // Enable auto-sync when authenticated
+  useUserDataSync(isAuthenticated);
 
   const encounterPresets = useUserDataStore(s => s.encounterPresets);
   const addEncounterPreset = useUserDataStore(s => s.addEncounterPreset);

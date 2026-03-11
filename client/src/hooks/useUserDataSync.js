@@ -63,13 +63,18 @@ export default function useUserDataSync(enabled) {
   useEffect(() => {
     if (!enabled) return;
 
-    const unsub = useUserDataStore.subscribe(() => {
-      const { _loaded } = useUserDataStore.getState();
-      if (!_loaded) return;
+    // Subscribe with selector to only fire on data changes, not syncStatus
+    const unsub = useUserDataStore.subscribe(
+      (s) => [s.characters, s.customMonsters, s.encounterPresets],
+      () => {
+        const { _loaded } = useUserDataStore.getState();
+        if (!_loaded) return;
 
-      if (timerRef.current) clearTimeout(timerRef.current);
-      timerRef.current = setTimeout(sync, 2000);
-    });
+        if (timerRef.current) clearTimeout(timerRef.current);
+        timerRef.current = setTimeout(sync, 2000);
+      },
+      { equalityFn: (a, b) => a[0] === b[0] && a[1] === b[1] && a[2] === b[2] }
+    );
 
     return () => {
       unsub();

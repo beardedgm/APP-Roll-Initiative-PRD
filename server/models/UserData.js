@@ -14,6 +14,9 @@ const CharacterSchema = new mongoose.Schema({
 const CustomMonsterSchema = new mongoose.Schema({
   slug:                 { type: String, required: true },
   name:                 { type: String, required: true },
+  isCustom:             { type: Boolean, default: true },
+  sourceKey:            { type: String, default: 'custom' },
+  source:               { type: String, default: 'Custom' },
   size:                 { type: String },
   type:                 { type: String },
   alignment:            { type: String },

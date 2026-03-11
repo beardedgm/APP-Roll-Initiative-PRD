@@ -19,6 +19,9 @@ const entrySchema = z.object({
 const customMonsterSchema = z.object({
   slug: z.string().min(1).max(200),
   name: z.string().min(1).max(100),
+  isCustom: z.boolean().optional().default(true),
+  sourceKey: z.string().max(50).optional().default('custom'),
+  source: z.string().max(50).optional().default('Custom'),
   size: z.string().max(50).optional(),
   type: z.string().max(100).optional(),
   alignment: z.string().max(100).optional(),
