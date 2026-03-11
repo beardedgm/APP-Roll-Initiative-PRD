@@ -69,7 +69,6 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
   const localMonsters = (!isPremium && !sourceFilter) || sourceFilter === 'custom'
     ? searchLocalMonsters({ q: debouncedQuery, cr: crFilter || undefined })
     : [];
-  // eslint-disable-next-line no-unused-vars
   const _localDep = localRefresh; // trigger re-render on local changes
   const results = sourceFilter === 'custom' && !isPremium
     ? localMonsters
@@ -124,7 +123,6 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
         monster={selectedMonster}
         loading={loadingDetail}
         onBack={() => setSelectedSlug(null)}
-        onAdd={handleAddToEncounter}
         onRollDice={onRollDice}
         onDelete={(isPremium || isLocalSlug) ? handleDeleteMonster : undefined}
         onEdit={(isLocalSlug || isPremium) ? (monster) => openEditMonster(monster) : undefined}
@@ -260,7 +258,7 @@ export default MonsterDatabase;
 
 /* ── Stat Block Detail View ─────────────────────────────────── */
 
-function MonsterDetail({ monster, loading, onBack, onAdd, onRollDice, onDelete, onEdit }) {
+function MonsterDetail({ monster, loading, onBack, onRollDice, onDelete, onEdit }) {
   const detailRef = useRef(null);
 
   // After render, attach click handlers to dice notation

@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState } from 'react';
 import useCombatStore from '../../store/useCombatStore';
 
 function buildLabel(entry) {
@@ -28,31 +28,17 @@ function Breakdown({ entry }) {
 
 export default function DiceToast() {
   const diceHistory = useCombatStore(s => s.diceHistory);
-  const [entry, setEntry] = useState(null);
-  const [visible, setVisible] = useState(false);
-  const prevLenRef = useRef(diceHistory?.length ?? 0);
-  const animKey = useRef(0);
+  const [dismissedLen, setDismissedLen] = useState(0);
 
-  useEffect(() => {
-    const len = diceHistory?.length ?? 0;
-    if (len > 0 && len !== prevLenRef.current) {
-      const latest = diceHistory[0]; // newest is first
-      animKey.current += 1;
-      setEntry(latest);
-      setVisible(true);
-    }
-    prevLenRef.current = len;
-  }, [diceHistory]);
-
-  function handleDismiss() {
-    setVisible(false);
-  }
+  const len = diceHistory?.length ?? 0;
+  const entry = len > 0 ? diceHistory[0] : null;
+  const visible = len > 0 && len !== dismissedLen;
 
   if (!entry) return null;
 
   return (
-    <div className={`dice-toast${visible ? ' dice-toast--visible' : ''}`} key={animKey.current}>
-      <button className="dice-toast__close" onClick={handleDismiss} title="Dismiss">&#10005;</button>
+    <div className={`dice-toast${visible ? ' dice-toast--visible' : ''}`} key={`${len}-${entry.total}`}>
+      <button className="dice-toast__close" onClick={() => setDismissedLen(len)} title="Dismiss">&#10005;</button>
       <span className="dice-toast__label">{buildLabel(entry)}</span>
       <span className="dice-toast__total">{entry.total}</span>
       <Breakdown entry={entry} />

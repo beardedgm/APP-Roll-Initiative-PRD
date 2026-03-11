@@ -1,5 +1,4 @@
 import useCombatStore from '../../store/useCombatStore';
-import useUIStore from '../../store/useUIStore';
 
 export default function TurnControls() {
   const combatState = useCombatStore(s => s.state);
@@ -10,7 +9,6 @@ export default function TurnControls() {
   const prevTurn = useCombatStore(s => s.prevTurn);
   const canGoPrev = useCombatStore(s => s.canGoPrev);
   const endCombat = useCombatStore(s => s.endCombat);
-  const openModal = useUIStore(s => s.openModal);
 
   if (combatState === 'pre-combat') {
     return null;

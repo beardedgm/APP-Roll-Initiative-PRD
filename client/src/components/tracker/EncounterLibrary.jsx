@@ -21,6 +21,7 @@ function LocalEncounters() {
   const [saveName, setSaveName] = useState('');
   const importRef = useRef(null);
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const saves = useMemo(() => loadNamedEncounters(), [refresh]);
 
   const handleSave = useCallback(() => {

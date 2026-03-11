@@ -1,4 +1,4 @@
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback } from 'react';
 import Modal from '../ui/Modal';
 import useUIStore from '../../store/useUIStore';
 import { useCurrentUser } from '../../api/useAuth';
@@ -23,11 +23,6 @@ export default function MonsterFormModal({ editMonster: editMonsterProp, onLocal
   const mergedEdit = editMonster ? { ...getDefaultFormData(), ...editMonster } : null;
   const [form, setForm] = useState(() => mergedEdit || getDefaultFormData());
   const [openSections, setOpenSections] = useState({ basics: true });
-
-  // Reset form when editMonster changes (opening modal with different data)
-  useEffect(() => {
-    setForm(editMonster ? { ...getDefaultFormData(), ...editMonster } : getDefaultFormData());
-  }, [editMonster]);
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState('');
 
@@ -90,7 +85,7 @@ export default function MonsterFormModal({ editMonster: editMonsterProp, onLocal
   }, [form, isPremium, isEdit, editMonster, createMonster, updateMonster, closeModal, onLocalSave]);
 
   return (
-    <Modal id="monster-form" title={isEdit ? `Edit ${form.name || 'Monster'}` : 'Create Custom Monster'}>
+    <Modal id="monster-form" key={editMonster?.slug || 'create'} title={isEdit ? `Edit ${form.name || 'Monster'}` : 'Create Custom Monster'}>
       <div className="monster-form">
         {error && <div className="monster-form__error">{error}</div>}
 
