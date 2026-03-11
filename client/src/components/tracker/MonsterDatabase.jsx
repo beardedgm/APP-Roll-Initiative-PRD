@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef, useCallback, forwardRef, useImperativeHandle } from 'react';
 import { marked } from 'marked';
 import DOMPurify from 'dompurify';
-import { useMonsterBrowse, useMonster, useMonsterSources, useDeleteMonster } from '../../api/useMonsters';
+import { useMonsterBrowse, useMonster, useMonsterSources } from '../../api/useMonsters';
 import useCombatStore from '../../store/useCombatStore';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
@@ -85,20 +85,14 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
   const selectedMonster = isCustomSlug ? storeDetailMonster : apiMonster;
   const loadingDetail = isCustomSlug ? false : loadingApiDetail;
 
-  const deleteMonster = useDeleteMonster();
-
-  const handleDeleteMonster = useCallback(async (slug) => {
+  const handleDeleteMonster = useCallback((slug) => {
     try {
-      if (storeMonsters.some(m => m.slug === slug)) {
-        removeCustomMonster(slug);
-      } else {
-        await deleteMonster.mutateAsync(slug);
-      }
+      removeCustomMonster(slug);
       setSelectedSlug(null);
     } catch {
       window.alert('Failed to delete monster.');
     }
-  }, [storeMonsters, removeCustomMonster, deleteMonster]);
+  }, [removeCustomMonster]);
 
   const handleAddToEncounter = useCallback((monster) => {
     if (onAddToEncounter) {
