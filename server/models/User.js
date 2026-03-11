@@ -44,7 +44,7 @@ UserSchema.methods.verifyPassword = function (password) {
 
 // Never return password fields in JSON
 UserSchema.methods.toSafeJSON = function () {
-  const { hashedPassword, salt, __v, ...obj } = this.toObject();
+  const { hashedPassword: _hp, salt: _s, __v: _v, ...obj } = this.toObject();
   return obj;
 };
 

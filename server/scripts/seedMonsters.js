@@ -56,7 +56,7 @@ function slugFromFilename(filename) {
 }
 
 // ── Parse standard format (5.1 SRD, CC, ToB, A5E) ───────────
-function parseStandard(md, sourceKey) {
+function parseStandard(md, _sourceKey) {
   const lines = md.split('\n');
   const result = { abilities: {} };
 
@@ -177,7 +177,6 @@ function parse52(md) {
   }
 
   // Ability scores: 4-column table | STR | 21 | +5 | +5 |
-  const abilityNames = ['str', 'dex', 'con', 'int', 'wis', 'cha'];
   for (const line of lines) {
     const m = line.match(/\|\s*(STR|DEX|CON|INT|WIS|CHA)\s*\|\s*(\d+)\s*\|/i);
     if (m) {

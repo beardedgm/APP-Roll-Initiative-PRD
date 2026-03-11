@@ -7,6 +7,7 @@ import { exportEncounterJSON, importEncounterJSON } from '../../utils/encounterS
 import useUIStore from '../../store/useUIStore';
 import { useCurrentUser } from '../../api/useAuth';
 import { useCreateEncounter, useShareEncounter, useUnshareEncounter } from '../../api/useEncounters';
+import { useSyncStatus } from '../../hooks/useCloudSync';
 
 export default function TrackerHeader() {
   const {
@@ -33,6 +34,7 @@ export default function TrackerHeader() {
   const shareEncounter = useShareEncounter();
   const unshareEncounter = useUnshareEncounter();
   const [copied, setCopied] = useState(false);
+  const syncStatus = useSyncStatus(s => s.syncStatus);
 
   const isPremium = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
 
@@ -187,7 +189,17 @@ export default function TrackerHeader() {
             <span className="header-divider" />
             {cloudId ? (
               <>
-                <span className="btn btn--icon cloud-synced" title="Auto-syncing to cloud">&#9729; Synced</span>
+                <span className="sync-indicator" title={
+                  syncStatus === 'syncing' ? 'Saving changes...' :
+                  syncStatus === 'synced' ? 'All changes saved' :
+                  syncStatus === 'error' ? 'Sync failed — will retry on next change' :
+                  'Auto-syncing to cloud'
+                }>
+                  {syncStatus === 'syncing' && <span className="sync-indicator__syncing">&#9729; Saving...</span>}
+                  {syncStatus === 'synced' && <span className="sync-indicator__saved">&#10003; Saved</span>}
+                  {syncStatus === 'error' && <span className="sync-indicator__error">&#9888; Sync failed</span>}
+                  {syncStatus === 'idle' && <span className="sync-indicator__idle">&#9729; Cloud</span>}
+                </span>
                 <button className="btn btn--icon" onClick={handleToggleShare} title={shareCode ? 'Remove share link' : 'Generate share link'}>
                   {shareCode ? (copied ? '&#10003; Copied!' : '&#128279; Unshare') : '&#128279; Share'}
                 </button>

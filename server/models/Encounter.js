@@ -16,6 +16,16 @@ const CombatantSchema = new mongoose.Schema({
   monsterSlug: { type: String },
 }, { _id: false });
 
+const DiceHistoryEntrySchema = new mongoose.Schema({
+  id:        { type: String, required: true },
+  sides:     { type: Number, required: true },
+  count:     { type: Number, required: true },
+  modifier:  { type: Number, required: true },
+  advantage: { type: String, enum: ['normal', 'advantage', 'disadvantage'], required: true },
+  rolls:     { type: [Number], required: true },
+  total:     { type: Number, required: true },
+}, { _id: false });
+
 const EncounterSchema = new mongoose.Schema({
   userId:           { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true, index: true },
   name:             { type: String, required: true, trim: true, default: 'New Encounter' },
@@ -24,7 +34,7 @@ const EncounterSchema = new mongoose.Schema({
   currentRound:     { type: Number, default: 1 },
   activeCreatureId: { type: String, default: null },
   combatants:       [CombatantSchema],
-  diceHistory:      { type: Array, default: [] },
+  diceHistory:      [DiceHistoryEntrySchema],
   lastSyncedAt:     { type: Date, default: Date.now },
 }, { timestamps: true });
 

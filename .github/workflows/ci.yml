@@ -37,8 +37,11 @@ jobs:
       - name: Build client
         run: cd client && npm run build
 
+      - name: Lint server
+        run: cd server && npm run lint
+
       - name: Audit client dependencies
-        run: cd client && npm audit --omit=dev || true
+        run: cd client && npm audit --omit=dev --audit-level=critical
 
       - name: Audit server dependencies
-        run: cd server && npm audit --omit=dev || true
+        run: cd server && npm audit --omit=dev --audit-level=critical

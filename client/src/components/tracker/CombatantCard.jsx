@@ -40,7 +40,7 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
       onDragEnd={onDragEnd}
     >
       <div className="combatant-card__header">
-        <span className="drag-handle" title="Drag to reorder">&#9776;</span>
+        <span className="drag-handle" title="Drag to reorder" role="img" aria-label="Drag to reorder">&#9776;</span>
         <div className="combatant-card__left">
           <span className="combatant-card__initiative">{initDisplay}</span>
           <div className="combatant-card__info">
@@ -64,6 +64,7 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
           className="btn btn--remove"
           onClick={() => removeCombatant(id)}
           title={`Remove ${name}`}
+          aria-label={`Remove ${name}`}
         >
           &times;
         </button>

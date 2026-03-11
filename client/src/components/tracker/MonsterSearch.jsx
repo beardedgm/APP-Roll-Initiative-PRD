@@ -1,17 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { useMonsterSearch } from '../../api/useMonsters';
 import useUIStore from '../../store/useUIStore';
-
-const SOURCE_BADGES = {
-  '5.1_srd': '5.1',
-  '5.2_srd': '5.2',
-  a5e: 'A5E',
-  black_flag: 'BF',
-  cc: 'CC',
-  tob1: 'ToB',
-  tob2: 'ToB2',
-  tob3: 'ToB3',
-};
+import SOURCE_BADGES from '../../constants/monsterSources';
 
 export default function MonsterSearch({ onSelectMonster }) {
   const [query, setQuery] = useState('');
@@ -102,6 +92,7 @@ export default function MonsterSearch({ onSelectMonster }) {
                   className="monster-search__view-btn"
                   onClick={e => handleViewStatBlock(e, m)}
                   title="View stat block"
+                  aria-label={`View ${m.name} stat block`}
                 >
                   &#128214;
                 </button>
