@@ -51,7 +51,6 @@ export default function TrackerHeader() {
     <header className="dm-header">
       <div className="dm-header__left">
         <h1>&#9876; Initiative Tracker</h1>
-        <span className="dm-header__subtitle">Dungeon Master View</span>
       </div>
 
       <div className="dm-header__right">
