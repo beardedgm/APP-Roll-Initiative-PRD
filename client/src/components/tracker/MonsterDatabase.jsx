@@ -28,6 +28,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
 
   const addCombatant = useCombatStore(s => s.addCombatant);
   const openModal = useUIStore(s => s.openModal);
+  const openEditMonster = useUIStore(s => s.openEditMonster);
   const { data: user } = useCurrentUser();
   const isPremium = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
 
@@ -68,7 +69,6 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
   const localMonsters = (!isPremium && !sourceFilter) || sourceFilter === 'custom'
     ? searchLocalMonsters({ q: debouncedQuery, cr: crFilter || undefined })
     : [];
-  // eslint-disable-next-line no-unused-vars
   const _localDep = localRefresh; // trigger re-render on local changes
   const results = sourceFilter === 'custom' && !isPremium
     ? localMonsters
@@ -123,9 +123,9 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
         monster={selectedMonster}
         loading={loadingDetail}
         onBack={() => setSelectedSlug(null)}
-        onAdd={handleAddToEncounter}
         onRollDice={onRollDice}
         onDelete={(isPremium || isLocalSlug) ? handleDeleteMonster : undefined}
+        onEdit={(isLocalSlug || isPremium) ? (monster) => openEditMonster(monster) : undefined}
       />
     );
   }
@@ -258,7 +258,7 @@ export default MonsterDatabase;
 
 /* ── Stat Block Detail View ─────────────────────────────────── */
 
-function MonsterDetail({ monster, loading, onBack, onAdd, onRollDice, onDelete }) {
+function MonsterDetail({ monster, loading, onBack, onRollDice, onDelete, onEdit }) {
   const detailRef = useRef(null);
 
   // After render, attach click handlers to dice notation
@@ -315,6 +315,14 @@ function MonsterDetail({ monster, loading, onBack, onAdd, onRollDice, onDelete }
       <div className="monster-detail__header">
         <button className="monster-detail__back" onClick={onBack} aria-label="Back to list">&larr; Back</button>
         <div className="monster-detail__header-actions">
+          {monster.isCustom && onEdit && (
+            <button
+              className="btn btn--sm btn--secondary"
+              onClick={() => onEdit(monster)}
+            >
+              Edit
+            </button>
+          )}
           {monster.isCustom && onDelete && (
             <button
               className="btn btn--danger btn--sm"
@@ -327,12 +335,6 @@ function MonsterDetail({ monster, loading, onBack, onAdd, onRollDice, onDelete }
               Delete
             </button>
           )}
-          <button
-            className="btn btn--primary btn--sm"
-            onClick={() => onAdd(monster)}
-          >
-            + Add to Encounter
-          </button>
         </div>
       </div>
       <div

@@ -10,15 +10,18 @@ import {
   getDefaultFormData, formDataToMonsterAPI,
 } from '../../utils/monsterFormHelpers';
 
-export default function MonsterFormModal({ editMonster, onLocalSave }) {
+export default function MonsterFormModal({ editMonster: editMonsterProp, onLocalSave }) {
   const closeModal = useUIStore(s => s.closeModal);
+  const editMonsterStore = useUIStore(s => s.editMonsterData);
   const createMonster = useCreateMonster();
   const updateMonster = useUpdateMonster();
   const { data: user } = useCurrentUser();
   const isPremium = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
 
+  const editMonster = editMonsterProp || editMonsterStore;
   const isEdit = !!editMonster;
-  const [form, setForm] = useState(() => editMonster || getDefaultFormData());
+  const mergedEdit = editMonster ? { ...getDefaultFormData(), ...editMonster } : null;
+  const [form, setForm] = useState(() => mergedEdit || getDefaultFormData());
   const [openSections, setOpenSections] = useState({ basics: true });
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState('');
@@ -82,7 +85,7 @@ export default function MonsterFormModal({ editMonster, onLocalSave }) {
   }, [form, isPremium, isEdit, editMonster, createMonster, updateMonster, closeModal, onLocalSave]);
 
   return (
-    <Modal id="monster-form" title={isEdit ? `Edit ${form.name || 'Monster'}` : 'Create Custom Monster'}>
+    <Modal id="monster-form" key={editMonster?.slug || 'create'} title={isEdit ? `Edit ${form.name || 'Monster'}` : 'Create Custom Monster'}>
       <div className="monster-form">
         {error && <div className="monster-form__error">{error}</div>}
 
