@@ -1,6 +1,10 @@
 import { useEffect, useCallback, useRef } from 'react';
 import useCombatStore from '../store/useCombatStore';
 import useUIStore from '../store/useUIStore';
+import { useCurrentUser } from '../api/useAuth';
+import { useUserData } from '../api/useUserData';
+import useUserDataStore from '../store/useUserDataStore';
+import useUserDataSync from '../hooks/useUserDataSync';
 import TrackerHeader from '../components/tracker/TrackerHeader';
 import TurnControls from '../components/tracker/TurnControls';
 import InitiativeList from '../components/tracker/InitiativeList';
@@ -22,6 +26,22 @@ export default function Tracker() {
   const combatState = useCombatStore(s => s.state);
   const combatants = useCombatStore(s => s.combatants);
   const openModal = useUIStore(s => s.openModal);
+
+  const { data: user } = useCurrentUser();
+  const isAuthenticated = !!user;
+  const { data: serverData } = useUserData(isAuthenticated);
+  const loadFromServer = useUserDataStore(s => s.loadFromServer);
+  const dataLoaded = useUserDataStore(s => s._loaded);
+
+  // Load server data into store on first fetch
+  useEffect(() => {
+    if (serverData && !dataLoaded) {
+      loadFromServer(serverData);
+    }
+  }, [serverData, dataLoaded, loadFromServer]);
+
+  // Enable auto-sync when authenticated
+  useUserDataSync(isAuthenticated);
 
   useEffect(() => {
     function handleKeyDown(e) {
