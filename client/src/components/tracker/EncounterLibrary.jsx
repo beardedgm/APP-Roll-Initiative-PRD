@@ -1,15 +1,9 @@
-import { useState, useCallback, useMemo, useRef } from 'react';
+import { useState, useCallback } from 'react';
 import useCombatStore from '../../store/useCombatStore';
 import { useShallow } from 'zustand/react/shallow';
-import { loadNamedEncounters, saveNamedEncounter, deleteNamedEncounter, exportEncounterJSON, importEncounterJSON } from '../../utils/encounterSaves';
+import useUserDataStore from '../../store/useUserDataStore';
 
 export default function EncounterLibrary() {
-  return <LocalEncounters />;
-}
-
-/* ── Local Encounters ──────────────────────────────────── */
-
-function LocalEncounters() {
   const { combatants, state, currentRound, activeCreatureId, diceHistory } = useCombatStore(
     useShallow(s => ({
       combatants: s.combatants, state: s.state,
@@ -17,94 +11,63 @@ function LocalEncounters() {
     }))
   );
   const loadSnapshot = useCombatStore(s => s.loadSnapshot);
-  const [refresh, setRefresh] = useState(0);
-  const [saveName, setSaveName] = useState('');
-  const importRef = useRef(null);
 
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  const saves = useMemo(() => loadNamedEncounters(), [refresh]);
+  const encounterPresets = useUserDataStore(s => s.encounterPresets);
+  const addEncounterPreset = useUserDataStore(s => s.addEncounterPreset);
+  const removeEncounterPreset = useUserDataStore(s => s.removeEncounterPreset);
+
+  const [saveName, setSaveName] = useState('');
 
   const handleSave = useCallback(() => {
     if (!saveName.trim()) return;
-    const id = `save_${Date.now()}_${Math.random().toString(36).slice(2, 6)}`;
-    saveNamedEncounter({
-      id,
+    addEncounterPreset({
       name: saveName.trim(),
-      savedAt: new Date().toISOString(),
-      snapshot: { name: saveName.trim(), combatants, state, currentRound, activeCreatureId, diceHistory },
+      combatants,
+      state,
+      currentRound,
+      activeCreatureId,
+      diceHistory,
     });
     setSaveName('');
-    setRefresh(n => n + 1);
-  }, [saveName, combatants, state, currentRound, activeCreatureId, diceHistory]);
+  }, [saveName, combatants, state, currentRound, activeCreatureId, diceHistory, addEncounterPreset]);
 
-  function handleLoad(save) {
-    if (!window.confirm(`Load "${save.name}"? Unsaved changes will be lost.`)) return;
-    loadSnapshot(save.snapshot);
+  function handleLoad(preset) {
+    if (!window.confirm(`Load "${preset.name}"? Unsaved changes will be lost.`)) return;
+    loadSnapshot({
+      name: preset.name,
+      combatants: preset.combatants,
+      state: preset.state,
+      currentRound: preset.currentRound,
+      activeCreatureId: preset.activeCreatureId,
+      diceHistory: preset.diceHistory || [],
+    });
   }
 
   function handleDelete(id) {
     if (!window.confirm('Delete this saved encounter?')) return;
-    deleteNamedEncounter(id);
-    setRefresh(n => n + 1);
+    removeEncounterPreset(id);
   }
-
-  function handleExport() {
-    const { id, name: n, state: s, currentRound: cr, activeCreatureId: ac, combatants: c, diceHistory: dh } = useCombatStore.getState();
-    exportEncounterJSON({ id, name: n, state: s, currentRound: cr, activeCreatureId: ac, combatants: c, diceHistory: dh });
-  }
-
-  function handleImport(e) {
-    const file = e.target.files[0];
-    if (!file) return;
-    importEncounterJSON(file)
-      .then(imported => {
-        if (!window.confirm(`Import "${imported.name || 'encounter'}"? This replaces the current encounter.`)) return;
-        useCombatStore.getState().loadSnapshot(imported);
-      })
-      .catch(err => window.alert(`Import failed: ${err.message}`));
-    e.target.value = '';
-  }
-
-  // suppress unused variable lint
-  void refresh;
 
   return (
     <div className="encounter-library">
       <div className="encounter-library__list">
-        {saves.length === 0 ? (
+        {encounterPresets.length === 0 ? (
           <p className="encounter-library__empty">No saved encounters yet.</p>
         ) : (
-          saves.map(save => (
+          encounterPresets.map(preset => (
             <EncounterRow
-              key={save.id}
-              name={save.name}
-              count={save.snapshot?.combatants?.length || 0}
-              date={save.savedAt}
-              onLoad={() => handleLoad(save)}
-              onDelete={() => handleDelete(save.id)}
+              key={preset.id}
+              name={preset.name}
+              count={preset.combatants?.length || 0}
+              date={preset.createdAt}
+              onLoad={() => handleLoad(preset)}
+              onDelete={() => handleDelete(preset.id)}
             />
           ))
         )}
       </div>
 
       <div className="encounter-library__footer">
-        <div className="encounter-library__actions-row">
-          <button className="btn btn--secondary btn--sm" onClick={handleExport} title="Export as JSON file">
-            &#8593; Export JSON
-          </button>
-          <label className="btn btn--secondary btn--sm" htmlFor="encounter-import" title="Import from JSON file" style={{ cursor: 'pointer' }}>
-            &#8595; Import JSON
-          </label>
-          <input
-            ref={importRef}
-            type="file"
-            id="encounter-import"
-            accept=".json,application/json"
-            className="hidden"
-            onChange={handleImport}
-          />
-        </div>
-
         <div className="encounter-library__save-row">
           <input
             type="text"
@@ -136,7 +99,7 @@ function EncounterRow({ name, count, date, onLoad, onDelete }) {
       <div className="encounter-library__item-info">
         <span className="encounter-library__item-name">{name || 'Unnamed'}</span>
         <span className="encounter-library__item-meta">
-          {count} creature{count !== 1 ? 's' : ''}{formattedDate && ` \u2014 ${formattedDate}`}
+          {count} creature{count !== 1 ? 's' : ''}{formattedDate && ` — ${formattedDate}`}
         </span>
       </div>
       <div className="encounter-library__item-actions">
