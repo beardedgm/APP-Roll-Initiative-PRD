@@ -54,9 +54,14 @@ app.use(helmet({
   contentSecurityPolicy: process.env.NODE_ENV === 'production' ? undefined : false,
 }));
 
+const corsSource = process.env.CORS_ORIGINS || process.env.APP_URL || '';
 const allowedOrigins = process.env.NODE_ENV === 'production'
-  ? (process.env.CORS_ORIGINS || process.env.APP_URL).split(',').map(s => s.trim())
+  ? corsSource.split(',').map(s => s.trim()).filter(Boolean)
   : ['http://localhost:5173'];
+
+if (process.env.NODE_ENV === 'production' && allowedOrigins.length === 0) {
+  logger.warn('Neither CORS_ORIGINS nor APP_URL is set — CORS will block all browser requests');
+}
 
 app.use(cors({
   origin(origin, callback) {
