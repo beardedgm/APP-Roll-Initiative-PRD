@@ -124,7 +124,7 @@ export default function Tracker() {
         onRollDice={handleStatBlockRoll}
       />
       <ImportMonsterModal />
-      <MonsterFormModal onLocalSave={() => leftPanelRef.current?.refreshLocal()} />
+      <MonsterFormModal />
       <DiceToast />
     </>
   );

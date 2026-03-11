@@ -1,22 +1,18 @@
 import { useState, useCallback } from 'react';
 import Modal from '../ui/Modal';
 import useUIStore from '../../store/useUIStore';
-import { useCurrentUser } from '../../api/useAuth';
-import { useCreateMonster, useUpdateMonster } from '../../api/useMonsters';
-import { saveLocalMonster } from '../../utils/customMonsterStorage';
+import useUserDataStore from '../../store/useUserDataStore';
 import {
   SIZE_OPTIONS, TYPE_OPTIONS, ALIGNMENT_OPTIONS, CR_OPTIONS,
   ABILITY_NAMES, ABILITY_LABELS, formatModifier,
   getDefaultFormData, formDataToMonsterAPI,
 } from '../../utils/monsterFormHelpers';
 
-export default function MonsterFormModal({ editMonster: editMonsterProp, onLocalSave }) {
+export default function MonsterFormModal({ editMonster: editMonsterProp }) {
   const closeModal = useUIStore(s => s.closeModal);
   const editMonsterStore = useUIStore(s => s.editMonsterData);
-  const createMonster = useCreateMonster();
-  const updateMonster = useUpdateMonster();
-  const { data: user } = useCurrentUser();
-  const isPremium = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
+  const addCustomMonster = useUserDataStore(s => s.addCustomMonster);
+  const updateCustomMonster = useUserDataStore(s => s.updateCustomMonster);
 
   const editMonster = editMonsterProp || editMonsterStore;
   const isEdit = !!editMonster;
@@ -63,26 +59,17 @@ export default function MonsterFormModal({ editMonster: editMonsterProp, onLocal
     setError('');
     try {
       const payload = formDataToMonsterAPI(form);
-      if (isPremium) {
-        if (isEdit && editMonster?.slug) {
-          await updateMonster.mutateAsync({ slug: editMonster.slug, ...payload });
-        } else {
-          await createMonster.mutateAsync(payload);
-        }
+      if (isEdit && editMonster?.slug) {
+        updateCustomMonster(editMonster.slug, payload);
       } else {
-        if (isEdit && editMonster?.slug) {
-          saveLocalMonster({ ...payload, slug: editMonster.slug });
-        } else {
-          saveLocalMonster(payload);
-        }
-        onLocalSave?.();
+        addCustomMonster(payload);
       }
       closeModal();
     } catch (err) {
-      setError(err.response?.data?.error || err.message || 'Save failed');
+      setError(err.message || 'Save failed');
       setSaving(false);
     }
-  }, [form, isPremium, isEdit, editMonster, createMonster, updateMonster, closeModal, onLocalSave]);
+  }, [form, isEdit, editMonster, addCustomMonster, updateCustomMonster, closeModal]);
 
   return (
     <Modal id="monster-form" key={editMonster?.slug || 'create'} title={isEdit ? `Edit ${form.name || 'Monster'}` : 'Create Custom Monster'}>
@@ -236,11 +223,8 @@ export default function MonsterFormModal({ editMonster: editMonsterProp, onLocal
 
         {/* ── Save ──────────────────────────────────── */}
         <button className="btn btn--primary monster-form__submit" onClick={handleSave} disabled={saving}>
-          {saving ? 'Saving...' : isEdit ? 'Update Monster' : isPremium ? 'Save to Library' : 'Save Locally'}
+          {saving ? 'Saving...' : isEdit ? 'Update Monster' : 'Save Monster'}
         </button>
-        {!isPremium && (
-          <p className="monster-form__local-note">Saved to browser storage (max 50). Upgrade for cloud sync.</p>
-        )}
       </div>
     </Modal>
   );
