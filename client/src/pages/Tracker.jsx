@@ -7,6 +7,7 @@ import DiceRoller from '../components/tracker/DiceRoller';
 import LeftPanel from '../components/tracker/LeftPanel';
 import StartCombatModal from '../components/tracker/StartCombatModal';
 import StatBlockModal from '../components/tracker/StatBlockModal';
+import DiceToast from '../components/tracker/DiceToast';
 import ImportMonsterModal from '../components/monsters/ImportMonsterModal';
 import MonsterFormModal from '../components/monsters/MonsterFormModal';
 import '../styles/tracker.css';
@@ -89,6 +90,7 @@ export default function Tracker() {
       />
       <ImportMonsterModal onLocalSave={() => leftPanelRef.current?.refreshLocal()} />
       <MonsterFormModal onLocalSave={() => leftPanelRef.current?.refreshLocal()} />
+      <DiceToast />
     </>
   );
 }
