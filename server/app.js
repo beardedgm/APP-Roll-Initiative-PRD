@@ -51,7 +51,33 @@ const dbConnected = await connectDB();
 
 // ── Middleware ──────────────────────────────────────────────
 app.use(helmet({
-  contentSecurityPolicy: process.env.NODE_ENV === 'production' ? undefined : false,
+  contentSecurityPolicy: process.env.NODE_ENV === 'production'
+    ? {
+        directives: {
+          defaultSrc: ["'self'"],
+          scriptSrc: [
+            "'self'",
+            'https://challenges.cloudflare.com',  // Turnstile
+            "'unsafe-inline'",                     // PostHog inline scripts
+          ],
+          connectSrc: [
+            "'self'",
+            'https://*.posthog.com',               // PostHog analytics
+            'https://*.ingest.sentry.io',          // Sentry error reporting
+            'https://challenges.cloudflare.com',   // Turnstile verification
+          ],
+          frameSrc: [
+            "'self'",
+            'https://challenges.cloudflare.com',   // Turnstile iframe
+          ],
+          imgSrc: ["'self'", 'data:', 'blob:'],
+          styleSrc: ["'self'", "'unsafe-inline'"],
+          fontSrc: ["'self'"],
+          objectSrc: ["'none'"],
+          upgradeInsecureRequests: [],
+        },
+      }
+    : false,
 }));
 
 const corsSource = process.env.CORS_ORIGINS || process.env.APP_URL || '';
