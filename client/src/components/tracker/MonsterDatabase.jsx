@@ -2,11 +2,10 @@ import { useState, useEffect, useRef, useCallback, forwardRef, useImperativeHand
 import { marked } from 'marked';
 import DOMPurify from 'dompurify';
 import { useMonsterBrowse, useMonster, useMonsterSources, useDeleteMonster } from '../../api/useMonsters';
-import { useCurrentUser } from '../../api/useAuth';
 import useCombatStore from '../../store/useCombatStore';
 import useUIStore from '../../store/useUIStore';
+import useUserDataStore from '../../store/useUserDataStore';
 import SOURCE_BADGES from '../../constants/monsterSources';
-import { searchLocalMonsters, getLocalMonster, deleteLocalMonster } from '../../utils/customMonsterStorage';
 
 const CR_OPTIONS = [
   '0', '1/8', '1/4', '1/2', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10',
@@ -23,23 +22,19 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
   const [crFilter, setCrFilter] = useState('');
   const [page, setPage] = useState(0);
   const [selectedSlug, setSelectedSlug] = useState(null);
-  const [localRefresh, setLocalRefresh] = useState(0);
   const timerRef = useRef(null);
 
   const addCombatant = useCombatStore(s => s.addCombatant);
   const openModal = useUIStore(s => s.openModal);
   const openEditMonster = useUIStore(s => s.openEditMonster);
-  const { data: user } = useCurrentUser();
-  const isPremium = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
-
-  /** Trigger re-render when localStorage monsters change */
-  const refreshLocal = useCallback(() => setLocalRefresh(n => n + 1), []);
+  const storeMonsters = useUserDataStore(s => s.customMonsters);
+  const removeCustomMonster = useUserDataStore(s => s.removeCustomMonster);
 
   // Allow parent to open a stat block by slug or refresh local monsters
   useImperativeHandle(ref, () => ({
     showStatBlock(slug) { setSelectedSlug(slug); },
-    refreshLocal,
-  }), [refreshLocal]);
+    refreshLocal() { /* no-op, store auto-updates */ },
+  }), []);
   const { data: sources = [] } = useMonsterSources();
 
   // Debounce
@@ -63,34 +58,39 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
     skip: page * PAGE_SIZE,
   });
 
-  // Merge localStorage custom monsters for free users
   const apiResults = data?.results || [];
   const apiTotal = data?.total || 0;
-  const localMonsters = (!isPremium && !sourceFilter) || sourceFilter === 'custom'
-    ? searchLocalMonsters({ q: debouncedQuery, cr: crFilter || undefined })
+  // Filter store custom monsters by search/CR
+  const localMonsters = (!sourceFilter || sourceFilter === 'custom')
+    ? storeMonsters.filter(m => {
+        if (debouncedQuery) {
+          const pattern = new RegExp(debouncedQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i');
+          if (!pattern.test(m.name)) return false;
+        }
+        if (crFilter && m.cr !== crFilter) return false;
+        return true;
+      }).sort((a, b) => a.name.localeCompare(b.name))
     : [];
-  const _localDep = localRefresh; // trigger re-render on local changes
-  const results = sourceFilter === 'custom' && !isPremium
+  const results = sourceFilter === 'custom'
     ? localMonsters
-    : [...apiResults, ...localMonsters].sort((a, b) => a.name.localeCompare(b.name)).slice(0, PAGE_SIZE);
-  const total = sourceFilter === 'custom' && !isPremium
+    : [...localMonsters, ...apiResults];
+  const total = sourceFilter === 'custom'
     ? localMonsters.length
     : apiTotal + localMonsters.length;
   const totalPages = Math.ceil(total / PAGE_SIZE);
 
-  const isLocalSlug = selectedSlug?.startsWith('local-');
-  const { data: apiMonster, isLoading: loadingApiDetail } = useMonster(isLocalSlug ? null : selectedSlug);
-  const localDetailMonster = isLocalSlug ? getLocalMonster(selectedSlug) : null;
-  const selectedMonster = isLocalSlug ? localDetailMonster : apiMonster;
-  const loadingDetail = isLocalSlug ? false : loadingApiDetail;
+  const isCustomSlug = storeMonsters.some(m => m.slug === selectedSlug);
+  const { data: apiMonster, isLoading: loadingApiDetail } = useMonster(isCustomSlug ? null : selectedSlug);
+  const storeDetailMonster = isCustomSlug ? storeMonsters.find(m => m.slug === selectedSlug) : null;
+  const selectedMonster = isCustomSlug ? storeDetailMonster : apiMonster;
+  const loadingDetail = isCustomSlug ? false : loadingApiDetail;
 
   const deleteMonster = useDeleteMonster();
 
   const handleDeleteMonster = useCallback(async (slug) => {
     try {
-      if (slug.startsWith('local-')) {
-        deleteLocalMonster(slug);
-        refreshLocal();
+      if (storeMonsters.some(m => m.slug === slug)) {
+        removeCustomMonster(slug);
       } else {
         await deleteMonster.mutateAsync(slug);
       }
@@ -98,7 +98,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
     } catch {
       window.alert('Failed to delete monster.');
     }
-  }, [deleteMonster, refreshLocal]);
+  }, [storeMonsters, removeCustomMonster, deleteMonster]);
 
   const handleAddToEncounter = useCallback((monster) => {
     if (onAddToEncounter) {
@@ -124,8 +124,8 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
         loading={loadingDetail}
         onBack={() => setSelectedSlug(null)}
         onRollDice={onRollDice}
-        onDelete={(isPremium || isLocalSlug) ? handleDeleteMonster : undefined}
-        onEdit={(isLocalSlug || isPremium) ? (monster) => openEditMonster(monster) : undefined}
+        onDelete={isCustomSlug ? handleDeleteMonster : undefined}
+        onEdit={isCustomSlug ? (monster) => openEditMonster(monster) : undefined}
       />
     );
   }
