@@ -26,6 +26,7 @@ import healthRouter from './routes/health.js';
 import monstersRouter from './routes/monsters.js';
 import authRouter from './routes/auth.js';
 import encountersRouter, { sharedEncounterRouter } from './routes/encounters.js';
+import userDataRouter from './routes/userData.js';
 import billingRouter, { webhookRouter } from './routes/billing.js';
 import sitemapRouter from './routes/sitemap.js';
 import errorHandler from './middleware/errorHandler.js';
@@ -124,6 +125,7 @@ app.use(healthRouter);
 app.use(authRouter);
 app.use(monstersRouter);
 app.use(encountersRouter);
+app.use(userDataRouter);
 app.use(billingRouter);
 app.use(sharedEncounterRouter); // public: no auth required
 
