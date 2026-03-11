@@ -1397,6 +1397,40 @@ body.marketing {
   background: rgba(239, 83, 80, 0.15);
   color: #ef5350;
 }
+.settings__inline-form {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+.settings__inline-form .auth-form__input {
+  flex: 1;
+}
+.settings__edit-btn {
+  margin-left: 0.5rem;
+}
+.settings__danger-zone {
+  border-top: 2px solid #e74c3c;
+  padding-top: 1.5rem;
+  margin-top: 1.5rem;
+}
+.settings__danger-zone .settings-section__title {
+  color: #e74c3c;
+}
+.settings__danger-btn {
+  border-color: #e74c3c;
+  color: #e74c3c;
+}
+.settings__danger-warning {
+  color: #e74c3c;
+  margin-bottom: 1rem;
+}
+.settings__button-group {
+  display: flex;
+  gap: 0.5rem;
+}
+.settings__delete-btn {
+  background: #e74c3c;
+}
 
 /* ── Legal Pages ───────────────────────────────────── */
 .legal-page {

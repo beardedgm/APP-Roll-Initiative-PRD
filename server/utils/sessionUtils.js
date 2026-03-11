@@ -13,13 +13,25 @@ export async function destroyOtherSessions(userId, currentSessionId) {
     const userIdStr = userId.toString();
 
     // connect-mongo stores session data as a JSON string in the 'session' field.
-    // We match sessions containing this userId and exclude the current session.
-    const result = await sessions.deleteMany({
-      _id: { $ne: currentSessionId },
-      session: { $regex: userIdStr },
-    });
+    // Parse each session document and check the userId field explicitly
+    // instead of using $regex which could match unrelated substrings.
+    const matchingIds = [];
+    const cursor = sessions.find({});
 
-    if (result.deletedCount > 0) {
+    for await (const doc of cursor) {
+      if (doc._id === currentSessionId) continue;
+      try {
+        const parsed = JSON.parse(doc.session);
+        if (parsed.userId === userIdStr) {
+          matchingIds.push(doc._id);
+        }
+      } catch {
+        // Skip documents with unparseable session data
+      }
+    }
+
+    if (matchingIds.length > 0) {
+      const result = await sessions.deleteMany({ _id: { $in: matchingIds } });
       logger.info(
         { userId: userIdStr, deletedCount: result.deletedCount },
         'Destroyed other sessions after credential change'
@@ -41,11 +53,22 @@ export async function destroyAllSessions(userId) {
     const sessions = db.collection('sessions');
     const userIdStr = userId.toString();
 
-    const result = await sessions.deleteMany({
-      session: { $regex: userIdStr },
-    });
+    const matchingIds = [];
+    const cursor = sessions.find({});
 
-    if (result.deletedCount > 0) {
+    for await (const doc of cursor) {
+      try {
+        const parsed = JSON.parse(doc.session);
+        if (parsed.userId === userIdStr) {
+          matchingIds.push(doc._id);
+        }
+      } catch {
+        // Skip documents with unparseable session data
+      }
+    }
+
+    if (matchingIds.length > 0) {
+      const result = await sessions.deleteMany({ _id: { $in: matchingIds } });
       logger.info({ userId: userIdStr, deletedCount: result.deletedCount }, 'Destroyed all sessions after password reset');
     }
   } catch (err) {

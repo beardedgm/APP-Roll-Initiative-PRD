@@ -10,6 +10,9 @@
     "start": "cd server && npm start",
     "seed:monsters": "cd server && npm run seed:monsters"
   },
+  "engines": {
+    "node": ">=20"
+  },
   "devDependencies": {
     "concurrently": "^9.2.1"
   }

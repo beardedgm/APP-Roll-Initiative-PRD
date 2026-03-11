@@ -67,7 +67,7 @@ router.get('/api/monsters/sources', async (_req, res) => {
       { $sort: { label: 1 } },
     ]);
     res.json(sources.map(s => ({ key: s._id, label: s.label, count: s.count })));
-  } catch (err) {
+  } catch (_err) {
     res.status(500).json({ error: 'Failed to get sources' });
   }
 });

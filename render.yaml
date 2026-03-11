@@ -4,7 +4,7 @@ services:
     runtime: node
     plan: starter
     region: oregon
-    buildCommand: npm install && cd client && npm install && npm run build && cd ../server && npm install
+    buildCommand: npm install && cd client && npm install --include=dev && npm run build && cd ../server && npm install
     startCommand: cd server && node app.js
     envVars:
       - key: NODE_ENV

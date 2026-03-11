@@ -1,5 +1,6 @@
 import session from 'express-session';
 import MongoStore from 'connect-mongo';
+import logger from './logger.js';
 
 export default function configureSession() {
   const secret = process.env.SESSION_SECRET;
@@ -7,7 +8,7 @@ export default function configureSession() {
     throw new Error('SESSION_SECRET environment variable is required in production');
   }
   if (!secret) {
-    console.warn('WARNING: Using insecure default session secret. Set SESSION_SECRET in .env');
+    logger.warn('Using insecure default session secret. Set SESSION_SECRET in .env');
   }
 
   return session({

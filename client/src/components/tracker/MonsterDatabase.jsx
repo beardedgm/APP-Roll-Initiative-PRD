@@ -3,23 +3,13 @@ import { marked } from 'marked';
 import DOMPurify from 'dompurify';
 import { useMonsterBrowse, useMonster, useMonsterSources } from '../../api/useMonsters';
 import useCombatStore from '../../store/useCombatStore';
+import SOURCE_BADGES from '../../constants/monsterSources';
 
 const CR_OPTIONS = [
   '0', '1/8', '1/4', '1/2', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10',
   '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23',
   '24', '25', '26', '27', '28', '29', '30',
 ];
-
-const SOURCE_BADGES = {
-  '5.1_srd': '5.1',
-  '5.2_srd': '5.2',
-  a5e: 'A5E',
-  black_flag: 'BF',
-  cc: 'CC',
-  tob1: 'ToB',
-  tob2: 'ToB2',
-  tob3: 'ToB3',
-};
 
 const PAGE_SIZE = 20;
 
@@ -167,6 +157,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
             <button
               className="monster-db__add-btn"
               title="Add to encounter"
+              aria-label={`Add ${m.name} to encounter`}
               onClick={e => { e.stopPropagation(); handleAddToEncounter(m); }}
             >
               +
@@ -238,7 +229,7 @@ function MonsterDetail({ monster, loading, onBack, onAdd, onRollDice }) {
   if (loading) {
     return (
       <div className="monster-detail">
-        <button className="monster-detail__back" onClick={onBack}>&larr; Back to list</button>
+        <button className="monster-detail__back" onClick={onBack} aria-label="Back to list">&larr; Back to list</button>
         <p style={{ textAlign: 'center', padding: '2rem' }}>Loading stat block...</p>
       </div>
     );
@@ -247,7 +238,7 @@ function MonsterDetail({ monster, loading, onBack, onAdd, onRollDice }) {
   if (!monster) {
     return (
       <div className="monster-detail">
-        <button className="monster-detail__back" onClick={onBack}>&larr; Back to list</button>
+        <button className="monster-detail__back" onClick={onBack} aria-label="Back to list">&larr; Back to list</button>
         <p style={{ textAlign: 'center', padding: '2rem' }}>Monster not found.</p>
       </div>
     );
@@ -262,7 +253,7 @@ function MonsterDetail({ monster, loading, onBack, onAdd, onRollDice }) {
   return (
     <div className="monster-detail">
       <div className="monster-detail__header">
-        <button className="monster-detail__back" onClick={onBack}>&larr; Back</button>
+        <button className="monster-detail__back" onClick={onBack} aria-label="Back to list">&larr; Back</button>
         <button
           className="btn btn--primary btn--sm"
           onClick={() => onAdd(monster)}

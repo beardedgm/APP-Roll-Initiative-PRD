@@ -1,6 +1,16 @@
 import { useEffect, useRef, useCallback } from 'react';
+import { create } from 'zustand';
 import useCombatStore from '../store/useCombatStore';
 import { useUpdateEncounter } from '../api/useEncounters';
+
+/**
+ * Tiny store for cloud sync status.
+ * States: 'idle' | 'syncing' | 'synced' | 'error'
+ */
+export const useSyncStatus = create((set) => ({
+  syncStatus: 'idle',
+  setSyncStatus: (syncStatus) => set({ syncStatus }),
+}));
 
 /**
  * Auto-syncs the Zustand combat store to the server when the encounter
@@ -10,6 +20,8 @@ export default function useCloudSync(enabled) {
   const updateEncounter = useUpdateEncounter();
   const timerRef = useRef(null);
   const prevSnapshotRef = useRef(null);
+  const syncedTimerRef = useRef(null);
+  const setSyncStatus = useSyncStatus(s => s.setSyncStatus);
 
   const sync = useCallback(async () => {
     const { cloudId, name, state, currentRound, activeCreatureId, combatants, diceHistory } = useCombatStore.getState();
@@ -22,6 +34,11 @@ export default function useCloudSync(enabled) {
     const previousSnapshot = prevSnapshotRef.current;
     prevSnapshotRef.current = snapshot;
 
+    // Clear any pending "synced" auto-clear timer
+    if (syncedTimerRef.current) clearTimeout(syncedTimerRef.current);
+
+    setSyncStatus('syncing');
+
     try {
       await updateEncounter.mutateAsync({
         id: cloudId,
@@ -32,12 +49,16 @@ export default function useCloudSync(enabled) {
         combatants,
         diceHistory,
       });
+      setSyncStatus('synced');
+      // Auto-clear back to idle after 3 seconds
+      syncedTimerRef.current = setTimeout(() => setSyncStatus('idle'), 3000);
     } catch (err) {
       // Reset so the next sync attempt will retry
       prevSnapshotRef.current = previousSnapshot;
+      setSyncStatus('error');
       console.error('[useCloudSync] Failed to sync encounter:', err);
     }
-  }, [updateEncounter]);
+  }, [updateEncounter, setSyncStatus]);
 
   useEffect(() => {
     if (!enabled) return;
@@ -53,6 +74,7 @@ export default function useCloudSync(enabled) {
     return () => {
       unsub();
       if (timerRef.current) clearTimeout(timerRef.current);
+      if (syncedTimerRef.current) clearTimeout(syncedTimerRef.current);
     };
   }, [enabled, sync]);
 }

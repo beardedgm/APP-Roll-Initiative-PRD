@@ -76,7 +76,7 @@ export default function Settings() {
             <div className="settings-field">
               <span className="settings-field__label">Display Name</span>
               {editingName ? (
-                <form onSubmit={handleUpdateName} style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
+                <form onSubmit={handleUpdateName} className="settings__inline-form">
                   <input
                     type="text"
                     className="auth-form__input"
@@ -84,7 +84,6 @@ export default function Settings() {
                     onChange={e => setDisplayName(e.target.value)}
                     required
                     maxLength={50}
-                    style={{ flex: 1 }}
                   />
                   <button type="submit" className="btn btn--primary" disabled={updateProfile.isPending}>
                     {updateProfile.isPending ? 'Saving...' : 'Save'}
@@ -97,9 +96,8 @@ export default function Settings() {
                 <span className="settings-field__value">
                   {user.displayName}{' '}
                   <button
-                    className="btn btn--outline btn--small"
+                    className="btn btn--outline btn--small settings__edit-btn"
                     onClick={() => { setDisplayName(user.displayName); setEditingName(true); setNameMsg(''); }}
-                    style={{ marginLeft: '0.5rem' }}
                   >
                     Edit
                   </button>
@@ -185,19 +183,18 @@ export default function Settings() {
           </section>
 
           {/* Danger Zone */}
-          <section className="settings-section" style={{ borderTop: '2px solid #e74c3c', paddingTop: '1.5rem', marginTop: '1.5rem' }}>
-            <h2 className="settings-section__title" style={{ color: '#e74c3c' }}>Danger Zone</h2>
+          <section className="settings-section settings__danger-zone">
+            <h2 className="settings-section__title">Danger Zone</h2>
             {!showDeleteConfirm ? (
               <button
-                className="btn btn--outline"
-                style={{ borderColor: '#e74c3c', color: '#e74c3c' }}
+                className="btn btn--outline settings__danger-btn"
                 onClick={() => setShowDeleteConfirm(true)}
               >
                 Delete Account
               </button>
             ) : (
               <>
-                <p style={{ color: '#e74c3c', marginBottom: '1rem' }}>
+                <p className="settings__danger-warning">
                   This will permanently delete your account, encounters, and cancel any subscription. This cannot be undone.
                 </p>
                 {deleteError && <div className="settings-msg settings-msg--error">{deleteError}</div>}
@@ -213,11 +210,10 @@ export default function Settings() {
                       autoComplete="current-password"
                     />
                   </label>
-                  <div style={{ display: 'flex', gap: '0.5rem' }}>
+                  <div className="settings__button-group">
                     <button
                       type="submit"
-                      className="btn btn--primary"
-                      style={{ background: '#e74c3c' }}
+                      className="btn btn--primary settings__delete-btn"
                       disabled={deleteAccount.isPending}
                     >
                       {deleteAccount.isPending ? 'Deleting...' : 'Permanently Delete'}

@@ -30,7 +30,11 @@ export const createEncounterSchema = z.object({
   state: z.enum(['pre-combat', 'combat']).default('pre-combat'),
   currentRound: z.number().int().min(1).default(1),
   activeCreatureId: z.string().nullable().default(null),
-  combatants: z.array(combatantSchema).max(100).default([]),
+  combatants: z.array(combatantSchema).max(100).default([])
+    .refine(
+      (combatants) => new Set(combatants.map(c => c.id)).size === combatants.length,
+      { message: 'Combatant IDs must be unique' }
+    ),
   diceHistory: z.array(diceHistoryEntrySchema).max(50).default([]),
 });
 
@@ -39,6 +43,10 @@ export const updateEncounterSchema = z.object({
   state: z.enum(['pre-combat', 'combat']).optional(),
   currentRound: z.number().int().min(1).optional(),
   activeCreatureId: z.string().nullable().optional(),
-  combatants: z.array(combatantSchema).max(100).optional(),
+  combatants: z.array(combatantSchema).max(100).optional()
+    .refine(
+      (combatants) => !combatants || new Set(combatants.map(c => c.id)).size === combatants.length,
+      { message: 'Combatant IDs must be unique' }
+    ),
   diceHistory: z.array(diceHistoryEntrySchema).max(50).optional(),
 });
