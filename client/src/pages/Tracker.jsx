@@ -15,6 +15,7 @@ import StatBlockModal from '../components/tracker/StatBlockModal';
 import DiceToast from '../components/tracker/DiceToast';
 import ImportMonsterModal from '../components/monsters/ImportMonsterModal';
 import MonsterFormModal from '../components/monsters/MonsterFormModal';
+import { migrateLocalStorageToStore } from '../utils/migrateLocalStorage';
 import '../styles/tracker.css';
 
 export default function Tracker() {
@@ -39,6 +40,13 @@ export default function Tracker() {
       loadFromServer(serverData);
     }
   }, [serverData, dataLoaded, loadFromServer]);
+
+  // One-time migration from old localStorage keys
+  useEffect(() => {
+    if (dataLoaded) {
+      migrateLocalStorageToStore();
+    }
+  }, [dataLoaded]);
 
   // Enable auto-sync when authenticated
   useUserDataSync(isAuthenticated);
