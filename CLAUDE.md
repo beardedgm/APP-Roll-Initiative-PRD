@@ -1,135 +1,213 @@
-# Initiative Tracker
+# CLAUDE.md
 
-D&D 5e initiative tracker SaaS — DM and player views, cloud saves, 3000+ monster database, Stripe billing.
+This file describes the architecture, conventions, and rules for this codebase. Read it in full before writing any code.
 
-## Project Structure
+---
 
-Monorepo with root `package.json` orchestrating two subdirectories:
+## Stack
+
+| Layer | Choice |
+|---|---|
+| Runtime | Node.js + Express.js |
+| Database | MongoDB Atlas + Mongoose |
+| Frontend | React + Vite |
+| Styling | Custom CSS (Tailwind per-project if needed) |
+| Client routing | React Router |
+| Server state | TanStack Query |
+| Client state | Zustand |
+| Validation | Zod |
+| Logging | pino |
+| Auth | express-session + connect-mongo (session-based, HTTP-only cookies) |
+| Password hashing | Node.js crypto.scrypt (built-in, no bcrypt) |
+| CSRF | X-header double-submit + constant-time comparison |
+| Rate limiting | MongoDB sliding window (no Redis) |
+| Bot protection | Cloudflare Turnstile |
+| Security headers | Helmet.js |
+| Payments | Stripe Checkout (hosted) + Webhooks + Customer Portal |
+| Email | Resend + HTML template literals |
+| Hosting | Render (single service — Express serves the built React SPA) |
+| Error tracking | Sentry |
+| Analytics | PostHog |
+| CI/CD | GitHub Actions |
+
+---
+
+## Repo Structure
 
 ```
-client/          React 19 + Vite 7 + Zustand + React Query (port 5173)
-server/          Express 5 + Mongoose 9 + Stripe + Resend (port 3000)
-monsters/        3000+ monster stat blocks in markdown (8 sources)
+/
+├── client/                     # React + Vite
+│   └── src/
+│       ├── api/                # TanStack Query hooks + Axios instance
+│       ├── components/
+│       │   ├── auth/
+│       │   ├── layout/         # Navbar, Footer, ProtectedRoute, OwnerRoute
+│       │   ├── payments/
+│       │   └── ui/
+│       ├── pages/
+│       │   └── admin/
+│       ├── store/              # Zustand stores
+│       ├── hooks/
+│       └── utils/
+├── server/
+│   ├── config/                 # DB, session, logger, Stripe, Resend, Turnstile
+│   ├── models/                 # Mongoose schemas
+│   ├── validators/             # Zod schemas
+│   ├── middleware/
+│   ├── routes/
+│   ├── services/               # emailService, stripeService
+│   ├── emails/                 # HTML email template functions
+│   ├── utils/
+│   └── __tests__/
+├── scripts/
+│   └── promote-owner.js
+├── .github/workflows/ci.yml
+├── .env.example
+├── render.yaml
+└── CLAUDE.md
 ```
 
-### Key Files
-- `server/app.js` — Express entry point, middleware order matters (webhook raw body → json → session → routes)
-- `server/config/` — db.js, session.js, stripe.js, logger.js (Pino)
-- `server/routes/` — auth, encounters, monsters, billing, health, sitemap
-- `server/middleware/` — requireAuth, requireSubscription, rateLimitAuth, validate, requestLogger
-- `server/validators/` — Zod schemas for auth and encounters
-- `server/models/` — User, Encounter, Monster, EmailToken, LoginAttempt, ProcessedEvent
-- `client/src/store/` — useCombatStore.js (core state + undo/redo), useUIStore.js (modals)
-- `client/src/api/` — axiosInstance.js (baseURL: /api, 10s timeout), React Query hooks
-- `client/src/hooks/` — useCloudSync (debounced 500ms auto-sync to API)
+---
 
-## Deployment (Render.com)
-
-**IMPORTANT**: Render dashboard overrides `render.yaml`. Build/start commands and env vars are configured in the dashboard, NOT from the yaml file.
-
-- **Service URL**: https://roll-initiative.onrender.com
-- **Build command (dashboard)**: `npm install; npm run build`
-- **Start command (dashboard)**: `cd server; node app.js`
-- **Root `build` script** installs subdirectory deps: `cd client && npm install --include=dev && npm run build && cd ../server && npm install`
-- **`NODE_ENV=production`** causes `npm install` to skip devDependencies. Client needs `--include=dev` because `vite` is a devDependency.
-- **Env vars** must be set manually in Render dashboard — render.yaml `sync: false` vars are not auto-applied
-- **Port**: Render sets `PORT` automatically; server reads `process.env.PORT || 5000`
-- **Static serving**: `server/app.js` serves `client/dist/` only when `NODE_ENV === 'production'`
-
-### Required Render Environment Variables
-```
-NODE_ENV=production
-SESSION_SECRET        (auto-generated or manual)
-MONGO_URI             (MongoDB Atlas connection string)
-APP_URL               (e.g., https://roll-initiative.onrender.com)
-APP_NAME              (Initiative Tracker)
-STRIPE_SECRET_KEY
-STRIPE_WEBHOOK_SECRET
-STRIPE_PRICE_ID_MONTHLY
-RESEND_API_KEY
-EMAIL_FROM            (e.g., "HexPlora <noreply@hexplora.app>")
-TURNSTILE_SECRET_KEY
-SENTRY_DSN
-VITE_POSTHOG_KEY
-VITE_POSTHOG_HOST
-```
-
-## Local Development
+## Dev Commands
 
 ```bash
-npm run dev            # concurrently runs client (5173) and server (3000)
-npm run seed:monsters  # seed 3000+ monsters into MongoDB from monsters/ directory
+# From repo root
+cd server && npm run dev      # Express API on :5000
+cd client && npm run dev      # Vite dev server on :5173
+
+# Tests (run from /server)
+npm test                      # Jest
+npm run test:coverage
+
+# Build (Render runs this on deploy)
+cd client && npm run build    # Outputs to client/dist/
 ```
 
-Client Vite config proxies `/api` requests to `http://localhost:3000`.
+Express serves `client/dist` as static files in production. There is no separate frontend deployment.
 
-## Key Conventions
+---
 
-- **Logger**: Always use Pino (`import logger from '../config/logger.js'`), never `console.log/error`
-- **Validation**: Zod schemas in `server/validators/`, applied via `validate()` middleware
-- **Auth**: Session-based (express-session + connect-mongo), cookie `httpOnly`, `secure` in prod
-- **Stripe webhooks**: Need raw body — `webhookRouter` is mounted BEFORE `express.json()` in app.js
-- **Idempotency**: Stripe webhook events tracked in `ProcessedEvent` model to prevent double-processing
-- **Password hashing**: `crypto.scrypt` with random 16-byte salt, timing-safe comparison
-- **State persistence**: Zustand `persist` middleware saves to localStorage key `dnd_initiative_state`
-- **Cloud sync**: `useCloudSync` hook debounces store changes (500ms) and PUTs to `/api/encounters/:id`
-- **Shared encounters**: Player view polls `GET /api/shared/:code` every 2 seconds via React Query
-- **ID format**: Combatant IDs = `combatant_{timestamp}_{random}`, Encounter IDs = `enc_{timestamp}_{random}`
-- **Migration**: `client/src/utils/migration.js` handles upgrading pre-MERN localStorage state to current schema
+## Architecture Decisions
 
-## API Routes
+### Auth
+- **Session-based only.** No JWTs. Sessions stored in MongoDB via connect-mongo.
+- Cookies: `httpOnly: true`, `secure: true` in production, `sameSite: 'lax'`, 24h max age.
+- `session.regenerate()` on login (prevents fixation). `session.destroy()` on logout.
+- Password change invalidates all other sessions for the user.
+- Password hashing uses `crypto.scrypt` with a random salt, stored as `salt:hash`.
+- `timingSafeEqual` for all password and token comparisons — no string equality.
 
-| Route | Auth | Description |
-|-------|------|-------------|
-| `POST /api/auth/register,login,logout` | No/No/No | Auth flow |
-| `GET /api/auth/me` | No (returns null) | Current user |
-| `POST /api/auth/verify-email,forgot-password,reset-password,change-password` | Varies | Account management |
-| `GET /api/monsters/search,sources,:slug` | No | Public monster database |
-| `GET/POST/PUT/DELETE /api/encounters` | Auth+Sub | CRUD (subscription required) |
-| `POST/DELETE /api/encounters/:id/share` | Auth+Sub | Share code management |
-| `GET /api/shared/:code` | No | Public shared encounter |
-| `POST /api/billing/create-checkout-session,create-portal-session` | Auth | Stripe billing |
-| `GET /api/billing/status` | Auth | Subscription status |
-| `POST /api/billing/webhook` | Stripe sig | Stripe webhooks |
-| `GET /api/health` | No | DB health check |
+### CSRF
+- Custom X-header double-submit pattern. No CSRF token libraries.
+- CORS must whitelist only the app's own origin. Never `origin: '*'` in production.
 
-## Render Deployment Checklist (for new projects)
+### Rate Limiting
+- MongoDB sliding window collection — no Redis, no external service.
+- Thresholds: login 10/15 min, registration 5/hr, password reset 3/hr, general API 100/min.
+- TTL indexes auto-clean expired records.
 
-Use this checklist when preparing any MERN monorepo for Render.
+### Stripe Webhooks
+- Verify `stripe-signature` header on every webhook request (raw body, no JSON parsing).
+- Idempotency: check `processed_events` collection by `event.id` before processing. If found, return 200 immediately. If not, process then store with 30-day TTL.
+- Never rely on the checkout success redirect to provision access — always use webhooks.
 
-### Build Script
-- [ ] Root `build` script must install deps for ALL subdirectories (`cd client && npm install && ...`)
-- [ ] Use `--include=dev` for any subdirectory whose build tools (vite, webpack, tsc) are in devDependencies
-- [ ] Test the full build locally with `NODE_ENV=production npm run build` before deploying
+### Admin / Roles
+- `role` field on User model: `'user'` (default) or `'owner'`.
+- No hardcoded admin emails in env vars. Role is a DB value, changeable via `scripts/promote-owner.js`.
+- `requireOwner` middleware gates all `/api/admin/*` routes.
 
-### Express 5 Gotchas
-- [ ] Catch-all routes must use named wildcards: `'{*path}'` not `'*'` (path-to-regexp v8 requirement)
-- [ ] Stripe/webhook routes needing raw body must be mounted BEFORE `express.json()` middleware
+### Email
+- Always check `emailBounced` and `emailSuppressed` flags before sending.
+- Templates are plain JS functions returning HTML strings — no build step, no extra dependencies.
+- Handle Resend bounce/complaint webhooks. Hard bounces and spam complaints suppress the address permanently.
 
-### Static File Serving
-- [ ] SPA fallback (`res.sendFile('index.html')`) must be gated on `NODE_ENV === 'production'`
-- [ ] Verify the static path resolves correctly: `path.join(__dirname, '../client/dist')` depends on where the start command runs from
+### Validation
+- Zod schemas live in `server/validators/`. One schema file per domain (auth, user, billing).
+- `validate.js` middleware strips unknown fields before any route handler runs.
+- Schemas can be shared with the frontend — define once, use in both places.
+
+### Error Handling
+- All async route handlers are wrapped with `asyncHandler` utility.
+- `errorHandler.js` middleware is the last middleware in `app.js` and handles all thrown errors.
+- Never send stack traces to the client in production.
+
+---
+
+## Conventions
+
+### File Naming
+- React components: `PascalCase.jsx`
+- Everything else (routes, models, services, hooks, utils): `camelCase.js`
+
+### Models
+- Core models (always present): `User`, `LoginAttempt`, `EmailToken`, `ProcessedEvent`, `Session`
+- TTL indexes on: `LoginAttempt` (15 min), `EmailToken` (24h for verify, 1h for reset), `ProcessedEvent` (30 days)
+
+### API Routes
+- All API routes prefixed with `/api/`
+- Public: `/api/auth/*`
+- Authenticated: `/api/user/*`
+- Subscription-gated: `/api/app/*`
+- Owner-only: `/api/admin/*`
+- Stripe webhooks: `/api/billing/webhook` (raw body parser, no session/CSRF middleware)
+- Sitemap mounted before the SPA catch-all
 
 ### Environment Variables
-- [ ] `NODE_ENV=production` must be set in Render dashboard (affects npm install behavior and static serving)
-- [ ] All env vars must be set manually in Render dashboard — `render.yaml` `sync: false` vars are NOT auto-applied
-- [ ] Session secrets should be generated (not hardcoded fallbacks that silently work in production)
-- [ ] `APP_URL` must match the actual Render service URL (used for CORS, email links, Stripe redirects)
-- [ ] `VITE_*` env vars must be set at BUILD time (baked into the client bundle), not just at runtime
+- `.env.example` is committed and documents every required variable.
+- `.env` is never committed.
+- Production env vars are managed in Render's dashboard.
+- `VITE_` prefix required for any variable accessed by the React frontend.
 
-### Render Dashboard vs render.yaml
-- [ ] Dashboard settings OVERRIDE render.yaml — if you configure in dashboard, render.yaml is ignored for those settings
-- [ ] Pick one source of truth: either manage everything in dashboard or everything in render.yaml
-- [ ] If using dashboard: build command is typically `npm install; npm run build` (root scripts handle the rest)
+### Frontend API Calls
+- All requests go through the Axios instance in `client/src/api/axiosInstance.js`.
+- `withCredentials: true` on every request (required for session cookies).
+- 401 interceptor → redirect to `/login`.
+- 403 with `subscription_required` → redirect to `/pricing`.
 
-### Pre-Deploy Verification
-- [ ] Run `NODE_ENV=production npm run build` locally to catch build errors
-- [ ] Run `NODE_ENV=production node server/app.js` locally to catch startup crashes
-- [ ] Verify `/api/health` endpoint exists for Render health checks
-- [ ] Ensure server binds to `process.env.PORT` (Render sets this automatically)
+### Logging
+- Use `pino` logger from `server/config/logger.js` — never `console.log` in server code.
+- `pino-pretty` in development, raw JSON in production.
+- Log at `info` for normal operations, `warn` for suspicious events, `error` for exceptions.
 
-## Known Issues
+---
 
-- No React error boundaries
-- No test infrastructure (unit/integration/e2e)
-- Data export/portability not yet available
+## Security Rules
+
+These are non-negotiable. Do not deviate from them.
+
+1. Never use `origin: '*'` in CORS config.
+2. Never store sessions in memory (always connect-mongo).
+3. Never compare tokens or passwords with `===` — always `timingSafeEqual`.
+4. Never trust the Stripe checkout success redirect to provision access — webhook only.
+5. Never send to an email address where `emailBounced` or `emailSuppressed` is true.
+6. Never skip Turnstile verification on public-facing forms (register, login, reset).
+7. Never expose stack traces or internal error messages to the client in production.
+8. Never put the `STRIPE_WEBHOOK_SECRET` on the client side.
+9. Never use `findById` to authorize access to a resource — always scope queries to the authenticated user's ID.
+10. Always use `asyncHandler` on route handlers — never let unhandled promise rejections reach Express.
+
+---
+
+## What Not to Build
+
+- Do not add a second database (Redis, Postgres, etc.) unless there is a documented reason in this file.
+- Do not switch to JWT auth — the session pattern is intentional.
+- Do not add a build step for email templates — HTML template literals are the pattern.
+- Do not add TypeScript unless this file is updated to reflect that decision.
+- Do not add an ORM migration system — Mongoose handles schema evolution at the application layer.
+- Do not create a separate deployment for the frontend — Express serves the built SPA.
+
+---
+
+## Adding App-Specific Features
+
+When building features beyond the boilerplate:
+
+1. Add routes under `/api/app/*` gated by `requireAuth` + `requireSubscription`.
+2. Add new Mongoose models to `server/models/`.
+3. Add Zod validators to `server/validators/`.
+4. Add TanStack Query hooks to `client/src/api/`.
+5. Add new pages to `client/src/pages/` and register them in `App.jsx`.
+6. Update `robots.txt` to disallow any new authenticated routes.
+7. Update `sitemap.js` if adding new public pages.
