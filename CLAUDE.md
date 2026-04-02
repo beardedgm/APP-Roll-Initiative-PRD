@@ -28,6 +28,7 @@ This file describes the architecture, conventions, and rules for this codebase. 
 | Hosting | Render (single service — Express serves the built React SPA) |
 | Error tracking | Sentry |
 | Analytics | PostHog |
+| Icons | Lucide React |
 | CI/CD | GitHub Actions |
 
 ---
@@ -100,7 +101,8 @@ npm run seed:pf2e-convert -- <path-to-pf2etools-bestiary>  # Convert PF2eTools J
 
 # Lint
 cd server && npx eslint .     # Server lint
-cd client && npx vite build   # Client build check (no separate lint command)
+cd client && npm run lint     # Client lint (eslint)
+cd client && npx vite build   # Client build check
 
 # Tests (shared utilities)
 node --test shared/pf2eTagStripper.test.js
@@ -213,6 +215,11 @@ Express serves `client/dist` as static files in production. There is no separate
 - 401 interceptor → redirect to `/login`.
 - 403 with `subscription_required` → redirect to `/pricing`.
 
+### Icons
+- Use `lucide-react` for all icons — no HTML entities or emoji.
+- Common icons: `Swords` (branding), `Dices` (dice roller), `GripVertical` (drag), `X` (close), `RotateCcw` (reroll), `Shield` (player), `Skull` (monster), `User` (NPC/profile).
+- Size convention: 18 for headings, 16 for buttons, 14 for inline/small, 12-13 for tight spaces.
+
 ### Logging
 - Use `pino` logger from `server/config/logger.js` — never `console.log` in server code.
 - `pino-pretty` in development, raw JSON in production.
@@ -225,7 +232,7 @@ Express serves `client/dist` as static files in production. There is no separate
 These are mandatory for every code change. No exceptions.
 
 1. **Never push directly to `main`.** Always create a feature branch, push it, and open a PR.
-2. **Run lint before every PR.** Server: `cd server && npx eslint .` Client: `cd client && npx vite build`. Both must pass with zero errors.
+2. **Run lint before every PR.** Server: `cd server && npx eslint .` Client: `cd client && npm run lint` and `cd client && npx vite build`. All must pass with zero errors.
 3. **One PR per logical change.** Group related commits into a single PR with a clear title and description.
 4. **Re-seed after markdown changes.** If any `Monsters/` markdown files or `shared/pf2eMarkdownRenderer.js` change, re-run the converter (if PF2e) and `npm run seed:monsters` against the production database.
 5. **Branch naming:** `feat/`, `fix/`, `style/`, `docs/` prefixes matching the change type.
