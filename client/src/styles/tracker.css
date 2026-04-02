@@ -2340,3 +2340,50 @@ body.is-resizing .resize-handle::after {
 .sync-icon--error {
   color: #f87171;
 }
+
+/* ── Show Rolls Toggle ───────────────────────────────────── */
+.panel__title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.show-rolls-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+.show-rolls-toggle__label {
+  font-family: var(--font-app);
+  font-size: 12px;
+  color: var(--color-text-secondary);
+}
+.show-rolls-toggle__switch {
+  width: 36px;
+  height: 20px;
+  background: var(--color-border-light);
+  border: none;
+  border-radius: 10px;
+  position: relative;
+  cursor: pointer;
+  transition: background var(--transition-fast);
+  padding: 0;
+}
+.show-rolls-toggle__switch--on {
+  background: var(--color-accent-gold);
+}
+.show-rolls-toggle__knob {
+  display: block;
+  width: 16px;
+  height: 16px;
+  background: #fff;
+  border-radius: 50%;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  transition: left var(--transition-fast);
+}
+.show-rolls-toggle__switch--on .show-rolls-toggle__knob {
+  left: 18px;
+}
