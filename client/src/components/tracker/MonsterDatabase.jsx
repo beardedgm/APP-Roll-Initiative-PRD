@@ -6,16 +6,23 @@ import useCombatStore from '../../store/useCombatStore';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
 import SOURCE_BADGES from '../../constants/monsterSources';
+import PF2E_SOURCE_BADGES from '../../constants/pf2eSources';
 
-const CR_OPTIONS = [
+const CR_OPTIONS_5E = [
   '0', '1/8', '1/4', '1/2', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10',
   '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23',
   '24', '25', '26', '27', '28', '29', '30',
 ];
 
+const LEVEL_OPTIONS_PF2E = [
+  '-1', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10',
+  '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
+  '21', '22', '23', '24', '25',
+];
+
 const PAGE_SIZE = 20;
 
-const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddToEncounter }, ref) {
+const MonsterDatabase = forwardRef(function MonsterDatabase({ gameSystem = '5e', onRollDice, onAddToEncounter }, ref) {
   const [query, setQuery] = useState('');
   const [debouncedQuery, setDebouncedQuery] = useState('');
   const [sourceFilter, setSourceFilter] = useState('');
@@ -30,12 +37,18 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
   const storeMonsters = useUserDataStore(s => s.customMonsters);
   const removeCustomMonster = useUserDataStore(s => s.removeCustomMonster);
 
+  const isPf2e = gameSystem === 'pf2e';
+  const sourceBadges = isPf2e ? PF2E_SOURCE_BADGES : SOURCE_BADGES;
+  const crLevelOptions = isPf2e ? LEVEL_OPTIONS_PF2E : CR_OPTIONS_5E;
+  const crLabel = isPf2e ? 'Level' : 'CR';
+  const crAllLabel = isPf2e ? 'All Levels' : 'All CRs';
+
   // Allow parent to open a stat block by slug or refresh local monsters
   useImperativeHandle(ref, () => ({
     showStatBlock(slug) { setSelectedSlug(slug); },
     refreshLocal() { /* no-op, store auto-updates */ },
   }), []);
-  const { data: sources = [] } = useMonsterSources();
+  const { data: sources = [] } = useMonsterSources(gameSystem);
 
   // Debounce
   useEffect(() => {
@@ -54,6 +67,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
     q: debouncedQuery,
     source: sourceFilter,
     cr: crFilter,
+    gameSystem,
     limit: PAGE_SIZE,
     skip: page * PAGE_SIZE,
   });
@@ -61,8 +75,10 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
   const apiResults = data?.results || [];
   const apiTotal = data?.total || 0;
   // Filter store custom monsters by search/CR
-  const localMonsters = (!sourceFilter || sourceFilter === 'custom')
+  const localMonsters = (!sourceFilter || sourceFilter === 'custom' || sourceFilter === 'custom-pf2e')
     ? storeMonsters.filter(m => {
+        const monsterSystem = m.gameSystem || '5e';
+        if (monsterSystem !== gameSystem) return false;
         if (debouncedQuery) {
           const pattern = new RegExp(debouncedQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i');
           if (!pattern.test(m.name)) return false;
@@ -152,9 +168,9 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
             value={crFilter}
             onChange={e => handleCrFilter(e.target.value)}
           >
-            <option value="">All CRs</option>
-            {CR_OPTIONS.map(cr => (
-              <option key={cr} value={cr}>CR {cr}</option>
+            <option value="">{crAllLabel}</option>
+            {crLevelOptions.map(val => (
+              <option key={val} value={val}>{crLabel} {val}</option>
             ))}
           </select>
         </div>
@@ -163,13 +179,13 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
       <div className="monster-db__custom-actions">
         <button
           className="btn btn--sm btn--primary"
-          onClick={() => openModal('monster-form')}
+          onClick={() => openModal('monster-form', { gameSystem })}
         >
-          + Create Monster
+          + Create {isPf2e ? 'Creature' : 'Monster'}
         </button>
         <button
           className="btn btn--sm"
-          onClick={() => openModal('import-monster')}
+          onClick={() => openModal('import-monster', { gameSystem })}
         >
           &#8595; Import JSON
         </button>
@@ -194,8 +210,8 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
               </span>
             </div>
             <div className="monster-db__item-stats">
-              <span className="monster-db__stat" title="Challenge Rating">
-                CR {m.cr || '—'}
+              <span className="monster-db__stat" title={isPf2e ? 'Level' : 'Challenge Rating'}>
+                {isPf2e ? `Lvl ${m.cr || '—'}` : `CR ${m.cr || '—'}`}
               </span>
               <span className="monster-db__stat" title="Hit Points">
                 HP {m.hp}
@@ -204,7 +220,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ onRollDice, onAddT
                 AC {m.ac}
               </span>
               <span className="monster-search__source-badge">
-                {SOURCE_BADGES[m.sourceKey] || m.sourceKey}
+                {sourceBadges[m.sourceKey] || m.sourceKey}
               </span>
             </div>
             <button

@@ -19,8 +19,10 @@ function crToNumeric(crStr) {
  * Public — returns seeded (non-custom) monsters only.
  */
 router.get('/api/monsters/search', asyncHandler(async (req, res) => {
-  const { q, source, cr, type, limit = 20, skip = 0 } = req.query;
+  const { q, source, cr, type, limit = 20, skip = 0, gameSystem = '5e' } = req.query;
   const filter = {};
+
+  filter.gameSystem = gameSystem;
 
   if (q && q.trim()) {
     const escaped = q.trim().replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -33,7 +35,11 @@ router.get('/api/monsters/search', asyncHandler(async (req, res) => {
 
   if (cr !== undefined && cr !== '') {
     const crStr = cr.trim();
-    filter.crNumeric = crToNumeric(crStr);
+    if (gameSystem === 'pf2e') {
+      filter.crNumeric = parseInt(crStr);
+    } else {
+      filter.crNumeric = crToNumeric(crStr);
+    }
   }
 
   if (type && type.trim()) {
@@ -51,7 +57,7 @@ router.get('/api/monsters/search', asyncHandler(async (req, res) => {
 
   const [monsters, total] = await Promise.all([
     Monster.find(filter)
-      .select('name slug source sourceKey cr crNumeric hp ac initMod size type alignment')
+      .select('name slug source sourceKey gameSystem cr crNumeric hp ac initMod size type alignment')
       .sort({ name: 1 })
       .skip(sk)
       .limit(lim),
@@ -65,8 +71,9 @@ router.get('/api/monsters/search', asyncHandler(async (req, res) => {
  * GET /api/monsters/sources — list all unique sourceKeys with labels (seeded only)
  */
 router.get('/api/monsters/sources', asyncHandler(async (req, res) => {
+  const { gameSystem = '5e' } = req.query;
   const pipeline = [
-    { $match: { isCustom: { $ne: true } } },
+    { $match: { isCustom: { $ne: true }, gameSystem } },
     { $group: { _id: '$sourceKey', label: { $first: '$source' }, count: { $sum: 1 } } },
     { $sort: { label: 1 } },
   ];
@@ -78,8 +85,8 @@ router.get('/api/monsters/sources', asyncHandler(async (req, res) => {
  * GET /api/monsters/:slug — full stat block for seeded monsters
  */
 router.get('/api/monsters/:slug', asyncHandler(async (req, res) => {
-  // M-8: Validate slug format (alphanumeric + hyphens, max 200 chars)
-  if (!/^[a-z0-9-]{1,200}$/i.test(req.params.slug)) {
+  // M-8: Validate slug format (alphanumeric + hyphens + underscores, max 200 chars)
+  if (!/^[a-z0-9_-]{1,200}$/i.test(req.params.slug)) {
     return res.status(400).json({ error: 'Invalid slug format' });
   }
 

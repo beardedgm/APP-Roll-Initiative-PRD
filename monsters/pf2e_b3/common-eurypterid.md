@@ -1,0 +1,26 @@
+# Common Eurypterid
+*Creature -1*
+
+n, medium, amphibious, animal
+
+---
+
+**Perception** +2
+**STR** +2, **DEX** +0, **CON** +3, **INT** -5, **WIS** +0, **CHA** -3
+
+---
+
+**AC** 15
+**Fort** +7, **Ref** +4, **Will** +2
+**HP** 9
+
+**Attack of Opportunity** ◈ Stinger only (page 304).
+
+---
+
+Speed 30 feet, swim 30 feet
+
+**Melee** pincer +6; **Damage** 1d6+2 slashing plus Grab plus Grab
+**Melee** stinger +6; **Damage** 1d4+2 piercing plus eurypterid venom plus eurypterid venom
+
+**Eurypterid Venom** (poison)

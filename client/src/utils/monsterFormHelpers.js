@@ -111,6 +111,106 @@ export function formDataToMonsterAPI(formData) {
   return payload;
 }
 
+// ── PF2e-specific constants ──
+
+export const PF2E_LEVEL_RANGE = { min: -1, max: 25 };
+
+export const PF2E_RARITY_OPTIONS = ['Common', 'Uncommon', 'Rare', 'Unique'];
+
+export const PF2E_SIZE_OPTIONS = ['Tiny', 'Small', 'Medium', 'Large', 'Huge', 'Gargantuan'];
+
+/** Default form state for a new PF2e creature */
+export function getDefaultPf2eFormData() {
+  return {
+    name: '',
+    level: 1,
+    size: 'Medium',
+    type: '',
+    rarity: 'Common',
+    perception: 0,
+    ac: 15,
+    acDesc: '',
+    hp: 10,
+    fort: 0,
+    ref: 0,
+    will: 0,
+    speed: '25 feet',
+    abilities: { str: 0, dex: 0, con: 0, int: 0, wis: 0, cha: 0 },
+    skills: '',
+    senses: '',
+    languages: '',
+    immunities: '',
+    resistances: '',
+    weaknesses: '',
+    traits: [],
+    actions: [],
+    reactions: [],
+    rawMarkdown: '',
+  };
+}
+
+/** Convert PF2e form data to the API payload format */
+export function pf2eFormDataToMonsterAPI(formData) {
+  const mod = (n) => n >= 0 ? `+${n}` : String(n);
+  const f = formData;
+
+  // Build markdown from form data
+  const lines = [];
+  lines.push(`# ${f.name}`);
+  lines.push(`*Creature ${f.level}*`);
+  lines.push('');
+  const traitParts = [f.rarity, f.size, f.type].filter(Boolean);
+  if (traitParts.length) lines.push(traitParts.join(', '));
+  lines.push('');
+  lines.push('---');
+  lines.push('');
+  lines.push(`**Perception** ${mod(f.perception)}${f.senses ? '; ' + f.senses : ''}`);
+  if (f.languages) lines.push(`**Languages** ${f.languages}`);
+  if (f.skills) lines.push(`**Skills** ${f.skills}`);
+  const a = f.abilities;
+  lines.push(`**STR** ${mod(a.str)}, **DEX** ${mod(a.dex)}, **CON** ${mod(a.con)}, **INT** ${mod(a.int)}, **WIS** ${mod(a.wis)}, **CHA** ${mod(a.cha)}`);
+  lines.push('');
+  lines.push('---');
+  lines.push('');
+  lines.push(`**AC** ${f.ac}${f.acDesc ? ' (' + f.acDesc + ')' : ''}`);
+  lines.push(`**Fort** ${mod(f.fort)}, **Ref** ${mod(f.ref)}, **Will** ${mod(f.will)}`);
+  lines.push(`**HP** ${f.hp}`);
+  if (f.immunities) lines.push(`**Immunities** ${f.immunities}`);
+  if (f.resistances) lines.push(`**Resistances** ${f.resistances}`);
+  if (f.weaknesses) lines.push(`**Weaknesses** ${f.weaknesses}`);
+  lines.push('');
+  lines.push('---');
+  lines.push('');
+  lines.push(`**Speed** ${f.speed}`);
+  if (f.actions?.length > 0) {
+    for (const act of f.actions) {
+      lines.push(`**${act.name}** ${act.description}`);
+      lines.push('');
+    }
+  }
+
+  const rawMarkdown = f.rawMarkdown || lines.join('\n');
+
+  return {
+    name: f.name,
+    size: f.size,
+    type: f.type || 'Creature',
+    alignment: '',
+    cr: String(f.level),
+    hp: f.hp,
+    ac: f.ac,
+    acDesc: f.acDesc || '',
+    initMod: f.perception,
+    abilities: f.abilities,
+    speed: f.speed,
+    gameSystem: 'pf2e',
+    rawMarkdown,
+    traits: f.traits?.length > 0 ? f.traits : undefined,
+    actions: f.actions?.length > 0 ? f.actions : undefined,
+    reactions: f.reactions?.length > 0 ? f.reactions : undefined,
+  };
+}
+
 /** Convert an API monster to form data for editing */
 export function monsterAPIToFormData(monster) {
   return {

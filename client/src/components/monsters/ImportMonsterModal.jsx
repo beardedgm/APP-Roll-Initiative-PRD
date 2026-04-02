@@ -2,11 +2,15 @@ import { useState, useRef } from 'react';
 import Modal from '../ui/Modal';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
-import { parseMonsterJSON, validateMonsterData, MONSTER_JSON_TEMPLATE } from '../../utils/monsterImport';
+import { parseMonsterJSON, validateMonsterData, MONSTER_JSON_TEMPLATE, parsePf2eMonsterJSON, validatePf2eMonsterData } from '../../utils/monsterImport';
 
 export default function ImportMonsterModal() {
   const closeModal = useUIStore(s => s.closeModal);
   const addCustomMonster = useUserDataStore(s => s.addCustomMonster);
+
+  const modalData = useUIStore(s => s.modalData);
+  const [gameSystem, setGameSystem] = useState(modalData?.gameSystem || '5e');
+  const isPf2e = gameSystem === 'pf2e';
 
   const [tab, setTab] = useState('paste'); // 'paste' | 'upload'
   const [jsonText, setJsonText] = useState('');
@@ -26,8 +30,8 @@ export default function ImportMonsterModal() {
     setErrors([]);
     setParsed(null);
     try {
-      const monster = parseMonsterJSON(text);
-      const validationErrors = validateMonsterData(monster);
+      const monster = isPf2e ? parsePf2eMonsterJSON(text) : parseMonsterJSON(text);
+      const validationErrors = isPf2e ? validatePf2eMonsterData(monster) : validateMonsterData(monster);
       if (validationErrors.length > 0) {
         setErrors(validationErrors);
         return;
@@ -75,6 +79,24 @@ export default function ImportMonsterModal() {
   return (
     <Modal id="import-monster" title="Import Custom Monster">
       <div className="import-monster">
+        {/* Game system toggle */}
+        <div className="import-monster__system-toggle">
+          <button
+            className={`import-monster__system-btn${!isPf2e ? ' import-monster__system-btn--active' : ''}`}
+            onClick={() => { setGameSystem('5e'); reset(); }}
+            type="button"
+          >
+            D&amp;D 5E
+          </button>
+          <button
+            className={`import-monster__system-btn${isPf2e ? ' import-monster__system-btn--active' : ''}`}
+            onClick={() => { setGameSystem('pf2e'); reset(); }}
+            type="button"
+          >
+            PF2E
+          </button>
+        </div>
+
         {/* Tab selector */}
         <div className="import-monster__tabs">
           <button
@@ -108,7 +130,7 @@ export default function ImportMonsterModal() {
             </div>
             <textarea
               className="import-monster__textarea"
-              placeholder="Paste 5e monster JSON here..."
+              placeholder={isPf2e ? 'Paste PF2eTools creature JSON here...' : 'Paste 5e monster JSON here...'}
               value={jsonText}
               onChange={e => setJsonText(e.target.value)}
               rows={12}
@@ -152,7 +174,7 @@ export default function ImportMonsterModal() {
               <div><strong>Name:</strong> {parsed.name}</div>
               <div><strong>Size:</strong> {parsed.size}</div>
               <div><strong>Type:</strong> {parsed.type}</div>
-              <div><strong>CR:</strong> {parsed.cr}</div>
+              <div><strong>{isPf2e ? 'Level' : 'CR'}:</strong> {parsed.cr}</div>
               <div><strong>HP:</strong> {parsed.hp}{parsed.hpFormula ? ` (${parsed.hpFormula})` : ''}</div>
               <div><strong>AC:</strong> {parsed.ac}{parsed.acDesc ? ` (${parsed.acDesc})` : ''}</div>
               <div><strong>Speed:</strong> {parsed.speed}</div>
