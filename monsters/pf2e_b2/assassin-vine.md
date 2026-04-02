@@ -6,6 +6,7 @@ n, large, mindless, plant
 ---
 
 **Perception** +10
+
 **STR** +4, **DEX** +0, **CON** +3, **INT** -5, **WIS** +3, **CHA** +0
 
 **Camouflage** The assassin vine can Hide in natural environments even if it doesn't have cover.
@@ -13,8 +14,11 @@ n, large, mindless, plant
 ---
 
 **AC** 18
+
 **Fort** +10, **Ref** +7, **Will** +8
+
 **HP** 68
+
 **Weaknesses** fire 5, slashing 5
 
 **Grasping Foliage** ◈ (primal, transmutation) **Trigger** The assassin vine detects a creature within 20 feet via tremorsense; The assassin vine causes vegetation within a 20-foot emanation to writhe for 1 round, turning this area into terrain. When a creature starts its turn in this area, it must attempt a DC 20 Reflex save. On a failure, it takes a –10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure it is also immobilized for 1 round. A creature can attempt to Escape to remove these effects. Assassin vines are immune to Grasping Foliage.

@@ -6,6 +6,7 @@ n, large, animal, aquatic
 ---
 
 **Perception** +6
+
 **STR** +3, **DEX** +3, **CON** +4, **INT** -4, **WIS** +1, **CHA** -1
 
 **Electrolocation** A stingray in water can use its electrolocation as an imprecise sense at the listed range to detect living creatures that are in the same body of water as itself.
@@ -13,7 +14,9 @@ n, large, animal, aquatic
 ---
 
 **AC** 16
+
 **Fort** +6, **Ref** +9, **Will** +6
+
 **HP** 24
 
 ---

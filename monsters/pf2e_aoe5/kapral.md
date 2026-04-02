@@ -6,13 +6,17 @@ unique, ln, medium, elf, humanoid
 ---
 
 **Perception** +28
+
 **Languages** common, draconic, elven
+
 **STR** +1, **DEX** +5, **CON** +4, **INT** +5, **WIS** +4, **CHA** -1
 
 ---
 
 **AC** 34
+
 **Fort** +26, **Ref** +27, **Will** +28
+
 **HP** 220
 
 **Contingency Plan** ◈ (arcane, conjuration, magical, teleportation) **Trigger** Kapral is targeted by an attack; **Frequency** {"unit":"day","number":1}; Kapral casts blink on herself.

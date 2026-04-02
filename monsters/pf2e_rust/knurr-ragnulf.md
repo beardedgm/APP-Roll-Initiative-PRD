@@ -6,14 +6,19 @@ unique, ce, medium, dwarf, humanoid
 ---
 
 **Perception** +8
+
 **Languages** common, dwarven, skald
+
 **STR** +3, **DEX** +0, **CON** +2, **INT** +0, **WIS** +2, **CHA** +3
+
 **Items** rusty ({@condition broken}) {@item full plate}, {@runeItem warhammer||+1 weapon potency|}
 
 ---
 
 **AC** 17
+
 **Fort** +8, **Ref** +4, **Will** +8
+
 **HP** 35
 
 ---

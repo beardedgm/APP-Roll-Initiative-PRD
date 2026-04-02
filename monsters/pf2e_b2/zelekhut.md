@@ -6,7 +6,9 @@ ln, large, aeon, inevitable, monitor
 ---
 
 **Perception** +21
+
 **Languages** celestial, infernal, utopian
+
 **STR** +6, **DEX** +5, **CON** +4, **INT** +0, **WIS** +3, **CHA** +3
 
 **Truespeech** A zelekhut can speak with and understand any creature with a language.
@@ -14,9 +16,13 @@ ln, large, aeon, inevitable, monitor
 ---
 
 **AC** 28
+
 **Fort** +17, **Ref** +20, **Will** +18
+
 **HP** 160
+
 **Immunities** death
+
 **Weaknesses** chaotic 10
 
 **Attack of Opportunity** ◈

@@ -6,6 +6,7 @@ n, tiny, animal
 ---
 
 **Perception** +5
+
 **STR** -3, **DEX** +3, **CON** +0, **INT** -4, **WIS** +3, **CHA** +0
 
 **Cunning** A raven can use simple items as tools, such as poking a stick at an opening to tease out a piece of food. They are also quite adept at stealing objects. A raven can't use Thievery to Palm an Object, Disable a Device, or Pick a Lock, but it can use Thievery to Steal light objects that it can carry in its beak or talons or to accomplish other relatively simple tasks.
@@ -13,7 +14,9 @@ n, tiny, animal
 ---
 
 **AC** 15
+
 **Fort** +2, **Ref** +7, **Will** +5
+
 **HP** 7
 
 ---

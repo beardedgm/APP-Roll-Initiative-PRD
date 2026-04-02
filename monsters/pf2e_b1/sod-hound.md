@@ -6,6 +6,7 @@ n, small, earth, elemental
 ---
 
 **Perception** +9
+
 **STR** +4, **DEX** -1, **CON** +3, **INT** -4, **WIS** +2, **CHA** -1
 
 **Crystal Sense** A sod hound can sense crystals or gems within 60 feet as if using the scent ability.
@@ -13,8 +14,11 @@ n, small, earth, elemental
 ---
 
 **AC** 19
+
 **Fort** +12, **Ref** +6, **Will** +7
+
 **HP** 44
+
 **Immunities** bleed, paralyzed, poison, sleep
 
 ---

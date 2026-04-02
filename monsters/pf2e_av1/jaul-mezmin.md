@@ -6,7 +6,9 @@ unique, ne, medium, beast, human, humanoid, werecreature
 ---
 
 **Perception** +14
+
 **Languages** common
+
 **STR** +5, **DEX** +2, **CON** +0, **INT** -1, **WIS** +4, **CHA** +2
 
 **Wolf Empathy** (divination, primal) Jaul can communicate with lupines.
@@ -14,8 +16,11 @@ unique, ne, medium, beast, human, humanoid, werecreature
 ---
 
 **AC** 24
+
 **Fort** +12, **Ref** +14, **Will** +16
+
 **HP** 120
+
 **Weaknesses** silver 7
 
 ---
@@ -23,7 +28,9 @@ unique, ne, medium, beast, human, humanoid, werecreature
 Speed 25 feet
 
 **Melee** katar +17 (agile, deadly <d6>, magical, monk); **Damage** 2d4+7 piercing
+
 **Melee** claw +16 (agile); **Damage** 2d6+7 slashing
+
 **Melee** jaws +16; **Damage** 2d8+7 piercing plus curse of the werewolf plus curse of the werewolf
 
 **Prepared primal Spells** (DC 24), attack +15

@@ -296,11 +296,13 @@ export function renderPf2eCreatureToMarkdown(creature) {
   const senses = creature.perception?.senses ?? [];
   const sensesStr = senses.length > 0 ? `; ${senses.map((s) => s.name).join(', ')}` : '';
   lines.push(`**Perception** ${percMod}${sensesStr}`);
+  lines.push('');
 
   // Languages
   const langs = creature.languages?.languages ?? [];
   if (langs.length > 0) {
     lines.push(`**Languages** ${langs.map((l) => (typeof l === 'string' ? l : l.name)).join(', ')}`);
+    lines.push('');
   }
 
   // Skills
@@ -310,6 +312,7 @@ export function renderPf2eCreatureToMarkdown(creature) {
       .map((s) => `**${s.name}** ${fmtMod(s.std)}`)
       .join(', ');
     lines.push(`**Skills** ${skillStr}`);
+    lines.push('');
   }
 
   // Ability mods
@@ -323,20 +326,19 @@ export function renderPf2eCreatureToMarkdown(creature) {
     `**CHA** ${fmtMod(mods.cha)}`,
   ].join(', ');
   lines.push(abilityLine);
+  lines.push('');
 
   // Items
   const items = creature.items ?? [];
   if (items.length > 0) {
     lines.push(`**Items** ${items.map((i) => (typeof i === 'string' ? i : i.name ?? '')).join(', ')}`);
+    lines.push('');
   }
-
-  lines.push('');
 
   // Top abilities
   const topAbilities = creature.abilities?.top ?? [];
   if (topAbilities.length > 0) {
-    topAbilities.forEach((ab) => lines.push(renderAbility(ab)));
-    lines.push('');
+    topAbilities.forEach((ab) => { lines.push(renderAbility(ab)); lines.push(''); });
   }
 
   lines.push('---');
@@ -346,16 +348,20 @@ export function renderPf2eCreatureToMarkdown(creature) {
   const defenses = creature.defenses ?? {};
 
   lines.push(renderAc(defenses.ac));
+  lines.push('');
 
   const saveAbilities = defenses.savingThrows?.abilities ?? [];
   lines.push(renderSaves(defenses.savingThrows, saveAbilities));
+  lines.push('');
 
   lines.push(renderHp(defenses.hp));
+  lines.push('');
 
   // Immunities
   const immunities = defenses.immunities ?? [];
   if (immunities.length > 0) {
     lines.push(`**Immunities** ${immunities.map((i) => (typeof i === 'string' ? i : i.name)).join(', ')}`);
+    lines.push('');
   }
 
   // Resistances
@@ -369,6 +375,7 @@ export function renderPf2eCreatureToMarkdown(creature) {
       })
       .join(', ');
     lines.push(`**Resistances** ${resStr}`);
+    lines.push('');
   }
 
   // Weaknesses
@@ -382,15 +389,13 @@ export function renderPf2eCreatureToMarkdown(creature) {
       })
       .join(', ');
     lines.push(`**Weaknesses** ${weakStr}`);
+    lines.push('');
   }
-
-  lines.push('');
 
   // Mid abilities
   const midAbilities = creature.abilities?.mid ?? [];
   if (midAbilities.length > 0) {
-    midAbilities.forEach((ab) => lines.push(renderAbility(ab)));
-    lines.push('');
+    midAbilities.forEach((ab) => { lines.push(renderAbility(ab)); lines.push(''); });
   }
 
   lines.push('---');
@@ -406,8 +411,7 @@ export function renderPf2eCreatureToMarkdown(creature) {
 
   // Attacks
   const attacks = creature.attacks ?? [];
-  attacks.forEach((atk) => lines.push(renderAttack(atk)));
-  if (attacks.length > 0) lines.push('');
+  attacks.forEach((atk) => { lines.push(renderAttack(atk)); lines.push(''); });
 
   // Spellcasting
   const spellcastingStr = renderSpellcasting(creature.spellcasting);
@@ -418,7 +422,7 @@ export function renderPf2eCreatureToMarkdown(creature) {
 
   // Bot abilities
   const botAbilities = creature.abilities?.bot ?? [];
-  botAbilities.forEach((ab) => lines.push(renderAbility(ab)));
+  botAbilities.forEach((ab) => { lines.push(renderAbility(ab)); lines.push(''); });
 
   return lines.join('\n');
 }

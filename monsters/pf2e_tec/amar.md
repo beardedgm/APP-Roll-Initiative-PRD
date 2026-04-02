@@ -6,14 +6,19 @@ unique, ne, medium, human, humanoid
 ---
 
 **Perception** +15
+
 **Languages** osiriani, taldane
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +4, **WIS** +2, **CHA** +5
+
 **Items** {@item leather||leather armor}, {@item handheld musical instrument||lute}, {@runeItem rapier||+1 weapon potency||striking|}
 
 ---
 
 **AC** 23
+
 **Fort** +11, **Ref** +17, **Will** +14
+
 **HP** 100
 
 ---

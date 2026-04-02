@@ -6,6 +6,7 @@ uncommon, n, medium, mindless, ooze
 ---
 
 **Perception** +6
+
 **STR** +4, **DEX** -4, **CON** +3, **INT** -5, **WIS** +1, **CHA** -5
 
 **Motion Sense** As yeast ooze.
@@ -13,13 +14,19 @@ uncommon, n, medium, mindless, ooze
 ---
 
 **AC** 11
+
 **Fort** +10, **Ref** +3, **Will** +6
+
 **HP** 80
+
 **Immunities** critical hits, mental, precision, unconscious, visual
+
 **Resistances** metal 5
+
 **Weaknesses** electricity 5
 
 **Corrode Weapon** ◈ **Trigger** The rust ooze is hit with a metal weapon; The rust ooze deals 2d6 acid damage to the item, ignoring its Hardness.
+
 **Metal Resistance** A rust ooze has resistance 5 to metal weapons.
 
 ---

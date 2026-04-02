@@ -6,6 +6,7 @@ uncommon, ne, huge, aquatic, beast
 ---
 
 **Perception** +19
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** -3, **WIS** +4, **CHA** +0
 
 **Luminous Lure** (aura, emotion, enchantment, incapacitation, light, mental, primal) 30 feet. The mamlambo emits dim light from its skin. A creature that enters or begins its turn in the aura must attempt a DC 23 Will save. Humanoids take a –2 penalty to this saving throw. Regardless of the save's result, the creature is temporarily immune for 10 minutes. **Critical Success** The creature is unaffected.
@@ -16,7 +17,9 @@ uncommon, ne, huge, aquatic, beast
 ---
 
 **AC** 28
+
 **Fort** +19, **Ref** +20, **Will** +15
+
 **HP** 155
 
 **Attack of Opportunity** ◈ Tail only.
@@ -26,8 +29,11 @@ uncommon, ne, huge, aquatic, beast
 Speed 10 feet, swim 40 feet
 
 **Melee** jaws +21 (reach <10 feet>); **Damage** 2d8+11 piercing plus Improved Grab plus Improved Grab
+
 **Melee** tail +21 (agile, reach <15 feet>); **Damage** 2d6+11 bludgeoning
 
 **Aquatic Ambush** ◆
+
 **Face Eater** ◆ **Requirements** The mamlambo has a creature grabbed or restrained, or there is a dying, immobilized, or unconscious creature within the mamlambo's reach; The mamlambo deals 2d8+11 piercing damage to the creature (DC 28 basic Fortitude save). On a failure, the creature also takes an additional 2d6 persistent bleed damage, or 4d6 persistent bleed damage on a critical failure.
+
 **An Unusual Phobia** Mamlambos have an unusually strong aversion to river otters, despite being much larger and more dangerous. Since mamlambos rarely remain in an area inhabited by otters for long, river-dwelling people in the Mwangi Expanse often keep trained otters to aid in fishing and to ward off the potential presence of a mamlambo.

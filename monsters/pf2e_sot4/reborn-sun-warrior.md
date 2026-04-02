@@ -6,16 +6,23 @@ rare, le, medium, fire, undead
 ---
 
 **Perception** +21
+
 **Languages** common, necril
+
 **STR** +5, **DEX** +4, **CON** +5, **INT** +1, **WIS** +2, **CHA** -1
+
 **Items** flame spike (as a flame tongue, but a spear rather than a longsword), religious symbol of {@deity Walkena|LOGM}
 
 ---
 
 **AC** 31
+
 **Fort** +24, **Ref** +21, **Will** +18
+
 **HP** 245; negative healing
+
 **Immunities** death effects, disease, paralyzed, poison, unconscious
+
 **Resistances** fire 10, mental 10
 
 **Burning Sacrifice** (divine, evocation, fire) As reborn sun hunter.
@@ -25,11 +32,15 @@ rare, le, medium, fire, undead
 Speed 25 feet
 
 **Melee** spear +24 (magical); **Damage** 3d8+11 piercing plus 1d6 fire
+
 **Melee** fist +23 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+11 bludgeoning plus 1d6 fire and Grab
+
 **Melee** spear +23 (magical, thrown <20 feet>); **Damage** 3d8+11 piercing plus 1d6 fire
 
 **Innate divine Spells** (DC 27), attack +19
 
 **Constrict** ◆ 1d4+9 bludgeoning plus 2d6 fire, DC 27
+
 **Knocking Sweep** ◆◆ **Frequency** {"number":1,"unit":"round"}; The sun warrior swings their weapon with a sweeping spin. They attempt separate Athletics checks to Trip any number of creatures within their reach. Each attempt counts toward the sun warrior's multiple attack penalty, but the multiple attack penalty doesn't increase until after they make all the attacks.
+
 **Pinning Thrust** ◆◆ The sun warrior attempts to drive their spear through a foe to pin them in place. The sun warrior makes a spear Strike. On a hit, the target's clothes, armor, or other piece of equipment becomes pinned to the ground. The sun warrior Releases the spear, and the target is immobilized until they can remove the spear (Escape DC 27). If the Strike was a critical hit, the DC increases by 2.

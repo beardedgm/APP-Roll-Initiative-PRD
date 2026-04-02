@@ -6,13 +6,17 @@ cg, tiny, fey, sprite
 ---
 
 **Perception** +8
+
 **Languages** common, sylvan
+
 **STR** -1, **DEX** +4, **CON** +1, **INT** +3, **WIS** +1, **CHA** +3
 
 ---
 
 **AC** 19
+
 **Fort** +6, **Ref** +11, **Will** +8
+
 **HP** 45
 
 ---
@@ -20,6 +24,7 @@ cg, tiny, fey, sprite
 Speed 15 feet, fly 40 feet
 
 **Melee** jaws +11 (agile, finesse, magical); **Damage** 1d8+3 bludgeoning damage
+
 **Melee** euphoric spark +7 (enchantment, magical, range <20 feet>); **Damage** 2d4+3 mental
 
 **Innate primal Spells** (DC 20)

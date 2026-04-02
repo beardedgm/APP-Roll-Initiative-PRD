@@ -6,15 +6,21 @@ unique, ne, large, dream, incorporeal
 ---
 
 **Perception** +21
+
 **Languages** aklo, common, varisian
+
 **STR** -5, **DEX** +5, **CON** +4, **INT** +4, **WIS** +4, **CHA** +6
 
 ---
 
 **AC** 28
+
 **Fort** +19, **Ref** +21, **Will** +22; +1 status to all saves vs. magic
+
 **HP** 145
+
 **Immunities** cold, disease, paralyzed, poison, precision, sleep
+
 **Resistances** all 10, force, ghost touch, or negative, double resistance vs. non-magical)
 
 ---

@@ -6,12 +6,15 @@ n, small, plant
 ---
 
 **Perception** +4
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** -4, **WIS** +0, **CHA** +0
 
 ---
 
 **AC** 16
+
 **Fort** +6, **Ref** +7, **Will** +4
+
 **HP** 15
 
 ---

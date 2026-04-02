@@ -6,14 +6,19 @@ ce, small, goblin, humanoid
 ---
 
 **Perception** +5
+
 **Languages** common, goblin
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** +1, **WIS** +0, **CHA** +4
+
 **Items** dogslicer, leather armor, shortbow (10 arrows)
 
 ---
 
 **AC** 17
+
 **Fort** +7, **Ref** +8, **Will** +5
+
 **HP** 16
 
 **Goblin Scuttle** ◈ **Trigger** A goblin ally ends a move action adjacent to the war chanter.; The goblin war chanter Steps.
@@ -23,6 +28,7 @@ ce, small, goblin, humanoid
 Speed 25 feet
 
 **Melee** dogslicer +8 (agile, backstabber, finesse); **Damage** 1d6+2 slashing
+
 **Melee** shortbow +8 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
 
 **Spontaneous occult Spells** (DC 17)

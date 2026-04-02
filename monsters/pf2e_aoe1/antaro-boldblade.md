@@ -6,14 +6,19 @@ cg, medium, human, humanoid
 ---
 
 **Perception** +4
+
 **Languages** common, dwarven
+
 **STR** +2, **DEX** +0, **CON** +1, **INT** +0, **WIS** +2, **CHA** +2
+
 **Items** rapier, wooden shield, splint mail
 
 ---
 
 **AC** 15; 17 with Shield Raised
+
 **Fort** +5, **Ref** +2, **Will** +8
+
 **HP** 9
 
 ---

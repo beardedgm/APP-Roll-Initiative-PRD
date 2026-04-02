@@ -6,14 +6,19 @@ le, medium, devil, fiend, mindless
 ---
 
 **Perception** +0
+
 **STR** +2, **DEX** +0, **CON** +3, **INT** -5, **WIS** +0, **CHA** -3
 
 ---
 
 **AC** 13
+
 **Fort** +10, **Ref** +5, **Will** +3
+
 **HP** 20
+
 **Immunities** fire, mental
+
 **Weaknesses** good 3
 
 ---

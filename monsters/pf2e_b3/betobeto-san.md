@@ -6,8 +6,11 @@ uncommon, n, medium, incorporeal, shadow, spirit
 ---
 
 **Perception** +22
+
 **Languages** common, shadowtongue
+
 **STR** +4, **DEX** +7, **CON** +5, **INT** +4, **WIS** +4, **CHA** +5
+
 **Items** sandals
 
 **Fearsense** (divination, mental, occult) The betobeto-san is aware of all frightened creatures within the listed range.
@@ -15,16 +18,22 @@ uncommon, n, medium, incorporeal, shadow, spirit
 ---
 
 **AC** 33
+
 **Fort** +19, **Ref** +25, **Will** +22
+
 **HP** 170
+
 **Immunities** poison, disease, paralyzed, precision
+
 **Resistances** all damage 10
 
 **Ominous Footsteps** (auditory, aura, emotion, fear, illusion, mental, occult) 60 feet. The betobeto-san's footsteps seem to draw ever closer, yet the source remains difficult to pinpoint. Each creature that starts its turn within 60 feet of the betobeto-san must attempt a DC 29 Will save. **Critical Success** The creature is unaffected and is temporarily immune for 1 minute.
 **Success** The creature becomes frightened 1.
 **Failure** The creature becomes frightened 2.
 **Critical Failure** The creature becomes frightened 4.
+
 **Shadow Invisibility** The betobeto-san is invisible unless within an area of bright light.
+
 **Shadow Step** ◈ (conjuration, occult, shadow, teleportation) **Trigger** A bright light source reveals the betobeto-san; **Requirements** The betobeto-san isn't already within an area of bright light; The betobeto-san Steps briefly into the Shadow Plane and then back again, appearing up to 30 feet away from where they began.
 
 ---

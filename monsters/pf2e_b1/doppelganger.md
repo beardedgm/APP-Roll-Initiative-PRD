@@ -6,13 +6,17 @@ uncommon, n, medium, humanoid
 ---
 
 **Perception** +7
+
 **Languages** common
+
 **STR** +3, **DEX** +3, **CON** +0, **INT** +1, **WIS** +2, **CHA** +4
 
 ---
 
 **AC** 18
+
 **Fort** +5, **Ref** +10, **Will** +11
+
 **HP** 50
 
 **End the Charade** ◈ (attack) **Trigger** The doppelganger is transformed with Change Shape and another creature moves adjacent to it or takes a hostile action against it.; The doppelganger reverts to its natural form and can make a Strike against the triggering creature. If the creature was unaware the doppelganger was in disguise, that creature is flat-footed against this attack.

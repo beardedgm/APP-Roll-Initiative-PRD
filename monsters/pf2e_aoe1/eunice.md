@@ -6,14 +6,19 @@ cg, medium, human, humanoid
 ---
 
 **Perception** +7
+
 **Languages** common, draconic
+
 **STR** +0, **DEX** +4, **CON** +0, **INT** +4, **WIS** -1, **CHA** -1
+
 **Items** dagger, spellbook
 
 ---
 
 **AC** 15
+
 **Fort** +4, **Ref** +8, **Will** +10
+
 **HP** 20
 
 ---

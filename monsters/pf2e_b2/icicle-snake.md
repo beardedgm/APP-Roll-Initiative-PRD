@@ -6,13 +6,17 @@ n, small, cold, elemental, water
 ---
 
 **Perception** +7
+
 **STR** +1, **DEX** +3, **CON** +2, **INT** -4, **WIS** +1, **CHA** +0
 
 ---
 
 **AC** 18
+
 **Fort** +8, **Ref** +9, **Will** +5
+
 **HP** 35
+
 **Immunities** bleed, cold, poison, paralyzed, sleep
 
 ---

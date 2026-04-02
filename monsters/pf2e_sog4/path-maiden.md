@@ -6,15 +6,21 @@ rare, ce, medium, incorporeal, spirit, undead
 ---
 
 **Perception** +22
+
 **Languages** celestial, common, necril
+
 **STR** -5, **DEX** +5, **CON** +0, **INT** +4, **WIS** +4, **CHA** +6
 
 ---
 
 **AC** 31
+
 **Fort** +18, **Ref** +22, **Will** +24; +1 status to all saves vs. positive
+
 **HP** 160; negative healing|B2
+
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
+
 **Resistances** all damage 10
 
 **Imprisoning Grave** (aura, divine, necromancy)
@@ -28,4 +34,5 @@ Speed limited flight 25 feet
 **Innate occult Spells** (DC 32), attack +24
 
 **Scorn Fate** ◆◆ Will DC 32
+
 **Vengeful Frenzy** ◆◆ Will DC 32

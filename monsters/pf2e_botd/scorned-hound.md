@@ -6,6 +6,7 @@ ne, small, undead
 ---
 
 **Perception** +7
+
 **STR** +4, **DEX** +2, **CON** +2, **INT** -4, **WIS** +2, **CHA** -1
 
 **Sense Companion** (detection, divination, occult) As predatory rabbit.
@@ -13,8 +14,11 @@ ne, small, undead
 ---
 
 **AC** 15
+
 **Fort** +9, **Ref** +7, **Will** +5
+
 **HP** 22; negative healing
+
 **Immunities** death effects, disease, paralyzed, poison, sleep
 
 **Stench** (aura, olfactory) 15 feet. As predatory rabbit, but DC 14.

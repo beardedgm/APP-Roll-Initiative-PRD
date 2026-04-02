@@ -6,14 +6,19 @@ cg, small, gnome, humanoid
 ---
 
 **Perception** +11
+
 **Languages** common, gnomish, sylvan
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** -1, **WIS** +3, **CHA** +0
+
 **Items** trident
 
 ---
 
 **AC** 14
+
 **Fort** +7, **Ref** +10, **Will** +9
+
 **HP** 38
 
 ---

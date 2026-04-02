@@ -6,19 +6,27 @@ uncommon, ne, large, aberration, swarm
 ---
 
 **Perception** +20
+
 **Languages** aklo
+
 **STR** +4, **DEX** +5, **CON** +6, **INT** -1, **WIS** +3, **CHA** +0
 
 ---
 
 **AC** 30; {@ability all-around vision} abilities
+
 **Fort** +21, **Ref** +22, **Will** +18
+
 **HP** 175
+
 **Immunities** precision, swarm mind
+
 **Resistances** physical 10
+
 **Weaknesses** area damage 10, splash damage 10
 
 **Extraneous Flesh** As bhanyada scavenger|SF1.
+
 **Odor of Rot** (aura, olfactory) As bhanyada scavenger|SF1, but DC 27.
 
 ---

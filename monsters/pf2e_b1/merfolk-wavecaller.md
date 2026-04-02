@@ -6,14 +6,19 @@ n, medium, aquatic, humanoid, merfolk
 ---
 
 **Perception** +8
+
 **Languages** aquan, common
+
 **STR** +3, **DEX** +2, **CON** +1, **INT** +0, **WIS** +4, **CHA** +2
+
 **Items** dagger
 
 ---
 
 **AC** 17
+
 **Fort** +7, **Ref** +6, **Will** +10
+
 **HP** 30
 
 ---
@@ -21,6 +26,7 @@ n, medium, aquatic, humanoid, merfolk
 Speed 5 feet, swim 30 feet
 
 **Melee** dagger +9 (agile, versatile <S>); **Damage** 1d4+3 piercing
+
 **Melee** dagger +9 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+3 piercing
 
 **Prepared primal Spells** (DC 18), attack +10

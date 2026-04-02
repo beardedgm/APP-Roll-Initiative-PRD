@@ -6,6 +6,7 @@ any, tiny, construct, soulbound
 ---
 
 **Perception** +8
+
 **STR** -2, **DEX** +4, **CON** +3, **INT** +0, **WIS** +2, **CHA** +0
 
 **Personality Fragments** A soulbound doll shares fragments of its donor soul's personality, though none of that creature's memories. This causes a soulbound doll to match the donor soul's alignment and gain the corresponding alignment traits.
@@ -13,8 +14,11 @@ any, tiny, construct, soulbound
 ---
 
 **AC** 20
+
 **Fort** +7, **Ref** +10, **Will** +6
+
 **HP** 23
+
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
 ---

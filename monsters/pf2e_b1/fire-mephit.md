@@ -6,7 +6,9 @@ n, small, elemental, fire
 ---
 
 **Perception** +3
+
 **Languages** ignan
+
 **STR** +0, **DEX** +4, **CON** +0, **INT** -2, **WIS** +0, **CHA** +2
 
 **Smoke Vision** The fire mephit ignores the concealed condition from smoke.
@@ -14,8 +16,11 @@ n, small, elemental, fire
 ---
 
 **AC** 17
+
 **Fort** +3, **Ref** +9, **Will** +7
+
 **HP** 16; fast healing 2 (while touching fire)
+
 **Immunities** bleed, fire, poison, paralyzed, sleep
 
 ---

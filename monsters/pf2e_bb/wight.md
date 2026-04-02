@@ -6,13 +6,17 @@ le, medium, undead, wight
 ---
 
 **Perception** +10
+
 **STR** +4, **DEX** +1, **CON** +4, **INT** +0, **WIS** +3, **CHA** +2
 
 ---
 
 **AC** 18
+
 **Fort** +11, **Ref** +6, **Will** +10
+
 **HP** 50
+
 **Immunities** poison, unconscious
 
 **Final Spite** ◈ When the wight is reduced to 0 Hit Points, it can use its reaction to make a Strike before being destroyed. It doesn't gain any Hit Points from drain life on this Strike.

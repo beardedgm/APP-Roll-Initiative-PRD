@@ -6,19 +6,27 @@ ce, medium, incorporeal, undead
 ---
 
 **Perception** +10
+
 **Languages** necril
+
 **STR** -5, **DEX** +4, **CON** +0, **INT** -2, **WIS** +2, **CHA** +3
 
 ---
 
 **AC** 20
+
 **Fort** +8, **Ref** +14, **Will** +12
+
 **HP** 40
+
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
+
 **Resistances** all 5
+
 **Weaknesses** light vulnerability
 
 **Light Vulnerability** An object shedding magical light (such as from the light spell) is treated as magical when used to attack the shadow.
+
 **Infest Shadow** (curse, necromancy) When a familiar shadow pulls free the shadow of the PC that they duplicate, it twists and writhes for a moment before it immediately slithers back around the character. The infested shadow seems to writhe and twist on its own, as if willfully ignoring the actions of the character to whom it's attached. The infested shadow has a habit of making distracting and embarrassing motions, and imparts a –2 status penalty to its attached PC's Deception, Diplomacy, and Stealth checks. If the PC is in a situation where they aren't casting a shadow (such as when they're in complete darkness or invisible),these penalties are suppressed, but return as soon as their infested shadow does. If a PC with an infested shadow gains the dying condition, the shadow breaks free and becomes a shadow spawn (which functions the same as a shadow spawn created by a typical shadow). This shadow spawn won't attack the creature it spawned from, but any other targets are fair game. If the dying character recovers, their shadow spawn immediately dies and their shadow returns to normal—otherwise the only way to be rid of this strange curse is through the use of a spell like remove curse.
 
 ---
@@ -28,5 +36,7 @@ Speed fly 30 feet
 **Melee** shadow hand +15 (finesse, magical); **Damage** 2d6+3 negative
 
 **Shadow Spawn** When a creature's shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably clumsy 2. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.
+
 **Slink in Shadows** The shadow can Hide or end its Sneak in a creature's or object's shadow.
+
 **Steal Shadow** ◆ (divine, necromancy) **Requirements** The shadow hit a living PC with a shadow hand Strike on its previous action; The shadow pulls at the target's shadow, making the creature enfeebled 1. This is cumulative with other enfeebled conditions from shadows, to a maximum of enfeebled 4. If this increases a creature's enfeebled value to 3 or more, the target's shadow is separated from its body (see shadow spawn). Enfeebled from Steal Shadow decreases by 1 every hour. This ability only functions against the PC who the shadow appears to duplicate.

@@ -6,18 +6,25 @@ uncommon, cn, small, incorporeal, kami, spirit
 ---
 
 **Perception** +14
+
 **Languages** common
+
 **STR** -5, **DEX** +5, **CON** +4, **INT** +2, **WIS** +4, **CHA** +0
 
 ---
 
 **AC** 23
+
 **Fort** +14, **Ref** +17, **Will** +12
+
 **HP** 68; rejuvenation (ghost)
+
 **Immunities** death effects, disease, paralyzed, poison, unconscious
+
 **Resistances** all damage 5
 
 **Inhabit Home** (divine, transmutation) The silsyche inhabits a modest building and controls it. While the building is possessed, its decor shifts to reflect the silsyche's mood, such as being filled with bright light (when the silsyche is happy) or appearing old and filthy (if they're depressed). A silsyche can't willingly leave their home; if forced out of their home, the silsyche takes 3d10 force damage (DC 25 basic Fortitude save) at the start of each of their turns.
+
 **Rejuvenation** (divine, necromancy) When a silsyche is slain, they re-form after 2d4 days within the abandoned home that serves as their domain. A silsyche can be permanently killed only if their home is completely destroyed.
 
 ---

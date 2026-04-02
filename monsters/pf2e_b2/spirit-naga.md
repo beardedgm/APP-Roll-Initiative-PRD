@@ -6,7 +6,9 @@ uncommon, ne, large, aberration
 ---
 
 **Perception** +18
+
 **Languages** aklo, common
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** +1, **WIS** +3, **CHA** +5
 
 **Coven** A spirit naga adds hallucination, mind probe, and suggestion to their coven's spells.
@@ -14,7 +16,9 @@ uncommon, ne, large, aberration
 ---
 
 **AC** 28
+
 **Fort** +15, **Ref** +20, **Will** +18
+
 **HP** 160
 
 ---

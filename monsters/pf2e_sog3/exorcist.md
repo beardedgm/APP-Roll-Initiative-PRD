@@ -6,14 +6,19 @@ rare, ln, medium, human, humanoid
 ---
 
 **Perception** +16
+
 **Languages** common
+
 **STR** +2, **DEX** +2, **CON** +3, **INT** +1, **WIS** +4, **CHA** +2
+
 **Items** {@item hide||hide armor}, key (opens all gates except Earth gate), {@runeItem spear||+1 weapon potency||striking|}, {@item torch}
 
 ---
 
 **AC** 24
+
 **Fort** +15, **Ref** +14, **Will** +18
+
 **HP** 135
 
 ---
@@ -21,6 +26,7 @@ rare, ln, medium, human, humanoid
 Speed 25 feet
 
 **Melee** spear +17 (magical, reach); **Damage** 2d6+5 piercing
+
 **Melee** torch +16 (agile, finesse, shove); **Damage** 1d4+5 bludgeoning plus 1d6 fire
 
 **prepared divine Spells** (DC 26), attack +18
@@ -29,4 +35,5 @@ Speed 25 feet
 **Success** The creature is unaffected by this additional effect.
 **Failure** The purifying flames cause the creature to become clumsy 1 and stupefied 1 until the end of its next turn.
 **Critical Failure** As failure, but clumsy 2 and stupefied 2 for 1 minute.
+
 **Torch Wielder** The exorcist treats a torch as a light mace that deals an additional 1d6 fire damage on a hit.

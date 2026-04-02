@@ -6,12 +6,15 @@ n, tiny, air, elemental
 ---
 
 **Perception** +7
+
 **STR** +0, **DEX** +3, **CON** +1, **INT** -4, **WIS** +1, **CHA** +0
 
 ---
 
 **AC** 19
+
 **Fort** +5, **Ref** +11, **Will** +7
+
 **HP** 18
 
 ---

@@ -6,15 +6,21 @@ ce, tiny, aquatic, fey, gremlin
 ---
 
 **Perception** +8
+
 **Languages** aquan
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +1, **WIS** +3, **CHA** -1
+
 **Items** darts (6)
 
 ---
 
 **AC** 17
+
 **Fort** +5, **Ref** +9, **Will** +6
+
 **HP** 18
+
 **Weaknesses** cold iron 2, fire 2
 
 **Vulnerable to Sunlight** A fuath becomes drained 1 (or increases its drained condition by 1) after every consecutive hour they're exposed to sunlight. Being submerged in more than a foot of water prevents the sunlight from harming the fuath.
@@ -24,6 +30,7 @@ ce, tiny, aquatic, fey, gremlin
 Speed 20 feet, swim 30 feet
 
 **Melee** claw +9 (agile, finesse); **Damage** 1d6+1 slashing
+
 **Melee** dart +9 (agile, range increment <20 feet>); **Damage** 1d4+1 piercing
 
 **Innate primal Spells** (DC 17)

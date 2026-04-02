@@ -6,16 +6,23 @@ uncommon, le, medium, devil, fiend, human, humanoid
 ---
 
 **Perception** +11
+
 **Languages** common, infernal
+
 **STR** +1, **DEX** +2, **CON** +0, **INT** +4, **WIS** +1, **CHA** +3
+
 **Items** elegant cane (as mace), legal ledgers
 
 ---
 
 **AC** 20
+
 **Fort** +9, **Ref** +12, **Will** +13
+
 **HP** 60
+
 **Resistances** fire 4
+
 **Weaknesses** good 2
 
 **Abrogation of Consequences** ◈ **Trigger** The Hellbound attorney rolls a success or critical failure on a saving throw against a linguistic effect; The attorney finds a loophole in the wording of the effect, turning the success into a critical success or a critical failure into a normal failure.

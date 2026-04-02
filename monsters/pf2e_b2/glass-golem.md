@@ -6,18 +6,25 @@ uncommon, n, large, construct, golem, mindless
 ---
 
 **Perception** +14
+
 **STR** +5, **DEX** +4, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
 
 **AC** 26
+
 **Fort** +17, **Ref** +16, **Will** +14
+
 **HP** 135
+
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see Golem Antimagic below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
+
 **Resistances** physical 10
 
 **Golem Antimagic** harmed by sonic (6d6, 2d6 from areas or persistent damage); healed by fire (area 2d6 HP); slowed by cold.
+
 **Vulnerable to Shatter** A glass golem is affected by the shatter spell as though the golem were an unattended object.
+
 **Spell Reflection** ◈ (abjuration, arcane) **Trigger** The glass golem is targeted by a spell; The glass golem positions its magical, reflective surfaces to turn the spell back on the caster. It tries to counteract the spell by attempting an Acrobatics check for its counteract check. If it successfully counteract the spell, the effect is turned back on the caster.
 
 ---

@@ -6,14 +6,19 @@ unique, ne, medium, human, humanoid
 ---
 
 **Perception** +18
+
 **Languages** common
+
 **STR** +1, **DEX** +3, **CON** +0, **INT** +2, **WIS** +4, **CHA** +4
+
 **Items** ceremonial robes, crystal flower crown, +1 striking dagger
 
 ---
 
 **AC** 25
+
 **Fort** +14, **Ref** +17, **Will** +18
+
 **HP** 140; crystal vitality link
 
 **Crystal Vitality Link** The power of the island links Mitera's vitality to her followers. As long as any of the three quartz formations are intact (see above), whenever Mitera takes damage, any of her followers within 10 miles lose the same amount of Hit Points.
@@ -23,6 +28,7 @@ unique, ne, medium, human, humanoid
 Speed 25 feet
 
 **Melee** dagger +18 (agile, finesse, magical, versatile S); **Damage** 2d4+7 piercing plus 1d6 mental and 1d6 persistent bleed
+
 **Melee** dagger +18 (agile, magical, thrown, versatile S); **Damage** 2d4+7 piercing plus 1d6 mental and 1d6 persistent bleed
 
 **Prepared primal Spells** (DC 26), attack +18

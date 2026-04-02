@@ -6,17 +6,23 @@ uncommon, medium, humanoid
 ---
 
 **Perception** +16
+
 **Languages** common
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** +2, **WIS** +4, **CHA** +3
+
 **Items** +1 striking bastard sword, half plate, steel shield (Hardness 5, 20 HP, BT 10)
 
 ---
 
 **AC** 27
+
 **Fort** +19, **Ref** +14, **Will** +16
+
 **HP** 135
 
 **Deep Resilience** The knight reclaimant's convictions steel their mind against outside influences and help their allies remain strong. The knight and their allies within 30 feet have a +1 circumstance bonus to saves against mental effects, which increases to +2 against mental effects originating from undead.
+
 **Shield Block** ◈
 
 ---

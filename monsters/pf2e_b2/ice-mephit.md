@@ -6,15 +6,21 @@ uncommon, n, small, air, elemental, water
 ---
 
 **Perception** +3
+
 **Languages** aquan, auran
+
 **STR** +0, **DEX** +4, **CON** +0, **INT** -2, **WIS** +0, **CHA** +2
 
 ---
 
 **AC** 17
+
 **Fort** +5, **Ref** +9, **Will** +3
+
 **HP** 18; fast healing 2 (while touching ice or snow)
+
 **Immunities** bleed, cold, poison, paralyzed, sleep
+
 **Weaknesses** fire 3
 
 ---

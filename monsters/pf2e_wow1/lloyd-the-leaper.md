@@ -6,17 +6,23 @@ small, fey
 ---
 
 **Perception** +17
+
 **Languages** common, fey
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +2, **WIS** +3, **CHA** +4
+
 **Items** {@i Sally Sharp-tongue} ({@runeItem war razor|TV|+1 weapon potency||striking||wounding|}), {@item unmemorable mantle|LOCG}
 
 ---
 
 **AC** 26
+
 **Fort** +13, **Ref** +20, **Will** +15
+
 **HP** 135
 
 **Ghastly Visage** ◆ (concentrate, curse, emotion, fear, mental, primal, visual) Lloyd the Leaper locks eyes with a creature he can see within 30 feet. The target must immediately attempt a DC 23 Will save or become frightened 1 (frightened 2 on a critical failure), and it can't reduce its frightened condition below 1 for 24 hours or until this curse is removed. After attempting its save, the creature is temporarily immune to this ability for 24 hours.
+
 **Reactive Strike** ◈
 
 ---
@@ -31,6 +37,9 @@ Speed 40 feet
 **Success** 
 **Failure** 
 **Critical Failure** 
+
 **Change Shape** ◆ (concentrate, polymorph, primal) Lloyd takes on the appearance of a Small or Medium humanoid dressed in exquisite finery. This doesn't change his Speed or his attack and damage modifiers with his Strikes. When in this form, Lloyd gains a Diplomacy modifier equal to his Intimidation modifier.
+
 **Vanishing Leap** ◈ (illusion, primal) **Trigger** Lloyd uses Vault; Lloyd becomes invisible for 1 round.
+
 **Vault** ◆ (move) Lloyd jumps up to 20 feet in any direction, including vertically. This movement doesn't trigger reactions based on movement.

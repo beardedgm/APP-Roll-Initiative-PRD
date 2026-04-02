@@ -6,8 +6,11 @@ uncommon, small, fey
 ---
 
 **Perception** +12
+
 **Languages** common, fey
+
 **STR** +0, **DEX** +3, **CON** +2, **INT** +1, **WIS** +2, **CHA** +4
+
 **Items** shears
 
 **Shears** An azhana carries a pair of gardening shears about 10 inches long. In the hands of an azhana, these shears function as an elven curve blade. If an azhana's shears are lost or destroyed, they can make another pair with a week of work and a few scraps of metal.
@@ -15,8 +18,11 @@ uncommon, small, fey
 ---
 
 **AC** 18
+
 **Fort** +7, **Ref** +12, **Will** +11
+
 **HP** 45
+
 **Weaknesses** cold iron 5
 
 ---

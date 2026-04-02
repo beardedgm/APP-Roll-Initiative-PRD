@@ -6,6 +6,7 @@ n, small, elemental, fire
 ---
 
 **Perception** +9
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** -4, **WIS** +2, **CHA** +0
 
 **Smoke Vision** The cinder rat ignores the concealed condition from smoke.
@@ -13,9 +14,13 @@ n, small, elemental, fire
 ---
 
 **AC** 18
+
 **Fort** +9, **Ref** +12, **Will** +6
+
 **HP** 45
+
 **Immunities** bleed, fire, poison, paralyzed, sleep
+
 **Weaknesses** cold 5
 
 **Fetid Fumes** (aura, fire) 5 feet. A creature that enters the aura or begins its turn there must succeed at a DC 22 Fortitude save or become sickened 1. Everything within the aura, including the cinder rat, is concealed by smoke.

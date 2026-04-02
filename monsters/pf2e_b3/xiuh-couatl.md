@@ -6,7 +6,9 @@ rare, ng, large, beast, couatl
 ---
 
 **Perception** +23
+
 **Languages** celestial, common, draconic
+
 **STR** +7, **DEX** +3, **CON** +4, **INT** +5, **WIS** +5, **CHA** +6
 
 **Thoughtsense** (divination, mental, occult) The xiuh couatl senses all non-mindless creatures at the listed range.
@@ -14,8 +16,11 @@ rare, ng, large, beast, couatl
 ---
 
 **AC** 33
+
 **Fort** +20, **Ref** +19, **Will** +25
+
 **HP** 220
+
 **Immunities** electricity, fire
 
 ---
@@ -27,7 +32,11 @@ Speed 20 feet, fly 60 feet
 **Innate occult Spells** (DC 32), attack +24
 
 **Breath Weapon** ◆◆ (arcane, evocation, fire) The xiuh couatl breaths a gout of flame and lightning in an 80-foot line that deals 5d8 electricity damage and 5d8 fire damage (DC 32 basic Reflex save). The xiuh couatl can't use Breath Weapon again for 1d4 rounds.
+
 **Greater Constrict** ◆ 1d10+10 bludgeoning plus 1d8 electricity, DC 32 (page 305)
+
 **Instrument of Retribution** ◆◆◆ (occult, polymorph, transmutation) The xiuh couatl transforms into any simple or martial weapon. The weapon is always a +2 greater striking flaming shock weapon and can be of any size, chosen by the xiuh couatl when they transform. In weapon form, the xiuh couatl gains Hardness equal to that of the weapon into which they transform, and they retain their Hit Points, saving throws, senses, telepathy, and traits while in weapon form. The xiuh couatl can revert to their normal form by spending a single action, which has the concentrate trait.
+
 **Wrap in Coils** ◆ **Requirements** The mix couatl has a Medium or smaller creature grabbed or restrained in their jaws; The mix couatl moves the creature into their coils, freeing their jaws to make attacks, then uses Constrict against the creature. The mix couatl can hold as many creatures in their coils as will fit in their space.
+
 **Xiuh Couatl Venom** (poison)

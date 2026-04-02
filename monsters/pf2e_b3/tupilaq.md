@@ -6,13 +6,17 @@ n, small, construct
 ---
 
 **Perception** +16
+
 **STR** +2, **DEX** +6, **CON** +4, **INT** -5, **WIS** +3, **CHA** -5
 
 ---
 
 **AC** 26
+
 **Fort** +17, **Ref** +15, **Will** +12
+
 **HP** 87
+
 **Immunities** mental, poison, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, sickened, unconscious
 
 **Construct Armor** Like normal objects, a tupilaq has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once a tupilaq is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, it loses its Hardness, and its Armor Class is reduced to 22.

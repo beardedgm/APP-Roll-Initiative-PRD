@@ -6,14 +6,19 @@ uncommon, cn, large, beast
 ---
 
 **Perception** +16
+
 **Languages** common, sylvan
+
 **STR** +5, **DEX** +4, **CON** +4, **INT** -1, **WIS** +3, **CHA** +6
 
 ---
 
 **AC** 27
+
 **Fort** +19, **Ref** +17, **Will** +14
+
 **HP** 197
+
 **Weaknesses** mental 10
 
 **Believe the Lie** The tikbalang takes a –2 circumstance penalty to saves against illusion spells, and to their Will DC against checks to Lie to them.
@@ -23,6 +28,7 @@ uncommon, cn, large, beast
 Speed 30 feet
 
 **Melee** fist +20 (agile); **Damage** 2d6+8 bludgeoning
+
 **Melee** hoof +20 (reach <10 feet>); **Damage** 2d10+8 bludgeoning
 
 **Innate occult Spells** (DC 29)

@@ -6,12 +6,15 @@ n, small, animal
 ---
 
 **Perception** +5
+
 **STR** +3, **DEX** +1, **CON** +2, **INT** -4, **WIS** +1, **CHA** -2
 
 ---
 
 **AC** 15
+
 **Fort** +9, **Ref** +3, **Will** +5
+
 **HP** 16
 
 **Ferocity** ◈

@@ -6,8 +6,11 @@ ln, tiny, aeon, inevitable, monitor
 ---
 
 **Perception** +7
+
 **Languages** celestial, common, infernal, utopian
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** +1
+
 **Items** {@item shortsword}
 
 **Locate Inevitable** An arbiter can always sense the direction of the nearest non-arbiter inevitable on the plane, but it cannot sense the range of the inevitable. Items shortsword.
@@ -15,9 +18,13 @@ ln, tiny, aeon, inevitable, monitor
 ---
 
 **AC** 16
+
 **Fort** +5, **Ref** +7, **Will** +7; +1 status to all saves vs. magic
+
 **HP** 22
+
 **Immunities** poison, death effects, disease, emotion, unconscious
+
 **Weaknesses** chaotic 3
 
 ---

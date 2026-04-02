@@ -6,12 +6,15 @@ n, medium, amphibious, animal
 ---
 
 **Perception** +5
+
 **STR** +4, **DEX** +1, **CON** +3, **INT** -5, **WIS** +1, **CHA** -5
 
 ---
 
 **AC** 17
+
 **Fort** +9, **Ref** +7, **Will** +5
+
 **HP** 32
 
 ---

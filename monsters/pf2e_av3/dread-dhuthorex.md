@@ -6,17 +6,23 @@ uncommon, cn, large, aberration, amphibious
 ---
 
 **Perception** +22
+
 **Languages** aklo
+
 **STR** +8, **DEX** +3, **CON** +5, **INT** -1, **WIS** +4, **CHA** +0
 
 ---
 
 **AC** 31; all-around vision abilities
+
 **Fort** +24, **Ref** +18, **Will** +21
+
 **HP** 195
+
 **Immunities** acid
 
 **Attack of Opportunity** ◈
+
 **Frightful Presence** (aura, emotion, fear, mental) 60 feet, DC 27
 
 ---
@@ -24,11 +30,15 @@ uncommon, cn, large, aberration, amphibious
 Speed 20 feet
 
 **Melee** jaws +24 (deadly <d12>, reach <10 feet>); **Damage** 3d10+12 piercing plus Grab plus Grab
+
 **Melee** snout +24 (reach <10 feet>); **Damage** 3d8+12 bludgeoning plus Push plus Push
+
 **Melee** tentacle +22 (agile, reach <15 feet>); **Damage** 3d6+12 slashing
 
 **Innate occult Spells** (DC 27)
 
 **Aquatic Ambush** ◆
+
 **Overpowering Jaws** As deepwater dhuthorex, but 8 piercing damage.
+
 **Swallow Whole** ◆ (attack) Large, 3d6+8 bludgeoning plus 2d6 acid, Rupture 23.

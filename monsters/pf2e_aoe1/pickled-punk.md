@@ -6,7 +6,9 @@ ne, tiny, undead
 ---
 
 **Perception** +8
+
 **Languages** common
+
 **STR** +2, **DEX** +4, **CON** +3, **INT** -3, **WIS** +0, **CHA** -3
 
 **Stealth** +7 Languages Common Str +2, Dex +4, Con +3, Int –3, Wis +0, Cha –3.
@@ -14,12 +16,17 @@ ne, tiny, undead
 ---
 
 **AC** 16
+
 **Fort** +8, **Ref** +9, **Will** +3
+
 **HP** 20
+
 **Immunities** death effects, disease, paralyzed
+
 **Weaknesses** fire 2
 
 **Combustible** The first time each round that a pickled punk takes fire damage, its fumes combust, dealing 5 fire damage to all other creatures within the area of its Suffocating Fumes aura.
+
 **Suffocating Fumes** (aura, inhaled, poison) 5 feet. A creature that enters or begins its turn within the aura must attempt a DC 14 Fortitude save, or DC 17 if the pickled punk is attached to the creature. On a failed save, the creature is sickened|CRB|sickened 1, and on a critical failure, it's also enfeebled|CRB|enfeebled 1 for 1 minute.
 
 ---

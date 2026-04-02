@@ -6,6 +6,7 @@ cn, small, aberration, amphibious, mindless
 ---
 
 **Perception** +7
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** -5, **WIS** +0, **CHA** -5
 
 **A Taste for Skin** A skinskitter tastes skin (including leather), hair, claws, and nails within 60 feet.
@@ -13,9 +14,13 @@ cn, small, aberration, amphibious, mindless
 ---
 
 **AC** 16
+
 **Fort** +6, **Ref** +9, **Will** +5
+
 **HP** 20
+
 **Immunities** mental
+
 **Weaknesses** cold iron 2
 
 **Shuddering Skitter** ◈ **Trigger** The skinskitter is reduced to 0 HP; **Frequency** {"number":1,"unit":"day"}; The fear of death agitates the skinskitter, precipitating a sudden existential awakening of consciousness. The skinskitter is reduced to 1 HP, loses the mindless trait and immunity to mental effects for the next 24 hours, gains the ability to speak one language (typically Osiriani or Vudrani), and takes two of the following actions in any order: Hide, Sneak, Step, Stride, or Take Cover. In addition, the square occupied by the skinskitter before using Shuddering Skitter becomes difficult terrain, as they disgorge a shower of halfdigested calluses, chewed nails, and entangled hair in their skittering wake.

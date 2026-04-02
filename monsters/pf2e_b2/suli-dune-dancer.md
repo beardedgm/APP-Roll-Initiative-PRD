@@ -6,14 +6,19 @@ n, medium, human, humanoid, suli
 ---
 
 **Perception** +5
+
 **Languages** aquan, auran, common, ignan, terran
+
 **STR** +2, **DEX** +2, **CON** +0, **INT** +1, **WIS** +0, **CHA** +4
+
 **Items** scimitar, tambourine
 
 ---
 
 **AC** 15
+
 **Fort** +3, **Ref** +5, **Will** +5
+
 **HP** 16
 
 **Elemental Bulwark** ◈ **Trigger** An enemy is about to damage the dune dancer with cold, electricity, or fire, or with a spell that has the air, earth, fire, or water trait; The dune dancer gain resistance 2 against the triggering damage.

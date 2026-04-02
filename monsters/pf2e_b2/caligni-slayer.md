@@ -6,8 +6,11 @@ uncommon, ce, small, caligni, humanoid
 ---
 
 **Perception** +8
+
 **Languages** caligni, undercommon
+
 **STR** +1, **DEX** +4, **CON** +1, **INT** +2, **WIS** +0, **CHA** +2
+
 **Items** black smear poison (2 doses; see below), kukri
 
 **Light Blindness**
@@ -15,7 +18,9 @@ uncommon, ce, small, caligni, humanoid
 ---
 
 **AC** 19
+
 **Fort** +9, **Ref** +12, **Will** +6
+
 **HP** 45
 
 **Death Implosion** (sonic) When the caligni slayer dies, their body implodes violently into nothingness, dealing 3d10 sonic damage to creatures in a 10-foot burst. Each creature in the area must attempt a DC 20 Fortitude save. The slayer's gear and treasure are unaffected by the implosion and are left in a pile where they died. **Critical Success** The creature is unaffected.
@@ -32,5 +37,7 @@ Speed 25 feet
 **Innate occult Spells** (DC 20), attack +12
 
 **Black Smear Poison** (poison)
+
 **Call to Blood** ◆◆ (enchantment, mental, occult) Each caligni within 30 feet gains a +2 status bonus to attack rolls against flat-footed creatures. This bonus lasts for 1 minute.
+
 **Soul Harvest** (necromancy) The caligni slayer deals an additional 2d6 negative damage to flat-footed creatures.

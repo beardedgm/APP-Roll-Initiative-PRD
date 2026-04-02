@@ -6,8 +6,11 @@ ne, medium, human, humanoid
 ---
 
 **Perception** +10
+
 **Languages** common
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** +4, **WIS** +3, **CHA** -1
+
 **Items** light mace, hooded robe, scroll of spectral hand, spellbook (Abominable Missives of the Atrophied)
 
 **Stench of Decay** (arcane, aura, conjuration, poison) The necromancer emits a scent of putrid rot in a 5-foot emanation. A creature that enters or begins its turn in the aura is sickened 1.
@@ -15,7 +18,9 @@ ne, medium, human, humanoid
 ---
 
 **AC** 20
+
 **Fort** +9, **Ref** +12, **Will** +12
+
 **HP** 58
 
 ---

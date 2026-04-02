@@ -6,7 +6,9 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 ---
 
 **Perception** +17
+
 **Languages** common, elven, undercommon
+
 **STR** -5, **DEX** +5, **CON** +0, **INT** +4, **WIS** +3, **CHA** +2
 
 **Site Bound** (area C36 and C37)
@@ -14,7 +16,9 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 ---
 
 **AC** 23
+
 **Fort** +12, **Ref** +17, **Will** +11
+
 **HP** 64; negative healing, rejuvenation
 
 **Rejuvenation** (divine, necromancy) To put Chandriu to rest permanently, a hero must convince her to stop pining over Volluk with a successful DC 21 Diplomacy check. Regardless of the result of this check, Chandriu flies into a rage and attacks, but if the Diplomacy check is successful, she is slowed|CRB|slowed 1 for 10 rounds while she fights. If defeated while she is slowed, she is put to rest.

@@ -6,16 +6,21 @@ ce, medium, amphibious, hag, humanoid
 ---
 
 **Perception** +10
+
 **Languages** aklo, common, jotun
+
 **STR** +4, **DEX** +3, **CON** +4, **INT** +1, **WIS** +3, **CHA** +3
 
 **Coven** A sea hag adds acid arrow, mariner's curse, and water walk to her coven's spells.
+
 **Sea Hag's Bargain** (necromancy, occult) The sea hag can make a bargain with a willing creature, who must be of sound mind. The creature gives away a special or cherished quality—such as its courage, its beauty, or its voice—in exchange for a boon or a promise from the sea hag. As long as the sea hag keeps her end of the bargain, the only way to restore the lost quality is to defeat the sea hag or make another bargain for its return.
 
 ---
 
 **AC** 19
+
 **Fort** +11, **Ref** +8, **Will** +10; +1 status to all saves vs. magic
+
 **HP** 45
 
 ---

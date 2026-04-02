@@ -6,6 +6,7 @@ ne, medium, mindless, undead, zombie
 ---
 
 **Perception** +0
+
 **STR** +3, **DEX** -2, **CON** +2, **INT** -5, **WIS** +0, **CHA** -2
 
 **Slow** A zombie is permanently slowed 1 and can't use reactions.
@@ -13,9 +14,13 @@ ne, medium, mindless, undead, zombie
 ---
 
 **AC** 12
+
 **Fort** +6, **Ref** +0, **Will** +2
+
 **HP** 20; negative healing
+
 **Immunities** mental, poison, death effects, disease, paralyzed, unconscious
+
 **Weaknesses** positive 5, slashing 5
 
 ---

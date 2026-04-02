@@ -6,17 +6,23 @@ unique, medium, human, humanoid
 ---
 
 **Perception** +17
+
 **Languages** common, elven, fey
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** +1, **WIS** +2, **CHA** +1
+
 **Items** {@item bedroll}, {@item crossbow} (10 {@item bolt (generic)||bolts}), {@item lesser healing potion||lesser potion of healing} (2), maps, pup tent, {@runeItem rapier||+1 weapon potency||striking|}, {@item scale mail}
 
 ---
 
 **AC** 25
+
 **Fort** +15, **Ref** +11, **Will** +14
+
 **HP** 95
 
 **Liberating Strike** ◈ **Trigger** A creature within Alyce's reach attempts to apply the grabbed, immobilized, or restrained condition to an ally; **Requirements** Alyce is wielding a melee weapon; Alyce makes a melee Strike against the triggering creature. If the attack is a hit, the triggering ally can immediately use a reaction to Escape. If the attack is a critical hit, any grabbed, immobilized, or restrained conditions imposed by the triggering action are negated.
+
 **Reactive Strike** ◈
 
 ---
@@ -24,6 +30,7 @@ unique, medium, human, humanoid
 Speed 30 feet
 
 **Melee** rapier +17 (deadly <1d8>, disarm, magical); **Damage** 2d6+6 piercing
+
 **Melee** crossbow +16 (range increment <120 feet>, reload <1>); **Damage** 1d8+8 piercing
 
 **Hunt Prey** ◆ (concentrate) Alyce designates a single creature as her prey and focuses her attacks against that creature. She must be able to see, hear, or otherwise detect the prey, or she must be tracking the prey during exploration. She gains a +2 circumstance bonus to Perception checks when she Seeks her prey and a +2 circumstance bonus to Survival checks when she Tracks her prey. Alyce also ignores the penalty for making ranged attacks within her second range increment against the prey she's hunting. Alyce can only have one creature designated as her prey at a time. If she uses Hunt Prey against a creature when she already has a creature designated, the prior creature loses the designation and the new prey gains the designation. Her designation lasts until her next daily preparations.

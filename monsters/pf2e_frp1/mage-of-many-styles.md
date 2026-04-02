@@ -6,14 +6,19 @@ uncommon, n, medium, human, humanoid
 ---
 
 **Perception** +22
+
 **Languages** taldane, tien
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** +5, **WIS** +1, **CHA** +1
+
 **Items** bracers of armor I, +1 striking handwraps of mighty blows, +1 striking longsword
 
 ---
 
 **AC** 32
+
 **Fort** +22, **Ref** +23, **Will** +21
+
 **HP** 220
 
 ---
@@ -21,6 +26,7 @@ uncommon, n, medium, human, humanoid
 Speed 25 feet
 
 **Melee** fist +22 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d6+5 bludgeoning
+
 **Melee** longsword +23 (magical, versatile <P>); **Damage** 2d8+5 slashing
 
 **Wizard Prepared Spells** (DC 32), attack +26

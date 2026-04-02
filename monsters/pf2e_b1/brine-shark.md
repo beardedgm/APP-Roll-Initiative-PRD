@@ -6,14 +6,19 @@ n, medium, aquatic, elemental, water
 ---
 
 **Perception** +8
+
 **STR** +3, **DEX** +2, **CON** +2, **INT** -4, **WIS** +1, **CHA** +0
 
 ---
 
 **AC** 19
+
 **Fort** +9, **Ref** +11, **Will** +6
+
 **HP** 45
+
 **Immunities** bleed, poison, paralyzed, sleep
+
 **Resistances** fire 5
 
 ---

@@ -6,12 +6,15 @@ n, large, animal
 ---
 
 **Perception** +11
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** -4, **WIS** +1, **CHA** -1
 
 ---
 
 **AC** 21
+
 **Fort** +13, **Ref** +13, **Will** +7
+
 **HP** 60
 
 ---
@@ -19,8 +22,11 @@ n, large, animal
 Speed 25 feet
 
 **Melee** beak +14 (deadly <1d10>); **Damage** 2d8+4 piercing
+
 **Melee** talon +14 (agile); **Damage** 2d6+4 piercing
+
 **Melee** wing +14 (reach <10 feet>); **Damage** 2d6+4 bludgeoning
 
 **Flying Strafe** ◆◆ The griffon Flies up to its fly Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. The attacks take the normal multiple attack penalty.
+
 **Pounce** ◆ The griffon Strides and makes a talon Strike at the end of that movement. If the griffon began this action hidden, it remains hidden until after the attack.

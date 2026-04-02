@@ -6,15 +6,21 @@ unique, n, medium, human, humanoid
 ---
 
 **Perception** +16
+
 **Languages** celestial, common, elven, erutaki
+
 **STR** +0, **DEX** +1, **CON** +2, **INT** +1, **WIS** +5, **CHA** +4
+
 **Items** hide clothing
 
 ---
 
 **AC** 21
+
 **Fort** +11, **Ref** +10, **Will** +14
+
 **HP** 60
+
 **Immunities** cold
 
 **Ruun's Blessing** The presence of Ruun's soul merged with her own grants Snowy Owl immunity to cold. In addition, she no longer needs to eat or drink, but often chooses to do so out of habit or politeness.

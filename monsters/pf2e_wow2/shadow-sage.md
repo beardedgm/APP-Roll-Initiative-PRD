@@ -6,14 +6,19 @@ medium, human, humanoid
 ---
 
 **Perception** +0
+
 **Languages** aklo, common, fey
+
 **STR** +3, **DEX** +2, **CON** +1, **INT** +5, **WIS** +5, **CHA** +3
+
 **Items** {@item leather||leather armor}, {@item staff}
 
 ---
 
 **AC** 25
+
 **Fort** +13, **Ref** +15, **Will** +18
+
 **HP** 115
 
 ---

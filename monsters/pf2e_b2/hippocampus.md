@@ -6,12 +6,15 @@ n, large, animal, aquatic
 ---
 
 **Perception** +6
+
 **STR** +4, **DEX** +1, **CON** +4, **INT** -4, **WIS** +3, **CHA** +1
 
 ---
 
 **AC** 16
+
 **Fort** +9, **Ref** +4, **Will** +6
+
 **HP** 24
 
 **Buck** ◈ DC 17

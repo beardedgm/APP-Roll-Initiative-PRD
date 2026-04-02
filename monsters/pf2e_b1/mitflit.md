@@ -6,18 +6,25 @@ le, small, fey, gremlin
 ---
 
 **Perception** +4
+
 **Languages** undercommon
+
 **STR** -1, **DEX** +3, **CON** +0, **INT** -1, **WIS** +1, **CHA** -1
+
 **Items** {@item dart} (10), {@item shortsword}
 
 **Self-Loathing** (emotion, mental) A mitflit's self-loathing makes it easy to influence. It takes a –4 penalty to its Will DC against checks to Coerce, Demoralize, Make an Impression, and Request.
+
 **Vermin Empathy** Mitflits can use Diplomacy to Make an Impression on and Request things of arthropods (insects, spiders, scorpions, crabs, and similar invertebrate animals). Most arthropods have a starting attitude of indifferent to mitflits.
 
 ---
 
 **AC** 15
+
 **Fort** +2, **Ref** +7, **Will** +4
+
 **HP** 10
+
 **Weaknesses** cold iron 2
 
 ---
@@ -25,6 +32,7 @@ le, small, fey, gremlin
 Speed 20 feet
 
 **Melee** shortsword +8 (agile, finesse, versatile <S>); **Damage** 1d6-1 piercing
+
 **Melee** dart +8 (agile, range increment <20 feet>, thrown); **Damage** 1d4-1 piercing
 
 **Innate primal Spells** (DC 16)

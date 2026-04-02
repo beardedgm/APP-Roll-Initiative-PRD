@@ -6,14 +6,19 @@ n, large, animal, aquatic, swarm
 ---
 
 **Perception** +9
+
 **STR** +1, **DEX** +4, **CON** +3, **INT** -5, **WIS** +2, **CHA** +0
 
 ---
 
 **AC** 18
+
 **Fort** +10, **Ref** +9, **Will** +7
+
 **HP** 30
+
 **Immunities** precision, swarm mind
+
 **Weaknesses** area damage 5, splash damage 5
 
 ---

@@ -6,8 +6,11 @@ ne, medium, human, humanoid
 ---
 
 **Perception** +10
+
 **Languages** common
+
 **STR** +0, **DEX** +3, **CON** +0, **INT** +4, **WIS** +2, **CHA** +4
+
 **Items** chain shirt, disguise kit, hand crossbow (10 bolts), shortsword
 
 **Versatile Performance** The mastermind can use Performance instead of Diplomacy to Make an Impression and instead of Intimidation to Demoralize. The mastermind can also use an acting Performance instead of Deception to Impersonate.
@@ -15,7 +18,9 @@ ne, medium, human, humanoid
 ---
 
 **AC** 21
+
 **Fort** +6, **Ref** +11, **Will** +16
+
 **HP** 54
 
 ---
@@ -23,6 +28,7 @@ ne, medium, human, humanoid
 Speed 25 feet
 
 **Melee** shortsword +13 (agile, finesse, versatile <S>); **Damage** 1d6+6 slashing
+
 **Melee** hand crossbow +13 (range increment <60 feet>, reload <1>); **Damage** 1d6+3 piercing
 
 **Spontaneous occult Spells** (DC 22), attack +14
@@ -30,4 +36,5 @@ Speed 25 feet
 **Bard Composition Spells** (DC 22)
 
 **Scoundrel's Feint** When the mastermind successfully Feints, the target is flat-footed against the mastermind's melee attacks until the end of the mastermind's next turn. On a critical success, the target is flat-footed against all melee attacks for that time, not just the mastermind's.
+
 **Sneak Attack** The mastermind deals an extra 1d6 precision damage to flat-footed creatures.

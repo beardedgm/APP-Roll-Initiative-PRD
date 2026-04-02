@@ -6,6 +6,7 @@ rare, n, large, ooze
 ---
 
 **Perception** +6
+
 **STR** +2, **DEX** -4, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 **Magic Sense** A primordial envy can detect magical auras, items, and spellcasters within 30 feet.
@@ -13,9 +14,13 @@ rare, n, large, ooze
 ---
 
 **AC** 12
+
 **Fort** +13, **Ref** +3, **Will** +8; -2 status vs. evocation and necromancy
+
 **HP** 60
+
 **Immunities** critical hits, mental, precision, unconscious, visual
+
 **Resistances** piercing 5, slashing 5
 
 **Confiscate Spell** ◈ (abjuration, arcane) **Trigger** A creature within 30 feet that the primordial envy can sense Casts a Spell;; The primordial envy's surface shimmers with a kaleidoscope of color that shines out to illuminate the triggering creature. The primordial envy attempts to counter the spell, with a counteract modifier of +12. On a success, the spell is countered and the primordial envy gains 2d6 temporary Hit Points.

@@ -6,17 +6,23 @@ uncommon, ce, tiny, undead
 ---
 
 **Perception** +10
+
 **Languages** common (can't speak any language)
+
 **STR** +4, **DEX** +5, **CON** +3, **INT** -2, **WIS** +2, **CHA** +3
 
 ---
 
 **AC** 21
+
 **Fort** +9, **Ref** +13, **Will** +12
+
 **HP** 60; negative healing|b2
+
 **Immunities** mental, poison, death effects, disease, paralyzed, unconscious
 
 **Gloom Aura** (aura, emotion, illusion, mental, occult) 60 feet. A lovelorn's presence instills unease and turns the air cold, dark, and stale. Creatures within the aura take a –1 circumstance penalty to saving throws made to resist emotion effects. If the lovelorn makes a place home for a week or more, that location can become suffused with this magic even outside the lovelorn's aura, lasting until the lovelorn leaves or is destroyed.
+
 **Skitter Away** ◈ **Trigger** A creature ends its movement in a space adjacent to the lovelorn; The lovelorn Strides or Climbs 10 feet away from the triggering creature. This movement does not trigger reactions.
 
 ---
@@ -24,6 +30,7 @@ uncommon, ce, tiny, undead
 Speed 25 feet, climb 25 feet
 
 **Melee** fangs +13 (finesse); **Damage** 1d6+6 piercing plus 1d6 persistent bleed and cynic's curse plus cynic's curse
+
 **Melee** gory tendril +13 (agile, finesse); **Damage** 1d4+6 bludgeoning plus Grab
 
 **Innate occult Spells** (DC 21)

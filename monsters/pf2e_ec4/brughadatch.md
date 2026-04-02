@@ -6,13 +6,17 @@ ce, medium, amphibious, fey
 ---
 
 **Perception** +19
+
 **Languages** common, sylvan
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** +0, **WIS** +4, **CHA** +6
 
 ---
 
 **AC** 30
+
 **Fort** +22, **Ref** +16, **Will** +20
+
 **HP** 210
 
 ---
@@ -20,6 +24,7 @@ ce, medium, amphibious, fey
 Speed 25 feet, swim 25 feet
 
 **Melee** jaws +21; **Damage** 2d10+9 piercing plus Grab plus Grab
+
 **Melee** claw +19 (agile); **Damage** 2d8+5 slashing
 
 **Innate primal Spells** (DC 28), attack +22
@@ -28,4 +33,5 @@ Speed 25 feet, swim 25 feet
 **Success** The creature doesn't see through the illusion but is unaffected by the food.
 **Failure** The creature takes a –1 circumstance penalty to Will saves against any of the brughadatch's spells or abilities. The penalty increases with each failed save, to a maximum of –5.
 **Critical Failure** As failure, plus for 1 hour, the creature's attitude becomes helpful to the brughadatch, and the creature can't use hostile actions against them.
+
 **Psychic Sip** ◆ **Frequency** {"unit":"round","number":1}; **Requirements** Targets must have critically failed a save against a brughadatch's Deceitful Feast or charm innate spell; The brughadatch feasts on the souls of the creatures they've tricked. They target up to five creatures within 30 feet and feast on their ambient brainpower, dealing 4d10 mental damage (DC 26 basic Will save) to each creature. Unless a target succeeds at the Will save, this damage does not end the charm effect or the effect of Deceitful Feast as a hostile action normally would.

@@ -6,15 +6,21 @@ le, small, humanoid, kobold
 ---
 
 **Perception** +5
+
 **Languages** common, draconic
+
 **STR** -1, **DEX** +3, **CON** +0, **INT** +2, **WIS** +1, **CHA** +4
+
 **Items** staff
 
 ---
 
 **AC** 17
+
 **Fort** +4, **Ref** +7, **Will** +7
+
 **HP** 25
+
 **Resistances** poison 5
 
 **Dragonscaled** A kobold dragon mage's resistance depends on the color of its scales: Black acid 5, Blue electricity 5, Green poison 5, Red fire 5, White cold 5.
@@ -24,9 +30,11 @@ le, small, humanoid, kobold
 Speed 25 feet
 
 **Melee** claw +7 (agile, finesse); **Damage** 1d6-1 slashing
+
 **Melee** staff +3 (two-hand <d8>); **Damage** 1d4-1 bludgeoning
 
 **Spontaneous arcane Spells** (DC 20)
 
 **Illusory Retreat** ◆◆◆ (arcane, illusion, manipulate, move) **Frequency** {"unit":"hour","number":1}; **Requirements** The kobold dragon mage is adjacent to at least one enemy.; The dragon mage creates an illusion of itself in its square and then becomes invisible (with the effects of a 2nd-level invisibility spell) for 1d4 rounds. The dragon mage can move up to half its Speed, but it must end its movement in a space that's not adjacent to any enemies. This is a 1st-level spell that requires a somatic component.
+
 **Sneak Attack** The dragon mage deals an extra 1d6 precision damage to flat-footed creatures.

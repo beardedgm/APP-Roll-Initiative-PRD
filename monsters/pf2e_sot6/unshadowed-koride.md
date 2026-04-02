@@ -6,18 +6,25 @@ unique, ce, medium, human, humanoid
 ---
 
 **Perception** +33
+
 **Languages** common, draconic, gnoll, iruxi, necril, orc, sylvan
+
 **STR** +1, **DEX** +3, **CON** +4, **INT** +6, **WIS** +3, **CHA** +4
+
 **Items** +3 major striking major staff of nature's vengeance (Advanced Player's Guide 263)
 
 ---
 
 **AC** 40
+
 **Fort** +32, **Ref** +29, **Will** +35
+
 **HP** 290
+
 **Resistances** acid 20
 
 **Shadow's Displeasure** When Koride has fewer than 150 Hit Points, his shadow pulls at his essence to show the Vesicant Egg's displeasure. She looks pained and confused, and she becomes clumsy 1 and stupefied 1 until healed to 150 Hit Points or more. These conditions increase to 2 when below 100 Hit Points. When below 50 Hit Points, she falls unconscious.
+
 **Vesicated Shadow** Koride's shadow has become corrupted via the power of the Vesicant Egg. Her shredded shadow grants him some control over acid and shadows. She gains a +4 status bonus to resist acid and shadow effects.
 
 ---

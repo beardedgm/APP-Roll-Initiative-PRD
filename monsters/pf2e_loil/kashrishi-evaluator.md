@@ -6,14 +6,19 @@ rare, ln, small, kashrishi
 ---
 
 **Perception** +13
+
 **Languages** common, kashrishi
+
 **STR** +0, **DEX** +2, **CON** +0, **INT** +2, **WIS** +3, **CHA** +4
+
 **Items** dagger
 
 ---
 
 **AC** 20
+
 **Fort** +8, **Ref** +10, **Will** +13
+
 **HP** 50
 
 **Empathic Sense** Kashrishi evaluators can get a vague sense of the current emotional state of all other creatures within 15 feet of them, as long as the kashrishi evaluator is aware of those creatures. This manifests as a general feeling of happiness, anger, or fear, without any specific details. Additionally, any creature who succeeds at masking or faking their emotions using Deception projects the deceptive emotions instead of their true feelings. For those that kashrishi have an emotional connection with, physical touch can heighten this sense to greater degrees of detail and understanding, increasing with the strength of their bond.

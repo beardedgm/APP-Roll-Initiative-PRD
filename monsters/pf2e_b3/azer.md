@@ -6,15 +6,21 @@ ln, medium, elemental, fire, humanoid
 ---
 
 **Perception** +8
+
 **Languages** common, ignan
+
 **STR** +3, **DEX** +1, **CON** +4, **INT** +2, **WIS** +2, **CHA** +0
+
 **Items** light hammer (5), scale mail, warhammer
 
 ---
 
 **AC** 17
+
 **Fort** +10, **Ref** +5, **Will** +8
+
 **HP** 45
+
 **Immunities** fire
 
 **Heat of the Forge** (aura, fire) 10 feet. An azer's skin radiates heat like forge fire. A creature that starts their turn in the area must succeed at a DC 16 Fortitude save or become fatigued while they remain in the area. Creatures immune to environmental heat effects or with any fire resistance are immune.
@@ -24,8 +30,11 @@ ln, medium, elemental, fire, humanoid
 Speed 20 feet
 
 **Melee** warhammer +9 (shove); **Damage** 1d8+3 bludgeoning plus 1d6 fire
+
 **Melee** light hammer +9 (agile); **Damage** 1d6+3 bludgeoning plus 1d6 fire
+
 **Melee** light hammer +7 (agile, thrown <20 feet>); **Damage** 1d6+3 bludgeoning plus 1d6 fire
 
 **Burning Touch** (evocation, fire, primal) The azer's Strikes deal an extra 1d6 fire damage (included above). When the azer successfully performs a Grapple or Shove action, they also deal 1d6 fire damage to their target.
+
 **Scorch** ◆◆ (evocation, fire, primal) The azer shrouds their light hammer in flames and hurls it forward, dealing 2d6 fire damage to each creature in a 20-foot line (DC 16 basic Reflex save).

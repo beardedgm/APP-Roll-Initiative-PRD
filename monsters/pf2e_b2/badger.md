@@ -6,12 +6,15 @@ n, small, animal
 ---
 
 **Perception** +6
+
 **STR** +0, **DEX** +1, **CON** +2, **INT** -5, **WIS** +2, **CHA** -2
 
 ---
 
 **AC** 16
+
 **Fort** +8, **Ref** +5, **Will** +6
+
 **HP** 15
 
 **Ferocity** ◈
@@ -21,4 +24,5 @@ n, small, animal
 Speed 25 feet, burrow 10 feet
 
 **Melee** jaws +8; **Damage** 1d8 piercing
+
 **Melee** claw +8 (agile); **Damage** 1d6 slashing

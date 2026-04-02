@@ -6,13 +6,17 @@ uncommon, cn, medium, fey
 ---
 
 **Perception** +13
+
 **Languages** common, sylvan
+
 **STR** +5, **DEX** +4, **CON** +1, **INT** +1, **WIS** +3, **CHA** +5
 
 ---
 
 **AC** 21
+
 **Fort** +9, **Ref** +14, **Will** +11
+
 **HP** 70; regeneration 5 (deactivated by acid or fire)
 
 ---
@@ -20,4 +24,5 @@ uncommon, cn, medium, fey
 Speed 30 feet
 
 **Melee** fist +14; **Damage** 2d6+7 bludgeoning
+
 **Melee** tail +14 (agile, backswing); **Damage** 2d4+7 bludgeoning plus Befuddling plus Befuddling

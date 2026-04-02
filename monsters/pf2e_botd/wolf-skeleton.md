@@ -6,14 +6,19 @@ ne, medium, mindless, skeleton, undead
 ---
 
 **Perception** +8
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** -5, **WIS** +2, **CHA** +0
 
 ---
 
 **AC** 16
+
 **Fort** +3, **Ref** +8, **Will** +6
+
 **HP** 12; negative healing
+
 **Immunities** death effects, disease, mental, paralyzed, poison, unconscious
+
 **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
 
 ---

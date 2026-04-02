@@ -6,14 +6,19 @@ le, medium, duergar, dwarf, humanoid
 ---
 
 **Perception** +4
+
 **Languages** common, dwarven, undercommon
+
 **STR** +1, **DEX** +3, **CON** +3, **INT** +0, **WIS** +2, **CHA** -2
+
 **Items** chain shirt, crossbow (3 bola bolts and 10 bolts), light mace
 
 ---
 
 **AC** 17
+
 **Fort** +7, **Ref** +7, **Will** +4
+
 **HP** 16
 
 **Light Blindness**
@@ -23,6 +28,7 @@ le, medium, duergar, dwarf, humanoid
 Speed 20 feet
 
 **Melee** light mace +5 (agile, finesse, shove); **Damage** 1d4+1 bludgeoning
+
 **Melee** crossbow +7 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing or bola bolt
 
 **Innate occult Spells** (DC 12)

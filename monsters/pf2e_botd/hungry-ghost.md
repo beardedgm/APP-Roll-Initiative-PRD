@@ -6,7 +6,9 @@ n, medium, ghost, incorporeal, spirit, undead
 ---
 
 **Perception** +13
+
 **Languages** common, necril
+
 **STR** -5, **DEX** +5, **CON** +0, **INT** +4, **WIS** +5, **CHA** +4
 
 **Living Visage** While they have more than 30 HP, the hungry ghost appears to be a living creature. They have an automatic result of 34 on Deception checks and DCs to conceal their undead status and can Feed on the Living covertly (below).
@@ -14,13 +16,19 @@ n, medium, ghost, incorporeal, spirit, undead
 ---
 
 **AC** 23
+
 **Fort** +12, **Ref** +17, **Will** +15
+
 **HP** 60; negative healing, rejuvenation
+
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
+
 **Resistances** all damage 5
 
 **Ravenous Undoing** In each 24-hour period, the hungry ghost must use
+
 **Feed on the** Living to consume 30 HP (any HP the ghost would gain count toward this total, even if the ghost has enough HP that they don't actually regain the full amount). If the ghost hasn't consumed enough HP, they mindlessly and recklessly feed on any living creature they come across until satiated.
+
 **Rejuvenation** (divine, necromancy) When destroyed, hungry ghosts reform after 2d4 days fully healed at whatever location they were at when last destroyed. They're only permanently destroyed when they have been given a proper burial, have had their grave cleaned and maintained for at least a year, or have been judged to be redeemed by Pharasma.
 
 ---

@@ -6,8 +6,11 @@ ne, medium, human, humanoid
 ---
 
 **Perception** +5
+
 **Languages** common
+
 **STR** +1, **DEX** +2, **CON** +2, **INT** +3, **WIS** +2, **CHA** -1
+
 **Items** alchemist's tools, dagger, formula book, holy water, shovel, studded leather armor
 
 **Infused Items** A grave robber carries the following infused items: 2 lesser bottled lightnings, a lesser frost vial, and a lesser thunderstone. These items last for 24 hours, or until the next time the grave robber makes their daily preparations.
@@ -15,7 +18,9 @@ ne, medium, human, humanoid
 ---
 
 **AC** 17
+
 **Fort** +7, **Ref** +7, **Will** +5
+
 **HP** 18
 
 ---
@@ -23,4 +28,5 @@ ne, medium, human, humanoid
 Speed 25 feet
 
 **Melee** shovel +6; **Damage** 1d6+1 bludgeoning
+
 **Melee** alchemical bomb +7 (range increment <20 feet>, splash); plus varies by bomb

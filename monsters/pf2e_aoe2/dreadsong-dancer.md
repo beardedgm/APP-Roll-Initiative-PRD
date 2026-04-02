@@ -6,18 +6,25 @@ rare, le, medium, fiend
 ---
 
 **Perception** +13
+
 **Languages** common, infernal (can't speak any language)
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +4, **WIS** +3, **CHA** +6
 
 ---
 
 **AC** 27
+
 **Fort** +13, **Ref** +19, **Will** +16; +2 status to all saves vs. composition spells
+
 **HP** 160
+
 **Immunities** disease, poison
+
 **Weaknesses** good 10
 
 **Performance Anxiety** A dreadsong dancer is stunned|CRB|stunned 1 if they see or hear a creature critically succeed at a Performance check or at a saving throw against their Dreadsong. The dreadsong dancer is quickened|CRB|quickened 1 for 1 round if they see or hear a creature critically fail at a Performance check or a saving throw against their Dreadsong. They can use the extra action only to Stride or Strike.
+
 **Jealous Musician** ◈ **Trigger** A creature plays an instrument while Casting a Spell or casts a composition spell within 20 feet of the dreadsong dancer; The dreadsong dancer Strides up to 20 feet and makes a songblade Strike against the triggering creature. If the Strike hits, the spell is disrupted.
 
 ---
@@ -25,6 +32,7 @@ rare, le, medium, fiend
 Speed 25 feet
 
 **Melee** claw +18 (agile, finesse); **Damage** 2d10+6 slashing
+
 **Melee** songblade +20 (agile, deadly <d10>, finesse, magical, trip); **Damage** 2d10+8 slashing
 
 **Innate occult Spells** (DC 23)
@@ -33,4 +41,5 @@ Speed 25 feet
 **Success** The creature is frightened|CRB|frightened 1.
 **Failure** The creature is frightened|CRB|frightened 2, and the dreadsong dancer is undetected by the creature for 1 minute. The creature can't use Seek to find the dreadsong dancer.
 **Critical Failure** As failure, but the creature can't reduce its frightened condition below 2 for 1 minute. In addition, the dreadsong dancer is affected by its performance anxiety.
+
 **Rend** ◆ songblade

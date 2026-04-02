@@ -6,15 +6,21 @@ unique, small, fey, sprite
 ---
 
 **Perception** +15
+
 **Languages** aklo, common, fey
+
 **STR** +0, **DEX** +6, **CON** +1, **INT** +4, **WIS** +3, **CHA** +4
+
 **Items** {@runeItem longbow||+1 weapon potency||striking|} (60 {@item arrow (generic)||arrows}), {@item shortsword}
 
 ---
 
 **AC** 25
+
 **Fort** +12, **Ref** +19, **Will** +16
+
 **HP** 110
+
 **Weaknesses** cold iron 5
 
 ---
@@ -22,6 +28,7 @@ unique, small, fey, sprite
 Speed 15 feet, fly 45 feet
 
 **Melee** shortsword +17 (agile, finesse, versatile <S>); **Damage** 2d6+6 piercing
+
 **Melee** longbow +17 (deadly <d10>, range increment <100 feet>, reload <0>, volley <20 feet>); **Damage** 2d8+8 piercing
 
 **Innate primal Spells** (DC 25)

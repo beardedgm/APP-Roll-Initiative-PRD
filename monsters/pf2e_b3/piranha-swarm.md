@@ -6,6 +6,7 @@ n, large, animal, aquatic, swarm
 ---
 
 **Perception** +9
+
 **STR** +1, **DEX** +3, **CON** +2, **INT** -5, **WIS** +2, **CHA** -2
 
 **Blood Scent** The piranha swarm can smell blood in the water from up to 1 mile away.
@@ -13,9 +14,13 @@ n, large, animal, aquatic, swarm
 ---
 
 **AC** 16
+
 **Fort** +9, **Ref** +10, **Will** +7
+
 **HP** 40
+
 **Immunities** precision, swarm mind
+
 **Weaknesses** area damage 5, splash damage 5
 
 ---

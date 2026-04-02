@@ -6,13 +6,17 @@ n, small, air, elemental
 ---
 
 **Perception** +7
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** -4, **WIS** +0, **CHA** +0
 
 ---
 
 **AC** 21
+
 **Fort** +6, **Ref** +13, **Will** +7
+
 **HP** 36
+
 **Immunities** bleed, poison, sleep
 
 ---

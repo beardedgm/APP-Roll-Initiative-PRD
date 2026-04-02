@@ -6,12 +6,15 @@ uncommon, n, huge, animal, aquatic
 ---
 
 **Perception** +16
+
 **STR** +6, **DEX** +4, **CON** +7, **INT** -4, **WIS** +4, **CHA** +1
 
 ---
 
 **AC** 27
+
 **Fort** +18, **Ref** +16, **Will** +14
+
 **HP** 170
 
 **Buck** ◈ DC 28

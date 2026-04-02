@@ -6,13 +6,17 @@ n, small, air, elemental
 ---
 
 **Perception** +3
+
 **Languages** auran
+
 **STR** +1, **DEX** +4, **CON** +0, **INT** -2, **WIS** +0, **CHA** +0
 
 ---
 
 **AC** 16
+
 **Fort** +3, **Ref** +19, **Will** +7
+
 **HP** 12; fast healing 2 (in open air)
 
 ---

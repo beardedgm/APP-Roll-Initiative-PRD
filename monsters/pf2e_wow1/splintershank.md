@@ -6,15 +6,21 @@ tiny, fey, plant
 ---
 
 **Perception** +14
+
 **Languages** common, fey
+
 **STR** +3, **DEX** +5, **CON** +3, **INT** +1, **WIS** +3, **CHA** +2
+
 **Items** {@item wand of hawthorn|TV}
 
 ---
 
 **AC** 23
+
 **Fort** +14, **Ref** +16, **Will** +12
+
 **HP** 95
+
 **Weaknesses** fire 5
 
 ---
@@ -22,9 +28,11 @@ tiny, fey, plant
 Speed 25 feet
 
 **Melee** claw +15 (agile, finesse); **Damage** 2d6+7 slashing
+
 **Melee** splinter +15 (deadly <d6>, range increment <30 feet>); **Damage** 2d6+5 piercing
 
 **Prepared primal Spells** (DC 24), attack +16
 
 **Bramble Jump** ◆◆◆ (plant, primal, teleportation) **Requirements** Splintershank is in the forest's undergrowth; Splintershank scrambles into the undergrowth and instantly teleports to a different square of undergrowth within 60 feet of him. This movement doesn't trigger reactions.
+
 **Splinter Spray** ◆◆ Splintershank sprays a barrage of splinters and brambles from his body in a 15-foot cone, dealing 7d6 piercing damage (DC 24 basic Reflex save). He can't use Splinter Spray again for 1d4 rounds.

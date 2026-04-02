@@ -6,13 +6,17 @@ n, medium, human, humanoid
 ---
 
 **Perception** +6
+
 **Languages** common
+
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +2, **CHA** +0
 
 ---
 
 **AC** 15
+
 **Fort** +8, **Ref** +4, **Will** +7
+
 **HP** 22
 
 ---

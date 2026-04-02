@@ -6,14 +6,19 @@ n, medium, human, humanoid
 ---
 
 **Perception** +7
+
 **Languages** common
+
 **STR** +0, **DEX** +2, **CON** +1, **INT** +4, **WIS** +1, **CHA** +1
+
 **Items** invisibility potion, spellbook, staff, thieves' tools
 
 ---
 
 **AC** 17
+
 **Fort** +8, **Ref** +9, **Will** +10
+
 **HP** 31
 
 ---

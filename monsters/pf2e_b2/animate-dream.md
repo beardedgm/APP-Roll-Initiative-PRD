@@ -6,14 +6,19 @@ uncommon, ne, medium, dream, incorporeal
 ---
 
 **Perception** +14
+
 **STR** -5, **DEX** +4, **CON** +3, **INT** +0, **WIS** +2, **CHA** +6
 
 ---
 
 **AC** 24
+
 **Fort** +15, **Ref** +18, **Will** +14
+
 **HP** 110
+
 **Immunities** poison, precision, disease, paralyzed, sleep
+
 **Resistances** all 5
 
 ---

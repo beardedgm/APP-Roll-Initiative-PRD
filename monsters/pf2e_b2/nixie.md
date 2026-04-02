@@ -6,7 +6,9 @@ n, small, aquatic, fey
 ---
 
 **Perception** +6
+
 **Languages** aquan, sylvan
+
 **STR** +0, **DEX** +3, **CON** +1, **INT** +0, **WIS** +1, **CHA** +4
 
 **Wild Empathy** The nixie can use Diplomacy to Make an Impression on and make very simple Requests of aquatic or amphibious animals.
@@ -14,7 +16,9 @@ n, small, aquatic, fey
 ---
 
 **AC** 16
+
 **Fort** +6, **Ref** +10, **Will** +6
+
 **HP** 25
 
 ---

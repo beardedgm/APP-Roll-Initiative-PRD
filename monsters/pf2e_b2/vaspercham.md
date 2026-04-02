@@ -6,15 +6,21 @@ ce, huge, aberration, aquatic
 ---
 
 **Perception** +30
+
 **Languages** aklo
+
 **STR** +8, **DEX** +4, **CON** +6, **INT** +8, **WIS** +5, **CHA** +6
 
 ---
 
 **AC** 41
+
 **Fort** +31, **Ref** +25, **Will** +32
+
 **HP** 335
+
 **Resistances** cold 10, electricity 10
+
 **Weaknesses** fire 15
 
 **Magic-Warping Aura** (arcane, aura, transmutation) 30 feet. A vaspercham's shell distorts nearby magic. Any creature in the aura who Casts a Spell must attempt a DC 37 Will save. **Critical Success** The spell is unaffected and the caster is temporarily immune to the magic-warping aura for 1 minute.
@@ -27,10 +33,13 @@ ce, huge, aberration, aquatic
 Speed 20 feet, swim 50 feet
 
 **Melee** tentacle +33 (agile, magical, reach <20 feet>); **Damage** 3d10+16 bludgeoning plus hallucinatory brine plus hallucinatory brine
+
 **Melee** water blast +33 (brutal, magical, range increment <100 feet>, water); **Damage** 2d8+16 bludgeoning plus hallucinatory brine plus hallucinatory brine
 
 **Innate arcane Spells** (DC 41)
 
 **Hallucinatory Brine** (arcane, illusion, mental) A creature hit by the vaspercham's Strikes or Mindwarping Tide must attempt a DC 38 Fortitude save. On a failure, the creature is overwhelmed with phantasmal visions, becoming confused for 1 round (1 minute on a critical failure).
+
 **Mindwarping Tide** ◆ (concentrate) The vaspercham releases an effusion of noxious water from its shell. Creatures within a 15-foot emanation must save against the vaspercham's hallucinatory brine.
+
 **Whipping Tentacles** ◆◆ The vaspercham makes four tentacle Strikes, each against a different target. These attacks count toward the vaspercham's multiple attack penalty, but the multiple attack penalty doesn't increase until after the vaspercham makes all of their attacks.

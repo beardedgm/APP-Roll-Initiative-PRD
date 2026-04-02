@@ -6,7 +6,9 @@ rare, ln, large, beast
 ---
 
 **Perception** +29
+
 **Languages** auran, elven, sylvan, utopian (can't speak any
+
 **STR** +6, **DEX** +8, **CON** +3, **INT** +2, **WIS** +4, **CHA** +2
 
 **Convergent Link** Creatures with this ability can communicate with each other by manifesting an aura of wispy Utopian runes. This has the effects of telepathy with a range of 300 feet, but requires line of sight.
@@ -14,11 +16,15 @@ rare, ln, large, beast
 ---
 
 **AC** 37
+
 **Fort** +25, **Ref** +27, **Will** +21
+
 **HP** 290
+
 **Weaknesses** chaotic 10
 
 **Disrupted Link** While a convergent giant eagle is confused, fascinated, or frightened, it loses its convergent link and convergent tactics abilities.
+
 **Evasion** When a giant eagle succeeds at a Reflex save, it critically succeeds instead.
 
 ---

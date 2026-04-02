@@ -6,16 +6,23 @@ medium, monitor, psychopomp
 ---
 
 **Perception** +28
+
 **Languages** chthonian, diabolic, empyrean, requian
+
 **STR** +5, **DEX** +4, **CON** +5, **INT** +4, **WIS** +8, **CHA** +8
+
 **Items** {@runeItem longsword||+2 weapon potency||striking|}
 
 ---
 
 **AC** 35
+
 **Fort** +25, **Ref** +25, **Will** +28
+
 **HP** 250
+
 **Immunities** death effects, disease
+
 **Resistances** poison 15, void 15
 
 ---
@@ -30,6 +37,9 @@ Speed 25 feet
 **Success** The target takes 2d10 mental damage and is stupefied 2 for 1 round.
 **Failure** The target takes 4d10 mental damage and is stupefied 2 for 1 round.
 **Critical Failure** The target loses all painful emotions and memories, leaving an indistinct haze. If the target is an ijhyeojin|LOTXWG, then all of their memories are reaped and they become a joseung saja.
+
 **Reap Souls** ◈ (death) **Trigger** The joseung saja brings a target to 0 Hit Points or successfully Strikes a target with the dying condition; The target must succeed at a DC 34 Will save or immediately die. A reaped creature can't be return to life or become undead except by a 9th-rank or higher ritual.
+
 **Shifting Form** ◆ (concentrate) The joseung saja is incorporeal until the end of their next turn. While they're incorporeal, they have resistance 10 to all damage (except force, void, and ghost touch weapons).
+
 **Spirit Touch** A joseung saja's Strikes all have the effects of a ghost touch property rune and deal an extra 3d6 void damage to living creatures and 3d6 vitality damage to undead.

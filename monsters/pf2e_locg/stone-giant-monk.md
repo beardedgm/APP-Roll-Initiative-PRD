@@ -6,14 +6,19 @@ ln, large, earth, giant, humanoid
 ---
 
 **Perception** +16
+
 **Languages** common, jotun
+
 **STR** +6, **DEX** +2, **CON** +4, **INT** +0, **WIS** +1, **CHA** +0
+
 **Items** sack with 5 rocks
 
 ---
 
 **AC** 28
+
 **Fort** +20, **Ref** +16, **Will** +16
+
 **HP** 170
 
 **Catch Rock** ◈
@@ -23,9 +28,11 @@ ln, large, earth, giant, humanoid
 Speed 40 feet
 
 **Melee** fist +22 (agile, reach 10 feet); **Damage** 2d8+16 bludgeoning
+
 **Melee** rock +20 (brutal, range increment 120 feet); **Damage** 2d6+14 bludgeoning
 
 **Focus divine Spells** (DC 24)
 
 **Big Swing** ◆◆ The stone giant makes a fist Strike. The target is Pushed up to 10 feet on a hit or up to 20 feet on a critical hit. If the target collides with a solid object or lands on the ground, it takes bludgeoning damage as though it had fallen the distance it moved.
+
 **Throw Rock** ◆

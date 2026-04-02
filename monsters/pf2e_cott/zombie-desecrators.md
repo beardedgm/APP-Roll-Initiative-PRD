@@ -6,15 +6,21 @@ uncommon, medium, mindless, undead, unholy, zombie
 ---
 
 **Perception** +23
+
 **STR** +9, **DEX** -2, **CON** +6, **INT** -5, **WIS** +3, **CHA** -2
+
 **Items** {@item breastplate|PC1}, +2 greater striking unholy greatsword
 
 ---
 
 **AC** 40
+
 **Fort** +35, **Ref** +23, **Will** +29
+
 **HP** 395; void healing
+
 **Immunities** bleed, death effects, disease, mental, paralyzed, poison, unconscious
+
 **Weaknesses** slashing 15, vitality 15
 
 **Reactive Strike** ◈

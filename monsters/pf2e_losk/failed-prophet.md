@@ -6,7 +6,9 @@ rare, medium, construct
 ---
 
 **Perception** +20
+
 **Languages** common, dwarven
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** +5, **WIS** +7, **CHA** +6
 
 **Wealthsense** 150 gp
@@ -14,13 +16,19 @@ rare, medium, construct
 ---
 
 **AC** 30
+
 **Fort** +20, **Ref** +17, **Will** +23
+
 **HP** 175
+
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, nonlethal attacks, paralyzed, poison, sickened, unconscious, vitality, void
+
 **Resistances** cold 10, electricity 10, physical 10
+
 **Weaknesses** spirit 10
 
 **Broken Mindscape** (aura, illusion, incapacitation, mental) 30 feet, DC 27
+
 **Taboos**
 
 ---
@@ -32,4 +40,5 @@ Speed 25 feet
 **Spontaneous occult Spells** (DC 27), attack +19
 
 **Greedy Grab** ◆
+
 **This Is My Reality!** ◆◆ (concentrate) 6d6 spirit, DC 30

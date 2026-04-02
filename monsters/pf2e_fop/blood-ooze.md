@@ -6,6 +6,7 @@ n, large, mindless, ooze
 ---
 
 **Perception** +8
+
 **STR** +5, **DEX** -4, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 **Infuse Corpse** ◆ A blood ooze can seep into a corpse's wounds, displacing its natural blood. It can burst out of the corpse as a free action.
@@ -13,11 +14,15 @@ n, large, mindless, ooze
 ---
 
 **AC** 12
+
 **Fort** +15, **Ref** +6, **Will** +6
+
 **HP** 90
+
 **Immunities** mental, precision, critical hits, unconscious, visual
 
 **Clot** ◈ **Trigger** The blood ooze is damaged by piercing or slashing attack.; The blood ooze forms a clot around the wound, reducing the damage taken by 5 (to a minimum of 0).
+
 **Blood Pool** Whenever a creature adjacent to a blood ooze takes bleed damage, the blood ooze regains an amount of Hit Points equal to the damage dealt.
 
 ---

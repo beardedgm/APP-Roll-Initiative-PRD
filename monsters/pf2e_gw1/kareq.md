@@ -6,13 +6,17 @@ uncommon, n, large, animal
 ---
 
 **Perception** +15
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** -4, **WIS** +3, **CHA** +0
 
 ---
 
 **AC** 22
+
 **Fort** +15, **Ref** +13, **Will** +10
+
 **HP** 95
+
 **Immunities** sonic
 
 ---

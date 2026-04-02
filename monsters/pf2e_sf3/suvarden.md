@@ -6,17 +6,23 @@ rare, n, large, beast
 ---
 
 **Perception** +17
+
 **Languages** aklo, common, sylvan
+
 **STR** +3, **DEX** +5, **CON** +4, **INT** +2, **WIS** +4, **CHA** +6
 
 ---
 
 **AC** 24
+
 **Fort** +15, **Ref** +14, **Will** +17
+
 **HP** 125; all-around vision
+
 **Immunities** confused, controlled, misfortune
 
 **Attack of Opportunity** ◈
+
 **Reweave Fate** ◈ (divination, primal) **Trigger** A non-suvarden creature within 30 feet of the suvarden attempts an attack roll, skill check, or saving throw; The suvarden interferes with the triggering creature's action, pushing it toward a specific outcome. The suvarden decides on a favorable or an unfavorable outcome. With a favorable outcome, the creature rolls the triggering check a second time and takes the higher result; this is a fortune effect. With an unfavorable outcome, the creature rolls the triggering check a second time and takes the lower result; this is a misfortune effect. Regardless of the outcome, the triggering creature becomes immune to Reweave Fate for 1 day.
 
 ---
@@ -24,6 +30,7 @@ rare, n, large, beast
 Speed 40 feet, fly 20 feet, climb 20 feet
 
 **Melee** antler +16; **Damage** 2d12+6 piercing
+
 **Melee** hoof +16 (reach <10 feet>); **Damage** 2d8+6 bludgeoning
 
 **Innate primal Spells** (DC 25)

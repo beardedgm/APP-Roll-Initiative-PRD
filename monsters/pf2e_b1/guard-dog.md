@@ -6,12 +6,15 @@ n, small, animal
 ---
 
 **Perception** +6
+
 **STR** +1, **DEX** +2, **CON** +2, **INT** -4, **WIS** +1, **CHA** -1
 
 ---
 
 **AC** 15
+
 **Fort** +5, **Ref** +7, **Will** +4
+
 **HP** 8
 
 ---

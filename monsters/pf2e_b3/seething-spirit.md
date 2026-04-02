@@ -6,7 +6,9 @@ uncommon, ce, medium, incorporeal, spirit, undead
 ---
 
 **Perception** +15
+
 **Languages** common, dwarven, jotun
+
 **STR** -5, **DEX** +6, **CON** +0, **INT** +2, **WIS** -2, **CHA** +7
 
 **Taste Anger** (detection, divination, occult) The spirit can taste anger and hatred from creatures experiencing those emotions within 1 mile (imprecise).
@@ -14,13 +16,19 @@ uncommon, ce, medium, incorporeal, spirit, undead
 ---
 
 **AC** 29
+
 **Fort** +17, **Ref** +23, **Will** +21
+
 **HP** 145; negative healing|b2
+
 **Immunities** poison, precision, death effects, disease, paralyzed, unconscious
+
 **Resistances** all damage 10
+
 **Weaknesses** emotion
 
 **Pulse of Rage** (aura, emotion, enchantment, mental, occult) 20 feet. This aura emanates from any creature possessed by the seething spirit, and it's inactive while the spirit isn't possessing anyone. Any creature in the aura, including a creature possessed by the spirit, takes a –1 status penalty to AC, can't perform actions with the concentrate trait except for the Seek action and actions with the rage trait, and gains a +2 status bonus to melee damage rolls against the spirit's enemies. A creature can attempt a DC 30 Will save when it enters the aura to avoid the effect. If the creature would need to attempt a save against the aura again within 24 hours, it automatically uses the same save result rather than attempting a new save.
+
 **Vulnerable to Calm Emotions** A seething spirit can't attempt to possess a creature affected by calm emotions. If creature possessed by a seething spirit fails a saving throw against calm emotions, the spirit is forced out. If the spirit isn't possessing a creature and is targeted with calm emotions, the spirit takes 12 mental damage per level of the spell instead of the normal spell effects.
 
 ---

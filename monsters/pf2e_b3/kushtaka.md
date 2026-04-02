@@ -6,17 +6,23 @@ ne, small, amphibious, beast
 ---
 
 **Perception** +12
+
 **Languages** common, sylvan
+
 **STR** +3, **DEX** +5, **CON** +2, **INT** +0, **WIS** +4, **CHA** +3
 
 **Canine Vulnerability** Dogs and other canines are natural enemies of kushtaka. Canine animals, including creatures transformed into a canine using animal form or a similar effect, ignore the kushtaka's resistance to physical attacks. In addition, a canine with imprecise scent can use it as a precise sense when detecting a kushtaka.
+
 **Null Spirit** Kushtaka exist completely separated from their mortal souls, making them immune to the effects of haunts and most effects from incorporeal spirits and undead, but also unaware of their presence; incorporeal undead are both invisible and inaudible to them. Incorporeal spirits and undead can affect a kushtaka only with effects that manifest in the physical world. For instance, a ghost mage casting a fireball or a poltergeist throwing objects could harm the kushtaka, but a ghost commoner's Frightful Moan and ghostly hand Strike would not.
 
 ---
 
 **AC** 21
+
 **Fort** +8, **Ref** +13, **Will** +12
+
 **HP** 40
+
 **Resistances** physical 5
 
 **Persuasive Rebuttal** ◈ **Trigger** A creature fails a check to Strike or Demoralize the kushtaka; **Requirements** The kushtaka has a charm spell available; The kushtaka casts charm on the target.
@@ -26,6 +32,7 @@ ne, small, amphibious, beast
 Speed 25 feet, swim 40 feet
 
 **Melee** jaws +14 (finesse); **Damage** 2d8+5 piercing plus Grab plus Grab
+
 **Melee** claw +14 (agile, finesse); **Damage** 2d6+5 slashing
 
 **Innate occult Spells** (DC 21), attack +13

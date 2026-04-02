@@ -6,12 +6,15 @@ n, large, animal
 ---
 
 **Perception** +8
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** -4, **WIS** +2, **CHA** -1
 
 ---
 
 **AC** 18
+
 **Fort** +7, **Ref** +10, **Will** +6
+
 **HP** 35
 
 ---

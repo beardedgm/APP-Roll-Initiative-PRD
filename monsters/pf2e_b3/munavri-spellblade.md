@@ -6,8 +6,11 @@ rare, ng, medium, humanoid, munavri
 ---
 
 **Perception** +7
+
 **Languages** munavri, undercommon
+
 **STR** +4, **DEX** +0, **CON** +2, **INT** +0, **WIS** +1, **CHA** +3
+
 **Items** bastard sword, breastplate
 
 **Light Blindness**
@@ -15,7 +18,9 @@ rare, ng, medium, humanoid, munavri
 ---
 
 **AC** 18
+
 **Fort** +8, **Ref** +6, **Will** +7
+
 **HP** 28
 
 ---
