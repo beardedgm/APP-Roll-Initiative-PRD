@@ -150,7 +150,34 @@ sharedEncounterRouter.get('/api/shared/:code', rateLimitByIP('shared-encounter',
     return res.status(404).json({ error: 'Encounter not found' });
   }
 
-  res.json({ encounter });
+  // Strip sensitive data — players should see health status but not HP values
+  const safeCombatants = (encounter.combatants || []).map(c => {
+    const hpPct = c.hp && c.hp.max > 0 ? c.hp.current / c.hp.max : 0;
+    let healthStatus = 'healthy';
+    if (c.status === 'unconscious' || (c.hp && c.hp.current <= 0)) {
+      healthStatus = 'unconscious';
+    } else if (hpPct <= 0.25) {
+      healthStatus = 'bloody';
+    } else if (c.hp && c.hp.current < c.hp.max) {
+      healthStatus = 'hurt';
+    }
+
+    return {
+      id: c.id,
+      name: c.name,
+      type: c.type,
+      initiative: c.initiative,
+      status: c.status,
+      healthStatus,
+    };
+  });
+
+  res.json({
+    encounter: {
+      ...encounter,
+      combatants: safeCombatants,
+    },
+  });
 }));
 
 export default router;
