@@ -135,9 +135,46 @@
   overflow: hidden;
 }
 
-/* 3-column layout: Monster DB | Combat Tracker | Dice Roller */
+/* 3-column layout: Monster DB | Handle | Combat Tracker | Dice Roller */
 .dm-main--3col {
-  grid-template-columns: 320px 1fr 300px;
+  grid-template-columns: 320px 6px 1fr 300px;
+  gap: var(--space-sm);
+}
+
+/* ── Resize Handle (between left panel and center) ── */
+.resize-handle {
+  width: 6px;
+  cursor: col-resize;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 10;
+}
+
+.resize-handle::after {
+  content: '';
+  width: 2px;
+  height: 48px;
+  border-radius: 1px;
+  background: var(--color-border);
+  transition: background 0.15s, height 0.15s;
+}
+
+.resize-handle:hover::after {
+  background: var(--color-accent-gold);
+  height: 72px;
+}
+
+body.is-resizing {
+  cursor: col-resize !important;
+  user-select: none !important;
+}
+
+body.is-resizing .resize-handle::after {
+  background: var(--color-accent-gold);
+  height: 72px;
 }
 
 .dm-col {
@@ -1041,22 +1078,24 @@
 /* ── Responsive ──────────────────────────────────────────────── */
 @media (max-width: 1100px) {
   .dm-main--3col {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr !important;
   }
   .dm-col--left {
     grid-column: 1 / -1;
     max-height: 300px;
   }
+  .resize-handle { display: none; }
 }
 @media (max-width: 820px) {
   .dm-main,
   .dm-main--3col {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
     height: auto;
     overflow: visible;
   }
   .dm-col { overflow: visible; }
   .dm-col--left { max-height: none; }
+  .resize-handle { display: none; }
   .dm-header { flex-wrap: wrap; }
   .dm-header__center { order: 3; width: 100%; text-align: left; }
 }
@@ -1198,7 +1237,20 @@
 }
 
 .stat-block-content p {
-  margin: var(--space-xs) 0;
+  margin: 0.6em 0;
+}
+
+/* Paragraphs starting with bold text (stat entries, abilities, actions) get a subtle indent */
+.stat-block-content p > strong:first-child {
+  color: var(--color-accent-gold);
+}
+
+/* Horizontal rules act as section dividers */
+.stat-block-content hr {
+  border: none;
+  border-top: 2px solid;
+  border-image: linear-gradient(to right, var(--color-accent-gold), transparent) 1;
+  margin: var(--space-md) 0;
 }
 
 .stat-block-content em {
