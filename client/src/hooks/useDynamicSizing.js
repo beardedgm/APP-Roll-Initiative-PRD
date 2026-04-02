@@ -34,6 +34,7 @@ export default function useDynamicSizing(listRef) {
     list.style.setProperty('--player-left-gap', `${clamp(itemHeight * 0.15, 8, 24)}px`);
     list.style.setProperty('--player-badge-v-pad', `${clamp(itemHeight * 0.08, 2, 8)}px`);
     list.style.setProperty('--player-badge-h-pad', `${clamp(itemHeight * 0.18, 8, 20)}px`);
+    list.style.setProperty('--player-icon-size', `${clamp(itemHeight * 0.30, 14, 36)}px`);
   }, [listRef]);
 
   useEffect(() => {

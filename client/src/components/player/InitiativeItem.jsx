@@ -1,9 +1,9 @@
 import { Shield, Skull, User, ChevronRight } from 'lucide-react';
 
 const typeIcons = {
-  player:  <Shield size={18} className="initiative-item__type-icon initiative-item__type-icon--player" />,
-  monster: <Skull size={18} className="initiative-item__type-icon initiative-item__type-icon--monster" />,
-  npc:     <User size={18} className="initiative-item__type-icon initiative-item__type-icon--npc" />,
+  player:  <Shield className="initiative-item__type-icon initiative-item__type-icon--player" />,
+  monster: <Skull className="initiative-item__type-icon initiative-item__type-icon--monster" />,
+  npc:     <User className="initiative-item__type-icon initiative-item__type-icon--npc" />,
 };
 
 function getStatusBadge(combatant) {
