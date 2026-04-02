@@ -185,7 +185,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ gameSystem = '5e',
         </button>
         <button
           className="btn btn--sm"
-          onClick={() => openModal('import-monster')}
+          onClick={() => openModal('import-monster', { gameSystem })}
         >
           &#8595; Import JSON
         </button>

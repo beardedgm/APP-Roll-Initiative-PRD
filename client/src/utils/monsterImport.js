@@ -2,6 +2,8 @@
  * Utilities for parsing and validating 5e monster JSON imports.
  * Supports Open5e, 5etools, and a simple custom format.
  */
+import { renderPf2eCreatureToMarkdown } from '../../../shared/pf2eMarkdownRenderer.js';
+import { stripPf2eTags } from '../../../shared/pf2eTagStripper.js';
 
 const VALID_SIZES = ['Tiny', 'Small', 'Medium', 'Large', 'Huge', 'Gargantuan'];
 const VALID_CRS = [
@@ -223,6 +225,119 @@ function normalizeEntries(entries) {
     description: e.description || e.desc || e.text ||
       (Array.isArray(e.entries) ? e.entries.join('\n') : '') || '',
   })).filter(e => e.name || e.description);
+}
+
+/**
+ * Parse PF2eTools creature JSON and normalize to our API shape.
+ * Accepts either a raw creature object or { creature: [...] } wrapper.
+ */
+export function parsePf2eMonsterJSON(jsonText) {
+  let raw;
+  try {
+    raw = JSON.parse(jsonText);
+  } catch {
+    throw new Error('Invalid JSON — check for syntax errors.');
+  }
+
+  // PF2eTools wraps creatures in { creature: [...] }
+  if (raw.creature && Array.isArray(raw.creature)) {
+    if (raw.creature.length === 0) throw new Error('No creatures found in PF2eTools data.');
+    raw = raw.creature[0];
+  }
+
+  return normalizePf2eCreature(raw);
+}
+
+function normalizePf2eCreature(raw) {
+  const monster = {};
+
+  monster.name = stripPf2eTags(raw.name || '');
+  monster.gameSystem = 'pf2e';
+
+  // Size: find from traits array
+  const sizes = ['Tiny', 'Small', 'Medium', 'Large', 'Huge', 'Gargantuan'];
+  const rawTraits = Array.isArray(raw.traits) ? raw.traits : [];
+  const sizeFound = rawTraits.find(t => sizes.includes(t));
+  monster.size = sizeFound || 'Medium';
+
+  // Type: traits minus size, rarity, and alignment codes
+  const excludeTraits = [...sizes, 'N', 'NG', 'NE', 'CG', 'CE', 'LG', 'LE', 'LN', 'CN',
+    'Common', 'Uncommon', 'Rare', 'Unique'];
+  monster.type = rawTraits.filter(t => !excludeTraits.includes(t)).join(', ');
+
+  monster.alignment = '';
+  monster.cr = String(raw.level || 0);
+  monster.hp = raw.defenses?.hp?.[0]?.hp || 1;
+  monster.ac = raw.defenses?.ac?.std || 10;
+  monster.acDesc = '';
+  monster.initMod = raw.perception?.std || 0;
+
+  // Speed
+  if (raw.speed) {
+    const parts = [];
+    if (raw.speed.walk) parts.push(`${raw.speed.walk} feet`);
+    for (const [mode, val] of Object.entries(raw.speed)) {
+      if (mode === 'walk' || mode === 'abilities' || mode === 'speedNote') continue;
+      if (typeof val === 'number') parts.push(`${mode} ${val} feet`);
+    }
+    monster.speed = parts.join(', ') || '25 feet';
+  } else {
+    monster.speed = '25 feet';
+  }
+
+  // Ability modifiers
+  if (raw.abilityMods) {
+    monster.abilities = { ...raw.abilityMods };
+  } else {
+    monster.abilities = { str: 0, dex: 0, con: 0, int: 0, wis: 0, cha: 0 };
+  }
+
+  // Text fields
+  const fmtMod = (n) => n === undefined || n === null ? '+0' : (n >= 0 ? `+${n}` : String(n));
+  monster.senses = (raw.perception?.senses || []).map(s => stripPf2eTags(typeof s === 'string' ? s : s.name || '')).join(', ');
+  monster.languages = (raw.languages?.languages || []).map(l => stripPf2eTags(typeof l === 'string' ? l : l.name || '')).join(', ');
+  monster.savingThrows = `Fort ${fmtMod(raw.defenses?.savingThrows?.fort?.std)}, Ref ${fmtMod(raw.defenses?.savingThrows?.ref?.std)}, Will ${fmtMod(raw.defenses?.savingThrows?.will?.std)}`;
+  monster.skills = (raw.skills || []).map(s => `${stripPf2eTags(s.name)} ${fmtMod(s.std)}`).join(', ');
+  monster.damageResistances = (raw.defenses?.resistances || []).map(r => `${stripPf2eTags(r.name || '')} ${r.amount || ''}`).join(', ');
+  monster.damageImmunities = (raw.defenses?.immunities || []).map(i => stripPf2eTags(typeof i === 'string' ? i : i.name || '')).join(', ');
+  monster.damageVulnerabilities = (raw.defenses?.weaknesses || []).map(w => `${stripPf2eTags(w.name || '')} ${w.amount || ''}`).join(', ');
+  monster.conditionImmunities = '';
+
+  // Generate rawMarkdown
+  try {
+    monster.rawMarkdown = renderPf2eCreatureToMarkdown(raw);
+  } catch {
+    monster.rawMarkdown = '';
+  }
+
+  monster.traits = [];
+  monster.actions = [];
+  monster.reactions = [];
+  monster.legendaryActions = [];
+
+  return monster;
+}
+
+/**
+ * Validate a normalized PF2e monster. Returns an array of error strings.
+ */
+export function validatePf2eMonsterData(data) {
+  const errors = [];
+  if (!data.name || !data.name.trim()) {
+    errors.push('Name is required.');
+  } else if (data.name.length > 100) {
+    errors.push('Name must be 100 characters or fewer.');
+  }
+  if (typeof data.hp !== 'number' || data.hp < 1) {
+    errors.push('HP must be at least 1.');
+  }
+  if (typeof data.ac !== 'number' || data.ac < 0 || data.ac > 99) {
+    errors.push('AC must be a number between 0 and 99.');
+  }
+  if (data.rawMarkdown && data.rawMarkdown.length > 50000) {
+    errors.push('Raw markdown must be 50,000 characters or fewer.');
+  }
+  return errors;
 }
 
 /**
