@@ -35,6 +35,7 @@ const EncounterSchema = new mongoose.Schema({
   activeCreatureId: { type: String, default: null },
   combatants:       [CombatantSchema],
   diceHistory:      [DiceHistoryEntrySchema],
+  latestSharedRoll: { type: mongoose.Schema.Types.Mixed, default: null },
   lastSyncedAt:     { type: Date, default: Date.now },
 }, { timestamps: true });
 

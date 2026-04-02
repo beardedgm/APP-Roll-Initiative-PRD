@@ -25,6 +25,18 @@ const combatantSchema = z.object({
   monsterSlug: z.string().optional(),
 });
 
+const latestSharedRollSchema = z.object({
+  id: z.string(),
+  label: z.string(),
+  sides: z.number().int().positive(),
+  count: z.number().int().positive(),
+  modifier: z.number().int(),
+  advantage: z.enum(['normal', 'advantage', 'disadvantage']),
+  rolls: z.array(z.number().int()).max(20),
+  total: z.number().int(),
+  timestamp: z.number(),
+}).nullable();
+
 export const createEncounterSchema = z.object({
   name: z.string().min(1).max(100).trim(),
   state: z.enum(['pre-combat', 'combat']).default('pre-combat'),
@@ -36,6 +48,7 @@ export const createEncounterSchema = z.object({
       { message: 'Combatant IDs must be unique' }
     ),
   diceHistory: z.array(diceHistoryEntrySchema).max(50).default([]),
+  latestSharedRoll: latestSharedRollSchema.optional().default(null),
 });
 
 export const updateEncounterSchema = z.object({
@@ -49,4 +62,5 @@ export const updateEncounterSchema = z.object({
       { message: 'Combatant IDs must be unique' }
     ),
   diceHistory: z.array(diceHistoryEntrySchema).max(50).optional(),
+  latestSharedRoll: latestSharedRollSchema.optional(),
 });

@@ -143,7 +143,7 @@ export const sharedEncounterRouter = Router();
 
 sharedEncounterRouter.get('/api/shared/:code', rateLimitByIP('shared-encounter', 120), asyncHandler(async (req, res) => {
   const encounter = await Encounter.findOne({ shareCode: req.params.code })
-    .select('name state currentRound activeCreatureId combatants updatedAt')
+    .select('name state currentRound activeCreatureId combatants latestSharedRoll updatedAt')
     .lean();
 
   if (!encounter) {
@@ -176,6 +176,7 @@ sharedEncounterRouter.get('/api/shared/:code', rateLimitByIP('shared-encounter',
     encounter: {
       ...encounter,
       combatants: safeCombatants,
+      latestSharedRoll: encounter.latestSharedRoll || null,
     },
   });
 }));
