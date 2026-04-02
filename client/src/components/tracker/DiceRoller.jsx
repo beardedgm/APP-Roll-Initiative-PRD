@@ -147,6 +147,8 @@ export default function DiceRoller() {
                 )).reduce((acc, el, i) => i === 0 ? [el] : [...acc, ', ', el], []);
               } else if (entry.rolls.length > 1) {
                 rollsHtml = entry.rolls.join(', ');
+              } else if (entry.rolls.length === 1 && entry.modifier !== 0) {
+                rollsHtml = `rolled ${entry.rolls[0]}`;
               }
 
               return (
