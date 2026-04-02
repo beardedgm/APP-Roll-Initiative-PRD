@@ -2,6 +2,7 @@ import { useRef, useEffect, useMemo } from 'react';
 import { Swords } from 'lucide-react';
 import useDynamicSizing from '../../hooks/useDynamicSizing';
 import InitiativeItem from './InitiativeItem';
+import PlayerDiceToast from './PlayerDiceToast';
 import '../../styles/player.css';
 
 export default function PlayerViewLayout({
@@ -10,6 +11,7 @@ export default function PlayerViewLayout({
   error,
   errorMessage,
   showShareInfo,
+  latestSharedRoll,
 }) {
   const listRef = useRef(null);
   const updateSizing = useDynamicSizing(listRef);
@@ -114,6 +116,7 @@ export default function PlayerViewLayout({
           </ol>
         </main>
         <footer className="player-footer">{footerLabel}</footer>
+        <PlayerDiceToast latestSharedRoll={latestSharedRoll} />
       </div>
     );
   }
@@ -156,6 +159,7 @@ export default function PlayerViewLayout({
         </ol>
       </main>
       <footer className="player-footer">{footerLabel}</footer>
+      <PlayerDiceToast latestSharedRoll={latestSharedRoll} />
     </div>
   );
 }

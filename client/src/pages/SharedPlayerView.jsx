@@ -14,6 +14,7 @@ export default function SharedPlayerView() {
       errorMessage="Encounter not found or link has expired."
       showShareInfo
       shareCode={code}
+      latestSharedRoll={encounter?.latestSharedRoll}
     />
   );
 }
