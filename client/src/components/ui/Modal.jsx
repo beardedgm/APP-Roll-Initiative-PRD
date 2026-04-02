@@ -1,4 +1,5 @@
 import { useEffect, useCallback, useRef } from 'react';
+import { X } from 'lucide-react';
 import useUIStore from '../../store/useUIStore';
 
 const FOCUSABLE_SELECTOR =
@@ -76,7 +77,7 @@ export default function Modal({ id, title, children, footer }) {
         <div className="modal-header">
           <h2>{title}</h2>
           <button className="btn btn--remove modal-close" aria-label="Close" onClick={closeModal}>
-            &times;
+            <X size={18} />
           </button>
         </div>
         <div className="modal-body">{children}</div>

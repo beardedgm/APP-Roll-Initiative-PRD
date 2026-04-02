@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Dices, X, RotateCcw } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 
 function buildEntryLabel(entry) {
@@ -82,7 +83,7 @@ export default function DiceRoller() {
 
   return (
     <div className="panel" id="panel-dice">
-      <h2 className="panel__title">&#127922; Dice Roller</h2>
+      <h2 className="panel__title"><Dices size={18} /> Dice Roller</h2>
 
       <div className="dice-grid">
         {dies.map(d => (
@@ -145,7 +146,7 @@ export default function DiceRoller() {
         <div className="dice-history__header">
           <h3 className="dice-history__title">History</h3>
           <button className="btn btn--icon btn--sm" onClick={clearDiceHistory} title="Clear dice history">
-            &#10005;
+            <X size={14} />
           </button>
         </div>
         <ol id="dice-history-list">
@@ -166,7 +167,7 @@ export default function DiceRoller() {
                     onClick={() => handleReroll(entry.id)}
                     title={`Re-roll ${label}`}
                   >
-                    &#8635;
+                    <RotateCcw size={13} />
                   </button>
                 </li>
               );

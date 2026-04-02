@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef, useCallback, forwardRef, useImperativeHandle } from 'react';
+import { Download, ChevronLeft, ChevronRight, ArrowLeft } from 'lucide-react';
 import { marked } from 'marked';
 import DOMPurify from 'dompurify';
 import { useMonsterBrowse, useMonster, useMonsterSources } from '../../api/useMonsters';
@@ -187,7 +188,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ gameSystem = '5e',
           className="btn btn--sm"
           onClick={() => openModal('import-monster', { gameSystem })}
         >
-          &#8595; Import JSON
+          <Download size={14} /> Import JSON
         </button>
       </div>
 
@@ -246,7 +247,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ gameSystem = '5e',
             disabled={page === 0}
             onClick={() => setPage(p => p - 1)}
           >
-            &laquo; Prev
+            <ChevronLeft size={14} /> Prev
           </button>
           <span className="monster-db__page-info">
             Page {page + 1} of {totalPages}
@@ -256,7 +257,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ gameSystem = '5e',
             disabled={page >= totalPages - 1}
             onClick={() => setPage(p => p + 1)}
           >
-            Next &raquo;
+            Next <ChevronRight size={14} />
           </button>
         </div>
       )}
@@ -298,7 +299,7 @@ function MonsterDetail({ monster, loading, onBack, onRollDice, onDelete, onEdit 
   if (loading) {
     return (
       <div className="monster-detail">
-        <button className="monster-detail__back" onClick={onBack} aria-label="Back to list">&larr; Back to list</button>
+        <button className="monster-detail__back" onClick={onBack} aria-label="Back to list"><ArrowLeft size={16} /> Back to list</button>
         <p style={{ textAlign: 'center', padding: '2rem' }}>Loading stat block...</p>
       </div>
     );
@@ -307,7 +308,7 @@ function MonsterDetail({ monster, loading, onBack, onRollDice, onDelete, onEdit 
   if (!monster) {
     return (
       <div className="monster-detail">
-        <button className="monster-detail__back" onClick={onBack} aria-label="Back to list">&larr; Back to list</button>
+        <button className="monster-detail__back" onClick={onBack} aria-label="Back to list"><ArrowLeft size={16} /> Back to list</button>
         <p style={{ textAlign: 'center', padding: '2rem' }}>Monster not found.</p>
       </div>
     );
@@ -323,7 +324,7 @@ function MonsterDetail({ monster, loading, onBack, onRollDice, onDelete, onEdit 
   return (
     <div className="monster-detail">
       <div className="monster-detail__header">
-        <button className="monster-detail__back" onClick={onBack} aria-label="Back to list">&larr; Back</button>
+        <button className="monster-detail__back" onClick={onBack} aria-label="Back to list"><ArrowLeft size={16} /> Back</button>
         <div className="monster-detail__header-actions">
           {monster.isCustom && onEdit && (
             <button

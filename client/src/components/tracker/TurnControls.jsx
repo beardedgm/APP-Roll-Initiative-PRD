@@ -1,3 +1,4 @@
+import { ChevronLeft, ChevronRight, Swords } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 import useUIStore from '../../store/useUIStore';
 
@@ -26,7 +27,7 @@ export default function TurnControls() {
           disabled={combatants.length === 0}
           onClick={() => openModal('start-combat')}
         >
-          &#9876; Start Combat
+          <Swords size={16} /> Start Combat
         </button>
       </div>
     );
@@ -39,14 +40,14 @@ export default function TurnControls() {
     <div className="panel" id="panel-turns">
       <div className="turn-controls">
         <button className="btn btn--nav" disabled={!canGoPrev()} onClick={prevTurn}>
-          &#9664; Prev
+          <ChevronLeft size={16} /> Prev
         </button>
         <div className="turn-info">
           <div className="turn-info__round">Round <span>{currentRound}</span></div>
           <div className="turn-info__name">{active ? active.name : '—'}</div>
         </div>
         <button className="btn btn--nav" disabled={combatants.length === 0} onClick={nextTurn} title="Spacebar">
-          Next &#9654;
+          Next <ChevronRight size={16} />
           <kbd className="kbd-hint">Space</kbd>
         </button>
       </div>

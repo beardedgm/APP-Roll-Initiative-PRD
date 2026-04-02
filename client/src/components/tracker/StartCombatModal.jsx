@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
+import { Swords, RotateCcw, Play } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 import useUIStore from '../../store/useUIStore';
 import Modal from '../ui/Modal';
@@ -59,7 +60,7 @@ function StartCombatContent({ combatants, onStart, onClose }) {
     <>
       <p className="modal-instructions">
         Enter initiative scores for <strong>player characters</strong>.
-        Monster and NPC initiatives have been auto-rolled (1d20 + modifier) — use &#8635; to reroll any result.
+        Monster and NPC initiatives have been auto-rolled (1d20 + modifier) — use <RotateCcw size={13} /> to reroll any result.
       </p>
       <div className="start-combat-rows">
         {rows.map(row => (
@@ -90,7 +91,7 @@ function StartCombatContent({ combatants, onStart, onClose }) {
                   </span>
                 </span>
                 <button className="btn btn--reroll" onClick={() => handleReroll(row.id)}>
-                  &#8635;
+                  <RotateCcw size={13} />
                 </button>
               </>
             )}
@@ -99,7 +100,7 @@ function StartCombatContent({ combatants, onStart, onClose }) {
       </div>
       <div className="modal-footer">
         <button className="btn btn--secondary" onClick={onClose}>Cancel</button>
-        <button className="btn btn--primary" onClick={handleSubmit}>&#9654; Begin Combat!</button>
+        <button className="btn btn--primary" onClick={handleSubmit}><Play size={16} /> Begin Combat!</button>
       </div>
     </>
   );
@@ -113,7 +114,7 @@ export default function StartCombatModal() {
   const isOpen = activeModal === 'start-combat';
 
   return (
-    <Modal id="start-combat" title="&#9876; Start Combat">
+    <Modal id="start-combat" title={<><Swords size={16} /> Start Combat</>}>
       {isOpen && (
         <StartCombatContent
           combatants={combatants}

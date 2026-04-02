@@ -1,4 +1,5 @@
 import { useState, useCallback } from 'react';
+import { Pencil, X } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 import useUserDataStore from '../../store/useUserDataStore';
 
@@ -98,8 +99,8 @@ export default function CharacterLibrary() {
                 </span>
               </div>
               <div className="character-library__item-actions">
-                <button className="btn btn--sm" onClick={() => handleEdit(char)} title="Edit">&#9998;</button>
-                <button className="btn btn--sm btn--danger" onClick={() => handleDelete(char.id)} title="Delete">&times;</button>
+                <button className="btn btn--sm" onClick={() => handleEdit(char)} title="Edit"><Pencil size={14} /></button>
+                <button className="btn btn--sm btn--danger" onClick={() => handleDelete(char.id)} title="Delete"><X size={14} /></button>
                 <button className="monster-db__add-btn" onClick={() => handleAdd(char)} title="Add to encounter">+</button>
               </div>
             </div>

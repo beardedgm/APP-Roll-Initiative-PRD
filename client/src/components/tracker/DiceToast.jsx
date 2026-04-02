@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { X } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 
 function buildLabel(entry) {
@@ -51,7 +52,7 @@ export default function DiceToast() {
 
   return (
     <div className={`dice-toast${visible ? ' dice-toast--visible' : ''} ${getNatClass(entry)}`} key={`${len}-${entry.total}`}>
-      <button className="dice-toast__close" onClick={() => setDismissedLen(len)} title="Dismiss">&#10005;</button>
+      <button className="dice-toast__close" onClick={() => setDismissedLen(len)} title="Dismiss"><X size={14} /></button>
       <span className="dice-toast__label">{buildLabel(entry)}</span>
       <span className="dice-toast__total">{entry.total}</span>
       <Breakdown entry={entry} />

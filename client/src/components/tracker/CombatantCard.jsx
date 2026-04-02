@@ -1,4 +1,5 @@
 import { useState, useRef } from 'react';
+import { GripVertical, ChevronRight, X } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 import HPBar from './HPBar';
 
@@ -50,10 +51,10 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
       onDragEnd={onDragEnd}
     >
       <div className="combatant-card__header">
-        <span className="drag-handle" title="Drag to reorder" role="img" aria-label="Drag to reorder">&#9776;</span>
+        <span className="drag-handle" title="Drag to reorder" role="img" aria-label="Drag to reorder"><GripVertical size={14} /></span>
         <div className="combatant-card__left">
           <span className={`combatant-card__initiative${isPreCombat ? ' combatant-card__initiative--dim' : ''}`}>{initDisplay}</span>
-          {isActive && <span className="combatant-card__active-arrow" aria-hidden="true">&#9654;</span>}
+          {isActive && <span className="combatant-card__active-arrow" aria-hidden="true"><ChevronRight size={12} /></span>}
           <div className="combatant-card__info">
             <span
               className={`combatant-card__name${isDead ? ' combatant-card__name--dead' : ''}${monsterSlug ? ' combatant-card__name--link' : ''}`}
@@ -77,7 +78,7 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
           title={`Remove ${name}`}
           aria-label={`Remove ${name}`}
         >
-          &times;
+          <X size={14} />
         </button>
       </div>
 

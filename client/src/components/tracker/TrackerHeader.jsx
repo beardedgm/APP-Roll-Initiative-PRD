@@ -1,3 +1,4 @@
+import { Swords, Undo2, Redo2, Monitor, Trash2 } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 import { useShallow } from 'zustand/react/shallow';
 import useUserDataStore from '../../store/useUserDataStore';
@@ -28,15 +29,15 @@ export default function TrackerHeader() {
   return (
     <header className="dm-header">
       <div className="dm-header__left">
-        <h1>&#9876; Initiative Tracker</h1>
+        <h1><Swords size={18} /> Initiative Tracker</h1>
       </div>
 
       <div className="dm-header__right">
         <button className="btn btn--icon" disabled={undoLen === 0} onClick={undo} title="Undo (Ctrl+Z)">
-          &#8617; Undo
+          <Undo2 size={16} /> Undo
         </button>
         <button className="btn btn--icon" disabled={redoLen === 0} onClick={redo} title="Redo (Ctrl+Y)">
-          &#8618; Redo
+          <Redo2 size={16} /> Redo
         </button>
 
         {syncStatus !== 'idle' && (
@@ -51,10 +52,10 @@ export default function TrackerHeader() {
         <span className="header-divider" />
 
         <button className="btn btn--secondary" onClick={handleOpenPlayerView} title="Open player view">
-          &#128498; Player View
+          <Monitor size={16} /> Player View
         </button>
         <button className="btn btn--danger" onClick={handleReset} title="Reset the entire encounter">
-          &#128465; Reset
+          <Trash2 size={16} /> Reset
         </button>
       </div>
     </header>

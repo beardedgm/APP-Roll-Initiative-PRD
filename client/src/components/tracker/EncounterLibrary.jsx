@@ -1,4 +1,5 @@
 import { useState, useCallback } from 'react';
+import { X } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 import { useShallow } from 'zustand/react/shallow';
 import useUserDataStore from '../../store/useUserDataStore';
@@ -104,7 +105,7 @@ function EncounterRow({ name, count, date, onLoad, onDelete }) {
       </div>
       <div className="encounter-library__item-actions">
         <button className="btn btn--secondary btn--sm" onClick={onLoad}>Load</button>
-        <button className="btn btn--danger btn--sm" onClick={onDelete}>&times;</button>
+        <button className="btn btn--danger btn--sm" onClick={onDelete}><X size={14} /></button>
       </div>
     </div>
   );
