@@ -152,69 +152,92 @@ Supports 5etools (`{ "monster": [...] }`), Open5e (`{ "results": [...] }`), or t
 
 ### Pathfinder 2e JSON Schema
 
-Supports PF2eTools format (`{ "creature": [...] }`) or the custom format below:
+Supports PF2eTools format (`{ "creature": [...] }`) or the custom format below. This example shows a homebrew creature with spellcasting:
 
 ```json
 {
-  "name": "Custom Creature",
-  "level": 3,
-  "traits": ["N", "Medium", "Animal"],
+  "name": "Bloom Cultist",
+  "level": 5,
+  "traits": ["Rare", "CE", "Medium", "Human", "Humanoid"],
   "perception": {
-    "std": 9,
-    "senses": [{ "name": "low-light vision" }]
+    "std": 13
   },
   "languages": {
-    "languages": [{ "name": "Common" }]
+    "languages": [{ "name": "Abyssal" }, { "name": "Common" }]
   },
   "skills": [
-    { "name": "Athletics", "std": 10 },
-    { "name": "Stealth", "std": 8 }
+    { "name": "Deception", "std": 11 },
+    { "name": "Intimidation", "std": 11 },
+    { "name": "Nature", "std": 13 },
+    { "name": "Religion", "std": 13 }
   ],
   "abilityMods": {
-    "str": 4,
-    "dex": 2,
-    "con": 3,
-    "int": -4,
-    "wis": 1,
-    "cha": -2
+    "str": 3,
+    "dex": 3,
+    "con": 2,
+    "int": 0,
+    "wis": 4,
+    "cha": 0
   },
   "defenses": {
-    "ac": { "std": 19 },
+    "ac": { "std": 22 },
     "savingThrows": {
-      "fort": { "std": 10 },
-      "ref": { "std": 7 },
-      "will": { "std": 6 }
+      "fort": { "std": 11 },
+      "ref": { "std": 12 },
+      "will": { "std": 15 }
     },
-    "hp": [{ "hp": 45 }],
+    "hp": [{ "hp": 75 }],
     "immunities": [],
     "resistances": [],
-    "weaknesses": [{ "name": "fire", "amount": 5 }]
+    "weaknesses": []
   },
   "speed": {
-    "walk": 30,
-    "swim": 20
+    "walk": 25
   },
   "attacks": [
     {
       "type": "melee",
-      "name": "jaws",
-      "attack": 12,
-      "traits": ["reach 10 feet"],
-      "damage": "1d10+6 piercing"
+      "name": "kukri",
+      "attack": 13,
+      "traits": ["agile", "finesse", "trip"],
+      "damage": "1d6+5 slashing"
     }
   ],
   "abilities": {
-    "top": [],
+    "top": [
+      {
+        "name": "Items",
+        "entries": ["+1 kukri, robes"]
+      }
+    ],
     "mid": [],
     "bot": [
       {
-        "name": "Knockdown",
-        "activity": { "unit": "action", "number": 1 },
-        "entries": ["The creature makes a jaws Strike. On a success, the target is knocked prone."]
+        "name": "Absorb the Bloom",
+        "traits": ["divine", "manipulate", "necromancy"],
+        "entries": ["The bloom cultist places a hand against the wall or floor in the Cradle of Lamashtu and utters a prayer to the Mother of Monsters. Filaments of fungus slither up into the cultist's flesh, healing 4d6 points of damage. The cultist can't Absorb the Bloom for 24 hours."]
       }
     ]
   },
-  "spellcasting": []
+  "spellcasting": [
+    {
+      "name": "Divine Spells Prepared",
+      "type": "Prepared",
+      "tradition": "divine",
+      "DC": 21,
+      "attack": 13,
+      "spells": [
+        { "level": 3, "spells": ["chilling darkness", "harm"] },
+        { "level": 2, "spells": ["dispel magic", "heal", "spiritual weapon"] },
+        { "level": 1, "spells": ["alarm", "command", "ray of enfeeblement"] },
+        { "level": 0, "spells": ["divine lance", "forbidding ward", "message", "read aura", "shield"] }
+      ]
+    },
+    {
+      "name": "Rituals",
+      "rituals": ["monstrous bloom"]
+    }
+  ]
 }
 ```
 
@@ -241,9 +264,29 @@ Supports PF2eTools format (`{ "creature": [...] }`) or the custom format below:
 | `abilities.top` | array | No | Abilities shown before defenses |
 | `abilities.mid` | array | No | Abilities shown with defenses (reactions, auras) |
 | `abilities.bot` | array | No | Abilities shown after attacks (special actions) |
-| `spellcasting` | array | No | Spellcasting blocks |
+| `spellcasting` | array | No | Spellcasting blocks (see below) |
 
-Each ability entry: `{ name, activity?: { unit: "action"|"reaction"|"free", number }, traits?, trigger?, frequency?, requirements?, entries: [string] }`
+**Ability entry:** `{ name, activity?, traits?, trigger?, frequency?, requirements?, entries: [string] }`
+- `activity`: `{ unit: "action"|"reaction"|"free", number: 1|2|3 }` — renders as action symbols
+
+**Spellcasting entry:**
+```json
+{
+  "name": "Divine Spells Prepared",
+  "type": "Prepared",
+  "tradition": "divine",
+  "DC": 21,
+  "attack": 13,
+  "spells": [
+    { "level": 3, "spells": ["harm", "heroism"] },
+    { "level": 0, "spells": ["shield", "message"] }
+  ]
+}
+```
+- `type`: "Prepared", "Spontaneous", or "Innate"
+- `tradition`: "divine", "arcane", "occult", or "primal"
+- `spells[].level`: 0 for cantrips, 1-10 for leveled spells
+- `rituals`: optional string array for ritual names
 
 ## Scripts
 
