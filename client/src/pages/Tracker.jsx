@@ -43,9 +43,34 @@ export default function Tracker() {
   const dataLoaded = useUserDataStore(s => s._loaded);
 
   // Load server data into store on first fetch
+  // If server has data → use it (server is source of truth)
+  // If server is empty but local has data → keep local, let sync push it up
   useEffect(() => {
-    if (serverData && !dataLoaded) {
+    if (!serverData || dataLoaded) return;
+
+    const serverHasData = (serverData.characters?.length > 0)
+      || (serverData.customMonsters?.length > 0)
+      || (serverData.encounterPresets?.length > 0);
+
+    if (serverHasData) {
       loadFromServer(serverData);
+    } else {
+      // Server is empty — check if local store has data worth preserving
+      const local = useUserDataStore.getState();
+      const localHasData = (local.characters?.length > 0)
+        || (local.customMonsters?.length > 0)
+        || (local.encounterPresets?.length > 0);
+
+      if (localHasData) {
+        // Keep local data, just mark as loaded so sync hook can push it to server
+        useUserDataStore.setState({
+          _loaded: true,
+          version: serverData.version || 0,
+        });
+      } else {
+        // Both empty — just mark as loaded
+        loadFromServer(serverData);
+      }
     }
   }, [serverData, dataLoaded, loadFromServer]);
 
