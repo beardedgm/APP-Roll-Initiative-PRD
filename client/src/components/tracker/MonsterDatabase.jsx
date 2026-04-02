@@ -179,7 +179,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ gameSystem = '5e',
       <div className="monster-db__custom-actions">
         <button
           className="btn btn--sm btn--primary"
-          onClick={() => openModal('monster-form')}
+          onClick={() => openModal('monster-form', { gameSystem })}
         >
           + Create {isPf2e ? 'Creature' : 'Monster'}
         </button>
