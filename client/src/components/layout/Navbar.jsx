@@ -1,5 +1,5 @@
-import { useState, useEffect, useCallback } from 'react';
-import { Swords } from 'lucide-react';
+import { useState, useEffect, useCallback, useRef } from 'react';
+import { Swords, ChevronDown, User, Settings, LogOut } from 'lucide-react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { useCurrentUser, useLogout } from '../../api/useAuth';
 
@@ -8,6 +8,8 @@ export default function Navbar() {
   const navigate = useNavigate();
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const [profileOpen, setProfileOpen] = useState(false);
+  const profileRef = useRef(null);
   const { data: user } = useCurrentUser();
   const logout = useLogout();
 
@@ -27,12 +29,27 @@ export default function Navbar() {
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
-  const closeMenu = useCallback(() => setMenuOpen(false), []);
+  // Close profile dropdown on click outside
+  useEffect(() => {
+    if (!profileOpen) return;
+    function handleClick(e) {
+      if (profileRef.current && !profileRef.current.contains(e.target)) {
+        setProfileOpen(false);
+      }
+    }
+    document.addEventListener('mousedown', handleClick);
+    return () => document.removeEventListener('mousedown', handleClick);
+  }, [profileOpen]);
+
+  const closeMenu = useCallback(() => { setMenuOpen(false); setProfileOpen(false); }, []);
 
   async function handleLogout() {
+    closeMenu();
     await logout.mutateAsync();
     navigate('/');
   }
+
+  const displayName = user?.displayName || user?.email?.split('@')[0] || 'Account';
 
   return (
     <nav className={`site-nav${scrolled ? ' site-nav--scrolled' : ''}`}>
@@ -83,10 +100,36 @@ export default function Navbar() {
             <li>
               <Link to="/tracker" onClick={closeMenu} className="site-nav__cta">Launch App</Link>
             </li>
-            <li>
-              <button onClick={() => { closeMenu(); handleLogout(); }} className="site-nav__link site-nav__link--logout">
-                Log Out
+            <li className="site-nav__profile-wrapper" ref={profileRef}>
+              <button
+                className="site-nav__profile-toggle"
+                onClick={() => setProfileOpen(o => !o)}
+                aria-expanded={profileOpen}
+              >
+                <User size={14} />
+                {displayName}
+                <ChevronDown size={12} />
               </button>
+              {profileOpen && (
+                <ul className="site-nav__profile-dropdown">
+                  <li>
+                    <Link to="/profile" onClick={closeMenu} className="site-nav__dropdown-link">
+                      <User size={14} /> Profile
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="/settings" onClick={closeMenu} className="site-nav__dropdown-link">
+                      <Settings size={14} /> Settings
+                    </Link>
+                  </li>
+                  <li className="site-nav__dropdown-divider" />
+                  <li>
+                    <button onClick={handleLogout} className="site-nav__dropdown-link site-nav__dropdown-link--danger">
+                      <LogOut size={14} /> Log Out
+                    </button>
+                  </li>
+                </ul>
+              )}
             </li>
           </>
         ) : (
