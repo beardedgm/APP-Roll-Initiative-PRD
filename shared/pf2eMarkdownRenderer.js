@@ -215,25 +215,47 @@ function renderSpellcasting(spellcastingArr) {
     const attackStr = block.attack != null ? `, attack ${fmtMod(block.attack)}` : '';
     lines.push(`**${block.name ?? `${type}${tradition} Spells`}**${dcStr}${attackStr}`);
 
-    // Cantrips
-    if (block.cantrips) {
-      const spells = renderSpellLevel(block.cantrips);
-      if (spells) lines.push(`  Cantrips ${spells}`);
-    }
+    // Handle two spellcasting data formats:
+    // Format A (PF2eTools internal): block.entries = { "3": { spells: [...] }, ... }
+    // Format B (user-friendly array): block.spells = [{ level: 3, spells: [...] }, ...]
 
-    // Leveled spells
-    const entries = block.entries ?? {};
-    for (const [lvl, data] of Object.entries(entries).sort(([a], [b]) => Number(a) - Number(b))) {
-      const lvlSpells = renderSpellLevel(data);
-      if (lvlSpells) lines.push(`  **${ordinal(Number(lvl))} level** ${lvlSpells}`);
-    }
-
-    // Focus spells
-    if (block.focus) {
-      for (const [lvl, data] of Object.entries(block.focus).sort(([a], [b]) => Number(a) - Number(b))) {
-        const lvlSpells = renderSpellLevel(data);
-        if (lvlSpells) lines.push(`  **Focus ${ordinal(Number(lvl))}** ${lvlSpells}`);
+    if (block.spells && Array.isArray(block.spells)) {
+      // Format B: array of { level, spells }
+      const sorted = [...block.spells].sort((a, b) => (b.level ?? 0) - (a.level ?? 0));
+      for (const entry of sorted) {
+        const lvl = entry.level ?? 0;
+        const spellNames = (entry.spells ?? []).map(s => typeof s === 'string' ? stripPf2eTags(s) : stripPf2eTags(s.name ?? '')).join(', ');
+        if (!spellNames) continue;
+        const label = lvl === 0 ? 'Cantrips' : `**${ordinal(lvl)}**`;
+        lines.push(`  ${label} ${spellNames}`);
       }
+    } else {
+      // Format A: PF2eTools internal object keyed by level
+      // Cantrips
+      if (block.cantrips) {
+        const spells = renderSpellLevel(block.cantrips);
+        if (spells) lines.push(`  Cantrips ${spells}`);
+      }
+
+      // Leveled spells
+      const entries = block.entries ?? {};
+      for (const [lvl, data] of Object.entries(entries).sort(([a], [b]) => Number(a) - Number(b))) {
+        const lvlSpells = renderSpellLevel(data);
+        if (lvlSpells) lines.push(`  **${ordinal(Number(lvl))} level** ${lvlSpells}`);
+      }
+
+      // Focus spells
+      if (block.focus) {
+        for (const [lvl, data] of Object.entries(block.focus).sort(([a], [b]) => Number(a) - Number(b))) {
+          const lvlSpells = renderSpellLevel(data);
+          if (lvlSpells) lines.push(`  **Focus ${ordinal(Number(lvl))}** ${lvlSpells}`);
+        }
+      }
+    }
+
+    // Rituals
+    if (block.rituals && Array.isArray(block.rituals)) {
+      lines.push(`  Rituals ${block.rituals.map(r => typeof r === 'string' ? r : r.name ?? '').join(', ')}`);
     }
 
     return lines.join('\n');
