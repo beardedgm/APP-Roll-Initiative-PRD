@@ -1,4 +1,4 @@
-import { useEffect, useCallback, useRef } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import useCombatStore from '../store/useCombatStore';
 import useUIStore from '../store/useUIStore';
 import { useCurrentUser } from '../api/useAuth';
@@ -18,8 +18,16 @@ import MonsterFormModal from '../components/monsters/MonsterFormModal';
 import { migrateLocalStorageToStore } from '../utils/migrateLocalStorage';
 import '../styles/tracker.css';
 
+const DEFAULT_LEFT_WIDTH = 320;
+const MIN_LEFT_WIDTH = 260;
+
 export default function Tracker() {
   const leftPanelRef = useRef(null);
+  const [leftWidth, setLeftWidth] = useState(() => {
+    const saved = localStorage.getItem('tracker-left-width');
+    return saved ? Math.max(MIN_LEFT_WIDTH, parseInt(saved)) : DEFAULT_LEFT_WIDTH;
+  });
+  const isResizing = useRef(false);
   const undo = useCombatStore(s => s.undo);
   const redo = useCombatStore(s => s.redo);
   const addCombatant = useCombatStore(s => s.addCombatant);
@@ -104,10 +112,38 @@ export default function Tracker() {
     leftPanelRef.current?.showStatBlock(slug);
   }, []);
 
+  /** Resize handle drag logic */
+  const handleResizeStart = useCallback((e) => {
+    e.preventDefault();
+    isResizing.current = true;
+    document.body.classList.add('is-resizing');
+
+    const onMouseMove = (moveEvent) => {
+      if (!isResizing.current) return;
+      const maxWidth = Math.floor(window.innerWidth * 0.5);
+      const newWidth = Math.min(maxWidth, Math.max(MIN_LEFT_WIDTH, moveEvent.clientX - 16));
+      setLeftWidth(newWidth);
+    };
+
+    const onMouseUp = () => {
+      isResizing.current = false;
+      document.body.classList.remove('is-resizing');
+      document.removeEventListener('mousemove', onMouseMove);
+      document.removeEventListener('mouseup', onMouseUp);
+      setLeftWidth(w => { localStorage.setItem('tracker-left-width', String(w)); return w; });
+    };
+
+    document.addEventListener('mousemove', onMouseMove);
+    document.addEventListener('mouseup', onMouseUp);
+  }, []);
+
   return (
     <>
       <TrackerHeader />
-      <main className="dm-main dm-main--3col">
+      <main
+        className="dm-main dm-main--3col"
+        style={{ gridTemplateColumns: `${leftWidth}px 6px 1fr 300px` }}
+      >
         <section className="dm-col dm-col--left">
           <LeftPanel
             ref={leftPanelRef}
@@ -115,6 +151,14 @@ export default function Tracker() {
             onAddToEncounter={handleAddMonster}
           />
         </section>
+
+        <div
+          className="resize-handle"
+          onMouseDown={handleResizeStart}
+          role="separator"
+          aria-orientation="vertical"
+          aria-label="Resize left panel"
+        />
 
         <section className="dm-col dm-col--center">
           <TurnControls />
