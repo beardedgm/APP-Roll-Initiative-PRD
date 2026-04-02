@@ -50,8 +50,8 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
       onDrop={onDrop}
       onDragEnd={onDragEnd}
     >
-      {/* Single header row: init, name, badges, HP text, controls, remove */}
       <div className="combatant-card__row">
+        {/* Left: identity */}
         <span className="drag-handle" title="Drag to reorder" role="img" aria-label="Drag to reorder"><GripVertical size={14} /></span>
         <span className={`combatant-card__initiative${isPreCombat ? ' combatant-card__initiative--dim' : ''}`}>{initDisplay}</span>
         {isActive && <span className="combatant-card__active-arrow" aria-hidden="true"><ChevronRight size={12} /></span>}
@@ -67,29 +67,33 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
           {type === 'npc' ? 'NPC' : type.charAt(0).toUpperCase() + type.slice(1)}
         </span>
         <span className="ac-badge" title="Armor Class">AC {ac}</span>
-        <span className="hp-text">{isDead ? '\u2620 ' : ''}{hp.current}/{hp.max}</span>
-        <input
-          ref={inputRef}
-          type="number"
-          className={`hp-input${inputError ? ' input-error' : ''}`}
-          placeholder="10"
-          min={1}
-          max={9999}
-          value={hpInput}
-          onChange={e => setHpInput(e.target.value)}
-          onKeyDown={handleKeyDown}
-          title="Enter amount, then press Enter or click Dmg/Heal. Shift+Enter for opposite action."
-        />
-        <button className="btn btn--dmg" onClick={() => handleAction('damage')}>Dmg</button>
-        <button className="btn btn--heal" onClick={() => handleAction('heal')}>Heal</button>
-        <button
-          className="btn btn--remove"
-          onClick={() => removeCombatant(id)}
-          title={`Remove ${name}`}
-          aria-label={`Remove ${name}`}
-        >
-          <X size={14} />
-        </button>
+
+        {/* Right: HP + controls */}
+        <div className="combatant-card__right">
+          <span className="hp-text">{isDead ? '\u2620 ' : ''}{hp.current}/{hp.max}</span>
+          <input
+            ref={inputRef}
+            type="number"
+            className={`hp-input${inputError ? ' input-error' : ''}`}
+            placeholder="10"
+            min={1}
+            max={9999}
+            value={hpInput}
+            onChange={e => setHpInput(e.target.value)}
+            onKeyDown={handleKeyDown}
+            title="Enter amount, then press Enter or click Dmg/Heal. Shift+Enter for opposite action."
+          />
+          <button className="btn btn--dmg" onClick={() => handleAction('damage')}>Dmg</button>
+          <button className="btn btn--heal" onClick={() => handleAction('heal')}>Heal</button>
+          <button
+            className="btn btn--remove"
+            onClick={() => removeCombatant(id)}
+            title={`Remove ${name}`}
+            aria-label={`Remove ${name}`}
+          >
+            <X size={14} />
+          </button>
+        </div>
       </div>
 
       {/* Full-width HP bar */}

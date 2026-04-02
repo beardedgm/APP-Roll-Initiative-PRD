@@ -412,13 +412,21 @@ body.is-resizing .resize-handle::after {
   box-shadow: 0 0 20px rgba(201,162,103,0.12), inset 0 0 30px rgba(201,162,103,0.03);
 }
 
-/* Single-row layout: wraps to second row when space is tight */
+/* Single-row layout: left (identity) + right (HP controls) */
 .combatant-card__row {
   display: flex;
   align-items: center;
   gap: var(--space-xs);
   flex-wrap: wrap;
   margin-bottom: 3px;
+}
+
+.combatant-card__right {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  margin-left: auto;
+  flex-shrink: 0;
 }
 
 .combatant-card__initiative {
@@ -505,7 +513,6 @@ body.is-resizing .resize-handle::after {
   border-radius: var(--radius-sm);
   flex-shrink: 0;
   opacity: 0;
-  margin-left: auto;
   transition: opacity var(--transition), background-color var(--transition-fast);
 }
 .combatant-card:hover .btn--remove { opacity: 1; }
