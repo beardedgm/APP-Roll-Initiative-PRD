@@ -220,6 +220,18 @@ Express serves `client/dist` as static files in production. There is no separate
 
 ---
 
+## Workflow Rules
+
+These are mandatory for every code change. No exceptions.
+
+1. **Never push directly to `main`.** Always create a feature branch, push it, and open a PR.
+2. **Run lint before every PR.** Server: `cd server && npx eslint .` Client: `cd client && npx vite build`. Both must pass with zero errors.
+3. **One PR per logical change.** Group related commits into a single PR with a clear title and description.
+4. **Re-seed after markdown changes.** If any `Monsters/` markdown files or `shared/pf2eMarkdownRenderer.js` change, re-run the converter (if PF2e) and `npm run seed:monsters` against the production database.
+5. **Branch naming:** `feat/`, `fix/`, `style/`, `docs/` prefixes matching the change type.
+
+---
+
 ## Security Rules
 
 These are non-negotiable. Do not deviate from them.
