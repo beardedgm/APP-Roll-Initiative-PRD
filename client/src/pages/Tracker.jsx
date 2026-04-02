@@ -26,6 +26,7 @@ export default function Tracker() {
   const rollDice = useCombatStore(s => s.rollDice);
   const combatState = useCombatStore(s => s.state);
   const combatants = useCombatStore(s => s.combatants);
+  const nextTurn = useCombatStore(s => s.nextTurn);
   const openModal = useUIStore(s => s.openModal);
 
   const { data: user } = useCurrentUser();
@@ -61,11 +62,20 @@ export default function Tracker() {
         e.preventDefault();
         redo();
       }
+      // Spacebar → Next Turn (only during combat, only when no input is focused)
+      if (e.key === ' ' && combatState === 'combat') {
+        const tag = document.activeElement?.tagName?.toLowerCase();
+        const isEditable = tag === 'input' || tag === 'textarea' || tag === 'select' || document.activeElement?.isContentEditable;
+        if (!isEditable) {
+          e.preventDefault();
+          nextTurn();
+        }
+      }
     }
 
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
-  }, [undo, redo]);
+  }, [undo, redo, combatState, nextTurn]);
 
   const handleAddMonster = useCallback((monsterData) => {
     addCombatant({

@@ -331,6 +331,16 @@
   text-overflow: ellipsis;
 }
 
+.kbd-hint {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 0.6rem;
+  color: var(--color-text-muted);
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  margin-top: 2px;
+}
+
 /* ── Combatant Cards ─────────────────────────────────────────── */
 .empty-message {
   color: var(--color-text-secondary);
