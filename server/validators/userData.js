@@ -47,6 +47,7 @@ const customMonsterSchema = z.object({
   isCustom: z.boolean().optional().default(true),
   sourceKey: z.string().max(50).optional().default('custom'),
   source: z.string().max(50).optional().default('Custom'),
+  gameSystem: z.enum(['5e', 'pf2e']).optional().default('5e'),
   size: z.string().max(50).optional(),
   type: z.string().max(100).optional(),
   alignment: z.string().max(100).optional(),
