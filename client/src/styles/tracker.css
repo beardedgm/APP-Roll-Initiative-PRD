@@ -1237,7 +1237,20 @@ body.is-resizing .resize-handle::after {
 }
 
 .stat-block-content p {
-  margin: var(--space-xs) 0;
+  margin: 0.6em 0;
+}
+
+/* Paragraphs starting with bold text (stat entries, abilities, actions) get a subtle indent */
+.stat-block-content p > strong:first-child {
+  color: var(--color-accent-gold);
+}
+
+/* Horizontal rules act as section dividers */
+.stat-block-content hr {
+  border: none;
+  border-top: 2px solid;
+  border-image: linear-gradient(to right, var(--color-accent-gold), transparent) 1;
+  margin: var(--space-md) 0;
 }
 
 .stat-block-content em {
