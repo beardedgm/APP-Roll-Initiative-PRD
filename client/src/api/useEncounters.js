@@ -1,13 +1,14 @@
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import api from './axiosInstance';
 
-export function useEncounters() {
+export function useEncounters(options = {}) {
   return useQuery({
     queryKey: ['encounters'],
     queryFn: async () => {
       const { data } = await api.get('/encounters');
       return data.encounters;
     },
+    enabled: options.enabled !== false,
   });
 }
 
