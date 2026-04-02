@@ -5,6 +5,7 @@ import { useCurrentUser } from '../api/useAuth';
 import { useUserData } from '../api/useUserData';
 import useUserDataStore from '../store/useUserDataStore';
 import useUserDataSync from '../hooks/useUserDataSync';
+import useEncounterCloudSetup from '../hooks/useEncounterCloudSetup';
 import TrackerHeader from '../components/tracker/TrackerHeader';
 import TurnControls from '../components/tracker/TurnControls';
 import InitiativeList from '../components/tracker/InitiativeList';
@@ -57,6 +58,9 @@ export default function Tracker() {
 
   // Enable auto-sync when authenticated
   useUserDataSync(isAuthenticated);
+
+  // Wire up live encounter cloud sync for subscribers
+  useEncounterCloudSetup(user);
 
   useEffect(() => {
     function handleKeyDown(e) {
