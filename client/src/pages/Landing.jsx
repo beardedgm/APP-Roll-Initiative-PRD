@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { Swords, Monitor, Heart, Dices, BookOpen, Check } from 'lucide-react';
 import useScrollReveal from '../hooks/useScrollReveal';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
@@ -28,14 +29,15 @@ export default function Landing() {
           <span className="hero__mote hero__mote--hex hero__mote--lg hero__mote--gold" style={{ top: '50%', left: '50%', animationDelay: '-40s' }} />
         </div>
         <div className="hero__content">
-          <span className="hero__eyebrow reveal">D&amp;D 5e Combat Manager</span>
+          <span className="hero__eyebrow reveal">D&amp;D 5e &amp; Pathfinder 2e Initiative Tracker</span>
           <h1 className="hero__title reveal">
             Command the<br /><span className="hero__title-accent">Battlefield</span>
           </h1>
           <p className="hero__subtitle reveal">
-            A refined initiative tracker that keeps combat fast, organized, and
-            immersive. Manage HP, roll dice, and share the turn order with your
-            players in real time.
+            The D&amp;D encounter tracker built for speed. Manage initiative, HP,
+            and dice rolls with 5,700+ pre-loaded creatures from official SRDs.
+            Works as a Pathfinder 2e encounter tracker too &mdash; share the turn
+            order with your players in real time, no login required.
           </p>
           <div className="hero__actions reveal">
             <Link to="/tracker" className="btn btn--lg btn--primary">Launch App</Link>
@@ -50,14 +52,14 @@ export default function Landing() {
           <div className="section__eyebrow reveal">Core Features</div>
           <h2 className="section__title reveal">Everything You Need at the Table</h2>
           <p className="section__subtitle reveal">
-            Built by a DM, for DMs. No accounts, no installs, no bloat &mdash;
-            just fast, focused combat management.
+            Built by a DM, for DMs. A fast, focused D&amp;D initiative tracker
+            with full Pathfinder 2e support &mdash; no accounts, no installs, no bloat.
           </p>
         </div>
 
-        <div className="features-grid reveal-stagger">
+        <div className="features-grid features-grid--four reveal-stagger">
           <div className="feature-card feature-card--blue reveal">
-            <div className="feature-card__icon">&#128250;</div>
+            <div className="feature-card__icon"><Monitor size={28} /></div>
             <h3 className="feature-card__title">Real-Time Player Display</h3>
             <p className="feature-card__desc">
               Open the player view on a TV or second monitor. Initiative order,
@@ -66,20 +68,31 @@ export default function Landing() {
           </div>
 
           <div className="feature-card reveal">
-            <div className="feature-card__icon">&#9829;</div>
+            <div className="feature-card__icon"><Heart size={28} /></div>
             <h3 className="feature-card__title">HP &amp; Status Tracking</h3>
             <p className="feature-card__desc">
-              Track hit points with visual health bars. Apply damage, heal, and
-              set status conditions. Players see who&rsquo;s hurt, bloody, or down.
+              Track hit points with color-coded health indicators. Apply damage,
+              heal, and watch status badges update in real time on both DM and
+              player views.
             </p>
           </div>
 
           <div className="feature-card feature-card--red reveal">
-            <div className="feature-card__icon">&#127922;</div>
+            <div className="feature-card__icon"><Dices size={28} /></div>
             <h3 className="feature-card__title">Built-In Dice Roller</h3>
             <p className="feature-card__desc">
               Roll any die from d4 to d100 with advantage, disadvantage, and
               modifiers. Full roll history keeps everything transparent.
+            </p>
+          </div>
+
+          <div className="feature-card feature-card--green reveal">
+            <div className="feature-card__icon"><BookOpen size={28} /></div>
+            <h3 className="feature-card__title">5,700+ Monsters</h3>
+            <p className="feature-card__desc">
+              Search and browse creatures from D&amp;D 5e and Pathfinder 2e SRDs.
+              Full stat blocks with clickable dice notation &mdash; or create your
+              own custom monsters.
             </p>
           </div>
         </div>
@@ -98,19 +111,23 @@ export default function Landing() {
             </p>
             <ul className="showcase__list">
               <li>
-                <span className="showcase__list-icon">&#10003;</span>
+                <span className="showcase__list-icon"><Check size={16} /></span>
                 Drag-and-drop initiative reordering
               </li>
               <li>
-                <span className="showcase__list-icon">&#10003;</span>
+                <span className="showcase__list-icon"><Check size={16} /></span>
                 One-click damage, healing, and status changes
               </li>
               <li>
-                <span className="showcase__list-icon">&#10003;</span>
+                <span className="showcase__list-icon"><Check size={16} /></span>
+                5,700+ searchable monsters with full stat blocks
+              </li>
+              <li>
+                <span className="showcase__list-icon"><Check size={16} /></span>
                 Save and load encounters for recurring sessions
               </li>
               <li>
-                <span className="showcase__list-icon">&#10003;</span>
+                <span className="showcase__list-icon"><Check size={16} /></span>
                 Full undo/redo with keyboard shortcuts
               </li>
             </ul>
@@ -149,8 +166,8 @@ export default function Landing() {
       <section className="cta-banner section--bordered">
         <h2 className="cta-banner__title reveal">Ready to Roll Initiative?</h2>
         <p className="cta-banner__subtitle reveal">
-          No sign-up. No download. Open the app and start your encounter in
-          seconds.
+          Whether you run D&amp;D 5e or Pathfinder 2e, your next encounter is
+          seconds away. No sign-up, no download &mdash; just open and play.
         </p>
         <Link to="/tracker" className="btn btn--lg btn--primary reveal">Launch App</Link>
       </section>
