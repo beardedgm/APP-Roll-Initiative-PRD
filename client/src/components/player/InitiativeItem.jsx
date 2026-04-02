@@ -1,6 +1,30 @@
-function getStatusBadge(type, hp, status) {
-  if (type === 'player') return null;
+import { Shield, Skull, User, ChevronRight } from 'lucide-react';
 
+const typeIcons = {
+  player:  <Shield size={18} className="initiative-item__type-icon initiative-item__type-icon--player" />,
+  monster: <Skull size={18} className="initiative-item__type-icon initiative-item__type-icon--monster" />,
+  npc:     <User size={18} className="initiative-item__type-icon initiative-item__type-icon--npc" />,
+};
+
+function getStatusBadge(combatant) {
+  if (combatant.type === 'player') return null;
+
+  // Shared view provides healthStatus string (no raw HP)
+  if (combatant.healthStatus) {
+    if (combatant.healthStatus === 'unconscious') {
+      return <span className="status-badge status-badge--unconscious">Unconscious</span>;
+    }
+    if (combatant.healthStatus === 'bloody') {
+      return <span className="status-badge status-badge--bloody">Bloody</span>;
+    }
+    if (combatant.healthStatus === 'hurt') {
+      return <span className="status-badge status-badge--hurt">Hurt</span>;
+    }
+    return null;
+  }
+
+  // Local view has full HP data
+  const { hp, status } = combatant;
   if (status === 'unconscious' || hp.current <= 0) {
     return <span className="status-badge status-badge--unconscious">Unconscious</span>;
   }
@@ -17,14 +41,15 @@ function getStatusBadge(type, hp, status) {
 
 export default function InitiativeItem({ combatant, isActive }) {
   const { name, initiative, type, hp, status } = combatant;
-  const isUnconscious = status === 'unconscious' || hp.current <= 0;
+  const isUnconscious = status === 'unconscious' || (hp && hp.current <= 0) || combatant.healthStatus === 'unconscious';
   const initDisplay = Number.isInteger(initiative) ? initiative : initiative.toFixed(1);
-  const badge = getStatusBadge(type, hp, status);
+  const badge = getStatusBadge(combatant);
 
   return (
     <li className={`initiative-item type-border-${type}${isActive ? ' initiative-item--active' : ''}`}>
       <div className="initiative-item__left">
-        {isActive && <span className="initiative-item__arrow">&#9654;</span>}
+        {isActive && <span className="initiative-item__arrow"><ChevronRight /></span>}
+        {typeIcons[type] || null}
         <span className={`initiative-item__name${isUnconscious ? ' initiative-item__name--unconscious' : ''}`}>
           {name}
         </span>

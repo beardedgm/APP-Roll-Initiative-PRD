@@ -370,4 +370,34 @@ const useCombatStore = create(
   )
 );
 
+// ── Cross-Tab Sync via BroadcastChannel ──────────────────────
+// Keeps the /play player view tab in sync with the /tracker tab
+if (typeof BroadcastChannel !== 'undefined') {
+  const channel = new BroadcastChannel('combat-store');
+  let isBroadcasting = false;
+
+  // Broadcast local changes to other tabs
+  useCombatStore.subscribe((state) => {
+    if (isBroadcasting) return;
+    channel.postMessage({
+      id: state.id,
+      name: state.name,
+      state: state.state,
+      currentRound: state.currentRound,
+      activeCreatureId: state.activeCreatureId,
+      combatants: state.combatants,
+      diceHistory: state.diceHistory,
+      cloudId: state.cloudId,
+      shareCode: state.shareCode,
+    });
+  });
+
+  // Receive changes from other tabs
+  channel.onmessage = (event) => {
+    isBroadcasting = true;
+    useCombatStore.setState(event.data);
+    isBroadcasting = false;
+  };
+}
+
 export default useCombatStore;
