@@ -5,6 +5,7 @@ const MonsterSchema = new mongoose.Schema({
   slug:       { type: String, required: true, unique: true },
   source:     { type: String, required: true },
   sourceKey:  { type: String, required: true },
+  gameSystem: { type: String, enum: ['5e', 'pf2e'], default: '5e', index: true },
   cr:         { type: String },
   crNumeric:  { type: Number },
   hp:         { type: Number },
@@ -34,6 +35,7 @@ MonsterSchema.index({ crNumeric: 1 });
 MonsterSchema.index({ sourceKey: 1 });
 MonsterSchema.index({ name: 1 });
 MonsterSchema.index({ isCustom: 1, createdBy: 1 });
+MonsterSchema.index({ gameSystem: 1, sourceKey: 1 });
 
 const Monster = mongoose.model('Monster', MonsterSchema);
 
