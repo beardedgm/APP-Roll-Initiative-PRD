@@ -512,10 +512,8 @@ body.is-resizing .resize-handle::after {
   padding: 2px 4px;
   border-radius: var(--radius-sm);
   flex-shrink: 0;
-  opacity: 0;
-  transition: opacity var(--transition), background-color var(--transition-fast);
+  transition: background-color var(--transition-fast);
 }
-.combatant-card:hover .btn--remove { opacity: 1; }
 .btn--remove:hover { background: var(--color-accent-red); color: var(--color-text-primary); }
 
 /* ── HP Bar ──────────────────────────────────────────────────── */
