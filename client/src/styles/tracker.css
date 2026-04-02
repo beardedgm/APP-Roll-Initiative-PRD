@@ -2387,3 +2387,94 @@ body.is-resizing .resize-handle::after {
 .show-rolls-toggle__switch--on .show-rolls-toggle__knob {
   left: 18px;
 }
+
+/* ── Profile Panel ───────────────────────────────────────── */
+.profile-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 900;
+}
+.profile-panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 340px;
+  max-width: 90vw;
+  height: 100vh;
+  background: var(--color-bg-mid);
+  border-left: 1px solid var(--color-border-light);
+  z-index: 901;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 4px;
+  overflow-y: auto;
+  animation: profile-slide-in 200ms ease-out;
+  font-family: var(--font-app);
+}
+@keyframes profile-slide-in {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+.profile-panel__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+.profile-panel__header h2 {
+  font-family: var(--font-app);
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--color-text-primary);
+}
+.profile-panel__section {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--color-border);
+}
+.profile-panel__label {
+  display: block;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--color-text-secondary);
+  margin-bottom: 6px;
+}
+.profile-panel__value {
+  color: var(--color-text-primary);
+  font-size: 14px;
+}
+.profile-panel__edit-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.profile-panel__input {
+  background: var(--color-bg-input);
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-sm);
+  padding: 6px 10px;
+  color: var(--color-text-primary);
+  font-size: 14px;
+  font-family: var(--font-app);
+  width: 100%;
+}
+.profile-panel__pw-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.profile-panel__msg {
+  font-size: 12px;
+}
+.profile-panel__msg--success {
+  color: var(--color-accent-green);
+}
+.profile-panel__msg--error {
+  color: var(--color-accent-red);
+}
+.profile-panel__footer {
+  margin-top: auto;
+  padding-top: 16px;
+}

@@ -1,9 +1,16 @@
-import { Swords, Undo2, Redo2, Monitor, Trash2 } from 'lucide-react';
+import { useState } from 'react';
+import { Swords, Undo2, Redo2, Monitor, Trash2, User } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 import { useShallow } from 'zustand/react/shallow';
+import { useCurrentUser } from '../../api/useAuth';
 import SyncIndicator from './SyncIndicator';
+import ProfilePanel from './ProfilePanel';
 
 export default function TrackerHeader() {
+  const [profileOpen, setProfileOpen] = useState(false);
+  const { data: user } = useCurrentUser();
+  const displayName = user?.displayName || user?.email?.split('@')[0] || 'Account';
+
   const {
     undoLen, redoLen,
     undo, redo, resetEncounter,
@@ -25,6 +32,7 @@ export default function TrackerHeader() {
   }
 
   return (
+    <>
     <header className="dm-header">
       <div className="dm-header__left">
         <h1><Swords size={18} /> Initiative Tracker</h1>
@@ -48,7 +56,18 @@ export default function TrackerHeader() {
         <button className="btn btn--danger" onClick={handleReset} title="Reset the entire encounter">
           <Trash2 size={16} /> Reset
         </button>
+
+        {user && (
+          <>
+            <span className="header-divider" />
+            <button className="btn btn--icon" onClick={() => setProfileOpen(true)} title="Profile">
+              <User size={16} /> {displayName}
+            </button>
+          </>
+        )}
       </div>
     </header>
+    {user && <ProfilePanel open={profileOpen} onClose={() => setProfileOpen(false)} />}
+  </>
   );
 }
