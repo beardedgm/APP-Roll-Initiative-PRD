@@ -396,8 +396,8 @@ body.is-resizing .resize-handle::after {
   background: var(--color-bg-card);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
-  padding: 8px var(--space-sm);
-  margin-bottom: 4px;
+  padding: 5px var(--space-sm);
+  margin-bottom: 3px;
   transition: background-color var(--transition), box-shadow var(--transition);
   cursor: default;
 }
@@ -412,28 +412,22 @@ body.is-resizing .resize-handle::after {
   box-shadow: 0 0 20px rgba(201,162,103,0.12), inset 0 0 30px rgba(201,162,103,0.03);
 }
 
-.combatant-card__header {
+/* Single-row layout: wraps to second row when space is tight */
+.combatant-card__row {
   display: flex;
   align-items: center;
   gap: var(--space-xs);
-  margin-bottom: 4px;
-}
-
-.combatant-card__left {
-  display: flex;
-  align-items: center;
-  gap: var(--space-sm);
-  min-width: 0;
-  flex: 1;
+  flex-wrap: wrap;
+  margin-bottom: 3px;
 }
 
 .combatant-card__initiative {
   font-family: var(--font-heading);
-  font-size: 1.05rem;
+  font-size: 0.9rem;
   font-weight: 700;
   color: var(--color-accent-gold);
-  min-width: 32px;
-  height: 32px;
+  min-width: 26px;
+  height: 26px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -463,21 +457,15 @@ body.is-resizing .resize-handle::after {
   line-height: 1;
 }
 
-.combatant-card__info {
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-  min-width: 0;
-}
-
 .combatant-card__name {
   font-family: var(--font-heading);
-  font-size: 0.88rem;
+  font-size: 0.84rem;
   font-weight: 600;
   color: var(--color-text-primary);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  min-width: 0;
 }
 .combatant-card__name--dead {
   text-decoration: line-through;
@@ -491,13 +479,6 @@ body.is-resizing .resize-handle::after {
 }
 .combatant-card__name--link:hover {
   color: var(--color-accent-gold);
-}
-
-.combatant-card__badges {
-  display: flex;
-  gap: var(--space-xs);
-  flex-wrap: wrap;
-  align-items: center;
 }
 
 .ac-badge {
@@ -518,26 +499,19 @@ body.is-resizing .resize-handle::after {
 .btn--remove {
   background: transparent;
   color: var(--color-text-muted);
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 1;
-  padding: 2px 6px;
+  padding: 2px 4px;
   border-radius: var(--radius-sm);
   flex-shrink: 0;
   opacity: 0;
+  margin-left: auto;
   transition: opacity var(--transition), background-color var(--transition-fast);
 }
 .combatant-card:hover .btn--remove { opacity: 1; }
 .btn--remove:hover { background: var(--color-accent-red); color: var(--color-text-primary); }
 
 /* ── HP Bar ──────────────────────────────────────────────────── */
-.combatant-card__hp-controls {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: var(--space-xs);
-  margin-top: 2px;
-}
-
 .hp-track {
   width: 100%;
   height: 6px;
@@ -581,10 +555,11 @@ body.is-resizing .resize-handle::after {
 }
 
 .hp-input {
-  width: 48px;
-  padding: 3px 4px;
-  font-size: 0.8rem;
+  width: 40px;
+  padding: 2px 3px;
+  font-size: 0.75rem;
   text-align: center;
+  flex-shrink: 0;
 }
 
 .hp-input.input-error {
@@ -601,20 +576,22 @@ body.is-resizing .resize-handle::after {
 .btn--dmg {
   background: var(--color-accent-red);
   color: var(--color-text-primary);
-  font-size: 0.78rem;
+  font-size: 0.68rem;
   font-weight: 700;
   letter-spacing: 0.03em;
-  padding: 4px 9px;
+  padding: 2px 6px;
+  flex-shrink: 0;
 }
 .btn--dmg:hover { background: var(--color-accent-red-hover); }
 
 .btn--heal {
   background: var(--color-accent-green);
   color: var(--color-text-primary);
-  font-size: 0.78rem;
+  font-size: 0.68rem;
   font-weight: 700;
   letter-spacing: 0.03em;
-  padding: 4px 9px;
+  padding: 2px 6px;
+  flex-shrink: 0;
 }
 .btn--heal:hover { background: var(--color-accent-green-hover); }
 

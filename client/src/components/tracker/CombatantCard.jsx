@@ -50,28 +50,38 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
       onDrop={onDrop}
       onDragEnd={onDragEnd}
     >
-      <div className="combatant-card__header">
+      {/* Single header row: init, name, badges, HP text, controls, remove */}
+      <div className="combatant-card__row">
         <span className="drag-handle" title="Drag to reorder" role="img" aria-label="Drag to reorder"><GripVertical size={14} /></span>
-        <div className="combatant-card__left">
-          <span className={`combatant-card__initiative${isPreCombat ? ' combatant-card__initiative--dim' : ''}`}>{initDisplay}</span>
-          {isActive && <span className="combatant-card__active-arrow" aria-hidden="true"><ChevronRight size={12} /></span>}
-          <div className="combatant-card__info">
-            <span
-              className={`combatant-card__name${isDead ? ' combatant-card__name--dead' : ''}${monsterSlug ? ' combatant-card__name--link' : ''}`}
-              onClick={monsterSlug ? (e) => { e.stopPropagation(); onViewStatBlock?.(monsterSlug); } : undefined}
-              role={monsterSlug ? 'button' : undefined}
-              title={monsterSlug ? 'View stat block' : undefined}
-            >
-              {name}
-            </span>
-            <div className="combatant-card__badges">
-              <span className={`type-badge ${type}`}>
-                {type === 'npc' ? 'NPC' : type.charAt(0).toUpperCase() + type.slice(1)}
-              </span>
-              <span className="ac-badge" title="Armor Class">AC {ac}</span>
-            </div>
-          </div>
-        </div>
+        <span className={`combatant-card__initiative${isPreCombat ? ' combatant-card__initiative--dim' : ''}`}>{initDisplay}</span>
+        {isActive && <span className="combatant-card__active-arrow" aria-hidden="true"><ChevronRight size={12} /></span>}
+        <span
+          className={`combatant-card__name${isDead ? ' combatant-card__name--dead' : ''}${monsterSlug ? ' combatant-card__name--link' : ''}`}
+          onClick={monsterSlug ? (e) => { e.stopPropagation(); onViewStatBlock?.(monsterSlug); } : undefined}
+          role={monsterSlug ? 'button' : undefined}
+          title={monsterSlug ? 'View stat block' : undefined}
+        >
+          {name}
+        </span>
+        <span className={`type-badge ${type}`}>
+          {type === 'npc' ? 'NPC' : type.charAt(0).toUpperCase() + type.slice(1)}
+        </span>
+        <span className="ac-badge" title="Armor Class">AC {ac}</span>
+        <span className="hp-text">{isDead ? '\u2620 ' : ''}{hp.current}/{hp.max}</span>
+        <input
+          ref={inputRef}
+          type="number"
+          className={`hp-input${inputError ? ' input-error' : ''}`}
+          placeholder="10"
+          min={1}
+          max={9999}
+          value={hpInput}
+          onChange={e => setHpInput(e.target.value)}
+          onKeyDown={handleKeyDown}
+          title="Enter amount, then press Enter or click Dmg/Heal. Shift+Enter for opposite action."
+        />
+        <button className="btn btn--dmg" onClick={() => handleAction('damage')}>Dmg</button>
+        <button className="btn btn--heal" onClick={() => handleAction('heal')}>Heal</button>
         <button
           className="btn btn--remove"
           onClick={() => removeCombatant(id)}
@@ -82,28 +92,8 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
         </button>
       </div>
 
+      {/* Full-width HP bar */}
       <HPBar current={hp.current} max={hp.max} />
-      <div className="combatant-card__hp-controls">
-        <span className="hp-text">
-          {isDead ? '\u2620 ' : ''}{hp.current}/{hp.max}
-        </span>
-        <div className="hp-inputs">
-          <input
-            ref={inputRef}
-            type="number"
-            className={`hp-input${inputError ? ' input-error' : ''}`}
-            placeholder="10"
-            min={1}
-            max={9999}
-            value={hpInput}
-            onChange={e => setHpInput(e.target.value)}
-            onKeyDown={handleKeyDown}
-            title="Enter amount, then press Enter or click Dmg/Heal. Shift+Enter for opposite action."
-          />
-          <button className="btn btn--dmg" onClick={() => handleAction('damage')}>Dmg</button>
-          <button className="btn btn--heal" onClick={() => handleAction('heal')}>Heal</button>
-        </div>
-      </div>
     </div>
   );
 }
