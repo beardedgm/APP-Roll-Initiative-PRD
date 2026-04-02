@@ -771,6 +771,30 @@ body.is-resizing .resize-handle::after {
 .dice-result__breakdown { font-size: 0.78rem; color: var(--color-text-muted); }
 .dice-mod { color: var(--color-accent-gold); font-weight: 600; }
 
+/* ── Nat 20 / Nat 1 Callouts ── */
+.dice-nat20 .dice-result__total,
+.dice-nat20 .dice-toast__total {
+  color: #30a46c;
+  text-shadow: 0 0 12px rgba(48, 164, 108, 0.5), 0 0 4px rgba(48, 164, 108, 0.3);
+}
+.dice-nat20 .dice-result__breakdown,
+.dice-nat20 .dice-toast__breakdown { color: #30a46c; }
+.dice-nat20.dice-history__entry strong { color: #30a46c; text-shadow: 0 0 8px rgba(48, 164, 108, 0.4); }
+.dice-nat20.dice-history__entry .dice-history__die { color: #30a46c; }
+
+.dice-nat1 .dice-result__total,
+.dice-nat1 .dice-toast__total {
+  color: #e5484d;
+  text-shadow: 0 0 12px rgba(229, 72, 77, 0.5), 0 0 4px rgba(229, 72, 77, 0.3);
+}
+.dice-nat1 .dice-result__breakdown,
+.dice-nat1 .dice-toast__breakdown { color: #e5484d; }
+.dice-nat1.dice-history__entry strong { color: #e5484d; text-shadow: 0 0 8px rgba(229, 72, 77, 0.4); }
+.dice-nat1.dice-history__entry .dice-history__die { color: #e5484d; }
+
+.dice-nat20.dice-toast { border-color: rgba(48, 164, 108, 0.4); }
+.dice-nat1.dice-toast { border-color: rgba(229, 72, 77, 0.4); }
+
 .dice-history__header {
   display: flex;
   align-items: center;

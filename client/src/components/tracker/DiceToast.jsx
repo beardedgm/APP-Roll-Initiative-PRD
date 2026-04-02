@@ -32,6 +32,13 @@ function Breakdown({ entry }) {
   );
 }
 
+function getNatClass(entry) {
+  if (!entry || entry.sides !== 20) return '';
+  if (entry.rolls.some(r => r === 20)) return 'dice-nat20';
+  if (entry.rolls.some(r => r === 1)) return 'dice-nat1';
+  return '';
+}
+
 export default function DiceToast() {
   const diceHistory = useCombatStore(s => s.diceHistory);
   const [dismissedLen, setDismissedLen] = useState(0);
@@ -43,7 +50,7 @@ export default function DiceToast() {
   if (!entry) return null;
 
   return (
-    <div className={`dice-toast${visible ? ' dice-toast--visible' : ''}`} key={`${len}-${entry.total}`}>
+    <div className={`dice-toast${visible ? ' dice-toast--visible' : ''} ${getNatClass(entry)}`} key={`${len}-${entry.total}`}>
       <button className="dice-toast__close" onClick={() => setDismissedLen(len)} title="Dismiss">&#10005;</button>
       <span className="dice-toast__label">{buildLabel(entry)}</span>
       <span className="dice-toast__total">{entry.total}</span>

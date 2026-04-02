@@ -31,6 +31,14 @@ function buildBreakdown(entry) {
   return [...parts, ', ', <span key="mod" className="dice-mod">{modifier}</span>];
 }
 
+/** Detect nat 20 or nat 1 on d20 rolls. Returns CSS class or empty string. */
+function getNatClass(entry) {
+  if (!entry || entry.sides !== 20) return '';
+  if (entry.rolls.some(r => r === 20)) return 'dice-nat20';
+  if (entry.rolls.some(r => r === 1)) return 'dice-nat1';
+  return '';
+}
+
 function RollBreakdown({ entry }) {
   return (
     <span className="dice-result__breakdown">
@@ -121,7 +129,7 @@ export default function DiceRoller() {
         ))}
       </div>
 
-      <div className="dice-result" id="dice-result">
+      <div className={`dice-result ${lastResult ? getNatClass(lastResult) : ''}`} id="dice-result">
         {lastResult ? (
           <>
             <span className="dice-result__label">{buildEntryLabel(lastResult)}</span>
@@ -147,7 +155,7 @@ export default function DiceRoller() {
             diceHistory.map(entry => {
               const label = buildEntryLabel(entry);
               return (
-                <li key={entry.id} className="dice-history__entry">
+                <li key={entry.id} className={`dice-history__entry ${getNatClass(entry)}`}>
                   <span className="dice-history__content">
                     <span className="dice-history__die">{label}</span>
                     {' = '}<strong>{entry.total}</strong>
