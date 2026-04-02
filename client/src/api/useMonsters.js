@@ -4,13 +4,13 @@ import api from './axiosInstance';
 /**
  * Quick search for add-combatant dropdown (min 2 chars).
  */
-export function useMonsterSearch(query, options = {}) {
+export function useMonsterSearch(query, gameSystem = '5e', options = {}) {
   return useQuery({
-    queryKey: ['monsters', 'search', query],
+    queryKey: ['monsters', 'search', query, gameSystem],
     queryFn: async () => {
       if (!query || query.trim().length < 2) return { results: [], total: 0 };
       const { data } = await api.get('/monsters/search', {
-        params: { q: query.trim(), limit: 20 },
+        params: { q: query.trim(), limit: 20, gameSystem },
       });
       return data;
     },
@@ -25,11 +25,11 @@ export function useMonsterSearch(query, options = {}) {
  * Browseable paginated listing with filters.
  */
 export function useMonsterBrowse(filters = {}) {
-  const { q, source, cr, type, limit = 20, skip = 0 } = filters;
+  const { q, source, cr, type, limit = 20, skip = 0, gameSystem = '5e' } = filters;
   return useQuery({
-    queryKey: ['monsters', 'browse', { q, source, cr, type, limit, skip }],
+    queryKey: ['monsters', 'browse', { q, source, cr, type, limit, skip, gameSystem }],
     queryFn: async () => {
-      const params = { limit, skip };
+      const params = { limit, skip, gameSystem };
       if (q && q.trim().length >= 1) params.q = q.trim();
       if (source) params.source = source;
       if (cr !== undefined && cr !== '') params.cr = cr;
@@ -60,11 +60,13 @@ export function useMonster(slug) {
 /**
  * Available source books.
  */
-export function useMonsterSources() {
+export function useMonsterSources(gameSystem = '5e') {
   return useQuery({
-    queryKey: ['monsters', 'sources'],
+    queryKey: ['monsters', 'sources', gameSystem],
     queryFn: async () => {
-      const { data } = await api.get('/monsters/sources');
+      const { data } = await api.get('/monsters/sources', {
+        params: { gameSystem },
+      });
       return data;
     },
     staleTime: 60 * 60 * 1000, // 1 hour
