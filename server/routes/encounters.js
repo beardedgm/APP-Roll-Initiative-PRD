@@ -5,7 +5,6 @@ import requireSubscription from '../middleware/requireSubscription.js';
 import validate from '../middleware/validate.js';
 import { createEncounterSchema, updateEncounterSchema } from '../validators/encounters.js';
 import { rateLimitByIP } from '../middleware/rateLimitGeneral.js';
-import logger from '../config/logger.js';
 import asyncHandler from '../utils/asyncHandler.js';
 
 const router = Router();

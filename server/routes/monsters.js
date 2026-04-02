@@ -1,6 +1,5 @@
 import { Router } from 'express';
 import Monster from '../models/Monster.js';
-import logger from '../config/logger.js';
 import asyncHandler from '../utils/asyncHandler.js';
 
 const router = Router();

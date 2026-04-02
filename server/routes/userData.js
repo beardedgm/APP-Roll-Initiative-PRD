@@ -4,7 +4,6 @@ import requireAuth from '../middleware/requireAuth.js';
 import requireSubscription from '../middleware/requireSubscription.js';
 import validate from '../middleware/validate.js';
 import { updateUserDataSchema } from '../validators/userData.js';
-import logger from '../config/logger.js';
 import asyncHandler from '../utils/asyncHandler.js';
 
 const router = Router();
