@@ -27,6 +27,17 @@ export const createMonsterSchema = z.object({
   initMod: z.number().int().min(-10).max(20).optional(),
   abilities: abilitiesSchema,
   rawMarkdown: z.string().max(50000).optional(),
+  gameSystem: z.enum(['5e', 'pf2e']).optional().default('5e'),
 });
 
 export const updateMonsterSchema = createMonsterSchema.partial();
+
+export const searchMonsterSchema = z.object({
+  q: z.string().max(200).optional(),
+  source: z.string().max(100).optional(),
+  cr: z.string().max(10).optional(),
+  type: z.string().max(100).optional(),
+  limit: z.coerce.number().int().min(1).max(50).optional().default(20),
+  skip: z.coerce.number().int().min(0).optional().default(0),
+  gameSystem: z.enum(['5e', 'pf2e']).optional().default('5e'),
+});
