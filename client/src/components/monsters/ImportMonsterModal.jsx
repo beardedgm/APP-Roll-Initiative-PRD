@@ -37,8 +37,24 @@ export default function ImportMonsterModal() {
     setErrors([]);
     setParsed(null);
     try {
-      const monster = isPf2e ? parsePf2eMonsterJSON(text) : parseMonsterJSON(text);
-      const validationErrors = isPf2e ? validatePf2eMonsterData(monster) : validateMonsterData(monster);
+      // Auto-detect PF2e format by checking for PF2e-specific fields
+      let raw;
+      try { raw = JSON.parse(text); } catch { raw = null; }
+      const looksLikePf2e = raw && (
+        raw.level !== undefined ||
+        raw.abilityMods !== undefined ||
+        raw.defenses !== undefined ||
+        (raw.creature && Array.isArray(raw.creature))
+      );
+
+      // If auto-detected as PF2e, switch the toggle too
+      const usePf2e = isPf2e || looksLikePf2e;
+      if (looksLikePf2e && !isPf2e) {
+        setGameSystem('pf2e');
+      }
+
+      const monster = usePf2e ? parsePf2eMonsterJSON(text) : parseMonsterJSON(text);
+      const validationErrors = usePf2e ? validatePf2eMonsterData(monster) : validateMonsterData(monster);
       if (validationErrors.length > 0) {
         setErrors(validationErrors);
         return;
