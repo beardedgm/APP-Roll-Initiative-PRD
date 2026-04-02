@@ -1,7 +1,13 @@
 import { useState, useRef } from 'react';
 import { GripVertical, ChevronRight, X, Shield, Skull, User } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
-import HPBar from './HPBar';
+function getHpColorClass(current, max) {
+  if (current <= 0) return 'hp-text--dead';
+  const pct = max > 0 ? (current / max) * 100 : 0;
+  if (pct <= 25) return 'hp-text--low';
+  if (pct <= 50) return 'hp-text--mid';
+  return 'hp-text--high';
+}
 
 export default function CombatantCard({ combatant, isActive, onDragStart, onDragOver, onDragLeave, onDrop, onDragEnd, onViewStatBlock }) {
   const { id, name, initiative, type, hp, ac, status, monsterSlug } = combatant;
@@ -70,7 +76,7 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
 
         {/* Right: HP + controls */}
         <div className="combatant-card__right">
-          <span className="hp-text">{isDead ? '\u2620 ' : ''}{hp.current}/{hp.max}</span>
+          <span className={`hp-text ${getHpColorClass(hp.current, hp.max)}`}>{isDead ? '\u2620 ' : ''}{hp.current}/{hp.max}</span>
           <input
             ref={inputRef}
             type="number"
@@ -97,7 +103,6 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
       </div>
 
       {/* Full-width HP bar */}
-      <HPBar current={hp.current} max={hp.max} />
     </div>
   );
 }

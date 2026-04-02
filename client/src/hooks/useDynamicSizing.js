@@ -17,7 +17,7 @@ export default function useDynamicSizing(listRef) {
     const scalableCount = scalableItems.length;
     if (scalableCount === 0) return;
 
-    const GAP = 4;
+    const GAP = 8;
     const totalHeight = list.clientHeight;
     const preparingH = preparingRow ? preparingRow.offsetHeight : 0;
     const totalGaps = GAP * (allItems.length - 1);
