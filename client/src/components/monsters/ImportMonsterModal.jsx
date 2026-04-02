@@ -83,8 +83,10 @@ export default function ImportMonsterModal() {
     }
   }
 
+  const fmtMod = (n) => n >= 0 ? `+${n}` : String(n);
+
   return (
-    <Modal id="import-monster" title="Import Custom Monster">
+    <Modal id="import-monster" title={`Import ${isPf2e ? 'PF2e Creature' : '5e Monster'}`}>
       <div className="import-monster">
         {/* Game system toggle */}
         <div className="import-monster__system-toggle">
@@ -104,46 +106,48 @@ export default function ImportMonsterModal() {
           </button>
         </div>
 
-        {/* Tab selector */}
-        <div className="import-monster__tabs">
-          <button
-            className={`import-monster__tab ${tab === 'paste' ? 'import-monster__tab--active' : ''}`}
-            onClick={() => { setTab('paste'); reset(); }}
-          >
-            Paste JSON
-          </button>
-          <button
-            className={`import-monster__tab ${tab === 'upload' ? 'import-monster__tab--active' : ''}`}
-            onClick={() => { setTab('upload'); reset(); }}
-          >
-            Upload File
-          </button>
-        </div>
-
-        {/* Paste tab */}
-        {tab === 'paste' && (
-          <div className="import-monster__paste">
+        {/* Input method tabs + action buttons */}
+        <div className="import-monster__toolbar">
+          <div className="import-monster__tabs">
+            <button
+              className={`import-monster__tab ${tab === 'paste' ? 'import-monster__tab--active' : ''}`}
+              onClick={() => { setTab('paste'); reset(); }}
+            >
+              Paste JSON
+            </button>
+            <button
+              className={`import-monster__tab ${tab === 'upload' ? 'import-monster__tab--active' : ''}`}
+              onClick={() => { setTab('upload'); reset(); }}
+            >
+              Upload File
+            </button>
+          </div>
+          {tab === 'paste' && (
             <div className="import-monster__actions-row">
               <button className="btn btn--sm" onClick={handleLoadTemplate}>
-                Load Template
+                Template
               </button>
               <button
                 className="btn btn--sm btn--primary"
                 onClick={() => handleParse(jsonText)}
                 disabled={!jsonText.trim()}
               >
-                Parse JSON
+                Parse
               </button>
             </div>
-            <textarea
-              className="import-monster__textarea"
-              placeholder={isPf2e ? 'Paste PF2eTools creature JSON here...' : 'Paste 5e monster JSON here...'}
-              value={jsonText}
-              onChange={e => setJsonText(e.target.value)}
-              rows={12}
-              spellCheck={false}
-            />
-          </div>
+          )}
+        </div>
+
+        {/* Paste tab */}
+        {tab === 'paste' && (
+          <textarea
+            className="import-monster__textarea"
+            placeholder={isPf2e ? 'Paste PF2eTools creature JSON here...' : 'Paste 5e monster JSON here...'}
+            value={jsonText}
+            onChange={e => setJsonText(e.target.value)}
+            rows={12}
+            spellCheck={false}
+          />
         )}
 
         {/* Upload tab */}
@@ -176,46 +180,48 @@ export default function ImportMonsterModal() {
         {/* Preview */}
         {parsed && (
           <div className="import-monster__preview">
-            <h3 className="import-monster__preview-title">Preview</h3>
-            <div className="import-monster__preview-grid">
-              <div><strong>Name:</strong> {parsed.name}</div>
-              <div><strong>Size:</strong> {parsed.size}</div>
-              <div><strong>Type:</strong> {parsed.type}</div>
-              <div><strong>{isPf2e ? 'Level' : 'CR'}:</strong> {parsed.cr}</div>
-              <div><strong>HP:</strong> {parsed.hp}{parsed.hpFormula ? ` (${parsed.hpFormula})` : ''}</div>
-              <div><strong>AC:</strong> {parsed.ac}{parsed.acDesc ? ` (${parsed.acDesc})` : ''}</div>
-              <div><strong>Speed:</strong> {parsed.speed}</div>
-              {parsed.alignment && <div><strong>Alignment:</strong> {parsed.alignment}</div>}
+            <h3 className="import-monster__preview-title">{parsed.name}</h3>
+
+            <div className="import-monster__preview-stats">
+              <span className="import-monster__stat-pill">{isPf2e ? `Level ${parsed.cr}` : `CR ${parsed.cr}`}</span>
+              <span className="import-monster__stat-pill">HP {parsed.hp}</span>
+              <span className="import-monster__stat-pill">AC {parsed.ac}{parsed.acDesc ? ` (${parsed.acDesc})` : ''}</span>
             </div>
+
+            <div className="import-monster__preview-grid">
+              {parsed.size && <div><strong>Size:</strong> {parsed.size}</div>}
+              {parsed.type && <div><strong>Type:</strong> {parsed.type}</div>}
+              {parsed.speed && <div><strong>Speed:</strong> {parsed.speed}</div>}
+              {!isPf2e && parsed.alignment && <div><strong>Alignment:</strong> {parsed.alignment}</div>}
+              {isPf2e && parsed.savingThrows && <div><strong>Saves:</strong> {parsed.savingThrows}</div>}
+              {parsed.skills && <div><strong>Skills:</strong> {parsed.skills}</div>}
+              {parsed.senses && <div><strong>Senses:</strong> {parsed.senses}</div>}
+              {parsed.languages && <div><strong>Languages:</strong> {parsed.languages}</div>}
+            </div>
+
             {parsed.abilities && (
               <div className="import-monster__abilities">
                 {['str', 'dex', 'con', 'int', 'wis', 'cha'].map(stat => (
                   <span key={stat} className="import-monster__ability">
                     <strong>{stat.toUpperCase()}</strong>
-                    <span>{parsed.abilities[stat]} ({Math.floor((parsed.abilities[stat] - 10) / 2) >= 0 ? '+' : ''}{Math.floor((parsed.abilities[stat] - 10) / 2)})</span>
+                    {isPf2e ? (
+                      <span>{fmtMod(parsed.abilities[stat])}</span>
+                    ) : (
+                      <span>{parsed.abilities[stat]} ({fmtMod(Math.floor((parsed.abilities[stat] - 10) / 2))})</span>
+                    )}
                   </span>
                 ))}
               </div>
             )}
-            {parsed.traits?.length > 0 && (
-              <div className="import-monster__section">
-                <strong>Traits:</strong> {parsed.traits.map(t => t.name).join(', ')}
-              </div>
+
+            {parsed.damageImmunities && (
+              <div className="import-monster__section"><strong>Immunities:</strong> {parsed.damageImmunities}</div>
             )}
-            {parsed.actions?.length > 0 && (
-              <div className="import-monster__section">
-                <strong>Actions:</strong> {parsed.actions.map(a => a.name).join(', ')}
-              </div>
+            {parsed.damageResistances && (
+              <div className="import-monster__section"><strong>Resistances:</strong> {parsed.damageResistances}</div>
             )}
-            {parsed.reactions?.length > 0 && (
-              <div className="import-monster__section">
-                <strong>Reactions:</strong> {parsed.reactions.map(r => r.name).join(', ')}
-              </div>
-            )}
-            {parsed.legendaryActions?.length > 0 && (
-              <div className="import-monster__section">
-                <strong>Legendary Actions:</strong> {parsed.legendaryActions.map(l => l.name).join(', ')}
-              </div>
+            {parsed.damageVulnerabilities && (
+              <div className="import-monster__section"><strong>Weaknesses:</strong> {parsed.damageVulnerabilities}</div>
             )}
 
             <button
@@ -223,7 +229,7 @@ export default function ImportMonsterModal() {
               onClick={handleSave}
               disabled={saving}
             >
-              {saving ? 'Saving...' : 'Save to Library'}
+              {saving ? 'Saving...' : `Save to Library`}
             </button>
           </div>
         )}
