@@ -1,7 +1,7 @@
 import { Swords, Undo2, Redo2, Monitor, Trash2 } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 import { useShallow } from 'zustand/react/shallow';
-import useUserDataStore from '../../store/useUserDataStore';
+import SyncIndicator from './SyncIndicator';
 
 export default function TrackerHeader() {
   const {
@@ -14,8 +14,6 @@ export default function TrackerHeader() {
     redo: s.redo,
     resetEncounter: s.resetEncounter,
   })));
-
-  const syncStatus = useUserDataStore(s => s.syncStatus);
 
   function handleReset() {
     if (!window.confirm('Reset encounter? Monsters and NPCs will be removed. Players are kept.')) return;
@@ -40,14 +38,7 @@ export default function TrackerHeader() {
           <Redo2 size={16} /> Redo
         </button>
 
-        {syncStatus !== 'idle' && (
-          <>
-            <span className="header-divider" />
-            <span className={`sync-indicator sync-indicator--${syncStatus}`}>
-              {syncStatus === 'syncing' ? 'Saving...' : syncStatus === 'synced' ? 'Saved' : syncStatus === 'error' ? 'Sync error' : ''}
-            </span>
-          </>
-        )}
+        <SyncIndicator />
 
         <span className="header-divider" />
 

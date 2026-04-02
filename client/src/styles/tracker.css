@@ -2319,3 +2319,24 @@ body.is-resizing .resize-handle::after {
 .sync-indicator--error {
   color: var(--color-accent-red);
 }
+
+/* ── Sync Indicator ──────────────────────────────────────── */
+.sync-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: var(--radius-sm);
+  transition: color var(--transition-fast);
+}
+.sync-icon--synced,
+.sync-icon--idle {
+  color: #4ade80;
+}
+.sync-icon--syncing {
+  color: var(--color-text-secondary);
+}
+.sync-icon--error {
+  color: #f87171;
+}
