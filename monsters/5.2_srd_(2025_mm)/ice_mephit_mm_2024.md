@@ -2,10 +2,10 @@
 
 *Small Elemental, Neutral Evil*
 
-- **Armor Class:** 11
-- **Hit Points:** 21 (6d6)
-- **Speed:** 30 ft., Fly 30 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 11
+**Hit Points:** 21 (6d6)
+**Speed:** 30 ft., Fly 30 ft.
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +16,12 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 12 | +1 | +1 |
 
-- **Vulnerabilities**: Fire
-- **Immunities**: Cold, Poison; Exhaustion, Poisoned
-- **Skills**: Perception +2, Stealth +3
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Primordial (Aquan, Auran)
-- **CR** 1/2 (XP 100; PB +2)
+**Vulnerabilities**: Fire
+**Immunities**: Cold, Poison; Exhaustion, Poisoned
+**Skills**: Perception +2, Stealth +3
+**Senses**: darkvision 60 ft.; Passive Perception 12
+**Languages**: Primordial (Aquan, Auran)
+**CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 
@@ -36,5 +36,5 @@
 
 ***Fog Cloud (1/Day).*** The mephit casts *Fog Cloud*, requiring no spell components and using Charisma as the spellcasting ability.
 
-- **At Will:** 
-- **1/Day Each:** *Fog Cloud*
+**At Will:** 
+**1/Day Each:** *Fog Cloud*

@@ -2,10 +2,10 @@
 
 *Small Dragon, Neutral*
 
-- **Armor Class:** 14
-- **Hit Points:** 7 (3d6 - 3)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 14
+**Hit Points:** 7 (3d6 - 3)
+**Speed:** 30 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 7 | -2 | -2 |
 | CHA | 8 | -1 | -1 |
 
-- **Gear** Dagger x 3
-- **Senses**: darkvision 60 ft.; Passive Perception 8
-- **Languages**: Common, Draconic
-- **CR** 1/8 (XP 25; PB +2)
+**Gear** Dagger x 3
+**Senses**: darkvision 60 ft.; Passive Perception 8
+**Languages**: Common, Draconic
+**CR** 1/8 (XP 25; PB +2)
 
 ## Traits
 

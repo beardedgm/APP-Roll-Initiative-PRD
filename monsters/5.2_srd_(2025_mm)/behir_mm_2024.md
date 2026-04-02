@@ -2,10 +2,10 @@
 
 *Huge Monstrosity, Neutral Evil*
 
-- **Armor Class:** 17
-- **Hit Points:** 168 (16d12 + 64)
-- **Speed:** 50 ft., Climb 50 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 17
+**Hit Points:** 168 (16d12 + 64)
+**Speed:** 50 ft., Climb 50 ft.
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 14 | +2 | +2 |
 | CHA | 12 | +1 | +1 |
 
-- **Immunities**: Lightning
-- **Skills**: Perception +6, Stealth +7
-- **Senses**: darkvision 90 ft.; Passive Perception 16
-- **Languages**: Draconic
-- **CR** 11 (XP 7,200; PB +4)
+**Immunities**: Lightning
+**Skills**: Perception +6, Stealth +7
+**Senses**: darkvision 90 ft.; Passive Perception 16
+**Languages**: Draconic
+**CR** 11 (XP 7,200; PB +4)
 
 ## Actions
 

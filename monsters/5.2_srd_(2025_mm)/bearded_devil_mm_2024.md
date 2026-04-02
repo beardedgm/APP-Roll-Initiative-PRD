@@ -2,10 +2,10 @@
 
 *Medium Fiend (Devil), Lawful Evil*
 
-- **Armor Class:** 13
-- **Hit Points:** 58 (9d8 + 18)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 13
+**Hit Points:** 58 (9d8 + 18)
+**Speed:** 30 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 14 | +2 | +4 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Frightened, Poisoned
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 10
-- **Languages**: Infernal; telepathy 120 ft.
-- **CR** 3 (XP 700; PB +2)
+**Resistances**: Cold
+**Immunities**: Fire, Poison; Frightened, Poisoned
+**Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 10
+**Languages**: Infernal; telepathy 120 ft.
+**CR** 3 (XP 700; PB +2)
 
 ## Traits
 

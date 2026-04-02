@@ -2,10 +2,10 @@
 
 *Large Monstrosity, Unaligned*
 
-- **Armor Class:** 17
-- **Hit Points:** 94 (9d10 + 45)
-- **Speed:** 40 ft., Burrow 40 ft.
-- **Initiative**: +0 (10)
+**Armor Class:** 17
+**Hit Points:** 94 (9d10 + 45)
+**Speed:** 40 ft., Burrow 40 ft.
+**Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +16,9 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Perception +6
-- **Senses**: darkvision 60 ft., tremorsense 120 ft.; Passive Perception 16
-- **CR** 5 (XP 1,800; PB +3)
+**Skills**: Perception +6
+**Senses**: darkvision 60 ft., tremorsense 120 ft.; Passive Perception 16
+**CR** 5 (XP 1,800; PB +3)
 
 ## Actions
 

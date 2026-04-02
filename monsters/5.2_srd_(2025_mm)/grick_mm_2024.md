@@ -2,10 +2,10 @@
 
 *Medium Aberration, Unaligned*
 
-- **Armor Class:** 14
-- **Hit Points:** 54 (12d8)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 14
+**Hit Points:** 54 (12d8)
+**Speed:** 30 ft., Climb 30 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +16,9 @@
 | WIS | 14 | +2 | +2 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **CR** 2 (XP 450; PB +2)
+**Skills**: Stealth +4
+**Senses**: darkvision 60 ft.; Passive Perception 12
+**CR** 2 (XP 450; PB +2)
 
 ## Actions
 

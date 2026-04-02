@@ -2,10 +2,10 @@
 
 *Small Elemental, Neutral Evil*
 
-- **Armor Class:** 12
-- **Hit Points:** 17 (5d6)
-- **Speed:** 30 ft., Fly 30 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 12
+**Hit Points:** 17 (5d6)
+**Speed:** 30 ft., Fly 30 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +16,12 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Vulnerabilities**: Fire
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Skills**: Perception +2, Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Primordial (Auran, Terran)
-- **CR** 1/2 (XP 100; PB +2)
+**Vulnerabilities**: Fire
+**Immunities**: Poison; Exhaustion, Poisoned
+**Skills**: Perception +2, Stealth +4
+**Senses**: darkvision 60 ft.; Passive Perception 12
+**Languages**: Primordial (Auran, Terran)
+**CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 
@@ -36,5 +36,5 @@
 
 ***Sleep (1/Day).*** The mephit casts the *Sleep* spell, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 10).
 
-- **At Will:** 
-- **1/Day Each:** *Sleep*
+**At Will:** 
+**1/Day Each:** *Sleep*

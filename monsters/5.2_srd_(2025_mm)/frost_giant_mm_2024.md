@@ -2,10 +2,10 @@
 
 *Huge Giant, Neutral Evil*
 
-- **Armor Class:** 15
-- **Hit Points:** 149 (13d12 + 65)
-- **Speed:** 40 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 15
+**Hit Points:** 149 (13d12 + 65)
+**Speed:** 40 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 10 | +0 | +3 |
 | CHA | 12 | +1 | +4 |
 
-- **Immunities**: Cold
-- **Skills**: Athletics +9, Perception +3
-- **Senses**: Passive Perception 13
-- **Languages**: Giant
-- **CR** 8 (XP 3,900; PB +3)
+**Immunities**: Cold
+**Skills**: Athletics +9, Perception +3
+**Senses**: Passive Perception 13
+**Languages**: Giant
+**CR** 8 (XP 3,900; PB +3)
 
 ## Actions
 

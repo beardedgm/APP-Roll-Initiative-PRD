@@ -2,10 +2,10 @@
 
 *Medium or Small Humanoid, Neutral*
 
-- **Armor Class:** 12
-- **Hit Points:** 9 (2d8)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 12
+**Hit Points:** 9 (2d8)
+**Speed:** 30 ft.
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 11 | +0 | +2 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Deception +2, Religion +2
-- **Gear** Leather Armor, Sickle
-- **Senses**: Passive Perception 10
-- **Languages**: Common
-- **CR** 1/8 (XP 25; PB +2)
+**Skills**: Deception +2, Religion +2
+**Gear** Leather Armor, Sickle
+**Senses**: Passive Perception 10
+**Languages**: Common
+**CR** 1/8 (XP 25; PB +2)
 
 ## Actions
 

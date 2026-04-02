@@ -2,10 +2,10 @@
 
 *Medium Dragon (Metallic), Chaotic Good*
 
-- **Armor Class:** 16
-- **Hit Points:** 22 (4d8 + 4)
-- **Speed:** 30 ft., Climb 30 ft., Fly 60 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 16
+**Hit Points:** 22 (4d8 + 4)
+**Speed:** 30 ft., Climb 30 ft., Fly 60 ft.
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 11 | +0 | +2 |
 | CHA | 13 | +1 | +1 |
 
-- **Immunities**: Acid
-- **Skills**: Perception +4, Stealth +3
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
-- **CR** 1 (XP 200; PB +2)
+**Immunities**: Acid
+**Skills**: Perception +4, Stealth +3
+**Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+**Languages**: Draconic
+**CR** 1 (XP 200; PB +2)
 
 ## Actions
 

@@ -2,10 +2,10 @@
 
 *Huge Giant, Neutral*
 
-- **Armor Class:** 14
-- **Hit Points:** 200 (16d12 + 96)
-- **Speed:** 40 ft., Fly 20 ft. (hover)
-- **Initiative**: +4 (14)
+**Armor Class:** 14
+**Hit Points:** 200 (16d12 + 96)
+**Speed:** 40 ft., Fly 20 ft. (hover)
+**Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 16 | +3 | +7 |
 | CHA | 16 | +3 | +3 |
 
-- **Skills**: Insight +7, Perception +11
-- **Senses**: Passive Perception 21
-- **Languages**: Common, Giant
-- **CR** 9 (XP 5,000; PB +4)
+**Skills**: Insight +7, Perception +11
+**Senses**: Passive Perception 21
+**Languages**: Common, Giant
+**CR** 9 (XP 5,000; PB +4)
 
 ## Actions
 
@@ -31,8 +31,8 @@
 
 ***Spellcasting.*** The giant casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 15):
 
-- **At Will:** *Detect Magic*, *Fog Cloud*, *Light*
-- **1e/Day Each:** *Control Weather*, *Gaseous Form*, *Telekinesis*
+**At Will:** *Detect Magic*, *Fog Cloud*, *Light*
+**1e/Day Each:** *Control Weather*, *Gaseous Form*, *Telekinesis*
 
 ## Bonus Actions
 

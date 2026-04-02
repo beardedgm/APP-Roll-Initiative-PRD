@@ -2,10 +2,10 @@
 
 *Large Fiend, Chaotic Evil*
 
-- **Armor Class:** 17
-- **Hit Points:** 135 (18d10 + 36)
-- **Speed:** 40 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 17
+**Hit Points:** 135 (18d10 + 36)
+**Speed:** 40 ft.
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 15 | +2 | +5 |
 | CHA | 16 | +3 | +6 |
 
-- **Immunities**: Poison; Charmed, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Abyssal, Common
-- **CR** 8 (XP 3,900; PB +3)
+**Immunities**: Poison; Charmed, Poisoned
+**Senses**: darkvision 60 ft.; Passive Perception 12
+**Languages**: Abyssal, Common
+**CR** 8 (XP 3,900; PB +3)
 
 ## Traits
 
@@ -36,5 +36,5 @@
 
 ***Spellcasting.*** The naga casts one of the following spells, requiring no Somatic or Material components and using Intelligence as the spellcasting ability (spell save DC 14):
 
-- **At Will:** *Detect Magic*, *Mage Hand*, *Minor Illusion*, *Water Breathing*
-- **2e/Day Each:** *Detect Thoughts*, *Dimension Door*, *Hold Person*, *Lightning Bolt*
+**At Will:** *Detect Magic*, *Mage Hand*, *Minor Illusion*, *Water Breathing*
+**2e/Day Each:** *Detect Thoughts*, *Dimension Door*, *Hold Person*, *Lightning Bolt*

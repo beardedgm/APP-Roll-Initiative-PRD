@@ -2,10 +2,10 @@
 
 *Medium or Small Humanoid, Neutral*
 
-- **Armor Class:** 15
-- **Hit Points:** 52 (8d8 + 16)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 15
+**Hit Points:** 52 (8d8 + 16)
+**Speed:** 30 ft.
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 11 | +0 | +2 |
 | CHA | 14 | +2 | +2 |
 
-- **Skills**: Athletics +4, Deception +4
-- **Gear** Pistol, Scimitar, Studded Leather Armor
-- **Senses**: Passive Perception 10
-- **Languages**: Common, Thieves' cant
-- **CR** 2 (XP 450; PB +2)
+**Skills**: Athletics +4, Deception +4
+**Gear** Pistol, Scimitar, Studded Leather Armor
+**Senses**: Passive Perception 10
+**Languages**: Common, Thieves' cant
+**CR** 2 (XP 450; PB +2)
 
 ## Actions
 

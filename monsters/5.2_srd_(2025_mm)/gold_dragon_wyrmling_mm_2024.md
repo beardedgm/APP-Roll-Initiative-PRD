@@ -2,10 +2,10 @@
 
 *Medium Dragon (Metallic), Lawful Good*
 
-- **Armor Class:** 17
-- **Hit Points:** 60 (8d8 + 24)
-- **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
-- **Initiative**: +4 (14)
+**Armor Class:** 17
+**Hit Points:** 60 (8d8 + 24)
+**Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
+**Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 11 | +0 | +2 |
 | CHA | 16 | +3 | +3 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +4, Stealth +4
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
-- **CR** 3 (XP 700; PB +2)
+**Immunities**: Fire
+**Skills**: Perception +4, Stealth +4
+**Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+**Languages**: Draconic
+**CR** 3 (XP 700; PB +2)
 
 ## Traits
 

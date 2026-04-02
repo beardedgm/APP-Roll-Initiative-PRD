@@ -2,26 +2,26 @@
 
 *Medium* *Humanoid* *any alignment*
 
-- **Armor Class:** 12 (15 with _mage armor_)
-- **Hit Points:** 99 (18d8+18)
-- **Speed:** walk 30 ft.
-- **Challenge Rating:** 12 (8,400 XP)
-- **Source:** 5.1 SRD (2015 MM), page 395
+**Armor Class:** 12 (15 with _mage armor_)
+**Hit Points:** 99 (18d8+18)
+**Speed:** walk 30 ft.
+**Challenge Rating:** 12 (8,400 XP)
+**Source:** 5.1 SRD (2015 MM), page 395
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |
 
-- **Saving Throws**: Int +9, Wis +6
-- **Skills:** arcana +13, history +13
-- **Damage Resistances:** damage from spells; non magical bludgeoning, piercing, and slashing (from stoneskin)
-- **Senses:** passive Perception 12
-- **Languages:** any six languages
+**Saving Throws**: Int +9, Wis +6
+**Skills:** arcana +13, history +13
+**Damage Resistances:** damage from spells; non magical bludgeoning, piercing, and slashing (from stoneskin)
+**Senses:** passive Perception 12
+**Languages:** any six languages
 
 ### Special Abilities
 
-- **Magic Resistance:** The archmage has advantage on saving throws against spells and other magical effects.
-- **Spellcasting:** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:
+**Magic Resistance:** The archmage has advantage on saving throws against spells and other magical effects.
+**Spellcasting:** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:
 
 * Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp
 * 1st level (4 slots): detect magic, identify, mage armor*, magic missile
@@ -37,6 +37,6 @@
 
 ### Actions
 
-- **Dagger:** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+**Dagger:** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 
 

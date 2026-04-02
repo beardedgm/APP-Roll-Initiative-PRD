@@ -2,10 +2,10 @@
 
 *Gargantuan Dragon, Neutral*
 
-- **Armor Class:** 20
-- **Hit Points:** 356 (23d20 + 115)
-- **Speed:** 20 ft., Swim 50 ft.
-- **Initiative**: +6 (16)
+**Armor Class:** 20
+**Hit Points:** 356 (23d20 + 115)
+**Speed:** 20 ft., Swim 50 ft.
+**Initiative**: +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 12 | +1 | +7 |
 | CHA | 12 | +1 | +1 |
 
-- **Resistances**: Fire
-- **Senses**: darkvision 120 ft.; Passive Perception 11
-- **Languages**: Draconic, Primordial (Aquan)
-- **CR** 17 (XP 18,000; PB +6)
+**Resistances**: Fire
+**Senses**: darkvision 120 ft.; Passive Perception 11
+**Languages**: Draconic, Primordial (Aquan)
+**CR** 17 (XP 18,000; PB +6)
 
 ## Traits
 

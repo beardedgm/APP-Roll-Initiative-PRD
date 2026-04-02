@@ -2,10 +2,10 @@
 
 *Medium Beast, Unaligned*
 
-- **Armor Class:** 11
-- **Hit Points:** 19 (3d8 + 6)
-- **Speed:** 20 ft., Choose ? ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 11
+**Hit Points:** 19 (3d8 + 6)
+**Speed:** 20 ft., Choose ? ft.
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 7 | -2 | -2 |
 | CHA | 1 | -5 | -5 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- **Senses**: blindsight 30 ft.; Passive Perception 8
-- **CR** 1/2 (XP 100; PB +2)
+**Resistances**: Bludgeoning, Piercing, Slashing
+**Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+**Senses**: blindsight 30 ft.; Passive Perception 8
+**CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

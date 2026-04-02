@@ -2,10 +2,10 @@
 
 *Gargantuan Monstrosity (Titan), Unaligned*
 
-- **Armor Class:** 25
-- **Hit Points:** 697 (34d20 + 340)
-- **Speed:** 60 ft., Burrow 40 ft., Climb 60 ft.
-- **Initiative**: +18 (28)
+**Armor Class:** 25
+**Hit Points:** 697 (34d20 + 340)
+**Speed:** 60 ft., Burrow 40 ft., Climb 60 ft.
+**Initiative**: +18 (28)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 11 | +0 | +9 |
 | CHA | 11 | +0 | +9 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Fire, Poison; Charmed, Deafened, Frightened, Paralyzed, Poisoned
-- **Skills**: Perception +9
-- **Senses**: blindsight 120 ft.; Passive Perception 19
-- **CR** 30 (XP 155,000; PB +9)
+**Resistances**: Bludgeoning, Piercing, Slashing
+**Immunities**: Fire, Poison; Charmed, Deafened, Frightened, Paralyzed, Poisoned
+**Skills**: Perception +9
+**Senses**: blindsight 120 ft.; Passive Perception 19
+**CR** 30 (XP 155,000; PB +9)
 
 ## Traits
 

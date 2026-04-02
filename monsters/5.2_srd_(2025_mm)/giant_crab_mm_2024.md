@@ -2,10 +2,10 @@
 
 *Medium Beast, Unaligned*
 
-- **Armor Class:** 15
-- **Hit Points:** 13 (3d8)
-- **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 15
+**Hit Points:** 13 (3d8)
+**Speed:** 30 ft., Swim 30 ft.
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +16,9 @@
 | WIS | 9 | -1 | -1 |
 | CHA | 3 | -4 | -4 |
 
-- **Skills**: Stealth +3
-- **Senses**: blindsight 30 ft.; Passive Perception 9
-- **CR** 1/8 (XP 25; PB +2)
+**Skills**: Stealth +3
+**Senses**: blindsight 30 ft.; Passive Perception 9
+**CR** 1/8 (XP 25; PB +2)
 
 ## Traits
 

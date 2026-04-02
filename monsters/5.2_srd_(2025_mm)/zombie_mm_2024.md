@@ -2,10 +2,10 @@
 
 *Medium Undead, Neutral Evil*
 
-- **Armor Class:** 8
-- **Hit Points:** 15 (2d8 + 6)
-- **Speed:** 20 ft.
-- **Initiative**: -2 (8)
+**Armor Class:** 8
+**Hit Points:** 15 (2d8 + 6)
+**Speed:** 20 ft.
+**Initiative**: -2 (8)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 6 | -2 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 8
-- **Languages**: Understands Common plus one other language but can't speak
-- **CR** 1/4 (XP 50; PB +2)
+**Immunities**: Poison; Exhaustion, Poisoned
+**Senses**: darkvision 60 ft.; Passive Perception 8
+**Languages**: Understands Common plus one other language but can't speak
+**CR** 1/4 (XP 50; PB +2)
 
 ## Traits
 

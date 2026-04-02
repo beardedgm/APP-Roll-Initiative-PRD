@@ -2,10 +2,10 @@
 
 *Small Beast, Unaligned*
 
-- **Armor Class:** 14
-- **Hit Points:** 9 (2d6 + 2)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 14
+**Hit Points:** 9 (2d6 + 2)
+**Speed:** 30 ft., Climb 30 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,8 +16,8 @@
 | WIS | 7 | -2 | -2 |
 | CHA | 3 | -4 | -4 |
 
-- **Senses**: blindsight 30 ft.; Passive Perception 8
-- **CR** 1/4 (XP 50; PB +2)
+**Senses**: blindsight 30 ft.; Passive Perception 8
+**CR** 1/4 (XP 50; PB +2)
 
 ## Actions
 

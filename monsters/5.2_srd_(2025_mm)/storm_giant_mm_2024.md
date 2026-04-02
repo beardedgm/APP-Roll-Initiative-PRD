@@ -2,10 +2,10 @@
 
 *Huge Giant, Chaotic Good*
 
-- **Armor Class:** 16
-- **Hit Points:** 230 (20d12 + 100)
-- **Speed:** 50 ft., Fly 25 ft. (hover), Swim 50 ft.
-- **Initiative**: +7 (17)
+**Armor Class:** 16
+**Hit Points:** 230 (20d12 + 100)
+**Speed:** 50 ft., Fly 25 ft. (hover), Swim 50 ft.
+**Initiative**: +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +16,12 @@
 | WIS | 20 | +5 | +10 |
 | CHA | 18 | +4 | +9 |
 
-- **Resistances**: Cold
-- **Immunities**: Lightning, Thunder
-- **Skills**: Arcana +8, Athletics +14, History +8, Perception +10
-- **Senses**: darkvision 120 ft., truesight 30 ft.; Passive Perception 20
-- **Languages**: Common, Giant
-- **CR** 13 (XP 10,000; PB +5)
+**Resistances**: Cold
+**Immunities**: Lightning, Thunder
+**Skills**: Arcana +8, Athletics +14, History +8, Perception +10
+**Senses**: darkvision 120 ft., truesight 30 ft.; Passive Perception 20
+**Languages**: Common, Giant
+**CR** 13 (XP 10,000; PB +5)
 
 ## Traits
 
@@ -40,5 +40,5 @@
 
 ***Spellcasting.*** The giant casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 18):
 
-- **At Will:** *Detect Magic*, *Light*
-- **1/Day Each:** *Control Weather*
+**At Will:** *Detect Magic*, *Light*
+**1/Day Each:** *Control Weather*

@@ -2,10 +2,10 @@
 
 *Large Beast, Unaligned*
 
-- **Armor Class:** 14
-- **Hit Points:** 22 (3d10 + 6)
-- **Speed:** 50 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 14
+**Hit Points:** 22 (3d10 + 6)
+**Speed:** 50 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +16,9 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +5, Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **CR** 1 (XP 200; PB +2)
+**Skills**: Perception +5, Stealth +4
+**Senses**: darkvision 60 ft.; Passive Perception 15
+**CR** 1 (XP 200; PB +2)
 
 ## Traits
 

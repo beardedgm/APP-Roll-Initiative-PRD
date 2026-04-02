@@ -2,10 +2,10 @@
 
 *Huge Dragon (Metallic), Lawful Good*
 
-- **Armor Class:** 19
-- **Hit Points:** 216 (16d12 + 112)
-- **Speed:** 40 ft., Fly 80 ft.
-- **Initiative**: +10 (20)
+**Armor Class:** 19
+**Hit Points:** 216 (16d12 + 112)
+**Speed:** 40 ft., Fly 80 ft.
+**Initiative**: +10 (20)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 13 | +1 | +6 |
 | CHA | 22 | +6 | +6 |
 
-- **Immunities**: Cold
-- **Skills**: History +8, Perception +11, Stealth +5
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
-- **Languages**: Common, Draconic
-- **CR** 16 (XP 15,000, or 18,000 in lair)
+**Immunities**: Cold
+**Skills**: History +8, Perception +11, Stealth +5
+**Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
+**Languages**: Common, Draconic
+**CR** 16 (XP 15,000, or 18,000 in lair)
 
 ## Traits
 
@@ -39,8 +39,8 @@
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 19, +11 to hit with spell attacks):
 
-- **At Will:** *Detect Magic*, *Hold Monster*, *Ice Knife*, *Shapechange*
-- **1e/Day Each:** *Ice Storm*, *Zone of Truth*
+**At Will:** *Detect Magic*, *Hold Monster*, *Ice Knife*, *Shapechange*
+**1e/Day Each:** *Ice Storm*, *Zone of Truth*
 
 ## Legendary Actions
 

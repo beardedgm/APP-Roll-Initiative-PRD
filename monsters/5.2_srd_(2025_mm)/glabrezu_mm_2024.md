@@ -2,10 +2,10 @@
 
 *Large Fiend (Demon), Chaotic Evil*
 
-- **Armor Class:** 17
-- **Hit Points:** 189 (18d10 + 90)
-- **Speed:** 40 ft.
-- **Initiative**: +6 (16)
+**Armor Class:** 17
+**Hit Points:** 189 (18d10 + 90)
+**Speed:** 40 ft.
+**Initiative**: +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +16,12 @@
 | WIS | 17 | +3 | +7 |
 | CHA | 16 | +3 | +7 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Skills**: Deception +7, Perception +7
-- **Senses**: truesight 120 ft.; Passive Perception 17
-- **Languages**: Abyssal; telepathy 120 ft.
-- **CR** 9 (XP 5,000; PB +4)
+**Resistances**: Cold, Fire, Lightning
+**Immunities**: Poison; Poisoned
+**Skills**: Deception +7, Perception +7
+**Senses**: truesight 120 ft.; Passive Perception 17
+**Languages**: Abyssal; telepathy 120 ft.
+**CR** 9 (XP 5,000; PB +4)
 
 ## Traits
 
@@ -40,5 +40,5 @@
 
 ***Spellcasting.*** The glabrezu casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
-- **At Will:** *Darkness*, *Detect Magic*, *Dispel Magic*
-- **1e/Day Each:** *Confusion*, *Fly*, *Power Word Stun*
+**At Will:** *Darkness*, *Detect Magic*, *Dispel Magic*
+**1e/Day Each:** *Confusion*, *Fly*, *Power Word Stun*

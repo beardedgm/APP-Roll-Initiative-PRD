@@ -2,10 +2,10 @@
 
 *Small Elemental, Neutral Evil*
 
-- **Armor Class:** 10
-- **Hit Points:** 17 (5d6)
-- **Speed:** 30 ft., Fly 30 ft.
-- **Initiative**: +0 (10)
+**Armor Class:** 10
+**Hit Points:** 17 (5d6)
+**Speed:** 30 ft., Fly 30 ft.
+**Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 12 | +1 | +1 |
 
-- **Immunities**: Fire, Poison; Exhaustion, Poisoned
-- **Skills**: Stealth +2
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Aquan, Ignan)
-- **CR** 1/4 (XP 50; PB +2)
+**Immunities**: Fire, Poison; Exhaustion, Poisoned
+**Skills**: Stealth +2
+**Senses**: darkvision 60 ft.; Passive Perception 10
+**Languages**: Primordial (Aquan, Ignan)
+**CR** 1/4 (XP 50; PB +2)
 
 ## Traits
 

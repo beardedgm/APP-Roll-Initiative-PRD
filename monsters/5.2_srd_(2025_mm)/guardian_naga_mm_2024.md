@@ -2,10 +2,10 @@
 
 *Large Celestial, Lawful Good*
 
-- **Armor Class:** 18
-- **Hit Points:** 136 (16d10 + 48)
-- **Speed:** 40 ft., Climb 40 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+**Armor Class:** 18
+**Hit Points:** 136 (16d10 + 48)
+**Speed:** 40 ft., Climb 40 ft., Swim 40 ft.
+**Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 19 | +4 | +8 |
 | CHA | 18 | +4 | +8 |
 
-- **Immunities**: Poison; Charmed, Paralyzed, Poisoned, Restrained
-- **Skills**: Arcana +11, History +11, Religion +11
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Celestial, Common
-- **CR** 10 (XP 5,900; PB +4)
+**Immunities**: Poison; Charmed, Paralyzed, Poisoned, Restrained
+**Skills**: Arcana +11, History +11, Religion +11
+**Senses**: darkvision 60 ft.; Passive Perception 14
+**Languages**: Celestial, Common
+**CR** 10 (XP 5,900; PB +4)
 
 ## Traits
 
@@ -37,5 +37,5 @@
 
 ***Spellcasting.*** The naga casts one of the following spells, requiring no Somatic or Material components and using Wisdom as the spellcasting ability (spell save DC 16):
 
-- **At Will:** *Thaumaturgy*
-- **1e/Day Each:** *Clairvoyance*, *Cure Wounds*, *Flame Strike*, *Geas*, *True Seeing*
+**At Will:** *Thaumaturgy*
+**1e/Day Each:** *Clairvoyance*, *Cure Wounds*, *Flame Strike*, *Geas*, *True Seeing*

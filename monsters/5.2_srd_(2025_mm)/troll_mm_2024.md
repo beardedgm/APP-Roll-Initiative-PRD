@@ -2,10 +2,10 @@
 
 *Large Giant, Chaotic Evil*
 
-- **Armor Class:** 15
-- **Hit Points:** 94 (9d10 + 45)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 15
+**Hit Points:** 94 (9d10 + 45)
+**Speed:** 30 ft.
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 9 | -1 | -1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Perception +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Giant
-- **CR** 5 (XP 1,800; PB +3)
+**Skills**: Perception +5
+**Senses**: darkvision 60 ft.; Passive Perception 15
+**Languages**: Giant
+**CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

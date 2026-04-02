@@ -2,10 +2,10 @@
 
 *Medium or Small Humanoid, Neutral*
 
-- **Armor Class:** 17
-- **Hit Points:** 170 (31d8 + 31)
-- **Speed:** 30 ft.
-- **Initiative**: +6 (16)
+**Armor Class:** 17
+**Hit Points:** 170 (31d8 + 31)
+**Speed:** 30 ft.
+**Initiative**: +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +16,12 @@
 | WIS | 15 | +2 | +6 |
 | CHA | 16 | +3 | +3 |
 
-- **Immunities**: Psychic; Charmed ((with Mind Blank))
-- **Skills**: Arcana +13, History +9, Perception +6
-- **Gear** Wand
-- **Senses**: Passive Perception 16
-- **Languages**: Common plus five other languages
-- **CR** 12 (XP 8,400; PB +4)
+**Immunities**: Psychic; Charmed ((with Mind Blank))
+**Skills**: Arcana +13, History +9, Perception +6
+**Gear** Wand
+**Senses**: Passive Perception 16
+**Languages**: Common plus five other languages
+**CR** 12 (XP 8,400; PB +4)
 
 ## Traits
 
@@ -36,9 +36,9 @@
 
 ***Spellcasting.*** The archmage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17):
 
-- **At Will:** *Detect Magic*, *Detect Thoughts*, *Disguise Self*, *Invisibility*, *Light*, *Mage Armor*, *Mage Hand*, *Prestidigitation*
-- **2e/Day Each:** *Fly*, *Lightning Bolt*
-- **1e/Day Each:** *Cone of Cold*, *Mind Blank*, *Scrying*, *Teleport*
+**At Will:** *Detect Magic*, *Detect Thoughts*, *Disguise Self*, *Invisibility*, *Light*, *Mage Armor*, *Mage Hand*, *Prestidigitation*
+**2e/Day Each:** *Fly*, *Lightning Bolt*
+**1e/Day Each:** *Cone of Cold*, *Mind Blank*, *Scrying*, *Teleport*
 
 ## Bonus Actions
 

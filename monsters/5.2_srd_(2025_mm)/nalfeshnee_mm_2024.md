@@ -2,10 +2,10 @@
 
 *Large Fiend (Demon), Chaotic Evil*
 
-- **Armor Class:** 18
-- **Hit Points:** 184 (16d10 + 96)
-- **Speed:** 20 ft., Fly 30 ft.
-- **Initiative**: +5 (15)
+**Armor Class:** 18
+**Hit Points:** 184 (16d10 + 96)
+**Speed:** 20 ft., Fly 30 ft.
+**Initiative**: +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 12 | +1 | +6 |
 | CHA | 15 | +2 | +7 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Frightened, Poisoned
-- **Senses**: truesight 120 ft.; Passive Perception 11
-- **Languages**: Abyssal; telepathy 120 ft.
-- **CR** 13 (XP 10,000; PB +5)
+**Resistances**: Cold, Fire, Lightning
+**Immunities**: Poison; Frightened, Poisoned
+**Senses**: truesight 120 ft.; Passive Perception 11
+**Languages**: Abyssal; telepathy 120 ft.
+**CR** 13 (XP 10,000; PB +5)
 
 ## Traits
 

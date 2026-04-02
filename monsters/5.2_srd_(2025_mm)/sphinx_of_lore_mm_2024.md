@@ -2,10 +2,10 @@
 
 *Large Celestial, Lawful Neutral*
 
-- **Armor Class:** 17
-- **Hit Points:** 170 (20d10 + 60)
-- **Speed:** 40 ft., Fly 60 ft.
-- **Initiative**: +6 (16)
+**Armor Class:** 17
+**Hit Points:** 170 (20d10 + 60)
+**Speed:** 40 ft., Fly 60 ft.
+**Initiative**: +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +16,12 @@
 | WIS | 18 | +4 | +4 |
 | CHA | 18 | +4 | +4 |
 
-- **Resistances**: Necrotic, Radiant
-- **Immunities**: Psychic; Charmed, Frightened
-- **Skills**: Arcana +12, History +12, Perception +8, Religion +12
-- **Senses**: truesight 120 ft.; Passive Perception 18
-- **Languages**: Celestial, Common
-- **CR** 11 (XP 7,200, or 8,400 in lair)
+**Resistances**: Necrotic, Radiant
+**Immunities**: Psychic; Charmed, Frightened
+**Skills**: Arcana +12, History +12, Perception +8, Religion +12
+**Senses**: truesight 120 ft.; Passive Perception 18
+**Languages**: Celestial, Common
+**CR** 11 (XP 7,200, or 8,400 in lair)
 
 ## Traits
 
@@ -40,8 +40,8 @@
 
 ***Spellcasting.*** The sphinx casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
-- **At Will:** *Detect Magic*, *Identify*, *Mage Hand*, *Minor Illusion*, *Prestidigitation*
-- **1e/Day Each:** *Dispel Magic*, *Legend Lore*, *Locate Object*, *Plane Shift*, *Remove Curse*, *Tongues*
+**At Will:** *Detect Magic*, *Identify*, *Mage Hand*, *Minor Illusion*, *Prestidigitation*
+**1e/Day Each:** *Dispel Magic*, *Legend Lore*, *Locate Object*, *Plane Shift*, *Remove Curse*, *Tongues*
 
 ## Legendary Actions
 

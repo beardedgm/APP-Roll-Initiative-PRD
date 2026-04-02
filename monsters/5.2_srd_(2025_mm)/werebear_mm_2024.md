@@ -2,10 +2,10 @@
 
 *Medium or Small Monstrosity, Neutral Good*
 
-- **Armor Class:** 15
-- **Hit Points:** 135 (18d8 + 54)
-- **Speed:** 30 ft., Alternate ? ft., Climb 30 ft. (bear form only)
-- **Initiative**: +3 (13)
+**Armor Class:** 15
+**Hit Points:** 135 (18d8 + 54)
+**Speed:** 30 ft., Alternate ? ft., Climb 30 ft. (bear form only)
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 12 | +1 | +1 |
 
-- **Skills**: Perception +7
-- **Gear** Handaxe x 4
-- **Senses**: darkvision 60 ft.; Passive Perception 17
-- **Languages**: Common (can't speak in bear form)
-- **CR** 5 (XP 1,800; PB +3)
+**Skills**: Perception +7
+**Gear** Handaxe x 4
+**Senses**: darkvision 60 ft.; Passive Perception 17
+**Languages**: Common (can't speak in bear form)
+**CR** 5 (XP 1,800; PB +3)
 
 ## Actions
 

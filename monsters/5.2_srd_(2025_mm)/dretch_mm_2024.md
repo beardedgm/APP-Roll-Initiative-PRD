@@ -2,10 +2,10 @@
 
 *Small Fiend (Demon), Chaotic Evil*
 
-- **Armor Class:** 11
-- **Hit Points:** 18 (4d6 + 4)
-- **Speed:** 20 ft.
-- **Initiative**: +0 (10)
+**Armor Class:** 11
+**Hit Points:** 18 (4d6 + 4)
+**Speed:** 20 ft.
+**Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 8 | -1 | -1 |
 | CHA | 3 | -4 | -4 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Abyssal; telepathy 60 ft. (works only with creatures that understand Abyssal)
-- **CR** 1/4 (XP 50; PB +2)
+**Resistances**: Cold, Fire, Lightning
+**Immunities**: Poison; Poisoned
+**Senses**: darkvision 60 ft.; Passive Perception 9
+**Languages**: Abyssal; telepathy 60 ft. (works only with creatures that understand Abyssal)
+**CR** 1/4 (XP 50; PB +2)
 
 ## Actions
 

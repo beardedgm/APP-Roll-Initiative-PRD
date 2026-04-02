@@ -2,10 +2,10 @@
 
 *Huge Monstrosity, Unaligned*
 
-- **Armor Class:** 15
-- **Hit Points:** 184 (16d12 + 80)
-- **Speed:** 40 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+**Armor Class:** 15
+**Hit Points:** 184 (16d12 + 80)
+**Speed:** 40 ft., Swim 40 ft.
+**Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 7 | -2 | -2 |
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-- **Skills**: Perception +6
-- **Senses**: darkvision 60 ft.; Passive Perception 16
-- **CR** 8 (XP 3,900; PB +3)
+**Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+**Skills**: Perception +6
+**Senses**: darkvision 60 ft.; Passive Perception 16
+**CR** 8 (XP 3,900; PB +3)
 
 ## Traits
 

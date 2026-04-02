@@ -2,10 +2,10 @@
 
 *Huge Dragon (Chromatic), Lawful Evil*
 
-- **Armor Class:** 19
-- **Hit Points:** 212 (17d12 + 102)
-- **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft.
-- **Initiative**: +10 (20)
+**Armor Class:** 19
+**Hit Points:** 212 (17d12 + 102)
+**Speed:** 40 ft., Burrow 30 ft., Fly 80 ft.
+**Initiative**: +10 (20)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 15 | +2 | +7 |
 | CHA | 20 | +5 | +5 |
 
-- **Immunities**: Lightning
-- **Skills**: Perception +12, Stealth +5
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
-- **Languages**: Common, Draconic
-- **CR** 16 (XP 15,000, or 18,000 in lair)
+**Immunities**: Lightning
+**Skills**: Perception +12, Stealth +5
+**Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
+**Languages**: Common, Draconic
+**CR** 16 (XP 15,000, or 18,000 in lair)
 
 ## Traits
 
@@ -37,8 +37,8 @@
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18):
 
-- **At Will:** *Detect Magic*, *Invisibility*, *Mage Hand*, *Shatter*
-- **1e/Day Each:** *Scrying*, *Sending*
+**At Will:** *Detect Magic*, *Invisibility*, *Mage Hand*, *Shatter*
+**1e/Day Each:** *Scrying*, *Sending*
 
 ## Legendary Actions
 

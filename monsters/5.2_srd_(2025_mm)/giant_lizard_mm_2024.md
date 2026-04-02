@@ -2,10 +2,10 @@
 
 *Large Beast, Unaligned*
 
-- **Armor Class:** 12
-- **Hit Points:** 19 (3d10 + 3)
-- **Speed:** 40 ft., Climb 40 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 12
+**Hit Points:** 19 (3d10 + 3)
+**Speed:** 40 ft., Climb 40 ft.
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,8 +16,8 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **CR** 1/4 (XP 50; PB +2)
+**Senses**: darkvision 60 ft.; Passive Perception 10
+**CR** 1/4 (XP 50; PB +2)
 
 ## Traits
 

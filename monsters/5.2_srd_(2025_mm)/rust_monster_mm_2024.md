@@ -2,10 +2,10 @@
 
 *Medium Monstrosity, Unaligned*
 
-- **Armor Class:** 14
-- **Hit Points:** 33 (6d8 + 6)
-- **Speed:** 40 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 14
+**Hit Points:** 33 (6d8 + 6)
+**Speed:** 40 ft.
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,8 +16,8 @@
 | WIS | 13 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **CR** 1/2 (XP 100; PB +2)
+**Senses**: darkvision 60 ft.; Passive Perception 11
+**CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 *Large Monstrosity, Neutral Evil*
 
-- **Armor Class:** 13
-- **Hit Points:** 75 (10d10 + 20)
-- **Speed:** 50 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 13
+**Hit Points:** 75 (10d10 + 20)
+**Speed:** 50 ft.
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 8 | -1 | -1 |
 
-- **Immunities**: Cold
-- **Skills**: Perception +5, Stealth +5
-- **Senses**: Passive Perception 15
-- **Languages**: Common, Giant
-- **CR** 3 (XP 700; PB +2)
+**Immunities**: Cold
+**Skills**: Perception +5, Stealth +5
+**Senses**: Passive Perception 15
+**Languages**: Common, Giant
+**CR** 3 (XP 700; PB +2)
 
 ## Traits
 

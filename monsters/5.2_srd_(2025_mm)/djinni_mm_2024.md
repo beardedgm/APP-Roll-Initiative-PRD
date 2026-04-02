@@ -2,10 +2,10 @@
 
 *Large Elemental (Genie), Chaotic Good*
 
-- **Armor Class:** 17
-- **Hit Points:** 218 (19d10 + 114)
-- **Speed:** 30 ft., Fly 90 ft. (hover)
-- **Initiative**: +2 (12)
+**Armor Class:** 17
+**Hit Points:** 218 (19d10 + 114)
+**Speed:** 30 ft., Fly 90 ft. (hover)
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 16 | +3 | +7 |
 | CHA | 20 | +5 | +5 |
 
-- **Immunities**: Lightning, Thunder
-- **Senses**: darkvision 120 ft.; Passive Perception 13
-- **Languages**: Primordial (Auran)
-- **CR** 11 (XP 7,200; PB +4)
+**Immunities**: Lightning, Thunder
+**Senses**: darkvision 120 ft.; Passive Perception 13
+**Languages**: Primordial (Auran)
+**CR** 11 (XP 7,200; PB +4)
 
 ## Traits
 
@@ -43,6 +43,6 @@ Whenever the whirlwind enters a creature's space or a creature enters the whirlw
 
 ***Spellcasting.*** The djinni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
-- **At Will:** *Detect Evil and Good*, *Detect Magic*
-- **2e/Day Each:** *Create Food and Water*, *Tongues*, *Wind Walk*
-- **1e/Day Each:** *Creation*, *Gaseous Form*, *Invisibility*, *Major Image*, *Plane Shift*
+**At Will:** *Detect Evil and Good*, *Detect Magic*
+**2e/Day Each:** *Create Food and Water*, *Tongues*, *Wind Walk*
+**1e/Day Each:** *Creation*, *Gaseous Form*, *Invisibility*, *Major Image*, *Plane Shift*

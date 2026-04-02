@@ -2,10 +2,10 @@
 
 *Medium Fey (Goblinoid), Chaotic Evil*
 
-- **Armor Class:** 14
-- **Hit Points:** 33 (6d8 + 6)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 14
+**Hit Points:** 33 (6d8 + 6)
+**Speed:** 30 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 9 | -1 | -1 |
 
-- **Skills**: Stealth +6, Survival +2
-- **Gear** Hide Armor, Light Hammer x 3
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common, Goblin
-- **CR** 1 (XP 200; PB +2)
+**Skills**: Stealth +6, Survival +2
+**Gear** Hide Armor, Light Hammer x 3
+**Senses**: darkvision 60 ft.; Passive Perception 10
+**Languages**: Common, Goblin
+**CR** 1 (XP 200; PB +2)
 
 ## Traits
 

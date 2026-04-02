@@ -2,10 +2,10 @@
 
 *Medium or Small Humanoid, Neutral*
 
-- **Armor Class:** 13
-- **Hit Points:** 16 (3d8 + 3)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 13
+**Hit Points:** 16 (3d8 + 3)
+**Speed:** 30 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 13 | +1 | +1 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Nature +4, Perception +5, Stealth +6, Survival +5
-- **Gear** Leather Armor, Longbow, Shortsword
-- **Senses**: Passive Perception 15
-- **Languages**: Common plus one other language
-- **CR** 1/2 (XP 100; PB +2)
+**Skills**: Nature +4, Perception +5, Stealth +6, Survival +5
+**Gear** Leather Armor, Longbow, Shortsword
+**Senses**: Passive Perception 15
+**Languages**: Common plus one other language
+**CR** 1/2 (XP 100; PB +2)
 
 ## Actions
 

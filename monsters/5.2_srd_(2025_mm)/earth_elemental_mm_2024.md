@@ -2,10 +2,10 @@
 
 *Large Elemental, Neutral*
 
-- **Armor Class:** 17
-- **Hit Points:** 147 (14d10 + 70)
-- **Speed:** 30 ft., Burrow 30 ft.
-- **Initiative**: -1 (9)
+**Armor Class:** 17
+**Hit Points:** 147 (14d10 + 70)
+**Speed:** 30 ft., Burrow 30 ft.
+**Initiative**: -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Vulnerabilities**: Thunder
-- **Immunities**: Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
-- **Senses**: darkvision 60 ft., tremorsense 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Terran)
-- **CR** 5 (XP 1,800; PB +3)
+**Vulnerabilities**: Thunder
+**Immunities**: Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
+**Senses**: darkvision 60 ft., tremorsense 60 ft.; Passive Perception 10
+**Languages**: Primordial (Terran)
+**CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 *Small Fiend (Demon), Chaotic Evil*
 
-- **Armor Class:** 13
-- **Hit Points:** 25 (10d4)
-- **Speed:** 40 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 13
+**Hit Points:** 25 (10d4)
+**Speed:** 40 ft.
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +16,12 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Skills**: Stealth +5
-- **Senses**: darkvision 120 ft.; Passive Perception 10
-- **Languages**: Abyssal, Common
-- **CR** 1 (XP 200; PB +2)
+**Resistances**: Cold, Fire, Lightning
+**Immunities**: Poison; Poisoned
+**Skills**: Stealth +5
+**Senses**: darkvision 120 ft.; Passive Perception 10
+**Languages**: Abyssal, Common
+**CR** 1 (XP 200; PB +2)
 
 ## Traits
 
@@ -38,5 +38,5 @@
 
 ***Invisibility.*** The quasit casts *Invisibility* on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
-- **At Will:** *Invisibility*
+**At Will:** *Invisibility*
 

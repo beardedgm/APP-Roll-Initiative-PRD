@@ -2,10 +2,10 @@
 
 *Medium Fiend, Lawful Evil*
 
-- **Armor Class:** 15
-- **Hit Points:** 58 (9d8 + 18)
-- **Speed:** 50 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 15
+**Hit Points:** 58 (9d8 + 18)
+**Speed:** 50 ft.
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 13 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Understands Infernal but can't speak
-- **CR** 3 (XP 700; PB +2)
+**Immunities**: Fire
+**Skills**: Perception +5
+**Senses**: darkvision 60 ft.; Passive Perception 15
+**Languages**: Understands Infernal but can't speak
+**CR** 3 (XP 700; PB +2)
 
 ## Traits
 

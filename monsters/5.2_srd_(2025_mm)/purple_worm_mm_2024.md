@@ -2,10 +2,10 @@
 
 *Gargantuan Monstrosity, Unaligned*
 
-- **Armor Class:** 18
-- **Hit Points:** 247 (15d20 + 90)
-- **Speed:** 50 ft., Burrow 50 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 18
+**Hit Points:** 247 (15d20 + 90)
+**Speed:** 50 ft., Burrow 50 ft.
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,8 +16,8 @@
 | WIS | 8 | -1 | +4 |
 | CHA | 4 | -3 | -3 |
 
-- **Senses**: blindsight 30 ft., tremorsense 60 ft.; Passive Perception 9
-- **CR** 15 (XP 13,000; PB +5)
+**Senses**: blindsight 30 ft., tremorsense 60 ft.; Passive Perception 9
+**CR** 15 (XP 13,000; PB +5)
 
 ## Traits
 

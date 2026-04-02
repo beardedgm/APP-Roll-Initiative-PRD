@@ -2,10 +2,10 @@
 
 *Large Aberration, Neutral Evil*
 
-- **Armor Class:** 20
-- **Hit Points:** 93 (11d10 + 33)
-- **Speed:** 10 ft., Climb 20 ft.
-- **Initiative**: +5 (15)
+**Armor Class:** 20
+**Hit Points:** 93 (11d10 + 33)
+**Speed:** 10 ft., Climb 20 ft.
+**Initiative**: +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +16,9 @@
 | WIS | 16 | +3 | +3 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Perception +6, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 16
-- **CR** 5 (XP 1,800; PB +3)
+**Skills**: Perception +6, Stealth +5
+**Senses**: darkvision 60 ft.; Passive Perception 16
+**CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 *Medium Beast, Unaligned*
 
-- **Armor Class:** 12
-- **Hit Points:** 19 (3d8 + 6)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 12
+**Hit Points:** 19 (3d8 + 6)
+**Speed:** 30 ft., Climb 30 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +16,9 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Athletics +5, Perception +3
-- **Senses**: Passive Perception 13
-- **CR** 1/2 (XP 100; PB +2)
+**Skills**: Athletics +5, Perception +3
+**Senses**: Passive Perception 13
+**CR** 1/2 (XP 100; PB +2)
 
 ## Actions
 

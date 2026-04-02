@@ -2,10 +2,10 @@
 
 *Large Aberration, Lawful Evil*
 
-- **Armor Class:** 17
-- **Hit Points:** 150 (20d10 + 40)
-- **Speed:** 10 ft., Swim 40 ft.
-- **Initiative**: +7 (17)
+**Armor Class:** 17
+**Hit Points:** 150 (20d10 + 40)
+**Speed:** 10 ft., Swim 40 ft.
+**Initiative**: +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 15 | +2 | +6 |
 | CHA | 18 | +4 | +4 |
 
-- **Skills**: History +12, Perception +10
-- **Senses**: darkvision 120 ft.; Passive Perception 20
-- **Languages**: Deep Speech; telepathy 120 ft.
-- **CR** 10 (XP 5,900, or 7,200 in lair)
+**Skills**: History +12, Perception +10
+**Senses**: darkvision 120 ft.; Passive Perception 20
+**Languages**: Deep Speech; telepathy 120 ft.
+**CR** 10 (XP 5,900, or 7,200 in lair)
 
 ## Traits
 

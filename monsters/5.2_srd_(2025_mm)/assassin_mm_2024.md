@@ -2,10 +2,10 @@
 
 *Medium or Small Humanoid, Neutral*
 
-- **Armor Class:** 16
-- **Hit Points:** 97 (15d8 + 30)
-- **Speed:** 30 ft.
-- **Initiative**: +10 (20)
+**Armor Class:** 16
+**Hit Points:** 97 (15d8 + 30)
+**Speed:** 30 ft.
+**Initiative**: +10 (20)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +16,12 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Resistances**: Poison
-- **Skills**: Acrobatics +7, Perception +6, Stealth +10
-- **Gear** Light Crossbow, Shortsword, Studded Leather Armor
-- **Senses**: Passive Perception 16
-- **Languages**: Common, Thieves' cant
-- **CR** 8 (XP 3,900; PB +3)
+**Resistances**: Poison
+**Skills**: Acrobatics +7, Perception +6, Stealth +10
+**Gear** Light Crossbow, Shortsword, Studded Leather Armor
+**Senses**: Passive Perception 16
+**Languages**: Common, Thieves' cant
+**CR** 8 (XP 3,900; PB +3)
 
 ## Traits
 

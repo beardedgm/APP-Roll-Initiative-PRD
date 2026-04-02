@@ -2,10 +2,10 @@
 
 *Huge Dragon (Metallic), Chaotic Good*
 
-- **Armor Class:** 18
-- **Hit Points:** 184 (16d12 + 80)
-- **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +11 (21)
+**Armor Class:** 18
+**Hit Points:** 184 (16d12 + 80)
+**Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
+**Initiative**: +11 (21)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 15 | +2 | +7 |
 | CHA | 18 | +4 | +4 |
 
-- **Immunities**: Acid
-- **Skills**: Deception +9, Perception +12, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
-- **Languages**: Common, Draconic
-- **CR** 14 (XP 11,500, or 13,000 in lair)
+**Immunities**: Acid
+**Skills**: Deception +9, Perception +12, Stealth +6
+**Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
+**Languages**: Common, Draconic
+**CR** 14 (XP 11,500, or 13,000 in lair)
 
 ## Traits
 
@@ -39,8 +39,8 @@
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
-- **At Will:** *Detect Magic*, *Mind Spike*, *Minor Illusion*, *Shapechange*
-- **1e/Day Each:** *Greater Restoration*, *Major Image*
+**At Will:** *Detect Magic*, *Mind Spike*, *Minor Illusion*, *Shapechange*
+**1e/Day Each:** *Greater Restoration*, *Major Image*
 
 ## Legendary Actions
 

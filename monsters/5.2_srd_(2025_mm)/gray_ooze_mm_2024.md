@@ -2,10 +2,10 @@
 
 *Medium Ooze, Unaligned*
 
-- **Armor Class:** 9
-- **Hit Points:** 22 (3d8 + 9)
-- **Speed:** 10 ft., Climb 10 ft.
-- **Initiative**: -2 (8)
+**Armor Class:** 9
+**Hit Points:** 22 (3d8 + 9)
+**Speed:** 10 ft., Climb 10 ft.
+**Initiative**: -2 (8)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 6 | -2 | -2 |
 | CHA | 2 | -4 | -4 |
 
-- **Resistances**: Acid, Cold, Fire
-- **Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
-- **Skills**: Stealth +2
-- **Senses**: blindsight 60 ft.; Passive Perception 8
-- **CR** 1/2 (XP 100; PB +2)
+**Resistances**: Acid, Cold, Fire
+**Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+**Skills**: Stealth +2
+**Senses**: blindsight 60 ft.; Passive Perception 8
+**CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

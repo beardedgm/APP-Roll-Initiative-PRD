@@ -2,10 +2,10 @@
 
 *Medium or Small Humanoid, Neutral Evil*
 
-- **Armor Class:** 15
-- **Hit Points:** 65 (10d8 + 20)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +5 (15)
+**Armor Class:** 15
+**Hit Points:** 65 (10d8 + 20)
+**Speed:** 30 ft., Climb 30 ft.
+**Initiative**: +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,13 +16,13 @@
 | WIS | 10 | +0 | +2 |
 | CHA | 14 | +2 | +2 |
 
-- **Resistances**: Necrotic
-- **Immunities**: Charmed ((except from its vampire master))
-- **Skills**: Perception +4, Persuasion +4, Stealth +7
-- **Gear** Dagger x 10
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common plus one other language
-- **CR** 3 (XP 700; PB +2)
+**Resistances**: Necrotic
+**Immunities**: Charmed ((except from its vampire master))
+**Skills**: Perception +4, Persuasion +4, Stealth +7
+**Gear** Dagger x 10
+**Senses**: darkvision 60 ft.; Passive Perception 14
+**Languages**: Common plus one other language
+**CR** 3 (XP 700; PB +2)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 *Medium or Small Humanoid, Neutral*
 
-- **Armor Class:** 17
-- **Hit Points:** 84 (13d8 + 26)
-- **Speed:** 30 ft.
-- **Initiative**: +7 (17)
+**Armor Class:** 17
+**Hit Points:** 84 (13d8 + 26)
+**Speed:** 30 ft.
+**Initiative**: +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 14 | +2 | +5 |
 | CHA | 17 | +3 | +6 |
 
-- **Skills**: Acrobatics +7, Perception +5
-- **Gear** Pistol, Rapier
-- **Senses**: Passive Perception 15
-- **Languages**: Common plus one other language
-- **CR** 6 (XP 2,300; PB +3)
+**Skills**: Acrobatics +7, Perception +5
+**Gear** Pistol, Rapier
+**Senses**: Passive Perception 15
+**Languages**: Common plus one other language
+**CR** 6 (XP 2,300; PB +3)
 
 ## Actions
 

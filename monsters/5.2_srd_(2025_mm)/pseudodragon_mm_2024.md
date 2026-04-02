@@ -2,10 +2,10 @@
 
 *Tiny Dragon, Neutral Good*
 
-- **Armor Class:** 14
-- **Hit Points:** 10 (3d4 + 3)
-- **Speed:** 15 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 14
+**Hit Points:** 10 (3d4 + 3)
+**Speed:** 15 ft., Fly 60 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Perception +5, Stealth +4
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 15
-- **Languages**: Understands Common and Draconic but can't speak
-- **CR** 1/4 (XP 50; PB +2)
+**Skills**: Perception +5, Stealth +4
+**Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 15
+**Languages**: Understands Common and Draconic but can't speak
+**CR** 1/4 (XP 50; PB +2)
 
 ## Traits
 

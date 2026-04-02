@@ -2,10 +2,10 @@
 
 *Medium Plant, Unaligned*
 
-- **Armor Class:** 5
-- **Hit Points:** 13 (3d8)
-- **Speed:** 5 ft.
-- **Initiative**: -5 (5)
+**Armor Class:** 5
+**Hit Points:** 13 (3d8)
+**Speed:** 5 ft.
+**Initiative**: -5 (5)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,7 +16,7 @@
 | WIS | 3 | -4 | -4 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened
-- **Senses**: blindsight 30 ft.; Passive Perception 6
-- **CR** 0 (XP 0)
+**Immunities**: Blinded, Charmed, Deafened, Frightened
+**Senses**: blindsight 30 ft.; Passive Perception 6
+**CR** 0 (XP 0)
 

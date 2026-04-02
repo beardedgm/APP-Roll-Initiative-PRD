@@ -2,10 +2,10 @@
 
 *Tiny Beast, Unaligned*
 
-- **Armor Class:** 11
-- **Hit Points:** 3 (1d4 + 1)
-- **Speed:** 20 ft., Swim 20 ft.
-- **Initiative**: +0 (10)
+**Armor Class:** 11
+**Hit Points:** 3 (1d4 + 1)
+**Speed:** 20 ft., Swim 20 ft.
+**Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +16,9 @@
 | WIS | 8 | -1 | -1 |
 | CHA | 2 | -4 | -4 |
 
-- **Skills**: Stealth +2
-- **Senses**: blindsight 30 ft.; Passive Perception 9
-- **CR** 0 (XP 0 or 10; PB +2)
+**Skills**: Stealth +2
+**Senses**: blindsight 30 ft.; Passive Perception 9
+**CR** 0 (XP 0 or 10; PB +2)
 
 ## Traits
 

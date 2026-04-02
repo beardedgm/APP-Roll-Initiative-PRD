@@ -2,10 +2,10 @@
 
 *Medium or Small Humanoid, Neutral*
 
-- **Armor Class:** 14
-- **Hit Points:** 33 (6d8 + 6)
-- **Speed:** 30 ft.
-- **Initiative**: +5 (15)
+**Armor Class:** 14
+**Hit Points:** 33 (6d8 + 6)
+**Speed:** 30 ft.
+**Initiative**: +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 14 | +2 | +4 |
 
-- **Gear** Dagger x 6, Leather Armor
-- **Senses**: Passive Perception 11
-- **Languages**: Common plus one other language
-- **CR** 1 (XP 200; PB +2)
+**Gear** Dagger x 6, Leather Armor
+**Senses**: Passive Perception 11
+**Languages**: Common plus one other language
+**CR** 1 (XP 200; PB +2)
 
 ## Actions
 

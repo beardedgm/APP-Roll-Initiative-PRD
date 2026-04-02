@@ -2,10 +2,10 @@
 
 *Large Dragon (Metallic), Chaotic Good*
 
-- **Armor Class:** 17
-- **Hit Points:** 110 (13d10 + 39)
-- **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 17
+**Hit Points:** 110 (13d10 + 39)
+**Speed:** 40 ft., Burrow 20 ft., Fly 80 ft.
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 11 | +0 | +3 |
 | CHA | 15 | +2 | +2 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +6, Persuasion +5, Stealth +3
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 16
-- **Languages**: Common, Draconic
-- **CR** 6 (XP 2,300; PB +3)
+**Immunities**: Fire
+**Skills**: Perception +6, Persuasion +5, Stealth +3
+**Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 16
+**Languages**: Common, Draconic
+**CR** 6 (XP 2,300; PB +3)
 
 ## Actions
 

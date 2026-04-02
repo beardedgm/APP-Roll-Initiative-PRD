@@ -2,10 +2,10 @@
 
 *Large Construct, Unaligned*
 
-- **Armor Class:** 18
-- **Hit Points:** 220 (21d10 + 105)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 18
+**Hit Points:** 220 (21d10 + 105)
+**Speed:** 30 ft.
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: darkvision 120 ft.; Passive Perception 10
-- **Languages**: Understands Common plus two other languages but can't speak
-- **CR** 10 (XP 5,900; PB +4)
+**Immunities**: Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+**Senses**: darkvision 120 ft.; Passive Perception 10
+**Languages**: Understands Common plus two other languages but can't speak
+**CR** 10 (XP 5,900; PB +4)
 
 ## Traits
 

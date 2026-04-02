@@ -2,10 +2,10 @@
 
 *Medium Beast (Dinosaur), Unaligned*
 
-- **Armor Class:** 13
-- **Hit Points:** 13 (3d8)
-- **Speed:** 10 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 13
+**Hit Points:** 13 (3d8)
+**Speed:** 10 ft., Fly 60 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +16,9 @@
 | WIS | 9 | -1 | -1 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Perception +1
-- **Senses**: Passive Perception 11
-- **CR** 1/4 (XP 50; PB +2)
+**Skills**: Perception +1
+**Senses**: Passive Perception 11
+**CR** 1/4 (XP 50; PB +2)
 
 ## Traits
 

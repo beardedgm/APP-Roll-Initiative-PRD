@@ -2,10 +2,10 @@
 
 *Large Elemental, Neutral*
 
-- **Armor Class:** 14
-- **Hit Points:** 114 (12d10 + 48)
-- **Speed:** 30 ft., Swim 90 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 14
+**Hit Points:** 114 (12d10 + 48)
+**Speed:** 30 ft., Swim 90 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 8 | -1 | -1 |
 
-- **Resistances**: Acid, Fire
-- **Immunities**: Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Aquan)
-- **CR** 5 (XP 1,800; PB +3)
+**Resistances**: Acid, Fire
+**Immunities**: Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+**Senses**: darkvision 60 ft.; Passive Perception 10
+**Languages**: Primordial (Aquan)
+**CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

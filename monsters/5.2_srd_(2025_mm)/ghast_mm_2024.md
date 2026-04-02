@@ -2,10 +2,10 @@
 
 *Medium Undead, Chaotic Evil*
 
-- **Armor Class:** 13
-- **Hit Points:** 36 (8d8)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 13
+**Hit Points:** 36 (8d8)
+**Speed:** 30 ft.
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 10 | +0 | +2 |
 | CHA | 8 | -1 | -1 |
 
-- **Resistances**: Necrotic
-- **Immunities**: Poison; Charmed, Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common
-- **CR** 2 (XP 450; PB +2)
+**Resistances**: Necrotic
+**Immunities**: Poison; Charmed, Exhaustion, Poisoned
+**Senses**: darkvision 60 ft.; Passive Perception 10
+**Languages**: Common
+**CR** 2 (XP 450; PB +2)
 
 ## Traits
 

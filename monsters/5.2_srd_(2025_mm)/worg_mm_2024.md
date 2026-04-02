@@ -2,10 +2,10 @@
 
 *Large Fey, Neutral Evil*
 
-- **Armor Class:** 13
-- **Hit Points:** 26 (4d10 + 4)
-- **Speed:** 50 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 13
+**Hit Points:** 26 (4d10 + 4)
+**Speed:** 50 ft.
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Perception +4
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Goblin, Worg
-- **CR** 1/2 (XP 100; PB +2)
+**Skills**: Perception +4
+**Senses**: darkvision 60 ft.; Passive Perception 14
+**Languages**: Goblin, Worg
+**CR** 1/2 (XP 100; PB +2)
 
 ## Actions
 

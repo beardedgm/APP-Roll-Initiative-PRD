@@ -2,10 +2,10 @@
 
 *Medium Elemental, Neutral*
 
-- **Armor Class:** 11
-- **Hit Points:** 11 (2d8 + 2)
-- **Speed:** 10 ft., Swim 40 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 11
+**Hit Points:** 11 (2d8 + 2)
+**Speed:** 10 ft., Swim 40 ft.
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +16,9 @@
 | WIS | 14 | +2 | +2 |
 | CHA | 12 | +1 | +1 |
 
-- **Senses**: Passive Perception 12
-- **Languages**: Common, Primordial (Aquan)
-- **CR** 1/8 (XP 25; PB +2)
+**Senses**: Passive Perception 12
+**Languages**: Common, Primordial (Aquan)
+**CR** 1/8 (XP 25; PB +2)
 
 ## Traits
 

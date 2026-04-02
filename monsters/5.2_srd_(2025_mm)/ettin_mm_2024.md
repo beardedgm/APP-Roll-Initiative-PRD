@@ -2,10 +2,10 @@
 
 *Large Giant, Chaotic Evil*
 
-- **Armor Class:** 12
-- **Hit Points:** 85 (10d10 + 30)
-- **Speed:** 40 ft.
-- **Initiative**: -1 (9)
+**Armor Class:** 12
+**Hit Points:** 85 (10d10 + 30)
+**Speed:** 40 ft.
+**Initiative**: -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +16,12 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 8 | -1 | -1 |
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-- **Skills**: Perception +4
-- **Gear** Battleaxe, Morningstar
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Giant
-- **CR** 4 (XP 1,100; PB +2)
+**Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+**Skills**: Perception +4
+**Gear** Battleaxe, Morningstar
+**Senses**: darkvision 60 ft.; Passive Perception 14
+**Languages**: Giant
+**CR** 4 (XP 1,100; PB +2)
 
 ## Actions
 

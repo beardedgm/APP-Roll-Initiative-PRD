@@ -2,10 +2,10 @@
 
 *Large Construct, Unaligned*
 
-- **Armor Class:** 19
-- **Hit Points:** 114 (12d10 + 48)
-- **Speed:** 40 ft.
-- **Initiative**: +0 (10)
+**Armor Class:** 19
+**Hit Points:** 114 (12d10 + 48)
+**Speed:** 40 ft.
+**Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Immunities**: Exhaustion, Petrified
-- **Skills**: Perception +7
-- **Senses**: darkvision 60 ft.; Passive Perception 17
-- **CR** 5 (XP 1,800; PB +3)
+**Immunities**: Exhaustion, Petrified
+**Skills**: Perception +7
+**Senses**: darkvision 60 ft.; Passive Perception 17
+**CR** 5 (XP 1,800; PB +3)
 
 ## Actions
 

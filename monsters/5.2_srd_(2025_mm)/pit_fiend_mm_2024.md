@@ -2,10 +2,10 @@
 
 *Large Fiend (Devil), Lawful Evil*
 
-- **Armor Class:** 21
-- **Hit Points:** 337 (27d10 + 189)
-- **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +14 (24)
+**Armor Class:** 21
+**Hit Points:** 337 (27d10 + 189)
+**Speed:** 30 ft., Fly 60 ft.
+**Initiative**: +14 (24)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +16,12 @@
 | WIS | 18 | +4 | +10 |
 | CHA | 24 | +7 | +7 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Poisoned
-- **Skills**: Perception +10, Persuasion +19
-- **Senses**: truesight 120 ft.; Passive Perception 20
-- **Languages**: Infernal; telepathy 120 ft.
-- **CR** 20 (XP 25,000; PB +6)
+**Resistances**: Cold
+**Immunities**: Fire, Poison; Poisoned
+**Skills**: Perception +10, Persuasion +19
+**Senses**: truesight 120 ft.; Passive Perception 20
+**Languages**: Infernal; telepathy 120 ft.
+**CR** 20 (XP 25,000; PB +6)
 
 ## Traits
 
@@ -46,5 +46,5 @@
 
 ***Hellfire Spellcasting (Recharge 4-6).*** The pit fiend casts *Fireball* (level 5 version) twice, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21). It can replace one *Fireball* with *Hold Monster* (level 7 version) or *Wall of Fire*.
 
-- **At Will:** 
+**At Will:** 
 

@@ -2,10 +2,10 @@
 
 *Large Beast, Unaligned*
 
-- **Armor Class:** 12
-- **Hit Points:** 45 (6d10 + 12)
-- **Speed:** 5 ft., Swim 40 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 12
+**Hit Points:** 45 (6d10 + 12)
+**Speed:** 5 ft., Swim 40 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +16,9 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 4 | -3 | -3 |
 
-- **Skills**: Perception +2
-- **Senses**: blindsight 60 ft.; Passive Perception 12
-- **CR** 2 (XP 450; PB +2)
+**Skills**: Perception +2
+**Senses**: blindsight 60 ft.; Passive Perception 12
+**CR** 2 (XP 450; PB +2)
 
 ## Traits
 

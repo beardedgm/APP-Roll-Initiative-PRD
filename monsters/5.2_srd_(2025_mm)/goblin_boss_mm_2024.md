@@ -2,10 +2,10 @@
 
 *Small Fey (Goblinoid), Chaotic Neutral*
 
-- **Armor Class:** 17
-- **Hit Points:** 21 (6d6)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 17
+**Hit Points:** 21 (6d6)
+**Speed:** 30 ft.
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +16,11 @@
 | WIS | 8 | -1 | -1 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Stealth +6
-- **Gear** Chain Shirt, Scimitar, Shield, Shortbow
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Common, Goblin
-- **CR** 1 (XP 200; PB +2)
+**Skills**: Stealth +6
+**Gear** Chain Shirt, Scimitar, Shield, Shortbow
+**Senses**: darkvision 60 ft.; Passive Perception 9
+**Languages**: Common, Goblin
+**CR** 1 (XP 200; PB +2)
 
 ## Actions
 

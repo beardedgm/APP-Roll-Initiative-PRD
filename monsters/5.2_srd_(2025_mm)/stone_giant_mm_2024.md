@@ -2,10 +2,10 @@
 
 *Huge Giant, Neutral*
 
-- **Armor Class:** 17
-- **Hit Points:** 126 (11d12 + 55)
-- **Speed:** 40 ft.
-- **Initiative**: +5 (15)
+**Armor Class:** 17
+**Hit Points:** 126 (11d12 + 55)
+**Speed:** 40 ft.
+**Initiative**: +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +16,10 @@
 | WIS | 12 | +1 | +4 |
 | CHA | 9 | -1 | -1 |
 
-- **Skills**: Athletics +12, Perception +4, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Giant
-- **CR** 7 (XP 2,900; PB +3)
+**Skills**: Athletics +12, Perception +4, Stealth +5
+**Senses**: darkvision 60 ft.; Passive Perception 14
+**Languages**: Giant
+**CR** 7 (XP 2,900; PB +3)
 
 ## Actions
 
