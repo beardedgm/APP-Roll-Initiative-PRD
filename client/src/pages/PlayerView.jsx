@@ -6,6 +6,7 @@ export default function PlayerView() {
   const combatants = useCombatStore(s => s.combatants);
   const activeCreatureId = useCombatStore(s => s.activeCreatureId);
   const currentRound = useCombatStore(s => s.currentRound);
+  const latestSharedRoll = useCombatStore(s => s.latestSharedRoll);
 
   const encounter = {
     state: combatState,
@@ -19,6 +20,7 @@ export default function PlayerView() {
       encounter={encounter}
       isLoading={false}
       error={false}
+      latestSharedRoll={latestSharedRoll}
     />
   );
 }

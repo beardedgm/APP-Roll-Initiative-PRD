@@ -17,6 +17,7 @@ function getDefaultState() {
     diceHistory: [],
     cloudId: null,     // MongoDB _id when saved to cloud
     shareCode: null,   // share code for player view links
+    showRollsToPlayers: false,
   };
 }
 
@@ -33,6 +34,7 @@ const useCombatStore = create(
       // ── Undo/Redo (transient) ───────────────────────────────
       undoStack: [],
       redoStack: [],
+      latestSharedRoll: null, // { id, label, total, rolls, sides, modifier, advantage, timestamp }
 
       // ── Helpers ─────────────────────────────────────────────
       _pushUndo() {
@@ -275,6 +277,8 @@ const useCombatStore = create(
           diceHistory: preservedHistory,
           undoStack: [],
           redoStack: [],
+          showRollsToPlayers: false,
+          latestSharedRoll: null,
         });
       },
 
@@ -324,10 +328,20 @@ const useCombatStore = create(
           total,
         };
 
+        // Build label for display
+        const countStr = advantage !== 'normal' ? '1' : `${count}`;
+        const advStr = advantage === 'advantage' ? ' Adv' : advantage === 'disadvantage' ? ' Dis' : '';
+        const modStr = modifier > 0 ? `+${modifier}` : modifier < 0 ? `${modifier}` : '+0';
+        const label = `${countStr}d${sides}${advStr}${modStr}`;
+
         set(s => {
           const diceHistory = [entry, ...(s.diceHistory || [])];
           if (diceHistory.length > MAX_DICE_HISTORY) diceHistory.length = MAX_DICE_HISTORY;
-          return { diceHistory };
+          const updates = { diceHistory };
+          if (s.showRollsToPlayers) {
+            updates.latestSharedRoll = { ...entry, label, timestamp: Date.now() };
+          }
+          return updates;
         });
 
         return entry;
@@ -335,6 +349,10 @@ const useCombatStore = create(
 
       clearDiceHistory() {
         set({ diceHistory: [] });
+      },
+
+      toggleShowRolls() {
+        set(s => ({ showRollsToPlayers: !s.showRollsToPlayers }));
       },
     }),
     {
@@ -349,6 +367,7 @@ const useCombatStore = create(
         diceHistory: state.diceHistory,
         cloudId: state.cloudId,
         shareCode: state.shareCode,
+        showRollsToPlayers: state.showRollsToPlayers,
       }),
       merge: (persisted, current) => {
         if (!persisted) return current;
@@ -389,6 +408,8 @@ if (typeof BroadcastChannel !== 'undefined') {
       diceHistory: state.diceHistory,
       cloudId: state.cloudId,
       shareCode: state.shareCode,
+      showRollsToPlayers: state.showRollsToPlayers,
+      latestSharedRoll: state.latestSharedRoll,
     });
   });
 
