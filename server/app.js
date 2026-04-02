@@ -29,6 +29,7 @@ import encountersRouter, { sharedEncounterRouter } from './routes/encounters.js'
 import userDataRouter from './routes/userData.js';
 import billingRouter, { webhookRouter } from './routes/billing.js';
 import sitemapRouter from './routes/sitemap.js';
+import requireCsrf from './middleware/requireCsrf.js';
 import errorHandler from './middleware/errorHandler.js';
 
 // ── Process-level error handlers ─────────────────────────────
@@ -116,6 +117,14 @@ if (dbConnected) {
 } else {
   logger.warn('Sessions disabled — no database connection');
 }
+
+// ── CSRF Protection ────────────────────────────────────────
+// Applied to all /api/* routes except the Stripe webhook (which uses its own signature verification)
+app.use('/api', (req, res, next) => {
+  // Skip CSRF for the webhook route — it has its own auth via stripe-signature
+  if (req.path === '/billing/webhook') return next();
+  requireCsrf(req, res, next);
+});
 
 // ── SEO Routes ──────────────────────────────────────────────
 app.use(sitemapRouter);

@@ -6,94 +6,80 @@ import requireAuth from '../middleware/requireAuth.js';
 import logger from '../config/logger.js';
 import express from 'express';
 import { sendPaymentReceiptEmail, sendPaymentFailedEmail, sendSubscriptionCancelledEmail } from '../services/emailService.js';
+import asyncHandler from '../utils/asyncHandler.js';
 
 const router = Router();
 
 // ── Create Checkout Session ──────────────────────────────────
-router.post('/api/billing/create-checkout-session', requireAuth, async (req, res) => {
+router.post('/api/billing/create-checkout-session', requireAuth, asyncHandler(async (req, res) => {
   if (!stripe) return res.status(503).json({ error: 'Billing not configured' });
 
-  try {
-    const user = await User.findById(req.session.userId);
-    if (!user) return res.status(401).json({ error: 'User not found' });
+  const user = await User.findById(req.session.userId);
+  if (!user) return res.status(401).json({ error: 'User not found' });
 
-    // Create or reuse Stripe customer
-    let customerId = user.stripeCustomerId;
-    if (!customerId) {
-      const customer = await stripe.customers.create({
-        email: user.email,
-        metadata: { userId: user._id.toString() },
-      });
-      customerId = customer.id;
-      user.stripeCustomerId = customerId;
-      await user.save();
-    }
-
-    const appUrl = process.env.APP_URL || 'http://localhost:5173';
-
-    const session = await stripe.checkout.sessions.create({
-      customer: customerId,
-      mode: 'subscription',
-      line_items: [{
-        price: process.env.STRIPE_PRICE_ID_MONTHLY,
-        quantity: 1,
-      }],
-      success_url: `${appUrl}/dashboard?session_id={CHECKOUT_SESSION_ID}`,
-      cancel_url: `${appUrl}/pricing`,
-      subscription_data: {
-        metadata: { userId: user._id.toString() },
-      },
+  // Create or reuse Stripe customer
+  let customerId = user.stripeCustomerId;
+  if (!customerId) {
+    const customer = await stripe.customers.create({
+      email: user.email,
+      metadata: { userId: user._id.toString() },
     });
-
-    res.json({ url: session.url });
-  } catch (err) {
-    logger.error({ err }, 'Failed to create checkout session');
-    res.status(500).json({ error: 'Failed to create checkout session' });
+    customerId = customer.id;
+    user.stripeCustomerId = customerId;
+    await user.save();
   }
-});
+
+  const appUrl = process.env.APP_URL || 'http://localhost:5173';
+
+  const session = await stripe.checkout.sessions.create({
+    customer: customerId,
+    mode: 'subscription',
+    line_items: [{
+      price: process.env.STRIPE_PRICE_ID_MONTHLY,
+      quantity: 1,
+    }],
+    success_url: `${appUrl}/dashboard?session_id={CHECKOUT_SESSION_ID}`,
+    cancel_url: `${appUrl}/pricing`,
+    subscription_data: {
+      metadata: { userId: user._id.toString() },
+    },
+  });
+
+  res.json({ url: session.url });
+}));
 
 // ── Create Customer Portal Session ───────────────────────────
-router.post('/api/billing/create-portal-session', requireAuth, async (req, res) => {
+router.post('/api/billing/create-portal-session', requireAuth, asyncHandler(async (req, res) => {
   if (!stripe) return res.status(503).json({ error: 'Billing not configured' });
 
-  try {
-    const user = await User.findById(req.session.userId);
-    if (!user?.stripeCustomerId) {
-      return res.status(400).json({ error: 'No billing account found' });
-    }
-
-    const appUrl = process.env.APP_URL || 'http://localhost:5173';
-
-    const session = await stripe.billingPortal.sessions.create({
-      customer: user.stripeCustomerId,
-      return_url: `${appUrl}/settings`,
-    });
-
-    res.json({ url: session.url });
-  } catch (err) {
-    logger.error({ err }, 'Failed to create portal session');
-    res.status(500).json({ error: 'Failed to create portal session' });
+  const user = await User.findById(req.session.userId);
+  if (!user?.stripeCustomerId) {
+    return res.status(400).json({ error: 'No billing account found' });
   }
-});
+
+  const appUrl = process.env.APP_URL || 'http://localhost:5173';
+
+  const session = await stripe.billingPortal.sessions.create({
+    customer: user.stripeCustomerId,
+    return_url: `${appUrl}/settings`,
+  });
+
+  res.json({ url: session.url });
+}));
 
 // ── Subscription Status ──────────────────────────────────────
-router.get('/api/billing/status', requireAuth, async (req, res) => {
-  try {
-    const user = await User.findById(req.session.userId)
-      .select('subscriptionStatus subscriptionId currentPeriodEnd role');
+router.get('/api/billing/status', requireAuth, asyncHandler(async (req, res) => {
+  const user = await User.findById(req.session.userId)
+    .select('subscriptionStatus subscriptionId currentPeriodEnd role');
 
-    if (!user) return res.status(401).json({ error: 'User not found' });
+  if (!user) return res.status(401).json({ error: 'User not found' });
 
-    res.json({
-      subscriptionStatus: user.subscriptionStatus,
-      currentPeriodEnd: user.currentPeriodEnd,
-      isActive: user.subscriptionStatus === 'active' || user.role === 'admin',
-    });
-  } catch (err) {
-    logger.error({ err }, 'Failed to get billing status');
-    res.status(500).json({ error: 'Failed to get billing status' });
-  }
-});
+  res.json({
+    subscriptionStatus: user.subscriptionStatus,
+    currentPeriodEnd: user.currentPeriodEnd,
+    isActive: user.subscriptionStatus === 'active' || user.role === 'owner',
+  });
+}));
 
 // ── Stripe Webhook ───────────────────────────────────────────
 // NOTE: This needs raw body, so it's mounted before express.json()
