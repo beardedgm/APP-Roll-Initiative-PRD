@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { Swords, Heart, Monitor, Dices, Save, RotateCcw, BookOpen } from 'lucide-react';
 import useScrollReveal from '../hooks/useScrollReveal';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
@@ -19,8 +20,8 @@ export default function Features() {
             Every Tool a <span className="hero__title-accent">DM Needs</span>
           </h1>
           <p className="hero__subtitle reveal">
-            From initiative rolls to the final blow &mdash; manage every moment
-            of combat with precision and speed.
+            A complete D&amp;D encounter tracker and Pathfinder 2e initiative
+            tracker &mdash; manage every moment of combat with precision and speed.
           </p>
         </div>
       </section>
@@ -30,7 +31,7 @@ export default function Features() {
 
         {/* Initiative Management */}
         <div className="feature-detail reveal">
-          <div className="feature-detail__icon-wrap">&#9876;</div>
+          <div className="feature-detail__icon-wrap"><Swords size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">Initiative Management</h2>
             <p className="feature-detail__desc">
@@ -47,19 +48,51 @@ export default function Features() {
           </div>
         </div>
 
+        {/* Monster Database */}
+        <div className="feature-detail feature-detail--reverse feature-detail--green reveal">
+          <div className="feature-detail__icon-wrap"><BookOpen size={32} /></div>
+          <div className="feature-detail__text">
+            <h2 className="feature-detail__title">5,700+ Pre-Loaded Monsters</h2>
+            <p className="feature-detail__desc">
+              Search, filter, and browse a massive creature database spanning
+              D&amp;D 5e and Pathfinder 2e. Every creature includes a full stat
+              block with clickable dice notation &mdash; click any roll in the
+              stat block to roll it instantly. Create and save your own custom
+              monsters alongside the official sources.
+            </p>
+            <p className="feature-detail__sources">
+              <strong>D&amp;D 5e sources:</strong> SRD 5.1, SRD 5.2, Level Up:
+              Advanced 5e, Black Flag Reference Document, Creature Codex, Tome
+              of Beasts 1, 2, &amp; 3
+            </p>
+            <p className="feature-detail__sources">
+              <strong>Pathfinder 2e sources:</strong> Bestiary 1&ndash;3,
+              Gamemastery Guide, Advanced Player&rsquo;s Guide, Book of the Dead,
+              Secrets of Magic, and 70+ adventure path bestiaries
+            </p>
+            <div className="feature-detail__tags">
+              <span className="feature-tag">5e &amp; PF2e</span>
+              <span className="feature-tag">Full Stat Blocks</span>
+              <span className="feature-tag">Clickable Dice</span>
+              <span className="feature-tag">Custom Monsters</span>
+            </div>
+          </div>
+        </div>
+
         {/* HP & Status Tracking */}
-        <div className="feature-detail feature-detail--reverse feature-detail--red reveal">
-          <div className="feature-detail__icon-wrap">&#9829;</div>
+        <div className="feature-detail feature-detail--red reveal">
+          <div className="feature-detail__icon-wrap"><Heart size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">HP &amp; Status Tracking</h2>
             <p className="feature-detail__desc">
-              Every combatant has a visual health bar that updates in real time.
-              Apply damage or healing with a quick input. Set status conditions
-              &mdash; hurt, bloody, or unconscious &mdash; that display as
-              badges on both the DM and player views.
+              Every combatant&rsquo;s hit points are tracked with color-coded
+              health indicators &mdash; green for healthy, yellow for hurt, red
+              for bloody, and gray for unconscious. Apply damage or healing with
+              a quick input. Status badges display on both the DM and player views
+              so everyone knows who&rsquo;s still standing.
             </p>
             <div className="feature-detail__tags">
-              <span className="feature-tag">Health Bars</span>
+              <span className="feature-tag">Color-Coded HP</span>
               <span className="feature-tag">Damage &amp; Heal</span>
               <span className="feature-tag">Status Badges</span>
             </div>
@@ -67,27 +100,29 @@ export default function Features() {
         </div>
 
         {/* Real-Time Player View */}
-        <div className="feature-detail feature-detail--blue reveal">
-          <div className="feature-detail__icon-wrap">&#128250;</div>
+        <div className="feature-detail feature-detail--reverse feature-detail--blue reveal">
+          <div className="feature-detail__icon-wrap"><Monitor size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">Real-Time Player View</h2>
             <p className="feature-detail__desc">
               Open the player view in a separate browser tab on a TV or second
-              monitor. It auto-syncs with the DM view via localStorage &mdash;
-              no server, no login, no delay. The display is TV-optimized with
-              large, readable text and auto-scaling for any number of combatants.
+              monitor. It syncs instantly with the DM view &mdash; no delay,
+              no server required for local play. The display is TV-optimized
+              with large, readable text and auto-scaling for any number of
+              combatants. Premium users can generate shareable links for
+              remote players on any device.
             </p>
             <div className="feature-detail__tags">
               <span className="feature-tag">TV-Optimized</span>
-              <span className="feature-tag">Auto-Sync</span>
-              <span className="feature-tag">No Login</span>
+              <span className="feature-tag">Instant Sync</span>
+              <span className="feature-tag">Shareable Links</span>
             </div>
           </div>
         </div>
 
         {/* Dice Roller */}
-        <div className="feature-detail feature-detail--reverse feature-detail--purple reveal">
-          <div className="feature-detail__icon-wrap">&#127922;</div>
+        <div className="feature-detail feature-detail--purple reveal">
+          <div className="feature-detail__icon-wrap"><Dices size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">Built-In Dice Roller</h2>
             <p className="feature-detail__desc">
@@ -105,27 +140,27 @@ export default function Features() {
         </div>
 
         {/* Encounter Management */}
-        <div className="feature-detail feature-detail--green reveal">
-          <div className="feature-detail__icon-wrap">&#128190;</div>
+        <div className="feature-detail feature-detail--reverse feature-detail--green reveal">
+          <div className="feature-detail__icon-wrap"><Save size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">Encounter Management</h2>
             <p className="feature-detail__desc">
               Save encounters to your browser&rsquo;s local storage and reload
               them in future sessions. Export encounters as portable JSON files
-              to share with other DMs or back up your data. Import files to
-              instantly restore a full encounter state.
+              to share with other DMs or back up your data. Premium users get
+              cloud saves with cross-device sync and an encounter dashboard.
             </p>
             <div className="feature-detail__tags">
               <span className="feature-tag">Save &amp; Load</span>
               <span className="feature-tag">JSON Export</span>
-              <span className="feature-tag">Import</span>
+              <span className="feature-tag">Cloud Sync</span>
             </div>
           </div>
         </div>
 
         {/* Undo / Redo */}
-        <div className="feature-detail feature-detail--reverse feature-detail--amber reveal">
-          <div className="feature-detail__icon-wrap">&#8634;</div>
+        <div className="feature-detail feature-detail--amber reveal">
+          <div className="feature-detail__icon-wrap"><RotateCcw size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">Full Undo &amp; Redo</h2>
             <p className="feature-detail__desc">
@@ -147,7 +182,8 @@ export default function Features() {
       <section className="cta-banner section--bordered">
         <h2 className="cta-banner__title reveal">Start Your Encounter</h2>
         <p className="cta-banner__subtitle reveal">
-          No sign-up. No download. Open the app and roll initiative in seconds.
+          The fastest D&amp;D initiative tracker online &mdash; with full
+          Pathfinder 2e support. No sign-up, no download. Just open and play.
         </p>
         <Link to="/tracker" className="btn btn--lg btn--primary reveal">Launch App</Link>
       </section>

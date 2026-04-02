@@ -26,8 +26,9 @@ export default function Pricing() {
       <main className="pricing-page">
         <h1 className="pricing-page__title">Choose Your Path</h1>
         <p className="pricing-page__subtitle">
-          The free tier gives you everything you need for local play.
-          Go premium to unlock cloud saves and shared player views.
+          A complete D&amp;D encounter tracker and Pathfinder 2e initiative tracker.
+          The free tier gives you everything for local play &mdash; go premium for
+          cloud saves and shared player views.
         </p>
 
         <div className="pricing-grid">
@@ -39,11 +40,13 @@ export default function Pricing() {
               <span className="pricing-card__period">forever</span>
             </div>
             <ul className="pricing-card__features">
-              <li>Full initiative tracker</li>
+              <li>Full initiative tracker (5e &amp; PF2e)</li>
               <li>Add unlimited combatants</li>
               <li>Dice roller with advantage</li>
-              <li>Monster database (3,141 creatures)</li>
-              <li>Stat block previews</li>
+              <li>5,700+ monsters from official SRDs</li>
+              <li>Full stat blocks with clickable dice</li>
+              <li>Custom monster creation</li>
+              <li>Character library</li>
               <li>JSON export/import</li>
               <li>Local encounter saves</li>
               <li>Local player view (same device)</li>
