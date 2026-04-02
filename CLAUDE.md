@@ -41,24 +41,22 @@ This file describes the architecture, conventions, and rules for this codebase. 
 │       ├── api/                # TanStack Query hooks + Axios instance
 │       ├── components/
 │       │   ├── auth/
-│       │   ├── layout/         # Navbar, Footer, ProtectedRoute, OwnerRoute
+│       │   ├── layout/         # Navbar, Footer, ProtectedRoute, OwnerRoute, SubscriptionGate
 │       │   ├── payments/
 │       │   └── ui/
 │       ├── pages/
 │       │   └── admin/
-│       ├── store/              # Zustand stores
-│       ├── hooks/
+│       ├── store/              # Zustand stores (useCombatStore, useUserDataStore)
+│       ├── hooks/              # useCloudSync, useUserDataSync
 │       └── utils/
 ├── server/
-│   ├── config/                 # DB, session, logger, Stripe, Resend, Turnstile
-│   ├── models/                 # Mongoose schemas
-│   ├── validators/             # Zod schemas
-│   ├── middleware/
-│   ├── routes/
-│   ├── services/               # emailService, stripeService
-│   ├── emails/                 # HTML email template functions
-│   ├── utils/
-│   └── __tests__/
+│   ├── config/                 # DB, session, logger, Stripe, Resend, Turnstile, Sentry
+│   ├── models/                 # User, Encounter, Monster, UserData, LoginAttempt, EmailToken, ProcessedEvent
+│   ├── validators/             # Zod schemas (auth, encounters, monsters, userData)
+│   ├── middleware/             # requireAuth, requireOwner, requireSubscription, requireCsrf, validate, rateLimitAuth, rateLimitGeneral, verifyTurnstile, errorHandler
+│   ├── routes/                 # auth, billing, encounters, health, monsters, sitemap, userData
+│   ├── services/               # emailService
+│   └── utils/                  # asyncHandler, sessionUtils
 ├── scripts/
 │   └── promote-owner.js
 ├── .github/workflows/ci.yml
@@ -72,19 +70,24 @@ This file describes the architecture, conventions, and rules for this codebase. 
 ## Dev Commands
 
 ```bash
-# From repo root
-cd server && npm run dev      # Express API on :5000
-cd client && npm run dev      # Vite dev server on :5173
+# First-time setup
+npm install                   # Root deps (concurrently)
+cd client && npm install      # Frontend deps
+cd server && npm install      # Backend deps
 
-# Tests (run from /server)
-npm test                      # Jest
-npm run test:coverage
+# Development (from repo root)
+npm run dev                   # Runs server (:5000) + client (:5173) via concurrently
+npm run dev:client            # Vite only (no backend needed for UI work)
+npm run dev:server            # Express only
+
+# Seed data (from repo root or /server)
+npm run seed:monsters         # Populate Monster collection from SRD data
 
 # Build (Render runs this on deploy)
 cd client && npm run build    # Outputs to client/dist/
 ```
 
-Express serves `client/dist` as static files in production. There is no separate frontend deployment.
+Express serves `client/dist` as static files in production. There is no separate frontend deployment. Node >= 20 required.
 
 ---
 
@@ -99,12 +102,15 @@ Express serves `client/dist` as static files in production. There is no separate
 - `timingSafeEqual` for all password and token comparisons — no string equality.
 
 ### CSRF
-- Custom X-header double-submit pattern. No CSRF token libraries.
+- Custom X-header double-submit pattern via `requireCsrf.js` middleware.
+- Mounted on all `/api/*` routes in `app.js`, except `/api/billing/webhook` (which uses Stripe signature verification).
+- Axios instance sends `X-Requested-With: XMLHttpRequest` on all requests.
 - CORS must whitelist only the app's own origin. Never `origin: '*'` in production.
 
 ### Rate Limiting
-- MongoDB sliding window collection — no Redis, no external service.
-- Thresholds: login 10/15 min, registration 5/hr, password reset 3/hr, general API 100/min.
+- MongoDB sliding window collection via `LoginAttempt` model — no Redis, no external service.
+- All rate limiters use `rateLimitByIP()` from `rateLimitGeneral.js` (reuses the 15-min TTL window).
+- Thresholds: login 10/15 min, registration 5/15 min, password reset 5/15 min, health/sitemap/shared 30/15 min.
 - TTL indexes auto-clean expired records.
 
 ### Stripe Webhooks
@@ -123,7 +129,7 @@ Express serves `client/dist` as static files in production. There is no separate
 - Handle Resend bounce/complaint webhooks. Hard bounces and spam complaints suppress the address permanently.
 
 ### Validation
-- Zod schemas live in `server/validators/`. One schema file per domain (auth, user, billing).
+- Zod schemas live in `server/validators/`. One schema file per domain (auth, encounters, monsters, userData).
 - `validate.js` middleware strips unknown fields before any route handler runs.
 - Schemas can be shared with the frontend — define once, use in both places.
 
@@ -141,17 +147,18 @@ Express serves `client/dist` as static files in production. There is no separate
 - Everything else (routes, models, services, hooks, utils): `camelCase.js`
 
 ### Models
-- Core models (always present): `User`, `LoginAttempt`, `EmailToken`, `ProcessedEvent`, `Session`
+- Core models: `User`, `LoginAttempt`, `EmailToken`, `ProcessedEvent`, `Session`
+- App models: `Monster`, `Encounter`, `UserData` (characters, custom monsters, encounter presets)
 - TTL indexes on: `LoginAttempt` (15 min), `EmailToken` (24h for verify, 1h for reset), `ProcessedEvent` (30 days)
 
 ### API Routes
 - All API routes prefixed with `/api/`
-- Public: `/api/auth/*`
-- Authenticated: `/api/user/*`
-- Subscription-gated: `/api/app/*`
-- Owner-only: `/api/admin/*`
+- Public: `/api/auth/*`, `/api/monsters/*`, `/api/health`, `/api/shared/:code`
+- Authenticated: `/api/billing/*`
+- Subscription-gated: `/api/encounters/*`, `/api/user-data/*` (owners bypass)
+- Owner-only: `/api/admin/*` (gated by `requireOwner` middleware)
 - Stripe webhooks: `/api/billing/webhook` (raw body parser, no session/CSRF middleware)
-- Sitemap mounted before the SPA catch-all
+- Sitemap/robots.txt mounted before the SPA catch-all
 
 ### Environment Variables
 - `.env.example` is committed and documents every required variable.
