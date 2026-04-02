@@ -1,0 +1,30 @@
+# Elder Cauthooj
+*Creature 14*
+
+rare, n, medium, beast
+
+---
+
+**Perception** +25
+**Languages** sylvan (can't speak any language)
+**STR** +6, **DEX** +4, **CON** +7, **INT** -3, **WIS** +3, **CHA** +0
+
+**Thoughtsense** (divination, mental, occult) As cauthooj.
+
+---
+
+**AC** 36
+**Fort** +28, **Ref** +23, **Will** +21
+**HP** 255
+**Resistances** sonic 15
+
+**Hop-Dodge** ◈ (move) As cauthooj.
+
+---
+
+Speed 40 feet
+
+**Melee** beak +29 (agile, deadly <d12>, reach <10 feet>); **Damage** 2d12+15 piercing
+
+**Staccato Strike** ◆ (mental, primal, sonic) As cauthooj.
+**Warbling Song** ◆◆ (auditory, incapacitation, mental, primal) As cauthooj, but DC 34.

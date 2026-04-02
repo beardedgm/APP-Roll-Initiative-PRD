@@ -1,0 +1,30 @@
+# I
+*Creature 7*
+
+unique, cn, medium, aberration
+
+---
+
+**Perception** +19
+**Languages** common, gnoll, osiriani (can't speak any language)
+**STR** +4, **DEX** +1, **CON** +2, **INT** +4, **WIS** +2, **CHA** +1
+**Items** thunder helm (page 78)
+
+---
+
+**AC** 25
+**Fort** +14, **Ref** +12, **Will** +14
+**HP** 110
+**Resistances** bludgeoning 10
+
+---
+
+Speed 25 feet, burrow 25 feet
+
+**Melee** arm +16 (agile, reach <10 feet>); **Damage** 2d8+6 bludgeoning plus Grab
+**Melee** beak +16; **Damage** 2d8+6 piercing plus I venom
+
+**Innate primal Spells** (DC 25)
+
+**Constrict** ◆ 1d8+8 bludgeoning 
+**Writhing Arms** ◆◆ I makes up to four Strikes with different arms, each against a different target. Each attack counts separately for their multiple attack penalty, but the penalty doesn't increase until all attacks have been made. If I subsequently uses the Grab action, they can Grab any number of creatures they hit with Writhing Arms.

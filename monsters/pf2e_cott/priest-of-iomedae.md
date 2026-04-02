@@ -1,0 +1,32 @@
+# Priest of Iomedae
+*Creature 7*
+
+uncommon, medium, humanoid
+
+---
+
+**Perception** +15
+**Languages** common
+**STR** +4, **DEX** +2, **CON** +3, **INT** +2, **WIS** +6, **CHA** +3
+**Items** dagger, +1 longsword, religious symbol of {@deity Iomedae|PC1}
+
+---
+
+**AC** 24
+**Fort** +15, **Ref** +13, **Will** +18
+**HP** 110
+
+---
+
+Speed 25 feet
+
+**Melee** longsword +16 (magical, versatile <P>); **Damage** 1d8+9 slashing
+**Melee** dagger +15 (agile, versatile <S>); **Damage** 1d4+8 piercing
+**Melee** dagger +15 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
+
+**Prepared divine Spells** (DC 25), attack +17
+
+**Cleric Domain Spells** (DC 25)
+
+**Healing Hands** When the priest casts heal, they roll d10|d10s instead of d8|d8s.
+**Steady Spellcasting** If another creature's reaction would disrupt the priest's spellcasting action, the priest attempts a DC 15 flat check. If the priest succeeds, their action isn't disrupted.

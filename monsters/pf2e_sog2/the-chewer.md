@@ -1,0 +1,33 @@
+# The Chewer
+*Creature 6*
+
+unique, le, medium, undead
+
+---
+
+**Perception** +14
+**Languages** common
+**STR** +5, **DEX** +4, **CON** +2, **INT** +1, **WIS** +4, **CHA** +2
+**Items** {@runeItem temple sword||+1 weapon potency||striking||ghost touch|}
+
+---
+
+**AC** 24
+**Fort** +12, **Ref** +16, **Will** +14
+**HP** 90
+
+---
+
+Speed 35 feet
+
+**Melee** fist +17 (agile, magical); **Damage** 1d6+8 bludgeoning plus 1d4 negative and sagebane plus sagebane
+**Melee** temple sword +18 (magical, monk, trip); **Damage** 2d8+8 slashing
+
+**Black Apoxia** (disease)
+**Brawling Critical** When the kurobozu scores a critical hit with an unarmed attack, the target must succeed at a DC 22 Fortitude save or be slowed 1 until the end of its next turn.
+**Sagebane** (necromancy, occult) When the kurobozu damages a living creature with an unarmed Strike, the target must succeed at a DC 24 Fortitude save or become stupefied 1 for 1 minute. Further damage dealt by the kurobozu resets the duration to 1 minute and increases the stupefied value by 1 on a failed save, to a maximum of stupefied 4.
+**Steal Breath** ◆◆ (incapacitation, necromancy, occult) **Requirements** The kurobozu is adjacent to a living creature that is paralyzed, slowed, stunned, or unconscious; The kurobozu leans over and sucks the breath from the target, who must attempt a DC 22 Fortitude save. Regardless of the result, the creature is exposed to black apoxia and its breath reeks of carrion for 1 minute. **Critical Success** The creature is unaffected.
+**Success** The creature can't speak for 1 minute.
+**Failure** The creature becomes sickened 2 and can't speak for 1 minute.
+**Critical Failure** As failure, plus the creature falls unconscious and begins suffocating.
+**Stunning Flurry** ◆ **Frequency** {"unit":"round","number":1}; The kurobozu makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses, and the target must succeed at a DC 22 Fortitude save or be stunned 1 (or stunned 3 on a critical failure); this save has the incapacitation trait.

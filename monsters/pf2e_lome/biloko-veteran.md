@@ -1,0 +1,32 @@
+# Biloko Veteran
+*Creature 4*
+
+ne, small, fey
+
+---
+
+**Perception** +11
+**Languages** mwangi, sylvan
+**STR** +4, **DEX** +4, **CON** +0, **INT** +0, **WIS** +3, **CHA** +2
+**Items** longspear, shortbow (20 arrows)
+
+---
+
+**AC** 21
+**Fort** +8, **Ref** +14, **Will** +11
+**HP** 58
+
+**Attack of Opportunity** ◈
+
+---
+
+Speed 20 feet
+
+**Melee** jaws +12; **Damage** 2d8+4 piercing
+**Melee** longspear +12 (reach <10 feet>); **Damage** 1d8+4 piercing
+**Melee** shortbow +12 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing
+
+**Innate primal Spells** (DC 18)
+
+**Inspired Feast** (emotion, mental) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour.
+**Swipe** ◆◆ The veteran makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within their melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Swipe counts as two attacks for the biloko veteran's multiple attack penalty.

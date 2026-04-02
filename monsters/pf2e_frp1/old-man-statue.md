@@ -1,0 +1,35 @@
+# Old Man Statue
+*Creature 14*
+
+unique, ln, huge, construct, divine, mindless
+
+---
+
+**Perception** +24
+**Languages** tien (can't speak any language)
+**STR** +8, **DEX** -1, **CON** +8, **INT** -5, **WIS** +0, **CHA** -5
+
+---
+
+**AC** 36
+**Fort** +28, **Ref** +19, **Will** +22
+**HP** 160
+**Immunities** bleed, death effects, disease, doomed
+**Resistances** physical 10
+
+**Divine Destruction** (divine, necromancy, positive) 14d6 positive, DC 32
+**Faith Bound** As divine warden (Irori).
+
+---
+
+Speed 30 feet
+
+**Melee** fist +28 (magical, reach <10 feet>); **Damage** 3d10+14 bludgeoning plus Grab plus Grab
+**Melee** staff +30 (magical, parry, reach <15 feet>, trip); **Damage** 3d8+14 bludgeoning
+
+**Innate divine Spells** (DC 32), attack +24
+
+**Focus divine Spells** (DC 32)
+
+**Faithful Weapon** As divine warden (staff).
+**Instrument of Faith** As divine warden (Irori).
