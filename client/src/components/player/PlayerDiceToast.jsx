@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, useCallback } from 'react';
 
 function getNatClass(entry) {
   if (!entry || entry.sides !== 20) return '';
@@ -25,33 +25,35 @@ function Breakdown({ entry }) {
 }
 
 export default function PlayerDiceToast({ latestSharedRoll }) {
-  const [visible, setVisible] = useState(false);
-  const [roll, setRoll] = useState(null);
-  const lastTimestampRef = useRef(null);
+  const [dismissedTimestamp, setDismissedTimestamp] = useState(null);
   const timerRef = useRef(null);
 
-  useEffect(() => {
-    if (!latestSharedRoll || latestSharedRoll.timestamp === lastTimestampRef.current) return;
+  const timestamp = latestSharedRoll?.timestamp ?? null;
+  const visible = timestamp !== null && timestamp !== dismissedTimestamp;
 
-    lastTimestampRef.current = latestSharedRoll.timestamp;
-    setRoll(latestSharedRoll);
-    setVisible(true);
+  const dismiss = useCallback(() => {
+    setDismissedTimestamp(timestamp);
+  }, [timestamp]);
+
+  // Auto-dismiss timer — subscribes to external timeout system
+  useEffect(() => {
+    if (!visible) return;
 
     if (timerRef.current) clearTimeout(timerRef.current);
-    timerRef.current = setTimeout(() => setVisible(false), 6000);
+    timerRef.current = setTimeout(dismiss, 6000);
 
     return () => {
       if (timerRef.current) clearTimeout(timerRef.current);
     };
-  }, [latestSharedRoll]);
+  }, [visible, dismiss]);
 
-  if (!roll || !visible) return null;
+  if (!latestSharedRoll || !visible) return null;
 
   return (
-    <div className={`player-dice-toast ${getNatClass(roll)}`} key={roll.timestamp}>
-      <span className="player-dice-toast__label">{roll.label}</span>
-      <span className="player-dice-toast__total">{roll.total}</span>
-      <Breakdown entry={roll} />
+    <div className={`player-dice-toast ${getNatClass(latestSharedRoll)}`} key={timestamp}>
+      <span className="player-dice-toast__label">{latestSharedRoll.label}</span>
+      <span className="player-dice-toast__total">{latestSharedRoll.total}</span>
+      <Breakdown entry={latestSharedRoll} />
       <div className="player-dice-toast__timer" />
     </div>
   );
