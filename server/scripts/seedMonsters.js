@@ -262,6 +262,104 @@ function parseBlackFlag(md) {
   return result;
 }
 
+// ── Parse PF2e format ───────────────────────────────────────
+function parsePf2e(md) {
+  const lines = md.split('\n');
+  const result = { abilities: {} };
+
+  // Name: first # heading
+  const nameMatch = md.match(/^#\s+(.+)$/m);
+  result.name = nameMatch ? nameMatch[1].trim() : 'Unknown';
+
+  // Level: *Creature N* → store as cr (string) and crNumeric (int)
+  const levelMatch = md.match(/\*Creature\s+(-?\d+)\*/i);
+  if (levelMatch) {
+    result.cr = levelMatch[1];
+    result.crNumeric = parseInt(levelMatch[1]);
+  }
+
+  // Traits line: between *Creature N* and first ---
+  // Find the creature line index, then collect italicized trait segments before the first ---
+  const creatureLine = lines.findIndex(l => /\*Creature\s+-?\d+\*/i.test(l));
+  if (creatureLine !== -1) {
+    const separatorIdx = lines.findIndex((l, i) => i > creatureLine && /^---/.test(l));
+    const traitLines = lines.slice(creatureLine + 1, separatorIdx !== -1 ? separatorIdx : creatureLine + 5);
+    const traitsText = traitLines.join(' ');
+
+    // Extract all italic/bold-italic trait segments
+    const traitMatches = traitsText.match(/\*\*?([^*]+)\*\*?/g);
+    if (traitMatches) {
+      const traits = traitMatches.map(t => t.replace(/\*+/g, '').trim()).filter(Boolean);
+      // Size is typically first (Tiny, Small, Medium, Large, Huge, Gargantuan)
+      const sizeWords = ['tiny', 'small', 'medium', 'large', 'huge', 'gargantuan'];
+      const sizeMatch = traits.find(t => sizeWords.includes(t.toLowerCase()));
+      result.size = sizeMatch || '';
+      // Type is the remaining traits joined (creature type traits)
+      result.type = traits.filter(t => t !== sizeMatch).join(', ');
+    }
+  }
+
+  // Alignment: PF2e uses traits — store empty string
+  result.alignment = '';
+
+  // AC: **AC** N
+  const acMatch = md.match(/\*\*AC\*\*\s*(\d+)/i);
+  if (acMatch) {
+    result.ac = parseInt(acMatch[1]);
+    result.acDesc = '';
+  }
+
+  // HP: **HP** N
+  const hpMatch = md.match(/\*\*HP\*\*\s*(\d+)/i);
+  if (hpMatch) {
+    result.hp = parseInt(hpMatch[1]);
+    result.hpFormula = '';
+  }
+
+  // Perception: **Perception** +N → initMod
+  const perceptionMatch = md.match(/\*\*Perception\*\*\s*([+-]?\d+)/i);
+  if (perceptionMatch) {
+    result.initMod = parseInt(perceptionMatch[1]);
+  }
+
+  // Ability modifiers: **STR** +N, **DEX** +N, **CON** +N, **INT** +N, **WIS** +N, **CHA** +N
+  const abilityNames = ['str', 'dex', 'con', 'int', 'wis', 'cha'];
+  for (const ability of abilityNames) {
+    const abilityRegex = new RegExp(`\\*\\*${ability}\\*\\*\\s*([+-]?\\d+)`, 'i');
+    const abilityMatch = md.match(abilityRegex);
+    if (abilityMatch) {
+      result.abilities[ability] = parseInt(abilityMatch[1]);
+    }
+  }
+
+  return result;
+}
+
+// ── Build source map (static + auto-detected pf2e_ folders) ─
+function buildSourceMap() {
+  const map = { ...SOURCE_MAP };
+
+  if (!fs.existsSync(MONSTERS_DIR)) return map;
+
+  const entries = fs.readdirSync(MONSTERS_DIR, { withFileTypes: true });
+  for (const entry of entries) {
+    if (!entry.isDirectory()) continue;
+    if (!entry.name.startsWith('pf2e_')) continue;
+    if (map[entry.name]) continue; // don't overwrite if already defined
+
+    // e.g. pf2e_b1 → label "PF2e B1"
+    const suffix = entry.name.slice(5).toUpperCase(); // strip "pf2e_"
+    map[entry.name] = {
+      key: entry.name,
+      label: `PF2e ${suffix}`,
+      format: 'pf2e',
+      gameSystem: 'pf2e',
+    };
+  }
+
+  return map;
+}
+
 // ── Main seed function ───────────────────────────────────────
 async function seed() {
   console.log('Connecting to MongoDB...');
@@ -272,7 +370,9 @@ async function seed() {
   let totalFiles = 0;
   let errors = 0;
 
-  for (const [folder, config] of Object.entries(SOURCE_MAP)) {
+  const sourceMap = buildSourceMap();
+
+  for (const [folder, config] of Object.entries(sourceMap)) {
     const folderPath = path.join(MONSTERS_DIR, folder);
     if (!fs.existsSync(folderPath)) {
       console.warn(`  Skipping missing folder: ${folder}`);
@@ -288,7 +388,9 @@ async function seed() {
         const slug = `${config.key}--${slugFromFilename(file)}`;
 
         let parsed;
-        if (config.format === '5.2') {
+        if (config.format === 'pf2e') {
+          parsed = parsePf2e(md);
+        } else if (config.format === '5.2') {
           parsed = parse52(md);
         } else if (config.format === 'black_flag') {
           parsed = parseBlackFlag(md);
@@ -305,6 +407,7 @@ async function seed() {
                 slug,
                 source: config.label,
                 sourceKey: config.key,
+                gameSystem: config.gameSystem || '5e',
                 cr: parsed.cr || '',
                 crNumeric: parsed.crNumeric || 0,
                 hp: parsed.hp || 0,
