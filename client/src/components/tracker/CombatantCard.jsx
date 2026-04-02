@@ -12,6 +12,7 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
   const combatState = useCombatStore(s => s.state);
   const [hpInput, setHpInput] = useState('');
   const [inputError, setInputError] = useState(false);
+  const [lastAction, setLastAction] = useState('damage');
   const inputRef = useRef(null);
 
   function handleAction(action) {
@@ -23,11 +24,18 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
       return;
     }
     applyDamageHeal(id, action, amount);
+    setLastAction(action);
     setHpInput('');
   }
 
   function handleKeyDown(e) {
-    if (e.key === 'Enter') handleAction('damage');
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      const action = e.shiftKey
+        ? (lastAction === 'damage' ? 'heal' : 'damage')
+        : lastAction;
+      handleAction(action);
+    }
   }
 
   return (
@@ -85,13 +93,13 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
               ref={inputRef}
               type="number"
               className={`hp-input${inputError ? ' input-error' : ''}`}
-              placeholder="Amt"
+              placeholder="10"
               min={1}
               max={9999}
               value={hpInput}
               onChange={e => setHpInput(e.target.value)}
               onKeyDown={handleKeyDown}
-              title="Enter amount then click Dmg or Heal"
+              title="Enter amount, then press Enter or click Dmg/Heal. Shift+Enter for opposite action."
             />
             <button className="btn btn--dmg" onClick={() => handleAction('damage')}>Dmg</button>
             <button className="btn btn--heal" onClick={() => handleAction('heal')}>Heal</button>
