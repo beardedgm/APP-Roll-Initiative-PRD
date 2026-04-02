@@ -258,7 +258,7 @@ function renderSpellcasting(spellcastingArr) {
       lines.push(`  Rituals ${block.rituals.map(r => typeof r === 'string' ? r : r.name ?? '').join(', ')}`);
     }
 
-    return lines.join('\n');
+    return lines.join('\n\n');
   });
 
   return blocks.join('\n\n');
