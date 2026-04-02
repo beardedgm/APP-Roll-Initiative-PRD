@@ -141,9 +141,24 @@ app.use(sharedEncounterRouter); // public: no auth required
 
 // ── Serve React build in production ────────────────────────
 if (process.env.NODE_ENV === 'production') {
-  app.use(express.static(path.join(__dirname, '../client/dist')));
+  // Hashed assets (JS/CSS) — cache forever (filenames change each build)
+  app.use('/assets', express.static(path.join(__dirname, '../client/dist/assets'), {
+    maxAge: '1y',
+    immutable: true,
+  }));
+
+  // Everything else in dist (index.html, favicon, etc.) — never cache
+  app.use(express.static(path.join(__dirname, '../client/dist'), {
+    maxAge: 0,
+    setHeaders(res, filePath) {
+      if (filePath.endsWith('.html')) {
+        res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+      }
+    },
+  }));
 
   app.get('{*path}', (req, res) => {
+    res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
     res.sendFile(path.join(__dirname, '../client/dist/index.html'));
   });
 }
