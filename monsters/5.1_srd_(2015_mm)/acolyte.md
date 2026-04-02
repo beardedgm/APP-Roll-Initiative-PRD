@@ -3,9 +3,13 @@
 *Medium* *Humanoid* *any alignment*
 
 **Armor Class:** 10
+
 **Hit Points:** 9 (2d8)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 395
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 14 (+2) | 11 (+0) |
 
 **Skills:** medicine +4, religion +2
+
 **Senses:** passive Perception 12
+
 **Languages:** any one language (usually Common)
 
 ### Special Abilities

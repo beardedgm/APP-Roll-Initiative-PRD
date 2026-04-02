@@ -3,11 +3,17 @@
 *Medium* *Fiend*
 
 **Armor Class:** 16 (natural armor)
+
 **Hit Points:** 138 
+
 **Speed:** walk 30 ft.
+
 **Perception**: 14
+
 **Stealth**: 12
+
 **Challenge Rating:** 8 (3,900 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,19 +21,25 @@
 | +4 | +2 | +7 | +0 | +4 | +5 |
 
 **Damage Immunities:** Devilish Resilience
+
 **Damage Resistances:** grappled, Devilish Resilience
+
 **Senses:** darkvision 120 ft.
+
 **Languages:** Infernal,telepathy 120 ft.
 
 ### Special Abilities
 
 **Devil's Sight:** Magical darkness doesn't impede the devil's darkvision.
+
 **Devilish Resilience:** The devil is resistant to cold damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to fire damage and poison damage and to the poisoned condition.
+
 **Magic Resistance:** The devil has advantage on saves against spells and other magical effects.
 
 ### Actions
 
 **Multiattack:** The devil makes four Chain attacks.
+
 **Chain:** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 8 (1d8+4) slashing damage plus 7 (2d6) piercing damage, and the target is grappled (escape DC 15). Until the grapple ends, the target is restrained and takes 14 (4d6) piercing damage at the start of each of its turns, and the chain devil can't use the same Chain on another target.
 
 ### Bonus Actions

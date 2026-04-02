@@ -3,11 +3,17 @@
 *Medium* *Beast*
 
 **Armor Class:** 10
+
 **Hit Points:** 8 
+
 **Speed:** walk 40 ft.
+
 **Perception**: 10
+
 **Stealth**: 10
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | +1 | +0 | +0 | -4 | +0 | -3 |
 
 **Damage Resistances:** prone
+
 **Senses:** -
+
 **Languages:** -
 
 ### Special Abilities

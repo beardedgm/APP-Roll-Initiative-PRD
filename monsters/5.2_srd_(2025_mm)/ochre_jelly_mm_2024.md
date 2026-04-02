@@ -3,8 +3,11 @@
 *Large Ooze, Unaligned*
 
 **Armor Class:** 8
+
 **Hit Points:** 52 (7d10 + 14)
+
 **Speed:** 20 ft., Climb 20 ft.
+
 **Initiative**: -2 (8)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 1 | -5 | -5 |
 
 **Resistances**: Acid
+
 **Immunities**: Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+
 **Senses**: blindsight 60 ft.; Passive Perception 8
+
 **CR** 2 (XP 450; PB +2)
 
 ## Traits

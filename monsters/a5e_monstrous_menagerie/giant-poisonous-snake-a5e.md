@@ -3,9 +3,13 @@
 *Medium* *Beast*
 
 **Armor Class:** 13
+
 **Hit Points:** 11 (2d8+2)
+
 **Speed:** walk 30 ft. swim 30 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** A5e Monstrous Menagerie, page 448
 
 | STR | DEX | CON | INT | WIS | CHA |

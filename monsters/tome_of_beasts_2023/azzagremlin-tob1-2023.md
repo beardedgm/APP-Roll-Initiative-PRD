@@ -3,9 +3,13 @@
 *Small* *Fey* *Neutral*
 
 **Armor Class:** 14
+
 **Hit Points:** 7 (2d6)
+
 **Speed:** walk 40 ft. fly 10 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Tome of Beasts 2023, page 222
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 5 (-3) | 18 (+4) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) |
 
 **Damage Immunities:** lightning, thunder
+
 **Senses:** darkvision 120 ft., passive Perception 11
+
 **Languages:** Common, Primordial
 
 ### Special Abilities

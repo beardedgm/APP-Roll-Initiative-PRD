@@ -3,8 +3,11 @@
 *Medium Fey, Neutral Evil*
 
 **Armor Class:** 17
+
 **Hit Points:** 82 (11d8 + 33)
+
 **Speed:** 30 ft., Swim 30 ft.
+
 **Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 14 | +2 | +2 |
 
 **Skills**: Arcana +5, Deception +4, Perception +4, Stealth +3
+
 **Senses**: darkvision 60 ft.; Passive Perception 14
+
 **Languages**: Common, Elvish, Sylvan
+
 **CR** 3 (XP 700; PB +2)
 
 ## Traits

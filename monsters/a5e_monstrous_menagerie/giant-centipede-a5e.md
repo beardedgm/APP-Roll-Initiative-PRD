@@ -3,9 +3,13 @@
 *Small* *Beast*
 
 **Armor Class:** 12
+
 **Hit Points:** 9 (2d6+2)
+
 **Speed:** walk 30 ft. climb 30 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** A5e Monstrous Menagerie, page 445
 
 | STR | DEX | CON | INT | WIS | CHA |

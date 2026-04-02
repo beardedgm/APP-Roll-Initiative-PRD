@@ -3,9 +3,13 @@
 *Large* *Monstrosity*
 
 **Armor Class:** 14
+
 **Hit Points:** 39 (6d10+6)
+
 **Speed:** walk 30 ft. climb 30 ft.
+
 **Challenge Rating:** 3 (700 XP)
+
 **Source:** A5e Monstrous Menagerie, page 456
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,12 +17,15 @@
 | 14 (+2) | 14 (+2) | 12 (+1) | 6 (-2) | 10 (+0) | 4 (-3) |
 
 **Skills:** stealth +4
+
 **Senses:** darkvision 60 ft., passive Perception 10
 
 ### Special Abilities
 
 **Ethereal Sight:** The spider can see into both the Material Plane and Ethereal Plane.
+
 **Spider Climb:** The spider can climb even on difficult surfaces and upside down on ceilings.
+
 **Web Walker:** The spider ignores movement restrictions imposed by webs.
 
 ### Actions

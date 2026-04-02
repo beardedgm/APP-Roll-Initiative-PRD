@@ -3,9 +3,13 @@
 *Medium* *Beast* *unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 22 (5d8)
+
 **Speed:** walk 0 ft. fly 30 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 389
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,13 +17,17 @@
 | 5 (-3) | 15 (+2) | 10 (+0) | 2 (-4) | 12 (+1) | 4 (-3) |
 
 **Damage Resistances:** bludgeoning, piercing, slashing
+
 **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses:** blindsight 60 ft., passive Perception 11
 
 ### Special Abilities
 
 **Echolocation:** The swarm can't use its blindsight while deafened.
+
 **Keen Hearing:** The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
+
 **Swarm:** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
 
 ### Actions

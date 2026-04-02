@@ -3,9 +3,13 @@
 *Tiny* *Construct*
 
 **Armor Class:** 13
+
 **Hit Points:** 5 (2d4)
+
 **Speed:** walk 20 ft. fly 40 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** A5e Monstrous Menagerie, page 283
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,8 +17,11 @@
 | 4 (-3) | 16 (+3) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 **Damage Immunities:** poison
+
 **Condition Immunities:** charmed, poisoned
+
 **Senses:** darkvision 60 ft., passive Perception 10
+
 **Languages:** understands the languages of its creator but can't speak
 
 ### Special Abilities

@@ -3,9 +3,13 @@
 *Small* *Plant* *unaligned*
 
 **Armor Class:** 7
+
 **Hit Points:** 10 (4d4)
+
 **Speed:** walk 5 ft.
+
 **Challenge Rating:** 1/8 (25 XP)
+
 **Source:** Tome of Beasts 2, page 158
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,6 +17,7 @@
 | 1 (-5) | 5 (-3) | 10 (+0) | 1 (-5) | 5 (-3) | 1 (-5) |
 
 **Condition Immunities:** blinded, deafened, frightened
+
 **Senses:** blindsight 30 ft. (blind beyond this radius), passive Perception 7
 
 ### Special Abilities

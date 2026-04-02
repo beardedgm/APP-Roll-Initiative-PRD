@@ -3,9 +3,13 @@
 *Tiny* *Dragon* *Lawful Neutral*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 28 (8d4 + 8)
+
 **Speed:** walk 40 ft. fly 15 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Tome of Beasts 2023, page 136
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,8 +17,11 @@
 | 7 (-2) | 15 (+2) | 13 (+1) | 16 (+3) | 13 (+1) | 12 (+1) |
 
 **Saving Throws**: Wis +3, Cha +3
+
 **Skills:** Arcana +5, History +5, Nature +5, Perception +3, Religion +5
+
 **Senses:** darkvision 60 ft., passive Perception 13
+
 **Languages:** Common, Draconic, Primordial, telepathy 60 ft.
 
 ### Special Abilities
@@ -24,6 +31,7 @@
 ### Actions
 
 **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+
 **Fire Breath:** The lantern dragonette breathes fire in a 15-foot cone. Each creature in the area must make a DC 11 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half the damage on a successful one.
 
 ### Bonus Actions

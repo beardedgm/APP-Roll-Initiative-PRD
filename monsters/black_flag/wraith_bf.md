@@ -3,11 +3,17 @@
 *Medium* *Undead*
 
 **Armor Class:** 14
+
 **Hit Points:** 85 
+
 **Speed:** walk 0 ft. fly 60 ft. hover True ft.
+
 **Perception**: 12
+
 **Stealth**: 14
+
 **Challenge Rating:** 5 (1,800 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,22 +21,31 @@
 | -2 | +4 | +3 | +1 | +2 | +2 |
 
 **Damage Vulnerabilities:** radiant
+
 **Damage Immunities:** necrotic, charmed, grappled, paralyzed, petrified, prone, restrained, Undead Resilience
+
 **Damage Resistances:** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing damage from nonmagical attacks
+
 **Senses:** darkvision 60 ft.
+
 **Languages:** the languages it knew in life
 
 ### Special Abilities
 
 **Incorporeal Movement:** The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+
 **Sunlight Sensitivity:** While in sunlight, the wraith has disadvantage on attack rolls, and its Perception is 7 when perceiving by sight.
+
 **Undead Nature:** The wraith doesn't require air, food, drink, or sleep.
+
 **Undead Resilience:** The wraith is immune to poison damage, to exhaustion, and to the poisoned condition.
 
 ### Actions
 
 **Multiattack:** The wraith makes two Life Drain attacks.
+
 **Life Drain:** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one creature. _Hit:_ 18 (4d6+4) necrotic damage. The target must succeed on a DC 15 CON save or its HP maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0.
+
 **Create Specter:** The wraith targets one Humanoid it can see within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a **specter** in the space of its corpse or in the nearest unoccupied space. The **specter** is under the wraith's control. The wraith can have no more than seven specters under its control at one time.
 
 ### Bonus Actions

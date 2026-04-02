@@ -3,11 +3,17 @@
 *Medium* *Fiend*
 
 **Armor Class:** 8
+
 **Hit Points:** 17 
+
 **Speed:** walk 15 ft.
+
 **Perception**: 10
+
 **Stealth**: 8
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,14 +21,19 @@
 | +2 | -2 | +1 | -3 | +0 | -4 |
 
 **Damage Immunities:** Devilish Resilience
+
 **Damage Resistances:** Devilish Resilience
+
 **Senses:** darkvision 120 ft.
+
 **Languages:** Infernal
 
 ### Special Abilities
 
 **Devil's Sight:** Magical darkness doesn't impede the lemure's darkvision.
+
 **Devilish Resilience:** The devil is resistant to cold damage. In addition, it is immune to fire damage and poison damage and to the poisoned condition.
+
 **Hellish Rejuvenation:** Unlike other outsiders, a lemure that dies in its home plane of the Hells is restored in a new body in 1d10 days, regaining all its HP and becoming active again. The new body appears in the Hells within 1 mile of where it was slain. Only sprinkling holy water on the lemure's remains can prevent this trait from functioning.
 
 ### Actions

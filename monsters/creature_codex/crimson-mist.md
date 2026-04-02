@@ -3,9 +3,13 @@
 *Medium* *Undead* *chaotic evil*
 
 **Armor Class:** 15
+
 **Hit Points:** 68 (8d8+32)
+
 **Speed:** hover True ft. walk 60 ft.
+
 **Challenge Rating:** 6 (2,300 XP)
+
 **Source:** Creature Codex, page 67
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,16 +17,23 @@
 | 17 (+3) | 15 (+2) | 18 (+4) | 3 (-4) | 20 (+5) | 18 (+4) |
 
 **Saving Throws**: Dex +8, Wis +4, Cha +2
+
 **Damage Immunities:** cold, necrotic, poison
+
 **Damage Resistances:** acid, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+
 **Condition Immunities:** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+
 **Senses:** darkvision 60 ft., passive Perception 11
+
 **Languages:** understands all languages it knew as a vampire, but can't speak
 
 ### Special Abilities
 
 **Pseudocorporeal:** The crimson mist is weightless and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing.
+
 **Sanguine Feast:** Whenever the crimson mist deals necrotic damage to a living creature with blood in its body, the creature's hp maximum is reduced by the same amount and the mist regains hp equal to half the necrotic damage dealt. The reduction lasts until the creature finishes a long rest. The creature dies if this effect reduces its hp maximum to 0.
+
 **Vampire Weaknesses:** The crimson mist has the following flaws:
 Forbiddance. The crimson mist can't enter a residence without an invitation from one of the occupants.
 Harmed by Running Water. The crimson mist takes 20 force damage if it ends its turn above or within running water.

@@ -3,11 +3,17 @@
 *Medium* *Humanoid*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 57 
+
 **Speed:** walk 30 ft. climb 15 ft. swim 30 ft.
+
 **Perception**: 15
+
 **Stealth**: 10
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,20 +21,27 @@
 | +2 | +0 | +1 | +0 | +5 | +0 |
 
 **Damage Resistances:** poison, poisoned
+
 **Senses:** -
+
 **Languages:** Common,Draconic
 
 ### Special Abilities
 
 **Heightened Smell and Taste:** The lizardfolk's Perception is 20 when perceiving by smell or taste.
+
 **Hold Breath:** The lizardfolk shaman can hold its breath for 15 minutes.
 
 ### Actions
 
 **Multiattack:** The lizardfolk makes one Bite attack and one Ritual Staff attack, or it makes two Swamp Bolt attacks.
+
 **Bite:** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6+2) piercing damage.
+
 **Ritual Staff:** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8+2) bludgeoning damage plus 7 (2d6) poison damage.
+
 **Swamp Bolt:** _Ranged Spell Attack:_ +5 to hit, range 60 ft., one target. _Hit:_ 10 (2d6+3) poison damage, and the target must succeed on a DC 13 CON save or be poisoned until the end of its next turn.
+
 **Spellcasting:** The lizardfolk shaman casts one of the following spells, using WIS as the spellcasting ability (spell save DC 13).<br>At will: _druidcraft_, _guidance_, _mending_<br>2/day each: _cure wounds_, _entangle_, _grease_<br>1/day: _ray of enfeeblement_
 
 ### Bonus Actions

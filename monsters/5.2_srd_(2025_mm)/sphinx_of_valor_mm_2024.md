@@ -3,8 +3,11 @@
 *Large Celestial, Lawful Neutral*
 
 **Armor Class:** 17
+
 **Hit Points:** 199 (19d10 + 95)
+
 **Speed:** 40 ft., Fly 60 ft.
+
 **Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,10 +20,15 @@
 | CHA | 18 | +4 | +4 |
 
 **Resistances**: Necrotic, Radiant
+
 **Immunities**: Psychic; Charmed, Frightened
+
 **Skills**: Arcana +9, Perception +12, Religion +15
+
 **Senses**: truesight 120 ft.; Passive Perception 22
+
 **Languages**: Celestial, Common
+
 **CR** 17 (XP 18,000, or 20,000 in lair)
 
 ## Traits
@@ -40,12 +48,15 @@
 
 
 **First Roar**: *Wisdom Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:*  The target has the Frightened condition for 1 minute.
+
 **Second Roar**: *Wisdom Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:*  The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+
 **Third Roar**: *Constitution Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:*  44 (8d10) Thunder damage, and the target has the Prone condition. *Success:*  Half damage only.
 
 ***Spellcasting.*** The sphinx casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 20):
 
 **At Will:** *Detect Evil and Good*, *Thaumaturgy*
+
 **1e/Day Each:** *Detect Magic*, *Dispel Magic*, *Greater Restoration*, *Heroes' Feast*, *Zone of Truth*
 
 ## Legendary Actions

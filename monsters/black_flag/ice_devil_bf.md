@@ -3,11 +3,17 @@
 *Large* *Fiend*
 
 **Armor Class:** 18 (natural armor)
+
 **Hit Points:** 193 
+
 **Speed:** walk 40 ft.
+
 **Perception**: 17
+
 **Stealth**: 17
+
 **Challenge Rating:** 14 (11,500 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,22 +21,31 @@
 | +5 | +7 | +9 | +4 | +7 | +9 |
 
 **Damage Immunities:** cold, Devilish Resilience
+
 **Damage Resistances:** blinded, Devilish Resilience
+
 **Senses:** darkvision 120 ft., keensense 60 ft.
+
 **Languages:** Infernal,telepathy 120 ft.
 
 ### Special Abilities
 
 **Devil's Sight:** Magical darkness doesn't impede the devil's darkvision.
+
 **Devilish Resilience:** The devil is resistant to bludgeoning, piercing, and slashing damage from nonmagical attacks. In addition, it is immune to fire damage and poison damage and to the poisoned condition.
+
 **Magic Resistance:** The devil has advantage on saves against spells and other magical effects.
+
 **Snow Walk:** The devil can move across icy surfaces without needing to make an ability check. In addition, difficult terrain composed of ice or snow doesn't cost it extra movement.
 
 ### Actions
 
 **Multiattack:** The devil makes two Claw attacks and one Tail attack, or it makes three Icicle Shard attacks.
+
 **Claws:** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6+5) slashing damage plus 18 (4d8) cold damage.
+
 **Tail:** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 15 (3d6+5) bludgeoning damage plus 18 (4d8) cold damage.
+
 **Icicle Shard:** _Ranged Spell Attack:_ +9 to hit, range 120 ft., one target. _Hit:_ 13 (2d8+4) piercing damage plus 18 (4d8) cold damage.
 
 ### Bonus Actions

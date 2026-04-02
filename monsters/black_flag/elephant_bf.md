@@ -3,11 +3,17 @@
 *Huge* *Beast*
 
 **Armor Class:** 12 (natural armor)
+
 **Hit Points:** 105 
+
 **Speed:** walk 40 ft.
+
 **Perception**: 12
+
 **Stealth**: 9
+
 **Challenge Rating:** 4 (1,100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | +5 | -1 | +3 | -4 | +0 | -2 |
 
 **Damage Resistances:** prone
+
 **Senses:** -
+
 **Languages:** -
 
 ### Special Abilities
@@ -25,7 +33,9 @@
 ### Actions
 
 **Multiattack:** The elephant makes two Gore attacks.
+
 **Gore:** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 16 (2d10+5) piercing damage.
+
 **Stomp:** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one prone creature. _Hit:_ 14 (2d8+5) bludgeoning damage.
 
 ### Bonus Actions

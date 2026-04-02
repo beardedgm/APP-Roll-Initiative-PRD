@@ -3,9 +3,13 @@
 *Tiny* *Ooze* *Unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 22 (4d4 + 12)
+
 **Speed:** walk 10 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Tome of Beasts 2023, page 368
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,11 +17,13 @@
 | 4 (-3) | 15 (+2) | 17 (+3) | 1 (-5) | 1 (-5) | 10 (+0) |
 
 **Skills:** Deception +4
+
 **Senses:** blindsight 120 ft. (blind beyond this radius), passive Perception 5
 
 ### Special Abilities
 
 **Amorphous:** The treacle can move through a space as narrow as 1 inch wide without squeezing.
+
 **Mimicry:** The treacle can mimic animal sounds. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 
 ### Actions

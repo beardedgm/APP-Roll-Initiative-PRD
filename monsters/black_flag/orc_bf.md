@@ -3,11 +3,17 @@
 *Medium* *Humanoid*
 
 **Armor Class:** 13 (hide armor)
+
 **Hit Points:** 25 
+
 **Speed:** walk 30 ft.
+
 **Perception**: 12
+
 **Stealth**: 11
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | +3 | +1 | +3 | -2 | +0 | +0 |
 
 **Damage Resistances:** exhaustion
+
 **Senses:** darkvision 60 ft.
+
 **Languages:** Common,Orc
 
 ### Special Abilities
@@ -25,6 +33,7 @@
 ### Actions
 
 **Greataxe:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 9 (1d12+3) slashing damage.
+
 **Javelin:** _Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 6 (1d6+3) piercing damage.
 
 ### Bonus Actions

@@ -3,9 +3,13 @@
 *Huge* *Beast*
 
 **Armor Class:** 13
+
 **Hit Points:** 42 (5d12+10)
+
 **Speed:** walk 60 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** A5e Monstrous Menagerie, page 446
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,6 +17,7 @@
 | 18 (+4) | 14 (+2) | 14 (+2) | 6 (-2) | 14 (+2) | 10 (+0) |
 
 **Senses:** passive Perception 12
+
 **Languages:** Giant Elk, understands but can't speak Common, Elvish, and Sylvan
 
 ### Actions

@@ -3,8 +3,11 @@
 *Medium Fiend (Devil), Lawful Evil*
 
 **Armor Class:** 9
+
 **Hit Points:** 9 (2d8)
+
 **Speed:** 20 ft.
+
 **Initiative**: -3 (7)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 3 | -4 | -4 |
 
 **Resistances**: Cold
+
 **Immunities**: Fire, Poison; Charmed, Frightened, Poisoned
+
 **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 10
+
 **Languages**: Understands Infernal but can't speak
+
 **CR** 0 (XP 0 or 10; PB +2)
 
 ## Traits

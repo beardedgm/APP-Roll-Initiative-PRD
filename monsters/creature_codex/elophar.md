@@ -3,9 +3,13 @@
 *Large* *Undead* *chaotic evil*
 
 **Armor Class:** 8
+
 **Hit Points:** 126 (12d10+60)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 4 (1,100 XP)
+
 **Source:** Creature Codex, page 149
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,14 +17,19 @@
 | 19 (+4) | 6 (-2) | 20 (+5) | 16 (+3) | 3 (-4) | 10 (+0) |
 
 **Saving Throws**: Con +7, Wis +-2
+
 **Damage Immunities:** poison
+
 **Condition Immunities:** poisoned
+
 **Senses:** darkvision 60 ft., passive Perception 6
+
 **Languages:** Common, Giant, Infernal
 
 ### Special Abilities
 
 **Ectoplasmic Spray:** When the elophar takes damage other than acid damage, corrosive ectoplasm bursts from its distended stomach. The elophar takes 7 (2d6) acid damage and all creatures within 10 feet of it must make a DC 13 Dexterity saving throw, taking 7 (2d6) acid damage on a failed save, or half as much damage on a successful one.
+
 **Possessed by Ancestors:** The chaos of combat causes an elophar to swap between personalities at the start of each of its turns. To determine which spirit is in control, roll on the table below (it is possible for one spirit to remain in control for multiple rounds if it is rolled multiple rounds in a row):
 | 1d6 | Spirit |
 |-----|--------|

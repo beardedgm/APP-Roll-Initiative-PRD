@@ -3,9 +3,13 @@
 *Medium* *Fey*
 
 **Armor Class:** 13
+
 **Hit Points:** 22 (4d8+4)
+
 **Speed:** walk 40 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** A5e Monstrous Menagerie, page 440
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 14 (+2) | 16 (+3) | 12 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
 
 **Skills:** perception +3, stealth +5
+
 **Senses:** passive Perception 13
+
 **Languages:** Blink Dog, understands but cant speak Sylvan
 
 ### Special Abilities

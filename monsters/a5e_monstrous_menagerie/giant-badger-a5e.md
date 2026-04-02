@@ -3,9 +3,13 @@
 *Medium* *Beast*
 
 **Armor Class:** 10
+
 **Hit Points:** 19 (3d8+6)
+
 **Speed:** walk 30 ft. burrow 10 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** A5e Monstrous Menagerie, page 444
 
 | STR | DEX | CON | INT | WIS | CHA |

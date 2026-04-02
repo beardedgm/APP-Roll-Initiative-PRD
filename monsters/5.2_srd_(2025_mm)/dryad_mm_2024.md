@@ -3,8 +3,11 @@
 *Medium Fey, Neutral*
 
 **Armor Class:** 16
+
 **Hit Points:** 22 (5d8)
+
 **Speed:** 30 ft.
+
 **Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 18 | +4 | +4 |
 
 **Skills**: Perception +4, Stealth +5
+
 **Senses**: darkvision 60 ft.; Passive Perception 14
+
 **Languages**: Elvish, Sylvan
+
 **CR** 1 (XP 200; PB +2)
 
 ## Traits
@@ -39,6 +45,7 @@
 ***Spellcasting.*** The dryad casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14):
 
 **At Will:** *Animal Friendship*, *Charm Monster*, *Druidcraft*
+
 **1e/Day Each:** *Entangle*, *Pass without Trace*
 
 ## Bonus Actions

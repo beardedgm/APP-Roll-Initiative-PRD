@@ -3,9 +3,13 @@
 *Large* *Giant* *chaotic evil*
 
 **Armor Class:** 15 (natural armor)
+
 **Hit Points:** 133 (14d10+56)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 6 (2,300 XP)
+
 **Source:** Tome of Beasts 3, page 303
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,23 +17,33 @@
 | 20 (+5) | 8 (-1) | 19 (+4) | 5 (-3) | 16 (+3) | 6 (-2) |
 
 **Saving Throws**: Con +7, Wis +6
+
 **Skills:** perception +3
+
 **Damage Immunities:** psychic
+
 **Damage Resistances:** necrotic, poison
+
 **Condition Immunities:** blinded, poisoned
+
 **Senses:** blindsight 30' (blind beyond), tremorsense 120', passive Perception 16
+
 **Languages:** Giant, Void Speech
 
 ### Special Abilities
 
 **Keen Hearing and Smell:** Advantage on Wis (Perception) checks that rely on hearing or smell.
+
 **Tentacle Senses:** Can't use its tremorsense while grappled or restrained.
 
 ### Actions
 
 **Multiattack:** One Tentacle Lash attack and one Void Bite attack or it makes three Void Spit attacks.
+
 **Tentacle Lash:** Melee Weapon Attack: +8 to hit, 15 ft., one target, 12 (2d6+5) bludgeoning damage + 7 (2d6) psychic and target blinded until end of its next turn as jumbled visions and voices of the Void fill its mind (DC 15 Int not blind).
+
 **Void Bite:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 10 (1d10+5) piercing damage + 9 (2d8) necrotic.
+
 **Void Spit:** Ranged Spell Attack: +6 to hit, 60 ft., one target, 12 (2d8+3) necrotic.
 
 ### Reactions

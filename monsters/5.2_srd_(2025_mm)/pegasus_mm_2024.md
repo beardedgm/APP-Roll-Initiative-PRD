@@ -3,8 +3,11 @@
 *Large Celestial, Chaotic Good*
 
 **Armor Class:** 12
+
 **Hit Points:** 59 (7d10 + 21)
+
 **Speed:** 60 ft., Fly 90 ft.
+
 **Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 13 | +1 | +3 |
 
 **Skills**: Perception +6
+
 **Senses**: Passive Perception 16
+
 **Languages**: Understands Celestial, Common, Elvish, And Sylvan but can't speak
+
 **CR** 2 (XP 450; PB +2)
 
 ## Actions

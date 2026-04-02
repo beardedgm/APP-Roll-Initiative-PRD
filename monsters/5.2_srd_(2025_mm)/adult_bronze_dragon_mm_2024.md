@@ -3,8 +3,11 @@
 *Huge Dragon (Metallic), Lawful Good*
 
 **Armor Class:** 18
+
 **Hit Points:** 212 (17d12 + 102)
+
 **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 **Initiative**: +10 (20)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 20 | +5 | +5 |
 
 **Immunities**: Lightning
+
 **Skills**: Insight +7, Perception +12, Stealth +5
+
 **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
+
 **Languages**: Common, Draconic
+
 **CR** 15 (XP 13,000, or 15,000 in lair)
 
 ## Traits
@@ -42,6 +49,7 @@
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17, +10 to hit with spell attacks):
 
 **At Will:** *Detect Magic*, *Guiding Bolt*, *Shapechange*, *Speak with Animals*, *Thaumaturgy*
+
 **1e/Day Each:** *Detect Thoughts*, *Water Breathing*
 
 ## Legendary Actions

@@ -3,9 +3,13 @@
 *Medium* *Beast* *unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 13 (2d8+4)
+
 **Speed:** climb 30 ft. walk 30 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Tome of Beasts 2, page 380
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 15 (+2) | 14 (+2) | 14 (+2) | 6 (-2) | 12 (+1) | 7 (-2) |
 
 **Saving Throws**: Str +4, Wis +3
+
 **Skills:** athletics +4, perception +3
+
 **Senses:** passive Perception 13
 
 ### Special Abilities
@@ -23,6 +29,7 @@
 ### Actions
 
 **Fist:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+
 **Rock:** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
 
 

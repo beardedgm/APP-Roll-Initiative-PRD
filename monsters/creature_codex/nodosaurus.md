@@ -3,9 +3,13 @@
 *Large* *Beast* *unaligned*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 45 (6d10+12)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** Creature Codex, page 109
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,6 +17,7 @@
 | 17 (+3) | 11 (+0) | 14 (+2) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Senses:** passive Perception 11
+
 **Languages:** -
 
 ### Special Abilities

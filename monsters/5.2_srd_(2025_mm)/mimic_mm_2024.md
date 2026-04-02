@@ -3,8 +3,11 @@
 *Medium Monstrosity, Neutral*
 
 **Armor Class:** 12
+
 **Hit Points:** 58 (9d8 + 18)
+
 **Speed:** 20 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 8 | -1 | -1 |
 
 **Immunities**: Acid; Prone
+
 **Skills**: Stealth +5
+
 **Senses**: darkvision 60 ft.; Passive Perception 11
+
 **CR** 2 (XP 450; PB +2)
 
 ## Traits

@@ -3,9 +3,13 @@
 *Medium* *Beast*
 
 **Armor Class:** 10
+
 **Hit Points:** 4 (1d8)
+
 **Speed:** walk 10 ft. fly 50 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** A5e Monstrous Menagerie, page 462
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,6 +17,7 @@
 | 6 (-2) | 10 (+0) | 10 (+0) | 2 (-4) | 12 (+1) | 6 (-2) |
 
 **Skills:** perception +3
+
 **Senses:** passive Perception 13
 
 ### Special Abilities

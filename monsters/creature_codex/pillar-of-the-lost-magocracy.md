@@ -3,9 +3,13 @@
 *Huge* *Construct* *chaotic neutral*
 
 **Armor Class:** 14 (natural armor)
+
 **Hit Points:** 90 (12d12+12)
+
 **Speed:** walk 0 ft.
+
 **Challenge Rating:** 4 (1,100 XP)
+
 **Source:** Creature Codex, page 299
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,16 +17,23 @@
 | 9 (-1) | 1 (-5) | 13 (+1) | 18 (+4) | 8 (-1) | 13 (+1) |
 
 **Saving Throws**: Con +3, Wis +1
+
 **Skills:** arcana +6, history +6
+
 **Damage Immunities:** poison
+
 **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
+
 **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+
 **Senses:** darkvision 120 ft., passive Perception 9
+
 **Languages:** understands Common but can't speak, telepathy 120 ft.
 
 ### Special Abilities
 
 **Mental Agility:** The pillar uses its Intelligence instead of its Dexterity to determine its place in the initiative order.
+
 **Shocking Vengeance:** A creature that touches the pillar or hits it with a melee attack while within 5 feet of it takes 3 (1d6) lightning damage.
 
 ### Actions

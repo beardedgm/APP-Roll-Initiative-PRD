@@ -3,9 +3,13 @@
 *Medium* *Beast* *unaligned*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 11 (2d8+2)
+
 **Speed:** swim 30 ft. walk 20 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Tome of Beasts 2, page 387
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Saving Throws**: Str +4, Con +3
+
 **Skills:** stealth +2
+
 **Senses:** passive Perception 10
 
 ### Special Abilities

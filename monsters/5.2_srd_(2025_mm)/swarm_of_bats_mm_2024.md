@@ -3,8 +3,11 @@
 *Large Beast, Unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 11 (2d10)
+
 **Speed:** 5 ft., Fly 30 ft.
+
 **Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 4 | -3 | -3 |
 
 **Resistances**: Bludgeoning, Piercing, Slashing
+
 **Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+
 **Senses**: blindsight 60 ft.; Passive Perception 11
+
 **CR** 1/4 (XP 50; PB +2)
 
 ## Traits

@@ -3,9 +3,13 @@
 *Large* *Ooze* *unaligned*
 
 **Armor Class:** 8
+
 **Hit Points:** 76 (8d10+32)
+
 **Speed:** climb 20 ft. walk 20 ft.
+
 **Challenge Rating:** 6 (2,300 XP)
+
 **Source:** Creature Codex, page 282
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,14 +17,19 @@
 | 16 (+3) | 6 (-2) | 18 (+4) | 1 (-5) | 8 (-1) | 2 (-4) |
 
 **Damage Immunities:** acid, fire, necrotic, slashing
+
 **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
+
 **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 9
+
 **Languages:** -
 
 ### Special Abilities
 
 **Amorphous:** The ooze can move through a space as narrow as 1 inch wide without squeezing.
+
 **Blood Drain:** A creature that touches the ooze or hits it with a melee attack while within 5 feet of it takes 5 (1d10) necrotic damage and the ooze gains temporary hp equal to that amount as it drains blood from the victim. It can add temporary hp gained from this trait to temporary hp gained from its pseudopod attack and Overflow reaction. Its temporary hp can't exceed half its maximum hp. If the ooze takes radiant damage, this trait doesn't function at the start of the ooze's next turn, although it retains any temporary hp it previously gained.
+
 **Spider Climb:** The ooze can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 ### Actions

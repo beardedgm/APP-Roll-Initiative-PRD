@@ -3,9 +3,13 @@
 *Medium* *Humanoid* *chaotic evil*
 
 **Armor Class:** 13
+
 **Hit Points:** 15 (2d8+6)
+
 **Speed:** climb 30 ft. walk 30 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Creature Codex, page 291
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,14 +17,19 @@
 | 14 (+2) | 16 (+3) | 16 (+3) | 9 (-1) | 11 (+0) | 10 (+0) |
 
 **Skills:** acrobatics +5, athletics +4, perception +2, stealth +5
+
 **Damage Immunities:** poison
+
 **Condition Immunities:** poisoned
+
 **Senses:** darkvision 90 ft., passive Perception 12
+
 **Languages:** Orc
 
 ### Special Abilities
 
 **Aggressive:** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+
 **Sunlight Sensitivity:** While in sunlight, the orc has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. s
 
 ### Actions

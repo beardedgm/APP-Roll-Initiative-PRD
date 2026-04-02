@@ -3,11 +3,17 @@
 *Small* *Beast*
 
 **Armor Class:** 11
+
 **Hit Points:** 10 
+
 **Speed:** walk 30 ft. climb 30 ft.
+
 **Perception**: 11
+
 **Stealth**: 11
+
 **Challenge Rating:** 1/8 (25 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,6 +21,7 @@
 | -1 | +1 | +0 | -3 | +1 | -2 |
 
 **Senses:** darkvision 30 ft.
+
 **Languages:** -
 
 ### Special Abilities

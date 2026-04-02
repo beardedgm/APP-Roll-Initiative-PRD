@@ -3,9 +3,13 @@
 *Large* *Giant* *Neutral Evil (50%) or Lawful Evil (50%)*
 
 **Armor Class:** 13 (chain shirt)
+
 **Hit Points:** 114 (12d10 + 48)
+
 **Speed:** walk 40 ft.
+
 **Challenge Rating:** 3 (700 XP)
+
 **Source:** Tome of Beasts 2023, page 210
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,8 +17,11 @@
 | 19 (+4) | 10 (+0) | 18 (+4) | 13 (+1) | 15 (+2) | 11 (+0) |
 
 **Saving Throws**: Con +6
+
 **Skills:** Athletics +6, Perception +4
+
 **Senses:** darkvision 60 ft., passive Perception 14
+
 **Languages:** Common, Dwarvish, Giant
 
 ### Special Abilities
@@ -24,6 +31,7 @@
 ### Actions
 
 **Warhammer:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage, or 15 (2d10 + 4) bludgeoning damage if used with two hands to make a melee attack.
+
 **Rock:** Ranged Weapon Attack: +6 to hit, range 60/240 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage.
 
 ### Bonus Actions

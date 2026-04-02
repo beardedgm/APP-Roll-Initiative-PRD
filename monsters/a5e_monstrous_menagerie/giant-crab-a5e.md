@@ -3,9 +3,13 @@
 *Medium* *Beast*
 
 **Armor Class:** 15
+
 **Hit Points:** 9 (2d8)
+
 **Speed:** walk 30 ft. swim 30 ft.
+
 **Challenge Rating:** 1/8 (25 XP)
+
 **Source:** A5e Monstrous Menagerie, page 446
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,6 +17,7 @@
 | 12 (+1) | 14 (+2) | 10 (+0) | 1 (-5) | 8 (-1) | 4 (-3) |
 
 **Skills:** stealth +4
+
 **Senses:** blindsight 30 ft., passive Perception 9
 
 ### Special Abilities

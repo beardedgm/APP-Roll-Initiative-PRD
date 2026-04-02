@@ -3,9 +3,13 @@
 *Medium* *Plant*
 
 **Armor Class:** 5
+
 **Hit Points:** 13 (3d8)
+
 **Speed:** walk 0 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** A5e Monstrous Menagerie, page 212
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 1 (-5) | 1 (-5) | 10 (+0) | 1 (-5) | 2 (-4) | 1 (-5) |
 
 **Damage Vulnerabilities:** fire
+
 **Condition Immunities:** blinded, charmed, deafened, fatigue, frightened, prone, restrained, stunned
+
 **Senses:** blindsight 30 ft. (blind beyond this radius), passive Perception 6
 
 ### Special Abilities

@@ -3,8 +3,11 @@
 *Medium or Small Humanoid, Neutral*
 
 **Armor Class:** 13
+
 **Hit Points:** 44 (8d8 + 8)
+
 **Speed:** 30 ft.
+
 **Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 13 | +1 | +1 |
 
 **Skills**: Deception +3, Persuasion +3, Religion +2
+
 **Gear** Holy Symbol, Leather Armor
+
 **Senses**: Passive Perception 12
+
 **Languages**: Common
+
 **CR** 2 (XP 450; PB +2)
 
 ## Actions
@@ -29,7 +36,9 @@
 ***Spellcasting.*** The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks):
 
 **At Will:** *Light*, *Thaumaturgy*
+
 **1/Day Each:** *Hold Person*
+
 **2/Day Each:** *Command*
 
 ## Bonus Actions

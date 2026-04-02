@@ -3,11 +3,17 @@
 *Medium* *Plant*
 
 **Armor Class:** 5
+
 **Hit Points:** 7 
+
 **Speed:** walk 10 ft.
+
 **Perception**: 6
+
 **Stealth**: 5
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,13 +21,17 @@
 | -5 | -5 | +0 | -5 | -4 | -5 |
 
 **Damage Immunities:** blinded, deafened, frightened
+
 **Damage Resistances:** thunder, Plant Resilience
+
 **Senses:** keensense 30 ft. (blind beyond this radius)
+
 **Languages:** -
 
 ### Special Abilities
 
 **False Appearance:** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
+
 **Plant Resilience:** The shrieker is resistant to exhaustion and to the paralyzed, petrified, and unconscious conditions.
 
 ### Actions

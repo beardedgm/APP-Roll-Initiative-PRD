@@ -3,9 +3,13 @@
 *Large* *Ooze* *unaligned*
 
 **Armor Class:** 8
+
 **Hit Points:** 45 (6d10+12)
+
 **Speed:** walk 10 ft. climb 10 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 338
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,13 +17,17 @@
 | 15 (+2) | 6 (-2) | 14 (+2) | 2 (-4) | 6 (-2) | 1 (-5) |
 
 **Damage Immunities:** lightning, slashing
+
 **Damage Resistances:** acid
+
 **Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, prone
+
 **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 
 ### Special Abilities
 
 **Amorphous:** The jelly can move through a space as narrow as 1 inch wide without squeezing.
+
 **Spider Climb:** The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 ### Actions

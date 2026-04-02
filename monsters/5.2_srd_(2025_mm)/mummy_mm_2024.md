@@ -3,8 +3,11 @@
 *Medium or Small Undead, Lawful Evil*
 
 **Armor Class:** 11
+
 **Hit Points:** 58 (9d8 + 18)
+
 **Speed:** 20 ft.
+
 **Initiative**: -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 12 | +1 | +1 |
 
 **Vulnerabilities**: Fire
+
 **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+
 **Senses**: darkvision 60 ft.; Passive Perception 11
+
 **Languages**: Common plus two other languages
+
 **CR** 3 (XP 700; PB +2)
 
 ## Actions

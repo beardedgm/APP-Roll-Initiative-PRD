@@ -3,11 +3,17 @@
 *Medium* *Humanoid*
 
 **Armor Class:** 15 (scale mail)
+
 **Hit Points:** 60 
+
 **Speed:** walk 30 ft.
+
 **Perception**: 10
+
 **Stealth**: 11
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,6 +21,7 @@
 | +3 | +1 | +1 | +5 | +0 | +0 |
 
 **Senses:** -
+
 **Languages:** Common,plus any two languages
 
 ### Special Abilities
@@ -24,8 +31,11 @@
 ### Actions
 
 **Multiattack:** The mechanist makes two Warhammer or Light Crossbow attacks.
+
 **Warhammer:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8+3) bludgeoning damage, or 8 (1d10+3) bludgeoning damage if used with two hands.
+
 **Light Crossbow:** _Ranged Weapon Attack:_ +3 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d8+1) piercing damage.
+
 **Repair (Recharge 4-6):** The mechanist touches one friendly Construct it can see. The target regains 5 (2d4) HP.
 
 ### Bonus Actions

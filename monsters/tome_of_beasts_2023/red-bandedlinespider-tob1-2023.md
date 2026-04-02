@@ -3,9 +3,13 @@
 *Tiny* *Beast* *Unaligned*
 
 **Armor Class:** 13
+
 **Hit Points:** 15 (6d4)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Tome of Beasts 2023, page 345
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,14 +17,19 @@
 | 4 (-3) | 16 (+3) | 10 (+0) | 1 (-5) | 10 (+0) | 2 (-4) |
 
 **Skills:** Perception +2, Stealth +5
+
 **Damage Immunities:** psychic
+
 **Condition Immunities:** charmed, frightened
+
 **Senses:** darkvision 60 ft., passive Perception 12
 
 ### Special Abilities
 
 **Reactive Venom:** If the spider deals poison damage to a creature that is poisoned, the target takes an extra 2 (1d4) poison damage.
+
 **Spider Climb:** The spider can climb difficult surfaces, including upside down and on ceilings, without needing to make an ability check.
+
 **Web Walker:** The spider ignores movement restrictions caused by webbing.
 
 ### Actions

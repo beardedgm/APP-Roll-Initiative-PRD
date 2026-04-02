@@ -3,9 +3,13 @@
 *Medium* *Celestial* *neutral good*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 22 (5d8)
+
 **Speed:** walk 10 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Creature Codex, page 305
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,15 +17,21 @@
 | 14 (+2) | 10 (+0) | 10 (+0) | 7 (-2) | 14 (+2) | 10 (+0) |
 
 **Skills:** perception +4
+
 **Damage Immunities:** radiant
+
 **Damage Resistances:** bludgeoning, piercing
+
 **Senses:** blindsight 30 ft. (blind beyond this radius), passive Perception 14
+
 **Languages:** -
 
 ### Special Abilities
 
 **Like Calls to Like:** The hallowed reed knows if a creature within 30 feet of it is good-aligned or not.
+
 **Limited Telepathy:** Using telepathy, a hallowed reed can magically communicate with any other good-aligned creature within 100 feet of it. This communication is primarily through images and emotions rather than actual words.
+
 **Rebirth:** If a hallowed reed is slain, a new patch of hallowed reeds will grow in the same spot starting within a week of its death. Charring or salting the ground where a hallowed reed was slain prevents this resurgence.
 
 ### Actions

@@ -3,9 +3,13 @@
 *Huge* *Plant* *unaligned*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 59 (7d12+14)
+
 **Speed:** walk 20 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 366
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,8 +17,11 @@
 | 19 (+4) | 6 (-2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (-2) |
 
 **Damage Vulnerabilities:** fire
+
 **Damage Resistances:** bludgeoning, piercing
+
 **Senses:** passive Perception 10
+
 **Languages:** one language known by its creator
 
 ### Special Abilities

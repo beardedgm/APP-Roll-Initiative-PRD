@@ -3,9 +3,13 @@
 *Small* *Beast* *unaligned*
 
 **Armor Class:** 14 (natural armor)
+
 **Hit Points:** 27 (5d6 +10)
+
 **Speed:** walk 30 ft. climb 20 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Tome of Beasts 3, page 197
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,13 +17,17 @@
 | 13 (+1) | 14 (+2) | 14 (+2) | 2 (-4) | 10 (+0) | 2 (-4) |
 
 **Skills:** perception +0
+
 **Damage Resistances:** bludgeoning
+
 **Senses:** blindsight 60', passive Perception 10
 
 ### Special Abilities
 
 **Blood Sense:** Can pinpoint by scent the location of creatures that have blood within 60' of it.
+
 **Keen Smell:** Advantage: smell Wis (Percept) checks.
+
 **Standing Leap:** Its long jump is up to 30' and its high jump is up to 15 feet with or with o a running start.
 
 ### Actions

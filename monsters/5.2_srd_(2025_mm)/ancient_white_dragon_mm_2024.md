@@ -3,8 +3,11 @@
 *Gargantuan Dragon (Chromatic), Chaotic Evil*
 
 **Armor Class:** 20
+
 **Hit Points:** 333 (18d20 + 144)
+
 **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft., Swim 40 ft.
+
 **Initiative**: +12 (22)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 18 | +4 | +4 |
 
 **Immunities**: Cold
+
 **Skills**: Perception +13, Stealth +6
+
 **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 23
+
 **Languages**: Common, Draconic
+
 **CR** 20 (XP 25,000, or 33,000 in lair)
 
 ## Traits

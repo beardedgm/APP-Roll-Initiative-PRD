@@ -3,9 +3,13 @@
 *Tiny* *Beast* *unaligned*
 
 **Armor Class:** 10
+
 **Hit Points:** 2 (1d4)
+
 **Speed:** walk 20 ft. climb 20 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 383
 
 | STR | DEX | CON | INT | WIS | CHA |

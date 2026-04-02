@@ -3,9 +3,13 @@
 *Medium* *Swarm* *Chaotic Evil*
 
 **Armor Class:** 13
+
 **Hit Points:** 54 (12d8)
+
 **Speed:** walk 50 ft. fly 30 ft.
+
 **Challenge Rating:** 3 (700 XP)
+
 **Source:** Tome of Beasts 2023, page 357
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,16 +17,23 @@
 | 6 (-2) | 16 (+3) | 11 (+0) | 6 (-2) | 13 (+1) | 10 (+0) |
 
 **Skills:** Stealth +5
+
 **Damage Vulnerabilities:** fire
+
 **Damage Immunities:** cold
+
 **Damage Resistances:** bludgeoning, piercing, and slashing
+
 **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses:** darkvision 60 ft., passive Perception 11
+
 **Languages:** Common, Sylvan
 
 ### Special Abilities
 
 **Sunlight Weakness:** While in sunlight, the swarm of sluaghs has disadvantage on attack rolls, ability checks, and saving throws.
+
 **Swarm:** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny fey. The swarm can't regain hp or gain temporary hp.
 
 ### Actions

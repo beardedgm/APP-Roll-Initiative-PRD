@@ -3,9 +3,13 @@
 *Tiny* *Beast*
 
 **Armor Class:** 12
+
 **Hit Points:** 3 (1d6)
+
 **Speed:** walk 5 ft. swim 30 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** A5e Monstrous Menagerie, page 455
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,11 +17,13 @@
 | 4 (-3) | 14 (+2) | 10 (+0) | 3 (-4) | 10 (+0) | 4 (-3) |
 
 **Skills:** stealth +4
+
 **Senses:** darkvision 30 ft., passive Perception 10
 
 ### Special Abilities
 
 **Camouflage:** The octopus has advantage on Stealth checks.
+
 **Water Breathing:** The octopus breathes water and can hold its breath for 30 minutes while in air.
 
 ### Actions

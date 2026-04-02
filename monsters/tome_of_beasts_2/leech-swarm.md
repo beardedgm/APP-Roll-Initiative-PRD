@@ -3,9 +3,13 @@
 *Medium* *Beast* *unaligned*
 
 **Armor Class:** 13
+
 **Hit Points:** 32 (5d8+10)
+
 **Speed:** walk 10 ft. swim 40 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** Tome of Beasts 2, page 396
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,14 +17,19 @@
 | 5 (-3) | 16 (+3) | 15 (+2) | 2 (-4) | 13 (+1) | 4 (-3) |
 
 **Skills:** perception +3, stealth +5
+
 **Damage Resistances:** bludgeoning, piercing, and slashing
+
 **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses:** darkvision 30 ft., passive Perception 13
 
 ### Special Abilities
 
 **Blood Frenzy:** The leech swarm has advantage on melee attack rolls against any creature that doesn't have all its hp.
+
 **Blood Sense:** The leech swarm can pinpoint, by scent, the location of creatures that aren't undead or constructs within 30 feet of it.
+
 **Swarm:** The leech swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny leech. The swarm can't regain hp or gain temporary hp.
 
 ### Actions

@@ -3,11 +3,17 @@
 *Huge* *Beast*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 126 
+
 **Speed:** walk 50 ft.
+
 **Perception**: 10
+
 **Stealth**: 9
+
 **Challenge Rating:** 5 (1,800 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,17 +21,21 @@
 | +6 | -1 | +3 | -4 | +0 | -3 |
 
 **Senses:** -
+
 **Languages:** -
 
 ### Special Abilities
 
 **Hardy:** Any critical hit against the dinosaur becomes a normal hit.
+
 **Trampling Charge:** If the triceratops moves at least 20 feet straight toward a creature and then hits it with a Gore attack on the same turn, that target must succeed on a DC 14 STR save or be knocked prone. If the target is prone, the triceratops can make one Stomp attack against it as a bonus action.
 
 ### Actions
 
 **Multiattack:** The triceratops makes two Gore attacks.
+
 **Gore:** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 19 (3d8+6) piercing damage.
+
 **Stomp:** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one prone creature. _Hit:_ 17 (2d10+6) bludgeoning damage.
 
 ### Bonus Actions

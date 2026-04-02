@@ -3,9 +3,13 @@
 *Medium* *Undead* *neutral evil*
 
 **Armor Class:** 8
+
 **Hit Points:** 22 (3d8+9)
+
 **Speed:** walk 20 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 356
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,8 +17,11 @@
 | 13 (+1) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) |
 
 **Saving Throws**: Wis +0
+
 **Condition Immunities:** poisoned
+
 **Senses:** darkvision 60 ft., passive Perception 8
+
 **Languages:** understands the languages it knew in life but can't speak
 
 ### Special Abilities

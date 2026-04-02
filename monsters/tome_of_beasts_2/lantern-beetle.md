@@ -3,9 +3,13 @@
 *Tiny* *Beast* *unaligned*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 2 (1d4)
+
 **Speed:** walk 30 ft. climb 10 ft. fly 10 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** Tome of Beasts 2, page 392
 
 | STR | DEX | CON | INT | WIS | CHA |

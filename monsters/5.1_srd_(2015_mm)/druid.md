@@ -3,9 +3,13 @@
 *Medium* *Humanoid* *any alignment*
 
 **Armor Class:** 11 (16 with _barkskin_)
+
 **Hit Points:** 27 (5d8+5)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 398
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |
 
 **Skills:** medicine +4, nature +3, perception +4
+
 **Senses:** passive Perception 14
+
 **Languages:** Druidic plus any two languages
 
 ### Special Abilities

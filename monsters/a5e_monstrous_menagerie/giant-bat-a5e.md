@@ -3,9 +3,13 @@
 *Large* *Beast*
 
 **Armor Class:** 13
+
 **Hit Points:** 16 (3d10)
+
 **Speed:** walk 10 ft. fly 60 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** A5e Monstrous Menagerie, page 445
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -17,6 +21,7 @@
 ### Special Abilities
 
 **Echolocation:** The bat can't use blindsight while deafened.
+
 **Keen Hearing:** The bat has advantage on Perception checks that rely on hearing.
 
 ### Actions

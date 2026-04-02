@@ -3,9 +3,13 @@
 *Small* *Beast* *neutral*
 
 **Armor Class:** 13
+
 **Hit Points:** 36 (8d6+8)
+
 **Speed:** walk 20 ft. climb 20 ft. fly 40 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Tome of Beasts 3, page 274
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,8 +17,11 @@
 | 11 (+0) | 16 (+3) | 13 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
 
 **Saving Throws**: Dex +5, Wis +3
+
 **Skills:** perception +1
+
 **Senses:** darkvision 60', passive Perception 13
+
 **Languages:** Moonsong
 
 ### Special Abilities

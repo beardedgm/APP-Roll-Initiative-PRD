@@ -3,9 +3,13 @@
 *Large* *Undead* *neutral evil*
 
 **Armor Class:** 8
+
 **Hit Points:** 85 (9d10+36)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 357
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,9 +17,13 @@
 | 19 (+4) | 6 (-2) | 18 (+4) | 3 (-4) | 6 (-2) | 5 (-3) |
 
 **Saving Throws**: Wis +0
+
 **Damage Immunities:** poison
+
 **Condition Immunities:** poisoned
+
 **Senses:** darkvision 60 ft., passive Perception 8
+
 **Languages:** understands Common and Giant but can't speak
 
 ### Special Abilities

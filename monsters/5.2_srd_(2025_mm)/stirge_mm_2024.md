@@ -3,8 +3,11 @@
 *Tiny Monstrosity, Unaligned*
 
 **Armor Class:** 13
+
 **Hit Points:** 5 (2d4)
+
 **Speed:** 10 ft., Fly 40 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,6 +20,7 @@
 | CHA | 6 | -2 | -2 |
 
 **Senses**: darkvision 60 ft.; Passive Perception 9
+
 **CR** 1/8 (XP 25; PB +2)
 
 ## Actions

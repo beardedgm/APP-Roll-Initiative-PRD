@@ -3,8 +3,11 @@
 *Small Elemental, Chaotic Neutral*
 
 **Armor Class:** 14
+
 **Hit Points:** 13 (3d6 + 3)
+
 **Speed:** 30 ft.
+
 **Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 10 | +0 | +0 |
 
 **Immunities**: Fire
+
 **Senses**: darkvision 60 ft.; Passive Perception 10
+
 **Languages**: Primordial (Ignan)
+
 **CR** 1/2 (XP 100; PB +2)
 
 ## Traits

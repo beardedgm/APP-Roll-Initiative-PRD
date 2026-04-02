@@ -3,9 +3,13 @@
 *Large* *Monstrosity* *neutral evil*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 26 (4d10+4)
+
 **Speed:** walk 50 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 393
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 16 (+3) | 13 (+1) | 13 (+1) | 7 (-2) | 11 (+0) | 8 (-1) |
 
 **Skills:** perception +4
+
 **Senses:** darkvision 60 ft., passive Perception 14
+
 **Languages:** Goblin, Worg
 
 ### Special Abilities

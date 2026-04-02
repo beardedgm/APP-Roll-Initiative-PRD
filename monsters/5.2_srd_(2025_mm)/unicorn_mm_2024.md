@@ -3,8 +3,11 @@
 *Large Celestial, Lawful Good*
 
 **Armor Class:** 12
+
 **Hit Points:** 97 (13d10 + 26)
+
 **Speed:** 50 ft.
+
 **Initiative**: +8 (18)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 16 | +3 | +3 |
 
 **Immunities**: Poison; Charmed, Paralyzed, Poisoned
+
 **Senses**: darkvision 60 ft.; Passive Perception 13
+
 **Languages**: Celestial, Elvish, Sylvan; telepathy 120 ft.
+
 **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
@@ -39,6 +45,7 @@
 ***Spellcasting.*** The unicorn casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 14):
 
 **At Will:** *Detect Evil and Good*, *Druidcraft*
+
 **1e/Day Each:** *Calm Emotions*, *Dispel Evil and Good*, *Entangle*, *Pass without Trace*, *Word of Recall*
 
 ## Bonus Actions

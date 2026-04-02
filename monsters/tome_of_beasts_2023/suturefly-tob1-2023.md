@@ -3,9 +3,13 @@
 *Tiny* *Beast* *Unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 10 (4d4)
+
 **Speed:** walk 40 ft. fly 10 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Tome of Beasts 2023, page 353
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,11 +17,13 @@
 | 1 (-5) | 15 (+2) | 10 (+0) | 1 (-5) | 12 (+1) | 4 (-3) |
 
 **Skills:** Stealth +4
+
 **Senses:** darkvision 60 ft., passive Perception 11
 
 ### Special Abilities
 
 **Detect Lies:** The suturefly knows if it hears a lie and can pinpoint the location of a creature within 60 feet of it that lied within the last minute.
+
 **Forest Camouflage:** The suturefly has advantage on Dexterity (Stealth) checks made to hide in forested terrain.
 
 ### Actions

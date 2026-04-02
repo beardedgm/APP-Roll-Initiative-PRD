@@ -3,9 +3,13 @@
 *Large* *Ooze*
 
 **Armor Class:** 8
+
 **Hit Points:** 45 (6d10+12)
+
 **Speed:** walk 15 ft. climb 15 ft. swim 15 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** A5e Monstrous Menagerie, page 352
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,14 +17,19 @@
 | 14 (+2) | 6 (-2) | 14 (+2) | 1 (-5) | 6 (-2) | 1 (-5) |
 
 **Damage Immunities:** acid, lightning, slashing
+
 **Condition Immunities:** blinded, charmed, deafened, fatigue, frightened, prone
+
 **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 
 ### Special Abilities
 
 **Amorphous:** The jelly can pass through an opening as narrow as 1 inch wide without squeezing.
+
 **Spider Climb:** The jelly can use its climb speed even on difficult surfaces and upside down on ceilings.
+
 **Sunlight Sensitivity:** While in sunlight, the jelly has disadvantage on attack rolls.
+
 **Ooze Nature:** An ooze doesnt require air or sleep.
 
 ### Actions

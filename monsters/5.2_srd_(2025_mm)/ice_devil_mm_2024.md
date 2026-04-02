@@ -3,8 +3,11 @@
 *Large Fiend (Devil), Lawful Evil*
 
 **Armor Class:** 18
+
 **Hit Points:** 228 (24d10 + 96)
+
 **Speed:** 40 ft.
+
 **Initiative**: +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 18 | +4 | +9 |
 
 **Immunities**: Cold, Fire, Poison; Poisoned
+
 **Skills**: Insight +7, Perception +7, Persuasion +9
+
 **Senses**: blindsight 120 ft.; Passive Perception 17
+
 **Languages**: Infernal; telepathy 120 ft.
+
 **CR** 14 (XP 11,500; PB +5)
 
 ## Traits

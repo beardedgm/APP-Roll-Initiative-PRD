@@ -3,11 +3,17 @@
 *Large* *Plant*
 
 **Armor Class:** 15 (natural armor)
+
 **Hit Points:** 110 
+
 **Speed:** walk 20 ft. swim 20 ft.
+
 **Perception**: 10
+
 **Stealth**: 9
+
 **Challenge Rating:** 5 (1,800 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,19 +21,25 @@
 | +4 | -1 | +3 | -3 | +0 | -3 |
 
 **Damage Immunities:** lightning, blinded, deafened
+
 **Damage Resistances:** cold, fire, Plant Resilience
+
 **Senses:** keensense 60 ft. (can't sense beyond this radius)
+
 **Languages:** -
 
 ### Special Abilities
 
 **Lightning Absorption:** Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains HP equal to the lightning damage dealt.
+
 **Plant Resilience:** The shambling mound is resistant to exhaustion and to the paralyzed, petrified, and unconscious conditions.
+
 **Rotting Vegetation:** The shambling mound emits the smell of rotting vegetation. A creature that starts its turn within 10 feet of the shambling mound must succeed on a DC 14 CON save or be poisoned until the start of its next turn.
 
 ### Actions
 
 **Multiattack:** The shambling mound makes two Slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14).
+
 **Slam:** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8+4) bludgeoning damage plus 7 (2d6) poison damage.
 
 ### Bonus Actions

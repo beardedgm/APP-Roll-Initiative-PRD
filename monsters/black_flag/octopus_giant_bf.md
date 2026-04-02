@@ -3,11 +3,17 @@
 *Large* *Beast*
 
 **Armor Class:** 11
+
 **Hit Points:** 44 
+
 **Speed:** walk 10 ft. swim 60 ft.
+
 **Perception**: 14
+
 **Stealth**: 11
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,12 +21,15 @@
 | +3 | +1 | +1 | -3 | +0 | -3 |
 
 **Senses:** darkvision 60 ft.
+
 **Languages:** -
 
 ### Special Abilities
 
 **Hold Breath:** While out of water, the octopus can hold its breath for 1 hour.
+
 **Underwater Camouflage:** The octopus's Stealth is 18 while underwater.
+
 **Water Breathing:** The octopus can breathe only underwater.
 
 ### Actions

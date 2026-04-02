@@ -3,8 +3,11 @@
 *Gargantuan Monstrosity, Unaligned*
 
 **Armor Class:** 15
+
 **Hit Points:** 248 (16d20 + 80)
+
 **Speed:** 20 ft., Fly 120 ft.
+
 **Initiative**: +8 (18)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 9 | -1 | -1 |
 
 **Skills**: Perception +8
+
 **Senses**: Passive Perception 18
+
 **CR** 11 (XP 7,200; PB +4)
 
 ## Actions

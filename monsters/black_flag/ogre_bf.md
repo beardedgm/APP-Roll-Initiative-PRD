@@ -3,11 +3,17 @@
 *Large* *Giant*
 
 **Armor Class:** 11 (hide armor)
+
 **Hit Points:** 66 
+
 **Speed:** walk 40 ft.
+
 **Perception**: 8
+
 **Stealth**: 9
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,8 +21,11 @@
 | +4 | -1 | +3 | -3 | -2 | -2 |
 
 **Damage Vulnerabilities:** Giant Attributes
+
 **Damage Resistances:** Giant Attributes
+
 **Senses:** darkvision 60 ft.
+
 **Languages:** Common,Giant
 
 ### Special Abilities
@@ -26,8 +35,11 @@
 ### Actions
 
 **Multiattack:** The ogre makes two Greatclub or Javelin attacks.
+
 **Greatclub:** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8+4) bludgeoning damage.
+
 **Javelin:** _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 11 (2d6+4) piercing damage.
+
 **Bowling Sweep (Recharge 5-6):** The ogre sweeps its weapon in a wide arc around it. Each creature within 10 feet of the ogre must make a DC 14 STR save. Small and smaller creatures have disadvantage on the save. On a failure, a creature takes 14 (4d6) bludgeoning damage, is pushed up to 10 feet away from the ogre, and is knocked prone. On a success, a creature takes half the damage and isn't pushed or knocked prone.
 
 ### Bonus Actions

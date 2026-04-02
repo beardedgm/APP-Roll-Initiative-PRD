@@ -3,8 +3,11 @@
 *Large Monstrosity, Unaligned*
 
 **Armor Class:** 14
+
 **Hit Points:** 45 (7d10 + 7)
+
 **Speed:** 30 ft., Climb 30 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 6 | -2 | -2 |
 
 **Skills**: Stealth +7
+
 **Senses**: darkvision 60 ft.; Passive Perception 10
+
 **CR** 3 (XP 700; PB +2)
 
 ## Traits

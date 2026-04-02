@@ -3,8 +3,11 @@
 *Medium or Small Undead, Lawful Evil*
 
 **Armor Class:** 17
+
 **Hit Points:** 187 (25d8 + 75)
+
 **Speed:** 30 ft.
+
 **Initiative**: +10 (20)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,10 +20,15 @@
 | CHA | 16 | +3 | +3 |
 
 **Vulnerabilities**: Fire
+
 **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+
 **Skills**: History +5, Perception +9, Religion +5
+
 **Senses**: truesight 60 ft.; Passive Perception 19
+
 **Languages**: Common plus three other languages
+
 **CR** 15 (XP 13,000, or 15,000 in lair)
 
 ## Traits
@@ -45,6 +53,7 @@
 ***Spellcasting.*** The mummy casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):
 
 **At Will:** *Dispel Magic*, *Thaumaturgy*
+
 **1e/Day Each:** *Animate Dead*, *Harm*, *Insect Plague*
 
 ## Legendary Actions

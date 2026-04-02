@@ -3,8 +3,11 @@
 *Medium Beast, Unaligned*
 
 **Armor Class:** 13
+
 **Hit Points:** 28 (8d8 - 8)
+
 **Speed:** 5 ft., Swim 40 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 2 | -4 | -4 |
 
 **Resistances**: Bludgeoning, Piercing, Slashing
+
 **Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+
 **Senses**: darkvision 60 ft.; Passive Perception 8
+
 **CR** 1 (XP 200; PB +2)
 
 ## Traits

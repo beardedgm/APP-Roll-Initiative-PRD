@@ -3,11 +3,17 @@
 *Medium* *Ooze*
 
 **Armor Class:** 8
+
 **Hit Points:** 29 
+
 **Speed:** walk 15 ft. climb 15 ft.
+
 **Perception**: 8
+
 **Stealth**: 8
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,18 +21,27 @@
 | +1 | -2 | +3 | -5 | -2 | -4 |
 
 **Damage Vulnerabilities:** cold
+
 **Damage Immunities:** Ooze Resilience
+
 **Damage Resistances:** acid, fire, Ooze Resilience
+
 **Senses:** keensense 60 ft. (can't sense beyond this radius)
+
 **Languages:** -
 
 ### Special Abilities
 
 **Amorphous:** The ooze can move through a space as narrow as 1 inch wide without squeezing.
+
 **Corrode Metal:** Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage. The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
+
 **False Appearance:** While the ooze remains motionless, it is indistinguishable from ordinary fresh or curing mortar.
+
 **Ooze Nature:** The ooze doesn't require sleep.
+
 **Ooze Resilience:** The ooze is resistant to the grappled and restrained conditions, and it is immune to exhaustion and to the blinded, charmed, deafened, frightened, and prone conditions.
+
 **Spider Climb:** The ooze can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 ### Actions

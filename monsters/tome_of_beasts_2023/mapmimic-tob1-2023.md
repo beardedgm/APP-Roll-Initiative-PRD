@@ -3,9 +3,13 @@
 *Tiny* *Monstrosity* *Neutral*
 
 **Armor Class:** 14 (natural armor)
+
 **Hit Points:** 22 (5d4 + 10)
+
 **Speed:** walk 15 ft. fly 30 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Tome of Beasts 2023, page 269
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,12 +17,15 @@
 | 7 (-2) | 15 (+2) | 14 (+2) | 5 (-3) | 13 (+1) | 16 (+3) |
 
 **Damage Immunities:** acid
+
 **Condition Immunities:** prone
+
 **Senses:** darkvision 60 ft., passive Perception 11
 
 ### Special Abilities
 
 **False Appearance (Object Form Only):** While the mimic remains motionless, it is indistinguishable from an ordinary object.
+
 **Life Path:** Regardless of the form it takes, the map mimic can make a map on its surface (no action required) that shows the route it has traveled since it left its parent mimic. The map shows terrain features and landmarks of where it has been, but doesn't show the names of those places.
 
 ### Actions

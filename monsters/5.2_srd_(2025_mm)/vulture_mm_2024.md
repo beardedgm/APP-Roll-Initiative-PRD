@@ -3,8 +3,11 @@
 *Medium Beast, Unaligned*
 
 **Armor Class:** 10
+
 **Hit Points:** 5 (1d8 + 1)
+
 **Speed:** 10 ft., Fly 50 ft.
+
 **Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 4 | -3 | -3 |
 
 **Skills**: Perception +3
+
 **Senses**: Passive Perception 13
+
 **CR** 0 (XP 0 or 10; PB +2)
 
 ## Traits

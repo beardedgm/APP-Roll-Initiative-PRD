@@ -3,11 +3,17 @@
 *Large* *Monstrosity*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 25 
+
 **Speed:** walk 30 ft.
+
 **Perception**: 14
+
 **Stealth**: 11
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,12 +21,15 @@
 | +3 | +1 | +1 | -2 | +0 | -1 |
 
 **Damage Resistances:** Monstrosity Resilience
+
 **Senses:** darkvision 60 ft.
+
 **Languages:** Goblin,Worg
 
 ### Special Abilities
 
 **Heightened Hearing and Smell:** The worg's Perception is 19 while perceiving by hearing or smell.
+
 **Monstrosity Resilience:** The worg is resistant to exhaustion and to the frightened condition.
 
 ### Actions

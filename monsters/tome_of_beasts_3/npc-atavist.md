@@ -3,9 +3,13 @@
 *Medium* *Humanoid* *lawful evil*
 
 **Armor Class:** 16 (natural armor)
+
 **Hit Points:** 75 (10d8+30)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 4 (1,100 XP)
+
 **Source:** Tome of Beasts 3, page 404
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,9 +17,13 @@
 | 18 (+4) | 14 (+2) | 17 (+3) | 13 (+1) | 7 (-2) | 9 (-1) |
 
 **Saving Throws**: Wis +0
+
 **Skills:** perception +-2
+
 **Damage Resistances:** necrotic, poison
+
 **Senses:** passive Perception 8
+
 **Languages:** any two languages
 
 ### Special Abilities
@@ -25,7 +33,9 @@
 ### Actions
 
 **Multiattack:** Two Keratin Blade or Bone Shard attacks. If both attacks hit one target the target takes an extra 7 (2d6) piercing damage as bits of bone dig deeper into the target.
+
 **Keratin Blade:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.
+
 **Bone Shard:** Ranged Weapon Attack: +4 to hit 30/120' one target 7 (2d4+2) piercing damage.
 
 

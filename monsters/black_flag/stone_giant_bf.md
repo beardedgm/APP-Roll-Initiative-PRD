@@ -3,11 +3,17 @@
 *Huge* *Giant*
 
 **Armor Class:** 17 (natural armor)
+
 **Hit Points:** 156 
+
 **Speed:** walk 40 ft.
+
 **Perception**: 14
+
 **Stealth**: 15
+
 **Challenge Rating:** 7 (2,900 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,19 +21,25 @@
 | +6 | +5 | +8 | +0 | +4 | -1 |
 
 **Damage Vulnerabilities:** thunder, Giant Attributes
+
 **Damage Resistances:** lightning, petrified, Giant Attributes
+
 **Senses:** darkvision 60 ft.
+
 **Languages:** Giant
 
 ### Special Abilities
 
 **Giant Attributes:** The stone giant is resistant to the stunned condition, and it is vulnerable to the prone condition.
+
 **Stone Camouflage:** The giant's Stealth is 20 while in rocky terrain.
 
 ### Actions
 
 **Multiattack:** The giant makes two Stony Fist or Rock attacks.
+
 **Stony Fist:** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 24 (4d8+6) bludgeoning damage. The target is grappled (escape DC 17) if it is a Large or smaller creature and the stone giant isn't already grappling a creature.
+
 **Rock:** _Ranged Weapon Attack:_ +9 to hit, range 60/240 ft., one target. _Hit:_ 28 (4d10+6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 STR save or be knocked prone.
 
 ### Bonus Actions

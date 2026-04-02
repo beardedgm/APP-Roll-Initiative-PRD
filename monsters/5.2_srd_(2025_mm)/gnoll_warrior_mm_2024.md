@@ -3,8 +3,11 @@
 *Medium Fiend, Chaotic Evil*
 
 **Armor Class:** 15
+
 **Hit Points:** 27 (6d8)
+
 **Speed:** 30 ft.
+
 **Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 7 | -2 | -2 |
 
 **Senses**: darkvision 60 ft.; Passive Perception 10
+
 **Languages**: Gnoll
+
 **CR** 1/2 (XP 100; PB +2)
 
 ## Actions

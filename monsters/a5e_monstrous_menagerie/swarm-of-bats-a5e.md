@@ -3,9 +3,13 @@
 *Medium* *Beast*
 
 **Armor Class:** 12
+
 **Hit Points:** 18 (4d8)
+
 **Speed:** walk 5 ft. fly 30 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** A5e Monstrous Menagerie, page 460
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,13 +17,17 @@
 | 4 (-3) | 14 (+2) | 10 (+0) | 2 (-4) | 12 (+1) | 4 (-3) |
 
 **Damage Resistances:** bludgeoning, piercing, slashing
+
 **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned, unconscious
+
 **Senses:** blindsight 60 ft., passive Perception 11
 
 ### Special Abilities
 
 **Echolocation:** The swarm can't use blindsight while deafened.
+
 **Keen Hearing:** The swarm has advantage on Perception checks that rely on hearing.
+
 **Swarm:** The swarm can occupy another creatures space and move through any opening large enough for a Tiny creature. It can't gain hit points or temporary hit points.
 
 ### Actions

@@ -3,11 +3,17 @@
 *Medium* *Beast*
 
 **Armor Class:** 15 (natural armor)
+
 **Hit Points:** 13 
+
 **Speed:** walk 30 ft. swim 30 ft.
+
 **Perception**: 9
+
 **Stealth**: 12
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,8 +21,11 @@
 | +2 | +2 | +0 | -5 | -1 | -4 |
 
 **Damage Vulnerabilities:** bludgeoning
+
 **Damage Resistances:** slashing
+
 **Senses:** keensense 30 ft.
+
 **Languages:** -
 
 ### Special Abilities

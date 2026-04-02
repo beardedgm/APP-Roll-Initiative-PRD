@@ -3,9 +3,13 @@
 *Large* *Elemental* *neutral evil*
 
 **Armor Class:** 17 (natural armor)
+
 **Hit Points:** 171 (18d10+72)
+
 **Speed:** walk 40 ft.
+
 **Challenge Rating:** 10 (5,900 XP)
+
 **Source:** Creature Codex, page 226
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,9 +17,13 @@
 | 12 (+1) | 20 (+5) | 18 (+4) | 10 (+0) | 16 (+3) | 10 (+0) |
 
 **Damage Immunities:** fire, poison
+
 **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
+
 **Condition Immunities:** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+
 **Senses:** darkvision 60 ft., passive Perception 13
+
 **Languages:** Common, Ignan
 
 ### Special Abilities
@@ -25,7 +33,9 @@
 ### Actions
 
 **Multiattack:** The incinis makes two magma fist attacks.
+
 **Magma Fist:** Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 14 (2d8 + 5) bludgeoning damage and 9 (2d8) fire damage.
+
 **Wave of Magma (Recharge 5-6):** The incinis transforms into a wave of magma, moving up to its speed in a straight line. Each creature in the path where the incinis moves must make a DC 17 Dexterity saving throw. On a failure, a target takes 21 (6d6) fire damage and, if it is a Large or smaller creature, it is pushed ahead of the incinis and knocked prone in an unoccupied space within 5 feet of where the incinis ends its movement. On a success, a target takes half the damage and is neither pushed nor knocked prone.
 
 

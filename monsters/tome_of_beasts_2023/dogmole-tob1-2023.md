@@ -3,9 +3,13 @@
 *Medium* *Beast* *Unaligned*
 
 **Armor Class:** 14 (natural armor)
+
 **Hit Points:** 58 (9d8 + 18)
+
 **Speed:** walk 10 ft. burrow 30 ft.
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** Tome of Beasts 2023, page 107
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -21,7 +25,9 @@
 ### Actions
 
 **Multiattack:** The dogmole makes one Bite attack and one Claw attack.
+
 **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+
 **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.
 
 ### Reactions

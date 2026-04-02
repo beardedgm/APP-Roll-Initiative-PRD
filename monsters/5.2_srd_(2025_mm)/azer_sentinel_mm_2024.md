@@ -3,8 +3,11 @@
 *Medium Elemental, Lawful Neutral*
 
 **Armor Class:** 17
+
 **Hit Points:** 39 (6d8 + 12)
+
 **Speed:** 30 ft.
+
 **Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 10 | +0 | +0 |
 
 **Immunities**: Fire, Poison; Poisoned
+
 **Senses**: Passive Perception 11
+
 **Languages**: Primordial (Ignan)
+
 **CR** 2 (XP 450; PB +2)
 
 ## Traits

@@ -3,11 +3,17 @@
 *Tiny* *Beast*
 
 **Armor Class:** 11
+
 **Hit Points:** 9 
+
 **Speed:** walk 30 ft. swim 30 ft.
+
 **Perception**: 10
+
 **Stealth**: 11
+
 **Challenge Rating:** 1/8 (25 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | -4 | +1 | +0 | -5 | +0 | -4 |
 
 **Damage Resistances:** poison, poisoned
+
 **Senses:** keensense 10 ft.
+
 **Languages:** -
 
 ### Actions

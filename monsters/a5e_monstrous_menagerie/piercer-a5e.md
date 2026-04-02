@@ -3,9 +3,13 @@
 *Small* *Monstrosity*
 
 **Armor Class:** 17
+
 **Hit Points:** 9 (2d6+2)
+
 **Speed:** walk 0 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** A5e Monstrous Menagerie, page 373
 
 | STR | DEX | CON | INT | WIS | CHA |

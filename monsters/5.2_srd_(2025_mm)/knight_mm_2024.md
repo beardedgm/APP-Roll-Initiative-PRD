@@ -3,8 +3,11 @@
 *Medium or Small Humanoid, Neutral*
 
 **Armor Class:** 18
+
 **Hit Points:** 52 (8d8 + 16)
+
 **Speed:** 30 ft.
+
 **Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 15 | +2 | +2 |
 
 **Immunities**: Frightened
+
 **Gear** Greatsword, Heavy Crossbow, Plate Armor
+
 **Senses**: Passive Perception 10
+
 **Languages**: Common plus one other language
+
 **CR** 3 (XP 700; PB +2)
 
 ## Actions

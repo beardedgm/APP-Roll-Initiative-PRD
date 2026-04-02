@@ -3,11 +3,17 @@
 *Medium* *Undead*
 
 **Armor Class:** 15 (natural armor)
+
 **Hit Points:** 91 
+
 **Speed:** walk 30 ft. climb 30 ft.
+
 **Perception**: 13
+
 **Stealth**: 16
+
 **Challenge Rating:** 5 (1,800 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,23 +21,33 @@
 | +3 | +6 | +3 | +0 | +3 | +1 |
 
 **Damage Immunities:** Vampiric Resilience
+
 **Damage Resistances:** necrotic; bludgeoning, piercing, and slashing damage from nonmagical attacks
+
 **Senses:** darkvision 60 ft.
+
 **Languages:** the languages it knew in life
 
 ### Special Abilities
 
 **Hungry Dead Nature:** As the **vampire**.
+
 **Regeneration:** The vampire spawn regains 10 HP at the start of its turn if it has at least 1 HP and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
+
 **Resting Place:** As the **vampire**.
+
 **Spider Climb:** As the **vampire**.
+
 **Vampire Weaknesses:** As the **vampire**.
+
 **Vampiric Resilience:** The vampire is immune to exhaustion.
 
 ### Actions
 
 **Multiattack:** The vampire spawn makes two Claw attacks. It can replace one attack with a Draining Bite attack. If both Claw attacks hit one Large or smaller creature, the target is grappled (escape DC 14).
+
 **Claw:** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 8 (2d4+3) slashing damage plus 10 (3d6) necrotic damage.
+
 **Draining Bite:** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. _Hit:_ 8 (2d4+3) piercing damage plus 10 (3d6) necrotic damage. The target's HP maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains HP equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its HP maximum to 0.
 
 ### Bonus Actions

@@ -3,8 +3,11 @@
 *Large Construct, Unaligned*
 
 **Armor Class:** 20
+
 **Hit Points:** 252 (24d10 + 120)
+
 **Speed:** 30 ft.
+
 **Initiative**: +9 (19)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 1 | -5 | -5 |
 
 **Immunities**: Fire, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+
 **Senses**: darkvision 120 ft.; Passive Perception 10
+
 **Languages**: Understands Common plus two other languages but can't speak
+
 **CR** 16 (XP 15,000; PB +5)
 
 ## Traits

@@ -3,8 +3,11 @@
 *Medium Monstrosity, Lawful Evil*
 
 **Armor Class:** 15
+
 **Hit Points:** 127 (17d8 + 51)
+
 **Speed:** 30 ft.
+
 **Initiative**: +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 15 | +2 | +2 |
 
 **Skills**: Deception +5, Perception +4, Stealth +6
+
 **Senses**: darkvision 150 ft.; Passive Perception 14
+
 **Languages**: Common plus one other language
+
 **CR** 6 (XP 2,300; PB +3)
 
 ## Actions

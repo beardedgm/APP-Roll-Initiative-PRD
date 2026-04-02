@@ -3,11 +3,17 @@
 *Large* *Beast*
 
 **Armor Class:** 12 (natural armor)
+
 **Hit Points:** 15 
+
 **Speed:** walk 30 ft. climb 30 ft.
+
 **Perception**: 10
+
 **Stealth**: 11
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,6 +21,7 @@
 | +2 | +1 | +1 | -4 | +0 | -3 |
 
 **Senses:** darkvision 30 ft.
+
 **Languages:** -
 
 ### Actions

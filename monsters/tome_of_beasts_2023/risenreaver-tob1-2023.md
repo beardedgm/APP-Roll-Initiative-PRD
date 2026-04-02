@@ -3,9 +3,13 @@
 *Large* *Undead* *Chaotic Evil*
 
 **Armor Class:** 15 (studded leather)
+
 **Hit Points:** 168 (16d10 + 80)
+
 **Speed:** walk 40 ft.
+
 **Challenge Rating:** 7 (2,900 XP)
+
 **Source:** Tome of Beasts 2023, page 309
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,18 +17,23 @@
 | 19 (+4) | 16 (+3) | 20 (+5) | 9 (-1) | 7 (-2) | 6 (-2) |
 
 **Saving Throws**: Dex +6
+
 **Skills:** Perception +1
+
 **Senses:** darkvision 120 ft., passive perception 11
+
 **Languages:** the languages it knew in life
 
 ### Special Abilities
 
 **Blood Sense:** The risen reaver can pinpoint the location of creatures that aren't Constructs or Undead within 60 feet of it and can sense the general direction of such creatures within 1 mile of it.
+
 **Undead Nature:** The risen reaver doesn't require air, food, drink, or sleep.
 
 ### Actions
 
 **Multiattack:** The risen reaver makes three Bladed Fist attacks.
+
 **Bladed Fist:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) slashing damage.
 
 ### Bonus Actions

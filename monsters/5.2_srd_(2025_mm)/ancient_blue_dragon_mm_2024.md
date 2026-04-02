@@ -3,8 +3,11 @@
 *Gargantuan Dragon (Chromatic), Lawful Evil*
 
 **Armor Class:** 22
+
 **Hit Points:** 481 (26d20 + 208)
+
 **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft.
+
 **Initiative**: +14 (24)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 25 | +7 | +7 |
 
 **Immunities**: Lightning
+
 **Skills**: Perception +17, Stealth +7
+
 **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
+
 **Languages**: Common, Draconic
+
 **CR** 23 (XP 50,000, or 62,000 in lair)
 
 ## Traits
@@ -38,6 +45,7 @@
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 22):
 
 **At Will:** *Detect Magic*, *Invisibility*, *Mage Hand*, *Shatter*
+
 **1e/Day Each:** *Scrying*, *Sending*
 
 ## Legendary Actions

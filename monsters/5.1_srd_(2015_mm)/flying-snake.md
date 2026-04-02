@@ -3,9 +3,13 @@
 *Tiny* *Beast* *unaligned*
 
 **Armor Class:** 14
+
 **Hit Points:** 5 (2d4)
+
 **Speed:** walk 30 ft. fly 60 ft. swim 30 ft.
+
 **Challenge Rating:** 1/8 (25 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 372
 
 | STR | DEX | CON | INT | WIS | CHA |

@@ -3,9 +3,13 @@
 *Large* *Monstrosity* *unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 117 (18d10+18)
+
 **Speed:** walk 40 ft.
+
 **Challenge Rating:** 4 (1,100 XP)
+
 **Source:** Tome of Beasts 3, page 74
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 18 (+4) | 14 (+2) | 12 (+1) | 3 (-4) | 10 (+0) | 4 (-3) |
 
 **Saving Throws**: Dex +4
+
 **Skills:** perception +0
+
 **Senses:** tremorsense 30', passive Perception 12
 
 ### Special Abilities
@@ -23,7 +29,9 @@
 ### Actions
 
 **Multiattack:** One Bite attack and two Claw attacks.
+
 **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 8 (1d8+4) piercing damage.
+
 **Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 9 (2d4+4) slashing damage.
 
 ### Bonus Actions

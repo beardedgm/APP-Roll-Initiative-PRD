@@ -3,9 +3,13 @@
 *Medium* *Plant* *unaligned*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 76 (9d8+36)
+
 **Speed:** walk 10 ft.
+
 **Challenge Rating:** 4 (1,100 XP)
+
 **Source:** Tome of Beasts 2, page 160
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 16 (+3) | 11 (+0) | 19 (+4) | 5 (-3) | 13 (+1) | 15 (+2) |
 
 **Condition Immunities:** blinded, deafened, frightened
+
 **Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 11
+
 **Languages:** understands Common but can’t speak
 
 ### Special Abilities
@@ -27,6 +33,7 @@ While emitting light, the strobing fungus can't attack. It can stop emitting lig
 ### Actions
 
 **Multiattack:** The strobing fungus makes two attacks.
+
 **Chemical Burn:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one creature. Hit: 13 (3d6 + 3) acid damage.
 
 

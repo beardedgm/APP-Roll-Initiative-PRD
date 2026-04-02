@@ -3,9 +3,13 @@
 *Large* *Dragon* *lawful evil*
 
 **Armor Class:** 17 (natural armor)
+
 **Hit Points:** 231 (22d10+110)
+
 **Speed:** walk 20 ft. swim 60 ft.
+
 **Challenge Rating:** 11 (7,200 XP)
+
 **Source:** Tome of Beasts 3, page 155
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,25 +17,37 @@
 | 22 (+6) | 9 (-1) | 20 (+5) | 11 (+0) | 16 (+3) | 10 (+0) |
 
 **Saving Throws**: Dex +3
+
 **Skills:** perception +3
+
 **Damage Immunities:** poison
+
 **Damage Resistances:** cold
+
 **Condition Immunities:** paralyzed, poisoned, unconscious
+
 **Senses:** blindsight 120', darkvision 60', passive Perception 17
+
 **Languages:** Aquan, Draconic
 
 ### Special Abilities
 
 **Amphibious:** Can breathe air and water.
+
 **Echolocation:** Can't use its blindsight while deafened or out of water.
+
 **Underwater Camouflage:** Advantage: Dex (Stealth) underwater.
 
 ### Actions
 
 **Multiattack:** Three Sonic Pulses or one Bite and two Slams.
+
 **Bite:** Melee Weapon Attack: +10 to hit, 10 ft., one target, 24 (4d8+6) piercing damage.
+
 **Slam:** Melee Weapon Attack: +10 to hit, 5 ft., one target, 20 (4d6+6) bludgeoning damage.
+
 **Sonic Pulse:** Ranged Spell Attack: +7 to hit, 60 ft., one target, 21 (4d8+3) thunder. Drake can use this action only while underwater.
+
 **Buffeting Blast (Recharge 5-6):** Exhales powerful stream of water in 60' line × 5 ft. wide. Each creature in line: 38 (7d10) bludgeoning damage and becomes disoriented for 1 min (DC 17 Dex half damage not disoriented). When a disoriented creature moves it moves in a random direction. It can re-save at end of each of its turns success ends effect on itself.
 
 ### Bonus Actions

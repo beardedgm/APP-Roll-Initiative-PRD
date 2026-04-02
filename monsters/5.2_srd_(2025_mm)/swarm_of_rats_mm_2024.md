@@ -3,8 +3,11 @@
 *Medium Beast, Unaligned*
 
 **Armor Class:** 10
+
 **Hit Points:** 14 (4d8 - 4)
+
 **Speed:** 30 ft., Climb 30 ft.
+
 **Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 3 | -4 | -4 |
 
 **Resistances**: Bludgeoning, Piercing, Slashing
+
 **Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+
 **Senses**: darkvision 30 ft.; Passive Perception 10
+
 **CR** 1/4 (XP 50; PB +2)
 
 ## Traits

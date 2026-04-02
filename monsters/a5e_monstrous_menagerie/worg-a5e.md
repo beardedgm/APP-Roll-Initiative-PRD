@@ -3,9 +3,13 @@
 *Large* *Monstrosity*
 
 **Armor Class:** 13
+
 **Hit Points:** 22 (4d10)
+
 **Speed:** walk 50 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** A5e Monstrous Menagerie, page 463
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 14 (+2) | 12 (+1) | 10 (+0) | 6 (-2) | 10 (+0) | 8 (-1) |
 
 **Skills:** perception +2, stealth +3
+
 **Senses:** darkvision 60 ft., passive Perception 12
+
 **Languages:** Goblin, Worg
 
 ### Special Abilities

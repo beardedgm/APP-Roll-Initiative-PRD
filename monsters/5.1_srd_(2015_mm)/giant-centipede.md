@@ -3,9 +3,13 @@
 *Small* *Beast* *unaligned*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 4 (1d6+1)
+
 **Speed:** walk 30 ft. climb 30 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 374
 
 | STR | DEX | CON | INT | WIS | CHA |

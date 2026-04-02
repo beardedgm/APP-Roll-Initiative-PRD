@@ -3,9 +3,13 @@
 *Medium* *Beast* *unaligned*
 
 **Armor Class:** 14 (natural armor)
+
 **Hit Points:** 22 (4d8+4)
+
 **Speed:** fly 30 ft. walk 10 ft. hover True ft.
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** Tome of Beasts 2, page 294
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,12 +17,15 @@
 | 7 (-2) | 16 (+3) | 13 (+1) | 1 (-5) | 12 (+1) | 7 (-2) |
 
 **Damage Resistances:** bludgeoning, piercing, slashing
+
 **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses:** darkvision 60 ft., passive Perception 11
 
 ### Special Abilities
 
 **Dormant in Darkness:** The pestilence swarm appears dead in darkness and remains in a passive state until touched by light. When at least one insect in the swarm sees light, the entire swarm becomes active and attacks anything that moves. Once active, a swarm in complete darkness that isn't taking damage returns to its dormant state after 1 minute. The swarm poses no threat to creatures passing near it in complete darkness.
+
 **Swarm:** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny beast. The swarm can't regain hp or gain temporary hp.
 
 ### Actions

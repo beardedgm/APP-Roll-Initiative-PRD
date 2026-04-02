@@ -3,11 +3,17 @@
 *Medium* *Fey*
 
 **Armor Class:** 13
+
 **Hit Points:** 23 
+
 **Speed:** walk 40 ft.
+
 **Perception**: 12
+
 **Stealth**: 13
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,17 +21,21 @@
 | +1 | +3 | +0 | +1 | +0 | +5 |
 
 **Damage Resistances:** Fey Resilience
+
 **Senses:** -
+
 **Languages:** Common,Elvish,Sylvan
 
 ### Special Abilities
 
 **Fey Resilience:** The satyr is resistant to the charmed and unconscious conditions.
+
 **Magic Resistance:** The satyr has advantage on saves against spells and other magical effects.
 
 ### Actions
 
 **Ram:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4+3) bludgeoning damage.
+
 **Intoxicating Bolt:** _Ranged Spell Attack:_ +5 to hit, range 60 ft., one target. _Hit:_ 7 (1d8+3) poison damage, and the target must succeed on a DC 13 CON save or be incapacitated until the end of its next turn.
 
 ### Bonus Actions

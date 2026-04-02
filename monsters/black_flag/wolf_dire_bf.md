@@ -3,11 +3,17 @@
 *Large* *Beast*
 
 **Armor Class:** 14 (natural armor)
+
 **Hit Points:** 40 
+
 **Speed:** walk 50 ft.
+
 **Perception**: 13
+
 **Stealth**: 12
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,12 +21,15 @@
 | +3 | +2 | +2 | -4 | +1 | -2 |
 
 **Damage Resistances:** frightened
+
 **Senses:** -
+
 **Languages:** -
 
 ### Special Abilities
 
 **Heightened Hearing and Smell:** The wolf's Perception is 18 when perceiving by hearing or smell.
+
 **Pack Tactics:** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ### Actions

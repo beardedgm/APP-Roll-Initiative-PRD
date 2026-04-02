@@ -3,9 +3,13 @@
 *Medium* *Beast* *unaligned*
 
 **Armor Class:** 13
+
 **Hit Points:** 44 (8d8+8)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** Tome of Beasts 3, page 282
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,8 +17,11 @@
 | 11 (+0) | 16 (+3) | 12 (+1) | 2 (-4) | 14 (+2) | 7 (-2) |
 
 **Skills:** perception +2
+
 **Damage Resistances:** bludgeoning, piercing, slashing
+
 **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
+
 **Senses:** passive Perception 12
 
 ### Special Abilities
@@ -28,6 +35,7 @@
 ### Bonus Actions
 
 **Musk (Recharge: Short/Long Rest):** As musk deer but save DC 12.
+
 **Sprinter:** Takes the Dash action.
 
 

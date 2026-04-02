@@ -3,8 +3,11 @@
 *Large Aberration, Neutral*
 
 **Armor Class:** 14
+
 **Hit Points:** 104 (11d10 + 44)
+
 **Speed:** 30 ft.
+
 **Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 6 | -2 | -2 |
 
 **Senses**: darkvision 120 ft.; Passive Perception 11
+
 **Languages**: Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)
+
 **CR** 5 (XP 1,800; PB +3)
 
 ## Actions

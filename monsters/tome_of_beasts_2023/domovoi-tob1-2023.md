@@ -3,9 +3,13 @@
 *Medium* *Fey* *Chaotic Neutral*
 
 **Armor Class:** 15 (natural armor)
+
 **Hit Points:** 93 (11d8 + 44)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 4 (1,100 XP)
+
 **Source:** Tome of Beasts 2023, page 108
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,8 +17,11 @@
 | 19 (+4) | 13 (+1) | 18 (+4) | 6 (-2) | 10 (+0) | 16 (+3) |
 
 **Skills:** Intimidation +5, Perception +2
+
 **Damage Immunities:** acid, lightning
+
 **Senses:** darkvision 60 ft., passive Perception 12
+
 **Languages:** Common, Dwarvish, Elvish
 
 ### Special Abilities
@@ -24,8 +31,11 @@
 ### Actions
 
 **Multiattack:** The domovoi makes two Slam attacks.
+
 **Slam:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+
 **Invisibility:** The domovoi magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the domovoi wears or carries is invisible with it.
+
 **Spellcasting:** The domovoi casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):<br>At will: alter self<br>3/day each: darkness, haste
 
 ### Bonus Actions

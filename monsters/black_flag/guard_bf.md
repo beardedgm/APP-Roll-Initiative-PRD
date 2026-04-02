@@ -3,11 +3,17 @@
 *Medium* *Humanoid*
 
 **Armor Class:** 14 (chain shirt)
+
 **Hit Points:** 8 
+
 **Speed:** walk 30 ft.
+
 **Perception**: 13
+
 **Stealth**: 11
+
 **Challenge Rating:** 1/8 (25 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,6 +21,7 @@
 | +1 | +1 | +1 | +0 | +1 | +0 |
 
 **Senses:** -
+
 **Languages:** any one language (usually Common)
 
 ### Actions

@@ -3,9 +3,13 @@
 *Large* *Monstrosity* *lawful evil*
 
 **Armor Class:** 14 (natural armor)
+
 **Hit Points:** 68 (8d10+24)
+
 **Speed:** walk 30 ft. fly 50 ft.
+
 **Challenge Rating:** 3 (700 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 329
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -21,8 +25,11 @@
 ### Actions
 
 **Multiattack:** The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
+
 **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+
 **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+
 **Tail Spike:** Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 
 

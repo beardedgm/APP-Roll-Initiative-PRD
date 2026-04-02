@@ -3,8 +3,11 @@
 *Tiny Construct, Neutral*
 
 **Armor Class:** 13
+
 **Hit Points:** 4 (1d4 + 2)
+
 **Speed:** 20 ft., Fly 40 ft.
+
 **Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 7 | -2 | +0 |
 
 **Immunities**: Poison; Charmed, Poisoned
+
 **Senses**: darkvision 60 ft.; Passive Perception 10
+
 **Languages**: Understands Common plus one other language but can't speak
+
 **CR** 0 (XP 0 or 10; PB +2)
 
 ## Traits

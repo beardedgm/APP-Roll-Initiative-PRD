@@ -3,9 +3,13 @@
 *Small* *Monstrosity* *unaligned*
 
 **Armor Class:** 11
+
 **Hit Points:** 27 (6d6+6)
+
 **Speed:** walk 20 ft. fly 40 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 268
 
 | STR | DEX | CON | INT | WIS | CHA |

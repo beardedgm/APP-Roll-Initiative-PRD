@@ -3,8 +3,11 @@
 *Large Dragon (Metallic), Lawful Good*
 
 **Armor Class:** 17
+
 **Hit Points:** 142 (15d10 + 60)
+
 **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 17 | +3 | +3 |
 
 **Immunities**: Lightning
+
 **Skills**: Insight +4, Perception +7, Stealth +3
+
 **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
+
 **Languages**: Common, Draconic
+
 **CR** 8 (XP 3,900; PB +3)
 
 ## Traits

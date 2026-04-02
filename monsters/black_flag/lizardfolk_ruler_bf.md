@@ -3,11 +3,17 @@
 *Medium* *Humanoid*
 
 **Armor Class:** 15 (scale mail)
+
 **Hit Points:** 100 
+
 **Speed:** walk 30 ft. climb 15 ft. swim 30 ft.
+
 **Perception**: 12
+
 **Stealth**: 10 (15 without armor)
+
 **Challenge Rating:** 4 (1,100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,21 +21,29 @@
 | +3 | +1 | +2 | +0 | +2 | +2 |
 
 **Damage Immunities:** charmed, frightened
+
 **Senses:** -
+
 **Languages:** Common,Draconic
 
 ### Special Abilities
 
 **Brutal:** A melee weapon deals one extra die of its damage when the lizardfolk ruler hits with it (included in the attack).
+
 **Heightened Smell and Taste:** The lizardfolk's Perception is 17 when perceiving by smell or taste.
+
 **Hold Breath:** The lizardfolk ruler can hold its breath for 15 minutes.
+
 **Unshakable Command:** Each friendly creature within 30 feet of the lizardfolk ruler can't be charmed or frightened while the ruler isn't incapacitated.
 
 ### Actions
 
 **Multiattack:** The lizardfolk ruler makes two Bite attacks and one Greataxe attack, or it makes three Javelin attacks.
+
 **Bite:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6+3) piercing damage.
+
 **Greataxe:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 16 (2d12+3) slashing damage.
+
 **Javelin:** _Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 10 (2d6+3) piercing damage in melee or 6 (1d6+3) piercing damage at range.
 
 ### Bonus Actions

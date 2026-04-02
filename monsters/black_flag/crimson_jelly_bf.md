@@ -3,11 +3,17 @@
 *Tiny* *Ooze*
 
 **Armor Class:** 12
+
 **Hit Points:** 20 
+
 **Speed:** walk 0 ft. fly 60 ft. swim 30 ft. hover True ft.
+
 **Perception**: 10
+
 **Stealth**: 14
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,17 +21,25 @@
 | -4 | +4 | +0 | -5 | +0 | -1 |
 
 **Damage Immunities:** necrotic, grappled, Ooze Resilience
+
 **Damage Resistances:** Ooze Resilience
+
 **Senses:** keensense 10 ft. (can't sense beyond this radius)
+
 **Languages:** -
 
 ### Special Abilities
 
 **Amorphous:** The crimson jelly can move through space as narrow as 1 inch wide without squeezing.
+
 **Blood Sense:** The crimson jelly can pinpoint, by scent, the location of creatures that aren't Constructs or Undead and that don't have all of their HP within 60 feet of it and can sense the general direction of such creatures within 1 mile of it.
+
 **Ooze Nature:** The crimson jelly doesn't require sleep.
+
 **Ooze Resilience:** The crimson jelly is resistant to the restrained condition, and it is immune to exhaustion and to the blinded, charmed, deafened, frightened, and prone conditions.
+
 **Tainted Attacks:** A creature that is reduced to 0 HP by a crimson jelly must succeed on a DC 9 CHA save or suffer one level of exhaustion. While a creature suffers from this exhaustion, it loses most of its memories aside from basic information about itself, such as its name and its capabilities, and it is wracked with nightmarish visions that include a crimson rune.
+
 **Transparent:** While in an area of dim or bright light, the crimson jelly is invisible. While in darkness, creatures without darkvision can see the jelly's faint crimson glow.
 
 ### Actions

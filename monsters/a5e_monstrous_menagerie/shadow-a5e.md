@@ -3,9 +3,13 @@
 *Medium* *Undead*
 
 **Armor Class:** 12
+
 **Hit Points:** 18 (4d8)
+
 **Speed:** walk 40 ft.
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** A5e Monstrous Menagerie, page 388
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,16 +17,23 @@
 | 6 (-2) | 14 (+2) | 10 (+0) | 8 (-1) | 10 (+0) | 14 (+2) |
 
 **Skills:** stealth +4
+
 **Damage Vulnerabilities:** radiant
+
 **Damage Immunities:** necrotic, poison
+
 **Damage Resistances:** acid, cold, fire, lightning, thunder; damage from nonmagical weapons
+
 **Condition Immunities:** charmed, fatigue, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+
 **Senses:** darkvision 120 ft., passive Perception 10
 
 ### Special Abilities
 
 **Amorphous:** The shadow can pass through an opening as narrow as 1 inch wide without squeezing.
+
 **Sunlight Weakness:** While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
+
 **Undead Nature:** A shadow doesnt require air, sustenance, or sleep.
 
 ### Actions

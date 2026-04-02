@@ -3,8 +3,11 @@
 *Tiny Undead, Chaotic Evil*
 
 **Armor Class:** 19
+
 **Hit Points:** 27 (11d4)
+
 **Speed:** 5 ft., Fly 50 ft. (hover)
+
 **Initiative**: +9 (19)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 11 | +0 | +0 |
 
 **Resistances**: Acid, Bludgeoning, Cold, Fire, Necrotic, Piercing, Slashing
+
 **Immunities**: Lightning, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+
 **Senses**: darkvision 120 ft.; Passive Perception 12
+
 **Languages**: Common plus one other language
+
 **CR** 2 (XP 450; PB +2)
 
 ## Traits

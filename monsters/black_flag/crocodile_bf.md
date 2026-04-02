@@ -3,11 +3,17 @@
 *Large* *Beast*
 
 **Armor Class:** 12 (natural armor)
+
 **Hit Points:** 25 
+
 **Speed:** walk 20 ft. swim 30 ft.
+
 **Perception**: 10
+
 **Stealth**: 10
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | +2 | +0 | +1 | -4 | +0 | -3 |
 
 **Damage Resistances:** charmed
+
 **Senses:** -
+
 **Languages:** -
 
 ### Special Abilities

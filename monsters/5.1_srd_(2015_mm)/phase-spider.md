@@ -3,9 +3,13 @@
 *Large* *Monstrosity* *unaligned*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 32 (5d10+5)
+
 **Speed:** walk 30 ft. climb 30 ft.
+
 **Challenge Rating:** 3 (700 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 385
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,12 +17,15 @@
 | 15 (+2) | 15 (+2) | 12 (+1) | 6 (-2) | 10 (+0) | 6 (-2) |
 
 **Skills:** stealth +6
+
 **Senses:** darkvision 60 ft., passive Perception 10
 
 ### Special Abilities
 
 **Ethereal Jaunt:** As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
+
 **Spider Climb:** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
 **Web Walker:** The spider ignores movement restrictions caused by webbing.
 
 ### Actions

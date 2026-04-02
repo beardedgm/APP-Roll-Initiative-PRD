@@ -3,9 +3,13 @@
 *Large* *Beast* *unaligned*
 
 **Armor Class:** 11 (natural armor)
+
 **Hit Points:** 45 (6d10+12)
+
 **Speed:** walk 40 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 388
 
 | STR | DEX | CON | INT | WIS | CHA |

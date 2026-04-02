@@ -3,11 +3,17 @@
 *Medium* *Beast*
 
 **Armor Class:** 12
+
 **Hit Points:** 14 
+
 **Speed:** walk 30 ft. swim 30 ft.
+
 **Perception**: 10
+
 **Stealth**: 12
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | +0 | +2 | +1 | -4 | +0 | -4 |
 
 **Damage Resistances:** poison, poisoned
+
 **Senses:** keensense 10 ft.
+
 **Languages:** -
 
 ### Actions

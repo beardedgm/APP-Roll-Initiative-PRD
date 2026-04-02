@@ -3,8 +3,11 @@
 *Gargantuan Dragon (Chromatic), Chaotic Evil*
 
 **Armor Class:** 22
+
 **Hit Points:** 507 (26d20 + 234)
+
 **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
+
 **Initiative**: +14 (24)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 27 | +8 | +8 |
 
 **Immunities**: Fire
+
 **Skills**: Perception +16, Stealth +7
+
 **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
+
 **Languages**: Common, Draconic
+
 **CR** 24 (XP 62,000, or 75,000 in lair)
 
 ## Traits
@@ -38,6 +45,7 @@
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit with spell attacks):
 
 **At Will:** *Command*, *Detect Magic*, *Scorching Ray*
+
 **1e/Day Each:** *Fireball*, *Scrying*
 
 ## Legendary Actions

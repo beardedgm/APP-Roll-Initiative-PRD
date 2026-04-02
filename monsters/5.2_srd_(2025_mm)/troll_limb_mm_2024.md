@@ -3,8 +3,11 @@
 *Small Giant, Chaotic Evil*
 
 **Armor Class:** 13
+
 **Hit Points:** 14 (4d6)
+
 **Speed:** 20 ft.
+
 **Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,6 +20,7 @@
 | CHA | 1 | -5 | -5 |
 
 **Senses**: darkvision 60 ft.; Passive Perception 9
+
 **CR** 1/2 (XP 100; PB +2)
 
 ## Traits

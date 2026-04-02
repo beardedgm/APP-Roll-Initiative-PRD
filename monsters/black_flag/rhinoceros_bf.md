@@ -3,11 +3,17 @@
 *Large* *Beast*
 
 **Armor Class:** 11 (natural armor)
+
 **Hit Points:** 63 
+
 **Speed:** walk 40 ft.
+
 **Perception**: 11
+
 **Stealth**: 9
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | +5 | -1 | +2 | -4 | +1 | -2 |
 
 **Damage Resistances:** bludgeoning, stunned
+
 **Senses:** -
+
 **Languages:** -
 
 ### Special Abilities
@@ -25,6 +33,7 @@
 ### Actions
 
 **Multiattack:** The rhinoceros makes two Gore attacks.
+
 **Gore:** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6+5) bludgeoning damage.
 
 ### Bonus Actions

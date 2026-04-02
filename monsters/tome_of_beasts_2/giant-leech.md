@@ -3,9 +3,13 @@
 *Small* *Beast* *unaligned*
 
 **Armor Class:** 13
+
 **Hit Points:** 7 (2d6)
+
 **Speed:** swim 30 ft. walk 15 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Tome of Beasts 2, page 393
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 6 (-2) | 16 (+3) | 10 (+0) | 1 (-5) | 10 (+0) | 2 (-4) |
 
 **Saving Throws**: Dex +5, Con +2
+
 **Skills:** stealth +5
+
 **Senses:** tremorsense 30 ft., passive Perception 10
 
 ### Special Abilities

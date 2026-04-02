@@ -3,8 +3,11 @@
 *Medium Dragon (Chromatic), Lawful Evil*
 
 **Armor Class:** 17
+
 **Hit Points:** 38 (7d8 + 7)
+
 **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 13 | +1 | +1 |
 
 **Immunities**: Poison; Poisoned
+
 **Skills**: Perception +4, Stealth +3
+
 **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
+
 **Languages**: Draconic
+
 **CR** 2 (XP 450; PB +2)
 
 ## Traits

@@ -3,11 +3,17 @@
 *Large* *Beast*
 
 **Armor Class:** 15 (natural armor)
+
 **Hit Points:** 40 
+
 **Speed:** walk 30 ft. climb 30 ft.
+
 **Perception**: 10
+
 **Stealth**: 13
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,12 +21,15 @@
 | +2 | +3 | +1 | -4 | +0 | -3 |
 
 **Senses:** keensense 10 ft., darkvision 60 ft.
+
 **Languages:** -
 
 ### Special Abilities
 
 **Spider Climb:** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
 **Web Sense:** While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.
+
 **Web Walker:** The spider ignores movement restrictions caused by webbing.
 
 ### Actions

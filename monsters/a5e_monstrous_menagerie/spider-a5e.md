@@ -3,9 +3,13 @@
 *Tiny* *Beast*
 
 **Armor Class:** 12
+
 **Hit Points:** 1 (1d4-1)
+
 **Speed:** walk 20 ft. climb 20 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** A5e Monstrous Menagerie, page 460
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,12 +17,15 @@
 | 2 (-4) | 14 (+2) | 8 (-1) | 1 (-5) | 10 (+0) | 2 (-4) |
 
 **Skills:** stealth +4
+
 **Senses:** darkvision 30 ft., passive Perception 10
 
 ### Special Abilities
 
 **Spider Climb:** The spider can climb even on difficult surfaces and upside down on ceilings.
+
 **Web Sense:** While touching a web, the spider knows the location of other creatures touching that web.
+
 **Web Walker:** The spider ignores movement restrictions imposed by webs.
 
 ### Actions

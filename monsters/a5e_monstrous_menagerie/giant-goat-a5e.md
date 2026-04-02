@@ -3,9 +3,13 @@
 *Large* *Beast*
 
 **Armor Class:** 11
+
 **Hit Points:** 22 (3d10+6)
+
 **Speed:** walk 40 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** A5e Monstrous Menagerie, page 447
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 16 (+3) | 10 (+0) | 14 (+2) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 **Saving Throws**: Str +5
+
 **Skills:** athletics +5
+
 **Senses:** passive Perception 11
 
 ### Actions

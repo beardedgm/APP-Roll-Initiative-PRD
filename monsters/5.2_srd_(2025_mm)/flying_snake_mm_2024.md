@@ -3,8 +3,11 @@
 *Tiny Monstrosity, Unaligned*
 
 **Armor Class:** 14
+
 **Hit Points:** 5 (2d4)
+
 **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
+
 **Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,6 +20,7 @@
 | CHA | 5 | -3 | -3 |
 
 **Senses**: blindsight 10 ft.; Passive Perception 11
+
 **CR** 1/8 (XP 25; PB +2)
 
 ## Traits

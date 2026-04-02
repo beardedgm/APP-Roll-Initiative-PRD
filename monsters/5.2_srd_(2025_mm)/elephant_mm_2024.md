@@ -3,8 +3,11 @@
 *Huge Beast, Unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 76 (8d12 + 24)
+
 **Speed:** 40 ft.
+
 **Initiative**: -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,6 +20,7 @@
 | CHA | 6 | -2 | -2 |
 
 **Senses**: Passive Perception 10
+
 **CR** 4 (XP 1,100; PB +2)
 
 ## Actions

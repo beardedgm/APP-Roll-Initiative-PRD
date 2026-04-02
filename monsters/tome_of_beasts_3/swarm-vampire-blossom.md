@@ -3,9 +3,13 @@
 *Large* *Plant* *unaligned*
 
 **Armor Class:** 14
+
 **Hit Points:** 82 (11d10+22)
+
 **Speed:** walk 20 ft. fly 10 ft.
+
 **Challenge Rating:** 3 (700 XP)
+
 **Source:** Tome of Beasts 3, page 364
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,17 +17,25 @@
 | 3 (-4) | 19 (+4) | 14 (+2) | 3 (-4) | 14 (+2) | 13 (+1) |
 
 **Saving Throws**: Cha +3
+
 **Skills:** perception +2
+
 **Damage Immunities:** psychic
+
 **Damage Resistances:** bludgeoning, piercing, slashing
+
 **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses:** passive Perception 12
 
 ### Special Abilities
 
 **Blood Frenzy:** Has advantage on melee attack rolls vs. any creature that doesn't have all its hp.
+
 **Blood Sense:** Can pinpoint by scent location of creatures that aren't constructs or undead within 30' of it. Swarm is otherwise blind.
+
 **False Appearance:** While motionless indistinguishable from carpet of flower petals.
+
 **Swarm:** Can occupy another creature's space and vice versa and swarm can move through any opening large enough for a Tiny plant. Swarm can't regain hp or gain temp hp.
 
 ### Actions

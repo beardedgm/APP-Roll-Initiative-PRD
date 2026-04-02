@@ -3,9 +3,13 @@
 *Tiny* *Beast* *unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 1 (1d4-1)
+
 **Speed:** walk 5 ft. fly 30 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 367
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -17,6 +21,7 @@
 ### Special Abilities
 
 **Echolocation:** The bat can't use its blindsight while deafened.
+
 **Keen Hearing:** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
 ### Actions

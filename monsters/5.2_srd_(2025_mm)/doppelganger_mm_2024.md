@@ -3,8 +3,11 @@
 *Medium Monstrosity, Neutral*
 
 **Armor Class:** 14
+
 **Hit Points:** 52 (8d8 + 16)
+
 **Speed:** 30 ft.
+
 **Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 14 | +2 | +2 |
 
 **Immunities**: Charmed
+
 **Skills**: Deception +6, Insight +3
+
 **Senses**: darkvision 60 ft.; Passive Perception 11
+
 **Languages**: Common plus three other languages
+
 **CR** 3 (XP 700; PB +2)
 
 ## Actions

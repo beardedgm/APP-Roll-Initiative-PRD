@@ -3,9 +3,13 @@
 *Tiny* *Beast* *unaligned*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 25 (10d4)
+
 **Speed:** walk 10 ft. swim 30 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Tome of Beasts 3, page 62
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,15 +17,21 @@
 | 2 (-4) | 14 (+2) | 10 (+0) | 1 (-5) | 12 (+1) | 8 (-1) |
 
 **Saving Throws**: Con +2
+
 **Skills:** perception +1
+
 **Damage Vulnerabilities:** fire
+
 **Damage Resistances:** necrotic
+
 **Senses:** blindsight 60' (blind beyond), passive Perception 11
 
 ### Special Abilities
 
 **Barnacle Shivers:** Characterized by inescapable cold and shiveringthat slowly pervades victim's body this is a disease that infects creatures attacked by blood barnacles. Until disease is cured infected creature can't regain hp except magically and its hp max decreases by 3 (1d6) for every 24 hrs that elapse. Reduction lasts until disease is cured. Creature dies if disease reduces its hp max to 0. A Humanoid or Beast slain by this disease rises 24 hrs later as a zombie. Zombie isn't under barnacle's control but it views barnacle as an ally.
+
 **Blood Sense:** Can pinpoint by scent location of creatures that aren't Constructs or Undead and that don't have all of their hp within 60' of it and can sense general direction of such creatures within 1 mile of it.
+
 **False Appearance:** While motionless indistinguishable from normal barnacle.
 
 ### Actions

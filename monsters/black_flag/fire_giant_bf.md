@@ -3,11 +3,17 @@
 *Huge* *Giant*
 
 **Armor Class:** 18 (plate)
+
 **Hit Points:** 175 
+
 **Speed:** walk 30 ft.
+
 **Perception**: 16
+
 **Stealth**: 13
+
 **Challenge Rating:** 9 (5,000 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,9 +21,13 @@
 | +7 | +3 | +10 | +0 | +2 | +8 |
 
 **Damage Vulnerabilities:** Giant Attributes
+
 **Damage Immunities:** fire
+
 **Damage Resistances:** Giant Attributes
+
 **Senses:** -
+
 **Languages:** Dwarven,Giant
 
 ### Special Abilities
@@ -27,8 +37,11 @@
 ### Actions
 
 **Multiattack:** The fire giant makes two Flaming Greatsword or Lava Boulder attacks.
+
 **Flaming Greatsword:** _Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 28 (6d6+7) slashing damage plus 4 (1d8) fire damage.
+
 **Lava Boulder:** _Ranged Weapon Attack:_ +7 to hit, range 60/240 ft., one target. _Hit:_ 19 (3d10+3) bludgeoning damage plus 13 (3d8) fire damage.
+
 **Volcanic Burst (Recharge 5-6):** The fire giant expels built-up heat from within itself, sending a blast of lava outward. Each creature within 15 feet of the fire giant must make a DC 16 DEX save. On a failure, a creature takes 36 (8d8) fire damage and is knocked prone. On a success, a creature takes half the damage and isn't knocked prone. A creature that fails this save has disadvantage on the next save it makes against the giant's Pyroclastic Surge before the start of the giant's next turn.
 
 ### Bonus Actions

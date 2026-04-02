@@ -3,9 +3,13 @@
 *Tiny* *Beast* *unaligned*
 
 **Armor Class:** 11 (natural armor)
+
 **Hit Points:** 1 (1d4-1)
+
 **Speed:** walk 10 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 388
 
 | STR | DEX | CON | INT | WIS | CHA |

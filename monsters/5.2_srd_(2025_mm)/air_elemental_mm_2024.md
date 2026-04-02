@@ -3,8 +3,11 @@
 *Large Elemental, Neutral*
 
 **Armor Class:** 15
+
 **Hit Points:** 90 (12d10 + 24)
+
 **Speed:** 10 ft., Fly 90 ft. (hover)
+
 **Initiative**: +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 6 | -2 | -2 |
 
 **Resistances**: Bludgeoning, Lightning, Piercing, Slashing
+
 **Immunities**: Poison, Thunder; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+
 **Senses**: darkvision 60 ft.; Passive Perception 10
+
 **Languages**: Primordial (Auran)
+
 **CR** 5 (XP 1,800; PB +3)
 
 ## Traits

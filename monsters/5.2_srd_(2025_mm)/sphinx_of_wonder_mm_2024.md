@@ -3,8 +3,11 @@
 *Tiny Celestial, Lawful Good*
 
 **Armor Class:** 13
+
 **Hit Points:** 24 (7d4 + 7)
+
 **Speed:** 20 ft., Fly 40 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 11 | +0 | +0 |
 
 **Resistances**: Necrotic, Psychic, Radiant
+
 **Skills**: Arcana +4, Religion +4, Stealth +5
+
 **Senses**: darkvision 60 ft.; Passive Perception 11
+
 **Languages**: Celestial, Common
+
 **CR** 1 (XP 200; PB +2)
 
 ## Traits

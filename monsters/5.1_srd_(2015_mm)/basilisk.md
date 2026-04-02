@@ -3,9 +3,13 @@
 *Medium* *Monstrosity* *unaligned*
 
 **Armor Class:** 12 (natural armor)
+
 **Hit Points:** 52 (8d8+16)
+
 **Speed:** walk 20 ft.
+
 **Challenge Rating:** 3 (700 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 265
 
 | STR | DEX | CON | INT | WIS | CHA |

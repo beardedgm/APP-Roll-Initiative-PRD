@@ -3,11 +3,17 @@
 *Medium* *Swarm*
 
 **Armor Class:** 13
+
 **Hit Points:** 34 
+
 **Speed:** walk 0 ft. swim 40 ft.
+
 **Perception**: 10
+
 **Stealth**: 13
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,16 +21,23 @@
 | +1 | +3 | +0 | -5 | +0 | -4 |
 
 **Damage Immunities:** Swarm Resilience
+
 **Damage Resistances:** Swarm Resilience
+
 **Senses:** darkvision 60 ft.
+
 **Languages:** -
 
 ### Special Abilities
 
 **Blood Frenzy:** The swarm has advantage on melee attack rolls against any creature that doesn't have all its HP.
+
 **Heightened Smell:** The swarm's Perception is 15 when perceiving by smell.
+
 **Swarm:** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain HP or gain temporary HP.
+
 **Swarm Resilience:** The swarm is resistant to bludgeoning, piercing, and slashing damage, and it is immune to the charmed, frightened, grappled, paralyzed, petrified, prone, restrained, and stunned conditions.
+
 **Water Breathing:** The swarm can breathe only underwater.
 
 ### Actions

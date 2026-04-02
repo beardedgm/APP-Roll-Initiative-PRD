@@ -3,8 +3,11 @@
 *Huge Giant, Lawful Evil*
 
 **Armor Class:** 18
+
 **Hit Points:** 162 (13d12 + 78)
+
 **Speed:** 30 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 13 | +1 | +5 |
 
 **Immunities**: Fire
+
 **Skills**: Athletics +11, Perception +6
+
 **Senses**: Passive Perception 16
+
 **Languages**: Giant
+
 **CR** 9 (XP 5,000; PB +4)
 
 ## Actions

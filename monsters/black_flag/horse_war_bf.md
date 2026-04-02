@@ -3,11 +3,17 @@
 *Large* *Beast*
 
 **Armor Class:** 15 (scale mail barding)
+
 **Hit Points:** 22 
+
 **Speed:** walk 60 ft.
+
 **Perception**: 11
+
 **Stealth**: 11
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,6 +21,7 @@
 | +4 | +1 | +1 | -4 | +1 | -2 |
 
 **Senses:** -
+
 **Languages:** -
 
 ### Special Abilities

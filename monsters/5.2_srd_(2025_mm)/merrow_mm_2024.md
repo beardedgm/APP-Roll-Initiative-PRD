@@ -3,8 +3,11 @@
 *Large Monstrosity, Chaotic Evil*
 
 **Armor Class:** 13
+
 **Hit Points:** 45 (6d10 + 12)
+
 **Speed:** 10 ft., Swim 40 ft.
+
 **Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 9 | -1 | -1 |
 
 **Senses**: darkvision 60 ft.; Passive Perception 10
+
 **Languages**: Abyssal, Primordial (Aquan)
+
 **CR** 2 (XP 450; PB +2)
 
 ## Traits

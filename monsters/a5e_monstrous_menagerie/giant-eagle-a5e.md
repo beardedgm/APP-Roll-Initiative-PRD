@@ -3,9 +3,13 @@
 *Large* *Beast*
 
 **Armor Class:** 12
+
 **Hit Points:** 26 (4d10+4)
+
 **Speed:** walk 10 ft. fly 80 ft.
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** A5e Monstrous Menagerie, page 446
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 14 (+2) | 14 (+2) | 12 (+1) | 8 (-1) | 14 (+2) | 10 (+0) |
 
 **Skills:** perception +4
+
 **Senses:** passive Perception 14
+
 **Languages:** Giant Eagle, understands but can't speak Common and Auran
 
 ### Special Abilities

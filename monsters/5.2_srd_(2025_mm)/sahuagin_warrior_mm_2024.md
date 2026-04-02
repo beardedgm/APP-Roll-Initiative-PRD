@@ -3,8 +3,11 @@
 *Medium Fiend, Lawful Evil*
 
 **Armor Class:** 12
+
 **Hit Points:** 22 (4d8 + 4)
+
 **Speed:** 30 ft., Swim 40 ft.
+
 **Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 9 | -1 | -1 |
 
 **Resistances**: Acid, Cold
+
 **Skills**: Perception +5
+
 **Senses**: darkvision 120 ft.; Passive Perception 15
+
 **Languages**: Sahuagin
+
 **CR** 1/2 (XP 100; PB +2)
 
 ## Traits

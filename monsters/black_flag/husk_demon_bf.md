@@ -3,11 +3,17 @@
 *Medium* *Fiend*
 
 **Armor Class:** 15
+
 **Hit Points:** 82 
+
 **Speed:** walk 40 ft. fly 25 ft.
+
 **Perception**: 13
+
 **Stealth**: 15
+
 **Challenge Rating:** 4 (1,100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,19 +21,25 @@
 | +1 | +5 | +3 | -2 | -1 | -3 |
 
 **Damage Immunities:** necrotic, exhaustion, prone, Demonic Resilience
+
 **Damage Resistances:** Demonic Resilience
+
 **Senses:** darkvision 60 ft.
+
 **Languages:** Abyssal,Void Speech,telepathy 60 ft.
 
 ### Special Abilities
 
 **Amorphous:** The husk demon can move through a space as narrow as 1 inch wide without squeezing.
+
 **Demonic Resilience:** The husk demon is resistant to cold, fire, and lightning damage. In addition, it is immune to poison damage and to the poisoned condition.
+
 **Magic Resistance:** The husk demon has advantage on saves against spells and other magical effects.
 
 ### Actions
 
 **Multiattack:** The husk demon makes two Life Drain attacks.
+
 **Life Drain:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d8+3) slashing damage plus 9 (2d8) necrotic damage, and the husk demon regains HP equal to half the necrotic damage dealt. The target must succeed on a DC 15 CON save or its HP maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the creatures finishes a long rest. The target dies if this effect reduces its HP maximum to 0.
 
 ### Bonus Actions

@@ -3,8 +3,11 @@
 *Tiny Beast, Unaligned*
 
 **Armor Class:** 11
+
 **Hit Points:** 1 (1d4 - 1)
+
 **Speed:** 5 ft., Fly 60 ft.
+
 **Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 7 | -2 | -2 |
 
 **Skills**: Perception +5, Stealth +5
+
 **Senses**: darkvision 120 ft.; Passive Perception 15
+
 **CR** 0 (XP 0 or 10; PB +2)
 
 ## Traits

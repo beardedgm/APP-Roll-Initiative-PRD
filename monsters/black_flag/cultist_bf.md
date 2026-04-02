@@ -3,11 +3,17 @@
 *Medium* *Humanoid*
 
 **Armor Class:** 13 (studded leather)
+
 **Hit Points:** 9 
+
 **Speed:** walk 30 ft.
+
 **Perception**: 11
+
 **Stealth**: 11
+
 **Challenge Rating:** 1/8 (25 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | +0 | +1 | +1 | +0 | +1 | +2 |
 
 **Damage Resistances:** Dark Devotion
+
 **Senses:** -
+
 **Languages:** any one language (usually Common)
 
 ### Special Abilities

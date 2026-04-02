@@ -3,8 +3,11 @@
 *Medium Undead, Chaotic Evil*
 
 **Armor Class:** 12
+
 **Hit Points:** 22 (5d8)
+
 **Speed:** 30 ft.
+
 **Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 6 | -2 | -2 |
 
 **Immunities**: Poison; Charmed, Exhaustion, Poisoned
+
 **Senses**: darkvision 60 ft.; Passive Perception 10
+
 **Languages**: Common
+
 **CR** 1 (XP 200; PB +2)
 
 ## Actions

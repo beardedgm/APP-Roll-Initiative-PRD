@@ -3,8 +3,11 @@
 *Large Monstrosity, Lawful Evil*
 
 **Armor Class:** 14
+
 **Hit Points:** 68 (8d10 + 24)
+
 **Speed:** 30 ft., Fly 50 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 8 | -1 | -1 |
 
 **Senses**: darkvision 60 ft.; Passive Perception 11
+
 **Languages**: Common
+
 **CR** 3 (XP 700; PB +2)
 
 ## Actions

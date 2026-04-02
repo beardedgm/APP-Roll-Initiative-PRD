@@ -3,8 +3,11 @@
 *Large Aberration, Chaotic Neutral*
 
 **Armor Class:** 14
+
 **Hit Points:** 91 (14d10 + 14)
+
 **Speed:** 10 ft., Fly 40 ft.
+
 **Initiative**: +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 7 | -2 | -2 |
 
 **Immunities**: Frightened
+
 **Skills**: Stealth +5
+
 **Senses**: darkvision 120 ft.; Passive Perception 12
+
 **Languages**: Deep Speech, Undercommon
+
 **CR** 8 (XP 3,900; PB +3)
 
 ## Traits

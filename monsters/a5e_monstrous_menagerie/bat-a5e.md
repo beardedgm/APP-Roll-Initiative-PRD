@@ -3,9 +3,13 @@
 *Tiny* *Beast*
 
 **Armor Class:** 12
+
 **Hit Points:** 1 (1d4-1)
+
 **Speed:** walk 5 ft. fly 30 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** A5e Monstrous Menagerie, page 439
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -17,6 +21,7 @@
 ### Special Abilities
 
 **Echolocation:** The bat can't use blindsight while deafened.
+
 **Keen Hearing:** The bat has advantage on Perception checks that rely on hearing.
 
 ### Actions

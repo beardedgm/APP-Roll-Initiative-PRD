@@ -3,8 +3,11 @@
 *Small Beast, Unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 7 (2d6)
+
 **Speed:** 10 ft., Fly 60 ft.
+
 **Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 5 | -3 | -3 |
 
 **Skills**: Perception +6
+
 **Senses**: Passive Perception 16
+
 **CR** 1/8 (XP 25; PB +2)
 
 ## Traits

@@ -3,9 +3,13 @@
 *Tiny* *Monstrosity* *chaotic neutral*
 
 **Armor Class:** 13
+
 **Hit Points:** 22 (4d6+8)
+
 **Speed:** climb 20 ft. walk 25 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Tome of Beasts 2, page 355
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 8 (-1) | 16 (+3) | 14 (+2) | 5 (-3) | 12 (+1) | 9 (-1) |
 
 **Skills:** acrobatics +5, stealth +5
+
 **Senses:** darkvision 60 ft., passive Perception 11
+
 **Languages:** Common, Goblin
 
 ### Special Abilities

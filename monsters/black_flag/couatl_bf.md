@@ -3,11 +3,17 @@
 *Medium* *Celestial*
 
 **Armor Class:** 17 (natural armor)
+
 **Hit Points:** 77 
+
 **Speed:** walk 30 ft. fly 90 ft.
+
 **Perception**: 17
+
 **Stealth**: 15
+
 **Challenge Rating:** 4 (1,100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,22 +21,31 @@
 | +3 | +5 | +3 | +4 | +7 | +6 |
 
 **Damage Immunities:** psychic
+
 **Damage Resistances:** Celestial Resilience
+
 **Senses:** truesight 120 ft.
+
 **Languages:** all,telepathy 120 ft.
 
 ### Special Abilities
 
 **Celestial Resilience:** The couatl is resistant to radiant damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+
 **Inscrutable:** The couatl is immune to any effect that would sense its emotions or read its thoughts, as well as divination spells or effects, such as scrying or detecting its location, that it refuses. WIS (Insight) checks made to ascertain the couatl's intentions or sincerity have disadvantage.
+
 **Magic Resistance:** The couatl has advantage on saves against spells and other magical effects.
+
 **Magic Weapons:** The couatl's weapon attacks are magical.
 
 ### Actions
 
 **Multiattack:** The couatl makes one Bite attack and one Constrict attack.
+
 **Bite:** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one creature. _Hit:_ 8 (1d6+5) piercing damage plus 14 (4d6) poison damage. If the poison damage reduces the target to 0 HP, the couatl can choose for the target to be stable but poisoned for 1 hour, even after regaining HP, and is unconscious while poisoned in this way.
+
 **Constrict:** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6+5) bludgeoning damage, and the target is grappled (escape DC 15) if it is a Medium or smaller creature. Until this grapple ends, the target is restrained, and the couatl can't Constrict another target.
+
 **Healing Hiss (3/Day):** The couatl croons a soothing hiss at a creature it can sense within 5 feet of it. The target magically regains 10 (3d6) HP and is freed from any disease or poison.
 
 ### Bonus Actions

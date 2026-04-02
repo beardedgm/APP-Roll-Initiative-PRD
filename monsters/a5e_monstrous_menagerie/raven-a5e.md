@@ -3,9 +3,13 @@
 *Tiny* *Beast*
 
 **Armor Class:** 12
+
 **Hit Points:** 1 (1d4-1)
+
 **Speed:** walk 10 ft. fly 50 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** A5e Monstrous Menagerie, page 457
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,6 +17,7 @@
 | 2 (-4) | 14 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 4 (-3) |
 
 **Skills:** perception +3
+
 **Senses:** passive Perception 13
 
 ### Special Abilities

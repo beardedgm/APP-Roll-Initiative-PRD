@@ -3,8 +3,11 @@
 *Medium or Small Humanoid, Neutral*
 
 **Armor Class:** 13
+
 **Hit Points:** 9 (2d8)
+
 **Speed:** 30 ft.
+
 **Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 8 | -1 | -1 |
 
 **Gear** Chain Shirt, Spear
+
 **Senses**: Passive Perception 10
+
 **Languages**: Common
+
 **CR** 1/8 (XP 25; PB +2)
 
 ## Traits

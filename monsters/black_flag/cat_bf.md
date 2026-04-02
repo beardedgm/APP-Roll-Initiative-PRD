@@ -3,11 +3,17 @@
 *Tiny* *Beast*
 
 **Armor Class:** 11
+
 **Hit Points:** 8 
+
 **Speed:** walk 40 ft. climb 30 ft.
+
 **Perception**: 13
+
 **Stealth**: 11
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,6 +21,7 @@
 | -4 | +1 | +0 | -4 | +1 | -2 |
 
 **Senses:** darkvision 30 ft.
+
 **Languages:** -
 
 ### Special Abilities

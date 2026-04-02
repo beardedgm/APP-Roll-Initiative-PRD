@@ -3,8 +3,11 @@
 *Gargantuan Dragon (Metallic), Lawful Good*
 
 **Armor Class:** 22
+
 **Hit Points:** 468 (24d20 + 216)
+
 **Speed:** 40 ft., Fly 80 ft.
+
 **Initiative**: +14 (24)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 26 | +8 | +8 |
 
 **Immunities**: Cold
+
 **Skills**: History +11, Perception +16, Stealth +7
+
 **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
+
 **Languages**: Common, Draconic
+
 **CR** 23 (XP 50,000, or 62,000 in lair)
 
 ## Traits
@@ -40,6 +47,7 @@
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit with spell attacks):
 
 **At Will:** *Detect Magic*, *Hold Monster*, *Ice Knife*, *Shapechange*
+
 **1e/Day Each:** *Control Weather*, *Ice Storm*, *Teleport*, *Zone of Truth*
 
 ## Legendary Actions

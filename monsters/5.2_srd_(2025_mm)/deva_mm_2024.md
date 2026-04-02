@@ -3,8 +3,11 @@
 *Medium Celestial (Angel), Lawful Good*
 
 **Armor Class:** 17
+
 **Hit Points:** 229 (27d8 + 108)
+
 **Speed:** 30 ft., Fly 90 ft. (hover)
+
 **Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,10 +20,15 @@
 | CHA | 20 | +5 | +9 |
 
 **Resistances**: Radiant
+
 **Immunities**: Charmed, Exhaustion, Frightened
+
 **Skills**: Insight +9, Perception +9
+
 **Senses**: darkvision 120 ft.; Passive Perception 19
+
 **Languages**: All; telepathy 120 ft.
+
 **CR** 10 (XP 5,900; PB +4)
 
 ## Traits
@@ -39,6 +47,7 @@
 ***Spellcasting.*** The deva casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
 **At Will:** *Detect Evil and Good*, *Shapechange*
+
 **1e/Day Each:** *Commune*, *Raise Dead*
 
 ## Bonus Actions

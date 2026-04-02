@@ -3,9 +3,13 @@
 *Medium* *Humanoid* *any alignment*
 
 **Armor Class:** 12 (15 with _mage armor_)
+
 **Hit Points:** 40 (9d8)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 6 (2,300 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 400
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,8 +17,11 @@
 | 9 (-1) | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |
 
 **Saving Throws**: Int +6, Wis +4
+
 **Skills:** arcana +6, history +6
+
 **Senses:** passive Perception 11
+
 **Languages:** any four languages
 
 ### Special Abilities

@@ -3,9 +3,13 @@
 *Medium* *Beast* *lawful neutral*
 
 **Armor Class:** 16 (natural armor)
+
 **Hit Points:** 105 (14d8+42)
+
 **Speed:** walk 30 ft. swim 30 ft.
+
 **Challenge Rating:** 6 (2,300 XP)
+
 **Source:** Tome of Beasts 3, page 99
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,10 +17,15 @@
 | 18 (+4) | 10 (+0) | 16 (+3) | 6 (-2) | 14 (+2) | 10 (+0) |
 
 **Saving Throws**: Str +7
+
 **Skills:** perception +2
+
 **Damage Resistances:** nonmagic B/P/S attacks
+
 **Condition Immunities:** charmed, frightened
+
 **Senses:** blindsight 30', passive Perception 15
+
 **Languages:** understands Common but can't speak
 
 ### Special Abilities
@@ -26,7 +35,9 @@
 ### Actions
 
 **Multiattack:** Three melee attacks. If grappling two creatures it can't make Crustaceous Sword attacks.
+
 **Crustaceous Sword:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 13 (2d8+4) slashing damage.
+
 **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) bludgeoning damage. If the target is Med or smaller it is grappled (escape DC 15) and the crab can't use this claw to attack another target. The crab has two claws each of which can grapple only one target.
 
 ### Bonus Actions

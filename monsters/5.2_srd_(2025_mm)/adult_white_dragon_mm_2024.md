@@ -3,8 +3,11 @@
 *Huge Dragon (Chromatic), Chaotic Evil*
 
 **Armor Class:** 18
+
 **Hit Points:** 200 (16d12 + 96)
+
 **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft.
+
 **Initiative**: +10 (20)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 12 | +1 | +1 |
 
 **Immunities**: Cold
+
 **Skills**: Perception +11, Stealth +5
+
 **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
+
 **Languages**: Common, Draconic
+
 **CR** 13 (XP 10,000, or 11,500 in lair)
 
 ## Traits

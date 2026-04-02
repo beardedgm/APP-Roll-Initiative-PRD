@@ -3,9 +3,13 @@
 *Large* *Beast* *unaligned*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 75 (10d10+20)
+
 **Speed:** walk 20 ft. fly 40 ft.
+
 **Challenge Rating:** 3 (700 XP)
+
 **Source:** Tome of Beasts 2, page 389
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -17,6 +21,7 @@
 ### Special Abilities
 
 **Charge:** If the carrier mosquito moves at least 20 feet straight toward a target and then hits it with an impaling proboscis attack on the same turn, the target takes an extra 5 (1d10) piercing damage.
+
 **Disruptive Droning:** While a carrier mosquito is in flight, it produces a constant, loud droning, forcing those nearby to shout in order to be heard. A spellcaster within 30 feet of the mosquito must succeed on a DC 10 spellcasting ability check to cast a spell with a verbal component. In addition, a creature that is concentrating on a spell and that starts its turn within 30 feet of the mosquito must succeed on a DC 10 Constitution saving throw or lose concentration on the spell.
 
 ### Actions

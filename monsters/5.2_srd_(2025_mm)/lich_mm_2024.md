@@ -3,8 +3,11 @@
 *Medium Undead (Wizard), Neutral Evil*
 
 **Armor Class:** 20
+
 **Hit Points:** 315 (42d8 + 126)
+
 **Speed:** 30 ft.
+
 **Initiative**: +17 (27)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,11 +20,17 @@
 | CHA | 16 | +3 | +3 |
 
 **Resistances**: Cold, Lightning
+
 **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+
 **Skills**: Arcana +19, History +12, Insight +9, Perception +9
+
 **Gear** Component Pouch
+
 **Senses**: truesight 120 ft.; Passive Perception 19
+
 **Languages**: All
+
 **CR** 21 (XP 33,000, or 41,000 in lair)
 
 ## Traits
@@ -42,7 +51,9 @@
 ***Spellcasting.*** The lich casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):
 
 **At Will:** *Detect Magic*, *Detect Thoughts*, *Dispel Magic*, *Fireball*, *Invisibility*, *Lightning Bolt*, *Mage Hand*, *Prestidigitation*
+
 **2e/Day Each:** *Animate Dead*, *Dimension Door*, *Plane Shift*
+
 **1e/Day Each:** *Chain Lightning*, *Finger of Death*, *Power Word Kill*, *Scrying*
 
 ## Reactions

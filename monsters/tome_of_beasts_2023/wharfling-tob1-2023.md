@@ -3,9 +3,13 @@
 *Tiny* *Beast* *Unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 10 (4d4)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 1/8 (25 XP)
+
 **Source:** Tome of Beasts 2023, page 395
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,6 +17,7 @@
 | 4 (-3) | 14 (+2) | 10 (+0) | 2 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills:** Perception +3, Sleight of Hand +4
+
 **Senses:** darkvision 60 ft., passive Perception 13
 
 ### Special Abilities

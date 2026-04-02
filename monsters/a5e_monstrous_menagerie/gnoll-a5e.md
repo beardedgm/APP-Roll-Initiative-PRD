@@ -3,9 +3,13 @@
 *Medium* *Humanoid*
 
 **Armor Class:** 14
+
 **Hit Points:** 22 (5d8)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** A5e Monstrous Menagerie, page 247
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,6 +17,7 @@
 | 14 (+2) | 12 (+1) | 10 (+0) | 10 (+0) | 8 (-1) | 10 (+0) |
 
 **Senses:** darkvision 60 ft., passive Perception 9
+
 **Languages:** Gnoll
 
 ### Special Abilities

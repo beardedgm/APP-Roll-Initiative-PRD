@@ -3,8 +3,11 @@
 *Medium Fey, Lawful Good*
 
 **Armor Class:** 13
+
 **Hit Points:** 22 (4d8 + 4)
+
 **Speed:** 40 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 11 | +0 | +0 |
 
 **Skills**: Perception +5, Stealth +5
+
 **Senses**: darkvision 60 ft.; Passive Perception 15
+
 **Languages**: Understands Elvish and Sylvan but can't speak them
+
 **CR** 1/4 (XP 50; PB +2)
 
 ## Actions

@@ -3,8 +3,11 @@
 *Small Plant, Neutral*
 
 **Armor Class:** 9
+
 **Hit Points:** 10 (3d6)
+
 **Speed:** 20 ft.
+
 **Initiative**: -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 6 | -2 | -2 |
 
 **Vulnerabilities**: Fire
+
 **Resistances**: Piercing
+
 **Senses**: Passive Perception 10
+
 **Languages**: Common plus one other language
+
 **CR** 0 (XP 0 or 10; PB +2)
 
 ## Actions

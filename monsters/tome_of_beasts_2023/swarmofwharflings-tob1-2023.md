@@ -3,9 +3,13 @@
 *Large* *Swarm* *Unaligned*
 
 **Armor Class:** 13
+
 **Hit Points:** 66 (12d10)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 3 (700 XP)
+
 **Source:** Tome of Beasts 2023, page 395
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,14 +17,19 @@
 | 10 (+0) | 16 (+3) | 10 (+0) | 2 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills:** Perception +3, Sleight of Hand +5
+
 **Damage Resistances:** bludgeoning, piercing, slashing
+
 **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses:** darkvision 60 ft., passive Perception 13
 
 ### Special Abilities
 
 **Amphibious:** The swarm of wharflings can breathe air and water.
+
 **Snapping Jaws:** A creature that attempts to move out of or through the swarm of wharflings must succeed on a DC 13 Dexterity saving throw or take 7 (2d6) piercing damage.
+
 **Swarm:** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny wharfling. The swarm can't regain hp or gain temporary hp.
 
 ### Actions

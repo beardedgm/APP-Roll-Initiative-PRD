@@ -3,8 +3,11 @@
 *Large Fiend, Neutral Evil*
 
 **Armor Class:** 13
+
 **Hit Points:** 68 (8d10 + 24)
+
 **Speed:** 60 ft., Fly 90 ft. (hover)
+
 **Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 15 | +2 | +2 |
 
 **Immunities**: Fire
+
 **Senses**: Passive Perception 11
+
 **Languages**: Understands Abyssal, Common, And Infernal but can't speak
+
 **CR** 3 (XP 700; PB +2)
 
 ## Traits

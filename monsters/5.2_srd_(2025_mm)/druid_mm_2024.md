@@ -3,8 +3,11 @@
 *Medium or Small Humanoid, Neutral*
 
 **Armor Class:** 13
+
 **Hit Points:** 44 (8d8 + 8)
+
 **Speed:** 30 ft.
+
 **Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 11 | +0 | +0 |
 
 **Skills**: Medicine +5, Nature +3, Perception +5
+
 **Gear** Studded Leather Armor
+
 **Senses**: Passive Perception 15
+
 **Languages**: Common, Druidic, Sylvan
+
 **CR** 2 (XP 450; PB +2)
 
 ## Actions
@@ -33,5 +40,7 @@
 ***Spellcasting.*** The druid casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):
 
 **At Will:** *Druidcraft*, *Speak with Animals*
+
 **2e/Day Each:** *Entangle*, *Thunderwave*
+
 **1e/Day Each:** *Animal Messenger*, *Longstrider*, *Moonbeam*

@@ -3,8 +3,11 @@
 *Medium Monstrosity, Chaotic Evil*
 
 **Armor Class:** 11
+
 **Hit Points:** 38 (7d8 + 7)
+
 **Speed:** 20 ft., Fly 40 ft.
+
 **Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 13 | +1 | +1 |
 
 **Senses**: Passive Perception 10
+
 **Languages**: Common
+
 **CR** 1 (XP 200; PB +2)
 
 ## Actions

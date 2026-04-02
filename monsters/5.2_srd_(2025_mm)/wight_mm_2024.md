@@ -3,8 +3,11 @@
 *Medium Undead, Neutral Evil*
 
 **Armor Class:** 14
+
 **Hit Points:** 82 (11d8 + 33)
+
 **Speed:** 30 ft.
+
 **Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,11 +20,17 @@
 | CHA | 15 | +2 | +2 |
 
 **Resistances**: Necrotic
+
 **Immunities**: Poison; Exhaustion, Poisoned
+
 **Skills**: Perception +3, Stealth +4
+
 **Gear** Studded Leather Armor
+
 **Senses**: darkvision 60 ft.; Passive Perception 13
+
 **Languages**: Common plus one other language
+
 **CR** 3 (XP 700; PB +2)
 
 ## Traits

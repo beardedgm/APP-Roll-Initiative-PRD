@@ -3,11 +3,17 @@
 *Large* *Dragon*
 
 **Armor Class:** 17 (natural armor)
+
 **Hit Points:** 119 
+
 **Speed:** walk 40 ft. burrow 20 ft. fly 80 ft.
+
 **Perception**: 16
+
 **Stealth**: 13
+
 **Challenge Rating:** 6 (2,300 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | +4 | +3 | +6 | +1 | +3 | +5 |
 
 **Damage Immunities:** fire
+
 **Senses:** darkvision 120 ft., keensense 30 ft.
+
 **Languages:** Common,Draconic
 
 ### Special Abilities
@@ -25,9 +33,13 @@
 ### Actions
 
 **Multiattack:** The dragon makes one Bite attack and two Claw attacks. It can replace its Bite attack with a use of Sleep Breath, if available.
+
 **Bite:** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10+4) piercing damage.
+
 **Claw:** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6+4) slashing damage.
+
 **Fire Breath (Recharge 5-6):** The dragon exhales fire in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 14 DEX save, taking 35 (10d6) fire damage on a failed save, or half as much damage on a successful one.
+
 **Sleep Breath (Recharge 6):** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 CON save or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or another creature uses an action to wake it.
 
 ### Bonus Actions

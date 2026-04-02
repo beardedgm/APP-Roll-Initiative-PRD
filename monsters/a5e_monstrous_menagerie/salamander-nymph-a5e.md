@@ -3,9 +3,13 @@
 *Medium* *Elemental*
 
 **Armor Class:** 14
+
 **Hit Points:** 27 (5d8+5)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** A5e Monstrous Menagerie, page 379
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 14 (+2) | 14 (+2) | 12 (+1) | 8 (-1) | 10 (+0) | 8 (-1) |
 
 **Damage Immunities:** fire
+
 **Senses:** darkvision 60 ft., passive Perception 10
+
 **Languages:** understands Ignan but can't speak
 
 ### Special Abilities

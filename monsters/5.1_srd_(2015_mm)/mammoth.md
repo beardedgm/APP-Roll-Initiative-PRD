@@ -3,9 +3,13 @@
 *Huge* *Beast* *unaligned*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 126 (11d12+55)
+
 **Speed:** walk 40 ft.
+
 **Challenge Rating:** 6 (2,300 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 384
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -21,6 +25,7 @@
 ### Actions
 
 **Gore:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 25 (4d8 + 7) piercing damage.
+
 **Stomp:** Melee Weapon Attack: +10 to hit, reach 5 ft., one prone creature. Hit: 29 (4d10 + 7) bludgeoning damage.
 
 

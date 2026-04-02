@@ -3,11 +3,17 @@
 *Medium* *Humanoid*
 
 **Armor Class:** 11
+
 **Hit Points:** 17 
+
 **Speed:** walk 30 ft.
+
 **Perception**: 11
+
 **Stealth**: 11
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,14 +21,19 @@
 | +3 | +1 | +1 | -1 | +1 | -2 |
 
 **Damage Vulnerabilities:** thunder, deafened
+
 **Damage Immunities:** blinded
+
 **Senses:** keensense 30 ft. (can't sense beyond this radius)
+
 **Languages:** Dwarvish,Undercommon
 
 ### Special Abilities
 
 **Heightened Hearing and Smell:** The grimlock's Perception is 16 when perceiving by hearing or smell.
+
 **Stone Camouflage:** The grimlock's Stealth is 18 while in rocky terrain.
+
 **Suppressed Senses:** The grimlock can't use its keensense while deafened and unable to smell.
 
 ### Actions

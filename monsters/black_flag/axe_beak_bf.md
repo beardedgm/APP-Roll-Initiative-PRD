@@ -3,11 +3,17 @@
 *Large* *Beast*
 
 **Armor Class:** 11
+
 **Hit Points:** 13 
+
 **Speed:** walk 50 ft.
+
 **Perception**: 12
+
 **Stealth**: 11
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,6 +21,7 @@
 | +2 | +1 | +1 | -4 | +0 | -3 |
 
 **Senses:** -
+
 **Languages:** -
 
 ### Actions

@@ -3,9 +3,13 @@
 *Tiny* *Beast* *unaligned*
 
 **Armor Class:** 10
+
 **Hit Points:** 3 (1d4+1)
+
 **Speed:** walk 20 ft. burrow 5 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 367
 
 | STR | DEX | CON | INT | WIS | CHA |

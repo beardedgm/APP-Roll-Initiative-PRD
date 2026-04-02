@@ -3,8 +3,11 @@
 *Large Beast, Unaligned*
 
 **Armor Class:** 14
+
 **Hit Points:** 16 (3d10)
+
 **Speed:** 5 ft., Swim 40 ft.
+
 **Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,6 +20,7 @@
 | CHA | 5 | -3 | -3 |
 
 **Senses**: Passive Perception 11
+
 **CR** 1/2 (XP 100; PB +2)
 
 ## Traits

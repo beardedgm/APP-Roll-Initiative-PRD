@@ -3,11 +3,17 @@
 *Large* *Beast*
 
 **Armor Class:** 12
+
 **Hit Points:** 15 
+
 **Speed:** walk 10 ft. fly 60 ft.
+
 **Perception**: 11
+
 **Stealth**: 12
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,13 +21,17 @@
 | +2 | +2 | +0 | -4 | +1 | -2 |
 
 **Damage Vulnerabilities:** deafened
+
 **Damage Resistances:** blinded
+
 **Senses:** keensense 60 ft.
+
 **Languages:** -
 
 ### Special Abilities
 
 **Echolocation:** The bat can't use its keensense while deafened.
+
 **Heightened Hearing:** The bat's Perception is 16 when perceiving by hearing.
 
 ### Actions

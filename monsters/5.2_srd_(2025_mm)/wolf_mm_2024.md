@@ -3,8 +3,11 @@
 *Medium Beast, Unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 11 (2d8 + 2)
+
 **Speed:** 40 ft.
+
 **Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 6 | -2 | -2 |
 
 **Skills**: Perception +5, Stealth +4
+
 **Senses**: darkvision 60 ft.; Passive Perception 15
+
 **CR** 1/4 (XP 50; PB +2)
 
 ## Traits

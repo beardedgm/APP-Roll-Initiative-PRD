@@ -3,11 +3,17 @@
 *Small* *Monstrosity*
 
 **Armor Class:** 11
+
 **Hit Points:** 25 
+
 **Speed:** walk 20 ft. fly 40 ft.
+
 **Perception**: 11
+
 **Stealth**: 11
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | -2 | +1 | +1 | -4 | +1 | -3 |
 
 **Damage Resistances:** petrified, Monstrosity Resilience
+
 **Senses:** darkvision 60 ft.
+
 **Languages:** -
 
 ### Special Abilities

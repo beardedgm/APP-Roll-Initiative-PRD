@@ -3,9 +3,13 @@
 *Large* *Beast*
 
 **Armor Class:** 12
+
 **Hit Points:** 45 (6d10+12)
+
 **Speed:** walk 0 ft. swim 40 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** A5e Monstrous Menagerie, page 452
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,6 +17,7 @@
 | 18 (+4) | 12 (+1) | 14 (+2) | 2 (-4) | 10 (+0) | 4 (-3) |
 
 **Skills:** perception +2
+
 **Senses:** blindsight 30 ft., passive Perception 12
 
 ### Special Abilities

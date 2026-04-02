@@ -3,8 +3,11 @@
 *Large Dragon (Metallic), Chaotic Good*
 
 **Armor Class:** 17
+
 **Hit Points:** 119 (14d10 + 42)
+
 **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
+
 **Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 15 | +2 | +2 |
 
 **Immunities**: Acid
+
 **Skills**: Deception +5, Perception +7, Stealth +4
+
 **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
+
 **Languages**: Common, Draconic
+
 **CR** 7 (XP 2,900; PB +3)
 
 ## Actions

@@ -3,8 +3,11 @@
 *Large Monstrosity, Chaotic Evil*
 
 **Armor Class:** 19
+
 **Hit Points:** 123 (13d10 + 52)
+
 **Speed:** 30 ft., Climb 30 ft.
+
 **Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 12 | +1 | +1 |
 
 **Skills**: Perception +6, Stealth +10
+
 **Senses**: darkvision 120 ft.; Passive Perception 16
+
 **Languages**: Elvish, Undercommon
+
 **CR** 6 (XP 2,300; PB +3)
 
 ## Traits

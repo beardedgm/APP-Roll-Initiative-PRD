@@ -3,9 +3,13 @@
 *Tiny* *Construct* *neutral*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 5 (2d4)
+
 **Speed:** walk 20 ft. fly 40 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 322
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,8 +17,11 @@
 | 4 (-3) | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (-2) |
 
 **Damage Immunities:** poison
+
 **Condition Immunities:** charmed, poisoned
+
 **Senses:** darkvision 60 ft., passive Perception 10
+
 **Languages:** understands the languages of its creator but can't speak
 
 ### Special Abilities

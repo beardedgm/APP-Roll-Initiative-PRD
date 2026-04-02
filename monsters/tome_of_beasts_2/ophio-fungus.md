@@ -3,9 +3,13 @@
 *Huge* *Plant* *unaligned*
 
 **Armor Class:** 14 (natural armor)
+
 **Hit Points:** 119 (14d12+28)
+
 **Speed:** walk 10 ft.
+
 **Challenge Rating:** 7 (2,900 XP)
+
 **Source:** Tome of Beasts 2, page 283
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,10 +17,15 @@
 | 10 (+0) | 6 (-2) | 14 (+2) | 20 (+5) | 17 (+3) | 17 (+3) |
 
 **Damage Vulnerabilities:** fire
+
 **Damage Immunities:** poison, psychic
+
 **Damage Resistances:** bludgeoning, piercing
+
 **Condition Immunities:** blinded, charmed, deafened, frightened, poisoned, prone
+
 **Senses:** blindsight 120 ft. (blind beyond this radius), passive Perception 13
+
 **Languages:** Void Speech, telepathy 120 ft.
 
 ### Special Abilities

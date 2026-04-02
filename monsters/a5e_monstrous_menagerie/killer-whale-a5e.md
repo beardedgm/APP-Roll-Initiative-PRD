@@ -3,9 +3,13 @@
 *Huge* *Beast*
 
 **Armor Class:** 12
+
 **Hit Points:** 75 (10d12+10)
+
 **Speed:** walk 0 ft. swim 60 ft.
+
 **Challenge Rating:** 3 (700 XP)
+
 **Source:** A5e Monstrous Menagerie, page 453
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -17,7 +21,9 @@
 ### Special Abilities
 
 **Echolocation:** The whale can't use blindsight while deafened.
+
 **Hold Breath:** The whale can hold its breath for 30 minutes.
+
 **Keen Hearing:** The whale has advantage on Perception checks that rely on hearing.
 
 ### Actions

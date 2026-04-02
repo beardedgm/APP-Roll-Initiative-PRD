@@ -3,9 +3,13 @@
 *Medium* *Beast*
 
 **Armor Class:** 13
+
 **Hit Points:** 4 (1d8)
+
 **Speed:** walk 50 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** A5e Monstrous Menagerie, page 442
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -21,6 +25,7 @@
 ### Actions
 
 **Bite:** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+
 **Headbutt:** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.
 
 

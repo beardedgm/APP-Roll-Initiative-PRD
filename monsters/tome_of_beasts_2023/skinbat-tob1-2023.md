@@ -3,9 +3,13 @@
 *Small* *Undead* *Neutral Evil*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 28 (8d6)
+
 **Speed:** walk 40 ft. fly 10 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Tome of Beasts 2023, page 331
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,13 +17,17 @@
 | 12 (+1) | 16 (+3) | 10 (+0) | 2 (-4) | 13 (+1) | 6 (-2) |
 
 **Skills:** Perception +3
+
 **Damage Immunities:** poison
+
 **Condition Immunities:** poisoned
+
 **Senses:** blindsight 20 ft., darkvision 60 ft., passive Perception 13
 
 ### Special Abilities
 
 **Echolocation:** The skin bat can't use its blindsight while deafened.
+
 **Hungry Dead Nature:** The skin bat doesn't require air or sleep.
 
 ### Actions

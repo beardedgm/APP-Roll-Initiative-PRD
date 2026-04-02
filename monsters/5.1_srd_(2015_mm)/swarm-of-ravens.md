@@ -3,9 +3,13 @@
 *Medium* *Beast* *unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 24 (7d8-7)
+
 **Speed:** walk 10 ft. fly 50 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 391
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 6 (-2) | 14 (+2) | 8 (-1) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 **Damage Resistances:** bludgeoning, piercing, slashing
+
 **Condition Immunities:** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses:** passive Perception 15
 
 ### Special Abilities

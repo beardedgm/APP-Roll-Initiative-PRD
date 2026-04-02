@@ -3,8 +3,11 @@
 *Large Celestial (Angel), Lawful Good*
 
 **Armor Class:** 19
+
 **Hit Points:** 262 (21d10 + 147)
+
 **Speed:** 40 ft., Fly 120 ft. (hover)
+
 **Initiative**: +10 (20)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,10 +20,15 @@
 | CHA | 25 | +7 | +12 |
 
 **Resistances**: Radiant
+
 **Immunities**: Charmed, Exhaustion, Frightened
+
 **Skills**: Perception +11
+
 **Senses**: truesight 120 ft.; Passive Perception 21
+
 **Languages**: All; telepathy 120 ft.
+
 **CR** 16 (XP 15,000; PB +5)
 
 ## Traits
@@ -43,6 +51,7 @@
 ***Spellcasting.*** The planetar casts one of the following spells, requiring no Material components and using Charisma as spellcasting ability (spell save DC 20):
 
 **At Will:** *Detect Evil and Good*
+
 **1e/Day Each:** *Commune*, *Control Weather*, *Dispel Evil and Good*, *Raise Dead*
 
 ## Bonus Actions

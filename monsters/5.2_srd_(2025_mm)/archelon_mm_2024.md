@@ -3,8 +3,11 @@
 *Huge Beast (Dinosaur), Unaligned*
 
 **Armor Class:** 17
+
 **Hit Points:** 90 (12d12 + 12)
+
 **Speed:** 20 ft., Swim 80 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 6 | -2 | -2 |
 
 **Skills**: Stealth +5
+
 **Senses**: Passive Perception 12
+
 **CR** 4 (XP 1,100; PB +2)
 
 ## Traits

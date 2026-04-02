@@ -3,8 +3,11 @@
 *Large Fey, Neutral Good*
 
 **Armor Class:** 16
+
 **Hit Points:** 45 (6d10 + 12)
+
 **Speed:** 50 ft.
+
 **Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 11 | +0 | +0 |
 
 **Skills**: Athletics +6, Perception +3
+
 **Gear** Breastplate, Longbow, Pike
+
 **Senses**: Passive Perception 13
+
 **Languages**: Elvish, Sylvan
+
 **CR** 2 (XP 450; PB +2)
 
 ## Actions

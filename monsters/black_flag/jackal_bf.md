@@ -3,11 +3,17 @@
 *Small* *Beast*
 
 **Armor Class:** 11
+
 **Hit Points:** 8 
+
 **Speed:** walk 40 ft.
+
 **Perception**: 13
+
 **Stealth**: 11
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,11 +21,13 @@
 | -1 | +1 | +0 | -4 | +1 | -2 |
 
 **Senses:** -
+
 **Languages:** -
 
 ### Special Abilities
 
 **Heightened Hearing and Smell:** The jackal's Perception is 18 when perceiving by hearing or smell.
+
 **Pack Tactics:** The jackal has advantage on attack rolls against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ### Actions

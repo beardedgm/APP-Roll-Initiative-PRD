@@ -3,8 +3,11 @@
 *Large Fiend, Lawful Evil*
 
 **Armor Class:** 17
+
 **Hit Points:** 119 (14d10 + 42)
+
 **Speed:** 30 ft., Fly 30 ft. (hover)
+
 **Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 15 | +2 | +5 |
 
 **Resistances**: Cold
+
 **Skills**: Arcana +5, Deception +8, Perception +4
+
 **Senses**: darkvision 60 ft.; Passive Perception 14
+
 **Languages**: Common, Giant
+
 **CR** 7 (XP 2,900; PB +3)
 
 ## Traits
@@ -40,6 +47,7 @@
 ***Spellcasting.*** The oni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
 
 **At Will:** 
+
 **1e/Day Each:** *Charm Person*, *Darkness*, *Gaseous Form*, *Sleep*
 
 ## Bonus Actions

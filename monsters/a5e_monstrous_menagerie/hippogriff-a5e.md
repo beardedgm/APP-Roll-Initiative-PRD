@@ -3,9 +3,13 @@
 *Large* *Monstrosity*
 
 **Armor Class:** 12
+
 **Hit Points:** 39 (6d10+6)
+
 **Speed:** walk 40 ft. fly 60 ft.
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** A5e Monstrous Menagerie, page 279
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,6 +17,7 @@
 | 16 (+3) | 13 (+1) | 12 (+1) | 2 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills:** perception +3
+
 **Senses:** passive Perception 15
 
 ### Special Abilities

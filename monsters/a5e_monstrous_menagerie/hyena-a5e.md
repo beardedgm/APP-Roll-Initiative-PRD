@@ -3,9 +3,13 @@
 *Medium* *Beast*
 
 **Armor Class:** 11
+
 **Hit Points:** 4 (1d8)
+
 **Speed:** walk 50 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** A5e Monstrous Menagerie, page 452
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,6 +17,7 @@
 | 10 (+0) | 12 (+1) | 10 (+0) | 2 (-4) | 12 (+1) | 4 (-3) |
 
 **Skills:** perception +3
+
 **Senses:** darkvision 30 ft., passive Perception 13
 
 ### Actions

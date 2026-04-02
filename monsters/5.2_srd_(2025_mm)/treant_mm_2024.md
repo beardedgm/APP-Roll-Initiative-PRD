@@ -3,8 +3,11 @@
 *Huge Plant, Chaotic Good*
 
 **Armor Class:** 16
+
 **Hit Points:** 138 (12d12 + 60)
+
 **Speed:** 30 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 12 | +1 | +1 |
 
 **Vulnerabilities**: Fire
+
 **Resistances**: Bludgeoning, Piercing
+
 **Senses**: Passive Perception 13
+
 **Languages**: Common, Druidic, Elvish, Sylvan
+
 **CR** 9 (XP 5,000; PB +4)
 
 ## Traits

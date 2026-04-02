@@ -3,11 +3,17 @@
 *Medium* *Monstrosity*
 
 **Armor Class:** 13
+
 **Hit Points:** 38 
+
 **Speed:** walk 20 ft. fly 40 ft.
+
 **Perception**: 10
+
 **Stealth**: 13
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | +1 | +3 | +1 | -2 | +0 | +1 |
 
 **Damage Resistances:** charmed, Monstrosity Resilience
+
 **Senses:** darkvision 120 ft.
+
 **Languages:** Common
 
 ### Special Abilities
@@ -25,7 +33,9 @@
 ### Actions
 
 **Multiattack:** The harpy makes two Claw or Screech attacks. If both Screech attacks hit one Giant or Humanoid, the target has disadvantage on the next save it makes against the harpy's Luring Song before the start of the harpy's next turn.
+
 **Claw:** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4+3) slashing damage.
+
 **Screech:** _Ranged Spell Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 8 (2d6+1) thunder damage.
 
 ### Bonus Actions

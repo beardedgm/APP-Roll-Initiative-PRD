@@ -3,8 +3,11 @@
 *Large Monstrosity, Unaligned*
 
 **Armor Class:** 11
+
 **Hit Points:** 19 (3d10 + 3)
+
 **Speed:** 50 ft.
+
 **Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,6 +20,7 @@
 | CHA | 5 | -3 | -3 |
 
 **Senses**: Passive Perception 10
+
 **CR** 1/4 (XP 50; PB +2)
 
 ## Actions

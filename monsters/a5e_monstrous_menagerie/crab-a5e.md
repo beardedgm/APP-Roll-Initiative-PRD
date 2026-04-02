@@ -3,9 +3,13 @@
 *Tiny* *Beast*
 
 **Armor Class:** 12
+
 **Hit Points:** 2 (1d4)
+
 **Speed:** walk 20 ft. swim 20 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** A5e Monstrous Menagerie, page 442
 
 | STR | DEX | CON | INT | WIS | CHA |

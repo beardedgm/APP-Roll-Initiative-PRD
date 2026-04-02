@@ -3,8 +3,11 @@
 *Medium Undead, Lawful Evil*
 
 **Armor Class:** 14
+
 **Hit Points:** 13 (2d8 + 4)
+
 **Speed:** 30 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,10 +20,15 @@
 | CHA | 5 | -3 | -3 |
 
 **Vulnerabilities**: Bludgeoning
+
 **Immunities**: Poison; Exhaustion, Poisoned
+
 **Gear** Shortbow, Shortsword
+
 **Senses**: darkvision 60 ft.; Passive Perception 9
+
 **Languages**: Understands Common plus one other language but can't speak
+
 **CR** 1/4 (XP 50; PB +2)
 
 ## Actions

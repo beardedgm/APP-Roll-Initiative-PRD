@@ -3,9 +3,13 @@
 *Medium* *Beast* *unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 13 (3d8)
+
 **Speed:** walk 10 ft. fly 50 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 380
 
 | STR | DEX | CON | INT | WIS | CHA |

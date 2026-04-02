@@ -3,11 +3,17 @@
 *Small* *Beast*
 
 **Armor Class:** 13 (natural armor)
+
 **Hit Points:** 14 
+
 **Speed:** walk 30 ft. climb 30 ft.
+
 **Perception**: 10
+
 **Stealth**: 12
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | -3 | +2 | +1 | -5 | -2 | -4 |
 
 **Damage Resistances:** prone
+
 **Senses:** keensense 30 ft.
+
 **Languages:** -
 
 ### Actions

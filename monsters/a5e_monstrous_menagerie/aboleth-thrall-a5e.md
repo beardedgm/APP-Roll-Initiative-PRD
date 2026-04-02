@@ -3,9 +3,13 @@
 *Medium* *Humanoid*
 
 **Armor Class:** 12
+
 **Hit Points:** 45 (7d8+14)
+
 **Speed:** walk 30 ft. swim 30 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** A5e Monstrous Menagerie, page 17
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 14 (+2) | 14 (+2) | 14 (+2) | 10 (+0) | 10 (+0) | 12 (+1) |
 
 **Skills:** any +0
+
 **Senses:** passive Perception 10
+
 **Languages:** Common, unlimited-range telepathy with aboleth
 
 ### Special Abilities

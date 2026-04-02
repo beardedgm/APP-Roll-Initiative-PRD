@@ -3,9 +3,13 @@
 *Medium* *Monstrosity*
 
 **Armor Class:** 17
+
 **Hit Points:** 90 (12d10+24)
+
 **Speed:** walk 40 ft. climb 40 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** A5e Monstrous Menagerie, page 255
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,12 +17,15 @@
 | 20 (+5) | 14 (+2) | 14 (+2) | 2 (-4) | 14 (+2) | 5 (-3) |
 
 **Skills:** stealth +5
+
 **Damage Resistances:** damage from nonmagical weapons
+
 **Senses:** darkvision 60 ft., passive Perception 12
 
 ### Special Abilities
 
 **Camouflage:** The grick has advantage on Stealth checks made to hide in rocky terrain.
+
 **Spider Climb:** The grick can use its climb speed even on difficult surfaces and upside down on ceilings.
 
 ### Actions

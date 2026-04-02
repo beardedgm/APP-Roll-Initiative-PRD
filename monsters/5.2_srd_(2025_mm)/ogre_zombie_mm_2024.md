@@ -3,8 +3,11 @@
 *Large Undead, Neutral Evil*
 
 **Armor Class:** 8
+
 **Hit Points:** 85 (9d10 + 36)
+
 **Speed:** 30 ft.
+
 **Initiative**: -2 (8)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,8 +20,11 @@
 | CHA | 5 | -3 | -3 |
 
 **Immunities**: Poison; Exhaustion, Poisoned
+
 **Senses**: darkvision 60 ft.; Passive Perception 8
+
 **Languages**: Understands Common and Giant but can't speak
+
 **CR** 2 (XP 450; PB +2)
 
 ## Traits

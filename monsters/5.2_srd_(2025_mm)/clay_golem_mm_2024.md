@@ -3,8 +3,11 @@
 *Large Construct, Unaligned*
 
 **Armor Class:** 14
+
 **Hit Points:** 123 (13d10 + 52)
+
 **Speed:** 20 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,9 +20,13 @@
 | CHA | 1 | -5 | -5 |
 
 **Resistances**: Bludgeoning, Piercing, Slashing
+
 **Immunities**: Acid, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+
 **Senses**: darkvision 60 ft.; Passive Perception 9
+
 **Languages**: Common plus one other language
+
 **CR** 9 (XP 5,000; PB +4)
 
 ## Traits

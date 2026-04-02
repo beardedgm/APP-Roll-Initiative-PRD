@@ -3,9 +3,13 @@
 *Medium* *Plant* *unaligned*
 
 **Armor Class:** 5
+
 **Hit Points:** 13 (3d8)
+
 **Speed:** walk 0 ft.
+
 **Challenge Rating:** 0 (25 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 309
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,6 +17,7 @@
 | 1 (-5) | 1 (-5) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
 
 **Condition Immunities:** blinded, deafened, frightened
+
 **Senses:** blindsight 30 ft. (blind beyond this radius), passive Perception 6
 
 ### Special Abilities

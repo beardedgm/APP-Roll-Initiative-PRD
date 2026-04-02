@@ -3,11 +3,17 @@
 *Small* *Fiend*
 
 **Armor Class:** 11 (natural armor)
+
 **Hit Points:** 13 
+
 **Speed:** walk 20 ft.
+
 **Perception**: 9
+
 **Stealth**: 10
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,13 +21,17 @@
 | +2 | +0 | +1 | -3 | -1 | -4 |
 
 **Damage Immunities:** Demonic Resilience
+
 **Damage Resistances:** Demonic Resilience
+
 **Senses:** darkvision 60 ft.
+
 **Languages:** Abyssal
 
 ### Special Abilities
 
 **Abyssal Rejuvenation:** Unlike other outsiders, a dretch that dies in its home plane of the Abyss is restored in a new body in 1d10 days, regaining all its HP and becoming active again. The new body appears in a random location in the Abyss. Only sprinkling holy water on the dretch's remains can prevent this trait from functioning.
+
 **Demonic Resilience:** The dretch is resistant to cold, fire, and lightning damage. In addition, it is immune to poison damage and to the poisoned condition.
 
 ### Actions

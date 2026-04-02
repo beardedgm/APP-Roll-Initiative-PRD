@@ -3,11 +3,17 @@
 *Medium* *Swarm*
 
 **Armor Class:** 13
+
 **Hit Points:** 63 
+
 **Speed:** walk 0 ft. fly 50 ft.
+
 **Perception**: 11
+
 **Stealth**: 15
+
 **Challenge Rating:** 3 (700 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,17 +21,25 @@
 | +0 | +5 | +1 | -3 | +1 | -2 |
 
 **Damage Immunities:** Swarm Resilience
+
 **Damage Resistances:** cold, Swarm Resilience
+
 **Senses:** darkvision 60 ft.
+
 **Languages:** understands Void Speech but can't speak
 
 ### Special Abilities
 
 **Aberrant Resilience:** The insatiable brood has advantage on saves against spells or effects that would alter its form.
+
 **Magic Bites:** The insatiable brood's Bites attacks are magical.
+
 **Siege Monster:** The insatiable brood deals double damage to objects and structures.
+
 **Swarm:** The insatiable brood can occupy another creature's space and vice versa, and the brood can move through any opening large enough for a Tiny creature. The brood can't regain HP or gain temporary HP.
+
 **Swarm Resilience:** The swarm is resistant to bludgeoning, piercing, and slashing damage, and it is immune to the charmed, frightened, grappled, paralyzed, petrified, prone, restrained, and stunned conditions.
+
 **Void Dweller:** The insatiable brood doesn't require air, food, drink, or sleep, and it is immune to the effects of Void terrain. In addition, it can fly through the Void as if through air.
 
 ### Actions

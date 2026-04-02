@@ -3,9 +3,13 @@
 *Large* *Beast* *unaligned*
 
 **Armor Class:** 13
+
 **Hit Points:** 60 (8d10+16)
+
 **Speed:** fly 60 ft. walk 10 ft.
+
 **Challenge Rating:** 2 (450 XP)
+
 **Source:** Creature Codex, page 50
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,11 +17,13 @@
 | 16 (+3) | 16 (+3) | 14 (+2) | 2 (-4) | 12 (+1) | 6 (-2) |
 
 **Senses:** blindsight 60 ft., passive Perception 11
+
 **Languages:** -
 
 ### Special Abilities
 
 **Echolocation:** The bat can't use its blindsight while deafened.
+
 **Keen Hearing:** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
 ### Actions

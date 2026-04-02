@@ -3,9 +3,13 @@
 *Medium* *Humanoid* *neutral*
 
 **Armor Class:** 13
+
 **Hit Points:** 30 (4d8+12)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Creature Codex, page 66
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 12 (+1) | 17 (+3) | 16 (+3) | 11 (+0) | 13 (+1) | 6 (-2) |
 
 **Skills:** stealth +5
+
 **Senses:** darkvision 60 ft., passive Perception 11
+
 **Languages:** Common
 
 ### Special Abilities
@@ -25,7 +31,9 @@
 ### Actions
 
 **Multiattack:** The corpse thief makes two claw attacks.
+
 **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+
 **Steal:** The corpse thief targets one creature within 5 feet of it and attempts to steal one small item. The target must succeed on a DC 13 Dexterity saving throw or lose one non-weapon, non-armor object that is small enough to fit in one hand.
 
 

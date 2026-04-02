@@ -3,9 +3,13 @@
 *Medium* *Monstrosity*
 
 **Armor Class:** 11
+
 **Hit Points:** 38 (7d8+7)
+
 **Speed:** walk 20 ft. swim 40 ft.
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** A5e Monstrous Menagerie, page 276
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 12 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 14 (+2) |
 
 **Saving Throws**: Wis +2
+
 **Senses:** passive Perception 10
+
 **Languages:** Common
 
 ### Special Abilities
@@ -23,6 +29,7 @@
 ### Actions
 
 **Multiattack:** The harpy attacks twice with its claw.
+
 **Claw:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
 
 ### Bonus Actions

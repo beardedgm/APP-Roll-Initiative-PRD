@@ -3,9 +3,13 @@
 *Small* *Beast* *unaligned*
 
 **Armor Class:** 12
+
 **Hit Points:** 7 (2d6)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 1/8 (25 XP)
+
 **Source:** 5.1 SRD (2015 MM), page 378
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -17,6 +21,7 @@
 ### Special Abilities
 
 **Keen Smell:** The rat has advantage on Wisdom (Perception) checks that rely on smell.
+
 **Pack Tactics:** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 
 ### Actions

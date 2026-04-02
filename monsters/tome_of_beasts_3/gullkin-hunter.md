@@ -3,9 +3,13 @@
 *Medium* *Humanoid* *any alignment*
 
 **Armor Class:** 14 (natural armor)
+
 **Hit Points:** 45 (7d8+14)
+
 **Speed:** walk 20 ft. fly 30 ft. swim 30 ft.
+
 **Challenge Rating:** 3 (700 XP)
+
 **Source:** Tome of Beasts 3, page 223
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,7 +17,9 @@
 | 12 (+1) | 17 (+3) | 15 (+2) | 10 (+0) | 14 (+2) | 10 (+0) |
 
 **Skills:** perception +2
+
 **Senses:** passive Perception 14
+
 **Languages:** Aquan, Common
 
 ### Special Abilities
@@ -23,9 +29,13 @@
 ### Actions
 
 **Multiattack:** One Beak and one Shortsword or two Shortbows.
+
 **Beak:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 5 (1d4+3) piercing damage.
+
 **Shortsword:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) piercing damage.
+
 **Shortbow:** Ranged Weapon Attack: +5 to hit 80/320' one target 6 (1d6+3) piercing damage.
+
 **Tempest Breath (Recharges: Short/Long Rest):** Exhales lungful of air in 15 ft. cone. Each creature in that area pushed up to 15 ft. away from gullkin (DC 12 Str negates).
 
 ### Bonus Actions

@@ -3,11 +3,17 @@
 *Large* *Dragon*
 
 **Armor Class:** 17 (natural armor)
+
 **Hit Points:** 144 
+
 **Speed:** walk 40 ft. climb 40 ft. fly 80 ft.
+
 **Perception**: 17
+
 **Stealth**: 14
+
 **Challenge Rating:** 7 (2,900 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | +4 | +4 | +6 | +3 | +4 | +5 |
 
 **Damage Immunities:** acid
+
 **Senses:** darkvision 120 ft., keensense 30 ft.
+
 **Languages:** Common,Draconic
 
 ### Special Abilities
@@ -25,9 +33,13 @@
 ### Actions
 
 **Multiattack:** The dragon makes one Bite attack and two Claw attacks. It can replace its Bite attack with a use of Slowing Breath, if available.
+
 **Bite:** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10+4) piercing damage.
+
 **Claw:** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6+4) slashing damage.
+
 **Acid Breath (Recharge 5-6):** The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 14 DEX save, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+
 **Slowing Breath (Recharge 6):** As the **copper dragon wyrmling**, except it is a 30-foot cone, and the save DC is 14.
 
 ### Bonus Actions

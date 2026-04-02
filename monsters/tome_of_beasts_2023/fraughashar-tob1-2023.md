@@ -3,9 +3,13 @@
 *Small* *Fey* *Neutral Evil*
 
 **Armor Class:** 15 (leather armor, shield)
+
 **Hit Points:** 22 (5d6 + 5)
+
 **Speed:** walk 25 ft.
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Tome of Beasts 2023, page 192
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,8 +17,11 @@
 | 8 (-1) | 14 (+2) | 12 (+1) | 10 (+0) | 14 (+2) | 7 (-2) |
 
 **Skills:** Stealth +4
+
 **Damage Immunities:** cold
+
 **Senses:** passive Perception 10
+
 **Languages:** Sylvan
 
 ### Special Abilities
@@ -24,6 +31,9 @@
 ### Actions
 
 **Multiattack:** The fraughashar makes one Bite attack and one Dagger attack.
+
 **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
 **Dagger:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
 **Frost Bolt:** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 7 (2d4 + 2) cold damage.

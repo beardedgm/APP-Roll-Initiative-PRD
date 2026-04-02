@@ -3,8 +3,11 @@
 *Small Aberration, Unaligned*
 
 **Armor Class:** 11
+
 **Hit Points:** 22 (5d6 + 5)
+
 **Speed:** 10 ft., Fly 30 ft.
+
 **Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 5 | -3 | -3 |
 
 **Skills**: Stealth +3
+
 **Senses**: blindsight 60 ft.; Passive Perception 10
+
 **CR** 1/2 (XP 100; PB +2)
 
 ## Actions

@@ -3,9 +3,13 @@
 *Medium* *Beast* *unaligned*
 
 **Armor Class:** 13
+
 **Hit Points:** 13 (2d8+4)
+
 **Speed:** walk 30 ft.
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Tome of Beasts 2, page 393
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,9 +17,13 @@
 | 10 (+0) | 16 (+3) | 14 (+2) | 3 (-4) | 14 (+2) | 7 (-2) |
 
 **Saving Throws**: Con +4, Wis +4
+
 **Skills:** athletics +2, stealth +5
+
 **Damage Resistances:** poison
+
 **Condition Immunities:** poisoned
+
 **Senses:** darkvision 60 ft., passive Perception 10
 
 ### Special Abilities

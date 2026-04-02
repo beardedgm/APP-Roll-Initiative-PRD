@@ -3,8 +3,11 @@
 *Medium Aberration, Chaotic Neutral*
 
 **Armor Class:** 9
+
 **Hit Points:** 52 (7d8 + 21)
+
 **Speed:** 20 ft., Swim 20 ft.
+
 **Initiative**: -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
@@ -17,7 +20,9 @@
 | CHA | 6 | -2 | -2 |
 
 **Immunities**: Prone
+
 **Senses**: darkvision 60 ft.; Passive Perception 10
+
 **CR** 2 (XP 450; PB +2)
 
 ## Traits
@@ -28,7 +33,9 @@
 
 
 **1-4**: The target does nothing.
+
 **5-6**: The target takes no action or Bonus Action and uses all its movement to move in a random direction.
+
 **7-8**: The target makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
 
 

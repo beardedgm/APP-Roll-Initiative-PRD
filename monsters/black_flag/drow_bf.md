@@ -3,11 +3,17 @@
 *Medium* *Humanoid*
 
 **Armor Class:** 15 (chain shirt)
+
 **Hit Points:** 12 
+
 **Speed:** walk 30 ft.
+
 **Perception**: 12
+
 **Stealth**: 12
+
 **Challenge Rating:** 1/4 (50 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,17 +21,21 @@
 | +2 | +2 | +0 | +0 | +0 | +1 |
 
 **Damage Resistances:** Fey Ancestry
+
 **Senses:** darkvision 120 ft.
+
 **Languages:** Elvish,Undercommon
 
 ### Special Abilities
 
 **Fey Ancestry:** The drow is resistant to the charmed condition, and magic can't put the drow to sleep.
+
 **Sunlight Sensitivity:** While in sunlight, the drow has disadvantage on attack rolls, and its Perception is 7 when perceiving by sight.
 
 ### Actions
 
 **Shortsword:** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6+2) piercing damage.
+
 **Hand Crossbow:** _Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6+2) piercing damage.
 
 ### Bonus Actions

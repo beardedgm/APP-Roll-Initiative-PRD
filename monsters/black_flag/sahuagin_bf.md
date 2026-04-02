@@ -3,11 +3,17 @@
 *Medium* *Humanoid*
 
 **Armor Class:** 12 (natural armor)
+
 **Hit Points:** 25 
+
 **Speed:** walk 30 ft. swim 40 ft.
+
 **Perception**: 15
+
 **Stealth**: 10
+
 **Challenge Rating:** 1/2 (100 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,19 +21,25 @@
 | +0 | +0 | +1 | +1 | +1 | -1 |
 
 **Senses:** darkvision 120 ft.
+
 **Languages:** Sahuagin
 
 ### Special Abilities
 
 **Blood Frenzy:** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its HP.
+
 **Limited Amphibiousness:** The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
+
 **Shark Telepathy:** The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
 
 ### Actions
 
 **Multiattack:** The sahuagin makes one Bite attack and one Claws or Trident attack.
+
 **Bite:** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) piercing damage.
+
 **Claws:** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (2d4) slashing damage.
+
 **Trident:** _Melee or Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack. If the target is wielding a weapon or shield, it must succeed on a DC 11 DEX save or drop the weapon or shield (the sahuagin's choice if the target is wielding both).
 
 ### Reactions

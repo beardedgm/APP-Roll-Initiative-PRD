@@ -3,11 +3,17 @@
 *Large* *Dragon*
 
 **Armor Class:** 18 (natural armor)
+
 **Hit Points:** 175 
+
 **Speed:** walk 40 ft. fly 80 ft.
+
 **Perception**: 19
+
 **Stealth**: 14
+
 **Challenge Rating:** 9 (5,000 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,7 +21,9 @@
 | +6 | +4 | +9 | +2 | +5 | +7 |
 
 **Damage Immunities:** cold
+
 **Senses:** darkvision 120 ft., keensense 30 ft.
+
 **Languages:** Common,Draconic
 
 ### Special Abilities
@@ -25,9 +33,13 @@
 ### Actions
 
 **Multiattack:** The dragon makes one Bite attack and two Claw attacks. It can replace its Bite attack with a use of Paralyzing Breath, if available.
+
 **Bite:** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10+6) piercing damage.
+
 **Claw:** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6+6) slashing damage.
+
 **Cold Breath (Recharge 5-6):** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 17 CON save, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
 **Paralyzing Breath (Recharge 6):** As the **silver dragon wyrmling**, except it is a 30-foot cone, and the save DC is 17.
 
 ### Bonus Actions

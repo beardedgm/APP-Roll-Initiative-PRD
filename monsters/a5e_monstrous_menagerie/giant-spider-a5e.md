@@ -3,9 +3,13 @@
 *Large* *Beast*
 
 **Armor Class:** 14
+
 **Hit Points:** 26 (4d10+4)
+
 **Speed:** walk 30 ft. climb 30 ft.
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** A5e Monstrous Menagerie, page 450
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,12 +17,15 @@
 | 14 (+2) | 16 (+3) | 12 (+1) | 2 (-4) | 10 (+0) | 4 (-3) |
 
 **Skills:** stealth +5
+
 **Senses:** blindsight 10 ft., darkvision 60 ft., passive Perception 10
 
 ### Special Abilities
 
 **Spider Climb:** The spider can climb even on difficult surfaces and upside down on ceilings.
+
 **Web Sense:** While touching a web, the spider knows the location of other creatures touching that web.
+
 **Web Walker:** The spider ignores movement restrictions imposed by webs.
 
 ### Actions

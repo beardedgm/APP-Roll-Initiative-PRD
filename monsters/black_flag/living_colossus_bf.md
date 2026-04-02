@@ -3,11 +3,17 @@
 *Gargantuan* *Construct*
 
 **Armor Class:** 18 (natural armor)
+
 **Hit Points:** 261 
+
 **Speed:** walk 60 ft.
+
 **Perception**: 17
+
 **Stealth**: 9
+
 **Challenge Rating:** 15 (13,000 XP)
+
 **Source:** Black Flag
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,23 +21,33 @@
 | +10 | -1 | +10 | +0 | +2 | +6 |
 
 **Damage Immunities:** Construct Resilience
+
 **Damage Resistances:** slashing
+
 **Senses:** darkvision 120 ft., keensense 30 ft.
+
 **Languages:** any languages the animating spirit knew in life
 
 ### Special Abilities
 
 **Construct Nature:** The living colossus doesn't require air, food, drink, or sleep.
+
 **Construct Resilience:** The living colossus is immune to poison and psychic damage, and it is immune to exhaustion and the charmed, frightened, paralyzed, petrified, and poisoned conditions.
+
 **False Appearance:** While the living colossus remains motionless, it is indistinguishable from a normal statue or monument of the individual it represents.
+
 **Immutable Form:** The living colossus is immune to any spell or effect that would alter its form.
+
 **Siege Monster:** The living colossus deals double damage to objects and structures.
 
 ### Actions
 
 **Multiattack:** The living colossus makes three Slam attacks, or it makes four Spirit Blast attacks.
+
 **Slam:** _Melee Weapon Attack:_ +15 to hit, reach 5 ft., one target. _Hit:_ 32 (4d10+10) bludgeoning damage.
+
 **Spirit Blast:** _Ranged Spell Attack:_ +11 to hit, range 120 ft., one target. _Hit:_ 24 (4d8+6) psychic damage.
+
 **Thunderous Clap (Recharge 5-6):** The living colossus slams its hands together, creating a thunderous wave in a 30-foot cone. Each creature in that area must make a DC 18 CON save, taking 59 (17d6) thunder damage on a failed save, or half as much damage on a successful one.
 
 ### Bonus Actions

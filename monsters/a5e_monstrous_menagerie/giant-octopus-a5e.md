@@ -3,9 +3,13 @@
 *Large* *Beast*
 
 **Armor Class:** 11
+
 **Hit Points:** 32 (5d10+5)
+
 **Speed:** walk 10 ft. swim 60 ft.
+
 **Challenge Rating:** 1 (200 XP)
+
 **Source:** A5e Monstrous Menagerie, page 448
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -13,11 +17,13 @@
 | 16 (+3) | 12 (+1) | 12 (+1) | 4 (-3) | 12 (+1) | 4 (-3) |
 
 **Skills:** stealth +3
+
 **Senses:** darkvision 60 ft., passive Perception 11
 
 ### Special Abilities
 
 **Camouflage:** The octopus has advantage on Stealth checks.
+
 **Water Breathing:** The octopus breathes water and can hold its breath for 1 hour while in air.
 
 ### Actions
