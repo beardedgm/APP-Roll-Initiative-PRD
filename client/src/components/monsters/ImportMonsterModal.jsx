@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useRef } from 'react';
 import Modal from '../ui/Modal';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
@@ -9,15 +9,15 @@ export default function ImportMonsterModal() {
   const addCustomMonster = useUserDataStore(s => s.addCustomMonster);
 
   const modalData = useUIStore(s => s.modalData);
-  const [gameSystem, setGameSystem] = useState(modalData?.gameSystem || '5e');
+  // Track user override separately; reset when modalData changes
+  const [systemOverride, setSystemOverride] = useState(null);
+  const lastModalSystem = useRef(modalData?.gameSystem);
+  if (modalData?.gameSystem !== lastModalSystem.current) {
+    lastModalSystem.current = modalData?.gameSystem;
+    if (systemOverride !== null) setSystemOverride(null);
+  }
+  const gameSystem = systemOverride ?? modalData?.gameSystem ?? '5e';
   const isPf2e = gameSystem === 'pf2e';
-
-  // Sync game system when modal is opened from a different tab
-  useEffect(() => {
-    if (modalData?.gameSystem) {
-      setGameSystem(modalData.gameSystem);
-    }
-  }, [modalData?.gameSystem]);
 
   const [tab, setTab] = useState('paste'); // 'paste' | 'upload'
   const [jsonText, setJsonText] = useState('');
@@ -50,7 +50,7 @@ export default function ImportMonsterModal() {
       // If auto-detected as PF2e, switch the toggle too
       const usePf2e = isPf2e || looksLikePf2e;
       if (looksLikePf2e && !isPf2e) {
-        setGameSystem('pf2e');
+        setSystemOverride('pf2e');
       }
 
       const monster = usePf2e ? parsePf2eMonsterJSON(text) : parseMonsterJSON(text);
@@ -108,14 +108,14 @@ export default function ImportMonsterModal() {
         <div className="import-monster__system-toggle">
           <button
             className={`import-monster__system-btn${!isPf2e ? ' import-monster__system-btn--active' : ''}`}
-            onClick={() => { setGameSystem('5e'); reset(); }}
+            onClick={() => { setSystemOverride('5e'); reset(); }}
             type="button"
           >
             D&amp;D 5E
           </button>
           <button
             className={`import-monster__system-btn${isPf2e ? ' import-monster__system-btn--active' : ''}`}
-            onClick={() => { setGameSystem('pf2e'); reset(); }}
+            onClick={() => { setSystemOverride('pf2e'); reset(); }}
             type="button"
           >
             PF2E
