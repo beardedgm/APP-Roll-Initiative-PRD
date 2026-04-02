@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import useCombatStore from '../store/useCombatStore';
-import useUIStore from '../store/useUIStore';
+
 import { useCurrentUser } from '../api/useAuth';
 import { useUserData } from '../api/useUserData';
 import useUserDataStore from '../store/useUserDataStore';
@@ -33,9 +33,7 @@ export default function Tracker() {
   const addCombatant = useCombatStore(s => s.addCombatant);
   const rollDice = useCombatStore(s => s.rollDice);
   const combatState = useCombatStore(s => s.state);
-  const combatants = useCombatStore(s => s.combatants);
   const nextTurn = useCombatStore(s => s.nextTurn);
-  const openModal = useUIStore(s => s.openModal);
 
   const { data: user } = useCurrentUser();
   const isAuthenticated = !!user;
@@ -166,17 +164,6 @@ export default function Tracker() {
         </section>
 
         <section className="dm-col dm-col--right">
-          {combatState === 'pre-combat' && (
-            <div className="panel">
-              <button
-                className="btn btn--combat-start btn--full"
-                disabled={combatants.length === 0}
-                onClick={() => openModal('start-combat')}
-              >
-                &#9876; Start Combat
-              </button>
-            </div>
-          )}
           <DiceRoller />
         </section>
       </main>
