@@ -1,5 +1,5 @@
 import { useState, useRef } from 'react';
-import { GripVertical, ChevronRight, X } from 'lucide-react';
+import { GripVertical, ChevronRight, X, Shield, Skull, User } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 import HPBar from './HPBar';
 
@@ -63,8 +63,8 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
         >
           {name}
         </span>
-        <span className={`type-badge ${type}`}>
-          {type === 'npc' ? 'NPC' : type.charAt(0).toUpperCase() + type.slice(1)}
+        <span className={`type-icon type-icon--${type}`} title={type === 'npc' ? 'NPC' : type.charAt(0).toUpperCase() + type.slice(1)}>
+          {type === 'player' ? <Shield size={13} /> : type === 'monster' ? <Skull size={13} /> : <User size={13} />}
         </span>
         <span className="ac-badge" title="Armor Class">AC {ac}</span>
 

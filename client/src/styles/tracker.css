@@ -489,6 +489,16 @@ body.is-resizing .resize-handle::after {
   color: var(--color-accent-gold);
 }
 
+/* Type icon (replaces text badges in compact cards) */
+.type-icon {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.type-icon--player  { color: #5dade2; }
+.type-icon--monster { color: #f1948a; }
+.type-icon--npc     { color: #6dd4a0; }
+
 .ac-badge {
   display: inline-block;
   font-family: var(--font-heading);
