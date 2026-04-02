@@ -397,6 +397,10 @@
   border: 1px solid var(--color-border);
   border-radius: var(--radius-sm);
 }
+.combatant-card__initiative--dim {
+  color: var(--color-text-muted);
+  opacity: 0.5;
+}
 .combatant-card--active .combatant-card__initiative {
   color: var(--color-accent-gold);
   background: rgba(201,162,103,0.18);

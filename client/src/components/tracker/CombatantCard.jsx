@@ -5,9 +5,11 @@ import HPBar from './HPBar';
 export default function CombatantCard({ combatant, isActive, onDragStart, onDragOver, onDragLeave, onDrop, onDragEnd, onViewStatBlock }) {
   const { id, name, initiative, type, hp, ac, status, monsterSlug } = combatant;
   const isDead = hp.current <= 0 || status === 'unconscious';
-  const initDisplay = Number.isInteger(initiative) ? initiative : initiative.toFixed(1);
+  const isPreCombat = combatState === 'pre-combat';
+  const initDisplay = isPreCombat ? '—' : (Number.isInteger(initiative) ? initiative : initiative.toFixed(1));
   const removeCombatant = useCombatStore(s => s.removeCombatant);
   const applyDamageHeal = useCombatStore(s => s.applyDamageHeal);
+  const combatState = useCombatStore(s => s.state);
   const [hpInput, setHpInput] = useState('');
   const [inputError, setInputError] = useState(false);
   const inputRef = useRef(null);
@@ -42,7 +44,7 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
       <div className="combatant-card__header">
         <span className="drag-handle" title="Drag to reorder" role="img" aria-label="Drag to reorder">&#9776;</span>
         <div className="combatant-card__left">
-          <span className="combatant-card__initiative">{initDisplay}</span>
+          <span className={`combatant-card__initiative${isPreCombat ? ' combatant-card__initiative--dim' : ''}`}>{initDisplay}</span>
           {isActive && <span className="combatant-card__active-arrow" aria-hidden="true">&#9654;</span>}
           <div className="combatant-card__info">
             <span
