@@ -2,10 +2,13 @@
 
 *Medium or Small Monstrosity, Chaotic Evil*
 
-- **Armor Class:** 15
-- **Hit Points:** 71 (11d8 + 22)
-- **Speed:** 30 ft., Alternate ? ft.
-- **Initiative**: +4 (14)
+**Armor Class:** 15
+
+**Hit Points:** 71 (11d8 + 22)
+
+**Speed:** 30 ft., Alternate ? ft.
+
+**Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Perception +4, Stealth +4
-- **Gear** Longbow
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common (can't speak in wolf form)
-- **CR** 3 (XP 700; PB +2)
+**Skills**: Perception +4, Stealth +4
+
+**Gear** Longbow
+
+**Senses**: darkvision 60 ft.; Passive Perception 14
+
+**Languages**: Common (can't speak in wolf form)
+
+**CR** 3 (XP 700; PB +2)
 
 ## Traits
 

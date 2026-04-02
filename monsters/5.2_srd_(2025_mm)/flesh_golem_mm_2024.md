@@ -2,10 +2,13 @@
 
 *Medium Construct, Neutral*
 
-- **Armor Class:** 9
-- **Hit Points:** 127 (15d8 + 60)
-- **Speed:** 30 ft.
-- **Initiative**: -1 (9)
+**Armor Class:** 9
+
+**Hit Points:** 127 (15d8 + 60)
+
+**Speed:** 30 ft.
+
+**Initiative**: -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +19,13 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Immunities**: Lightning, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Understands Common plus one other language but can't speak
-- **CR** 5 (XP 1,800; PB +3)
+**Immunities**: Lightning, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+
+**Senses**: darkvision 60 ft.; Passive Perception 10
+
+**Languages**: Understands Common plus one other language but can't speak
+
+**CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

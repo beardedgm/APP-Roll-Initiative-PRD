@@ -6,7 +6,9 @@ cg, medium, fey, nymph, plant
 ---
 
 **Perception** +10
+
 **Languages** common, elven, sylvan
+
 **STR** +0, **DEX** +4, **CON** +1, **INT** +2, **WIS** +3, **CHA** +4
 
 **Nature Empathy** The dryad can use Diplomacy to Make an Impression on and make very simple Requests of animals and plants.
@@ -14,8 +16,11 @@ cg, medium, fey, nymph, plant
 ---
 
 **AC** 19
+
 **Fort** +6, **Ref** +11, **Will** +10
+
 **HP** 55
+
 **Weaknesses** cold iron 5, fire 5
 
 **Tree Dependent** A dryad is mystically bonded to a single great tree and must remain within 300 feet of it. If she moves beyond that range, she becomes sickened 1 and is unable to recover. She must attempt a DC 18 Fortitude save every hour or increase the sickened value by 1 (to a maximum of sickened 4). After 24 hours, she becomes drained 1, with this value increasing by 1 every additional 24 hours. A dryad can perform a 24-hour ritual to bond herself to a new tree.

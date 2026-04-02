@@ -2,10 +2,13 @@
 
 *Tiny Fey, Neutral Good*
 
-- **Armor Class:** 15
-- **Hit Points:** 10 (4d4)
-- **Speed:** 10 ft., Fly 40 ft.
-- **Initiative**: +4 (14)
+**Armor Class:** 15
+
+**Hit Points:** 10 (4d4)
+
+**Speed:** 10 ft., Fly 40 ft.
+
+**Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +19,13 @@
 | WIS | 13 | +1 | +1 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Perception +3, Stealth +8
-- **Senses**: Passive Perception 13
-- **Languages**: Common, Elvish, Sylvan
-- **CR** 1/4 (XP 50; PB +2)
+**Skills**: Perception +3, Stealth +8
+
+**Senses**: Passive Perception 13
+
+**Languages**: Common, Elvish, Sylvan
+
+**CR** 1/4 (XP 50; PB +2)
 
 ## Actions
 
@@ -31,5 +37,5 @@
 
 ***Invisibility.*** The sprite casts *Invisibility* on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
-- **At Will:** *Invisibility*
+**At Will:** *Invisibility*
 

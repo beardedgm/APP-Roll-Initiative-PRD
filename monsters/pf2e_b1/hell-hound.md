@@ -6,15 +6,21 @@ le, medium, beast, fiend, fire
 ---
 
 **Perception** +9
+
 **Languages** infernal (can't speak any language)
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** -2, **WIS** +2, **CHA** -2
 
 ---
 
 **AC** 19
+
 **Fort** +9, **Ref** +10, **Will** +7
+
 **HP** 40
+
 **Immunities** fire
+
 **Weaknesses** cold 5
 
 ---

@@ -6,12 +6,15 @@ n, tiny, animal, dinosaur
 ---
 
 **Perception** +5
+
 **STR** +0, **DEX** +3, **CON** +2, **INT** -4, **WIS** +2, **CHA** -2
 
 ---
 
 **AC** 15
+
 **Fort** +4, **Ref** +7, **Will** +4
+
 **HP** 8
 
 ---

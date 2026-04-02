@@ -2,10 +2,13 @@
 
 *Medium Fiend, Lawful Evil*
 
-- **Armor Class:** 17
-- **Hit Points:** 221 (26d8 + 104)
-- **Speed:** 40 ft.
-- **Initiative**: +8 (18)
+**Armor Class:** 17
+
+**Hit Points:** 221 (26d8 + 104)
+
+**Speed:** 40 ft.
+
+**Initiative**: +8 (18)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +19,17 @@
 | WIS | 16 | +3 | +3 |
 | CHA | 20 | +5 | +5 |
 
-- **Vulnerabilities**: Piercing
-- **Immunities**: Charmed, Frightened
-- **Skills**: Deception +10, Insight +8, Perception +8
-- **Senses**: truesight 60 ft.; Passive Perception 18
-- **Languages**: Common, Infernal
-- **CR** 13 (XP 10,000; PB +5)
+**Vulnerabilities**: Piercing
+
+**Immunities**: Charmed, Frightened
+
+**Skills**: Deception +10, Insight +8, Perception +8
+
+**Senses**: truesight 60 ft.; Passive Perception 18
+
+**Languages**: Common, Infernal
+
+**CR** 13 (XP 10,000; PB +5)
 
 ## Traits
 
@@ -40,5 +48,6 @@
 
 ***Spellcasting.*** The rakshasa casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18):
 
-- **At Will:** *Detect Magic*, *Detect Thoughts*, *Disguise Self*, *Mage Hand*, *Minor Illusion*
-- **1e/Day Each:** *Fly*, *Invisibility*, *Major Image*, *Plane Shift*
+**At Will:** *Detect Magic*, *Detect Thoughts*, *Disguise Self*, *Mage Hand*, *Minor Illusion*
+
+**1e/Day Each:** *Fly*, *Invisibility*, *Major Image*, *Plane Shift*

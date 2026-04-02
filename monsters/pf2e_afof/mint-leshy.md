@@ -6,13 +6,17 @@ unique, n, medium, leshy, plant
 ---
 
 **Perception** +8
+
 **Languages** common, druidic, sylvan
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** -1, **WIS** +2, **CHA** +0
 
 ---
 
 **AC** 18
+
 **Fort** +8, **Ref** +10, **Will** +6
+
 **HP** 30
 
 **Verdant Burst** (healing) When a leshy dies, a burst of primal energy explodes from its body, restoring 2d8 Hit Points to each plant creature in a 30-foot emanation. This area is filled with plants of the same type as the leshy, becoming difficult terrain. If the terrain isn't a viable environment for these plants, they wither after 24 hours.
@@ -26,4 +30,5 @@ Speed 25 feet
 **Innate primal Spells** (DC 16)
 
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The leshy transforms into a Small plant. This ability otherwise uses the effects of tree shape.
+
 **Engulf** ◆◆ DC 18, 1d6 bludgeoning plus 1d6 poison, Escape DC 18, Rupture 6

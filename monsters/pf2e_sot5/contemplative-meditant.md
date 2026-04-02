@@ -6,19 +6,27 @@ rare, n, medium, aberration
 ---
 
 **Perception** +29
+
 **Languages** akitonian
+
 **STR** +0, **DEX** +6, **CON** +0, **INT** +8, **WIS** +6, **CHA** +4
 
 **Time** Lore +31, Diplomacy +27, Medicine +29, Nature +27, Occultism +33, Society +29
+
 **Temporal Sense** A contemplative meditant can always roll Dimension of Time Lore for initiative. When it does, it gains a +2 circumstance bonus to the roll as it acts on flashes of insight harvested from potential futures.
+
 **Thoughtsense** (divination, mental, occult) As contemplative.
 
 ---
 
 **AC** 38
+
 **Fort** +21, **Ref** +27, **Will** +29
+
 **HP** 275
+
 **Resistances** mental 15
+
 **Weaknesses** physical 10
 
 **Atrophied** As contemplative.

@@ -6,14 +6,19 @@ uncommon, cn, tiny, dragon
 ---
 
 **Perception** +11
+
 **Languages** draconic
+
 **STR** -1, **DEX** +4, **CON** +2, **INT** -1, **WIS** +3, **CHA** +2
 
 ---
 
 **AC** 21
+
 **Fort** +10, **Ref** +12, **Will** +11
+
 **HP** 60
+
 **Immunities** paralyzed, sleep
 
 **Shared Diversion** ◈ **Trigger** Another creature in the najra lizard's square succeeds at a Deception check to Create a Diversion; The najra lizard automatically successfully Creates a Diversion against the same targets.
@@ -23,7 +28,9 @@ uncommon, cn, tiny, dragon
 Speed 30 feet
 
 **Melee** jaws +14; **Damage** 2d6 piercing plus najra lizard venom plus najra lizard venom
+
 **Melee** venomous spit +14 (agile, poison, range increment <20 feet>); **Damage** 1d4 poison plus najra lizard venom plus najra lizard venom
 
 **Najra Lizard Venom**
+
 **Najra Swarm Attack** The najra lizard's melee Strikes deal 1d6 precision damage to creatures sharing a square with more than one najra lizard.

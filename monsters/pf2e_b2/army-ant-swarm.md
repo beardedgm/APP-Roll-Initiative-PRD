@@ -6,15 +6,21 @@ n, large, animal, swarm
 ---
 
 **Perception** +11
+
 **STR** -2, **DEX** +4, **CON** +4, **INT** -5, **WIS** +2, **CHA** -4
 
 ---
 
 **AC** 21
+
 **Fort** +13, **Ref** +11, **Will** +9
+
 **HP** 55
+
 **Immunities** precision, swarm mind
+
 **Resistances** bludgeoning 2, piercing 5, slashing 5
+
 **Weaknesses** area
 
 **Cling** ◈ **Trigger** A creature leaves the swarm's space; The swarm takes 1d6 damage as ants cling to the creature and continue biting, dealing 3d6 persistent piercing damage. High winds or immersion in water reduces the DC of the flat check to end this persistent damage to 5. Any area damage dealt to the creature destroys these clinging ants.

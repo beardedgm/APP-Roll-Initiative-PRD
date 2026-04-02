@@ -6,15 +6,21 @@ ce, tiny, fey, gremlin
 ---
 
 **Perception** +6
+
 **Languages** undercommon
+
 **STR** +1, **DEX** +3, **CON** +3, **INT** +1, **WIS** +2, **CHA** -2
+
 **Items** satchel with 5 rocks
 
 ---
 
 **AC** 15
+
 **Fort** +5, **Ref** +7, **Will** +4
+
 **HP** 9
+
 **Weaknesses** cold iron 2
 
 **Gremlin Lice** Whenever a living creature touches or is touched by a grimple (including via a successful unarmed melee Strike), it must succeed at a DC 13 Reflex save or become infested by gremlin lice. While infested, the targeted creature is distracted by the itching sensation and is stupefied 1, though it can use an Interact action to scratch at the itching lice to suppress the stupefied condition from the lice for 1d4 rounds. The infestation ends after 24 hours or until the creature is submerged in water or exposed to a severe cold environment, whichever comes first.
@@ -24,6 +30,7 @@ ce, tiny, fey, gremlin
 Speed 10 feet, fly 20 feet, climb 20 feet
 
 **Melee** bite +7 (agile, finesse); **Damage** 1d4+1 piercing
+
 **Melee** rock +7 (agile, range increment <20 feet>); **Damage** 1d4+1 bludgeoning
 
 **Innate primal Spells** (DC 16)

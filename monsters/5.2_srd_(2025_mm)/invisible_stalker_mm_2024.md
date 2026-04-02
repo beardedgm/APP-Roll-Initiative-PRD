@@ -2,10 +2,13 @@
 
 *Large Elemental, Neutral*
 
-- **Armor Class:** 14
-- **Hit Points:** 97 (13d10 + 26)
-- **Speed:** 50 ft., Fly 50 ft. (hover)
-- **Initiative**: +7 (17)
+**Armor Class:** 14
+
+**Hit Points:** 97 (13d10 + 26)
+
+**Speed:** 50 ft., Fly 50 ft. (hover)
+
+**Initiative**: +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +19,17 @@
 | WIS | 15 | +2 | +2 |
 | CHA | 11 | +0 | +0 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Skills**: Perception +8, Stealth +10
-- **Senses**: darkvision 60 ft.; Passive Perception 18
-- **Languages**: Common, Primordial (Auran)
-- **CR** 6 (XP 2,300; PB +3)
+**Resistances**: Bludgeoning, Piercing, Slashing
+
+**Immunities**: Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+
+**Skills**: Perception +8, Stealth +10
+
+**Senses**: darkvision 60 ft.; Passive Perception 18
+
+**Languages**: Common, Primordial (Auran)
+
+**CR** 6 (XP 2,300; PB +3)
 
 ## Traits
 

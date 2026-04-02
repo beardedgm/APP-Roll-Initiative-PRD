@@ -19,6 +19,7 @@ function crToNumeric(crStr) {
  * Public — returns seeded (non-custom) monsters only.
  */
 router.get('/api/monsters/search', asyncHandler(async (req, res) => {
+
   const { q, source, cr, type, limit = 20, skip = 0, gameSystem = '5e' } = req.query;
   const filter = {};
 
@@ -49,7 +50,7 @@ router.get('/api/monsters/search', asyncHandler(async (req, res) => {
 
   // Exclude custom monsters — they now live in UserData
   if (!filter.sourceKey) {
-    filter.isCustom = { $ne: true };
+    filter.isCustom = false;
   }
 
   const lim = Math.min(parseInt(limit) || 20, 50);
@@ -73,7 +74,7 @@ router.get('/api/monsters/search', asyncHandler(async (req, res) => {
 router.get('/api/monsters/sources', asyncHandler(async (req, res) => {
   const { gameSystem = '5e' } = req.query;
   const pipeline = [
-    { $match: { isCustom: { $ne: true }, gameSystem } },
+    { $match: { isCustom: false, gameSystem } },
     { $group: { _id: '$sourceKey', label: { $first: '$source' }, count: { $sum: 1 } } },
     { $sort: { label: 1 } },
   ];
@@ -85,12 +86,13 @@ router.get('/api/monsters/sources', asyncHandler(async (req, res) => {
  * GET /api/monsters/:slug — full stat block for seeded monsters
  */
 router.get('/api/monsters/:slug', asyncHandler(async (req, res) => {
+
   // M-8: Validate slug format (alphanumeric + hyphens + underscores, max 200 chars)
   if (!/^[a-z0-9_-]{1,200}$/i.test(req.params.slug)) {
     return res.status(400).json({ error: 'Invalid slug format' });
   }
 
-  const monster = await Monster.findOne({ slug: req.params.slug, isCustom: { $ne: true } });
+  const monster = await Monster.findOne({ slug: req.params.slug, isCustom: false });
   if (!monster) {
     return res.status(404).json({ error: 'Monster not found' });
   }

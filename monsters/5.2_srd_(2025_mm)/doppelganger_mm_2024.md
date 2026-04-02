@@ -2,10 +2,13 @@
 
 *Medium Monstrosity, Neutral*
 
-- **Armor Class:** 14
-- **Hit Points:** 52 (8d8 + 16)
-- **Speed:** 30 ft.
-- **Initiative**: +4 (14)
+**Armor Class:** 14
+
+**Hit Points:** 52 (8d8 + 16)
+
+**Speed:** 30 ft.
+
+**Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 14 | +2 | +2 |
 
-- **Immunities**: Charmed
-- **Skills**: Deception +6, Insight +3
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common plus three other languages
-- **CR** 3 (XP 700; PB +2)
+**Immunities**: Charmed
+
+**Skills**: Deception +6, Insight +3
+
+**Senses**: darkvision 60 ft.; Passive Perception 11
+
+**Languages**: Common plus three other languages
+
+**CR** 3 (XP 700; PB +2)
 
 ## Actions
 
@@ -32,7 +39,7 @@
 
 ***Read Thoughts.*** The doppelganger casts *Detect Thoughts*, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 12).
 
-- **At Will:** *Detect Thoughts*
+**At Will:** *Detect Thoughts*
 
 
 ## Bonus Actions

@@ -6,14 +6,19 @@ le, medium, human, humanoid
 ---
 
 **Perception** +15
+
 **Languages** common, vudrani
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +4, **WIS** +1, **CHA** +0
+
 **Items** +1 dagger, moderate healing potion, spellbook
 
 ---
 
 **AC** 22; with {@spell mage armor} notes
+
 **Fort** +8, **Ref** +13, **Will** +12
+
 **HP** 70
 
 ---

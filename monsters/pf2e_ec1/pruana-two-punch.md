@@ -6,14 +6,19 @@ unique, ne, medium, dwarf, humanoid
 ---
 
 **Perception** +7
+
 **Languages** common, dwarven
+
 **STR** +4, **DEX** +0, **CON** +2, **INT** +0, **WIS** +2, **CHA** +1
+
 **Items** chain mail
 
 ---
 
 **AC** 20
+
 **Fort** +9, **Ref** +8, **Will** +7; +2 circumstance to Fortitude and Reflex vs. Shove or Trip
+
 **HP** 46
 
 ---

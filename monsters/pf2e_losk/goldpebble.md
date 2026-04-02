@@ -6,14 +6,19 @@ large, aquatic, beast
 ---
 
 **Perception** +9
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** -3, **WIS** +1, **CHA** +1
 
 ---
 
 **AC** 21
+
 **Fort** +15, **Ref** +12, **Will** +9
+
 **HP** 90
+
 **Resistances** cold 5
+
 **Weaknesses** electricity 5
 
 ---
@@ -21,6 +26,7 @@ large, aquatic, beast
 Speed 25 feet, swim 25 feet
 
 **Melee** fangs +15; **Damage** 1d8+5 piercing plus 1d8 cold and pebblefang poison
+
 **Melee** tail +13 (agile, reach <10 feet>); **Damage** 2d6+5 bludgeoning plus Grab
 
 **Chilling Currents** ◆◆ A goldpebble can cause the temperature of all water within a 30-foot emanation centered on itself to plummet for 1 minute. Any creature that starts its turn or enters the affected water takes 2d6 cold damage (DC 19 basic Fortitude save). 

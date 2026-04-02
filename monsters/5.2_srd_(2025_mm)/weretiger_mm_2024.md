@@ -2,10 +2,13 @@
 
 *Medium or Small Monstrosity, Neutral*
 
-- **Armor Class:** 12
-- **Hit Points:** 120 (16d8 + 48)
-- **Speed:** 30 ft., Alternate ? ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 12
+
+**Hit Points:** 120 (16d8 + 48)
+
+**Speed:** 30 ft., Alternate ? ft.
+
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 13 | +1 | +1 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Perception +5, Stealth +4
-- **Gear** Longbow
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Common (can't speak in tiger form)
-- **CR** 4 (XP 1,100; PB +2)
+**Skills**: Perception +5, Stealth +4
+
+**Gear** Longbow
+
+**Senses**: darkvision 60 ft.; Passive Perception 15
+
+**Languages**: Common (can't speak in tiger form)
+
+**CR** 4 (XP 1,100; PB +2)
 
 ## Actions
 

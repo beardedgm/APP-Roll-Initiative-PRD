@@ -6,15 +6,21 @@ ne, tiny, undead
 ---
 
 **Perception** +13
+
 **Languages** common, necril
+
 **STR** +1, **DEX** +5, **CON** +1, **INT** +0, **WIS** +4, **CHA** +1
 
 ---
 
 **AC** 22
+
 **Fort** +10, **Ref** +14, **Will** +11
+
 **HP** 80; negative healing
+
 **Immunities** death effects, disease, paralyzed, poison, unconscious
+
 **Weaknesses** positive 5
 
 **Bite Back** ◈ **Trigger** The taunting skull is attacked by a creature within their reach; The taunting skull makes a jaws Strike against that creature.

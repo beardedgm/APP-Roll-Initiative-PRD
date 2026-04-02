@@ -6,6 +6,7 @@ ne, huge, mindless, undead, zombie
 ---
 
 **Perception** +8
+
 **STR** +7, **DEX** -1, **CON** +4, **INT** -5, **WIS** +0, **CHA** -2
 
 **Slow** A zombie is permanently slowed 1 and can't use reactions.
@@ -13,8 +14,11 @@ ne, huge, mindless, undead, zombie
 ---
 
 **AC** 21
+
 **Fort** +16, **Ref** +9, **Will** +12
+
 **HP** 160; negative healing
+
 **Immunities** mental, poison, death effects, disease, paralyzed, unconscious
 
 ---
@@ -22,8 +26,11 @@ ne, huge, mindless, undead, zombie
 Speed 25 feet
 
 **Melee** hunk of meat +17 (reach <15 feet>); **Damage** 2d10+9 bludgeoning
+
 **Melee** hunk of meat +9 (thrown <10 feet>); **Damage** 2d10+9 bludgeoning
+
 **Melee** corpse +17 (brutal, range increment <30 feet>); **Damage** 2d6+9 bludgeoning
 
 **Corpse Throwing** A zombie hulk can throw corpses at foes. While any Medium dead body will do, they sometimes throw zombie shambler|b1|zombie shamblers, who take just as much damage from being thrown as the target they hit. A thrown shambler lands prone, but if it's not destroyed, it can rise and use other actions normally.
+
 **Wide Swing** ◆ The zombie hulk makes a hunk of meat Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within the Strike's reach. This attack counts as two attacks for the zombie hulk's multiple attack penalty.

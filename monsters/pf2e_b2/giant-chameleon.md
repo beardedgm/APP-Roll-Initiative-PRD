@@ -6,6 +6,7 @@ n, large, animal
 ---
 
 **Perception** +10
+
 **STR** +5, **DEX** +3, **CON** +1, **INT** -4, **WIS** +3, **CHA** -2
 
 **Camouflage** The giant chameleon can change its coloration to match its surroundings. It doesn't need cover to attempt to Hide with a Stealth check.
@@ -13,7 +14,9 @@ n, large, animal
 ---
 
 **AC** 18; all-around vision abilities
+
 **Fort** +8, **Ref** +12, **Will** +8
+
 **HP** 60
 
 ---

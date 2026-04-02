@@ -6,15 +6,21 @@ uncommon, ce, medium, caligni, humanoid
 ---
 
 **Perception** +11
+
 **Languages** caligni, undercommon
+
 **STR** +2, **DEX** +5, **CON** +1, **INT** +1, **WIS** +1, **CHA** +4
+
 **Items** dagger
 
 ---
 
 **AC** 24
+
 **Fort** +9, **Ref** +15, **Will** +11
+
 **HP** 70
+
 **Weaknesses** light blindness 30
 
 **Death Umbra** (darkness) When the caller dies, an explosion of shadow devours their body. Each creature in a 10-foot emanation must attempt a DC 22 Fortitude save. **Critical Success** The creature is unaffected.

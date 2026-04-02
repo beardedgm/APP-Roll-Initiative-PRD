@@ -2,10 +2,13 @@
 
 *Medium or Small Undead, Neutral Evil*
 
-- **Armor Class:** 13
-- **Hit Points:** 67 (9d8 + 27)
-- **Speed:** 5 ft., Fly 60 ft. (hover)
-- **Initiative**: +3 (13)
+**Armor Class:** 13
+
+**Hit Points:** 67 (9d8 + 27)
+
+**Speed:** 5 ft., Fly 60 ft. (hover)
+
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 14 | +2 | +2 |
 | CHA | 15 | +2 | +2 |
 
-- **Resistances**: Acid, Bludgeoning, Cold, Fire, Piercing, Slashing
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Common plus two other languages
-- **CR** 5 (XP 1,800; PB +3)
+**Resistances**: Acid, Bludgeoning, Cold, Fire, Piercing, Slashing
+
+**Immunities**: Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+
+**Senses**: darkvision 60 ft.; Passive Perception 12
+
+**Languages**: Common plus two other languages
+
+**CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

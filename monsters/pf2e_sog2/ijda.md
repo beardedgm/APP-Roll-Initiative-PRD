@@ -6,23 +6,32 @@ rare, ce, large, fiend, nindoru
 ---
 
 **Perception** +15
+
 **Languages** aklo, common, necril
+
 **STR** +6, **DEX** +2, **CON** +5, **INT** -2, **WIS** +2, **CHA** +0
+
 **Items** {@condition broken} {@item katana}
 
 ---
 
 **AC** 23
+
 **Fort** +15, **Ref** +13, **Will** +12
+
 **HP** 100
+
 **Immunities** death effects, emotion effects, fatigued, sleep
+
 **Resistances** mental 5, negative 5
+
 **Weaknesses** silver 5
 
 **Aura of Forgetfulness** (aura, enchantment, mental, occult) 30 feet. A creature who begins its turn in the aura must attempt a DC 21 Will save. **Critical Success** The creature is unaffected and is temporarily immune to Aura of Forgetfulness for 24 hours.
 **Success** The creature is unaffected.
 **Failure** The creature is slowed 1 until the end of its next turn, as it has trouble remembering what it intended to do.
 **Critical Failure** As failure, but slowed 2.
+
 **Soul Shred** Creatures killed by an ijda are difficult to bring back to life or animate as undead. The ijda automatically attempts to counteract|CRB|3|counteracting|0 any attempt to resurrect or animate any creature that it has killed (counteract modifier +14, counteract level 3). If the ijda who slew the creature is itself slain, the creature can be brought back from death or become undead normally.
 
 ---
@@ -37,4 +46,5 @@ Speed 30 feet
 **Success** The creature is stupefied 1 until the end of its next turn.
 **Failure** The creature is stupefied 1 and confused until the end of its next turn.
 **Critical Failure** The creature is stupefied 1 and confused for 1 minute. It can attempt a new save at the end of each of its turns to end the effects.
+
 **Ruin Wielder** When an ijda wields a broken non-magical weapon, they do not take any of the disadvantages of the weapon being broken. While the ijda wields it, the weapon becomes a +1 striking weapon that deals an additional 1d6 mental damage on a successful hit.

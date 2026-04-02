@@ -6,15 +6,21 @@ cg, medium, azata, celestial
 ---
 
 **Perception** +11
+
 **Languages** celestial, draconic, infernal
+
 **STR** +1, **DEX** +5, **CON** +3, **INT** +2, **WIS** +1, **CHA** +5
+
 **Items** silver rapier, silver virtuoso flute
 
 ---
 
 **AC** 21
+
 **Fort** +9, **Ref** +13, **Will** +11
+
 **HP** 75
+
 **Weaknesses** cold iron 5, evil 5
 
 **Vulnerable to Smoke** A gancanagh's lungs can't tolerate smoke. They take a –2 circumstance penalty to saving throws against effects that create some form of smoke.
@@ -28,4 +34,5 @@ Speed 30 feet
 **Innate divine Spells** (DC 23)
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The gancanagh can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes, but might change the damage type their Strikes deal (typically to bludgeoning).
+
 **Invigorating Passion** ◆◆ (divine, emotion, enchantment, mental) The gancanagh embraces or kisses a willing creature, infusing that creature with their invigorating passion. The creature gains a +1 status bonus to attack rolls and 10 temporary Hit Points for 10 minutes. After that time, the target becomes fatigued for 10 minutes unless they succeed at a DC 21 Fortitude save.

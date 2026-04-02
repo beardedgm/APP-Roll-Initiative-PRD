@@ -6,14 +6,19 @@ ce, small, goblin, humanoid
 ---
 
 **Perception** +4
+
 **Languages** common, goblin
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +0, **WIS** -1, **CHA** +3
+
 **Items** torch
 
 ---
 
 **AC** 17
+
 **Fort** +5, **Ref** +9, **Will** +4
+
 **HP** 15
 
 **Goblin Scuttle** ◈ **Trigger** A goblin ally ends a move action adjacent to the pyro.; The goblin pyro Steps.

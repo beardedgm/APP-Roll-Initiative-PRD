@@ -2,10 +2,13 @@
 
 *Huge Giant, Chaotic Evil*
 
-- **Armor Class:** 13
-- **Hit Points:** 105 (10d12 + 40)
-- **Speed:** 40 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 13
+
+**Hit Points:** 105 (10d12 + 40)
+
+**Speed:** 40 ft.
+
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +19,13 @@
 | WIS | 9 | -1 | -1 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Perception +2
-- **Senses**: Passive Perception 12
-- **Languages**: Giant
-- **CR** 5 (XP 1,800; PB +3)
+**Skills**: Perception +2
+
+**Senses**: Passive Perception 12
+
+**Languages**: Giant
+
+**CR** 5 (XP 1,800; PB +3)
 
 ## Actions
 

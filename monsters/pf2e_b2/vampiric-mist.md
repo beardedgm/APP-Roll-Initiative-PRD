@@ -6,18 +6,25 @@ ne, medium, aberration
 ---
 
 **Perception** +9
+
 **Languages** aklo
+
 **STR** -5, **DEX** +5, **CON** +3, **INT** -1, **WIS** +2, **CHA** +0
 
 **Misty Form** A vampiric mist's body is composed of a semisolid red mist similar in consistency to thick foam. This enables a vampiric mist to move through spaces as narrow as 1 inch in diameter with no reduction to its Speed. However, a vampiric mist can't wear or interact with objects. It also can't enter water or other fluids, and it's treated as Tiny for the purpose of how wind affects it.
+
 **Sense Blood** A vampiric mist can sense creatures that have blood within 60 feet. It can sense exposed blood within a mile.
 
 ---
 
 **AC** 18
+
 **Fort** +8, **Ref** +12, **Will** +9
+
 **HP** 35
+
 **Immunities** precision
+
 **Weaknesses** fire 5
 
 ---

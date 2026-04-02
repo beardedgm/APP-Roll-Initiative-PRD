@@ -6,6 +6,7 @@ ne, medium, fire, mindless, undead, zombie
 ---
 
 **Perception** +12
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** -5, **WIS** +2, **CHA** -2
 
 **Slow** A shambler troop is permanently slowed 1 and can't use reactions.
@@ -13,9 +14,13 @@ ne, medium, fire, mindless, undead, zombie
 ---
 
 **AC** 23
+
 **Fort** +16, **Ref** +12, **Will** +10
+
 **HP** 125; negative healing|b2
+
 **Immunities** fire, mental, poison, death effects, disease, paralyzed, unconscious
+
 **Weaknesses** positive 5, slashing 5
 
 **Death Throes** When a sulfur zombie dies, its body explodes in a 30-foot burst of fire and debris that deals 2d10 bludgeoning and 2d10 fire damage to each creature in the area (DC 21 basic Reflex save).

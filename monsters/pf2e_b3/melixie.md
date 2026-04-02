@@ -6,13 +6,17 @@ cn, tiny, fey, sprite
 ---
 
 **Perception** +4
+
 **Languages** common, sylvan
+
 **STR** -1, **DEX** +4, **CON** +2, **INT** +2, **WIS** +0, **CHA** +3
 
 ---
 
 **AC** 16
+
 **Fort** +6, **Ref** +8, **Will** +4
+
 **HP** 17
 
 ---
@@ -20,6 +24,7 @@ cn, tiny, fey, sprite
 Speed 10 feet, fly 40 feet
 
 **Melee** stinger +8 (agile, finesse, magical); **Damage** 1d6-1 bludgeoning damage
+
 **Melee** sting shot +8 (evocation, magical, range <20 feet>); **Damage** 1d6 poison
 
 **Innate primal Spells** (DC 17)

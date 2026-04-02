@@ -2,10 +2,13 @@
 
 *Huge Dragon (Chromatic), Chaotic Evil*
 
-- **Armor Class:** 19
-- **Hit Points:** 195 (17d12 + 85)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +12 (22)
+**Armor Class:** 19
+
+**Hit Points:** 195 (17d12 + 85)
+
+**Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
+**Initiative**: +12 (22)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 13 | +1 | +6 |
 | CHA | 19 | +4 | +4 |
 
-- **Immunities**: Acid
-- **Skills**: Perception +11, Stealth +7
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
-- **Languages**: Common, Draconic
-- **CR** 14 (XP 11,500, or 13,000 in lair)
+**Immunities**: Acid
+
+**Skills**: Perception +11, Stealth +7
+
+**Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
+
+**Languages**: Common, Draconic
+
+**CR** 14 (XP 11,500, or 13,000 in lair)
 
 ## Traits
 
@@ -39,8 +46,9 @@
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):
 
-- **At Will:** *Detect Magic*, *Fear*, *Acid Arrow*
-- **1e/Day Each:** *Speak with Dead*, *Vitriolic Sphere*
+**At Will:** *Detect Magic*, *Fear*, *Acid Arrow*
+
+**1e/Day Each:** *Speak with Dead*, *Vitriolic Sphere*
 
 ## Legendary Actions
 

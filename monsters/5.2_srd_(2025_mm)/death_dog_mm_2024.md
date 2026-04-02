@@ -2,10 +2,13 @@
 
 *Medium Monstrosity, Neutral Evil*
 
-- **Armor Class:** 12
-- **Hit Points:** 39 (6d8 + 12)
-- **Speed:** 40 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 12
+
+**Hit Points:** 39 (6d8 + 12)
+
+**Speed:** 40 ft.
+
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +19,13 @@
 | WIS | 13 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-- **Skills**: Perception +5, Stealth +4
-- **Senses**: darkvision 120 ft.; Passive Perception 15
-- **CR** 1 (XP 200; PB +2)
+**Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+
+**Skills**: Perception +5, Stealth +4
+
+**Senses**: darkvision 120 ft.; Passive Perception 15
+
+**CR** 1 (XP 200; PB +2)
 
 ## Actions
 

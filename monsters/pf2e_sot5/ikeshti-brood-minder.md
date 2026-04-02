@@ -6,14 +6,19 @@ n, small, humanoid, ikeshti
 ---
 
 **Perception** +7
+
 **Languages** akitonian, ikeshti
+
 **STR** +1, **DEX** +4, **CON** +3, **INT** +1, **WIS** +1, **CHA** +0
 
 ---
 
 **AC** 18
+
 **Fort** +9, **Ref** +10, **Will** +5
+
 **HP** 30
+
 **Resistances** cold 2, fire 2
 
 ---

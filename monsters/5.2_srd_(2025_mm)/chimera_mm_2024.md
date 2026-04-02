@@ -2,10 +2,13 @@
 
 *Large Monstrosity, Chaotic Evil*
 
-- **Armor Class:** 14
-- **Hit Points:** 114 (12d10 + 48)
-- **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +0 (10)
+**Armor Class:** 14
+
+**Hit Points:** 114 (12d10 + 48)
+
+**Speed:** 30 ft., Fly 60 ft.
+
+**Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +19,13 @@
 | WIS | 14 | +2 | +2 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Perception +8
-- **Senses**: darkvision 60 ft.; Passive Perception 18
-- **Languages**: Understands Draconic but can't speak
-- **CR** 6 (XP 2,300; PB +3)
+**Skills**: Perception +8
+
+**Senses**: darkvision 60 ft.; Passive Perception 18
+
+**Languages**: Understands Draconic but can't speak
+
+**CR** 6 (XP 2,300; PB +3)
 
 ## Actions
 

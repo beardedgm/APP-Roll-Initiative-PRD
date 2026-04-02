@@ -6,13 +6,17 @@ unique, ne, medium, human, humanoid
 ---
 
 **Perception** +29
+
 **Languages** common, daemonic
+
 **STR** +6, **DEX** +3, **CON** +1, **INT** +0, **WIS** +5, **CHA** +3
 
 ---
 
 **AC** 36; 38 with shield raised
+
 **Fort** +21, **Ref** +23, **Will** +27
+
 **HP** 240
 
 **Shield Block** ◈

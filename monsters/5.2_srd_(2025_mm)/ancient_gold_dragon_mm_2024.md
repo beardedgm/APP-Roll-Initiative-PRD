@@ -2,10 +2,13 @@
 
 *Gargantuan Dragon (Metallic), Lawful Good*
 
-- **Armor Class:** 22
-- **Hit Points:** 546 (28d20 + 252)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +16 (26)
+**Armor Class:** 22
+
+**Hit Points:** 546 (28d20 + 252)
+
+**Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
+**Initiative**: +16 (26)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 17 | +3 | +10 |
 | CHA | 28 | +9 | +9 |
 
-- **Immunities**: Fire
-- **Skills**: Insight +10, Perception +17, Persuasion +16, Stealth +9
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
-- **Languages**: Common, Draconic
-- **CR** 24 (XP 62,000, or 75,000 in lair)
+**Immunities**: Fire
+
+**Skills**: Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
+
+**Languages**: Common, Draconic
+
+**CR** 24 (XP 62,000, or 75,000 in lair)
 
 ## Traits
 
@@ -41,8 +48,9 @@
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 24, +16 to hit with spell attacks):
 
-- **At Will:** *Detect Magic*, *Guiding Bolt*, *Shapechange*
-- **1e/Day Each:** *Flame Strike*, *Word of Recall*, *Zone of Truth*
+**At Will:** *Detect Magic*, *Guiding Bolt*, *Shapechange*
+
+**1e/Day Each:** *Flame Strike*, *Word of Recall*, *Zone of Truth*
 
 ## Legendary Actions
 

@@ -6,17 +6,23 @@ le, medium, duergar, dwarf, humanoid
 ---
 
 **Perception** +8
+
 **Languages** common, dwarven, undercommon
+
 **STR** +2, **DEX** +0, **CON** +2, **INT** +0, **WIS** +2, **CHA** +3
+
 **Items** chain mail, maul, religious symbol
 
 ---
 
 **AC** 18
+
 **Fort** +8, **Ref** +4, **Will** +8; +2 status to all saves vs. magic, iron mind
+
 **HP** 30
 
 **Iron Mind** Duergar taskmasters automatically disbelieve all illusion|CRB|2|disbelieving illusions|0 of 1st level or lower.
+
 **Light Blindness**
 
 ---

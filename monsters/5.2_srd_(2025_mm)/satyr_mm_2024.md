@@ -2,10 +2,13 @@
 
 *Medium Fey, Chaotic Neutral*
 
-- **Armor Class:** 13
-- **Hit Points:** 31 (7d8)
-- **Speed:** 40 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 13
+
+**Hit Points:** 31 (7d8)
+
+**Speed:** 40 ft.
+
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +19,13 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 14 | +2 | +2 |
 
-- **Skills**: Perception +2, Performance +6, Stealth +5
-- **Senses**: Passive Perception 12
-- **Languages**: Common, Elvish, Sylvan
-- **CR** 1/2 (XP 100; PB +2)
+**Skills**: Perception +2, Performance +6, Stealth +5
+
+**Senses**: Passive Perception 12
+
+**Languages**: Common, Elvish, Sylvan
+
+**CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

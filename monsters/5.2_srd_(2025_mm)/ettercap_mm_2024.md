@@ -2,10 +2,13 @@
 
 *Medium Monstrosity, Neutral Evil*
 
-- **Armor Class:** 13
-- **Hit Points:** 44 (8d8 + 8)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 13
+
+**Hit Points:** 44 (8d8 + 8)
+
+**Speed:** 30 ft., Climb 30 ft.
+
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +19,11 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Perception +3, Stealth +4, Survival +3
-- **Senses**: darkvision 60 ft.; Passive Perception 13
-- **CR** 2 (XP 450; PB +2)
+**Skills**: Perception +3, Stealth +4, Survival +3
+
+**Senses**: darkvision 60 ft.; Passive Perception 13
+
+**CR** 2 (XP 450; PB +2)
 
 ## Traits
 

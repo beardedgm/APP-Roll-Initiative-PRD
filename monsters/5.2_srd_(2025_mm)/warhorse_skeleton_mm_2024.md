@@ -2,10 +2,13 @@
 
 *Large Undead, Lawful Evil*
 
-- **Armor Class:** 13
-- **Hit Points:** 22 (3d10 + 6)
-- **Speed:** 60 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 13
+
+**Hit Points:** 22 (3d10 + 6)
+
+**Speed:** 60 ft.
+
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +19,13 @@
 | WIS | 8 | -1 | -1 |
 | CHA | 5 | -3 | -3 |
 
-- **Vulnerabilities**: Bludgeoning
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **CR** 1/2 (XP 100; PB +2)
+**Vulnerabilities**: Bludgeoning
+
+**Immunities**: Poison; Exhaustion, Poisoned
+
+**Senses**: darkvision 60 ft.; Passive Perception 9
+
+**CR** 1/2 (XP 100; PB +2)
 
 ## Actions
 

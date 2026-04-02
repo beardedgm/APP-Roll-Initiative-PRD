@@ -6,16 +6,23 @@ ng, medium, angel, celestial
 ---
 
 **Perception** +18
+
 **Languages** celestial, draconic, infernal
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** +1, **WIS** +6, **CHA** +5
+
 **Items** +1 striking scimitar
 
 ---
 
 **AC** 26
+
 **Fort** +16, **Ref** +12, **Will** +18; +1 status to all saves vs. magic
+
 **HP** 145
+
 **Resistances** fire 15
+
 **Weaknesses** evil 10
 
 **Confessor's Aura** (aura, divine, enchantment, mental) 20 feet. Creatures in the balisse's aura are subject to zone of truth (DC 23). Additionally, if these creatures choose to honestly express their own conflicted feelings, the aura makes it easier for them to put words to those feelings.
@@ -32,5 +39,7 @@ Speed 30 feet, fly 40 feet
 **Success** The duration is 1 round.
 **Failure** The duration is 1 day.
 **Critical Failure** The duration is permanent.
+
 **Flaming Armament** (divine, evocation) Any weapon gains the effect of a flaming property rune while a balisse wields it.
+
 **Guiding Angel** ◆ (divine, transmutation) While invisible, a balisse can spiritually attach itself to a non-evil mortal. When it does so, it merges with the mortal's body and is unable to use any of its spells and abilities other than to interact with the mortal. It must use Guiding Angel again to leave the mortal. While merged with the mortal, the balisse can take a form of its choice that only the mortal can see, such as a small angel on the mortal's shoulder. Alternatively, it can communicate with the mortal using a bodiless voice only the mortal can hear.

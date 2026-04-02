@@ -6,14 +6,19 @@ le, medium, goblin, humanoid
 ---
 
 **Perception** +10
+
 **Languages** common, goblin
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** -1
+
 **Items** crossbow (20 bolts), scale mail, {@item shortsword}
 
 ---
 
 **AC** 23
+
 **Fort** +10, **Ref** +12, **Will** +8
+
 **HP** 50
 
 **Formation** When it's adjacent to at least two other allies, the hobgoblin archer gains a +1 circumstance bonus to AC and saving throws. This bonus increases to +2 to Reflex saves against area effects.
@@ -23,8 +28,11 @@ le, medium, goblin, humanoid
 Speed 25 feet
 
 **Melee** shortsword +12 (agile, versatile <S>); **Damage** 1d6+4 piercing
+
 **Melee** crossbow +14 (range increment <120 feet>, reload <1>); **Damage** 1d8+2 piercing plus crossbow precision plus crossbow precision
 
 **Crossbow Precision** The first time the archer hits with a crossbow attack in a round, it deals 1d8 extra precision damage.
+
 **Perfect Aim** The hobgoblin archer ignores the concealed condition. Their targets don't benefit from lesser cover, and they reduce the AC bonus from standard cover by 2 against the hobgoblin archer's attack.
+
 **Running Reload** ◆ The archer Strides, Steps, or Sneaks, then Interacts to reload.

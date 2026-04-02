@@ -6,14 +6,19 @@ uncommon, n, small, amphibious, earth, elemental, water
 ---
 
 **Perception** +3
+
 **Languages** aquan, terran
+
 **STR** +3, **DEX** +1, **CON** +2, **INT** -2, **WIS** +0, **CHA** +2
 
 ---
 
 **AC** 14
+
 **Fort** +7, **Ref** +4, **Will** +3
+
 **HP** 24; fast healing 2 (while touching mud or slime)
+
 **Immunities** bleed, poison, paralyzed, sleep
 
 ---

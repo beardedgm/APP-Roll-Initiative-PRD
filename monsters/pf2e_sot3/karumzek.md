@@ -6,7 +6,9 @@ uncommon, ne, medium, aberration
 ---
 
 **Perception** +11
+
 **Languages** abyssal, common, infernal, undercommon
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** -1, **WIS** +2, **CHA** +0
 
 **Poison Sense** A karumzek senses any poisoned creature. It can spend an action with the concentrate trait to determine the poison's type and current stage.
@@ -14,9 +16,13 @@ uncommon, ne, medium, aberration
 ---
 
 **AC** 21
+
 **Fort** +12, **Ref** +12, **Will** +8
+
 **HP** 60
+
 **Immunities** poison
+
 **Weaknesses** good 5
 
 ---

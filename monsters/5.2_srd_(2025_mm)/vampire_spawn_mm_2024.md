@@ -2,10 +2,13 @@
 
 *Medium or Small Undead, Neutral Evil*
 
-- **Armor Class:** 16
-- **Hit Points:** 90 (12d8 + 36)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 16
+
+**Hit Points:** 90 (12d8 + 36)
+
+**Speed:** 30 ft.
+
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 10 | +0 | +3 |
 | CHA | 12 | +1 | +1 |
 
-- **Resistances**: Necrotic
-- **Skills**: Perception +3, Stealth +6
-- **Senses**: darkvision 60 ft.; Passive Perception 13
-- **Languages**: Common plus one other language
-- **CR** 5 (XP 1,800; PB +3)
+**Resistances**: Necrotic
+
+**Skills**: Perception +3, Stealth +6
+
+**Senses**: darkvision 60 ft.; Passive Perception 13
+
+**Languages**: Common plus one other language
+
+**CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 
@@ -29,10 +36,13 @@
 ***Vampire Weakness.*** The vampire has these weaknesses:
 
 
-- **Forbiddance**: The vampire can't enter a residence without an invitation from an occupant.
-- **Running Water**: The vampire takes 20 Acid damage if it ends its turn in running water.
-- **Stake to the Heart**: The vampire is destroyed if a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition.
-- **Sunlight**: The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
+**Forbiddance**: The vampire can't enter a residence without an invitation from an occupant.
+
+**Running Water**: The vampire takes 20 Acid damage if it ends its turn in running water.
+
+**Stake to the Heart**: The vampire is destroyed if a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition.
+
+**Sunlight**: The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
 
 
 ## Actions

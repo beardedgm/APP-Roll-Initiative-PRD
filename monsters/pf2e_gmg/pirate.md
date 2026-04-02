@@ -6,8 +6,11 @@ cn, medium, human, humanoid
 ---
 
 **Perception** +6
+
 **Languages** common
+
 **STR** +2, **DEX** +3, **CON** +1, **INT** +0, **WIS** +2, **CHA** +2
+
 **Items** cutlass (functions as a scimitar), dagger, padded armor
 
 **Lore** +8 Str +2, Dex +3, Con +1, Int +0, Wis +2, Cha + 2 Items cutlass (functions as a scimitar), dagger, padded armor.
@@ -15,10 +18,13 @@ cn, medium, human, humanoid
 ---
 
 **AC** 18
+
 **Fort** +7, **Ref** +8, **Will** +6
+
 **HP** 32
 
 **Attack of Opportunity** ◈
+
 **Bravery** When the pirate rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, anytime they gain the frightened condition, reduce its value by 1.
 
 ---
@@ -26,7 +32,9 @@ cn, medium, human, humanoid
 Speed 25 feet
 
 **Melee** cutlass +10 (forceful, sweep); **Damage** 1d6+5 slashing
+
 **Melee** dagger +11 (agile, versatile <S>); **Damage** 1d4+5 piercing
+
 **Melee** dagger +11 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
 
 **Boarding Action** ◆◆ The pirate swings on a rope or Strides, moving up to double their Speed. If the pirate boarded or disembarked a boat during this movement, they can make a melee Strike at the end of their movement that deals one extra damage die on a hit.

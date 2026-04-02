@@ -6,13 +6,17 @@ le, small, humanoid, kobold
 ---
 
 **Perception** +6
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +4, **WIS** +3, **CHA** +1
+
 **Items** {@item leather||leather armor}, {@item shortsword}, {@item spear} (3), spike trap (3)
 
 ---
 
 **AC** 19
+
 **Fort** +7, **Ref** +10, **Will** +5
+
 **HP** 28
 
 ---
@@ -20,9 +24,13 @@ le, small, humanoid, kobold
 Speed 25 feet
 
 **Melee** shortsword +8 (agile, finesse, versatile <S>); **Damage** 1d6 + 2 piercing
+
 **Melee** spear +10 (thrown <20 feet>); **Damage** 1d6 + 2 piercing
 
 **Hurried Retreat** ◆ If the kobold is adjacent to at least one enemy, the kobold Strides up to 30 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. The kobold must end this movement in a space that's not adjacent to an enemy.
+
 **Sneak Attack** The kobold trapmaster deals an extra 1d6 damage to creatures that have the flat-footed condition.
+
 **Quick Trap** ◆◆◆ The kobold trapmaster deploys one spike trap in an adjacent square.
+
 **Spike Trap** Once this trap is deployed, anyone who steps on the square it's in takes 2d8 piercing damage and must attempt a DC 17 basic Reflex saving throw.

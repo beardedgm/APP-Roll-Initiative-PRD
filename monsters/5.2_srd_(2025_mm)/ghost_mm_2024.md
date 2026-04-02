@@ -2,10 +2,13 @@
 
 *Medium Undead, Neutral*
 
-- **Armor Class:** 11
-- **Hit Points:** 45 (10d8)
-- **Speed:** 5 ft., Fly 40 ft. (hover)
-- **Initiative**: +1 (11)
+**Armor Class:** 11
+
+**Hit Points:** 45 (10d8)
+
+**Speed:** 5 ft., Fly 40 ft. (hover)
+
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 17 | +3 | +3 |
 
-- **Resistances**: Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common plus one other language
-- **CR** 4 (XP 1,100; PB +2)
+**Resistances**: Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
+
+**Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
+
+**Senses**: darkvision 60 ft.; Passive Perception 11
+
+**Languages**: Common plus one other language
+
+**CR** 4 (XP 1,100; PB +2)
 
 ## Traits
 
@@ -42,5 +49,5 @@ The possession lasts until the body drops to 0 Hit Points or the ghost leaves as
 
 ***Etherealness.*** The ghost casts the *Etherealness* spell, requiring no spell components and using Charisma as the spellcasting ability. The ghost is visible on the Material Plane while on the Border Ethereal and vice versa, but it can't affect or be affected by anything on the other plane.
 
-- **At Will:** *Etherealness*
+**At Will:** *Etherealness*
 

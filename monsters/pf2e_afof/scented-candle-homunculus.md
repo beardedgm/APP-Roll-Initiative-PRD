@@ -6,7 +6,9 @@ rare, ne, tiny, construct
 ---
 
 **Perception** +3
+
 **Languages** common (can't speak any language)
+
 **STR** -1, **DEX** +3, **CON** +0, **INT** +1, **WIS** +1, **CHA** -2
 
 **Master Link** (arcane, divination, mental) As homunculus.
@@ -14,8 +16,11 @@ rare, ne, tiny, construct
 ---
 
 **AC** 17
+
 **Fort** +2, **Ref** +7, **Will** +3
+
 **HP** 17
+
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
 **Perfume Aura** (aura, olfactory, poison) 5 feet. The scented candle homunculus's fragrance of lavender is overwhelmingly intense. Any creature other than the homunculus's master who enters the aura must attempt a DC 15 Fortitude save. **Critical Success** 
@@ -28,6 +33,7 @@ rare, ne, tiny, construct
 Speed 15 feet, fly 40 feet
 
 **Melee** jaws +7 (finesse, magical); **Damage** 1d4 piercing plus 1d4 persistent fire
+
 **Melee** wax glob +8 (magical, range increment <20 feet>); **Damage** 1d4 persistent fire
 
 **Dunk in Wax** ◆◆ (move) A scented candle homunculus who is adjacent to the large wax cauldron can dunk itself in wax, healing 2d6 damage.

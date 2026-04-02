@@ -2,10 +2,13 @@
 
 *Medium Fiend, Neutral Evil*
 
-- **Armor Class:** 15
-- **Hit Points:** 66 (12d8 + 12)
-- **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 15
+
+**Hit Points:** 66 (12d8 + 12)
+
+**Speed:** 30 ft., Fly 60 ft.
+
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 20 | +5 | +5 |
 
-- **Resistances**: Cold, Fire, Poison, Psychic
-- **Skills**: Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Abyssal, Common, Infernal; telepathy 60 ft.
-- **CR** 4 (XP 1,100; PB +2)
+**Resistances**: Cold, Fire, Poison, Psychic
+
+**Skills**: Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+
+**Senses**: darkvision 60 ft.; Passive Perception 15
+
+**Languages**: Abyssal, Common, Infernal; telepathy 60 ft.
+
+**CR** 4 (XP 1,100; PB +2)
 
 ## Traits
 
@@ -35,8 +42,9 @@
 
 ***Spellcasting.*** The incubus casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 15):
 
-- **At Will:** *Disguise Self*, *Etherealness*
-- **1e/Day Each:** *Dream*, *Hypnotic Pattern*
+**At Will:** *Disguise Self*, *Etherealness*
+
+**1e/Day Each:** *Dream*, *Hypnotic Pattern*
 
 ## Bonus Actions
 

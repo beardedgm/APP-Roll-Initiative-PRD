@@ -6,13 +6,17 @@ uncommon, n, small, beast
 ---
 
 **Perception** +8
+
 **Languages** sylvan (can't speak any language)
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** -3, **WIS** +2, **CHA** +3
 
 ---
 
 **AC** 16
+
 **Fort** +6, **Ref** +11, **Will** +5
+
 **HP** 20
 
 **Magic Susceptibility** An almiraj takes a –2 status penalty to saving throws against occult spells. Any beneficial occult spells with a duration of 1 round or longer cast on the almiraj last twice as long.

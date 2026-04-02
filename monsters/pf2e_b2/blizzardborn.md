@@ -6,7 +6,9 @@ n, medium, cold, elemental, water
 ---
 
 **Perception** +14
+
 **Languages** aquan
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** +0, **WIS** +4, **CHA** +0
 
 **Snow Vision** The blizzardborn ignores the concealed condition from falling snow.
@@ -14,9 +16,13 @@ n, medium, cold, elemental, water
 ---
 
 **AC** 24
+
 **Fort** +16, **Ref** +12, **Will** +14
+
 **HP** 105
+
 **Immunities** bleed, cold, poison, paralyzed, sleep
+
 **Weaknesses** fire 5
 
 **Shattering Ice** ◈ **Trigger** An enemy hits the blizzardborn with an attack that deals physical damage; A portion of the blizzardborn's body shatters into an explosion of razor sharp ice crystals and blinding snow that deals 2d6 piercing damage to opponents in a 5-foot emanation (DC 24 basic Reflex save). Anyone who fails is also blinded for 1 round (or 3 rounds on a critical failure).

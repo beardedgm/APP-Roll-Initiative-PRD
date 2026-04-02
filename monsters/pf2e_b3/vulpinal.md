@@ -6,14 +6,19 @@ ng, small, agathion, celestial
 ---
 
 **Perception** +15
+
 **Languages** celestial, common, draconic, infernal
+
 **STR** +2, **DEX** +4, **CON** +4, **INT** +5, **WIS** +3, **CHA** +6
+
 **Items** handheld instrument
 
 ---
 
 **AC** 24
+
 **Fort** +12, **Ref** +14, **Will** +15
+
 **HP** 105
 
 ---
@@ -21,6 +26,7 @@ ng, small, agathion, celestial
 Speed 30 feet
 
 **Melee** jaws +15 (finesse, good, magical); **Damage** 2d10+4 piercing plus 1d6 good
+
 **Melee** claw +15 (agile, finesse, good, magical); **Damage** 2d6+4 slashing plus 1d6 good
 
 **Innate divine Spells** (DC 24)

@@ -2,10 +2,13 @@
 
 *Large Giant, Chaotic Evil*
 
-- **Armor Class:** 11
-- **Hit Points:** 68 (8d10 + 24)
-- **Speed:** 40 ft.
-- **Initiative**: -1 (9)
+**Armor Class:** 11
+
+**Hit Points:** 68 (8d10 + 24)
+
+**Speed:** 40 ft.
+
+**Initiative**: -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +19,13 @@
 | WIS | 7 | -2 | -2 |
 | CHA | 7 | -2 | -2 |
 
-- **Gear** Greatclub, Javelin x 3
-- **Senses**: darkvision 60 ft.; Passive Perception 8
-- **Languages**: Common, Giant
-- **CR** 2 (XP 450; PB +2)
+**Gear** Greatclub, Javelin x 3
+
+**Senses**: darkvision 60 ft.; Passive Perception 8
+
+**Languages**: Common, Giant
+
+**CR** 2 (XP 450; PB +2)
 
 ## Actions
 

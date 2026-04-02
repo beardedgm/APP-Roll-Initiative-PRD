@@ -2,10 +2,13 @@
 
 *Small Construct, Unaligned*
 
-- **Armor Class:** 17
-- **Hit Points:** 14 (4d6)
-- **Speed:** 5 ft., Fly 50 ft. (hover)
-- **Initiative**: +4 (14)
+**Armor Class:** 17
+
+**Hit Points:** 14 (4d6)
+
+**Speed:** 5 ft., Fly 50 ft. (hover)
+
+**Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +19,11 @@
 | WIS | 5 | -3 | -3 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: blindsight 60 ft.; Passive Perception 7
-- **CR** 1/4 (XP 50; PB +2)
+**Immunities**: Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+
+**Senses**: blindsight 60 ft.; Passive Perception 7
+
+**CR** 1/4 (XP 50; PB +2)
 
 ## Actions
 

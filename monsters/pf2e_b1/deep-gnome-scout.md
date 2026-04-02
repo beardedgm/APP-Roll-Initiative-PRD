@@ -6,14 +6,19 @@ n, small, gnome, humanoid
 ---
 
 **Perception** +7
+
 **Languages** gnomish, undercommon
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** -1
+
 **Items** light pick, sling (20 bullets)
 
 ---
 
 **AC** 17
+
 **Fort** +7, **Ref** +9, **Will** +5
+
 **HP** 18
 
 ---
@@ -21,6 +26,7 @@ n, small, gnome, humanoid
 Speed 20 feet
 
 **Melee** light pick +7 (agile, fatal <d8>); **Damage** 1d4+2 piercing
+
 **Melee** sling +9 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+1 bludgeoning
 
 **Innate primal Spells** (DC 14)

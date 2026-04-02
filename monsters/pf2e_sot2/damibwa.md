@@ -6,15 +6,19 @@ n, medium, animal
 ---
 
 **Perception** +12
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** -4, **WIS** +2, **CHA** +0
 
 **Deep Breath** A damibwa can hold its breath for 5 minutes.
+
 **Echolocation** A damibwa's hearing is a precise sense at the listed range.
 
 ---
 
 **AC** 21
+
 **Fort** +11, **Ref** +14, **Will** +8
+
 **HP** 62
 
 ---
@@ -27,4 +31,5 @@ Speed 30 feet, swim 30 feet
 **Success** The damibwa moves up to half its swim Speed, dragging the grabbed creature along with it.
 **Failure** The damibwa doesn't move and the creature isn't dragged.
 **Critical Failure** The damibwa no longer has the creature grabbed.
+
 **Predatory Dive** ◆◆ (move) **Requirements** The damibwa is in or adjacent to water; The damibwa moves up to double its swim Speed, descending at least 10 feet, and then makes a jaws Strike. If it was undetected at the start of predatory dive, it remains undetected until after the attack.

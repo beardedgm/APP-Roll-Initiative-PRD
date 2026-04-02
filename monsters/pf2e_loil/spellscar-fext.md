@@ -6,7 +6,9 @@ uncommon, ce, medium, undead
 ---
 
 **Perception** +15
+
 **Languages** common, necril
+
 **STR** +6, **DEX** +2, **CON** +1, **INT** +4, **WIS** +4, **CHA** +2
 
 **Magic Sense** (arcane) The spellscar fext detects the source and school of each source of magic within 30 feet as an imprecise sense.
@@ -14,9 +16,13 @@ uncommon, ce, medium, undead
 ---
 
 **AC** 25
+
 **Fort** +12, **Ref** +15, **Will** +17; +1 status versus magic
+
 **HP** 100; (negative healing), regeneration 10 (deactivated by glass)
+
 **Immunities** death effects, disease, paralyzed, poison, unconscious
+
 **Weaknesses** glass 10
 
 **Unstable Feedback** ◈ **Trigger** A creature Casts a Spell on the spellscar fext, and the spellscar fext either succeeds at its saving throw versus the spell or the caster fails the spell attack roll against the spellscar fext; The caster of the triggering spell undergoes a wellspring surge (Secrets of Magic 250). Even if several spellscar fexts use this reaction after succeeding at a save against the same spell, the spellcaster undergoes only one wellspring surge.

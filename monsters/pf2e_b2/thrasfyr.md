@@ -6,7 +6,9 @@ rare, ce, huge, beast, fire, tane
 ---
 
 **Perception** +31
+
 **Languages** aklo, sylvan
+
 **STR** +9, **DEX** +5, **CON** +9, **INT** -3, **WIS** +6, **CHA** +6
 
 **Planar Acclimation** The thrasfyr always treats the plane it is located on as its home plane.
@@ -14,9 +16,13 @@ rare, ce, huge, beast, fire, tane
 ---
 
 **AC** 40
+
 **Fort** +35, **Ref** +28, **Will** +27
+
 **HP** 350; regeneration 25 (deactivated by acid or cold)
+
 **Immunities** fire
+
 **Weaknesses** cold
 
 ---

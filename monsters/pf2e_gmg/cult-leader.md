@@ -6,14 +6,19 @@ n, medium, human, humanoid
 ---
 
 **Perception** +14
+
 **Languages** common
+
 **STR** +0, **DEX** +4, **CON** +1, **INT** +4, **WIS** +3, **CHA** +5
+
 **Items** indecipherable book of sigils, ceremonial robes, +1 staff
 
 ---
 
 **AC** 23
+
 **Fort** +12, **Ref** +15, **Will** +18
+
 **HP** 95
 
 **Protect the Master!** ◈ (auditory, concentrate, emotion, linguistic, mental, move) **Trigger** The cult leader is targeted with an attack, and a lower-ranking cultist is adjacent to them; The cult leader orders their cultist to leap in front of the attack. The cultist and cult leader swap places, and the cultist becomes the target of the attack. If the cultist has Fanatical Frenzy or a similar ability, they can activate it as a reaction if they take damage from the triggering attack.

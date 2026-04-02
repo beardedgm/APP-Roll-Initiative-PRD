@@ -6,6 +6,7 @@ medium, mindless
 ---
 
 **Perception** +0
+
 **STR** -4, **DEX** +2, **CON** +0, **INT** -5, **WIS** +0, **CHA** +0
 
 **Invisible** An unseen servant is invisible, though it normally doesn't Sneak, so it is usually only hidden.
@@ -13,9 +14,13 @@ medium, mindless
 ---
 
 **AC** 13
+
 **Fort** +0, **Ref** +4, **Will** +0
+
 **HP** 4
+
 **Immunities** disease, mental, non-magical attacks, paralysis, poison, precision, unconscious
+
 **Resistances** all damage 5
 
 ---

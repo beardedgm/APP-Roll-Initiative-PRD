@@ -6,7 +6,9 @@ n, tiny, amphibious, beast
 ---
 
 **Perception** +8
+
 **Languages** common
+
 **STR** +0, **DEX** +4, **CON** +1, **INT** -2, **WIS** +3, **CHA** +1
 
 **Moisture Dependency** A coral capuchin must stay in or near water, or else it begins drying out. It can remain away from water for only 12 hours before its membranous skin starts to turn brittle and flake, taking 1d6 damage per hour until it is doused in water.
@@ -14,7 +16,9 @@ n, tiny, amphibious, beast
 ---
 
 **AC** 16
+
 **Fort** +4, **Ref** +9, **Will** +8
+
 **HP** 20
 
 ---

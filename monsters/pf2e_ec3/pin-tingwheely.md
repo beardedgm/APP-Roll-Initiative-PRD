@@ -6,18 +6,25 @@ unique, cn, small, fey, sprite
 ---
 
 **Perception** +19
+
 **Languages** common
+
 **STR** +0, **DEX** +6, **CON** +1, **INT** +2, **WIS** +3, **CHA** +4
+
 **Items** +1 striking longbow (60 arrows), shortsword
 
 ---
 
 **AC** 29
+
 **Fort** +15, **Ref** +20, **Will** +17; +1 status to all saves vs. magic
+
 **HP** 95
+
 **Weaknesses** cold iron 10
 
 **Evasion** When Pin rolls a success on a Reflex save, he gets a critical success instead.
+
 **Nimble Dodge** ◈ **Trigger** Pin is targeted with a melee or ranged attack by an attacker he can see; Pin gains a +2 circumstance bonus to AC against the triggering attack.
 
 ---
@@ -25,6 +32,7 @@ unique, cn, small, fey, sprite
 Speed 15 feet, fly 45 feet
 
 **Melee** shortsword +18 (agile, finesse, magical, versatile <S>); **Damage** 1d6+10 piercing
+
 **Melee** longbow +19 (deadly <d10>, magical, range increment <100 feet>, volley <20 feet>); **Damage** 2d6+10 piercing
 
 **Innate primal Spells** (DC 26)

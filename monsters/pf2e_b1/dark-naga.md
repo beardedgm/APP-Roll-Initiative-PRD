@@ -6,13 +6,17 @@ uncommon, le, large, aberration
 ---
 
 **Perception** +15
+
 **Languages** aklo, common
+
 **STR** +2, **DEX** +6, **CON** +4, **INT** +3, **WIS** +2, **CHA** +3
 
 ---
 
 **AC** 27
+
 **Fort** +15, **Ref** +17, **Will** +15
+
 **HP** 115
 
 **Guarded Thoughts** (abjuration, occult) Dark nagas are immune to any form of mind reading.

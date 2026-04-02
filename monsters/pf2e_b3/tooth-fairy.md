@@ -6,15 +6,21 @@ ce, tiny, fey
 ---
 
 **Perception** +6
+
 **Languages** sylvan
+
 **STR** -2, **DEX** +3, **CON** +0, **INT** -1, **WIS** +2, **CHA** +1
+
 **Items** pliers
 
 ---
 
 **AC** 15
+
 **Fort** +2, **Ref** +7, **Will** +4
+
 **HP** 8
+
 **Weaknesses** cold iron 2
 
 **Plaque Burst** When killed, a tooth fairy bursts into sticky, foul-smelling white dust. Each creature with 5 feet must succeed at a DC 16 Fortitude save or become sickened 1 (sickened 2 on a critical failure).

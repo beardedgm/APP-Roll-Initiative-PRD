@@ -6,14 +6,19 @@ uncommon, ln, small, earth, elemental
 ---
 
 **Perception** +10
+
 **Languages** common, terran
+
 **STR** -1, **DEX** +2, **CON** +1, **INT** +4, **WIS** +3, **CHA** +2
 
 ---
 
 **AC** 19
+
 **Fort** +8, **Ref** +9, **Will** +10
+
 **HP** 35
+
 **Immunities** bleed, paralyzed, poison, sleep
 
 **Earth Block** ◈ **Trigger** The kasesh takes physical damage while adjacent to stone or earth; A rampart of stone or crystal emerges from a nearby surface, blocking the attack. The kasesh gains resistance physical 5 against the attack.

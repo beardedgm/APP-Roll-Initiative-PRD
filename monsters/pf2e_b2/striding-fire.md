@@ -6,7 +6,9 @@ cn, medium, elemental, fire
 ---
 
 **Perception** +14
+
 **Languages** ignan
+
 **STR** +2, **DEX** +5, **CON** +3, **INT** +0, **WIS** +4, **CHA** +1
 
 **Smoke Vision** The striding fire ignores the concealed condition from smoke.
@@ -14,8 +16,11 @@ cn, medium, elemental, fire
 ---
 
 **AC** 24
+
 **Fort** +11, **Ref** +17, **Will** +14
+
 **HP** 115
+
 **Immunities** bleed, fire, poison, paralyzed, sleep
 
 ---

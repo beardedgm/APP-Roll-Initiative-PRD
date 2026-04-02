@@ -2,10 +2,13 @@
 
 *Large Aberration, Chaotic Evil*
 
-- **Armor Class:** 16
-- **Hit Points:** 76 (9d10 + 27)
-- **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +0 (10)
+**Armor Class:** 16
+
+**Hit Points:** 76 (9d10 + 27)
+
+**Speed:** 30 ft., Swim 30 ft.
+
+**Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Immunities**: Poison; Poisoned
-- **Skills**: Perception +4
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Understands Deep Speech but can't speak
-- **CR** 4 (XP 1,100; PB +2)
+**Immunities**: Poison; Poisoned
+
+**Skills**: Perception +4
+
+**Senses**: darkvision 60 ft.; Passive Perception 14
+
+**Languages**: Understands Deep Speech but can't speak
+
+**CR** 4 (XP 1,100; PB +2)
 
 ## Traits
 

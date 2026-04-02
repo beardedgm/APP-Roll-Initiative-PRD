@@ -2,10 +2,13 @@
 
 *Medium or Small Humanoid, Neutral*
 
-- **Armor Class:** 13
-- **Hit Points:** 11 (2d8 + 2)
-- **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+**Armor Class:** 13
+
+**Hit Points:** 11 (2d8 + 2)
+
+**Speed:** 30 ft.
+
+**Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 14 | +2 | +2 |
 | CHA | 11 | +0 | +0 |
 
-- **Skills**: Medicine +4, Religion +2
-- **Gear** Chain Shirt, Holy Symbol, Mace
-- **Senses**: Passive Perception 12
-- **Languages**: Common
-- **CR** 1/4 (XP 50; PB +2)
+**Skills**: Medicine +4, Religion +2
+
+**Gear** Chain Shirt, Holy Symbol, Mace
+
+**Senses**: Passive Perception 12
+
+**Languages**: Common
+
+**CR** 1/4 (XP 50; PB +2)
 
 ## Actions
 
@@ -30,7 +37,7 @@
 
 ***Spellcasting.*** The priest casts one of the following spells, using Wisdom as the spellcasting ability:
 
-- **At Will:** *Light*, *Thaumaturgy*
+**At Will:** *Light*, *Thaumaturgy*
 
 
 ## Bonus Actions

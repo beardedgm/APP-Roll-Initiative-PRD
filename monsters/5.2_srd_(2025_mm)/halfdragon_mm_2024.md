@@ -2,10 +2,13 @@
 
 *Medium Dragon, Neutral*
 
-- **Armor Class:** 18
-- **Hit Points:** 105 (14d8 + 42)
-- **Speed:** 40 ft.
-- **Initiative**: +5 (15)
+**Armor Class:** 18
+
+**Hit Points:** 105 (14d8 + 42)
+
+**Speed:** 40 ft.
+
+**Initiative**: +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 15 | +2 | +5 |
 | CHA | 14 | +2 | +2 |
 
-- **Resistances**: Damage type chosen for the Draconic Origin trait below
-- **Skills**: Athletics +7, Perception +5, Stealth +5
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 15
-- **Languages**: Common, Draconic
-- **CR** 5 (XP 1,800; PB +3)
+**Resistances**: Damage type chosen for the Draconic Origin trait below
+
+**Skills**: Athletics +7, Perception +5, Stealth +5
+
+**Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 15
+
+**Languages**: Common, Draconic
+
+**CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

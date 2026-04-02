@@ -6,14 +6,19 @@ uncommon, le, medium, human, humanoid
 ---
 
 **Perception** +8
+
 **Languages** common
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** +1, **WIS** +0, **CHA** +0
+
 **Items** black powder horn (Pathfinder Guns & Gears 169), chain shirt, dagger, flintlock pistol (20 rounds; Guns & Gears 153)
 
 ---
 
 **AC** 20
+
 **Fort** +11, **Ref** +14, **Will** +8
+
 **HP** 60
 
 ---
@@ -21,7 +26,9 @@ uncommon, le, medium, human, humanoid
 Speed 25 feet
 
 **Melee** dagger +14 (agile, finesse, thrown <10 feet>, versatile S); **Damage** 1d4+4 piercing
+
 **Melee** fist +13 (agile, nonlethal); **Damage** 1d4+3 bludgeoning
+
 **Melee** flintlock pistol +14 (concussive, fatal <d8>, range <40 feet>, reload <1>); **Damage** 1d4+4 piercing
 
 **Sneak Attack A Gilded** Gunner goon's Strikes deal 1d6 additional precision damage to flat-footed creatures.

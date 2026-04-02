@@ -6,15 +6,21 @@ unique, cg, medium, elf, human, humanoid
 ---
 
 **Perception** +12
+
 **Languages** celestial, charau-ka, common, draconic, elven, mwangi, sylvan
+
 **STR** +1, **DEX** +3, **CON** +0, **INT** +3, **WIS** +2, **CHA** +4
+
 **Items** black adder venom (2), +1 striking longbow (20 arrows), studded leather, verdant staff
 
 ---
 
 **AC** 23
+
 **Fort** +8, **Ref** +13, **Will** +12; +1 status to all saves vs. mental
+
 **HP** 74
+
 **Immunities** sleep
 
 ---
@@ -22,7 +28,9 @@ unique, cg, medium, elf, human, humanoid
 Speed 35 feet, climb 20 feet
 
 **Melee** vine lash +15 (agile, finesse, reach <15 feet>); **Damage** 2d6+4 bludgeoning
+
 **Melee** verdant staff +13 (magical, two-hand <d8>); **Damage** 1d4+4 bludgeoning
+
 **Melee** longbow +16 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+3 piercing plus black adder venom plus black adder venom
 
 **Spontaneous occult Spells** (DC 24), attack +14
@@ -32,5 +40,7 @@ Speed 35 feet, climb 20 feet
 **Innate primal Spells** (DC 24)
 
 **Arborean Arm** (primal) This magical limb functions in all ways as Nketiah's original arm. The arm can extend a vine to attack in melee, and using the arm, Nketiah has a climb Speed of 20 feet and Climbs as if she had master proficiency in Athletics. Finally, the arm's primal magic allows her to use the spells from her verdant staff as if she had all of those spells on her spell list.
+
 **Woodland Elf** Nketiah can move at half her Speed on a successful Climb check and at full Speed on a critical success. She can always Take Cover within forest terrain to gain cover, even if she's not next to a wall or obstacle.
+
 **Woodland Stride** Nketiah ignores terrain caused by plants.

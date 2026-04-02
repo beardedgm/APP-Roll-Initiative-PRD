@@ -6,15 +6,21 @@ le, medium, incorporeal, spirit, undead
 ---
 
 **Perception** +10
+
 **Languages** common
+
 **STR** -4, **DEX** +4, **CON** +3, **INT** +0, **WIS** +1, **CHA** +0
 
 ---
 
 **AC** 19
+
 **Fort** +9, **Ref** +12, **Will** +8
+
 **HP** 25; negative healing
+
 **Immunities** death effects, disease
+
 **Resistances** all damage 2
 
 **Delay Condition** The binumir's dual spirit takes longer to be affected by detrimental effects. When the binumir is the target of an effect that imparts the confused, controlled, fascinated, frightened, sickened, slowed, or stunned condition, the condition is automatically suppressed until the end of the binumir's next turn.
@@ -29,4 +35,5 @@ Speed fly 25 feet
 **Success** The target can't use reactions for 1 round.
 **Failure** The target is slowed|CRB|slowed 1 and can't use reactions for 1 minute as it sobs uncontrollably. It can attempt a new Will save to end the effect at the end of each of its turns.
 **Critical Failure** As failure, but the target can't make saves to end the effect.
+
 **Dual Assault** ◆◆◆ The binumir makes four Strikes; no more than two can be against the same target. These attacks count toward the binumir's multiple attack penalty, but the penalty doesn't increase until after all the attacks have been made.

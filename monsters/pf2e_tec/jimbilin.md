@@ -6,13 +6,17 @@ ne, small, halfling, humanoid
 ---
 
 **Perception** +12
+
 **STR** +2, **DEX** +3, **CON** +3, **INT** +2, **WIS** +5, **CHA** +3
+
 **Items** {@runeItem chain mail||+1 armor potency|}, {@item scorpion whip|EC1}, {@item wooden religious symbol}
 
 ---
 
 **AC** 21
+
 **Fort** +9, **Ref** +10, **Will** +14
+
 **HP** 62
 
 ---

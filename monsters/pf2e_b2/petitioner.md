@@ -6,12 +6,15 @@ medium, petitioner, varies
 ---
 
 **Perception** +7
+
 **STR** +2, **DEX** +2, **CON** +2, **INT** +2, **WIS** +2, **CHA** +2
 
 ---
 
 **AC** 15
+
 **Fort** +7, **Ref** +7, **Will** +7
+
 **HP** 22
 
 ---

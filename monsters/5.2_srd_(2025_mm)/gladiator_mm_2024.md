@@ -2,10 +2,13 @@
 
 *Medium or Small Humanoid, Neutral*
 
-- **Armor Class:** 16
-- **Hit Points:** 112 (15d8 + 45)
-- **Speed:** 30 ft.
-- **Initiative**: +5 (15)
+**Armor Class:** 16
+
+**Hit Points:** 112 (15d8 + 45)
+
+**Speed:** 30 ft.
+
+**Initiative**: +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 12 | +1 | +4 |
 | CHA | 15 | +2 | +2 |
 
-- **Skills**: Athletics +10, Performance +5
-- **Gear** Shield, Spear x 3, Studded Leather Armor
-- **Senses**: Passive Perception 11
-- **Languages**: Common
-- **CR** 5 (XP 1,800; PB +3)
+**Skills**: Athletics +10, Performance +5
+
+**Gear** Shield, Spear x 3, Studded Leather Armor
+
+**Senses**: Passive Perception 11
+
+**Languages**: Common
+
+**CR** 5 (XP 1,800; PB +3)
 
 ## Actions
 

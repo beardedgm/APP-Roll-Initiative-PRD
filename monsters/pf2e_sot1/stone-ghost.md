@@ -6,15 +6,21 @@ unique, ne, medium, human, humanoid, oread
 ---
 
 **Perception** +13
+
 **Languages** common, gnoll, terran
+
 **STR** +3, **DEX** +0, **CON** +4, **INT** +3, **WIS** +4, **CHA** +1
+
 **Items** leather armor, +1 morningstar, sling (10 bullets)
 
 ---
 
 **AC** 20
+
 **Fort** +11, **Ref** +9, **Will** +15
+
 **HP** 40
+
 **Resistances** all damage 5
 
 **Stone Spirit** Stone Ghost can pass through objects made of stone or soil, including walls. When inside an object, Stone Ghost can't perceive, attack, or interact with anything outside the object, and if he starts his turn inside an object, he is slowed|CRB|slowed 1.
@@ -24,6 +30,7 @@ unique, ne, medium, human, humanoid, oread
 Speed 25 feet
 
 **Melee** morningstar +15 (magical, versatile <P>); **Damage** 1d6+7 bludgeoning
+
 **Melee** sling +11 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+5 bludgeoning
 
 **Prepared primal Spells** (DC 22), attack +14

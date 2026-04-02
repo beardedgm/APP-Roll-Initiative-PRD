@@ -2,10 +2,13 @@
 
 *Large Dragon (Chromatic), Chaotic Evil*
 
-- **Armor Class:** 18
-- **Hit Points:** 178 (17d10 + 85)
-- **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+**Armor Class:** 18
+
+**Hit Points:** 178 (17d10 + 85)
+
+**Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
+
+**Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 11 | +0 | +4 |
 | CHA | 19 | +4 | +4 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +8, Stealth +4
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 18
-- **Languages**: Common, Draconic
-- **CR** 10 (XP 5,900; PB +4)
+**Immunities**: Fire
+
+**Skills**: Perception +8, Stealth +4
+
+**Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 18
+
+**Languages**: Common, Draconic
+
+**CR** 10 (XP 5,900; PB +4)
 
 ## Actions
 

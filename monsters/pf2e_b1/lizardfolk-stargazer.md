@@ -6,14 +6,19 @@ n, medium, humanoid, lizardfolk
 ---
 
 **Perception** +8
+
 **Languages** draconic, iruxi
+
 **STR** +2, **DEX** +2, **CON** +1, **INT** +0, **WIS** +4, **CHA** +0
+
 **Items** staff
 
 ---
 
 **AC** 17
+
 **Fort** +7, **Ref** +6, **Will** +10
+
 **HP** 30
 
 ---
@@ -21,7 +26,9 @@ n, medium, humanoid, lizardfolk
 Speed 25 feet, swim 20 feet
 
 **Melee** staff +8 (two-hand <d8>); **Damage** 1d6+2 bludgeoning
+
 **Melee** jaws +8; **Damage** 1d6+2 piercing
+
 **Melee** tail +8 (agile, finesse); **Damage** 1d4+2 bludgeoning
 
 **Prepared primal Spells** (DC 20), attack +10

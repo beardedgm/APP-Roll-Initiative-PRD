@@ -6,14 +6,19 @@ uncommon, n, small, air, earth, elemental
 ---
 
 **Perception** +3
+
 **Languages** auran, terran
+
 **STR** +1, **DEX** +4, **CON** +1, **INT** -2, **WIS** +0, **CHA** -1
 
 ---
 
 **AC** 17
+
 **Fort** +6, **Ref** +9, **Will** +5
+
 **HP** 16; fast healing 2 (in dust or sand)
+
 **Immunities** bleed, poison, paralyzed, sleep
 
 ---

@@ -6,13 +6,17 @@ le, small, humanoid, kobold
 ---
 
 **Perception** +8
+
 **STR** +0, **DEX** +4, **CON** +1, **INT** +0, **WIS** +3, **CHA** +1
+
 **Items** {@item crossbow} (20 {@item bolt (generic)||bolts}), {@item leather||leather armor}, {@item shortsword}
 
 ---
 
 **AC** 18
+
 **Fort** +5, **Ref** +9, **Will** +6
+
 **HP** 16
 
 ---
@@ -20,7 +24,9 @@ le, small, humanoid, kobold
 Speed 25 feet
 
 **Melee** shortsword +8 (agile, finesse, versatile <S>); **Damage** 1d6 piercing
+
 **Melee** crossbow +8 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
 
 **Hurried Retreat** ◆ If the kobold is adjacent to at least one enemy, the kobold Strides up to 30 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. The kobold must end this movement in a space that's not adjacent to an enemy.
+
 **Sneak Attack** The kobold scout deals an extra 1d6 damage to creatures that have the flat-footed condition.

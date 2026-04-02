@@ -6,14 +6,19 @@ unique, n, medium, elf, humanoid
 ---
 
 **Perception** +21
+
 **Languages** elven, hallit, mwangi, taldane, tien, vudrani
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** +4, **WIS** +0, **CHA** +5
+
 **Items** +1 striking composite longbow (20 arrows), +1 resilient explorer's clothing
 
 ---
 
 **AC** 33
+
 **Fort** +20, **Ref** +27, **Will** +23
+
 **HP** 190
 
 ---
@@ -21,6 +26,7 @@ unique, n, medium, elf, humanoid
 Speed 25 feet
 
 **Melee** fist +19 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+6 bludgeoning
+
 **Melee** composite longbow +23 (deadly <1d10>, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+11 piercing
 
 **Spontaneous occult Spells** (DC 34)

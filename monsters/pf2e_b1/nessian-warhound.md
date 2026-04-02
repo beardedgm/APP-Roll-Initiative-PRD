@@ -6,15 +6,21 @@ le, large, beast, fiend, fire
 ---
 
 **Perception** +19
+
 **Languages** infernal (can't speak any language)
+
 **STR** +6, **DEX** +5, **CON** +5, **INT** -2, **WIS** +4, **CHA** -2
 
 ---
 
 **AC** 28
+
 **Fort** +21, **Ref** +19, **Will** +16
+
 **HP** 150
+
 **Immunities** fire
+
 **Weaknesses** cold 10
 
 **Hellish Revenge** ◈ **Trigger** The Nessian warhound is critically hit by any Strike.; The Nessian warhound's Breath Weapon recharges. It can immediately use it as part of this reaction.

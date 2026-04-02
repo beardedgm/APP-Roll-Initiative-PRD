@@ -6,14 +6,19 @@ ce, large, giant, troll
 ---
 
 **Perception** +11
+
 **Languages** jotun
+
 **STR** +5, **DEX** +2, **CON** +6, **INT** -2, **WIS** +0, **CHA** -2
 
 ---
 
 **AC** 20
+
 **Fort** +17, **Ref** +11, **Will** +7
+
 **HP** 115; regeneration 20 (deactivated by acid or fire)
+
 **Weaknesses** fire 10
 
 **Attack of Opportunity** ◈
@@ -23,6 +28,7 @@ ce, large, giant, troll
 Speed 30 feet
 
 **Melee** jaws +14 (reach <10 feet>); **Damage** 2d10+5 piercing
+
 **Melee** claw +14 (agile, reach <10 feet>); **Damage** 2d8+5 slashing
 
 **Rend** ◆ (claw)

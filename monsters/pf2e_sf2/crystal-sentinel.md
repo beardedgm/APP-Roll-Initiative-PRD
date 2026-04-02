@@ -6,18 +6,25 @@ rare, n, large, construct, golem, mindless
 ---
 
 **Perception** +19
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
 
 **AC** 34
+
 **Fort** +24, **Ref** +22, **Will** +18
+
 **HP** 235
+
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see Golem Antimagic below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
+
 **Resistances** physical 15
 
 **Golem** Antimagic harmed by sonic (6d10, 2d8 from areas or persistent damage); healed by fire (area 2d10 HP); slowed by cold
+
 **Vulnerable to Shatter** A crystal sentinel is affected by the shatter spell as though it were an unattended object.
+
 **Spell Reflection** ◈ (abjuration, arcane) **Trigger** The crystal golem is targeted by a spell; As glass golem|B2.
 
 ---

@@ -6,14 +6,19 @@ ce, medium, gnoll, humanoid
 ---
 
 **Perception** +7
+
 **Languages** gnoll
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** -1, **WIS** +1, **CHA** +0
+
 **Items** battle axe, leather armor, shortbow (20 arrows)
 
 ---
 
 **AC** 18
+
 **Fort** +8, **Ref** +7, **Will** +7
+
 **HP** 29
 
 ---
@@ -21,8 +26,11 @@ ce, medium, gnoll, humanoid
 Speed 25 feet
 
 **Melee** battle axe +10 (sweep); **Damage** 1d8+4 slashing
+
 **Melee** jaws +10 (agile); **Damage** 1d8+2 piercing
+
 **Melee** shortbow +10 (deadly <1d10>, range increment <60 feet>); **Damage** 1d6 piercing
 
 **Pack Attack** A gnoll hunter deals 1d4 extra damage to any creature that's within reach of at least two of the gnoll hunter's allies.
+
 **Rugged Travel** A gnoll ignores the first square of terrain it moves into each time it Steps or Strides.

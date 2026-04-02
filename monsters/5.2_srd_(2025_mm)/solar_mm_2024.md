@@ -2,10 +2,13 @@
 
 *Large Celestial (Angel), Lawful Good*
 
-- **Armor Class:** 21
-- **Hit Points:** 297 (22d10 + 176)
-- **Speed:** 50 ft., Fly 150 ft. (hover)
-- **Initiative**: +20 (30)
+**Armor Class:** 21
+
+**Hit Points:** 297 (22d10 + 176)
+
+**Speed:** 50 ft., Fly 150 ft. (hover)
+
+**Initiative**: +20 (30)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 25 | +7 | +7 |
 | CHA | 30 | +10 | +10 |
 
-- **Immunities**: Poison, Radiant; Charmed, Exhaustion, Frightened, Poisoned
-- **Skills**: Perception +14
-- **Senses**: truesight 120 ft.; Passive Perception 24
-- **Languages**: All; telepathy 120 ft.
-- **CR** 21 (XP 33,000; PB +7)
+**Immunities**: Poison, Radiant; Charmed, Exhaustion, Frightened, Poisoned
+
+**Skills**: Perception +14
+
+**Senses**: truesight 120 ft.; Passive Perception 24
+
+**Languages**: All; telepathy 120 ft.
+
+**CR** 21 (XP 33,000; PB +7)
 
 ## Traits
 
@@ -43,8 +50,9 @@
 
 ***Spellcasting.*** The solar casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 25):
 
-- **At Will:** *Detect Evil and Good*
-- **1e/Day Each:** *Commune*, *Control Weather*, *Dispel Evil and Good*, *Resurrection*
+**At Will:** *Detect Evil and Good*
+
+**1e/Day Each:** *Commune*, *Control Weather*, *Dispel Evil and Good*, *Resurrection*
 
 ## Bonus Actions
 

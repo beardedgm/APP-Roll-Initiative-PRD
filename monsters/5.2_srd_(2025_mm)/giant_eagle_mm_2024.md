@@ -2,10 +2,13 @@
 
 *Large Celestial, Neutral Good*
 
-- **Armor Class:** 13
-- **Hit Points:** 26 (4d10 + 4)
-- **Speed:** 10 ft., Fly 80 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 13
+
+**Hit Points:** 26 (4d10 + 4)
+
+**Speed:** 10 ft., Fly 80 ft.
+
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 14 | +2 | +2 |
 | CHA | 10 | +0 | +0 |
 
-- **Resistances**: Necrotic, Radiant
-- **Skills**: Perception +6
-- **Senses**: Passive Perception 16
-- **Languages**: Celestial; understands Common and Primordial (Auran) but can't speak them
-- **CR** 1 (XP 200; PB +2)
+**Resistances**: Necrotic, Radiant
+
+**Skills**: Perception +6
+
+**Senses**: Passive Perception 16
+
+**Languages**: Celestial; understands Common and Primordial (Auran) but can't speak them
+
+**CR** 1 (XP 200; PB +2)
 
 ## Actions
 

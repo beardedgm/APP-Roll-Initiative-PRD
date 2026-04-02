@@ -6,14 +6,19 @@ cg, large, giant, humanoid
 ---
 
 **Perception** +15
+
 **Languages** common, jotun, sylvan
+
 **STR** +5, **DEX** +5, **CON** +4, **INT** +2, **WIS** +3, **CHA** +1
+
 **Items** hide armor, +1 composite longbow (20 arrows), shortsword
 
 ---
 
 **AC** 24
+
 **Fort** +17, **Ref** +14, **Will** +13
+
 **HP** 120
 
 **Catch Rock** ◈
@@ -23,12 +28,17 @@ cg, large, giant, humanoid
 Speed 35 feet
 
 **Melee** shortsword +17 (agile, reach <10 feet>, versatile <S>); **Damage** 1d8+11 piercing
+
 **Melee** fist +17 (agile, reach <10 feet>); **Damage** 1d6+11 bludgeoning
+
 **Melee** composite longbow +18 (deadly <d10>, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+8 piercing
+
 **Melee** rock +17 (brutal, range increment <120 feet>); **Damage** 2d6+11 bludgeoning
 
 **Innate primal Spells** (DC 23)
 
 **Piercing Shot** ◆ The wood giant shoots an arrow at a target so that it glances off the first target to strike another target behind the first one. The wood giant chooses two targets in a direct line, one of which must be giving lesser cover to the other, then makes a single ranged Strike with its longbow against both targets. This attack ignores the lesser cover the first target provides to the second. The wood giant rolls damage only once, and applies it to each creature it hits.
+
 **Piercing** Shot counts as two attacks for the wood giant's multiple attack penalty.
+
 **Throw Rock** ◆

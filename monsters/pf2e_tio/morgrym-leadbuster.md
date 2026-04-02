@@ -6,13 +6,17 @@ unique, ne, medium, dwarf, humanoid
 ---
 
 **Perception** +11
+
 **STR** +3, **DEX** +2, **CON** +2, **INT** +4, **WIS** +1, **CHA** -1
+
 **Items** spellbook (Advanced Arcanomnemonics), {@item material component pouch}, {@item staff}, wand of fear
 
 ---
 
 **AC** 19
+
 **Fort** +11, **Ref** +9, **Will** +14
+
 **HP** 50
 
 **Necromantic Defense** ◈ (arcane, concentrate, move) If Morgrym is targeted by an attack and a lower-level undead creature is adjacent to him, Morgrym and the undead swap places, and the undead becomes the target of the attack.
@@ -26,4 +30,5 @@ Speed 20 feet
 **Prepared arcane Spells** (DC 21), attack +13
 
 **Arcane Bond** (arcane) Once per day, Morgrym can drain his bonded item's power to choose a spell that he already cast today and cast it again. Recalling this spell is instant, but he still has to spend the actions to cast the spell.
+
 **Necromancer** Morgrym deals with the grim powers of life and death and has focused his magic to aid him in this endeavor. He can cast fear as a school spell.

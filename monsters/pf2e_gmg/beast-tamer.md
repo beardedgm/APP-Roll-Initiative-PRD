@@ -6,8 +6,11 @@ n, medium, human, humanoid
 ---
 
 **Perception** +12
+
 **Languages** common, druidic
+
 **STR** +2, **DEX** +1, **CON** +2, **INT** +0, **WIS** +4, **CHA** +2
+
 **Items** holly and mistletoe, leather armor, rope (50 feet), whip
 
 **Wild Empathy** The beast tamer can use Diplomacy to Make an Impression on animals and to make very simple Requests of them.
@@ -15,7 +18,9 @@ n, medium, human, humanoid
 ---
 
 **AC** 20
+
 **Fort** +10, **Ref** +7, **Will** +12
+
 **HP** 54
 
 ---

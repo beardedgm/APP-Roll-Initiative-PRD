@@ -6,14 +6,19 @@ le, medium, beast, fiend, fire
 ---
 
 **Perception** +9
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** -2, **WIS** +2, **CHA** -2
 
 ---
 
 **AC** 19
+
 **Fort** +9, **Ref** +10, **Will** +7
+
 **HP** 40
+
 **Immunities** fire
+
 **Weaknesses** cold 5
 
 ---
@@ -23,4 +28,5 @@ Speed 40 feet
 **Melee** jaws +13 (magical); **Damage** 1d8 + 4 piercing plus 1d6 evil and 1d6 fire
 
 **Breath Weapon** ◆ (divine, evocation, fire) The hell hound breathes flames that deal 4d6 fire damage to all creatures in a 15-foot cone. Each affected creature must attempt a DC 19 basic Reflex save. The hell hound can't use Breath Weapon again for 1d4 rounds. If the hell hound would take fire damage or is the target of a fire effect, its Breath Weapon recharges.
+
 **Evil Damage** The hell hound's evil damage harms only characters of a good alignment.

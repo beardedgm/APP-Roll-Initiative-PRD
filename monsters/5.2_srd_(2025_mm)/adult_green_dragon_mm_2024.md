@@ -2,10 +2,13 @@
 
 *Huge Dragon (Chromatic), Lawful Evil*
 
-- **Armor Class:** 19
-- **Hit Points:** 207 (18d12 + 90)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +11 (21)
+**Armor Class:** 19
+
+**Hit Points:** 207 (18d12 + 90)
+
+**Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
+**Initiative**: +11 (21)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 15 | +2 | +7 |
 | CHA | 18 | +4 | +4 |
 
-- **Immunities**: Poison; Poisoned
-- **Skills**: Deception +9, Perception +12, Persuasion +9, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
-- **Languages**: Common, Draconic
-- **CR** 15 (XP 13,000, or 15,000 in lair)
+**Immunities**: Poison; Poisoned
+
+**Skills**: Deception +9, Perception +12, Persuasion +9, Stealth +6
+
+**Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
+
+**Languages**: Common, Draconic
+
+**CR** 15 (XP 13,000, or 15,000 in lair)
 
 ## Traits
 
@@ -39,8 +46,9 @@
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
-- **At Will:** *Detect Magic*, *Mind Spike*
-- **1/Day Each:** *Geas*
+**At Will:** *Detect Magic*, *Mind Spike*
+
+**1/Day Each:** *Geas*
 
 ## Legendary Actions
 

@@ -6,19 +6,27 @@ unique, cn, large, cold, humanoid
 ---
 
 **Perception** +25
+
 **Languages** erutaki, jotun
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** +2, **WIS** +5, **CHA** +0
+
 **Items** {@runeItem greataxe||+2 weapon potency||greater striking|}
 
 **Frostbite Runes** Ainamuuren is marked by the runes of the saumen kar, a gift tied to their ancient curse. Ainamuuren gains a +1 status bonus to saving throws against evil and necromancy spells and effects (indicated below). He can sense the presence of evil undead as a pervasive taste of oily corruption in the air. This is a vague sense that allows him to know when such a creature is within 60 feet, though he can't precisely pinpoint their location with this sense. This sense also extends to living creatures who have the negative healing ability, like dhampir.
+
 **Snowblind** Ainamuuren can Hide and Sneak during even light snowfall, even if it wouldn't be thick enough to normally grant concealment.
 
 ---
 
 **AC** 33
+
 **Fort** +25, **Ref** +22, **Will** +27; +1 status bonus to all saves against evil and necromancy spells and effects
+
 **HP** 259
+
 **Immunities** cold
+
 **Resistances** fire 20
 
 **Blizzard Evasion** ◈ **Trigger** Ainamuuren takes at least 40 points of physical damage from a single attack, and he isn't currently discorporated;; Ainamuuren discorporates into a whirling blizzard for 3 rounds. During this time, he gains resistance 10 to physical damage and weakness 10 to force damage. He gains a fly speed of 40 feet, but the only action he can take is to Fly. While discorporated, the first time each round that Ainamuuren enters another creature's space or a creature enters Ainamuuren's space, that creature takes 4d8 cold damage and must succeed at a DC 34 Fortitude save or be stunned 1. At the start of his turn, Ainamuuren can end this effect as a free action.
@@ -28,6 +36,7 @@ unique, cn, large, cold, humanoid
 Speed 35 feet
 
 **Melee** greataxe +29 (cold, sweep); **Damage** 3d12+11 slashing plus 1d8 cold
+
 **Melee** horns +28 (agile, cold); **Damage** 3d10+11 piercing plus 1d8 cold and Knockdown plus Knockdown
 
 **Innate primal Spells** (DC 34)

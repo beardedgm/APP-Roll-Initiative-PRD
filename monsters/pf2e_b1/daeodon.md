@@ -6,12 +6,15 @@ n, large, animal
 ---
 
 **Perception** +12
+
 **STR** +6, **DEX** +0, **CON** +3, **INT** -4, **WIS** +2, **CHA** -1
 
 ---
 
 **AC** 21
+
 **Fort** +13, **Ref** +9, **Will** +10
+
 **HP** 60
 
 **Ferocity** ◈

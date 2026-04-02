@@ -2,10 +2,13 @@
 
 *Large Beast (Dinosaur), Unaligned*
 
-- **Armor Class:** 13
-- **Hit Points:** 68 (8d10 + 24)
-- **Speed:** 20 ft., Swim 40 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 13
+
+**Hit Points:** 68 (8d10 + 24)
+
+**Speed:** 20 ft., Swim 40 ft.
+
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +19,11 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 5 | -3 | -3 |
 
-- **Skills**: Perception +3, Stealth +4
-- **Senses**: Passive Perception 13
-- **CR** 2 (XP 450; PB +2)
+**Skills**: Perception +3, Stealth +4
+
+**Senses**: Passive Perception 13
+
+**CR** 2 (XP 450; PB +2)
 
 ## Traits
 

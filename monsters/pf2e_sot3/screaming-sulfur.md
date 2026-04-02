@@ -6,7 +6,9 @@ uncommon, ne, huge, incorporeal, spirit
 ---
 
 **Perception** +22
+
 **Languages** common
+
 **STR** -5, **DEX** +7, **CON** +0, **INT** +3, **WIS** +7, **CHA** +3
 
 **Site Bound** A screaming sulfur becomes bound to the location where the people whose souls make up its form died. It can stray up to 1,000 feet from this site of death, or up to 100 feet from the edges of any waterway associated with its death, whichever distance is shorter.
@@ -14,12 +16,17 @@ uncommon, ne, huge, incorporeal, spirit
 ---
 
 **AC** 27
+
 **Fort** +16, **Ref** +20, **Will** +20
+
 **HP** 125; negative healing, rejuvenation
+
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
+
 **Resistances** all damage 10
 
 **Agonizing Cries** (auditory, aura, emotion, mental) 30 feet. The screaming sulfur constantly shrieks with the pained wails of countless spirits. A living creature that enters or starts its turn in the aura must succeed at a DC 26 Will save or become frightened 1 as long as it remains in the aura (frightened 2 on a critical failure). A creature that succeeds is temporarily immune for 1 hour.
+
 **Rejuvenation** (divine, necromancy) Blessing the site where the screaming sulfur was formed and burying whatever dead remain allows the spirits within the screaming sulfur to move on to the afterlife, rendering it inert.
 
 ---

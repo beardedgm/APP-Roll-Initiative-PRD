@@ -6,13 +6,17 @@ uncommon, cg, tiny, beast, couatl
 ---
 
 **Perception** +12
+
 **Languages** common
+
 **STR** +1, **DEX** +4, **CON** +0, **INT** +0, **WIS** +3, **CHA** +3
 
 ---
 
 **AC** 19
+
 **Fort** +8, **Ref** +12, **Will** +11
+
 **HP** 45
 
 ---

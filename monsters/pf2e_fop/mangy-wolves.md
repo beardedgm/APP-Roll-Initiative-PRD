@@ -6,12 +6,15 @@ n, medium, animal
 ---
 
 **Perception** +5
+
 **STR** +1, **DEX** +2, **CON** +0, **INT** -4, **WIS** +1, **CHA** -2
 
 ---
 
 **AC** 15
+
 **Fort** +4, **Ref** +6, **Will** +3
+
 **HP** 8
 
 ---

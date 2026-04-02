@@ -6,13 +6,17 @@ n, medium, fungus, mindless
 ---
 
 **Perception** +8
+
 **STR** +4, **DEX** +0, **CON** +3, **INT** -5, **WIS** +1, **CHA** -2
 
 ---
 
 **AC** 17
+
 **Fort** +10, **Ref** +7, **Will** +6
+
 **HP** 60
+
 **Immunities** bleed, mental, poison, fatigued, sleep, unconscious
 
 ---

@@ -6,14 +6,19 @@ rare, ln, medium, human, humanoid, nagaji
 ---
 
 **Perception** +23
+
 **Languages** aklo, nagaji, tien
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** +3, **WIS** +1, **CHA** +5
+
 **Items** +2 greater striking handwraps of mighty blows
 
 ---
 
 **AC** 34
+
 **Fort** +24, **Ref** +25, **Will** +23; +1 status to all saves vs. magic
+
 **HP** 220
 
 ---

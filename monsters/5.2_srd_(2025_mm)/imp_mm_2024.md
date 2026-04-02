@@ -2,10 +2,13 @@
 
 *Small Fiend (Devil), Lawful Evil*
 
-- **Armor Class:** 13
-- **Hit Points:** 21 (6d4 + 6)
-- **Speed:** 20 ft., Fly 40 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 13
+
+**Hit Points:** 21 (6d4 + 6)
+
+**Speed:** 20 ft., Fly 40 ft.
+
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,12 +19,17 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 14 | +2 | +2 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Poisoned
-- **Skills**: Deception +4, Insight +3, Stealth +5
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 11
-- **Languages**: Common, Infernal
-- **CR** 1 (XP 200; PB +2)
+**Resistances**: Cold
+
+**Immunities**: Fire, Poison; Poisoned
+
+**Skills**: Deception +4, Insight +3, Stealth +5
+
+**Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 11
+
+**Languages**: Common, Infernal
+
+**CR** 1 (XP 200; PB +2)
 
 ## Traits
 
@@ -36,5 +44,5 @@
 
 ***Invisibility.*** The imp casts *Invisibility* on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
-- **At Will:** *Invisibility*
+**At Will:** *Invisibility*
 

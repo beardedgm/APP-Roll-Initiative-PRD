@@ -2,10 +2,13 @@
 
 *Medium Fey (Goblinoid), Lawful Evil*
 
-- **Armor Class:** 18
-- **Hit Points:** 11 (2d8 + 2)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 18
+
+**Hit Points:** 11 (2d8 + 2)
+
+**Speed:** 30 ft.
+
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +19,13 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 9 | -1 | -1 |
 
-- **Gear** Half Plate Armor, Longbow, Longsword, Shield
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common, Goblin
-- **CR** 1/2 (XP 100; PB +2)
+**Gear** Half Plate Armor, Longbow, Longsword, Shield
+
+**Senses**: darkvision 60 ft.; Passive Perception 10
+
+**Languages**: Common, Goblin
+
+**CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

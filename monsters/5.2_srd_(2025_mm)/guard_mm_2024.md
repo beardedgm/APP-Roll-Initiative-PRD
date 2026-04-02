@@ -2,10 +2,13 @@
 
 *Medium or Small Humanoid, Neutral*
 
-- **Armor Class:** 16
-- **Hit Points:** 11 (2d8 + 2)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 16
+
+**Hit Points:** 11 (2d8 + 2)
+
+**Speed:** 30 ft.
+
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 10 | +0 | +0 |
 
-- **Skills**: Perception +2
-- **Gear** Chain Shirt, Shield, Spear
-- **Senses**: Passive Perception 12
-- **Languages**: Common
-- **CR** 1/8 (XP 25; PB +2)
+**Skills**: Perception +2
+
+**Gear** Chain Shirt, Shield, Spear
+
+**Senses**: Passive Perception 12
+
+**Languages**: Common
+
+**CR** 1/8 (XP 25; PB +2)
 
 ## Actions
 

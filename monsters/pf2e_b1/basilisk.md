@@ -6,12 +6,15 @@ n, medium, beast
 ---
 
 **Perception** +11
+
 **STR** +4, **DEX** -1, **CON** +5, **INT** -3, **WIS** +2, **CHA** +1
 
 ---
 
 **AC** 22
+
 **Fort** +14, **Ref** +8, **Will** +11
+
 **HP** 75
 
 **Petrifying Glance** ◈ (arcane, aura, transmutation, visual) **Trigger** A creature within 30 feet that the basilisk can see starts its turn.; The target must attempt a DC 20 Fortitude save. If it fails, it's slowed 1 for 1 minute as its body slowly stiffens.

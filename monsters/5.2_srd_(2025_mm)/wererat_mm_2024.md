@@ -2,10 +2,13 @@
 
 *Medium or Small Monstrosity, Lawful Evil*
 
-- **Armor Class:** 13
-- **Hit Points:** 60 (11d8 + 11)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +3 (13)
+**Armor Class:** 13
+
+**Hit Points:** 60 (11d8 + 11)
+
+**Speed:** 30 ft., Climb 30 ft.
+
+**Initiative**: +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 8 | -1 | -1 |
 
-- **Skills**: Perception +4, Stealth +5
-- **Gear** Hand Crossbow
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common (can't speak in rat form)
-- **CR** 2 (XP 450; PB +2)
+**Skills**: Perception +4, Stealth +5
+
+**Gear** Hand Crossbow
+
+**Senses**: darkvision 60 ft.; Passive Perception 14
+
+**Languages**: Common (can't speak in rat form)
+
+**CR** 2 (XP 450; PB +2)
 
 ## Actions
 

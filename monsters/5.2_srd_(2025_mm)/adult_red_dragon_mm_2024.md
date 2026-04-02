@@ -2,10 +2,13 @@
 
 *Huge Dragon (Chromatic), Chaotic Evil*
 
-- **Armor Class:** 19
-- **Hit Points:** 256 (19d12 + 133)
-- **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +12 (22)
+**Armor Class:** 19
+
+**Hit Points:** 256 (19d12 + 133)
+
+**Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
+
+**Initiative**: +12 (22)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 13 | +1 | +7 |
 | CHA | 23 | +6 | +6 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +13, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 23
-- **Languages**: Common, Draconic
-- **CR** 17 (XP 18,000, or 20,000 in lair)
+**Immunities**: Fire
+
+**Skills**: Perception +13, Stealth +6
+
+**Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 23
+
+**Languages**: Common, Draconic
+
+**CR** 17 (XP 18,000, or 20,000 in lair)
 
 ## Traits
 
@@ -37,8 +44,9 @@
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 20, +12 to hit with spell attacks):
 
-- **At Will:** *Command*, *Detect Magic*, *Scorching Ray*
-- **1/Day Each:** *Fireball*
+**At Will:** *Command*, *Detect Magic*, *Scorching Ray*
+
+**1/Day Each:** *Fireball*
 
 ## Legendary Actions
 

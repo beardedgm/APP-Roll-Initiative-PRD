@@ -6,6 +6,7 @@ rare, n, tiny, beast
 ---
 
 **Perception** +7
+
 **STR** -3, **DEX** +0, **CON** +3, **INT** -2, **WIS** +3, **CHA** +0
 
 **Carbuncle Empathy** The carbuncle can telepathically send mild feelings and sensations to nearby creatures. It can't use this ability to communicate in language or hinder a target, but it might convey a feeling of dread or the scent of food cooking nearby.
@@ -13,10 +14,13 @@ rare, n, tiny, beast
 ---
 
 **AC** 16
+
 **Fort** +8, **Ref** +3, **Will** +6
+
 **HP** 20
 
 **Easy to Influence** Any mental spell can affect a carbuncle, regardless of creature type limitations. Against a suggestion spell, a carbuncle always gets an outcome one degree of success worse than it rolled on its saving throw.
+
 **Fatal Faker** ◈ (arcane, conjuration, teleportation) **Trigger** The carbuncle takes damage; The carbuncle feigns death by teleporting away and leaving a replica of its corpse behind, creating a colorful flash of light and a croaking sound. The real carbuncle transports to a clear space within 30 feet that it can see, and a hollow shell remains behind. The fake body appears solid until it is touched, at which point it crumbles to dust.
 
 ---

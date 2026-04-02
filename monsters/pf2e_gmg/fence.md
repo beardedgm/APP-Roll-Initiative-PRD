@@ -6,8 +6,11 @@ ne, medium, human, humanoid
 ---
 
 **Perception** +11
+
 **Languages** common
+
 **STR** +0, **DEX** +3, **CON** +0, **INT** +4, **WIS** +2, **CHA** +4
+
 **Items** {@item dagger} (10), {@item lesser darkvision elixir}, {@item disguise kit}, {@item bird feather token}, {@item lesser smokestick} (2), {@item shortsword}, {@item thieves' tools}
 
 **Fence's Eye** Fences live by their ability to recognize a viable trade. They can use Underworld Lore to identify an item's value and Identify Magic on an item. They gain a +2 circumstance bonus to Underworld Lore checks when doing so, and to Underworld Lore checks to determine whether an item was stolen, whether a stolen item would be too recognizable to easily move, and who would be interested in purchasing such an item.
@@ -15,7 +18,9 @@ ne, medium, human, humanoid
 ---
 
 **AC** 20
+
 **Fort** +9, **Ref** +12, **Will** +15
+
 **HP** 70
 
 ---
@@ -23,9 +28,13 @@ ne, medium, human, humanoid
 Speed 25 feet
 
 **Melee** shortsword +12 (agile, finesse, versatile <S>); **Damage** 1d6+5 piercing
+
 **Melee** dagger +12 (agile, finesse, versatile <S>); **Damage** 1d4+5 piercing
+
 **Melee** dagger +12 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
 
 **Quick Rummage** ◆ The fence always has a few items close at hand. The fence Interacts to draw a weapon or item that takes a single action to activate, and then Strikes with the weapon or Activates the Item.
+
 **Scoundrel's Feint** When the fence successfully Feints, their target is flat-footed against the fence's attacks until the end of the fence's next turn. On a critical success, the target is flat-footed against all attacks until the end of the fence's next turn.
+
 **Sneak Attack** The fence deals an extra 2d6 precision damage to flat-footed creatures.

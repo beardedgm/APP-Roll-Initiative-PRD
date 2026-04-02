@@ -6,12 +6,15 @@ n, small, beast
 ---
 
 **Perception** +8
+
 **STR** -2, **DEX** +4, **CON** +1, **INT** -3, **WIS** +1, **CHA** -1
 
 ---
 
 **AC** 19
+
 **Fort** +8, **Ref** +11, **Will** +6
+
 **HP** 45
 
 ---

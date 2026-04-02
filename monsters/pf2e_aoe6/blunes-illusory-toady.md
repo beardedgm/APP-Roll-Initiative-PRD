@@ -6,19 +6,27 @@ rare, cn, medium, incorporeal, protean
 ---
 
 **Perception** +27
+
 **Languages** common, protean
+
 **STR** -5, **DEX** +7, **CON** +5, **INT** -3, **WIS** +4, **CHA** +8
 
 ---
 
 **AC** 36
+
 **Fort** +25, **Ref** +27, **Will** +22
+
 **HP** 150
+
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
+
 **Resistances** all 10
+
 **Weaknesses** lawful 15
 
 **Attack of Opportunity** ◈
+
 **Ferocious Devotion** (arcane, conjuration) When an illusory toady is destroyed, it dissolves into a puddle of cerulean quintessence before reforming to quasi-life once more. One round after it is destroyed, the toady starts re-forming. One round after that, the toady is completely healed and begins to fight once more. If damaged while it is re-forming but before the process is complete, the toady is destroyed but splits into two cerulean puddles that begin re-forming into two identical toadies 1 round later, each with half the maximum HP of the original toady (this is similar to an ochre jelly's Split ability [Bestiary 255]); the toadies begin re-forming 1 round later. The toadies are permanently destroyed only by disjunction or if Blune falls unconscious.
 
 ---

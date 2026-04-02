@@ -6,16 +6,23 @@ rare, ce, medium, fiend, qlippoth
 ---
 
 **Perception** +9
+
 **Languages** abyssal
+
 **STR** +2, **DEX** +3, **CON** +4, **INT** +2, **WIS** +2, **CHA** +1
 
 ---
 
 **AC** 19
+
 **Fort** +11, **Ref** +7, **Will** +9
+
 **HP** 45
+
 **Immunities** controlled, fear
+
 **Resistances** mental 3, physical 3
+
 **Weaknesses** lawful 3
 
 ---
@@ -30,4 +37,5 @@ Speed 30 feet
 **Success** The creature is flat-footed until its next turn.
 **Failure** The creature is sickened 1, and is flat-footed for as long as it's sickened.
 **Critical Failure** The creature is sickened 2 and is flat-footed for as long as it's sickened.
+
 **Rust Creep** (disease)

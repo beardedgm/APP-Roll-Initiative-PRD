@@ -6,6 +6,7 @@ n, medium, mindless, ooze
 ---
 
 **Perception** +3
+
 **STR** +2, **DEX** -5, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
 **Motion Sense** A sewer ooze can sense nearby motion through vibration and air movement, allowing it to fight as well as if it could see. However, a sewer ooze can't see, so effects that depend on vision or seeing don't work on it.
@@ -13,8 +14,11 @@ n, medium, mindless, ooze
 ---
 
 **AC** 8
+
 **Fort** +9, **Ref** +1, **Will** +3
+
 **HP** 40
+
 **Immunities** acid, critical hits, mental, sneak attack, unconscious
 
 ---

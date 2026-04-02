@@ -2,10 +2,13 @@
 
 *Large Monstrosity, Neutral Evil*
 
-- **Armor Class:** 10
-- **Hit Points:** 25 (3d10 + 9)
-- **Speed:** 10 ft., Fly 60 ft.
-- **Initiative**: +0 (10)
+**Armor Class:** 10
+
+**Hit Points:** 25 (3d10 + 9)
+
+**Speed:** 10 ft., Fly 60 ft.
+
+**Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 7 | -2 | -2 |
 
-- **Resistances**: Necrotic
-- **Skills**: Perception +3
-- **Senses**: darkvision 60 ft.; Passive Perception 13
-- **Languages**: Understands Common but can't speak
-- **CR** 1 (XP 200; PB +2)
+**Resistances**: Necrotic
+
+**Skills**: Perception +3
+
+**Senses**: darkvision 60 ft.; Passive Perception 13
+
+**Languages**: Understands Common but can't speak
+
+**CR** 1 (XP 200; PB +2)
 
 ## Traits
 

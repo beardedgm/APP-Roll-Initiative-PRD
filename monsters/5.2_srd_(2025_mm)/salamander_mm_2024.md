@@ -2,10 +2,13 @@
 
 *Large Elemental, Neutral Evil*
 
-- **Armor Class:** 15
-- **Hit Points:** 90 (12d10 + 24)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 15
+
+**Hit Points:** 90 (12d10 + 24)
+
+**Speed:** 30 ft., Climb 30 ft.
+
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 12 | +1 | +1 |
 
-- **Vulnerabilities**: Cold
-- **Immunities**: Fire
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Ignan)
-- **CR** 5 (XP 1,800; PB +3)
+**Vulnerabilities**: Cold
+
+**Immunities**: Fire
+
+**Senses**: darkvision 60 ft.; Passive Perception 10
+
+**Languages**: Primordial (Ignan)
+
+**CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

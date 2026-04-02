@@ -2,10 +2,13 @@
 
 *Huge Beast, Unaligned*
 
-- **Armor Class:** 14
-- **Hit Points:** 85 (9d12 + 27)
-- **Speed:** 30 ft., Swim 50 ft.
-- **Initiative**: -1 (9)
+**Armor Class:** 14
+
+**Hit Points:** 85 (9d12 + 27)
+
+**Speed:** 30 ft., Swim 50 ft.
+
+**Initiative**: -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +19,11 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 7 | -2 | -2 |
 
-- **Skills**: Stealth +5
-- **Senses**: Passive Perception 10
-- **CR** 5 (XP 1,800; PB +3)
+**Skills**: Stealth +5
+
+**Senses**: Passive Perception 10
+
+**CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

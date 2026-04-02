@@ -6,16 +6,23 @@ unique, le, medium, shadow, undead, vampire
 ---
 
 **Perception** +20
+
 **Languages** common, necril, shadowtongue, thassilonian
+
 **STR** +6, **DEX** +7, **CON** +5, **INT** +3, **WIS** +5, **CHA** +5
 
 ---
 
 **AC** 31
+
 **Fort** +20, **Ref** +24, **Will** +22
+
 **HP** 150; coffin restoration, fast healing 10, negative healing
+
 **Immunities** death effects, disease, paralyze, poison, sleep
+
 **Resistances** all physical 10
+
 **Weaknesses** strigoi weaknesses
 
 ---
@@ -30,5 +37,7 @@ Speed 25 feet
 **Success** 
 **Failure** 
 **Critical Failure** 
+
 **Drink Essence** ◆ (divine, necromancy) When drinking essence, Bishop Keppira D'Bear regains 15 HP.
+
 **Shadow Form** ◆ (concentrate, divine, shadow, transmutation) As strigoi.

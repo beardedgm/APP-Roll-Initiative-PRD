@@ -2,10 +2,13 @@
 
 *Huge Beast (Dinosaur), Unaligned*
 
-- **Armor Class:** 14
-- **Hit Points:** 114 (12d12 + 36)
-- **Speed:** 50 ft.
-- **Initiative**: -1 (9)
+**Armor Class:** 14
+
+**Hit Points:** 114 (12d12 + 36)
+
+**Speed:** 50 ft.
+
+**Initiative**: -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,8 +19,9 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Senses**: Passive Perception 10
-- **CR** 5 (XP 1,800; PB +3)
+**Senses**: Passive Perception 10
+
+**CR** 5 (XP 1,800; PB +3)
 
 ## Actions
 

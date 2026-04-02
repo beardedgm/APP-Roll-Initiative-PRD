@@ -6,15 +6,21 @@ uncommon, n, large, animal, swarm
 ---
 
 **Perception** +16
+
 **STR** +2, **DEX** +6, **CON** +4, **INT** -5, **WIS** +3, **CHA** -2
 
 ---
 
 **AC** 26
+
 **Fort** +16, **Ref** +20, **Will** +13
+
 **HP** 125
+
 **Immunities** precision, swarm mind
+
 **Resistances** bludgeoning 5, piercing 8, slashing 8
+
 **Weaknesses** area damage 8, splash damage 8
 
 ---

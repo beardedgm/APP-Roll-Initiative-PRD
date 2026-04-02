@@ -6,17 +6,23 @@ unique, ng, medium, minion, monitor, spirit
 ---
 
 **Perception** +27
+
 **Languages** arcadian
+
 **STR** +5, **DEX** +5, **CON** +3, **INT** +2, **WIS** +4, **CHA** +2
 
 ---
 
 **AC** 36
+
 **Fort** +26, **Ref** +30, **Will** +25
+
 **HP** 300
+
 **Weaknesses** force 15, positive 15
 
 **Mantis Ambush** ◈ **Trigger** A creature within Grandfather; Mantis's reach is hit by an ally's melee attack
+
 **Grandfather** Mantis makes a claw Strike against the triggering creature.
 
 ---

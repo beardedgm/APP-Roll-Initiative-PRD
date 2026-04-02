@@ -6,14 +6,19 @@ n, medium, human, humanoid
 ---
 
 **Perception** +6
+
 **Languages** common
+
 **STR** +2, **DEX** +1, **CON** +3, **INT** +0, **WIS** +2, **CHA** +0
+
 **Items** {@item hammer}, {@item lantern (generic)||lantern}, miner's harness (functions as {@item leather||leather armor}), {@item pick}, {@item piton} (5)
 
 ---
 
 **AC** 14
+
 **Fort** +7, **Ref** +5, **Will** +4
+
 **HP** 20
 
 ---

@@ -2,10 +2,13 @@
 
 *Large Plant, Unaligned*
 
-- **Armor Class:** 15
-- **Hit Points:** 110 (13d10 + 39)
-- **Speed:** 30 ft., Swim 20 ft.
-- **Initiative**: -1 (9)
+**Armor Class:** 15
+
+**Hit Points:** 110 (13d10 + 39)
+
+**Speed:** 30 ft., Swim 20 ft.
+
+**Initiative**: -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 5 | -3 | -3 |
 
-- **Resistances**: Cold, Fire
-- **Immunities**: Lightning; Deafened, Exhaustion
-- **Skills**: Stealth +3
-- **Senses**: blindsight 60 ft.; Passive Perception 10
-- **CR** 5 (XP 1,800; PB +3)
+**Resistances**: Cold, Fire
+
+**Immunities**: Lightning; Deafened, Exhaustion
+
+**Skills**: Stealth +3
+
+**Senses**: blindsight 60 ft.; Passive Perception 10
+
+**CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

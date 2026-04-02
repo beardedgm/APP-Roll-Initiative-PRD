@@ -6,8 +6,11 @@ le, medium, devil, fiend
 ---
 
 **Perception** +32
+
 **Languages** abyssal, celestial, common, draconic, infernal
+
 **STR** +7, **DEX** +8, **CON** +6, **INT** +4, **WIS** +7, **CHA** +9
+
 **Items** +2 resilient glamered full plate
 
 **Indomitable Oration** Any creature capable of comprehending speech understands the deimavigga, as if they constantly spoke in all languages at once.
@@ -15,9 +18,13 @@ le, medium, devil, fiend
 ---
 
 **AC** 40
+
 **Fort** +27, **Ref** +29, **Will** +32
+
 **HP** 285
+
 **Immunities** fire
+
 **Resistances** physical 15
 
 **Whispers of Discord** ◈ **Trigger** A creature within 60 feet is targeted by a spell that would restore Hit Points or provide a status bonus (the deimavigga automatically recognizes such effects); The deimavigga whispers disturbing lies, audible only to the target, to shake the target's faith in the spell's caster. The target must attempt a DC 43 Will save. **Critical Success** The target disbelieves the lies and receives the intended benefit of the spell; the target becomes temporarily immune to Whispers of Discord for 24 hours.
@@ -34,7 +41,9 @@ Speed 30 feet, fly 40 feet
 **Innate divine Spells** (DC 42), attack +34
 
 **Boundless Reach** (conjuration, divine, teleportation) A deimavigga's razor-sharp claws can slice through reality, allowing them to make claw Strikes and use spells with a range of touch against any creature they can see directly or via divination magic. A creature targeted this way can retaliate until the start of the deimavigga's next turn; it can target the devil's claws as if the devil were physically present and adjacent to the target, though the claws are concealed.
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The deimavigga can take on the appearance of any humanoid. This doesn't change their Speed or attack and damage bonuses with Strikes but might change the damage type their Strikes deal (typically to bludgeoning).
+
 **Whisper Earworm** ◆ (divination, divine, emotion, mental) The deimavigga whispers a terrifying multiversal truth to one adjacent creature, shaking its faith in reality and divinity. The target must attempt a DC 43 Will save. Celestials and fiends gain a +2 status bonus to this save. **Critical Success** The target is unaffected and temporarily immune to Whisper Earworm for 24 hours.
 **Success** The target is unaffected.
 **Failure** The next time the target rests, it ruminates on the deimavigga's words instead of sleeping or otherwise resting and awakens fatigued. The target also becomes drained 1 and stupefied 1 until it's no longer fatigued.

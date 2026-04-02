@@ -2,10 +2,13 @@
 
 *Huge Dragon (Metallic), Lawful Good*
 
-- **Armor Class:** 19
-- **Hit Points:** 243 (18d12 + 126)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +14 (24)
+**Armor Class:** 19
+
+**Hit Points:** 243 (18d12 + 126)
+
+**Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
+**Initiative**: +14 (24)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 15 | +2 | +8 |
 | CHA | 24 | +7 | +7 |
 
-- **Immunities**: Fire
-- **Skills**: Insight +8, Perception +14, Persuasion +13, Stealth +8
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 24
-- **Languages**: Common, Draconic
-- **CR** 17 (XP 18,000, or 20,000 in lair)
+**Immunities**: Fire
+
+**Skills**: Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 24
+
+**Languages**: Common, Draconic
+
+**CR** 17 (XP 18,000, or 20,000 in lair)
 
 ## Traits
 
@@ -41,8 +48,9 @@
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21, +13 to hit with spell attacks):
 
-- **At Will:** *Detect Magic*, *Guiding Bolt*, *Shapechange*
-- **1e/Day Each:** *Flame Strike*, *Zone of Truth*
+**At Will:** *Detect Magic*, *Guiding Bolt*, *Shapechange*
+
+**1e/Day Each:** *Flame Strike*, *Zone of Truth*
 
 ## Legendary Actions
 

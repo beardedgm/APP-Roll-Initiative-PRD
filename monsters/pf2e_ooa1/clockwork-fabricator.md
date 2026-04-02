@@ -6,7 +6,9 @@ uncommon, n, medium, clockwork, construct, mindless
 ---
 
 **Perception** +8
+
 **STR** +6, **DEX** +3, **CON** +2, **INT** -5, **WIS** +3, **CHA** -5
+
 **Items** artisan's tools
 
 **Wind-Up** 24 hours, DC 19, standby
@@ -14,10 +16,15 @@ uncommon, n, medium, clockwork, construct, mindless
 ---
 
 **AC** 19
+
 **Fort** +10, **Ref** +11, **Will** +9
+
 **HP** 50
+
 **Immunities** death effects, diseased, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
+
 **Resistances** physical 4
+
 **Weaknesses** electricity 4, orichalcum 4
 
 ---
@@ -32,4 +39,5 @@ Speed 25 feet
 - Ranged 1 nail gun +11 (agile, range <10 feet>), Damage 2d8 piercing
 - Melee 1 pneumatic chisel +14, Damage 2d8+6 piercing
 - Ranged 1 towing anchor +11 (thrown <30 feet>), Damage 1d4+6 piercing
+
 **Pull** ◆ **Requirements** The clockwork fabricator's last action was a successful towing anchor Strike; The clockwork fabricator reels in the anchor and attempts an Athletics check against the target's Fortitude DC. On a success, the clockwork fabricator pulls the target into a free square adjacent to it. This movement is forced movement.

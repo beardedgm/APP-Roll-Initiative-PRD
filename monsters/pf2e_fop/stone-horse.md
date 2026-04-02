@@ -6,12 +6,15 @@ unique, n, large, animal
 ---
 
 **Perception** +6
+
 **STR** +4, **DEX** +1, **CON** +5, **INT** -4, **WIS** +2, **CHA** -1
 
 ---
 
 **AC** 16
+
 **Fort** +11, **Ref** +5, **Will** +8
+
 **HP** 30
 
 ---

@@ -2,10 +2,13 @@
 
 *Small Monstrosity, Unaligned*
 
-- **Armor Class:** 11
-- **Hit Points:** 22 (5d6 + 5)
-- **Speed:** 20 ft., Fly 40 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 11
+
+**Hit Points:** 22 (5d6 + 5)
+
+**Speed:** 20 ft., Fly 40 ft.
+
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +19,11 @@
 | WIS | 13 | +1 | +1 |
 | CHA | 5 | -3 | -3 |
 
-- **Immunities**: Petrified
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **CR** 1/2 (XP 100; PB +2)
+**Immunities**: Petrified
+
+**Senses**: darkvision 60 ft.; Passive Perception 11
+
+**CR** 1/2 (XP 100; PB +2)
 
 ## Actions
 

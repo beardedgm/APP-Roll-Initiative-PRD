@@ -6,13 +6,17 @@ uncommon, cg, tiny, dragon
 ---
 
 **Perception** +16
+
 **Languages** common, draconic, sylvan
+
 **STR** -2, **DEX** +4, **CON** +0, **INT** +2, **WIS** +0, **CHA** +2
 
 ---
 
 **AC** 18
+
 **Fort** +5, **Ref** +12, **Will** +11
+
 **HP** 30
 
 ---

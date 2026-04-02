@@ -2,10 +2,13 @@
 
 *Medium Elemental, Neutral*
 
-- **Armor Class:** 19
-- **Hit Points:** 84 (8d8 + 48)
-- **Speed:** 20 ft., Burrow 20 ft.
-- **Initiative**: +0 (10)
+**Armor Class:** 19
+
+**Hit Points:** 84 (8d8 + 48)
+
+**Speed:** 20 ft., Burrow 20 ft.
+
+**Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 10 | +0 | +0 |
 | CHA | 11 | +0 | +0 |
 
-- **Immunities**: Poison; Paralyzed, Petrified, Poisoned
-- **Skills**: Perception +6, Stealth +6
-- **Senses**: darkvision 60 ft., tremorsense 60 ft.; Passive Perception 16
-- **Languages**: Primordial (Terran)
-- **CR** 5 (XP 1,800; PB +3)
+**Immunities**: Poison; Paralyzed, Petrified, Poisoned
+
+**Skills**: Perception +6, Stealth +6
+
+**Senses**: darkvision 60 ft., tremorsense 60 ft.; Passive Perception 16
+
+**Languages**: Primordial (Terran)
+
+**CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

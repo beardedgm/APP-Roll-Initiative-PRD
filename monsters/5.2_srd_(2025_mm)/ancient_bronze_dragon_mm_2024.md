@@ -2,10 +2,13 @@
 
 *Gargantuan Dragon (Metallic), Lawful Good*
 
-- **Armor Class:** 22
-- **Hit Points:** 444 (24d20 + 192)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +14 (24)
+**Armor Class:** 22
+
+**Hit Points:** 444 (24d20 + 192)
+
+**Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
+**Initiative**: +14 (24)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 17 | +3 | +10 |
 | CHA | 25 | +7 | +7 |
 
-- **Immunities**: Lightning
-- **Skills**: Insight +10, Perception +17, Stealth +7
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
-- **Languages**: Common, Draconic
-- **CR** 22 (XP 41,000, or 50,000 in lair)
+**Immunities**: Lightning
+
+**Skills**: Insight +10, Perception +17, Stealth +7
+
+**Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
+
+**Languages**: Common, Draconic
+
+**CR** 22 (XP 41,000, or 50,000 in lair)
 
 ## Traits
 
@@ -41,8 +48,9 @@
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 22, +14 to hit with spell attacks):
 
-- **At Will:** *Detect Magic*, *Guiding Bolt*, *Shapechange*, *Speak with Animals*, *Thaumaturgy*
-- **1e/Day Each:** *Detect Thoughts*, *Control Water*, *Scrying*, *Water Breathing*
+**At Will:** *Detect Magic*, *Guiding Bolt*, *Shapechange*, *Speak with Animals*, *Thaumaturgy*
+
+**1e/Day Each:** *Detect Thoughts*, *Control Water*, *Scrying*, *Water Breathing*
 
 ## Legendary Actions
 

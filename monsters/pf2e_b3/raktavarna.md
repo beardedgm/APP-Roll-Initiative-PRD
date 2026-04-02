@@ -6,14 +6,19 @@ uncommon, le, tiny, fiend, rakshasa
 ---
 
 **Perception** +6
+
 **Languages** common, infernal, undercommon
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +1, **WIS** +1, **CHA** +2
 
 ---
 
 **AC** 16
+
 **Fort** +5, **Ref** +9, **Will** +6
+
 **HP** 14
+
 **Weaknesses** good 3
 
 ---
@@ -25,6 +30,9 @@ Speed 20 feet, swim 20 feet, climb 20 feet
 **Innate occult Spells** (DC 16)
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The raktavarna takes on the appearance of a Tiny inanimate object. If, while transformed, the raktavarna takes any action other than the purely mental (such as Recall Knowledge), they immediately revert to their original form. Until then, they can use Deception to Impersonate the object.
+
 **Designate Master** A raktavarna can designate a creature as their master using a 10-minute invocation in which the master must participate. The raktavarna can revoke this status at any time.
+
 **Master's Eyes** As a 3-action activity with the concentrate trait, a raktavarna's master can observe the world through the raktavarna's eyes, instead of their own. This uses the raktavarna's Perception and darkvision. Each round, the master must spend a single action, which also has the concentrate trait, to maintain the connection. This ability functions at any range, even on different planes of existence. If the raktavarna dies while their master is using this ability, the master is stunned 5.
+
 **Raktavarna Venom** (poison)

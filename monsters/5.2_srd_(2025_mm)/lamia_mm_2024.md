@@ -2,10 +2,13 @@
 
 *Large Fiend, Chaotic Evil*
 
-- **Armor Class:** 13
-- **Hit Points:** 97 (13d10 + 26)
-- **Speed:** 40 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 13
+
+**Hit Points:** 97 (13d10 + 26)
+
+**Speed:** 40 ft.
+
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +19,13 @@
 | WIS | 15 | +2 | +2 |
 | CHA | 16 | +3 | +3 |
 
-- **Skills**: Deception +7, Insight +4, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Abyssal, Common
-- **CR** 4 (XP 1,100; PB +2)
+**Skills**: Deception +7, Insight +4, Stealth +5
+
+**Senses**: darkvision 60 ft.; Passive Perception 12
+
+**Languages**: Abyssal, Common
+
+**CR** 4 (XP 1,100; PB +2)
 
 ## Actions
 
@@ -31,8 +37,9 @@
 
 ***Spellcasting.*** The lamia casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-- **At Will:** *Disguise Self*, *Minor Illusion*
-- **1e/Day Each:** *Geas*, *Major Image*, *Scrying*
+**At Will:** *Disguise Self*, *Minor Illusion*
+
+**1e/Day Each:** *Geas*, *Major Image*, *Scrying*
 
 ## Bonus Actions
 

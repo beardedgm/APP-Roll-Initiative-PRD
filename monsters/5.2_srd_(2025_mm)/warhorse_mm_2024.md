@@ -2,10 +2,13 @@
 
 *Large Beast, Unaligned*
 
-- **Armor Class:** 11
-- **Hit Points:** 19 (3d10 + 3)
-- **Speed:** 60 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 11
+
+**Hit Points:** 19 (3d10 + 3)
+
+**Speed:** 60 ft.
+
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,8 +19,9 @@
 | WIS | 12 | +1 | +3 |
 | CHA | 7 | -2 | -2 |
 
-- **Senses**: Passive Perception 11
-- **CR** 1/2 (XP 100; PB +2)
+**Senses**: Passive Perception 11
+
+**CR** 1/2 (XP 100; PB +2)
 
 ## Actions
 

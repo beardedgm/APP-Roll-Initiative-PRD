@@ -6,14 +6,19 @@ ce, medium, humanoid
 ---
 
 **Perception** +12
+
 **Languages** common
+
 **STR** +1, **DEX** +4, **CON** +0, **INT** -1, **WIS** +1, **CHA** +4
+
 **Items** club
 
 ---
 
 **AC** 22
+
 **Fort** +9, **Ref** +15, **Will** +12
+
 **HP** 68
 
 ---
@@ -21,7 +26,9 @@ ce, medium, humanoid
 Speed 20 feet, fly 60 feet
 
 **Melee** club +12; **Damage** 1d6+4 bludgeoning
+
 **Melee** talon +15 (agile, finesse); **Damage** 2d6+4 slashing
+
 **Melee** club +15 (thrown <10 feet>); **Damage** 1d6+4 bludgeoning
 
 **Captivating Song** ◆ (auditory, concentrate, enchantment, incapacitation, mental, primal) The harpy cries out an eerie, compelling melody. Each non-harpy creature within a 300-foot aura must attempt a DC 21 Will save to avoid becoming captivated by the harpy's song. The effect lasts for 1 round, but if the harpy uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Captivating Song, that creature is temporarily immune to Captivating Songs for 24 hours. **Success** The creature is unaffected.

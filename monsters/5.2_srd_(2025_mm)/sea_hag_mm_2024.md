@@ -2,10 +2,13 @@
 
 *Medium Fey, Chaotic Evil*
 
-- **Armor Class:** 14
-- **Hit Points:** 52 (7d8 + 21)
-- **Speed:** 30 ft., Swim 40 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 14
+
+**Hit Points:** 52 (7d8 + 21)
+
+**Speed:** 30 ft., Swim 40 ft.
+
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +19,11 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 13 | +1 | +1 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common, Giant, Primordial (Aquan)
-- **CR** 2 (XP 450; PB +2)
+**Senses**: darkvision 60 ft.; Passive Perception 11
+
+**Languages**: Common, Giant, Primordial (Aquan)
+
+**CR** 2 (XP 450; PB +2)
 
 ## Traits
 
@@ -35,5 +40,5 @@
 
 ***Illusory Appearance.*** The hag casts *Disguise Self*, using Constitution as the spellcasting ability (spell save DC 13). The spell's duration is 24 hours.
 
-- **At Will:** *Disguise Self*
+**At Will:** *Disguise Self*
 

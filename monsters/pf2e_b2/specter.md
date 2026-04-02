@@ -6,19 +6,27 @@ le, medium, incorporeal, undead
 ---
 
 **Perception** +15
+
 **Languages** common, necril
+
 **STR** -5, **DEX** +6, **CON** +4, **INT** +0, **WIS** +4, **CHA** +4
 
 ---
 
 **AC** 25
+
 **Fort** +13, **Ref** +17, **Will** +15
+
 **HP** 95; negative healing
+
 **Immunities** poison, precision, death effects, disease, paralyzed, unconscious
+
 **Resistances** all 5
 
 **Frightful Presence** (aura, emotion, fear, mental) 30 feet, DC 22
+
 **Pain Starvation** A specter that goes for more than a month without dealing negative damage to a living humanoid becomes desperate and almost feral. It changes alignment from lawful evil to chaotic evil, loses control of any corrupted thralls it might have, and becomes quickened. It can use its additional action only to make vile touch Strikes against humanoid targets. At the end of any turn in which it deals any amount of negative damage to a living humanoid, it reverts to lawful evil and is no longer quickened, but any thralls it lost control of remain free.
+
 **Sunlight Powerlessness** A specter caught in sunlight is clumsy 2 and slowed 2 for as long as it remains in the sunlight.
 
 ---

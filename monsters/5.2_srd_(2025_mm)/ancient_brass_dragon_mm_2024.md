@@ -2,10 +2,13 @@
 
 *Gargantuan Dragon (Metallic), Chaotic Good*
 
-- **Armor Class:** 20
-- **Hit Points:** 332 (19d20 + 133)
-- **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft.
-- **Initiative**: +12 (22)
+**Armor Class:** 20
+
+**Hit Points:** 332 (19d20 + 133)
+
+**Speed:** 40 ft., Burrow 40 ft., Fly 80 ft.
+
+**Initiative**: +12 (22)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 15 | +2 | +8 |
 | CHA | 22 | +6 | +6 |
 
-- **Immunities**: Fire
-- **Skills**: History +9, Perception +14, Persuasion +12, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 24
-- **Languages**: Common, Draconic
-- **CR** 20 (XP 25,000, or 33,000 in lair)
+**Immunities**: Fire
+
+**Skills**: History +9, Perception +14, Persuasion +12, Stealth +6
+
+**Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 24
+
+**Languages**: Common, Draconic
+
+**CR** 20 (XP 25,000, or 33,000 in lair)
 
 ## Traits
 
@@ -39,8 +46,9 @@
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 20):
 
-- **At Will:** *Detect Magic*, *Minor Illusion*, *Scorching Ray*, *Shapechange*, *Speak with Animals*
-- **1e/Day Each:** *Control Weather*, *Detect Thoughts*
+**At Will:** *Detect Magic*, *Minor Illusion*, *Scorching Ray*, *Shapechange*, *Speak with Animals*
+
+**1e/Day Each:** *Control Weather*, *Detect Thoughts*
 
 ## Legendary Actions
 

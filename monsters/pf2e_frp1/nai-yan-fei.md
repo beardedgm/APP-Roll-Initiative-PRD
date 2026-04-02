@@ -6,14 +6,19 @@ unique, ln, medium, human, humanoid
 ---
 
 **Perception** +36
+
 **Languages** celestial, elven, orc, sylvan, taldane, tengu, tien
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +7, **WIS** +3, **CHA** +5
+
 **Items** +3 major striking butterfly sword, greater hat of disguise, +2 greater resilient aristocrat's clothing
 
 ---
 
 **AC** 44
+
 **Fort** +32, **Ref** +34, **Will** +33
+
 **HP** 375
 
 ---
@@ -26,9 +31,12 @@ Speed 25 feet
 - Debilitation The target becomes enfeebled|CRB|enfeebled 1.
 - Debilitation The target can't flank other creatures, and it can't provide flanking for its allies.
 - Debilitation The target doesn't gain a circumstance bonus to AC from Raising a Shield, lesser cover, or standard cover; it gains only a +2 circumstance bonus to AC from greater cover or Taking Cover.
+
 **Master Strike** ◈ (incapacitation) **Trigger** Nai Yan Fei hits a flat-footed creature and deals damage; The target attempts a DC 39 Fortitude save. It then becomes immune to Nai Yan Fei's Master Strike for 1 day. **Critical Success** The target is unaffected.
 **Success** The target is enfeebled|CRB|enfeebled 2 until the end of Nai Yan Fei's next turn.
 **Failure** The target is paralyzed for 4 rounds.
 **Critical Failure** The target is paralyzed for 4 rounds, knocked unconscious for 2 hours, or killed (Nai Yan Fei's choice).
+
 **Quick Change** ◆ Nai Yan Fei adopts a mundane disguise, appearing as a nondescript human with a neutral alignment and a mundane occupation such as common laborer, farmer, or peasant. She can return to her typical persona as empress at any time by using Quick Change again.
+
 **Sneak Attack** Nai Yan Fei's Strikes deal an additional 4d6 precision damage to flat-footed creatures.

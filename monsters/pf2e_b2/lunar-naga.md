@@ -6,13 +6,17 @@ uncommon, n, large, aberration
 ---
 
 **Perception** +16
+
 **Languages** aklo, celestial, common
+
 **STR** +2, **DEX** +4, **CON** +4, **INT** +1, **WIS** +4, **CHA** +3
 
 ---
 
 **AC** 24
+
 **Fort** +15, **Ref** +16, **Will** +17
+
 **HP** 100
 
 ---
@@ -24,4 +28,5 @@ Speed 25 feet
 **Spontaneous primal Spells** (DC 24), attack +16
 
 **Hypnosis** ◆◆ (concentrate, enchantment, incapacitation, mental, primal, visual) **Frequency** {"unit":"day","number":1}; The lunar naga twists the coils of their serpentine body, causing the starlike motes on their scales to shift and move as they glow brighter, creating a mesmerizing swirl of light and darkness. All creatures within a 30-foot emanation must succeed at a DC 21 Will save or become fascinated until the end of the naga's next turn (on a critical failure, fascinated creatures drop whatever items they are carrying as well). The lunar naga can Sustain a Spell on Hypnosis. If the naga moves, affected creatures are compelled to remain within 30 feet of the naga and must spend each of its actions moving closer to the naga as expediently as possible on its next turn. If a creature is unable to end its turn within 30 feet of the naga, the effect ends for that creature.
+
 **Lunar Naga Venom** (poison, sleep)

@@ -6,13 +6,17 @@ uncommon, lg, medium, beast
 ---
 
 **Perception** +8
+
 **Languages** sylvan
+
 **STR** +1, **DEX** +3, **CON** +2, **INT** +1, **WIS** +4, **CHA** +2
 
 ---
 
 **AC** 18
+
 **Fort** +8, **Ref** +10, **Will** +11
+
 **HP** 30
 
 ---

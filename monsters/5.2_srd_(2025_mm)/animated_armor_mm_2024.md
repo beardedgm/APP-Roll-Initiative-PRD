@@ -2,10 +2,13 @@
 
 *Medium Construct, Unaligned*
 
-- **Armor Class:** 18
-- **Hit Points:** 33 (6d8 + 6)
-- **Speed:** 25 ft.
-- **Initiative**: +2 (12)
+**Armor Class:** 18
+
+**Hit Points:** 33 (6d8 + 6)
+
+**Speed:** 25 ft.
+
+**Initiative**: +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +19,11 @@
 | WIS | 3 | -4 | -4 |
 | CHA | 1 | -5 | -5 |
 
-- **Immunities**: Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: blindsight 60 ft.; Passive Perception 6
-- **CR** 1 (XP 200; PB +2)
+**Immunities**: Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+
+**Senses**: blindsight 60 ft.; Passive Perception 6
+
+**CR** 1 (XP 200; PB +2)
 
 ## Actions
 

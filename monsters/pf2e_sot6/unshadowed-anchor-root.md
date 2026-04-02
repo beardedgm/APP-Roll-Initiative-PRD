@@ -6,17 +6,23 @@ unique, ce, small, gnoll, humanoid
 ---
 
 **Perception** +33
+
 **Languages** amurrun, common, gnoll, iruxi, necril, sylvan
+
 **STR** +2, **DEX** +3, **CON** +4, **INT** +5, **WIS** +5, **CHA** -1
 
 ---
 
 **AC** 39
+
 **Fort** +30, **Ref** +27, **Will** +33
+
 **HP** 270
+
 **Resistances** acid 20
 
 **Shadow's Displeasure** When Anchor Root has fewer than 150 Hit Points, his shadow pulls at his essence to show the Vesicant Egg's displeasure. She looks pained and confused, and she becomes clumsy 1 and stupefied 1 until healed to 150 Hit Points or more. These conditions increase to 2 when below 100 Hit Points. When below 50 Hit Points, she falls unconscious.
+
 **Vesicated Shadow** Anchor Root's shadow has become corrupted via the power of the Vesicant Egg. Her shredded shadow grants him some control over acid and shadows. She gains a +4 status bonus to resist acid and shadow effects.
 
 ---

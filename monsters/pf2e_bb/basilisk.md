@@ -6,12 +6,15 @@ n, medium, beast
 ---
 
 **Perception** +11
+
 **STR** +4, **DEX** -1, **CON** +5, **INT** -3, **WIS** +2, **CHA** +1
 
 ---
 
 **AC** 22
+
 **Fort** +14, **Ref** +8, **Will** +11
+
 **HP** 75
 
 **Petrifying Glance** ◈ (arcane, transmutation) When a creature the basilisk can see within 30 feet starts its turn, the basilisk can use its reaction to glance at the creature. The creature must attempt a DC 20 Fortitude save. If it fails, it gains the slowed 1 condition for 1 minute as its body slowly stiffens.

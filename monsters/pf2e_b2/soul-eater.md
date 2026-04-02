@@ -6,18 +6,25 @@ uncommon, ne, medium, fiend
 ---
 
 **Perception** +15
+
 **Languages** daemonic
+
 **STR** +0, **DEX** +6, **CON** +4, **INT** -1, **WIS** +4, **CHA** +4
 
 **Caster Link** (detection, divine, divination) A conjured soul eater forms a mental link with its conjurer. While both are on the same plane, the soul eater knows the location of its conjurer per its find target ability. If the soul eater's target dies before the soul eater can drain its soul, or if the soul eater is defeated (but not destroyed) by the target, the soul eater returns to its conjurer and tries to kill them.
+
 **Find Target** (detection, divine, divination) When a soul eater is conjured to the Material Plane to find a specific creature, it gains the benefits of a 5th-level locate spell that isn't blocked by lead or running water. The conjurer must have seen the target and must speak the target's name while conjuring the soul eater in order to grant this ability.
 
 ---
 
 **AC** 26
+
 **Fort** +13, **Ref** +19, **Will** +15
+
 **HP** 80
+
 **Immunities** poison, precision, critical hits, disease, paralyzed, sleep
+
 **Weaknesses** good 10
 
 ---
@@ -30,4 +37,5 @@ Speed 25 feet, fly 60 feet
 **Success** The creature becomes doomed 1, or increases its doomed value by 1 if it was already doomed.
 **Failure** As success, but doomed 2.
 **Critical Failure** As success, but doomed 3.
+
 **Mind-Numbing Touch** (curse, divine, necromancy) When a soul eater hits a creature with its claw Strike, the creature must succeed at a DC 23 Fortitude save or become stupefied 1 (stupefied 2 on a critical failure). Further damage dealt by the soul eater increases the stupefied value by 1 on a failed save, to a maximum of stupefied 4. This condition value decreases by 1 each time the creature gets a full night's rest. As long as the creature is stupefied by a soul eater, rest does not decrease any doomed value that creature might have.

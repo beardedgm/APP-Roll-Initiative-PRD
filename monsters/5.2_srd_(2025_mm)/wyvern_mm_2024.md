@@ -2,10 +2,13 @@
 
 *Large Dragon, Unaligned*
 
-- **Armor Class:** 14
-- **Hit Points:** 127 (15d10 + 45)
-- **Speed:** 30 ft., Fly 80 ft.
-- **Initiative**: +0 (10)
+**Armor Class:** 14
+
+**Hit Points:** 127 (15d10 + 45)
+
+**Speed:** 30 ft., Fly 80 ft.
+
+**Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,9 +19,11 @@
 | WIS | 12 | +1 | +1 |
 | CHA | 6 | -2 | -2 |
 
-- **Skills**: Perception +4
-- **Senses**: darkvision 120 ft.; Passive Perception 14
-- **CR** 6 (XP 2,300; PB +3)
+**Skills**: Perception +4
+
+**Senses**: darkvision 120 ft.; Passive Perception 14
+
+**CR** 6 (XP 2,300; PB +3)
 
 ## Actions
 

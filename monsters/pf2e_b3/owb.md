@@ -6,7 +6,9 @@ uncommon, ne, medium, shadow
 ---
 
 **Perception** +13
+
 **Languages** caligni (can't speak any
+
 **STR** +4, **DEX** +5, **CON** +4, **INT** +0, **WIS** +3, **CHA** +3
 
 **Light Blindness**
@@ -14,8 +16,11 @@ uncommon, ne, medium, shadow
 ---
 
 **AC** 24
+
 **Fort** +14, **Ref** +15, **Will** +13
+
 **HP** 90
+
 **Immunities** cold
 
 ---
@@ -23,6 +28,7 @@ uncommon, ne, medium, shadow
 Speed 5 feet, fly 30 feet
 
 **Melee** claw +16 (agile, magical); **Damage** 1d8+7 slashing plus 1d8 cold
+
 **Melee** burning cold +17 (magical, range <120 feet>); **Damage** 2d8 cold plus 1d8 persistent cold
 
 **Innate occult Spells** (DC 23), attack +15

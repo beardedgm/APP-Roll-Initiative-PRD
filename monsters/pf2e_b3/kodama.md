@@ -6,8 +6,11 @@ ng, small, kami, spirit
 ---
 
 **Perception** +16
+
 **Languages** common
+
 **STR** +2, **DEX** +4, **CON** +5, **INT** +0, **WIS** +5, **CHA** +4
+
 **Items** spiritual rope
 
 **Ward** (abjuration, divine) Every kami is bound to a ward: a specific animal, plant, object, or location. A kami can merge with or emerge from their ward as a single action, which has the concentrate trait. While merged, the kami can observe their surroundings with their usual senses as well as the senses of their ward, but can't move, communicate with, or control their ward. Additionally, a kami merged with their ward recovers Hit Points each minute as if they spent an entire day resting. A kodama's ward is a specific tree.
@@ -15,9 +18,13 @@ ng, small, kami, spirit
 ---
 
 **AC** 21; 22 against evil creatures abilities
+
 **Fort** +12, **Ref** +11, **Will** +14
+
 **HP** 95
+
 **Resistances** evil 5
+
 **Weaknesses** cold iron 5
 
 **Distracting Gaze** (aura, divine, enchantment, visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 23 Will save. The kodama can activate or deactivate this aura by using a single action, which has the concentrate trait. **Success** The creature is unaffected.

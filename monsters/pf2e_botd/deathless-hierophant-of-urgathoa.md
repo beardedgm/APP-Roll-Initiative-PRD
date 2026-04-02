@@ -6,18 +6,25 @@ uncommon, ne, medium, undead
 ---
 
 **Perception** +15
+
 **Languages** common, necril
+
 **STR** +2, **DEX** +4, **CON** +0, **INT** +1, **WIS** +6, **CHA** +4
+
 **Items** +1 scythe, religious symbol of {@deity Urgathoa}
 
 ---
 
 **AC** 23
+
 **Fort** +13, **Ref** +13, **Will** +17
+
 **HP** 87; negative healing
+
 **Immunities** death effects, disease, paralyzed, poison, unconscious
 
 **Field of Undeath** (aura, divine, necromancy) 40 feet. Allies within the aura who have negative healing gain fast healing 4. When a creature within the aura would receive positive healing, it must succeed at a DC 5 flat check or receive no healing from the effect.
+
 **Chastise Heretic** ◈ (divine) **Trigger** A creature within 60 feet who the deathless hierophant can see and who doesn't worship Urgathoa casts a divine spell; The deathless hierophant attempts to counteract the triggering spell using their spell attack modifier and a counteract level of 4. If the spell is counteracted, the caster takes 1d10 persistent negative damage. If the deathless hierophant fails to counteract the spell, the caster is temporarily immune to further uses of this ability for 24 hours.
 
 ---

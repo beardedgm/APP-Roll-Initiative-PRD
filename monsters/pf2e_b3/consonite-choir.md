@@ -6,7 +6,9 @@ uncommon, n, gargantuan, earth, elemental, swarm
 ---
 
 **Perception** +23
+
 **Languages** terran
+
 **STR** +0, **DEX** +5, **CON** +8, **INT** -2, **WIS** +2, **CHA** +6
 
 **Echolocation** The consonite choir can use hearing as a precise sense at the listed range.
@@ -14,10 +16,15 @@ uncommon, n, gargantuan, earth, elemental, swarm
 ---
 
 **AC** 32
+
 **Fort** +27, **Ref** +22, **Will** +21
+
 **HP** 200
+
 **Immunities** precision, swarm mind
+
 **Resistances** bludgeoning 8, piercing 15, slashing 15
+
 **Weaknesses** area damage 8, splash damage 8
 
 **Resonant Chimes** (aura, evocation, sonic) 30 feet. The consonite choir's tones resonate within physical objects. A creature that begins its turn in the aura deals an additional 2d6 sonic damage on any Strike using a weapon.

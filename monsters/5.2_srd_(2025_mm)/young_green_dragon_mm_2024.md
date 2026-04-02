@@ -2,10 +2,13 @@
 
 *Large Dragon (Chromatic), Lawful Evil*
 
-- **Armor Class:** 18
-- **Hit Points:** 136 (16d10 + 48)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+**Armor Class:** 18
+
+**Hit Points:** 136 (16d10 + 48)
+
+**Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
+
+**Initiative**: +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 13 | +1 | +4 |
 | CHA | 15 | +2 | +2 |
 
-- **Immunities**: Poison; Poisoned
-- **Skills**: Deception +5, Perception +7, Stealth +4
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
-- **Languages**: Common, Draconic
-- **CR** 8 (XP 3,900; PB +3)
+**Immunities**: Poison; Poisoned
+
+**Skills**: Deception +5, Perception +7, Stealth +4
+
+**Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
+
+**Languages**: Common, Draconic
+
+**CR** 8 (XP 3,900; PB +3)
 
 ## Traits
 

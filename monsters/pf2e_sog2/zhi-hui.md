@@ -6,15 +6,21 @@ unique, lg, medium, ghost, incorporeal, spirit, undead
 ---
 
 **Perception** +18
+
 **Languages** aklo, common
+
 **STR** -5, **DEX** +4, **CON** +2, **INT** +4, **WIS** +6, **CHA** +6
 
 ---
 
 **AC** 23
+
 **Fort** +11, **Ref** +15, **Will** +17
+
 **HP** 85; negative healing|B2, rejuvenation (ghost)
+
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
+
 **Resistances** all damage 5
 
 **Rejuvenation** (divine, necromancy) Purifying the four statues and defeating Xin Yue in Kugaptee's Grave below the Tan Sugi monastery allows Zhi Hui's ghost to fade.

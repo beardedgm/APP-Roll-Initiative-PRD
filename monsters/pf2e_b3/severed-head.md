@@ -6,13 +6,17 @@ ne, tiny, mindless, undead
 ---
 
 **Perception** +6
+
 **STR** +1, **DEX** +2, **CON** +0, **INT** -5, **WIS** +2, **CHA** +0
 
 ---
 
 **AC** 15
+
 **Fort** +4, **Ref** +6, **Will** +4
+
 **HP** 7; negative healing
+
 **Immunities** mental, poison, death effects, disease, paralyzed, unconscious
 
 ---

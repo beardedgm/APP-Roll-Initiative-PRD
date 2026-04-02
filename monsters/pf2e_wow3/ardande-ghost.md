@@ -6,15 +6,21 @@ rare, medium, ghost, incorporeal, spirit, undead, unholy, wood
 ---
 
 **Perception** +21
+
 **Languages** muan
+
 **STR** -5, **DEX** +6, **CON** +3, **INT** +2, **WIS** +4, **CHA** +6
 
 ---
 
 **AC** 30
+
 **Fort** +22, **Ref** +24, **Will** +15
+
 **HP** 150; rejuvenation, void healing
+
 **Immunities** bleed, death effects, disease, paralyzed, poison, precision, unconscious
+
 **Resistances** all damage 10
 
 ---

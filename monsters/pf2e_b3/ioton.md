@@ -6,17 +6,23 @@ n, tiny, astral, incorporeal
 ---
 
 **Perception** +3
+
 **STR** -5, **DEX** +2, **CON** +3, **INT** +0, **WIS** -1, **CHA** -3
 
 **Absorbed Language** While a creature is taking persistent damage from the ioton, the ioton gains the ability to speak and understand one of that creature's languages, selected at random.
+
 **Thoughtsense** (divination, mental, occult) The ioton senses all non-mindless creatures at the listed range.
 
 ---
 
 **AC** 14
+
 **Fort** +7, **Ref** +6, **Will** +3
+
 **HP** 14
+
 **Immunities** poison, precision, disease
+
 **Resistances** all damage 2
 
 ---

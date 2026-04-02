@@ -2,10 +2,13 @@
 
 *Large Fiend (Devil), Lawful Evil*
 
-- **Armor Class:** 18
-- **Hit Points:** 199 (19d10 + 95)
-- **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +7 (17)
+**Armor Class:** 18
+
+**Hit Points:** 199 (19d10 + 95)
+
+**Speed:** 30 ft., Fly 60 ft.
+
+**Initiative**: +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +19,13 @@
 | WIS | 16 | +3 | +7 |
 | CHA | 18 | +4 | +8 |
 
-- **Immunities**: Fire, Poison; Poisoned
-- **Senses**: darkvision 150 ft. (unimpeded by magical darkness); Passive Perception 13
-- **Languages**: Infernal; telepathy 120 ft.
-- **CR** 11 (XP 7,200; PB +4)
+**Immunities**: Fire, Poison; Poisoned
+
+**Senses**: darkvision 150 ft. (unimpeded by magical darkness); Passive Perception 13
+
+**Languages**: Infernal; telepathy 120 ft.
+
+**CR** 11 (XP 7,200; PB +4)
 
 ## Traits
 

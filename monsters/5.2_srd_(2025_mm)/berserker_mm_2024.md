@@ -2,10 +2,13 @@
 
 *Medium or Small Humanoid, Neutral*
 
-- **Armor Class:** 13
-- **Hit Points:** 67 (9d8 + 27)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+**Armor Class:** 13
+
+**Hit Points:** 67 (9d8 + 27)
+
+**Speed:** 30 ft.
+
+**Initiative**: +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,10 +19,13 @@
 | WIS | 11 | +0 | +0 |
 | CHA | 9 | -1 | -1 |
 
-- **Gear** Greataxe, Hide Armor
-- **Senses**: Passive Perception 10
-- **Languages**: Common
-- **CR** 2 (XP 450; PB +2)
+**Gear** Greataxe, Hide Armor
+
+**Senses**: Passive Perception 10
+
+**Languages**: Common
+
+**CR** 2 (XP 450; PB +2)
 
 ## Traits
 

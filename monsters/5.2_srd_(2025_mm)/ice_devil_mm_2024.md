@@ -2,10 +2,13 @@
 
 *Large Fiend (Devil), Lawful Evil*
 
-- **Armor Class:** 18
-- **Hit Points:** 228 (24d10 + 96)
-- **Speed:** 40 ft.
-- **Initiative**: +7 (17)
+**Armor Class:** 18
+
+**Hit Points:** 228 (24d10 + 96)
+
+**Speed:** 40 ft.
+
+**Initiative**: +7 (17)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 15 | +2 | +7 |
 | CHA | 18 | +4 | +9 |
 
-- **Immunities**: Cold, Fire, Poison; Poisoned
-- **Skills**: Insight +7, Perception +7, Persuasion +9
-- **Senses**: blindsight 120 ft.; Passive Perception 17
-- **Languages**: Infernal; telepathy 120 ft.
-- **CR** 14 (XP 11,500; PB +5)
+**Immunities**: Cold, Fire, Poison; Poisoned
+
+**Skills**: Insight +7, Perception +7, Persuasion +9
+
+**Senses**: blindsight 120 ft.; Passive Perception 17
+
+**Languages**: Infernal; telepathy 120 ft.
+
+**CR** 14 (XP 11,500; PB +5)
 
 ## Traits
 
@@ -39,5 +46,5 @@
 
 ***Ice Wall (Recharge 6).*** The devil casts *Wall of Ice* (level 8 version), requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17).
 
-- **At Will:** 
+**At Will:** 
 

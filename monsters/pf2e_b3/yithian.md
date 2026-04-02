@@ -6,7 +6,9 @@ rare, ln, large, aberration
 ---
 
 **Perception** +21
+
 **Languages** aklo, common, yithian
+
 **STR** +4, **DEX** +1, **CON** +4, **INT** +6, **WIS** +5, **CHA** +1
 
 **Thoughtsense** (divination, mental, occult) The yithian senses all non-mindless creatures at the listed range.
@@ -14,7 +16,9 @@ rare, ln, large, aberration
 ---
 
 **AC** 27; {@ability all-around vision} abilities
+
 **Fort** +19, **Ref** +14, **Will** +20
+
 **HP** 112
 
 ---

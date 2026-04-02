@@ -2,10 +2,13 @@
 
 *Medium or Small Undead, Lawful Evil*
 
-- **Armor Class:** 16
-- **Hit Points:** 195 (23d8 + 92)
-- **Speed:** 40 ft., Climb 40 ft.
-- **Initiative**: +14 (24)
+**Armor Class:** 16
+
+**Hit Points:** 195 (23d8 + 92)
+
+**Speed:** 40 ft., Climb 40 ft.
+
+**Initiative**: +14 (24)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 15 | +2 | +7 |
 | CHA | 18 | +4 | +9 |
 
-- **Resistances**: Necrotic
-- **Skills**: Perception +7, Stealth +9
-- **Senses**: darkvision 120 ft.; Passive Perception 17
-- **Languages**: Common plus two other languages
-- **CR** 13 (XP 10,000, or 11,500 in lair)
+**Resistances**: Necrotic
+
+**Skills**: Perception +7, Stealth +9
+
+**Senses**: darkvision 120 ft.; Passive Perception 17
+
+**Languages**: Common plus two other languages
+
+**CR** 13 (XP 10,000, or 11,500 in lair)
 
 ## Traits
 
@@ -34,10 +41,13 @@ While it has 0 Hit Points in mist form, it can't return to its vampire form, and
 ***Vampire Weakness.*** The vampire has these weaknesses:
 
 
-- **Forbiddance**: The vampire can't enter a residence without an invitation from an occupant.
-- **Running Water**: The vampire takes 20 Acid damage if it ends its turn in running water.
-- **Stake to the Heart**: If a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition in its resting place, the vampire has the Paralyzed condition until the weapon is removed.
-- **Sunlight**: The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
+**Forbiddance**: The vampire can't enter a residence without an invitation from an occupant.
+
+**Running Water**: The vampire takes 20 Acid damage if it ends its turn in running water.
+
+**Stake to the Heart**: If a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition in its resting place, the vampire has the Paralyzed condition until the weapon is removed.
+
+**Sunlight**: The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
 
 
 ## Actions

@@ -6,14 +6,19 @@ cn, medium, dwarf, humanoid
 ---
 
 **Perception** +3
+
 **Languages** common, dwarven
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** -1, **WIS** +1, **CHA** -2
+
 **Items** battle axe, studded leather armor
 
 ---
 
 **AC** 14
+
 **Fort** +7, **Ref** +6, **Will** +3
+
 **HP** 13
 
 ---

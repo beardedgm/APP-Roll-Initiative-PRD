@@ -6,14 +6,19 @@ n, medium, human, humanoid
 ---
 
 **Perception** +7
+
 **Languages** common
+
 **STR** +1, **DEX** +2, **CON** +1, **INT** +2, **WIS** +3, **CHA** +3
+
 **Items** harrow deck, sickle
 
 ---
 
 **AC** 13
+
 **Fort** +3, **Ref** +6, **Will** +10
+
 **HP** 9
 
 ---

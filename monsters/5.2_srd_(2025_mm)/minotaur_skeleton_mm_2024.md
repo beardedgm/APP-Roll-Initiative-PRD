@@ -2,10 +2,13 @@
 
 *Large Undead, Lawful Evil*
 
-- **Armor Class:** 12
-- **Hit Points:** 45 (6d10 + 12)
-- **Speed:** 40 ft.
-- **Initiative**: +0 (10)
+**Armor Class:** 12
+
+**Hit Points:** 45 (6d10 + 12)
+
+**Speed:** 40 ft.
+
+**Initiative**: +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -16,11 +19,15 @@
 | WIS | 8 | -1 | -1 |
 | CHA | 5 | -3 | -3 |
 
-- **Vulnerabilities**: Bludgeoning
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Understands Abyssal but can't speak
-- **CR** 2 (XP 450; PB +2)
+**Vulnerabilities**: Bludgeoning
+
+**Immunities**: Poison; Exhaustion, Poisoned
+
+**Senses**: darkvision 60 ft.; Passive Perception 9
+
+**Languages**: Understands Abyssal but can't speak
+
+**CR** 2 (XP 450; PB +2)
 
 ## Actions
 
