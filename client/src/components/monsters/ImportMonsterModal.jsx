@@ -1,4 +1,4 @@
-import { useState, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Modal from '../ui/Modal';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
@@ -11,6 +11,13 @@ export default function ImportMonsterModal() {
   const modalData = useUIStore(s => s.modalData);
   const [gameSystem, setGameSystem] = useState(modalData?.gameSystem || '5e');
   const isPf2e = gameSystem === 'pf2e';
+
+  // Sync game system when modal is opened from a different tab
+  useEffect(() => {
+    if (modalData?.gameSystem) {
+      setGameSystem(modalData.gameSystem);
+    }
+  }, [modalData?.gameSystem]);
 
   const [tab, setTab] = useState('paste'); // 'paste' | 'upload'
   const [jsonText, setJsonText] = useState('');
