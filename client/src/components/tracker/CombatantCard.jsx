@@ -5,11 +5,11 @@ import HPBar from './HPBar';
 export default function CombatantCard({ combatant, isActive, onDragStart, onDragOver, onDragLeave, onDrop, onDragEnd, onViewStatBlock }) {
   const { id, name, initiative, type, hp, ac, status, monsterSlug } = combatant;
   const isDead = hp.current <= 0 || status === 'unconscious';
-  const isPreCombat = combatState === 'pre-combat';
-  const initDisplay = isPreCombat ? '—' : (Number.isInteger(initiative) ? initiative : initiative.toFixed(1));
   const removeCombatant = useCombatStore(s => s.removeCombatant);
   const applyDamageHeal = useCombatStore(s => s.applyDamageHeal);
   const combatState = useCombatStore(s => s.state);
+  const isPreCombat = combatState === 'pre-combat';
+  const initDisplay = isPreCombat ? '—' : (Number.isInteger(initiative) ? initiative : initiative.toFixed(1));
   const [hpInput, setHpInput] = useState('');
   const [inputError, setInputError] = useState(false);
   const [lastAction, setLastAction] = useState('damage');
