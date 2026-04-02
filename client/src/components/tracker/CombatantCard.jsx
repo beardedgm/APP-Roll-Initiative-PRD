@@ -43,6 +43,7 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
         <span className="drag-handle" title="Drag to reorder" role="img" aria-label="Drag to reorder">&#9776;</span>
         <div className="combatant-card__left">
           <span className="combatant-card__initiative">{initDisplay}</span>
+          {isActive && <span className="combatant-card__active-arrow" aria-hidden="true">&#9654;</span>}
           <div className="combatant-card__info">
             <span
               className={`combatant-card__name${isDead ? ' combatant-card__name--dead' : ''}${monsterSlug ? ' combatant-card__name--link' : ''}`}
