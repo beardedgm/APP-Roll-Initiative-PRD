@@ -141,15 +141,19 @@ export default function DiceRoller() {
               const label = buildEntryLabel(entry);
               let rollsHtml = '';
               if (entry.advantage !== 'normal') {
+                // Advantage/disadvantage: bold the used roll, strikethrough the other
                 const usedVal = entry.advantage === 'advantage' ? Math.max(...entry.rolls) : Math.min(...entry.rolls);
                 rollsHtml = entry.rolls.map((r, i) => (
                   r === usedVal ? <b key={i}>{r}</b> : <s key={i}>{r}</s>
                 )).reduce((acc, el, i) => i === 0 ? [el] : [...acc, ', ', el], []);
               } else if (entry.rolls.length > 1) {
+                // Multi-dice: show all individual rolls
                 rollsHtml = entry.rolls.join(', ');
               } else if (entry.rolls.length === 1 && entry.modifier !== 0) {
+                // Single die + modifier (e.g. d20+11): show what the die rolled
                 rollsHtml = `rolled ${entry.rolls[0]}`;
               }
+              // Single die, no modifier (e.g. plain d20): no breakdown needed
 
               return (
                 <li key={entry.id} className="dice-history__entry">
