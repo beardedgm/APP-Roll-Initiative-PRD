@@ -158,6 +158,11 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ gameSystem = '5e',
             onChange={e => handleSourceFilter(e.target.value)}
           >
             <option value="">All Sources</option>
+            {storeMonsters.filter(m => (m.gameSystem || '5e') === gameSystem).length > 0 && (
+              <option value="custom">
+                Custom ({storeMonsters.filter(m => (m.gameSystem || '5e') === gameSystem).length})
+              </option>
+            )}
             {sources.map(s => (
               <option key={s.key} value={s.key}>
                 {s.label} ({s.count})
@@ -221,7 +226,7 @@ const MonsterDatabase = forwardRef(function MonsterDatabase({ gameSystem = '5e',
                 AC {m.ac}
               </span>
               <span className="monster-search__source-badge">
-                {sourceBadges[m.sourceKey] || m.sourceKey}
+                {m.isCustom ? 'Custom' : (sourceBadges[m.sourceKey] || m.sourceKey)}
               </span>
             </div>
             <button
