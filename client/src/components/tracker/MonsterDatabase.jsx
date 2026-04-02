@@ -358,15 +358,33 @@ function MonsterDetail({ monster, loading, onBack, onRollDice, onDelete, onEdit 
 
 /**
  * Parse rendered HTML and wrap dice notation (e.g. "2d6 + 5", "1d20+4")
- * in clickable <span class="dice-roll"> elements.
+ * and standalone modifiers (e.g. "+10", "-1") in clickable <span> elements.
  */
 function makeDiceClickable(html) {
-  // Match patterns like: 2d6, 1d20 + 5, 3d8+2, 1d12 - 1
-  // Captures the full dice expression
-  return html.replace(
+  // Pass 1: Wrap full dice expressions (2d6, 1d20+5, 3d8-1)
+  let result = html.replace(
     /(\d+d\d+(?:\s*[+-]\s*\d+)?)/g,
     '<span class="dice-roll" data-dice="$1" title="Click to roll $1">$1</span>'
   );
+
+  // Pass 2: Wrap standalone modifiers (+10, -1) as d20 rolls.
+  // Split HTML into tags and text segments. Only process text segments,
+  // and skip text inside already-wrapped dice-roll spans.
+  let insideDiceSpan = 0;
+  result = result.replace(
+    /(<span[^>]*class="[^"]*dice-roll[^"]*"[^>]*>)|(<\/span>)|(<[^>]*>)|([+-]\d+)/g,
+    (match, diceOpen, spanClose, otherTag, mod) => {
+      if (diceOpen) { insideDiceSpan++; return diceOpen; }
+      if (spanClose) { if (insideDiceSpan > 0) insideDiceSpan--; return spanClose; }
+      if (otherTag) return otherTag;
+      // It's a modifier in text
+      if (insideDiceSpan > 0) return match; // inside an existing dice-roll span, skip
+      const diceExpr = `1d20${mod}`;
+      return `<span class="dice-roll mod-roll" data-dice="${diceExpr}" title="Click to roll ${diceExpr}">${mod}</span>`;
+    }
+  );
+
+  return result;
 }
 
 /**
