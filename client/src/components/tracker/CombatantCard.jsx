@@ -81,30 +81,27 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
         </button>
       </div>
 
-      <div className="combatant-card__hp">
-        <HPBar current={hp.current} max={hp.max} />
-        <div className="hp-controls">
-          <span className="hp-text">
-            {isDead && <>&skull; KO &mdash; </>}
-            {hp.current} / {hp.max} HP
-          </span>
-          <div className="hp-inputs">
-            <input
-              ref={inputRef}
-              type="number"
-              className={`hp-input${inputError ? ' input-error' : ''}`}
-              placeholder="10"
-              min={1}
-              max={9999}
-              value={hpInput}
-              onChange={e => setHpInput(e.target.value)}
-              onKeyDown={handleKeyDown}
-              title="Enter amount, then press Enter or click Dmg/Heal. Shift+Enter for opposite action."
-            />
-            <button className="btn btn--dmg" onClick={() => handleAction('damage')}>Dmg</button>
-            <button className="btn btn--heal" onClick={() => handleAction('heal')}>Heal</button>
-          </div>
+      <div className="combatant-card__hp-row">
+        <div className="combatant-card__hp-bar-wrap">
+          <HPBar current={hp.current} max={hp.max} />
         </div>
+        <span className="hp-text">
+          {isDead ? '\u2620' : ''} {hp.current}/{hp.max}
+        </span>
+        <input
+          ref={inputRef}
+          type="number"
+          className={`hp-input${inputError ? ' input-error' : ''}`}
+          placeholder="10"
+          min={1}
+          max={9999}
+          value={hpInput}
+          onChange={e => setHpInput(e.target.value)}
+          onKeyDown={handleKeyDown}
+          title="Enter amount, then press Enter or click Dmg/Heal. Shift+Enter for opposite action."
+        />
+        <button className="btn btn--dmg" onClick={() => handleAction('damage')}>Dmg</button>
+        <button className="btn btn--heal" onClick={() => handleAction('heal')}>Heal</button>
       </div>
     </div>
   );
