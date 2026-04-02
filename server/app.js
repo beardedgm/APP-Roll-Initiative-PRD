@@ -60,6 +60,7 @@ app.use(helmet({
           scriptSrc: [
             "'self'",
             'https://challenges.cloudflare.com',  // Turnstile
+            'https://us-assets.i.posthog.com',    // PostHog scripts
             "'unsafe-inline'",                     // PostHog inline scripts
           ],
           connectSrc: [
@@ -73,8 +74,8 @@ app.use(helmet({
             'https://challenges.cloudflare.com',   // Turnstile iframe
           ],
           imgSrc: ["'self'", 'data:', 'blob:'],
-          styleSrc: ["'self'", "'unsafe-inline'"],
-          fontSrc: ["'self'"],
+          styleSrc: ["'self'", "'unsafe-inline'", 'https://fonts.googleapis.com'],
+          fontSrc: ["'self'", 'https://fonts.gstatic.com'],
           objectSrc: ["'none'"],
           upgradeInsecureRequests: [],
         },
