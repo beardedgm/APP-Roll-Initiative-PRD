@@ -5,11 +5,14 @@ import HPBar from './HPBar';
 export default function CombatantCard({ combatant, isActive, onDragStart, onDragOver, onDragLeave, onDrop, onDragEnd, onViewStatBlock }) {
   const { id, name, initiative, type, hp, ac, status, monsterSlug } = combatant;
   const isDead = hp.current <= 0 || status === 'unconscious';
-  const initDisplay = Number.isInteger(initiative) ? initiative : initiative.toFixed(1);
   const removeCombatant = useCombatStore(s => s.removeCombatant);
   const applyDamageHeal = useCombatStore(s => s.applyDamageHeal);
+  const combatState = useCombatStore(s => s.state);
+  const isPreCombat = combatState === 'pre-combat';
+  const initDisplay = isPreCombat ? '—' : (Number.isInteger(initiative) ? initiative : initiative.toFixed(1));
   const [hpInput, setHpInput] = useState('');
   const [inputError, setInputError] = useState(false);
+  const [lastAction, setLastAction] = useState('damage');
   const inputRef = useRef(null);
 
   function handleAction(action) {
@@ -21,11 +24,18 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
       return;
     }
     applyDamageHeal(id, action, amount);
+    setLastAction(action);
     setHpInput('');
   }
 
   function handleKeyDown(e) {
-    if (e.key === 'Enter') handleAction('damage');
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      const action = e.shiftKey
+        ? (lastAction === 'damage' ? 'heal' : 'damage')
+        : lastAction;
+      handleAction(action);
+    }
   }
 
   return (
@@ -42,7 +52,8 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
       <div className="combatant-card__header">
         <span className="drag-handle" title="Drag to reorder" role="img" aria-label="Drag to reorder">&#9776;</span>
         <div className="combatant-card__left">
-          <span className="combatant-card__initiative">{initDisplay}</span>
+          <span className={`combatant-card__initiative${isPreCombat ? ' combatant-card__initiative--dim' : ''}`}>{initDisplay}</span>
+          {isActive && <span className="combatant-card__active-arrow" aria-hidden="true">&#9654;</span>}
           <div className="combatant-card__info">
             <span
               className={`combatant-card__name${isDead ? ' combatant-card__name--dead' : ''}${monsterSlug ? ' combatant-card__name--link' : ''}`}
@@ -82,13 +93,13 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
               ref={inputRef}
               type="number"
               className={`hp-input${inputError ? ' input-error' : ''}`}
-              placeholder="Amt"
+              placeholder="10"
               min={1}
               max={9999}
               value={hpInput}
               onChange={e => setHpInput(e.target.value)}
               onKeyDown={handleKeyDown}
-              title="Enter amount then click Dmg or Heal"
+              title="Enter amount, then press Enter or click Dmg/Heal. Shift+Enter for opposite action."
             />
             <button className="btn btn--dmg" onClick={() => handleAction('damage')}>Dmg</button>
             <button className="btn btn--heal" onClick={() => handleAction('heal')}>Heal</button>

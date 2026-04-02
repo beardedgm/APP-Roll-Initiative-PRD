@@ -31,8 +31,9 @@ export default function TurnControls() {
           <div className="turn-info__round">Round <span>{currentRound}</span></div>
           <div className="turn-info__name">{active ? active.name : '—'}</div>
         </div>
-        <button className="btn btn--nav" disabled={combatants.length === 0} onClick={nextTurn}>
+        <button className="btn btn--nav" disabled={combatants.length === 0} onClick={nextTurn} title="Spacebar">
           Next &#9654;
+          <kbd className="kbd-hint">Space</kbd>
         </button>
       </div>
       <button className="btn btn--danger btn--full" style={{ marginTop: 8 }} onClick={handleEndCombat}>

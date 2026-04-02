@@ -33,3 +33,4 @@ client/coverage/
 
 # Misc
 .cache/
+.superpowers/

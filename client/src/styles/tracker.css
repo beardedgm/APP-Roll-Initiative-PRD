@@ -331,6 +331,16 @@
   text-overflow: ellipsis;
 }
 
+.kbd-hint {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 0.6rem;
+  color: var(--color-text-muted);
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  margin-top: 2px;
+}
+
 /* ── Combatant Cards ─────────────────────────────────────────── */
 .empty-message {
   color: var(--color-text-secondary);
@@ -360,9 +370,9 @@
 }
 
 .combatant-card--active {
-  background: var(--color-bg-card-hover);
-  box-shadow: 0 0 16px rgba(201,162,103,0.3), inset 0 0 0 1px var(--color-accent-gold-dim);
-  border-top: 1px solid var(--color-accent-gold-dim);
+  background: linear-gradient(135deg, rgba(201,162,103,0.10) 0%, rgba(201,162,103,0.04) 100%);
+  border: 1px solid rgba(201,162,103,0.35);
+  box-shadow: 0 0 20px rgba(201,162,103,0.12), inset 0 0 30px rgba(201,162,103,0.03);
 }
 
 .combatant-card__header {
@@ -397,11 +407,23 @@
   border: 1px solid var(--color-border);
   border-radius: var(--radius-sm);
 }
+.combatant-card__initiative--dim {
+  color: var(--color-text-muted);
+  opacity: 0.5;
+}
 .combatant-card--active .combatant-card__initiative {
-  color: var(--color-accent-gold-hover);
-  text-shadow: 0 0 8px rgba(201,162,103,0.6);
-  border-color: var(--color-accent-gold-dim);
-  box-shadow: var(--glow-gold-sm);
+  color: var(--color-accent-gold);
+  background: rgba(201,162,103,0.18);
+  border-color: rgba(201,162,103,0.25);
+  text-shadow: none;
+  box-shadow: none;
+}
+
+.combatant-card__active-arrow {
+  color: var(--color-accent-gold);
+  font-size: 12px;
+  flex-shrink: 0;
+  line-height: 1;
 }
 
 .combatant-card__info {
@@ -515,9 +537,9 @@
 }
 
 .hp-input {
-  width: 60px;
-  padding: 4px 5px;
-  font-size: 0.82rem;
+  width: 64px;
+  padding: 5px 8px;
+  font-size: 0.85rem;
   text-align: center;
 }
 
