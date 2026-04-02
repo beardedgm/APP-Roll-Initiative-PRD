@@ -1,5 +1,6 @@
 import { useEffect, useRef, useCallback } from 'react';
 import { create } from 'zustand';
+import * as Sentry from '@sentry/react';
 import useCombatStore from '../store/useCombatStore';
 import { useUpdateEncounter } from '../api/useEncounters';
 
@@ -56,7 +57,7 @@ export default function useCloudSync(enabled) {
       // Reset so the next sync attempt will retry
       prevSnapshotRef.current = previousSnapshot;
       setSyncStatus('error');
-      console.error('[useCloudSync] Failed to sync encounter:', err);
+      Sentry.captureException(err);
     }
   }, [updateEncounter, setSyncStatus]);
 

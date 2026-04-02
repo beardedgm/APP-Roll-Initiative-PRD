@@ -6,8 +6,10 @@ const UserSchema = new mongoose.Schema({
   hashedPassword: { type: String, required: true },
   salt:           { type: String, required: true },
   displayName:    { type: String, required: true, trim: true },
-  role:           { type: String, enum: ['user', 'admin'], default: 'user' },
-  emailVerified:  { type: Boolean, default: false },
+  role:           { type: String, enum: ['user', 'owner'], default: 'user' },
+  emailVerified:   { type: Boolean, default: false },
+  emailBounced:    { type: Boolean, default: false },
+  emailSuppressed: { type: Boolean, default: false },
 
   // Stripe / subscription
   stripeCustomerId:   { type: String, sparse: true },

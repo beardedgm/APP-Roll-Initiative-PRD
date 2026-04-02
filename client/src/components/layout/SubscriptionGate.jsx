@@ -6,7 +6,7 @@ export default function SubscriptionGate({ children, fallback }) {
 
   const hasAccess = user && (
     user.subscriptionStatus === 'active' ||
-    user.role === 'admin'
+    user.role === 'owner'
   );
 
   if (hasAccess) return children;

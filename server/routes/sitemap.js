@@ -1,48 +1,17 @@
 import { Router } from 'express';
+import { rateLimitByIP } from '../middleware/rateLimitGeneral.js';
 
 const router = Router();
 
 const APP_URL = process.env.APP_URL || 'http://localhost:5173';
 
-// In-memory rate limiter for sitemap/robots endpoints (30 req / 15 min per IP)
-const sitemapRateLimitMap = new Map();
-const SITEMAP_WINDOW_MS = 15 * 60 * 1000;
-const SITEMAP_MAX_REQUESTS = 30;
-
-function sitemapRateLimit(req, res, next) {
-  const ip = req.ip || req.connection.remoteAddress;
-  const now = Date.now();
-  const entry = sitemapRateLimitMap.get(ip);
-
-  // Clean stale entries periodically (every 100 requests)
-  if (sitemapRateLimitMap.size > 1000) {
-    for (const [key, val] of sitemapRateLimitMap) {
-      if (now - val.start > SITEMAP_WINDOW_MS) {
-        sitemapRateLimitMap.delete(key);
-      }
-    }
-  }
-
-  if (!entry || now - entry.start > SITEMAP_WINDOW_MS) {
-    sitemapRateLimitMap.set(ip, { count: 1, start: now });
-    return next();
-  }
-
-  entry.count += 1;
-  if (entry.count > SITEMAP_MAX_REQUESTS) {
-    return res.status(429).json({ error: 'Too many requests. Try again later.' });
-  }
-
-  next();
-}
-
-router.get('/robots.txt', sitemapRateLimit, (req, res) => {
+router.get('/robots.txt', rateLimitByIP('sitemap', 30), (req, res) => {
   res.type('text/plain').send(
     `User-agent: *\nAllow: /\nDisallow: /api/\nDisallow: /dashboard\nDisallow: /settings\n\nSitemap: ${APP_URL}/sitemap.xml`
   );
 });
 
-router.get('/sitemap.xml', sitemapRateLimit, (req, res) => {
+router.get('/sitemap.xml', rateLimitByIP('sitemap', 30), (req, res) => {
   const urls = ['/', '/features', '/pricing', '/tracker', '/play', '/login', '/register', '/terms', '/privacy', '/cookies'];
   const lastmod = '2026-03-10';
 

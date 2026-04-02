@@ -1,5 +1,6 @@
 import resend from '../config/resend.js';
 import logger from '../config/logger.js';
+import User from '../models/User.js';
 
 const FROM = process.env.EMAIL_FROM || 'Initiative Tracker <noreply@example.com>';
 const APP_NAME = process.env.APP_NAME || 'Initiative Tracker';
@@ -117,6 +118,13 @@ export async function sendSubscriptionCancelledEmail(email, displayName) {
 async function sendEmail(to, subject, html) {
   if (!resend) {
     logger.warn({ to, subject }, 'Email skipped — Resend not configured');
+    return null;
+  }
+
+  // Check bounce/suppress flags before sending
+  const user = await User.findOne({ email: to.toLowerCase() }).select('emailBounced emailSuppressed');
+  if (user?.emailBounced || user?.emailSuppressed) {
+    logger.warn({ to, subject }, 'Email skipped — address is bounced or suppressed');
     return null;
   }
 

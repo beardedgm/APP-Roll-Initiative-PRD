@@ -1,6 +1,7 @@
 import { useEffect, useRef, useCallback } from 'react';
+import * as Sentry from '@sentry/react';
 import useUserDataStore from '../store/useUserDataStore';
-import axios from '../api/axiosInstance';
+import api from '../api/axiosInstance';
 
 /**
  * Subscribes to useUserDataStore changes and auto-syncs to PUT /api/user-data
@@ -25,7 +26,7 @@ export default function useUserDataSync(enabled) {
     useUserDataStore.setState({ syncStatus: 'syncing' });
 
     try {
-      const { data } = await axios.put('/user-data', {
+      const { data } = await api.put('/user-data', {
         version,
         characters,
         customMonsters,
@@ -55,7 +56,7 @@ export default function useUserDataSync(enabled) {
       } else {
         prevSnapshotRef.current = previousSnapshot;
         useUserDataStore.setState({ syncStatus: 'error' });
-        console.error('[useUserDataSync] Failed to sync:', err);
+        Sentry.captureException(err);
       }
     }
   }, []);

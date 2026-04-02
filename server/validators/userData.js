@@ -1,5 +1,30 @@
 import { z } from 'zod';
 
+const presetCombatantSchema = z.object({
+  id: z.string(),
+  name: z.string().max(100),
+  type: z.enum(['player', 'monster', 'npc']).default('monster'),
+  initiative: z.number().default(0),
+  initiativeModifier: z.number().default(0),
+  ac: z.number().min(0).max(99).default(10),
+  hp: z.object({
+    current: z.number(),
+    max: z.number().min(1),
+  }),
+  status: z.enum(['normal', 'unconscious']).default('normal'),
+  monsterSlug: z.string().optional(),
+});
+
+const presetDiceHistoryEntrySchema = z.object({
+  id: z.string(),
+  sides: z.number().int().positive(),
+  count: z.number().int().positive(),
+  modifier: z.number().int(),
+  advantage: z.enum(['normal', 'advantage', 'disadvantage']),
+  rolls: z.array(z.number().int()).max(20),
+  total: z.number().int(),
+});
+
 const characterSchema = z.object({
   id: z.string().min(1),
   name: z.string().min(1).max(100),
@@ -60,11 +85,11 @@ const customMonsterSchema = z.object({
 const encounterPresetSchema = z.object({
   id: z.string().min(1),
   name: z.string().min(1).max(100),
-  combatants: z.array(z.any()).max(100).default([]),
+  combatants: z.array(presetCombatantSchema).max(100).default([]),
   state: z.enum(['pre-combat', 'combat']).default('pre-combat'),
   currentRound: z.number().int().min(1).default(1),
   activeCreatureId: z.string().nullable().default(null),
-  diceHistory: z.array(z.any()).max(50).default([]),
+  diceHistory: z.array(presetDiceHistoryEntrySchema).max(50).default([]),
   createdAt: z.string().optional(),
   updatedAt: z.string().optional(),
 });

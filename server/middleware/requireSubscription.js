@@ -10,8 +10,8 @@ export default async function requireSubscription(req, res, next) {
     return res.status(401).json({ error: 'User not found' });
   }
 
-  // Admins bypass subscription check
-  if (user.role === 'admin' || user.subscriptionStatus === 'active') {
+  // Owners bypass subscription check
+  if (user.role === 'owner' || user.subscriptionStatus === 'active') {
     return next();
   }
 
