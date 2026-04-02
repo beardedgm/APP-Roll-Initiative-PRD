@@ -3,33 +3,40 @@ import useCombatStore from '../../store/useCombatStore';
 
 function buildEntryLabel(entry) {
   const { sides, count, modifier, advantage } = entry;
-  const countStr = (advantage !== 'normal' || count === 1) ? '' : `${count}`;
+  const countStr = advantage !== 'normal' ? '1' : `${count}`;
   const advStr = advantage === 'advantage' ? ' Adv' : advantage === 'disadvantage' ? ' Dis' : '';
-  const modStr = modifier > 0 ? `+${modifier}` : modifier < 0 ? `${modifier}` : '';
+  const modStr = modifier > 0 ? `+${modifier}` : modifier < 0 ? `${modifier}` : '+0';
   return `${countStr}d${sides}${advStr}${modStr}`;
 }
 
-function RollBreakdown({ entry }) {
+/**
+ * Build the breakdown array for a dice roll entry.
+ * Always includes all die results + modifier at end (in a styled span).
+ * Example: 2d6+5 → (3, 2, <span>5</span>)
+ */
+function buildBreakdown(entry) {
   const { rolls, modifier, advantage } = entry;
+
   if (advantage !== 'normal') {
     const usedVal = advantage === 'advantage' ? Math.max(...rolls) : Math.min(...rolls);
-    return (
-      <span className="dice-result__breakdown">
-        ({rolls.map((r, i) => (
-          r === usedVal
-            ? <b key={i}>{r}</b>
-            : <s key={i}>{r}</s>
-        )).reduce((acc, el, i) => i === 0 ? [el] : [...acc, ', ', el], [])})
-      </span>
-    );
+    const diceElements = rolls.map((r, i) => (
+      r === usedVal ? <b key={`r${i}`}>{r}</b> : <s key={`r${i}`}>{r}</s>
+    )).reduce((acc, el, i) => i === 0 ? [el] : [...acc, ', ', el], []);
+    return [...diceElements, ', ', <span key="mod" className="dice-mod">{modifier}</span>];
   }
-  if (rolls.length > 1) {
-    return <span className="dice-result__breakdown">({rolls.join(', ')})</span>;
-  }
-  if (modifier !== 0) {
-    return <span className="dice-result__breakdown">(rolled {rolls[0]})</span>;
-  }
-  return null;
+
+  const parts = rolls.map((r, i) => (
+    i === 0 ? String(r) : `, ${r}`
+  ));
+  return [...parts, ', ', <span key="mod" className="dice-mod">{modifier}</span>];
+}
+
+function RollBreakdown({ entry }) {
+  return (
+    <span className="dice-result__breakdown">
+      ({buildBreakdown(entry)})
+    </span>
+  );
 }
 
 export default function DiceRoller() {
@@ -139,28 +146,12 @@ export default function DiceRoller() {
           ) : (
             diceHistory.map(entry => {
               const label = buildEntryLabel(entry);
-              let rollsHtml = '';
-              if (entry.advantage !== 'normal') {
-                // Advantage/disadvantage: bold the used roll, strikethrough the other
-                const usedVal = entry.advantage === 'advantage' ? Math.max(...entry.rolls) : Math.min(...entry.rolls);
-                rollsHtml = entry.rolls.map((r, i) => (
-                  r === usedVal ? <b key={i}>{r}</b> : <s key={i}>{r}</s>
-                )).reduce((acc, el, i) => i === 0 ? [el] : [...acc, ', ', el], []);
-              } else if (entry.rolls.length > 1) {
-                // Multi-dice: show all individual rolls
-                rollsHtml = entry.rolls.join(', ');
-              } else if (entry.rolls.length === 1 && entry.modifier !== 0) {
-                // Single die + modifier (e.g. d20+11): show what the die rolled
-                rollsHtml = `rolled ${entry.rolls[0]}`;
-              }
-              // Single die, no modifier (e.g. plain d20): no breakdown needed
-
               return (
                 <li key={entry.id} className="dice-history__entry">
                   <span className="dice-history__content">
                     <span className="dice-history__die">{label}</span>
                     {' = '}<strong>{entry.total}</strong>
-                    {rollsHtml && <> <span className="text-muted">({rollsHtml})</span></>}
+                    {' '}<span className="text-muted">({buildBreakdown(entry)})</span>
                   </span>
                   <button
                     className="btn btn--reroll-history"

@@ -3,27 +3,33 @@ import useCombatStore from '../../store/useCombatStore';
 
 function buildLabel(entry) {
   const { sides, count, modifier, advantage } = entry;
-  const countStr = (advantage !== 'normal' || count === 1) ? '' : `${count}`;
+  const countStr = advantage !== 'normal' ? '1' : `${count}`;
   const advStr = advantage === 'advantage' ? ' Adv' : advantage === 'disadvantage' ? ' Dis' : '';
-  const modStr = modifier > 0 ? `+${modifier}` : modifier < 0 ? `${modifier}` : '';
+  const modStr = modifier > 0 ? `+${modifier}` : modifier < 0 ? `${modifier}` : '+0';
   return `${countStr}d${sides}${advStr}${modStr}`;
 }
 
 function Breakdown({ entry }) {
   const { rolls, modifier, advantage } = entry;
+
   if (advantage !== 'normal') {
     const used = advantage === 'advantage' ? Math.max(...rolls) : Math.min(...rolls);
+    const diceElements = rolls.map((r, i) => (
+      r === used ? <b key={`r${i}`}>{r}</b> : <s key={`r${i}`}>{r}</s>
+    )).reduce((acc, el, i) => i === 0 ? [el] : [...acc, ', ', el], []);
     return (
       <span className="dice-toast__breakdown">
-        ({rolls.map((r, i) => (
-          r === used ? <b key={i}>{r}</b> : <s key={i}>{r}</s>
-        )).reduce((acc, el, i) => i === 0 ? [el] : [...acc, ', ', el], [])})
+        ({diceElements}, <span className="dice-mod">{modifier}</span>)
       </span>
     );
   }
-  if (rolls.length > 1) return <span className="dice-toast__breakdown">({rolls.join(', ')})</span>;
-  if (modifier !== 0) return <span className="dice-toast__breakdown">(rolled {rolls[0]})</span>;
-  return null;
+
+  const parts = rolls.map((r, i) => (i === 0 ? String(r) : `, ${r}`));
+  return (
+    <span className="dice-toast__breakdown">
+      ({parts}, <span className="dice-mod">{modifier}</span>)
+    </span>
+  );
 }
 
 export default function DiceToast() {

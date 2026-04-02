@@ -769,6 +769,7 @@ body.is-resizing .resize-handle::after {
   text-shadow: 0 0 12px rgba(201,162,103,0.4);
 }
 .dice-result__breakdown { font-size: 0.78rem; color: var(--color-text-muted); }
+.dice-mod { color: var(--color-accent-gold); font-weight: 600; }
 
 .dice-history__header {
   display: flex;
