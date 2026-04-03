@@ -5,9 +5,11 @@ unique, cn, medium, gnoll, humanoid
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** gnoll
+
+**Skills** Acrobatics +18, Athletics +15, Intimidation +16, Stealth +18, Survival +17
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** -1, **WIS** +3, **CHA** +2
 
@@ -25,7 +27,7 @@ unique, cn, medium, gnoll, humanoid
 
 Speed 25 feet
 
-**Melee** jaws +15 (agile); **Damage** 1d8+7 piercing
+**Melee** ◆ jaws +15 (agile); **Damage** 1d8+7 piercing
 
 **Melee Jax +18** (critical fusion, finesse, forceful, magical, sweep) Damage 2d4+7 slashing
 

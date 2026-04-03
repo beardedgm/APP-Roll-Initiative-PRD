@@ -5,9 +5,11 @@ lg, large, dragon, fire
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, scent 60 feet (imprecise)
 
 **Languages** common, draconic, elven, sylvan
+
+**Skills** Acrobatics +17, Arcana +18, Athletics +23, Diplomacy +23, Medicine +21, Religion +21, Society +18
 
 **STR** +6, **DEX** +2, **CON** +4, **INT** +3, **WIS** +4, **CHA** +4
 
@@ -31,13 +33,13 @@ lg, large, dragon, fire
 
 Speed 40 feet, fly 140 feet, swim 40 feet
 
-**Melee** jaws +24 (fire, reach <10 feet>); **Damage** 2d10+12 piercing plus 2d6 fire
+**Melee** ◆ jaws +24 (fire, reach <10 feet>); **Damage** 2d10+12 piercing plus 2d6 fire
 
-**Melee** claw +24 (agile); **Damage** 2d10+12 slashing
+**Melee** ◆ claw +24 (agile); **Damage** 2d10+12 slashing
 
-**Melee** tail +22 (reach <10 feet>); **Damage** 2d10+10 slashing
+**Melee** ◆ tail +22 (reach <10 feet>); **Damage** 2d10+10 slashing
 
-**Melee** horns +22 (agile, reach <10 feet>); **Damage** 1d12+10 piercing
+**Melee** ◆ horns +22 (agile, reach <10 feet>); **Damage** 1d12+10 piercing
 
 **Innate arcane Spells** (DC 29)
 

@@ -7,7 +7,9 @@ unique, medium, aberration, animal, swarm
 
 **Perception** +21
 
-**Languages** common, wildsong
+**Languages** common, wildsong; speak with animals|PC1 (insects only)
+
+**Skills** Acrobatics +23, Intimidate +20, Stealth +20, Survival +12
 
 **STR** +3, **DEX** +7, **CON** +6, **INT** +4, **WIS** +4, **CHA** +6
 
@@ -35,17 +37,19 @@ unique, medium, aberration, animal, swarm
 
 Speed 25 feet, fly 50 feet
 
-**Melee** slam +19; **Damage** 2d6+9 piercing plus apitoxin
+**Melee** ◆ slam +19; **Damage** 2d6+9 piercing plus apitoxin
 
 **Innate primal Spells** (DC 25), attack +17
 
-  **1st** illusory disguise
+  **Constant (2nd)** speak with animals
 
-  **2nd** augury
+  **1st** illusory disguise (at will)
 
-  **4th** honeyed words
+  **2nd** augury (at will)
 
-  **5th** summon animal
+  **4th** honeyed words (×3)
+
+  **5th** summon animal (×3)
 
 **Apitoxin** (poison)
 

@@ -5,9 +5,11 @@ uncommon, n, huge, aberration, earth, swarm
 
 ---
 
-**Perception** +33
+**Perception** +33; no vision, {@ability tremorsense} 120 feet (precise)
 
 **Languages** terran
+
+**Skills** Athletics +37, Stealth +35
 
 **STR** +8, **DEX** +10, **CON** +8, **INT** -1, **WIS** +6, **CHA** +2
 
@@ -31,7 +33,7 @@ Speed 50 feet, burrow 20 feet
 
 **Innate primal Spells** (DC 41)
 
-  **8th** earthbind, earthquake, stone tell
+  **8th** earthbind (at will), earthquake (×3), stone tell
 
   **10th** earthquake
 

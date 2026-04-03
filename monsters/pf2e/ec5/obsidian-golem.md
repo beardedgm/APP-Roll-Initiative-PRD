@@ -5,7 +5,9 @@ uncommon, n, large, construct, golem, mindless
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision
+
+**Skills** Athletics +33
 
 **STR** +9, **DEX** +6, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -31,11 +33,11 @@ uncommon, n, large, construct, golem, mindless
 
 Speed 25 feet, fly 25 feet
 
-**Melee** fist +33 (deadly <d10>, magical, reach <10 feet>, versatile <S>); **Damage** 4d10+15 piercing
+**Melee** ◆ fist +33 (deadly <d10>, magical, reach <10 feet>, versatile <S>); **Damage** 4d10+15 piercing
 
-**Melee** wing +31 (agile, deadly <d10>, magical, reach <10 feet>, versatile <S>); **Damage** 3d10+15 piercing
+**Melee** ◆ wing +31 (agile, deadly <d10>, magical, reach <10 feet>, versatile <S>); **Damage** 3d10+15 piercing
 
-**Melee** obsidian sliver +32 (deadly <d8>, magical, range increment <30 feet>, versatile <S>); **Damage** 4d8+15 piercing
+**Ranged** ◆ obsidian sliver +32 (deadly <d8>, magical, range increment <30 feet>, versatile <S>); **Damage** 4d8+15 piercing
 
 **Fling Shards** ◆ The obsidian golem slings razor-sharp shards of itself in a 15-foot cone. Creatures in the area take 4d8+9 slashing damage (DC 37 basic Reflex save).
 

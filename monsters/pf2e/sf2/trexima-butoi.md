@@ -5,13 +5,15 @@ unique, ne, medium, undead
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision
 
 **Languages** aklo, common, daemonic, draconic, mwangi, necril, osiriani, undercommon
 
+**Skills** Arcana +31, Crafting +29 (can craft magic items), Deception +29, Intimidation +27, Nature +27, Stealth +27
+
 **STR** +0, **DEX** +5, **CON** +4, **INT** +7, **WIS** +5, **CHA** +5
 
-**Items** greater staff of necromancy, The Tangled Briar, wand of {@spell necrotize|SoM} (7th level)
+**Items** greater staff of necromancy, The Tangled Briar, wand of necrotize|SoM (7th level)
 
 ---
 
@@ -23,15 +25,15 @@ unique, ne, medium, undead
 
 **Immunities** death effects, disease, paralyzed, poison, unconscious
 
-**Resistances** cold 15, physical 15
+**Resistances** cold 15, physical 15 (except magic bludgeoning)
 
 ---
 
 Speed 25 feet
 
-**Melee** staff +23 (magical, two-hand <d8>); **Damage** 1d4+6 bludgeoning
+**Melee** ◆ staff +23 (magical, two-hand <d8>); **Damage** 1d4+6 bludgeoning
 
-**Melee** hand +30 (finesse, magical); **Damage** 5d8 negative plus paralyzing touch
+**Melee** ◆ hand +30 (finesse, magical); **Damage** 5d8 negative plus paralyzing touch
 
 **Prepared arcane Spells** (DC 37), attack +29
 
@@ -43,7 +45,7 @@ Speed 25 feet
 
   **3rd** magic missile, paralyze, stinking cloud
 
-  **4th** dimension door, freedom of movement
+  **4th** dimension door (×2), freedom of movement
 
   **5th** grim tendrils, illusory object, wall of ice
 

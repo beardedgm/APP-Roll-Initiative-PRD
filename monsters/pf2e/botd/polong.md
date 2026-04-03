@@ -5,7 +5,9 @@ uncommon, ne, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision, lifesense 30 feet
+
+**Skills** Deception +18, Medicine +15, Occultism +13, Stealth +18
 
 **STR** -5, **DEX** +6, **CON** +2, **INT** +1, **WIS** +5, **CHA** +6
 
@@ -21,7 +23,7 @@ uncommon, ne, medium, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all 5
+**Resistances** all 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Weaknesses** good 5
 
@@ -33,7 +35,7 @@ uncommon, ne, medium, incorporeal, spirit, undead
 
 Speed fly 35 feet
 
-**Melee** scythe claw +20 (finesse, magical); **Damage** 2d4+9 slashing plus 1d6 negative
+**Melee** ◆ scythe claw +20 (finesse, magical); **Damage** 2d4+9 slashing plus 1d6 negative
 
 **Polong Possession** ◆◆◆ (incapacitation, mental, necromancy, occult, possession) The polong attempts to possess an adjacent corporeal creature. This has the same effect as the possession spell (DC 26 Will), except the duration is 24 hours and, since the polong doesn't have a physical body, they're unaffected by that restriction of the spell. If the target has critically failed its save and become fully possessed by this polong before, it gets a save result one degree of success worse than it rolled. A creature possessed by a polong becomes drained 1 and doomed 1. These conditions don't reduce naturally unless the polong spends an entire day without possessing the creature. For each consecutive day the polong is able to return and possess the creature, the drained and doomed values each increase by 1, to a maximum of 4. If the polong possesses a different creature, the conditions end for any creature it previously possessed.
 

@@ -5,9 +5,11 @@ rare, cn, medium, construct
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** common (can't speak any language)
+
+**Skills** Acrobatics +11, Crafting +5, Deception +10, Stealth +11
 
 **STR** +2, **DEX** +4, **CON** +1, **INT** -2, **WIS** +2, **CHA** +1
 
@@ -29,8 +31,8 @@ rare, cn, medium, construct
 
 Speed 25 feet
 
-**Melee** fist +11 (agile, finesse); **Damage** 2d4+4 bludgeoning
+**Melee** ◆ fist +11 (agile, finesse); **Damage** 2d4+4 bludgeoning
 
-**Melee** splatter +11 (nonlethal, range increment <20 feet>); **Damage** 1d4+4 plus splatter plus 1d4+4, splatter
+**Ranged** ◆ splatter +11 (nonlethal, range increment <20 feet>); **Damage** 1d4+4 plus splatter plus 1d4+4, splatter
 
 **Splatter** A living graffiti splatters into a creature's face with its splatter Strike. On a hit, the target is dazzled for 1 round or until it Interacts to remove the paint from its face.

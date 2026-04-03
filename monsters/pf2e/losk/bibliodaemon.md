@@ -5,9 +5,11 @@ uncommon, medium, daemon, fiend, unholy
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, thoughtsense 60 feet (imprecise)
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Deception +18, Diplomacy +16, Intimidation +16, Legal Lore +18, Society +18, Stealth +16
 
 **STR** +2, **DEX** +3, **CON** +2, **INT** +6, **WIS** +2, **CHA** +4
 
@@ -35,9 +37,9 @@ uncommon, medium, daemon, fiend, unholy
 
 Speed 25 feet
 
-**Melee** gavel +18 (finesse, magical); **Damage** 2d4+8 bludgeoning
+**Melee** ◆ gavel +18 (finesse, magical); **Damage** 2d4+8 bludgeoning
 
-**Melee** claw +18 (agile, finesse); **Damage** 2d8+8 slashing
+**Melee** ◆ claw +18 (agile, finesse); **Damage** 2d8+8 slashing
 
 **Innate divine Spells** (DC 26), attack +18
 

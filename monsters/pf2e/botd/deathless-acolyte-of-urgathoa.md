@@ -5,13 +5,15 @@ ne, medium, undead
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** common, necril
 
+**Skills** Intimidation +9, Occultism +8, Religion +11, Stealth +7
+
 **STR** +1, **DEX** +2, **CON** +0, **INT** +1, **WIS** +4, **CHA** +2
 
-**Items** scythe, religious symbol of {@deity Urgathoa}
+**Items** scythe, religious symbol of Urgathoa
 
 ---
 
@@ -31,7 +33,7 @@ ne, medium, undead
 
 Speed 25 feet
 
-**Melee** scythe +10 (deadly <d10>, trip); **Damage** 1d10+4 slashing
+**Melee** ◆ scythe +10 (deadly <d10>, trip); **Damage** 1d10+4 slashing
 
 **Prepared divine Spells** (DC 19), attack +11
 
@@ -39,7 +41,7 @@ Speed 25 feet
 
   **1st** bane, fear, ray of enfeeblement
 
-  **2nd** animate dead, harm
+  **2nd** animate dead, harm (×3)
 
 **Cleric Domain Spells** (DC 19)
 

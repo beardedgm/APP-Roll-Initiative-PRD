@@ -5,9 +5,11 @@ ne, medium, aberration
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
-**Languages** aklo, common
+**Languages** aklo, common; telepathy 30 feet
+
+**Skills** Acrobatics +21, Athletics +17, Intimidation +23, Occultism +19, Stealth +21, Survival +17
 
 **STR** +3, **DEX** +5, **CON** +4, **INT** +3, **WIS** +3, **CHA** +5
 
@@ -23,17 +25,17 @@ ne, medium, aberration
 
 Speed 25 feet, climb 30 feet
 
-**Melee** claw +23 (agile, finesse, magical); **Damage** 2d10+9 slashing plus Grab plus Grab
+**Melee** ◆ claw +23 (agile, finesse, magical); **Damage** 2d10+9 slashing plus Grab plus Grab
 
-**Melee** fangs +23 (finesse, magical); **Damage** 2d12+9 piercing
+**Melee** ◆ fangs +23 (finesse, magical); **Damage** 2d12+9 piercing
 
 **Innate occult Spells** (DC 29)
 
   **Cantrips (5th)** mage hand, message, read aura, shield
 
-  **3rd** mind reading
+  **3rd** mind reading (at will)
 
-  **4th** blink, confusion, crushing despair, dream message, invisibility, nightmare
+  **4th** blink, confusion, crushing despair, dream message, invisibility (at will), nightmare
 
   **5th** hallucination, mind probe
 

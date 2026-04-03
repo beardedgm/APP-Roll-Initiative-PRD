@@ -5,9 +5,11 @@ unique, le, small, fey, gremlin
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision, scent 30 feet (imprecise)
 
 **Languages** common, undercommon
+
+**Skills** Acrobatics +7, Diplomacy +4, Nature +5, Stealth +7, Thievery +7
 
 **STR** +1, **DEX** +4, **CON** +1, **INT** +0, **WIS** +2, **CHA** +1
 
@@ -29,11 +31,11 @@ unique, le, small, fey, gremlin
 
 Speed 20 feet, climb 20 feet
 
-**Melee** trident +6; **Damage** 1d8+1 piercing
+**Melee** ◆ trident +6; **Damage** 1d8+1 piercing
 
-**Melee** blowgun +9 (agile, nonlethal, range increment <20 feet>); **Damage** 1 piercing plus spear frog poison plus spear frog poison
+**Ranged** ◆ blowgun +9 (agile, nonlethal, range increment <20 feet>); **Damage** 1 piercing plus spear frog poison plus spear frog poison
 
-**Melee** trident +9 (thrown <20 feet>); **Damage** 1d8+1 piercing
+**Ranged** ◆ trident +9 (thrown <20 feet>); **Damage** 1d8+1 piercing
 
 **Innate primal Spells** (DC 17)
 
@@ -41,7 +43,7 @@ Speed 20 feet, climb 20 feet
 
   **1st** bane
 
-  **2nd** speak with animals
+  **2nd** speak with animals (at will)
 
 **Spear Frog Poison** (poison)
 

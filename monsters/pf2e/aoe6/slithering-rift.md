@@ -5,7 +5,9 @@ rare, n, huge, mindless, ooze
 
 ---
 
-**Perception** +30
+**Perception** +30; no vision, {@ability tremorsense} 120 feet (imprecise)
+
+**Skills** Athletics +35, Stealth +38
 
 **STR** +9, **DEX** -2, **CON** +7, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -29,7 +31,7 @@ rare, n, huge, mindless, ooze
 
 Speed 20 feet
 
-**Melee** pseudopod +35 (magical, reach <15 feet>); **Damage** 4d10+18 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ pseudopod +35 (magical, reach <15 feet>); **Damage** 4d10+18 piercing plus Improved Grab plus Improved Grab
 
 **Flurry of Pods** ◆◆ The slithering rift makes a single pseudopod Strike against each target within range it hasn't already Grabbed. These attacks count toward the slithering rift's multiple attack penalty, but this penalty doesn't increase until after all of these attacks.
 

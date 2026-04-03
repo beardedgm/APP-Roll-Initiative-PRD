@@ -5,9 +5,11 @@ medium, undead, unholy
 
 ---
 
-**Perception** +5
+**Perception** +5; darkvision, tremorsense 30 feet (imprecise)
 
 **Languages** common, necril
+
+**Skills** Athletics +8, Stealth +11
 
 **STR** +3, **DEX** +1, **CON** +3, **INT** +2, **WIS** +1, **CHA** +0
 
@@ -25,9 +27,9 @@ medium, undead, unholy
 
 ---
 
-Speed 25 feet
+Speed 25 feet, Wall Glide
 
-**Melee** claw +9 (agile); **Damage** 1d8+3 slashing plus Grab
+**Melee** ◆ claw +9 (agile); **Damage** 1d8+3 slashing plus Grab
 
 **Sneak Attack** A walcofinde deals an additional 1d6 precision damage to offguard|PC1 creatures.
 

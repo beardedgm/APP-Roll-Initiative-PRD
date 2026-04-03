@@ -5,7 +5,9 @@ rare, n, large, construct, swarm
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
+
+**Skills** Acrobatics +12, Athletics +6, Stealth +13
 
 **STR** -1, **DEX** +5, **CON** +4, **INT** -4, **WIS** +2, **CHA** -2
 

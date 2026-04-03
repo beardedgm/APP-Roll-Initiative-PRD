@@ -5,7 +5,9 @@ uncommon, ne, large, aberration, swarm
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, poison sense 30 feet (precise)
+
+**Skills** Acrobatics +21, Crafting +23, Nature +19, Religion +21, Stealth +23
 
 **STR** +2, **DEX** +5, **CON** +4, **INT** -1, **WIS** +3, **CHA** +0
 
@@ -31,9 +33,9 @@ Speed 40 feet, climb 30 feet
 
 **Innate occult Spells** (DC 30)
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
-  **6th** death knell, vomit swarm
+  **6th** death knell (×3), vomit swarm
 
 **Swarming Bites** ◆ Each enemy in the karumzek swarm's space takes 2d6 piercing damage (DC 27 basic Reflex save) plus karumzek venom.
 

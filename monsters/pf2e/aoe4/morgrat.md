@@ -9,6 +9,8 @@ unique, ce, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +17, Arcana +16, Deception +20, Thievery +17
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +0, **WIS** +2, **CHA** +4
 
 ---
@@ -30,11 +32,11 @@ unique, ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +17 (agile, finesse, versatile <S>); **Damage** 1d4+6 piercing
+**Melee** ◆ dagger +17 (agile, finesse, versatile <S>); **Damage** 1d4+6 piercing
 
-**Melee** poisoner's staff +17 (magical, two-handed d8); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ poisoner's staff +17 (magical, two-handed d8); **Damage** 1d6+4 bludgeoning
 
-**Melee** dagger +19 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
+**Ranged** ◆ dagger +19 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
 
 **Spontaneous primal Spells** (DC 28), attack +17
 
@@ -52,6 +54,6 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 28)
 
-  **2nd** detect poison
+  **2nd** detect poison (at will)
 
 **Steady Spellcasting** If another creature's reaction would disrupt the venom mage's spellcasting action, the venom mage attempts a DC 15 flat check. If the venom mage succeeds, their action isn't disrupted.

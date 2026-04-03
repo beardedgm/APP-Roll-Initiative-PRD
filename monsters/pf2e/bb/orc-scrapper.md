@@ -5,11 +5,13 @@ ce, medium, humanoid, orc
 
 ---
 
-**Perception** +5
+**Perception** +5; darkvision
+
+**Skills** Athletics +5, Intimidation +2
 
 **STR** +3, **DEX** +2, **CON** +3, **INT** -1, **WIS** +1, **CHA** +0
 
-**Items** {@item battle axe} (2), {@item hide||hide armor}, {@item javelin} (3)
+**Items** battle axe (2), hide armor, javelin (3)
 
 ---
 
@@ -25,8 +27,8 @@ ce, medium, humanoid, orc
 
 Speed 25 feet
 
-**Melee** battle axe +7 (sweep); **Damage** 1d8 + 3 piercing
+**Melee** ◆ battle axe +7 (sweep); **Damage** 1d8 + 3 piercing
 
-**Melee** fist +7 (agile, nonlethal); **Damage** 1d4 + 3 bludgeoning
+**Melee** ◆ fist +7 (agile, nonlethal); **Damage** 1d4 + 3 bludgeoning
 
-**Melee** javelin +4 (thrown <30 feet>); **Damage** 1d6 + 3 piercing
+**Ranged** ◆ javelin +4 (thrown <30 feet>); **Damage** 1d6 + 3 piercing

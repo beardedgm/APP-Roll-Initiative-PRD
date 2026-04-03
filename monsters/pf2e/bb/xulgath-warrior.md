@@ -5,11 +5,13 @@ ce, medium, humanoid, xulgath
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
+
+**Skills** Athletics +7, Stealth +5
 
 **STR** +4, **DEX** +2, **CON** +3, **INT** -1, **WIS** +1, **CHA** +0
 
-**Items** {@item club}, {@item javelin} (3)
+**Items** club, javelin (3)
 
 ---
 
@@ -25,10 +27,10 @@ ce, medium, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** club +9; **Damage** 1d6 + 4 bludgeoning
+**Melee** ◆ club +9; **Damage** 1d6 + 4 bludgeoning
 
-**Melee** jaws +9; **Damage** 1d6 + 4 piercing
+**Melee** ◆ jaws +9; **Damage** 1d6 + 4 piercing
 
-**Melee** claw +9 (agile); **Damage** 1d4 + 4 slashing
+**Melee** ◆ claw +9 (agile); **Damage** 1d4 + 4 slashing
 
-**Melee** javelin +7 (thrown <30 feet>); **Damage** 1d6 + 4 piercing
+**Ranged** ◆ javelin +7 (thrown <30 feet>); **Damage** 1d6 + 4 piercing

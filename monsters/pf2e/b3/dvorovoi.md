@@ -5,9 +5,11 @@ cn, small, fey
 
 ---
 
-**Perception** +12
+**Perception** +12; {@ability tremorsense} within their entire bound yard (imprecise)
 
 **Languages** common, sylvan
+
+**Skills** Crafting +8, Nature +9, Stealth +9, Household Lore +11
 
 **STR** +3, **DEX** +2, **CON** +1, **INT** -1, **WIS** +0, **CHA** +1
 
@@ -31,7 +33,7 @@ cn, small, fey
 
 Speed 30 feet
 
-**Melee** pitchfork +12; **Damage** 1d8+6 piercing
+**Melee** ◆ pitchfork +12; **Damage** 1d8+6 piercing
 
 **Innate primal Spells** (DC 18)
 
@@ -39,4 +41,4 @@ Speed 30 feet
 
   **1st** charm, command, mending
 
-  **2nd** entangle, speak with animals
+  **2nd** entangle, speak with animals (at will)

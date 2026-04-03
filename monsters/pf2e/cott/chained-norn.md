@@ -5,9 +5,11 @@ unique, large, undead
 
 ---
 
-**Perception** +41
+**Perception** +41; detect magic, greater darkvision, lifesense, truesight
 
-**Languages** common, fey, jotun
+**Languages** common, fey, jotun; truespeech
+
+**Skills** Crafting +36, Deception +35, Intimidation +37, Lore +28 (all), Medicine +38, Occultism +34, Performance +31, Religion +34
 
 **STR** +7, **DEX** +6, **CON** +6, **INT** +6, **WIS** +10, **CHA** +7
 
@@ -35,11 +37,13 @@ unique, large, undead
 
 Speed 35 feet, fly 35 feet
 
-**Melee** hand of fate +38 (agile, magical, reach <10 feet>); **Damage** 4d10+15 void plus sever fate
+**Melee** ◆ hand of fate +38 (agile, magical, reach <10 feet>); **Damage** 4d10+15 void plus sever fate
 
 **Innate occult Spells** (DC 42)
 
-  **7th** dispel magic, read omens, spellwrack
+  **Constant (10th)** detect magic, hidden mind, truesight, truespeech
+
+  **7th** dispel magic (at will), read omens (at will), spellwrack (at will)
 
   **8th** migration, quandary
 

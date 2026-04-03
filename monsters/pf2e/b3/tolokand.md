@@ -5,7 +5,11 @@ rare, ne, large, aberration
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision, smoke vision
+
+**Languages** tongues, no voice
+
+**Skills** Acrobatics +25, Athletics +29, Intimidation +22, Survival +31
 
 **STR** +8, **DEX** +6, **CON** +7, **INT** +5, **WIS** +6, **CHA** -3
 
@@ -31,9 +35,9 @@ rare, ne, large, aberration
 
 ---
 
-Speed 120 feet
+Speed 120 feet, air walk
 
-**Melee** hand +31 (reach <10 feet>); **Damage** 2d12+16 slashing plus 2d6 persistent poison
+**Melee** ◆ hand +31 (reach <10 feet>); **Damage** 2d12+16 slashing plus 2d6 persistent poison
 
 **Spontaneous occult Spells** (DC 37)
 
@@ -41,9 +45,11 @@ Speed 120 feet
 
 **Innate occult Spells** (DC 37)
 
-  **2nd** sudden blight
+  **Constant (5th)** air walk, endure
 
-  **4th** earthbind, haste
+  **2nd** sudden blight (at will)
+
+  **4th** earthbind (at will), haste (at will)
 
 **Blighted Footfalls** Whenever the tolokand ends a move action during which it moved 30 feet or farther, it automatically casts one of its innate spells as a free action.
 

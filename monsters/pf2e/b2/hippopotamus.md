@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +11
+**Perception** +11; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +13, Stealth +11, Survival +11
 
 **STR** +6, **DEX** +2, **CON** +6, **INT** -4, **WIS** +4, **CHA** -2
 
@@ -23,9 +25,9 @@ n, large, animal
 
 Speed 25 feet, swim 20 feet
 
-**Melee** jaws +15 (deadly <d10>); **Damage** 2d8+8 piercing
+**Melee** ◆ jaws +15 (deadly <d10>); **Damage** 2d8+8 piercing
 
-**Melee** foot +13; **Damage** 1d10+8 bludgeoning
+**Melee** ◆ foot +13; **Damage** 1d10+8 bludgeoning
 
 **Aquatic Ambush** ◆ 30 feet
 

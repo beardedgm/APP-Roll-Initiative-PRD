@@ -5,9 +5,11 @@ n, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
 **Languages** common, necril
+
+**Skills** Deception +14, Diplomacy +14, Ghost Lore +18, Religion +17
 
 **STR** -5, **DEX** +5, **CON** +0, **INT** +4, **WIS** +5, **CHA** +4
 
@@ -23,7 +25,7 @@ n, medium, ghost, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Ravenous Undoing** In each 24-hour period, the hungry ghost must use
 
@@ -35,7 +37,7 @@ n, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ghostly touch +17 (agile, finesse, magical); **Damage** 2d8+4 negative
+**Melee** ◆ ghostly touch +17 (agile, finesse, magical); **Damage** 2d8+4 negative
 
 **Feed on the Living** ◆◆ (divine, necromancy, negative) The hungry ghost touches a creature in reach. If the target is a living creature, it takes damage from the ghost's ghostly touch with a DC 24 Fortitude save. If the ghost is in their living visage, they can disguise Feed on the Living as a benign touch and delay the effects for 1 minute while keeping the target unaware of the effect. A creature can be affected by only one delayed Feed on the Living at a time, and if the ghost loses their living visage during that minute, the Feed on the Living is lost. **Critical Success** 
 **Success** 

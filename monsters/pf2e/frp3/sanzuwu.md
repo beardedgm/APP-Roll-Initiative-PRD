@@ -5,9 +5,11 @@ uncommon, n, tiny, beast, fire
 
 ---
 
-**Perception** +26
+**Perception** +26; greater darkvision
 
-**Languages** common
+**Languages** common; telepathy 100 feet
+
+**Skills** Acrobatics +30, Athletics +27, Diplomacy +25
 
 **STR** +4, **DEX** +8, **CON** +6, **INT** +4, **WIS** +5, **CHA** +4
 
@@ -31,9 +33,9 @@ uncommon, n, tiny, beast, fire
 
 Speed 25 feet, fly 60 feet
 
-**Melee** beak +30 (finesse, fire, magical); **Damage** 3d6+14 piercing plus 3d6 fire
+**Melee** ◆ beak +30 (finesse, fire, magical); **Damage** 3d6+14 piercing plus 3d6 fire
 
-**Melee** talon +30 (agile, finesse, fire, magical); **Damage** 3d4+14 piercing plus 3d6 fire
+**Melee** ◆ talon +30 (agile, finesse, fire, magical); **Damage** 3d4+14 piercing plus 3d6 fire
 
 **Fiery Transformation** ◆◆ (concentrate, fire, polymorph, primal, transmutation) The sanzuwu transforms into an enormous bird made of flame. As the sanzuwu begins their transformation, creatures within a 10-foot emanation take 6d8 fire damage (DC 33 basic Reflex save). While in their flame form, the sanzuwu gains the effects of 4th-level enlarge. They can use Fiery Transformation again to revert back to their standard form.
 

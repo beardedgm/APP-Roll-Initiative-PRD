@@ -5,9 +5,11 @@ le, huge, dragon, electricity
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision, scent 60 feet (imprecise)
 
 **Languages** auran, common, draconic, jotun
+
+**Skills** Acrobatics +22, Arcana +25, Deception +26, Diplomacy +26, Intimidation +24, Society +23, Stealth +20, Survival +22
 
 **STR** +6, **DEX** +3, **CON** +4, **INT** +4, **WIS** +3, **CHA** +5
 
@@ -31,21 +33,21 @@ le, huge, dragon, electricity
 
 Speed 40 feet, fly 150 feet, burrow 20 feet
 
-**Melee** jaws +27 (electricity, magical, reach <15 feet>); **Damage** 3d8+12 piercing plus 1d12 electricity
+**Melee** ◆ jaws +27 (electricity, magical, reach <15 feet>); **Damage** 3d8+12 piercing plus 1d12 electricity
 
-**Melee** claw +27 (magical, agile, reach <10 feet>); **Damage** 3d8+12 slashing
+**Melee** ◆ claw +27 (magical, agile, reach <10 feet>); **Damage** 3d8+12 slashing
 
-**Melee** tail +25 (magical, reach <20 feet>); **Damage** 3d8+10 bludgeoning
+**Melee** ◆ tail +25 (magical, reach <20 feet>); **Damage** 3d8+10 bludgeoning
 
-**Melee** horns +25 (magical, reach <15 feet>); **Damage** 2d8+10 piercing
+**Melee** ◆ horns +25 (magical, reach <15 feet>); **Damage** 2d8+10 piercing
 
 **Innate arcane Spells** (DC 33)
 
   **Cantrips (6th)** ghost sound
 
-  **1st** create water
+  **1st** create water (at will)
 
-  **6th** illusory creature, illusory object, ventriloquism
+  **6th** illusory creature, illusory object, ventriloquism (at will)
 
 **Breath Weapon** ◆◆ (arcane, electricity, evocation) The dragon breathes lightning that deals 9d12 electricity damage in a 100-foot line (DC 33 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

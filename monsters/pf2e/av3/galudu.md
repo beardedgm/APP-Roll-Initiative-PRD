@@ -5,9 +5,11 @@ unique, cn, medium, caligni, humanoid
 
 ---
 
-**Perception** +18
+**Perception** +18; greater darkvision
 
 **Languages** caligni, common, undercommon
+
+**Skills** Acrobatics +20, Arcana +18, Deception +22, Diplomacy +20, Stealth +20
 
 **STR** +2, **DEX** +5, **CON** +0, **INT** +1, **WIS** +3, **CHA** +5
 
@@ -31,15 +33,15 @@ unique, cn, medium, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +22 (agile, finesse, versatile <S>); **Damage** 1d4+9 piercing
+**Melee** ◆ dagger +22 (agile, finesse, versatile <S>); **Damage** 1d4+9 piercing
 
-**Melee** dagger +22 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+9 piercing
+**Melee** ◆ dagger +22 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+9 piercing
 
 **Innate occult Spells** (DC 28), attack +20
 
   **Cantrips (6th)** detect magic
 
-  **2nd** darkness, obscuring mist
+  **2nd** darkness (at will), obscuring mist (at will)
 
   **4th** darkness
 
@@ -47,15 +49,15 @@ Speed 25 feet
 
   **Cantrips (6th)** acid splash, daze, message, ray of frost, shield
 
-  **1st** alarm, create water
+  **1st** alarm, create water (×3)
 
   **2nd** create food, hideous laughter, invisibility, telekinetic maneuver
 
-  **3rd** blindness, glyph of warding, lightning bolt
+  **3rd** blindness, glyph of warding, lightning bolt (×2)
 
-  **4th** create food, globe of invulnerability, veil
+  **4th** create food (×2), globe of invulnerability, veil
 
-  **5th** banishment, cloudkill, cone of cold
+  **5th** banishment, cloudkill, cone of cold (×2)
 
   **6th** dominate, mislead, repulsion
 

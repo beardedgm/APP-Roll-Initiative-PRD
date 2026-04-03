@@ -5,9 +5,11 @@ uncommon, ne, huge, fiend, sahkil, swarm
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision
 
-**Languages** abyssal, celestial, infernal, requian
+**Languages** abyssal, celestial, infernal, requian; telepathy 100 feet
+
+**Skills** Acrobatics +26, Athletics +26, Deception +31, Intimidation +31, Performance +27, Society +27
 
 **STR** +5, **DEX** +5, **CON** +8, **INT** +6, **WIS** +6, **CHA** +8
 
@@ -35,7 +37,9 @@ Speed 40 feet
 
 **Innate divine Spells** (DC 36)
 
-  **4th** fear, nightmare
+  **Constant (8th)** mask of terror
+
+  **4th** fear (at will), nightmare (at will)
 
 **Crush of Hundreds** A creature frightened by the sahkil's mask of terror feels the press of a suffocating crowd. The creature is slowed|CRB|slowed 1 and takes a –10-foot penalty to all Speeds for as long as it is frightened.
 

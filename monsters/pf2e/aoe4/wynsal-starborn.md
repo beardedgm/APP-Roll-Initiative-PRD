@@ -9,6 +9,8 @@ unique, lg, medium, human, humanoid
 
 **Languages** common, dwarven, elven, halfling, kelesh, mwangi, osiriani
 
+**Skills** Athletics +30, Diplomacy +33, Intimidation +33, Society +29, Stealth +26, Absalom Lore +29, Warfare Lore +29
+
 **STR** +5, **DEX** +1, **CON** +3, **INT** +2, **WIS** +3, **CHA** +6
 
 **Items** +2 resilient full plate, +2 greater striking longsword, ring of sustenance, whisper briolette
@@ -33,7 +35,7 @@ unique, lg, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** longsword +32 (magical, versatile <P>); **Damage** 3d8+13 slashing plus hampering strike plus hampering strike
+**Melee** ◆ longsword +32 (magical, versatile <P>); **Damage** 3d8+13 slashing plus hampering strike plus hampering strike
 
 **Demanding Orders** ◆ (auditory, linguistic) Wynsal commands his allies to take action. Allies within 120 feet who hear and understand his order are quickened|CRB|quickened 1 for 1 round and can use this extra action to Stride, Strike, or Step.
 

@@ -5,9 +5,11 @@ n, small, aquatic, elemental, water
 
 ---
 
-**Perception** +3
+**Perception** +3; darkvision
 
 **Languages** aquan
+
+**Skills** Athletics +6, Stealth +6
 
 **STR** +1, **DEX** +3, **CON** +1, **INT** -2, **WIS** +0, **CHA** +0
 
@@ -25,7 +27,7 @@ n, small, aquatic, elemental, water
 
 Speed 20 feet, fly 25 feet, swim 25 feet
 
-**Melee** claw +8 (finesse); **Damage** 1d6+1 slashing
+**Melee** ◆ claw +8 (finesse); **Damage** 1d6+1 slashing
 
 **Breath Weapon** ◆◆ (acid, arcane) The water mephit breathes acid in a 15-foot cone that deals 2d6 acid damage to each creature within the area (DC 17 basic Reflex save). The water mephit can't use Breath Weapon again for 1d4 rounds.
 

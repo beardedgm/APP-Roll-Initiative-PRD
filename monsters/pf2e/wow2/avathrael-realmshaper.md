@@ -5,9 +5,11 @@ unique, huge, dragon, plant, shadow
 
 ---
 
-**Perception** +25
+**Perception** +25; greater darkvision, scent 60 feet (imprecise), shadowsense 250 feet (vague)
 
-**Languages** arboreal, common, draconic, fey, shadowtongue
+**Languages** arboreal, common, draconic, fey, shadowtongue; speak with plants|PC1, truespeech|PC1
+
+**Skills** Acrobatics +19, Arcana +25, Architecture Lore +27, Art Lore +27, Athletics +21, Crafting +25, Intimidation +20, Nature +25, Netherworld Lore +27, Occultism +25, Survival +25
 
 **STR** +5, **DEX** +3, **CON** +5, **INT** +7, **WIS** +7, **CHA** +4
 
@@ -31,21 +33,21 @@ unique, huge, dragon, plant, shadow
 
 ---
 
-Speed 40 feet, fly 100 feet
+Speed 40 feet, fly 100 feet, woodland stride
 
-**Melee** jaws +26 (magical, reach <15 feet>); **Damage** 3d10+11 piercing plus 1d8 poison
+**Melee** ◆ jaws +26 (magical, reach <15 feet>); **Damage** 3d10+11 piercing plus 1d8 poison
 
-**Melee** razor tail +24 (magical, reach <20 feet>); **Damage** 4d8+11 slashing plus 1d8 persistent bleed
+**Melee** ◆ razor tail +24 (magical, reach <20 feet>); **Damage** 4d8+11 slashing plus 1d8 persistent bleed
 
-**Melee** shadow claws +26 (agile, magical, reach <10 feet>); **Damage** 2d8+11 slashing plus 1d8 void
+**Melee** ◆ shadow claws +26 (agile, magical, reach <10 feet>); **Damage** 2d8+11 slashing plus 1d8 void
 
-**Melee** seedpod +22 (range increment <60 feet>); **Damage** 2d6+11 bludgeoning plus 1d6 poison
+**Ranged** ◆ seedpod +22 (range increment <60 feet>); **Damage** 2d6+11 bludgeoning plus 1d6 poison
 
 **Innate arcane Spells** (DC 32), attack +24
 
   **Cantrips (6th)** detect magic, figment, prestidigitation, read aura, sigil
 
-  **2nd** darkness
+  **2nd** darkness (at will)
 
   **3rd** inscrutable mask
 
@@ -53,13 +55,19 @@ Speed 40 feet, fly 100 feet
 
   **5th** illusory scene, umbral journey
 
-  **6th** shadow blast
+  **6th** shadow blast (×2)
 
 **Innate primal Spells** (DC 32), attack +24
 
+  **Constant (5th)** truespeech
+
+  **Constant (4th)** speak with plants
+
+  **Constant (1st)** vanishing tracks
+
   **Cantrips (6th)** tangle vine
 
-  **2nd** shape wood, one with plants
+  **2nd** shape wood (at will), one with plants
 
   **5th** nature's pathway, wall of thorns
 

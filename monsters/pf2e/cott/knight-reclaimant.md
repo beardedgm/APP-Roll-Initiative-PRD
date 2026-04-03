@@ -9,6 +9,8 @@ uncommon, medium, humanoid
 
 **Languages** common
 
+**Skills** Athletics +12, Gravelands Lore +16, Nature +12, Medicine +12, Religion +14, Stealth +14, Survival +14
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** +2, **WIS** +4, **CHA** +3
 
 **Items** +1 striking bastard sword, half plate, steel shield (Hardness 5, 20 HP, BT 10)
@@ -29,6 +31,6 @@ uncommon, medium, humanoid
 
 Speed 25 feet
 
-**Melee** bastard sword +20 (magical, two-hand <2d12>); **Damage** 2d8+10 slashing
+**Melee** ◆ bastard sword +20 (magical, two-hand <2d12>); **Damage** 2d8+10 slashing
 
 **Sudden Charge** ◆ **Frequency** {"number":1,"unit":"turn"}; The knight Stride|PC1|Strides twice. If they end their movement within melee reach of at least one enemy, the knight can make a melee Strike|PC1 against that enemy.

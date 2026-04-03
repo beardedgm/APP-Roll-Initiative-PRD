@@ -5,7 +5,11 @@ unique, ce, medium, fiend, illusion, mental
 
 ---
 
-**Perception** +23
+**Perception** +23; {@ability darkvision}
+
+**Languages** telepathy 100 feet, universal language
+
+**Skills** Arcana +24, Deception +27, Intimidation +27, Religion +23, Society +24, Stealth +25, Willowshore Lore +24
 
 **STR** +7, **DEX** +6, **CON** +5, **INT** +5, **WIS** +4, **CHA** +8
 
@@ -26,7 +30,7 @@ unique, ce, medium, fiend, illusion, mental
 
 **Immunities** death effects, detection, disease, doomed, necromancy, scrying
 
-**Resistances** physical 15
+**Resistances** physical 15 (except silver)
 
 **Weaknesses** sonic 15, mental 15
 
@@ -43,15 +47,15 @@ unique, ce, medium, fiend, illusion, mental
 
 Speed 20 feet, fly 20 feet
 
-**Melee** illusory claws +26 (illusion, mental, occult, reach <10 feet>); **Damage** 4d8+10 mental plus 1d6 slashing
+**Melee** ◆ illusory claws +26 (illusion, mental, occult, reach <10 feet>); **Damage** 4d8+10 mental plus 1d6 slashing
 
 **Innate occult Spells** (DC 33), attack +25
 
   **Cantrips (7th)** ghost sound, message
 
-  **5th** dimension door, shatter
+  **5th** dimension door (×2), shatter (×3)
 
-  **6th** death knell, phantasmal killer
+  **6th** death knell, phantasmal killer (×3)
 
   **7th** phantasmal calamity
 

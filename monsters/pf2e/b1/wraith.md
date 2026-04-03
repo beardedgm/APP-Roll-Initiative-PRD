@@ -5,9 +5,11 @@ le, medium, incorporeal, undead, wraith
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, lifesense 60 feet
 
 **Languages** common, necril
+
+**Skills** Acrobatics +14, Intimidation +15, Stealth +14
 
 **STR** -5, **DEX** +4, **CON** +0, **INT** +2, **WIS** +2, **CHA** +5
 
@@ -23,7 +25,7 @@ le, medium, incorporeal, undead, wraith
 
 **Immunities** poison, precision, death effects, disease, paralyzed, unconscious
 
-**Resistances** all 5
+**Resistances** all 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Sunlight Powerlessness** A wraith caught in sunlight is stunned 2 and clumsy 2.
 
@@ -33,7 +35,7 @@ le, medium, incorporeal, undead, wraith
 
 Speed fly 40 feet
 
-**Melee** spectral hand +17 (finesse); **Damage** 2d8+5 negative plus drain life plus drain life
+**Melee** ◆ spectral hand +17 (finesse); **Damage** 2d8+5 negative plus drain life plus drain life
 
 **Drain Life** (divine, necromancy) When the wraith damages a living creature with its spectral hand Strike, the wraith gains 5 temporary Hit Points and the creature must succeed at a DC 23 Fortitude save or become drained 1. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of drained 4.
 

@@ -5,7 +5,9 @@ rare, ln, medium, undead
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision, sense murderer
+
+**Skills** Acrobatics +21, Athletics +19, Intimidation +20
 
 **STR** +5, **DEX** +7, **CON** +4, **INT** +0, **WIS** +3, **CHA** +2
 
@@ -23,7 +25,7 @@ rare, ln, medium, undead
 
 **Immunities** death effects, disease, paralyzed, poison, sleep
 
-**Resistances** physical 10
+**Resistances** physical 10 (except slashing)
 
 **Self-Loathing** (emotion, mental, visual) If a pale stranger sees their own reflection or any object important to them in life, they must attempt a DC 30 Will save. **Critical Success** 
 **Success** 
@@ -36,11 +38,11 @@ rare, ln, medium, undead
 
 Speed 25 feet
 
-**Melee** pistol whip +20 (magical); **Damage** 2d6+9 bludgeoning
+**Melee** ◆ pistol whip +20 (magical); **Damage** 2d6+9 bludgeoning
 
-**Melee** fist +21 (agile, finesse, nonlethal); **Damage** 1d6+9 bludgeoning
+**Melee** ◆ fist +21 (agile, finesse, nonlethal); **Damage** 1d6+9 bludgeoning
 
-**Melee** flintlock pistol +24 (concussive, fatal <d8>, range increment <40 feet>); **Damage** 2d4+6 piercing plus bullets of vengeance
+**Ranged** ◆ flintlock pistol +24 (concussive, fatal <d8>, range increment <40 feet>); **Damage** 2d4+6 piercing plus bullets of vengeance
 
 **Bullets of Vengeance** (necromancy, occult) Shots from a pale stranger's firearms deal an additional 1d6 precision damage, or 2d6 precision damage against the one who murdered them. A creature who has never killed a living being doesn't take this precision damage. When a pale stranger critically succeeds at a ranged Strike with a pistol, the target must succeed at a DC 29 Fortitude save or be stunned 1.
 

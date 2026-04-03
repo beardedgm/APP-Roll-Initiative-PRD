@@ -5,7 +5,11 @@ rare, n, tiny, beast
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
+
+**Languages** carbuncle empathy 30 feet
+
+**Skills** Stealth +3, Survival +6
 
 **STR** -3, **DEX** +0, **CON** +3, **INT** -2, **WIS** +3, **CHA** +0
 
@@ -27,13 +31,13 @@ rare, n, tiny, beast
 
 Speed 15 feet
 
-**Melee** jaws +5 (finesse); **Damage** 1d6 piercing
+**Melee** ◆ jaws +5 (finesse); **Damage** 1d6 piercing
 
 **Innate primal Spells** (DC 18)
 
-  **1st** jump
+  **1st** jump (at will)
 
-  **3rd** levitate
+  **3rd** levitate (at will)
 
 **Specious Suggestion** ◆◆ (enchantment, incapacitation, mental) **Frequency** {"unit":"day","number":3}; The carbuncle concentrates on a creature it can see and tries to manipulate that creature. The target must attempt a DC 18 Will save. The target then becomes temporarily immune for 24 hours. **Critical Success** The attempt backfires and bolsters the target's mind instead, granting it a +1 status bonus to Will saving throws for 1 hour.
 **Success** The target briefly experiences an unusual but harmless sensation like an unexpected flavor or scent, an urge to eat something strange, or an amusing half-forgotten memory.

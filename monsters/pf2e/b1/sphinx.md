@@ -5,9 +5,11 @@ n, large, beast
 
 ---
 
-**Perception** +18
+**Perception** +18; {@ability darkvision}, {@spell detect magic}, {@spell see invisibility}
 
-**Languages** common, draconic, sphinx
+**Languages** common, draconic, sphinx; comprehend language
+
+**Skills** Arcana +17, Athletics +18, Deception +16, Diplomacy +16, Intimidation +18, Occultism +17, Bardic Lore +19
 
 **STR** +6, **DEX** +1, **CON** +3, **INT** +5, **WIS** +4, **CHA** +4
 
@@ -25,15 +27,19 @@ n, large, beast
 
 Speed 35 feet, fly 40 feet
 
-**Melee** claw +20 (agile); **Damage** 2d6+9 slashing
+**Melee** ◆ claw +20 (agile); **Damage** 2d6+9 slashing
 
 **Innate occult Spells** (DC 27)
+
+  **Constant (5th)** tongues
+
+  **Constant (2nd)** see invisibility
 
   **Cantrips (4th)** detect magic
 
   **3rd** dispel magic, locate
 
-  **4th** clairaudience, clairvoyance, read omens, remove curse
+  **4th** clairaudience (at will), clairvoyance (at will), read omens, remove curse
 
 **Claw Rake** ◆◆◆ The sphinx rears back on their hind legs and makes two claw Strikes at the same target, using the same attack bonus as their highest melee attack. If both attacks deal damage, the target takes extra damage equal to one claw Strike.
 

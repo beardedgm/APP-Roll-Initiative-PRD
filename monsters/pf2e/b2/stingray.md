@@ -5,7 +5,9 @@ n, medium, animal, aquatic
 
 ---
 
-**Perception** +6
+**Perception** +6; electrolocation 30 feet (imprecise), low-light vision
+
+**Skills** Athletics +5, Stealth +7
 
 **STR** +1, **DEX** +3, **CON** +1, **INT** -4, **WIS** +1, **CHA** -4
 
@@ -23,6 +25,6 @@ n, medium, animal, aquatic
 
 Speed swim 30 feet
 
-**Melee** sting +7 (agile, finesse); **Damage** 1d6+1 piercing plus stingray venom plus stingray venom
+**Melee** ◆ sting +7 (agile, finesse); **Damage** 1d6+1 piercing plus stingray venom plus stingray venom
 
 **Stingray Venom** (poison)

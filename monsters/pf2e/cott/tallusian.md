@@ -5,9 +5,11 @@ uncommon, medium, azata, celestial, holy
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
-**Languages** empyrean, fey
+**Languages** empyrean, fey; truespeech
+
+**Skills** Acrobatics +11, Architecture Lore +14, Athletics +11, Crafting +13, Nature +13, Stealth +11, Survival +13
 
 **STR** +2, **DEX** +2, **CON** +4, **INT** +1, **WIS** +3, **CHA** +2
 
@@ -25,19 +27,21 @@ uncommon, medium, azata, celestial, holy
 
 Speed 25 feet, climb 20 feet
 
-**Melee** jaws +14; **Damage** 2d8+8 piercing
+**Melee** ◆ jaws +14; **Damage** 2d8+8 piercing
 
-**Melee** claw +14 (agile); **Damage** 2d6+6 slashing
+**Melee** ◆ claw +14 (agile); **Damage** 2d6+6 slashing
 
-**Melee** tail +14; **Damage** 2d6+6 bludgeoning plus Knockdown
+**Melee** ◆ tail +14; **Damage** 2d6+6 bludgeoning plus Knockdown
 
-**Melee** quill +14 (agile, range increment <20 feet>); **Damage** 2d6+6 piercing
+**Ranged** ◆ quill +14 (agile, range increment <20 feet>); **Damage** 2d6+6 piercing
 
 **Innate divine Spells** (DC 22)
 
+  **Constant (5th)** truespeech
+
   **1st** pummeling rubble
 
-  **2nd** humanoid form
+  **2nd** humanoid form (at will)
 
   **4th** shape stone
 

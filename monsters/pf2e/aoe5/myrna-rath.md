@@ -5,9 +5,11 @@ unique, ne, medium, fiend, hag, humanoid
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, detect alignment, detect magic
 
 **Languages** abyssal, aklo, celestial, common, infernal
+
+**Skills** Arcana +30, Deception +31, Diplomacy +29, Intimidation +27, Occultism +32
 
 **STR** +8, **DEX** +7, **CON** +9, **INT** +6, **WIS** +8, **CHA** +5
 
@@ -35,23 +37,25 @@ unique, ne, medium, fiend, hag, humanoid
 
 Speed 25 feet
 
-**Melee** jaws +32 (magical); **Damage** 3d8+16 piercing plus 2d6 evil and Abyssal plague plus Abyssal plague
+**Melee** ◆ jaws +32 (magical); **Damage** 3d8+16 piercing plus 2d6 evil and Abyssal plague plus Abyssal plague
 
-**Melee** claw +32 (agile, magical); **Damage** 3d10+16 slashing plus 2d6 evil
+**Melee** ◆ claw +32 (agile, magical); **Damage** 3d10+16 slashing plus 2d6 evil
 
 **Innate occult Spells** (DC 41), attack +31
 
-  **4th** ray of enfeeblement, sleep
+  **Constant (6th)** detect alignment, detect magic
 
-  **5th** invisibility
+  **4th** ray of enfeeblement (at will), sleep (at will)
 
-  **6th** dream message, magic missile
+  **5th** invisibility (at will)
 
-  **7th** nightmare, shadow blast
+  **6th** dream message (at will), magic missile (at will)
+
+  **7th** nightmare, shadow blast (×2)
 
   **8th** dream council
 
-  **9th** bind soul, ethereal jaunt
+  **9th** bind soul (at will), ethereal jaunt (at will)
 
 **Abyssal Plague** (disease)
 

@@ -5,9 +5,11 @@ unique, ne, medium, angel, celestial
 
 ---
 
-**Perception** +35
+**Perception** +35; crystal sense 30 feet (imprecise), darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Acrobatics +35, Diplomacy +35, Intimidation +37, Religion +33
 
 **STR** +10, **DEX** +6, **CON** +7, **INT** +6, **WIS** +6, **CHA** +8
 
@@ -38,21 +40,23 @@ unique, ne, medium, angel, celestial
 
 Speed 40 feet, fly 75 feet
 
-**Melee** warhammer +38 (magical, shove); **Damage** 3d8+20 bludgeoning
+**Melee** ◆ warhammer +38 (magical, shove); **Damage** 3d8+20 bludgeoning
 
-**Melee** dagger +34 (agile, evocation, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+20 piercing
+**Melee** ◆ dagger +34 (agile, evocation, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+20 piercing
 
 **Innate divine Spells** (DC 39), attack +33
 
+  **Constant (5th)** tongues
+
   **Cantrips (7th)** light
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
-  **4th** discern lies, meld into stone
+  **4th** discern lies (at will), meld into stone
 
   **7th** blade barrier, divine decree, divine wrath, harm, unfettered pack, wall of ice
 
-  **8th** shatter
+  **8th** shatter (×2)
 
   **9th** nature's enmity, shattering gem
 

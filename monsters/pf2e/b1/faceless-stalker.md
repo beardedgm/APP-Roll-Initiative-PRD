@@ -5,9 +5,11 @@ ce, medium, aberration
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
-**Languages** alghollthu, aquan, common
+**Languages** alghollthu, aquan, common; tongues
+
+**Skills** Acrobatics +12, Athletics +12, Deception +13, Stealth +13, Thievery +9
 
 **STR** +4, **DEX** +3, **CON** +3, **INT** +0, **WIS** +2, **CHA** +3
 
@@ -25,11 +27,13 @@ ce, medium, aberration
 
 Speed 25 feet
 
-**Melee** longsword +14 (versatile <P>); **Damage** 1d8+6 slashing
+**Melee** ◆ longsword +14 (versatile <P>); **Damage** 1d8+6 slashing
 
-**Melee** claw +12 (agile); **Damage** 2d6+6 slashing plus Grab plus Grab
+**Melee** ◆ claw +12 (agile); **Damage** 2d6+6 slashing plus Grab plus Grab
 
 **Innate occult Spells** (DC 19)
+
+  **Constant (5th)** tongues
 
 **Assume Form** (concentrate, occult, polymorph, transmutation) The faceless stalker spends 10 minutes reshaping its appearance to take on the shape of any Small or Medium humanoid. It gains a +4 circumstance bonus to Deception checks to pass as that creature.
 

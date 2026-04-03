@@ -5,9 +5,11 @@ ce, large, giant, troll
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
 **Languages** jotun
+
+**Skills** Athletics +21, Intimidation +22, Survival +17
 
 **STR** +7, **DEX** +3, **CON** +7, **INT** -1, **WIS** +1, **CHA** +4
 
@@ -29,9 +31,9 @@ ce, large, giant, troll
 
 Speed 30 feet
 
-**Melee** jaws +23 (reach <10 feet>); **Damage** 2d12+13 piercing
+**Melee** ◆ jaws +23 (reach <10 feet>); **Damage** 2d12+13 piercing
 
-**Melee** claw +23 (agile, reach <10 feet>); **Damage** 2d8+13 slashing
+**Melee** ◆ claw +23 (agile, reach <10 feet>); **Damage** 2d8+13 slashing
 
 **Rend** ◆ (claw)
 

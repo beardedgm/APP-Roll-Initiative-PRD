@@ -5,9 +5,11 @@ rare, ce, medium, fiend, nindoru
 
 ---
 
-**Perception** +22
+**Perception** +22; {@ability darkvision}
 
 **Languages** aklo, common, necril
+
+**Skills** Acrobatics +25, Deception +24, Intimidation +22, Occultism +21, Stealth +25
 
 **STR** +4, **DEX** +7, **CON** +4, **INT** +3, **WIS** +4, **CHA** +6
 
@@ -35,13 +37,13 @@ rare, ce, medium, fiend, nindoru
 
 Speed 40 feet
 
-**Melee** claw +25 (agile, deadly <d6>, finesse, magical); **Damage** 3d8+7 slashing plus 1d6 mental and Grab plus Grab
+**Melee** ◆ claw +25 (agile, deadly <d6>, finesse, magical); **Damage** 3d8+7 slashing plus 1d6 mental and Grab plus Grab
 
 **Innate occult Spells** (DC 32), attack +24
 
   **Cantrips (6th)** daze, ghost sound, message
 
-  **2nd** death knell, item facade
+  **2nd** death knell (at will), item facade
 
   **5th** hallucination, phantasmal killer
 

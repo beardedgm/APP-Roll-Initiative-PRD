@@ -9,9 +9,11 @@ rare, n, medium, dwarf, humanoid, minion
 
 **Languages** common
 
+**Skills** Athletics +10, Deception +10
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** +0, **WIS** +2, **CHA** +0
 
-**Items** key ring (carried by Auldegrund's simulacrum), {@item scale mail}, {@item warhammer}
+**Items** key ring (carried by Auldegrund's simulacrum), scale mail, warhammer
 
 ---
 
@@ -25,4 +27,4 @@ rare, n, medium, dwarf, humanoid, minion
 
 Speed 25 feet
 
-**Melee** warhammer +12 (shove); **Damage** 1d8+4 bludgeoning
+**Melee** ◆ warhammer +12 (shove); **Damage** 1d8+4 bludgeoning

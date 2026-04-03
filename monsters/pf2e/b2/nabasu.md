@@ -5,9 +5,11 @@ ce, medium, demon, fiend
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +18, Arcana +16, Religion +16, Stealth +18, Survival +17
 
 **STR** +6, **DEX** +4, **CON** +6, **INT** +2, **WIS** +3, **CHA** +4
 
@@ -29,13 +31,13 @@ ce, medium, demon, fiend
 
 Speed 25 feet, fly 50 feet
 
-**Melee** jaws +20 (evil, magical); **Damage** 2d12+9 piercing plus 1d6 evil
+**Melee** ◆ jaws +20 (evil, magical); **Damage** 2d12+9 piercing plus 1d6 evil
 
-**Melee** claw +20 (agile, evil, magical); **Damage** 2d8+9 slashing plus 1d6 evil
+**Melee** ◆ claw +20 (agile, evil, magical); **Damage** 2d8+9 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 26)
 
-  **4th** dimension door, grim tendrils, paralyze, vampiric touch
+  **4th** dimension door (at will), grim tendrils, paralyze, vampiric touch
 
   **5th** dimension door
 

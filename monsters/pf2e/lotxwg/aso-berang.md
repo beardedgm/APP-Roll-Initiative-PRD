@@ -5,9 +5,11 @@ rare, large, spirit
 
 ---
 
-**Perception** +23
+**Perception** +23; {@ability darkvision}, {@ability scent} 120 feet (imprecise)
 
 **Languages** empyrean, fey, petran, tien
+
+**Skills** Arcana +21, Athletics +25, Intimidation +23, Nature +25, Occultism +21, Religion +25
 
 **STR** +7, **DEX** +5, **CON** +5, **INT** +3, **WIS** +7, **CHA** +5
 
@@ -27,11 +29,11 @@ rare, large, spirit
 
 Speed 35 feet, climb 25 feet
 
-**Melee** tusk +25 (magical, reach <10 feet>); **Damage** 3d12+10 piercing plus 2d4 fire
+**Melee** ◆ tusk +25 (magical, reach <10 feet>); **Damage** 3d12+10 piercing plus 2d4 fire
 
-**Melee** claw +25 (agile, magical, reach <10 feet>); **Damage** 2d4+10 slashing plus 2d4 fire
+**Melee** ◆ claw +25 (agile, magical, reach <10 feet>); **Damage** 2d4+10 slashing plus 2d4 fire
 
-**Melee** spectral flame +23 (divine, range <60 feet>); **Damage** 7d6 fire
+**Ranged** ◆ spectral flame +23 (divine, range <60 feet>); **Damage** 7d6 fire
 
 **Innate divine Spells** (DC 32)
 

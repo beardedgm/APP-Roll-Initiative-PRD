@@ -5,9 +5,11 @@ unique, ln, medium, humanoid, samsaran
 
 ---
 
-**Perception** +33
+**Perception** +33; low-light vision
 
 **Languages** celestial, samsaran, tien
+
+**Skills** Acrobatics +36, Athletics +33, Deception +33, Diplomacy +31, Occultism +33, Religion +34
 
 **STR** +5, **DEX** +8, **CON** +5, **INT** +5, **WIS** +6, **CHA** +5
 
@@ -33,13 +35,13 @@ unique, ln, medium, humanoid, samsaran
 
 Speed 40 feet
 
-**Melee** sal blossom +36 (deadly <d10>, finesse, magical, unarmed); **Damage** 4d10+13 negative
+**Melee** ◆ sal blossom +36 (deadly <d10>, finesse, magical, unarmed); **Damage** 4d10+13 negative
 
-**Melee** fist +36 (agile, finesse, magical, nonlethal, unarmed); **Damage** 4d6+13 bludgeoning
+**Melee** ◆ fist +36 (agile, finesse, magical, nonlethal, unarmed); **Damage** 4d6+13 bludgeoning
 
-**Melee** khakkhara +34 (magical, shove, two-hand <d10>, versatile <P>); **Damage** 4d6+13 bludgeoning
+**Melee** ◆ khakkhara +34 (magical, shove, two-hand <d10>, versatile <P>); **Damage** 4d6+13 bludgeoning
 
-**Melee** temple bell +36 (range <60 feet>, sonic); **Damage** 4d10+8 sonic
+**Ranged** ◆ temple bell +36 (range <60 feet>, sonic); **Damage** 4d10+8 sonic
 
 **Monk Ki Spells** (DC 40), attack +32
 

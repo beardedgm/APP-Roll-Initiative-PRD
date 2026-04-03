@@ -5,9 +5,11 @@ le, small, fiend, rakshasa
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
 **Languages** common, infernal, undercommon
+
+**Skills** Acrobatics +13, Deception +14, Stealth +13, Thievery +13
 
 **STR** +1, **DEX** +4, **CON** +3, **INT** +1, **WIS** +1, **CHA** +3
 
@@ -19,7 +21,7 @@ le, small, fiend, rakshasa
 
 **HP** 60
 
-**Resistances** physical 5
+**Resistances** physical 5 (except piercing)
 
 **Weaknesses** good 5
 
@@ -27,9 +29,9 @@ le, small, fiend, rakshasa
 
 Speed 25 feet, climb 20 feet
 
-**Melee** fangs +15 (finesse, magical); **Damage** 2d6+4 piercing plus 1d6 persistent bleed
+**Melee** ◆ fangs +15 (finesse, magical); **Damage** 2d6+4 piercing plus 1d6 persistent bleed
 
-**Melee** claw +15 (agile, finesse, magical); **Damage** 2d4+4 slashing
+**Melee** ◆ claw +15 (agile, finesse, magical); **Damage** 2d4+4 slashing
 
 **Spontaneous occult Spells** (DC 22), attack +15
 
@@ -39,7 +41,7 @@ Speed 25 feet, climb 20 feet
 
 **Innate occult Spells** (DC 19)
 
-  **3rd** clairaudience, mind reading
+  **3rd** clairaudience, mind reading (at will)
 
   **4th** clairvoyance
 

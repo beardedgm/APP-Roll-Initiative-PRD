@@ -5,9 +5,11 @@ uncommon, ce, medium, humanoid, mutant, serpentfolk
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision, scent 30 feet (imprecise)
 
-**Languages** aklo, undercommon
+**Languages** aklo, undercommon; telepathy 100 feet
+
+**Skills** Acrobatics +7, Athletics +11, Intimidation +6
 
 **STR** +4, **DEX** +2, **CON** +3, **INT** -3, **WIS** +1, **CHA** -1
 
@@ -29,11 +31,11 @@ uncommon, ce, medium, humanoid, mutant, serpentfolk
 
 Speed 25 feet
 
-**Melee** scimitar +11 (forceful, sweep); **Damage** 1d6+6 slashing
+**Melee** ◆ scimitar +11 (forceful, sweep); **Damage** 1d6+6 slashing
 
-**Melee** fangs +11; **Damage** 1d8+6 piercing plus serpentfolk venom plus serpentfolk venom
+**Melee** ◆ fangs +11; **Damage** 1d8+6 piercing plus serpentfolk venom plus serpentfolk venom
 
-**Melee** tail +11 (agile); **Damage** 1d6+6 bludgeoning plus Knockdown plus Knockdown
+**Melee** ◆ tail +11 (agile); **Damage** 1d6+6 bludgeoning plus Knockdown plus Knockdown
 
 **Serpentfolk Venom** (poison)
 

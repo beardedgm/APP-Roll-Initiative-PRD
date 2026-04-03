@@ -5,9 +5,11 @@ uncommon, lg, large, beast, couatl
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, detect alignment
 
-**Languages** celestial, common, draconic
+**Languages** celestial, common, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +16, Arcana +19, Diplomacy +22, Nature +22, Occultism +19, Religion +22, Survival +16
 
 **STR** +7, **DEX** +3, **CON** +5, **INT** +6, **WIS** +5, **CHA** +5
 
@@ -23,19 +25,19 @@ uncommon, lg, large, beast, couatl
 
 Speed 15 feet, fly 50 feet
 
-**Melee** jaws +23 (magical); **Damage** 2d10+13 piercing plus quetz couatl venom and Grab plus quetz couatl venom, Grab
+**Melee** ◆ jaws +23 (magical); **Damage** 2d10+13 piercing plus quetz couatl venom and Grab plus quetz couatl venom, Grab
 
 **Innate divine Spells** (DC 29)
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
-  **3rd** mind reading
+  **3rd** mind reading (at will)
 
   **4th** charm, gaseous form
 
   **5th** breath of life, divine wrath
 
-  **7th** ethereal jaunt, plane shift
+  **7th** ethereal jaunt (at will), plane shift
 
 **Greater Constrict** ◆ 2d10+7 bludgeoning, DC 29
 

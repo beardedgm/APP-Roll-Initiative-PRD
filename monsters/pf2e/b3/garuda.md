@@ -5,9 +5,11 @@ cg, medium, celestial
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision
 
 **Languages** celestial, common, vudrani
+
+**Skills** Acrobatics +21, Athletics +17, Intimidation +19, Religion +16, Stealth +19, Survival +16
 
 **STR** +4, **DEX** +6, **CON** +4, **INT** +2, **WIS** +3, **CHA** +4
 
@@ -25,17 +27,17 @@ cg, medium, celestial
 
 Speed 25 feet, fly 60 feet
 
-**Melee** beak +21 (finesse); **Damage** 2d10+7 piercing plus 1d6 good
+**Melee** ◆ beak +21 (finesse); **Damage** 2d10+7 piercing plus 1d6 good
 
-**Melee** talon +21 (agile, finesse); **Damage** 2d8+7 slashing plus 1d6 good
+**Melee** ◆ talon +21 (agile, finesse); **Damage** 2d8+7 slashing plus 1d6 good
 
-**Melee** shock composite longbow +22 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+5 piercing plus 1d6 electricity and 1d6 good
+**Ranged** ◆ shock composite longbow +22 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+5 piercing plus 1d6 electricity and 1d6 good
 
 **Innate divine Spells** (DC 27)
 
-  **1st** true strike
+  **1st** true strike (at will)
 
-  **2nd** see invisibility
+  **2nd** see invisibility (×3)
 
   **3rd** haste
 

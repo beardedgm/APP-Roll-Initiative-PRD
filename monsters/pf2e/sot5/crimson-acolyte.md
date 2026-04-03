@@ -9,6 +9,8 @@ rare, ce, medium, human, humanoid
 
 **Languages** akitonian, aklo, common
 
+**Skills** Acrobatics +24, Athletics +24, Arcana +22, Stealth +24
+
 **STR** +5, **DEX** +4, **CON** +0, **INT** +3, **WIS** +4, **CHA** +0
 
 **Items** +2 striking dueling pistol (10 thasteron rounds; Guns & Gears 152), +2 striking handwraps of mighty blows
@@ -31,11 +33,11 @@ rare, ce, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** fist +27 (agile, magical, unarmed); **Damage** 2d6+11 bludgeoning
+**Melee** ◆ fist +27 (agile, magical, unarmed); **Damage** 2d6+11 bludgeoning
 
-**Melee** thousand wounds +27 (backstabber, forceful, magical, unarmed); **Damage** 2d12+11 piercing
+**Melee** ◆ thousand wounds +27 (backstabber, forceful, magical, unarmed); **Damage** 2d12+11 piercing
 
-**Melee** dueling pistol +26 (concealable, concussive, fatal <d10>, magical, range increment <60 feet>, reload <1>); **Damage** 2d6+10 piercing
+**Ranged** ◆ dueling pistol +26 (concealable, concussive, fatal <d10>, magical, range increment <60 feet>, reload <1>); **Damage** 2d6+10 piercing
 
 **Flurry of Blows** ◆ (flourish) **Frequency** {"number":1,"unit":"turn"}; The acolyte makes two unarmed Strikes, or one unarmed Strike and a dueling pistol Strike. If both hit the same creature, combine their damages for the purposes of resistances and weaknesses. The acolyte's multiple attack penalty applies normally to these Strikes.
 

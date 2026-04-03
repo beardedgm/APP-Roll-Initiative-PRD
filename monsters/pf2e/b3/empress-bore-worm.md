@@ -5,7 +5,9 @@ n, huge, animal
 
 ---
 
-**Perception** +13
+**Perception** +13; {@ability tremorsense} 60 feet (imprecise)
+
+**Skills** Athletics +17, Stealth +14
 
 **STR** +6, **DEX** +3, **CON** +5, **INT** -5, **WIS** +2, **CHA** -4
 
@@ -27,7 +29,7 @@ n, huge, animal
 
 Speed 25 feet, burrow 40 feet
 
-**Melee** bite +17 (reach <15 feet>); **Damage** 2d6+9 piercing plus 1d6 acid and painful bite plus painful bite
+**Melee** ◆ bite +17 (reach <15 feet>); **Damage** 2d6+9 piercing plus 1d6 acid and painful bite plus painful bite
 
 **Borer** An empress bore worm can leave a tunnel behind itself when it burrows, and it usually does.
 

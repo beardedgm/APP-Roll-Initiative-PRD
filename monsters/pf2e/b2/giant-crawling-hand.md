@@ -5,9 +5,11 @@ ne, medium, undead
 
 ---
 
-**Perception** +12
+**Perception** +12; lifesense 30 feet, {@ability tremorsense} 30 feet (imprecise)
 
 **Languages** common (can't speak any language)
+
+**Skills** Athletics +13, Stealth +11, Survival +12
 
 **STR** +4, **DEX** +2, **CON** +4, **INT** -4, **WIS** +3, **CHA** +0
 
@@ -30,6 +32,6 @@ ne, medium, undead
 
 Speed 20 feet
 
-**Melee** claw +15; **Damage** 2d6+7 slashing plus Grab plus Grab
+**Melee** ◆ claw +15; **Damage** 2d6+7 slashing plus Grab plus Grab
 
 **Mark Quarry** A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to Perception checks when it Seeks its quarry, to Survival checks when it Tracks its quarry, and damage rolls when it Strikes its quarry.

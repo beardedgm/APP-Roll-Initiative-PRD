@@ -5,9 +5,11 @@ rare, ce, huge, giant, mutant, troll
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision
 
 **Languages** jotun
+
+**Skills** Athletics +29, Intimidation +27
 
 **STR** +8, **DEX** +4, **CON** +8, **INT** -1, **WIS** +6, **CHA** +4
 
@@ -33,11 +35,11 @@ rare, ce, huge, giant, mutant, troll
 
 Speed 30 feet, climb 20 feet
 
-**Melee** jaws +29 (reach <15 feet>); **Damage** 3d12+14 piercing
+**Melee** ◆ jaws +29 (reach <15 feet>); **Damage** 3d12+14 piercing
 
-**Melee** claw +29 (agile, reach <15 feet>); **Damage** 3d10+14 slashing
+**Melee** ◆ claw +29 (agile, reach <15 feet>); **Damage** 3d10+14 slashing
 
-**Melee** rock +30 (brutal, range increment <120 feet>); **Damage** 2d12+14 bludgeoning
+**Ranged** ◆ rock +30 (brutal, range increment <120 feet>); **Damage** 2d12+14 bludgeoning
 
 **Cacophonous Roar** ◆◆ (auditory, emotion, enchantment, incapacitation, mental, primal) The jotund troll emits a cacophonous roar from all their heads with a mystical power that distorts the listener's mind. Each non-troll creature within 100 feet must attempt a DC 34 Will save. The jotund troll can't use Cacophonous Roar for 1d4 rounds. **Critical Success** The creature is unaffected and is temporarily immune to Cacophonous Roar for 24 hours.
 **Success** The creature is stupefied 1 for 1 round.

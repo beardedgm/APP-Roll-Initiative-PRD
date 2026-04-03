@@ -5,7 +5,9 @@ uncommon, n, large, animal, swarm
 
 ---
 
-**Perception** +17
+**Perception** +17; bonesense 30 feet (imprecise), darkvision
+
+**Skills** Acrobatics +17
 
 **STR** -4, **DEX** +5, **CON** +4, **INT** -5, **WIS** +2, **CHA** -5
 

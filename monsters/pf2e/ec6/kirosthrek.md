@@ -5,9 +5,11 @@ unique, ne, medium, humanoid, xulgath
 
 ---
 
-**Perception** +36
+**Perception** +36; darkvision, thoughtsense 60 feet (imprecise), true seeing
 
 **Languages** abyssal, common, daemonic, draconic
+
+**Skills** Arcana +36, Deception +33, Diplomacy +41, Medicine +38, Occultism +38, Stealth +37
 
 **STR** +3, **DEX** +3, **CON** +1, **INT** +4, **WIS** +4, **CHA** +7
 
@@ -31,9 +33,9 @@ unique, ne, medium, humanoid, xulgath
 
 Speed 25 feet, fly 35 feet
 
-**Melee** jaws +34 (magical); **Damage** 4d8+6 piercing plus 4d6 mental
+**Melee** ◆ jaws +34 (magical); **Damage** 4d8+6 piercing plus 4d6 mental
 
-**Melee** claw +34 (agile, magical); **Damage** 4d4+6 slashing plus 4d6 mental
+**Melee** ◆ claw +34 (agile, magical); **Damage** 4d4+6 slashing plus 4d6 mental
 
 **Spontaneous occult Spells** (DC 42)
 
@@ -63,11 +65,11 @@ Speed 25 feet, fly 35 feet
 
   **Cantrips (10th)** telekinetic projectile
 
-  **2nd** telekinetic maneuver
+  **2nd** telekinetic maneuver (at will)
 
-  **5th** telekinetic haul
+  **5th** telekinetic haul (at will)
 
-  **8th** phantom pain
+  **8th** phantom pain (at will)
 
 **Constant** (10th) fly, true seeing Occult Rituals DC 42; call spirit, inveigle, planar binding.
 

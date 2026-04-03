@@ -5,9 +5,11 @@ unique, ne, large, beast, fiend
 
 ---
 
-**Perception** +15
+**Perception** +15; low-light vision
 
 **Languages** auran, common, sylvan (can't speak any
+
+**Skills** Acrobatics +15, Athletics +12
 
 **STR** +4, **DEX** +5, **CON** +2, **INT** +0, **WIS** +3, **CHA** +1
 
@@ -29,9 +31,9 @@ unique, ne, large, beast, fiend
 
 Speed 10 feet, fly 60 feet
 
-**Melee** beak +17; **Damage** 2d10+8 piercing
+**Melee** ◆ beak +17; **Damage** 2d10+8 piercing
 
-**Melee** talon +17 (agile); **Damage** 2d6+8 slashing plus
+**Melee** ◆ talon +17 (agile); **Damage** 2d6+8 slashing plus
 
 **Grab**
 

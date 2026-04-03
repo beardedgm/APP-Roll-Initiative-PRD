@@ -5,9 +5,11 @@ rare, ne, medium, undead
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision
 
 **Languages** common, necril
+
+**Skills** Athletics +34, Intimidation +33, Warfare Lore +28
 
 **STR** +9, **DEX** +1, **CON** +7, **INT** +3, **WIS** +6, **CHA** +8
 
@@ -31,9 +33,9 @@ rare, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** greater flaming greataxe +33 (magical, sweep); **Damage** 3d12+19 slashing plus 1d6 fire
+**Melee** ◆ greater flaming greataxe +33 (magical, sweep); **Damage** 3d12+19 slashing plus 1d6 fire
 
-**Melee** greater flaming javelin +29 (magical, thrown <30 feet>); **Damage** 3d6+19 piercing plus 1d6 fire
+**Ranged** ◆ greater flaming javelin +29 (magical, thrown <30 feet>); **Damage** 3d6+19 piercing plus 1d6 fire
 
 **Devastating Blast** ◆◆ (arcane, evocation, fire) The graveknight unleashes a 30-foot cone of energy. Creatures in the area take 10d12 fire damage (DC 37 basic Reflex save). The graveknight can't use this ability again for 1d4 rounds.
 

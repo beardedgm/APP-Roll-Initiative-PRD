@@ -5,9 +5,11 @@ uncommon, le, huge, dragon
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, scent 30 feet (imprecise)
 
 **Languages** common, draconic, mwangi
+
+**Skills** Deception +20, Diplomacy +18, Intimidation +18, Society +16, Stealth +16
 
 **STR** +6, **DEX** +2, **CON** +3, **INT** +4, **WIS** +3, **CHA** +6
 
@@ -27,9 +29,9 @@ uncommon, le, huge, dragon
 
 Speed 40 feet, fly 60 feet, climb 20 feet
 
-**Melee** jaws +20 (reach <15 feet>); **Damage** 2d12+9 piercing
+**Melee** ◆ jaws +20 (reach <15 feet>); **Damage** 2d12+9 piercing
 
-**Melee** tail +20 (reach <15 feet>); **Damage** 2d6+9 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tail +20 (reach <15 feet>); **Damage** 2d6+9 bludgeoning plus Improved Grab plus Improved Grab
 
 **Innate occult Spells** (DC 26)
 

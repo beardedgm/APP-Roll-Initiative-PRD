@@ -5,9 +5,11 @@ rare, ne, large, aberration, astral
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision
 
 **Languages** abyssal, aklo, celestial, daemonic, infernal, protean, requian, utopian
+
+**Skills** Arcana +38, Deception +38, Stealth +34, Thievery +32, Portal Lore +41
 
 **STR** +6, **DEX** +7, **CON** +6, **INT** +7, **WIS** +8, **CHA** +5
 
@@ -21,7 +23,7 @@ rare, ne, large, aberration, astral
 
 **Immunities** acid, paralyzed, sleep
 
-**Resistances** cold 15, physical 10
+**Resistances** cold 15, physical 10 (except cold iron)
 
 **Hostile Juxtaposition** ◈ (arcane, teleportation) **Trigger** A creature targets the vazgorlu with a Strike; The vazgorlu chooses a different creature within 60 feet and attempts to swap places with that creature using dimension door in the instant before the Strike. The target must attempt a DC 39 Will save. **Critical Success** The target resists the teleportation, and the vazgorlu can't use Hostile Juxtaposition for 1d4 rounds.
 **Success** The target resists the teleportation.
@@ -32,15 +34,17 @@ rare, ne, large, aberration, astral
 
 Speed 30 feet, climb 30 feet
 
-**Melee** fangs +38 (reach <10 feet>); **Damage** 4d10+8 piercing plus 3d10 acid
+**Melee** ◆ fangs +38 (reach <10 feet>); **Damage** 4d10+8 piercing plus 3d10 acid
 
-**Melee** web +38 (range increment <60 feet>); **Damage** 6d6+8 acid plus dimensional tether plus dimensional tether
+**Ranged** ◆ web +38 (range increment <60 feet>); **Damage** 6d6+8 acid plus dimensional tether plus dimensional tether
 
 **Innate arcane Spells** (DC 35)
 
-  **4th** dimension door
+  **Constant (4th)** air walk
 
-  **7th** plane shift, teleport
+  **4th** dimension door (at will)
+
+  **7th** plane shift, teleport (×3)
 
 **Dimensional Tether** A creature hit by a vazgorlu's web Strike is immobilized and stuck to the nearest surface until it Escapes (DC 42). As long as it remains immobilized by the web, the web attempts to counteract any effect that would move the webbed creature to another plane, with a counteract level of 10 and using the vazgorlu's Arcana skill to attempt the counteract check.
 

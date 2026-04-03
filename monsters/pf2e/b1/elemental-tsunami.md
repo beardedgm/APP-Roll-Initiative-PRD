@@ -5,9 +5,11 @@ n, huge, aquatic, elemental, water
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** aquan
+
+**Skills** Athletics +23, Stealth +23
 
 **STR** +6, **DEX** +6, **CON** +6, **INT** +0, **WIS** +3, **CHA** +0
 
@@ -31,7 +33,7 @@ n, huge, aquatic, elemental, water
 
 Speed 35 feet, swim 100 feet
 
-**Melee** wave +24 (reach <20 feet>); **Damage** 2d12+12 bludgeoning plus Push or Pull 10 feet
+**Melee** ◆ wave +24 (reach <20 feet>); **Damage** 2d12+12 bludgeoning plus Push or Pull 10 feet
 
 **Drench** ◆ (abjuration, primal, water) The elemental puts out all fires in a 20-foot emanation. It extinguishes all non-magical fires automatically and attempts to counteract magical fires (+20 counteract modifier).
 

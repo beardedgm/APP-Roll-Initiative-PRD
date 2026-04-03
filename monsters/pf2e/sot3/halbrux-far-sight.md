@@ -5,9 +5,11 @@ unique, ne, large, giant, humanoid
 
 ---
 
-**Perception** +21
+**Perception** +21; low-light vision
 
 **Languages** common, cyclops, jotun
+
+**Skills** Athletics +22, Crafting +22, Fortune-telling Lore +22, Ghol-gan Lore +24, Intimidation +22, Occultism +22, Religion +21, Survival +19
 
 **STR** +7, **DEX** +0, **CON** +2, **INT** +7, **WIS** +2, **CHA** +5
 
@@ -29,7 +31,7 @@ unique, ne, large, giant, humanoid
 
 Speed 30 feet
 
-**Melee** greatclub +24 (backswing, magical, shove); **Damage** 2d10+9 bludgeoning
+**Melee** ◆ greatclub +24 (backswing, magical, shove); **Damage** 2d10+9 bludgeoning
 
 **Spontaneous divine Spells** (DC 30), attack +22
 

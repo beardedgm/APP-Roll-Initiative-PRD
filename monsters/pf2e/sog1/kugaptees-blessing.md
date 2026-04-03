@@ -5,7 +5,9 @@ rare, ne, medium, mindless, undead, zombie
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
+
+**Skills** Athletics +9
 
 **STR** +5, **DEX** -3, **CON** +4, **INT** -5, **WIS** +0, **CHA** -2
 
@@ -27,4 +29,4 @@ rare, ne, medium, mindless, undead, zombie
 
 Speed 25 feet
 
-**Melee** fist +11 (reach <10 feet>); **Damage** 1d12+5 bludgeoning plus Improved Push 5 feet
+**Melee** ◆ fist +11 (reach <10 feet>); **Damage** 1d12+5 bludgeoning plus Improved Push 5 feet

@@ -5,9 +5,11 @@ uncommon, large, dragon
 
 ---
 
-**Perception** +18
+**Perception** +18; {@ability darkvision}, goldsense 120 feet (precise)
 
 **Languages** draconic
+
+**Skills** Acrobatics +14, Athletics +18, Religion +16
 
 **STR** +6, **DEX** +2, **CON** +6, **INT** -2, **WIS** +4, **CHA** +4
 
@@ -31,13 +33,13 @@ uncommon, large, dragon
 
 Speed 30 feet, fly 40 feet
 
-**Melee** jaws +20 (magical); **Damage** 2d10+5 piercing plus 1d4 holy and Devour Wealth plus Devour Wealth
+**Melee** ◆ jaws +20 (magical); **Damage** 2d10+5 piercing plus 1d4 holy and Devour Wealth plus Devour Wealth
 
-**Melee** claw +20 (agile, magical); **Damage** 2d6+5 slashing plus 1d4 spirit
+**Melee** ◆ claw +20 (agile, magical); **Damage** 2d6+5 slashing plus 1d4 spirit
 
 **Innate divine Spells** (DC 26)
 
-  **4th** cleanse affliction
+  **4th** cleanse affliction (×3)
 
 **Devour Wealth** ◆ **Requirements** The pixiu's previous action was a successful jaws Strike; The pixiu swallows up to 2d12 gold pieces on the target's person and gains temporary Hit Points equal to the amount devoured. These temporary Hit Points last for 1 minute.
 

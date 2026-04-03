@@ -5,9 +5,11 @@ uncommon, cg, huge, amphibious, dragon, water
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, wavesense 60 feet (imprecise)
 
 **Languages** aquan, auran, common, draconic, elven
+
+**Skills** Acrobatics +23, Arcana +18, Athletics +26, Deception +19, Intimidation +21, Nature +22, Society +18, Stealth +21, Survival +20
 
 **STR** +6, **DEX** +5, **CON** +4, **INT** +2, **WIS** +4, **CHA** +3
 
@@ -29,17 +31,19 @@ uncommon, cg, huge, amphibious, dragon, water
 
 ---
 
-Speed 30 feet, fly 100 feet, swim 50 feet
+Speed 30 feet, fly 100 feet, swim 50 feet, water walk
 
-**Melee** jaws +26 (magical, reach <15 feet>); **Damage** 3d10+12 piercing plus hyponatremia plus hyponatremia
+**Melee** ◆ jaws +26 (magical, reach <15 feet>); **Damage** 3d10+12 piercing plus hyponatremia plus hyponatremia
 
-**Melee** claw +26 (agile, magical, reach <10 feet>); **Damage** 3d8+12 slashing plus Grab plus Grab
+**Melee** ◆ claw +26 (agile, magical, reach <10 feet>); **Damage** 3d8+12 slashing plus Grab plus Grab
 
-**Melee** tail +26 (magical, reach <25 feet>); **Damage** 3d8+12 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +26 (magical, reach <25 feet>); **Damage** 3d8+12 bludgeoning plus Grab plus Grab
 
 **Innate arcane Spells** (DC 32)
 
-  **2nd** create water, endure elements
+  **Constant (2nd)** water walk
+
+  **2nd** create water (at will), endure elements
 
 **Breath Weapon** ◆◆ (arcane, evocation, water) The dragon shoots a ball of water that deals 13d6 bludgeoning damage in a 25-foot burst within 50 feet (DC 32 basic Reflex save). All non-magical fire in the radius is extinguished. The dragon can't use Breath Weapon again for 1d4 rounds.
 

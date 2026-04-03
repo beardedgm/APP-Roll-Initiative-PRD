@@ -5,9 +5,11 @@ uncommon, ne, medium, humanoid
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
-**Languages** common
+**Languages** common; one regional language (can't speak any language)
+
+**Skills** Acrobatics +22, Athletics +24, Deception +24, Intimidation +22, Stealth +24
 
 **STR** +7, **DEX** +5, **CON** +6, **INT** +1, **WIS** +3, **CHA** +5
 
@@ -33,10 +35,10 @@ uncommon, ne, medium, humanoid
 
 Speed 25 feet
 
-**Melee** cleaver +24 (forceful, sweep); **Damage** 2d12+7 slashing
+**Melee** ◆ cleaver +24 (forceful, sweep); **Damage** 2d12+7 slashing
 
-**Melee** fist +24 (agile, nonlethal); **Damage** 2d10+7 bludgeoning
+**Melee** ◆ fist +24 (agile, nonlethal); **Damage** 2d10+7 bludgeoning
 
-**Melee** cleaver +22 (thrown <10 feet>); **Damage** 2d12+7 slashing
+**Ranged** ◆ cleaver +22 (thrown <10 feet>); **Damage** 2d12+7 slashing
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The faceless butcher can take on the exact form of any Small, Medium, or Large humanoid whose face they carry in their bag of faces, changing their shape and physical features to precisely match that of the victim whose face they wear. This doesn't change the butcher's.

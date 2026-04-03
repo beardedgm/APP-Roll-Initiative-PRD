@@ -5,11 +5,13 @@ uncommon, medium, construct, divine, mindless
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision
+
+**Skills** Intimidation +32
 
 **STR** +0, **DEX** +9, **CON** +6, **INT** -5, **WIS** +4, **CHA** -5
 
-**Items** {@item rapier|PC1}
+**Items** rapier|PC1
 
 ---
 
@@ -34,7 +36,7 @@ uncommon, medium, construct, divine, mindless
 
 Speed 25 feet
 
-**Melee** greater striking rapier +33 (deadly <2d8>, disarm, finesse, magical); **Damage** 3d6+19 piercing
+**Melee** ◆ greater striking rapier +33 (deadly <2d8>, disarm, finesse, magical); **Damage** 3d6+19 piercing
 
 **Innate divine Spells** (DC 37), attack +29
 

@@ -5,9 +5,11 @@ uncommon, ce, huge, dragon, fire
 
 ---
 
-**Perception** +35
+**Perception** +35; darkvision, scent 60 feet (imprecise), smoke vision
 
 **Languages** abyssal, common, draconic, dwarven, jotun, orcish
+
+**Skills** Acrobatics +30, Arcana +35, Athletics +37, Deception +35, Diplomacy +35, Intimidation +37, Stealth +33
 
 **STR** +9, **DEX** +5, **CON** +8, **INT** +5, **WIS** +6, **CHA** +7
 
@@ -37,19 +39,19 @@ uncommon, ce, huge, dragon, fire
 
 Speed 60 feet, fly 180 feet
 
-**Melee** jaws +37 (fire, magical, reach <20 feet>); **Damage** 4d10+17 piercing plus 3d6 fire
+**Melee** ◆ jaws +37 (fire, magical, reach <20 feet>); **Damage** 4d10+17 piercing plus 3d6 fire
 
-**Melee** claw +37 (agile, magical, reach <15 feet>); **Damage** 4d8+17 slashing
+**Melee** ◆ claw +37 (agile, magical, reach <15 feet>); **Damage** 4d8+17 slashing
 
-**Melee** tail +35 (magical, reach <25 feet>); **Damage** 4d10+15 slashing
+**Melee** ◆ tail +35 (magical, reach <25 feet>); **Damage** 4d10+15 slashing
 
-**Melee** wing +35 (agile, magical, reach <20 feet>); **Damage** 3d8+15 slashing
+**Melee** ◆ wing +35 (agile, magical, reach <20 feet>); **Damage** 3d8+15 slashing
 
 **Innate arcane Spells** (DC 42)
 
   **Cantrips (9th)** detect magic, read aura
 
-  **4th** suggestion
+  **4th** suggestion (at will)
 
 **Breath Weapon** ◆◆ (arcane, evocation, fire) The dragon breathes a blast of flame that deals 20d6 fire damage in a 60-foot cone (DC 42 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

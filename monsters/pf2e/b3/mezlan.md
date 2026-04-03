@@ -5,9 +5,11 @@ rare, n, medium, ooze
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
 
-**Languages** aklo, azlanti
+**Languages** aklo, azlanti; polyglot
+
+**Skills** Athletics +28, Deception +27, Occultism +24, Stealth +28
 
 **STR** +8, **DEX** +6, **CON** +5, **INT** +4, **WIS** +5, **CHA** +5
 
@@ -33,9 +35,9 @@ rare, n, medium, ooze
 
 Speed 30 feet
 
-**Melee** polymorphic appendage +30 (magical, versatile <P>, versatile <S>); **Damage** 3d12+14 bludgeoning
+**Melee** ◆ polymorphic appendage +30 (magical, versatile <P>, versatile <S>); **Damage** 3d12+14 bludgeoning
 
-**Melee** ooze globule +28 (range increment <30 feet>); plus viscous trap
+**Ranged** ◆ ooze globule +28 (range increment <30 feet>); plus viscous trap
 
 **Change Shape** ◆ (concentrate, polymorph, transmutation) The mezlan assumes the form of any Medium or Small creature, excluding those with the elemental, incorporeal, or swarm traits but including specific individuals whose appearance they've seen. This doesn't change the mezlan's Speed or their attack and damage bonus with their Strikes, but the damage type dealt by their Strikes might change based on their new form (page 304).
 

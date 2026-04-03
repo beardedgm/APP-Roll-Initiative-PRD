@@ -7,7 +7,9 @@ unique, ce, medium, fey
 
 **Perception** +14
 
-**Languages** common, sylvan
+**Languages** common, sylvan; telepathy 100 feet
+
+**Skills** Arcana +10, First World Lore +10, Intimidation +12, Occultism +12, Stealth +12, Survival +8
 
 **STR** +3, **DEX** +5, **CON** +2, **INT** +2, **WIS** +3, **CHA** +4
 
@@ -31,7 +33,7 @@ unique, ce, medium, fey
 
 Speed 30 feet
 
-**Melee** claw +14; **Damage** 1d6+1 slashing plus shadowfeed
+**Melee** ◆ claw +14; **Damage** 1d6+1 slashing plus shadowfeed
 
 **Innate primal Spells** (DC 21)
 

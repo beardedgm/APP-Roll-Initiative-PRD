@@ -5,13 +5,15 @@ unique, ce, medium, gnoll, humanoid
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **Languages** abyssal, gnoll, taldane
 
+**Skills** Intimidation +10, Medicine +10, Religion +13, Stealth +10, Survival +12
+
 **STR** +3, **DEX** +3, **CON** +2, **INT** +1, **WIS** +5, **CHA** +4
 
-**Items** {@item falchion}, {@item hide||hide armor}, {@item staff of conjuration}, {@item wooden religious symbol}
+**Items** falchion, hide armor, staff of conjuration, wooden religious symbol
 
 ---
 
@@ -25,9 +27,9 @@ unique, ce, medium, gnoll, humanoid
 
 Speed 25 feet
 
-**Melee** falchion +13 (forceful, sweep); **Damage** 1d10+7 slashing
+**Melee** ◆ falchion +13 (forceful, sweep); **Damage** 1d10+7 slashing
 
-**Melee** jaws +13 (agile); **Damage** 1d6+7 piercing
+**Melee** ◆ jaws +13 (agile); **Damage** 1d6+7 piercing
 
 **Prepared divine Spells** (DC 24), attack +12
 
@@ -35,7 +37,7 @@ Speed 25 feet
 
   **1st** command, fear, magic weapon
 
-  **2nd** darkness, harm, spiritual weapon
+  **2nd** darkness, harm (×4), spiritual weapon
 
   **3rd** harm, vampiric touch
 

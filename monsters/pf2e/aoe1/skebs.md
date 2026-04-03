@@ -9,6 +9,8 @@ cn, small, halfling, humanoid
 
 **Languages** common, halfling
 
+**Skills** Acrobatics +5, Deception +2, Stealth +5, Thievery +5
+
 **STR** +0, **DEX** +3, **CON** +1, **INT** +1, **WIS** +2, **CHA** +0
 
 **Items** daggers (4), studded leather armor
@@ -27,8 +29,8 @@ cn, small, halfling, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +8 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
+**Melee** ◆ dagger +8 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
 
-**Melee** dagger +8 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
+**Ranged** ◆ dagger +8 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
 
 **Sneak Attack** (precision) Skebs deals 1d6 extra precision damage to flat-footed creatures.

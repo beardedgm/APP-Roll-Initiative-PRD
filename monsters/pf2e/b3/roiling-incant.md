@@ -7,6 +7,8 @@ uncommon, n, large, arcane, evocation, mindless
 
 **Perception** +15
 
+**Skills** Acrobatics +19
+
 **STR** +4, **DEX** +4, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -25,15 +27,15 @@ uncommon, n, large, arcane, evocation, mindless
 
 Speed fly 40 feet
 
-**Melee** arcane tendril +19 (arcane, evocation, magical, reach <10 feet>); **Damage** 2d12+10 force
+**Melee** ◆ arcane tendril +19 (arcane, evocation, magical, reach <10 feet>); **Damage** 2d12+10 force
 
-**Melee** arcane bolt +19 (arcane, evocation, magic, range increment <30 feet>); **Damage** 2d10+10 force
+**Ranged** ◆ arcane bolt +19 (arcane, evocation, magic, range increment <30 feet>); **Damage** 2d10+10 force
 
 **Innate arcane Spells** (DC 30), attack +20
 
   **3rd** fireball
 
-  **4th** wall of fire
+  **4th** wall of fire (at will)
 
 **Engulf** ◆◆ DC 28, 2d8 force plus 4d4 fire, Escape DC 28, Rupture 20 (page 305)
 

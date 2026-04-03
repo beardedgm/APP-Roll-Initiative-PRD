@@ -5,9 +5,11 @@ n, huge, amphibious, dragon
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
 **Languages** aquan, common, draconic
+
+**Skills** Athletics +21, Diplomacy +16, Intimidation +18, Stealth +13, Survival +17
 
 **STR** +6, **DEX** +0, **CON** +4, **INT** +1, **WIS** +3, **CHA** +1
 

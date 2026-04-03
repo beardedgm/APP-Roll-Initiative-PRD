@@ -5,7 +5,9 @@ ln, tiny, construct, mindless
 
 ---
 
-**Perception** +9
+**Perception** +9; {@ability darkvision}
+
+**Skills** Acrobatics +13
 
 **STR** +5, **DEX** +4, **CON** +2, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -25,4 +27,4 @@ ln, tiny, construct, mindless
 
 Speed fly 20 feet
 
-**Melee** battle axe +14 (sweep); **Damage** 1d8+7 slashing plus 1d6 persistent bleed
+**Melee** ◆ battle axe +14 (sweep); **Damage** 1d8+7 slashing plus 1d6 persistent bleed

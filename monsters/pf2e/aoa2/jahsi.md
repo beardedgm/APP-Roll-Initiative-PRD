@@ -5,9 +5,11 @@ unique, ng, medium, elf, humanoid
 
 ---
 
-**Perception** +14
+**Perception** +14; low-light vision
 
 **Languages** common, elven, mwangi
+
+**Skills** Athletics +14, Diplomacy +17, Nature +14, Religion +16, Survival +14
 
 **STR** +4, **DEX** +4, **CON** +1, **INT** +1, **WIS** +2, **CHA** +3
 
@@ -29,15 +31,15 @@ unique, ng, medium, elf, humanoid
 
 Speed 30 feet
 
-**Melee** disrupting cold iron dagger +19 (agile, magical, versatile <S>); **Damage** 1d4+7 piercing plus 1d6 positive to undead
+**Melee** ◆ disrupting cold iron dagger +19 (agile, magical, versatile <S>); **Damage** 1d4+7 piercing plus 1d6 positive to undead
 
-**Melee** silver dagger +19 (agile, magical, versatile <S>); **Damage** 2d4+7 piercing
+**Melee** ◆ silver dagger +19 (agile, magical, versatile <S>); **Damage** 2d4+7 piercing
 
-**Melee** longbow +19 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+3 piercing
+**Ranged** ◆ longbow +19 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+3 piercing
 
-**Melee** disrupting cold iron dagger +19 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing plus 1d6 positive to undead
+**Ranged** ◆ disrupting cold iron dagger +19 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing plus 1d6 positive to undead
 
-**Melee** silver dagger +19 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+7 piercing
+**Ranged** ◆ silver dagger +19 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+7 piercing
 
 **Champion Devotion Spells** (DC 25)
 

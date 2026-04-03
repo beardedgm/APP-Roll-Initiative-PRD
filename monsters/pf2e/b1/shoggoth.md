@@ -5,9 +5,11 @@ rare, cn, huge, aberration, amphibious
 
 ---
 
-**Perception** +34
+**Perception** +34; darkvision, scent 60 feet (imprecise), {@ability tremorsense} 60 feet (imprecise)
 
 **Languages** aklo
+
+**Skills** Athletics +36, Intimidation +29
 
 **STR** +10, **DEX** +6, **CON** +9, **INT** -3, **WIS** +6, **CHA** +1
 
@@ -29,7 +31,7 @@ rare, cn, huge, aberration, amphibious
 
 Speed 40 feet, swim 50 feet, climb 25 feet
 
-**Melee** pseudopod +35 (magical, reach <30 feet>); **Damage** 4d10+18 bludgeoning plus Grab plus Grab
+**Melee** ◆ pseudopod +35 (magical, reach <30 feet>); **Damage** 4d10+18 bludgeoning plus Grab plus Grab
 
 **Constrict** ◆ 2d10+15 bludgeoning.
 

@@ -5,9 +5,11 @@ ne, medium, fiend, sahkil
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision, scent 100 feet (imprecise)
 
-**Languages** abyssal, celestial, infernal, requian
+**Languages** abyssal, celestial, infernal, requian; telepathy 60 feet
+
+**Skills** Athletics +12, Deception +10, Intimidation +12, Stealth +10
 
 **STR** +4, **DEX** +2, **CON** +3, **INT** +0, **WIS** +3, **CHA** +2
 
@@ -29,15 +31,15 @@ ne, medium, fiend, sahkil
 
 Speed 30 feet
 
-**Melee** tusk +12 (deadly <d10>); **Damage** 2d8+6 piercing plus 1d4 evil and nervous consumption plus nervous consumption
+**Melee** ◆ tusk +12 (deadly <d10>); **Damage** 2d8+6 piercing plus 1d4 evil and nervous consumption plus nervous consumption
 
 **Innate divine Spells** (DC 20)
 
   **Cantrips (2nd)** detect magic, mage hand
 
-  **1st** grease
+  **1st** grease (×3)
 
-  **3rd** fear, remove disease
+  **3rd** fear (at will), remove disease
 
 **Nervous Consumption** (disease, divine, emotion, enchantment, mental)
 

@@ -5,9 +5,11 @@ cn, medium, aesir, monitor
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
-**Languages** common, jotun
+**Languages** common, jotun; ravenspeaker, tongues
+
+**Skills** Acrobatics +25, Athletics +25, Diplomacy +23, Intimidation +23, Religion +22
 
 **STR** +7, **DEX** +5, **CON** +5, **INT** +3, **WIS** +4, **CHA** +5
 
@@ -35,9 +37,9 @@ cn, medium, aesir, monitor
 
 Speed 25 feet, fly 60 feet
 
-**Melee** spear +28 (magical); **Damage** 2d6+15 piercing plus 1d12 electricity
+**Melee** ◆ spear +28 (magical); **Damage** 2d6+15 piercing plus 1d12 electricity
 
-**Melee** spear +26 (magical, thrown <20 feet>); **Damage** 2d6+15 piercing plus 1d12 electricity
+**Ranged** ◆ spear +26 (magical, thrown <20 feet>); **Damage** 2d6+15 piercing plus 1d12 electricity
 
 **Innate divine Spells** (DC 29)
 

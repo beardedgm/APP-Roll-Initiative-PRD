@@ -5,9 +5,11 @@ unique, ne, large, aberration
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision
 
 **Languages** aklo, common, undercommon
+
+**Skills** Arcana +29, Athletics +29, Crafting +31, Nature +30, Society +29, Stealth +31, Ooze Lore +31
 
 **STR** +7, **DEX** +6, **CON** +9, **INT** +3, **WIS** +4, **CHA** +8
 
@@ -23,11 +25,11 @@ unique, ne, large, aberration
 
 Speed 40 feet, swim 20 feet
 
-**Melee** fangs +30 (agile); **Damage** 3d6+15 piercing plus Mother Venom poison plus Mother Venom poison
+**Melee** ◆ fangs +30 (agile); **Damage** 3d6+15 piercing plus Mother Venom poison plus Mother Venom poison
 
-**Melee** ooze tendril +28 (magical, reach <10 feet>); **Damage** 3d10+11 bludgeoning
+**Melee** ◆ ooze tendril +28 (magical, reach <10 feet>); **Damage** 3d10+11 bludgeoning
 
-**Melee** spit +31 (agile, range increment <30 feet>); plus spit
+**Ranged** ◆ spit +31 (agile, range increment <30 feet>); plus spit
 
 **Spontaneous arcane Spells** (DC 39), attack +30
 

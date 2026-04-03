@@ -5,9 +5,11 @@ rare, ce, huge, aberration, fiend
 
 ---
 
-**Perception** +33
+**Perception** +33; greater darkvision, scent 60 feet (imprecise), true seeing
 
-**Languages** abyssal
+**Languages** abyssal; telepathy 120 feet, tongues
+
+**Skills** Acrobatics +30, Athletics +32, Deception +29, Stealth +32, Survival +28
 
 **STR** +9, **DEX** +7, **CON** +6, **INT** -1, **WIS** +5, **CHA** +6
 
@@ -31,15 +33,17 @@ rare, ce, huge, aberration, fiend
 
 Speed 20 feet, fly 60 feet
 
-**Melee** jaws +34 (chaotic, evil, magical, reach <15 feet>); **Damage** 3d12+17 piercing plus paralytic spittle plus paralytic spittle
+**Melee** ◆ jaws +34 (chaotic, evil, magical, reach <15 feet>); **Damage** 3d12+17 piercing plus paralytic spittle plus paralytic spittle
 
-**Melee** claw +32 (agile, chaotic, evil, magical, reach <15 feet>); **Damage** 3d10+15 slashing
+**Melee** ◆ claw +32 (agile, chaotic, evil, magical, reach <15 feet>); **Damage** 3d10+15 slashing
 
-**Melee** spittle +30 (range <60 feet>); **Damage** 6d6 acid and paralytic saliva plus paralytic saliva
+**Ranged** ◆ spittle +30 (range <60 feet>); **Damage** 6d6 acid and paralytic saliva plus paralytic saliva
 
 **Innate divine Spells** (DC 35)
 
-  **6th** teleport
+  **Constant (6th)** true seeing
+
+  **6th** teleport (at will)
 
 **Paralytic Saliva** A creature that takes damage from a qurashith's jaws or spittle must succeed at a DC 39 Fortitude save or be slowed|CRB|slowed 1 for 1d4 rounds (slowed|CRB|slowed 2 on a critical failure). If a creature is already slowed when it fails its save, it becomes paralyzed for 1 round.
 

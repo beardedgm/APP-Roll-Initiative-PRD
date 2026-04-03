@@ -5,9 +5,11 @@ unique, le, small, humanoid, ratfolk
 
 ---
 
-**Perception** +28
+**Perception** +28; low-light vision
 
 **Languages** akitonian, shobhad
+
+**Skills** Acrobatics +29, Athletics +26, Deception +31, Diplomacy +29, Engineering Lore +27, Intimidation +31, Occultism +25, Society +27, Stealth +29, Thievery +31, Underworld Lore +29
 
 **STR** +2, **DEX** +5, **CON** +2, **INT** +3, **WIS** +2, **CHA** +5
 
@@ -27,9 +29,9 @@ unique, le, small, humanoid, ratfolk
 
 Speed 25 feet, burrow 15 feet
 
-**Melee** fangs +31 (agile, finesse, magical, unarmed); **Damage** 2d6+13 piercing
+**Melee** ◆ fangs +31 (agile, finesse, magical, unarmed); **Damage** 2d6+13 piercing
 
-**Melee** crossbow +31 (magical, range increment <120 feet>, reload <1>); **Damage** 3d8+8 piercing
+**Ranged** ◆ crossbow +31 (magical, range increment <120 feet>, reload <1>); **Damage** 3d8+8 piercing
 
 **Cunning Discernment** ◆ Skartitch attempts a Recall Knowledge check against an opponent using the standard DC for a creature of that level. On a success, that opponent is flat-footed against Skartitch's attacks until the start of her next turn; on a critical success, the opponent is flat-footed against Skartitch's attacks for 1 minute.
 

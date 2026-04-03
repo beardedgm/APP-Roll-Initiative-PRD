@@ -5,9 +5,11 @@ ln, medium, fey, light, nymph
 
 ---
 
-**Perception** +19
+**Perception** +19; low-light vision
 
 **Languages** common, sylvan, utopian
+
+**Skills** Acrobatics +19, Athletics +11, Deception +19, Diplomacy +21, Intimidation +19, Nature +19, Performance +21, Society +17, Stealth +17
 
 **STR** +0, **DEX** +6, **CON** +4, **INT** +4, **WIS** +4, **CHA** +6
 
@@ -27,15 +29,15 @@ ln, medium, fey, light, nymph
 
 Speed 30 feet, fly 60 feet
 
-**Melee** sunset ribbon +21 (agile, finesse); **Damage** 2d10+6 slashing plus 1d6 fire and 1d6 positive
+**Melee** ◆ sunset ribbon +21 (agile, finesse); **Damage** 2d10+6 slashing plus 1d6 fire and 1d6 positive
 
-**Melee** sunset ray +21 (magical, range increment <60 feet>); **Damage** 2d12+6 fire plus 1d6 positive
+**Ranged** ◆ sunset ray +21 (magical, range increment <60 feet>); **Damage** 2d12+6 fire plus 1d6 positive
 
 **Innate primal Spells** (DC 28), attack +20
 
   **Cantrips (5th)** dancing lights, light
 
-  **1st** illusory disguise
+  **1st** illusory disguise (×3)
 
   **2nd** faerie fire
 

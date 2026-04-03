@@ -5,9 +5,11 @@ uncommon, gargantuan, mindless, troop, undead, unholy
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision
 
 **Languages** common, necril
+
+**Skills** Athletics +37
 
 **STR** +10, **DEX** +5, **CON** +6, **INT** +5, **WIS** +6, **CHA** +6
 
@@ -33,7 +35,7 @@ uncommon, gargantuan, mindless, troop, undead, unholy
 
 ---
 
-Speed 40 feet
+Speed 40 feet, troop movement
 
 **Claws and Jaws** **Frequency** {"number":1,"unit":"round"}; Members of the cavalry leap from their mounts and attack each enemy within 10 feet (DC 41 basic Reflex save). The damage depends on the number of actions. 
 

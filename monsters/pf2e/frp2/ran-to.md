@@ -5,9 +5,11 @@ unique, le, small, goblin, humanoid
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision
 
 **Languages** goblin, taldane, tien, ysoki
+
+**Skills** Acrobatics +26, Athletics +35, Intimidation +26, Survival +25, Wrestling Lore +21
 
 **STR** +7, **DEX** +4, **CON** +6, **INT** -1, **WIS** +1, **CHA** +2
 
@@ -27,9 +29,9 @@ unique, le, small, goblin, humanoid
 
 Speed 25 feet
 
-**Melee** gauntlet +33 (agile, free-hand); **Damage** 3d4+17 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ gauntlet +33 (agile, free-hand); **Damage** 3d4+17 bludgeoning plus Improved Grab plus Improved Grab
 
-**Melee** halfling sling staff +30 (propulsive, range increment <80 feet>, reload <1>); **Damage** 3d10+11 bludgeoning
+**Ranged** ◆ halfling sling staff +30 (propulsive, range increment <80 feet>, reload <1>); **Damage** 3d10+11 bludgeoning
 
 **Body Slam** ◆ **Requirements** Ran-to has a creature grabbed or restrained; Ran-to throws his foe to the ground. The grabbed creature takes 10d6 bludgeoning damage (DC 37 basic Fortitude save) and is knocked prone. The grab ends.
 

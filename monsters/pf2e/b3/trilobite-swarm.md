@@ -5,7 +5,9 @@ n, large, animal, aquatic, swarm
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision, wavesense 60 feet (imprecise)
+
+**Skills** Athletics +8, Stealth +9, Survival +7
 
 **STR** +1, **DEX** +4, **CON** +3, **INT** -5, **WIS** +2, **CHA** +0
 

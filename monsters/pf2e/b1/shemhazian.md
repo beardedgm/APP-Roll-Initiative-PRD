@@ -5,9 +5,11 @@ ce, gargantuan, demon, fiend
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, scent 60 feet (imprecise), true seeing
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Athletics +31, Deception +25, Intimidation +27, Medicine +28, Religion +30
 
 **STR** +9, **DEX** +5, **CON** +7, **INT** +0, **WIS** +6, **CHA** +3
 
@@ -31,21 +33,23 @@ ce, gargantuan, demon, fiend
 
 Speed 35 feet, fly 35 feet, climb 20 feet
 
-**Melee** jaws +33 (evil, magical, reach <20 feet>); **Damage** 3d12+17 piercing plus 1d6 evil and enfeebling bite plus enfeebling bite
+**Melee** ◆ jaws +33 (evil, magical, reach <20 feet>); **Damage** 3d12+17 piercing plus 1d6 evil and enfeebling bite plus enfeebling bite
 
-**Melee** claw +33 (agile, evil, magical, reach <20 feet>); **Damage** 3d8+17 slashing plus 1d6 evil
+**Melee** ◆ claw +33 (agile, evil, magical, reach <20 feet>); **Damage** 3d8+17 slashing plus 1d6 evil
 
-**Melee** pincer +33 (evil, magical, reach <20 feet>); **Damage** 3d8+17 bludgeoning plus 1d6 evil and Improved Grab plus Improved Grab
+**Melee** ◆ pincer +33 (evil, magical, reach <20 feet>); **Damage** 3d8+17 bludgeoning plus 1d6 evil and Improved Grab plus Improved Grab
 
-**Melee** tail +33 (evil, magical, reach <30 feet>); **Damage** 3d6+17 slashing plus 1d6 evil
+**Melee** ◆ tail +33 (evil, magical, reach <30 feet>); **Damage** 3d6+17 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 37)
 
-  **2nd** invisibility
+  **Constant (7th)** fly, true seeing
 
-  **4th** clairvoyance, dimension door
+  **2nd** invisibility (at will)
 
-  **5th** dimension door, prying eye
+  **4th** clairvoyance (×3), dimension door (at will)
+
+  **5th** dimension door, prying eye (×3)
 
   **8th** divine decree
 

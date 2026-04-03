@@ -5,9 +5,11 @@ unique, cn, medium, drow, elf, humanoid
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
 **Languages** common, elven, undercommon
+
+**Skills** Acrobatics +17, Nature +18, Occultism +18, Stealth +19, Survival +18
 
 **STR** +2, **DEX** +4, **CON** +0, **INT** +1, **WIS** +3, **CHA** +4
 
@@ -31,13 +33,13 @@ unique, cn, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** staff +19 (two-hand <d8>); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ staff +19 (two-hand <d8>); **Damage** 1d4+4 bludgeoning
 
 **Innate divine Spells** (DC 28)
 
   **Cantrips (5th)** dancing lights
 
-  **2nd** darkness, faerie fire
+  **2nd** darkness (at will), faerie fire (at will)
 
 **Spontaneous occult Spells** (DC 28), attack +20
 

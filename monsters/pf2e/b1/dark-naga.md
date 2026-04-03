@@ -5,9 +5,11 @@ uncommon, le, large, aberration
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, mind reading 30 feet
 
 **Languages** aklo, common
+
+**Skills** Acrobatics +17, Arcana +16, Athletics +13, Deception +16, Intimidation +16, Stealth +19
 
 **STR** +2, **DEX** +6, **CON** +4, **INT** +3, **WIS** +2, **CHA** +3
 
@@ -25,7 +27,7 @@ uncommon, le, large, aberration
 
 Speed 30 feet
 
-**Melee** fangs +19 (agile, finesse); **Damage** 2d8+5 piercing plus dark naga venom plus dark naga venom
+**Melee** ◆ fangs +19 (agile, finesse); **Damage** 2d8+5 piercing plus dark naga venom plus dark naga venom
 
 **Spontaneous arcane Spells** (DC 26), attack +18
 
@@ -40,5 +42,7 @@ Speed 30 feet
   **4th (3 slots)** blink, wall of fire
 
 **Innate occult Spells** (DC 25)
+
+  **Constant (3rd)** mind reading
 
 **Dark Naga Venom** (incapacitation, poison)

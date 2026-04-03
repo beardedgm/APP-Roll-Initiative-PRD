@@ -5,9 +5,11 @@ uncommon, ce, large, earth, giant, troll
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **Languages** jotun, undercommon
+
+**Skills** Athletics +16, Intimidation +14
 
 **STR** +6, **DEX** +2, **CON** +6, **INT** -2, **WIS** +2, **CHA** +2
 
@@ -31,11 +33,11 @@ uncommon, ce, large, earth, giant, troll
 
 Speed 25 feet, burrow 20 feet, climb 20 feet
 
-**Melee** jaws +16 (reach <10 feet>); **Damage** 2d10+8 piercing
+**Melee** ◆ jaws +16 (reach <10 feet>); **Damage** 2d10+8 piercing
 
-**Melee** claw +16 (agile, reach <10 feet>); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +16 (agile, reach <10 feet>); **Damage** 2d6+8 slashing
 
-**Melee** rock +16 (brutal, range increment <120 feet>); **Damage** 1d12+8 bludgeoning
+**Ranged** ◆ rock +16 (brutal, range increment <120 feet>); **Damage** 1d12+8 bludgeoning
 
 **Rend** ◆ (claw)
 

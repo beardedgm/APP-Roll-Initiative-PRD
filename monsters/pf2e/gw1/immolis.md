@@ -5,9 +5,11 @@ uncommon, n, medium, beast
 
 ---
 
-**Perception** +12
+**Perception** +12; heatsense  120 feet
 
-**Languages** immolis
+**Languages** immolis; telepathy 100 feet
+
+**Skills** Acrobatics +10, Athletics +10, Intimidation +9, Stealth +10, Survival +9
 
 **STR** +3, **DEX** +4, **CON** +0, **INT** -3, **WIS** +3, **CHA** +0
 
@@ -25,7 +27,7 @@ uncommon, n, medium, beast
 
 Speed 40 feet, climb 40 feet
 
-**Melee** jaws +10; **Damage** 1d10+5 slashing
+**Melee** ◆ jaws +10; **Damage** 1d10+5 slashing
 
 **Heat Beam** ◆ (evocation, fire, occult) The immolis targets a living creature within 30 feet and directs a beam of volatile psychic energy toward it, increasing the rate at which the creature's body produces heat. The target must attempt a DC 20 Fortitude save. The second and third time an immolis uses Heat Beam in the same round, the DC lowers to 16 or 12, respectively. **Success** 
 **Failure** 

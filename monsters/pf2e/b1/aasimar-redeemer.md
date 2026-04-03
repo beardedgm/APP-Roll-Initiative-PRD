@@ -5,9 +5,11 @@ ng, medium, aasimar, human, humanoid
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** celestial, common
+
+**Skills** Athletics +11, Diplomacy +12, Medicine +9, Religion +11, Society +7
 
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +2, **CHA** +3
 
@@ -32,9 +34,9 @@ ng, medium, aasimar, human, humanoid
 
 Speed 20 feet
 
-**Melee** longsword +15 (versatile <P>); **Damage** 1d8+7 slashing
+**Melee** ◆ longsword +15 (versatile <P>); **Damage** 1d8+7 slashing
 
-**Melee** crossbow +12 (range increment <120 feet>, reload <1>); **Damage** 1d8+3 piercing
+**Ranged** ◆ crossbow +12 (range increment <120 feet>, reload <1>); **Damage** 1d8+3 piercing
 
 **Innate divine Spells** (DC 20)
 

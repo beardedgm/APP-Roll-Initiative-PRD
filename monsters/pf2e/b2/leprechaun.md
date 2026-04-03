@@ -5,9 +5,11 @@ cn, small, fey
 
 ---
 
-**Perception** +11
+**Perception** +11; low-light vision
 
 **Languages** common, sylvan
+
+**Skills** Acrobatics +8, Deception +9, Nature +7, Performance +9, Thievery +8, Gold Lore +7
 
 **STR** +1, **DEX** +4, **CON** +1, **INT** +3, **WIS** +3, **CHA** +4
 
@@ -23,7 +25,7 @@ cn, small, fey
 
 Speed 30 feet
 
-**Melee** club +7; **Damage** 1d6+3 bludgeoning
+**Melee** ◆ club +7; **Damage** 1d6+3 bludgeoning
 
 **Innate primal Spells** (DC 18), attack +10
 

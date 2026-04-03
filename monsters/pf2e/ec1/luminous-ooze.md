@@ -5,7 +5,9 @@ n, small, mindless, ooze
 
 ---
 
-**Perception** +6
+**Perception** +6; motion sense 60 feet, no vision
+
+**Skills** Athletics +11
 
 **STR** +3, **DEX** -5, **CON** +3, **INT** -5, **WIS** +0, **CHA** +1
 
@@ -29,7 +31,7 @@ n, small, mindless, ooze
 
 Speed 25 feet, climb 15 feet
 
-**Melee** pseudopod +13; **Damage** 2d8+5 bludgeoning
+**Melee** ◆ pseudopod +13; **Damage** 2d8+5 bludgeoning
 
 **Light Up** ◆◆ (light, visual) The ooze glows with blinding brightness. All creatures within a 30-foot emanation must attempt a DC 21 Fortitude save. **Critical Success** The creature is unaffected.
 **Success** The creature is dazzled until the end of its next turn.

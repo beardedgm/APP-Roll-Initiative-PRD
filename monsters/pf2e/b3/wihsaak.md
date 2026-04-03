@@ -5,9 +5,11 @@ ne, medium, fiend, sahkil
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
-**Languages** abyssal, celestial, infernal, requian
+**Languages** abyssal, celestial, infernal, requian; telepathy 100 feet
+
+**Skills** Acrobatics +13, Deception +15, Intimidation +15, Stealth +15
 
 **STR** +4, **DEX** +5, **CON** +4, **INT** +1, **WIS** +2, **CHA** +3
 
@@ -31,7 +33,7 @@ ne, medium, fiend, sahkil
 
 Speed 30 feet, fly 40 feet
 
-**Melee** claw +17 (finesse); **Damage** 2d10+7 slashing plus 1d4 evil
+**Melee** ◆ claw +17 (finesse); **Damage** 2d10+7 slashing plus 1d4 evil
 
 **Innate divine Spells** (DC 23)
 

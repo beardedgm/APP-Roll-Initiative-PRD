@@ -5,9 +5,11 @@ rare, n, gargantuan, air, dragon, elemental
 
 ---
 
-**Perception** +34
+**Perception** +34; darkvision, mist vision, scent 60 feet (imprecise)
 
 **Languages** auran, common, draconic, jotun, sylvan
+
+**Skills** Acrobatics +35, Athletics +38, Deception +34, Diplomacy +34, Intimidation +36, Nature +32, Stealth +35, Survival +36
 
 **STR** +9, **DEX** +5, **CON** +7, **INT** +5, **WIS** +7, **CHA** +7
 
@@ -29,19 +31,19 @@ rare, n, gargantuan, air, dragon, elemental
 
 ---
 
-Speed 60 feet, fly 160 feet
+Speed 60 feet, fly 160 feet, cloud walk
 
-**Melee** jaws +36 (electricity, magical, reach <20 feet>, sonic); **Damage** 3d10+17 piercing plus 2d12 electricity, 4d6 sonic, and thundering bite plus thundering bite
+**Melee** ◆ jaws +36 (electricity, magical, reach <20 feet>, sonic); **Damage** 3d10+17 piercing plus 2d12 electricity, 4d6 sonic, and thundering bite plus thundering bite
 
-**Melee** claw +36 (agile, magical, reach <15 feet>); **Damage** 4d10+17 slashing
+**Melee** ◆ claw +36 (agile, magical, reach <15 feet>); **Damage** 4d10+17 slashing
 
-**Melee** tail +34 (magical, reach <25 feet>); **Damage** 4d12+17 bludgeoning
+**Melee** ◆ tail +34 (magical, reach <25 feet>); **Damage** 4d12+17 bludgeoning
 
-**Melee** horn +34 (deadly <d12>, magical, reach <20 feet>); **Damage** 3d12+17 piercing
+**Melee** ◆ horn +34 (deadly <d12>, magical, reach <20 feet>); **Damage** 3d12+17 piercing
 
 **Innate primal Spells** (DC 42)
 
-  **4th** gust of wind, solid fog, wall of wind
+  **4th** gust of wind (at will), solid fog, wall of wind (at will)
 
   **5th** cloudkill
 

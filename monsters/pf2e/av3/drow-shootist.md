@@ -5,9 +5,11 @@ uncommon, cn, medium, drow, elf, humanoid
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
 **Languages** elven, undercommon
+
+**Skills** Acrobatics +19, Athletics +16, Deception +16, Intimidation +14, Stealth +17, Thievery +17
 
 **STR** +2, **DEX** +5, **CON** +1, **INT** +0, **WIS** +4, **CHA** +2
 
@@ -31,15 +33,15 @@ uncommon, cn, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** rapier +18 (deadly <d8>, disarm, finesse); **Damage** 1d6+9 piercing
+**Melee** ◆ rapier +18 (deadly <d8>, disarm, finesse); **Damage** 1d6+9 piercing
 
-**Melee** repeating hand crossbow +20 (range increment <60 feet>, reload <0> [3 to reload magazine], repeating); **Damage** 1d6+9 piercing plus stupor poison plus stupor poison
+**Ranged** ◆ repeating hand crossbow +20 (range increment <60 feet>, reload <0> [3 to reload magazine], repeating); **Damage** 1d6+9 piercing plus stupor poison plus stupor poison
 
 **Innate divine Spells** (DC 24)
 
   **Cantrips (4th)** dancing lights
 
-  **2nd** darkness, faerie fire
+  **2nd** darkness (at will), faerie fire (at will)
 
 **Distracting Shot** ◆◆ The shootist takes aim and makes a ranged Strike. If the attack hits and deals damage, the target is flat-footed until the end of the shootist's turn, or until the end of the shootist's next turn on a critical hit.
 

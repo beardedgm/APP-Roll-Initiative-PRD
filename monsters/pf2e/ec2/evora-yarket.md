@@ -5,9 +5,11 @@ unique, n, medium, human, humanoid, orc
 
 ---
 
-**Perception** +14
+**Perception** +14; low-light vision
 
 **Languages** common, hallit, orc
+
+**Skills** Acrobatics +11, Athletics +19, Intimidation +10, Nature +13, Performance +10, Survival +13
 
 **STR** +5, **DEX** +0, **CON** +3, **INT** +1, **WIS** +2, **CHA** -1
 

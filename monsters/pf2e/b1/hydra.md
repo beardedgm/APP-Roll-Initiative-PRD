@@ -5,7 +5,9 @@ n, huge, beast
 
 ---
 
-**Perception** +17
+**Perception** +17; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +17, Stealth +12
 
 **STR** +7, **DEX** +4, **CON** +5, **INT** -3, **WIS** +2, **CHA** -1
 
@@ -33,7 +35,7 @@ n, huge, beast
 
 Speed 25 feet, swim 25 feet
 
-**Melee** fangs +16 (reach <10 feet>); **Damage** 2d6+7 piercing
+**Melee** ◆ fangs +16 (reach <10 feet>); **Damage** 2d6+7 piercing
 
 **Focused Assault** ◆◆ The hydra attacks a single target with its heads, overwhelming its foe with multiple attacks and leaving almost nowhere to dodge. The hydra Strikes with its fangs. On a successful attack, the hydra deals damage from its fangs Strike to the target, plus an additional 1d6 damage for every head it has beyond the first. Even on a failed attack, the hydra deals the damage from one fangs Strike to the target creature, though it still misses completely on a critical failure. This counts toward the hydra's multiple attack penalty as a number of attacks equal to the number of heads the hydra has.
 

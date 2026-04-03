@@ -5,9 +5,11 @@ n, huge, beast, electricity
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** draconic
+
+**Skills** Acrobatics +16, Athletics +19, Intimidation +18, Stealth +18, Survival +15
 
 **STR** +7, **DEX** +4, **CON** +5, **INT** -2, **WIS** +3, **CHA** +4
 
@@ -23,9 +25,9 @@ n, huge, beast, electricity
 
 Speed 30 feet, climb 15 feet
 
-**Melee** jaws +18 (reach <15 feet>); **Damage** 2d12+10 piercing plus Grab plus Grab
+**Melee** ◆ jaws +18 (reach <15 feet>); **Damage** 2d12+10 piercing plus Grab plus Grab
 
-**Melee** claw +18 (agile); **Damage** 2d6+10 slashing
+**Melee** ◆ claw +18 (agile); **Damage** 2d6+10 slashing
 
 **Breath Weapon** ◆◆ (electricity, evocation, primal) The behir breathes lightning that deals 9d6 electricity damage in an 60-foot line (DC 27 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

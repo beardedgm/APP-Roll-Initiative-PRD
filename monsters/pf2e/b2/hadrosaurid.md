@@ -5,7 +5,9 @@ n, huge, animal, dinosaur
 
 ---
 
-**Perception** +13
+**Perception** +13; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +12, Stealth +10
 
 **STR** +6, **DEX** +2, **CON** +3, **INT** -4, **WIS** +1, **CHA** +0
 

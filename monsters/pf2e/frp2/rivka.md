@@ -9,6 +9,8 @@ rare, ne, medium, aberration
 
 **Languages** aklo, common
 
+**Skills** Acrobatics +26, Athletics +22, Deception +27, Stealth +26, Survival +19
+
 **STR** +5, **DEX** +7, **CON** +5, **INT** +0, **WIS** +0, **CHA** +8
 
 **Kaiju Blood** Each rivka gains resistances and offensive powers by feasting on the primordial blood of a kaiju. The type of damage the rivka resists and the type of damage dealt by its Kaiju Ray depend on the kaiju it last fed upon. Some of the most typical rivkas include those that feed on Cimurlian (cold), Kujiba (negative), Igroon (acid), Mogaru (fire), or Yorak (electricity).
@@ -25,11 +27,11 @@ rare, ne, medium, aberration
 
 Speed 30 feet
 
-**Melee** claw +26 (agile, finesse); **Damage** 3d6+11 slashing
+**Melee** ◆ claw +26 (agile, finesse); **Damage** 3d6+11 slashing
 
 **Innate primal Spells** (DC 33)
 
-  **5th** charm, illusory disguise
+  **5th** charm (at will), illusory disguise (×3)
 
 **Eviscerate** ◆◆ **Requirements** The rivka has not attacked yet this turn; The rivka lashes out with four of its razor-like claws. It makes four Strikes: the first at its highest attack bonus, the next two with a –4 penalty to their attack rolls, and the last one with a –8 penalty. This ability counts as four Strikes for the purpose of its multiple attack penalty.
 

@@ -5,9 +5,11 @@ ce, huge, fiend, giant, humanoid, oni, water
 
 ---
 
-**Perception** +32
+**Perception** +32; greater darkvision
 
 **Languages** common, jotun
+
+**Skills** Acrobatics +30, Arcana +29, Athletics +33, Deception +32, Intimidation +32, Nature +29, Performance +33
 
 **STR** +9, **DEX** +6, **CON** +6, **INT** +5, **WIS** +9, **CHA** +6
 
@@ -27,23 +29,25 @@ ce, huge, fiend, giant, humanoid, oni, water
 
 ---
 
-Speed 40 feet, fly 40 feet, swim 50 feet
+Speed 40 feet, fly 40 feet, swim 50 feet, water walk
 
-**Melee** longspear +35 (evil, magical, reach <20 feet>); **Damage** 3d8+15 piercing plus 2d6 electricity
+**Melee** ◆ longspear +35 (evil, magical, reach <20 feet>); **Damage** 3d8+15 piercing plus 2d6 electricity
 
-**Melee** kimono +33 (electricity, evil, magical, reach <15 feet>); **Damage** 3d12+12 electricity plus Enveloping Kimono plus Enveloping Kimono
+**Melee** ◆ kimono +33 (electricity, evil, magical, reach <15 feet>); **Damage** 3d12+12 electricity plus Enveloping Kimono plus Enveloping Kimono
 
-**Melee** fist +33 (agile, evil, magical, reach <15 feet>); **Damage** 3d8+15 bludgeoning plus 2d6 electricity
+**Melee** ◆ fist +33 (agile, evil, magical, reach <15 feet>); **Damage** 3d8+15 bludgeoning plus 2d6 electricity
 
-**Melee** electric missile +30 (electricity, evil, magical, range increment <60 feet>); **Damage** 3d12+12 electricity plus flat-footed for 1 round
+**Ranged** ◆ electric missile +30 (electricity, evil, magical, range increment <60 feet>); **Damage** 3d12+12 electricity plus flat-footed for 1 round
 
 **Innate primal Spells** (DC 38)
 
-  **2nd** invisibility
+  **Constant (9th)** water walk
 
-  **4th** charm, darkness
+  **2nd** invisibility (at will)
 
-  **5th** control water
+  **4th** charm (×3), darkness
+
+  **5th** control water (at will)
 
   **8th** hydraulic torrent
 

@@ -5,9 +5,11 @@ n, huge, elemental, fire
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision, smoke vision
 
 **Languages** ignan
+
+**Skills** Acrobatics +21
 
 **STR** +6, **DEX** +6, **CON** +5, **INT** +0, **WIS** +3, **CHA** +0
 
@@ -33,9 +35,9 @@ n, huge, elemental, fire
 
 Speed 70 feet
 
-**Melee** tendril +24 (reach <15 feet>); **Damage** 2d10+12 fire plus 3d8 persistent fire
+**Melee** ◆ tendril +24 (reach <15 feet>); **Damage** 2d10+12 fire plus 3d8 persistent fire
 
-**Melee** fire mote +24 (range increment <60 feet>); **Damage** 2d10+6 fire
+**Ranged** ◆ fire mote +24 (range increment <60 feet>); **Damage** 2d10+6 fire
 
 **Blue Flames** When the elemental inferno scores a critical hit, its body surges with blue flames, increasing the damage of its intense heat and Inferno Leap by 3d6 until the start of its next turn.
 

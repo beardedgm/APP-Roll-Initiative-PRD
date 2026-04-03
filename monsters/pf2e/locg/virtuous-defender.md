@@ -9,6 +9,8 @@ lg, medium, human, humanoid
 
 **Languages** common, varisian
 
+**Skills** Diplomacy +12, Intimidation +11, Religion +9, Shining Crusade Lore +8, Survival +9
+
 **STR** +4, **DEX** +0, **CON** +3, **INT** +0, **WIS** +1, **CHA** +3
 
 **Items** composite longbow (20 arrows), full plate, longsword, steel shield (Hardness 7, HP 30, BT 15)
@@ -31,9 +33,9 @@ lg, medium, human, humanoid
 
 Speed 20 feet
 
-**Melee** longsword +12 (versatile P); **Damage** 1d8+6 slashing
+**Melee** ◆ longsword +12 (versatile P); **Damage** 1d8+6 slashing
 
-**Melee** composite longbow +8 (deadly 1d10, range increment 100 feet, reload 0, volley 30 feet); **Damage** 1d8+4 piercing
+**Ranged** ◆ composite longbow +8 (deadly 1d10, range increment 100 feet, reload 0, volley 30 feet); **Damage** 1d8+4 piercing
 
 **Champion Devotion Spells** (DC 19)
 

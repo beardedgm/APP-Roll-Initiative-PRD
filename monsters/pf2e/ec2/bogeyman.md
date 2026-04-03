@@ -5,9 +5,11 @@ uncommon, ne, medium, fey
 
 ---
 
-**Perception** +19
+**Perception** +19; low-light vision
 
-**Languages** aklo, common, sylvan
+**Languages** aklo, common, sylvan; tongues
+
+**Skills** Acrobatics +23, Athletics +19, Deception +22, Intimidation +22, Society +16, Stealth +23, Thievery +21
 
 **STR** +5, **DEX** +7, **CON** +4, **INT** +0, **WIS** +3, **CHA** +6
 
@@ -27,15 +29,17 @@ uncommon, ne, medium, fey
 
 ---
 
-Speed 30 feet
+Speed 30 feet, mobility
 
-**Melee** claw +21 (agile, finesse, magical); **Damage** 2d12+9 slashing plus striking fear plus striking fear
+**Melee** ◆ claw +21 (agile, finesse, magical); **Damage** 2d12+9 slashing plus striking fear plus striking fear
 
 **Innate occult Spells** (DC 27)
 
+  **Constant (4th)** tongues
+
   **Cantrips (4th)** ghost sound, message
 
-  **2nd** knock
+  **2nd** knock (at will)
 
   **3rd** fear, mind reading
 

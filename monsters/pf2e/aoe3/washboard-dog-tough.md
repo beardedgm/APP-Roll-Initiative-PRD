@@ -9,6 +9,8 @@ uncommon, n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +17, Intimidation +13, Gang Lore +13
+
 **STR** +4, **DEX** +3, **CON** +4, **INT** +0, **WIS** +2, **CHA** +0
 
 **Items** +1 morningstar, chain shirt, heavy crossbow with 10 bolts, steel shield
@@ -27,11 +29,11 @@ uncommon, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** morningstar +18 (magical, versatile <P>); **Damage** 1d6+8 bludgeoning
+**Melee** ◆ morningstar +18 (magical, versatile <P>); **Damage** 1d6+8 bludgeoning
 
-**Melee** shield bash +18; **Damage** 1d4+6 bludgeoning
+**Melee** ◆ shield bash +18; **Damage** 1d4+6 bludgeoning
 
-**Melee** heavy crossbow +16 (range increment <120 feet>, reload <2>); **Damage** 1d10 piercing
+**Ranged** ◆ heavy crossbow +16 (range increment <120 feet>, reload <2>); **Damage** 1d10 piercing
 
 **Bullyrag Beatdown** Whenever the gang tough makes a successful melee Strike against a frightened creature, the Strike deals an extra weapon die of damage.
 

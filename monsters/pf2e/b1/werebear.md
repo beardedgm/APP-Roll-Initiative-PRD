@@ -5,9 +5,11 @@ uncommon, lg, large, beast, human, humanoid, werecreature
 
 ---
 
-**Perception** +11
+**Perception** +11; low-light vision, scent 30 feet (imprecise)
 
-**Languages** common
+**Languages** common; bear empathy
+
+**Skills** Athletics +12, Medicine +9, Nature +11, Stealth +11, Survival +11
 
 **STR** +5, **DEX** +2, **CON** +4, **INT** +1, **WIS** +3, **CHA** -1
 
@@ -27,15 +29,15 @@ uncommon, lg, large, beast, human, humanoid, werecreature
 
 Speed 25 feet
 
-**Melee** claw +13 (agile, reach <10 feet>); **Damage** 1d10+7 slashing plus Grab plus Grab
+**Melee** ◆ claw +13 (agile, reach <10 feet>); **Damage** 1d10+7 slashing plus Grab plus Grab
 
-**Melee** greataxe +13 (reach <10 feet>, sweep); **Damage** 1d12+7 slashing
+**Melee** ◆ greataxe +13 (reach <10 feet>, sweep); **Damage** 1d12+7 slashing
 
-**Melee** hatchet +13 (agile, sweep); **Damage** 1d6+7 slashing
+**Melee** ◆ hatchet +13 (agile, sweep); **Damage** 1d6+7 slashing
 
-**Melee** jaws +13 (reach <10 feet>); **Damage** 1d12+7 piercing plus curse of the werebear plus curse of the werebear
+**Melee** ◆ jaws +13 (reach <10 feet>); **Damage** 1d12+7 piercing plus curse of the werebear plus curse of the werebear
 
-**Melee** hatchet +10 (agile, sweep, thrown <10 feet>); **Damage** 1d6+7 slashing
+**Ranged** ◆ hatchet +10 (agile, sweep, thrown <10 feet>); **Damage** 1d6+7 slashing
 
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) Medium human with fist +13 for 1d4+7 bludgeoning, or grizzly bear with Speed 35 feet.
 

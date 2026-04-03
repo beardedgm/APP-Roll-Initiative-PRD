@@ -5,9 +5,11 @@ unique, huge, undead, unholy
 
 ---
 
-**Perception** +34
+**Perception** +34; darkvision, truesight
 
 **Languages** necril
+
+**Skills** Acrobatics +36, Deception +38, Intimidation +35, Religion +32, Skeletal Lore +32, Stealth +34
 
 **STR** +8, **DEX** +6, **CON** +6, **INT** +7, **WIS** +8, **CHA** +7
 
@@ -31,17 +33,19 @@ unique, huge, undead, unholy
 
 Speed 30 feet, fly 30 feet
 
-**Melee** jaws +37 (deadly <2d12>, magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 3d6 void and void drain
+**Melee** ◆ jaws +37 (deadly <2d12>, magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 3d6 void and void drain
 
-**Melee** claw +37 (agile, deadly <2d12>, magical, reach <15 feet>); **Damage** 3d6+16 slashing plus 3d6 void and void drain
+**Melee** ◆ claw +37 (agile, deadly <2d12>, magical, reach <15 feet>); **Damage** 3d6+16 slashing plus 3d6 void and void drain
 
-**Melee** bone javelin +35 (magical, thrown <100 feet>); **Damage** 3d8+8 piercing plus 3d6 void
+**Ranged** ◆ bone javelin +35 (magical, thrown <100 feet>); **Damage** 3d8+8 piercing plus 3d6 void
 
 **Innate divine Spells** (DC 42)
 
-  **5th** translocate
+  **Constant (6th)** truesight
 
-  **8th** desiccate, execute, punishing winds
+  **5th** translocate (×2)
+
+  **8th** desiccate (×2), execute (×2), punishing winds (×2)
 
   **9th** metamorphosis
 

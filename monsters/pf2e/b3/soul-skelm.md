@@ -5,9 +5,11 @@ uncommon, le, medium, fiend, humanoid, skelm
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision, scent 30 feet (imprecise)
 
 **Languages** aklo, common
+
+**Skills** Athletics +22, Deception +21, Occultism +19, Society +19, Stealth +17
 
 **STR** +6, **DEX** +3, **CON** +5, **INT** +3, **WIS** +5, **CHA** +7
 
@@ -27,17 +29,17 @@ uncommon, le, medium, fiend, humanoid, skelm
 
 Speed 30 feet
 
-**Melee** fist +22 (agile, evil, magical); **Damage** 2d8+12 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +22 (agile, evil, magical); **Damage** 2d8+12 bludgeoning plus Grab plus Grab
 
-**Melee** antler +22 (evil, magical); **Damage** 2d12+12 piercing plus Knockdown (page 305) plus Knockdown
+**Melee** ◆ antler +22 (evil, magical); **Damage** 2d12+12 piercing plus Knockdown (page 305) plus Knockdown
 
-**Melee** spiked chain +23 (disarm, evil, magical, trip); **Damage** 2d8+12 slashing plus Knockdown
+**Melee** ◆ spiked chain +23 (disarm, evil, magical, trip); **Damage** 2d8+12 slashing plus Knockdown
 
 **Innate occult Spells** (DC 29)
 
-  **2nd** invisibility, silence
+  **2nd** invisibility (at will), silence (at will)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
   **5th** harm, illusory creature, mind probe, modify memory
 

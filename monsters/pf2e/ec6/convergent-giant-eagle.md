@@ -5,9 +5,11 @@ rare, ln, large, beast
 
 ---
 
-**Perception** +29
+**Perception** +29; low-light vision
 
 **Languages** auran, elven, sylvan, utopian (can't speak any
+
+**Skills** Acrobatics +29, Athletics +25, Stealth +28
 
 **STR** +6, **DEX** +8, **CON** +3, **INT** +2, **WIS** +4, **CHA** +2
 
@@ -31,4 +33,4 @@ rare, ln, large, beast
 
 Speed 10 feet, fly 60 feet
 
-**Melee** beak +30; **Damage** 4d8+6 piercing plus
+**Melee** ◆ beak +30; **Damage** 4d8+6 piercing plus

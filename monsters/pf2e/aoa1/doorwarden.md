@@ -5,9 +5,11 @@ uncommon, ln, large, construct
 
 ---
 
-**Perception** +13
+**Perception** +13; low-light vision, see invisibility
 
 **Languages** common
+
+**Skills** Athletics +13, Intimidation +11
 
 **STR** +6, **DEX** +0, **CON** +3, **INT** -1, **WIS** +1, **CHA** +2
 
@@ -23,7 +25,7 @@ uncommon, ln, large, construct
 
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 5
+**Resistances** physical 5 (except bludgeoning)
 
 **Attack of Opportunity** ◈
 
@@ -35,11 +37,11 @@ uncommon, ln, large, construct
 
 Speed 20 feet
 
-**Melee** longsword +15 (reach <10 feet>, versatile <P>); **Damage** 1d8+9 slashing
+**Melee** ◆ longsword +15 (reach <10 feet>, versatile <P>); **Damage** 1d8+9 slashing
 
-**Melee** shield boss +15; **Damage** 1d6+9 bludgeoning
+**Melee** ◆ shield boss +15; **Damage** 1d6+9 bludgeoning
 
-**Melee** door +13; **Damage** 1d4+8 bludgeoning
+**Melee** ◆ door +13; **Damage** 1d4+8 bludgeoning
 
 **Innate arcane Spells** (DC 19)
 

@@ -5,9 +5,11 @@ ne, large, fiend, fire, giant, humanoid, oni
 
 ---
 
-**Perception** +26
+**Perception** +26; greater darkvision
 
 **Languages** common, jotun
+
+**Skills** Acrobatics +23, Arcana +23, Athletics +27, Crafting +25, Deception +27, Intimidation +27, Nature +25
 
 **STR** +8, **DEX** +6, **CON** +6, **INT** +4, **WIS** +6, **CHA** +8
 
@@ -29,19 +31,19 @@ ne, large, fiend, fire, giant, humanoid, oni
 
 Speed 40 feet, fly 40 feet
 
-**Melee** katana +30 (deadly <1d8>, magical, reach <10 feet>, two-hand <d10>, versatile <P>); **Damage** 2d6+16 slashing plus 2d6 fire
+**Melee** ◆ katana +30 (deadly <1d8>, magical, reach <10 feet>, two-hand <d10>, versatile <P>); **Damage** 2d6+16 slashing plus 2d6 fire
 
-**Melee** fist +28 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+16 bludgeoning plus 2d6 fire and 2d6 persistent fire
+**Melee** ◆ fist +28 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+16 bludgeoning plus 2d6 fire and 2d6 persistent fire
 
-**Melee** fire missile +26 (evil, fire, magical, range increment <60 feet>); **Damage** 2d10+16 fire plus 2d6 persistent fire
+**Ranged** ◆ fire missile +26 (evil, fire, magical, range increment <60 feet>); **Damage** 2d10+16 fire plus 2d6 persistent fire
 
 **Innate primal Spells** (DC 34)
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
-  **4th** charm, darkness, gaseous form
+  **4th** charm (×3), darkness, gaseous form
 
-  **6th** fireball
+  **6th** fireball (×3)
 
   **7th** fireball, fiery body, flame strike, wall of fire
 

@@ -5,7 +5,7 @@ uncommon, ne, gargantuan, construct, mindless, troop, zombie
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **STR** +6, **DEX** +0, **CON** +4, **INT** -5, **WIS** +2, **CHA** -2
 
@@ -27,7 +27,7 @@ uncommon, ne, gargantuan, construct, mindless, troop, zombie
 
 ---
 
-Speed 20 feet
+Speed 20 feet, troop movement
 
 **Form Up** ◆
 

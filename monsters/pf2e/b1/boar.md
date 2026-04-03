@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +5, Athletics +8, Survival +8
 
 **STR** +4, **DEX** +1, **CON** +4, **INT** -4, **WIS** +2, **CHA** -3
 
@@ -23,6 +25,6 @@ n, medium, animal
 
 Speed 40 feet
 
-**Melee** tusk +10; **Damage** 2d6+4 piercing
+**Melee** ◆ tusk +10; **Damage** 2d6+4 piercing
 
 **Boar Charge** ◆◆ The boar Strides twice and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll.

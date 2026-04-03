@@ -5,9 +5,11 @@ n, medium, humanoid
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** common
+
+**Skills** Athletics +7, Deception +8, Diplomacy +8, Intimidation +8, Society +6, Stealth +8
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** +2, **WIS** +3, **CHA** +4
 
@@ -29,9 +31,9 @@ n, medium, humanoid
 
 Speed 25 feet
 
-**Melee** jaws +10 (finesse, reach <10 feet>); **Damage** 1d8+3 piercing plus 1d6 persistent bleed
+**Melee** ◆ jaws +10 (finesse, reach <10 feet>); **Damage** 1d8+3 piercing plus 1d6 persistent bleed
 
-**Melee** claw +10 (agile, finesse); **Damage** 1d8+3 slashing
+**Melee** ◆ claw +10 (agile, finesse); **Damage** 1d8+3 slashing
 
 **Extend Neck** ◆ The rokurokubi extends their neck, increasing the reach of their jaws Strike from 10 feet to 20 feet until the end of their next turn.
 

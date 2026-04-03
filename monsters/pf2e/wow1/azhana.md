@@ -5,9 +5,11 @@ uncommon, small, fey
 
 ---
 
-**Perception** +12
+**Perception** +12; low-light vision
 
-**Languages** common, fey
+**Languages** common, fey; speak with animals|PC1
+
+**Skills** Acrobatics +8, Athletics +6, Diplomacy +10, Performance +10, Stealth +11
 
 **STR** +0, **DEX** +3, **CON** +2, **INT** +1, **WIS** +2, **CHA** +4
 
@@ -29,13 +31,15 @@ uncommon, small, fey
 
 Speed 25 feet
 
-**Melee** shears +11 (finesse, forceful, magical); **Damage** 1d8+4 slashing
+**Melee** ◆ shears +11 (finesse, forceful, magical); **Damage** 1d8+4 slashing
 
 **Innate primal Spells** (DC 20), attack +12
 
+  **Constant (2nd)** speak with animals
+
   **Cantrips (2nd)** light, figment, tangle vine
 
-  **1st** sleep
+  **1st** sleep (×3)
 
   **2nd** entangling flora, laughing fit, shape wood
 

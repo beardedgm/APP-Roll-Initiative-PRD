@@ -5,9 +5,11 @@ uncommon, le, medium, devil, fiend
 
 ---
 
-**Perception** +21
+**Perception** +21; greater darkvision
 
-**Languages** aklo, celestial, common, draconic, infernal
+**Languages** aklo, celestial, common, draconic, infernal; telepathy 100 feet
+
+**Skills** Acrobatics +20, Arcana +23, Deception +22, Intimidation +20, Occultism +21, Religion +19, Society +21, Stealth +22
 
 **STR** +3, **DEX** +6, **CON** +4, **INT** +7, **WIS** +5, **CHA** +6
 
@@ -23,7 +25,7 @@ uncommon, le, medium, devil, fiend
 
 **Immunities** fire
 
-**Resistances** physical 10
+**Resistances** physical 10 (except silver)
 
 **Weaknesses** good 10
 
@@ -31,7 +33,7 @@ uncommon, le, medium, devil, fiend
 
 Speed 25 feet, fly 40 feet
 
-**Melee** dagger +23 (agile, deadly <d10>, evil, finesse, magical, versatile <S>); **Damage** 1d4+9 piercing plus 1d6 evil
+**Melee** ◆ dagger +23 (agile, deadly <d10>, evil, finesse, magical, versatile <S>); **Damage** 1d4+9 piercing plus 1d6 evil
 
 **Spontaneous arcane Spells** (DC 29), attack +21
 
@@ -49,7 +51,7 @@ Speed 25 feet, fly 40 feet
 
 **Innate divine Spells** (DC 29)
 
-  **4th** blink, dimension door, discern lies, invisibility, outcast's curse, read omens
+  **4th** blink, dimension door (at will), discern lies, invisibility, outcast's curse, read omens
 
   **5th** dimension door
 

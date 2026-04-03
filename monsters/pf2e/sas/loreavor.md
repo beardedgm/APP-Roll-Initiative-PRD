@@ -5,9 +5,11 @@ rare, n, small, astral
 
 ---
 
-**Perception** +19
+**Perception** +19; thoughtsense (imprecise)
 
-**Languages** common
+**Languages** common; tongues
+
+**Skills** Acrobatics +19, Arcana +17, Occultism +21, Society +17, Stealth +19
 
 **STR** +3, **DEX** +6, **CON** +4, **INT** +6, **WIS** +4, **CHA** +3
 
@@ -29,11 +31,13 @@ rare, n, small, astral
 
 Speed 20 feet, fly 20 feet
 
-**Melee** touch +19 (agile, finesse); **Damage** 2d10+7 mental plus search memory
+**Melee** ◆ touch +19 (agile, finesse); **Damage** 2d10+7 mental plus search memory
 
-**Melee** mind bolt +21 (range 60 feet); **Damage** 2d12+4 mental
+**Ranged** ◆ mind bolt +21 (range 60 feet); **Damage** 2d12+4 mental
 
 **Innate occult Spells** (DC 28)
+
+  **Constant (5th)** mage hand
 
   **Cantrips (5th)** tongues
 

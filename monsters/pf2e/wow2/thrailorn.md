@@ -5,7 +5,9 @@ uncommon, small, aberration, plant
 
 ---
 
-**Perception** +12
+**Perception** +12; scent 30 feet (imprecise)
+
+**Skills** Acrobatics +15, Athletics +13, Stealth +15, Survival +12
 
 **STR** +3, **DEX** +5, **CON** +3, **INT** -4, **WIS** +2, **CHA** +1
 
@@ -25,9 +27,9 @@ uncommon, small, aberration, plant
 
 Speed 30 feet
 
-**Melee** jaws +17 (finesse); **Damage** 2d8+7 piercing plus Grab
+**Melee** ◆ jaws +17 (finesse); **Damage** 2d8+7 piercing plus Grab
 
-**Melee** thorn +17 (agile, finesse); **Damage** 2d6+7 piercing plus 1 persistent bleed
+**Melee** ◆ thorn +17 (agile, finesse); **Damage** 2d6+7 piercing plus 1 persistent bleed
 
 **Embed Thorn** If a thrailorn successfully deals persistent bleed damage with its thorn Strike or Eviscerating Thorns reaction and that creature was already taking persistent bleed damage, increase the persistent damage by 1. Each time a creature succeeds the flat check to end this persistent bleed damage, reduce the bleed damage by 1 instead of ending the condition. A critical success on the flat check ends the condition.
 

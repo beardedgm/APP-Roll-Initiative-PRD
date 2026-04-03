@@ -5,7 +5,9 @@ rare, n, gargantuan, beast, fire
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, {@ability tremorsense} 100 feet (imprecise)
+
+**Skills** Athletics +38
 
 **STR** +10, **DEX** -1, **CON** +9, **INT** -3, **WIS** -1, **CHA** -1
 
@@ -31,11 +33,11 @@ rare, n, gargantuan, beast, fire
 
 Speed 40 feet, burrow 40 feet, swim 20 feet
 
-**Melee** jaws +36 (deadly <3d10>, fire, reach <20 feet>); **Damage** 3d10+18 piercing plus 2d6 fire and Improved Grab plus Improved Grab
+**Melee** ◆ jaws +36 (deadly <3d10>, fire, reach <20 feet>); **Damage** 3d10+18 piercing plus 2d6 fire and Improved Grab plus Improved Grab
 
-**Melee** stinger +36 (agile, fire, poison, reach <20 feet>); **Damage** 2d12+18 piercing plus 2d6 fire and crimson worm venom plus crimson worm venom
+**Melee** ◆ stinger +36 (agile, fire, poison, reach <20 feet>); **Damage** 2d12+18 piercing plus 2d6 fire and crimson worm venom plus crimson worm venom
 
-**Melee** body +34 (fire, reach <15 feet>); **Damage** 2d10+16 bludgeoning plus 2d6 fire
+**Melee** ◆ body +34 (fire, reach <15 feet>); **Damage** 2d10+16 bludgeoning plus 2d6 fire
 
 **Breath Weapon** ◆◆ (evocation, fire, primal) The crimson worm breathes a blast of flame in a 60-foot cone that deals 18d6 fire damage to all creatures in the area (DC 41 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

@@ -5,9 +5,11 @@ uncommon, n, tiny, construct
 
 ---
 
-**Perception** +2
+**Perception** +2; darkvision
 
 **Languages** common (can't speak any language)
+
+**Skills** Acrobatics +5, Stealth +7
 
 **STR** -1, **DEX** +3, **CON** +1, **INT** -4, **WIS** +0, **CHA** -5
 
@@ -25,7 +27,7 @@ uncommon, n, tiny, construct
 
 Speed 25 feet
 
-**Melee** sharp edge +7 (agile, finesse); **Damage** 1d6+1 slashing
+**Melee** ◆ sharp edge +7 (agile, finesse); **Damage** 1d6+1 slashing
 
 **Collapse** The spellskein can collapse flat to the ground to Hide; it can attempt to Hide even if it doesn't have any cover or concealment.
 

@@ -5,9 +5,11 @@ unique, le, medium, undead
 
 ---
 
-**Perception** +18
+**Perception** +18; lifesense 60 feet
 
 **Languages** common, necril
+
+**Skills** Athletics +21, Intimidation +23, Stealth +16, Survival +17
 
 **STR** +6, **DEX** +3, **CON** +3, **INT** +3, **WIS** +4, **CHA** +6
 
@@ -33,11 +35,11 @@ unique, le, medium, undead
 
 Speed 20 feet
 
-**Melee** Alietta +21 (magical, two-hand <d12>); **Damage** 2d8+12 slashing
+**Melee** ◆ Alietta +21 (magical, two-hand <d12>); **Damage** 2d8+12 slashing
 
-**Melee** spear +20 (magical, thrown <20 feet>); **Damage** 1d6+12 piercing
+**Melee** ◆ spear +20 (magical, thrown <20 feet>); **Damage** 1d6+12 piercing
 
-**Melee** spear +19 (magical, thrown <20 feet>); **Damage** 1d6+12 piercing
+**Ranged** ◆ spear +19 (magical, thrown <20 feet>); **Damage** 1d6+12 piercing
 
 **Head Hunter** As dullahan.
 

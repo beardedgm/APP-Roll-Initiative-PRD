@@ -5,9 +5,11 @@ rare, ne, large, incorporeal, spirit, undead
 
 ---
 
-**Perception** +16
+**Perception** +16; {@ability darkvision}
 
-**Languages** arboreal, common, sylvan
+**Languages** arboreal, common, sylvan; speak with plants
+
+**Skills** Acrobatics +14, Intimidation +14, Nature +16, Stealth +16
 
 **STR** -5, **DEX** +5, **CON** +3, **INT** +2, **WIS** +5, **CHA** +3
 
@@ -21,7 +23,7 @@ rare, ne, large, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Fleeting Existence** These waldgeists are only fleeting manifestations of a failed exorcism. They vanish after 1 minute has passed from their first manifestation in the mindscape.
 
@@ -29,9 +31,11 @@ rare, ne, large, incorporeal, spirit, undead
 
 Speed fly 30 feet
 
-**Melee** lignifying root +16; **Damage** 2d8+5 negative plus lignify plus lignify
+**Melee** ◆ lignifying root +16; **Damage** 2d8+5 negative plus lignify plus lignify
 
 **Innate primal Spells** (DC 22), attack +14
+
+  **Constant (4th)** speak with plants
 
   **Cantrips (4th)** tanglefoot
 

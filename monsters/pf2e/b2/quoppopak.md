@@ -5,9 +5,11 @@ ne, large, aberration, aquatic
 
 ---
 
-**Perception** +22
+**Perception** +22; low-light vision
 
 **Languages** aquan
+
+**Skills** Acrobatics +23, Athletics +22, Stealth +23
 
 **STR** +7, **DEX** +6, **CON** +5, **INT** -2, **WIS** +5, **CHA** +0
 
@@ -25,13 +27,13 @@ ne, large, aberration, aquatic
 
 Speed 15 feet, swim 40 feet, water glide 30 feet
 
-**Melee** beak +24 (reach <10 feet>); **Damage** 3d8+13 piercing
+**Melee** ◆ beak +24 (reach <10 feet>); **Damage** 3d8+13 piercing
 
-**Melee** tentacle +24 (agile, reach <15 feet>); **Damage** 2d8+13 bludgeoning plus Grab plus Grab
+**Melee** ◆ tentacle +24 (agile, reach <15 feet>); **Damage** 2d8+13 bludgeoning plus Grab plus Grab
 
-**Melee** ventral tube +24 (reach <10 feet>); **Damage** 2d6+13 slashing plus 1d6 persistent bleed
+**Melee** ◆ ventral tube +24 (reach <10 feet>); **Damage** 2d6+13 slashing plus 1d6 persistent bleed
 
-**Melee** water jet +23 (range <100 feet>, water); **Damage** 2d6+13 bludgeoning plus
+**Ranged** ◆ water jet +23 (range <100 feet>, water); **Damage** 2d6+13 bludgeoning plus
 
 **Flooding Thrust** ◆◆ **Requirements** The quoppopak's ventral tube is in water; The quoppopak uses Tentacle Stab against a creature within reach; if either of these Strikes hits, the creature must attempt a DC 30 Reflex save. On a failed save, the quoppopak shoots water through its tentacles into the creature, dealing 2d6+5 bludgeoning damage and making the creature sickened 1 as its internal organs fill with water (double damage and sickened 2 on a critical failure).
 

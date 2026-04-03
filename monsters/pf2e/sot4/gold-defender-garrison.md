@@ -5,7 +5,9 @@ rare, n, gargantuan, construct, mindless, troop
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
+
+**Skills** Athletics +30
 
 **STR** +7, **DEX** +2, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -19,7 +21,7 @@ rare, n, gargantuan, construct, mindless, troop
 
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 15
+**Resistances** physical 15 (except adamantine and bludgeoning)
 
 **Weaknesses** area damage 15, bludgeoning 10, splash damage 8
 
@@ -31,7 +33,7 @@ rare, n, gargantuan, construct, mindless, troop
 
 ---
 
-Speed 20 feet
+Speed 20 feet, troop movement
 
 **Form Up** ◆
 

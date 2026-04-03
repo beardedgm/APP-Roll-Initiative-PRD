@@ -9,9 +9,11 @@ rare, ln, medium, human, humanoid
 
 **Languages** celestial, common
 
+**Skills** Intimidation +16, Occultism +17, Performance +18, Religion +19
+
 **STR** +1, **DEX** +3, **CON** +1, **INT** +2, **WIS** +4, **CHA** +3
 
-**Items** {@runeItem leather||+1 armor potency||+1 leather armor}, {@item holy water} (3), key ring (includes a key that opens all gates except Earth gate, the key to Earth gate, and a key that unlocks all interior doors except those leading into {@creature Mago Kai|SoG3}'s quarters and the treasury), {@item light mace}, {@runeItem composite shortbow||+1 weapon potency||striking|} (20 arrows)
+**Items** +1 leather armor, holy water (3), key ring (includes a key that opens all gates except Earth gate, the key to Earth gate, and a key that unlocks all interior doors except those leading into Mago Kai|SoG3's quarters and the treasury), light mace,  (20 arrows)
 
 ---
 
@@ -25,9 +27,9 @@ rare, ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** light mace +18; **Damage** 1d4+5 bludgeoning
+**Melee** ◆ light mace +18; **Damage** 1d4+5 bludgeoning
 
-**Melee** composite shortbow +19 (deadly <d10>, magical, propulsive, range increment <60 feet>); **Damage** 2d6+5 piercing
+**Ranged** ◆ composite shortbow +19 (deadly <d10>, magical, propulsive, range increment <60 feet>); **Damage** 2d6+5 piercing
 
 **spontaneous divine Spells** (DC 25), attack +17
 

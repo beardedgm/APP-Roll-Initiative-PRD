@@ -5,9 +5,11 @@ uncommon, ne, medium, undead
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
 
 **Languages** common (can't speak any language)
+
+**Skills** Athletics +23, Intimidation +29, Occultism +25
 
 **STR** +5, **DEX** +1, **CON** +8, **INT** +1, **WIS** +3, **CHA** +7
 
@@ -33,9 +35,9 @@ uncommon, ne, medium, undead
 
 Speed 35 feet
 
-**Melee** claw +29 (agile, finesse); **Damage** 3d6+13 slashing plus 2d8 fire and Grab and residual light
+**Melee** ◆ claw +29 (agile, finesse); **Damage** 3d6+13 slashing plus 2d8 fire and Grab and residual light
 
-**Melee** sunfire +25 (range increment <40 feet>); **Damage** 7d6 fire
+**Ranged** ◆ sunfire +25 (range increment <40 feet>); **Damage** 7d6 fire
 
 **Constrict** ◆ 2d6+6 bludgeoning plus 2d8 fire and residual light, DC 34
 

@@ -5,9 +5,11 @@ rare, le, medium, beast, human, humanoid, werecreature
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision, scent 30 feet (precise)
 
-**Languages** common
+**Languages** common; insect empathy, telepathy 120 feet
+
+**Skills** Athletics +37, Intimidation +33, Society +27
 
 **STR** +10, **DEX** +5, **CON** +5, **INT** +0, **WIS** +5, **CHA** +6
 
@@ -35,9 +37,9 @@ rare, le, medium, beast, human, humanoid, werecreature
 
 Speed 40 feet
 
-**Melee** mandibles +36; **Damage** 3d10+20 slashing plus Knockdown and curse of the wereant
+**Melee** ◆ mandibles +36; **Damage** 3d10+20 slashing plus Knockdown and curse of the wereant
 
-**Melee** khopesh +38 (magical, trip); **Damage** 3d8+20 slashing
+**Melee** ◆ khopesh +38 (magical, trip); **Damage** 3d8+20 slashing
 
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) As wereant disciple.
 

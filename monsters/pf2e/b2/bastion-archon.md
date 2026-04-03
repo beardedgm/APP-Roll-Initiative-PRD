@@ -5,9 +5,11 @@ rare, lg, huge, archon, celestial
 
 ---
 
-**Perception** +37
+**Perception** +37; darkvision, true seeing
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Athletics +38, Diplomacy +34, Intimidation +34, Religion +32
 
 **STR** +10, **DEX** +7, **CON** +10, **INT** +6, **WIS** +8, **CHA** +6
 
@@ -29,15 +31,17 @@ rare, lg, huge, archon, celestial
 
 ---
 
-Speed 70 feet
+Speed 70 feet, air walk
 
-**Melee** fist +40 (good, lawful, magical, reach <15 feet>); **Damage** 4d8+20 bludgeoning plus 2d6 good
+**Melee** ◆ fist +40 (good, lawful, magical, reach <15 feet>); **Damage** 4d8+20 bludgeoning plus 2d6 good
 
 **Innate divine Spells** (DC 42), attack +34
 
-  **4th** dimension door
+  **Constant (10th)** air walk, true seeing, tongues
 
-  **7th** prismatic spray, true target, vibrant pattern
+  **4th** dimension door (at will)
+
+  **7th** prismatic spray, true target (×3), vibrant pattern
 
   **10th** meteor swarm, polar ray, sunburst
 

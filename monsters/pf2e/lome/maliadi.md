@@ -5,9 +5,11 @@ uncommon, le, gargantuan, beast
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision, scent 60 feet (imprecise), true seeing
 
 **Languages** aklo, common, draconic, mwangi
+
+**Skills** Athletics +36, Deception +28, Intimidation +28, Nature +29, Survival +29
 
 **STR** +9, **DEX** +3, **CON** +9, **INT** +1, **WIS** +6, **CHA** +3
 
@@ -29,13 +31,17 @@ uncommon, le, gargantuan, beast
 
 ---
 
-Speed 30 feet, swim 20 feet
+Speed 30 feet, swim 20 feet, freedom of movement
 
-**Melee** jaws +35 (deadly <d12>, magical, reach <20 feet>); **Damage** 3d12+19 piercing plus
+**Melee** ◆ jaws +35 (deadly <d12>, magical, reach <20 feet>); **Damage** 3d12+19 piercing plus
 
-**Melee** foot +35 (agile, magical, reach <20 feet>); **Damage** 3d10+17 bludgeoning
+**Melee** ◆ foot +35 (agile, magical, reach <20 feet>); **Damage** 3d10+17 bludgeoning
 
 **Innate primal Spells** (DC 38), attack +30
+
+  **Constant (8th)** freedom of movement
+
+  **Constant (7th)** true seeing
 
   **Cantrips (9th)** detect magic, produce flame
 
@@ -43,7 +49,7 @@ Speed 30 feet, swim 20 feet
 
   **8th** fire shield, volcanic eruption
 
-  **9th** wall of fire, wall of stone
+  **9th** wall of fire (×3), wall of stone (×3)
 
 **Improved Grab** ◆
 

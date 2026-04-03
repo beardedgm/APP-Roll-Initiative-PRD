@@ -5,9 +5,11 @@ le, large, giant, humanoid, shadow
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision
 
 **Languages** common, jotun, shadowtongue
+
+**Skills** Athletics +27, Intimidation +22, Stealth +21
 
 **STR** +8, **DEX** +2, **CON** +5, **INT** +0, **WIS** +1, **CHA** +3
 
@@ -29,11 +31,11 @@ le, large, giant, humanoid, shadow
 
 Speed 35 feet
 
-**Melee** spiked chain +27 (disarm, reach <10 feet>, trip); **Damage** 3d8+18 slashing plus pall of shadow plus pall of shadow
+**Melee** ◆ spiked chain +27 (disarm, reach <10 feet>, trip); **Damage** 3d8+18 slashing plus pall of shadow plus pall of shadow
 
-**Melee** fist +26 (agile, reach <10 feet>); **Damage** 3d8+18 bludgeoning plus pall of shadow plus pall of shadow
+**Melee** ◆ fist +26 (agile, reach <10 feet>); **Damage** 3d8+18 bludgeoning plus pall of shadow plus pall of shadow
 
-**Melee** rock +26 (brutal, range increment <120 feet>); **Damage** 2d8+18 bludgeoning
+**Ranged** ◆ rock +26 (brutal, range increment <120 feet>); **Damage** 2d8+18 bludgeoning
 
 **Pall of Shadow** (divine, necromancy, shadow) When a shadow giant hits with a melee Strike, the target must succeed at a DC 30 Fortitude save or become drained 1 and take a –1 status penalty to Perception checks involving sight as long as they remain drained. On a critical failure, this condition doesn't heal naturally and can be removed only with magic.
 

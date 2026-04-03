@@ -5,9 +5,11 @@ cn, small, caligni, humanoid
 
 ---
 
-**Perception** +8
+**Perception** +8; greater darkvision, light blindness
 
 **Languages** caligni
+
+**Skills** Acrobatics +8, Athletics +4, Stealth +10, Thievery +8
 
 **STR** +0, **DEX** +4, **CON** +3, **INT** -1, **WIS** +2, **CHA** +1
 
@@ -27,14 +29,14 @@ cn, small, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +10 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing plus black smear poison (see below) plus black smear poison (see below)
+**Melee** ◆ dagger +10 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing plus black smear poison (see below) plus black smear poison (see below)
 
-**Melee** dagger +10 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing plus black smear poison (see below) plus black smear poison (see below)
+**Ranged** ◆ dagger +10 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing plus black smear poison (see below) plus black smear poison (see below)
 
 **Innate occult Spells** (DC 15)
 
   **Cantrips (1st)** detect magic
 
-  **2nd** darkness
+  **2nd** darkness (at will)
 
 **Sneak Attack** The caligni creeper deals 1d6 extra precision damage to flat-footed creatures.

@@ -5,13 +5,15 @@ unique, ne, small, humanoid, ratfolk
 
 ---
 
-**Perception** +33
+**Perception** +33; low-light vision
 
 **Languages** goblin, taldane, tien, ysoki
 
+**Skills** Acrobatics +35, Athletics +29, Deception +28, Diplomacy +26, Stealth +35, Thievery +33
+
 **STR** +3, **DEX** +7, **CON** +4, **INT** +5, **WIS** +3, **CHA** +2
 
-**Items** dragon bile (applied to body), hidden cheek needles (20), +3 major striking shortsword, {@item Greater Healing Potion}
+**Items** dragon bile (applied to body), hidden cheek needles (20), +3 major striking shortsword, Greater Healing Potion
 
 **Infused Items** Blue Viper carries the following infused items: 3 major acid flasks, 5 black lotus extracts, 3 major bottled lightnings, 4 true elixirs of life, 3 major frost vials, 2 mindfog mists, 3 oblivion essence|AoA5|oblivion essences, 3 major tanglefoot bags, 5 tears of death, and 2 major thunderstones. These items last for 24 hours, or until the next time Blue Viper makes his daily preparations.
 
@@ -31,11 +33,11 @@ unique, ne, small, humanoid, ratfolk
 
 Speed 25 feet
 
-**Melee** shortsword +38 (agile, finesse, versatile <S>); **Damage** 4d6+11 piercing
+**Melee** ◆ shortsword +38 (agile, finesse, versatile <S>); **Damage** 4d6+11 piercing
 
-**Melee** alchemical bomb +38 (range increment <20 feet>, splash); **Damage** varies by bomb
+**Ranged** ◆ alchemical bomb +38 (range increment <20 feet>, splash); **Damage** varies by bomb
 
-**Melee** hidden cheek needles +35 (concealable, range increment <10 feet>); **Damage** 9 piercing plus tears of death or black lotus extract plus tears of death or black lotus extract
+**Ranged** ◆ hidden cheek needles +35 (concealable, range increment <10 feet>); **Damage** 9 piercing plus tears of death or black lotus extract plus tears of death or black lotus extract
 
 **Plum Rain Deluge** ◆◆◆ (certain kill, transmutation) **Frequency** {"unit":"round","number":1}; Blue Viper accelerates the flow of time so his poisons run their course faster. He Interacts to draw a contact poison and throws it in the air, where it showers down in a 20-foot burst within 60 feet. All creatures in the burst are automatically exposed to the poison, bypassing any onset time, and each creature must attempt a saving throw against that poison. If a creature fails, the duration of any beneficial spells or effects affecting the creature are reduced by 3 rounds (or by 6 rounds on a critical failure).
 

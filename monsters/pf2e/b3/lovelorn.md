@@ -9,6 +9,8 @@ uncommon, ce, tiny, undead
 
 **Languages** common (can't speak any language)
 
+**Skills** Athletics +12, Occultism +8, Stealth +13
+
 **STR** +4, **DEX** +5, **CON** +3, **INT** -2, **WIS** +2, **CHA** +3
 
 ---
@@ -29,15 +31,15 @@ uncommon, ce, tiny, undead
 
 Speed 25 feet, climb 25 feet
 
-**Melee** fangs +13 (finesse); **Damage** 1d6+6 piercing plus 1d6 persistent bleed and cynic's curse plus cynic's curse
+**Melee** ◆ fangs +13 (finesse); **Damage** 1d6+6 piercing plus 1d6 persistent bleed and cynic's curse plus cynic's curse
 
-**Melee** gory tendril +13 (agile, finesse); **Damage** 1d4+6 bludgeoning plus Grab
+**Melee** ◆ gory tendril +13 (agile, finesse); **Damage** 1d4+6 bludgeoning plus Grab
 
 **Innate occult Spells** (DC 21)
 
   **Cantrips (2nd)** ghost sound, mage hand
 
-  **2nd** fear, illusory creature, illusory object, invisibility
+  **2nd** fear (×3), illusory creature (at will), illusory object (at will), invisibility
 
 **Cynic's Curse** (curse, emotion, enchantment, mental, occult) A creature hit by a lovelorn's fangs Strike must attempt a DC 19 Will save as it grows morose and listless. If the creature would be affected by a calm emotions spell, that spell attempts to counteract this curse instead of having its normal effect. **Critical Success** The target is unaffected.
 **Success** For 1 minute, the target can't benefit from helpful emotion effects, but can still be affected by harmful emotion effects.

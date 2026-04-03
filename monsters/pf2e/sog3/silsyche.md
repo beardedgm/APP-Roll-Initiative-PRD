@@ -5,9 +5,11 @@ uncommon, cn, small, incorporeal, kami, spirit
 
 ---
 
-**Perception** +14
+**Perception** +14; {@ability darkvision}
 
 **Languages** common
+
+**Skills** Acrobatics +13, Stealth +15
 
 **STR** -5, **DEX** +5, **CON** +4, **INT** +2, **WIS** +4, **CHA** +0
 
@@ -21,7 +23,7 @@ uncommon, cn, small, incorporeal, kami, spirit
 
 **Immunities** death effects, disease, paralyzed, poison, unconscious
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Inhabit Home** (divine, transmutation) The silsyche inhabits a modest building and controls it. While the building is possessed, its decor shifts to reflect the silsyche's mood, such as being filled with bright light (when the silsyche is happy) or appearing old and filthy (if they're depressed). A silsyche can't willingly leave their home; if forced out of their home, the silsyche takes 3d10 force damage (DC 25 basic Fortitude save) at the start of each of their turns.
 
@@ -31,13 +33,13 @@ uncommon, cn, small, incorporeal, kami, spirit
 
 Speed fly 30 feet
 
-**Melee** touch +15 (agile, finesse, magical); **Damage** 2d8+6 mental
+**Melee** ◆ touch +15 (agile, finesse, magical); **Damage** 2d8+6 mental
 
 **Innate occult Spells** (DC 24), attack +16
 
   **Cantrips (3rd)** dancing lights, mage hand, telekinetic projectile
 
-  **2nd** illusory object
+  **2nd** illusory object (×3)
 
   **3rd** item facade
 

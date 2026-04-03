@@ -5,7 +5,9 @@ uncommon, ne, huge, aquatic, mindless, swarm, undead
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision, wavesense 100 feet (precise)
+
+**Skills** Athletics +22
 
 **STR** +4, **DEX** +4, **CON** +7, **INT** -5, **WIS** +3, **CHA** +2
 

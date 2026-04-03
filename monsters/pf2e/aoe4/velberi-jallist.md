@@ -9,6 +9,8 @@ unique, ne, medium, human, humanoid
 
 **Languages** common, daemonic
 
+**Skills** Athletics +26, Intimidation +27, Religion +23, Thievery +25
+
 **STR** +6, **DEX** +3, **CON** +1, **INT** +0, **WIS** +5, **CHA** +3
 
 ---
@@ -25,7 +27,7 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +27 (agile, finesse, magic, versatile <S>); **Damage** 2d4+12 piercing
+**Melee** ◆ dagger +27 (agile, finesse, magic, versatile <S>); **Damage** 2d4+12 piercing
 
 **Prepared divine Spells** (DC 34)
 
@@ -43,6 +45,6 @@ Speed 25 feet
 
   **6th** blade barrier, heal, true seeing
 
-  **7th** divine decree, finger of death, harm
+  **7th** divine decree, finger of death, harm (×4)
 
 **Designate Apostate** ◆ (auditory, concentrate, divine, visual) Velberi designates one creature she can see within 30 feet as an apostate to the church of Norgorber, regardless of the creature's actual religious leanings. She can have up to four apostates designated at a time; any additional apostate removes another apostate of her choice. Velberi treats all Perception checks made to Sense Motive against an apostate as one degree of success better, and her Strikes deal an additional 2d8 mental damage to apostates.

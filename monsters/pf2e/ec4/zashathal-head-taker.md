@@ -5,9 +5,11 @@ unique, ne, medium, humanoid, xulgath
 
 ---
 
-**Perception** +27
+**Perception** +27; coward sense 60 feet (imprecise), darkvision
 
 **Languages** common, draconic, undercommon
+
+**Skills** Acrobatics +22, Athletics +29, Intimidation +25, Religion +25, Stealth +22, Survival +25
 
 **STR** +6, **DEX** +1, **CON** +5, **INT** +0, **WIS** +4, **CHA** +2
 
@@ -23,7 +25,7 @@ unique, ne, medium, humanoid, xulgath
 
 **HP** 250
 
-**Resistances** physical 14
+**Resistances** physical 14 (from weapons only)
 
 **Fanatical Juggernaut ** When Zashathal rolls a success on a Fortitude save, it is a critical success instead. Zashathal halves damage he takes from failing a Fortitude save.
 
@@ -35,13 +37,13 @@ unique, ne, medium, humanoid, xulgath
 
 Speed 35 feet
 
-**Melee** ankylostar +30 (backswing, magical, shove, versatile <P>); **Damage** 3d10+12 bludgeoning
+**Melee** ◆ ankylostar +30 (backswing, magical, shove, versatile <P>); **Damage** 3d10+12 bludgeoning
 
-**Melee** jaws +28; **Damage** 3d8+12 piercing
+**Melee** ◆ jaws +28; **Damage** 3d8+12 piercing
 
-**Melee** claw +28 (agile); **Damage** 3d6+12 slashing
+**Melee** ◆ claw +28 (agile); **Damage** 3d6+12 slashing
 
-**Melee** stoneraiser javelin +25 (thrown <30 feet>); **Damage** 2d6+12 piercing
+**Ranged** ◆ stoneraiser javelin +25 (thrown <30 feet>); **Damage** 2d6+12 piercing
 
 **Intimidating Strike** ◇ (rage) **Trigger** Zashathal hits a creature with a melee Strike; Zashathal makes an Intimidate check to Demoralize the target creature. If the target creature was reduced to 0 Hit Points by the triggering Strike, Zashathal can instead Demoralize all opponents within 30 feet by comparing the result of his Intimidation check to each creature's Will DC. Zashathal doesn't take a penalty to these Intimidation checks for not speaking a target's language.
 

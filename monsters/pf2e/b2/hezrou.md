@@ -5,9 +5,11 @@ ce, large, amphibious, demon, fiend
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Arcana +21, Athletics +24, Intimidation +23, Stealth +20
 
 **STR** +7, **DEX** +3, **CON** +6, **INT** +4, **WIS** +5, **CHA** +4
 
@@ -29,13 +31,13 @@ ce, large, amphibious, demon, fiend
 
 Speed 30 feet, swim 30 feet
 
-**Melee** jaws (evil, magical, reach <10 feet>) +24; **Damage** 2d12+13 piercing plus 1d6 evil and Grab plus Grab
+**Melee** ◆ jaws (evil, magical, reach <10 feet>) +24; **Damage** 2d12+13 piercing plus 1d6 evil and Grab plus Grab
 
-**Melee** claw (agile, evil, magical, reach <10 feet>) +24; **Damage** 2d8+13 slashing plus 1d6 evil
+**Melee** ◆ claw (agile, evil, magical, reach <10 feet>) +24; **Damage** 2d8+13 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 27)
 
-  **4th** dimension door, divine wrath, gaseous form
+  **4th** dimension door (at will), divine wrath (at will), gaseous form
 
   **5th** Abyssal plague, dimension door
 

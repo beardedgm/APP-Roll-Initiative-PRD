@@ -5,9 +5,11 @@ uncommon, n, large, air, dragon, elemental
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision, mist vision, scent 60 feet (imprecise)
 
 **Languages** auran, common, draconic
+
+**Skills** Acrobatics +20, Athletics +21, Deception +20, Diplomacy +18, Intimidation +22, Nature +18, Stealth +18, Survival +16
 
 **STR** +7, **DEX** +2, **CON** +5, **INT** +2, **WIS** +4, **CHA** +4
 
@@ -29,19 +31,19 @@ uncommon, n, large, air, dragon, elemental
 
 ---
 
-Speed 40 feet, fly 140 feet
+Speed 40 feet, fly 140 feet, cloud walk
 
-**Melee** jaws +23 (electricity, reach <10 feet>); **Damage** 2d10+13 piercing plus 1d12 electricity
+**Melee** ◆ jaws +23 (electricity, reach <10 feet>); **Damage** 2d10+13 piercing plus 1d12 electricity
 
-**Melee** claw +23 (agile); **Damage** 2d8+13 slashing
+**Melee** ◆ claw +23 (agile); **Damage** 2d8+13 slashing
 
-**Melee** tail +21 (reach <15 feet>); **Damage** 2d12+13 bludgeoning
+**Melee** ◆ tail +21 (reach <15 feet>); **Damage** 2d12+13 bludgeoning
 
-**Melee** horn +21 (deadly <d8>, reach <10 feet>); **Damage** 1d12+11 piercing
+**Melee** ◆ horn +21 (deadly <d8>, reach <10 feet>); **Damage** 1d12+11 piercing
 
 **Innate primal Spells** (DC 29)
 
-  **1st** gust of wind
+  **1st** gust of wind (at will)
 
   **2nd** obscuring mist
 

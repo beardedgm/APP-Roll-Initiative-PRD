@@ -5,9 +5,11 @@ uncommon, ln, large, amphibious, dragon, elemental, water
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision, scent 60 feet (imprecise)
 
 **Languages** aquan, common, draconic
+
+**Skills** Acrobatics +14, Athletics +18, Deception +18, Intimidation +18, Nature +16, Society +16, Survival +14
 
 **STR** +6, **DEX** +2, **CON** +4, **INT** +2, **WIS** +2, **CHA** +4
 
@@ -29,17 +31,17 @@ uncommon, ln, large, amphibious, dragon, elemental, water
 
 Speed 30 feet, fly 100 feet, swim 50 feet
 
-**Melee** jaws +20 (acid, reach <10 feet>); **Damage** 2d10+8 piercing plus 2d4 acid
+**Melee** ◆ jaws +20 (acid, reach <10 feet>); **Damage** 2d10+8 piercing plus 2d4 acid
 
-**Melee** claw +20 (agile); **Damage** 2d8+8 slashing
+**Melee** ◆ claw +20 (agile); **Damage** 2d8+8 slashing
 
-**Melee** tail +18 (reach <15 feet>); **Damage** 2d12+8 bludgeoning
+**Melee** ◆ tail +18 (reach <15 feet>); **Damage** 2d12+8 bludgeoning
 
-**Melee** wing +18 (agile, reach <10 feet>); **Damage** 1d12+8 piercing
+**Melee** ◆ wing +18 (agile, reach <10 feet>); **Damage** 1d12+8 piercing
 
 **Innate primal Spells** (DC 26), attack +18
 
-  **1st** hydraulic push
+  **1st** hydraulic push (×2)
 
   **2nd** obscuring mist
 

@@ -5,9 +5,11 @@ n, medium, elemental, fire
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision, smoke vision
 
 **Languages** ignan
+
+**Skills** Acrobatics +13
 
 **STR** +3, **DEX** +4, **CON** +2, **INT** -2, **WIS** +3, **CHA** +0
 
@@ -31,6 +33,6 @@ n, medium, elemental, fire
 
 Speed 50 feet
 
-**Melee** tendril +15 (agile, finesse, reach <10 feet>); **Damage** 2d6+6 fire plus 2d4 persistent fire
+**Melee** ◆ tendril +15 (agile, finesse, reach <10 feet>); **Damage** 2d6+6 fire plus 2d4 persistent fire
 
-**Melee** fire mote +15 (range increment <60 feet>); **Damage** 2d6+3 fire
+**Ranged** ◆ fire mote +15 (range increment <60 feet>); **Damage** 2d6+3 fire

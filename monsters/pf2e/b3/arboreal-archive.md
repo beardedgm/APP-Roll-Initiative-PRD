@@ -5,9 +5,11 @@ ng, huge, plant
 
 ---
 
-**Perception** +25
+**Perception** +25; low-light vision, {@ability tremorsense} 60 feet (imprecise)
 
-**Languages** arboreal, common, sylvan
+**Languages** arboreal, common, sylvan; speak with plants
+
+**Skills** Athletics +23, Diplomacy +22, Nature +25, Stealth +19, Forest Lore +28
 
 **STR** +7, **DEX** -1, **CON** +5, **INT** +4, **WIS** +7, **CHA** +4
 
@@ -31,13 +33,15 @@ ng, huge, plant
 
 Speed 25 feet
 
-**Melee** branch +25 (reach <15 feet>); **Damage** 3d10+10 bludgeoning plus Improved Knockdown (page 305) plus Improved Knockdown
+**Melee** ◆ branch +25 (reach <15 feet>); **Damage** 3d10+10 bludgeoning plus Improved Knockdown (page 305) plus Improved Knockdown
 
 **Innate primal Spells** (DC 32), attack +24
 
+  **Constant (4th)** speak with plants
+
   **2nd** entangle
 
-  **3rd** earthbind
+  **3rd** earthbind (at will)
 
   **6th** tangling creepers
 

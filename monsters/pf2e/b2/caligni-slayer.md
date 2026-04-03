@@ -5,9 +5,11 @@ uncommon, ce, small, caligni, humanoid
 
 ---
 
-**Perception** +8
+**Perception** +8; greater darkvision
 
 **Languages** caligni, undercommon
+
+**Skills** Acrobatics +9, Arcana +10, Athletics +7, Occultism +10, Stealth +10
 
 **STR** +1, **DEX** +4, **CON** +1, **INT** +2, **WIS** +0, **CHA** +2
 
@@ -32,13 +34,13 @@ uncommon, ce, small, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** kukri +11 (agile, finesse, trip); **Damage** 1d6+3 slashing plus black smear poison plus black smear poison
+**Melee** ◆ kukri +11 (agile, finesse, trip); **Damage** 1d6+3 slashing plus black smear poison plus black smear poison
 
 **Innate occult Spells** (DC 20), attack +12
 
   **Cantrips (2nd)** chill touch, daze, detect magic, shield
 
-  **2nd** darkness, death knell, phantom pain, spectral hand
+  **2nd** darkness (at will), death knell, phantom pain, spectral hand
 
 **Black Smear Poison** (poison)
 

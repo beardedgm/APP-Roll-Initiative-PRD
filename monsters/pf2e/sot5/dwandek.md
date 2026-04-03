@@ -5,13 +5,15 @@ unique, ne, medium, undead
 
 ---
 
-**Perception** +31
+**Perception** +31; darkvision
 
 **Languages** common, necril, undercommon
 
+**Skills** Arcana +33, Crafting +31, Deception +27, Intimidation +29, Occultism +33, Religion +29
+
 **STR** +0, **DEX** +5, **CON** +6, **INT** +8, **WIS** +4, **CHA** +4
 
-**Items** diadem of intellect, {@item 7th-Level Spell Magic Wand||wand} of {@spell inexhaustible cynicism|som}
+**Items** diadem of intellect, wand of inexhaustible cynicism|som
 
 **Void Shroud** (aura, death, necromancy) 30 feet. As lich, but DC 35.
 
@@ -25,7 +27,7 @@ unique, ne, medium, undead
 
 **Immunities** death effects, disease, paralyzed, poison, unconscious
 
-**Resistances** arcane spell damage 5, cold 20, physical 15
+**Resistances** arcane spell damage 5, cold 20, physical 15 (except magic bludgeoning)
 
 **Counterspell** ◈ **Trigger** A creature casts a spell Dwandek has prepared; As lich.
 
@@ -35,27 +37,27 @@ unique, ne, medium, undead
 
 Speed 25 feet, fly 25 feet
 
-**Melee** hand +32 (finesse, magical); **Damage** 5d8 negative plus paralyzing touch
+**Melee** ◆ hand +32 (finesse, magical); **Damage** 5d8 negative plus paralyzing touch
 
 **Prepared arcane Spells** (DC 39), attack +29
 
   **Cantrips (9th)** detect magic, mage hand, message, ray of frost, shield
 
-  **1st** magic missile, ray of enfeeblement, true strike
+  **1st** magic missile, ray of enfeeblement (×2), true strike
 
   **2nd** false life, mirror image, resist energy, see invisibility
 
   **3rd** blindness, locate, magic missile, vampiric touch
 
-  **4th** fly, phantasmal killer, vampiric maiden
+  **4th** fly, phantasmal killer, vampiric maiden (×2)
 
-  **5th** cloudkill, cone of cold, wall of ice
+  **5th** cloudkill, cone of cold (×2), wall of ice
 
-  **6th** chain lightning, dominate, vampiric exsanguination
+  **6th** chain lightning, dominate, vampiric exsanguination (×2)
 
-  **7th** duplicate foe, eclipse burst, mask of terror
+  **7th** duplicate foe, eclipse burst (×2), mask of terror
 
-  **8th** horrid wilting, maze, prismatic wall
+  **8th** horrid wilting (×2), maze, prismatic wall
 
   **9th** massacre, power word kill, telepathic demand
 

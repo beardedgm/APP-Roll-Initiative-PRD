@@ -9,6 +9,8 @@ unique, cn, medium, human, humanoid
 
 **Languages** common, varisian
 
+**Skills** Deception +22, Diplomacy +20, Society +24, Stealth +24, Legal Lore +24
+
 **STR** +6, **DEX** +2, **CON** +2, **INT** +4, **WIS** +4, **CHA** +0
 
 **Items** +1 resilient chain shirt, crossbow (with 20 bolts), elite disguise kit, +2 greater striking longsword, tinted goggles
@@ -25,9 +27,9 @@ unique, cn, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** longsword +28 (magical, versatile <P>); **Damage** 3d8+12 slashing
+**Melee** ◆ longsword +28 (magical, versatile <P>); **Damage** 3d8+12 slashing
 
-**Melee** crossbow +24 (range increment <120 feet>, reload <1>); **Damage** 1d8+6 piercing
+**Ranged** ◆ crossbow +24 (range increment <120 feet>, reload <1>); **Damage** 1d8+6 piercing
 
 **Dueling Parry** ◆ As long as he has one free hand, Grimwold can parry attacks against him with his longsword. He gains a +2 circumstance bonus to AC until the start of his next turn as long as his other hand remains free.
 

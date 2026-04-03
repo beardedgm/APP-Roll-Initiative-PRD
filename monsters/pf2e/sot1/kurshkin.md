@@ -5,9 +5,11 @@ unique, ne, tiny, fey, gremlin
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common, gnoll, undercommon
+
+**Skills** Arcana +8, Crafting +8, Deception +8, Nature +8, Stealth +11, Thievery +9
 
 **STR** -2, **DEX** +4, **CON** +1, **INT** +1, **WIS** -1, **CHA** +3
 
@@ -31,9 +33,9 @@ unique, ne, tiny, fey, gremlin
 
 Speed 25 feet
 
-**Melee** shortsword +12 (agile, finesse, magical, versatile <S>); **Damage** 1d6+4 piercing
+**Melee** ◆ shortsword +12 (agile, finesse, magical, versatile <S>); **Damage** 1d6+4 piercing
 
-**Melee** shortbow +12 (deadly <d10>, magical, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +12 (deadly <d10>, magical, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
 
 **Innate primal Spells** (DC 20)
 
@@ -41,7 +43,7 @@ Speed 25 feet
 
   **1st** gust of wind, spider sting
 
-  **2nd** speak with animals
+  **2nd** speak with animals (at will)
 
 **Lucky Stabs** Kurshkin deals an additional 1d6 damage with her melee Strikes against creatures affected by her unluck aura.
 

@@ -5,9 +5,11 @@ unique, le, medium, elf, half-elf, human, humanoid
 
 ---
 
-**Perception** +16
+**Perception** +16; low-light vision
 
 **Languages** common, elven, kelish, osiriani
+
+**Skills** Acrobatics +17, Alkenstar Lore +11, Athletics +17, Deception +15, Diplomacy +15, Society +11, Stealth +17, Thievery +17
 
 **STR** +4, **DEX** +4, **CON** +2, **INT** +0, **WIS** +1, **CHA** +2
 
@@ -27,9 +29,9 @@ unique, le, medium, elf, half-elf, human, humanoid
 
 Speed 30 feet
 
-**Melee** knuckle duster +16 (agile, free-hand, magical); **Damage** 2d4+10 bludgeoning plus concussive fist
+**Melee** ◆ knuckle duster +16 (agile, free-hand, magical); **Damage** 2d4+10 bludgeoning plus concussive fist
 
-**Melee** [one-action]dueling pistol +16 (concealable, concussive, fatal <d10>, magical, range increment <60 feet>, reload <1>); **Damage** 2d6+6 piercing
+**Ranged** ◆ [one-action]dueling pistol +16 (concealable, concussive, fatal <d10>, magical, range increment <60 feet>, reload <1>); **Damage** 2d6+6 piercing
 
 **Concussive Fist** (incapacitation) A living creature hit by Sharkosa's knuckle duster must attempt a DC 23 Fortitude save. **Critical Success** 
 **Success** 

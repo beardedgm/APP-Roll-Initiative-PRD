@@ -5,9 +5,11 @@ ce, medium, amphibious, boggard, humanoid
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **Languages** boggard
+
+**Skills** Athletics +16, Intimidation +12, Stealth +15, Survival +14
 
 **STR** +5, **DEX** +2, **CON** +3, **INT** -1, **WIS** +3, **CHA** +1
 
@@ -23,13 +25,13 @@ ce, medium, amphibious, boggard, humanoid
 
 ---
 
-Speed 20 feet, swim 25 feet
+Speed 20 feet, swim 25 feet, swamp stride
 
-**Melee** greatclub +18 (backswing, shove); **Damage** 1d10+7 bludgeoning
+**Melee** ◆ greatclub +18 (backswing, shove); **Damage** 1d10+7 bludgeoning
 
-**Melee** tongue +18 (reach <10 feet>); **Damage** 1d4+7 bludgeoning and Tongue Grab
+**Melee** ◆ tongue +18 (reach <10 feet>); **Damage** 1d4+7 bludgeoning and Tongue Grab
 
-**Melee** javelin +15 (thrown <30 feet>); **Damage** 1d6+7 piercing
+**Ranged** ◆ javelin +15 (thrown <30 feet>); **Damage** 1d6+7 piercing
 
 **Sneak Attack** A boggard hunter deals an additional 2d6 precision damage to flat-footed creatures.
 

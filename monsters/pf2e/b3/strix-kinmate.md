@@ -5,9 +5,11 @@ uncommon, ln, medium, humanoid, strix
 
 ---
 
-**Perception** +9
+**Perception** +9; low-light vision
 
 **Languages** common, strix
+
+**Skills** Acrobatics +8, Nature +7, Survival +9
 
 **STR** +2, **DEX** +4, **CON** +0, **INT** +0, **WIS** +3, **CHA** +0
 
@@ -25,11 +27,11 @@ uncommon, ln, medium, humanoid, strix
 
 Speed 25 feet, fly 25 feet
 
-**Melee** shortsword +10 (agile, finesse, versatile <S>); **Damage** 1d6+4 piercing
+**Melee** ◆ shortsword +10 (agile, finesse, versatile <S>); **Damage** 1d6+4 piercing
 
-**Melee** talon +10 (agile, finesse); **Damage** 1d6+4 slashing
+**Melee** ◆ talon +10 (agile, finesse); **Damage** 1d6+4 slashing
 
-**Melee** shortbow +10 (deadly <d10>, range increment <60 feet>); **Damage** 1d6+2 piercing
+**Ranged** ◆ shortbow +10 (deadly <d10>, range increment <60 feet>); **Damage** 1d6+2 piercing
 
 **Strix Camaraderie** Strix kinmates are tightly bonded to one another, adept at teamwork and supporting each other's attacks. If an enemy is within reach of both the kinmate and one other strix, that enemy is flat-footed to all strix.
 

@@ -5,9 +5,11 @@ uncommon, ce, medium, demon, fiend, ooze
 
 ---
 
-**Perception** +22
+**Perception** +22; greater darkvision
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +24, Athletics +23, Religion +20, Stealth +24
 
 **STR** +7, **DEX** +3, **CON** +7, **INT** +2, **WIS** +4, **CHA** +4
 
@@ -31,15 +33,15 @@ uncommon, ce, medium, demon, fiend, ooze
 
 Speed 40 feet, swim 80 feet, climb 20 feet
 
-**Melee** sludge tendril +25; **Damage** 2d6+13 bludgeoning plus 2d6 acid and 1d6 evil and Grab plus Grab
+**Melee** ◆ sludge tendril +25; **Damage** 2d6+13 bludgeoning plus 2d6 acid and 1d6 evil and Grab plus Grab
 
-**Melee** slime ball +24 (range increment <30 feet>); **Damage** 2d4+13 bludgeoning plus 2d6 acid and 1d6 evil and slime trap plus slime trap
+**Ranged** ◆ slime ball +24 (range increment <30 feet>); **Damage** 2d4+13 bludgeoning plus 2d6 acid and 1d6 evil and slime trap plus slime trap
 
 **Innate divine Spells** (DC 32)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
-  **5th** control water, create water, dimension door, stinking cloud
+  **5th** control water, create water (at will), dimension door, stinking cloud
 
 **Liquid Leap** ◆◆ (concentrate, conjuration, teleportation) **Requirements** The omox is in a space of liquid; The omox teleports from its current space to any unoccupied space of liquid within 120 feet.
 

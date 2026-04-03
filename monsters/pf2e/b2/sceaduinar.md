@@ -5,9 +5,11 @@ rare, ne, medium, aberration, negative
 
 ---
 
-**Perception** +15
+**Perception** +15; greater darkvision, lifesense 120 feet
 
 **Languages** aklo
+
+**Skills** Acrobatics +17, Athletics +13, Intimidation +13, Occultism +15, Stealth +17
 
 **STR** +2, **DEX** +6, **CON** +4, **INT** +2, **WIS** +4, **CHA** +0
 
@@ -21,7 +23,7 @@ rare, ne, medium, aberration, negative
 
 **Immunities** death effects, drained
 
-**Resistances** physical 5
+**Resistances** physical 5 (except adamantine)
 
 **Weaknesses** good 10
 
@@ -33,9 +35,9 @@ rare, ne, medium, aberration, negative
 
 Speed 30 feet, fly 60 feet
 
-**Melee** jaws +18 (agile, finesse, magical); **Damage** 2d6+4 piercing plus 2d6 negative and drain life plus drain life
+**Melee** ◆ jaws +18 (agile, finesse, magical); **Damage** 2d6+4 piercing plus 2d6 negative and drain life plus drain life
 
-**Melee** wing +18 (agile, finesse, magical, reach <10 feet>); **Damage** 2d6+4 slashing plus 2d6 negative
+**Melee** ◆ wing +18 (agile, finesse, magical, reach <10 feet>); **Damage** 2d6+4 slashing plus 2d6 negative
 
 **Innate occult Spells** (DC 25)
 
@@ -43,7 +45,7 @@ Speed 30 feet, fly 60 feet
 
   **2nd** silence
 
-  **3rd** grim tendrils, harm
+  **3rd** grim tendrils, harm (×3)
 
   **4th** darkness, dimension door, dispel magic, harm
 

@@ -7,6 +7,8 @@ uncommon, ne, medium, mindless, skeleton, undead
 
 **Perception** +18
 
+**Skills** Acrobatics +24, Athletics +21, Intimidation +20
+
 **STR** +6, **DEX** +7, **CON** +5, **INT** -5, **WIS** +4, **CHA** +3
 
 ---
@@ -27,7 +29,7 @@ uncommon, ne, medium, mindless, skeleton, undead
 
 Speed 45 feet
 
-**Melee** claw +24 (agile, finesse); **Damage** 4d6+12 slashing
+**Melee** ◆ claw +24 (agile, finesse); **Damage** 4d6+12 slashing
 
 **Flurry of Claws** ◆ (flourish) The Iroran skeleton makes two claw Strikes. If both hit the same creature, the damage is combined for the purpose of resistances and weaknesses. The multiple attack penalty applies to the Strikes as normal.
 

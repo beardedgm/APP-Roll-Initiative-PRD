@@ -5,9 +5,11 @@ uncommon, cn, medium, fey
 
 ---
 
-**Perception** +23
+**Perception** +23; {@ability darkvision}, scent curse
 
 **Languages** aklo, common, sylvan
+
+**Skills** Acrobatics +17, Nature +17, Survival +19
 
 **STR** +3, **DEX** +6, **CON** +5, **INT** +3, **WIS** +6, **CHA** +5
 
@@ -33,7 +35,7 @@ uncommon, cn, medium, fey
 
 Speed 25 feet, fly 25 feet
 
-**Melee** claws +23 (agile, finesse, magical); **Damage** 2d12+9 slashing plus homeland's hostility plus Homeland's Hostility
+**Melee** ◆ claws +23 (agile, finesse, magical); **Damage** 2d12+9 slashing plus homeland's hostility plus Homeland's Hostility
 
 **Innate primal Spells** (DC 32), attack +22
 

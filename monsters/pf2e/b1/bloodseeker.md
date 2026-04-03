@@ -5,7 +5,9 @@ n, tiny, animal
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision, scent 60 feet (imprecise)
+
+**Skills** Acrobatics +6, Stealth +6
 
 **STR** -4, **DEX** +3, **CON** +0, **INT** -5, **WIS** +1, **CHA** -2
 
@@ -21,7 +23,7 @@ n, tiny, animal
 
 Speed 10 feet, fly 30 feet
 
-**Melee** barbed leg +8 (finesse); plus attach
+**Melee** ◆ barbed leg +8 (finesse); plus attach
 
 **Attach** When a bloodseeker hits a target larger than itself, its barbed legs attach it to that creature. This is similar to grabbing the creature, but the bloodseeker moves with that creature rather than holding it in place. The bloodseeker is flatfooted while attached. If the bloodseeker is killed or pushed away while attached to a creature it has drained blood from, that creature takes 1 persistent bleed damage. Escaping the attach or removing the bloodseeker in other ways doesn't cause bleed damage.
 

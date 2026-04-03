@@ -5,9 +5,11 @@ rare, ne, large, cold, undead
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, scent (imprecise)
 
-**Languages** erutaki, jotun
+**Languages** erutaki, jotun; telepathy 100 feet
+
+**Skills** Athletics +21, Intimidation +18, Stealth +17
 
 **STR** +6, **DEX** +4, **CON** +5, **INT** +2, **WIS** +4, **CHA** +1
 
@@ -29,9 +31,9 @@ rare, ne, large, cold, undead
 
 Speed 30 feet, ice climb 30 feet
 
-**Melee** halberd +21 (magical, reach <10 feet>, versatile <S>); **Damage** 2d10+10 piercing
+**Melee** ◆ halberd +21 (magical, reach <10 feet>, versatile <S>); **Damage** 2d10+10 piercing
 
-**Melee** horns +21 (agile); **Damage** 2d6+6 bludgeoning plus 2d6 cold and blackfrost
+**Melee** ◆ horns +21 (agile); **Damage** 2d6+6 bludgeoning plus 2d6 cold and blackfrost
 
 **Imprison Mind** ◆◆ (mental, necromancy, occult) The blackfrost prophet concentrates on a creature within 60 feet, filling the target's mind with befuddling susurrations. The creature must succeed at a DC 28 Will save or take 4d8+8 mental damage and become stupefied 1 for 1 minute (stupefied 2 on a critical failure). The creature is slowed 1 as long as it's stupefied.
 

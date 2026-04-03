@@ -9,6 +9,8 @@ uncommon, ln, large, construct, mindless
 
 **Languages** common
 
+**Skills** Acrobatics +21, Athletics +23
+
 **STR** +7, **DEX** +5, **CON** +5, **INT** -5, **WIS** +2, **CHA** -5
 
 **Items** +1 striking disrupting longsword
@@ -31,11 +33,11 @@ uncommon, ln, large, construct, mindless
 
 Speed 20 feet
 
-**Melee** echoblade +23 (magical, reach <10 feet>, versatile <P>); **Damage** 2d8+13 slashing plus 1d8 force
+**Melee** ◆ echoblade +23 (magical, reach <10 feet>, versatile <P>); **Damage** 2d8+13 slashing plus 1d8 force
 
-**Melee** fist +23 (agile, reach <10 feet>); **Damage** 2d8+13 bludgeoning
+**Melee** ◆ fist +23 (agile, reach <10 feet>); **Damage** 2d8+13 bludgeoning
 
-**Melee** echoblade +23 (agile, magical, thrown <30 feet>); **Damage** 2d8+13 slashing plus 1d8 force
+**Ranged** ◆ echoblade +23 (agile, magical, thrown <30 feet>); **Damage** 2d8+13 slashing plus 1d8 force
 
 **Echoblade Flurry** ◆ Frequency once per round; The swordkeeper makes two melee echoblade Strikes. If both Strikes hit the same creature, combine their damage for the purpose of resistances and weakness. Apply the swordkeeper's multiple attack penalty normally.
 

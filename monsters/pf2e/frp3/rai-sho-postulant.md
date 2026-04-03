@@ -5,9 +5,11 @@ rare, n, large, humanoid
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, scent 30 feet (imprecise)
 
 **Languages** aklo, taldane, tien
+
+**Skills** Athletics +33, Stealth +28, Survival +27
 
 **STR** +9, **DEX** +5, **CON** +6, **INT** +2, **WIS** +6, **CHA** +2
 
@@ -33,9 +35,9 @@ rare, n, large, humanoid
 
 Speed 60 feet, climb 20 feet
 
-**Melee** claw +33 (magical); **Damage** 3d10+17 slashing
+**Melee** ◆ claw +33 (magical); **Damage** 3d10+17 slashing
 
-**Melee** icicle +31 (cold, magical, thrown <20 feet>); **Damage** 2d8+17 piercing plus 1d8 cold
+**Ranged** ◆ icicle +31 (cold, magical, thrown <20 feet>); **Damage** 2d8+17 piercing plus 1d8 cold
 
 **Innate divine Spells** (DC 37)
 

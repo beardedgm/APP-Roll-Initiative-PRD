@@ -5,9 +5,11 @@ uncommon, ne, medium, aberration
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision, poison sense 30 feet (precise)
 
 **Languages** abyssal, common, infernal, undercommon
+
+**Skills** Acrobatics +10, Crafting +12, Nature +8, Religion +10, Stealth +12
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** -1, **WIS** +2, **CHA** +0
 
@@ -29,10 +31,17 @@ uncommon, ne, medium, aberration
 
 Speed 40 feet, climb 30 feet
 
-**Melee** bite +12; **Damage** 2d6+4 piercing plus karumzek venom
+**Melee** ◆ bite +12; **Damage** 2d6+4 piercing plus karumzek venom
 
 **Innate occult Spells** (DC 21)
 
-  **2nd** death knell, invisibility, vomit swarm
+  **Constant (2nd)** negate aroma
 
-**Change Shape** (arcane, concentrate, polymorph, transmutation) A karumzek can take the shape of a Tiny spider. This doesn't change its Speed or Strikes. 
+  **2nd** death knell, invisibility (at will), vomit swarm
+
+**Change Shape** (arcane, concentrate, polymorph, transmutation) A karumzek can take the shape of a Tiny spider. This doesn't change its Speed or Strikes. **Karumzek Venom**
+(poison, virulent); **Saving Throw** DC 19 Fortitude
+**Maximum Duration** 6 rounds
+**Stage 1** 1d6 poison (1 round)
+**Stage 2** 1d6 poison and enfeebled 1 (1 round)
+**Stage 3** 2d6 poison, clumsy 1, and enfeebled 1 (1 round)

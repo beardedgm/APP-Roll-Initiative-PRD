@@ -5,9 +5,11 @@ rare, cn, medium, monitor
 
 ---
 
-**Perception** +39
+**Perception** +39; darkvision, true seeing
 
-**Languages** abyssal, celestial, infernal, protean
+**Languages** abyssal, celestial, infernal, protean; telepathy 100 feet
+
+**Skills** Acrobatics +38, Arcana +37, Athletics +35, Diplomacy +35, Occultism +37, Religion +37, Stealth +38
 
 **STR** +6, **DEX** +9, **CON** +5, **INT** +6, **WIS** +10, **CHA** +6
 
@@ -31,11 +33,13 @@ rare, cn, medium, monitor
 
 Speed fly 70 feet, swim 50 feet
 
-**Melee** tentacle +36 (chaotic, finesse, magical, reach <15 feet>); **Damage** 4d8+14 bludgeoning plus 2d6 chaotic plus Improved Grab plus Improved Grab
+**Melee** ◆ tentacle +36 (chaotic, finesse, magical, reach <15 feet>); **Damage** 4d8+14 bludgeoning plus 2d6 chaotic plus Improved Grab plus Improved Grab
 
 **Innate arcane Spells** (DC 44)
 
-  **8th** dispel magic, mind blank
+  **Constant (10th)** detect alignment
+
+  **8th** dispel magic (at will), mind blank (at will)
 
   **9th** prismatic sphere
 

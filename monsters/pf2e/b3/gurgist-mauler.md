@@ -5,9 +5,11 @@ rare, n, medium, human, humanoid, mortic
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **Languages** common, necril
+
+**Skills** Arcana +13, Athletics +17, Crafting +15, Deception +14, Medicine +12, Performance +12
 
 **STR** +5, **DEX** +2, **CON** +4, **INT** +3, **WIS** +4, **CHA** +2
 
@@ -31,11 +33,11 @@ rare, n, medium, human, humanoid, mortic
 
 Speed 25 feet
 
-**Melee** maul +18 (magical, shove); **Damage** 1d12+8 bludgeoning plus Knockdown (page 305) plus Knockdown
+**Melee** ◆ maul +18 (magical, shove); **Damage** 1d12+8 bludgeoning plus Knockdown (page 305) plus Knockdown
 
-**Melee** fist +17 (agile); **Damage** 1d8+8 bludgeoning
+**Melee** ◆ fist +17 (agile); **Damage** 1d8+8 bludgeoning
 
-**Melee** composite shortbow +14 (deadly <d10>, propulsive, range increment <60 feet>); **Damage** 1d6+5 piercing
+**Ranged** ◆ composite shortbow +14 (deadly <d10>, propulsive, range increment <60 feet>); **Damage** 1d6+5 piercing
 
 **Calculated Blow** ◆◆ The gurgist makes a melee Strike, aiming for their target's weak points and taking their time to line up a precise blow. If this Strike hits, the gurgist deals an additional 1d8 precision damage, and the target must succeed at a DC 23 Fortitude save or become clumsy 2 for 1 minute.
 

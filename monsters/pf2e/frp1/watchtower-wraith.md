@@ -5,9 +5,11 @@ unique, le, medium, incorporeal, undead, wraith
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, lifesense 60 feet
 
 **Languages** necril, tien
+
+**Skills** Acrobatics +29, Intimidation +32, Stealth +29
 
 **STR** -5, **DEX** +6, **CON** +0, **INT** +2, **WIS** +5, **CHA** +9
 
@@ -25,7 +27,7 @@ unique, le, medium, incorporeal, undead, wraith
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all 15
+**Resistances** all 15 (except force, ghost touch, or positive; double resistance against non-magical)
 
 **Sunlight Powerlessness** A wraith caught in sunlight is stunned|CRB|stunned 2 and clumsy|CRB|clumsy 2.
 
@@ -35,7 +37,7 @@ unique, le, medium, incorporeal, undead, wraith
 
 Speed fly 40 feet
 
-**Melee** spectral hand +32 (finesse); **Damage** 3d8+14 negative plus drain life plus drain life
+**Melee** ◆ spectral hand +32 (finesse); **Damage** 3d8+14 negative plus drain life plus drain life
 
 **Attack of Opportunity** ◈
 

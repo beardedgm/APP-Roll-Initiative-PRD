@@ -5,7 +5,9 @@ n, large, animal, aquatic, mindless, swarm
 
 ---
 
-**Perception** +10
+**Perception** +10; low-light vision
+
+**Skills** Acrobatics +15
 
 **STR** -4, **DEX** +5, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 

@@ -5,9 +5,11 @@ unique, ce, gargantuan, cold, undead
 
 ---
 
-**Perception** +41
+**Perception** +41; darkvision, true seeing
 
 **Languages** common, necril
+
+**Skills** Arcana +37, Athletics +43, Nature +37
 
 **STR** +10, **DEX** +8, **CON** +7, **INT** +6, **WIS** +8, **CHA** +6
 
@@ -23,7 +25,7 @@ unique, ce, gargantuan, cold, undead
 
 **Immunities** bleed, cold, death effects, disease, negative, paralyzed, poison, precision, unconscious
 
-**Resistances** physical 10
+**Resistances** physical 10 (except adamantine)
 
 **Weaknesses** good 20
 
@@ -35,15 +37,17 @@ unique, ce, gargantuan, cold, undead
 
 Speed 30 feet, swim 60 feet
 
-**Melee** jaws +39 (reach <15 feet>); **Damage** 4d12+18 piercing plus 2d6 cold and 2d6 negative
+**Melee** ◆ jaws +39 (reach <15 feet>); **Damage** 4d12+18 piercing plus 2d6 cold and 2d6 negative
 
-**Melee** fin +39 (agile, reach <15 feet>); **Damage** 4d8+18 slashing plus 2d6 negative
+**Melee** ◆ fin +39 (agile, reach <15 feet>); **Damage** 4d8+18 slashing plus 2d6 negative
 
-**Melee** tail +39 (reach <30 feet>); **Damage** 4d10+18 slashing plus 2d6 negative and Improved Knockdown
+**Melee** ◆ tail +39 (reach <30 feet>); **Damage** 4d10+18 slashing plus 2d6 negative and Improved Knockdown
 
-**Melee** eye beam +37 (range <150 feet>); **Damage** 4d12+8 cold plus 4d6 negative and numbing ice
+**Ranged** ◆ eye beam +37 (range <150 feet>); **Damage** 4d12+8 cold plus 4d6 negative and numbing ice
 
 **Innate arcane Spells** (DC 41)
+
+  **Constant (9th)** true seeing
 
 **Numbing Ice** (cold) A creature who takes damage from the benthic reaver's eye beam Strike must succeed at a DC 41 Fortitude save or become slowed 2 as cold stiffens its limbs. A flying creature who fails its save also descends safely to the ground below. This is forced movement.
 

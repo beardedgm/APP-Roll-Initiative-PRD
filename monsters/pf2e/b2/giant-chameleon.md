@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +10
+**Perception** +10; low-light vision
+
+**Skills** Athletics +10, Stealth +10
 
 **STR** +5, **DEX** +3, **CON** +1, **INT** -4, **WIS** +3, **CHA** -2
 

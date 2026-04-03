@@ -5,9 +5,11 @@ ne, medium, undead, vampire
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +19, Athletics +23, Deception +19, Intimidation +21, Stealth +21, Survival +17
 
 **STR** +7, **DEX** +5, **CON** +3, **INT** -2, **WIS** +3, **CHA** +5
 
@@ -35,4 +37,4 @@ ne, medium, undead, vampire
 
 Speed 40 feet, climb 20 feet
 
-**Melee** fangs +23; **Damage** 2d12+13 piercing plus
+**Melee** ◆ fangs +23; **Damage** 2d12+13 piercing plus

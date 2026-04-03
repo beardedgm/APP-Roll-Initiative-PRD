@@ -5,13 +5,15 @@ le, medium, goblin, humanoid
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common, goblin
 
+**Skills** Acrobatics +8, Athletics +8, Stealth +10
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** -1
 
-**Items** crossbow (20 bolts), scale mail, {@item shortsword}
+**Items** crossbow (20 bolts), scale mail, shortsword
 
 ---
 
@@ -27,9 +29,9 @@ le, medium, goblin, humanoid
 
 Speed 25 feet
 
-**Melee** shortsword +12 (agile, versatile <S>); **Damage** 1d6+4 piercing
+**Melee** ◆ shortsword +12 (agile, versatile <S>); **Damage** 1d6+4 piercing
 
-**Melee** crossbow +14 (range increment <120 feet>, reload <1>); **Damage** 1d8+2 piercing plus crossbow precision plus crossbow precision
+**Ranged** ◆ crossbow +14 (range increment <120 feet>, reload <1>); **Damage** 1d8+2 piercing plus crossbow precision plus crossbow precision
 
 **Crossbow Precision** The first time the archer hits with a crossbow attack in a round, it deals 1d8 extra precision damage.
 

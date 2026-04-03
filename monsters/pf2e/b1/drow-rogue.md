@@ -5,13 +5,15 @@ ce, medium, drow, elf, humanoid
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** elven, undercommon
 
+**Skills** Acrobatics +8, Deception +7, Society +4, Stealth +10, Thievery +8
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +0, **CHA** +1
 
-**Items** hand crossbow (10 bolts), lethargy poison (2 doses), {@item shortsword}, studded leather armor
+**Items** hand crossbow (10 bolts), lethargy poison (2 doses), shortsword, studded leather armor
 
 **Light Blindness**
 
@@ -31,15 +33,15 @@ ce, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** shortsword +10 (agile, finesse, versatile <S>); **Damage** 1d6+4 piercing
+**Melee** ◆ shortsword +10 (agile, finesse, versatile <S>); **Damage** 1d6+4 piercing
 
-**Melee** hand crossbow +10 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing plus lethargy poison plus lethargy poison
+**Ranged** ◆ hand crossbow +10 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing plus lethargy poison plus lethargy poison
 
 **Innate divine Spells** (DC 16)
 
   **Cantrips (2nd)** dancing lights
 
-  **2nd** darkness, faerie fire
+  **2nd** darkness (at will), faerie fire (at will)
 
 **Quick Draw** ◆ The drow rogue draws a weapon using the Interact action, then Strikes with that weapon.
 

@@ -5,9 +5,11 @@ uncommon, ne, small, amphibious, fey
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
-**Languages** aquan, common, undercommon
+**Languages** aquan, common, undercommon; speak with animals
+
+**Skills** Acrobatics +17, Athletics +14, Deception +17, Nature +16, Stealth +19, Survival +16, Thievery +19, Sailing Lore +15
 
 **STR** +2, **DEX** +5, **CON** +4, **INT** +3, **WIS** +4, **CHA** +3
 
@@ -27,19 +29,21 @@ uncommon, ne, small, amphibious, fey
 
 Speed 20 feet, swim 50 feet, climb 20 feet
 
-**Melee** dagger +20 (agile, finesse, magical, versatile <S>); **Damage** 2d4+4 piercing
+**Melee** ◆ dagger +20 (agile, finesse, magical, versatile <S>); **Damage** 2d4+4 piercing
 
-**Melee** spine +16; **Damage** 2d6+4 piercing plus 1d6 persistent bleed
+**Melee** ◆ spine +16; **Damage** 2d6+4 piercing plus 1d6 persistent bleed
 
-**Melee** dagger +20 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+4 piercing
+**Ranged** ◆ dagger +20 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+4 piercing
 
 **Innate primal Spells** (DC 30), attack +22
 
+  **Constant (4th)** speak with animals
+
   **Cantrips (4th)** prestidigitation
 
-  **1st** grease, gust of wind
+  **1st** grease (at will), gust of wind (at will)
 
-  **2nd** hydraulic push, invisibility, shatter, ventriloquism
+  **2nd** hydraulic push (at will), invisibility, shatter, ventriloquism (at will)
 
   **4th** confusion, hydraulic torrent, suggestion
 

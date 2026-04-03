@@ -9,6 +9,8 @@ uncommon, ne, medium, humanoid, lizardfolk
 
 **Languages** common, draconic, iruxi
 
+**Skills** Acrobatics +19, Athletics +19, Stealth +19, Survival +17
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** +1, **WIS** +2, **CHA** +0
 
 **Deep Breath A** Shikwashim mercenary can hold their breath for 20 minutes.
@@ -29,13 +31,13 @@ uncommon, ne, medium, humanoid, lizardfolk
 
 Speed 25 feet, swim 15 feet
 
-**Melee** scimitar +20 (forceful, magical, sweep); **Damage** 2d6+10 slashing
+**Melee** ◆ scimitar +20 (forceful, magical, sweep); **Damage** 2d6+10 slashing
 
-**Melee** jaws +19; **Damage** 1d6+10 piercing
+**Melee** ◆ jaws +19; **Damage** 1d6+10 piercing
 
-**Melee** tail +19 (agile); **Damage** 1d4+10 bludgeoning
+**Melee** ◆ tail +19 (agile); **Damage** 1d4+10 bludgeoning
 
-**Melee** javelin +19 (thrown <30 feet>); **Damage** 1d6+10 piercing
+**Ranged** ◆ javelin +19 (thrown <30 feet>); **Damage** 1d6+10 piercing
 
 **Coordinated Distraction** ◆ (auditory or visual, concentrate) With a sharp whistle or wave of their hand, the mercenary distracts an opponent so one of the mercenary's allies can land a clean blow. The mercenary chooses a target and an ally, both of whom must be within 30 feet of the mercenary. The target is flat-footed against the first Strike the mercenary's ally makes on its next turn; if the ally doesn't Strike that target, the effect is lost. Depending on how the mercenary distracts their foe, this action gains either the auditory or visual trait.
 

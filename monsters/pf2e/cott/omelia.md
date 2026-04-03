@@ -5,9 +5,11 @@ unique, medium, ghoul, undead, unholy
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
 **Languages** common, necril
+
+**Skills** Acrobatics +13, Athletics +11, Gravelands Lore +9, Intimidation +9, Stealth +13, Survival +13
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** +2, **WIS** +4, **CHA** +2
 
@@ -29,11 +31,11 @@ unique, medium, ghoul, undead, unholy
 
 Speed 30 feet, burrow 5 feet
 
-**Melee** jaws +14 (finesse); **Damage** 1d8+4 piercing
+**Melee** ◆ jaws +14 (finesse); **Damage** 1d8+4 piercing
 
-**Melee** claws +14 (finesse); **Damage** 1d6+4 slashing plus
+**Melee** ◆ claws +14 (finesse); **Damage** 1d6+4 slashing plus
 
-**Melee** composite longbow +15 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+4 piercing
+**Ranged** ◆ composite longbow +15 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+4 piercing
 
 **Grab**
 

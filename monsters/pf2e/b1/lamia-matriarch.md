@@ -5,9 +5,11 @@ ce, large, beast
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
 **Languages** abyssal, common, draconic
+
+**Skills** Athletics +18, Deception +20, Diplomacy +20, Intimidation +18, Occultism +17, Stealth +16, Survival +13, Cult Lore +15
 
 **STR** +6, **DEX** +4, **CON** +3, **INT** +3, **WIS** +3, **CHA** +6
 
@@ -29,7 +31,7 @@ ce, large, beast
 
 Speed 30 feet, swim 30 feet, climb 30 feet
 
-**Melee** scimitar +19 (forceful +2, sweep); **Damage** 2d6+10 slashing
+**Melee** ◆ scimitar +19 (forceful +2, sweep); **Damage** 2d6+10 slashing
 
 **Spontaneous occult Spells** (DC 28)
 
@@ -43,13 +45,13 @@ Speed 30 feet, swim 30 feet, climb 30 feet
 
 **Innate occult Spells** (DC 28)
 
-  **1st** ventriloquism
+  **1st** ventriloquism (at will)
 
-  **2nd** illusory disguise, illusory object, mirror image
+  **2nd** illusory disguise (at will), illusory object (at will), mirror image
 
   **3rd** sleep
 
-  **4th** charm, suggestion
+  **4th** charm (×3), suggestion (×3)
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The lamia matriarch can take on the appearance of a Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it does prevent them from using their cursed touch. Each lamia matriarch has a fixed humanoid form—they cannot adopt a different appearance each time they use this ability, and the appearance resembles that of their upper torso when in their true form.
 

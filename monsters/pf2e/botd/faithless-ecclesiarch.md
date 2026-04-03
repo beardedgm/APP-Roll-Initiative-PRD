@@ -5,13 +5,15 @@ uncommon, ne, medium, undead
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
 **Languages** common, necril
 
+**Skills** Athletics +11, Deception +14, Intimidation +14, Nethys Lore +14, Religion +14, Stealth +13
+
 **STR** +3, **DEX** +3, **CON** +2, **INT** +2, **WIS** +4, **CHA** +4
 
-**Items** defiled religious symbol of {@deity Nethys}, +1 staff
+**Items** defiled religious symbol of Nethys, +1 staff
 
 ---
 
@@ -31,7 +33,7 @@ uncommon, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** staff +14 (magical, two-hand <d8>); **Damage** 1d4+5 bludgeoning plus heretic's smite
+**Melee** ◆ staff +14 (magical, two-hand <d8>); **Damage** 1d4+5 bludgeoning plus heretic's smite
 
 **Prepared divine Spells** (DC 24), attack +16
 
@@ -41,7 +43,7 @@ Speed 25 feet
 
   **2nd** darkness, dispel magic, resist energy
 
-  **3rd** harm, levitate, magic missile
+  **3rd** harm (×5), levitate, magic missile
 
 **Cleric Domain Spells** (DC 24)
 

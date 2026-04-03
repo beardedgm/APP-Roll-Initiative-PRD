@@ -5,9 +5,11 @@ ne, large, daemon, fiend
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, see invisibility
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Deception +15, Intimidation +13, Stealth +12, Survival +10
 
 **STR** +5, **DEX** +2, **CON** +4, **INT** +0, **WIS** +2, **CHA** +3
 
@@ -25,17 +27,19 @@ ne, large, daemon, fiend
 
 Speed 25 feet
 
-**Melee** jaws +16 (evil, reach <10 feet>); **Damage** 2d10+5 piercing plus 1d6 evil and vicious wounds plus vicious wounds
+**Melee** ◆ jaws +16 (evil, reach <10 feet>); **Damage** 2d10+5 piercing plus 1d6 evil and vicious wounds plus vicious wounds
 
-**Melee** claw +16 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+5 slashing plus 1d6 evil and vicious wounds plus vicious wounds
+**Melee** ◆ claw +16 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+5 slashing plus 1d6 evil and vicious wounds plus vicious wounds
 
 **Innate divine Spells** (DC 23)
 
-  **1st** detect alignment
+  **Constant (2nd)** see invisibility
 
-  **3rd** dispel magic, paralyze
+  **1st** detect alignment (at will)
 
-  **4th** dimension door
+  **3rd** dispel magic (×2), paralyze
+
+  **4th** dimension door (at will)
 
   **7th** fly
 

@@ -5,9 +5,11 @@ rare, n, huge, amphibious, beast, water
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision, wavesense 120 feet (imprecise)
 
 **Languages** aquan, auran, common
+
+**Skills** Acrobatics +23, Athletics +21, Nature +24
 
 **STR** +5, **DEX** +7, **CON** +5, **INT** +4, **WIS** +6, **CHA** +4
 
@@ -27,17 +29,17 @@ rare, n, huge, amphibious, beast, water
 
 Speed 25 feet, fly 50 feet, swim 50 feet
 
-**Melee** beak +26 (finesse, magical, reach <15 feet>); **Damage** 3d12+11 piercing
+**Melee** ◆ beak +26 (finesse, magical, reach <15 feet>); **Damage** 3d12+11 piercing
 
-**Melee** talon +26 (agile, finesse, magical, reach <15 feet>); **Damage** 3d8+11 slashing
+**Melee** ◆ talon +26 (agile, finesse, magical, reach <15 feet>); **Damage** 3d8+11 slashing
 
-**Melee** break swell +26 (range increment <30 feet>); **Damage** 3d8+11 bludgeoning plus Knockdown (page 305) plus Knockdown
+**Ranged** ◆ break swell +26 (range increment <30 feet>); **Damage** 3d8+11 bludgeoning plus Knockdown (page 305) plus Knockdown
 
 **Innate primal Spells** (DC 32)
 
   **Cantrips (6th)** detect magic
 
-  **6th** cone of cold, control water, heal, hydraulic torrent, mariner's curse
+  **6th** cone of cold, control water, heal (×2), hydraulic torrent, mariner's curse
 
 **Oceanic Armor** ◆ (abjuration, primal, water) **Requirements** The tidehawk is within 120 feet of a body of water at least as large as it is; The tidehawk draws water to itself, wrapping its feathers like a suit of armor. The tidehawk gains a +2 circumstance bonus to AC until the start of its next turn. If the tidehawk takes damage from a melee Strike while under this effect, this water armor explodes outward, dealing 4d8 bludgeoning damage (DC 32 basic Reflex save) to the attacking creature and ending the circumstance bonus to AC.
 

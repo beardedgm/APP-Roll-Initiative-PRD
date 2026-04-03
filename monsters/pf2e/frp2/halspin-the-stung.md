@@ -5,9 +5,11 @@ unique, ng, medium, catfolk, humanoid
 
 ---
 
-**Perception** +24
+**Perception** +24; low-light vision
 
 **Languages** amurrun, taldane, tien
+
+**Skills** Acrobatics +28, Diplomacy +28, Nature +24, Occultism +25, Performance +28
 
 **STR** +2, **DEX** +5, **CON** +3, **INT** +2, **WIS** +1, **CHA** +5
 
@@ -27,9 +29,9 @@ unique, ng, medium, catfolk, humanoid
 
 Speed 25 feet, climb 10 feet
 
-**Melee** claw +30 (agile, finesse, magical); **Damage** 2d6+10 slashing
+**Melee** ◆ claw +30 (agile, finesse, magical); **Damage** 2d6+10 slashing
 
-**Melee** composite longbow +30 (deadly <d10>, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+10 piercing plus 1d6 acid
+**Ranged** ◆ composite longbow +30 (deadly <d10>, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+10 piercing plus 1d6 acid
 
 **Spontaneous occult Spells** (DC 34)
 

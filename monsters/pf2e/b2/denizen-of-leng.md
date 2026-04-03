@@ -5,9 +5,11 @@ ce, medium, aberration, dream
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
-**Languages** aklo
+**Languages** aklo; tongues
+
+**Skills** Acrobatics +15, Athletics +15, Deception +19, Occultism +18, Stealth +17, Thievery +17, Sailing Lore +20
 
 **STR** +3, **DEX** +3, **CON** +4, **INT** +6, **WIS** +3, **CHA** +5
 
@@ -33,11 +35,13 @@ ce, medium, aberration, dream
 
 Speed 30 feet
 
-**Melee** kukri +18 (agile, finesse, magical, trip); **Damage** 2d6+6 slashing plus 1d6 persistent bleed
+**Melee** ◆ kukri +18 (agile, finesse, magical, trip); **Damage** 2d6+6 slashing plus 1d6 persistent bleed
 
-**Melee** jaws +17 (agile, finesse); **Damage** 2d10+6 piercing plus debilitating bite plus debilitating bite
+**Melee** ◆ jaws +17 (agile, finesse); **Damage** 2d10+6 piercing plus debilitating bite plus debilitating bite
 
 **Innate occult Spells** (DC 27), attack +19
+
+  **Constant (4th)** tongues
 
   **Cantrips (4th)** chill touch, detect magic, mage hand, message, read aura
 

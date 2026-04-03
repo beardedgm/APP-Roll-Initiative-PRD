@@ -5,9 +5,11 @@ uncommon, large, fey, plant
 
 ---
 
-**Perception** +17
+**Perception** +17; low-light vision
 
 **Languages** common, fey
+
+**Skills** Athletics +17, Nature +17, Stealth +15, Survival +16
 
 **STR** +4, **DEX** +2, **CON** +3, **INT** +1, **WIS** +6, **CHA** +3
 
@@ -25,9 +27,9 @@ uncommon, large, fey, plant
 
 Speed 25 feet
 
-**Melee** vine +17 (reach <10 feet>); **Damage** 2d8+8 bludgeoning plus Grab
+**Melee** ◆ vine +17 (reach <10 feet>); **Damage** 2d8+8 bludgeoning plus Grab
 
-**Melee** seed pod +17; **Damage** 2d10+8 piercing
+**Melee** ◆ seed pod +17; **Damage** 2d10+8 piercing
 
 **Constrict** ◆ 1d8+8 bludgeoning, DC 25
 

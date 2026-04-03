@@ -9,6 +9,8 @@ ng, medium, kami
 
 **Languages** common
 
+**Skills** Diplomacy +11, Intimidation +11, Occultism +11, Religion +11, Society +11, Stealth +12
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +3, **WIS** +5, **CHA** +3
 
 ---
@@ -27,6 +29,6 @@ ng, medium, kami
 
 Speed 25 feet
 
-**Melee** foot +14 (agile, finesse); **Damage** 2d6+5 bludgeoning
+**Melee** ◆ foot +14 (agile, finesse); **Damage** 2d6+5 bludgeoning
 
 **Jump Scare** (emotion, fear, incapacitation, mental) If a kasa-obake successfully Demoralizes a creature and they were hidden to the creature before the attempt to Demoralize, the creature must succeed at a DC 21 Will save or be stunned for 1 round.

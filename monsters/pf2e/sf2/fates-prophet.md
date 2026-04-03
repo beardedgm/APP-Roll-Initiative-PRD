@@ -5,9 +5,11 @@ unique, ce, medium, demon, fiend
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, true seeing
 
-**Languages** abyssal, celestial, common, draconic, elven, gnomish, varisian
+**Languages** abyssal, celestial, common, draconic, elven, gnomish, varisian; telepathy 100 feet, tongues
+
+**Skills** Abyss Lore +25, Acrobatics +25, Deception +30, Diplomacy +28, Intimidation +28, Religion +25, Stealth +25, Thievery +25
 
 **STR** +4, **DEX** +5, **CON** +4, **INT** +5, **WIS** +5, **CHA** +8
 
@@ -29,19 +31,21 @@ unique, ce, medium, demon, fiend
 
 Speed 25 feet, fly 35 feet
 
-**Melee** claw +27 (agile, evil, finesse, magical); **Damage** 3d8+10 slashing plus 1d6 evil
+**Melee** ◆ claw +27 (agile, evil, finesse, magical); **Damage** 3d8+10 slashing plus 1d6 evil
 
-**Melee** hand crossbow +28 (magical); **Damage** 2d6 piercing plus shadow essence
+**Ranged** ◆ hand crossbow +28 (magical); **Damage** 2d6 piercing plus shadow essence
 
 **Innate divine Spells** (DC 34)
 
-  **1st** charm
+  **Constant (7th)** tongues, true seeing
 
-  **2nd** detect alignment
+  **1st** charm (at will)
 
-  **3rd** mind reading
+  **2nd** detect alignment (at will)
 
-  **4th** dimension door, suggestion
+  **3rd** mind reading (at will)
+
+  **4th** dimension door (at will), suggestion (at will)
 
   **5th** dimension door
 

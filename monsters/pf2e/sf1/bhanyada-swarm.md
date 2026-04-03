@@ -5,9 +5,11 @@ uncommon, ne, large, aberration, swarm
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision
 
 **Languages** aklo
+
+**Skills** Acrobatics +22, Stealth +22, Survival +18
 
 **STR** +4, **DEX** +5, **CON** +6, **INT** -1, **WIS** +3, **CHA** +0
 

@@ -5,9 +5,11 @@ uncommon, ln, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +19, Athletics +21, Diplomacy +18, Gladiatorial Lore +15, Intimidation +20, Performance +20
 
 **STR** -5, **DEX** +6, **CON** +4, **INT** +0, **WIS** +2, **CHA** +5
 
@@ -21,7 +23,7 @@ uncommon, ln, medium, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, sleep
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Warrior's Mask** A grappling spirit wears a mask that allows them to abandon their original form and become a warrior focused solely on combat. This mask is quasi-corporeal, allowing it to be manipulated by both corporeal and incorporeal creatures. A creature who has the grappling spirit grabbed or restrained can remove the mask as an Interact action by succeeding at an Athletics check against the grappling spirit's Fortitude DC. Removing a grappling spirit's mask causes the spirit to fly into a frenzy. The grappling spirit becomes quickened and can use their extra action to Fly, Grapple, or Strike. They also gain a +4 status bonus to damage rolls, and they take a –4 status penalty to AC and Reflex saving throws. If the mask is put back on, the grappling spirit ends their frenzy.
 
@@ -29,7 +31,7 @@ uncommon, ln, medium, incorporeal, spirit, undead
 
 Speed fly 60 feet
 
-**Melee** ghostly hand +21 (agile, finesse, magical, nonlethal); **Damage** 2d10+12 negative plus Improved Grab
+**Melee** ◆ ghostly hand +21 (agile, finesse, magical, nonlethal); **Damage** 2d10+12 negative plus Improved Grab
 
 **Ghostly Grasp** A grappling spirit can Grapple corporeal creatures despite being incorporeal. The grappling spirit uses their Athletics check to Grapple as normal but can't use Athletics for other actions that require corporeal contact, like Force Open or Trip.
 

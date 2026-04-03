@@ -5,7 +5,9 @@ n, small, plant
 
 ---
 
-**Perception** +6
+**Perception** +6; {@ability tremorsense} 30 feet (imprecise)
+
+**Skills** Athletics +8, Stealth +6
 
 **STR** +4, **DEX** +2, **CON** +4, **INT** -4, **WIS** +0, **CHA** +0
 
@@ -23,7 +25,7 @@ n, small, plant
 
 Speed 20 feet
 
-**Melee** vine +11 (agile, reach <10 feet>); **Damage** 1d8+4 slashing plus weeping wounds plus weeping wounds
+**Melee** ◆ vine +11 (agile, reach <10 feet>); **Damage** 1d8+4 slashing plus weeping wounds plus weeping wounds
 
 **Blood Siphon** ◆◆ The tendrils of the bush reach out to siphon the blood from a victim up to 20 feet away with persistent bleed damage, causing the victim to immediately take that amount of bleed damage (basic Reflex DC 17). The bush regains an amount of Hit Points equal to double the damage dealt.
 

@@ -5,9 +5,11 @@ unique, n, huge, beast
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, scent 60 feet (precise)
 
 **Languages** common
+
+**Skills** Athletics +31, Deception +37, Diplomacy +33, Intimidation +33, Society +28, Survival +30
 
 **STR** +9, **DEX** +6, **CON** +5, **INT** +2, **WIS** +6, **CHA** +9
 
@@ -27,9 +29,9 @@ unique, n, huge, beast
 
 Speed 40 feet, climb 20 feet
 
-**Melee** mandible +35 (magical, reach <10 feet>); **Damage** 3d12+19 slashing plus Improved Grab
+**Melee** ◆ mandible +35 (magical, reach <10 feet>); **Damage** 3d12+19 slashing plus Improved Grab
 
-**Melee** stinger +35 (agile, magical); **Damage** 3d8+19 piercing plus red ant venom
+**Melee** ◆ stinger +35 (agile, magical); **Damage** 3d8+19 piercing plus red ant venom
 
 **Lead by Example** ◆◆ (visual) **Frequency** {"number":1,"unit":"day"}; The Red Queen Strikes a creature with a vicious display that inspires her allies. Allies who can see the
 

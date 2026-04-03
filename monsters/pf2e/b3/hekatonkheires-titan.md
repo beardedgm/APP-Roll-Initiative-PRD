@@ -5,9 +5,11 @@ rare, ce, gargantuan, aberration, titan
 
 ---
 
-**Perception** +43
+**Perception** +43; darkvision, true seeing
 
-**Languages** abyssal, aklo, celestial, common
+**Languages** abyssal, aklo, celestial, common; telepathy 100 feet
+
+**Skills** Acrobatics +42, Athletics +48, Intimidation +45, Occultism +41, Survival +39
 
 **STR** +12, **DEX** +10, **CON** +12, **INT** +7, **WIS** +7, **CHA** +9
 
@@ -27,13 +29,15 @@ rare, ce, gargantuan, aberration, titan
 
 ---
 
-Speed 60 feet
+Speed 60 feet, air walk, freedom of movement
 
-**Melee** void weapon +45 (magical, reach <50 feet>, versatile <P>, versatile <S>); **Damage** 4d12+18 bludgeoning plus 2d12 force
+**Melee** ◆ void weapon +45 (magical, reach <50 feet>, versatile <P>, versatile <S>); **Damage** 4d12+18 bludgeoning plus 2d12 force
 
-**Melee** void weapon +43 (magical, thrown <200 feet>, versatile <P>, versatile <S>); **Damage** 4d12+18 bludgeoning plus 2d12 force
+**Ranged** ◆ void weapon +43 (magical, thrown <200 feet>, versatile <P>, versatile <S>); **Damage** 4d12+18 bludgeoning plus 2d12 force
 
 **Innate occult Spells** (DC 48)
+
+  **Constant (10th)** air walk, freedom of movement, true seeing
 
   **9th** bind soul, dimension door, plane shift, weird
 

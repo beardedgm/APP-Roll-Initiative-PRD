@@ -9,6 +9,8 @@ rare, n, medium, human, humanoid
 
 **Languages** minatan, tien, wayang
 
+**Skills** Acrobatics +30, Athletics +27, Intimidation +28, Performance +32
+
 **STR** +4, **DEX** +5, **CON** +4, **INT** +0, **WIS** +0, **CHA** +5
 
 **Items** 3 greater alchemist's fires, bracers of armor I, +2 striking flaming scimitar, greater sturdy shield (Hardness 15, HP 120, BT 60) with a +2 striking shield boss
@@ -29,11 +31,11 @@ rare, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** scimitar +31 (forceful, magical, sweep); **Damage** 2d6+12 slashing plus 1d6 flaming
+**Melee** ◆ scimitar +31 (forceful, magical, sweep); **Damage** 2d6+12 slashing plus 1d6 flaming
 
-**Melee** shield boss +31 (magical); **Damage** 2d6+12 bludgeoning
+**Melee** ◆ shield boss +31 (magical); **Damage** 2d6+12 bludgeoning
 
-**Melee** greater alchemist's fire +32 (splash 3 fire, thrown <20 feet>); **Damage** 3d8+3 fire plus 3 persistent fire
+**Ranged** ◆ greater alchemist's fire +32 (splash 3 fire, thrown <20 feet>); **Damage** 3d8+3 fire plus 3 persistent fire
 
 **Quick Draw** ◆ The battle dancer Interacts to draw a weapon and Strikes with it.
 

@@ -5,7 +5,9 @@ ne, large, mindless, skeleton, undead
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
+
+**Skills** Athletics +12, Intimidation +9
 
 **STR** +5, **DEX** +1, **CON** +3, **INT** -5, **WIS** +0, **CHA** +2
 
@@ -27,9 +29,9 @@ ne, large, mindless, skeleton, undead
 
 Speed 30 feet
 
-**Melee** glaive +12 (deadly <d8>, forceful, reach <15 feet>); **Damage** 1d8+7 slashing
+**Melee** ◆ glaive +12 (deadly <d8>, forceful, reach <15 feet>); **Damage** 1d8+7 slashing
 
-**Melee** horns +12 (agile); **Damage** 1d10+5 piercing
+**Melee** ◆ horns +12 (agile); **Damage** 1d10+5 piercing
 
 **Broad Swipe** ◆◆ The giant makes two Strikes with its glaive against two adjacent foes, both of whom are within its reach. The multiple attack penalty does not increase until after both attacks are resolved.
 

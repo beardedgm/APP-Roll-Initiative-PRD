@@ -5,7 +5,9 @@ rare, n, huge, construct, golem, mindless
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision
+
+**Skills** Athletics +38
 
 **STR** +9, **DEX** -1, **CON** +9, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -19,7 +21,7 @@ rare, n, huge, construct, golem, mindless
 
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 20
+**Resistances** physical 20 (except vorpal adamantine)
 
 **Golem Antimagic** harmed by acid (9d10, 2d10 from areas or persistent damage); healed by fire (area 2d10 HP); slowed by electricity.
 
@@ -31,7 +33,7 @@ rare, n, huge, construct, golem, mindless
 
 Speed 30 feet
 
-**Melee** fist +35 (deadly <3d12>, magical, reach <15 feet>); **Damage** 3d10+17 bludgeoning plus destructive strike plus destructive strike
+**Melee** ◆ fist +35 (deadly <3d12>, magical, reach <15 feet>); **Damage** 3d10+17 bludgeoning plus destructive strike plus destructive strike
 
 **Destructive Strike** On a critical hit, the adamantine golem's fist Strike breaks the target's armor, if any, in addition to dealing damage to the target. If the target has a shield raised, the golem breaks the shield instead.
 

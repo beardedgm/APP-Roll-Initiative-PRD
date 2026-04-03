@@ -5,9 +5,11 @@ ng, small, elemental, fire
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
 
 **Languages** ignan (can't speak any language)
+
+**Skills** Acrobatics +8, Athletics +5, Stealth +8
 
 **STR** +1, **DEX** +4, **CON** +2, **INT** -2, **WIS** +2, **CHA** +1
 
@@ -29,4 +31,4 @@ ng, small, elemental, fire
 
 Speed 30 feet
 
-**Melee** jaws +10 (agile, finesse); **Damage** 1d4+3 piercing plus 1d4 persistent fire
+**Melee** ◆ jaws +10 (agile, finesse); **Damage** 1d4+3 piercing plus 1d4 persistent fire

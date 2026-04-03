@@ -5,9 +5,11 @@ unique, ne, large, aberration
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision, light blindness
 
-**Languages** aklo, common
+**Languages** aklo, common; telepathy 100 feet
+
+**Skills** Arcana +30, Crafting +30, Medicine +25, Nature +25, Occultism +30, Society +28, Thievery +25, Bardic Lore +28
 
 **STR** +4, **DEX** +6, **CON** +4, **INT** +9, **WIS** +6, **CHA** +4
 
@@ -31,17 +33,17 @@ unique, ne, large, aberration
 
 Speed 25 feet
 
-**Melee** fist +27 (agile, finesse, magical, reach <10 feet>); **Damage** 3d10+10 bludgeoning plus scatterbrain palm plus scatterbrain palm
+**Melee** ◆ fist +27 (agile, finesse, magical, reach <10 feet>); **Damage** 3d10+10 bludgeoning plus scatterbrain palm plus scatterbrain palm
 
 **Innate occult Spells** (DC 40), attack +32
 
   **Cantrips (8th)** daze, detect magic, read aura
 
-  **4th** air walk, hypercognition, zone of truth
+  **4th** air walk (at will), hypercognition (at will), zone of truth (at will)
 
-  **7th** dispel magic, mindlink
+  **7th** dispel magic (×2), mindlink (at will)
 
-  **8th** charm, disappearance, mind blank
+  **8th** charm (×2), disappearance, mind blank
 
 **Eye Probe** ◆◆◆ (divination, occult) **Frequency** {"unit":"day","number":1}; Up to six of Ixusoth's eyes detach from her body. Each eye has AC 26, HP 1, and a fly speed of 40 feet. Ixusoth can see through all of her eye probes. She can move the probes all in separate directions using a single action. Ixusoth can have no more than six eye probes active at a time; using this ability to create more causes the eye or eyes farthest away to shrivel and die. Ixusoth can deliver touch spells through her eye probes and can make melee spell attacks through them. In addition, she can Steal Memories through an eye probe using a single action by touching the target with the eye.
 

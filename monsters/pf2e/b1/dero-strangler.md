@@ -5,13 +5,15 @@ ce, small, dero, humanoid
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** aklo, undercommon
 
+**Skills** Athletics +11, Intimidation +7, Medicine +4, Stealth +10
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** +0, **WIS** -1, **CHA** +2
 
-**Items** {@item aklys}, {@item hand crossbow} (10 {@item bolt (generic)||bolts}), {@item lethargy poison} (5 doses), {@item rope (50 feet)}
+**Items** aklys, hand crossbow (10 bolts), lethargy poison (5 doses), rope (50 feet)
 
 ---
 
@@ -31,16 +33,16 @@ ce, small, dero, humanoid
 
 Speed 20 feet
 
-**Melee** aklys +11 (trip; page 85); **Damage** 1d6+6 bludgeoning
+**Melee** ◆ aklys +11 (trip; page 85); **Damage** 1d6+6 bludgeoning
 
-**Melee** aklys +10 (ranged trip, tethered, thrown <20 feet>); **Damage** 1d6+6 bludgeoning
+**Ranged** ◆ aklys +10 (ranged trip, tethered, thrown <20 feet>); **Damage** 1d6+6 bludgeoning
 
-**Melee** hand crossbow +10 (range increment <60 feet>, reload <1>); **Damage** 1d6+2 piercing plus lethargy poison plus lethargy poison
+**Ranged** ◆ hand crossbow +10 (range increment <60 feet>, reload <1>); **Damage** 1d6+2 piercing plus lethargy poison plus lethargy poison
 
 **Innate occult Spells** (DC 19)
 
   **Cantrips (2nd)** daze, ghost sound
 
-  **2nd** darkness, sound burst
+  **2nd** darkness (at will), sound burst
 
 **Strangle** ◆ (attack, nonlethal) The dero attempts an Athletics check to Grab with a +2 circumstance bonus. On a success, the target takes 1d6+6 bludgeoning damage. Double the damage on a critical success.

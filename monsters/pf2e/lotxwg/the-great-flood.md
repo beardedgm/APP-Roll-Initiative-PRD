@@ -5,9 +5,11 @@ unique, gargantuan, amphibious, beast
 
 ---
 
-**Perception** +39
+**Perception** +39; {@ability darkvision}, {@ability scent} 120 feet (imprecise)
 
 **Languages** draconic, petran, thalassic, tien
+
+**Skills** Athletics +38, Deception +33, Diplomacy +33, Intimidation +38, Nature +31, Performance +29, Society +33
 
 **STR** +10, **DEX** +8, **CON** +9, **INT** +7, **WIS** +5, **CHA** +5
 
@@ -39,11 +41,11 @@ unique, gargantuan, amphibious, beast
 
 Speed 40 feet, swim 80 feet
 
-**Melee** jaws +40 (reach <15 feet>); **Damage** 4d8+20 piercing
+**Melee** ◆ jaws +40 (reach <15 feet>); **Damage** 4d8+20 piercing
 
-**Melee** tail +40 (agile, reach <15 feet>); **Damage** 4d6+20 bludgeoning
+**Melee** ◆ tail +40 (agile, reach <15 feet>); **Damage** 4d6+20 bludgeoning
 
-**Melee** breath +39 (range <180 feet>); **Damage** 4d12 poison plus flood breath plus flood breath
+**Ranged** ◆ breath +39 (range <180 feet>); **Damage** 4d12 poison plus flood breath plus flood breath
 
 **Flood Breath** (disease, poison)
 

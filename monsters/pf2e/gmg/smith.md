@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +8, Crafting +15, Diplomacy +5, Society +8, Smithy Lore +15
+
 **STR** +3, **DEX** +1, **CON** +2, **INT** +3, **WIS** +0, **CHA** +0
 
 **Items** artisan's tools, leather apron (functions as padded armor), light hammer
@@ -25,8 +27,8 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** light hammer +10 (agile); **Damage** 1d6+3 bludgeoning plus smith's fury plus smith's fury
+**Melee** ◆ light hammer +10 (agile); **Damage** 1d6+3 bludgeoning plus smith's fury plus smith's fury
 
-**Melee** light hammer +8 (agile, thrown <20 feet>); **Damage** 1d6+3 bludgeoning plus smith's fury plus smith's fury
+**Ranged** ◆ light hammer +8 (agile, thrown <20 feet>); **Damage** 1d6+3 bludgeoning plus smith's fury plus smith's fury
 
 **Smith's Fury** The smith deals an additional 1d6 damage when they hit with a weapon they created.

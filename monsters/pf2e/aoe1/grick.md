@@ -5,9 +5,11 @@ n, medium, aberration
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision, scent 30 feet (imprecise)
 
 **Languages** aklo (can't speak any language)
+
+**Skills** Acrobatics +11, Athletics +10, Stealth +10, Survival +8
 
 **STR** +3, **DEX** +4, **CON** +1, **INT** -3, **WIS** +3, **CHA** -1
 
@@ -27,9 +29,9 @@ n, medium, aberration
 
 Speed 30 feet, climb 20 feet
 
-**Melee** jaws +12; **Damage** 1d8+6 piercing
+**Melee** ◆ jaws +12; **Damage** 1d8+6 piercing
 
-**Melee** tentacle +11 (agile, finesse); **Damage** 1d6+6 slashing
+**Melee** ◆ tentacle +11 (agile, finesse); **Damage** 1d6+6 slashing
 
 **Unbalancing Blow** Any creature a grick critically hits is flat-footed against its attacks until the end of the grick's next turn.
 

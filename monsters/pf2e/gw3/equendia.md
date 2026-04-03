@@ -5,9 +5,11 @@ unique, ne, medium, cold, mummy, undead
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
 **Languages** common, elven, dwarven, hallit, necril, skald
+
+**Skills** Arcana +20, Astronomy Lore +20, Athletics +22, Deception +22, Occultism +22, Survival +21
 
 **STR** +7, **DEX** +4, **CON** +5, **INT** +5, **WIS** +4, **CHA** +7
 
@@ -35,13 +37,13 @@ unique, ne, medium, cold, mummy, undead
 
 Speed 20 feet
 
-**Melee** fist +24 (agile, magical); **Damage** 2d8+13 bludgeoning plus 1d6 cold and blackfrost rot
+**Melee** ◆ fist +24 (agile, magical); **Damage** 2d8+13 bludgeoning plus 1d6 cold and blackfrost rot
 
-**Melee** composite longbow +22 (deadly <d10>, propulsive, range <100 feet>, volley <30 feet>); **Damage** 2d6+13 piercing
+**Ranged** ◆ composite longbow +22 (deadly <d10>, propulsive, range <100 feet>, volley <30 feet>); **Damage** 2d6+13 piercing
 
 **Innate occult Spells** (DC 30)
 
-  **3rd** enthrall
+  **3rd** enthrall (at will)
 
   **4th** glibness, suggestion
 

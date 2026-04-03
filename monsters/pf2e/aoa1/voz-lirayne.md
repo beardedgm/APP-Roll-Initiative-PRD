@@ -9,9 +9,11 @@ unique, ne, medium, elf, human, humanoid
 
 **Languages** common, elven, goblin, halfling, necril, orcish
 
+**Skills** Arcana +13, Deception +11, Occultism +11, Religion +7, Society +11, Stealth +10, Library Lore +11, Mercantile Lore +11
+
 **STR** +1, **DEX** +3, **CON** +3, **INT** +4, **WIS** +0, **CHA** +2
 
-**Items** {@runeItem dagger||+1 weapon potency||+1 dagger} (bonded item), {@item healing potion (generic)||healing potion}, scroll of sleep, scroll of true strike
+**Items** +1 dagger (bonded item), healing potion, scroll of sleep, scroll of true strike
 
 ---
 
@@ -25,9 +27,9 @@ unique, ne, medium, elf, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +13 (agile, finesse, magical, versatile <S>); **Damage** 1d4+3 piercing
+**Melee** ◆ dagger +13 (agile, finesse, magical, versatile <S>); **Damage** 1d4+3 piercing
 
-**Melee** dagger +13 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+3 piercing
+**Ranged** ◆ dagger +13 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+3 piercing
 
 **Prepared arcane Spells** (DC 23), attack +15
 

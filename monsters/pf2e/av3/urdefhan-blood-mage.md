@@ -5,9 +5,11 @@ uncommon, ne, medium, humanoid, urdefhan
 
 ---
 
-**Perception** +15
+**Perception** +15; greater darkvision
 
 **Languages** aklo, daemonic, undercommon
+
+**Skills** Arcana +16, Athletics +16, Intimidation +16, Occultism +18, Religion +16
 
 **STR** +4, **DEX** +2, **CON** +4, **INT** +6, **WIS** +3, **CHA** +2
 
@@ -29,13 +31,13 @@ uncommon, ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** kukri +16 (agile, trip); **Damage** 2d6+8 piercing
+**Melee** ◆ kukri +16 (agile, trip); **Damage** 2d6+8 piercing
 
-**Melee** jaws +15; **Damage** 2d6+8 plus Wicked Bite plus 2d6+8, Wicked Bite
+**Melee** ◆ jaws +15; **Damage** 2d6+8 plus Wicked Bite plus 2d6+8, Wicked Bite
 
 **Innate divine Spells** (DC 26), attack +18
 
-  **1st** feather fall, ray of enfeeblement
+  **1st** feather fall (at will), ray of enfeeblement
 
   **2nd** death knell
 

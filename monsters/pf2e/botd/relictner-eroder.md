@@ -5,13 +5,15 @@ rare, le, medium, dwarf, humanoid, mortic
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision, lair sense
 
 **Languages** common, dwarven, necril
 
+**Skills** Athletics +25, Crafting +22, Intimidation +19, Survival +23, Thievery +20
+
 **STR** +7, **DEX** +2, **CON** +7, **INT** +4, **WIS** +5, **CHA** +1
 
-**Items** {@condition broken} chain mail, {@condition broken} dwarven war axe
+**Items** broken chain mail, broken dwarven war axe
 
 **Lair Sense** (detection, divination, divine) The relictner bonds with a single structure they consider their lair, such as a house, temple, or ruin. A relictner is aware of any creature that enters the lair, and the direction and approximate distance to the creature. If the lair is destroyed, the relictner can bond with a new lair by residing within a structure they own or claim for 1 week.
 
@@ -31,9 +33,9 @@ rare, le, medium, dwarf, humanoid, mortic
 
 Speed 20 feet
 
-**Melee** eroding touch +26 (unarmed); **Damage** 3d12+10 acid
+**Melee** ◆ eroding touch +26 (unarmed); **Damage** 3d12+10 acid
 
-**Melee** targeted collapse +21 (trip, versatile piercing); **Damage** 3d10+3 bludgeoning
+**Ranged** ◆ targeted collapse +21 (trip, versatile piercing); **Damage** 3d10+3 bludgeoning
 
 **Crumble** ◆◆ (divine, transmutation) The relictner erodes an object within 30 feet, dealing 3d10 bludgeoning damage to it, with a DC 31 basic Reflex save if the object is attended.
 

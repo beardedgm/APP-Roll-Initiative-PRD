@@ -5,13 +5,15 @@ uncommon, ce, small, dero, humanoid
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
 
 **Languages** aklo, undercommon
 
+**Skills** Crafting +12, Medicine +8, Occultism +12, Stealth +11
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +3, **WIS** -1, **CHA** +5
 
-**Items** {@item aklys|b1}
+**Items** aklys|b1
 
 ---
 
@@ -31,15 +33,15 @@ uncommon, ce, small, dero, humanoid
 
 Speed 20 feet
 
-**Melee** aklys +10 (trip); **Damage** 1d6+3 bludgeoning
+**Melee** ◆ aklys +10 (trip); **Damage** 1d6+3 bludgeoning
 
-**Melee** aklys +13 (ranged trip, tethered, thrown <20 feet>); **Damage** 1d6+3 bludgeoning
+**Ranged** ◆ aklys +13 (ranged trip, tethered, thrown <20 feet>); **Damage** 1d6+3 bludgeoning
 
 **Innate occult Spells** (DC 24)
 
   **Cantrips (1st)** daze, ghost sound
 
-  **2nd** darkness, sound burst
+  **2nd** darkness (at will), sound burst
 
   **4th** modify memory
 

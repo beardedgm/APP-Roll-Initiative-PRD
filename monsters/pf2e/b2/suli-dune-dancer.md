@@ -9,6 +9,8 @@ n, medium, human, humanoid, suli
 
 **Languages** aquan, auran, common, ignan, terran
 
+**Skills** Acrobatics +5, Deception +6, Diplomacy +7, Occultism +4, Performance +7, Society +4
+
 **STR** +2, **DEX** +2, **CON** +0, **INT** +1, **WIS** +0, **CHA** +4
 
 **Items** scimitar, tambourine
@@ -27,7 +29,7 @@ n, medium, human, humanoid, suli
 
 Speed 25 feet
 
-**Melee** scimitar +7 (forceful, sweep); **Damage** 1d6+2 slashing
+**Melee** ◆ scimitar +7 (forceful, sweep); **Damage** 1d6+2 slashing
 
 **Spontaneous occult Spells** (DC 17), attack +9
 

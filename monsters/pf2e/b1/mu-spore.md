@@ -5,9 +5,11 @@ cn, gargantuan, fungus
 
 ---
 
-**Perception** +36
+**Perception** +36; low-light vision, windsense 240 feet
 
 **Languages** aklo, common, terran, undercommon
+
+**Skills** Acrobatics +26, Athletics +41, Nature +38, Occultism +36
 
 **STR** +10, **DEX** +3, **CON** +9, **INT** +4, **WIS** +9, **CHA** +9
 
@@ -21,7 +23,7 @@ cn, gargantuan, fungus
 
 **HP** 350; regeneration 50 (deactivated by sonic)
 
-**Resistances** acid 20, all 10
+**Resistances** acid 20, all 10 (except sonic)
 
 **Enormous** A mu spore is a massive creature and takes up a space of 10 squares by 10 squares (50 feet by 50 feet).
 
@@ -33,9 +35,9 @@ cn, gargantuan, fungus
 
 Speed 40 feet, fly 50 feet
 
-**Melee** jaws +40 (deadly <3d12>, reach <30 feet>); **Damage** 4d12+18 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +40 (deadly <3d12>, reach <30 feet>); **Damage** 4d12+18 piercing plus Improved Grab plus Improved Grab
 
-**Melee** tentacle +40 (agile, reach <100 feet>); **Damage** 4d10+18 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tentacle +40 (agile, reach <100 feet>); **Damage** 4d10+18 bludgeoning plus Improved Grab plus Improved Grab
 
 **Cough Spores** ◆◆ The mu spore releases a cloud of burrowing spores in a 400-foot cone. The spores deal 22d6 piercing damage to all creatures, objects, and wooden structures in the area, but not to plants or fungi (DC 46 basic Reflex save). The mu spore can't use this ability again for 1d4 rounds.
 

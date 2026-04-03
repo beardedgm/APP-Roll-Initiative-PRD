@@ -5,9 +5,11 @@ rare, ce, medium, grioth, humanoid
 
 ---
 
-**Perception** +10
+**Perception** +10; echolocation 20 feet (precise), greater darkvision
 
-**Languages** aklo, grioth
+**Languages** aklo, grioth; telepathy 30 feet
+
+**Skills** Acrobatics +8, Occultism +9, Religion +10, Stealth +10
 
 **STR** +0, **DEX** +3, **CON** +2, **INT** +2, **WIS** +3, **CHA** +0
 
@@ -35,9 +37,9 @@ rare, ce, medium, grioth, humanoid
 
 Speed 25 feet, fly 30 feet
 
-**Melee** kukri +10 (agile, finesse, trip); **Damage** 1d6+2 slashing
+**Melee** ◆ kukri +10 (agile, finesse, trip); **Damage** 1d6+2 slashing
 
-**Melee** jaws +10 (agile, finesse); **Damage** 1d8+2 piercing plus grioth venom plus grioth venom
+**Melee** ◆ jaws +10 (agile, finesse); **Damage** 1d8+2 piercing plus grioth venom plus grioth venom
 
 **Prepared divine Spells** (DC 20), attack +12
 

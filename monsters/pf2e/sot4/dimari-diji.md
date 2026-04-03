@@ -5,9 +5,11 @@ unique, n, gargantuan, plant
 
 ---
 
-**Perception** +43
+**Perception** +43; low-light vision, tremorsense 120 feet (precise), true seeing
 
-**Languages** aklo, arboreal, celestial, common, draconic, requian, sphinx, sylvan
+**Languages** aklo, arboreal, celestial, common, draconic, requian, sphinx, sylvan; speak with animals, speak with plants, telepathy 300 feet
+
+**Skills** Arcana +42, Athletics +43, Diplomacy +41, Mwangi Expanse Lore +50, Nature +50, Stealth +36
 
 **STR** +12, **DEX** -1, **CON** +7, **INT** +7, **WIS** +12, **CHA** +10
 
@@ -35,17 +37,23 @@ unique, n, gargantuan, plant
 
 ---
 
-Speed 40 feet
+Speed 40 feet, freedom of movement
 
-**Melee** branch +44 (magical, reach <20 feet>); **Damage** 5d10+20 bludgeoning plus Improved Knockdown
+**Melee** ◆ branch +44 (magical, reach <20 feet>); **Damage** 5d10+20 bludgeoning plus Improved Knockdown
 
-**Melee** mental blast +44 (magical, mental, range increment <120 feet>); **Damage** 5d6+20 mental plus
+**Ranged** ◆ mental blast +44 (magical, mental, range increment <120 feet>); **Damage** 5d6+20 mental plus
 
 **Innate primal Spells** (DC 49), attack +41
 
+  **Constant (8th)** true seeing
+
+  **Constant (4th)** freedom of movement, speak with plants
+
+  **Constant (2nd)** speak with animals
+
   **2nd** entangle
 
-  **3rd** earthbind
+  **3rd** earthbind (at will)
 
   **6th** tangling creepers
 

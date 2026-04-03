@@ -5,9 +5,11 @@ rare, ne, large, aberration
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision, {@ability tremorsense} 60 feet (imprecise)
 
 **Languages** aklo, common, shadowtongue
+
+**Skills** Athletics +33, Deception +34, Occultism +31, Society +31, Stealth +34
 
 **STR** +9, **DEX** +6, **CON** +6, **INT** +5, **WIS** +3, **CHA** +6
 
@@ -29,15 +31,15 @@ rare, ne, large, aberration
 
 ---
 
-Speed 30 feet, climb 30 feet
+Speed 30 feet, climb 30 feet, freedom of movement
 
-**Melee** jaws +34 (magical, reach <15 feet>); **Damage** 3d10+15 piercing plus Grab plus Grab
+**Melee** ◆ jaws +34 (magical, reach <15 feet>); **Damage** 3d10+15 piercing plus Grab plus Grab
 
 **Innate occult Spells** (DC 40), attack +32
 
-  **7th** chilling darkness, darkness, mask of terror, plane shift
+  **7th** chilling darkness (at will), darkness (at will), mask of terror, plane shift
 
-  **9th** chilling darkness, eclipse burst, project image
+  **9th** chilling darkness, eclipse burst, project image (at will)
 
 **Shadow** Plane only) 5th hallucinatory terrain (at will); 2nd invisibility (at will, self only); Constant (8th) freedom of movement.
 

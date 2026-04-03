@@ -5,13 +5,15 @@ unique, ce, medium, caligni, humanoid
 
 ---
 
-**Perception** +16
+**Perception** +16; greater darkvision
 
 **Languages** caligni, undercommon
 
+**Skills** Acrobatics +18, Deception +20, Diplomacy +20, Intimidation +18, Occultism +14, Stealth +18
+
 **STR** +2, **DEX** +5, **CON** +1, **INT** -1, **WIS** +1, **CHA** +5
 
-**Items** dagger (3), key to area {@b A7}, leather armor, wand of magic missile (3rd level)
+**Items** dagger (3), key to area A7, leather armor, wand of magic missile (3rd level)
 
 **Light Blindness**
 
@@ -31,13 +33,13 @@ unique, ce, medium, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +15 (agile, finesse, versatile <S>); **Damage** 1d4+7 piercing
+**Melee** ◆ dagger +15 (agile, finesse, versatile <S>); **Damage** 1d4+7 piercing
 
 **Innate occult Spells** (DC 26), attack +18
 
   **Cantrips (5th)** chill touch, daze, detect magic, shield
 
-  **2nd** darkness, invisibility, obscuring mist
+  **2nd** darkness (at will), invisibility, obscuring mist (at will)
 
   **3rd** blindness, enthrall, paralyze
 

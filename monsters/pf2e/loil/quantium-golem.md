@@ -5,7 +5,9 @@ rare, n, gargantuan, construct, golem, mindless
 
 ---
 
-**Perception** +36
+**Perception** +36; darkvision, defender's link, lifesense 120 feet
+
+**Skills** Athletics +38
 
 **STR** +10, **DEX** +8, **CON** +7, **INT** -5, **WIS** +8, **CHA** -5
 
@@ -23,7 +25,7 @@ rare, n, gargantuan, construct, golem, mindless
 
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 20
+**Resistances** physical 20 (except adamantine)
 
 **Golem** Antimagic harmed by sonic (9d10, 3d10 from area or persistent damage); healed by fire (area 3d10 HP); slowed by cold
 
@@ -35,9 +37,9 @@ rare, n, gargantuan, construct, golem, mindless
 
 Speed 50 feet
 
-**Melee** bastard sword +39 (magical, two-handed <d12>); **Damage** 3d8+18 slashing
+**Melee** ◆ bastard sword +39 (magical, two-handed <d12>); **Damage** 3d8+18 slashing
 
-**Melee** eye beam +36 (magical, range <120 feet>); **Damage** 4d8 fire plus 4d8 energy (see Twin Defenders)
+**Ranged** ◆ eye beam +36 (magical, range <120 feet>); **Damage** 4d8 fire plus 4d8 energy (see Twin Defenders)
 
 **Lambent Beam** ◆◆ (arcane, evocation) The Quantium golem's eyes take on a brilliant glow and it unleashes an arc of destruction dealing 10d6 fire damage and 10d6 energy damage (see Twin Defenders) to creatures in a 120-foot line (DC 42 basic Reflex save). The Quantium golem can't use Lambent Beam for 1d4 rounds.
 

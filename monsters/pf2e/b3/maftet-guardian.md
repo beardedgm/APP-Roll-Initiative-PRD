@@ -5,9 +5,11 @@ n, medium, humanoid
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **Languages** common, sphinx
+
+**Skills** Acrobatics +13, Arcana +13, Athletics +15, Stealth +13, Ruins Lore +15 (applies only to their home ruins)
 
 **STR** +5, **DEX** +3, **CON** +4, **INT** +3, **WIS** +2, **CHA** +0
 
@@ -27,13 +29,13 @@ n, medium, humanoid
 
 Speed 30 feet, fly 40 feet
 
-**Melee** scimitar +17 (forceful, magical, sweep); **Damage** 2d6+8 slashing
+**Melee** ◆ scimitar +17 (forceful, magical, sweep); **Damage** 2d6+8 slashing
 
 **Innate arcane Spells** (DC 23)
 
   **Cantrips (3rd)** sigil
 
-  **1st** sanctuary, true strike
+  **1st** sanctuary (×3), true strike
 
 **Paired Strike** ◆◆ **Requirements** The maftet is wielding two scimitars; The maftet makes two Strikes against the same target, one with each of their scimitars. The maftet combines the damage of any attacks that hit and applies resistances and weaknesses only once. This counts as one attack when calculating the maftet's multiple attack penalty.
 

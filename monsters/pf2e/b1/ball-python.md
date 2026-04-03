@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +6, Athletics +6, Stealth +6, Survival +4
 
 **STR** +3, **DEX** +3, **CON** +3, **INT** -4, **WIS** +1, **CHA** -2
 
@@ -23,7 +25,7 @@ n, medium, animal
 
 Speed 20 feet, swim 20 feet, climb 20 feet
 
-**Melee** jaws +8; **Damage** 1d8+3 piercing plus Grab plus Grab
+**Melee** ◆ jaws +8; **Damage** 1d8+3 piercing plus Grab plus Grab
 
 **Constrict** ◆ 1d8 bludgeoning, DC 17
 

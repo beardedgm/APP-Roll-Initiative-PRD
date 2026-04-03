@@ -5,9 +5,11 @@ ce, medium, astral
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision
 
-**Languages** aklo
+**Languages** aklo; telepathy 120 feet
+
+**Skills** Arcana +18, Deception +23, Diplomacy +21, Intimidation +21, Occultism +18
 
 **STR** +2, **DEX** +5, **CON** +6, **INT** +2, **WIS** +5, **CHA** +7
 
@@ -31,17 +33,17 @@ ce, medium, astral
 
 Speed 30 feet, fly 50 feet
 
-**Melee** fist +25 (agile, finesse, magical); **Damage** 3d4+5 bludgeoning plus 4d6 fire and 2d4 persistent fire
+**Melee** ◆ fist +25 (agile, finesse, magical); **Damage** 3d4+5 bludgeoning plus 4d6 fire and 2d4 persistent fire
 
-**Melee** fire ray +25 (arcane, evocation, magical, range <100 feet>); **Damage** 3d10+3 fire, plus 2d10 positive damage if the target is undead
+**Melee** ◆ fire ray +25 (arcane, evocation, magical, range <100 feet>); **Damage** 3d10+3 fire, plus 2d10 positive damage if the target is undead
 
 **Innate occult Spells** (DC 33)
 
   **Cantrips (6th)** light
 
-  **2nd** illusory object
+  **2nd** illusory object (at will)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
   **5th** dimension door, false vision, hallucinatory terrain
 

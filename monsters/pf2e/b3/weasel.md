@@ -5,7 +5,9 @@ n, tiny, animal
 
 ---
 
-**Perception** +4
+**Perception** +4; low-light vision, scent 60 feet (imprecise)
+
+**Skills** Acrobatics +5, Athletics +4, Stealth +5
 
 **STR** +2, **DEX** +3, **CON** +2, **INT** -4, **WIS** +0, **CHA** +1
 
@@ -23,6 +25,6 @@ n, tiny, animal
 
 Speed 25 feet
 
-**Melee** jaws +7 (agile, finesse); **Damage** 1d4+2 piercing plus Grab plus Grab
+**Melee** ◆ jaws +7 (agile, finesse); **Damage** 1d4+2 piercing plus Grab plus Grab
 
 **Constrict** ◆ 1d4 piercing, DC 15

@@ -5,11 +5,13 @@ uncommon, huge, construct, divine, mindless
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision
+
+**Skills** Intimidation +32
 
 **STR** +0, **DEX** +9, **CON** +6, **INT** -5, **WIS** +4, **CHA** -5
 
-**Items** {@item longsword|PC1}
+**Items** longsword|PC1
 
 ---
 
@@ -34,7 +36,7 @@ uncommon, huge, construct, divine, mindless
 
 Speed 25 feet
 
-**Melee** greater striking longsword +33 (magical, versatile <P>); **Damage** 3d8+19 slashing
+**Melee** ◆ greater striking longsword +33 (magical, versatile <P>); **Damage** 3d8+19 slashing
 
 **Innate divine Spells** (DC 37), attack +29
 

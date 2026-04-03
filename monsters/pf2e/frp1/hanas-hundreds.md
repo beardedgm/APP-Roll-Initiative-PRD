@@ -9,6 +9,8 @@ unique, ln, medium, human, humanoid, troop
 
 **Languages** taldane, tien
 
+**Skills** Acrobatics +27, Athletics +30, Intimidation +27
+
 **STR** +8, **DEX** +6, **CON** +6, **INT** +1, **WIS** +2, **CHA** +4
 
 ---

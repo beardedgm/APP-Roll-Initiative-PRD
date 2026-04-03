@@ -5,9 +5,11 @@ uncommon, ln, gargantuan, incorporeal, spirit, troop, undead
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision, lifesense 60 feet
 
 **Languages** common, elven, necril
+
+**Skills** Acrobatics +38, Stealth +38, Warfare Lore +35
 
 **STR** -5, **DEX** +10, **CON** +10, **INT** +7, **WIS** +7, **CHA** +6
 
@@ -23,7 +25,7 @@ uncommon, ln, gargantuan, incorporeal, spirit, troop, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Weaknesses** area damage 20, splash damage 10
 
@@ -33,7 +35,7 @@ uncommon, ln, gargantuan, incorporeal, spirit, troop, undead
 
 ---
 
-Speed fly 40 feet
+Speed fly 40 feet, troop movement
 
 **Form Up** ◆
 

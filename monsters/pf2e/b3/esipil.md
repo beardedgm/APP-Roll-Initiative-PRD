@@ -5,9 +5,11 @@ ne, tiny, fiend, sahkil
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
-**Languages** abyssal, celestial, infernal, requian
+**Languages** abyssal, celestial, infernal, requian; telepathy
+
+**Skills** Acrobatics +7, Intimidation +7, Stealth +7
 
 **STR** +0, **DEX** +4, **CON** +2, **INT** +1, **WIS** +2, **CHA** +2
 
@@ -27,15 +29,15 @@ ne, tiny, fiend, sahkil
 
 Speed 30 feet
 
-**Melee** jaws +9 (finesse, versatile <P>); **Damage** 1d8 slashing plus 1d4 evil and Grab plus Grab
+**Melee** ◆ jaws +9 (finesse, versatile <P>); **Damage** 1d8 slashing plus 1d4 evil and Grab plus Grab
 
-**Melee** claw +9 (agile, finesse); **Damage** 1d6 slashing plus 1d4 evil
+**Melee** ◆ claw +9 (agile, finesse); **Damage** 1d6 slashing plus 1d4 evil
 
 **Innate divine Spells** (DC 15)
 
   **Cantrips (1st)** mage hand
 
-  **1st** fear
+  **1st** fear (at will)
 
   **2nd** mirror image
 

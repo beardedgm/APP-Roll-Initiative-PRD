@@ -5,9 +5,11 @@ unique, ne, medium, dwarf, humanoid
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
 
 **Languages** aklo, common, daemonic, dwarf, undercommon
+
+**Skills** Acrobatics +22, Arcana +26, Crafting +26, Nature +23, Poison Lore +28
 
 **STR** +1, **DEX** +3, **CON** +4, **INT** +5, **WIS** +4, **CHA** +0
 
@@ -25,11 +27,11 @@ unique, ne, medium, dwarf, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +22 (agile, finesse, magical, versatile <S>); **Damage** 2d4+9 piercing
+**Melee** ◆ dagger +22 (agile, finesse, magical, versatile <S>); **Damage** 2d4+9 piercing
 
-**Melee** staff +20 (magical, two-handed d8); **Damage** 1d4+9 bludgeoning
+**Melee** ◆ staff +20 (magical, two-handed d8); **Damage** 1d4+9 bludgeoning
 
-**Melee** dagger +22 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+9 piercing
+**Ranged** ◆ dagger +22 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+9 piercing
 
 **Prepared arcane Spells** (DC 33), attack +27
 
@@ -43,7 +45,7 @@ Speed 25 feet
 
   **4th** outcast's curse, resilient sphere, wall of fire
 
-  **5th** passwall, wyvern sting
+  **5th** passwall (×2), wyvern sting
 
   **6th** chain lightning, dispel magic, scrying
 

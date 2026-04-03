@@ -5,9 +5,11 @@ uncommon, ne, large, amphibious, beast
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
 **Languages** aklo, common
+
+**Skills** Athletics +15, Deception +15, Stealth +15
 
 **STR** +5, **DEX** +3, **CON** +5, **INT** -1, **WIS** +3, **CHA** +3
 
@@ -25,11 +27,11 @@ uncommon, ne, large, amphibious, beast
 
 Speed 25 feet, swim 35 feet
 
-**Melee** jaws +17; **Damage** 2d8+8 piercing
+**Melee** ◆ jaws +17; **Damage** 2d8+8 piercing
 
-**Melee** claw +17 (agile); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +17 (agile); **Damage** 2d6+8 slashing
 
-**Melee** tail claw +17 (agile, reach <10 feet>); **Damage** 2d4+8 slashing plus Improved Grab plus Improved Grab
+**Melee** ◆ tail claw +17 (agile, reach <10 feet>); **Damage** 2d4+8 slashing plus Improved Grab plus Improved Grab
 
 **Tail Drag** ◆ **Requirements** The ahuizotl has a Medium or smaller creature grabbed with its tail claw; The ahuizotl attempts an Athletics check against the creature's Fortitude DC. **Critical Success** If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl. The ahuizotl can make a jaws Strike against the creature.
 **Success** If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl.

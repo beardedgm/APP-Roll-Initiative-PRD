@@ -5,7 +5,9 @@ medium, animal
 
 ---
 
-**Perception** +6
+**Perception** +6; {@ability low-light vision}
+
+**Skills** Acrobatics +8, Athletics +7, Stealth +10
 
 **STR** +3, **DEX** +5, **CON** +3, **INT** -5, **WIS** +2, **CHA** -4
 
@@ -23,9 +25,9 @@ medium, animal
 
 Speed 40 feet, fly 20 feet, climb 20 feet
 
-**Melee** mandibles +11 (finesse); **Damage** 1d10+3 piercing
+**Melee** ◆ mandibles +11 (finesse); **Damage** 1d10+3 piercing
 
-**Melee** leg +11 (agile, finesse); **Damage** 1d8+3 piercing
+**Melee** ◆ leg +11 (agile, finesse); **Damage** 1d8+3 piercing
 
 **Barbed Limbs** ◆◆ The giant orchid mantis makes two leg Strikes. If it hits the same creature with both attacks, that creature is grabbed until the end of the mantis's next turn.
 

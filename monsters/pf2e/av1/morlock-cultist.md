@@ -5,9 +5,11 @@ uncommon, ce, medium, humanoid, morlock
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** aklo, undercommon
+
+**Skills** Acrobatics +10, Athletics +11, Crafting +11 (Repair only), Occultism +13, Stealth +11
 
 **STR** +3, **DEX** +3, **CON** +1, **INT** +5, **WIS** +3, **CHA** +0
 
@@ -27,11 +29,11 @@ uncommon, ce, medium, humanoid, morlock
 
 Speed 30 feet, climb 20 feet
 
-**Melee** club +11; **Damage** 1d6+5 bludgeoning
+**Melee** ◆ club +11; **Damage** 1d6+5 bludgeoning
 
-**Melee** jaws +11 (agile); **Damage** 1d4+5 piercing
+**Melee** ◆ jaws +11 (agile); **Damage** 1d4+5 piercing
 
-**Melee** club +13 (range increment <10 feet>); **Damage** 1d6+5 bludgeoning
+**Ranged** ◆ club +13 (range increment <10 feet>); **Damage** 1d6+5 bludgeoning
 
 **Innate occult Spells** (DC 21), attack +13
 

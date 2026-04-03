@@ -5,9 +5,11 @@ cg, medium, azata, celestial
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Athletics +9, Deception +13, Diplomacy +13, Performance +14, Religion +9, Stealth +11
 
 **STR** +1, **DEX** +5, **CON** +3, **INT** +2, **WIS** +1, **CHA** +5
 
@@ -29,13 +31,15 @@ cg, medium, azata, celestial
 
 Speed 30 feet
 
-**Melee** silver rapier +13 (deadly <1d10>, disarm, finesse, good, magical); **Damage** 1d6+7 piercing plus 1d4 good
+**Melee** ◆ silver rapier +13 (deadly <1d10>, disarm, finesse, good, magical); **Damage** 1d6+7 piercing plus 1d4 good
 
 **Innate divine Spells** (DC 23)
 
-  **1st** charm
+  **Constant (5th)** tongues
 
-  **2nd** heal, mirror image
+  **1st** charm (at will)
+
+  **2nd** heal, mirror image (at will)
 
   **3rd** heroism
 

@@ -5,9 +5,11 @@ uncommon, medium, plant, undead
 
 ---
 
-**Perception** +18
+**Perception** +18; low-light vision
 
-**Languages** arboreal, common, fey
+**Languages** arboreal, common, fey; speak with plants|PC1
+
+**Skills** Athletics +19, Intimidation +15, Nature +16, Stealth +18, Survival +16
 
 **STR** +6, **DEX** +5, **CON** +4, **INT** -2, **WIS** +3, **CHA** +0
 
@@ -33,15 +35,17 @@ uncommon, medium, plant, undead
 
 Speed 25 feet
 
-**Melee** rotting fist +21 (magical); **Damage** 2d8+12 bludgeoning plus 1d8 poison
+**Melee** ◆ rotting fist +21 (magical); **Damage** 2d8+12 bludgeoning plus 1d8 poison
 
-**Melee** bursting seedpod +20 (range increment <30 feet>); **Damage** 2d6+6 bludgeoning plus noxious putrescence
+**Ranged** ◆ bursting seedpod +20 (range increment <30 feet>); **Damage** 2d6+6 bludgeoning plus noxious putrescence
 
 **Innate primal Spells** (DC 28), attack +20
 
+  **Constant (5th)** speak with plants
+
   **Cantrips (5th)** puff of poison, tangle vine
 
-  **5th** entangling flora
+  **5th** entangling flora (at will)
 
 **Noxious Putrescence** (inhaled, poison)
 

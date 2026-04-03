@@ -5,9 +5,11 @@ ce, large, amphibious, fey
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision, true seeing
 
 **Languages** common, sylvan
+
+**Skills** Athletics +25, Deception +28, Intimidation +28, Nature +26, Survival +24
 
 **STR** +8, **DEX** +3, **CON** +6, **INT** +2, **WIS** +5, **CHA** +7
 
@@ -27,17 +29,17 @@ ce, large, amphibious, fey
 
 Speed 10 feet, swim 10 feet
 
-**Melee** jaws +27 (reach <10 feet>); **Damage** 4d8+14 bludgeoning plus Grab plus Grab
+**Melee** ◆ jaws +27 (reach <10 feet>); **Damage** 4d8+14 bludgeoning plus Grab plus Grab
 
-**Melee** tongue +27 (reach <15 feet>); plus Grab and Pull 10 feet
+**Melee** ◆ tongue +27 (reach <15 feet>); plus Grab and Pull 10 feet
 
 **Innate primal Spells** (DC 33), attack +27
 
-  **3rd** faerie fire, fear, hideous laughter
+  **3rd** faerie fire (×2), fear (at will), hideous laughter
 
-  **4th** charm, lightning bolt, paralyze
+  **4th** charm (at will), lightning bolt (×2), paralyze (×3)
 
-  **5th** confusion, enthrall, illusory scene, wall of stone
+  **5th** confusion, enthrall (×2), illusory scene (at will), wall of stone
 
   **6th** crushing despair, dominate
 

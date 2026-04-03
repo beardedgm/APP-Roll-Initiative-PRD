@@ -5,13 +5,15 @@ rare, le, medium, shadow, undead, vampire
 
 ---
 
-**Perception** +23
+**Perception** +23; greater darkvision
 
 **Languages** common, necril, shadowtongue, thassilonian
 
+**Skills** Acrobatics +25, Arcana +23, Athletics +25, Crafting +23, Deception +26, Religion +22, Stealth +27, Thassilon Lore +24
+
 **STR** +8, **DEX** +8, **CON** +5, **INT** +5, **WIS** +4, **CHA** +5
 
-**Items** {@runeItem studded leather||+1 armor potency||resilient||+1 resilient studded leather armor}, {@item religious symbol (generic)||religious symbol}
+**Items** +1 resilient studded leather armor, religious symbol
 
 ---
 
@@ -23,7 +25,7 @@ rare, le, medium, shadow, undead, vampire
 
 **Immunities** death effects, disease, paralyze, poison, sleep
 
-**Resistances** all physical 15
+**Resistances** all physical 15 (except magical silver weapons or magical weapons shedding bright light)
 
 **Weaknesses** strigoi weaknesses
 
@@ -33,7 +35,7 @@ rare, le, medium, shadow, undead, vampire
 
 Speed 25 feet, fly 25 feet
 
-**Melee** claws +25 (agile, magical); **Damage** 3d8+14 slashing plus Grab
+**Melee** ◆ claws +25 (agile, magical); **Damage** 3d8+14 slashing plus Grab
 
 **Spontaneous divine Spells** (DC 33), attack +25
 

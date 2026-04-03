@@ -5,9 +5,11 @@ uncommon, ne, huge, undead
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision, true seeing
 
-**Languages** necril
+**Languages** necril; Skeletal Lore languages
+
+**Skills** Acrobatics +34, Intimidation +35, Religion +30, Stealth +32, Skeletal Lore +30
 
 **STR** +8, **DEX** +6, **CON** +6, **INT** +2, **WIS** +8, **CHA** +7
 
@@ -31,15 +33,17 @@ uncommon, ne, huge, undead
 
 Speed 30 feet, fly 60 feet
 
-**Melee** jaws +35 (deadly <2d12>, magical, reach <10 feet>); **Damage** 3d10+14 piercing plus 3d6 negative and energy drain plus energy drain
+**Melee** ◆ jaws +35 (deadly <2d12>, magical, reach <10 feet>); **Damage** 3d10+14 piercing plus 3d6 negative and energy drain plus energy drain
 
-**Melee** claw +35 (agile, deadly <2d12>, magical, reach <15 feet>); **Damage** 3d6+14 slashing plus 3d6 negative and energy drain plus energy drain
+**Melee** ◆ claw +35 (agile, deadly <2d12>, magical, reach <15 feet>); **Damage** 3d6+14 slashing plus 3d6 negative and energy drain plus energy drain
 
-**Melee** bone javelin +33 (magical, thrown <100 feet>); **Damage** 3d8+6 piercing plus 3d6 negative
+**Ranged** ◆ bone javelin +33 (magical, thrown <100 feet>); **Damage** 3d8+6 piercing plus 3d6 negative
 
 **Innate divine Spells** (DC 40)
 
-  **8th** finger of death, horrid wilting, punishing winds
+  **Constant (6th)** true seeing
+
+  **8th** finger of death (×2), horrid wilting (×2), punishing winds (×2)
 
 **Bonetaker** (divine, necromancy) Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm. The creature must succeed at a DC 40 Will save or rise as a skeletal champion in 1d4 rounds. These skeletal champions are controlled by the skulltaker.
 

@@ -5,9 +5,11 @@ rare, medium, construct
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision, wealthsense 60 feet (imprecise)
 
 **Languages** common, dwarven
+
+**Skills** Diplomacy +20, Mercantile Lore +26, Occultism +23, Thievery +23
 
 **STR** +7, **DEX** +3, **CON** +5, **INT** +5, **WIS** +7, **CHA** +6
 
@@ -23,7 +25,7 @@ rare, medium, construct
 
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, nonlethal attacks, paralyzed, poison, sickened, unconscious, vitality, void
 
-**Resistances** cold 10, electricity 10, physical 10
+**Resistances** cold 10, electricity 10, physical 10 (except magical bludgeoning)
 
 **Weaknesses** spirit 10
 
@@ -35,7 +37,7 @@ rare, medium, construct
 
 Speed 25 feet
 
-**Melee** fist +24 (magical, reach <10 feet>); **Damage** 2d10+11 bludgeoning plus
+**Melee** ◆ fist +24 (magical, reach <10 feet>); **Damage** 2d10+11 bludgeoning plus
 
 **Spontaneous occult Spells** (DC 27), attack +19
 

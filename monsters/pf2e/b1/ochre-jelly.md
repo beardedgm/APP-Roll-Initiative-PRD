@@ -5,7 +5,9 @@ n, large, mindless, ooze
 
 ---
 
-**Perception** +7
+**Perception** +7; motion sense 60 feet, no vision
+
+**Skills** Athletics +13
 
 **STR** +4, **DEX** -5, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -27,7 +29,7 @@ n, large, mindless, ooze
 
 Speed 15 feet, climb 10 feet
 
-**Melee** pseudopod +15; **Damage** 1d8+7 bludgeoning plus 2d4 acid and Grab plus Grab
+**Melee** ◆ pseudopod +15; **Damage** 1d8+7 bludgeoning plus 2d4 acid and Grab plus Grab
 
 **Constrict** ◆ 1d8+3 bludgeoning plus 1d4 acid, DC 23
 

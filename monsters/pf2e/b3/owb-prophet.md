@@ -5,9 +5,11 @@ rare, ne, large, shadow
 
 ---
 
-**Perception** +24
+**Perception** +24; greater darkvision
 
-**Languages** aklo, caligni, common, undercommon (can't speak any languages)
+**Languages** aklo, caligni, common, undercommon (can't speak any languages); telepathy
+
+**Skills** Acrobatics +25, Deception +26, Diplomacy +24, Occultism +23, Religion +25, Stealth +25
 
 **STR** +8, **DEX** +6, **CON** +8, **INT** +4, **WIS** +5, **CHA** +7
 
@@ -31,23 +33,23 @@ rare, ne, large, shadow
 
 Speed 5 feet, fly 40 feet
 
-**Melee** claw +27 (agile, magical); **Damage** 2d8+11 slashing plus 2d8 cold
+**Melee** ◆ claw +27 (agile, magical); **Damage** 2d8+11 slashing plus 2d8 cold
 
-**Melee** burning cold +25 (magical, range <120 feet>); **Damage** 4d8 cold plus 2d8 persistent cold and clutching cold plus clutching cold
+**Ranged** ◆ burning cold +25 (magical, range <120 feet>); **Damage** 4d8 cold plus 2d8 persistent cold and clutching cold plus clutching cold
 
 **Innate occult Spells** (DC 33), attack +25
 
   **Cantrips (7th)** chill touch, daze, read aura, shield
 
-  **3rd** mind reading
+  **3rd** mind reading (at will)
 
   **4th** invisibility
 
-  **5th** shadow walk
+  **5th** shadow walk (×3)
 
-  **6th** darkness, dominate
+  **6th** darkness (at will), dominate (×3)
 
-  **7th** plane shift, shadow blast
+  **7th** plane shift (×3), shadow blast (×3)
 
 **Burning Cold Fusillade** ◆◆ The owb prophet makes three burning cold Strikes.
 

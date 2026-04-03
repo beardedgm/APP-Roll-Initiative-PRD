@@ -5,9 +5,11 @@ uncommon, ln, large, fey
 
 ---
 
-**Perception** +20
+**Perception** +20; greater darkvision
 
 **Languages** common, infernal, sylvan
+
+**Skills** Deception +23, Nature +21, Occultism +18, Stealth +23
 
 **STR** +6, **DEX** +5, **CON** +5, **INT** +2, **WIS** +5, **CHA** +7
 
@@ -33,15 +35,15 @@ uncommon, ln, large, fey
 
 Speed 20 feet
 
-**Melee** candle fingers +20 (fire, magical, reach <10 feet>); **Damage** 3d10+5 fire
+**Melee** ◆ candle fingers +20 (fire, magical, reach <10 feet>); **Damage** 3d10+5 fire
 
-**Melee** claw +22 (agile, magical, reach <10 feet>); **Damage** 2d8+9 slashing plus Grab plus Grab
+**Melee** ◆ claw +22 (agile, magical, reach <10 feet>); **Damage** 2d8+9 slashing plus Grab plus Grab
 
 **Innate occult Spells** (DC 29), attack +23
 
   **Cantrips (5th)** produce flame
 
-  **3rd** burning hands
+  **3rd** burning hands (×2)
 
   **4th** darkness
 

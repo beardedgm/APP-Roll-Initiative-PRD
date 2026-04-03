@@ -5,7 +5,9 @@ n, medium, construct
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
+
+**Skills** Athletics +12
 
 **STR** +5, **DEX** +2, **CON** +3, **INT** -4, **WIS** +3, **CHA** -2
 
@@ -30,7 +32,7 @@ n, medium, construct
 
 Speed 20 feet
 
-**Melee** claw +13 (versatile <S>); **Damage** 2d6+7 bludgeoning plus clawing fear plus clawing fear
+**Melee** ◆ claw +13 (versatile <S>); **Damage** 2d6+7 bludgeoning plus clawing fear plus clawing fear
 
 **Baleful Glow** ◇ (concentrate, mental, occult) The scarecrow's head bursts into ghostly, heatless flame that sheds bright light in a 20-foot emanation (and dim light to the next 20 feet). If the scarecrow uses this ability on the first round of combat, any creature that has not acted yet is startled and becomes flat-footed against the scarecrow for 1 round. It can suppress the light by using this action again.
 

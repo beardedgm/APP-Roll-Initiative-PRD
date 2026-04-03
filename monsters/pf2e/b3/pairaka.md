@@ -5,9 +5,11 @@ le, medium, div, fiend
 
 ---
 
-**Perception** +15
+**Perception** +15; greater darkvision
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Acrobatics +14, Arcana +13, Deception +20, Diplomacy +20, Intimidation +16, Religion +13, Society +13, Stealth +16
 
 **STR** +3, **DEX** +5, **CON** +3, **INT** +2, **WIS** +4, **CHA** +7
 
@@ -29,13 +31,13 @@ le, medium, div, fiend
 
 Speed 25 feet, fly 35 feet
 
-**Melee** claw +16 (agile, evil, finesse, magical); **Damage** 2d8+6 slashing plus 1d6 evil and bubonic plague plus bubonic plague
+**Melee** ◆ claw +16 (agile, evil, finesse, magical); **Damage** 2d8+6 slashing plus 1d6 evil and bubonic plague plus bubonic plague
 
 **Innate divine Spells** (DC 25)
 
   **Cantrips (4th)** detect magic
 
-  **4th** charm, dimension door, misdirection, outcast's curse, suggestion
+  **4th** charm (at will), dimension door (at will), misdirection (at will), outcast's curse (at will), suggestion (at will)
 
 **Bubonic Plague** (disease)
 

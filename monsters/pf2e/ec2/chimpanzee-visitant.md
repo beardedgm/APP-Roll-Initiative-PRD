@@ -5,7 +5,9 @@ ne, small, animal, undead
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision, lifesense 60 feet (imprecise)
+
+**Skills** Acrobatics +11, Athletics +10
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** -4, **WIS** +1, **CHA** -1
 

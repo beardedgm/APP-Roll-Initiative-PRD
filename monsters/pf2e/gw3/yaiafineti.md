@@ -5,7 +5,9 @@ uncommon, n, large, mindless, plant
 
 ---
 
-**Perception** +16
+**Perception** +16; pheromones (precise), tremorsense (imprecise), no vision
+
+**Skills** Athletics +18, Stealth +7
 
 **STR** +6, **DEX** -5, **CON** +6, **INT** -5, **WIS** +3, **CHA** +0
 
@@ -29,9 +31,9 @@ uncommon, n, large, mindless, plant
 
 Speed 10 feet, climb 10 feet
 
-**Melee** bite +18 (reach <10 feet>); **Damage** 2d12+8 piercing plus Improved Grab
+**Melee** ◆ bite +18 (reach <10 feet>); **Damage** 2d12+8 piercing plus Improved Grab
 
-**Melee** spore sap +7 (range increment <30 feet>); **Damage** alluring spores
+**Ranged** ◆ spore sap +7 (range increment <30 feet>); **Damage** alluring spores
 
 **Alluring Spores** (poison)
 

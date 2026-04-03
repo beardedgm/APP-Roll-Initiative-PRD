@@ -5,9 +5,11 @@ le, large, dragon, electricity
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, scent 60 feet (imprecise)
 
 **Languages** common, draconic
+
+**Skills** Acrobatics +15, Arcana +16, Deception +18, Diplomacy +18, Intimidation +18, Society +16, Stealth +15, Survival +16
 
 **STR** +5, **DEX** +2, **CON** +3, **INT** +1, **WIS** +3, **CHA** +3
 
@@ -31,19 +33,19 @@ le, large, dragon, electricity
 
 Speed 30 feet, fly 100 feet, burrow 15 feet
 
-**Melee** jaws +21 (electricity, reach <10 feet>); **Damage** 2d8+11 piercing plus 1d12 electricity
+**Melee** ◆ jaws +21 (electricity, reach <10 feet>); **Damage** 2d8+11 piercing plus 1d12 electricity
 
-**Melee** claw +21 (agile); **Damage** 2d8+11 slashing
+**Melee** ◆ claw +21 (agile); **Damage** 2d8+11 slashing
 
-**Melee** tail +19 (reach <15 feet>); **Damage** 2d8+9 bludgeoning
+**Melee** ◆ tail +19 (reach <15 feet>); **Damage** 2d8+9 bludgeoning
 
-**Melee** horns +19 (reach <10 feet>); **Damage** 1d8+9 piercing
+**Melee** ◆ horns +19 (reach <10 feet>); **Damage** 1d8+9 piercing
 
 **Innate arcane Spells** (DC 28)
 
   **Cantrips (4th)** ghost sound
 
-  **1st** create water
+  **1st** create water (at will)
 
 **Breath Weapon** ◆◆ (arcane, electricity, evocation) The dragon breathes lightning that deals 5d12 electricity damage in an 80-foot line (DC 28 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

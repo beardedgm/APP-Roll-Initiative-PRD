@@ -5,9 +5,11 @@ unique, le, medium, skeleton, undead
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
 **Languages** common, infernal
+
+**Skills** Athletics +9, Intimidation +7
 
 **STR** +4, **DEX** +2, **CON** +3, **INT** -1, **WIS** +0, **CHA** +1
 
@@ -29,9 +31,9 @@ unique, le, medium, skeleton, undead
 
 Speed 25 feet, climb 25 feet
 
-**Melee** halberd +11 (reach <10 feet>, versatile <S>); **Damage** 1d10+4 piercing plus Invoke Reckoning plus Invoke Reckoning
+**Melee** ◆ halberd +11 (reach <10 feet>, versatile <S>); **Damage** 1d10+4 piercing plus Invoke Reckoning plus Invoke Reckoning
 
-**Melee** claw +10 (agile); **Damage** 1d6+4 slashing
+**Melee** ◆ claw +10 (agile); **Damage** 1d6+4 slashing
 
 **Command Skeletons** (divine, necromancy) The skeletal Hellknight can direct the actions of the nearby skeleton guards, commanding them to perform tactics such as flanking foes and focusing their attacks on specific targets. As long as the skeletal Hellknight is active and commanding the skeletons, they gain the Attack of Opportunity reaction.
 

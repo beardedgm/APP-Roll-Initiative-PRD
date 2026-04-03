@@ -5,7 +5,9 @@ uncommon, n, large, animal, aquatic
 
 ---
 
-**Perception** +18
+**Perception** +18; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +17, Athletics +21, Stealth +17, Survival +18
 
 **STR** +6, **DEX** +4, **CON** +4, **INT** -4, **WIS** +3, **CHA** -3
 
@@ -23,9 +25,9 @@ uncommon, n, large, animal, aquatic
 
 Speed 20 feet, swim 40 feet
 
-**Melee** jaws +21 (reach <10 feet>); **Damage** 2d12+8 piercing
+**Melee** ◆ jaws +21 (reach <10 feet>); **Damage** 2d12+8 piercing
 
-**Melee** hook claw +21 (agile, reach <10 feet>); **Damage** 2d8+8 piercing plus Grab plus Grab
+**Melee** ◆ hook claw +21 (agile, reach <10 feet>); **Damage** 2d8+8 piercing plus Grab plus Grab
 
 **Aquatic Ambush** ◆
 

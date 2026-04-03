@@ -5,9 +5,11 @@ ng, medium, amphibious, humanoid
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
 
 **Languages** aquan, common
+
+**Skills** Athletics +8, Crafting +4, Diplomacy +6, Nature +6, Stealth +9
 
 **STR** +4, **DEX** +3, **CON** +1, **INT** +0, **WIS** +2, **CHA** +0
 
@@ -25,9 +27,9 @@ ng, medium, amphibious, humanoid
 
 Speed 5 feet, swim 35 feet
 
-**Melee** trident +10; **Damage** 1d8+6 piercing
+**Melee** ◆ trident +10; **Damage** 1d8+6 piercing
 
-**Melee** trident +9 (thrown <20 feet>); **Damage** 1d8+6 piercing
+**Ranged** ◆ trident +9 (thrown <20 feet>); **Damage** 1d8+6 piercing
 
 **Defender of the Seas** ◆ The triton Interacts to raise their trident, gaining a +1 circumstance bonus to AC until the start of their next turn. During this time, any of their allies also gains the bonus while adjacent to the triton.
 

@@ -5,7 +5,9 @@ n, huge, animal, aquatic
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
+
+**Skills** Athletics +20, Stealth +18
 
 **STR** +7, **DEX** +3, **CON** +4, **INT** -4, **WIS** +6, **CHA** -2
 
@@ -21,11 +23,11 @@ n, huge, animal, aquatic
 
 Speed swim 40 feet
 
-**Melee** beak +21; **Damage** 2d12+11 piercing
+**Melee** ◆ beak +21; **Damage** 2d12+11 piercing
 
-**Melee** barbed tentacles +21 (agile, reach <25 feet>); **Damage** 2d10+11 slashing plus Grab plus Grab
+**Melee** ◆ barbed tentacles +21 (agile, reach <25 feet>); **Damage** 2d10+11 slashing plus Grab plus Grab
 
-**Melee** arm +21 (agile, reach <10 feet>); **Damage** 2d8+11 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ arm +21 (agile, reach <10 feet>); **Damage** 2d8+11 bludgeoning plus Improved Grab plus Improved Grab
 
 **Constrict** ◆ 1d10+10 bludgeoning, DC 25
 

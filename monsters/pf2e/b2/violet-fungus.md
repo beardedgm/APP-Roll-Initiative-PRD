@@ -5,7 +5,9 @@ n, medium, fungus, mindless
 
 ---
 
-**Perception** +8
+**Perception** +8; no vision, {@ability tremorsense} 60 feet
+
+**Skills** Stealth +9
 
 **STR** +4, **DEX** +0, **CON** +3, **INT** -5, **WIS** +1, **CHA** -2
 
@@ -23,6 +25,6 @@ n, medium, fungus, mindless
 
 Speed 10 feet
 
-**Melee** tentacle +11 (agile, reach <10 feet>); **Damage** 1d10+4 bludgeoning plus violet rot plus violet rot
+**Melee** ◆ tentacle +11 (agile, reach <10 feet>); **Damage** 1d10+4 bludgeoning plus violet rot plus violet rot
 
 **Violet Rot** (poison)

@@ -5,9 +5,11 @@ uncommon, le, medium, undead
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision
 
 **Languages** common, necril
+
+**Skills** Athletics +31, Deity Lore +27, Intimidation +29, Religion +27
 
 **STR** +8, **DEX** +4, **CON** +5, **INT** +2, **WIS** +4, **CHA** +6
 
@@ -31,11 +33,11 @@ uncommon, le, medium, undead
 
 Speed 25 feet
 
-**Melee** greatpick +31 (fatal <d12>, fire, magical); **Damage** 3d10+16 slashing plus 1d6 fire
+**Melee** ◆ greatpick +31 (fatal <d12>, fire, magical); **Damage** 3d10+16 slashing plus 1d6 fire
 
-**Melee** fist +30 (agile, fire); **Damage** 3d6+16 bludgeoning plus 1d6 fire
+**Melee** ◆ fist +30 (agile, fire); **Damage** 3d6+16 bludgeoning plus 1d6 fire
 
-**Melee** composite shortbow +28 (deadly <d10>, fire, magical, range increment <60 feet>, reload <0>); **Damage** 3d6+10 piercing plus 1d6 fire
+**Ranged** ◆ composite shortbow +28 (deadly <d10>, fire, magical, range increment <60 feet>, reload <0>); **Damage** 3d6+10 piercing plus 1d6 fire
 
 **Innate divine Spells** (DC 33), attack +25
 

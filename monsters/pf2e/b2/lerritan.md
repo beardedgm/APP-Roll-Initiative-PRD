@@ -5,9 +5,11 @@ ne, gargantuan, earth, elemental, fire
 
 ---
 
-**Perception** +35
+**Perception** +35; low-light vision
 
 **Languages** common, ignan, jotun, terran
+
+**Skills** Athletics +41, Crafting +33, Intimidation +35, Religion +36, Survival +38
 
 **STR** +10, **DEX** +5, **CON** +7, **INT** +2, **WIS** +7, **CHA** +4
 
@@ -33,11 +35,11 @@ ne, gargantuan, earth, elemental, fire
 
 Speed 50 feet
 
-**Melee** warhammer +40 (magical, reach <25 feet>, shove); **Damage** 4d12+18 bludgeoning plus 2d6 persistent fire damage
+**Melee** ◆ warhammer +40 (magical, reach <25 feet>, shove); **Damage** 4d12+18 bludgeoning plus 2d6 persistent fire damage
 
-**Melee** jaws +39 (agile, reach <25 feet>); **Damage** 4d10+18 piercing plus 2d6 persistent fire damage
+**Melee** ◆ jaws +39 (agile, reach <25 feet>); **Damage** 4d10+18 piercing plus 2d6 persistent fire damage
 
-**Melee** rock +39 (brutal, range increment <120 feet>); **Damage** 4d6+18 bludgeoning plus 2d6 persistent fire
+**Ranged** ◆ rock +39 (brutal, range increment <120 feet>); **Damage** 4d6+18 bludgeoning plus 2d6 persistent fire
 
 **Innate primal Spells** (DC 46)
 

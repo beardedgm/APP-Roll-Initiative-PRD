@@ -5,7 +5,9 @@ uncommon, ce, huge, aberration, amphibious, swarm
 
 ---
 
-**Perception** +18
+**Perception** +18; greater darkvision, {@ability tremorsense} 30 feet (imprecise)
+
+**Skills** Athletics +20
 
 **STR** +4, **DEX** +6, **CON** +5, **INT** -4, **WIS** +1, **CHA** -2
 

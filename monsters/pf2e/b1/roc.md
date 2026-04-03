@@ -5,7 +5,9 @@ n, gargantuan, animal
 
 ---
 
-**Perception** +18
+**Perception** +18; low-light vision
+
+**Skills** Acrobatics +15, Athletics +21
 
 **STR** +8, **DEX** +2, **CON** +5, **INT** -4, **WIS** +1, **CHA** +0
 
@@ -23,11 +25,11 @@ n, gargantuan, animal
 
 Speed 20 feet, fly 60 feet
 
-**Melee** beak +21 (reach <15 feet>); **Damage** 2d10+12 piercing
+**Melee** ◆ beak +21 (reach <15 feet>); **Damage** 2d10+12 piercing
 
-**Melee** talon +21 (agile, reach <15 feet>); **Damage** 2d8+12 slashing plus Improved Grab plus Improved Grab
+**Melee** ◆ talon +21 (agile, reach <15 feet>); **Damage** 2d8+12 slashing plus Improved Grab plus Improved Grab
 
-**Melee** wing +21 (agile, reach <30 feet>); **Damage** 2d6+10 bludgeoning plus Improved Push 10 feet
+**Melee** ◆ wing +21 (agile, reach <30 feet>); **Damage** 2d6+10 bludgeoning plus Improved Push 10 feet
 
 **Flying Strafe** ◆◆ The roc Flies up to its Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. Each attack takes the normal multiple attack penalty.
 

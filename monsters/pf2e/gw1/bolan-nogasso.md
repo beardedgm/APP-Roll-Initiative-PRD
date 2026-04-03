@@ -9,6 +9,8 @@ unique, ne, medium, human, humanoid
 
 **Languages** common, druidic, sylvan
 
+**Skills** Acrobatics +7, Athletics +7, Intimidation +8, Nature +8, Stealth +5, Survival +8
+
 **STR** +2, **DEX** +2, **CON** +0, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** dagger, hide armor, leaf mask, +1 staff
@@ -31,7 +33,9 @@ unique, ne, medium, human, humanoid
 
 ---
 
-**Melee** staff +9 (magical, reach 10 feet [with wild morph], two-hand d8); **Damage** 1d8+3 bludgeoning
+Speed until the beginning of Bolan's next turn.
+
+**Melee** ◆ staff +9 (magical, reach 10 feet [with wild morph], two-hand d8); **Damage** 1d8+3 bludgeoning
 
 **Druid Prepared Spells** (DC 18), attack +10
 

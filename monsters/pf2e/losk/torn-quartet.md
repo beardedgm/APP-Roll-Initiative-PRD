@@ -5,9 +5,11 @@ uncommon, medium, undead
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +27, Athletics +27
 
 **STR** +5, **DEX** +8, **CON** +2, **INT** -2, **WIS** +4, **CHA** +2
 
@@ -35,7 +37,7 @@ uncommon, medium, undead
 
 Speed 10 feet, fly 30 feet
 
-**Melee** limb +25 (agile, magical, reach <15 feet>); **Damage** 3d8+13 bludgeoning plus
+**Melee** ◆ limb +25 (agile, magical, reach <15 feet>); **Damage** 3d8+13 bludgeoning plus
 
 **Improved Grab**
 

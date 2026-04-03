@@ -5,9 +5,11 @@ unique, medium, aiuvarin, elf, human, humanoid
 
 ---
 
-**Perception** +21
+**Perception** +21; low-light vision
 
 **Languages** common, elven
+
+**Skills** Acrobatics +18, Athletics +16, Diplomacy +16, Intimidation +16, Iomedae Lore +18, Nature +18, Religion +16, Stealth +18, Survival +20
 
 **STR** +3, **DEX** +5, **CON** +4, **INT** +4, **WIS** +6, **CHA** +4
 
@@ -29,9 +31,9 @@ unique, medium, aiuvarin, elf, human, humanoid
 
 Speed 30 feet
 
-**Melee** battle axe +22 (magical, sweep); **Damage** 2d8+11 slashing
+**Melee** ◆ battle axe +22 (magical, sweep); **Damage** 2d8+11 slashing
 
-**Melee** composite shortbow +21 (deadly <d10>, propulsive, range increment <60 feet>); **Damage** 1d6+10 piercing
+**Ranged** ◆ composite shortbow +21 (deadly <d10>, propulsive, range increment <60 feet>); **Damage** 1d6+10 piercing
 
 **Ranger Warden Spells** (DC 28)
 

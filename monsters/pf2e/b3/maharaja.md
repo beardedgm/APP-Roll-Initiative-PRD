@@ -5,9 +5,11 @@ rare, le, medium, fiend, rakshasa
 
 ---
 
-**Perception** +37
+**Perception** +37; darkvision
 
-**Languages** abyssal, common, infernal, undercommon
+**Languages** abyssal, common, infernal, undercommon; tongues
+
+**Skills** Acrobatics +33, Arcana +33, Deception +41, Diplomacy +38, Intimidation +38, Occultism +35, Religion +35, Society +35
 
 **STR** +8, **DEX** +9, **CON** +7, **INT** +7, **WIS** +7, **CHA** +10
 
@@ -21,7 +23,7 @@ rare, le, medium, fiend, rakshasa
 
 **HP** 320
 
-**Resistances** physical 20
+**Resistances** physical 20 (except piercing)
 
 **Weaknesses** good 20
 
@@ -29,9 +31,9 @@ rare, le, medium, fiend, rakshasa
 
 Speed 40 feet, fly 30 feet
 
-**Melee** falchion +38 (forceful, sweep); **Damage** 3d10+16 slashing plus 3d6 mental
+**Melee** ◆ falchion +38 (forceful, sweep); **Damage** 3d10+16 slashing plus 3d6 mental
 
-**Melee** fangs +34 (agile); **Damage** 4d6+14 piercing
+**Melee** ◆ fangs +34 (agile); **Damage** 4d6+14 piercing
 
 **Spontaneous occult Spells** (DC 47)
 
@@ -59,7 +61,9 @@ Speed 40 feet, fly 30 feet
 
 **Innate occult Spells** (DC 47)
 
-  **9th** clairaudience, clairvoyance, mind reading
+  **Constant (9th)** tongues
+
+  **9th** clairaudience (at will), clairvoyance (at will), mind reading (at will)
 
   **10th** dominate
 

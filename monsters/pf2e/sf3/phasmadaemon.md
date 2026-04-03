@@ -5,9 +5,11 @@ ne, large, daemon, fiend
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision, true seeing
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Acrobatics +31, Deception +31, Intimidation +33, Religion +29
 
 **STR** +8, **DEX** +8, **CON** +6, **INT** +3, **WIS** +4, **CHA** +6
 
@@ -31,19 +33,21 @@ ne, large, daemon, fiend
 
 Speed 25 feet, fly 35 feet
 
-**Melee** jaws +33 (evil, magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 1d6 evil and Grab
+**Melee** ◆ jaws +33 (evil, magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 1d6 evil and Grab
 
-**Melee** claw +33 (agile, evil, magical, reach <10 feet>); **Damage** 3d8+16 slashing plus 1d6 evil
+**Melee** ◆ claw +33 (agile, evil, magical, reach <10 feet>); **Damage** 3d8+16 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 38), attack +30
 
-  **1st** detect alignment
+  **Constant (9th)** true seeing
 
-  **4th** dimension door, nightmare
+  **1st** detect alignment (at will)
 
-  **5th** dimension door, shadow siphon
+  **4th** dimension door (at will), nightmare (at will)
 
-  **6th** shadow blast
+  **5th** dimension door, shadow siphon (×2)
+
+  **6th** shadow blast (×2)
 
   **7th** phantasmal killer, shadow blast
 

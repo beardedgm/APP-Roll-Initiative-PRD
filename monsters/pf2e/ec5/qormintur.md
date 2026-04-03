@@ -5,9 +5,11 @@ unique, le, medium, duergar, dwarf, humanoid
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision
 
 **Languages** common, dwarven, elven, undercommon
+
+**Skills** Acrobatics +29, Crafting +32, Deception +25, Occultism +28, Society +30, Stealth +27, Survival +27, Shraen Lore +28
 
 **STR** +2, **DEX** +5, **CON** +3, **INT** +6, **WIS** +3, **CHA** +1
 
@@ -35,11 +37,11 @@ unique, le, medium, duergar, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** shortsword +32 (agile, finesse, magical, versatile <S>); **Damage** 3d6+11 piercing
+**Melee** ◆ shortsword +32 (agile, finesse, magical, versatile <S>); **Damage** 3d6+11 piercing
 
-**Melee** acid flask +32 (range increment <60 feet>, splash 10 feet); **Damage** 7 acid damage plus 3d6 persistent acid damage and 9 acid splash damage
+**Ranged** ◆ acid flask +32 (range increment <60 feet>, splash 10 feet); **Damage** 7 acid damage plus 3d6 persistent acid damage and 9 acid splash damage
 
-**Melee** alchemist's fire +32 (range increment <60 feet>, splash 10 feet); **Damage** 3d8+6 fire plus 3 persistent fire and 9 fire splash
+**Ranged** ◆ alchemist's fire +32 (range increment <60 feet>, splash 10 feet); **Damage** 3d8+6 fire plus 3 persistent fire and 9 fire splash
 
 **Innate occult Spells** (DC 35)
 

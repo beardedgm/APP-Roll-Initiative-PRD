@@ -5,9 +5,11 @@ n, large, beast
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, {@ability tremorsense} 60 feet (imprecise)
 
 **Languages** common, girtablilu
+
+**Skills** Athletics +24, Intimidation +23, Religion +25, Survival +23
 
 **STR** +6, **DEX** +5, **CON** +6, **INT** +3, **WIS** +7, **CHA** +3
 
@@ -27,9 +29,9 @@ n, large, beast
 
 Speed 40 feet
 
-**Melee** pincer +24 (agile); **Damage** 3d8+12 bludgeoning plus Grab plus Grab
+**Melee** ◆ pincer +24 (agile); **Damage** 3d8+12 bludgeoning plus Grab plus Grab
 
-**Melee** stinger +24 (reach <10 feet>); **Damage** 3d6+12 piercing plus girtablilu venom plus girtablilu venom
+**Melee** ◆ stinger +24 (reach <10 feet>); **Damage** 3d6+12 piercing plus girtablilu venom plus girtablilu venom
 
 **Spontaneous divine Spells** (DC 33)
 

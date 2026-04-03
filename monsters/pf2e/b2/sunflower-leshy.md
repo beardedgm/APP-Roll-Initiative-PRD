@@ -5,9 +5,11 @@ n, small, leshy, plant
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
-**Languages** common, druidic, sylvan
+**Languages** common, druidic, sylvan; speak with plants (sunflowers only)
+
+**Skills** Acrobatics +6, Diplomacy +8, Nature +5, Stealth +7
 
 **STR** +0, **DEX** +3, **CON** +1, **INT** +0, **WIS** +2, **CHA** +3
 
@@ -29,9 +31,9 @@ n, small, leshy, plant
 
 Speed 25 feet
 
-**Melee** tendril +6 (agile, finesse); **Damage** 1d8 bludgeoning
+**Melee** ◆ tendril +6 (agile, finesse); **Damage** 1d8 bludgeoning
 
-**Melee** seed +6 (range increment <20 feet>); **Damage** 1d6 bludgeoning
+**Ranged** ◆ seed +6 (range increment <20 feet>); **Damage** 1d6 bludgeoning
 
 **Innate primal Spells** (DC 17)
 

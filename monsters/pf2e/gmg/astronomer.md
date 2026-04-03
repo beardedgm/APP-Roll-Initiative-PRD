@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Arcana +8, Occultism +8, Astronomy Lore +12
+
 **STR** +0, **DEX** +1, **CON** +2, **INT** +4, **WIS** +3, **CHA** +0
 
 **Items** astrolabe, spellbook, spell component pouch, staff
@@ -29,4 +31,4 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** staff +6 (two-hand <d8>); **Damage** 1d4 bludgeoning
+**Melee** ◆ staff +6 (two-hand <d8>); **Damage** 1d4 bludgeoning

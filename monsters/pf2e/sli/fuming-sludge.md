@@ -5,7 +5,9 @@ uncommon, n, medium, mindless, ooze
 
 ---
 
-**Perception** +11
+**Perception** +11; chemical sense 60 feet, no vision
+
+**Skills** Athletics +19
 
 **STR** +6, **DEX** -3, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -31,9 +33,9 @@ uncommon, n, medium, mindless, ooze
 
 Speed 20 feet, climb 20 feet
 
-**Melee** pseudopod +17; **Damage** 2d10+6 bludgeoning plus 1d8 persistent fire and Grab plus Grab
+**Melee** ◆ pseudopod +17; **Damage** 2d10+6 bludgeoning plus 1d8 persistent fire and Grab plus Grab
 
-**Melee** ejected glob +17 (brutal, range increment <20 feet>); **Damage** 3d6+6 bludgeoning plus 1d8 persistent fire and cooling glob plus cooling glob
+**Ranged** ◆ ejected glob +17 (brutal, range increment <20 feet>); **Damage** 3d6+6 bludgeoning plus 1d8 persistent fire and cooling glob plus cooling glob
 
 **Constrict** ◆ 1d8+6 bludgeoning plus 1d8 persistent fire, DC 24
 

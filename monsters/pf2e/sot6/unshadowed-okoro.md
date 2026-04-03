@@ -9,6 +9,8 @@ unique, ce, medium, human, humanoid
 
 **Languages** common, draconic, elven, terran
 
+**Skills** Academia Lore +33, Athletics +31, Deception +35, Diplomacy +35, Games Lore +31, Performance +31, Occultism +35, Stealth +29
+
 **STR** +2, **DEX** +3, **CON** +3, **INT** +4, **WIS** +3, **CHA** +5
 
 **Items** +3 greater striking composite shortbow (30 arrows)
@@ -31,9 +33,9 @@ unique, ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** fist +28 (agile, finesse, nonlethal, unarmed); **Damage** 3d4+6 bludgeoning
+**Melee** ◆ fist +28 (agile, finesse, nonlethal, unarmed); **Damage** 3d4+6 bludgeoning
 
-**Melee** composite shortbow +28 (deadly <2d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 3d6+22 piercing
+**Ranged** ◆ composite shortbow +28 (deadly <2d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 3d6+22 piercing
 
 **Spontaneous occult Spells** (DC 40), attack +32
 
@@ -59,7 +61,7 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 40), attack +32
 
-  **9th** shadow blast, shadow siphon
+  **9th** shadow blast (×2), shadow siphon (×2)
 
 **Observe Weakness** ◆ (concentrate, divination, fortune, occult) Okoro studies a creature within 30 feet to find an opening to attack. On his next attack roll against the creature this turn, he rolls twice and uses the higher result, and his attack gains the fortune trait. The target becomes temporarily immune for 1d4 rounds.
 

@@ -5,7 +5,9 @@ n, small, animal
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +4, Stealth +6
 
 **STR** +0, **DEX** +1, **CON** +2, **INT** -5, **WIS** +2, **CHA** -2
 
@@ -23,6 +25,6 @@ n, small, animal
 
 Speed 25 feet, burrow 10 feet
 
-**Melee** jaws +8; **Damage** 1d8 piercing
+**Melee** ◆ jaws +8; **Damage** 1d8 piercing
 
-**Melee** claw +8 (agile); **Damage** 1d6 slashing
+**Melee** ◆ claw +8 (agile); **Damage** 1d6 slashing

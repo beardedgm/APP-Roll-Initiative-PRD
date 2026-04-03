@@ -5,7 +5,9 @@ unique, n, tiny, monitor, psychopomp, undead
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision, lifesense [object Object] feet
+
+**Skills** Acrobatics +8
 
 **STR** -1, **DEX** +3, **CON** +1, **INT** -3, **WIS** +2, **CHA** +3
 
@@ -33,4 +35,4 @@ unique, n, tiny, monitor, psychopomp, undead
 
 Speed 15 feet, fly 40 feet
 
-**Melee** beak +8 (finesse, magical); **Damage** 1d4+1 piercing
+**Melee** ◆ beak +8 (finesse, magical); **Damage** 1d4+1 piercing

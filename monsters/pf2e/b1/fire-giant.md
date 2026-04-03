@@ -5,9 +5,11 @@ le, large, fire, giant, humanoid
 
 ---
 
-**Perception** +18
+**Perception** +18; low-light vision
 
 **Languages** common, jotun
+
+**Skills** Athletics +25, Crafting +22, Intimidation +23
 
 **STR** +7, **DEX** +0, **CON** +5, **INT** +2, **WIS** +2, **CHA** +0
 
@@ -33,11 +35,11 @@ le, large, fire, giant, humanoid
 
 Speed 25 feet
 
-**Melee** greatsword +24 (magical, reach <10 feet>, versatile <P>); **Damage** 2d12+13 slashing
+**Melee** ◆ greatsword +24 (magical, reach <10 feet>, versatile <P>); **Damage** 2d12+13 slashing
 
-**Melee** fist +23 (agile, reach <10 feet>); **Damage** 2d8+13 bludgeoning
+**Melee** ◆ fist +23 (agile, reach <10 feet>); **Damage** 2d8+13 bludgeoning
 
-**Melee** rock +23 (brutal, range increment <120 feet>); **Damage** 2d8+13 bludgeoning plus 1d6 fire
+**Ranged** ◆ rock +23 (brutal, range increment <120 feet>); **Damage** 2d8+13 bludgeoning plus 1d6 fire
 
 **Flaming Stroke** ◆◆ (evocation, fire, primal) The fire giant imbues its blade with flames and makes a greatsword Strike with a –2 circumstance penalty against each creature in a 15-foot line. It makes only one attack roll and compares the result to each creature's AC. This Strike deals an additional 1d6 fire damage and counts as one attack for the fire giant's multiple attack penalty.
 

@@ -5,9 +5,11 @@ rare, le, huge, divine, humanoid
 
 ---
 
-**Perception** +29
+**Perception** +29; greater darkvision, smoke vision
 
 **Languages** common
+
+**Skills** Acrobatics +29, Athletics +34, Intimidation +33, Religion +28, Walkena Lore +33
 
 **STR** +9, **DEX** +4, **CON** +8, **INT** +2, **WIS** +3, **CHA** +8
 
@@ -39,15 +41,17 @@ rare, le, huge, divine, humanoid
 
 ---
 
-Speed 60 feet
+Speed 60 feet, air walk
 
-**Melee** holy spear +33 (magical, reach <20 feet>, versatile fire); **Damage** 3d12+19 piercing
+**Melee** ◆ holy spear +33 (magical, reach <20 feet>, versatile fire); **Damage** 3d12+19 piercing
 
-**Melee** fist +33 (agile, finesse, unarmed, versatile fire); **Damage** 3d6+19 bludgeoning plus Improved Grab
+**Melee** ◆ fist +33 (agile, finesse, unarmed, versatile fire); **Damage** 3d6+19 bludgeoning plus Improved Grab
 
-**Melee** sunfire +31 (fire, magical, range increment <120 feet>); **Damage** 3d8+18 fire
+**Ranged** ◆ sunfire +31 (fire, magical, range increment <120 feet>); **Damage** 3d8+18 fire
 
 **Innate divine Spells** (DC 36), attack +28
+
+  **Constant (4th)** air walk
 
   **Cantrips (8th)** daze, produce flame, shield, telekinetic projectile
 

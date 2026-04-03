@@ -9,6 +9,8 @@ unique, ne, medium, human, humanoid
 
 **Languages** abyssal, common, draconic, dwarven, ignan, infernal, undercommon
 
+**Skills** Arcana +35, Athletics +28, Deception +34, Intimidation +32, Occultism +35, Religion +28, Plane Of Fire Lore +39
+
 **STR** +3, **DEX** +5, **CON** +5, **INT** +10, **WIS** +5, **CHA** +6
 
 **Items** +3 major striking dagger, major staff of fire (arcane focus)
@@ -27,7 +29,7 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +35 (agile, finesse, magic, versatile <S>); **Damage** 4d4+14 piercing
+**Melee** ◆ dagger +35 (agile, finesse, magic, versatile <S>); **Damage** 4d4+14 piercing
 
 **Prepared arcane Spells** (DC 44), attack +36
 
@@ -41,17 +43,17 @@ Speed 25 feet
 
   **4th** blink, dimension door, fly, wall of fire
 
-  **5th** cone of cold, dispel magic, fireball
+  **5th** cone of cold, dispel magic (×2), fireball
 
-  **6th** chain lightning, disintegrate, dominate
+  **6th** chain lightning (×2), disintegrate, dominate
 
   **7th** energy aegis, fireball, prismatic spray, warp mind
 
-  **8th** earthquake, maze, polar ray
+  **8th** earthquake, maze, polar ray (×2)
 
-  **9th** fireball, meteor swarm
+  **9th** fireball (×3), meteor swarm
 
-  **10th** cataclysm
+  **10th** cataclysm (×2)
 
 **Wizard School Spells** (DC 44)
 

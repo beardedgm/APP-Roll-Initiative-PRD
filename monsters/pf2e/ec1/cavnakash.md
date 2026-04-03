@@ -5,13 +5,15 @@ unique, ne, medium, humanoid, xulgath
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
 **Languages** common, draconic, undercommon
 
+**Skills** Arcana +10, Athletics +13, Intimidation +13, Religion +15, Stealth +10
+
 **STR** +3, **DEX** +0, **CON** +2, **INT** +1, **WIS** +5, **CHA** +2
 
-**Items** {@runeItem maul||+1 weapon potency||striking|}, {@item wooden religious symbol}, {@item scale mail}, {@item wand} of {@spell heal} (2nd)
+**Items** , wooden religious symbol, scale mail, wand of heal (2nd)
 
 ---
 
@@ -27,21 +29,21 @@ unique, ne, medium, humanoid, xulgath
 
 Speed 20 feet
 
-**Melee** maul +17 (shove, magical); **Damage** 2d12+3 bludgeoning
+**Melee** ◆ maul +17 (shove, magical); **Damage** 2d12+3 bludgeoning
 
-**Melee** jaws +16; **Damage** 2d8+3 piercing
+**Melee** ◆ jaws +16; **Damage** 2d8+3 piercing
 
-**Melee** claw +16 (agile); **Damage** 2d6+3 slashing
+**Melee** ◆ claw +16 (agile); **Damage** 2d6+3 slashing
 
 **Prepared divine Spells** (DC 24), attack +17
 
   **Cantrips (3rd)** chill touch, divine lance, guidance, shield, produce flame, stabilize, tanglefoot
 
-  **1st** bane, protection, harm
+  **1st** bane, protection, harm (×2)
 
-  **2nd** death knell, see invisibility, harm
+  **2nd** death knell, see invisibility, harm (×2)
 
-  **3rd** chilling darkness, crisis of faith, harm
+  **3rd** chilling darkness, crisis of faith, harm (×3)
 
 **Cantrips** (3rd) .
 

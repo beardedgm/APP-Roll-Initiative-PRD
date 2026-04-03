@@ -5,7 +5,9 @@ n, tiny, animal
 
 ---
 
-**Perception** +3
+**Perception** +3; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +5, Stealth +3
 
 **STR** +1, **DEX** -1, **CON** +4, **INT** -4, **WIS** +1, **CHA** -2
 

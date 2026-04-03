@@ -5,9 +5,11 @@ rare, ne, medium, undead
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision
 
 **Languages** daemonic
+
+**Skills** Acrobatics +32, Athletics +32, Stealth +32
 
 **STR** +6, **DEX** +8, **CON** +7, **INT** -3, **WIS** +4, **CHA** +0
 
@@ -31,9 +33,9 @@ rare, ne, medium, undead
 
 Speed 40 feet
 
-**Melee** fist +34 (agile, finesse); **Damage** 3d8+14 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +34 (agile, finesse); **Damage** 3d8+14 bludgeoning plus Grab plus Grab
 
-**Melee** bloody spew +34 (range <30 feet>); **Damage** 5d6+7 bludgeoning and dazzled for 1 round (or blinded for 1 round on critical hit)
+**Ranged** ◆ bloody spew +34 (range <30 feet>); **Damage** 5d6+7 bludgeoning and dazzled for 1 round (or blinded for 1 round on critical hit)
 
 **Blinding Bile** ◆◆ (acid, evocation) The excorion paragon projects a mist of burning blood in a 10-foot cone. Creatures in the area take 10d8 acid damage and 5d8 bludgeoning damage (basic DC 37 Reflex save). On a failed save, an affected creature is also blinded for 1 round (or 2 rounds on a critical failure). The excorion can't using Blinding Bile again for 1d4 rounds.
 

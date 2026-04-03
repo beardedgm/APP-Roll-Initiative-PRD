@@ -5,13 +5,15 @@ unique, le, medium, catfolk, humanoid
 
 ---
 
-**Perception** +21
+**Perception** +21; low-light vision
 
 **Languages** amurrun, aquan, common, cyclops
 
+**Skills** Acrobatics +22, Athletics +21, Diplomacy +19, Intimidation +21, Society +19, Stealth +21, Survival +19
+
 **STR** +4, **DEX** +5, **CON** +0, **INT** +2, **WIS** +2, **CHA** +4
 
-**Items** dagger, good manacles (3), religious symbol of {@deity Norgorber}, +1 resilient studded leather, +2 striking trident
+**Items** dagger, good manacles (3), religious symbol of Norgorber, +1 resilient studded leather, +2 striking trident
 
 ---
 
@@ -27,11 +29,11 @@ unique, le, medium, catfolk, humanoid
 
 Speed 30 feet
 
-**Melee** trident +24 (magical); **Damage** 2d8+6 piercing
+**Melee** ◆ trident +24 (magical); **Damage** 2d8+6 piercing
 
-**Melee** dagger +23 (agile, finesse, versatile S); **Damage** 1d4+6 piercing
+**Melee** ◆ dagger +23 (agile, finesse, versatile S); **Damage** 1d4+6 piercing
 
-**Melee** dagger +23 (agile, thrown <10 feet>, versatile S); **Damage** 1d4+6 piercing
+**Ranged** ◆ dagger +23 (agile, thrown <10 feet>, versatile S); **Damage** 1d4+6 piercing
 
 **Hampering Strike** A foe that takes damage from Yonsuu's melee Strike is slowed 1 for 1 round (slowed 3 if the Strike is a critical hit).
 

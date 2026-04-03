@@ -5,7 +5,9 @@ n, large, aberration
 
 ---
 
-**Perception** +16
+**Perception** +16; motionsense 30 feet
+
+**Skills** Acrobatics +16
 
 **STR** +4, **DEX** +5, **CON** +2, **INT** -4, **WIS** +4, **CHA** +0
 
@@ -27,7 +29,7 @@ n, large, aberration
 
 Speed 10 feet, fly 25 feet
 
-**Melee** beak +17 (agile, finesse, reach <10 feet>); **Damage** 2d8+6 piercing plus skrik nettle venom plus skrik nettle venom
+**Melee** ◆ beak +17 (agile, finesse, reach <10 feet>); **Damage** 2d8+6 piercing plus skrik nettle venom plus skrik nettle venom
 
 **Negate Levitation** ◆ (evocation, primal) The skrik nettle attempts to counteract (with a modifier of +17) a single effect currently levitating a creature it can detect with its motionsense.
 

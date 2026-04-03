@@ -9,9 +9,11 @@ unique, lg, medium, human, humanoid
 
 **Languages** amurrun, common, elven, iruxi, sylvan, xanmba
 
+**Skills** Arcana +13, Diplomacy +11, Nature +9, Performance +11, Academia Lore +13, Library Lore +13
+
 **STR** -1, **DEX** +2, **CON** +1, **INT** +5, **WIS** +3, **CHA** +1
 
-**Items** {@item anteater mask}, {@item potion of minor healing}, {@item staff}
+**Items** anteater mask, potion of minor healing, staff
 
 ---
 
@@ -27,7 +29,7 @@ unique, lg, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** staff +9 (two-hand <d8>); **Damage** 1d4+1 bludgeoning
+**Melee** ◆ staff +9 (two-hand <d8>); **Damage** 1d4+1 bludgeoning
 
 **Prepared arcane Spells** (DC 21), attack +13
 

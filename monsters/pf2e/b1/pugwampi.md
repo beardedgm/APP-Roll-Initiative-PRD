@@ -5,13 +5,15 @@ ne, tiny, fey, gremlin
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** gnoll, undercommon
 
+**Skills** Crafting +2, Deception +2, Nature +4, Stealth +5, Thievery +5
+
 **STR** -3, **DEX** +3, **CON** +0, **INT** +0, **WIS** +2, **CHA** -2
 
-**Items** shortbow (60 arrows), {@item shortsword}
+**Items** shortbow (60 arrows), shortsword
 
 ---
 
@@ -29,12 +31,12 @@ ne, tiny, fey, gremlin
 
 Speed 25 feet
 
-**Melee** shortsword +8 (agile, finesse, magical, versatile <S>); **Damage** 1d6-3 slashing
+**Melee** ◆ shortsword +8 (agile, finesse, magical, versatile <S>); **Damage** 1d6-3 slashing
 
-**Melee** shortbow +8 (deadly <1d10>, magical, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +8 (deadly <1d10>, magical, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
 
 **Innate primal Spells** (DC 16)
 
   **Cantrips (1st)** prestidigitation
 
-  **2nd** speak with animals
+  **2nd** speak with animals (at will)

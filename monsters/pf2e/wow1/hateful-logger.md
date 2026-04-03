@@ -9,9 +9,11 @@ human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +12, Forest Lore +12, Nature +10, Survival +10
+
 **STR** +4, **DEX** +2, **CON** +4, **INT** +1, **WIS** +0, **CHA** +1
 
-**Items** {@item climbing kit}, {@item hatchet}, {@item padded armor}
+**Items** climbing kit, hatchet, padded armor
 
 ---
 
@@ -29,9 +31,9 @@ human, humanoid
 
 Speed 25 feet
 
-**Melee** fist +14 (agile, nonlethal); **Damage** 1d4+8 bludgeoning
+**Melee** ◆ fist +14 (agile, nonlethal); **Damage** 1d4+8 bludgeoning
 
-**Melee** bite +14; **Damage** 1d6+8 piercing
+**Melee** ◆ bite +14; **Damage** 1d6+8 piercing
 
 **Vitriol** As hateful hodag|WoW1; DC 19
 

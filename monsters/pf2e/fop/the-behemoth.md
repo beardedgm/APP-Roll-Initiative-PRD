@@ -5,9 +5,11 @@ unique, n, large, construct
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
-**Languages** common (can't speak)
+**Languages** common (can't speak); empathy link
+
+**Skills** Athletics +12, Intimidation +7
 
 **STR** +5, **DEX** +1, **CON** +4, **INT** +0, **WIS** +0, **CHA** -2
 
@@ -27,7 +29,7 @@ unique, n, large, construct
 
 Speed 20 feet
 
-**Melee** fist +12 (reach <10 feet>); **Damage** 2d6+5 bludgeoning
+**Melee** ◆ fist +12 (reach <10 feet>); **Damage** 2d6+5 bludgeoning
 
 **Attack of Opportunity** ◈
 

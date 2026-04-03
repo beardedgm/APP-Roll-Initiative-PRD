@@ -5,9 +5,11 @@ uncommon, ne, huge, beast
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision, scent 100 feet (precise)
 
 **Languages** abyssal (can't speak any languages)
+
+**Skills** Acrobatics +25, Athletics +31, Survival +27
 
 **STR** +8, **DEX** +6, **CON** +4, **INT** -3, **WIS** +4, **CHA** -1
 
@@ -33,11 +35,11 @@ uncommon, ne, huge, beast
 
 Speed 40 feet, swim 20 feet
 
-**Melee** jaws +30 (reach <15 feet>); **Damage** 3d10+14 piercing plus 1d10 acid and Grab plus Grab
+**Melee** ◆ jaws +30 (reach <15 feet>); **Damage** 3d10+14 piercing plus 1d10 acid and Grab plus Grab
 
-**Melee** talon +30 (agile, reach <10 feet>); **Damage** 3d10+14 slashing
+**Melee** ◆ talon +30 (agile, reach <10 feet>); **Damage** 3d10+14 slashing
 
-**Melee** tentacle +30 (reach <20 feet>); **Damage** 1d10+14 slashing plus 2d10 persistent bleed
+**Melee** ◆ tentacle +30 (reach <20 feet>); **Damage** 1d10+14 slashing plus 2d10 persistent bleed
 
 **and Grab** ◆ Melee talon +30 (agile, reach <10 feet>), Damage 3d10+14 slashing Melee 1 tentacle +30 (reach <20 feet>), Damage 1d10+14 slashing plus 2d10 persistent bleed.
 

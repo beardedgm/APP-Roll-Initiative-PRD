@@ -5,9 +5,11 @@ uncommon, n, huge, plant
 
 ---
 
-**Perception** +26
+**Perception** +26; emotion sense  60 feet
 
 **Languages** sylvan (can't speak any language)
+
+**Skills** Athletics +30, Deception +25, Stealth +28
 
 **STR** +7, **DEX** +5, **CON** +3, **INT** -2, **WIS** +5, **CHA** +0
 
@@ -38,11 +40,11 @@ uncommon, n, huge, plant
 
 Speed 25 feet
 
-**Melee** frond +30 (deadly <d12>, reach <15 feet>, sweep, versatile <P>); **Damage** 3d10+15 slashing plus 1d6 bleed and Improved Grab
+**Melee** ◆ frond +30 (deadly <d12>, reach <15 feet>, sweep, versatile <P>); **Damage** 3d10+15 slashing plus 1d6 bleed and Improved Grab
 
-**Melee** root +28 (reach <20 feet>, sweep, trip); **Damage** 3d8+15 bludgeoning
+**Melee** ◆ root +28 (reach <20 feet>, sweep, trip); **Damage** 3d8+15 bludgeoning
 
-**Melee** thorn +28 (deadly <d12>, range increment <60 feet>); **Damage** 3d6+15 piercing
+**Ranged** ◆ thorn +28 (deadly <d12>, range increment <60 feet>); **Damage** 3d6+15 piercing
 
 **Constrict** ◆ 2d12+15, DC 36
 

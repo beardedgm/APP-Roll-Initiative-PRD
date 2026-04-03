@@ -5,7 +5,9 @@ n, large, animal, swarm
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision, {@ability tremorsense} 30 feet (imprecise)
+
+**Skills** Acrobatics +9, Athletics +7, Stealth +9
 
 **STR** +2, **DEX** +4, **CON** +3, **INT** -5, **WIS** +0, **CHA** -4
 

@@ -5,9 +5,11 @@ uncommon, n, medium, astral
 
 ---
 
-**Perception** +10
+**Perception** +10; low-light vision, rift sense
 
-**Languages** common
+**Languages** common; telepathy 60 feet
+
+**Skills** Acrobatics +11, Occultism +8, Stealth +9, Survival +8
 
 **STR** +2, **DEX** +4, **CON** +0, **INT** +1, **WIS** +3, **CHA** +1
 
@@ -29,15 +31,15 @@ uncommon, n, medium, astral
 
 Speed 25 feet, fly 30 feet
 
-**Melee** halberd +9 (reach <10 feet>, versatile <S>); **Damage** 1d10+4 piercing
+**Melee** ◆ halberd +9 (reach <10 feet>, versatile <S>); **Damage** 1d10+4 piercing
 
-**Melee** composite longbow +11 (deadly <d10>, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 1d8+3 piercing
+**Ranged** ◆ composite longbow +11 (deadly <d10>, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 1d8+3 piercing
 
 **Innate occult Spells** (DC 18), attack +10
 
   **Cantrips (2nd)** dancing lights, detect magic, telekinetic projectile
 
-  **1st** floating disk
+  **1st** floating disk (at will)
 
 **Astral Recoil** ◆ (occult) **Trigger** The shulsaga's last action was a successful melee Strike against an astral form created by the astral projection|apg ritual or a similar effect; **Frequency** {"unit":"minute","number":1}; The shulsaga attempts to counteract the effect projecting the creature onto the Astral Plane, with the effects of a 5th-level dispel magic spell (counteract modifier +18).
 

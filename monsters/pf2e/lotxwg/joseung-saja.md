@@ -5,13 +5,15 @@ medium, monitor, psychopomp
 
 ---
 
-**Perception** +28
+**Perception** +28; {@ability darkvision}, {@ability lifesense} 60 feet
 
-**Languages** chthonian, diabolic, empyrean, requian
+**Languages** chthonian, diabolic, empyrean, requian; truespeech|PC1
+
+**Skills** Athletics +25, Boneyard Lore +26, Diplomacy +28, Religion +28, Society +24, Stealth +24
 
 **STR** +5, **DEX** +4, **CON** +5, **INT** +4, **WIS** +8, **CHA** +8
 
-**Items** {@runeItem longsword||+2 weapon potency||striking|}
+**Items** 
 
 ---
 
@@ -29,11 +31,13 @@ medium, monitor, psychopomp
 
 Speed 25 feet
 
-**Melee** longsword +29 (versatile <P>); **Damage** 2d8+8 slashing plus reap souls and spirit touch plus reap souls, spirit touch
+**Melee** ◆ longsword +29 (versatile <P>); **Damage** 2d8+8 slashing plus reap souls and spirit touch plus reap souls, spirit touch
 
 **Innate divine Spells** (DC 34)
 
-  **2nd** invisibility
+  **Constant (5th)** truespeech
+
+  **2nd** invisibility (at will)
 
   **4th** talking corpse
 

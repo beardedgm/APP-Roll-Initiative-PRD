@@ -5,9 +5,11 @@ n, medium, elf, human, humanoid
 
 ---
 
-**Perception** +11
+**Perception** +11; low-light vision, trap finder
 
 **Languages** common, elf
+
+**Skills** Acrobatics +12, Arcana +8, Athletics +6, Deception +6, Diplomacy +6, Pathfinder Society Lore +11, Stealth +12, Survival +8, Thievery +10
 
 **STR** +0, **DEX** +4, **CON** +3, **INT** +2, **WIS** +2, **CHA** +0
 
@@ -29,9 +31,11 @@ n, medium, elf, human, humanoid
 
 ---
 
-**Melee** rapier +12 (deadly 1d8, disarm); **Damage** 1d6+6 piercing
+Speed or less, that movement does not trigger reactions.
 
-**Melee** shortbow +12 (deadly d10, range increment 60 feet, reload 0); **Damage** 1d6+2 piercing
+**Melee** ◆ rapier +12 (deadly 1d8, disarm); **Damage** 1d6+6 piercing
+
+**Ranged** ◆ shortbow +12 (deadly d10, range increment 60 feet, reload 0); **Damage** 1d6+2 piercing
 
 **Sneak Attack 2d6**
 

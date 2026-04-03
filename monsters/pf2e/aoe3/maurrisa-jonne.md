@@ -9,6 +9,8 @@ unique, n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +19, Athletics +22, Deception +18, Diplomacy +18, Intimidation +18, Gang Lore +16, Sports Lore +16
+
 **STR** +4, **DEX** +3, **CON** +4, **INT** +0, **WIS** +2, **CHA** +2
 
 **Items** +1 striking handwraps of mighty blows, +1 studded leather
@@ -31,4 +33,4 @@ unique, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** fist +22 (agile, finesse, unarmed); **Damage** 2d6+10 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +22 (agile, finesse, unarmed); **Damage** 2d6+10 bludgeoning plus Grab plus Grab

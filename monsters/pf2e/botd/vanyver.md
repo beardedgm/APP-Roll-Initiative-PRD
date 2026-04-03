@@ -5,7 +5,9 @@ ce, huge, darvakka, shadow, undead
 
 ---
 
-**Perception** +26
+**Perception** +26; greater darkvision, lifesense 60 feet
+
+**Skills** Acrobatics +23, Arcana +23, Athletics +27, Negative Energy Plane Lore +25, Religion +24, Shadow Plane Lore +25, Stealth +25
 
 **STR** +8, **DEX** +4, **CON** +6, **INT** +4, **WIS** +5, **CHA** +5
 
@@ -33,11 +35,11 @@ ce, huge, darvakka, shadow, undead
 
 Speed 25 feet, fly 60 feet
 
-**Melee** jaws +27 (magical, reach <10 feet>); **Damage** 3d10+11 piercing plus 1d10 cold and Drain Magic
+**Melee** ◆ jaws +27 (magical, reach <10 feet>); **Damage** 3d10+11 piercing plus 1d10 cold and Drain Magic
 
-**Melee** talon +27 (magical, reach <10 feet>); **Damage** 3d10+11 bludgeoning plus 1d10 cold and Grab
+**Melee** ◆ talon +27 (magical, reach <10 feet>); **Damage** 3d10+11 bludgeoning plus 1d10 cold and Grab
 
-**Melee** wing +27 (agile, magical, reach <15 feet>); **Damage** 3d6+11 bludgeoning plus 1d10 cold
+**Melee** ◆ wing +27 (agile, magical, reach <15 feet>); **Damage** 3d6+11 bludgeoning plus 1d10 cold
 
 **Innate divine Spells** (DC 34)
 
@@ -45,7 +47,7 @@ Speed 25 feet, fly 60 feet
 
   **4th** darkness, see invisibility
 
-  **6th** dispel magic, harm
+  **6th** dispel magic (at will), harm (×3)
 
   **7th** plane shift
 

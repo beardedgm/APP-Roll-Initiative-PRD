@@ -9,6 +9,8 @@ unique, le, medium, elf, human, humanoid
 
 **Languages** common, elven
 
+**Skills** Acrobatics +11, Arcana +11, Crafting +13, Diplomacy +7, Intimidation +7, Stealth +11
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +4, **WIS** +1, **CHA** +0
 
 **Items** alchemical crossbow, belt pouch (2 pp, 38 gp, 4 sp), bracers of missile deflection, daggers (2), key, leather armor, lesser potion of fire resistance, lesser juggernaut mutagen, lesser stone body mutagen, +1 striking dagger, moderate acid energy mutagen
@@ -25,13 +27,13 @@ unique, le, medium, elf, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +14 (agile, finesse, thrown <10 feet>, versatile); **Damage** 2d4+1 piercing
+**Melee** ◆ dagger +14 (agile, finesse, thrown <10 feet>, versatile); **Damage** 2d4+1 piercing
 
-**Melee** fist +13 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+1 bludgeoning
+**Melee** ◆ fist +13 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+1 bludgeoning
 
-**Melee** alchemical crossbow +13 (range increment <30 feet>, reload <1>); **Damage** 1d8 piercing plus alchemy plus alchemy
+**Ranged** ◆ alchemical crossbow +13 (range increment <30 feet>, reload <1>); **Damage** 1d8 piercing plus alchemy plus alchemy
 
-**Melee** bomb +13 (thrown <30 feet>); **Damage** 
+**Ranged** ◆ bomb +13 (thrown <30 feet>); **Damage** 
 
 **Alchemical Crossbow** Vilree's crossbow can deliver bolts that are alchemically infused. As an action, she can slot an alchemical bomb into the crossbow, and the next 3 attacks she makes with it deal 1d6 damage of the type dealt by the bomb. These attacks never deal splash damage.
 

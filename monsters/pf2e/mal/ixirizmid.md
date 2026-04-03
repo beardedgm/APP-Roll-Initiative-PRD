@@ -5,9 +5,11 @@ unique, ne, medium, fungus
 
 ---
 
-**Perception** +17
+**Perception** +17; low-light vision,, tremorsense (precise)
 
 **Languages** aklo, common, mi-go
+
+**Skills** Acrobatics +16, Arcana +18, Athletics +15, Deception +17, Medicine +21, Occultism +18, Religion +17, Stealth +16, Thievery +16
 
 **STR** +3, **DEX** +6, **CON** +4, **INT** +6, **WIS** +5, **CHA** +3
 
@@ -29,7 +31,7 @@ unique, ne, medium, fungus
 
 Speed 25 feet, fly 40 feet
 
-**Melee** claw +18 (agile, finesse); **Damage** 2d8+5 slashing plus Grab
+**Melee** ◆ claw +18 (agile, finesse); **Damage** 2d8+5 slashing plus Grab
 
 **Clever Disguises** Ixirizmid can use Deception to impersonate any Medium humanoid creature, although creating such a disguise takes 1 hour. They can't impersonate a specific individual with this ability.
 

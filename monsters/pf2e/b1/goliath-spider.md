@@ -5,7 +5,9 @@ n, gargantuan, animal
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision, web sense
+
+**Skills** Acrobatics +18, Athletics +23, Stealth +22
 
 **STR** +8, **DEX** +5, **CON** +7, **INT** -5, **WIS** +3, **CHA** -4
 
@@ -25,9 +27,9 @@ n, gargantuan, animal
 
 Speed 45 feet, climb 30 feet
 
-**Melee** fangs +24 (reach <10 feet>); **Damage** 2d12+12 piercing plus goliath spider venom plus goliath spider venom
+**Melee** ◆ fangs +24 (reach <10 feet>); **Damage** 2d12+12 piercing plus goliath spider venom plus goliath spider venom
 
-**Melee** web +22 (range increment <60 feet>); plus web tether
+**Ranged** ◆ web +22 (range increment <60 feet>); plus web tether
 
 **Descend on a Web** (move) The goliath spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count for falling damage. A creature that successfully Strikes the web (AC 20, Hardness 5, 20 HP) severs it, causing the spider to fall.
 

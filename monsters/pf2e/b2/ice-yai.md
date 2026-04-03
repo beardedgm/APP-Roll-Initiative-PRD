@@ -5,9 +5,11 @@ ce, large, cold, fiend, giant, humanoid, oni
 
 ---
 
-**Perception** +26
+**Perception** +26; greater darkvision
 
 **Languages** common, jotun
+
+**Skills** Acrobatics +24, Arcana +23, Athletics +25, Deception +27, Intimidation +27, Nature +24, Stealth +26
 
 **STR** +8, **DEX** +5, **CON** +5, **INT** +4, **WIS** +5, **CHA** +8
 
@@ -29,17 +31,17 @@ ce, large, cold, fiend, giant, humanoid, oni
 
 Speed 40 feet, fly 40 feet
 
-**Melee** fist +27 (agile, evil, magical, reach <10 feet>); **Damage** 2d8+16 bludgeoning plus 2d6 cold and frozen strike plus frozen strike
+**Melee** ◆ fist +27 (agile, evil, magical, reach <10 feet>); **Damage** 2d8+16 bludgeoning plus 2d6 cold and frozen strike plus frozen strike
 
-**Melee** ice missile +25 (cold, evil, magical, range increment <60 feet>); **Damage** 2d10+12 cold and frozen strike plus frozen strike
+**Ranged** ◆ ice missile +25 (cold, evil, magical, range increment <60 feet>); **Damage** 2d10+12 cold and frozen strike plus frozen strike
 
 **Innate primal Spells** (DC 33)
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
-  **4th** charm, darkness, gaseous form, solid fog
+  **4th** charm (×3), darkness, gaseous form, solid fog
 
-  **6th** cone of cold
+  **6th** cone of cold (×3)
 
   **7th** cone of cold, wall of ice
 

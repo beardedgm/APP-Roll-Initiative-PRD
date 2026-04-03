@@ -5,7 +5,9 @@ unique, n, medium, construct, golem, mindless
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
+
+**Skills** Athletics +23, Kibwe Lore +12
 
 **STR** +6, **DEX** +0, **CON** +4, **INT** -5, **WIS** +3, **CHA** -5
 
@@ -19,7 +21,7 @@ unique, n, medium, construct, golem, mindless
 
 **Immunities** acid, bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 10
+**Resistances** physical 10 (except adamantine)
 
 **Golem Antimagic** harmed by cold and water (5d8; 2d6 from areas and persistent damage); healed by acid (area 2d6 HP); slowed by earth.
 
@@ -29,7 +31,7 @@ unique, n, medium, construct, golem, mindless
 
 Speed 20 feet
 
-**Melee** fist +21 (magical, reach <10 feet>); **Damage** 2d10+10 bludgeoning
+**Melee** ◆ fist +21 (magical, reach <10 feet>); **Damage** 2d10+10 bludgeoning
 
 **Impose Paralysis** ◈ (incapacitation) **Trigger** Cursebreaker hits a slowed creature; The creature must succeed at a DC 27 Fortitude save or become paralyzed for 1 round.
 

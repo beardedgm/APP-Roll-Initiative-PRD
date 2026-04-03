@@ -5,9 +5,11 @@ unique, cn, medium, fey
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision, swarmsense 30 feet (imprecise)
 
-**Languages** aklo, auran, common, sylvan
+**Languages** aklo, auran, common, sylvan; speak with animals
+
+**Skills** Acrobatics +18, Diplomacy +18, Intimidation +20, Medicine +19, Nature +21, Occultism +15, Stealth +22, Survival +21
 
 **STR** +4, **DEX** +6, **CON** +3, **INT** +3, **WIS** +7, **CHA** +4
 
@@ -31,11 +33,13 @@ unique, cn, medium, fey
 
 Speed 30 feet, fly 25 feet, climb 30 feet
 
-**Melee** bite +23 (agile, finesse); **Damage** 2d12+8 piercing plus 1d8 persistent bleed damage
+**Melee** ◆ bite +23 (agile, finesse); **Damage** 2d12+8 piercing plus 1d8 persistent bleed damage
 
-**Melee** swarm strike +23 (range increment <30 feet>); **Damage** 2d10+6 piercing plus dipteric dread plus dipteric dread
+**Ranged** ◆ swarm strike +23 (range increment <30 feet>); **Damage** 2d10+6 piercing plus dipteric dread plus dipteric dread
 
 **Innate primal Spells** (DC 29)
+
+  **Constant (2nd)** speak with animals
 
   **Cantrips (5th)** dancing lights
 
@@ -43,9 +47,9 @@ Speed 30 feet, fly 25 feet, climb 30 feet
 
   **3rd** animal vision
 
-  **4th** pest form
+  **4th** pest form (at will)
 
-  **5th** tree stride, vomit swarm
+  **5th** tree stride, vomit swarm (×2)
 
 **Dipteric Dread** (poison)
 

@@ -5,7 +5,9 @@ n, large, mindless, plant
 
 ---
 
-**Perception** +10
+**Perception** +10; low-light vision, {@ability tremorsense} 30 feet
+
+**Skills** Athletics +9, Stealth +9
 
 **STR** +4, **DEX** +0, **CON** +3, **INT** -5, **WIS** +3, **CHA** +0
 
@@ -27,6 +29,6 @@ n, large, mindless, plant
 
 Speed 5 feet
 
-**Melee** vine +12 (reach <10 feet>); **Damage** 1d8+6 bludgeoning plus Grab plus Grab
+**Melee** ◆ vine +12 (reach <10 feet>); **Damage** 1d8+6 bludgeoning plus Grab plus Grab
 
 **Constrict** ◆ 1d8+4 bludgeoning, DC 20

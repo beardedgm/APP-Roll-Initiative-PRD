@@ -5,9 +5,11 @@ uncommon, n, huge, beast
 
 ---
 
-**Perception** +18
+**Perception** +18; emotion sense 120 feet, low-light vision
 
 **Languages** vudrani (can't speak any language)
+
+**Skills** Athletics +20, Intimidation +18, Survival +18
 
 **STR** +7, **DEX** +1, **CON** +5, **INT** -2, **WIS** +3, **CHA** +3
 
@@ -27,11 +29,11 @@ uncommon, n, huge, beast
 
 Speed 45 feet
 
-**Melee** horn +20 (reach <10 feet>); **Damage** 3d6+9 piercing
+**Melee** ◆ horn +20 (reach <10 feet>); **Damage** 3d6+9 piercing
 
-**Melee** trunk +20 (reach <15 feet>); plus grabbing trunk
+**Melee** ◆ trunk +20 (reach <15 feet>); plus grabbing trunk
 
-**Melee** foot +20 (reach <10 feet>); **Damage** 3d10+9 bludgeoning
+**Melee** ◆ foot +20 (reach <10 feet>); **Damage** 3d10+9 bludgeoning
 
 **Grabbing Trunk** A Medium or smaller creature hit by the teraphant's trunk is grabbed. If the teraphant moves, it can bring the grabbed creature along with it.
 

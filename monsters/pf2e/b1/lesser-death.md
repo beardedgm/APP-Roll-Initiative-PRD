@@ -5,9 +5,11 @@ rare, ne, medium, undead
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision, see invisibility, status sight, true seeing
 
 **Languages** common, necril
+
+**Skills** Acrobatics +33, Athletics +28, Deception +30, Intimidation +32, Religion +30, Society +26, Stealth +35
 
 **STR** +6, **DEX** +9, **CON** +6, **INT** +4, **WIS** +6, **CHA** +6
 
@@ -37,8 +39,14 @@ rare, ne, medium, undead
 
 Speed 50 feet, fly 40 feet
 
-**Melee** keen scythe +32 (agile, deadly <2d10>, magical, reach <10 feet>, trip); **Damage** 3d10+14 slashing plus 1d12 negative
+**Melee** ◆ keen scythe +32 (agile, deadly <2d10>, magical, reach <10 feet>, trip); **Damage** 3d10+14 slashing plus 1d12 negative
 
 **Innate divine Spells** (DC 38)
+
+  **Constant (6th)** true seeing
+
+  **Constant (3rd)** haste
+
+  **Constant (2nd)** see invisibility
 
 **Infuse Weapon** (divine, evocation) Any scythe gains the agile trait, can't be disarmed, and becomes a +2 greater striking keen scythe while the lesser death wields it.

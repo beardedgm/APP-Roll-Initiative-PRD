@@ -9,6 +9,8 @@ uncommon, ln, medium, human, humanoid
 
 **Languages** goblin, taldane, tien
 
+**Skills** Acrobatics +29, Athletics +30, Performance +26
+
 **STR** +5, **DEX** +4, **CON** +4, **INT** +0, **WIS** +4, **CHA** +1
 
 ---
@@ -23,11 +25,11 @@ uncommon, ln, medium, human, humanoid
 
 Speed 45 feet
 
-**Melee** fist +27 (agile, magical, unarmed); **Damage** 3d6+13 bludgeoning plus 1d6 acid, cold, electricity, or fire plus cold, electricity, or fire
+**Melee** ◆ fist +27 (agile, magical, unarmed); **Damage** 3d6+13 bludgeoning plus 1d6 acid, cold, electricity, or fire plus cold, electricity, or fire
 
-**Melee** tornado lunge +27 (agile, reach <10 feet>, unarmed); **Damage** 3d8+13 bludgeoning plus 1d6 acid, cold, electricity, or fire plus Improved Knockdown plus cold, electricity, or fire, Improved Knockdown
+**Melee** ◆ tornado lunge +27 (agile, reach <10 feet>, unarmed); **Damage** 3d8+13 bludgeoning plus 1d6 acid, cold, electricity, or fire plus Improved Knockdown plus cold, electricity, or fire, Improved Knockdown
 
-**Melee** wind crash +27 (agile, nonlethal, propulsive, range <30 feet>, unarmed); **Damage** 3d6+13 bludgeoning plus 1d6 acid, cold, electricity, or fire plus cold, electricity, or fire
+**Ranged** ◆ wind crash +27 (agile, nonlethal, propulsive, range <30 feet>, unarmed); **Damage** 3d6+13 bludgeoning plus 1d6 acid, cold, electricity, or fire plus cold, electricity, or fire
 
 **Flurry of Blows** ◆ (flourish) The monk makes two Strikes with their fists. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.
 

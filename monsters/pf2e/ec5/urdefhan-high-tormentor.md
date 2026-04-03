@@ -5,9 +5,11 @@ ne, medium, humanoid, urdefhan
 
 ---
 
-**Perception** +22
+**Perception** +22; greater darkvision
 
 **Languages** aklo, daemonic, undercommon
+
+**Skills** Acrobatics +18, Crafting +19, Intimidation +21, Occultism +22, Religion +22
 
 **STR** +5, **DEX** +2, **CON** +3, **INT** +1, **WIS** +6, **CHA** +3
 
@@ -31,17 +33,17 @@ ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** warhammer +21 (magical, shove); **Damage** 2d8+11 bludgeoning
+**Melee** ◆ warhammer +21 (magical, shove); **Damage** 2d8+11 bludgeoning
 
-**Melee** jaws +21 (agile); **Damage** 3d6+11 piercing plus wicked bite plus wicked bite
+**Melee** ◆ jaws +21 (agile); **Damage** 3d6+11 piercing plus wicked bite plus wicked bite
 
 **Innate divine Spells** (DC 30), attack +22
 
-  **1st** feather fall, grim tendrils, ray of enfeeblement
+  **1st** feather fall, grim tendrils, ray of enfeeblement (×2)
 
   **2nd** darkness, death knell, false life, silence
 
-  **3rd** harm, paralyze
+  **3rd** harm (×2), paralyze (×2)
 
   **4th** acid arrow, phantasmal killer, spiritual weapon
 

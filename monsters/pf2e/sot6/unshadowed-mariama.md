@@ -9,6 +9,8 @@ unique, ce, medium, human, humanoid
 
 **Languages** common, dwarven, gnoll, sylvan
 
+**Skills** Academia Lore +35, Deception +31, Intimidation +29, Occultism +35, Religion +31, Stealth +31
+
 **STR** +1, **DEX** +3, **CON** +4, **INT** +5, **WIS** +4, **CHA** +3
 
 ---
@@ -31,7 +33,7 @@ unique, ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** fist +28 (agile, finesse, nonlethal); **Damage** 3d4+4 bludgeoning
+**Melee** ◆ fist +28 (agile, finesse, nonlethal); **Damage** 3d4+4 bludgeoning
 
 **Prepared occult Spells** (DC 40), attack +32
 
@@ -57,7 +59,7 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 40), attack +32
 
-  **9th** shadow blast, shadow siphon
+  **9th** shadow blast (×2), shadow siphon (×2)
 
 **Witch Hexes** (DC 40)
 

@@ -5,9 +5,11 @@ ce, medium, humanoid, xulgath
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
 **Languages** draconic, undercommon
+
+**Skills** Acrobatics +8, Stealth +8, Thievery +8
 
 **STR** +3, **DEX** +4, **CON** +2, **INT** -1, **WIS** +1, **CHA** +0
 
@@ -29,13 +31,13 @@ ce, medium, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** dagger +10 (agile, finesse, versatile <S>); **Damage** 1d4+3 piercing
+**Melee** ◆ dagger +10 (agile, finesse, versatile <S>); **Damage** 1d4+3 piercing
 
-**Melee** jaws +9; **Damage** 1d6+3 piercing
+**Melee** ◆ jaws +9; **Damage** 1d6+3 piercing
 
-**Melee** claw +10 (agile, finesse); **Damage** 1d4+3 slashing
+**Melee** ◆ claw +10 (agile, finesse); **Damage** 1d4+3 slashing
 
-**Melee** dagger +10 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+3 piercing
+**Ranged** ◆ dagger +10 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+3 piercing
 
 **Hidden Movement** If a xulgath skulker starts its turn undetected by a creature or merely hidden from it, that creature is flat-footed against the skulker's attacks until the end of the skulker's turn.
 

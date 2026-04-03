@@ -5,9 +5,11 @@ ce, large, giant, humanoid
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** jotun
+
+**Skills** Athletics +12, Intimidation +10, Survival +6
 
 **STR** +6, **DEX** -1, **CON** +4, **INT** -2, **WIS** +0, **CHA** -2
 
@@ -25,9 +27,9 @@ ce, large, giant, humanoid
 
 Speed 30 feet
 
-**Melee** greataxe +14 (reach <10 feet>, sweep); **Damage** 1d12+8 slashing
+**Melee** ◆ greataxe +14 (reach <10 feet>, sweep); **Damage** 1d12+8 slashing
 
-**Melee** jaws +14; **Damage** 1d8+8 piercing plus Grab and glutton's feast plus Grab, glutton's feast
+**Melee** ◆ jaws +14; **Damage** 1d8+8 piercing plus Grab and glutton's feast plus Grab, glutton's feast
 
 **Glutton's Feast** If the ogre glutton damages a living creature with their jaws Strike, they gain 1d4 temporary Hit Points for 1 minute.
 

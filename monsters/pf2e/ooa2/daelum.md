@@ -5,9 +5,11 @@ rare, n, large, construct
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** common, kelish, osiriani
+
+**Skills** Athletics +11, Mining Lore +10, Survival +11
 
 **STR** +5, **DEX** +3, **CON** +5, **INT** +2, **WIS** +3, **CHA** +0
 
@@ -29,11 +31,11 @@ rare, n, large, construct
 
 Speed 25 feet
 
-**Melee** pick +13 (fatal <d10>, reach <10 feet>); **Damage** 1d6+7 piercing
+**Melee** ◆ pick +13 (fatal <d10>, reach <10 feet>); **Damage** 1d6+7 piercing
 
-**Melee** claw +13 (agile, reach <10 feet>); **Damage** 2d4+7 slashing
+**Melee** ◆ claw +13 (agile, reach <10 feet>); **Damage** 2d4+7 slashing
 
-**Melee** hoof +13; **Damage** 2d6+7 bludgeoning
+**Melee** ◆ hoof +13; **Damage** 2d6+7 bludgeoning
 
 **Belly Hatch** The daelum can Interact to stow or remove an item from their belly hatch, which can hold up to 10 Bulk.
 

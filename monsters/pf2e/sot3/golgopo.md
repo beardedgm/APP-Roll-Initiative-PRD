@@ -5,9 +5,11 @@ uncommon, n, small, construct
 
 ---
 
-**Perception** +16
+**Perception** +16; low-light vision
 
 **Languages** cyclops
+
+**Skills** Acrobatics +16, Occultism +20
 
 **STR** +2, **DEX** +4, **CON** +5, **INT** +6, **WIS** +2, **CHA** -2
 
@@ -33,7 +35,7 @@ uncommon, n, small, construct
 
 Speed 15 feet, climb 15 feet
 
-**Melee** fist +18 (finesse); **Damage** 2d8+5 bludgeoning
+**Melee** ◆ fist +18 (finesse); **Damage** 2d8+5 bludgeoning
 
 **Innate occult Spells** (DC 26)
 
@@ -41,7 +43,7 @@ Speed 15 feet, climb 15 feet
 
   **2nd** augury, paranoia, restore senses
 
-  **3rd** locate, nondetection
+  **3rd** locate, nondetection (×2)
 
   **4th** read omens, seal fate
 

@@ -5,9 +5,11 @@ n, tiny, elemental, fire
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision, smoke vision
 
 **Languages** ignan
+
+**Skills** Acrobatics +5, Stealth +7, Plane Of Fire Lore +4
 
 **STR** +2, **DEX** +3, **CON** +2, **INT** +0, **WIS** +2, **CHA** +0
 
@@ -33,6 +35,6 @@ n, tiny, elemental, fire
 
 Speed 40 feet, fly 15 feet
 
-**Melee** tendril +6 (reach <10 feet>); **Damage** 1d4 fire plus 1 persistent fire
+**Melee** ◆ tendril +6 (reach <10 feet>); **Damage** 1d4 fire plus 1 persistent fire
 
 **In Concert** When an fire wisp rolls a critical failure on a check to Aid, they get a failure instead, and when they roll a success, they get a critical success instead.

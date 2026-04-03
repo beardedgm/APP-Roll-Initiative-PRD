@@ -5,9 +5,11 @@ unique, cn, medium, elf, humanoid
 
 ---
 
-**Perception** +20
+**Perception** +20; low-light vision
 
 **Languages** common, draconic, elven, halfling, infernal, shadowtongue
+
+**Skills** Acrobatics +17, Arcana +18, Deception +22, Diplomacy +21, Intimidation +18, Occultism +16, Society +20, Stealth +19, Thievery +22, Kintargo Lore +16
 
 **STR** +0, **DEX** +5, **CON** +1, **INT** +4, **WIS** +3, **CHA** +4
 
@@ -29,9 +31,9 @@ unique, cn, medium, elf, humanoid
 
 Speed 30 feet
 
-**Melee** rapier +22 (deadly <1d8>, disarm, magical, finesse); **Damage** 2d6+11 piercing
+**Melee** ◆ rapier +22 (deadly <1d8>, disarm, magical, finesse); **Damage** 2d6+11 piercing
 
-**Melee** hand crossbow +22 (magical); **Damage** 1d6+6 piercing
+**Ranged** ◆ hand crossbow +22 (magical); **Damage** 1d6+6 piercing
 
 **Spontaneous occult Spells** (DC 29), attack +23
 

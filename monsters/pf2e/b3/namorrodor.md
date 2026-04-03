@@ -5,7 +5,9 @@ ce, medium, shadow, undead
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision, lifesense 30 feet
+
+**Skills** Acrobatics +12, Athletics +13, Stealth +14, Survival +11
 
 **STR** +4, **DEX** +5, **CON** +3, **INT** +3, **WIS** +2, **CHA** +0
 
@@ -29,10 +31,10 @@ ce, medium, shadow, undead
 
 Speed 40 feet
 
-**Melee** jaws +15; **Damage** 2d8+6 piercing
+**Melee** ◆ jaws +15; **Damage** 2d8+6 piercing
 
-**Melee** claw +15 (agile); **Damage** 2d6+6 piercing plus Grab plus Grab
+**Melee** ◆ claw +15 (agile); **Damage** 2d6+6 piercing plus Grab plus Grab
 
-**Melee** spit +14 (range <30 feet>); **Damage** 1d8+6 bludgeoning
+**Ranged** ◆ spit +14 (range <30 feet>); **Damage** 1d8+6 bludgeoning
 
 **Bounding Sprint** ◆◆ **Requirements** The namorrodor has nothing in its hands; The namorrodor bounds forward, using four limbs for an extra burst of speed. It Strides twice and makes a single melee Strike at the end of its movement.

@@ -9,9 +9,11 @@ unique, le, medium, human, humanoid
 
 **Languages** common, draconic, dwarven, gnoll, kelesh, osiriani
 
+**Skills** Acrobatics +37, Arcana +33, Athletics +37, Deception +40, Diplomacy +37, Intimidation +40, Society +27, Stealth +31, Thievery +33, Underworld Lore +31
+
 **STR** +9, **DEX** +7, **CON** +5, **INT** +7, **WIS** +8, **CHA** +9
 
-**Items** +2 greater resilient chain mail, +2 striking returning dagger, superior manacles, {@item oblivion essence|AoA5}, +3 major striking speed scimitar, steel shield with +2 greater striking shield spikes (Hardness 5, HP 20, BT 10), wasp trapped in amber (portal key), {@item weeping midnight|AoA5}, winged boots
+**Items** +2 greater resilient chain mail, +2 striking returning dagger, superior manacles, oblivion essence|AoA5, +3 major striking speed scimitar, steel shield with +2 greater striking shield spikes (Hardness 5, HP 20, BT 10), wasp trapped in amber (portal key), weeping midnight|AoA5, winged boots
 
 ---
 
@@ -33,11 +35,11 @@ unique, le, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** speed scimitar +37 (forceful, magical, sweep); **Damage** 4d6+17 slashing
+**Melee** ◆ speed scimitar +37 (forceful, magical, sweep); **Damage** 4d6+17 slashing
 
-**Melee** shield spikes +36 (magical); **Damage** 3d6+17 piercing
+**Melee** ◆ shield spikes +36 (magical); **Damage** 3d6+17 piercing
 
-**Melee** dagger +34 (agile, thrown <10 feet>, versatile <S>); **Damage** 4d4+12 piercing
+**Ranged** ◆ dagger +34 (agile, thrown <10 feet>, versatile <S>); **Damage** 4d4+12 piercing
 
 **Slash and Slam** ◆◆ Uri makes two Strikes: one with his scimitar and one with his shield spikes. If both hit, the overwhelming power of the attack leaves the target stunned|CRB|stunned 1 (stunned|CRB|stunned 2 if one of the Strikes was a critical hit, or stunned|CRB|stunned 3 if both Strikes were critical hits). These Strikes count as one attack for Uri's multiple attack penalty, and the penalty doesn't increase until after both attacks.
 

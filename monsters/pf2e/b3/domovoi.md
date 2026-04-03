@@ -5,9 +5,11 @@ cg, tiny, fey
 
 ---
 
-**Perception** +11
+**Perception** +11; {@ability tremorsense} within their entire bound home (imprecise)
 
 **Languages** common, sylvan
+
+**Skills** Crafting +9, Stealth +7, Household Lore +11
 
 **STR** +1, **DEX** +3, **CON** +1, **INT** +3, **WIS** +5, **CHA** +1
 
@@ -29,14 +31,14 @@ cg, tiny, fey
 
 Speed 20 feet
 
-**Melee** broom +7; **Damage** 1d4+3 bludgeoning
+**Melee** ◆ broom +7; **Damage** 1d4+3 bludgeoning
 
-**Melee** enraged home +9 (evocation, primal, range increment <30 feet>); **Damage** 1d8+4 bludgeoning, piercing, or slashing (depending on object) plus piercing, or slashing (depending on object)
+**Ranged** ◆ enraged home +9 (evocation, primal, range increment <30 feet>); **Damage** 1d8+4 bludgeoning, piercing, or slashing (depending on object) plus piercing, or slashing (depending on object)
 
 **Innate primal Spells** (DC 18)
 
   **Cantrips (1st)** mage hand, prestidigitation, telekinetic projectile
 
-  **1st** mending
+  **1st** mending (at will)
 
 **Home Guardian** By commanding their home to attack, the domovoi can Grapple, Shove, Trip, and Disarm with their enraged home Strike. The domovoi uses their Household Lore instead of Athletics skill for these checks.

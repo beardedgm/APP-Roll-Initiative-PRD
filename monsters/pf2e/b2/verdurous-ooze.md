@@ -5,7 +5,9 @@ n, medium, mindless, ooze
 
 ---
 
-**Perception** +8
+**Perception** +8; motion sense 60 feet, no vision
+
+**Skills** Athletics +15, Stealth +4
 
 **STR** +5, **DEX** -4, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -31,7 +33,7 @@ n, medium, mindless, ooze
 
 Speed 15 feet
 
-**Melee** pseudopod +15; **Damage** 2d6+7 bludgeoning plus 1d6 acid and Grab plus Grab
+**Melee** ◆ pseudopod +15; **Damage** 2d6+7 bludgeoning plus 1d6 acid and Grab plus Grab
 
 **Constrict** ◆ 2d6 bludgeoning plus 1d6 acid, DC 24
 

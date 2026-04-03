@@ -5,9 +5,11 @@ n, large, beast
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** common, elven, sylvan
+
+**Skills** Athletics +11, Diplomacy +6, Intimidation +6, Nature +7, Survival +7
 
 **STR** +4, **DEX** +2, **CON** +1, **INT** +0, **WIS** +2, **CHA** +1
 
@@ -27,12 +29,12 @@ n, large, beast
 
 Speed 40 feet
 
-**Melee** hoof +9 (agile); **Damage** 1d10+4 bludgeoning
+**Melee** ◆ hoof +9 (agile); **Damage** 1d10+4 bludgeoning
 
-**Melee** longsword +11 (versatile <P>); **Damage** 1d8+4 slashing
+**Melee** ◆ longsword +11 (versatile <P>); **Damage** 1d8+4 slashing
 
-**Melee** spear +11; **Damage** 1d6+4 piercing
+**Melee** ◆ spear +11; **Damage** 1d6+4 piercing
 
-**Melee** spear +9 (thrown <20 feet>); **Damage** 1d6+4 piercing
+**Ranged** ◆ spear +9 (thrown <20 feet>); **Damage** 1d6+4 piercing
 
 **Trample** ◆◆◆ Medium or smaller, hoof, DC 18

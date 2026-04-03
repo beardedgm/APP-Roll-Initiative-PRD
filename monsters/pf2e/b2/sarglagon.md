@@ -5,9 +5,11 @@ le, large, amphibious, devil, fiend
 
 ---
 
-**Perception** +18
+**Perception** +18; greater darkvision, see invisibility
 
-**Languages** celestial, infernal
+**Languages** celestial, infernal; telepathy 100 feet
+
+**Skills** Arcana +14, Athletics +18, Deception +15, Diplomacy +15, Intimidation +17, Stealth +15
 
 **STR** +6, **DEX** +3, **CON** +4, **INT** +2, **WIS** +4, **CHA** +3
 
@@ -21,7 +23,7 @@ le, large, amphibious, devil, fiend
 
 **Immunities** fire
 
-**Resistances** physical 5, poison 10
+**Resistances** physical 5 (except silver), poison 10
 
 **Weaknesses** good 5
 
@@ -35,13 +37,15 @@ le, large, amphibious, devil, fiend
 
 Speed 25 feet, fly 25 feet, swim 30 feet
 
-**Melee** fangs +20 (evil, magical); **Damage** 2d12+9 piercing plus 1d6 evil
+**Melee** ◆ fangs +20 (evil, magical); **Damage** 2d12+9 piercing plus 1d6 evil
 
-**Melee** tentacle arm +20 (agile, evil, magical); **Damage** 2d8+9 bludgeoning plus 1d6 evil and sarglagon venom plus sarglagon venom
+**Melee** ◆ tentacle arm +20 (agile, evil, magical); **Damage** 2d8+9 bludgeoning plus 1d6 evil and sarglagon venom plus sarglagon venom
 
 **Innate divine Spells** (DC 23), attack +18
 
-  **4th** dimension door, freedom of movement, hydraulic torrent
+  **Constant (2nd)** see invisibility
+
+  **4th** dimension door (at will), freedom of movement, hydraulic torrent
 
   **5th** control water, dimension door
 

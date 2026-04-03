@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +11
+**Perception** +11; echolocation 40 feet (precise), low-light vision
+
+**Skills** Acrobatics +8, Athletics +8, Stealth +8
 
 **STR** +4, **DEX** +2, **CON** +3, **INT** -4, **WIS** +3, **CHA** -2
 
@@ -25,6 +27,6 @@ n, large, animal
 
 Speed 15 feet, fly 30 feet
 
-**Melee** fangs +10; **Damage** 1d10+4 slashing
+**Melee** ◆ fangs +10; **Damage** 1d10+4 slashing
 
-**Melee** wing +10 (agile); **Damage** 1d6+4 piercing
+**Melee** ◆ wing +10 (agile); **Damage** 1d6+4 piercing

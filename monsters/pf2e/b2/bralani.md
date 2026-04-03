@@ -5,9 +5,11 @@ cg, medium, azata, celestial
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Acrobatics +13, Deception +15, Diplomacy +15, Stealth +15, Games Lore +14
 
 **STR** +5, **DEX** +5, **CON** +3, **INT** +2, **WIS** +4, **CHA** +5
 
@@ -27,19 +29,21 @@ cg, medium, azata, celestial
 
 Speed 30 feet, fly 80 feet
 
-**Melee** scimitar +16 (forceful, sweep); **Damage** 1d6+8 slashing plus 2d6 electricity and 1d6 good
+**Melee** ◆ scimitar +16 (forceful, sweep); **Damage** 1d6+8 slashing plus 2d6 electricity and 1d6 good
 
-**Melee** composite longbow +18 (deadly <1d10>, reload <0>, volley <30 feet>); **Damage** 1d8+6 plus 1d6 electricity and 1d6 good plus 1d8+6
+**Ranged** ◆ composite longbow +18 (deadly <1d10>, reload <0>, volley <30 feet>); **Damage** 1d8+6 plus 1d6 electricity and 1d6 good plus 1d8+6
 
 **Innate divine Spells** (DC 24)
 
-  **1st** gust of wind
+  **Constant (5th)** tongues
+
+  **1st** gust of wind (at will)
 
   **2nd** calm emotions
 
   **3rd** heal, lightning bolt, wall of wind
 
-  **4th** gaseous form
+  **4th** gaseous form (at will)
 
 **Fair Competition** (divine, enchantment, mental) Once per day, a bralani can spend 1 minute to bless willing creatures within 100 feet who are about to participate in a contest. This blessing lasts 24 hours. If a blessed creature cheats or uses the contest to harm another, the creature grows visibly ill, becoming sickened 1 and unable to remove this condition for the duration or until they withdraw from the competition. At the end of the contest, participants who competed fairly find it easier to negotiate and understand their opponent's perspective. For 1 hour, they gain a +2 status bonus to Diplomacy checks and Recall Knowledge checks that directly pertain to their opponents.
 

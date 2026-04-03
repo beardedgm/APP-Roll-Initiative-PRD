@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +10
+**Perception** +10; low-light vision, scent 60 feet (imprecise)
+
+**Skills** Acrobatics +9, Athletics +8, Stealth +9
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** -4, **WIS** +1, **CHA** +0
 
@@ -23,8 +25,8 @@ n, medium, animal
 
 Speed 25 feet
 
-**Melee** jaws +11 (finesse); **Damage** 1d12+5 piercing plus Grab plus Grab
+**Melee** ◆ jaws +11 (finesse); **Damage** 1d12+5 piercing plus Grab plus Grab
 
-**Melee** claw +11 (agile, finesse); **Damage** 1d10+5 slashing
+**Melee** ◆ claw +11 (agile, finesse); **Damage** 1d10+5 slashing
 
 **Constrict** ◆ 1d12+2 piercing, DC 20

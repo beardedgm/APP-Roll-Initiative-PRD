@@ -5,7 +5,9 @@ n, gargantuan, construct, mindless
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
+
+**Skills** Athletics +30
 
 **STR** +9, **DEX** +2, **CON** +8, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -29,11 +31,11 @@ n, gargantuan, construct, mindless
 
 Speed 20 feet
 
-**Melee** arm +28 (magical, reach <15 feet>); **Damage** 3d12+11 bludgeoning plus Grab
+**Melee** ◆ arm +28 (magical, reach <15 feet>); **Damage** 3d12+11 bludgeoning plus Grab
 
-**Melee** spear +28 (magical, reach <20 feet>); **Damage** 3d12+11 piercing
+**Melee** ◆ spear +28 (magical, reach <20 feet>); **Damage** 3d12+11 piercing
 
-**Melee** sunfire beam +28 (fire, evocation, magical, range increment <100 feet>); **Damage** 3d8+11 fire
+**Ranged** ◆ sunfire beam +28 (fire, evocation, magical, range increment <100 feet>); **Damage** 3d8+11 fire
 
 **Beam of the Seven Suns** ◆◆ (divine, evocation, fire) The sun-spire collects solar energy and uses the energy to create a deadly beam of fire. It fires the beam in a 120-foot line, dealing 11d8 fire damage to all creatures in the line (DC 33 basic Reflex save). The concentrated beam ignites everything in its path, including the air, creating a wall of burning flame along the line that continues to burn until the end of the sun-spire's next turn. This wall has the effects of a 5th-level wall of fire spell, dealing 5d6 fire damage to any creature that crosses the wall or occupies the wall's area at the start of its turn. The sun-spire can't use the Beam of the Seven Suns again for 1d4 rounds, although rounds it's not in sunlight don't count toward this number.
 

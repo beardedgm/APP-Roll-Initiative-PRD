@@ -5,9 +5,11 @@ ne, large, fiend, sahkil
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, true seeing
 
-**Languages** abyssal, celestial, infernal, requian
+**Languages** abyssal, celestial, infernal, requian; telepathy 100 feet
+
+**Skills** Arcana +27, Deception +33, Intimidation +33, Occultism +27, Religion +30, Stealth +28
 
 **STR** +9, **DEX** +3, **CON** +9, **INT** +2, **WIS** +5, **CHA** +8
 
@@ -31,15 +33,17 @@ ne, large, fiend, sahkil
 
 Speed 40 feet, fly 40 feet, climb 20 feet
 
-**Melee** jaws +34 (magical, reach <10 feet>); **Damage** 3d12+17 piercing plus 2d6 evil and sensory fever (page 222) plus sensory fever (page 222)
+**Melee** ◆ jaws +34 (magical, reach <10 feet>); **Damage** 3d12+17 piercing plus 2d6 evil and sensory fever (page 222) plus sensory fever (page 222)
 
-**Melee** claw +34 (agile, magical, reach <15 feet>); **Damage** 3d8+17 slashing plus 2d6 evil and sensory fever (page 222) plus sensory fever (page 222)
+**Melee** ◆ claw +34 (agile, magical, reach <15 feet>); **Damage** 3d8+17 slashing plus 2d6 evil and sensory fever (page 222) plus sensory fever (page 222)
 
 **Innate divine Spells** (DC 38)
 
+  **Constant (9th)** fly, true seeing
+
   **Cantrips (9th)** detect magic
 
-  **8th** fear, horrid wilting, Bestiary 3 222 maze, suggestion
+  **8th** fear (at will), horrid wilting (×3), Bestiary 3 222 maze (×3), suggestion (at will)
 
 **Isolate Foes** ◆◆ (curse, divine, emotion, enchantment, incapacitation, mental) **Frequency** {"unit":"day","number":1}; The ximtal attempts to isolate its enemy's companions, forcing an impression that each creature's friends and allies have vanished and they are all alone against an insurmountable threat. The ximtal chooses up to four creatures, each of whom must be adjacent to one other target. Each target must attempt a DC 38 Will save. On a failure, a target becomes out of phase with all allies. The affected creatures can't perceive their allies or interact with them in any way, and they can move into allies' spaces as if their allies simply weren't there. Allies similarly can't perceive or interact with the affected creatures with one exception: an ally can target an effected creature with remove curse to remove the effects. Every 24 hours, an affected creature can attempt a new saving throw to end this effect.
 

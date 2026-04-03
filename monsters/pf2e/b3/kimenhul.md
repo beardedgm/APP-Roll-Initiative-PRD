@@ -5,9 +5,11 @@ ne, huge, fiend, sahkil
 
 ---
 
-**Perception** +35
+**Perception** +35; darkvision, true seeing
 
-**Languages** abyssal, celestial, infernal, requian
+**Languages** abyssal, celestial, infernal, requian; telepathy
+
+**Skills** Acrobatics +36, Arcana +33, Athletics +38, Deception +38, Occultism +33, Religion +35, Stealth +36
 
 **STR** +10, **DEX** +8, **CON** +9, **INT** +5, **WIS** +7, **CHA** +7
 
@@ -33,15 +35,17 @@ ne, huge, fiend, sahkil
 
 Speed 45 feet, climb 25 feet
 
-**Melee** jaws +38 (magical, reach <15 feet>); **Damage** 4d12+18 piercing plus 3d6 evil
+**Melee** ◆ jaws +38 (magical, reach <15 feet>); **Damage** 4d12+18 piercing plus 3d6 evil
 
-**Melee** claw +38 (agile, magical, reach <15 feet>); **Damage** 4d8+18 slashing plus 3d6 evil and Improved Grab plus Improved Grab
+**Melee** ◆ claw +38 (agile, magical, reach <15 feet>); **Damage** 4d8+18 slashing plus 3d6 evil and Improved Grab plus Improved Grab
 
 **Innate divine Spells** (DC 42)
 
+  **Constant (9th)** mind blank, true seeing
+
   **Cantrips (10th)** detect magic
 
-  **9th** confusion, dispel magic, fear, mask of terror, phantasmal calamity, suggestion, warp mind, weird
+  **9th** confusion, dispel magic (at will), fear (at will), mask of terror (at will), phantasmal calamity, suggestion (at will), warp mind, weird
 
 **Eternal Fear** ◆◆ (divine, emotion, enchantment, fear, incapacitation, mental) The kimenhul contorts its faces and presents itself to its enemies in a terrifying and traumatic display that causes lingering fear. Each creature within 100 feet that can observe the kimenhul must make a DC 42 Will save. They are then temporarily immune for 10 minutes. **Critical Success** The target is unaffected.
 **Success** The target becomes frightened 3.

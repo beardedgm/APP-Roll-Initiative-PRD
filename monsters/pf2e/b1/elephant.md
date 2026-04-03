@@ -5,7 +5,9 @@ n, huge, animal
 
 ---
 
-**Perception** +13
+**Perception** +13; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +17, Survival +15
 
 **STR** +7, **DEX** +0, **CON** +4, **INT** -4, **WIS** +2, **CHA** -2
 
@@ -21,11 +23,11 @@ n, huge, animal
 
 Speed 40 feet
 
-**Melee** tusk +16 (reach <10 feet>); **Damage** 3d8+9 piercing
+**Melee** ◆ tusk +16 (reach <10 feet>); **Damage** 3d8+9 piercing
 
-**Melee** trunk +18 (reach <15 feet>); plus grabbing trunk
+**Melee** ◆ trunk +18 (reach <15 feet>); plus grabbing trunk
 
-**Melee** foot +16 (reach <10 feet>); **Damage** 2d10+9 bludgeoning
+**Melee** ◆ foot +16 (reach <10 feet>); **Damage** 2d10+9 bludgeoning
 
 **Grabbing Trunk** A Medium or smaller creature hit by the elephant's trunk is grabbed. If the elephant moves, it can bring the grabbed creature along with it.
 

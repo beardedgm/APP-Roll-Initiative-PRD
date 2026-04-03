@@ -5,9 +5,11 @@ uncommon, ce, large, fiend, qlippoth
 
 ---
 
-**Perception** +25
+**Perception** +25; greater darkvision, scent 30 feet (imprecise)
 
-**Languages** abyssal
+**Languages** abyssal; telepathy 100 feet
+
+**Skills** Acrobatics +22, Athletics +25, Intimidation +25, Occultism +22
 
 **STR** +7, **DEX** +4, **CON** +5, **INT** +4, **WIS** +7, **CHA** +5
 
@@ -21,7 +23,7 @@ uncommon, ce, large, fiend, qlippoth
 
 **Immunities** controlled, fear
 
-**Resistances** mental 10, physical 10
+**Resistances** mental 10, physical 10 (except cold iron)
 
 **Weaknesses** lawful 10
 
@@ -31,17 +33,19 @@ uncommon, ce, large, fiend, qlippoth
 
 ---
 
-Speed 30 feet
+Speed 30 feet, air walk
 
-**Melee** jaws +26 (chaotic, magical); **Damage** 3d10+13 piercing plus 1d6 chaotic and rupturing venom plus rupturing venom
+**Melee** ◆ jaws +26 (chaotic, magical); **Damage** 3d10+13 piercing plus 1d6 chaotic and rupturing venom plus rupturing venom
 
-**Melee** tentacle mouth +26 (agile, chaotic, magical, reach <15 feet>); **Damage** 3d6+13 piercing plus 1d6 chaotic
+**Melee** ◆ tentacle mouth +26 (agile, chaotic, magical, reach <15 feet>); **Damage** 3d6+13 piercing plus 1d6 chaotic
 
 **Innate occult Spells** (DC 32)
 
+  **Constant (4th)** air walk
+
   **Cantrips (6th)** daze, detect magic
 
-  **4th** darkness
+  **4th** darkness (at will)
 
   **5th** subconscious suggestion
 

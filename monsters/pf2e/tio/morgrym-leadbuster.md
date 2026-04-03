@@ -5,11 +5,13 @@ unique, ne, medium, dwarf, humanoid
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
+
+**Skills** Athletics +12, Crafting +12, Diplomacy +13, Intimidation +15, Religion +16, Society +9, Survival +12, Demon Lore +13
 
 **STR** +3, **DEX** +2, **CON** +2, **INT** +4, **WIS** +1, **CHA** -1
 
-**Items** spellbook (Advanced Arcanomnemonics), {@item material component pouch}, {@item staff}, wand of fear
+**Items** spellbook (Advanced Arcanomnemonics), material component pouch, staff, wand of fear
 
 ---
 
@@ -25,7 +27,7 @@ unique, ne, medium, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** staff +14; **Damage** 1d4 + 2 bludgeoning
+**Melee** ◆ staff +14; **Damage** 1d4 + 2 bludgeoning
 
 **Prepared arcane Spells** (DC 21), attack +13
 

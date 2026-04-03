@@ -9,6 +9,8 @@ unique, ce, medium, human, humanoid
 
 **Languages** common, draconic, gnoll, iruxi, necril, orc, sylvan
 
+**Skills** Academia Lore +37, Crafting +37, Deception +33, Diplomacy +33, Medicine +35, Nature +33, Stealth +31, Survival +33
+
 **STR** +1, **DEX** +3, **CON** +4, **INT** +6, **WIS** +3, **CHA** +4
 
 **Items** +3 major striking major staff of nature's vengeance (Advanced Player's Guide 263)
@@ -31,7 +33,7 @@ unique, ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** staff +30 (two-hand <d8>); **Damage** 4d6+20 bludgeoning
+**Melee** ◆ staff +30 (two-hand <d8>); **Damage** 4d6+20 bludgeoning
 
 **Prepared primal Spells** (DC 41), attack +33
 
@@ -59,7 +61,7 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 41), attack +33
 
-  **10th** shadow blast, shadow siphon
+  **10th** shadow blast (×2), shadow siphon (×2)
 
 **Rupture Shadow** ◆◆ (acid, conjuration, occult, shadow) Koride can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. She targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will save. Koride can't use Rupture Shadow again for 1d4 rounds. **Critical Success** 
 **Success** 

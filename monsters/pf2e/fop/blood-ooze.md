@@ -5,7 +5,9 @@ n, large, mindless, ooze
 
 ---
 
-**Perception** +8
+**Perception** +8; motion sense 60 feet, no vision
+
+**Skills** Athletics +13, Stealth +4
 
 **STR** +5, **DEX** -4, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -29,6 +31,6 @@ n, large, mindless, ooze
 
 Speed 10 feet, climb 10 feet
 
-**Melee** pseudopod +15 (reach <10 feet>); **Damage** 1d12+8 bludgeoning plus 1d6 persistent bleed
+**Melee** ◆ pseudopod +15 (reach <10 feet>); **Damage** 1d12+8 bludgeoning plus 1d6 persistent bleed
 
 **Siphon Vitality** ◆◆ The blood ooze draws forth blood from nearby creatures, causing their flesh to break open and blood to spill out which replenishes the blood ooze. Each living creature within 15 feet takes 3d6 slashing damage (DC 21 basic Fortitude save). The blood ooze regains an amount of Hit Points equal to half the damage Siphon Vitality dealt to the single creature that took the most damage.

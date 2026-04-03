@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +8
 
 **STR** +4, **DEX** +2, **CON** +4, **INT** -4, **WIS** +2, **CHA** +0
 
@@ -23,9 +25,9 @@ n, medium, animal
 
 Speed 25 feet
 
-**Melee** quills +11; **Damage** 1d8+4 piercing plus embed quill plus embed quill
+**Melee** ◆ quills +11; **Damage** 1d8+4 piercing plus embed quill plus embed quill
 
-**Melee** tail +11; **Damage** 1d6+4 bludgeoning
+**Melee** ◆ tail +11; **Damage** 1d6+4 bludgeoning
 
 **Embed Quill** A creature damaged by the porcupine's quills Strike must succeed at a DC 18 Reflex save or some of the quills remain embedded in its body, dealing 1d4 persistent piercing damage.
 

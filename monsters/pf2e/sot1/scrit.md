@@ -5,9 +5,11 @@ uncommon, ce, tiny, fey, gremlin
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** undercommon
+
+**Skills** Acrobatics +5, Athletics +5, Deception +4, Stealth +7
 
 **STR** +1, **DEX** +3, **CON** +2, **INT** +2, **WIS** +0, **CHA** +0
 
@@ -23,7 +25,7 @@ uncommon, ce, tiny, fey, gremlin
 
 Speed 25 feet
 
-**Melee** sticky fingers +7 (agile, finesse); **Damage** 1d4+1 piercing plus nasty ink plus nasty ink
+**Melee** ◆ sticky fingers +7 (agile, finesse); **Damage** 1d4+1 piercing plus nasty ink plus nasty ink
 
 **Eat Book** ◆◆◆ A scrit can consume a book after smearing its pages to absorb its contents (it gains no benefit from consuming a book with pages smeared by another scrit). For 1 day after consuming the book, the scrit can make Recall Knowledge skill checks on the book's subject with a +4 item bonus, and it can speak and understand the languages the book was written in. If it Eats another Book, it replaces the benefits of the previous Eat Book.
 

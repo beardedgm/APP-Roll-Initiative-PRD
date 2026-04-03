@@ -5,9 +5,11 @@ uncommon, cg, large, beast, couatl
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
-**Languages** celestial, common, draconic
+**Languages** celestial, common, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +15, Arcana +18, Diplomacy +20, Nature +21, Occultism +18, Society +16, Stealth +17, Survival +15
 
 **STR** +6, **DEX** +3, **CON** +4, **INT** +4, **WIS** +5, **CHA** +4
 
@@ -25,7 +27,7 @@ uncommon, cg, large, beast, couatl
 
 Speed 15 feet, fly 50 feet
 
-**Melee** jaws +20 (magical); **Damage** 2d10+9 piercing plus mix couatl venom and Grab plus mix couatl venom, Grab
+**Melee** ◆ jaws +20 (magical); **Damage** 2d10+9 piercing plus mix couatl venom and Grab plus mix couatl venom, Grab
 
 **Innate primal Spells** (DC 26), attack +18
 
@@ -33,9 +35,9 @@ Speed 15 feet, fly 50 feet
 
   **1st** create water, mending
 
-  **2nd** detect alignment, invisibility, speak with animals
+  **2nd** detect alignment (at will), invisibility, speak with animals
 
-  **3rd** heal, mind reading
+  **3rd** heal, mind reading (at will)
 
   **4th** fireball, speak with plants
 

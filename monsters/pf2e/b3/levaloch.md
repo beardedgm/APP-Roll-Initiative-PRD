@@ -5,9 +5,11 @@ le, large, construct, devil, fiend
 
 ---
 
-**Perception** +16
+**Perception** +16; greater darkvision
 
-**Languages** celestial, infernal
+**Languages** celestial, infernal; telepathy 100 feet
+
+**Skills** Acrobatics +14, Athletics +17, Intimidation +14, Religion +14
 
 **STR** +6, **DEX** +3, **CON** +4, **INT** +2, **WIS** +3, **CHA** +1
 
@@ -33,11 +35,11 @@ le, large, construct, devil, fiend
 
 Speed 30 feet, climb 30 feet
 
-**Melee** trident +19 (evil, magical); **Damage** 2d8+9 piercing plus 1d6 evil and merciless thrust plus merciless thrust
+**Melee** ◆ trident +19 (evil, magical); **Damage** 2d8+9 piercing plus 1d6 evil and merciless thrust plus merciless thrust
 
-**Melee** trident +16 (evil, magical, thrown <20 feet>); **Damage** 2d8+9 piercing plus 1d6 evil
+**Ranged** ◆ trident +16 (evil, magical, thrown <20 feet>); **Damage** 2d8+9 piercing plus 1d6 evil
 
-**Melee** barbed net +16 (magical, range increment <20 feet>); plus barbed net
+**Ranged** ◆ barbed net +16 (magical, range increment <20 feet>); plus barbed net
 
 **Barbed Net** When a levaloch hits a creature with their barbed net, the net wraps around the target, which becomes clumsy 1 and takes a –10-foot circumstance penalty to its Speeds. If the Strike was a critical success, the target is also immobilized. When a creature Escapes (DC 22), or if the Strike misses, the net crumbles into rust. Each time a creature attempts to Escape, it takes 1d6 slashing damage from the net's barbs, regardless of whether the attempt succeeds.
 

@@ -5,9 +5,11 @@ n, medium, aberration
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** common
+
+**Skills** Athletics +12, Deception +8, Dwelling Lore +10
 
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +1, **CHA** +0
 
@@ -27,6 +29,6 @@ n, medium, aberration
 
 Speed 10 feet
 
-**Melee** pseudopod +14; **Damage** 2d8+4 bludgeoning plus adhesive plus adhesive
+**Melee** ◆ pseudopod +14; **Damage** 2d8+4 bludgeoning plus adhesive plus adhesive
 
 **Mimic Object** ◆ (concentrate, polymorph) The mimic assumes the shape of any Medium object. This doesn't change the mimic's texture or overall size but can alter its coloration and visual appearance. It has an automatic result of 28 on Deception checks and DCs to pass as the object that it's mimicking.

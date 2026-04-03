@@ -5,7 +5,9 @@ ne, medium, mindless, undead, zombie
 
 ---
 
-**Perception** +0
+**Perception** +0; darkvision
+
+**Skills** Athletics +5
 
 **STR** +3, **DEX** -2, **CON** +2, **INT** -5, **WIS** +0, **CHA** -2
 
@@ -27,6 +29,6 @@ ne, medium, mindless, undead, zombie
 
 Speed 25 feet
 
-**Melee** fist +7; **Damage** 1d6+3 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +7; **Damage** 1d6+3 bludgeoning plus Grab plus Grab
 
 **Jaws** ◆ (attack) **Requirements** The zombie has a creature grabbed or restrained.; The zombie makes a jaws unarmed melee Strike against the grabbed or restrained creature with an attack modifier of +7 that deals 1d8+3 piercing damage.

@@ -5,9 +5,11 @@ rare, le, medium, undead, wight
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
-**Languages** common, necril
+**Languages** common, necril; tongues
+
+**Skills** Athletics +24, Intimidation +25, Warfare Lore +25
 
 **STR** +6, **DEX** +3, **CON** +4, **INT** +5, **WIS** +3, **CHA** +3
 
@@ -33,11 +35,13 @@ rare, le, medium, undead, wight
 
 Speed 25 feet
 
-**Melee** longsword +27 (magical, versatile <P>); **Damage** 2d8+14 slashing plus drain life
+**Melee** ◆ longsword +27 (magical, versatile <P>); **Damage** 2d8+14 slashing plus drain life
 
-**Melee** claw +26 (agile); **Damage** 2d8+14 slashing plus drain life
+**Melee** ◆ claw +26 (agile); **Damage** 2d8+14 slashing plus drain life
 
 **Innate divine Spells** (DC 29)
+
+  **Constant (5th)** tongues
 
 **Coordinated Strike** The wight commander flanks with an ally as long as the target is within both their reaches, even if commander and ally aren't on opposite sides.
 

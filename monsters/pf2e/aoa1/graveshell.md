@@ -5,9 +5,11 @@ uncommon, n, large, beast
 
 ---
 
-**Perception** +4
+**Perception** +4; darkvision, wavesense 30 feet (imprecise)
 
 **Languages** common, undercommon
+
+**Skills** Athletics +6, Stealth +4
 
 **STR** +3, **DEX** -1, **CON** +3, **INT** -3, **WIS** +1, **CHA** +0
 
@@ -27,11 +29,11 @@ uncommon, n, large, beast
 
 Speed 20 feet, swim 20 feet
 
-**Melee** jaws +8; **Damage** 1d6+3 piercing
+**Melee** ◆ jaws +8; **Damage** 1d6+3 piercing
 
-**Melee** claw +8 (agile); **Damage** 1d4+3 slashing
+**Melee** ◆ claw +8 (agile); **Damage** 1d4+3 slashing
 
-**Melee** shell spikes +8; **Damage** 1d4+3 piercing
+**Melee** ◆ shell spikes +8; **Damage** 1d4+3 piercing
 
 **Deep Breath** The graveshell can hold its breath for 200 rounds (20 minutes).
 

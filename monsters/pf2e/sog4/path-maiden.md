@@ -5,9 +5,11 @@ rare, ce, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +22
+**Perception** +22; {@ability darkvision}
 
-**Languages** celestial, common, necril
+**Languages** celestial, common, necril; telepathy 100 feet
+
+**Skills** Deception +22, Intimidation +24, Occultism +22, Pharasma Lore +24, Religion +22
 
 **STR** -5, **DEX** +5, **CON** +0, **INT** +4, **WIS** +4, **CHA** +6
 
@@ -21,7 +23,7 @@ rare, ce, medium, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or poison; double resistance vs. non-magical)
 
 **Imprisoning Grave** (aura, divine, necromancy)
 
@@ -29,7 +31,7 @@ rare, ce, medium, incorporeal, spirit, undead
 
 Speed limited flight 25 feet
 
-**Melee** apostate's shroud +21 (agile, finesse, magical); **Damage** 3d10+8 mental plus Apostate's Shroud
+**Melee** ◆ apostate's shroud +21 (agile, finesse, magical); **Damage** 3d10+8 mental plus Apostate's Shroud
 
 **Innate occult Spells** (DC 32), attack +24
 

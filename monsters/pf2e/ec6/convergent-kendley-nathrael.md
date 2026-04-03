@@ -7,11 +7,13 @@ unique, ln, medium, elf, human, humanoid
 
 **Perception** +35
 
-**Languages** common, elven, sylvan, utopian
+**Languages** common, elven, sylvan, utopian; convergent link
+
+**Skills** Athletics +32, Diplomacy +35, Intimidation +33, Survival +30
 
 **STR** +5, **DEX** +0, **CON** +4, **INT** +3, **WIS** +3, **CHA** +6
 
-**Items** +2 greater striking bastard sword, +2 greater resilient chain mail, +2 greater striking composite longbow (20 arrows), key to strongbox in area {@b A10}
+**Items** +2 greater striking bastard sword, +2 greater resilient chain mail, +2 greater striking composite longbow (20 arrows), key to strongbox in area A10
 
 **Convergent Link** Creatures with this ability can communicate with each other by manifesting an aura of wispy Utopian runes. This has the effects of telepathy with a range of 300 feet, but requires line of sight.
 
@@ -31,15 +33,15 @@ unique, ln, medium, elf, human, humanoid
 
 Speed 25 feet
 
-**Melee** bastard sword +34 (magical, two-hand <d12>); **Damage** 3d8+11 slashing plus convergent tactics plus convergent tactics
+**Melee** ◆ bastard sword +34 (magical, two-hand <d12>); **Damage** 3d8+11 slashing plus convergent tactics plus convergent tactics
 
-**Melee** composite longbow +29 (deadly <2d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 3d8+11 piercing plus convergent tactics plus convergent tactics
+**Melee** ◆ composite longbow +29 (deadly <2d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 3d8+11 piercing plus convergent tactics plus convergent tactics
 
 **Innate divine Spells** (DC 39), attack +31
 
   **Cantrips (10th)** shield, telekinetic projectile
 
-  **2nd** calm emotions, telekinetic maneuver
+  **2nd** calm emotions (at will), telekinetic maneuver (at will)
 
   **10th** divine wrath
 

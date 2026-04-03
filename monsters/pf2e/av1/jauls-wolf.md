@@ -5,7 +5,9 @@ unique, n, medium, animal
 
 ---
 
-**Perception** +11
+**Perception** +11; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +9, Athletics +11, Stealth +11, Survival +9
 
 **STR** +5, **DEX** +3, **CON** +2, **INT** -4, **WIS** +3, **CHA** +0
 
@@ -21,7 +23,7 @@ unique, n, medium, animal
 
 Speed 35 feet
 
-**Melee** jaws +13; **Damage** 2d6+7 piercing plus
+**Melee** ◆ jaws +13; **Damage** 2d6+7 piercing plus
 
 **Knockdown**
 

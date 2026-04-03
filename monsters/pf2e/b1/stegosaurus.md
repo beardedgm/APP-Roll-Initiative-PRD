@@ -5,7 +5,9 @@ n, huge, animal, dinosaur
 
 ---
 
-**Perception** +15
+**Perception** +15; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +20
 
 **STR** +7, **DEX** +2, **CON** +4, **INT** -4, **WIS** +2, **CHA** +0
 
@@ -23,8 +25,8 @@ n, huge, animal, dinosaur
 
 Speed 25 feet
 
-**Melee** tail +18 (sweep, reach <15 feet>); **Damage** 2d8+9 piercing
+**Melee** ◆ tail +18 (sweep, reach <15 feet>); **Damage** 2d8+9 piercing
 
-**Melee** foot +18 (reach <10 feet>); **Damage** 2d6+9 bludgeoning
+**Melee** ◆ foot +18 (reach <10 feet>); **Damage** 2d6+9 bludgeoning
 
 **Trample** ◆◆◆ Large or smaller, foot, DC 25

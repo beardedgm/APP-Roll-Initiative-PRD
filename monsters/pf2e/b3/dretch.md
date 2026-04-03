@@ -5,9 +5,11 @@ ce, small, demon, fiend
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
-**Languages** abyssal
+**Languages** abyssal; telepathy 100 feet
+
+**Skills** Acrobatics +6, Athletics +7, Deception +6, Stealth +6
 
 **STR** +3, **DEX** +0, **CON** +4, **INT** -3, **WIS** +0, **CHA** +0
 
@@ -27,9 +29,9 @@ ce, small, demon, fiend
 
 Speed 20 feet
 
-**Melee** jaws +9 (evil, magical); **Damage** 1d8+3 piercing plus 1d4 evil
+**Melee** ◆ jaws +9 (evil, magical); **Damage** 1d8+3 piercing plus 1d4 evil
 
-**Melee** claw +9 (agile, evil, magical); **Damage** 1d6+3 slashing plus 1d4 evil
+**Melee** ◆ claw +9 (agile, evil, magical); **Damage** 1d6+3 slashing plus 1d4 evil
 
 **Innate divine Spells** (DC 16)
 

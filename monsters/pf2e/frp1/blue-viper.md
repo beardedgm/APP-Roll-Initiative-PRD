@@ -5,9 +5,11 @@ unique, ne, small, humanoid, ratfolk
 
 ---
 
-**Perception** +28
+**Perception** +28; low-light vision
 
 **Languages** goblin, taldane, tien, ysoki
+
+**Skills** Acrobatics +27, Athletics +16, Deception +23, Diplomacy +21, Stealth +27, Thievery +25
 
 **STR** +0, **DEX** +5, **CON** +5, **INT** +5, **WIS** +2, **CHA** +1
 
@@ -31,9 +33,9 @@ unique, ne, small, humanoid, ratfolk
 
 Speed 25 feet
 
-**Melee** shortsword +27 (agile, finesse, magical, versatile <S>); **Damage** 2d6+6 piercing
+**Melee** ◆ shortsword +27 (agile, finesse, magical, versatile <S>); **Damage** 2d6+6 piercing
 
-**Melee** alchemical bomb +29 (range increment <20 feet>, splash); **Damage** 
+**Ranged** ◆ alchemical bomb +29 (range increment <20 feet>, splash); **Damage** 
 
 **Quick Application** ◆ Blue Viper Interacts to draw an injury poison and applies it to a weapon he is holding.
 

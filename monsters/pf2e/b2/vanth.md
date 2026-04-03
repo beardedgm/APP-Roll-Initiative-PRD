@@ -5,9 +5,11 @@ n, medium, monitor, psychopomp
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, lifesense 60 feet
 
 **Languages** abyssal, celestial, infernal, requian
+
+**Skills** Acrobatics +17, Athletics +17, Intimidation +15, Occultism +13, Religion +13, Stealth +17, Boneyard Lore +15
 
 **STR** +6, **DEX** +4, **CON** +2, **INT** +2, **WIS** +4, **CHA** +2
 
@@ -33,17 +35,17 @@ n, medium, monitor, psychopomp
 
 Speed 25 feet, fly 40 feet
 
-**Melee** scythe +18 (deadly <d10>, magical, trip); **Damage** 1d10+8 slashing plus spirit touch plus spirit touch
+**Melee** ◆ scythe +18 (deadly <d10>, magical, trip); **Damage** 1d10+8 slashing plus spirit touch plus spirit touch
 
-**Melee** jaws +17 (agile); **Damage** 1d6+8 slashing plus spirit touch plus spirit touch
+**Melee** ◆ jaws +17 (agile); **Damage** 1d6+8 slashing plus spirit touch plus spirit touch
 
 **Innate divine Spells** (DC 22)
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
-  **3rd** locate, searing light
+  **3rd** locate (×3), searing light (×3)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
   **5th** dimension door
 

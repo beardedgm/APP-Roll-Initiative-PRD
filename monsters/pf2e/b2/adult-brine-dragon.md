@@ -5,9 +5,11 @@ uncommon, ln, huge, amphibious, dragon, elemental, water
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision, scent 60 feet (imprecise)
 
 **Languages** aquan, common, draconic, sylvan
+
+**Skills** Acrobatics +20, Athletics +25, Deception +24, Intimidation +24, Nature +21, Society +21, Survival +21
 
 **STR** +7, **DEX** +2, **CON** +5, **INT** +3, **WIS** +5, **CHA** +6
 
@@ -29,19 +31,19 @@ uncommon, ln, huge, amphibious, dragon, elemental, water
 
 Speed 40 feet, fly 120 feet, swim 60 feet
 
-**Melee** jaws +26 (acid, magical, reach <15 feet>); **Damage** 3d10+12 piercing plus 3d4 acid
+**Melee** ◆ jaws +26 (acid, magical, reach <15 feet>); **Damage** 3d10+12 piercing plus 3d4 acid
 
-**Melee** claw +26 (agile, magical, reach <10 feet>); **Damage** 3d8+12 slashing
+**Melee** ◆ claw +26 (agile, magical, reach <10 feet>); **Damage** 3d8+12 slashing
 
-**Melee** tail +24 (magical, reach <20 feet>); **Damage** 3d12+12 bludgeoning
+**Melee** ◆ tail +24 (magical, reach <20 feet>); **Damage** 3d12+12 bludgeoning
 
-**Melee** wing +24 (magical, reach <15 feet>); **Damage** 1d12+12 piercing
+**Melee** ◆ wing +24 (magical, reach <15 feet>); **Damage** 1d12+12 piercing
 
 **Innate primal Spells** (DC 32), attack +24
 
   **2nd** obscuring mist
 
-  **3rd** hydraulic push
+  **3rd** hydraulic push (×3)
 
   **4th** hydraulic torrent
 

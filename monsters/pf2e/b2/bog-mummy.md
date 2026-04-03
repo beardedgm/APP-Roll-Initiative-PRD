@@ -5,9 +5,11 @@ le, medium, mummy, undead
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision, {@ability tremorsense} 30 feet (imprecise)
 
 **Languages** common, necril
+
+**Skills** Athletics +12, Stealth +11
 
 **STR** +5, **DEX** +2, **CON** +0, **INT** +0, **WIS** +1, **CHA** +0
 
@@ -29,9 +31,9 @@ le, medium, mummy, undead
 
 ---
 
-Speed 20 feet
+Speed 20 feet, burrow 15 feet
 
-**Melee** fist +14; **Damage** 2d6+5 plus bog rot plus 2d6+5, bog rot
+**Melee** ◆ fist +14; **Damage** 2d6+5 plus bog rot plus 2d6+5, bog rot
 
 **Bog Rot** (curse, disease, divine, necromancy, negative)
 

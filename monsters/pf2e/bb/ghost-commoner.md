@@ -5,7 +5,9 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
+
+**Skills** Stealth +12
 
 **STR** -5, **DEX** +3, **CON** +0, **INT** +0, **WIS** +2, **CHA** +2
 
@@ -21,7 +23,7 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 **Immunities** poison, sneak attack, unconscious
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Incorporeal** A ghost has no body and can pass through physical objects, though it can't end its turn inside one. Most checks that use Strength and require a body, such as Grapple and Shove, don't work against a ghost, and a ghost can't attempt such checks.
 
@@ -31,6 +33,6 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ghostly hand +13 (agile, finesse, magical); **Damage** 2d6 + 2 negative
+**Melee** ◆ ghostly hand +13 (agile, finesse, magical); **Damage** 2d6 + 2 negative
 
 **Frightful Moan** ◆ (divine, enchantment, fear, mental) Each living creature within 30 feet who hears the ghost must attempt a DC 21 Will save. On a failure, a creature gains the frightened 2 condition (or frightened 3 on a critical failure). On a success, a creature can't be affected by this ghost's Frightful Moan for 1 minute.

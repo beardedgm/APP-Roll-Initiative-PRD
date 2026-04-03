@@ -5,7 +5,9 @@ n, gargantuan, animal
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision, {@ability tremorsense} 90 feet (imprecise)
+
+**Skills** Athletics +30
 
 **STR** +9, **DEX** +4, **CON** +6, **INT** -5, **WIS** +6, **CHA** -4
 
@@ -21,9 +23,9 @@ n, gargantuan, animal
 
 Speed 50 feet
 
-**Melee** pincer +30 (agile, reach <30 feet>); **Damage** 3d12+15 slashing plus Grab plus Grab
+**Melee** ◆ pincer +30 (agile, reach <30 feet>); **Damage** 3d12+15 slashing plus Grab plus Grab
 
-**Melee** stinger +30 (reach <30 feet>); **Damage** 3d8+15 piercing plus black scorpion venom plus black scorpion venom
+**Melee** ◆ stinger +30 (reach <30 feet>); **Damage** 3d8+15 piercing plus black scorpion venom plus black scorpion venom
 
 **Black Scorpion Venom** (poison)
 

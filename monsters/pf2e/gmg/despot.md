@@ -9,6 +9,8 @@ le, medium, human, humanoid
 
 **Languages** common, infernal
 
+**Skills** Athletics +10, Deception +13, Diplomacy +12, Intimidation +13, Performance +13, Society +12, Warfare Lore +10
+
 **STR** +2, **DEX** +2, **CON** +0, **INT** +4, **WIS** +2, **CHA** +4
 
 **Items** lesser darkvision elixir, minor healing potion (2), spiked gauntlet
@@ -27,7 +29,7 @@ le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** spiked gauntlet +11 (agile); **Damage** 1d4+4 piercing
+**Melee** ◆ spiked gauntlet +11 (agile); **Damage** 1d4+4 piercing
 
 **Spontaneous divine Spells** (DC 23), attack +13
 

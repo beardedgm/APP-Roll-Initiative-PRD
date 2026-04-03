@@ -5,9 +5,11 @@ unique, le, gargantuan, dragon, fire
 
 ---
 
-**Perception** +40
+**Perception** +40; darkvision, scent 120 feet (imprecise)
 
 **Languages** common, draconic, dwarven, elven, gnomish, infernal, sylvan, utopian
+
+**Skills** Acrobatics +32, Arcana +38, Athletics +36, Diplomacy +43, Intimidation +43, Medicine +36, Nature +32, Occultism +38, Society +43
 
 **STR** +11, **DEX** +5, **CON** +9, **INT** +8, **WIS** +7, **CHA** +7
 
@@ -37,13 +39,13 @@ unique, le, gargantuan, dragon, fire
 
 Speed 60 feet, fly 200 feet, swim 60 feet
 
-**Melee** jaws +42 (fire, magical, reach <20 feet>); **Damage** 6d12+11 piercing plus 4d6 fire
+**Melee** ◆ jaws +42 (fire, magical, reach <20 feet>); **Damage** 6d12+11 piercing plus 4d6 fire
 
-**Melee** claw +42 (agile, magical, reach <15 feet>); **Damage** 6d10+11 slashing
+**Melee** ◆ claw +42 (agile, magical, reach <15 feet>); **Damage** 6d10+11 slashing
 
-**Melee** tail +40 (magical, reach <25 feet>); **Damage** 6d10+11 slashing
+**Melee** ◆ tail +40 (magical, reach <25 feet>); **Damage** 6d10+11 slashing
 
-**Melee** horns +40 (agile, magical, reach <20 feet>); **Damage** 5d12+11 piercing
+**Melee** ◆ horns +40 (agile, magical, reach <20 feet>); **Damage** 5d12+11 piercing
 
 **Innate arcane Spells** (DC 45), attack +42
 

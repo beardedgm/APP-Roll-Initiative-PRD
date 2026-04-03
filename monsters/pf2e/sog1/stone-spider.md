@@ -5,9 +5,11 @@ rare, ng, large, celestial
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
-**Languages** celestial, common
+**Languages** celestial, common; telepathy 60 feet
+
+**Skills** Acrobatics +12, Athletics +13, Intimidation +9, Religion +14, Settlement Lore +12 (regarding their home settlement), Society +10
 
 **STR** +4, **DEX** +5, **CON** +3, **INT** +1, **WIS** +5, **CHA** +0
 
@@ -31,11 +33,11 @@ rare, ng, large, celestial
 
 Speed fly 40 feet
 
-**Melee** spirit web +14 (range increment <30 feet>); **Damage** spirit web trap plus spirit web trap
+**Ranged** ◆ spirit web +14 (range increment <30 feet>); **Damage** spirit web trap plus spirit web trap
 
 **Innate divine Spells** (DC 21)
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
   **3rd** dream message
 

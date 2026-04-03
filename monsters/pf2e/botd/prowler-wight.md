@@ -5,9 +5,11 @@ uncommon, le, medium, undead, wight
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
 **Languages** common, necril
+
+**Skills** Acrobatics +18, Deception +18, Stealth +20
 
 **STR** +4, **DEX** +5, **CON** +2, **INT** +1, **WIS** +3, **CHA** +3
 
@@ -29,9 +31,9 @@ uncommon, le, medium, undead, wight
 
 Speed 25 feet
 
-**Melee** dagger +21 (agile, finesse, magical, versatile S); **Damage** 2d4+7 piercing plus drain life
+**Melee** ◆ dagger +21 (agile, finesse, magical, versatile S); **Damage** 2d4+7 piercing plus drain life
 
-**Melee** claw +20 (agile, finesse); **Damage** 1d8+7 slashing plus drain life
+**Melee** ◆ claw +20 (agile, finesse); **Damage** 1d8+7 slashing plus drain life
 
 **Drain Life** (divine, necromancy) As hunter wight, but 9 temporary Hit Points and DC 25.
 

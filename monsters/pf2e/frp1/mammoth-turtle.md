@@ -5,7 +5,9 @@ rare, n, gargantuan, animal
 
 ---
 
-**Perception** +24
+**Perception** +24; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +28
 
 **STR** +9, **DEX** +0, **CON** +5, **INT** -4, **WIS** +5, **CHA** -2
 
@@ -23,7 +25,7 @@ rare, n, gargantuan, animal
 
 Speed 20 feet, swim 50 feet
 
-**Melee** jaws +29; **Damage** 3d12+14 piercing plus
+**Melee** ◆ jaws +29; **Damage** 3d12+14 piercing plus
 
 **Improved Grab**
 

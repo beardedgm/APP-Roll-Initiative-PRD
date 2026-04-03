@@ -5,7 +5,9 @@ ne, large, mindless, skeleton, undead
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
+
+**Skills** Athletics +22, Intimidation +17
 
 **STR** +7, **DEX** +2, **CON** +4, **INT** -5, **WIS** +2, **CHA** +2
 
@@ -27,9 +29,9 @@ ne, large, mindless, skeleton, undead
 
 Speed 30 feet
 
-**Melee** gaff hook +20 (reach 10 feet); **Damage** 2d10+10 piercing plus impaling hook
+**Melee** ◆ gaff hook +20 (reach 10 feet); **Damage** 2d10+10 piercing plus impaling hook
 
-**Melee** claw +19 (agile, reach 10 feet); **Damage** 2d8+10 slashing
+**Melee** ◆ claw +19 (agile, reach 10 feet); **Damage** 2d8+10 slashing
 
 **Focused Assault** ◆◆ The giant pirate skeleton makes two Strikes with its claw against one foe. The multiple attack penalty doesn't increase until after both attacks are resolved. The giant pirate skeleton doesn't use this ability if there is more than one creature within its reach that it can see.
 

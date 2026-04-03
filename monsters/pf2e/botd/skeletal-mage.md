@@ -5,9 +5,11 @@ ne, medium, skeleton, undead
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** necril
+
+**Skills** Arcana +14, Stealth +13
 
 **STR** +2, **DEX** +4, **CON** +0, **INT** -1, **WIS** +2, **CHA** +0
 
@@ -27,13 +29,13 @@ ne, medium, skeleton, undead
 
 Speed 25 feet
 
-**Melee** claw +11 (agile, finesse); **Damage** 2d8+2 slashing
+**Melee** ◆ claw +11 (agile, finesse); **Damage** 2d8+2 slashing
 
 **Innate arcane Spells** (DC 22), attack +14
 
   **Cantrips (3rd)** produce flame, ray of frost
 
-  **1st** burning hands, grease, shocking grasp
+  **1st** burning hands (×2), grease, shocking grasp
 
   **2nd** acid arrow, enlarge, telekinetic maneuver
 

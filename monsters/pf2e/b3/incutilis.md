@@ -5,9 +5,11 @@ uncommon, le, tiny, aberration, amphibious
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
-**Languages** aklo, aquan
+**Languages** aklo, aquan; telepathy 30 feet
+
+**Skills** Athletics +8, Deception +5, Stealth +9
 
 **STR** +4, **DEX** +3, **CON** +1, **INT** +1, **WIS** +3, **CHA** -1
 
@@ -23,7 +25,7 @@ uncommon, le, tiny, aberration, amphibious
 
 Speed 5 feet, swim 40 feet, climb 5 feet
 
-**Melee** tentacle +8; **Damage** 1d4+4 bludgeoning plus Grab plus Grab
+**Melee** ◆ tentacle +8; **Damage** 1d4+4 bludgeoning plus Grab plus Grab
 
 **Abandon Puppet** ◆ (manipulate) **Requirements** The incutilis is attached to a puppet; The incutilis abandons its puppet, detaching and separating from its nervous system. If the puppet was still alive, it's unconscious and temporarily immune to that incutilis's Puppetmaster ability for 24 hours.
 

@@ -5,7 +5,9 @@ ne, gargantuan, mindless, skeleton, troop, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
+
+**Skills** Athletics +18
 
 **STR** +5, **DEX** +3, **CON** +4, **INT** -5, **WIS** +2, **CHA** +0
 
@@ -25,7 +27,7 @@ ne, gargantuan, mindless, skeleton, troop, undead
 
 ---
 
-Speed 25 feet
+Speed 25 feet, troop movement
 
 **Lower Spears!** **Frequency** {"unit":"round","number":1}; The skeletons engage in a coordinated longspear attack against each enemy within 10 feet (DC 27 basic Reflex save). The damage depends on the number of actions. 1 2d8 piercing damage 2 3d8+8 piercing damage 3 4d8+8 piercing damage.
 

@@ -5,7 +5,9 @@ n, huge, animal, aquatic
 
 ---
 
-**Perception** +15
+**Perception** +15; low-light vision
+
+**Skills** Acrobatics +17, Athletics +20, Stealth +17
 
 **STR** +6, **DEX** +3, **CON** +4, **INT** -3, **WIS** +3, **CHA** -2
 
@@ -19,11 +21,11 @@ n, huge, animal, aquatic
 
 ---
 
-Speed 15 feet, swim 40 feet
+Speed 15 feet, swim 40 feet, compression
 
-**Melee** arm +20 (agile, reach <15 feet>); **Damage** 2d8+9 bludgeoning plus Grab plus Grab
+**Melee** ◆ arm +20 (agile, reach <15 feet>); **Damage** 2d8+9 bludgeoning plus Grab plus Grab
 
-**Melee** beak +20; **Damage** 2d8+9 piercing plus giant octopus venom plus giant octopus venom
+**Melee** ◆ beak +20; **Damage** 2d8+9 piercing plus giant octopus venom plus giant octopus venom
 
 **Compression** A giant octopus can move through a gap at least 2 feet wide without Squeezing, and can Squeeze through a gap at least 1 foot wide.
 

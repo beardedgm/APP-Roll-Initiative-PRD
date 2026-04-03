@@ -5,9 +5,11 @@ le, medium, undead, vampire
 
 ---
 
-**Perception** +28
+**Perception** +28; breathsense 60 feet (precise), darkvision
 
 **Languages** common, necril, tien
+
+**Skills** Acrobatics +24, Athletics +29, Diplomacy +24, Intimidation +24, Society +20, Stealth +24, Martial Arts Lore +22
 
 **STR** +7, **DEX** +4, **CON** +6, **INT** +4, **WIS** +8, **CHA** +4
 
@@ -21,7 +23,7 @@ le, medium, undead, vampire
 
 **Immunities** death effects, disease, paralyzed, poison, sleep, prone
 
-**Resistances** physical 10
+**Resistances** physical 10 (except magical darkwood)
 
 **Jiang-Shi Vulnerabilities**
 
@@ -29,9 +31,9 @@ le, medium, undead, vampire
 
 ---
 
-Speed 30 feet
+Speed 30 feet, rigor mortis
 
-**Melee** claw +29 (agile, finesse); **Damage** 3d10+13 piercing plus Grab
+**Melee** ◆ claw +29 (agile, finesse); **Damage** 3d10+13 piercing plus Grab
 
 **Monk Focus Spells** (DC 34)
 

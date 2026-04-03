@@ -5,7 +5,11 @@ uncommon, ln, large, aeon, monitor
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision
+
+**Languages** envisioning
+
+**Skills** Arcana +29, Athletics +32, Deception +25, Nature +30, Occultism +29, Religion +30, Stealth +26
 
 **STR** +8, **DEX** +4, **CON** +5, **INT** +7, **WIS** +8, **CHA** +5
 
@@ -29,17 +33,17 @@ uncommon, ln, large, aeon, monitor
 
 Speed fly 35 feet
 
-**Melee** fist +32 (lawful, magical, reach <10 feet>); **Damage** 2d8+16 bludgeoning plus 2d8 cold and 2d8 lawful
+**Melee** ◆ fist +32 (lawful, magical, reach <10 feet>); **Damage** 2d8+16 bludgeoning plus 2d8 cold and 2d8 lawful
 
 **Innate divine Spells** (DC 37)
 
-  **4th** dimensional anchor
+  **4th** dimensional anchor (at will)
 
   **6th** slow
 
   **7th** dimensional anchor, dimensional lock, haste, plane shift
 
-  **8th** augury, teleport
+  **8th** augury (at will), teleport
 
 **Aging Strikes** ◆◆ (divine, necromancy) The bythos make two fist Strikes against a single target. If both Strikes hit, the target attempts a DC 37 Fortitude save. Creatures that don't get weaker with age or don't age are immune (GM's discretion). If a creature becomes clumsy 4, drained 4, and enfeebled 4 due to Aging Strikes, it dies of old age. **Success** The creature is unaffected.
 **Failure** The creature becomes clumsy 1, drained 1, and enfeebled 1, or increases each of these conditions by 1. This effect is cumulative with other aging strikes from bythoses, to a maximum of clumsy 4, drained 4, and enfeebled 4.

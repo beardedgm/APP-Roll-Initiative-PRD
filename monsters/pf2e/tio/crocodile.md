@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +7
+**Perception** +7; low-light vision
+
+**Skills** Athletics +8, Stealth +7
 
 **STR** +4, **DEX** +1, **CON** +3, **INT** -5, **WIS** +1, **CHA** -4
 
@@ -23,9 +25,9 @@ n, large, animal
 
 Speed 20 feet, swim 25 feet
 
-**Melee** jaws +10; **Damage** 1d10+4 piercing plus Grab plus Grab
+**Melee** ◆ jaws +10; **Damage** 1d10+4 piercing plus Grab plus Grab
 
-**Melee** tail +10 (agile); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ tail +10 (agile); **Damage** 1d6+4 bludgeoning
 
 **Aquatic Ambush** ◆ When hiding in water, the crocodile can move up to 35 feet, traveling on water and land, up to a creature that doesn't see it and doesn't know where it is and make a Strike against that creature. The creature is flat-footed against the attack.
 

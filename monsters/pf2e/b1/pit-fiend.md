@@ -5,9 +5,11 @@ le, large, devil, fiend
 
 ---
 
-**Perception** +37
+**Perception** +37; greater darkvision, true seeing
 
-**Languages** celestial, common, draconic, infernal
+**Languages** celestial, common, draconic, infernal; telepathy 100 feet
+
+**Skills** Acrobatics +34, Arcana +32, Athletics +33, Deception +39, Diplomacy +34, Intimidation +39, Religion +37, Society +36, Stealth +34
 
 **STR** +9, **DEX** +8, **CON** +9, **INT** +8, **WIS** +9, **CHA** +8
 
@@ -21,7 +23,7 @@ le, large, devil, fiend
 
 **Immunities** fire
 
-**Resistances** physical 15, poison 15
+**Resistances** physical 15 (except silver), poison 15
 
 **Weaknesses** good 15
 
@@ -35,23 +37,25 @@ le, large, devil, fiend
 
 Speed 35 feet, fly 50 feet
 
-**Melee** jaws +40 (evil, magical, poison, reach <10 feet>); **Damage** 4d10+17 piercing plus 2d6 evil and pit fiend venom plus pit fiend venom
+**Melee** ◆ jaws +40 (evil, magical, poison, reach <10 feet>); **Damage** 4d10+17 piercing plus 2d6 evil and pit fiend venom plus pit fiend venom
 
-**Melee** claw +38 (agile, evil, magical, reach <10 feet>); **Damage** 4d6+17 slashing plus 2d6 evil
+**Melee** ◆ claw +38 (agile, evil, magical, reach <10 feet>); **Damage** 4d6+17 slashing plus 2d6 evil
 
-**Melee** tail +36 (evil, magical, reach <10 feet>); **Damage** 4d10+17 bludgeoning plus 2d6 evil and Improved Grab plus Improved Grab
+**Melee** ◆ tail +36 (evil, magical, reach <10 feet>); **Damage** 4d10+17 bludgeoning plus 2d6 evil and Improved Grab plus Improved Grab
 
-**Melee** wing +36 (evil, magical, reach <15 feet>); **Damage** 4d6+17 slashing plus 2d6 evil
+**Melee** ◆ wing +36 (evil, magical, reach <15 feet>); **Damage** 4d6+17 slashing plus 2d6 evil
 
 **Innate divine Spells** (DC 42)
 
-  **4th** dimension door
+  **Constant (8th)** true seeing
+
+  **4th** dimension door (at will)
 
   **5th** dimension door
 
-  **8th** dispel magic, divine decree, fireball, scrying, wall of fire
+  **8th** dispel magic (at will), divine decree (at will), fireball (at will), scrying, wall of fire (at will)
 
-  **9th** bind soul
+  **9th** bind soul (at will)
 
   **10th** meteor swarm, miracle, power word stun
 

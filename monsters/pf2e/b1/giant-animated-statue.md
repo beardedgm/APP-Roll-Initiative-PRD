@@ -5,7 +5,9 @@ n, huge, construct, earth, mindless
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
+
+**Skills** Athletics +17
 
 **STR** +6, **DEX** -1, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -25,9 +27,9 @@ n, huge, construct, earth, mindless
 
 Speed 30 feet
 
-**Melee** stone fist +19 (magical); **Damage** 2d12+6 bludgeoning plus Grab plus Grab
+**Melee** ◆ stone fist +19 (magical); **Damage** 2d12+6 bludgeoning plus Grab plus Grab
 
-**Melee** flaming coal +12 (fire, magical, range increment <80 feet>); **Damage** 2d6+6 bludgeoning and 2d8 fire
+**Ranged** ◆ flaming coal +12 (fire, magical, range increment <80 feet>); **Damage** 2d6+6 bludgeoning and 2d8 fire
 
 **Brazier** The statue carries a wide brazier full of hot coals. To make flaming coal Strikes or use Burn Alive, the statue must have the brazier held in one hand or otherwise have it within reach. Instead of targeting the statue with an attack, a creature can target the brazier directly. The brazier has the same AC and saves as the statue. Dealing 15 cold damage to the brazier or dousing it with at least 2 gallons of water extinguishes the coals. This prevents the statue from using Burn Alive and causes its ranged attacks to no longer deal 2d8 fire damage.
 

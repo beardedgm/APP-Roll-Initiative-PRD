@@ -5,9 +5,11 @@ rare, ne, large, daemon, fiend
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision, lifesense 30 feet, true seeing
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Acrobatics +33, Deception +33, Intimidation +38, Religion +31, Survival +31
 
 **STR** +5, **DEX** +6, **CON** +7, **INT** +2, **WIS** +4, **CHA** +7
 
@@ -31,21 +33,23 @@ rare, ne, large, daemon, fiend
 
 Speed 60 feet, fly 60 feet
 
-**Melee** jaws +36 (evil, magical, reach <10 feet>); **Damage** 4d8+9 piercing plus 1d6 evil, essence drain, and Grab plus essence drain, Grab
+**Melee** ◆ jaws +36 (evil, magical, reach <10 feet>); **Damage** 4d8+9 piercing plus 1d6 evil, essence drain, and Grab plus essence drain, Grab
 
-**Melee** claw +32 (agile, evil, magical, reach <10 feet>); **Damage** 4d6+9 slashing plus 1d6 evil and essence drain plus essence drain
+**Melee** ◆ claw +32 (agile, evil, magical, reach <10 feet>); **Damage** 4d6+9 slashing plus 1d6 evil and essence drain plus essence drain
 
-**Melee** tail +32 (evil, magical, reach <15 feet>); **Damage** 4d10+9 bludgeoning plus 1d6 evil and essence drain plus essence drain
+**Melee** ◆ tail +32 (evil, magical, reach <15 feet>); **Damage** 4d10+9 bludgeoning plus 1d6 evil and essence drain plus essence drain
 
 **Innate divine Spells** (DC 41)
 
-  **1st** detect alignment
+  **Constant (6th)** true seeing
 
-  **4th** dimension door
+  **1st** detect alignment (at will)
+
+  **4th** dimension door (at will)
 
   **5th** dimension door
 
-  **7th** plane shift
+  **7th** plane shift (×2)
 
   **8th** discern location, finger of death
 

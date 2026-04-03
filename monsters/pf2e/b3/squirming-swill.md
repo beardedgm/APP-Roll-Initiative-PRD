@@ -5,7 +5,9 @@ ce, small, undead
 
 ---
 
-**Perception** +6
+**Perception** +6; motion sense 60 feet, no vision
+
+**Skills** Acrobatics +7, Stealth +9
 
 **STR** -1, **DEX** +3, **CON** +3, **INT** -5, **WIS** +0, **CHA** -4
 
@@ -31,8 +33,8 @@ ce, small, undead
 
 Speed 20 feet, swim 15 feet
 
-**Melee** offal +9 (finesse, magical); **Damage** 1d10-1 plus 1d6 fire and slippery grease plus 1d10-1, slippery grease
+**Melee** ◆ offal +9 (finesse, magical); **Damage** 1d10-1 plus 1d6 fire and slippery grease plus 1d10-1, slippery grease
 
-**Melee** scalding oil +9 (fire, magical, range increment <30 feet>); **Damage** 2d6 fire
+**Ranged** ◆ scalding oil +9 (fire, magical, range increment <30 feet>); **Damage** 2d6 fire
 
 **Slippery Grease** The first time on its turn that the squirming swill hits a creature with its offal Strike, hot grease from its body splatters the ground in the target's space. The target must succeed at a DC 17 Reflex save or Acrobatics check, falling prone on a failure.

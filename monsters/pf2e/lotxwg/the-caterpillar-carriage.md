@@ -5,9 +5,11 @@ unique, gargantuan, clockwork, construct
 
 ---
 
-**Perception** +30
+**Perception** +30; {@ability darkvision}, {@ability tremorsense} 100 feet (imprecise)
 
 **Languages** sakvroth, tien
+
+**Skills** Athletics +35, Diplomacy +30, Intimidation +30
 
 **STR** +9, **DEX** +3, **CON** +7, **INT** +2, **WIS** +4, **CHA** +4
 
@@ -21,7 +23,7 @@ unique, gargantuan, clockwork, construct
 
 **Immunities** death effects, disease, doomed, drained, fatigued, healing, nonlethal attacks, paralyzed, poison, sickened, unconscious, vitality, void
 
-**Resistances** physical 15
+**Resistances** physical 15 (except adamantine and orichalcum)
 
 **Weaknesses** electricity 15, orichalcum 15
 
@@ -31,9 +33,9 @@ unique, gargantuan, clockwork, construct
 
 Speed 40 feet, burrow 40 feet, swim 20 feet
 
-**Melee** jaws +35 (reach <15 feet>); **Damage** 4d10+17 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +35 (reach <15 feet>); **Damage** 4d10+17 piercing plus Improved Grab plus Improved Grab
 
-**Melee** wheel +35 (agile); **Damage** 4d8+17 bludgeoning
+**Melee** ◆ wheel +35 (agile); **Damage** 4d8+17 bludgeoning
 
 **Constrict** ◆ 4d10+4 bludgeoning, DC 40
 

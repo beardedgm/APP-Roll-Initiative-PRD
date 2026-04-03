@@ -5,9 +5,11 @@ uncommon, ce, medium, humanoid
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, scent 60 feet (imprecise)
 
 **Languages** common
+
+**Skills** Acrobatics +24, Athletics +26, Deception +29, Intimidation +29, Occultism +22, Stealth +26, Lore +24 (its home settlement or country)
 
 **STR** +7, **DEX** +5, **CON** +5, **INT** +3, **WIS** +4, **CHA** +6
 
@@ -27,15 +29,15 @@ uncommon, ce, medium, humanoid
 
 Speed 30 feet, fly 80 feet, climb 30 feet
 
-**Melee** jaws +30; **Damage** 3d10+15 piercing plus 1d10 mental and shameful loathing plus shameful loathing
+**Melee** ◆ jaws +30; **Damage** 3d10+15 piercing plus 1d10 mental and shameful loathing plus shameful loathing
 
-**Melee** talon +30 (agile); **Damage** 3d10+15 slashing plus Grab plus Grab
+**Melee** ◆ talon +30 (agile); **Damage** 3d10+15 slashing plus Grab plus Grab
 
 **Innate occult Spells** (DC 36), attack +28
 
   **Cantrips (7th)** ghost sound, mage hand
 
-  **5th** clairaudience, clairvoyance, telekinetic haul, telekinetic maneuver, ventriloquism
+  **5th** clairaudience (at will), clairvoyance (at will), telekinetic haul, telekinetic maneuver, ventriloquism (at will)
 
   **6th** animated assault, dominate
 

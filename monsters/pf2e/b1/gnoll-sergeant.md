@@ -5,9 +5,11 @@ ce, medium, gnoll, humanoid
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common, gnoll
+
+**Skills** Athletics +13, Intimidation +9, Stealth +11, Survival +10
 
 **STR** +4, **DEX** +2, **CON** +2, **INT** +0, **WIS** +1, **CHA** +0
 
@@ -27,11 +29,11 @@ ce, medium, gnoll, humanoid
 
 Speed 25 feet
 
-**Melee** scimitar +14 (forceful, sweep); **Damage** 1d6+7 slashing
+**Melee** ◆ scimitar +14 (forceful, sweep); **Damage** 1d6+7 slashing
 
-**Melee** jaws +14 (agile); **Damage** 1d6+7 piercing
+**Melee** ◆ jaws +14 (agile); **Damage** 1d6+7 piercing
 
-**Melee** composite shortbow +12 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing
+**Ranged** ◆ composite shortbow +12 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing
 
 **Bark Orders** ◆ (auditory, linguistic) The gnoll sergeant commands its allies to reposition. Any allies who hear and understand this order can use a reaction to Step.
 

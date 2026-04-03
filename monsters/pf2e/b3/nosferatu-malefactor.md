@@ -5,9 +5,11 @@ uncommon, ne, medium, undead, vampire
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
-**Languages** aklo, common, necril
+**Languages** aklo, common, necril; telepathy 60 feet
+
+**Skills** Acrobatics +21, Arcana +21, Athletics +19, Deception +17, Intimidation +19, Stealth +23
 
 **STR** +5, **DEX** +7, **CON** +3, **INT** +7, **WIS** +5, **CHA** +3
 
@@ -27,13 +29,13 @@ uncommon, ne, medium, undead, vampire
 
 Speed 30 feet, climb 25 feet
 
-**Melee** fangs +23 (finesse); **Damage** 2d12+11 piercing plus Drink Blood plus Drink Blood
+**Melee** ◆ fangs +23 (finesse); **Damage** 2d12+11 piercing plus Drink Blood plus Drink Blood
 
-**Melee** claw +23 (agile, finesse); **Damage** 2d10+11 piercing plus plague of ancients plus plague of ancients
+**Melee** ◆ claw +23 (agile, finesse); **Damage** 2d10+11 piercing plus plague of ancients plus plague of ancients
 
 **Innate divine Spells** (DC 29)
 
-  **5th** telekinetic haul
+  **5th** telekinetic haul (×3)
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) DC 29
 

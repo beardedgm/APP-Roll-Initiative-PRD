@@ -5,7 +5,9 @@ n, large, fungus, mindless, ooze
 
 ---
 
-**Perception** +6
+**Perception** +6; motion sense 60 feet, no vision
+
+**Skills** Athletics +7, Stealth +6
 
 **STR** +3, **DEX** +0, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -23,6 +25,6 @@ n, large, fungus, mindless, ooze
 
 Speed 10 feet, climb 10 feet
 
-**Melee** pseudopod +8; **Damage** 1d8+3 bludgeoning plus slime rot plus slime rot
+**Melee** ◆ pseudopod +8; **Damage** 1d8+3 bludgeoning plus slime rot plus slime rot
 
 **Slime Rot** (disease)

@@ -5,9 +5,11 @@ uncommon, le, gargantuan, evil, giant, humanoid
 
 ---
 
-**Perception** +28
+**Perception** +28; low-light vision
 
 **Languages** common, jotun, terran
+
+**Skills** Arcana +28, Athletics +32, Crafting +28, Intimidation +28, Society +27
 
 **STR** +9, **DEX** +2, **CON** +7, **INT** +2, **WIS** +6, **CHA** +4
 
@@ -29,23 +31,25 @@ uncommon, le, gargantuan, evil, giant, humanoid
 
 ---
 
-Speed 45 feet
+Speed 45 feet, air walk
 
-**Melee** greatsword +33 (magical, reach <20 feet>, versatile <P>); **Damage** 3d12+17 slashing
+**Melee** ◆ greatsword +33 (magical, reach <20 feet>, versatile <P>); **Damage** 3d12+17 slashing
 
-**Melee** longspear +32 (magical, reach <25 feet>); **Damage** 2d8+17 piercing
+**Melee** ◆ longspear +32 (magical, reach <25 feet>); **Damage** 2d8+17 piercing
 
-**Melee** fist +31 (agile, reach <20 feet>); **Damage** 3d8+17 bludgeoning
+**Melee** ◆ fist +31 (agile, reach <20 feet>); **Damage** 3d8+17 bludgeoning
 
-**Melee** rock +31 (brutal, range increment <120 feet>); **Damage** 2d12+17 bludgeoning
+**Ranged** ◆ rock +31 (brutal, range increment <120 feet>); **Damage** 2d12+17 bludgeoning
 
 **Innate arcane Spells** (DC 35)
 
-  **4th** charm, suggestion
+  **Constant (4th)** air walk
+
+  **4th** charm (at will), suggestion (at will)
 
   **5th** sending
 
-  **6th** dominate, true seeing
+  **6th** dominate (×3), true seeing
 
   **8th** charm, suggestion
 

@@ -5,9 +5,11 @@ unique, cn, medium, drow, elf, humanoid
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
 **Languages** common, daemonic, elven, undercommon
+
+**Skills** Acrobatics +22, Athletics +20, Deception +22, Diplomacy +20, Intimidation +22, Stealth +20, Survival +19
 
 **STR** +3, **DEX** +5, **CON** +0, **INT** +1, **WIS** +2, **CHA** +5
 
@@ -39,15 +41,15 @@ unique, cn, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** kukri +24 (agile, finesse, trip); **Damage** 2d6+9 slashing
+**Melee** ◆ kukri +24 (agile, finesse, trip); **Damage** 2d6+9 slashing
 
-**Melee** repeating hand crossbow +24 (range increment <60 feet>, reload <0>, repeating); **Damage** 2d6+9 piercing plus stupor poison plus stupor poison
+**Ranged** ◆ repeating hand crossbow +24 (range increment <60 feet>, reload <0>, repeating); **Damage** 2d6+9 piercing plus stupor poison plus stupor poison
 
 **Innate divine Spells** (DC 28)
 
   **Cantrips (6th)** dancing lights
 
-  **2nd** darkness, faerie fire
+  **2nd** darkness (at will), faerie fire (at will)
 
 **Defensive Shooter** Quara's ranged attacks don't trigger reactions.
 

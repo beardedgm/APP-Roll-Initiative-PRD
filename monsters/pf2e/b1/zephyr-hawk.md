@@ -5,7 +5,9 @@ n, small, air, elemental
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
+
+**Skills** Acrobatics +13, Stealth +11
 
 **STR** +2, **DEX** +4, **CON** +1, **INT** -4, **WIS** +0, **CHA** +0
 
@@ -23,6 +25,6 @@ n, small, air, elemental
 
 Speed fly 50 feet
 
-**Melee** wing +11 (agile, finesse); **Damage** 1d8+4 slashing
+**Melee** ◆ wing +11 (agile, finesse); **Damage** 1d8+4 slashing
 
 **Circling Attack** ◆◆ The zephyr hawk Flies up to half its Speed, makes two wing Strikes, then Flies up to half its Speed again to return to its original location. The second half of this movement doesn't trigger reactions. Both attacks count toward the zephyr hawk's multiple attack penalty, but the penalty doesn't increase until after it makes both attacks.

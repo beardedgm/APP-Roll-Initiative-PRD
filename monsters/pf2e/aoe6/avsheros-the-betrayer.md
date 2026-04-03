@@ -5,9 +5,11 @@ unique, ce, large, angel, celestial
 
 ---
 
-**Perception** +41
+**Perception** +41; darkvision, true seeing
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Athletics +44, Intimidation +43, Religion +41
 
 **STR** +11, **DEX** +7, **CON** +9, **INT** +6, **WIS** +8, **CHA** +10
 
@@ -29,19 +31,21 @@ unique, ce, large, angel, celestial
 
 Speed 35 feet, fly 60 feet
 
-**Melee** unholy greatsword +42 (evil, magical, reach <10 feet>, versatile 10 feet); **Damage** 4d12+21 slashing plus 1d6 evil
+**Melee** ◆ unholy greatsword +42 (evil, magical, reach <10 feet>, versatile 10 feet); **Damage** 4d12+21 slashing plus 1d6 evil
 
-**Melee** radiant ray +40 (evil, magical, range <60 feet>); **Damage** 6d6+15 fire plus 2d6 evil (plus dazzled on critical hit)
+**Ranged** ◆ radiant ray +40 (evil, magical, range <60 feet>); **Damage** 6d6+15 fire plus 2d6 evil (plus dazzled on critical hit)
 
 **Innate divine Spells** (DC 47), attack +39
 
+  **Constant (5th)** detect alignment, tongues, true seeing
+
   **Cantrips (7th)** light
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
-  **4th** discern lies
+  **4th** discern lies (at will)
 
-  **7th** blade barrier, dispel magic, heal
+  **7th** blade barrier, dispel magic (at will), heal
 
   **8th** power word stun, spiritual epidemic
 

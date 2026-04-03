@@ -5,7 +5,9 @@ n, large, aberration, earth, swarm
 
 ---
 
-**Perception** +9
+**Perception** +9; no vision, {@ability tremorsense} 40 feet (precise)
+
+**Skills** Athletics +8, Stealth +10
 
 **STR** +2, **DEX** +4, **CON** +2, **INT** -3, **WIS** +3, **CHA** +0
 

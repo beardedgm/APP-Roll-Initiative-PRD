@@ -5,9 +5,11 @@ ce, medium, beast, earth
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common, terran
+
+**Skills** Acrobatics +10, Athletics +9, Stealth +12
 
 **STR** +3, **DEX** +2, **CON** +3, **INT** -2, **WIS** +2, **CHA** -2
 
@@ -19,7 +21,7 @@ ce, medium, beast, earth
 
 **HP** 40
 
-**Resistances** physical 5
+**Resistances** physical 5 (except adamantine)
 
 **Clawed Feet** ◈ (attack) **Trigger** The gargoyle is Flying, and a creature moves into an adjacent square below it.; The gargoyle makes a claw Strike against the triggering creature.
 
@@ -27,8 +29,8 @@ ce, medium, beast, earth
 
 Speed 25 feet, fly 40 feet
 
-**Melee** jaws +13; **Damage** 2d8+3 piercing
+**Melee** ◆ jaws +13; **Damage** 2d8+3 piercing
 
-**Melee** claw +13 (agile); **Damage** 2d6+3 slashing
+**Melee** ◆ claw +13 (agile); **Damage** 2d6+3 slashing
 
 **Statue** ◆ (concentrate) Until the next time it acts, the gargoyle appears to be a statue. It has an automatic result of 32 on Deception checks and DCs to pass as a statue.

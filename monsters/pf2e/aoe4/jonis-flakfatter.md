@@ -9,9 +9,11 @@ unique, ne, medium, human, humanoid
 
 **Languages** common, daemonic, infernal, osiriani, undercommon
 
+**Skills** Acrobatics +25, Crafting +26, Deception +26, Diplomacy +26, Intimidation +26, Religion +29, Society +24, Stealth +25, Thievery +25, Norgorber Lore +28
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +3, **WIS** +6, **CHA** +3
 
-**Items** +1 spell storing dagger (contains crisis of faith), high priest robes, religious symbol of {@deity Norgorber}
+**Items** +1 spell storing dagger (contains crisis of faith), high priest robes, religious symbol of Norgorber
 
 ---
 
@@ -29,9 +31,9 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +28 (agile, finesse, magical, versatile <S>); **Damage** 2d4+10 piercing plus 2d8 persistent poison and crisis of faith plus crisis of faith
+**Melee** ◆ dagger +28 (agile, finesse, magical, versatile <S>); **Damage** 2d4+10 piercing plus 2d8 persistent poison and crisis of faith plus crisis of faith
 
-**Melee** dagger +28 (agile, magical, thrown <10 feet>); **Damage** 2d4+10 piercing plus crisis of faith plus crisis of faith
+**Ranged** ◆ dagger +28 (agile, magical, thrown <10 feet>); **Damage** 2d4+10 piercing plus crisis of faith plus crisis of faith
 
 **Prepared divine Spells** (DC 37), attack +29
 
@@ -51,7 +53,7 @@ Speed 25 feet
 
   **7th** divine decree, energy aegis, regenerate
 
-  **8th** harm, spirit blast, spiritual epidemic
+  **8th** harm (×6), spirit blast, spiritual epidemic
 
 **Infector** ◆◆ (concentrate, divine, divination) Flakfatter targets a creature within 30 feet that's currently subject to a poison affliction. The poison affliction progresses to the next stage.
 

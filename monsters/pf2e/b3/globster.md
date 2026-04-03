@@ -7,6 +7,8 @@ n, large, aquatic, ooze
 
 **Perception** +9
 
+**Skills** Athletics +15
+
 **STR** +6, **DEX** -5, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -27,7 +29,7 @@ n, large, aquatic, ooze
 
 Speed 15 feet, swim 30 feet
 
-**Melee** tendril +15; **Damage** 2d8+6 bludgeoning plus Grab and nauseating slap plus Grab, nauseating slap
+**Melee** ◆ tendril +15; **Damage** 2d8+6 bludgeoning plus Grab and nauseating slap plus Grab, nauseating slap
 
 **Constrict** ◆ 1d8+6, DC 22
 

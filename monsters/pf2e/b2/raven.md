@@ -5,7 +5,9 @@ n, tiny, animal
 
 ---
 
-**Perception** +5
+**Perception** +5; low-light vision
+
+**Skills** Acrobatics +5, Thievery +5
 
 **STR** -3, **DEX** +3, **CON** +0, **INT** -4, **WIS** +3, **CHA** +0
 
@@ -23,4 +25,4 @@ n, tiny, animal
 
 Speed 10 feet, fly 40 feet
 
-**Melee** beak +7 (finesse); **Damage** 1d6 piercing
+**Melee** ◆ beak +7 (finesse); **Damage** 1d6 piercing

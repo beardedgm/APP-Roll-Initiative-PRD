@@ -5,9 +5,11 @@ rare, n, gargantuan, astral, beast
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision
 
 **Languages** aklo (can't speak any language)
+
+**Skills** Acrobatics +36, Athletics +41
 
 **STR** +10, **DEX** +5, **CON** +7, **INT** -4, **WIS** +4, **CHA** +8
 
@@ -38,13 +40,13 @@ rare, n, gargantuan, astral, beast
 
 Speed 100 feet, fly 100 feet
 
-**Melee** maw +39 (magical, reach <30 feet>); **Damage** 4d12+18 piercing plus Improved Grab plus Improved
+**Melee** ◆ maw +39 (magical, reach <30 feet>); **Damage** 4d12+18 piercing plus Improved Grab plus Improved
 
-**Melee** body +39 (magical, reach <20 feet>); **Damage** 4d10+18 bludgeoning
+**Melee** ◆ body +39 (magical, reach <20 feet>); **Damage** 4d10+18 bludgeoning
 
-**Melee** incalculable fangs +37 (agile, magical, reach <10 feet>); **Damage** 3d6+16 piercing plus 2d8 poison
+**Melee** ◆ incalculable fangs +37 (agile, magical, reach <10 feet>); **Damage** 3d6+16 piercing plus 2d8 poison
 
-**Melee** tail +39 (magical, reach <30 feet>); **Damage** 4d12+18 bludgeoning
+**Melee** ◆ tail +39 (magical, reach <30 feet>); **Damage** 4d12+18 bludgeoning
 
 **Devour Tail** ◆ An ouroboros spend most of its life eating its own tail, which perpetually regrows at the same rate it's consumed. The ouroboros places its maw around the end of its tail and begins devouring its own body. While the ouroboros is consuming itself, its regeneration can't be suppressed, and it is immune to drained, enfeebled, fatigued, persistent damage, and sickened conditions. If any of these conditions is in effect when the ouroboros takes this action, the condition immediately ends. While eating its tail, the ouroboros can't make maw or tail strikes, and its Speeds are 50 feet. It continues devouring its tail even while dying, unconscious, stunned, or otherwise unable to act. To end this effect, the ouroboros must first be immobilized, then a creature must successfully Grapple it, which tears the maw free in addition to its normal effects. The ouroboros can also cease Devouring its Tail with a single action. Either of these tears the maw free of the tail, causing the stump to spill blood as described in sanguine spray.
 

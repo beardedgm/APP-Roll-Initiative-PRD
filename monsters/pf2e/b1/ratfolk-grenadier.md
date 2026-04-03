@@ -5,13 +5,15 @@ ln, small, humanoid, ratfolk
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common
 
+**Skills** Acrobatics +9, Crafting +12, Deception +7, Society +10, Stealth +12, Thievery +9
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +4, **WIS** +2, **CHA** +1
 
-**Items** alchemist's tools, {@item hand crossbow} (20 {@item bolt (generic)||bolts}), studded leather armor
+**Items** alchemist's tools, hand crossbow (20 bolts), studded leather armor
 
 **Infused Items** A ratfolk grenadier carries 2 infused moderate acid flasks, 2 infused moderate alchemist's fires, and 2 infused moderate frost vials. These items last for 24 hours, or until the next time they make their daily preparations.
 
@@ -27,11 +29,11 @@ ln, small, humanoid, ratfolk
 
 Speed 25 feet
 
-**Melee** fangs +12 (agile, finesse); **Damage** 1d4 piercing
+**Melee** ◆ fangs +12 (agile, finesse); **Damage** 1d4 piercing
 
-**Melee** hand crossbow +12 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing
+**Ranged** ◆ hand crossbow +12 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing
 
-**Melee** alchemical bomb +13 (range increment <20 feet>, splash); plus varies by bomb
+**Ranged** ◆ alchemical bomb +13 (range increment <20 feet>, splash); plus varies by bomb
 
 **Cheek Pouches** A ratfolk grenadier has stretchy cheek pouches that can store up to 1 cubic foot of objects (though no more than 4 light items). The ratfolk can remove or store an item using the Interact action. As long as the ratfolk has at least one object in its cheek pouches, its speech is noticeably difficult to understand.
 

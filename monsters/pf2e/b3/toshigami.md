@@ -5,9 +5,11 @@ rare, ng, medium, kami, spirit
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision
 
-**Languages** common
+**Languages** common; speak with plants, telepathy 150 feet
+
+**Skills** Acrobatics +30, Diplomacy +31, Medicine +28, Nature +30, Stealth +28, Survival +30
 
 **STR** +5, **DEX** +7, **CON** +6, **INT** +2, **WIS** +7, **CHA** +8
 
@@ -31,15 +33,17 @@ rare, ng, medium, kami, spirit
 
 Speed 50 feet, fly 50 feet
 
-**Melee** staff +30 (magical, two-hand <d8>); **Damage** 2d4+13 bludgeoning plus fleeting blossoms and touch of ages plus fleeting blossoms, touch of ages
+**Melee** ◆ staff +30 (magical, two-hand <d8>); **Damage** 2d4+13 bludgeoning plus fleeting blossoms and touch of ages plus fleeting blossoms, touch of ages
 
 **Innate divine Spells** (DC 36)
+
+  **Constant (9th)** foresight
 
   **4th** status
 
   **5th** gentle repose
 
-  **6th** restoration, slow, tree stride
+  **6th** restoration, slow, tree stride (at will)
 
   **7th** finger of death, haste, regenerate
 

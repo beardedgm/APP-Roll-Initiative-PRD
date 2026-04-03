@@ -5,9 +5,11 @@ uncommon, ne, large, daemon, fiend
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Arcana +27, Crafting +29, Intimidation +28, Medicine +26, Religion +28, Stealth +24, Survival +28
 
 **STR** +8, **DEX** +3, **CON** +9, **INT** +6, **WIS** +5, **CHA** +5
 
@@ -29,15 +31,15 @@ uncommon, ne, large, daemon, fiend
 
 Speed 30 feet, climb 20 feet
 
-**Melee** fist +29 (evil, magical, reach <15 feet>); **Damage** 3d8+14 bludgeoning plus 1d6 evil and pollution infusion plus pollution infusion
+**Melee** ◆ fist +29 (evil, magical, reach <15 feet>); **Damage** 3d8+14 bludgeoning plus 1d6 evil and pollution infusion plus pollution infusion
 
 **Innate divine Spells** (DC 38)
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
-  **5th** cloudkill, dimension door
+  **5th** cloudkill (at will), dimension door
 
   **8th** horrid wilting, spiritual epidemic
 

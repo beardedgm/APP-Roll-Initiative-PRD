@@ -5,9 +5,11 @@ uncommon, ce, medium, fey
 
 ---
 
-**Perception** +12
+**Perception** +12; low-light vision
 
 **Languages** aklo, common, sylvan
+
+**Skills** Acrobatics +15, Deception +15, Nature +12, Performance +15, Stealth +15
 
 **STR** +3, **DEX** +5, **CON** +2, **INT** +2, **WIS** +2, **CHA** +5
 
@@ -23,11 +25,11 @@ uncommon, ce, medium, fey
 
 Speed 25 feet
 
-**Melee** claw +17 (agile, finesse); **Damage** 2d6+6 slashing and 1d6 persistent bleed
+**Melee** ◆ claw +17 (agile, finesse); **Damage** 2d6+6 slashing and 1d6 persistent bleed
 
 **Innate primal Spells** (DC 24)
 
-  **3rd** mind reading
+  **3rd** mind reading (at will)
 
 **Captivating Dance** ◆◆ (enchantment, incapacitation, mental, primal, visual) The baobhan sith sways rhythmically and Strides up to their Speed. Each creature within 30 feet of the baobhan sith at the end of their movement must attempt a DC 25 Will save. **Critical Success** The creature is unaffected and is temporarily immune to Captivating Dance for 24 hours.
 **Success** The creature is slowed 1 for 1 round and is temporarily immune to Captivating Dance for 24 hours.

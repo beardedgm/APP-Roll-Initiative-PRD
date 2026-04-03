@@ -5,9 +5,11 @@ rare, cn, small, beast
 
 ---
 
-**Perception** +9
+**Perception** +9; {@ability darkvision}, {@ability scent} 30 feet (imprecise)
 
 **Languages** common
+
+**Skills** Acrobatics +10, Deception +8, Occultism +8, Stealth +10, Thievery +10
 
 **STR** +3, **DEX** +3, **CON** +4, **INT** +1, **WIS** +2, **CHA** +1
 
@@ -33,7 +35,7 @@ rare, cn, small, beast
 
 Speed fly 40 feet
 
-**Melee** claw +10 (agile); **Damage** 1d8+5 slashing
+**Melee** ◆ claw +10 (agile); **Damage** 1d8+5 slashing
 
 **Innate occult Spells** (DC 20)
 

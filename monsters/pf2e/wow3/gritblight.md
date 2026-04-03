@@ -5,9 +5,11 @@ rare, large, earth, elemental
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision, blight sense 60 feet (precise), tremorsense 120 feet (imprecise), grit vision
 
 **Languages** petran
+
+**Skills** Acrobatics +21, Athletics +27
 
 **STR** +8, **DEX** +4, **CON** +5, **INT** +0, **WIS** +4, **CHA** +1
 
@@ -31,11 +33,11 @@ rare, large, earth, elemental
 
 ---
 
-Speed 30 feet, burrow 30 feet
+Speed 30 feet, burrow 30 feet, earth glide
 
-**Melee** claw +27 (reach <10 feet>); **Damage** 3d6+14 slashing plus 2d6 acid
+**Melee** ◆ claw +27 (reach <10 feet>); **Damage** 3d6+14 slashing plus 2d6 acid
 
-**Melee** caustic shard +23 (range increment <60 feet>); **Damage** 3d6+10 piercing plus 2d6 acid
+**Ranged** ◆ caustic shard +23 (range increment <60 feet>); **Damage** 3d6+10 piercing plus 2d6 acid
 
 **Ayrzul's Blight** (disease, earth, primal) See Ayrzul's Blight|WoW3, but DC 33.
 

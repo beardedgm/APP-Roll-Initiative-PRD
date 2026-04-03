@@ -5,9 +5,11 @@ rare, ce, gargantuan, dragon, incorporeal, undead, wraith
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision, lifesense 120 feet
 
 **Languages** common, draconic, necril
+
+**Skills** Acrobatics +30, Arcana +30, Intimidation +33, Religion +33, Stealth +33
 
 **STR** -5, **DEX** +9, **CON** +0, **INT** +7, **WIS** +7, **CHA** +9
 
@@ -21,7 +23,7 @@ rare, ce, gargantuan, dragon, incorporeal, undead, wraith
 
 **Immunities** poison, precision, death effects, disease, paralyzed, unconscious
 
-**Resistances** all 20
+**Resistances** all 20 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Frightful Presence** (aura, emotion, fear, mental) 90 feet, DC 33 (page 305)
 
@@ -33,19 +35,19 @@ rare, ce, gargantuan, dragon, incorporeal, undead, wraith
 
 Speed 50 feet, fly 80 feet
 
-**Melee** spectral jaws +34 (reach <20 feet>); **Damage** 3d12+17 negative plus drain life plus drain life
+**Melee** ◆ spectral jaws +34 (reach <20 feet>); **Damage** 3d12+17 negative plus drain life plus drain life
 
-**Melee** spectral claw +34 (agile, reach <15 feet>); **Damage** 3d8+17 negative plus divine dispelling and drain life plus divine dispelling, drain life
+**Melee** ◆ spectral claw +34 (agile, reach <15 feet>); **Damage** 3d8+17 negative plus divine dispelling and drain life plus divine dispelling, drain life
 
 **Innate divine Spells** (DC 35)
 
-  **3rd** bind undead
+  **3rd** bind undead (at will)
 
-  **4th** charm, darkness
+  **4th** charm (×3), darkness
 
   **6th** vampiric exsanguination
 
-  **7th** divine wrath, finger of death
+  **7th** divine wrath (×3), finger of death
 
   **8th** charm
 

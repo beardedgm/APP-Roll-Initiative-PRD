@@ -5,13 +5,15 @@ unique, cn, large, cold, humanoid
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, scent 30 feet (imprecise)
 
 **Languages** erutaki, jotun
 
+**Skills** Athletics +28, Medicine +24, Nature +26, Stealth +24
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** +2, **WIS** +5, **CHA** +0
 
-**Items** {@runeItem greataxe||+2 weapon potency||greater striking|}
+**Items** 
 
 **Frostbite Runes** Ainamuuren is marked by the runes of the saumen kar, a gift tied to their ancient curse. Ainamuuren gains a +1 status bonus to saving throws against evil and necromancy spells and effects (indicated below). He can sense the presence of evil undead as a pervasive taste of oily corruption in the air. This is a vague sense that allows him to know when such a creature is within 60 feet, though he can't precisely pinpoint their location with this sense. This sense also extends to living creatures who have the negative healing ability, like dhampir.
 
@@ -35,13 +37,13 @@ unique, cn, large, cold, humanoid
 
 Speed 35 feet
 
-**Melee** greataxe +29 (cold, sweep); **Damage** 3d12+11 slashing plus 1d8 cold
+**Melee** ◆ greataxe +29 (cold, sweep); **Damage** 3d12+11 slashing plus 1d8 cold
 
-**Melee** horns +28 (agile, cold); **Damage** 3d10+11 piercing plus 1d8 cold and Knockdown plus Knockdown
+**Melee** ◆ horns +28 (agile, cold); **Damage** 3d10+11 piercing plus 1d8 cold and Knockdown plus Knockdown
 
 **Innate primal Spells** (DC 34)
 
-  **5th** wall of ice
+  **5th** wall of ice (×3)
 
   **7th** summon animal
 

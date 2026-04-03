@@ -5,7 +5,9 @@ uncommon, n, medium, mindless, plant
 
 ---
 
-**Perception** +11
+**Perception** +11; tremorsense (precise)
+
+**Skills** Athletics +12, Stealth +12
 
 **STR** +5, **DEX** +0, **CON** +3, **INT** -5, **WIS** +4, **CHA** +1
 
@@ -25,7 +27,7 @@ uncommon, n, medium, mindless, plant
 
 Speed 10 feet
 
-**Melee** vine +14 (reach <10 feet>); **Damage** 2d6+8 bludgeoning plus Grab
+**Melee** ◆ vine +14 (reach <10 feet>); **Damage** 2d6+8 bludgeoning plus Grab
 
 **Constrict** ◆ 2d6+4 bludgeoning, DC 21
 

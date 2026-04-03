@@ -5,9 +5,11 @@ ne, medium, humanoid
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision
 
 **Languages** goblin, sylvan
+
+**Skills** Arcana +8, Athletics +9, Nature +8, Cooking Lore +10, Farming Lore +10
 
 **STR** +4, **DEX** +1, **CON** +2, **INT** +3, **WIS** +1, **CHA** -1
 
@@ -25,8 +27,8 @@ ne, medium, humanoid
 
 Speed 25 feet
 
-**Melee** kukri +11 (agile, trip); **Damage** 1d6+6 slashing
+**Melee** ◆ kukri +11 (agile, trip); **Damage** 1d6+6 slashing
 
-**Melee** javelin +8 (thrown <30 feet>); **Damage** 1d6+6 piercing
+**Ranged** ◆ javelin +8 (thrown <30 feet>); **Damage** 1d6+6 piercing
 
 **Resize Plant** ◆◆ (arcane, plant, polymorph, transmutation) **Frequency** {"unit":"day","number":2}; **Requirements** The buso touches a Small, Medium, or Large plant; The plant grows or shrinks by one size, remaining that size for the next 5 minutes. If used on a plant creature, this effect has the effects of enlarge or shrink (buso's choice). Unwilling plant creatures can attempt a DC 18 Fortitude saving throw to resist this effect.

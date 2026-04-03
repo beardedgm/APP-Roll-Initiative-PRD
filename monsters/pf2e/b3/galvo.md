@@ -5,9 +5,11 @@ ne, medium, aberration, amphibious
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** aquan (can't speak any language)
+
+**Skills** Acrobatics +19, Athletics +19, Stealth +19
 
 **STR** +4, **DEX** +6, **CON** +3, **INT** -2, **WIS** +4, **CHA** -1
 
@@ -31,9 +33,9 @@ ne, medium, aberration, amphibious
 
 Speed 20 feet, swim 30 feet
 
-**Melee** eel jaws +21 (agile, finesse); **Damage** 2d6+7 piercing plus 1d12 electricity
+**Melee** ◆ eel jaws +21 (agile, finesse); **Damage** 2d6+7 piercing plus 1d12 electricity
 
-**Melee** eel dart +21 (agile, thrown <20 feet>); **Damage** 1d6+7 piercing plus 1d12 electricity
+**Ranged** ◆ eel dart +21 (agile, thrown <20 feet>); **Damage** 1d6+7 piercing plus 1d12 electricity
 
 **Squirming Embrace** ◆◆ The galvo Strides, ending its movement sharing a space with another creature, and deals 3d6 piercing plus 2d12 electricity damage to the creature. The creature must attempt a DC 28 basic Reflex save.
 

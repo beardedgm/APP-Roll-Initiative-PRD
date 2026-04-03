@@ -5,9 +5,11 @@ rare, ne, tiny, fiend, sahkil
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, true seeing
 
-**Languages** abyssal, celestial, infernal, requian
+**Languages** abyssal, celestial, infernal, requian; telepathy 100 feet
+
+**Skills** Acrobatics +28, Deception +27, Intimidation +25, Religion +25, Stealth +30, Thievery +26
 
 **STR** +0, **DEX** +8, **CON** +4, **INT** +2, **WIS** +5, **CHA** +7
 
@@ -33,15 +35,17 @@ rare, ne, tiny, fiend, sahkil
 
 Speed 10 feet, fly 40 feet
 
-**Melee** leg +29 (agile, finesse, magical); **Damage** 3d6+14 slashing plus 2d6 evil
+**Melee** ◆ leg +29 (agile, finesse, magical); **Damage** 3d6+14 slashing plus 2d6 evil
 
 **Innate divine Spells** (DC 34)
 
+  **Constant (7th)** true seeing
+
   **Cantrips (7th)** dancing lights, daze, guidance
 
-  **5th** illusory object
+  **5th** illusory object (×3)
 
-  **7th** fear, mask of terror
+  **7th** fear (at will), mask of terror (at will)
 
 **Bond with Host** ◆ (concentrate, move) **Requirements** The chakanaj is Bonded with a Host; The chakanaj interposes itself between the host and its foes, granting its host a +2 circumstance bonus to AC until the start of the chakanaj's next turn.
 

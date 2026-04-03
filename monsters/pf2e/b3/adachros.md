@@ -5,9 +5,11 @@ uncommon, n, large, astral
 
 ---
 
-**Perception** +22
+**Perception** +22; thoughtsense 120 feet (imprecise)
 
-**Languages** abyssal, celestial, common, daemonic, infernal, protean, requian, utopian
+**Languages** abyssal, celestial, common, daemonic, infernal, protean, requian, utopian; telepathy 120 feet
+
+**Skills** Athletics +25, Deception +25, Intimidation +27, Occultism +22
 
 **STR** +6, **DEX** +2, **CON** +5, **INT** +5, **WIS** +5, **CHA** +8
 
@@ -31,17 +33,17 @@ uncommon, n, large, astral
 
 Speed 40 feet, fly 40 feet
 
-**Melee** fist +27 (agile, magical, versatile <P>); **Damage** 3d10+14 bludgeoning
+**Melee** ◆ fist +27 (agile, magical, versatile <P>); **Damage** 3d10+14 bludgeoning
 
-**Melee** psychic shard +27 (magical, range increment <60 feet>); **Damage** 3d8+14 piercing
+**Ranged** ◆ psychic shard +27 (magical, range increment <60 feet>); **Damage** 3d8+14 piercing
 
 **Innate occult Spells** (DC 33)
 
   **Cantrips (7th)** daze, detect magic
 
-  **5th** hallucinatory terrain
+  **5th** hallucinatory terrain (×3)
 
-  **6th** hallucination, illusory scene, modify memory, zealous conviction
+  **6th** hallucination (×2), illusory scene, modify memory, zealous conviction
 
   **7th** reverse gravity
 

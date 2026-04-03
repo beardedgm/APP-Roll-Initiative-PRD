@@ -5,9 +5,11 @@ rare, ln, medium, undead
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, sense visitors
 
 **Languages** common, necril
+
+**Skills** Deception +31, Diplomacy +31, Intimidation +33, Occultism +28, Society +28
 
 **STR** +4, **DEX** +8, **CON** +4, **INT** +6, **WIS** +6, **CHA** +9
 
@@ -29,13 +31,15 @@ rare, ln, medium, undead
 
 ---
 
-Speed 25 feet
+Speed 25 feet, air walk
 
-**Melee** rosebriar lash +28 (finesse, magical, reach <10 feet>, versatile <P>); **Damage** 4d8+8 slashing plus 2d6 persistent bleed
+**Melee** ◆ rosebriar lash +28 (finesse, magical, reach <10 feet>, versatile <P>); **Damage** 4d8+8 slashing plus 2d6 persistent bleed
 
 **Innate occult Spells** (DC 41)
 
-  **6th** bestial curse, cloak of colors, enthrall, outcast's curse
+  **Constant (5th)** air walk
+
+  **6th** bestial curse, cloak of colors, enthrall (at will), outcast's curse
 
   **7th** curse of lost time, feeblemind, hallucination, project image, suggestion
 

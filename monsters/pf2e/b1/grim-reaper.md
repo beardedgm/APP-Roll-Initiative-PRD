@@ -5,9 +5,11 @@ unique, ne, medium, undead
 
 ---
 
-**Perception** +41
+**Perception** +41; darkvision, see invisibility, status sight, true seeing
 
 **Languages** common, necril
+
+**Skills** Acrobatics +43, Athletics +38, Deception +40, Intimidation +43, Religion +39, Society +36, Stealth +43
 
 **STR** +8, **DEX** +10, **CON** +8, **INT** +5, **WIS** +7, **CHA** +8
 
@@ -39,13 +41,19 @@ unique, ne, medium, undead
 
 Speed 50 feet, fly 75 feet
 
-**Melee** keen scythe +40 (agile, deadly <3d10>, magical, reach <10 feet>, trip); **Damage** 4d10+23 slashing plus death strike and energy drain plus death strike, energy drain
+**Melee** ◆ keen scythe +40 (agile, deadly <3d10>, magical, reach <10 feet>, trip); **Damage** 4d10+23 slashing plus death strike and energy drain plus death strike, energy drain
 
 **Innate divine Spells** (DC 47), attack +37
 
+  **Constant (6th)** true seeing
+
+  **Constant (3rd)** haste
+
+  **Constant (2nd)** see invisibility
+
   **7th** plane shift
 
-  **10th** finger of death
+  **10th** finger of death (×4)
 
 **Death Strike** (death) A creature critically hit by any of the grim reaper's attacks or that critically fails against any of its spells must succeed at a DC 47 Fortitude save or die.
 

@@ -5,7 +5,9 @@ uncommon, ne, medium, undead
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
+
+**Skills** Acrobatics +16, Athletics +17, Stealth +16
 
 **STR** +4, **DEX** +5, **CON** +4, **INT** -3, **WIS** +1, **CHA** +0
 
@@ -29,9 +31,9 @@ uncommon, ne, medium, undead
 
 Speed 35 feet
 
-**Melee** fist +18 (agile, finesse); **Damage** 2d8+8 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +18 (agile, finesse); **Damage** 2d8+8 bludgeoning plus Grab plus Grab
 
-**Melee** bloody spew +18 (range <20 feet>); **Damage** 3d6+4 bludgeoning and dazzled for 1 round
+**Ranged** ◆ bloody spew +18 (range <20 feet>); **Damage** 3d6+4 bludgeoning and dazzled for 1 round
 
 **Bloody Handprint** ◆ The excorion plants a magical handprint on the target, marking them as chosen for death. The excorion makes a fist Strike against an adjacent creature; this does not count toward the excorion's multiple attack penalty. On a hit, the attack does no damage, but the creature becomes observed to every excorion within 60 feet, even if an excorion's line of sight would be blocked by a wall or other obstacle. This effect lasts until the handprint is washed off, which requires water and spending 3 actions to fully clean off.
 

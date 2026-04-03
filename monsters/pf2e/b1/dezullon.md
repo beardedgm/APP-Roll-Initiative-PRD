@@ -5,7 +5,9 @@ n, medium, plant
 
 ---
 
-**Perception** +18
+**Perception** +18; low-light vision
+
+**Skills** Acrobatics +21, Athletics +19, Stealth +21
 
 **STR** +5, **DEX** +7, **CON** +3, **INT** -4, **WIS** +2, **CHA** -1
 
@@ -23,11 +25,11 @@ n, medium, plant
 
 ---
 
-Speed 25 feet
+Speed 25 feet, climb 30 feet
 
-**Melee** vine +21 (acid, agile); **Damage** 3d6+8 bludgeoning plus 3d6 acid and Grab plus Grab
+**Melee** ◆ vine +21 (acid, agile); **Damage** 3d6+8 bludgeoning plus 3d6 acid and Grab plus Grab
 
-**Melee** acid glob +23 (acid, range <30 feet>); **Damage** 4d8 acid plus amnesia venom plus amnesia venom
+**Ranged** ◆ acid glob +23 (acid, range <30 feet>); **Damage** 4d8 acid plus amnesia venom plus amnesia venom
 
 **Amnesia Venom** (mental, poison)
 

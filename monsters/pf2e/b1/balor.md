@@ -5,9 +5,11 @@ ce, large, demon, fiend
 
 ---
 
-**Perception** +36
+**Perception** +36; darkvision, true seeing
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +35, Athletics +37, Deception +36, Diplomacy +32, Intimidation +38, Religion +32, Society +32, Stealth +33
 
 **STR** +9, **DEX** +7, **CON** +9, **INT** +6, **WIS** +6, **CHA** +8
 
@@ -35,21 +37,23 @@ ce, large, demon, fiend
 
 Speed 35 feet, fly 70 feet
 
-**Melee** vorpal cold iron silver longsword +40 (evil, magical, reach <10 feet>, versatile <P>); **Damage** 4d8+17 slashing plus 1d6 evil
+**Melee** ◆ vorpal cold iron silver longsword +40 (evil, magical, reach <10 feet>, versatile <P>); **Damage** 4d8+17 slashing plus 1d6 evil
 
-**Melee** cold iron silver flame whip +40 (disarm, evil, fire, magical, reach <20 feet>, trip); **Damage** 4d6+17 fire plus 1d6 evil, Improved Grab, and whip reposition plus Improved Grab, whip reposition
+**Melee** ◆ cold iron silver flame whip +40 (disarm, evil, fire, magical, reach <20 feet>, trip); **Damage** 4d6+17 fire plus 1d6 evil, Improved Grab, and whip reposition plus Improved Grab, whip reposition
 
 **Innate divine Spells** (DC 44)
 
+  **Constant (6th)** true seeing
+
   **Cantrips (10th)** telekinetic projectile
 
-  **5th** dimension door
+  **5th** dimension door (at will)
 
-  **6th** dominate
+  **6th** dominate (at will)
 
-  **8th** dispel magic
+  **8th** dispel magic (at will)
 
-  **10th** dimension door, divine decree
+  **10th** dimension door, divine decree (×2)
 
 **Dimensional Dervish** A balor can cast their 5th-level innate dimension door with only a single action.
 

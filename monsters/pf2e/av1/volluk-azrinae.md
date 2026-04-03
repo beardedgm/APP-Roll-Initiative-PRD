@@ -5,9 +5,11 @@ unique, ce, medium, aberration, swarm
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, {@ability tremorsense} 30 feet (imprecise)
 
 **Languages** aklo, common, elven, undercommon
+
+**Skills** Acrobatics +17, Crafting +15, Deception +15, Intimidation +17, Occultism +17, Stealth +15
 
 **STR** +4, **DEX** +6, **CON** +2, **INT** +6, **WIS** +4, **CHA** +2
 
@@ -33,7 +35,7 @@ unique, ce, medium, aberration, swarm
 
 Speed 10 feet, swim 25 feet
 
-**Melee** tendril +18 (reach <10 feet>); **Damage** 2d8+8 persistent piercing damage
+**Melee** ◆ tendril +18 (reach <10 feet>); **Damage** 2d8+8 persistent piercing damage
 
 **Spontaneous occult Spells** (DC 25), attack +17
 
@@ -47,7 +49,7 @@ Speed 10 feet, swim 25 feet
 
   **Cantrips (4th)** dancing lights
 
-  **2nd** darkness, faerie fire
+  **2nd** darkness (at will), faerie fire (at will)
 
 **Squirming Embrace** ◆ Volluk Strides, ending his movement sharing a space with a creature, and deals 3d8 piercing damage to the creature. The creature can attempt a DC 23 basic Reflex save.
 

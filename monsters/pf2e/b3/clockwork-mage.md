@@ -5,7 +5,9 @@ uncommon, n, medium, clockwork, construct, mindless
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
+
+**Skills** Acrobatics +17
 
 **STR** +2, **DEX** +6, **CON** +4, **INT** -5, **WIS** +2, **CHA** -5
 
@@ -33,7 +35,7 @@ uncommon, n, medium, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** fist +19 (agile, finesse); **Damage** 2d10+6 bludgeoning
+**Melee** ◆ fist +19 (agile, finesse); **Damage** 2d10+6 bludgeoning
 
 **Innate arcane Spells** (DC 28), attack +20
 

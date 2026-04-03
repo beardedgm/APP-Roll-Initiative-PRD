@@ -5,9 +5,11 @@ n, tiny, aberration
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** aklo, common, draconic
+
+**Skills** Arcana +11, Occultism +9, Stealth +8, Library Lore +11, Scribing Lore +11
 
 **STR** -2, **DEX** +3, **CON** +1, **INT** +4, **WIS** +4, **CHA** +0
 
@@ -30,15 +32,15 @@ n, tiny, aberration
 
 Speed 20 feet
 
-**Melee** fountain pen +10 (agile, finesse, magical); **Damage** 1d6+2 piercing plus inkstain plus inkstain
+**Melee** ◆ fountain pen +10 (agile, finesse, magical); **Damage** 1d6+2 piercing plus inkstain plus inkstain
 
-**Melee** morpheme glyph +10 (evocation, magical, range <40 feet>); **Damage** 3d6 force
+**Ranged** ◆ morpheme glyph +10 (evocation, magical, range <40 feet>); **Damage** 3d6 force
 
 **Innate arcane Spells** (DC 20)
 
   **Cantrips (2nd)** detect magic, message, read aura, sigil
 
-  **2nd** comprehend language, dispel magic
+  **2nd** comprehend language (×3), dispel magic
 
   **3rd** secret page
 

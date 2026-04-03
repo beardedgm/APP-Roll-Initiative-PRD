@@ -7,7 +7,9 @@ rare, n, medium, humanoid, stheno
 
 **Perception** +4
 
-**Languages** common
+**Languages** common; speak with snakes
+
+**Skills** Crafting +4, Diplomacy +7, Performance +7, Stealth +5
 
 **STR** +0, **DEX** +2, **CON** +3, **INT** +1, **WIS** -1, **CHA** +4
 
@@ -29,11 +31,11 @@ rare, n, medium, humanoid, stheno
 
 Speed 25 feet
 
-**Melee** rapier +7 (deadly <d8>, disarm, finesse); **Damage** 1d6 piercing
+**Melee** ◆ rapier +7 (deadly <d8>, disarm, finesse); **Damage** 1d6 piercing
 
-**Melee** snake fangs +7 (agile, finesse); **Damage** 1d4 piercing
+**Melee** ◆ snake fangs +7 (agile, finesse); **Damage** 1d4 piercing
 
-**Melee** shortbow +7 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +7 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
 
 **Spontaneous occult Spells** (DC 17)
 

@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +7, Stealth +7
 
 **STR** +3, **DEX** +3, **CON** +3, **INT** -4, **WIS** +0, **CHA** -2
 
@@ -21,9 +23,9 @@ n, medium, animal
 
 Speed 25 feet, burrow 10 feet, climb 10 feet
 
-**Melee** jaws +11; **Damage** 1d8+5 piercing
+**Melee** ◆ jaws +11; **Damage** 1d8+5 piercing
 
-**Melee** claw +11 (agile); **Damage** 1d6+5 slashing
+**Melee** ◆ claw +11 (agile); **Damage** 1d6+5 slashing
 
 **Pounce** ◆ The wolverine Strides and makes a Strike at the end of that movement. If the wolverine begins this action hidden, it remains hidden until after the attack.
 

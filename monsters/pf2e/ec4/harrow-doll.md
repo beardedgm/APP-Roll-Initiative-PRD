@@ -5,9 +5,11 @@ uncommon, n, large, construct
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **Languages** common
+
+**Skills** Fortune-telling Lore +16
 
 **STR** +3, **DEX** +4, **CON** +2, **INT** +0, **WIS** +5, **CHA** +5
 
@@ -27,7 +29,7 @@ uncommon, n, large, construct
 
 **Immunities** bleed, death effects, disease, doomed, drained
 
-**Resistances** physical 5
+**Resistances** physical 5 (except adamantine)
 
 **Crowns).** If the suit of its latest harrow reading is unknown, roll 1d6 at the beginning of combat to randomly determine it.
 
@@ -35,13 +37,13 @@ uncommon, n, large, construct
 
 Speed 25 feet
 
-**Melee** fist +17 (agile, magical); **Damage** 2d12+6 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +17 (agile, magical); **Damage** 2d12+6 bludgeoning plus Grab plus Grab
 
-**Melee** harrow card +18 (magical, range increment <60 feet>); **Damage** 2d8+6 slashing plus harrowing misfortune plus harrowing misfortune
+**Ranged** ◆ harrow card +18 (magical, range increment <60 feet>); **Damage** 2d8+6 slashing plus harrowing misfortune plus harrowing misfortune
 
 **Innate arcane Spells** (DC 27)
 
-  **2nd** augury
+  **2nd** augury (at will)
 
   **3rd** locate, mind reading
 

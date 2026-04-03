@@ -5,9 +5,11 @@ uncommon, ce, gargantuan, aberration, aquatic
 
 ---
 
-**Perception** +31
+**Perception** +31; blood scent, darkvision, scent 100 feet (imprecise)
 
 **Languages** aquan, common
+
+**Skills** Athletics +34, Intimidation +30, Survival +31
 
 **STR** +9, **DEX** +5, **CON** +9, **INT** +0, **WIS** +6, **CHA** +5
 
@@ -33,15 +35,15 @@ uncommon, ce, gargantuan, aberration, aquatic
 
 Speed 10 feet, swim 50 feet
 
-**Melee** jaws +35 (magical, reach <20 feet>); **Damage** 3d12+17 piercing plus Grab plus Grab
+**Melee** ◆ jaws +35 (magical, reach <20 feet>); **Damage** 3d12+17 piercing plus Grab plus Grab
 
-**Melee** tentacle +35 (magical, reach <40 feet>); **Damage** 3d10+17 bludgeoning plus lusca venom plus lusca venom
+**Melee** ◆ tentacle +35 (magical, reach <40 feet>); **Damage** 3d10+17 bludgeoning plus lusca venom plus lusca venom
 
 **Innate primal Spells** (DC 38)
 
-  **8th** punishing winds
+  **8th** punishing winds (×3)
 
-  **9th** chain lightning
+  **9th** chain lightning (×3)
 
 **Capsize** ◆ (attack) The lusca tries to capsize an adjacent aquatic vessel of its size or smaller. It must succeed at an Athletics check with a DC of 35 (reduced by 5 for each size smaller the vessel is than the lusca) or the pilot's Sailing Lore DC, whichever is higher.
 

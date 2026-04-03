@@ -9,6 +9,8 @@ n, medium, humanoid, lizardfolk
 
 **Languages** common, draconic, iruxi
 
+**Skills** Acrobatics +6, Athletics +5, Diplomacy +4, Nature +6, Stealth +6, Survival +8
+
 **STR** +2, **DEX** +3, **CON** +1, **INT** -1, **WIS** +3, **CHA** +1
 
 **Items** blowgun (10 darts, 1 of which is coated with giant centipede venom)
@@ -25,11 +27,11 @@ n, medium, humanoid, lizardfolk
 
 Speed 25 feet, swim 20 feet
 
-**Melee** jaws +7; **Damage** 1d6+2 piercing
+**Melee** ◆ jaws +7; **Damage** 1d6+2 piercing
 
-**Melee** tail +8 (agile, finesse); **Damage** 1d4+2 bludgeoning
+**Melee** ◆ tail +8 (agile, finesse); **Damage** 1d4+2 bludgeoning
 
-**Melee** blowgun +8 (agile, nonlethal, range increment <20 feet>, reload <1>); **Damage** 1 piercing plus giant centipede venom plus giant centipede venom
+**Ranged** ◆ blowgun +8 (agile, nonlethal, range increment <20 feet>, reload <1>); **Damage** 1 piercing plus giant centipede venom plus giant centipede venom
 
 **Deep Breath** A lizardfolk scout can hold their breath for 150 rounds (15 minutes).
 

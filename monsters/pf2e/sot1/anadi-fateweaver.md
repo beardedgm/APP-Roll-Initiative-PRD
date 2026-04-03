@@ -9,6 +9,8 @@ uncommon, ng, medium, anadi, humanoid
 
 **Languages** anadi, common
 
+**Skills** Acrobatics +13, Athletics +11, Medicine +12, Nature +14, Survival +12
+
 **STR** +2, **DEX** +4, **CON** +0, **INT** +0, **WIS** +5, **CHA** +1
 
 **Items** composite shortbow (20 arrows), hide armor, shortsword

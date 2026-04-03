@@ -5,9 +5,11 @@ ne, large, daemon, fiend
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision, true seeing
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Athletics +37, Intimidation +35, Religion +30, Stealth +34, Survival +33, Warfare Lore +32
 
 **STR** +9, **DEX** +6, **CON** +7, **INT** +4, **WIS** +7, **CHA** +7
 
@@ -29,15 +31,17 @@ ne, large, daemon, fiend
 
 Speed 25 feet, fly 50 feet
 
-**Melee** glaive +37 (deadly <d8>, evil, forceful, magical, reach <15 feet>); **Damage** 3d8+17 slashing plus 2d6 evil and 4d6 persistent bleed
+**Melee** ◆ glaive +37 (deadly <d8>, evil, forceful, magical, reach <15 feet>); **Damage** 3d8+17 slashing plus 2d6 evil and 4d6 persistent bleed
 
-**Melee** hurled weapon +35 (deadly <1d10>, evil, magical, propulsive, range <120 feet>); **Damage** 2d10+12 piercing plus 1d6 evil and 4d6 persistent bleed
+**Ranged** ◆ hurled weapon +35 (deadly <1d10>, evil, magical, propulsive, range <120 feet>); **Damage** 2d10+12 piercing plus 1d6 evil and 4d6 persistent bleed
 
 **Innate divine Spells** (DC 37)
 
-  **1st** detect alignment
+  **Constant (6th)** true seeing
 
-  **4th** dimension door
+  **1st** detect alignment (at will)
+
+  **4th** dimension door (at will)
 
   **5th** dimension door
 

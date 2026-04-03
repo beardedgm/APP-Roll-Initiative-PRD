@@ -5,9 +5,11 @@ lg, medium, archon, celestial
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Acrobatics +13, Athletics +14, Diplomacy +16, Intimidation +16, Religion +13, Survival +14
 
 **STR** +5, **DEX** +2, **CON** +4, **INT** +1, **WIS** +2, **CHA** +5
 
@@ -33,17 +35,19 @@ lg, medium, archon, celestial
 
 Speed 30 feet, fly 60 feet
 
-**Melee** flame of justice +18 (magical, versatile <P>); **Damage** 2d10+5 slashing plus 1d6 fire and 1d6 good
+**Melee** ◆ flame of justice +18 (magical, versatile <P>); **Damage** 2d10+5 slashing plus 1d6 fire and 1d6 good
 
-**Melee** flame of justice +15 (magical, range increment <30 feet>, versatile <P>); **Damage** 2d10+5 slashing plus 1d6 fire and 1d6 good
+**Ranged** ◆ flame of justice +15 (magical, range increment <30 feet>, versatile <P>); **Damage** 2d10+5 slashing plus 1d6 fire and 1d6 good
 
 **Innate divine Spells** (DC 24)
 
+  **Constant (5th)** tongues
+
   **Cantrips (4th)** light, message
 
-  **1st** true strike
+  **1st** true strike (×3)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
 **Archon's Door** Once per day, if an archon sees another creature cast dimension door, it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door.
 

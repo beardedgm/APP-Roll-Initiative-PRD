@@ -5,9 +5,11 @@ lg, huge, amphibious, dragon, water
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision, scent 60 feet (imprecise)
 
-**Languages** aquan, common, draconic, dwarven, elven, gnomish
+**Languages** aquan, common, draconic, dwarven, elven, gnomish; speak with animals
+
+**Skills** Acrobatics +22, Arcana +28, Athletics +24, Diplomacy +23, Intimidation +23, Occultism +24, Stealth +22
 
 **STR** +7, **DEX** +3, **CON** +4, **INT** +5, **WIS** +4, **CHA** +4
 
@@ -31,15 +33,17 @@ lg, huge, amphibious, dragon, water
 
 Speed 40 feet, fly 140 feet, swim 50 feet
 
-**Melee** jaws +28 (electricity, magical, reach <15 feet>); **Damage** 2d12+15 piercing plus 1d12 electricity
+**Melee** ◆ jaws +28 (electricity, magical, reach <15 feet>); **Damage** 2d12+15 piercing plus 1d12 electricity
 
-**Melee** claw +28 (agile, magical, reach <10 feet>); **Damage** 2d10+15 slashing
+**Melee** ◆ claw +28 (agile, magical, reach <10 feet>); **Damage** 2d10+15 slashing
 
-**Melee** tail +26 (magical, reach <15 feet>); **Damage** 1d10+13 bludgeoning
+**Melee** ◆ tail +26 (magical, reach <15 feet>); **Damage** 1d10+13 bludgeoning
 
 **Innate arcane Spells** (DC 33)
 
-  **2nd** obscuring mist
+  **Constant (2nd)** speak with animals
+
+  **2nd** obscuring mist (at will)
 
 **Breath Weapon** ◆◆ The bronze dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 rounds. - Lightning (arcane, electricity, evocation); The dragon breathes lightning in a 80-foot line that deals 8d12 electricity damage (DC 33 basic Reflex save).
 - Repulsion Gas (abjuration, arcane, incapacitation, mental); The dragon breathes a 80-foot line of repulsive gas. Each creature in the area must succeed at a DC 33 Will save or become fleeing from the dragon for 1 round (or 2 rounds on a critical failure).

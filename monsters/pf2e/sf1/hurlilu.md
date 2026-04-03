@@ -5,9 +5,11 @@ rare, ce, large, fiend, lilu
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, lifesense (imprecise)
 
-**Languages** abyssal, auran, common
+**Languages** abyssal, auran, common; telepathy 100 feet
+
+**Skills** Acrobatics +24, Athletics +20, Intimidation +22, Religion +21, Stealth +24
 
 **STR** +5, **DEX** +7, **CON** +4, **INT** +3, **WIS** +4, **CHA** +5
 
@@ -23,7 +25,7 @@ rare, ce, large, fiend, lilu
 
 **Immunities** disease
 
-**Resistances** physical 10, poison 10
+**Resistances** physical 10 (except cold iron), poison 10
 
 **Weaknesses** good 10
 
@@ -33,19 +35,19 @@ rare, ce, large, fiend, lilu
 
 Speed 25 feet, fly 60 feet
 
-**Melee** beak +24 (evil, finesse, magical, reach <15 feet>); **Damage** 2d10+11 piercing plus 1d6 persistent bleed
+**Melee** ◆ beak +24 (evil, finesse, magical, reach <15 feet>); **Damage** 2d10+11 piercing plus 1d6 persistent bleed
 
-**Melee** talon +24 (agile, evil, finesse, magical, reach <10 feet>); **Damage** 2d6+11 slashing plus 1d6 persistent bleed
+**Melee** ◆ talon +24 (agile, evil, finesse, magical, reach <10 feet>); **Damage** 2d6+11 slashing plus 1d6 persistent bleed
 
 **Innate primal Spells** (DC 30), attack +22
 
   **Cantrips (6th)** detect magic, produce flame
 
-  **4th** dimension door, fear
+  **4th** dimension door (at will), fear (at will)
 
   **5th** lightning bolt, wall of wind
 
-  **6th** dispel magic, earthbind, gust of wind
+  **6th** dispel magic, earthbind (at will), gust of wind
 
 **Dive Bomb** ◆ **Frequency** {"number":1,"unit":"round"}; The hurlilu Strides using its fly Speed and makes a Strike at the end of that movement.
 

@@ -5,9 +5,11 @@ unique, n, medium, goblin, humanoid
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision
 
 **Languages** goblin, skald, taldane
+
+**Skills** Acrobatics +27, Athletics +27, Stealth +27
 
 **STR** +5, **DEX** +5, **CON** +4, **INT** +1, **WIS** +3, **CHA** +0
 
@@ -27,9 +29,9 @@ unique, n, medium, goblin, humanoid
 
 Speed 30 feet, climb 20 feet
 
-**Melee** fist +28 (agile, finesse, unarmed); **Damage** 2d6+13 bludgeoning plus 1d6 cold
+**Melee** ◆ fist +28 (agile, finesse, unarmed); **Damage** 2d6+13 bludgeoning plus 1d6 cold
 
-**Melee** icicle gouge +28 (agile, backstabber, finesse, unarmed); **Damage** 2d8+13 piercing plus 1d6 cold and Trip plus Trip
+**Melee** ◆ icicle gouge +28 (agile, backstabber, finesse, unarmed); **Damage** 2d8+13 piercing plus 1d6 cold and Trip plus Trip
 
 **Avalanche Pummel** ◆ Troff makes an icicle gouge Strike against a flat-footed creature. On a hit, the creature is dazzled. On a critical hit, the creature is blinded. Either way, the effect lasts until the start of Troff's next turn. If his Strike fails (but isn't a critical failure), Troff still deals 13 piercing damage to the creature.
 

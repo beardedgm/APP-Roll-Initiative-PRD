@@ -5,9 +5,11 @@ le, small, humanoid, kobold
 
 ---
 
-**Perception** +5
+**Perception** +5; darkvision
 
 **Languages** common, draconic
+
+**Skills** Arcana +6, Deception +8, Diplomacy +8, Intimidation +8, Stealth +7, Dragon Lore +10
 
 **STR** -1, **DEX** +3, **CON** +0, **INT** +2, **WIS** +1, **CHA** +4
 
@@ -21,7 +23,7 @@ le, small, humanoid, kobold
 
 **HP** 25
 
-**Resistances** poison 5
+**Resistances** poison 5 (see dragonscaled)
 
 **Dragonscaled** A kobold dragon mage's resistance depends on the color of its scales: Black acid 5, Blue electricity 5, Green poison 5, Red fire 5, White cold 5.
 
@@ -29,9 +31,9 @@ le, small, humanoid, kobold
 
 Speed 25 feet
 
-**Melee** claw +7 (agile, finesse); **Damage** 1d6-1 slashing
+**Melee** ◆ claw +7 (agile, finesse); **Damage** 1d6-1 slashing
 
-**Melee** staff +3 (two-hand <d8>); **Damage** 1d4-1 bludgeoning
+**Melee** ◆ staff +3 (two-hand <d8>); **Damage** 1d4-1 bludgeoning
 
 **Spontaneous arcane Spells** (DC 20)
 

@@ -5,9 +5,11 @@ unique, le, large, fiend, giant, humanoid, oni
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision
 
 **Languages** abyssal, jotun, infernal, taldane, tien
+
+**Skills** Acrobatics +26, Arcana +27, Athletics +33, Deception +34, Nature +26, Occultism +30, Society +27
 
 **STR** +8, **DEX** +3, **CON** +6, **INT** +4, **WIS** +2, **CHA** +9
 
@@ -27,9 +29,9 @@ unique, le, large, fiend, giant, humanoid, oni
 
 Speed 30 feet, fly 30 feet
 
-**Melee** greatclub +31 (backswing, magical, reach <10 feet>, shove); **Damage** 3d10+20 bludgeoning
+**Melee** ◆ greatclub +31 (backswing, magical, reach <10 feet>, shove); **Damage** 3d10+20 bludgeoning
 
-**Melee** fist +29 (agile, evil, magical, reach <10 feet>); **Damage** 3d8+16 bludgeoning
+**Melee** ◆ fist +29 (agile, evil, magical, reach <10 feet>); **Damage** 3d8+16 bludgeoning
 
 **Spontaneous arcane Spells** (DC 36)
 
@@ -53,7 +55,7 @@ Speed 30 feet, fly 30 feet
 
 **Innate primal Spells** (DC 36)
 
-  **2nd** darkness, invisibility
+  **2nd** darkness, invisibility (at will)
 
   **3rd** fear
 

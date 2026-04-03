@@ -5,9 +5,11 @@ uncommon, lg, large, dragon, electricity
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision, scent 60 feet (imprecise)
 
 **Languages** auran, common, draconic
+
+**Skills** Acrobatics +16, Athletics +19, Deception +16, Intimidation +18, Religion +19, Society +18, Stealth +18, Survival +17
 
 **STR** +6, **DEX** +1, **CON** +3, **INT** +1, **WIS** +4, **CHA** +3
 
@@ -29,11 +31,11 @@ uncommon, lg, large, dragon, electricity
 
 Speed 30 feet, fly 120 feet
 
-**Melee** jaws +21 (reach <10 feet>); **Damage** 2d8+12 piercing plus 1d12 electricity
+**Melee** ◆ jaws +21 (reach <10 feet>); **Damage** 2d8+12 piercing plus 1d12 electricity
 
-**Melee** claw +21 (agile); **Damage** 2d8+12 slashing plus Grab plus Grab
+**Melee** ◆ claw +21 (agile); **Damage** 2d8+12 slashing plus Grab plus Grab
 
-**Melee** tail +21 (reach <20 feet>); **Damage** 2d8+12 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +21 (reach <20 feet>); **Damage** 2d8+12 bludgeoning plus Grab plus Grab
 
 **Innate divine Spells** (DC 28)
 
@@ -45,7 +47,7 @@ Speed 30 feet, fly 120 feet
 
   **Cantrips (4th)** detect magic, divine lance, read aura, shield, stabilize
 
-  **1st** alarm, bless, detect alignment, sanctuary
+  **1st** alarm, bless, detect alignment (at will), sanctuary
 
   **2nd** augury, comprehend language, create food
 

@@ -9,6 +9,8 @@ uncommon, le, gargantuan, humanoid, troop
 
 **Languages** common, mzunu
 
+**Skills** Athletics +23, Intimidation +22, Religion +23
+
 **STR** +7, **DEX** +2, **CON** +6, **INT** +2, **WIS** +5, **CHA** +4
 
 ---
@@ -25,7 +27,7 @@ uncommon, le, gargantuan, humanoid, troop
 
 ---
 
-Speed 25 feet
+Speed 25 feet, troop movement
 
 **Spontaneous divine Spells** (DC 29), attack +21
 

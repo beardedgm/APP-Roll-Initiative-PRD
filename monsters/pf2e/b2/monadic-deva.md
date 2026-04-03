@@ -5,9 +5,11 @@ ng, medium, angel, celestial
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Arcana +25, Diplomacy +24, Intimidation +22, Occultism +20, Religion +25, Survival +22
 
 **STR** +7, **DEX** +4, **CON** +5, **INT** +4, **WIS** +4, **CHA** +5
 
@@ -31,13 +33,15 @@ ng, medium, angel, celestial
 
 Speed 30 feet, fly 60 feet
 
-**Melee** holy mace +28 (good, magical, shove); **Damage** 2d6+15 bludgeoning plus 1d6 force and 1d6 good plus solid blow plus solid blow
+**Melee** ◆ holy mace +28 (good, magical, shove); **Damage** 2d6+15 bludgeoning plus 1d6 force and 1d6 good plus solid blow plus solid blow
 
 **Innate divine Spells** (DC 31)
 
-  **1st** detect alignment
+  **Constant (5th)** tongues
 
-  **2nd** invisibility
+  **1st** detect alignment (at will)
+
+  **2nd** invisibility (at will)
 
   **4th** charm
 

@@ -5,9 +5,11 @@ ce, medium, humanoid, xulgath
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
 **Languages** common, draconic, undercommon
+
+**Skills** Acrobatics +15, Arcana +12, Athletics +13, Deception +15, Intimidation +17, Society +9, Survival +12
 
 **STR** +1, **DEX** +2, **CON** +1, **INT** +0, **WIS** +1, **CHA** +5
 
@@ -29,11 +31,11 @@ ce, medium, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** light mace +15 (agile, magical, shove); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ light mace +15 (agile, magical, shove); **Damage** 1d4+4 bludgeoning
 
-**Melee** jaws +14; **Damage** 1d8+2 piercing
+**Melee** ◆ jaws +14; **Damage** 1d8+2 piercing
 
-**Melee** claw +14 (agile); **Damage** 2d6+2 slashing
+**Melee** ◆ claw +14 (agile); **Damage** 2d6+2 slashing
 
 **Spontaneous arcane Spells** (DC 26), attack +18
 

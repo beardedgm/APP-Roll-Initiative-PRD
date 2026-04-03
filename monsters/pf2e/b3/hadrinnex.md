@@ -5,9 +5,11 @@ uncommon, ne, large, aberration
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
-**Languages** aklo
+**Languages** aklo; telepathy (touch; page 206)
+
+**Skills** Acrobatics +16, Athletics +18, Occultism +11
 
 **STR** +6, **DEX** +4, **CON** +6, **INT** -3, **WIS** +3, **CHA** -3
 
@@ -28,9 +30,9 @@ uncommon, ne, large, aberration
 
 Speed 40 feet
 
-**Melee** weapon arm +20 (reach <10 feet>); **Damage** 2d8+9 physical (see Rapid Evolution)
+**Melee** ◆ weapon arm +20 (reach <10 feet>); **Damage** 2d8+9 physical (see Rapid Evolution)
 
-**Melee** energy ray +18 (evocation, occult, range <120 feet>); **Damage** 5d6 energy (see Rapid Evolution)
+**Ranged** ◆ energy ray +18 (evocation, occult, range <120 feet>); **Damage** 5d6 energy (see Rapid Evolution)
 
 **Extend Limbs** ◆◆ The hadrinnex makes two weapon arm Strikes, each targeting a different creature. The hadrinnex's reach increases to 20 feet for these Strikes.
 

@@ -5,7 +5,9 @@ rare, huge, elemental, mutant, plant, wood
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, tremorsense 120 feet (imprecise)
+
+**Skills** Athletics +27, Stealth +24
 
 **STR** +8, **DEX** +5, **CON** +7, **INT** -4, **WIS** +2, **CHA** -1
 
@@ -29,9 +31,9 @@ rare, huge, elemental, mutant, plant, wood
 
 Speed 20 feet
 
-**Melee** branchy maw +27 (deadly <1d10>, reach <15 feet>); **Damage** 3d10+14 piercing plus Improved Grab
+**Melee** ◆ branchy maw +27 (deadly <1d10>, reach <15 feet>); **Damage** 3d10+14 piercing plus Improved Grab
 
-**Melee** root +27 (agile, reach <15 feet>, trip); **Damage** 3d8+14 bludgeoning plus Push 10 feet
+**Melee** ◆ root +27 (agile, reach <15 feet>, trip); **Damage** 3d8+14 bludgeoning plus Push 10 feet
 
 **Greater Constrict** ◆ 2d10+9 bludgeoning, DC 33
 

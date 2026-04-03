@@ -5,9 +5,11 @@ rare, ce, gargantuan, undead
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision
 
 **Languages** common, necril (can't speak any language)
+
+**Skills** Athletics +33, Intimidation +31, Sailing Lore +37
 
 **STR** +9, **DEX** +5, **CON** +9, **INT** +1, **WIS** +6, **CHA** +5
 
@@ -33,11 +35,11 @@ rare, ce, gargantuan, undead
 
 Speed swim 40 feet
 
-**Melee** hull +35 (reach <20 feet>); **Damage** 3d10+17 bludgeoning plus 2d10 negative
+**Melee** ◆ hull +35 (reach <20 feet>); **Damage** 3d10+17 bludgeoning plus 2d10 negative
 
-**Melee** skeleton crew +35 (agile); **Damage** 3d6+17 slashing plus 2d10 negative
+**Melee** ◆ skeleton crew +35 (agile); **Damage** 3d6+17 slashing plus 2d10 negative
 
-**Melee** bone cannon +35 (brutal, divine, negative, range increment <100 feet>); **Damage** 2d12+12 bludgeoning damage plus 2d10 negative
+**Ranged** ◆ bone cannon +35 (brutal, divine, negative, range increment <100 feet>); **Damage** 2d12+12 bludgeoning damage plus 2d10 negative
 
 **Cannonade** ◆◆ The bone ship makes four bone cannon Strikes, each targeting a different creature.
 

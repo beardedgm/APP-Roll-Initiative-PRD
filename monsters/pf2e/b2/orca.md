@@ -5,7 +5,9 @@ n, huge, animal
 
 ---
 
-**Perception** +12
+**Perception** +12; aquatic echolocation 120 feet, low-light vision
+
+**Skills** Athletics +14, Stealth +13
 
 **STR** +7, **DEX** +2, **CON** +5, **INT** -4, **WIS** +3, **CHA** +0
 
@@ -25,7 +27,7 @@ n, huge, animal
 
 Speed swim 60 feet
 
-**Melee** jaws +13; **Damage** 2d8+9 piercing plus Grab plus Grab
+**Melee** ◆ jaws +13; **Damage** 2d8+9 piercing plus Grab plus Grab
 
 **Aquatic Ambush** ◆ 30 feet. An orca can travel no further than 5 feet onto land as part of an Aquatic Ambush. After it does so, it is prone until it Crawls to return to the water.
 

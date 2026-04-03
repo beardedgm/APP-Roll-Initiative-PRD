@@ -5,9 +5,11 @@ unique, ne, medium, humanoid
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision
 
 **Languages** common (can't speak any language)
+
+**Skills** Acrobatics +29, Athletics +33, Deception +33, Intimidation +29, Stealth +31
 
 **STR** +9, **DEX** +5, **CON** +6, **INT** +1, **WIS** +4, **CHA** +7
 
@@ -33,15 +35,17 @@ unique, ne, medium, humanoid
 
 Speed 25 feet
 
-**Melee** cleaver +32 (deadly <d12>, forceful, sweep); **Damage** 3d12+9 slashing
+**Melee** ◆ cleaver +32 (deadly <d12>, forceful, sweep); **Damage** 3d12+9 slashing
 
-**Melee** fist +32 (agile, nonlethal); **Damage** 3d10+9 bludgeoning
+**Melee** ◆ fist +32 (agile, nonlethal); **Damage** 3d10+9 bludgeoning
 
-**Melee** cleaver +30 (deadly <d12>, thrown <10 feet>); **Damage** 3d12+9 slashing
+**Ranged** ◆ cleaver +30 (deadly <d12>, thrown <10 feet>); **Damage** 3d12+9 slashing
 
 **Innate occult Spells** (DC 34)
 
-  **2nd** invisibility
+  **Constant (8th)** pass without trace
+
+  **2nd** invisibility (×3)
 
   **4th** invisibility
 

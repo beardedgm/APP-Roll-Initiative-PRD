@@ -5,9 +5,11 @@ unique, ce, huge, demon, fiend
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, true seeing
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Athletics +33, Deception +30, Intimidation +30, Religion +28, Stealth +28
 
 **STR** +8, **DEX** +3, **CON** +5, **INT** +3, **WIS** +5, **CHA** +5
 
@@ -31,19 +33,21 @@ unique, ce, huge, demon, fiend
 
 Speed 40 feet, fly 40 feet
 
-**Melee** jaws +33 (magical, reach <15 feet>); **Damage** 3d6+14 piercing plus 1d6 evil, 2d8 persistent bleed, and smoking wound
+**Melee** ◆ jaws +33 (magical, reach <15 feet>); **Damage** 3d6+14 piercing plus 1d6 evil, 2d8 persistent bleed, and smoking wound
 
-**Melee** claw +33 (agile, magical, reach <15 feet>); **Damage** 3d10+14 slashing plus 1d6 evil
+**Melee** ◆ claw +33 (agile, magical, reach <15 feet>); **Damage** 3d10+14 slashing plus 1d6 evil
 
-**Melee** tail +33 (backswing, magical, reach <20 feet>); **Damage** 3d12+14 bludgeoning plus 1d6 evil and stunning tail
+**Melee** ◆ tail +33 (backswing, magical, reach <20 feet>); **Damage** 3d12+14 bludgeoning plus 1d6 evil and stunning tail
 
 **Innate divine Spells** (DC 38)
 
-  **4th** dimension door
+  **Constant (9th)** true seeing
+
+  **4th** dimension door (at will)
 
   **5th** dimension door
 
-  **8th** divine aura, divine wrath, earthquake
+  **8th** divine aura, divine wrath (at will), earthquake
 
   **9th** massacre, power word stun
 

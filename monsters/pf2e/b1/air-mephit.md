@@ -5,9 +5,11 @@ n, small, air, elemental
 
 ---
 
-**Perception** +3
+**Perception** +3; darkvision
 
 **Languages** auran
+
+**Skills** Acrobatics +7, Stealth +7
 
 **STR** +1, **DEX** +4, **CON** +0, **INT** -2, **WIS** +0, **CHA** +0
 
@@ -23,7 +25,7 @@ n, small, air, elemental
 
 Speed 20 feet, fly 40 feet
 
-**Melee** claw +9 (agile, finesse); **Damage** 1d6+1 slashing
+**Melee** ◆ claw +9 (agile, finesse); **Damage** 1d6+1 slashing
 
 **Innate arcane Spells** (DC 17)
 

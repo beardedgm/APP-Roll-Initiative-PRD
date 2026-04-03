@@ -5,7 +5,9 @@ n, small, animal
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision, web sense
+
+**Skills** Acrobatics +5, Athletics +2, Stealth +7
 
 **STR** +0, **DEX** +3, **CON** +1, **INT** -5, **WIS** +0, **CHA** -4
 
@@ -23,9 +25,9 @@ n, small, animal
 
 Speed 25 feet, climb 25 feet
 
-**Melee** bite +7 (finesse); **Damage** 1d6 plus dream spider venom plus 1d6, dream spider venom
+**Melee** ◆ bite +7 (finesse); **Damage** 1d6 plus dream spider venom plus 1d6, dream spider venom
 
-**Melee** web +7 (range increment <10 feet>); plus web trap plus dream spider venom
+**Ranged** ◆ web +7 (range increment <10 feet>); plus web trap plus dream spider venom
 
 **Dream Spider Venom** (poison)
 

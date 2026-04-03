@@ -5,9 +5,11 @@ medium, aberration, tanggal|B3
 
 ---
 
-**Perception** +16
+**Perception** +16; {@ability darkvision}
 
 **Languages** aklo, common
+
+**Skills** Acrobatics +18, Deception +16, Religion +13
 
 **STR** +5, **DEX** +5, **CON** +2, **INT** +1, **WIS** +3, **CHA** +4
 
@@ -25,17 +27,17 @@ medium, aberration, tanggal|B3
 
 Speed 30 feet
 
-**Melee** claws +18 (agile, magical); **Damage** 2d8+9 slashing plus Grab plus Grab
+**Melee** ◆ claws +18 (agile, magical); **Damage** 2d8+9 slashing plus Grab plus Grab
 
-**Melee** jaws +18 (magical); **Damage** 2d10+9 piercing
+**Melee** ◆ jaws +18 (magical); **Damage** 2d10+9 piercing
 
 **Innate occult Spells** (DC 26)
 
   **Cantrips (4th)** light
 
-  **1st** enfeeble
+  **1st** enfeeble (×3)
 
-  **2nd** darkness
+  **2nd** darkness (×3)
 
   **3rd** fear
 

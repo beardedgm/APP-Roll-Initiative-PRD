@@ -9,9 +9,11 @@ unique, ne, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Diplomacy +7, Nature +9, Survival +9, Gozreh Lore +8
+
 **STR** +1, **DEX** +0, **CON** +1, **INT** +1, **WIS** +4, **CHA** +2
 
-**Items** {@item leather armor}, gray robes, {@item trident}, {@item wooden religious symbol} of {@deity Gozreh} defaced with demonic runes
+**Items** leather armor, gray robes, trident, wooden religious symbol of Gozreh defaced with demonic runes
 
 **Wild Empathy** The corrupted priest can use Diplomacy to Make an Impression on animals and to make very simple Requests of them.
 
@@ -29,7 +31,7 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** trident +10 (fatal <d10>, thrown <20 feet>); **Damage** 2d8+1 piercing
+**Melee** ◆ trident +10 (fatal <d10>, thrown <20 feet>); **Damage** 2d8+1 piercing
 
 **Prepared primal Spells** (DC 20), attack +12
 

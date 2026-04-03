@@ -5,11 +5,13 @@ ne, small, halfling, humanoid
 
 ---
 
-**Perception** +12
+**Perception** +12; low-light vision
+
+**Skills** Deception +12, Diplomacy +12, Medicine +10, Religion +10, Stealth +8
 
 **STR** +2, **DEX** +3, **CON** +3, **INT** +2, **WIS** +5, **CHA** +3
 
-**Items** {@runeItem chain mail||+1 armor potency|}, {@item scorpion whip|EC1}, {@item wooden religious symbol}
+**Items** , scorpion whip|EC1, wooden religious symbol
 
 ---
 
@@ -23,7 +25,7 @@ ne, small, halfling, humanoid
 
 Speed 20 feet
 
-**Melee** scorpion whip +10; **Damage** 2d4+4 piercing
+**Melee** ◆ scorpion whip +10; **Damage** 2d4+4 piercing
 
 **Prepared divine Spells** (DC 21), attack +13
 

@@ -5,9 +5,11 @@ uncommon, n, small, construct
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +12, Athletics +9, Deception +11, Stealth +12
 
 **STR** +3, **DEX** +4, **CON** +1, **INT** +0, **WIS** +0, **CHA** +3
 
@@ -29,11 +31,11 @@ uncommon, n, small, construct
 
 Speed 25 feet
 
-**Melee** shortsword +12 (agile, finesse, versatile <P>); **Damage** 1d6+5 slashing
+**Melee** ◆ shortsword +12 (agile, finesse, versatile <P>); **Damage** 1d6+5 slashing
 
-**Melee** fist +12 (agile, finesse, magical); **Damage** 1d4+5 bludgeoning plus Grab
+**Melee** ◆ fist +12 (agile, finesse, magical); **Damage** 1d4+5 bludgeoning plus Grab
 
-**Melee** harrow card +12 (agile, magical, range increment <20 feet>, thrown); **Damage** 1d4+3 piercing
+**Ranged** ◆ harrow card +12 (agile, magical, range increment <20 feet>, thrown); **Damage** 1d4+3 piercing
 
 **Shuffle the Deck** ◆◆
 

@@ -5,9 +5,11 @@ uncommon, ce, medium, undead
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision, detect alignment (good only)
 
 **Languages** common, draconic, infernal
+
+**Skills** Athletics +20, Intimidation +23, Religion +22, Zevgavizeb Lore +19
 
 **STR** +6, **DEX** +4, **CON** +5, **INT** +1, **WIS** +4, **CHA** +7
 
@@ -33,15 +35,17 @@ uncommon, ce, medium, undead
 
 Speed 30 feet
 
-**Melee** unholy spiked gauntlet +22 (agile, free-hand); **Damage** 2d4+10 piercing plus 1d6 evil
+**Melee** ◆ unholy spiked gauntlet +22 (agile, free-hand); **Damage** 2d4+10 piercing plus 1d6 evil
 
 **Innate divine Spells** (DC 28)
 
+  **Constant (5th)** detect alignment
+
   **1st** ray of enfeeblement
 
-  **2nd** darkness
+  **2nd** darkness (×3)
 
-  **3rd** crisis of faith, harm, meld into stone
+  **3rd** crisis of faith, harm (at will), meld into stone
 
   **5th** ravening maw
 

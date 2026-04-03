@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +7
+**Perception** +7; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +9, Athletics +8, Stealth +8, Survival +6
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** -4, **WIS** +1, **CHA** -2
 
@@ -23,7 +25,7 @@ n, medium, animal
 
 Speed 20 feet, swim 20 feet, climb 20 feet
 
-**Melee** fangs +11 (finesse); **Damage** 1d8+3 piercing plus giant viper venom plus giant viper venom
+**Melee** ◆ fangs +11 (finesse); **Damage** 1d8+3 piercing plus giant viper venom plus giant viper venom
 
 **Coil** ◆ The giant viper uses an action to coil itself, increasing its reach with its fangs from 5 to 10 feet. After the giant viper Strikes with its fangs, it becomes uncoiled.
 

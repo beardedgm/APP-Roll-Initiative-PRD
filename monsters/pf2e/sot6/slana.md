@@ -5,9 +5,11 @@ rare, cn, gargantuan, humanoid
 
 ---
 
-**Perception** +36
+**Perception** +36; low-light vision, scent 120 feet (precise)
 
 **Languages** common, sylvan
+
+**Skills** Acrobatics +35, Athletics +38, Nature +35, Stealth +33, Survival +37
 
 **STR** +10, **DEX** +7, **CON** +7, **INT** +2, **WIS** +7, **CHA** +6
 
@@ -25,19 +27,21 @@ rare, cn, gargantuan, humanoid
 
 ---
 
-Speed 60 feet, swim 30 feet, climb 30 feet
+Speed 60 feet, swim 30 feet, climb 30 feet, freedom of movement
 
-**Melee** jaws +38 (magical, reach <20 feet>, sonic); **Damage** 4d10+20 piercing plus 2d8 sonic and Improved Grab
+**Melee** ◆ jaws +38 (magical, reach <20 feet>, sonic); **Damage** 4d10+20 piercing plus 2d8 sonic and Improved Grab
 
-**Melee** claw +38 (agile, magical, reach <20 feet>, sonic); **Damage** 4d6+20 piercing plus 2d8 sonic
+**Melee** ◆ claw +38 (agile, magical, reach <20 feet>, sonic); **Damage** 4d6+20 piercing plus 2d8 sonic
 
-**Melee** thunderclap +35 (magical, range <120 feet>, sonic); **Damage** thunder trap
+**Ranged** ◆ thunderclap +35 (magical, range <120 feet>, sonic); **Damage** thunder trap
 
 **Innate primal Spells** (DC 40), attack +32
 
-  **1st** obscuring mist
+  **Constant (4th)** freedom of movement
 
-  **9th** dispel magic, storm lord
+  **1st** obscuring mist (at will)
+
+  **9th** dispel magic, storm lord (×3)
 
   **10th** earthquake, storm of vengeance
 

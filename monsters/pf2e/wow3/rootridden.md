@@ -5,9 +5,11 @@ uncommon, medium, undead, unholy
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
 **Languages** common, necril, wildsong
+
+**Skills** Acrobatics +16, Athletics +18, Intimidation +17, Nature +16, Stealth +18
 
 **STR** +6, **DEX** +4, **CON** +4, **INT** +1, **WIS** +4, **CHA** +3
 
@@ -31,10 +33,10 @@ uncommon, medium, undead, unholy
 
 Speed 25 feet
 
-**Melee** jaws +20; **Damage** 2d12+8 piercing
+**Melee** ◆ jaws +20; **Damage** 2d12+8 piercing
 
-**Melee** tendril +20 (reach <10 feet>); **Damage** 2d8+8 bludgeoning plus root rot poison
+**Melee** ◆ tendril +20 (reach <10 feet>); **Damage** 2d8+8 bludgeoning plus root rot poison
 
-**Melee** spit +20 (deadly <1d10>, range increment <30 feet>); **Damage** 4d8 void
+**Ranged** ◆ spit +20 (deadly <1d10>, range increment <30 feet>); **Damage** 4d8 void
 
 **Root Rot Poison** (poison)

@@ -5,9 +5,11 @@ unique, ne, medium, humanoid, urdefhan
 
 ---
 
-**Perception** +15
+**Perception** +15; greater darkvision
 
 **Languages** aklo, daemonic, undercommon
+
+**Skills** Acrobatics +15, Athletics +17, Intimidation +15, Medicine +13, Survival +15
 
 **STR** +6, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** +4
 
@@ -31,13 +33,13 @@ unique, ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** fist +18 (deadly <d8>); **Damage** 2d8+10 bludgeoning
+**Melee** ◆ fist +18 (deadly <d8>); **Damage** 2d8+10 bludgeoning
 
-**Melee** jaws +17; **Damage** 2d6+10 piercing plus wicked bite plus wicked bite
+**Melee** ◆ jaws +17; **Damage** 2d6+10 piercing plus wicked bite plus wicked bite
 
 **Innate divine Spells** (DC 22), attack +14
 
-  **1st** feather fall, ray of enfeeblement
+  **1st** feather fall (at will), ray of enfeeblement
 
   **2nd** darkness, death knell
 

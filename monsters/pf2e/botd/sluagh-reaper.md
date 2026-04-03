@@ -5,9 +5,11 @@ uncommon, ne, medium, fey, undead
 
 ---
 
-**Perception** +21
+**Perception** +21; greater darkvision, soulscent 100 feet (precise)
 
 **Languages** common, necril, sylvan
+
+**Skills** Acrobatics +21, Intimidation +16, Stealth +23, Survival +21
 
 **STR** +3, **DEX** +7, **CON** +3, **INT** +3, **WIS** +5, **CHA** +0
 
@@ -31,7 +33,7 @@ uncommon, ne, medium, fey, undead
 
 Speed 25 feet, fly 30 feet
 
-**Melee** claw +23 (agile, magical); **Damage** 3d6+9 slashing
+**Melee** ◆ claw +23 (agile, magical); **Damage** 3d6+9 slashing
 
 **Innate primal Spells** (DC 26)
 

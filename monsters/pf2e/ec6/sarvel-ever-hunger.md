@@ -5,9 +5,11 @@ unique, ce, large, fiend, humanoid, xulgath
 
 ---
 
-**Perception** +39
+**Perception** +39; darkvision
 
 **Languages** abyssal, common, draconic, undercommon
+
+**Skills** Arcana +38, Athletics +41, Intimidation +40, Survival +40, Zevgavizeb Lore +40
 
 **STR** +9, **DEX** +2, **CON** +6, **INT** +2, **WIS** +6, **CHA** +4
 
@@ -31,27 +33,29 @@ unique, ce, large, fiend, humanoid, xulgath
 
 ---
 
-Speed 30 feet
+Speed 30 feet, air walk, freedom of movement
 
-**Melee** spiked gauntlet +41 (agile, magical); **Damage** 4d8+19 piercing plus 1d6 evil
+**Melee** ◆ spiked gauntlet +41 (agile, magical); **Damage** 4d8+19 piercing plus 1d6 evil
 
-**Melee** tentacle +41 (agile, magical, reach <20 feet>); **Damage** 4d8+19 slashing plus Grab plus Grab
+**Melee** ◆ tentacle +41 (agile, magical, reach <20 feet>); **Damage** 4d8+19 slashing plus Grab plus Grab
 
-**Melee** jaws +41 (magical); **Damage** 4d12+19 piercing
+**Melee** ◆ jaws +41 (magical); **Damage** 4d12+19 piercing
 
 **Prepared divine Spells** (DC 45), attack +37
+
+  **Constant (4th)** air walk, freedom of movement
 
   **Cantrips (10th)** divine lance, message, read aura, shield
 
   **6th** divine wrath, flame strike, restore senses
 
-  **7th** paralyze, resist energy
+  **7th** paralyze, resist energy (×2)
 
-  **8th** eclipse burst, finger of death
+  **8th** eclipse burst, finger of death (×2)
 
   **9th** blade barrier, devour life, wail of the banshee
 
-  **10th** harm, miracle, weapon of judgment
+  **10th** harm (×5), miracle, weapon of judgment
 
 **Constrict** ◆ 4d8+12 bludgeoning, DC 45
 

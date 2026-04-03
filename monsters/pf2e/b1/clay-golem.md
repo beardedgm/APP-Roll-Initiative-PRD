@@ -5,7 +5,9 @@ uncommon, n, large, construct, golem, mindless
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
+
+**Skills** Athletics +24
 
 **STR** +6, **DEX** -1, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -19,7 +21,7 @@ uncommon, n, large, construct, golem, mindless
 
 **Immunities** acid, bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, magic (see below), necromancy, nonlethal attacks, paralyzed, sickened, unconscious
 
-**Resistances** physical 10
+**Resistances** physical 10 (except adamantine)
 
 **Berserk** A severely damaged clay golem has a chance of going berserk. If it has 50 or fewer Hit Points at the start of its turn, the golem must succeed at a DC 5 flat check or go berserk. A berserk golem wildly attacks the nearest living creature, or the nearest object if no creatures are nearby.
 
@@ -33,7 +35,7 @@ uncommon, n, large, construct, golem, mindless
 
 Speed 20 feet
 
-**Melee** fist +24 (magical, reach <10 feet>); **Damage** 2d10+12 bludgeoning plus cursed wound plus cursed wound
+**Melee** ◆ fist +24 (magical, reach <10 feet>); **Damage** 2d10+12 bludgeoning plus cursed wound plus cursed wound
 
 **Berserk Slam** ◆ **Requirements** The golem is berserk.; The clay golem Strikes with its fist at a –1 circumstance penalty. If its Strike hits, the clay golem deals an additional 1d8 damage and knocks the target prone.
 

@@ -5,9 +5,11 @@ uncommon, ce, medium, aberration
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, thoughtsense 60 feet
 
-**Languages** aklo, common, undercommon
+**Languages** aklo, common, undercommon; telepathy 100 feet
+
+**Skills** Deception +24, Diplomacy +22, Occultism +23, Society +19, Stealth +23
 
 **STR** +3, **DEX** +6, **CON** +3, **INT** +6, **WIS** +5, **CHA** +7
 
@@ -31,9 +33,9 @@ uncommon, ce, medium, aberration
 
 Speed 25 feet
 
-**Melee** jaws +21 (finesse); **Damage** 2d10+7 piercing plus 1d10 mental
+**Melee** ◆ jaws +21 (finesse); **Damage** 2d10+7 piercing plus 1d10 mental
 
-**Melee** claw +21 (agile, finesse); **Damage** 2d8+7 slashing
+**Melee** ◆ claw +21 (agile, finesse); **Damage** 2d8+7 slashing
 
 **Innate occult Spells** (DC 30), attack +22
 
@@ -41,7 +43,7 @@ Speed 25 feet
 
   **2nd** undetectable alignment
 
-  **4th** nightmare, suggestion
+  **4th** nightmare, suggestion (×3)
 
   **5th** mind probe, sending, subconscious suggestion, synaptic pulse
 

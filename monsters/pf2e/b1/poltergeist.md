@@ -5,9 +5,11 @@ le, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +14, Intimidation +15, Stealth +14
 
 **STR** -5, **DEX** +5, **CON** +0, **INT** -1, **WIS** +2, **CHA** +4
 
@@ -23,7 +25,7 @@ le, medium, incorporeal, spirit, undead
 
 **Immunities** poison, precision, death effects, disease, paralyzed, unconscious
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance against non-magical)
 
 **Natural Invisibility** A poltergeist is naturally invisible. It becomes visible only when it uses Frighten.
 
@@ -35,13 +37,13 @@ le, medium, incorporeal, spirit, undead
 
 Speed fly 20 feet
 
-**Melee** telekinetic object +13 (evocation, magical, occult, range increment <60 feet>); **Damage** 2d12 bludgeoning, piercing, or slashing (depending on object) plus piercing, or slashing (depending on object)
+**Ranged** ◆ telekinetic object +13 (evocation, magical, occult, range increment <60 feet>); **Damage** 2d12 bludgeoning, piercing, or slashing (depending on object) plus piercing, or slashing (depending on object)
 
 **Innate occult Spells** (DC 23), attack +13
 
   **Cantrips (3rd)** mage hand
 
-  **3rd** telekinetic maneuver
+  **3rd** telekinetic maneuver (at will)
 
 **Frighten** ◆ (concentrate, emotion, fear, incapacitation, mental) **Requirements** The poltergeist must be invisible.; The poltergeist becomes visible, appearing as a skeletal, ghostlike humanoid. Each creature within 30 feet must attempt a DC 21 Will save, becoming frightened 2 on a failure. On a critical failure, it's also fleeing for as long as it's frightened. On a success, the creature is temporarily immune for 1 minute. At the start of its next turn, the poltergeist becomes invisible again.
 

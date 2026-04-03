@@ -9,6 +9,8 @@ cn, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +7, Athletics +8, Deception +6, Intimidation +6
+
 **STR** +2, **DEX** +3, **CON** +1, **INT** +0, **WIS** +2, **CHA** +2
 
 **Items** cutlass (functions as a scimitar), dagger, padded armor
@@ -31,10 +33,10 @@ cn, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** cutlass +10 (forceful, sweep); **Damage** 1d6+5 slashing
+**Melee** ◆ cutlass +10 (forceful, sweep); **Damage** 1d6+5 slashing
 
-**Melee** dagger +11 (agile, versatile <S>); **Damage** 1d4+5 piercing
+**Melee** ◆ dagger +11 (agile, versatile <S>); **Damage** 1d4+5 piercing
 
-**Melee** dagger +11 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
+**Ranged** ◆ dagger +11 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
 
 **Boarding Action** ◆◆ The pirate swings on a rope or Strides, moving up to double their Speed. If the pirate boarded or disembarked a boat during this movement, they can make a melee Strike at the end of their movement that deals one extra damage die on a hit.

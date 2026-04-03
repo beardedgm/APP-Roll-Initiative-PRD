@@ -5,9 +5,11 @@ ce, medium, beast
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +11, Intimidation +11, Stealth +11
 
 **STR** +4, **DEX** +3, **CON** +2, **INT** +0, **WIS** +5, **CHA** +3
 
@@ -23,9 +25,9 @@ ce, medium, beast
 
 Speed 25 feet, fly 50 feet
 
-**Melee** antler +14 (deadly <d8>); **Damage** 1d12+7 piercing
+**Melee** ◆ antler +14 (deadly <d8>); **Damage** 1d12+7 piercing
 
-**Melee** fangs +14 (agile); **Damage** 1d8+7 slashing
+**Melee** ◆ fangs +14 (agile); **Damage** 1d8+7 slashing
 
 **Heart Ripper** ◆ (attack, emotion, fear, visual) The peryton rips out the heart of an adjacent corpse with their jaws. The creature must have died in the last minute. As the peryton rips the heart free and swallows it whole, they regain 2d6 HP, and any non-peryton that witnesses this event must succeed at a DC 21 Will save or become frightened 1 (or frightened 2 on a critical failure).
 

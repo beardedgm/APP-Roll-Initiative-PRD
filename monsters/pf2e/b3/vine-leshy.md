@@ -5,9 +5,11 @@ n, small, leshy, plant
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision
 
-**Languages** common, druidic, sylvan
+**Languages** common, druidic, sylvan; speak with plants (plants with vines only)
+
+**Skills** Athletics +4, Diplomacy +5, Nature +4, Performance +5, Society +1, Survival +4
 
 **STR** +2, **DEX** +1, **CON** +1, **INT** -1, **WIS** +2, **CHA** +3
 
@@ -27,9 +29,9 @@ n, small, leshy, plant
 
 Speed 20 feet, climb 20 feet
 
-**Melee** spear +6; **Damage** 1d6+2 piercing
+**Melee** ◆ spear +6; **Damage** 1d6+2 piercing
 
-**Melee** spear +5 (thrown <20 feet>); **Damage** 1d6+2 piercing
+**Ranged** ◆ spear +5 (thrown <20 feet>); **Damage** 1d6+2 piercing
 
 **Innate primal Spells** (DC 15)
 

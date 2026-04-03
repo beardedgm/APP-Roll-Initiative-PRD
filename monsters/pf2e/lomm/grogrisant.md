@@ -5,9 +5,11 @@ unique, cn, huge, beast, primal
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, scent 60 feet (imprecise)
 
 **Languages** common (can't speak any language)
+
+**Skills** Acrobatics +28, Athletics +35, Intimidation +32, Stealth +28, Survival +28
 
 **STR** +9, **DEX** +6, **CON** +9, **INT** -2, **WIS** +5, **CHA** +5
 
@@ -21,7 +23,7 @@ unique, cn, huge, beast, primal
 
 **Immunities** blinded, disease
 
-**Resistances** fire 15, physical 15, poison 20
+**Resistances** fire 15, physical 15 (except bludgeoning), poison 20
 
 **Aura of Agony** (aura, evocation, incapacitation, light, primal, visual) 40 feet. Any creature that begins its turn in the aura must attempt a DC 34 Fort save or be blinded for 1 minute and become temporarily immune for 1 day. If the creature critically fails this save, it's permanently blinded.
 
@@ -29,11 +31,15 @@ unique, cn, huge, beast, primal
 
 Speed 40 feet, climb 20 feet
 
-**Melee** jaws +33; **Damage** 3d12+18 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +33; **Damage** 3d12+18 piercing plus Improved Grab plus Improved Grab
 
-**Melee** claw +32 (agile); **Damage** 3d10+15 slashing
+**Melee** ◆ claw +32 (agile); **Damage** 3d10+15 slashing
 
 **Innate primal Spells** (DC 34), attack +26
+
+  **Constant (3rd)** nondetection
+
+  **Constant (1st)** pass without trace
 
   **Cantrips (8th)** dancing lights
 

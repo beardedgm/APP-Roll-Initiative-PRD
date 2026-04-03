@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision, scent 30 feet (imprecise)
+
+**Skills** Athletics +8, Survival +7
 
 **STR** +4, **DEX** +1, **CON** +4, **INT** -5, **WIS** +1, **CHA** -4
 
@@ -21,9 +23,9 @@ n, medium, animal
 
 Speed 40 feet, climb 20 feet
 
-**Melee** mandibles +11; **Damage** 1d8+4 slashing plus Grab plus Grab
+**Melee** ◆ mandibles +11; **Damage** 1d8+4 slashing plus Grab plus Grab
 
-**Melee** stinger +11 (agile); **Damage** 1d6+4 piercing plus giant ant venom plus giant ant venom
+**Melee** ◆ stinger +11 (agile); **Damage** 1d6+4 piercing plus giant ant venom plus giant ant venom
 
 **Giant Ant Venom** (poison)
 

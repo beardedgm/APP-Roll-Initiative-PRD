@@ -5,9 +5,11 @@ ne, large, aberration
 
 ---
 
-**Perception** +19
+**Perception** +19; bloodsense 60 feet (imprecise), darkvision
 
 **Languages** aklo, common
+
+**Skills** Athletics +20, Medicine +19, Stealth +17, Art Lore +21
 
 **STR** +5, **DEX** +4, **CON** +3, **INT** +6, **WIS** +4, **CHA** +3
 
@@ -27,7 +29,7 @@ ne, large, aberration
 
 Speed 30 feet, climb 15 feet
 
-**Melee** claw +20 (agile, reach <10 feet>); **Damage** 3d8+8 slashing plus 1d8 persistent bleed
+**Melee** ◆ claw +20 (agile, reach <10 feet>); **Damage** 3d8+8 slashing plus 1d8 persistent bleed
 
 **Dab** ◆ (enchantment, manipulate, mental, occult) **Requirements** The blood painter is within reach of an enemy taking persistent bleed damage; The blood painter touches the creature and applies blood to one of their four claws; the blood remains fresh for 1 minute. The target must succeed at a DC 28 Will save or become fascinated with the blood painter.
 

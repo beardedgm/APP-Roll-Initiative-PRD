@@ -5,9 +5,11 @@ ne, medium, humanoid, urdefhan
 
 ---
 
-**Perception** +26
+**Perception** +26; greater darkvision
 
 **Languages** aklo, daemonic, undercommon
+
+**Skills** Crafting +24, Intimidation +26, Religion +29, Stealth +25, Survival +27, Daemon Lore +24
 
 **STR** +4, **DEX** +5, **CON** +3, **INT** +4, **WIS** +7, **CHA** +6
 
@@ -31,9 +33,9 @@ ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** rhoka sword +26 (fatal <d10>, magical, two-hand <d12>); **Damage** 2d8+10 slashing
+**Melee** ◆ rhoka sword +26 (fatal <d10>, magical, two-hand <d12>); **Damage** 2d8+10 slashing
 
-**Melee** jaws +26 (agile); **Damage** 4d6+10 piercing plus wicked bite plus wicked bite
+**Melee** ◆ jaws +26 (agile); **Damage** 4d6+10 piercing plus wicked bite plus wicked bite
 
 **Innate divine Spells** (DC 35), attack +29
 
@@ -43,13 +45,13 @@ Speed 25 feet
 
   **2nd** darkness, death knell, false life, silence
 
-  **3rd** harm, paralyze
+  **3rd** harm (×2), paralyze (×2)
 
-  **4th** phantasmal killer, read omens, spiritual weapon
+  **4th** phantasmal killer (×2), read omens, spiritual weapon
 
   **5th** banishment, command, prying eye
 
-  **6th** disintegrate, dominate
+  **6th** disintegrate, dominate (×2)
 
   **7th** dimensional lock
 

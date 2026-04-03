@@ -5,7 +5,9 @@ ne, tiny, mindless, undead
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
+
+**Skills** Acrobatics +6
 
 **STR** +1, **DEX** +2, **CON** +0, **INT** -5, **WIS** +2, **CHA** +0
 
@@ -23,6 +25,6 @@ ne, tiny, mindless, undead
 
 Speed 15 feet, fly 25 feet
 
-**Melee** jaws +6 (agile, finesse); **Damage** 1d4+1 piercing
+**Melee** ◆ jaws +6 (agile, finesse); **Damage** 1d4+1 piercing
 
 **Gnash** ◆ **Requirements** The beheaded's previous action was a jaws Strike that dealt damage to its target; The severed head makes a second jaws Strike as it violently shakes itself, trying to rip away a mouthful of flesh. On a success, the target takes an additional 1d4 slashing damage and 1 persistent bleed damage.

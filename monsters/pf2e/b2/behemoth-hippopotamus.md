@@ -5,7 +5,9 @@ n, huge, animal
 
 ---
 
-**Perception** +19
+**Perception** +19; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +23, Stealth +18, Survival +17
 
 **STR** +7, **DEX** +4, **CON** +7, **INT** -4, **WIS** +5, **CHA** -2
 
@@ -23,9 +25,9 @@ n, huge, animal
 
 Speed 35 feet, swim 35 feet
 
-**Melee** jaws +23 (deadly <d12>, reach <10 feet>); **Damage** 2d12+10 piercing plus Grab plus Grab
+**Melee** ◆ jaws +23 (deadly <d12>, reach <10 feet>); **Damage** 2d12+10 piercing plus Grab plus Grab
 
-**Melee** foot +21; **Damage** 2d8+9 bludgeoning
+**Melee** ◆ foot +21; **Damage** 2d8+9 bludgeoning
 
 **Aquatic Ambush** ◆ 40 feet
 

@@ -5,7 +5,9 @@ uncommon, ne, huge, mindless, swarm, undead
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +22, Survival +21
 
 **STR** +0, **DEX** +4, **CON** +7, **INT** -5, **WIS** +3, **CHA** +4
 

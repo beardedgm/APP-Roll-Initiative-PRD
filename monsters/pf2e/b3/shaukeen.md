@@ -5,9 +5,11 @@ le, tiny, asura, fiend
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
 
-**Languages** common, infernal
+**Languages** common, infernal; telepathy (touch; page 306)
+
+**Skills** Acrobatics +7, Deception +9, Performance +7, Religion +7, Stealth +7
 
 **STR** +0, **DEX** +4, **CON** +1, **INT** +0, **WIS** +3, **CHA** +4
 
@@ -25,11 +27,13 @@ le, tiny, asura, fiend
 
 Speed 25 feet
 
-**Melee** jaws +9 (finesse); **Damage** 1d8 piercing plus fire jackal saliva and 1 evil plus fire jackal saliva
+**Melee** ◆ jaws +9 (finesse); **Damage** 1d8 piercing plus fire jackal saliva and 1 evil plus fire jackal saliva
 
-**Melee** thorn +9 (agile, finesse); **Damage** 1d8 piercing plus 1 evil
+**Melee** ◆ thorn +9 (agile, finesse); **Damage** 1d8 piercing plus 1 evil
 
 **Innate divine Spells** (DC 17)
+
+  **Constant (3rd)** magic aura, nondetection
 
   **Cantrips (1st)** read aura
 

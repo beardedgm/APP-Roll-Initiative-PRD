@@ -5,7 +5,9 @@ unique, tiny, fungus, plant
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision, lifesense 30 feet
+
+**Skills** Stealth +15
 
 **STR** +4, **DEX** +3, **CON** +6, **INT** -2, **WIS** +2, **CHA** +1
 
@@ -27,7 +29,7 @@ unique, tiny, fungus, plant
 
 Speed 15 feet
 
-**Melee** tendril +18; **Damage** 2d10+10 piercing plus creeping death and Fungal Possession
+**Melee** ◆ tendril +18; **Damage** 2d10+10 piercing plus creeping death and Fungal Possession
 
 **Creeping Death** (contact, poison)
 

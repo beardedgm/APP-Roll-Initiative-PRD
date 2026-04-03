@@ -5,11 +5,13 @@ ne, tiny, fey, gremlin
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
+
+**Skills** Crafting +2, Deception +2, Nature +4, Stealth +5, Thievery +5
 
 **STR** -3, **DEX** +3, **CON** +0, **INT** +0, **WIS** +2, **CHA** -2
 
-**Items** {@item shortbow} (60 {@item arrow (generic)||arrows}), {@item shortsword}
+**Items** shortbow (60 arrows), shortsword
 
 **Animal Talker** Pugwampis can talk to and understand animals.
 
@@ -27,6 +29,6 @@ ne, tiny, fey, gremlin
 
 Speed 25 feet
 
-**Melee** shortsword +8 (agile, finesse, magical, versatile <S>); **Damage** 1d6 - 1 slashing
+**Melee** ◆ shortsword +8 (agile, finesse, magical, versatile <S>); **Damage** 1d6 - 1 slashing
 
-**Melee** shortbow +8 (deadly <1d10>, magical, range increment <60 feet>); **Damage** 1d6 - 1 piercing
+**Ranged** ◆ shortbow +8 (deadly <1d10>, magical, range increment <60 feet>); **Damage** 1d6 - 1 piercing

@@ -5,9 +5,11 @@ uncommon, cg, huge, dragon, earth
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, scent 60 feet (imprecise)
 
 **Languages** common, draconic, dwarven, elven, gnomish
+
+**Skills** Acrobatics +30, Athletics +31, Crafting +31, Deception +29, Performance +31, Society +29, Stealth +30
 
 **STR** +8, **DEX** +5, **CON** +5, **INT** +6, **WIS** +5, **CHA** +6
 
@@ -29,21 +31,21 @@ uncommon, cg, huge, dragon, earth
 
 ---
 
-Speed 50 feet, fly 200 feet
+Speed 50 feet, fly 200 feet, climb stone 50 feet,
 
-**Melee** jaws +33 (acid, magical, reach <15 feet>); **Damage** 3d10+16 piercing plus 3d8 acid
+**Melee** ◆ jaws +33 (acid, magical, reach <15 feet>); **Damage** 3d10+16 piercing plus 3d8 acid
 
-**Melee** claw +33 (agile, magical, reach <10 feet>); **Damage** 3d10+16 slashing
+**Melee** ◆ claw +33 (agile, magical, reach <10 feet>); **Damage** 3d10+16 slashing
 
-**Melee** tail +31 (magical, reach <20 feet>); **Damage** 2d10+14 bludgeoning
+**Melee** ◆ tail +31 (magical, reach <20 feet>); **Damage** 2d10+14 bludgeoning
 
 **Innate arcane Spells** (DC 39)
 
   **1st** grease
 
-  **4th** shape stone
+  **4th** shape stone (at will)
 
-  **5th** hideous laughter, wall of stone
+  **5th** hideous laughter (at will), wall of stone
 
 **Breath Weapon** ◆◆ The copper dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 rounds. - Acid (acid, arcane, evocation); The dragon breathes acid in a 100-foot line that deals 18d6 acid damage (DC 38 basic Fortitude save).
 - Slowing Gas (arcane, transmutation); The dragon breathes a 100-foot line of slowing gas. Each creature in the area must succeed at a DC 38 Fortitude save or be slowed 1 for 1 round (or slowed 2 on a critical failure).

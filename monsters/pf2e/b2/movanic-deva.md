@@ -5,9 +5,11 @@ ng, medium, angel, celestial
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Athletics +20, Diplomacy +22, Intimidation +22, Nature +22, Religion +19, Stealth +17, Survival +17
 
 **STR** +6, **DEX** +4, **CON** +4, **INT** +4, **WIS** +5, **CHA** +5
 
@@ -31,15 +33,17 @@ ng, medium, angel, celestial
 
 Speed 30 feet, fly 40 feet
 
-**Melee** flaming bastard sword +23 (good, magical, two-hand <d12>); **Damage** 2d8+9 slashing plus 1d6 fire and 1d6 good
+**Melee** ◆ flaming bastard sword +23 (good, magical, two-hand <d12>); **Damage** 2d8+9 slashing plus 1d6 fire and 1d6 good
 
 **Innate divine Spells** (DC 29)
 
-  **1st** detect alignment
+  **Constant (5th)** tongues
 
-  **2nd** invisibility
+  **1st** detect alignment (at will)
 
-  **4th** create food, heal
+  **2nd** invisibility (at will)
+
+  **4th** create food, heal (×3)
 
   **5th** divine wrath, remove curse, remove disease, remove fear
 

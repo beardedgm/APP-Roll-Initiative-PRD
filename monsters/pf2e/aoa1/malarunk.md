@@ -5,13 +5,15 @@ unique, ce, small, charau-ka, humanoid
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision, scent 30 feet (imprecise)
 
 **Languages** boggard, draconic, mwangi
 
+**Skills** Athletics +10, Intimidation +11, Religion +13, Stealth +8, Dragon Lore +11
+
 **STR** +3, **DEX** +2, **CON** +2, **INT** +0, **WIS** +4, **CHA** +2
 
-**Items** +1 chain shirt, {@item Cinderclaw gauntlet|AoA1}, gold religious symbol of {@deity Dahak|LOGM} (worth 20 gp), hatchet, {@item hunter's arrowhead|TV}
+**Items** +1 chain shirt, Cinderclaw gauntlet|AoA1, gold religious symbol of Dahak|LOGM (worth 20 gp), hatchet, hunter's arrowhead|TV
 
 ---
 
@@ -25,13 +27,13 @@ unique, ce, small, charau-ka, humanoid
 
 Speed 25 feet, climb 25 feet
 
-**Melee** Cinderclaw gauntlet +13 (agile, free-hand, versatile <S>); **Damage** 2d4+5 piercing plus 1d6 fire on a critical hit
+**Melee** ◆ Cinderclaw gauntlet +13 (agile, free-hand, versatile <S>); **Damage** 2d4+5 piercing plus 1d6 fire on a critical hit
 
-**Melee** hatchet +12 (agile, sweep); **Damage** 1d6+5 slashing
+**Melee** ◆ hatchet +12 (agile, sweep); **Damage** 1d6+5 slashing
 
-**Melee** hatchet +12 (agile, sweep, thrown <10 feet>); **Damage** 1d6+5 slashing
+**Ranged** ◆ hatchet +12 (agile, sweep, thrown <10 feet>); **Damage** 1d6+5 slashing
 
-**Melee** thrown debris +11 (deadly <1d6>, range <20 feet>); **Damage** 2d6+5 bludgeoning
+**Ranged** ◆ thrown debris +11 (deadly <1d6>, range <20 feet>); **Damage** 2d6+5 bludgeoning
 
 **Prepared divine Spells** (DC 23), attack +13
 
@@ -41,7 +43,7 @@ Speed 25 feet, climb 25 feet
 
   **2nd** create food, sound burst, spiritual weapon
 
-  **3rd** dream message, fireball, harm
+  **3rd** dream message, fireball, harm (×3)
 
 **Channel Smite** ◆◆
 

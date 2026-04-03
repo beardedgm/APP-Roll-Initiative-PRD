@@ -9,6 +9,8 @@ unique, ln, medium, human, humanoid
 
 **Languages** skald, taldane
 
+**Skills** Athletics +27, Intimidation +20, Warfare Lore +25
+
 **STR** +5, **DEX** +2, **CON** +5, **INT** +3, **WIS** +3, **CHA** +0
 
 ---
@@ -29,11 +31,11 @@ unique, ln, medium, human, humanoid
 
 Speed 20 feet
 
-**Melee** trident +29 (magical); **Damage** 2d8+13 piercing plus 1d6 fire
+**Melee** ◆ trident +29 (magical); **Damage** 2d8+13 piercing plus 1d6 fire
 
-**Melee** shield spikes +29 (magical); **Damage** 2d6+13 piercing plus Improved Knockdown plus Improved Knockdown
+**Melee** ◆ shield spikes +29 (magical); **Damage** 2d6+13 piercing plus Improved Knockdown plus Improved Knockdown
 
-**Melee** trident +26 (magical, thrown <20 feet>); **Damage** 2d8+13 piercing plus 1d6 fire
+**Ranged** ◆ trident +26 (magical, thrown <20 feet>); **Damage** 2d8+13 piercing plus 1d6 fire
 
 **Iron Maiden Stance** ◆ (stance) **Requirements** Huldrin is wielding a shield; Huldrin gains the benefits.
 

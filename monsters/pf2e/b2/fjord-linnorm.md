@@ -5,9 +5,11 @@ uncommon, ce, gargantuan, amphibious, dragon
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, scent 60 feet (imprecise), true seeing
 
 **Languages** aklo, draconic, sylvan
+
+**Skills** Acrobatics +27, Athletics +33, Stealth +29
 
 **STR** +9, **DEX** +5, **CON** +8, **INT** -3, **WIS** +6, **CHA** +7
 
@@ -29,13 +31,13 @@ uncommon, ce, gargantuan, amphibious, dragon
 
 ---
 
-Speed 35 feet, fly 75 feet, swim 50 feet
+Speed 35 feet, fly 75 feet, swim 50 feet, freedom of movement
 
-**Melee** jaws +33 (magical, reach <20 feet>); **Damage** 3d12+17 piercing plus fjord linnorm venom plus fjord linnorm venom
+**Melee** ◆ jaws +33 (magical, reach <20 feet>); **Damage** 3d12+17 piercing plus fjord linnorm venom plus fjord linnorm venom
 
-**Melee** claw +33 (agile, magical, reach <20 feet>); **Damage** 3d10+17 slashing
+**Melee** ◆ claw +33 (agile, magical, reach <20 feet>); **Damage** 3d10+17 slashing
 
-**Melee** tail +33 (agile, magical, reach <25 feet>); **Damage** 3d6+15 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tail +33 (agile, magical, reach <25 feet>); **Damage** 3d6+15 bludgeoning plus Improved Grab plus Improved Grab
 
 **Innate primal Spells** (DC 37)
 

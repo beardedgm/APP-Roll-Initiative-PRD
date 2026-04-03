@@ -5,9 +5,11 @@ unique, ce, large, humanoid
 
 ---
 
-**Perception** +35
+**Perception** +35; darkvision, keen hearing 120 feet
 
 **Languages** common
+
+**Skills** Acrobatics +34, Athletics +39, Intimidation +34, Stealth +34, Survival +33
 
 **STR** +10, **DEX** +5, **CON** +7, **INT** +0, **WIS** +6, **CHA** +5
 
@@ -21,7 +23,7 @@ unique, ce, large, humanoid
 
 **HP** 360
 
-**Resistances** all 15
+**Resistances** all 15 (except unarmed attacks)
 
 **Frightful Presence** (aura, emotion, fear, mental) 60 feet, DC 38
 
@@ -35,11 +37,11 @@ unique, ce, large, humanoid
 
 Speed 40 feet
 
-**Melee** fist +37 (agile, magical, reach <10 feet>); **Damage** 4d8+18 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ fist +37 (agile, magical, reach <10 feet>); **Damage** 4d8+18 bludgeoning plus Improved Grab plus Improved Grab
 
-**Melee** jaws +37 (magical, reach <10 feet>, versatile <B>); **Damage** 4d10+18 piercing
+**Melee** ◆ jaws +37 (magical, reach <10 feet>, versatile <B>); **Damage** 4d10+18 piercing
 
-**Melee** rock +37 (brutal, range increment <150 feet>); **Damage** 2d12+18 bludgeoning
+**Ranged** ◆ rock +37 (brutal, range increment <150 feet>); **Damage** 2d12+18 bludgeoning
 
 **Hands of the Murderer** Grendel's fist Strikes deal 18 bludgeoning damage on a failure (but no damage on a critical failure).
 

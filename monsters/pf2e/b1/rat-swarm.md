@@ -5,7 +5,9 @@ n, large, animal, swarm
 
 ---
 
-**Perception** +5
+**Perception** +5; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +8, Athletics +4, Stealth +6
 
 **STR** -2, **DEX** +3, **CON** +1, **INT** -4, **WIS** +1, **CHA** -3
 

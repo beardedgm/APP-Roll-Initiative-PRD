@@ -5,9 +5,11 @@ unique, cg, medium, elf, human, humanoid
 
 ---
 
-**Perception** +12
+**Perception** +12; low-light vision
 
 **Languages** celestial, charau-ka, common, draconic, elven, mwangi, sylvan
+
+**Skills** Arcana +11, Athletics +9, Deception +12, Diplomacy +13, Nature +10, Occultism +11, Performance +14, Society +15, Survival +10, Ekujae Lore +15
 
 **STR** +1, **DEX** +3, **CON** +0, **INT** +3, **WIS** +2, **CHA** +4
 
@@ -27,11 +29,11 @@ unique, cg, medium, elf, human, humanoid
 
 Speed 35 feet, climb 20 feet
 
-**Melee** vine lash +15 (agile, finesse, reach <15 feet>); **Damage** 2d6+4 bludgeoning
+**Melee** ◆ vine lash +15 (agile, finesse, reach <15 feet>); **Damage** 2d6+4 bludgeoning
 
-**Melee** verdant staff +13 (magical, two-hand <d8>); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ verdant staff +13 (magical, two-hand <d8>); **Damage** 1d4+4 bludgeoning
 
-**Melee** longbow +16 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+3 piercing plus black adder venom plus black adder venom
+**Ranged** ◆ longbow +16 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+3 piercing plus black adder venom plus black adder venom
 
 **Spontaneous occult Spells** (DC 24), attack +14
 

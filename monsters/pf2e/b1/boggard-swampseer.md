@@ -5,9 +5,11 @@ ce, medium, amphibious, boggard, humanoid
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** abyssal, boggard, common
+
+**Skills** Athletics +8, Intimidation +8, Medicine +9, Nature +11, Performance +8, Religion +9
 
 **STR** +3, **DEX** +0, **CON** +2, **INT** +0, **WIS** +4, **CHA** +3
 
@@ -23,11 +25,11 @@ ce, medium, amphibious, boggard, humanoid
 
 ---
 
-Speed 20 feet, swim 25 feet
+Speed 20 feet, swim 25 feet, swamp stride
 
-**Melee** staff +10 (two-hand <d8>); **Damage** 1d4+6 bludgeoning
+**Melee** ◆ staff +10 (two-hand <d8>); **Damage** 1d4+6 bludgeoning
 
-**Melee** tongue +10 (reach <10 feet>); plus tongue grab
+**Melee** ◆ tongue +10 (reach <10 feet>); plus tongue grab
 
 **Prepared primal Spells** (DC 21), attack +11
 

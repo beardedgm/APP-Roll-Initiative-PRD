@@ -5,13 +5,15 @@ unique, le, medium, devil, fiend
 
 ---
 
-**Perception** +27
+**Perception** +27; greater darkvision
 
-**Languages** abyssal, aklo, azlanti, common, draconic, dwarven, elven, ignan, infernal, jotun, shoanti, thassilonian, undercommon, varisian
+**Languages** abyssal, aklo, azlanti, common, draconic, dwarven, elven, ignan, infernal, jotun, shoanti, thassilonian, undercommon, varisian; telepathy 300 feet, tongues
+
+**Skills** Academia Lore +32, Acrobatics +28, Arcana +30, Deception +33, Diplomacy +31, Intimidation +31, Legal Lore +30, Occultism +30, Religion +27, Society +30, Stealth +32
 
 **STR** +6, **DEX** +6, **CON** +6, **INT** +6, **WIS** +3, **CHA** +9
 
-**Items** {@item staff of power}
+**Items** staff of power
 
 ---
 
@@ -23,7 +25,7 @@ unique, le, medium, devil, fiend
 
 **Immunities** divination, fire
 
-**Resistances** mental 15, physical 15
+**Resistances** mental 15, physical 15 (except silver)
 
 **Weaknesses** good 15
 
@@ -33,17 +35,19 @@ unique, le, medium, devil, fiend
 
 Speed 25 feet, fly 20 feet
 
-**Melee** staff +32 (two-hand d8, versatile <P>); **Damage** 3d4+14 bludgeoning plus 2d8 mental plus thought theft
+**Melee** ◆ staff +32 (two-hand d8, versatile <P>); **Damage** 3d4+14 bludgeoning plus 2d8 mental plus thought theft
 
-**Melee** claw +30 (agile, magical); **Damage** 3d4+14 slashing plus 2d8 mental plus thought theft
+**Melee** ◆ claw +30 (agile, magical); **Damage** 3d4+14 slashing plus 2d8 mental plus thought theft
 
 **Innate arcane Spells** (DC 37), attack +29
 
+  **Constant (8th)** tongues
+
   **Cantrips (8th)** detect magic, mage hand, message, produce flame, read aura
 
-  **5th** dimension door
+  **5th** dimension door (at will)
 
-  **6th** dominate, feeblemind, scrying, slow
+  **6th** dominate (×2), feeblemind, scrying (×3), slow
 
   **7th** divine decree, magic missile, teleport
 

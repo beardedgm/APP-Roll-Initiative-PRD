@@ -5,9 +5,11 @@ uncommon, ce, medium, incorporeal, undead
 
 ---
 
-**Perception** +12
+**Perception** +12; no vision, {@ability lifesense} 120 feet (precise)
 
 **Languages** common, necril (can't speak any language)
+
+**Skills** Acrobatics +13, Intimidation +12, Stealth +13
 
 **STR** -5, **DEX** +4, **CON** +2, **INT** +0, **WIS** +3, **CHA** +3
 
@@ -23,7 +25,7 @@ uncommon, ce, medium, incorporeal, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Frightful Presence** (aura, emotion, fear, mental) 30 feet, DC 19
 
@@ -33,7 +35,7 @@ uncommon, ce, medium, incorporeal, undead
 
 Speed fly 40 feet
 
-**Melee** head +12 (finesse, magical); **Damage** 2d6+2 bludgeoning plus 2d6 mental
+**Melee** ◆ head +12 (finesse, magical); **Damage** 2d6+2 bludgeoning plus 2d6 mental
 
 **Jealous Frenzy** ◈ (divine, enchantment, mental) **Trigger** The dalgyal gwishin Strikes a creature that has a higher Charisma modifier than itself; **Frequency** {"unit":"day","number":1}; The dalgyal gwishin enters an envious frenzy as it senses strong ties of friendship and personality within the creature it struck. The dalgyal gwishin becomes quickened but can only use its quickened action to Strike the triggering creature. If the dalgyal gwishin fails to Strike the triggering creature at least once during its turn, Jealous Frenzy ends. It also ends after 1 minute. After Jealous Frenzy ends, the dalgyal gwishin is slowed 1 for 1 minute.
 

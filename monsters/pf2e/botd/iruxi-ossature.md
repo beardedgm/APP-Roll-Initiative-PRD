@@ -5,9 +5,11 @@ n, medium, lizardfolk, undead
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision, lifesense 30 feet
 
 **Languages** draconic, iruxi, necril
+
+**Skills** Athletics +12, Intimidation +11, Stealth +13
 
 **STR** +5, **DEX** +2, **CON** +4, **INT** -1, **WIS** +2, **CHA** +0
 
@@ -27,11 +29,11 @@ n, medium, lizardfolk, undead
 
 Speed 20 feet, swim 10 feet
 
-**Melee** jaws +14; **Damage** 2d8+7 piercing
+**Melee** ◆ jaws +14; **Damage** 2d8+7 piercing
 
-**Melee** tail +14 (agile); **Damage** 2d6+7 bludgeoning
+**Melee** ◆ tail +14 (agile); **Damage** 2d6+7 bludgeoning
 
-**Melee** bone javelin +11 (thrown <30 feet>); **Damage** 2d6+7 piercing
+**Ranged** ◆ bone javelin +11 (thrown <30 feet>); **Damage** 2d6+7 piercing
 
 **Fossil Fury** ◆◆ (earth, primal, transmutation) **Frequency** {"number":1,"unit":"hour"}; The iruxi ossature beckons with glowing hands, commanding the earth to trip up opponents and marshaling the bone walls of its protectorate to lash out at intruders. The floor in a 30-foot cone in front of the ossature becomes terrain for 1 minute. Any square of a wall built by iruxis that's in the cone lashes out, with fossilized claws damaging any enemy within 5 feet of the wall. This deals 6d6 piercing damage with a DC 22 basic Reflex save. A creature attempts the save only once, even if adjacent to more than one affected square of the wall. Fossil Fury has no effect on the ossature's allies and never damages iruxi eggs.
 

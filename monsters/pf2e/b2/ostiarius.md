@@ -5,9 +5,11 @@ le, medium, fiend, velstrac
 
 ---
 
-**Perception** +15
+**Perception** +15; greater darkvision, painsight, sense portal
 
-**Languages** common, infernal, shadowtongue
+**Languages** common, infernal, shadowtongue; telepathy 100 feet
+
+**Skills** Acrobatics +13, Deception +12, Diplomacy +12, Intimidation +16, Religion +11, Torture Lore +11
 
 **STR** +0, **DEX** +4, **CON** +2, **INT** +2, **WIS** +4, **CHA** +5
 
@@ -35,13 +37,13 @@ le, medium, fiend, velstrac
 
 Speed 25 feet
 
-**Melee** claw +13 (agile, evil, finesse, magical); **Damage** 2d6+2 slashing plus 2d6 persistent bleed
+**Melee** ◆ claw +13 (agile, evil, finesse, magical); **Damage** 2d6+2 slashing plus 2d6 persistent bleed
 
 **Innate divine Spells** (DC 24)
 
   **Cantrips (3rd)** shield
 
-  **2nd** calm emotions, darkness, silence
+  **2nd** calm emotions (at will), darkness, silence
 
   **3rd** enthrall, wanderer's guide
 

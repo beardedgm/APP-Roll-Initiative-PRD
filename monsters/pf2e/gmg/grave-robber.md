@@ -9,6 +9,8 @@ ne, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Crafting +6, Deception +2, Intimidation +2, Society +6, Stealth +5, Underworld Lore +6
+
 **STR** +1, **DEX** +2, **CON** +2, **INT** +3, **WIS** +2, **CHA** -1
 
 **Items** alchemist's tools, dagger, formula book, holy water, shovel, studded leather armor
@@ -27,6 +29,6 @@ ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** shovel +6; **Damage** 1d6+1 bludgeoning
+**Melee** ◆ shovel +6; **Damage** 1d6+1 bludgeoning
 
-**Melee** alchemical bomb +7 (range increment <20 feet>, splash); plus varies by bomb
+**Ranged** ◆ alchemical bomb +7 (range increment <20 feet>, splash); plus varies by bomb

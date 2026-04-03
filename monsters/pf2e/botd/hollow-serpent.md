@@ -5,9 +5,11 @@ ne, large, undead
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision, lifesense 60 feet, scent 60 feet (precise)
 
 **Languages** aklo
+
+**Skills** Acrobatics +29, Athletics +30, Stealth +29
 
 **STR** +7, **DEX** +8, **CON** +6, **INT** -2, **WIS** +4, **CHA** +3
 
@@ -27,13 +29,15 @@ ne, large, undead
 
 ---
 
-Speed 50 feet, climb 50 feet
+Speed 50 feet, climb 50 feet, freedom of movement
 
-**Melee** jaws +30 (reach <10 feet>); **Damage** 4d10+15 piercing plus Improved Grab
+**Melee** ◆ jaws +30 (reach <10 feet>); **Damage** 4d10+15 piercing plus Improved Grab
 
-**Melee** tail +30 (agile, reach <15 feet>); **Damage** 3d10+15 bludgeoning plus Improved Grab
+**Melee** ◆ tail +30 (agile, reach <15 feet>); **Damage** 3d10+15 bludgeoning plus Improved Grab
 
 **Innate divine Spells** (DC 35)
+
+  **Constant (7th)** freedom of movement
 
   **7th** vampiric exsanguination
 

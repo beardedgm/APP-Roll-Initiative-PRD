@@ -5,9 +5,11 @@ unique, ce, small, gnoll, humanoid
 
 ---
 
-**Perception** +33
+**Perception** +33; low-light vision, scent 30 feet (precise)
 
 **Languages** amurrun, common, gnoll, iruxi, necril, sylvan
+
+**Skills** Academia Lore +31, Deception +35, Nature +35, Occultism +35, Religion +31, Stealth +31, Survival +33
 
 **STR** +2, **DEX** +3, **CON** +4, **INT** +5, **WIS** +5, **CHA** -1
 
@@ -29,7 +31,7 @@ unique, ce, small, gnoll, humanoid
 
 Speed 25 feet
 
-**Melee** bite +28; **Damage** 3d6+5 piercing
+**Melee** ◆ bite +28; **Damage** 3d6+5 piercing
 
 **Prepared primal Spells** (DC 40), attack +32
 
@@ -55,11 +57,11 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 40), attack +32
 
-  **2nd** augury
+  **2nd** augury (×2)
 
   **5th** animal form
 
-  **9th** shadow blast, shadow siphon
+  **9th** shadow blast (×2), shadow siphon (×2)
 
 **Rupture Shadow** ◆◆ (acid, conjuration, occult, shadow) Okoro can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. He targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will save. Okoro can't use Rupture Shadow again for 1d4 rounds. **Critical Success** 
 **Success** 

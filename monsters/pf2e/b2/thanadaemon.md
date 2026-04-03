@@ -5,9 +5,11 @@ ne, medium, daemon, fiend
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision, true seeing
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Arcana +22, Deception +26, Intimidation +26, Religion +22, Styx Lore +24
 
 **STR** +6, **DEX** +6, **CON** +4, **INT** +3, **WIS** +5, **CHA** +7
 
@@ -29,23 +31,25 @@ ne, medium, daemon, fiend
 
 ---
 
-Speed 25 feet
+Speed 25 feet, air walk
 
-**Melee** bo staff +28 (evil, magical, parry, reach <10 feet>, trip); **Damage** 3d8+14 bludgeoning plus 1d6 negative, 1d6 evil, and draining strike plus draining strike
+**Melee** ◆ bo staff +28 (evil, magical, parry, reach <10 feet>, trip); **Damage** 3d8+14 bludgeoning plus 1d6 negative, 1d6 evil, and draining strike plus draining strike
 
-**Melee** claw +27 (agile, evil, finesse, magical); **Damage** 3d6+14 slashing plus 1d6 evil and draining strike plus draining strike
+**Melee** ◆ claw +27 (agile, evil, finesse, magical); **Damage** 3d6+14 slashing plus 1d6 evil and draining strike plus draining strike
 
 **Innate divine Spells** (DC 34)
 
-  **1st** detect alignment
+  **Constant (7th)** air walk, true seeing
 
-  **4th** dimension door
+  **1st** detect alignment (at will)
+
+  **4th** dimension door (at will)
 
   **5th** dimension door
 
-  **6th** slow, vampiric exsanguination
+  **6th** slow, vampiric exsanguination (×2)
 
-  **7th** finger of death, plane shift, teleport
+  **7th** finger of death, plane shift (at will), teleport
 
 **Draining Strike** (divine, necromancy) When a thanadaemon damages a living creature with a melee Strike, the creature must succeed at a DC 33 Fortitude save or become drained 1. Further damage dealt by the thanadaemon increases the drained condition value by 1 on a failed save, to a maximum of drained 4.
 

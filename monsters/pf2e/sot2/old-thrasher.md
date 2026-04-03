@@ -5,7 +5,9 @@ unique, n, large, animal
 
 ---
 
-**Perception** +16
+**Perception** +16; low-light vision
+
+**Skills** Athletics +18, Stealth +16
 
 **STR** +6, **DEX** +2, **CON** +4, **INT** -5, **WIS** +3, **CHA** -2
 
@@ -21,9 +23,9 @@ unique, n, large, animal
 
 Speed 20 feet, swim 25 feet
 
-**Melee** jaws +20; **Damage** 2d10+8 piercing plus Grab plus Grab
+**Melee** ◆ jaws +20; **Damage** 2d10+8 piercing plus Grab plus Grab
 
-**Melee** tail +20 (agile, reach <10 feet>); **Damage** 2d6+8 bludgeoning
+**Melee** ◆ tail +20 (agile, reach <10 feet>); **Damage** 2d6+8 bludgeoning
 
 **Death Roll** ◆ (attack) **Requirements** Old Thrasher must have a creature grabbed; Old Thrasher tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature prone. If it fails, it releases the creature.
 

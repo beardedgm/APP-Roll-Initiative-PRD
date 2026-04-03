@@ -5,9 +5,11 @@ le, medium, duergar, dwarf, humanoid
 
 ---
 
-**Perception** +4
+**Perception** +4; darkvision
 
 **Languages** common, dwarven, undercommon
+
+**Skills** Athletics +3, Stealth +5
 
 **STR** +1, **DEX** +3, **CON** +3, **INT** +0, **WIS** +2, **CHA** -2
 
@@ -27,9 +29,9 @@ le, medium, duergar, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** light mace +5 (agile, finesse, shove); **Damage** 1d4+1 bludgeoning
+**Melee** ◆ light mace +5 (agile, finesse, shove); **Damage** 1d4+1 bludgeoning
 
-**Melee** crossbow +7 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing or bola bolt
+**Ranged** ◆ crossbow +7 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing or bola bolt
 
 **Innate occult Spells** (DC 12)
 

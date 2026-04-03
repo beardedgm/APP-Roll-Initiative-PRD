@@ -5,7 +5,9 @@ n, small, animal, aquatic
 
 ---
 
-**Perception** +4
+**Perception** +4; low-light vision
+
+**Skills** Athletics +6, Stealth +7
 
 **STR** +1, **DEX** +2, **CON** +2, **INT** -5, **WIS** +1, **CHA** -1
 
@@ -21,9 +23,9 @@ n, small, animal, aquatic
 
 Speed 5 feet, swim 30 feet
 
-**Melee** jaws +6; **Damage** 1d6+3 piercing
+**Melee** ◆ jaws +6; **Damage** 1d6+3 piercing
 
-**Melee** tail +6 (agile); **Damage** 1d4+1 bludgeoning plus 1d4 electricity and stunning shock plus stunning shock
+**Melee** ◆ tail +6 (agile); **Damage** 1d4+1 bludgeoning plus 1d4 electricity and stunning shock plus stunning shock
 
 **Stunning Shock** (incapacitation) A creature critically hit by the electric eel's tail must attempt a DC 17 Fortitude save. **Critical Success** The creature is unaffected.
 **Success** The creature is stunned 1.

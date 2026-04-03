@@ -5,9 +5,11 @@ uncommon, ne, medium, shadow
 
 ---
 
-**Perception** +13
+**Perception** +13; greater darkvision
 
 **Languages** caligni (can't speak any
+
+**Skills** Acrobatics +15, Deception +13, Diplomacy +11, Occultism +12, Religion +11, Stealth +15
 
 **STR** +4, **DEX** +5, **CON** +4, **INT** +0, **WIS** +3, **CHA** +3
 
@@ -27,17 +29,17 @@ uncommon, ne, medium, shadow
 
 Speed 5 feet, fly 30 feet
 
-**Melee** claw +16 (agile, magical); **Damage** 1d8+7 slashing plus 1d8 cold
+**Melee** ◆ claw +16 (agile, magical); **Damage** 1d8+7 slashing plus 1d8 cold
 
-**Melee** burning cold +17 (magical, range <120 feet>); **Damage** 2d8 cold plus 1d8 persistent cold
+**Ranged** ◆ burning cold +17 (magical, range <120 feet>); **Damage** 2d8 cold plus 1d8 persistent cold
 
 **Innate occult Spells** (DC 23), attack +15
 
   **Cantrips (3rd)** chill touch, daze, read aura, shield
 
-  **3rd** mind reading
+  **3rd** mind reading (at will)
 
-  **4th** darkness, invisibility
+  **4th** darkness (at will), invisibility
 
   **5th** shadow blast, shadow walk
 

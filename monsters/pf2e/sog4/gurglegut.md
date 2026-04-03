@@ -5,13 +5,15 @@ unique, ne, large, humanoid
 
 ---
 
-**Perception** +23
+**Perception** +23; {@ability low-light vision}
 
 **Languages** common, goblin, sylvan
 
+**Skills** Alcohol Lore +22, Arcana +20, Athletics +25, Intimidation +22, Nature +23
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** +4, **WIS** +5, **CHA** +4
 
-**Items** {@runeItem crossbow||+1 weapon potency||striking||flaming|} (10 bolts), jug of rice wine, {@runeItem kukri||+1 weapon potency||striking|}, {@runeItem studded leather||+1 armor potency||resilient|}
+**Items**  (10 bolts), jug of rice wine, , 
 
 ---
 
@@ -25,9 +27,9 @@ unique, ne, large, humanoid
 
 Speed 25 feet
 
-**Melee** kukri +26 (agile, magical, reach <10 feet>, trip); **Damage** 2d6+13 slashing
+**Melee** ◆ kukri +26 (agile, magical, reach <10 feet>, trip); **Damage** 2d6+13 slashing
 
-**Melee** crossbow +23 (magical, range <120 feet>); **Damage** 2d8+6 piercing plus 1d6 fire
+**Ranged** ◆ crossbow +23 (magical, range <120 feet>); **Damage** 2d8+6 piercing plus 1d6 fire
 
 **Command Onidoshi** ◆ (auditory, linguistic) **Frequency** {"unit":"round","number":1}; Gurglegut barks out a command to a single onidoshi|B2 in area D1. That onidoshi can use a reaction to attempt a melee Strike against an adjacent foe.
 

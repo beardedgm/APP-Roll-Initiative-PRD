@@ -5,9 +5,11 @@ n, small, earth, elemental
 
 ---
 
-**Perception** +3
+**Perception** +3; darkvision, {@ability tremorsense} 30 feet (imprecise)
 
 **Languages** terran
+
+**Skills** Athletics +6, Stealth +2
 
 **STR** +3, **DEX** -1, **CON** +2, **INT** -2, **WIS** +0, **CHA** -1
 
@@ -23,7 +25,7 @@ n, small, earth, elemental
 
 Speed 20 feet, fly 15 feet, burrow 20 feet
 
-**Melee** fist +8; **Damage** 1d6+3 bludgeoning
+**Melee** ◆ fist +8; **Damage** 1d6+3 bludgeoning
 
 **Innate arcane Spells** (DC 17)
 

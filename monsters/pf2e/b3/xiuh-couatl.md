@@ -5,9 +5,11 @@ rare, ng, large, beast, couatl
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision, thoughtsense 60 feet (imprecise)
 
-**Languages** celestial, common, draconic
+**Languages** celestial, common, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +21, Arcana +23, Diplomacy +26, Intimidation +26, Nature +23, Occultism +23, Society +21, Stealth +21, Survival +21
 
 **STR** +7, **DEX** +3, **CON** +4, **INT** +5, **WIS** +5, **CHA** +6
 
@@ -27,15 +29,15 @@ rare, ng, large, beast, couatl
 
 Speed 20 feet, fly 60 feet
 
-**Melee** jaws +25 (magical); **Damage** 2d10+10 piercing plus 2d8 fire, xiuh couatl venom, and Grab plus xiuh couatl venom, Grab
+**Melee** ◆ jaws +25 (magical); **Damage** 2d10+10 piercing plus 2d8 fire, xiuh couatl venom, and Grab plus xiuh couatl venom, Grab
 
 **Innate occult Spells** (DC 32), attack +24
 
   **Cantrips (6th)** detect magic, ghost sound, read aura, telekinetic projectile
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
-  **6th** charm, clairaudience, clairvoyance, crushing despair, detect alignment, dispel magic, dream message, fear, illusory scene, mind reading, mindlink, phantom pain, see invisibility, sending, zone of truth
+  **6th** charm, clairaudience, clairvoyance, crushing despair, detect alignment (at will), dispel magic, dream message, fear, illusory scene, mind reading (at will), mindlink, phantom pain, see invisibility, sending, zone of truth
 
   **7th** plane shift
 

@@ -5,9 +5,11 @@ ng, medium, elf, human, humanoid
 
 ---
 
-**Perception** +13
+**Perception** +13; low-light vision
 
 **Languages** common, druidic, mwangi
+
+**Skills** Acrobatics +9, Arcana +7, Athletics +8, Nature +12, Stealth +11, Survival +12
 
 **STR** +2, **DEX** +3, **CON** +1, **INT** +1, **WIS** +4, **CHA** +0
 
@@ -27,15 +29,15 @@ ng, medium, elf, human, humanoid
 
 Speed 40 feet
 
-**Melee** scimitar +9 (forceful, sweep); **Damage** 1d6+2 slashing
+**Melee** ◆ scimitar +9 (forceful, sweep); **Damage** 1d6+2 slashing
 
-**Melee** composite longbow +10 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 feet); **Damage** 1d8+1 piercing
+**Ranged** ◆ composite longbow +10 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 feet); **Damage** 1d8+1 piercing
 
 **Prepared primal Spells** (DC 21), attack +11
 
   **Cantrips (2nd)** detect magic, electric arc, know direction, light, tanglefoot
 
-  **1st** gust of wind, longstrider
+  **1st** gust of wind (×2), longstrider
 
   **2nd** acid arrow, entangle, spider climb
 

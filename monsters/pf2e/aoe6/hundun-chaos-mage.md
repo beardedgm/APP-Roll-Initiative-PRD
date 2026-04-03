@@ -5,9 +5,11 @@ rare, ce, large, aberration
 
 ---
 
-**Perception** +30
+**Perception** +30; motion sense 100 feet, no vision
 
-**Languages** abyssal, aklo, protean (can't speak any language)
+**Languages** abyssal, aklo, protean (can't speak any language); telepathy 100 feet
+
+**Skills** Acrobatics +35, Athletics +37, Intimidation +38, Occultism +34
 
 **STR** +9, **DEX** +6, **CON** +7, **INT** +4, **WIS** +6, **CHA** +8
 
@@ -32,19 +34,21 @@ rare, ce, large, aberration
 
 ---
 
-Speed 50 feet
+Speed 50 feet, air walk
 
-**Melee** fist +33 (agile, finesse, magical, reach <10 feet>); **Damage** 4d8+12 bludgeoning plus 1d6 negative
+**Melee** ◆ fist +33 (agile, finesse, magical, reach <10 feet>); **Damage** 4d8+12 bludgeoning plus 1d6 negative
 
 **Innate occult Spells** (DC 40), attack +35
 
-  **1st** detect alignment
+  **Constant (4th)** air walk
 
-  **4th** dimension door
+  **1st** detect alignment (at will)
 
-  **7th** plane shift
+  **4th** dimension door (at will)
 
-  **8th** divine wrath, harm
+  **7th** plane shift (at will)
+
+  **8th** divine wrath, harm (×2)
 
   **9th** disintegrate, dispel magic, harm
 

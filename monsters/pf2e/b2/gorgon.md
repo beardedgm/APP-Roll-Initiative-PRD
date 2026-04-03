@@ -5,7 +5,9 @@ uncommon, n, large, beast
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision, scent 30 feet (imprecise)
+
+**Skills** Athletics +19
 
 **STR** +7, **DEX** +3, **CON** +6, **INT** -4, **WIS** +5, **CHA** +3
 
@@ -21,9 +23,9 @@ uncommon, n, large, beast
 
 Speed 25 feet
 
-**Melee** horn +20; **Damage** 2d12+10 piercing
+**Melee** ◆ horn +20; **Damage** 2d12+10 piercing
 
-**Melee** hoof +18; **Damage** 2d6+10 bludgeoning
+**Melee** ◆ hoof +18; **Damage** 2d6+10 bludgeoning
 
 **Breath Weapon** ◆◆ (earth, incapacitation, primal, transmutation) The gorgon breathes a 60-foot cone of green gas. Each creature in the area must attempt a DC 25 Fortitude save. The gorgon can't use Breath Weapon again for 1d4 rounds. **Critical Success** The creature is unaffected.
 **Success** The creature's body hardens and stiffens, causing it to become slowed 1 for 1 round.

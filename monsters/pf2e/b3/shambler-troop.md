@@ -5,7 +5,7 @@ ne, gargantuan, mindless, troop, undead, zombie
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
 **STR** +5, **DEX** +0, **CON** +3, **INT** -5, **WIS** +1, **CHA** -2
 
@@ -25,7 +25,7 @@ ne, gargantuan, mindless, troop, undead, zombie
 
 ---
 
-Speed 20 feet
+Speed 20 feet, troop movement
 
 **Shambling Onslaught** **Frequency** {"unit":"round","number":1}; The shamblers lash out at any enemies in their squares or within 5 feet (DC 18 basic Reflex save). The damage depends on the number of actions. 1 2d6+5 bludgeoning damage 2 2d6+9 bludgeoning damage.
 

@@ -5,7 +5,9 @@ rare, ne, large, ghoul, undead
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision, scent 30 feet (imprecise)
+
+**Skills** Athletics +19, Survival +14
 
 **STR** +6, **DEX** +1, **CON** +6, **INT** -4, **WIS** +1, **CHA** -1
 
@@ -25,9 +27,9 @@ rare, ne, large, ghoul, undead
 
 Speed 35 feet
 
-**Melee** jaws +20; **Damage** 2d10+9 piercing plus ghast fever and paralysis plus ghast fever, paralysis
+**Melee** ◆ jaws +20; **Damage** 2d10+9 piercing plus ghast fever and paralysis plus ghast fever, paralysis
 
-**Melee** claw +20 (agile); **Damage** 2d8+9 slashing plus Grab and paralysis
+**Melee** ◆ claw +20 (agile); **Damage** 2d8+9 slashing plus Grab and paralysis
 
 **Consume Flesh** ◆ (manipulate) **Requirements** The ghastly bear is adjacent to the corpse of a creature that died within the last hour.; The ghastly bear devours a chunk of the corpse and regains 6d6 Hit Points. It can regain Hit Points from any given corpse only once.
 

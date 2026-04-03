@@ -5,9 +5,11 @@ unique, n, medium, drow, elf, humanoid
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** elven, undercommon
+
+**Skills** Acrobatics +21, Athletics +22, Intimidation +20, Stealth +21, Survival +20
 
 **STR** +5, **DEX** +4, **CON** +3, **INT** +0, **WIS** +3, **CHA** +1
 
@@ -31,15 +33,15 @@ unique, n, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** longsword +24 (versatile <P>); **Damage** 2d8+9 slashing plus 1d6 acid
+**Melee** ◆ longsword +24 (versatile <P>); **Damage** 2d8+9 slashing plus 1d6 acid
 
-**Melee** hand crossbow +22; **Damage** 1d6+8 piercing plus stupor poison plus stupor poison
+**Ranged** ◆ hand crossbow +22; **Damage** 1d6+8 piercing plus stupor poison plus stupor poison
 
 **Innate divine Spells** (DC 28)
 
   **Cantrips (6th)** dancing lights
 
-  **2nd** darkness, faerie fire
+  **2nd** darkness (at will), faerie fire (at will)
 
 **Attack Now!** ◆ Salaisa shouts, and a drow ally within 30 feet that can see or hear Salaisa makes a melee or ranged Strike as a reaction.
 

@@ -9,6 +9,8 @@ ln, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +14, Nature +10, Stealth +12, Survival +12
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** +1, **WIS** +2, **CHA** +1
 
 ---
@@ -25,8 +27,8 @@ ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** bastard sword +16 (two-hand <d12>); **Damage** 1d8+7 slashing
+**Melee** ◆ bastard sword +16 (two-hand <d12>); **Damage** 1d8+7 slashing
 
-**Melee** composite longbow +17 (deadly <1d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+5 piercing
+**Ranged** ◆ composite longbow +17 (deadly <1d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+5 piercing
 
 **Warden's Protection** A warden deals an extra 1d8 damage to any creature trespassing on the territory the warden protects.

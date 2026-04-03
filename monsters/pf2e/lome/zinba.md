@@ -5,9 +5,11 @@ rare, n, large, amphibious, beast
 
 ---
 
-**Perception** +20
+**Perception** +20; low-light vision, scent 60 feet (imprecise)
 
 **Languages** sylvan (can't speak any language)
+
+**Skills** Acrobatics +18, Athletics +25, Stealth +18, Survival +18
 
 **STR** +8, **DEX** +3, **CON** +7, **INT** -3, **WIS** +3, **CHA** +0
 
@@ -25,9 +27,9 @@ rare, n, large, amphibious, beast
 
 Speed 30 feet, burrow 10 feet, swim 30 feet, climb 30 feet
 
-**Melee** jaws +21; **Damage** 2d10+11 piercing plus
+**Melee** ◆ jaws +21; **Damage** 2d10+11 piercing plus
 
-**Melee** tail +21 (agile, reach <10 feet>); **Damage** 2d8+9 bludgeoning plus Push 10 feet
+**Melee** ◆ tail +21 (agile, reach <10 feet>); **Damage** 2d8+9 bludgeoning plus Push 10 feet
 
 **Greater Constrict** ◆ 2d10+6 bludgeoning, DC 29
 

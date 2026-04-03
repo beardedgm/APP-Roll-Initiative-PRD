@@ -5,9 +5,11 @@ ce, medium, demon, fiend
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
-**Languages** abyssal, celestial, common, draconic
+**Languages** abyssal, celestial, common, draconic; telepathy 100 feet, tongues
+
+**Skills** Acrobatics +14, Deception +18, Diplomacy +20, Intimidation +16, Religion +13, Society +15, Stealth +14
 
 **STR** +2, **DEX** +3, **CON** +4, **INT** +4, **WIS** +2, **CHA** +7
 
@@ -29,17 +31,19 @@ ce, medium, demon, fiend
 
 Speed 25 feet, fly 35 feet
 
-**Melee** claw +16 (agile, evil, finesse, magical); **Damage** 2d8+8 slashing plus 1d6 evil
+**Melee** ◆ claw +16 (agile, evil, finesse, magical); **Damage** 2d8+8 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 26)
 
-  **1st** charm
+  **Constant (5th)** tongues
 
-  **2nd** detect alignment
+  **1st** charm (at will)
 
-  **3rd** mind reading
+  **2nd** detect alignment (at will)
 
-  **4th** dimension door, suggestion
+  **3rd** mind reading (at will)
+
+  **4th** dimension door (at will), suggestion (at will)
 
   **5th** dimension door
 

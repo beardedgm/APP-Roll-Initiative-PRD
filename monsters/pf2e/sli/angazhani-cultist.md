@@ -9,6 +9,8 @@ ce, medium, human, humanoid
 
 **Languages** abyssal, common, mwangi
 
+**Skills** Athletics +12, Diplomacy +8, Intimidation +10, Religion +8, Survival +11, Demon Lore +8
+
 **STR** +4, **DEX** +1, **CON** +1, **INT** +0, **WIS** +3, **CHA** +2
 
 ---
@@ -27,8 +29,8 @@ ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** spear +14 (fatal <d10>); **Damage** 2d6+6 piercing
+**Melee** ◆ spear +14 (fatal <d10>); **Damage** 2d6+6 piercing
 
-**Melee** spear +11 (fatal <d10>, thrown <20 feet>); **Damage** 2d6+6 piercing
+**Ranged** ◆ spear +11 (fatal <d10>, thrown <20 feet>); **Damage** 2d6+6 piercing
 
 **Demonic Strength** Angazhani cultists inflict an extra 1d6 damage with their spears, and any spear gains the fatal <d10> trait while the cultist is using it (both the extra weapon damage die and the fatal trait have already been included in the cultist's spear Strikes above).

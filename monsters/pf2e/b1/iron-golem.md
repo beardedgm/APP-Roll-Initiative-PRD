@@ -5,7 +5,9 @@ uncommon, n, large, construct, golem, mindless
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
+
+**Skills** Athletics +30
 
 **STR** +8, **DEX** -1, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -19,7 +21,7 @@ uncommon, n, large, construct, golem, mindless
 
 **Immunities** bleed, fire, mental, poison, death effects, disease, doomed, drained, fatigued, healing, magic (see below), necromancy, nonlethal attacks, paralyzed, sickened, unconscious
 
-**Resistances** physical 15
+**Resistances** physical 15 (except adamantine)
 
 **Golem Antimagic** harmed by acid (6d10, 2d8 from areas and persistent damage); healed by fire (area 2d8 HP); slowed by electricity.
 
@@ -31,7 +33,7 @@ uncommon, n, large, construct, golem, mindless
 
 Speed 20 feet
 
-**Melee** fist +28 (magical, reach <10 feet>); **Damage** 3d10+12 bludgeoning
+**Melee** ◆ fist +28 (magical, reach <10 feet>); **Damage** 3d10+12 bludgeoning
 
 **Breath Weapon** ◆◆ (arcane, necromancy, poison) The iron golem exhales poisonous gas in a 10-foot radius centered on the corner of one of the iron golem's squares. The gas persists for 1 round. Any creature in the area (or that later enters the area) is exposed to the iron golem's poison. The golem can't use its Breath Weapon again for 1d4 rounds.
 

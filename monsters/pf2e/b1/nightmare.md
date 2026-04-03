@@ -5,9 +5,11 @@ ne, large, beast, fiend
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **Languages** abyssal, daemonic, infernal
+
+**Skills** Acrobatics +13, Athletics +16, Intimidation +14, Survival +12
 
 **STR** +6, **DEX** +3, **CON** +3, **INT** +1, **WIS** +4, **CHA** +2
 
@@ -25,9 +27,9 @@ ne, large, beast, fiend
 
 Speed 40 feet, fly 90 feet
 
-**Melee** jaws +16 (evil, magical); **Damage** 2d10+6 piercing plus 1d6 evil
+**Melee** ◆ jaws +16 (evil, magical); **Damage** 2d10+6 piercing plus 1d6 evil
 
-**Melee** hoof +16 (agile, evil, fire, magical); **Damage** 1d8+6 bludgeoning plus 1d6 evil and 1d8 fire
+**Melee** ◆ hoof +16 (agile, evil, fire, magical); **Damage** 1d8+6 bludgeoning plus 1d6 evil and 1d8 fire
 
 **Innate divine Spells** (DC 24)
 

@@ -5,9 +5,11 @@ ne, medium, incorporeal, undead
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
-**Languages** common, necril
+**Languages** common, necril; speak with animals
+
+**Skills** Arcana +20, Deception +22, Nature +24, Survival +22
 
 **STR** -5, **DEX** +7, **CON** +3, **INT** +5, **WIS** +5, **CHA** +7
 
@@ -25,7 +27,7 @@ ne, medium, incorporeal, undead
 
 **Immunities** death effects, disease, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Weaknesses** cold iron 5
 
@@ -33,11 +35,13 @@ ne, medium, incorporeal, undead
 
 Speed fly 30 feet
 
-**Melee** fangs +24 (finesse, magical); **Damage** 2d12+13 piercing plus 1d8 persistent bleed
+**Melee** ◆ fangs +24 (finesse, magical); **Damage** 2d12+13 piercing plus 1d8 persistent bleed
 
-**Melee** claw +24 (agile, finesse, magical); **Damage** 2d10+13 slashing
+**Melee** ◆ claw +24 (agile, finesse, magical); **Damage** 2d10+13 slashing
 
 **Innate primal Spells** (DC 30), attack +22
+
+  **Constant (2nd)** speak with animals
 
   **Cantrips (6th)** daze, tanglefoot
 

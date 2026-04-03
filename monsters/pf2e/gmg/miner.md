@@ -9,9 +9,11 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +3, Athletics +6, Survival +4, Mining Lore +4
+
 **STR** +2, **DEX** +1, **CON** +3, **INT** +0, **WIS** +2, **CHA** +0
 
-**Items** {@item hammer}, {@item lantern (generic)||lantern}, miner's harness (functions as {@item leather||leather armor}), {@item pick}, {@item piton} (5)
+**Items** hammer, lantern, miner's harness (functions as leather armor), pick, piton (5)
 
 ---
 
@@ -25,6 +27,6 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** pick +6 (fatal <1d10>); **Damage** 1d6+2 piercing
+**Melee** ◆ pick +6 (fatal <1d10>); **Damage** 1d6+2 piercing
 
 **Piton Pin** ◆ (attack) **Requirements** The miner has their hammer in hand; The miner Interacts to draw a piton, then hammers it into a creature to pin them in place, attempting an Athletics check against the target's Reflex DC. On a hit, the target is immobilized until it removes the piton with a successful DC 10 Athletics check made as an Interact action.

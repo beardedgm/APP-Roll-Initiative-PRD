@@ -5,13 +5,15 @@ unique, ne, medium, human, humanoid
 
 ---
 
-**Perception** +15
+**Perception** +15; low-light vision
 
 **Languages** osiriani, taldane
 
+**Skills** Deception +13, Diplomacy +15, Medicine +11, Occultism +15, Performance +16, Society +13, Stealth +13
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +4, **WIS** +2, **CHA** +5
 
-**Items** {@item leather||leather armor}, {@item handheld musical instrument||lute}, {@runeItem rapier||+1 weapon potency||striking|}
+**Items** leather armor, lute, 
 
 ---
 
@@ -25,7 +27,7 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** rapier +16 (deadly d8, disarm, finesse); **Damage** 2d6+8 piercing
+**Melee** ◆ rapier +16 (deadly d8, disarm, finesse); **Damage** 2d6+8 piercing
 
 **Spontaneous occult Spells** (DC 24), attack +16
 

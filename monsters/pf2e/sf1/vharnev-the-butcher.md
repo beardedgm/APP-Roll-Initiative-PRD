@@ -5,9 +5,11 @@ unique, ce, medium, human, humanoid, tiefling
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **Languages** common, infernal
+
+**Skills** Arcana +19, Athletics +21, Intimidation +20, Society +19, Stealth +15
 
 **STR** +5, **DEX** +1, **CON** +2, **INT** +3, **WIS** +0, **CHA** +4
 
@@ -29,7 +31,7 @@ unique, ce, medium, human, humanoid, tiefling
 
 Speed 25 feet
 
-**Melee** battle axe +23 (magical, sweep); **Damage** 2d8+11 slashing plus 1d6 persistent bleed
+**Melee** ◆ battle axe +23 (magical, sweep); **Damage** 2d8+11 slashing plus 1d6 persistent bleed
 
 **Spontaneous arcane Spells** (DC 26), attack +18
 

@@ -5,7 +5,9 @@ uncommon, ne, medium, electricity, mindless, undead, zombie
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
+
+**Skills** Acrobatics +14, Athletics +15
 
 **STR** +5, **DEX** +4, **CON** +2, **INT** -5, **WIS** +2, **CHA** -2
 
@@ -31,4 +33,4 @@ uncommon, ne, medium, electricity, mindless, undead, zombie
 
 Speed 25 feet
 
-**Melee** fist +17; **Damage** 2d6+7 bludgeoning plus 1d12 electricity
+**Melee** ◆ fist +17; **Damage** 2d6+7 bludgeoning plus 1d12 electricity

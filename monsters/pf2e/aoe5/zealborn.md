@@ -5,9 +5,11 @@ uncommon, ce, medium, undead
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision
 
 **Languages** common, necril
+
+**Skills** Athletics +25, Deception +25, Diplomacy +27, Society +19, Stealth +22
 
 **STR** +5, **DEX** +4, **CON** +0, **INT** +1, **WIS** +5, **CHA** +7
 
@@ -33,13 +35,13 @@ uncommon, ce, medium, undead
 
 Speed 25 feet
 
-**Melee** morningstar +24 (magical, versatile <P>); **Damage** 2d6+9 bludgeoning plus 2d6 chaotic and 2d6 negative
+**Melee** ◆ morningstar +24 (magical, versatile <P>); **Damage** 2d6+9 bludgeoning plus 2d6 chaotic and 2d6 negative
 
-**Melee** sling +24 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+6 bludgeoning plus 2d6 chaotic and 2d6 negative
+**Ranged** ◆ sling +24 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+6 bludgeoning plus 2d6 chaotic and 2d6 negative
 
 **Innate occult Spells** (DC 33)
 
-  **2nd** illusory creature
+  **2nd** illusory creature (at will)
 
   **3rd** enthrall
 

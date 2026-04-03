@@ -5,9 +5,11 @@ rare, huge, beast, fey, plant
 
 ---
 
-**Perception** +28
+**Perception** +28; blindsight 100 feet (precise)
 
 **Languages** common, fey, muan
+
+**Skills** Athletics +33, Nature +29, Stealth +27, Survival +27
 
 **STR** +9, **DEX** +5, **CON** +6, **INT** +4, **WIS** +5, **CHA** +1
 
@@ -35,11 +37,11 @@ rare, huge, beast, fey, plant
 
 Speed 40 feet, climb 40 feet
 
-**Melee** fangs +32; **Damage** 3d12+18 piercing plus Grab
+**Melee** ◆ fangs +32; **Damage** 3d12+18 piercing plus Grab
 
-**Melee** stinger +32 (reach <15 feet>); **Damage** 3d10+15 piercing plus corbayrant venom
+**Melee** ◆ stinger +32 (reach <15 feet>); **Damage** 3d10+15 piercing plus corbayrant venom
 
-**Melee** spine +32 (propulsive, range increment <40 feet>); **Damage** 3d6+15 piercing plus thorn paralysis
+**Ranged** ◆ spine +32 (propulsive, range increment <40 feet>); **Damage** 3d6+15 piercing plus thorn paralysis
 
 **Corbayrant Venom** (poison)
 

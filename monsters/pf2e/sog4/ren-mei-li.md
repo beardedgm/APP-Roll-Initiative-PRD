@@ -5,9 +5,11 @@ unique, cn, medium, humanoid
 
 ---
 
-**Perception** +29
+**Perception** +29; {@ability darkvision}
 
-**Languages** aklo, common, sylvan
+**Languages** aklo, common, sylvan; tongues
+
+**Skills** Acrobatics +29, Athletics +28, Crafting +28, Deception +33, Diplomacy +31, Intimidation +31, Performance +31, Society +30, Stealth +29, Survival +27
 
 **STR** +8, **DEX** +7, **CON** +6, **INT** +6, **WIS** +5, **CHA** +9
 
@@ -29,17 +31,19 @@ unique, cn, medium, humanoid
 
 Speed 30 feet, swim 30 feet
 
-**Melee** jaws +27; **Damage** 3d12+14 piercing plus jorogumo poison plus Jorogumo Poison
+**Melee** ◆ jaws +27; **Damage** 3d12+14 piercing plus jorogumo poison plus Jorogumo Poison
 
-**Melee** claw +27 (agile); **Damage** 3d8+14 slashing
+**Melee** ◆ claw +27 (agile); **Damage** 3d8+14 slashing
 
-**Melee** web +23 (range increment <60 feet>); **Damage** Web Trap plus Web Trap
+**Ranged** ◆ web +23 (range increment <60 feet>); **Damage** Web Trap plus Web Trap
 
 **Innate occult Spells** (DC 37), attack +29
 
-  **6th** dimension door, mind probe, mind reading
+  **Constant (8th)** speak with animals, tongues
 
-  **7th** outcast's curse, suggestion
+  **6th** dimension door, mind probe, mind reading (at will)
+
+  **7th** outcast's curse (×3), suggestion (×3)
 
   **8th** charm, suggestion, summon animal
 

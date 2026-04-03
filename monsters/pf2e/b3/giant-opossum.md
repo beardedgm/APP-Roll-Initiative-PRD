@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +10, Stealth +8, Survival +6
 
 **STR** +4, **DEX** +2, **CON** +3, **INT** -4, **WIS** +2, **CHA** +0
 
@@ -27,10 +29,10 @@ n, large, animal
 
 Speed 30 feet, climb 20 feet
 
-**Melee** jaws +10 (deadly <d10>); **Damage** 1d10+4 piercing
+**Melee** ◆ jaws +10 (deadly <d10>); **Damage** 1d10+4 piercing
 
-**Melee** claw +10 (agile); **Damage** 1d6+4 slashing
+**Melee** ◆ claw +10 (agile); **Damage** 1d6+4 slashing
 
-**Melee** tail +10 (reach <15 feet>); **Damage** 1d4+4 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +10 (reach <15 feet>); **Damage** 1d4+4 bludgeoning plus Grab plus Grab
 
 **Grasping Tail** A giant opossum can drag a Small or Tiny creature it has grabbed with its tail along with it when it Strides.

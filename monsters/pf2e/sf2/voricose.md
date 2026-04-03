@@ -5,9 +5,11 @@ unique, le, large, fiend, velstrac
 
 ---
 
-**Perception** +28
+**Perception** +28; greater darkvision, painsight
 
 **Languages** common, infernal, jotun, shadowtongue
+
+**Skills** Athletics +31, Brewing Lore +24, Crafting +24, Intimidation +28, Medicine +30, Religion +24, Torture Lore +26
 
 **STR** +7, **DEX** +4, **CON** +6, **INT** +3, **WIS** +7, **CHA** +6
 
@@ -35,9 +37,9 @@ unique, le, large, fiend, velstrac
 
 Speed 40 feet
 
-**Melee** whip +31 (disarm, finesse, magical, nonlethal, reach, trip); **Damage** 3d4+15 slashing plus 1d6 cold
+**Melee** ◆ whip +31 (disarm, finesse, magical, nonlethal, reach, trip); **Damage** 3d4+15 slashing plus 1d6 cold
 
-**Melee** claw +28 (deadly <2d10>, evil, magical, reach <10 feet>); **Damage** 3d8+15 slashing plus 2d6 persistent bleed
+**Melee** ◆ claw +28 (deadly <2d10>, evil, magical, reach <10 feet>); **Damage** 3d8+15 slashing plus 2d6 persistent bleed
 
 **Innate divine Spells** (DC 36)
 
@@ -45,11 +47,11 @@ Speed 40 feet
 
   **5th** breath of life
 
-  **6th** restoration
+  **6th** restoration (×2)
 
   **7th** regenerate
 
-  **8th** heal
+  **8th** heal (×2)
 
 **Focus Gaze** ◆ (concentrate, divine, enchantment, fear, mental, visual) As interlocutor|B2.
 

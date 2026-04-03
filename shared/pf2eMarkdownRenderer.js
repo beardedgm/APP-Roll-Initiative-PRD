@@ -12,8 +12,6 @@ const ACTION_SYMBOLS = {
 
 /**
  * Format a numeric modifier as +N or -N (never bare N).
- * @param {number} n
- * @returns {string}
  */
 function fmtMod(n) {
   if (n === undefined || n === null) return '+0';
@@ -22,8 +20,6 @@ function fmtMod(n) {
 
 /**
  * Resolve action cost symbols from an activity descriptor.
- * @param {{ unit: string, number?: number } | undefined} activity
- * @returns {string}
  */
 function resolveActivity(activity) {
   if (!activity) return '';
@@ -37,9 +33,18 @@ function resolveActivity(activity) {
 }
 
 /**
+ * Simple ordinal suffix helper: 1 → "1st", 2 → "2nd", 3 → "3rd", 4 → "4th".
+ */
+function ordinal(n) {
+  const suffix = ['th', 'st', 'nd', 'rd'];
+  const v = n % 100;
+  return `${n}${suffix[(v - 20) % 10] ?? suffix[v] ?? suffix[0]}`;
+}
+
+// ── Ability Rendering ────────────────────────────────────────────────────────
+
+/**
  * Render a single ability entry (top, mid, or bot ability block).
- * @param {object} ability
- * @returns {string}
  */
 function renderAbility(ability) {
   const parts = [];
@@ -62,7 +67,7 @@ function renderAbility(ability) {
     const freqText =
       typeof ability.frequency === 'string'
         ? ability.frequency
-        : ability.frequency.entry ?? JSON.stringify(ability.frequency);
+        : ability.frequency.entry ?? ability.frequency.special ?? JSON.stringify(ability.frequency);
     parts.push(`**Frequency** ${stripPf2eTags(freqText)};`);
   }
   if (ability.requirements) {
@@ -78,9 +83,7 @@ function renderAbility(ability) {
 }
 
 /**
- * Render a single entry value (string, list object, successDegree object, etc.)
- * @param {string|object} entry
- * @returns {string}
+ * Render a single entry value (string, list object, successDegree object, affliction, etc.)
  */
 function renderEntry(entry) {
   if (typeof entry === 'string') {
@@ -89,7 +92,9 @@ function renderEntry(entry) {
   if (typeof entry !== 'object' || entry === null) return '';
 
   if (entry.type === 'list') {
-    const items = (entry.items ?? []).map((item) => `- ${stripPf2eTags(typeof item === 'string' ? item : item.entry ?? '')}`);
+    const items = (entry.items ?? []).map((item) =>
+      `- ${stripPf2eTags(typeof item === 'string' ? item : item.entry ?? '')}`
+    );
     return items.join('\n');
   }
 
@@ -99,6 +104,24 @@ function renderEntry(entry) {
       .filter((d) => entry.entries?.[d])
       .map((d) => `**${d}** ${stripPf2eTags(entry.entries[d])}`);
     return lines.join('\n');
+  }
+
+  // Affliction / Poison / Disease
+  if (entry.type === 'affliction') {
+    const affLines = [];
+    if (entry.name) affLines.push(`**${stripPf2eTags(entry.name)}**`);
+    const meta = [];
+    if (entry.traits?.length) meta.push(`(${entry.traits.join(', ')})`);
+    if (entry.DC) meta.push(`**Saving Throw** DC ${entry.DC} ${entry.savingThrow ?? 'Fortitude'}`);
+    if (meta.length) affLines.push(meta.join('; '));
+    if (entry.onset) affLines.push(`**Onset** ${stripPf2eTags(entry.onset)}`);
+    if (entry.maxDuration) affLines.push(`**Maximum Duration** ${stripPf2eTags(entry.maxDuration)}`);
+    if (entry.stages) {
+      for (const stage of entry.stages) {
+        affLines.push(`**Stage ${stage.stage}** ${stripPf2eTags(stage.entry ?? '')} (${stage.duration ?? ''})`);
+      }
+    }
+    return affLines.join('\n');
   }
 
   // Generic object with an 'entry' field
@@ -112,10 +135,75 @@ function renderEntry(entry) {
   return '';
 }
 
+// ── Section Renderers ────────────────────────────────────────────────────────
+
 /**
- * Render speed block.
- * @param {{ walk?: number, fly?: number, burrow?: number, swim?: number, climb?: number }} speed
- * @returns {string}
+ * Render perception line with senses including type and range.
+ */
+function renderPerception(perception) {
+  if (!perception) return '**Perception** +0';
+  const mod = fmtMod(perception.std);
+  const senses = perception.senses ?? [];
+  if (senses.length === 0) return `**Perception** ${mod}`;
+
+  const senseStrs = senses.map((s) => {
+    let str = s.name;
+    if (s.range) str += ` ${s.range} feet`;
+    if (s.type) str += ` (${s.type})`;
+    return str;
+  });
+  return `**Perception** ${mod}; ${senseStrs.join(', ')}`;
+}
+
+/**
+ * Render languages line including special abilities (telepathy, etc.).
+ */
+function renderLanguages(languages) {
+  if (!languages) return '';
+  const langs = languages.languages ?? [];
+  const abilities = languages.abilities ?? [];
+  const parts = [];
+  if (langs.length > 0) {
+    parts.push(langs.map((l) => (typeof l === 'string' ? l : l.name)).join(', '));
+  }
+  if (abilities.length > 0) {
+    parts.push(abilities.map(stripPf2eTags).join(', '));
+  }
+  return parts.length > 0 ? `**Languages** ${parts.join('; ')}` : '';
+}
+
+/**
+ * Render skills line. Skills can be an object (PF2eTools format) or array.
+ */
+function renderSkills(skills) {
+  if (!skills) return '';
+
+  // Object format: { "athletics": { "std": 16, "note": "..." }, ... }
+  if (!Array.isArray(skills)) {
+    const entries = Object.entries(skills);
+    if (entries.length === 0) return '';
+    const skillStrs = entries.map(([name, data]) => {
+      const mod = fmtMod(data.std ?? data);
+      const notePart = data.note ? ` (${stripPf2eTags(data.note)})` : '';
+      // Capitalize skill name
+      const capName = name.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+      return `${capName} ${mod}${notePart}`;
+    });
+    return `**Skills** ${skillStrs.join(', ')}`;
+  }
+
+  // Array format: [{ "name": "Athletics", "std": 16 }, ...]
+  if (skills.length === 0) return '';
+  const skillStrs = skills.map((s) => {
+    const mod = fmtMod(s.std);
+    const notePart = s.note ? ` (${stripPf2eTags(s.note)})` : '';
+    return `${s.name} ${mod}${notePart}`;
+  });
+  return `**Skills** ${skillStrs.join(', ')}`;
+}
+
+/**
+ * Render speed block including special movement abilities.
  */
 function renderSpeed(speed) {
   if (!speed) return '';
@@ -132,16 +220,19 @@ function renderSpeed(speed) {
       parts.push(`${key} ${val} feet`);
     }
   }
+  // Speed abilities (e.g., swamp stride)
+  const abilities = speed.abilities ?? [];
+  if (abilities.length > 0) {
+    parts.push(abilities.map(stripPf2eTags).join(', '));
+  }
   return parts.length > 0 ? `Speed ${parts.join(', ')}` : '';
 }
 
 /**
  * Render HP block from the hp array.
- * @param {Array<{ hp: number, name?: string, abilities?: string[], notes?: string }>} hpArr
- * @returns {string}
  */
 function renderHp(hpArr) {
-  if (!hpArr || hpArr.length === 0) return '**HP** —';
+  if (!hpArr || hpArr.length === 0) return '**HP** \u2014';
   const pools = hpArr.map((pool) => {
     let str = `${pool.hp}`;
     if (pool.name) str = `${str} (${pool.name})`;
@@ -155,11 +246,9 @@ function renderHp(hpArr) {
 
 /**
  * Render AC block, including variant ACs.
- * @param {{ std: number, [key: string]: number }} ac
- * @returns {string}
  */
 function renderAc(ac) {
-  if (!ac) return '**AC** —';
+  if (!ac) return '**AC** \u2014';
   const variants = Object.entries(ac)
     .filter(([key]) => key !== 'std')
     .map(([key, val]) => `${val} ${key}`);
@@ -169,9 +258,6 @@ function renderAc(ac) {
 
 /**
  * Render saving throws line.
- * @param {{ fort: { std: number }, ref: { std: number }, will: { std: number } }} savingThrows
- * @param {string[]} [saveAbilities]
- * @returns {string}
  */
 function renderSaves(savingThrows, saveAbilities) {
   if (!savingThrows) return '';
@@ -186,23 +272,86 @@ function renderSaves(savingThrows, saveAbilities) {
 }
 
 /**
- * Render a single attack line.
- * @param {object} attack
- * @returns {string}
+ * Render immunities with proper name extraction.
+ */
+function renderImmunities(immunities) {
+  if (!immunities || immunities.length === 0) return '';
+  const strs = immunities.map((i) => (typeof i === 'string' ? i : i.name ?? ''));
+  return `**Immunities** ${strs.join(', ')}`;
+}
+
+/**
+ * Render resistances with amounts and notes (e.g., "physical 10 (except bludgeoning)").
+ */
+function renderResistances(resistances) {
+  if (!resistances || resistances.length === 0) return '';
+  const strs = resistances.map((r) => {
+    if (typeof r === 'string') return r;
+    let str = r.name;
+    if (r.amount != null) str += ` ${r.amount}`;
+    if (r.note) str += ` (${stripPf2eTags(r.note)})`;
+    return str;
+  });
+  return `**Resistances** ${strs.join(', ')}`;
+}
+
+/**
+ * Render weaknesses with amounts and notes.
+ */
+function renderWeaknesses(weaknesses) {
+  if (!weaknesses || weaknesses.length === 0) return '';
+  const strs = weaknesses.map((w) => {
+    if (typeof w === 'string') return w;
+    let str = w.name;
+    if (w.amount != null) str += ` ${w.amount}`;
+    if (w.note) str += ` (${stripPf2eTags(w.note)})`;
+    return str;
+  });
+  return `**Weaknesses** ${strs.join(', ')}`;
+}
+
+/**
+ * Render a single attack line with action symbol and range type.
  */
 function renderAttack(attack) {
-  const type = attack.type === 'ranged' ? '**Ranged**' : '**Melee**';
+  const isRanged = attack.range === 'Ranged' || attack.type === 'ranged';
+  const type = isRanged ? '**Ranged**' : '**Melee**';
   const mod = fmtMod(attack.attack);
-  const traits = attack.traits && attack.traits.length > 0 ? ` (${attack.traits.join(', ')})` : '';
+  const traits = attack.traits && attack.traits.length > 0
+    ? ` (${attack.traits.map(stripPf2eTags).join(', ')})`
+    : '';
   const damage = attack.damage ? ` **Damage** ${stripPf2eTags(attack.damage)}` : '';
-  const effects = attack.effects && attack.effects.length > 0 ? ` plus ${attack.effects.map(stripPf2eTags).join(', ')}` : '';
-  return `${type} ${attack.name} ${mod}${traits};${damage}${effects}`;
+  const effects = attack.effects && attack.effects.length > 0
+    ? ` plus ${attack.effects.map(stripPf2eTags).join(', ')}`
+    : '';
+  return `${type} \u25C6 ${attack.name} ${mod}${traits};${damage}${effects}`;
+}
+
+// ── Spellcasting ─────────────────────────────────────────────────────────────
+
+/**
+ * Render a single spell name with amount annotation (at will, ×3, etc.).
+ */
+function renderSpellName(spell) {
+  if (typeof spell === 'string') return stripPf2eTags(spell);
+  const name = stripPf2eTags(spell.name ?? '');
+  if (!spell.amount) return name;
+  if (typeof spell.amount === 'string') return `${name} (${spell.amount})`;
+  if (typeof spell.amount === 'number' && spell.amount > 1) return `${name} (\u00D7${spell.amount})`;
+  return name;
+}
+
+/**
+ * Render a spell level entry to a string of spell names with amounts.
+ */
+function renderSpellLevel(data) {
+  if (!data) return '';
+  const spells = data.spells ?? [];
+  return spells.map(renderSpellName).join(', ');
 }
 
 /**
  * Render spellcasting block(s).
- * @param {Array<object>} spellcastingArr
- * @returns {string}
  */
 function renderSpellcasting(spellcastingArr) {
   if (!spellcastingArr || spellcastingArr.length === 0) return '';
@@ -216,38 +365,44 @@ function renderSpellcasting(spellcastingArr) {
     lines.push(`**${block.name ?? `${type}${tradition} Spells`}**${dcStr}${attackStr}`);
 
     // Handle two spellcasting data formats:
-    // Format A (PF2eTools internal): block.entries = { "3": { spells: [...] }, ... }
+    // Format A (PF2eTools internal): block.entry = { "3": { spells: [...] }, ... }
     // Format B (user-friendly array): block.spells = [{ level: 3, spells: [...] }, ...]
 
     if (block.spells && Array.isArray(block.spells)) {
       // Format B: array of { level, spells }
       const sorted = [...block.spells].sort((a, b) => (b.level ?? 0) - (a.level ?? 0));
-      for (const entry of sorted) {
-        const lvl = entry.level ?? 0;
-        const spellNames = (entry.spells ?? []).map(s => typeof s === 'string' ? stripPf2eTags(s) : stripPf2eTags(s.name ?? '')).join(', ');
+      for (const spellEntry of sorted) {
+        const lvl = spellEntry.level ?? 0;
+        const spellNames = (spellEntry.spells ?? []).map(renderSpellName).join(', ');
         if (!spellNames) continue;
         const label = lvl === 0 ? 'Cantrips' : `**${ordinal(lvl)}**`;
         lines.push(`  ${label} ${spellNames}`);
       }
     } else {
       // Format A: PF2eTools internal object keyed by level
-      // The JSON field is "entry" (singular), not "entries" (plural).
-      // Level "0" contains cantrips (with a "level" field for heightened rank).
       const entry = block.entry ?? block.entries ?? {};
+
+      // Constant spells (always active, like "true seeing")
+      if (entry.constant) {
+        for (const [lvl, data] of Object.entries(entry.constant).sort(([a], [b]) => Number(b) - Number(a))) {
+          const constSpells = renderSpellLevel(data);
+          if (constSpells) lines.push(`  **Constant (${ordinal(Number(lvl))})** ${constSpells}`);
+        }
+      }
 
       // Cantrips: either in block.cantrips or in entry["0"]
       if (block.cantrips) {
         const spells = renderSpellLevel(block.cantrips);
-        if (spells) lines.push(`  Cantrips ${spells}`);
+        if (spells) lines.push(`  **Cantrips** ${spells}`);
       } else if (entry['0']) {
         const cantrips = renderSpellLevel(entry['0']);
         const heightenedLvl = entry['0'].level ? ` (${ordinal(entry['0'].level)})` : '';
         if (cantrips) lines.push(`  **Cantrips${heightenedLvl}** ${cantrips}`);
       }
 
-      // Leveled spells (skip level 0 — already handled as cantrips)
+      // Leveled spells (skip level 0 — already handled as cantrips, skip "constant")
       for (const [lvl, data] of Object.entries(entry).sort(([a], [b]) => Number(a) - Number(b))) {
-        if (lvl === '0') continue; // cantrips handled above
+        if (lvl === '0' || lvl === 'constant') continue;
         const lvlSpells = renderSpellLevel(data);
         const slots = data.slots ? ` (${data.slots} slots)` : '';
         if (lvlSpells) lines.push(`  **${ordinal(Number(lvl))}${slots}** ${lvlSpells}`);
@@ -264,7 +419,8 @@ function renderSpellcasting(spellcastingArr) {
 
     // Rituals
     if (block.rituals && Array.isArray(block.rituals)) {
-      lines.push(`  Rituals ${block.rituals.map(r => typeof r === 'string' ? r : r.name ?? '').join(', ')}`);
+      const ritualNames = block.rituals.map(r => typeof r === 'string' ? r : r.name ?? '').join(', ');
+      if (ritualNames) lines.push(`  **Rituals** ${ritualNames}`);
     }
 
     return lines.join('\n\n');
@@ -273,27 +429,7 @@ function renderSpellcasting(spellcastingArr) {
   return blocks.join('\n\n');
 }
 
-/**
- * Render a spell level entry to a string of spell names.
- * @param {{ spells?: Array<{name: string}> } | object} data
- * @returns {string}
- */
-function renderSpellLevel(data) {
-  if (!data) return '';
-  const spells = data.spells ?? [];
-  return spells.map((s) => (typeof s === 'string' ? stripPf2eTags(s) : stripPf2eTags(s.name ?? ''))).join(', ');
-}
-
-/**
- * Simple ordinal suffix helper.
- * @param {number} n
- * @returns {string}
- */
-function ordinal(n) {
-  const suffix = ['th', 'st', 'nd', 'rd'];
-  const v = n % 100;
-  return `${n}${suffix[(v - 20) % 10] ?? suffix[v] ?? suffix[0]}`;
-}
+// ── Main Export ──────────────────────────────────────────────────────────────
 
 /**
  * Convert a PF2eTools creature JSON object to a markdown stat block string.
@@ -322,29 +458,17 @@ export function renderPf2eCreatureToMarkdown(creature) {
   lines.push('');
 
   // ── Senses / Languages / Skills / Ability Mods ──────────────────────────────
-  // Perception
-  const percMod = fmtMod(creature.perception?.std);
-  const senses = creature.perception?.senses ?? [];
-  const sensesStr = senses.length > 0 ? `; ${senses.map((s) => s.name).join(', ')}` : '';
-  lines.push(`**Perception** ${percMod}${sensesStr}`);
+  // Senses may be in creature.perception.senses or creature.senses (top-level)
+  const perception = creature.perception ?? {};
+  const senses = perception.senses ?? creature.senses ?? [];
+  lines.push(renderPerception({ ...perception, senses }));
   lines.push('');
 
-  // Languages
-  const langs = creature.languages?.languages ?? [];
-  if (langs.length > 0) {
-    lines.push(`**Languages** ${langs.map((l) => (typeof l === 'string' ? l : l.name)).join(', ')}`);
-    lines.push('');
-  }
+  const langLine = renderLanguages(creature.languages);
+  if (langLine) { lines.push(langLine); lines.push(''); }
 
-  // Skills
-  const skills = creature.skills ?? [];
-  if (skills.length > 0) {
-    const skillStr = skills
-      .map((s) => `**${s.name}** ${fmtMod(s.std)}`)
-      .join(', ');
-    lines.push(`**Skills** ${skillStr}`);
-    lines.push('');
-  }
+  const skillLine = renderSkills(creature.skills);
+  if (skillLine) { lines.push(skillLine); lines.push(''); }
 
   // Ability mods
   const mods = creature.abilityMods ?? {};
@@ -362,7 +486,7 @@ export function renderPf2eCreatureToMarkdown(creature) {
   // Items
   const items = creature.items ?? [];
   if (items.length > 0) {
-    lines.push(`**Items** ${items.map((i) => (typeof i === 'string' ? i : i.name ?? '')).join(', ')}`);
+    lines.push(`**Items** ${items.map((i) => stripPf2eTags(typeof i === 'string' ? i : i.name ?? '')).join(', ')}`);
     lines.push('');
   }
 
@@ -388,40 +512,14 @@ export function renderPf2eCreatureToMarkdown(creature) {
   lines.push(renderHp(defenses.hp));
   lines.push('');
 
-  // Immunities
-  const immunities = defenses.immunities ?? [];
-  if (immunities.length > 0) {
-    lines.push(`**Immunities** ${immunities.map((i) => (typeof i === 'string' ? i : i.name)).join(', ')}`);
-    lines.push('');
-  }
+  const immLine = renderImmunities(defenses.immunities);
+  if (immLine) { lines.push(immLine); lines.push(''); }
 
-  // Resistances
-  const resistances = defenses.resistances ?? [];
-  if (resistances.length > 0) {
-    const resStr = resistances
-      .map((r) => {
-        if (typeof r === 'string') return r;
-        const val = r.amount != null ? ` ${r.amount}` : '';
-        return `${r.name}${val}`;
-      })
-      .join(', ');
-    lines.push(`**Resistances** ${resStr}`);
-    lines.push('');
-  }
+  const resLine = renderResistances(defenses.resistances);
+  if (resLine) { lines.push(resLine); lines.push(''); }
 
-  // Weaknesses
-  const weaknesses = defenses.weaknesses ?? [];
-  if (weaknesses.length > 0) {
-    const weakStr = weaknesses
-      .map((w) => {
-        if (typeof w === 'string') return w;
-        const val = w.amount != null ? ` ${w.amount}` : '';
-        return `${w.name}${val}`;
-      })
-      .join(', ');
-    lines.push(`**Weaknesses** ${weakStr}`);
-    lines.push('');
-  }
+  const weakLine = renderWeaknesses(defenses.weaknesses);
+  if (weakLine) { lines.push(weakLine); lines.push(''); }
 
   // Mid abilities
   const midAbilities = creature.abilities?.mid ?? [];

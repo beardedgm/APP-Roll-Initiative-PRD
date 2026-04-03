@@ -5,7 +5,9 @@ uncommon, medium, aberration, plant
 
 ---
 
-**Perception** +16
+**Perception** +16; low-light vision
+
+**Skills** Acrobatics +16, Athletics +20, Intimidation +16, Survival +14
 
 **STR** +6, **DEX** +2, **CON** +5, **INT** -4, **WIS** +2, **CHA** +2
 
@@ -27,9 +29,9 @@ uncommon, medium, aberration, plant
 
 Speed 25 feet
 
-**Melee** armored frill +20; **Damage** 2d8+12 bludgeoning
+**Melee** ◆ armored frill +20; **Damage** 2d8+12 bludgeoning
 
-**Melee** claws +20 (agile); **Damage** 2d6+10 slashing
+**Melee** ◆ claws +20 (agile); **Damage** 2d6+10 slashing
 
 **Battering Charge** ◆◆ The durnolith Strides twice in a straight line and then makes an armored frill Strike. As long as it moved at least 10 feet, it gains a +2 circumstance bonus to its attack roll and the strike gains Improved Push 10 feet.
 

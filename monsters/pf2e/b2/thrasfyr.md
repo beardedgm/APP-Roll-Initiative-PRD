@@ -5,9 +5,11 @@ rare, ce, huge, beast, fire, tane
 
 ---
 
-**Perception** +31
+**Perception** +31; darkvision, see invisibility
 
 **Languages** aklo, sylvan
+
+**Skills** Athletics +34, Intimidation +31
 
 **STR** +9, **DEX** +5, **CON** +9, **INT** -3, **WIS** +6, **CHA** +6
 
@@ -27,6 +29,6 @@ rare, ce, huge, beast, fire, tane
 
 ---
 
-Speed 40 feet, climb 40 feet
+Speed 40 feet, climb 40 feet, air walk
 
-**Melee** chain +34 (magical, reach <15 feet>); **Damage** 3d10+17 bludgeoning plus Improved plus Improved
+**Melee** ◆ chain +34 (magical, reach <15 feet>); **Damage** 3d10+17 bludgeoning plus Improved plus Improved

@@ -5,7 +5,9 @@ ne, huge, undead
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
+
+**Skills** Athletics +24, Stealth +18
 
 **STR** +7, **DEX** +3, **CON** +5, **INT** -2, **WIS** +3, **CHA** +2
 
@@ -33,11 +35,11 @@ ne, huge, undead
 
 Speed 20 feet
 
-**Melee** branch +24 (reach <15 feet>); **Damage** 3d12+10 bludgeoning
+**Melee** ◆ branch +24 (reach <15 feet>); **Damage** 3d12+10 bludgeoning
 
-**Melee** root +24 (agile, reach <20 feet>, trip); **Damage** 3d8+10 bludgeoning plus
+**Melee** ◆ root +24 (agile, reach <20 feet>, trip); **Damage** 3d8+10 bludgeoning plus
 
-**Melee** rotten fruit +20 (range increment <20 feet>, splash); **Damage** 3d4+7 bludgeoning plus 2d6 poison splash damage
+**Ranged** ◆ rotten fruit +20 (range increment <20 feet>, splash); **Damage** 3d4+7 bludgeoning plus 2d6 poison splash damage
 
 **Grab**
 

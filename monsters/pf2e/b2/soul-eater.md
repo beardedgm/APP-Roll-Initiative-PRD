@@ -5,9 +5,11 @@ uncommon, ne, medium, fiend
 
 ---
 
-**Perception** +15
+**Perception** +15; greater darkvision
 
 **Languages** daemonic
+
+**Skills** Acrobatics +17, Intimidation +15, Stealth +17, Abaddon Lore +12
 
 **STR** +0, **DEX** +6, **CON** +4, **INT** -1, **WIS** +4, **CHA** +4
 
@@ -31,7 +33,7 @@ uncommon, ne, medium, fiend
 
 Speed 25 feet, fly 60 feet
 
-**Melee** claw +19 (agile, finesse); **Damage** 2d6+3 slashing plus 2d6 negative and mind-numbing touch plus mind-numbing touch
+**Melee** ◆ claw +19 (agile, finesse); **Damage** 2d6+3 slashing plus 2d6 negative and mind-numbing touch plus mind-numbing touch
 
 **Drain Soul** ◆◆◆ (death, divine, manipulate, necromancy) **Requirements** The soul eater is adjacent to a dying creature; The soul eater attempts to devour the dying creature's soul. The creature must attempt a DC 25 Will save. A creature that dies as a result of Drain Soul can't be restored to life except by a spell or ritual of 8th level or higher. If the soul eater that used Drain Soul on a creature is slain within 100 feet of that creature's corpse and the creature has been dead no longer than 1 minute, the creature's soul returns to its body and is restored to life, leaving the creature unconscious and dying 1 but no longer doomed. **Critical Success** The creature is unaffected.
 **Success** The creature becomes doomed 1, or increases its doomed value by 1 if it was already doomed.

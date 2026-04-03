@@ -5,9 +5,11 @@ ln, large, aeon, inevitable, monitor
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, true seeing
 
-**Languages** celestial, infernal, utopian
+**Languages** celestial, infernal, utopian; truespeech
+
+**Skills** Acrobatics +18, Athletics +21, Diplomacy +16, Survival +21, Axis Lore +15
 
 **STR** +6, **DEX** +5, **CON** +4, **INT** +0, **WIS** +3, **CHA** +3
 
@@ -31,11 +33,13 @@ ln, large, aeon, inevitable, monitor
 
 Speed 40 feet, fly 40 feet
 
-**Melee** chain +21 (lawful, magical, reach <10 feet>); **Damage** 2d10+6 slashing plus 2d6 electricity and 1d6 lawful plus Knockdown plus Knockdown
+**Melee** ◆ chain +21 (lawful, magical, reach <10 feet>); **Damage** 2d10+6 slashing plus 2d6 electricity and 1d6 lawful plus Knockdown plus Knockdown
 
 **Innate divine Spells** (DC 28)
 
-  **4th** clairaudience, clairvoyance, dimensional anchor, dispel magic, paralyze
+  **Constant (6th)** true seeing
+
+  **4th** clairaudience, clairvoyance, dimensional anchor, dispel magic, paralyze (×3)
 
   **5th** locate
 

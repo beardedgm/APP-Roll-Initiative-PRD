@@ -5,9 +5,11 @@ ce, medium, demon, fiend
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +8, Athletics +10, Deception +7, Stealth +8
 
 **STR** +3, **DEX** +1, **CON** +4, **INT** +0, **WIS** +1, **CHA** +2
 
@@ -27,11 +29,11 @@ ce, medium, demon, fiend
 
 Speed 25 feet, burrow 15 feet
 
-**Melee** bite +12; **Damage** 2d8+3 piercing
+**Melee** ◆ bite +12; **Damage** 2d8+3 piercing
 
-**Melee** fist +12 (agile); **Damage** 2d6+3 bludgeoning
+**Melee** ◆ fist +12 (agile); **Damage** 2d6+3 bludgeoning
 
-**Melee** longsword +12 (versatile <P>); **Damage** 1d8+4 slashing
+**Melee** ◆ longsword +12 (versatile <P>); **Damage** 1d8+4 slashing
 
 **Innate divine Spells** (DC 19), attack +11
 

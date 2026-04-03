@@ -5,9 +5,11 @@ rare, tiny, beast
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common, draconic, fey, shadowtongue
+
+**Skills** Acrobatics +6, Stealth +8
 
 **STR** +0, **DEX** +3, **CON** +0, **INT** +1, **WIS** +2, **CHA** +1
 
@@ -29,4 +31,4 @@ rare, tiny, beast
 
 Speed 5 feet, fly 40 feet
 
-**Melee** wing +9 (finesse); **Damage** 1d4+2 bludgeoning
+**Melee** ◆ wing +9 (finesse); **Damage** 1d4+2 bludgeoning

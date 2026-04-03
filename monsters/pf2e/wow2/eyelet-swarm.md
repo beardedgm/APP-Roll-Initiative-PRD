@@ -5,9 +5,11 @@ rare, large, beast, swarm
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
 **Languages** common, draconic, fey, shadowtongue
+
+**Skills** Acrobatics +16, Stealth +18
 
 **STR** +0, **DEX** +5, **CON** +0, **INT** +2, **WIS** +4, **CHA** +2
 

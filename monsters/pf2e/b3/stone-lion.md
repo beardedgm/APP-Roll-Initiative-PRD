@@ -5,9 +5,11 @@ uncommon, ng, large, celestial
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
-**Languages** common, celestial
+**Languages** common, celestial; telepathy 60 feet
+
+**Skills** Athletics +12, Intimidation +8, Religion +13, Meteorology Lore +11
 
 **STR** +4, **DEX** +3, **CON** +3, **INT** +1, **WIS** +5, **CHA** +0
 
@@ -31,11 +33,11 @@ uncommon, ng, large, celestial
 
 Speed fly 40 feet
 
-**Melee** jaws +14; **Damage** 2d6+7 bludgeoning plus Grab • Ranged 1 stone ball +13 (range increment <30 feet>), Damage 2d4+7 bludgeoning
+**Melee** ◆ jaws +14; **Damage** 2d6+7 bludgeoning plus Grab • Ranged 1 stone ball +13 (range increment <30 feet>), Damage 2d4+7 bludgeoning
 
 **Innate divine Spells** (DC 21)
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
   **3rd** dream message
 

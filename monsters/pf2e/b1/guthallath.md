@@ -5,7 +5,9 @@ rare, n, gargantuan, construct
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, true seeing
+
+**Skills** Acrobatics +25, Athletics +40
 
 **STR** +10, **DEX** +2, **CON** +8, **INT** -4, **WIS** +0, **CHA** -1
 
@@ -19,7 +21,7 @@ rare, n, gargantuan, construct
 
 **Immunities** bleed, poison, death effects, disease, doomed, drained, fatigued, healing, magic (see below), necromancy, nonlethal attacks, paralyzed, sickened, unconscious
 
-**Resistances** physical 15
+**Resistances** physical 15 (except adamantine)
 
 **Erosion Aura** (aura, primal) 120 feet. The guthallath erodes away the physical integrity of all around it. Creatures and objects in the emanation other than the guthallath have their hardness and resistances reduced by 10. At the start of its turn, a creature in the erosion aura's area takes 6d6 bludgeoning damage (basic Fortitude DC 39).
 
@@ -29,11 +31,15 @@ rare, n, gargantuan, construct
 
 Speed 40 feet, burrow 50 feet
 
-**Melee** fist +38 (deadly <3d12>, magical, reach <20 feet>); **Damage** 4d12+18 bludgeoning plus Improved Grab or Improved Push 20 feet
+**Melee** ◆ fist +38 (deadly <3d12>, magical, reach <20 feet>); **Damage** 4d12+18 bludgeoning plus Improved Grab or Improved Push 20 feet
 
-**Melee** foot +38 (deadly <3d12>, magical, reach <20 feet>); **Damage** 4d8+18 bludgeoning plus Improved Knockdown plus Improved Knockdown
+**Melee** ◆ foot +38 (deadly <3d12>, magical, reach <20 feet>); **Damage** 4d8+18 bludgeoning plus Improved Knockdown plus Improved Knockdown
 
 **Innate primal Spells** (DC 37)
+
+  **Constant (8th)** true seeing
+
+  **Constant (3rd)** haste
 
 **Annihilation Beams** ◆◆ A guthallath releases two beams of destruction from its eyes. Each beam is a 120-foot line. Everything in either line takes the effect of a hit from a 10th-level disintegrate spell (DC 41 Fortitude). There is no additional effect on creatures in any area where the beams overlap. The guthallath can't use this ability again for 1d4 rounds.
 

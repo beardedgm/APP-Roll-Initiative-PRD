@@ -5,7 +5,11 @@ uncommon, ne, medium, dream, incorporeal
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
+
+**Languages** telepathy 100 feet
+
+**Skills** Acrobatics +14, Deception +18, Intimidation +18, Occultism +12, Stealth +18
 
 **STR** -5, **DEX** +4, **CON** +3, **INT** +0, **WIS** +2, **CHA** +6
 
@@ -25,12 +29,12 @@ uncommon, ne, medium, dream, incorporeal
 
 Speed fly 40 feet
 
-**Melee** nightmare tendril +20 (agile, finesse); **Damage** 4d8 negative plus endless nightmare plus endless nightmare
+**Melee** ◆ nightmare tendril +20 (agile, finesse); **Damage** 4d8 negative plus endless nightmare plus endless nightmare
 
 **Innate occult Spells** (DC 26)
 
   **3rd** fear
 
-  **4th** confusion, dimension door, nightmare, phantasmal killer, sleep
+  **4th** confusion, dimension door (at will), nightmare, phantasmal killer, sleep
 
 **Endless Nightmare** (curse, emotion, enchantment, fear, mental, occult)

@@ -5,9 +5,11 @@ uncommon, ne, gargantuan, electricity, undead
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision, true seeing
 
 **Languages** abyssal, aklo, celestial, common
+
+**Skills** Acrobatics +33, Arcana +37, Athletics +33, Nature +37, Occultism +37, Religion +40
 
 **STR** +10, **DEX** +8, **CON** +6, **INT** +5, **WIS** +7, **CHA** +8
 
@@ -21,7 +23,7 @@ uncommon, ne, gargantuan, electricity, undead
 
 **Immunities** cold, death effects, disease, electricity, negative, paralyzed, poison, precision, unconscious
 
-**Resistances** cold 15, fire 15, physical 15
+**Resistances** cold 15, fire 15, physical 15 (except bludgeoning)
 
 **Weaknesses** good 15
 
@@ -31,23 +33,25 @@ uncommon, ne, gargantuan, electricity, undead
 
 Speed 50 feet, fly 60 feet
 
-**Melee** claw +34 (agile, magical, reach <20 feet>); **Damage** 4d12+10 slashing plus 3d8 electricity and drain life plus drain life
+**Melee** ◆ claw +34 (agile, magical, reach <20 feet>); **Damage** 4d12+10 slashing plus 3d8 electricity and drain life plus drain life
 
-**Melee** eye beam +34 (range <100 feet>); **Damage** 4d12 electricity plus 10d6 force
+**Ranged** ◆ eye beam +34 (range <100 feet>); **Damage** 4d12 electricity plus 10d6 force
 
 **Innate occult Spells** (DC 38)
 
+  **Constant (6th)** true seeing
+
   **Cantrips (9th)** detect magic
 
-  **3rd** haste
+  **3rd** haste (×3)
 
-  **4th** darkness
+  **4th** darkness (×3)
 
   **5th** Abyssal plague
 
-  **7th** eclipse burst, teleport
+  **7th** eclipse burst, teleport (×3)
 
-  **9th** darkness, teleport, wail of the banshee
+  **9th** darkness (×3), teleport, wail of the banshee
 
 **Drain Life** When a tzitzimitl's claw Strike deals damages to a living creature, the tzitzimitl gains 20 temporary Hit Points, and the target must succeed at a DC 41 Fortitude save or become drained 2. Further damage dealt by a tzitzimitl's claw Strike increases the value of the drained condition by 2 on a failed save, to a maximum of drained 4.
 

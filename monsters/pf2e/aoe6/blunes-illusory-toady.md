@@ -5,9 +5,11 @@ rare, cn, medium, incorporeal, protean
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision
 
 **Languages** common, protean
+
+**Skills** Acrobatics +29, Deception +30, Stealth +29
 
 **STR** -5, **DEX** +7, **CON** +5, **INT** -3, **WIS** +4, **CHA** +8
 
@@ -21,7 +23,7 @@ rare, cn, medium, incorporeal, protean
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all 10
+**Resistances** all 10 (except force, ghost touch, or lawful; double resistance against non-magical)
 
 **Weaknesses** lawful 15
 
@@ -33,13 +35,13 @@ rare, cn, medium, incorporeal, protean
 
 Speed 30 feet
 
-**Melee** chaos hand +35 (agile, chaotic, finesse, magical); **Damage** 3d8+12 chaotic
+**Melee** ◆ chaos hand +35 (agile, chaotic, finesse, magical); **Damage** 3d8+12 chaotic
 
 **Innate arcane Spells** (DC 36), attack +28
 
   **Cantrips (5th)** guidance
 
-  **5th** magic missile, shield other, telekinetic haul
+  **5th** magic missile (at will), shield other, telekinetic haul
 
   **6th** heroism
 

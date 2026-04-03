@@ -9,6 +9,8 @@ unique, ne, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +19, Athletics +17, Intimidation +16, Stealth +17, Thievery +17
+
 **STR** +4, **DEX** +4, **CON** +1, **INT** +0, **WIS** +4, **CHA** +1
 
 **Intimidation** +16, Stealth +17, Survival +19, Thievery +17 Str +4, Dex +4, Con +1, Int +0, Wis +4
@@ -27,11 +29,11 @@ unique, ne, medium, human, humanoid
 
 ---
 
-Speed 30 feet
+Speed 30 feet, mobility
 
-**Melee** shortsword +19 (agile, finesse, versatile <S>); **Damage** 1d6+10 piercing
+**Melee** ◆ shortsword +19 (agile, finesse, versatile <S>); **Damage** 1d6+10 piercing
 
-**Melee** hand crossbow +20 (magical, range increment <60 feet>, reload <1>); **Damage** 2d6+10 piercing
+**Ranged** ◆ hand crossbow +20 (magical, range increment <60 feet>, reload <1>); **Damage** 2d6+10 piercing
 
 **Hunt Prey** ◆ Tanessa designates as her prey a single creature that she can see and hear or that she is Tracking. She gains a +2 circumstance bonus to Perception checks when she Seeks her prey and a +2 circumstance bonus.
 

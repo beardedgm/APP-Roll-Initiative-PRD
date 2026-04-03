@@ -5,9 +5,11 @@ le, large, amphibious, dragon
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision, scent 60 feet (imprecise)
 
 **Languages** common, draconic
+
+**Skills** Acrobatics +13, Arcana +16, Athletics +17, Deception +14, Diplomacy +16, Intimidation +16, Nature +14, Occultism +17, Society +14, Stealth +15
 
 **STR** +5, **DEX** +1, **CON** +3, **INT** +2, **WIS** +2, **CHA** +4
 
@@ -27,19 +29,19 @@ le, large, amphibious, dragon
 
 ---
 
-Speed 30 feet, fly 120 feet, swim 30 feet
+Speed 30 feet, fly 120 feet, swim 30 feet, woodland stride
 
-**Melee** jaws +20 (poison, reach <10 feet>); **Damage** 2d10+8 piercing plus 2d4 poison
+**Melee** ◆ jaws +20 (poison, reach <10 feet>); **Damage** 2d10+8 piercing plus 2d4 poison
 
-**Melee** claw +20 (agile); **Damage** 2d8+8 slashing
+**Melee** ◆ claw +20 (agile); **Damage** 2d8+8 slashing
 
-**Melee** tail +18 (reach <15 feet>); **Damage** 2d8+7 bludgeoning
+**Melee** ◆ tail +18 (reach <15 feet>); **Damage** 2d8+7 bludgeoning
 
-**Melee** horn +18 (reach <10 feet>); **Damage** 1d12+7 piercing
+**Melee** ◆ horn +18 (reach <10 feet>); **Damage** 1d12+7 piercing
 
 **Innate arcane Spells** (DC 26)
 
-  **1st** charm
+  **1st** charm (×2)
 
   **2nd** entangle
 

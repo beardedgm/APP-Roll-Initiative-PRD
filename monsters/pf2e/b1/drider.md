@@ -5,9 +5,11 @@ ce, large, aberration
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
 **Languages** elven, undercommon
+
+**Skills** Arcana +14, Athletics +12, Intimidation +14, Religion +13, Stealth +15
 
 **STR** +4, **DEX** +3, **CON** +3, **INT** +2, **WIS** +3, **CHA** +4
 
@@ -25,19 +27,19 @@ ce, large, aberration
 
 Speed 30 feet, climb 20 feet
 
-**Melee** glaive +16 (deadly <1d8>, forceful, reach <10 feet>); **Damage** 1d8+10 slashing
+**Melee** ◆ glaive +16 (deadly <1d8>, forceful, reach <10 feet>); **Damage** 1d8+10 slashing
 
-**Melee** fangs +16; **Damage** 1d6+10 piercing plus drider venom plus drider venom
+**Melee** ◆ fangs +16; **Damage** 1d6+10 piercing plus drider venom plus drider venom
 
-**Melee** composite longbow +16 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <50 feet>); **Damage** 1d8+8 piercing
+**Ranged** ◆ composite longbow +16 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <50 feet>); **Damage** 1d8+8 piercing
 
-**Melee** web +15 (range increment <30 feet>); plus web trap
+**Ranged** ◆ web +15 (range increment <30 feet>); plus web trap
 
 **Innate arcane Spells** (DC 20)
 
   **Cantrips (3rd)** dancing lights, detect magic
 
-  **2nd** darkness, faerie fire
+  **2nd** darkness (at will), faerie fire (at will)
 
   **3rd** clairaudience, dispel magic, levitate
 
@@ -47,7 +49,7 @@ Speed 30 feet, climb 20 feet
 
   **Cantrips (3rd)** ghost sound, mage hand, ray of frost
 
-  **1st** magic missile, ray of enfeeblement
+  **1st** magic missile (×2), ray of enfeeblement
 
   **2nd** acid arrow, invisibility
 

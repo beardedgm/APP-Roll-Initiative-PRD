@@ -9,6 +9,8 @@ ng, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +5, Farming Lore +5
+
 **STR** +3, **DEX** +1, **CON** +1, **INT** +1, **WIS** +0, **CHA** +1
 
 **Items** durable farm clothes (counts as padded armor)
@@ -25,8 +27,8 @@ ng, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** fist +5 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+3 bludgeoning
+**Melee** ◆ fist +5 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+3 bludgeoning
 
-**Melee** chair +3 (improvised); **Damage** 1d6+3 bludgeoning
+**Melee** ◆ chair +3 (improvised); **Damage** 1d6+3 bludgeoning
 
-**Melee** mug +1 (improvised, range increment <10 feet>); **Damage** 1d3+3 bludgeoning
+**Ranged** ◆ mug +1 (improvised, range increment <10 feet>); **Damage** 1d3+3 bludgeoning

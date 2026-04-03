@@ -5,9 +5,11 @@ ce, medium, amphibious, boggard, humanoid
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
 **Languages** boggard, common
+
+**Skills** Acrobatics +5, Athletics +8, Stealth +7
 
 **STR** +3, **DEX** +2, **CON** +4, **INT** -1, **WIS** +2, **CHA** +0
 
@@ -23,13 +25,13 @@ ce, medium, amphibious, boggard, humanoid
 
 ---
 
-Speed 20 feet, swim 25 feet
+Speed 20 feet, swim 25 feet, swamp stride
 
-**Melee** morningstar +8 (versatile <P>); **Damage** 1d6+3 bludgeoning
+**Melee** ◆ morningstar +8 (versatile <P>); **Damage** 1d6+3 bludgeoning
 
-**Melee** tongue +8 (reach <10 feet>); plus tongue grab
+**Melee** ◆ tongue +8 (reach <10 feet>); plus tongue grab
 
-**Melee** sling +7 (propulsive, reload <1>, range increment <50 feet>); **Damage** 1d6+1 bludgeoning
+**Ranged** ◆ sling +7 (propulsive, reload <1>, range increment <50 feet>); **Damage** 1d6+1 bludgeoning
 
 **Swamp Stride** A boggard scout ignores terrain caused by swamp terrain features.
 

@@ -5,13 +5,15 @@ rare, le, medium, shadow, undead, vampire
 
 ---
 
-**Perception** +20
+**Perception** +20; greater darkvision
 
 **Languages** common, necril, shadowtongue, thassilonian
 
+**Skills** Acrobatics +21, Athletics +21, Deception +19, Stealth +23
+
 **STR** +5, **DEX** +7, **CON** +5, **INT** +3, **WIS** +4, **CHA** +3
 
-**Items** {@runeItem leather||+1 armor potency||+1 leather armor}, {@runeItem longsword||+1 weapon potency||striking|}, {@item shortbow} (20 {@item arrow (generic)||arrows})
+**Items** +1 leather armor, , shortbow (20 arrows)
 
 ---
 
@@ -23,7 +25,7 @@ rare, le, medium, shadow, undead, vampire
 
 **Immunities** death effects, disease, paralyze, poison, sleep
 
-**Resistances** all physical 10
+**Resistances** all physical 10 (except silver or weapons shedding bright light)
 
 **Weaknesses** strigoi weaknesses
 
@@ -31,15 +33,15 @@ rare, le, medium, shadow, undead, vampire
 
 Speed 25 feet
 
-**Melee** claw +21 (agile, magical); **Damage** 2d8+8 slashing plus Grab
+**Melee** ◆ claw +21 (agile, magical); **Damage** 2d8+8 slashing plus Grab
 
-**Melee** longsword +22 (versatile <P>); **Damage** 2d8+8 slashing
+**Melee** ◆ longsword +22 (versatile <P>); **Damage** 2d8+8 slashing
 
-**Melee** shortbow +23 (deadly <d10>, range <60 feet>); **Damage** 1d6+8 piercing
+**Ranged** ◆ shortbow +23 (deadly <d10>, range <60 feet>); **Damage** 1d6+8 piercing
 
 **Innate divine Spells** (DC 27)
 
-  **5th** levitate
+  **5th** levitate (at will)
 
 **Drink Essence** ◆ (divine, necromancy) When drinking essence, the strigoi servant regains 13 HP.
 

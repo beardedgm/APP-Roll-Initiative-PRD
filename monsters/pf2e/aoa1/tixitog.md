@@ -5,9 +5,11 @@ uncommon, ne, medium, aberration
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision, web sense 60 feet (imprecise)
 
 **Languages** aklo, common
+
+**Skills** Acrobatics +8, Athletics +10, Occultism +7, Stealth +10
 
 **STR** +3, **DEX** +3, **CON** +2, **INT** +0, **WIS** +2, **CHA** -1
 
@@ -27,11 +29,11 @@ uncommon, ne, medium, aberration
 
 Speed 25 feet, climb 25 feet
 
-**Melee** jaws +10; **Damage** 1d12+5 piercing
+**Melee** ◆ jaws +10; **Damage** 1d12+5 piercing
 
-**Melee** tongue +12 (reach <20 feet>); plus tongue pull
+**Melee** ◆ tongue +12 (reach <20 feet>); plus tongue pull
 
-**Melee** leg +10 (agile); **Damage** 1d10+5 bludgeoning
+**Melee** ◆ leg +10 (agile); **Damage** 1d10+5 bludgeoning
 
 **Swallow Whole** ◆ Small, 1d12+3 bludgeoning, Rupture 10
 

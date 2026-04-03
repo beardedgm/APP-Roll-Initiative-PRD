@@ -5,9 +5,11 @@ n, small, gnome, humanoid
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
 **Languages** gnomish, undercommon
+
+**Skills** Athletics +8, Intimidation +5, Stealth +5
 
 **STR** +4, **DEX** +2, **CON** +3, **INT** +0, **WIS** +1, **CHA** -1
 
@@ -29,9 +31,9 @@ n, small, gnome, humanoid
 
 Speed 20 feet
 
-**Melee** spear +10; **Damage** 1d6+4 piercing
+**Melee** ◆ spear +10; **Damage** 1d6+4 piercing
 
-**Melee** heavy crossbow +8 (range increment <120 feet>, reload <2>); **Damage** 1d10 piercing
+**Ranged** ◆ heavy crossbow +8 (range increment <120 feet>, reload <2>); **Damage** 1d10 piercing
 
 **Innate primal Spells** (DC 15)
 

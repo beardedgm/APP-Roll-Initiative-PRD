@@ -5,9 +5,11 @@ rare, ce, medium, humanoid, mortic, orc
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
 **Languages** common, necril, orc
+
+**Skills** Athletics +18, Intimidation +16, Survival +15
 
 **STR** +6, **DEX** +4, **CON** +6, **INT** +3, **WIS** +3, **CHA** +4
 
@@ -29,11 +31,11 @@ rare, ce, medium, humanoid, mortic, orc
 
 Speed 25 feet
 
-**Melee** tusk +20; **Damage** 2d6+6 piercing plus leech essence plus leech essence
+**Melee** ◆ tusk +20; **Damage** 2d6+6 piercing plus leech essence plus leech essence
 
-**Melee** claw +20 (agile); **Damage** 2d8+6 slashing plus 1d6 persistent bleed
+**Melee** ◆ claw +20 (agile); **Damage** 2d8+6 slashing plus 1d6 persistent bleed
 
-**Melee** composite shortbow +19 (deadly <d10>, magical, propulsive, range increment <30 feet>); **Damage** 2d6+3 piercing
+**Ranged** ◆ composite shortbow +19 (deadly <d10>, magical, propulsive, range increment <30 feet>); **Damage** 2d6+3 piercing
 
 **Death Gasp** As angheuvore flesh-gnawer, except up to 11 rounds.
 

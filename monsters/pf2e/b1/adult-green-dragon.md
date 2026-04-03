@@ -5,9 +5,11 @@ le, huge, amphibious, dragon
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision, scent 60 feet (imprecise)
 
 **Languages** common, draconic, elven, sylvan
+
+**Skills** Acrobatics +19, Arcana +22, Athletics +24, Deception +19, Diplomacy +23, Intimidation +23, Nature +20, Occultism +24, Society +22, Stealth +21
 
 **STR** +6, **DEX** +3, **CON** +3, **INT** +4, **WIS** +4, **CHA** +5
 
@@ -27,19 +29,19 @@ le, huge, amphibious, dragon
 
 ---
 
-Speed 40 feet, fly 160 feet, swim 40 feet
+Speed 40 feet, fly 160 feet, swim 40 feet, trackless step, woodland stride
 
-**Melee** jaws +26 (magical, poison, reach <15 feet>); **Damage** 3d10+12 piercing plus 3d4 poison
+**Melee** ◆ jaws +26 (magical, poison, reach <15 feet>); **Damage** 3d10+12 piercing plus 3d4 poison
 
-**Melee** claw +26 (agile, magical, reach <10 feet>); **Damage** 3d8+12 slashing
+**Melee** ◆ claw +26 (agile, magical, reach <10 feet>); **Damage** 3d8+12 slashing
 
-**Melee** tail +24 (magical, reach <20 feet>); **Damage** 3d8+10 bludgeoning
+**Melee** ◆ tail +24 (magical, reach <20 feet>); **Damage** 3d8+10 bludgeoning
 
-**Melee** horn +24 (magical, reach <15 feet>); **Damage** 2d8+10 piercing
+**Melee** ◆ horn +24 (magical, reach <15 feet>); **Damage** 2d8+10 piercing
 
 **Innate arcane Spells** (DC 32)
 
-  **2nd** entangle
+  **2nd** entangle (×2)
 
   **4th** suggestion
 

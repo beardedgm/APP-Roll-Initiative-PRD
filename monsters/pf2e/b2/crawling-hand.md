@@ -5,9 +5,11 @@ ne, tiny, undead
 
 ---
 
-**Perception** +5
+**Perception** +5; lifesense 30 feet, {@ability tremorsense} 30 feet (imprecise)
 
 **Languages** common (can't speak any language)
+
+**Skills** Athletics +5, Stealth +6, Survival +2
 
 **STR** +1, **DEX** +3, **CON** +0, **INT** -4, **WIS** +0, **CHA** +0
 
@@ -23,7 +25,7 @@ ne, tiny, undead
 
 Speed 30 feet, climb 30 feet
 
-**Melee** claw +7 (agile, finesse); **Damage** 1d4+1 slashing plus Grab plus Grab
+**Melee** ◆ claw +7 (agile, finesse); **Damage** 1d4+1 slashing plus Grab plus Grab
 
 **Grip Throat** A Medium or smaller creature that is grabbed by the crawling hand has difficulty speaking and must spend an extra action to perform any action with the verbal trait.
 

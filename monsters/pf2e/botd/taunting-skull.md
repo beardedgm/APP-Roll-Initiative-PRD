@@ -5,9 +5,11 @@ ne, tiny, undead
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
 **Languages** common, necril
+
+**Skills** Acrobatics +12, Intimidation +12
 
 **STR** +1, **DEX** +5, **CON** +1, **INT** +0, **WIS** +4, **CHA** +1
 
@@ -29,7 +31,7 @@ ne, tiny, undead
 
 Speed 15 feet, fly 40 feet
 
-**Melee** jaws +14 (agile, finesse, reach <0 feet>); **Damage** 2d10+3 piercing
+**Melee** ◆ jaws +14 (agile, finesse, reach <0 feet>); **Damage** 2d10+3 piercing
 
 **Incessant Goading** ◆ (auditory, emotion, incapacitation, mental) The skull chooses one creature within 60 feet and antagonizes it mercilessly. The target must attempt a DC 22 Will save to resist the effect. **Critical Success** 
 **Success** 

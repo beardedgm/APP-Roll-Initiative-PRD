@@ -5,9 +5,11 @@ ne, medium, humanoid, urdefhan
 
 ---
 
-**Perception** +13
+**Perception** +13; greater darkvision
 
 **Languages** aklo, daemonic, undercommon
+
+**Skills** Acrobatics +8, Crafting +9, Intimidation +11, Occultism +11, Religion +13
 
 **STR** +3, **DEX** +1, **CON** +3, **INT** +2, **WIS** +4, **CHA** +2
 
@@ -31,6 +33,6 @@ ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** warhammer +12 (shove); **Damage** 1d8+5 bludgeoning
+**Melee** ◆ warhammer +12 (shove); **Damage** 1d8+5 bludgeoning
 
-**Melee** jaws +14; **Damage** 2d6+5 piercing plus
+**Melee** ◆ jaws +14; **Damage** 2d6+5 piercing plus

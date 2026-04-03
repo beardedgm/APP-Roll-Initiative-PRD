@@ -5,13 +5,15 @@ small, fey, sprite
 
 ---
 
-**Perception** +14
+**Perception** +14; low-light vision
 
 **Languages** common, fey
 
+**Skills** Acrobatics +15, Athletics +13, Deception +12, Nature +12, Stealth +15
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +3, **WIS** +2, **CHA** +3
 
-**Items** {@item longbow} (20 {@item arrow (generic)||arrows}), {@item rapier}
+**Items** longbow (20 arrows), rapier
 
 ---
 
@@ -27,9 +29,9 @@ small, fey, sprite
 
 Speed 15 feet, fly 45 feet
 
-**Melee** rapier +17 (deadly <d8>, finesse); **Damage** 1d6+6 piercing
+**Melee** ◆ rapier +17 (deadly <d8>, finesse); **Damage** 1d6+6 piercing
 
-**Melee** longbow +15 (deadly <d10>, range increment <100 feet>, reload <0>, volley <20 feet>); **Damage** 1d8+6 piercing
+**Ranged** ◆ longbow +15 (deadly <d10>, range increment <100 feet>, reload <0>, volley <20 feet>); **Damage** 1d8+6 piercing
 
 **Innate primal Spells** (DC 24)
 
@@ -41,7 +43,7 @@ Speed 15 feet, fly 45 feet
 
   **3rd** dispel magic
 
-  **4th** invisibility
+  **4th** invisibility (at will)
 
 **Sneak Attack** The pixie deals an additional 1d6 precision damage to off-guard|PC1 creatures.
 

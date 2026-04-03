@@ -5,9 +5,11 @@ rare, ne, huge, fey, undead
 
 ---
 
-**Perception** +31
+**Perception** +31; greater darkvision, soulscent 200 feet (precise)
 
-**Languages** aklo, common, necril, sylvan
+**Languages** aklo, common, necril, sylvan; voice of the soul
+
+**Skills** Acrobatics +29, Athletics +35, Deception +30, Intimidation +32, Stealth +29, Survival +31
 
 **STR** +9, **DEX** +5, **CON** +9, **INT** +7, **WIS** +7, **CHA** +4
 
@@ -33,17 +35,17 @@ rare, ne, huge, fey, undead
 
 Speed 30 feet, fly 80 feet
 
-**Melee** proboscis +35 (reach <20 feet>); **Damage** 3d10+17 piercing plus Improved Grab
+**Melee** ◆ proboscis +35 (reach <20 feet>); **Damage** 3d10+17 piercing plus Improved Grab
 
-**Melee** claw +35 (agile, magical); **Damage** 3d10+17 slashing
+**Melee** ◆ claw +35 (agile, magical); **Damage** 3d10+17 slashing
 
-**Melee** negative ray +31 (magical, negative, range <100 feet>); **Damage** 7d8 negative
+**Ranged** ◆ negative ray +31 (magical, negative, range <100 feet>); **Damage** 7d8 negative
 
 **Innate primal Spells** (DC 41)
 
   **Cantrips (9th)** ghost sound
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
   **7th** visions of danger
 

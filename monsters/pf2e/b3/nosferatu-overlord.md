@@ -5,9 +5,11 @@ rare, ne, medium, undead, vampire
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision
 
-**Languages** aklo, common, necril
+**Languages** aklo, common, necril; telepathy 60 feet
+
+**Skills** Acrobatics +29, Arcana +31, Athletics +27, Deception +25, Intimidation +27, Stealth +31
 
 **STR** +6, **DEX** +8, **CON** +4, **INT** +8, **WIS** +6, **CHA** +4
 
@@ -21,7 +23,7 @@ rare, ne, medium, undead, vampire
 
 **Immunities** poison, death effects, disease, paralyzed, sleep
 
-**Resistances** physical 15
+**Resistances** physical 15 (except magical wood)
 
 **Air of Sickness** (aura) 30 feet, DC 33
 
@@ -31,7 +33,7 @@ rare, ne, medium, undead, vampire
 
 Speed 30 feet, climb 25 feet
 
-**Melee** fangs +30 (finesse); **Damage** 3d12+12 piercing plus Drink plus Drink
+**Melee** ◆ fangs +30 (finesse); **Damage** 3d12+12 piercing plus Drink plus Drink
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) DC 36
 

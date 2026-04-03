@@ -9,6 +9,8 @@ unique, ln, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +33, Athletics +36, Diplomacy +31, Intimidation +31, Legal Lore +30
+
 **STR** +6, **DEX** +5, **CON** +5, **INT** +2, **WIS** +2, **CHA** +1
 
 **Items** +3 greater striking speed handwraps of mighty blows
@@ -27,7 +29,7 @@ unique, ln, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** fist +37 (agile, finesse, nonlethal, unarmed); **Damage** 3d6+14 bludgeoning
+**Melee** ◆ fist +37 (agile, finesse, nonlethal, unarmed); **Damage** 3d6+14 bludgeoning
 
 **Double Punch** ◆ (flourish) Lord Guirden makes two fist Strikes, ignoring the multiple attack penalty until after both Strikes.
 

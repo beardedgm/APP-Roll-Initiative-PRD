@@ -9,6 +9,8 @@ uncommon, n, medium, humanoid, lizardfolk
 
 **Languages** common, draconic, iruxi
 
+**Skills** Acrobatics +15, Arcana +13, Astrology Lore +11, Medicine +13, Nature +15, Survival +15
+
 **STR** +2, **DEX** +5, **CON** +4, **INT** +3, **WIS** +5, **CHA** +2
 
 **Items** leather armor, +1 longbow
@@ -27,16 +29,16 @@ uncommon, n, medium, humanoid, lizardfolk
 
 Speed 25 feet
 
-**Melee** claw +15 (agile, finesse); **Damage** 2d6+5 slashing
+**Melee** ◆ claw +15 (agile, finesse); **Damage** 2d6+5 slashing
 
-**Melee** longbow +17 (deadly <d10>, volley); **Damage** 1d8+5 piercing
+**Ranged** ◆ longbow +17 (deadly <d10>, volley); **Damage** 1d8+5 piercing
 
 **Innate primal Spells** (DC 24), attack +16
 
   **Cantrips (3rd)** acid splash, guidance, stabilize
 
-  **1st** heal, pass without trace, swampcall
+  **1st** heal (×2), pass without trace, swampcall
 
   **2nd** acid arrow, clawsong, dispel magic, heal
 
-  **3rd** fireball, heal
+  **3rd** fireball (×2), heal

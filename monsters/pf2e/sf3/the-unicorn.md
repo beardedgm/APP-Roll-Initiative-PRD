@@ -23,15 +23,15 @@ unique, n, large, construct
 
   **Cantrips (8th)** daze, detect magic, ghost sound, telekinetic projectile
 
-  **1st** ill omen
+  **1st** ill omen (at will)
 
   **2nd** augury
 
-  **3rd** heal
+  **3rd** heal (×3)
 
   **4th** confusion
 
-  **5th** heal, dimension door
+  **5th** heal (×2), dimension door
 
   **7th** heal, visions of danger
 

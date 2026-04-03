@@ -5,9 +5,11 @@ ne, huge, aberration, earth
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision, manifold vision, {@ability tremorsense} 30 feet (imprecise)
 
 **Languages** terran
+
+**Skills** Athletics +28, Deception +27, Survival +25
 
 **STR** +8, **DEX** +4, **CON** +5, **INT** +2, **WIS** +5, **CHA** +5
 
@@ -23,15 +25,15 @@ ne, huge, aberration, earth
 
 **HP** 200
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except adamantine)
 
 **Infestation Aura** (aura, earth, occult) 120 feet. While its core is implanted, a grikkitog infests all earth and stone within 120 feet, as long as there is a contiguous physical connection between the earth, including stone objects touching on the ground. This effect spreads even if the grikkitog does not have line of effect, though it can affect earth or stone on the surface and exposed to the air only if at least part of its core is exposed as well. Within the aura, it can grow maws and eyes everywhere. It can make jaws attacks against any creature, originating from any earth or stone in the aura adjacent to that creature. Determine cover from the origin point of the attack, not from the grikkitog's core.
 
 ---
 
-Speed 20 feet
+Speed 20 feet, burrow 20 feet
 
-**Melee** jaws +29 (magical); **Damage** 3d12+14 piercing plus barbed maw plus barbed maw
+**Melee** ◆ jaws +29 (magical); **Damage** 3d12+14 piercing plus barbed maw plus barbed maw
 
 **Barbed Maw Upon** Striking a creature with its jaws, the grikkitog can extend its barbed teeth, immobilizing the target unless it succeeds at a DC 34 Reflex save. While immobilized, the victim takes 3d8 persistent bleed damage and the grikkitog feeds upon its flesh. The creature is immobilized until the grikkitog ends the effect as a free action or the target succeeds at a DC 38 check to Escape. The grikkitog can immobilize any number of creatures with these maws.
 

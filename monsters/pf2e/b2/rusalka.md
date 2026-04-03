@@ -5,9 +5,11 @@ ne, medium, aquatic, fey, water
 
 ---
 
-**Perception** +22
+**Perception** +22; low-light vision
 
 **Languages** common, sylvan
+
+**Skills** Acrobatics +21, Athletics +22, Deception +25, Diplomacy +21, Nature +21, Performance +23, Stealth +25
 
 **STR** +4, **DEX** +5, **CON** +3, **INT** +1, **WIS** +3, **CHA** +7
 
@@ -27,15 +29,17 @@ ne, medium, aquatic, fey, water
 
 ---
 
-Speed 25 feet, swim 50 feet
+Speed 25 feet, swim 50 feet, water walk
 
-**Melee** tresses +24 (agile, finesse, reach <15 feet>); **Damage** 3d8+10 bludgeoning plus Improved Grab
+**Melee** ◆ tresses +24 (agile, finesse, reach <15 feet>); **Damage** 3d8+10 bludgeoning plus Improved Grab
 
 **Innate primal Spells** (DC 35)
 
-  **2nd** invisibility, obscuring mist
+  **Constant (6th)** water walk
 
-  **5th** charm, control water
+  **2nd** invisibility (at will), obscuring mist (at will)
+
+  **5th** charm (at will), control water (at will)
 
 **Beckoning Call** ◆ (auditory, concentrate, enchantment, incapacitation, mental, primal) The rusalka cries out a compelling invitation. Each non-fey creature within a 300-foot emanation must attempt a DC 27 Will save. The effect lasts for 1 round, but if the rusalka uses Beckoning Call again on subsequent rounds, the duration extends by 1 round for all affected creatures. Once a creature succeeds at any save against Beckoning Call, that creature is temporarily immune for 24 hours. **Success** The creature is unaffected.
 **Failure** The creature is fascinated and must spend each of its actions to move closer to the rusalka, avoiding obvious dangers. If a beckoned creature is adjacent to the rusalka, it stays still and doesn't act. If attacked by the rusalka, the creature is freed from captivation at the end of the rusalka's turn.

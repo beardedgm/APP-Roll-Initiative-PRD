@@ -5,9 +5,11 @@ uncommon, ce, large, demon, fiend
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, scent (imprecise), see invisibility
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +26, Athletics +27, Intimidation +30, Religion +28, Stealth +24
 
 **STR** +6, **DEX** +3, **CON** +6, **INT** +4, **WIS** +5, **CHA** +7
 
@@ -32,15 +34,17 @@ uncommon, ce, large, demon, fiend
 
 Speed 25 feet, fly 40 feet
 
-**Melee** jaws +30 (evil, magical, reach <10 feet>); **Damage** 3d12+14 piercing plus 1d6 evil
+**Melee** ◆ jaws +30 (evil, magical, reach <10 feet>); **Damage** 3d12+14 piercing plus 1d6 evil
 
-**Melee** claw +30 (agile, evil, magical, reach <10 feet>); **Damage** 3d8+14 slashing plus 1d6 evil
+**Melee** ◆ claw +30 (agile, evil, magical, reach <10 feet>); **Damage** 3d8+14 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 36)
 
-  **4th** charm
+  **Constant (8th)** see invisibility
 
-  **5th** command
+  **4th** charm (at will)
+
+  **5th** command (at will)
 
   **6th** dominate
 

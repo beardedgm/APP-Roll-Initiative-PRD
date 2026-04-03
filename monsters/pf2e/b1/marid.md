@@ -5,9 +5,11 @@ uncommon, cn, large, elemental, genie, water
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, detect alignment, detect magic, wavesense 60 feet (imprecise)
 
 **Languages** aquan, common
+
+**Skills** Athletics +20, Crafting +16, Diplomacy +19, Nature +18, Performance +16, Society +14, Stealth +18
 
 **STR** +5, **DEX** +5, **CON** +4, **INT** +1, **WIS** +3, **CHA** +3
 
@@ -29,21 +31,25 @@ uncommon, cn, large, elemental, genie, water
 
 Speed 20 feet, swim 40 feet
 
-**Melee** trident +21 (magical, reach <10 feet>); **Damage** 2d8+11 piercing
+**Melee** ◆ trident +21 (magical, reach <10 feet>); **Damage** 2d8+11 piercing
 
-**Melee** fist +20 (agile, magical, nonlethal, reach <10 feet>); **Damage** 1d4+11 bludgeoning
+**Melee** ◆ fist +20 (agile, magical, nonlethal, reach <10 feet>); **Damage** 1d4+11 bludgeoning
 
-**Melee** trident +21 (magical, thrown <20 feet>); **Damage** 2d8+11 piercing
+**Ranged** ◆ trident +21 (magical, thrown <20 feet>); **Damage** 2d8+11 piercing
 
 **Innate arcane Spells** (DC 28)
 
-  **2nd** blur, illusory object
+  **Constant (5th)** detect magic
 
-  **4th** hydraulic push, hydraulic torrent, solid fog
+  **Constant (1st)** detect alignment
 
-  **5th** control water, hallucinatory terrain
+  **2nd** blur (at will), illusory object
 
-  **7th** plane shift
+  **4th** hydraulic push (at will), hydraulic torrent, solid fog
+
+  **5th** control water (at will), hallucinatory terrain
+
+  **7th** plane shift (at will)
 
 **Change Shape** ◆ (arcane, concentrate, polymorph, transmutation) The marid can take on the appearance of any water elemental or humanoid. This ability doesn't change the marid's Speed or its attack and damage bonuses with its Strikes.
 

@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Nature +11, Stealth +9, Survival +13, Forest Lore +5
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +4, **CHA** +0
 
 **Items** composite longbow (60 arrows), leather armor, staff
@@ -29,8 +31,8 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** staff +9 (two-hand <d8>); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ staff +9 (two-hand <d8>); **Damage** 1d4+4 bludgeoning
 
-**Melee** composite longbow +11 (deadly <1d10>, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+3 piercing
+**Ranged** ◆ composite longbow +11 (deadly <1d10>, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+3 piercing
 
 **Hunt Prey** ◆ (concentrate) As poacher (page 218).

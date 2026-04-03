@@ -5,7 +5,9 @@ uncommon, large, mindless, undead, unholy, zombie
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
+
+**Skills** Athletics +12
 
 **STR** +4, **DEX** +0, **CON** +3, **INT** -5, **WIS** +1, **CHA** -3
 
@@ -27,8 +29,8 @@ uncommon, large, mindless, undead, unholy, zombie
 
 Speed 25 feet
 
-**Melee** claw +12; **Damage** 1d10+7 piercing plus Grab
+**Melee** ◆ claw +12; **Damage** 1d10+7 piercing plus Grab
 
-**Melee** jaws +12; **Damage** 1d12+7 piercing
+**Melee** ◆ jaws +12; **Damage** 1d12+7 piercing
 
 **Murderous Mauler** The zombie bear gains a +2 circumstance bonus to damage rolls against creatures it has grabbed|PC1.

@@ -5,9 +5,11 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, tastes anger 1 mile (imprecise)
 
-**Languages** common, dwarven, jotun
+**Languages** common, dwarven, jotun; tongues
+
+**Skills** Acrobatics +21, Deception +20, Intimidation +24, Stealth +21
 
 **STR** -5, **DEX** +6, **CON** +0, **INT** +2, **WIS** -2, **CHA** +7
 
@@ -23,7 +25,7 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 **Immunities** poison, precision, death effects, disease, paralyzed, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except emotion, force, ghost touch, mental, or positive; double resistance vs. non-magical)
 
 **Weaknesses** emotion
 
@@ -35,14 +37,16 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 Speed fly 40 feet
 
-**Melee** ephemeral claw +22 (evocation, occult); **Damage** 3d12+7 slashing
+**Melee** ◆ ephemeral claw +22 (evocation, occult); **Damage** 3d12+7 slashing
 
 **Innate occult Spells** (DC 32)
 
-  **2nd** invisibility, ventriloquism
+  **Constant (6th)** tongues
 
-  **3rd** mind reading
+  **2nd** invisibility (at will), ventriloquism (at will)
 
-  **6th** paranoia, remove fear, suggestion
+  **3rd** mind reading (at will)
+
+  **6th** paranoia, remove fear, suggestion (×3)
 
 **Furious Possession** ◆◆ The seething spirit attempts to possess an adjacent corporeal creature. This has the same effect as a possession spell (DC 30), except since the spirit doesn't have a physical body, they're not unconscious and paralyzed when the effect ends. The spirit can't Dismiss the possession. The creature gains 12 temporary Hit Points that are lost when the possession ends. During the possession, the creature has the pulse of rage aura. Each time the possessed creature makes a melee Strike, the spirit can substitute their ephemeral claw attack modifier, damage amount, or both in place of the creature's own statistics.

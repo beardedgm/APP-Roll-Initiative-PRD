@@ -5,9 +5,11 @@ unique, medium, undead, unholy
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision
 
 **Languages** aklo, common, chthonian, diabolic, draconic, empyrean, necril, sakvroth
+
+**Skills** Arcana +34, Crafting +38 (can craft magic items), Deception +35, Diplomacy +35, Intimidation +37, Occultism +36, Religion +34, Stealth +33
 
 **STR** +5, **DEX** +6, **CON** +4, **INT** +7, **WIS** +7, **CHA** +10
 
@@ -41,9 +43,9 @@ unique, medium, undead, unholy
 
 Speed 25 feet
 
-**Melee** flail +34 (disarm, magical, sweep, trip); **Damage** 3d6+13 bludgeoning plus 3d8 void
+**Melee** ◆ flail +34 (disarm, magical, sweep, trip); **Damage** 3d6+13 bludgeoning plus 3d8 void
 
-**Melee** hand +31 (finesse, magical); **Damage** 6d8 void
+**Melee** ◆ hand +31 (finesse, magical); **Damage** 6d8 void
 
 **Spontaneous occult Spells** (DC 45), attack +37
 

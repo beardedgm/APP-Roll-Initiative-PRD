@@ -5,7 +5,9 @@ n, small, amphibious, mindless, ooze
 
 ---
 
-**Perception** +4
+**Perception** +4; motion sense 60 feet, no vision
+
+**Skills** Athletics +6, Stealth +3
 
 **STR** +3, **DEX** -2, **CON** +2, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -25,7 +27,7 @@ n, small, amphibious, mindless, ooze
 
 Speed 10 feet, swim 10 feet, climb 10 feet
 
-**Melee** pseudopod +8; **Damage** 1d6 acid plus Grab plus Grab
+**Melee** ◆ pseudopod +8; **Damage** 1d6 acid plus Grab plus Grab
 
 **Constrict** ◆ 1d4 bludgeoning plus 1d4 acid, DC 17
 

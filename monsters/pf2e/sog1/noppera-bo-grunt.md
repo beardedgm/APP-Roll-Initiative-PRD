@@ -5,13 +5,15 @@ uncommon, ce, medium, aberration
 
 ---
 
-**Perception** +4
+**Perception** +4; no face
 
-**Languages** common
+**Languages** common; telepathy 30 feet
+
+**Skills** Acrobatics +3, Athletics +5, Deception +4, Intimidation +4
 
 **STR** +1, **DEX** +2, **CON** +2, **INT** +1, **WIS** +0, **CHA** +2
 
-**Items** {@item leather} armor, {@item spear}
+**Items** leather armor, spear
 
 **No Face** Noppera-bos have no sense of vision, but their sense of hearing is precise. They don't breathe and are immune to effects that require breathing. They gain sustenance by absorbing fluids through their skin—traditionally by immersing their hands or faceless head into the fluid to "drink" through osmosis; they can also benefit from consumables, such as potions or elixirs, in this way.
 
@@ -33,8 +35,8 @@ uncommon, ce, medium, aberration
 
 Speed 25 feet
 
-**Melee** spear +7; **Damage** 1d6+1 piercing
+**Melee** ◆ spear +7; **Damage** 1d6+1 piercing
 
-**Melee** spear +5 (thrown <20 feet>); **Damage** 1d6+1 piercing
+**Ranged** ◆ spear +5 (thrown <20 feet>); **Damage** 1d6+1 piercing
 
 **Impersonate Shape** ◆◆ (concentrate, occult, polymorph, transmutation) The noppera-bo grunt changes into a faceless version of a Small or Medium humanoid they've touched during the last 24 hours. While transformed and their face is covered, the grunt gains a +2 circumstance bonus to Impersonate that creature. The noppera-bo grunt can change back by using this ability again.

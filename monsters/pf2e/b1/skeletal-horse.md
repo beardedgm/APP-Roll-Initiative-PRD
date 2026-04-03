@@ -5,7 +5,9 @@ ne, large, mindless, skeleton, undead
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
+
+**Skills** Acrobatics +7, Athletics +9
 
 **STR** +5, **DEX** +3, **CON** +2, **INT** -5, **WIS** +2, **CHA** +0
 
@@ -25,7 +27,7 @@ ne, large, mindless, skeleton, undead
 
 Speed 40 feet
 
-**Melee** hoof +9; **Damage** 1d8+5 bludgeoning
+**Melee** ◆ hoof +9; **Damage** 1d8+5 bludgeoning
 
 **Gallop** ◆◆ The horse Strides twice, with its Speed increased by 10 feet.
 

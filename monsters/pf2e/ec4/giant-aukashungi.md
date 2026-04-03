@@ -5,7 +5,9 @@ uncommon, ce, huge, aberration, amphibious
 
 ---
 
-**Perception** +24
+**Perception** +24; greater darkvision
+
+**Skills** Athletics +29
 
 **STR** +7, **DEX** +7, **CON** +6, **INT** -4, **WIS** +3, **CHA** -2
 
@@ -27,9 +29,9 @@ uncommon, ce, huge, aberration, amphibious
 
 Speed 25 feet, burrow 25 feet
 
-**Melee** jaws +29 (reach <10 feet>); **Damage** 3d12+13 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +29 (reach <10 feet>); **Damage** 3d12+13 piercing plus Improved Grab plus Improved Grab
 
-**Melee** horn +27 (deadly <2d8>, reach <15 feet>); **Damage** 3d8+13 piercing
+**Melee** ◆ horn +27 (deadly <2d8>, reach <15 feet>); **Damage** 3d8+13 piercing
 
 **Acidic Effluence** ◆◆ (acid) The giant aukashungi releases an acidic gas from its ventral glands in a 30-foot burst. Each creature that starts its turn in the area takes 10d8 acid damage plus 2d8 persistent acid damage (DC 32 basic Fortitude save). The gas moves 10 feet away from the giant aukashungi each round and lasts for 1 minute. The giant aukashungi can't use Acidic Effluence again for 1 minute.
 

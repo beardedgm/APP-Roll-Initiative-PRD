@@ -5,9 +5,11 @@ le, medium, devil, fiend
 
 ---
 
-**Perception** +18
+**Perception** +18; greater darkvision, true seeing
 
-**Languages** celestial, common, draconic, infernal
+**Languages** celestial, common, draconic, infernal; telepathy 100 feet
+
+**Skills** Acrobatics +17, Crafting +14, Deception +19, Diplomacy +15, Intimidation +19, Religion +16, Stealth +17
 
 **STR** +5, **DEX** +5, **CON** +5, **INT** +2, **WIS** +4, **CHA** +5
 
@@ -29,19 +31,21 @@ le, medium, devil, fiend
 
 Speed 25 feet, fly 40 feet
 
-**Melee** flaming longsword +19 (evil, fire, magical, versatile <P>); **Damage** 1d8+8 slashing plus 1d6 evil and 1d6 fire
+**Melee** ◆ flaming longsword +19 (evil, fire, magical, versatile <P>); **Damage** 1d8+8 slashing plus 1d6 evil and 1d6 fire
 
-**Melee** flaming composite longbow +20 (deadly <1d10>, evil, fire, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+4 piercing plus 1d6 evil and 1d6 fire
+**Ranged** ◆ flaming composite longbow +20 (deadly <1d10>, evil, fire, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+4 piercing plus 1d6 evil and 1d6 fire
 
-**Melee** rope +19 (magical, range increment <30 feet>); plus rope snare
+**Ranged** ◆ rope +19 (magical, range increment <30 feet>); plus rope snare
 
 **Innate divine Spells** (DC 26)
 
-  **2nd** illusory object, illusory disguise
+  **Constant (6th)** true seeing
 
-  **3rd** fear
+  **2nd** illusory object, illusory disguise (at will)
 
-  **4th** dimension door, divine wrath, retributive pain
+  **3rd** fear (at will)
+
+  **4th** dimension door (at will), divine wrath, retributive pain
 
   **5th** dimension door
 

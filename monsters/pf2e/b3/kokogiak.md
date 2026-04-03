@@ -5,9 +5,11 @@ ne, huge, beast
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, scent 60 feet (imprecise)
 
 **Languages** aquan, common
+
+**Skills** Athletics +27, Deception +23, Stealth +21, Survival +21
 
 **STR** +7, **DEX** +5, **CON** +7, **INT** +1, **WIS** +5, **CHA** +5
 
@@ -27,11 +29,11 @@ ne, huge, beast
 
 ---
 
-Speed 40 feet, swim 20 feet
+Speed 40 feet, swim 20 feet, trackless step
 
-**Melee** jaws +26 (reach <20 feet>); **Damage** 3d10+10 piercing
+**Melee** ◆ jaws +26 (reach <20 feet>); **Damage** 3d10+10 piercing
 
-**Melee** claw +26 (reach <15 feet>); **Damage** 3d6+10 slashing
+**Melee** ◆ claw +26 (reach <15 feet>); **Damage** 3d6+10 slashing
 
 **Mauling Rush** ◆◆◆ The kokogiak Strides up to its Speed. It can make up to four claw Strikes at any point during this movement, each against a different target. These attacks count toward the kokogiak's multiple attack penalty, but the multiple attack penalty doesn't increase until after the kokogiak makes all of its attacks.
 

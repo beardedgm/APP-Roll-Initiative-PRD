@@ -5,9 +5,11 @@ cn, medium, amphibious, azarketi, humanoid
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision
 
 **Languages** alghollthu, azlanti, common
+
+**Skills** Acrobatics +5, Athletics +8, Deception +7, Diplomacy +7, Intimidation +7, Nature +4, Society +4
 
 **STR** +4, **DEX** +1, **CON** +2, **INT** +0, **WIS** +0, **CHA** +3
 
@@ -29,11 +31,11 @@ cn, medium, amphibious, azarketi, humanoid
 
 Speed 20 feet, swim 30 feet
 
-**Melee** trident +10; **Damage** 1d8+6 piercing
+**Melee** ◆ trident +10; **Damage** 1d8+6 piercing
 
-**Melee** dagger +10 (agile, versatile <S>); **Damage** 1d4+6 piercing
+**Melee** ◆ dagger +10 (agile, versatile <S>); **Damage** 1d4+6 piercing
 
-**Melee** trident +7 (thrown <20 feet>); **Damage** 1d8+6 piercing
+**Ranged** ◆ trident +7 (thrown <20 feet>); **Damage** 1d8+6 piercing
 
 **Hydraulic Deflection** ◆ (abjuration, water) Drawing moisture from the surrounding atmosphere, the azarketi explorer creates a disc of hovering water that deflects incoming attacks. They gain a +1 circumstance bonus to AC until the start of their next turn.
 

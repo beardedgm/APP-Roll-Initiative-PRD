@@ -5,9 +5,11 @@ unique, ne, medium, fungus
 
 ---
 
-**Perception** +14
+**Perception** +14; sporesight 100 feet
 
-**Languages** aklo, sylvan
+**Languages** aklo, sylvan; telepathy 100 feet
+
+**Skills** Acrobatics +11, Athletics +13, Nature +13, Survival +13
 
 **STR** +4, **DEX** +3, **CON** +4, **INT** +1, **WIS** +2, **CHA** +1
 
@@ -34,11 +36,11 @@ unique, ne, medium, fungus
 
 Speed 25 feet, fly 30 feet
 
-**Melee** limb +16 (versatile <P or S>); **Damage** 2d12+4 bludgeoning
+**Melee** ◆ limb +16 (versatile <P or S>); **Damage** 2d12+4 bludgeoning
 
-**Melee** fungal limb +16 (agile); **Damage** 2d8+4 bludgeoning
+**Melee** ◆ fungal limb +16 (agile); **Damage** 2d8+4 bludgeoning
 
-**Melee** firelance +15 (range <30 feet>, magical, fire); **Damage** 2d8+2 fire
+**Ranged** ◆ firelance +15 (range <30 feet>, magical, fire); **Damage** 2d8+2 fire
 
 **Envelop** ◆◆◆ The Melfesh Monster attempts to Grapple a creature within reach. On a success, the creature is pulled into the Monster's body. The Melfesh Monster is slowed 1 while it envelops a creature, and this otherwise has the effects of Swallow Whole (the Melfesh Monster's size or smaller, 1d10 bludgeoning and 1d12 poison, Rupture 15).
 

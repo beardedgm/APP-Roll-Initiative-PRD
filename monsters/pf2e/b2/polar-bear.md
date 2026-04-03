@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +12
+**Perception** +12; low-light vision, scent 60 feet (imprecise)
+
+**Skills** Athletics +14, Stealth +10, Survival +10
 
 **STR** +5, **DEX** +1, **CON** +5, **INT** -4, **WIS** +1, **CHA** -1
 
@@ -21,9 +23,9 @@ n, large, animal
 
 Speed 35 feet, swim 15 feet
 
-**Melee** jaws +15; **Damage** 2d8+7 piercing
+**Melee** ◆ jaws +15; **Damage** 2d8+7 piercing
 
-**Melee** claw +15 (agile); **Damage** 2d6+7 slashing plus Grab plus Grab
+**Melee** ◆ claw +15 (agile); **Damage** 2d6+7 slashing plus Grab plus Grab
 
 **Sneak Attack** The polar bear's Strikes deal an additional 1d6 precision damage to flat-footed creatures.
 

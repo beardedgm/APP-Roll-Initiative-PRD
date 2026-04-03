@@ -5,9 +5,11 @@ uncommon, ce, gargantuan, acid, amphibious, dragon
 
 ---
 
-**Perception** +35
+**Perception** +35; darkvision, scent 60 feet (imprecise), true seeing
 
 **Languages** aklo, draconic, sylvan
+
+**Skills** Acrobatics +32, Athletics +38, Stealth +34
 
 **STR** +10, **DEX** +6, **CON** +8, **INT** -1, **WIS** +7, **CHA** +8
 
@@ -29,15 +31,19 @@ uncommon, ce, gargantuan, acid, amphibious, dragon
 
 ---
 
-Speed 35 feet, fly 100 feet, swim 80 feet
+Speed 35 feet, fly 100 feet, swim 80 feet, freedom of movement
 
-**Melee** jaws +38 (reach <30 feet>, magical); **Damage** 4d12+18 piercing plus tarn linnorm venom plus tarn linnorm venom
+**Melee** ◆ jaws +38 (reach <30 feet>, magical); **Damage** 4d12+18 piercing plus tarn linnorm venom plus tarn linnorm venom
 
-**Melee** claw +38 (reach <30 feet>, agile, magical); **Damage** 4d8+18 slashing
+**Melee** ◆ claw +38 (reach <30 feet>, agile, magical); **Damage** 4d8+18 slashing
 
-**Melee** tail +38 (reach <30 feet>, agile, magical); **Damage** 4d6+18 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tail +38 (reach <30 feet>, agile, magical); **Damage** 4d6+18 bludgeoning plus Improved Grab plus Improved Grab
 
 **Innate primal Spells** (DC 42)
+
+  **Constant (9th)** freedom of movement
+
+  **Constant (8th)** true seeing
 
 **Breath Weapon** ◆◆ (acid, evocation, poison, primal) The tarn linnorm can expel either a 120-foot line or a 60-foot cone of acid dealing 20d6 acid damage to creatures within the area (DC 44 basic Reflex save). The acid creates toxic fumes. At the beginning of the linnorm's next turn, those who failed the breath weapon's Reflex save must succeed at a DC 42 Fortitude save or gain sickened 4 from the poisonous fumes. A tarn linnorm can't use Breath Weapon or Overwhelming Breath again for 1d4 rounds.
 

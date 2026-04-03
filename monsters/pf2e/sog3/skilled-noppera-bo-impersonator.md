@@ -5,9 +5,11 @@ rare, ce, medium, aberration
 
 ---
 
-**Perception** +14
+**Perception** +14; no face
 
-**Languages** common
+**Languages** common; telepathy 30 feet
+
+**Skills** Acrobatics +14, Athletics +14, Deception +16, Intimidation +16
 
 **STR** +4, **DEX** +4, **CON** +4, **INT** +4, **WIS** +4, **CHA** +4
 
@@ -31,9 +33,9 @@ rare, ce, medium, aberration
 
 Speed 25 feet
 
-**Melee** false weapon +15; **Damage** 2d8+8 mental
+**Melee** ◆ false weapon +15; **Damage** 2d8+8 mental
 
-**Melee** false weapon +15; **Damage** 2d4+8 mental
+**Ranged** ◆ false weapon +15; **Damage** 2d4+8 mental
 
 **False Weapon** A noppera-bo impersonator carries a +1 striking weapon that looks identical to the favored weapon of the PC being impersonated. If the PC favors unarmed strikes, it appears as hand wraps. If the PC favors a ranged weapon, then the noppera-bo impersonator has no melee weapon and instead uses the ranged weapon rules above; otherwise, the noppera-bo impersonator has no ranged weapon. If the PCs favors no weapon, then the noppera-bo wields a club as its false weapon. This false weapon is only partially real and inflicts only mental damage when it hits; it gains none of the original weapon's traits or magical enhancements. If a noppera-bo impersonator's false weapon is broken, disarmed, or set down, it fades away. The noppera-bo impersonator can craft a replacement false weapon by spending 10 minutes to recreate one.
 

@@ -5,9 +5,11 @@ unique, ne, medium, human, humanoid, orc
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +12, Deception +12, Diplomacy +10, Intimidation +12, Society +7, Stealth +12, Thievery +12
 
 **STR** +3, **DEX** +4, **CON** +2, **INT** -1, **WIS** +1, **CHA** +2
 
@@ -25,9 +27,9 @@ unique, ne, medium, human, humanoid, orc
 
 Speed 25 feet
 
-**Melee** shortsword +14 (agile, finesse, versatile <S>); **Damage** 1d6+7 piercing
+**Melee** ◆ shortsword +14 (agile, finesse, versatile <S>); **Damage** 1d6+7 piercing
 
-**Melee** dagger +14 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
+**Ranged** ◆ dagger +14 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
 
 **Double Stab** ◆ **Frequency** {"unit":"round","number":1}; **Requirements** Ralso is wielding two piercing weapons; Ralso makes two Strikes against a single creature within reach, one Strike per weapon. These attacks count toward Ralso's multiple attack penalty, but the penalty doesn't increase until after both attacks.
 

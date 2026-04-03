@@ -9,6 +9,8 @@ rare, ln, small, kashrishi
 
 **Languages** common, kashrishi
 
+**Skills** Diplomacy +12, Nature +11, Occultism +10, Survival +9
+
 **STR** +0, **DEX** +2, **CON** +0, **INT** +2, **WIS** +3, **CHA** +4
 
 **Items** dagger
@@ -27,7 +29,7 @@ rare, ln, small, kashrishi
 
 Speed 25 feet
 
-**Melee** dagger +10 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
+**Melee** ◆ dagger +10 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
 
 **Spontaneous occult Spells** (DC 21), attack +13
 

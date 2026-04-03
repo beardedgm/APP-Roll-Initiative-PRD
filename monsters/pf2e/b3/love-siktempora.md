@@ -5,9 +5,11 @@ rare, ng, medium, siktempora, time
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision
 
-**Languages** aklo (can't speak any language)
+**Languages** aklo (can't speak any language); telepathy 500 feet (page 308)
+
+**Skills** Acrobatics +31, Diplomacy +33, Intimidation +31, Occultism +26, Performance +33, Dimension Of Time Lore +28
 
 **STR** +4, **DEX** +9, **CON** +5, **INT** +4, **WIS** +6, **CHA** +9
 
@@ -31,13 +33,15 @@ rare, ng, medium, siktempora, time
 
 ---
 
-Speed 50 feet
+Speed 50 feet, air walk
 
-**Melee** emotional bolt +31 (agile, range increment <80 feet>); **Damage** 3d10+10 piercing plus 1d10 mental and heartsong plus heartsong
+**Ranged** ◆ emotional bolt +31 (agile, range increment <80 feet>); **Damage** 3d10+10 piercing plus 1d10 mental and heartsong plus heartsong
 
 **Innate occult Spells** (DC 37)
 
-  **4th** dimension door
+  **Constant (8th)** air walk
+
+  **4th** dimension door (at will)
 
   **8th** blink
 

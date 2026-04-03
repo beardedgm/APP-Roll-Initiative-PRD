@@ -5,9 +5,11 @@ ce, large, amphibious, giant, humanoid
 
 ---
 
-**Perception** +16
+**Perception** +16; low-light vision
 
 **Languages** aklo, common, jotun
+
+**Skills** Athletics +18, Intimidation +15, Religion +17
 
 **STR** +6, **DEX** +3, **CON** +4, **INT** +0, **WIS** +3, **CHA** +1
 
@@ -27,11 +29,11 @@ ce, large, amphibious, giant, humanoid
 
 Speed 35 feet, swim 20 feet
 
-**Melee** gaff +20 (magical, reach <10 feet>, trip, versatile <P>); **Damage** 2d6+14 bludgeoning
+**Melee** ◆ gaff +20 (magical, reach <10 feet>, trip, versatile <P>); **Damage** 2d6+14 bludgeoning
 
-**Melee** fist +20 (agile, reach <10 feet>); **Damage** 2d6+14 bludgeoning
+**Melee** ◆ fist +20 (agile, reach <10 feet>); **Damage** 2d6+14 bludgeoning
 
-**Melee** rock +20 (brutal, range increment <120 feet>); **Damage** 2d6+14 bludgeoning
+**Ranged** ◆ rock +20 (brutal, range increment <120 feet>); **Damage** 2d6+14 bludgeoning
 
 **Innate occult Spells** (DC 23)
 

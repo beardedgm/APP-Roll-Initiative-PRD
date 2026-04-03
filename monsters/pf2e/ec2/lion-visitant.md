@@ -5,7 +5,9 @@ ne, large, animal, undead
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision, lifesense 60 feet (imprecise)
+
+**Skills** Acrobatics +13, Athletics +13, Stealth +13
 
 **STR** +6, **DEX** +4, **CON** +2, **INT** -4, **WIS** +2, **CHA** +0
 
@@ -25,9 +27,9 @@ ne, large, animal, undead
 
 Speed 30 feet
 
-**Melee** jaws +15; **Damage** 2d6+8 piercing plus Grab plus Grab
+**Melee** ◆ jaws +15; **Damage** 2d6+8 piercing plus Grab plus Grab
 
-**Melee** claw +15 (agile); **Damage** 2d4+8 slashing
+**Melee** ◆ claw +15 (agile); **Damage** 2d4+8 slashing
 
 **Pack Attack** The visitant deals an extra 1d4 damage to any creature that's within reach of at least two of the visitant's allies.
 

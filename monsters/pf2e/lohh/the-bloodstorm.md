@@ -5,9 +5,11 @@ unique, ne, huge, demon, swarm
 
 ---
 
-**Perception** +25
+**Perception** +25; bloodsense 120 feet (precise), {@ability tremorsense} 60 feet (precise)
 
 **Languages** abyssal (can't speak any language)
+
+**Skills** Athletics +24, Stealth +28
 
 **STR** +2, **DEX** +6, **CON** +4, **INT** +2, **WIS** +5, **CHA** -2
 

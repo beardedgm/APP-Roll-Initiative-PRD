@@ -5,7 +5,9 @@ ne, large, mindless, swarm, undead
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
+
+**Skills** Acrobatics +19
 
 **STR** -3, **DEX** +3, **CON** +4, **INT** -5, **WIS** +2, **CHA** +4
 

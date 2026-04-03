@@ -5,9 +5,11 @@ le, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common
+
+**Skills** Society +10
 
 **STR** -4, **DEX** +4, **CON** +3, **INT** +0, **WIS** +1, **CHA** +0
 
@@ -21,7 +23,7 @@ le, medium, incorporeal, spirit, undead
 
 **Immunities** death effects, disease
 
-**Resistances** all damage 2
+**Resistances** all damage 2 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Delay Condition** The binumir's dual spirit takes longer to be affected by detrimental effects. When the binumir is the target of an effect that imparts the confused, controlled, fascinated, frightened, sickened, slowed, or stunned condition, the condition is automatically suppressed until the end of the binumir's next turn.
 
@@ -29,7 +31,7 @@ le, medium, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ghostly hand +12 (agile, finesse, magical); **Damage** 1d8+4 negative
+**Melee** ◆ ghostly hand +12 (agile, finesse, magical); **Damage** 1d8+4 negative
 
 **Agonizing Wail** ◆◆ (auditory, concentrate) The binumir unleashes a distressing cry that fills others with wrenching sadness. Creatures within 30 feet must attempt a DC 17 Will save. **Critical Success** The target is unaffected and is temporarily immune to Agonizing Wail for 1 minute.
 **Success** The target can't use reactions for 1 round.

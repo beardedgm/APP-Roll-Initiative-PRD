@@ -5,9 +5,11 @@ uncommon, ln, tiny, ooze
 
 ---
 
-**Perception** +12
+**Perception** +12; mindsense (precise), no vision
 
-**Languages** common
+**Languages** common; telepathy 100 feet
+
+**Skills** Acrobatics +13, Crafting +14, Deception +11, Intimidation +11, Medicine +10, Occultism +14, Society +14, Stealth +13, Thievery +13
 
 **STR** +2, **DEX** +4, **CON** +2, **INT** +5, **WIS** +3, **CHA** +2
 
@@ -41,14 +43,16 @@ uncommon, ln, tiny, ooze
 
 Speed fly 40 feet
 
-**Melee** telekinetic slam +15 (evocation, force, occult, range increment <20 feet>); **Damage** 2d12 force plus Improved Push
+**Ranged** ◆ telekinetic slam +15 (evocation, force, occult, range increment <20 feet>); **Damage** 2d12 force plus Improved Push
 
 **Innate occult Spells** (DC 22), attack +14
 
+  **Constant (1st)** mindlink
+
   **Cantrips (2nd)** mage hand, telekinetic projectile
 
-  **1st** command, mending
+  **1st** command, mending (×3)
 
-  **2nd** telekinetic maneuver
+  **2nd** telekinetic maneuver (×2)
 
 **Anticipate** ◆ The mindmoppet attempts to anticipate its opponent's actions. Until the end of its next turn, the mindmoppet gains one reaction.

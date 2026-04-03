@@ -5,13 +5,15 @@ unique, ne, small, halfling, humanoid
 
 ---
 
-**Perception** +19
+**Perception** +19; keen eyes
 
 **Languages** common, dwarven, halfling, mwangi
 
+**Skills** Acrobatics +19, Arcana +16, Crafting +16, Deception +22, Diplomacy +20, Intimidation +20, Occultism +16, Society +18, Stealth +21, Thievery +19
+
 **STR** +0, **DEX** +4, **CON** +1, **INT** +1, **WIS** +3, **CHA** +5
 
-**Items** {@item dagger||daggers} (3), {@item slime whip|Sli}, {@runeItem studded leather||+1 armor potency|}
+**Items** daggers (3), slime whip|Sli, 
 
 **Keen Eyes** Paga gains a +2 circumstance bonus when using the Seek action to find hidden or undetected creatures within 30 feet of her. When she targets an opponent that is concealed from her or hidden, she reduces the DC of the flat check to 3 for a concealed target or 9 for a hidden one.
 
@@ -29,11 +31,11 @@ unique, ne, small, halfling, humanoid
 
 Speed 25 feet
 
-**Melee** slime whip +21 (disarm, finesse, reach <10 feet>, trip); **Damage** 2d4+10 slashing
+**Melee** ◆ slime whip +21 (disarm, finesse, reach <10 feet>, trip); **Damage** 2d4+10 slashing
 
-**Melee** dagger +20 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+10 piercing
+**Melee** ◆ dagger +20 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+10 piercing
 
-**Melee** dagger +20 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+10 piercing
+**Ranged** ◆ dagger +20 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+10 piercing
 
 **Spontaneous occult Spells** (DC 28), attack +21
 

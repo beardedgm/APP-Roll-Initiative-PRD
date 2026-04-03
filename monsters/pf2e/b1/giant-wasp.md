@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
+
+**Skills** Acrobatics +11, Athletics +9
 
 **STR** +4, **DEX** +4, **CON** +4, **INT** -5, **WIS** +1, **CHA** +1
 
@@ -21,7 +23,7 @@ n, large, animal
 
 Speed 20 feet, fly 40 feet
 
-**Melee** stinger +12 (poison); **Damage** 1d12+4 piercing plus giant wasp venom plus giant wasp venom
+**Melee** ◆ stinger +12 (poison); **Damage** 1d12+4 piercing plus giant wasp venom plus giant wasp venom
 
 **Implant Eggs** ◆ The giant wasp lays eggs in an adjacent creature that is paralyzed or unconscious, exposing it to the wasp larva disease.
 

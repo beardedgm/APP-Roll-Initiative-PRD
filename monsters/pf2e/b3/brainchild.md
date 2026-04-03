@@ -5,9 +5,11 @@ rare, ce, large, illusion, mental
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
-**Languages** universal language
+**Languages** universal language; telepathy 100 feet
+
+**Skills** Deception +22, Intimidation +24, Performance +22, Society +21, Stealth +20
 
 **STR** +4, **DEX** +5, **CON** +4, **INT** +2, **WIS** +3, **CHA** +7
 
@@ -39,14 +41,14 @@ rare, ce, large, illusion, mental
 
 Speed 30 feet, fly 30 feet
 
-**Melee** illusory weapon +24 (illusion, mental, occult); **Damage** 4d6+10 mental plus urban legend plus urban legend
+**Melee** ◆ illusory weapon +24 (illusion, mental, occult); **Damage** 4d6+10 mental plus urban legend plus urban legend
 
-**Melee** illusory weapon +24 (illusion, mental, occult, range <100 feet>); **Damage** 4d6+6 mental plus urban legend plus urban legend
+**Ranged** ◆ illusory weapon +24 (illusion, mental, occult, range <100 feet>); **Damage** 4d6+6 mental plus urban legend plus urban legend
 
 **Innate occult Spells** (DC 30)
 
   **Cantrips (6th)** ghost sound, message
 
-  **4th** dimension door
+  **4th** dimension door (×2)
 
-  **5th** phantasmal killer
+  **5th** phantasmal killer (×3)

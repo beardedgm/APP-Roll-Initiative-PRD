@@ -9,6 +9,8 @@ rare, le, medium, human, humanoid
 
 **Languages** common, vudrani
 
+**Skills** Acrobatics +12, Athletics +10, Deception +11, Thievery +12
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** +1
 
 ---
@@ -25,9 +27,9 @@ rare, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** shortsword +14 (agile, finesse, versatile <S>); **Damage** 1d6+5 piercing
+**Melee** ◆ shortsword +14 (agile, finesse, versatile <S>); **Damage** 1d6+5 piercing
 
-**Melee** hand crossbow +14 (range <60 feet>, reload <1>); **Damage** 1d6 piercing
+**Ranged** ◆ hand crossbow +14 (range <60 feet>, reload <1>); **Damage** 1d6 piercing
 
 **Poison Weapon** ◆ The rogue applies one of their black adder venom poisons to their wielded weapon. If their next attack with that weapon before the end of their next turn hits and deals damage, the target is afflicted with the poison.
 

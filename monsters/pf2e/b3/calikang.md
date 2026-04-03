@@ -5,9 +5,11 @@ uncommon, ln, large, humanoid
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision, true seeing
 
 **Languages** common, jotun
+
+**Skills** Athletics +25, Intimidation +24
 
 **STR** +7, **DEX** +4, **CON** +5, **INT** -2, **WIS** +2, **CHA** +4
 
@@ -31,13 +33,15 @@ uncommon, ln, large, humanoid
 
 Speed 35 feet
 
-**Melee** longsword +28 (magical, reach <10 feet>, versatile <P>); **Damage** 2d8+15 slashing
+**Melee** ◆ longsword +28 (magical, reach <10 feet>, versatile <P>); **Damage** 2d8+15 slashing
 
-**Melee** fist +25 (agile, nonlethal, reach <10 feet>); **Damage** 3d8+13 bludgeoning
+**Melee** ◆ fist +25 (agile, nonlethal, reach <10 feet>); **Damage** 3d8+13 bludgeoning
 
 **Innate arcane Spells** (DC 28)
 
-  **1st** magic weapon
+  **Constant (6th)** true seeing
+
+  **1st** magic weapon (at will)
 
   **6th** chain lightning
 

@@ -5,7 +5,9 @@ uncommon, n, large, construct, mindless
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
+
+**Skills** Athletics +15
 
 **STR** +6, **DEX** +3, **CON** +5, **INT** -5, **WIS** +0, **CHA** +0
 
@@ -27,9 +29,9 @@ uncommon, n, large, construct, mindless
 
 Speed 25 feet
 
-**Melee** blade +15 (agile, sweep); **Damage** 2d4+8 slashing
+**Melee** ◆ blade +15 (agile, sweep); **Damage** 2d4+8 slashing
 
-**Melee** cudgel +15 (forceful, reach <10 feet>); **Damage** 2d8+8 bludgeoning
+**Melee** ◆ cudgel +15 (forceful, reach <10 feet>); **Damage** 2d8+8 bludgeoning
 
 **Flay** ◆◆ The skinstitch makes a blade Strike against an animal or humanoid. On a success, the skinstitch slices a long strip of flesh from the target; if the skinstitch dealt damage, it deals an additional 1d6 persistent bleed damage.
 

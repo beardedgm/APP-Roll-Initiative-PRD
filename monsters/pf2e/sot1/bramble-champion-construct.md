@@ -5,7 +5,9 @@ rare, n, large, construct, mindless
 
 ---
 
-**Perception** +10
+**Perception** +10; low-light vision
+
+**Skills** Athletics +9
 
 **STR** +4, **DEX** +3, **CON** +1, **INT** -5, **WIS** +1, **CHA** -5
 
@@ -31,4 +33,4 @@ rare, n, large, construct, mindless
 
 Speed 20 feet
 
-**Melee** wooden maul +12 (nonlethal, reach <10 feet>, shove); **Damage** 1d12+4 bludgeoning
+**Melee** ◆ wooden maul +12 (nonlethal, reach <10 feet>, shove); **Damage** 1d12+4 bludgeoning

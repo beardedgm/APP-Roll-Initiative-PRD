@@ -9,6 +9,8 @@ uncommon, ln, medium, human, humanoid
 
 **Languages** elven, goblin, orcish, taldane, tien
 
+**Skills** Acrobatics +27, Athletics +22, Deception +24, Society +23, Stealth +24, Goka Lore +23
+
 **STR** +3, **DEX** +5, **CON** +3, **INT** +4, **WIS** +0, **CHA** +3
 
 **Items** +1 striking butterfly swords (2), +1 resilient studded leather
@@ -27,7 +29,7 @@ uncommon, ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** butterfly sword +25 (agile, disarm, finesse, magical, parry, twin); **Damage** 2d4+15 slashing
+**Melee** ◆ butterfly sword +25 (agile, disarm, finesse, magical, parry, twin); **Damage** 2d4+15 slashing
 
 **Butterfly's Kiss** The warrior can make nonlethal Strikes with a butterfly sword without taking a penalty.
 

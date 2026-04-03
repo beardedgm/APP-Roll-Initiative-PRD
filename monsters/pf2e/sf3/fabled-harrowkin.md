@@ -5,9 +5,11 @@ rare, n, medium, construct
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +30, Athletics +32, Diplomacy +32, Occultism +29
 
 **STR** +7, **DEX** +5, **CON** +7, **INT** +2, **WIS** +4, **CHA** +9
 
@@ -35,15 +37,15 @@ rare, n, medium, construct
 
 Speed 25 feet, fly 40 feet
 
-**Melee** greatsword +32 (magical, versatile <P>); **Damage** 3d12+15 slashing
+**Melee** ◆ greatsword +32 (magical, versatile <P>); **Damage** 3d12+15 slashing
 
-**Melee** harrow card +30 (agile, magical, range increment <20 feet>, thrown); **Damage** 3d6+15 piercing
+**Ranged** ◆ harrow card +30 (agile, magical, range increment <20 feet>, thrown); **Damage** 3d6+15 piercing
 
 **Innate occult Spells** (DC 35), attack +27
 
   **Cantrips (8th)** daze, detect magic, ghost sound, telekinetic projectile
 
-  **1st** ill omen
+  **1st** ill omen (at will)
 
   **2nd** augury
 

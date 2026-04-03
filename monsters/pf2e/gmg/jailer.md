@@ -9,6 +9,8 @@ ln, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +11, Diplomacy +5, Intimidation +7
+
 **STR** +4, **DEX** +3, **CON** +1, **INT** +0, **WIS** +2, **CHA** +0
 
 ---
@@ -25,11 +27,11 @@ ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** club +11; **Damage** 1d6+8 bludgeoning
+**Melee** ◆ club +11; **Damage** 1d6+8 bludgeoning
 
-**Melee** crossbow +10 (range increment <120 feet>, reload <1>); **Damage** 1d8+4 piercing
+**Ranged** ◆ crossbow +10 (range increment <120 feet>, reload <1>); **Damage** 1d8+4 piercing
 
-**Melee** club +10 (thrown <10 feet>); **Damage** 1d6+6 bludgeoning
+**Melee** ◆ club +10 (thrown <10 feet>); **Damage** 1d6+6 bludgeoning
 
 **Efficient Capture** ◆◆◆ (attack, manipulate) **Requirements** The jailer has manacles in hand and is adjacent to a creature; The jailer attempts to bind the creature's wrists or ankles with the manacles. If the jailer succeeds at an attack roll with a +9 modifier against the target's AC, they apply the manacles.
 

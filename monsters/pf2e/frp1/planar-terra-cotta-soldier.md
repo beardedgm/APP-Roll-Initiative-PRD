@@ -9,6 +9,8 @@ rare, n, medium, construct
 
 **Languages** tien (can't speak any language)
 
+**Skills** Athletics +23, Intimidation +23
+
 **STR** +7, **DEX** +5, **CON** +7, **INT** +2, **WIS** +3, **CHA** +4
 
 ---
@@ -31,9 +33,9 @@ rare, n, medium, construct
 
 Speed 25 feet
 
-**Melee** longsword +24 (versatile <P>); **Damage** 3d8+15 slashing
+**Melee** ◆ longsword +24 (versatile <P>); **Damage** 3d8+15 slashing
 
-**Melee** composite shortbow +23 (deadly <d10>, propulsive, range increment <60 feet>); **Damage** 3d6+13 piercing
+**Ranged** ◆ composite shortbow +23 (deadly <d10>, propulsive, range increment <60 feet>); **Damage** 3d6+13 piercing
 
 **Planar Step** ◆ (conjuration, teleportation) The planar terra-cotta soldier momentarily moves beneath the.
 

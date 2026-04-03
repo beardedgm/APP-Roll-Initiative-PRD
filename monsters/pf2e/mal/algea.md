@@ -5,9 +5,11 @@ n, large, monitor, psychopomp, swarm
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision, lifesense  [object Object] feet, see magic
 
 **Languages** abyssal, aklo, celestial, infernal, requian
+
+**Skills** Acrobatics +22, Boneyard Lore +21, Occultism +21, Religion +20, Stealth +22
 
 **STR** -1, **DEX** +7, **CON** +5, **INT** +2, **WIS** +5, **CHA** +3
 

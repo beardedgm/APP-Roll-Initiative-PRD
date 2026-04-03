@@ -5,9 +5,11 @@ ce, large, cold, dragon
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, scent 30 feet (imprecise), snow vision
 
 **Languages** draconic
+
+**Skills** Acrobatics +15, Athletics +17, Intimidation +14, Stealth +15
 
 **STR** +6, **DEX** +2, **CON** +4, **INT** -1, **WIS** +3, **CHA** +1
 
@@ -31,9 +33,9 @@ ce, large, cold, dragon
 
 Speed 20 feet, fly 50 feet, burrow 20 feet, ice climb 20 feet
 
-**Melee** fangs +17; **Damage** 2d12+8 piercing plus 1d6 cold
+**Melee** ◆ fangs +17; **Damage** 2d12+8 piercing plus 1d6 cold
 
-**Melee** tail +17 (reach <10 feet>); **Damage** 2d10+8 bludgeoning
+**Melee** ◆ tail +17 (reach <10 feet>); **Damage** 2d10+8 bludgeoning
 
 **Draconic Frenzy** ◆◆ The frost drake makes two gangs Strikes and one tail Strike in any order.
 

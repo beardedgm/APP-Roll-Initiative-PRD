@@ -5,9 +5,11 @@ le, medium, humanoid, skelm
 
 ---
 
-**Perception** +15
+**Perception** +15; scent 30 feet (imprecise)
 
-**Languages** aklo, common
+**Languages** aklo, common; tongues
+
+**Skills** Athletics +18, Deception +21, Diplomacy +17, Intimidation +17, Occultism +16, Society +16, Stealth +16, Thievery +16
 
 **STR** +6, **DEX** +4, **CON** +3, **INT** +4, **WIS** +3, **CHA** +5
 
@@ -32,17 +34,19 @@ le, medium, humanoid, skelm
 
 Speed 25 feet
 
-**Melee** fist +20 (agile, magical); **Damage** 2d8+9 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +20 (agile, magical); **Damage** 2d8+9 bludgeoning plus Grab plus Grab
 
-**Melee** antler +20 (magical); **Damage** 2d12+9 piercing plus Knockdown (page 305) plus Knockdown
+**Melee** ◆ antler +20 (magical); **Damage** 2d12+9 piercing plus Knockdown (page 305) plus Knockdown
 
 **Innate occult Spells** (DC 26)
 
+  **Constant (5th)** tongues
+
   **Cantrips (5th)** daze, message
 
-  **2nd** invisibility
+  **2nd** invisibility (×3)
 
-  **4th** clairaudience, enthrall, outcast's curse, paranoia, private sanctum, suggestion
+  **4th** clairaudience, enthrall, outcast's curse, paranoia (at will), private sanctum, suggestion
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The street skelm can take on the appearance of any Medium male humanoid (page 304). This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.
 

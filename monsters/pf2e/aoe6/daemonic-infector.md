@@ -5,9 +5,11 @@ unique, ne, medium, daemon, human, humanoid
 
 ---
 
-**Perception** +40
+**Perception** +40; greater darkvision, true seeing
 
 **Languages** common, daemonic, infernal, osiriani, undercommon
+
+**Skills** Acrobatics +39, Crafting +39, Deception +40, Diplomacy +40, Intimidation +40, Religion +42, Society +36, Stealth +37, Thievery +35, Norgorber Lore +39
 
 **STR** +6, **DEX** +9, **CON** +10, **INT** +7, **WIS** +10, **CHA** +8
 
@@ -31,7 +33,7 @@ unique, ne, medium, daemon, human, humanoid
 
 Speed 25 feet, fly 25 feet
 
-**Melee** claw +36 (agile, evil, finesse, magical); **Damage** 4d8+14 slashing plus 1d6 evil
+**Melee** ◆ claw +36 (agile, evil, finesse, magical); **Damage** 4d8+14 slashing plus 1d6 evil
 
 **Prepared divine Spells** (DC 46), attack +38
 
@@ -55,9 +57,13 @@ Speed 25 feet, fly 25 feet
 
   **9th** telepathic demand
 
-  **10th** harm, miracle
+  **10th** harm (×9), miracle
 
 **Innate divine Spells** (DC 46)
+
+  **Constant (6th)** true seeing
+
+  **Constant (4th)** fly
 
 **Cleric Domain Spells** (DC 46)
 

@@ -5,9 +5,11 @@ uncommon, medium, incorporeal, undead, unholy, wraith
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, lifesense 60 feet
 
 **Languages** common, necril
+
+**Skills** Acrobatics +19, Intimidation +21, Stealth +19
 
 **STR** -5, **DEX** +6, **CON** +3, **INT** +3, **WIS** +4, **CHA** +6
 
@@ -21,7 +23,7 @@ uncommon, medium, incorporeal, undead, unholy, wraith
 
 **Immunities** acid, death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all 10
+**Resistances** all 10 (except force, ghost touch|PC1, spirit, or vitality; double resistance vs. non-magical)
 
 **Aggravating Aura** ◈ (acid, aura, mental) 10 feet. Acidic vapor surrounds the caustic wraith, making other creatures' bodies feel raw and especially sensitive to pain. A creature that begins in the area must succeed at a DC 28 Will save or gain weakness 3 to all damage for 1 round (weakness 5 on a critical failure).
 
@@ -29,7 +31,7 @@ uncommon, medium, incorporeal, undead, unholy, wraith
 
 Speed fly 40 feet
 
-**Melee** caustic touch +21 (acid, finesse, reach <10 feet>, void); **Damage** 2d8 void plus 1d8 acid plus drain life
+**Melee** ◆ caustic touch +21 (acid, finesse, reach <10 feet>, void); **Damage** 2d8 void plus 1d8 acid plus drain life
 
 **Dissolve From the Inside** ◆◆ The caustic wraith reaches into the body of a creature within 10 feet, melting its organs and inflicting pain. The target takes 4d8 acid damage with a DC 28 basic Fortitude save. On a critical failure, the creature is also sickened 2.
 

@@ -5,9 +5,11 @@ cn, tiny, fey, sprite
 
 ---
 
-**Perception** +7
+**Perception** +7; low-light vision
 
 **Languages** common, sylvan
+
+**Skills** Acrobatics +7, Athletics +2, Performance +7, Stealth +7
 
 **STR** -2, **DEX** +4, **CON** +1, **INT** +0, **WIS** +2, **CHA** +4
 
@@ -23,9 +25,9 @@ cn, tiny, fey, sprite
 
 Speed 25 feet, fly 30 feet
 
-**Melee** fist +9 (agile, finesse, magical); **Damage** 1d4 –2 bludgeoning
+**Melee** ◆ fist +9 (agile, finesse, magical); **Damage** 1d4 –2 bludgeoning
 
-**Melee** dissonant note +9 (evocation, magical, range <30 feet>, sonic); **Damage** 1d8 sonic
+**Ranged** ◆ dissonant note +9 (evocation, magical, range <30 feet>, sonic); **Damage** 1d8 sonic
 
 **Innate primal Spells** (DC 18)
 

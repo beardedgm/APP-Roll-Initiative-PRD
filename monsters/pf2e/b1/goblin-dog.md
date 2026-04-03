@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +6, Stealth +7
 
 **STR** +3, **DEX** +2, **CON** +2, **INT** -4, **WIS** +1, **CHA** -1
 
@@ -27,7 +29,7 @@ n, medium, animal
 
 Speed 40 feet
 
-**Melee** jaws +9; **Damage** 1d6+3 piercing plus goblin pox plus goblin pox
+**Melee** ◆ jaws +9; **Damage** 1d6+3 piercing plus goblin pox plus goblin pox
 
 **Goblin Pox** (disease)
 

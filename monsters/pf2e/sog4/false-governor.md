@@ -5,9 +5,11 @@ unique, ce, medium, fiend, nindoru
 
 ---
 
-**Perception** +22
+**Perception** +22; {@ability darkvision}
 
 **Languages** aklo, common, necril
+
+**Skills** Deception +25, Diplomacy +23, Occultism +22, Society +22, Stealth +24
 
 **STR** +7, **DEX** +6, **CON** +4, **INT** +4, **WIS** +4, **CHA** +7
 
@@ -31,7 +33,7 @@ unique, ce, medium, fiend, nindoru
 
 Speed 25 feet
 
-**Melee** claws +24 (agile, finesse, magical); **Damage** 3d4+14 slashing plus 1d6 mental
+**Melee** ◆ claws +24 (agile, finesse, magical); **Damage** 3d4+14 slashing plus 1d6 mental
 
 **Innate occult Spells** (DC 32), attack +24
 

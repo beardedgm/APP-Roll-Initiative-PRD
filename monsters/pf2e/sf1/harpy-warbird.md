@@ -5,9 +5,11 @@ rare, ce, medium, humanoid
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +21, Athletics +20, Intimidation +22, Performance +24
 
 **STR** +5, **DEX** +5, **CON** +3, **INT** +0, **WIS** +3, **CHA** +5
 
@@ -27,11 +29,11 @@ rare, ce, medium, humanoid
 
 Speed 20 feet, fly 60 feet
 
-**Melee** halberd +23 (magical, reach, versatile <S>); **Damage** 2d10+11 piercing
+**Melee** ◆ halberd +23 (magical, reach, versatile <S>); **Damage** 2d10+11 piercing
 
-**Melee** talon +22 (agile, finesse); **Damage** 2d4+11 slashing
+**Melee** ◆ talon +22 (agile, finesse); **Damage** 2d4+11 slashing
 
-**Melee** shortbow +23 (deadly <d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+11 piercing
+**Ranged** ◆ shortbow +23 (deadly <d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+11 piercing
 
 **Captivating Song** ◆ (auditory, concentrate, enchantment, incapacitation, mental, primal) As harpy, but DC 29.
 

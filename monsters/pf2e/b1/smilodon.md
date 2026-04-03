@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +14
+**Perception** +14; low-light vision, scent 60 feet (imprecise)
+
+**Skills** Acrobatics +12, Athletics +16, Stealth +12
 
 **STR** +6, **DEX** +2, **CON** +3, **INT** -4, **WIS** +2, **CHA** +0
 
@@ -21,9 +23,9 @@ n, large, animal
 
 Speed 30 feet
 
-**Melee** fangs +16; **Damage** 2d10+6 piercing plus Grab plus Grab
+**Melee** ◆ fangs +16; **Damage** 2d10+6 piercing plus Grab plus Grab
 
-**Melee** claw +16 (agile); **Damage** 2d8+6 slashing plus
+**Melee** ◆ claw +16 (agile); **Damage** 2d8+6 slashing plus
 
 **Grab**
 

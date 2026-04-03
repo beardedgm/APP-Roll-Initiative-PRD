@@ -5,9 +5,11 @@ uncommon, le, medium, devil, fiend
 
 ---
 
-**Perception** +22
+**Perception** +22; greater darkvision
 
-**Languages** celestial, common, draconic, infernal, terran
+**Languages** celestial, common, draconic, infernal, terran; telepathy 100 feet
+
+**Skills** Athletics +25, Crafting +22, Deception +21, Intimidation +23, Religion +22, Stealth +23, Thievery +25
 
 **STR** +7, **DEX** +5, **CON** +6, **INT** +4, **WIS** +4, **CHA** +5
 
@@ -21,7 +23,7 @@ uncommon, le, medium, devil, fiend
 
 **Immunities** fire
 
-**Resistances** physical 10
+**Resistances** physical 10 (except silver)
 
 **Weaknesses** good 10
 
@@ -33,17 +35,17 @@ uncommon, le, medium, devil, fiend
 
 Speed 25 feet, fly 40 feet
 
-**Melee** horn +25 (cold iron, evil, magical, shove); **Damage** 3d8+13 bludgeoning plus 1d6 evil
+**Melee** ◆ horn +25 (cold iron, evil, magical, shove); **Damage** 3d8+13 bludgeoning plus 1d6 evil
 
-**Melee** claw +25 (agile, cold iron, evil, magical); **Damage** 3d4+13 slashing plus 1d6 evil and ferrugon tetanus
+**Melee** ◆ claw +25 (agile, cold iron, evil, magical); **Damage** 3d4+13 slashing plus 1d6 evil and ferrugon tetanus
 
-**Melee** iron feather +23 (cold iron, evil, magical, range increment <40 feet>); **Damage** 3d4+13 piercing plus ferrugon tetanus
+**Ranged** ◆ iron feather +23 (cold iron, evil, magical, range increment <40 feet>); **Damage** 3d4+13 piercing plus ferrugon tetanus
 
 **Innate divine Spells** (DC 32), attack +24
 
-  **4th** dimension door, rusting grasp, suggestion
+  **4th** dimension door (at will), rusting grasp (×3), suggestion
 
-  **5th** creation, dimension door, shatter, wall of stone
+  **5th** creation, dimension door, shatter, wall of stone (×3)
 
   **6th** flesh to stone
 

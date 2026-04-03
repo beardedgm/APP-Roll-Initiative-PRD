@@ -5,9 +5,11 @@ n, medium, earth, elemental, water
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** terran
+
+**Skills** Athletics +8, Stealth +6
 
 **STR** +4, **DEX** +0, **CON** +3, **INT** -2, **WIS** +3, **CHA** +0
 
@@ -23,7 +25,7 @@ n, medium, earth, elemental, water
 
 **Immunities** bleed, poison, critical hits, paralyzed, sleep
 
-**Resistances** acid 3, physical 3
+**Resistances** acid 3, physical 3 (except bludgeoning)
 
 **Weaknesses** fire 5
 
@@ -33,7 +35,7 @@ n, medium, earth, elemental, water
 
 Speed 20 feet, swim 20 feet
 
-**Melee** fist +10 (agile); **Damage** 1d8+4 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +10 (agile); **Damage** 1d8+4 bludgeoning plus Grab plus Grab
 
 **Constrict** ◆ 1d8+2 bludgeoning, DC 18
 

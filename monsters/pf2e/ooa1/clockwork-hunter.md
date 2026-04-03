@@ -5,7 +5,9 @@ uncommon, n, small, clockwork, construct, mindless
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
+
+**Skills** Athletics +4, Stealth +8
 
 **STR** +0, **DEX** +4, **CON** +0, **INT** -5, **WIS** +3, **CHA** -5
 
@@ -29,9 +31,9 @@ uncommon, n, small, clockwork, construct, mindless
 
 Speed 25 feet, climb 25 feet
 
-**Melee** leg +8 (agile, finesse); **Damage** 1d4 bludgeoning
+**Melee** ◆ leg +8 (agile, finesse); **Damage** 1d4 bludgeoning
 
-**Melee** crossbow bolt launcher +8 (range <60 feet>, reload <1>); **Damage** 1d6 piercing
+**Ranged** ◆ crossbow bolt launcher +8 (range <60 feet>, reload <1>); **Damage** 1d6 piercing
 
 **Salvage Ammunition** ◆◆ The clockwork hunter gathers up any unattended crossbow bolts within reach and reloads its bolt launcher. The hunter restocks its supply of bolts, up to 10 bolts maximum.
 

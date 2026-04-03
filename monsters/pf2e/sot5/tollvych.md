@@ -5,9 +5,11 @@ unique, le, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision
 
 **Languages** common, infernal, taldane
+
+**Skills** Academia Lore +27, Arcana +29, Intimidation +27, Stealth +29
 
 **STR** -5, **DEX** +4, **CON** +0, **INT** +6, **WIS** +5, **CHA** +6
 
@@ -21,21 +23,21 @@ unique, le, medium, ghost, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 15
+**Resistances** all damage 15 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 ---
 
 Speed fly 25 feet
 
-**Melee** ghostly hand +28 (agile, finesse, magical); **Damage** 3d12+10 negative
+**Melee** ◆ ghostly hand +28 (agile, finesse, magical); **Damage** 3d12+10 negative
 
 **Innate arcane Spells** (DC 36), attack +28
 
   **Cantrips (8th)** detect magic, ghost sound, mage hand, prestidigitation
 
-  **1st** ray of enfeeblement
+  **1st** ray of enfeeblement (×3)
 
-  **2nd** telekinetic maneuver
+  **2nd** telekinetic maneuver (×2)
 
   **3rd** blindness, nondetection
 

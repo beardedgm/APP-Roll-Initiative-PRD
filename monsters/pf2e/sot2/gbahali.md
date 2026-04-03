@@ -5,7 +5,9 @@ uncommon, n, huge, beast
 
 ---
 
-**Perception** +17
+**Perception** +17; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +20, Stealth +17, Survival +17
 
 **STR** +7, **DEX** +4, **CON** +5, **INT** -3, **WIS** +4, **CHA** -2
 
@@ -25,13 +27,13 @@ uncommon, n, huge, beast
 
 ---
 
-Speed 40 feet, swim 30 feet
+Speed 40 feet, swim 30 feet, powerful jumper
 
-**Melee** jaws +21 (deadly <d12>, reach <10 feet>); **Damage** 2d10+13 piercing plus Grab plus Grab
+**Melee** ◆ jaws +21 (deadly <d12>, reach <10 feet>); **Damage** 2d10+13 piercing plus Grab plus Grab
 
-**Melee** claw +21 (agile, reach <10 feet>); **Damage** 2d6+13 slashing
+**Melee** ◆ claw +21 (agile, reach <10 feet>); **Damage** 2d6+13 slashing
 
-**Melee** tail +21 (backswing, reach <15 feet>); **Damage** 2d10+13 bludgeoning
+**Melee** ◆ tail +21 (backswing, reach <15 feet>); **Damage** 2d10+13 bludgeoning
 
 **Aquatic Ambush** ◆ 40 feet
 

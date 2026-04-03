@@ -5,9 +5,11 @@ ng, small, angel, celestial
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Acrobatics +12, Diplomacy +15, Performance +17, Religion +14
 
 **STR** +1, **DEX** +4, **CON** +2, **INT** +3, **WIS** +4, **CHA** +5
 
@@ -29,19 +31,21 @@ ng, small, angel, celestial
 
 Speed 30 feet, fly 40 feet
 
-**Melee** fist +14 (agile, finesse, good, magical); **Damage** 3d6+1 bludgeoning plus 1d6 good
+**Melee** ◆ fist +14 (agile, finesse, good, magical); **Damage** 3d6+1 bludgeoning plus 1d6 good
 
-**Melee** piercing hymn +17 (good, magical, range <90 feet>, sonic); **Damage** 4d6 sonic damage plus 1d6 good and deafening aria plus deafening aria
+**Ranged** ◆ piercing hymn +17 (good, magical, range <90 feet>, sonic); **Damage** 4d6 sonic damage plus 1d6 good and deafening aria plus deafening aria
 
 **Innate divine Spells** (DC 23), attack +13
 
+  **Constant (5th)** tongues
+
   **Cantrips (3rd)** ghost sound, inspire competence, inspire courage
 
-  **1st** counter performance
+  **1st** counter performance (at will)
 
-  **2nd** invisibility, sound burst
+  **2nd** invisibility (at will), sound burst (at will)
 
-  **3rd** heal, remove curse, remove disease, remove fear, sound burst
+  **3rd** heal, remove curse, remove disease, remove fear (at will), sound burst
 
 **Deafening Aria** On a critical hit with piercing hymn, the target is deafened for 1 minute.
 

@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Diplomacy +12, Medicine +14, Religion +14, Society +11, Survival +12
+
 **STR** +3, **DEX** +3, **CON** +1, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** +1 dagger, religious symbol of Pharasma
@@ -25,9 +27,9 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +13 (agile, magical, versatile <S>); **Damage** 1d6+5 piercing
+**Melee** ◆ dagger +13 (agile, magical, versatile <S>); **Damage** 1d6+5 piercing
 
-**Melee** dagger +13 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d6+5 piercing
+**Ranged** ◆ dagger +13 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d6+5 piercing
 
 **Prepared divine Spells** (DC 24), attack +16
 
@@ -37,7 +39,7 @@ Speed 25 feet
 
   **2nd** gentle repose, silence, spiritual weapon
 
-  **3rd** circle of protection, heal, searing light
+  **3rd** circle of protection, heal (×3), searing light (×2)
 
 **Healing Hands** When the priest casts heal, they roll d10s instead of d8s.
 

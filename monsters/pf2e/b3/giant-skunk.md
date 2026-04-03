@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision, scent 40 feet (imprecise)
+
+**Skills** Acrobatics +7, Athletics +6, Stealth +7
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** -4, **WIS** +1, **CHA** +0
 
@@ -21,9 +23,9 @@ n, large, animal
 
 Speed 25 feet
 
-**Melee** jaws +8; **Damage** 1d6+3 piercing
+**Melee** ◆ jaws +8; **Damage** 1d6+3 piercing
 
-**Melee** claw +8 (agile); **Damage** 1d4+3 slashing
+**Melee** ◆ claw +8 (agile); **Damage** 1d4+3 slashing
 
 **Spray Blinding Musk** ◆◆ (poison) The giant skunk propels potent, acrid musk in a 15-foot cone. Each creature in the line must attempt a DC 17 Fortitude save. **Critical Success** The target is unaffected.
 **Success** The target is sickened 1.

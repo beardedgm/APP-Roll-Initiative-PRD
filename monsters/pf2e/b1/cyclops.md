@@ -5,9 +5,11 @@ uncommon, ne, large, giant, humanoid
 
 ---
 
-**Perception** +12
+**Perception** +12; low-light vision
 
 **Languages** common, cyclops, jotun
+
+**Skills** Athletics +14, Intimidation +10, Survival +12, Fortune-telling Lore +13
 
 **STR** +5, **DEX** -1, **CON** +2, **INT** +0, **WIS** +3, **CHA** -1
 
@@ -29,8 +31,8 @@ uncommon, ne, large, giant, humanoid
 
 Speed 30 feet
 
-**Melee** greataxe +14 (reach <10 feet>, sweep); **Damage** 1d12+9 slashing
+**Melee** ◆ greataxe +14 (reach <10 feet>, sweep); **Damage** 1d12+9 slashing
 
-**Melee** heavy crossbow +8 (range increment <120 feet>, reload <2>); **Damage** 1d10+4 piercing
+**Ranged** ◆ heavy crossbow +8 (range increment <120 feet>, reload <2>); **Damage** 1d10+4 piercing
 
 **Swipe** ◆◆ (flourish) The cyclops makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within its melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Swipe counts as two attacks for the cyclops's multiple attack penalty.

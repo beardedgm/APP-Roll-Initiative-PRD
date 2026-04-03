@@ -5,7 +5,9 @@ n, large, animal, swarm
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision, scent 30 feet (imprecise)
+
+**Skills** Athletics +7
 
 **STR** -2, **DEX** +4, **CON** +4, **INT** -5, **WIS** +2, **CHA** -4
 

@@ -5,9 +5,11 @@ ce, medium, amphibious, ghoul, undead
 
 ---
 
-**Perception** +7
+**Perception** +7; corpse scent (precise), darkvision
 
 **Languages** aquan, common, necril
+
+**Skills** Acrobatics +8, Athletics +9, Stealth +8, Survival +7
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** +1, **WIS** +1, **CHA** +3
 
@@ -27,10 +29,17 @@ ce, medium, amphibious, ghoul, undead
 
 Speed 25 feet, swim 30 feet
 
-**Melee** jaws +10 (finesse); **Damage** 1d6+5 piercing plus ghoul fever
+**Melee** ◆ jaws +10 (finesse); **Damage** 1d6+5 piercing plus ghoul fever
 
-**Melee** claw +10 (agile, finesse); **Damage** 1d4+5 slashing
+**Melee** ◆ claw +10 (agile, finesse); **Damage** 1d4+5 slashing
 
 **Aquatic Ambush** ◆ 45 feet
 
-**Consume Flesh** ◆ (manipulate) **Requirements** The lacedon is adjacent to the corpse of a creature that died within the last hour; The lacedon devours a chunk of the corpse and regains 2d6 Hit Points. It can regain Hit Points from any given corpse only once. 
+**Consume Flesh** ◆ (manipulate) **Requirements** The lacedon is adjacent to the corpse of a creature that died within the last hour; The lacedon devours a chunk of the corpse and regains 2d6 Hit Points. It can regain Hit Points from any given corpse only once. **Ghoul Fever**
+(disease); **Saving Throw** DC 16 Fortitude
+**Stage 1** carrier with no ill effect (1 day)
+**Stage 2** 2d6 negative damage and regains half as many Hit Points from all healing (1 day)
+**Stage 3** as stage 2 (1 day)
+**Stage 4** 2d6 negative damage and gains no benefit from healing (1 day)
+**Stage 5** as stage 4 (1 day)
+**Stage 6** dead and rises as a ghoul the next midnight Paralyzing Spew 1 (incapacitation, occult, necromancy)

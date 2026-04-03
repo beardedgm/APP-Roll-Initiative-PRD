@@ -9,6 +9,8 @@ uncommon, ce, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +14, Athletics +10, Deception +12, Intimidation +10, Stealth +16, Thievery +14
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +0, **CHA** +2
 
 **Items** bloodseeker beak (affixed to rapier), dagger (3), keys to manacles, leather armor, average manacles (marked with the symbol of the Scarlet Triad), +1 rapier, thieves' tools
@@ -31,11 +33,11 @@ uncommon, ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** rapier +17 (deadly <1d8>, disarm, finesse); **Damage** 1d6+5 piercing
+**Melee** ◆ rapier +17 (deadly <1d8>, disarm, finesse); **Damage** 1d6+5 piercing
 
-**Melee** dagger +16 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing
+**Melee** ◆ dagger +16 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing
 
-**Melee** dagger +16 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
+**Ranged** ◆ dagger +16 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
 
 **Efficient Capture** ◆◆◆ (attack, manipulate) **Requirements** The sneak has manacles in hand and is adjacent to a creature.; The sneak attempts to bind the creature's wrists or ankles with the manacles. If the sneak succeeds at an attack roll with a +16 modifier against the target's AC, they apply the manacles.
 

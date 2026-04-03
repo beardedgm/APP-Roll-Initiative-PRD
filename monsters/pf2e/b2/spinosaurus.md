@@ -5,7 +5,9 @@ n, gargantuan, animal, dinosaur
 
 ---
 
-**Perception** +21
+**Perception** +21; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +19, Athletics +23
 
 **STR** +8, **DEX** +4, **CON** +6, **INT** -4, **WIS** +2, **CHA** +1
 
@@ -23,9 +25,9 @@ n, gargantuan, animal, dinosaur
 
 Speed 40 feet, swim 30 feet
 
-**Melee** bite +23 (deadly <d12>, reach <20 feet>); **Damage** 2d12+14 piercing plus Grab plus Grab
+**Melee** ◆ bite +23 (deadly <d12>, reach <20 feet>); **Damage** 2d12+14 piercing plus Grab plus Grab
 
-**Melee** claw +23 (agile, reach <15 feet>); **Damage** 2d8+14 slashing
+**Melee** ◆ claw +23 (agile, reach <15 feet>); **Damage** 2d8+14 slashing
 
 **Rip and Tear** ◆ **Requirements** The spinosaurus has a creature grabbed in its jaws; The spinosaurus reaches up and slashes with its claws at the creature it has grabbed, dealing 4d8 slashing damage (DC 30 basic Reflex save) and 1d6 persistent bleed damage.
 

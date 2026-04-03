@@ -5,13 +5,15 @@ unique, ce, medium, humanoid
 
 ---
 
-**Perception** +35
+**Perception** +35; darkvision
 
-**Languages** senzar, tien
+**Languages** senzar, tien; tongues
+
+**Skills** Acrobatics +35, Athletics +31, Deception +37, Occultism +34, Performance +39, Dancing Lore +38
 
 **STR** +6, **DEX** +8, **CON** +7, **INT** +7, **WIS** +7, **CHA** +9
 
-**Items** {@item fighting fan|logm}, {@item greater maestro's instrument} (flute)
+**Items** fighting fan|logm, greater maestro's instrument (flute)
 
 ---
 
@@ -25,9 +27,9 @@ unique, ce, medium, humanoid
 
 Speed 25 feet
 
-**Melee** fighting fan +35 (agile, backstabber, deadly <d6>, finesse, monk); **Damage** 6d4+14 slashing
+**Melee** ◆ fighting fan +35 (agile, backstabber, deadly <d6>, finesse, monk); **Damage** 6d4+14 slashing
 
-**Melee** piercing note +35 (range increment <60 feet>, sonic); **Damage** 4d10+17 sonic
+**Ranged** ◆ piercing note +35 (range increment <60 feet>, sonic); **Damage** 4d10+17 sonic
 
 **Call Dancers** ◆◆ (auditory, healing) Laruhao sends out a pulse of inviting melody that calls more yokai from the ether, restoring 30 Hit Points to the dancing night parade.
 

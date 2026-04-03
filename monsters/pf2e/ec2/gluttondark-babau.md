@@ -5,9 +5,11 @@ ce, medium, demon, fiend
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, see invisibility
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +14, Athletics +15, Intimidation +16, Religion +12, Stealth +18, Thievery +16
 
 **STR** +4, **DEX** +4, **CON** +4, **INT** +2, **WIS** +3, **CHA** +2
 
@@ -36,15 +38,17 @@ ce, medium, demon, fiend
 
 Speed 25 feet
 
-**Melee** longspear +19 (evil, magical, reach); **Damage** 1d6+8 piercing plus 1d6 evil
+**Melee** ◆ longspear +19 (evil, magical, reach); **Damage** 1d6+8 piercing plus 1d6 evil
 
-**Melee** jaws +18 (evil, magical); **Damage** 2d6+8 piercing plus 1d6 evil
+**Melee** ◆ jaws +18 (evil, magical); **Damage** 2d6+8 piercing plus 1d6 evil
 
-**Melee** claw +18 (agile, evil, magical); **Damage** 1d6+8 slashing plus 1d6 evil
+**Melee** ◆ claw +18 (agile, evil, magical); **Damage** 1d6+8 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 26)
 
-  **4th** darkness, dimension door
+  **Constant (5th)** see invisibility
+
+  **4th** darkness, dimension door (at will)
 
   **5th** dimension door
 

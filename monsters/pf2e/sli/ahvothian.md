@@ -5,9 +5,11 @@ uncommon, ce, medium, fiend
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
-**Languages** abyssal, common
+**Languages** abyssal, common; speak with animals
+
+**Skills** Athletics +19, Crafting +11, Intimidation +15, Religion +11, Survival +17
 
 **STR** +6, **DEX** +2, **CON** +4, **INT** +0, **WIS** +4, **CHA** +2
 
@@ -29,21 +31,23 @@ uncommon, ce, medium, fiend
 
 ---
 
-Speed 30 feet
+Speed 30 feet, freedom of movement
 
-**Melee** jaws +18; **Damage** 2d10+8 piercing
+**Melee** ◆ jaws +18; **Damage** 2d10+8 piercing
 
-**Melee** longspear +18 (reach <10 feet>); **Damage** 1d8+8 piercing plus wicked trophies plus wicked trophies
+**Melee** ◆ longspear +18 (reach <10 feet>); **Damage** 1d8+8 piercing plus wicked trophies plus wicked trophies
 
-**Melee** javelin +14 (thrown <30 feet>); **Damage** 1d6+8 piercing plus Wicked plus Wicked
+**Ranged** ◆ javelin +14 (thrown <30 feet>); **Damage** 1d6+8 piercing plus Wicked plus Wicked
 
 **Innate divine Spells** (DC 23)
 
-  **1st** charm
+  **Constant (4th)** freedom of movement, speak with animals
 
-  **2nd** death knell
+  **1st** charm (at will)
 
-  **3rd** earthbind, fear
+  **2nd** death knell (at will)
+
+  **3rd** earthbind (at will), fear (at will)
 
   **4th** creation
 

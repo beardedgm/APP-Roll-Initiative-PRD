@@ -5,9 +5,11 @@ uncommon, ce, medium, humanoid, xulgath
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, {@ability tremorsense} 30 feet (imprecise)
 
 **Languages** draconic, undercommon
+
+**Skills** Athletics +19, Intimidation +18, Survival +18, Cave Lore +15
 
 **STR** +5, **DEX** +2, **CON** +6, **INT** +1, **WIS** +2, **CHA** +2
 
@@ -27,15 +29,15 @@ uncommon, ce, medium, humanoid, xulgath
 
 Speed 20 feet, burrow 10 feet
 
-**Melee** digging bar +18 (fatal <d12>, forceful, versatile <B>); **Damage** 2d10+9 piercing
+**Melee** ◆ digging bar +18 (fatal <d12>, forceful, versatile <B>); **Damage** 2d10+9 piercing
 
-**Melee** jaws +21; **Damage** 2d8+9 piercing
+**Melee** ◆ jaws +21; **Damage** 2d8+9 piercing
 
-**Melee** claw +19 (agile); **Damage** 2d6+9 slashing plus Grab plus Grab
+**Melee** ◆ claw +19 (agile); **Damage** 2d6+9 slashing plus Grab plus Grab
 
 **Innate primal Spells** (DC 26)
 
-  **4th** shape stone
+  **4th** shape stone (×3)
 
 **Earthen Blow** ◆ (earth, transmutation) **Frequency** {"unit":"round","number":1}; The stoneliege commands nearby earth to attack a foe. The stoneliege makes a claw Strike against a creature that is within 60 feet of the stoneliege and 10 feet of an earthen surface, such as dirt, mud, stone, or sand. The Strike originates from the surface's square and has a reach of 10 feet. On a critical hit, the target is also knocked prone.
 

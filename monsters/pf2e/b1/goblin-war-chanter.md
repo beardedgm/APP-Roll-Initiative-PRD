@@ -5,9 +5,11 @@ ce, small, goblin, humanoid
 
 ---
 
-**Perception** +5
+**Perception** +5; darkvision
 
 **Languages** common, goblin
+
+**Skills** Acrobatics +6, Deception +7, Occultism +4, Performance +7, Stealth +6
 
 **STR** +2, **DEX** +3, **CON** +2, **INT** +1, **WIS** +0, **CHA** +4
 
@@ -27,9 +29,9 @@ ce, small, goblin, humanoid
 
 Speed 25 feet
 
-**Melee** dogslicer +8 (agile, backstabber, finesse); **Damage** 1d6+2 slashing
+**Melee** ◆ dogslicer +8 (agile, backstabber, finesse); **Damage** 1d6+2 slashing
 
-**Melee** shortbow +8 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +8 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
 
 **Spontaneous occult Spells** (DC 17)
 

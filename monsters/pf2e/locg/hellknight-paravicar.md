@@ -9,6 +9,8 @@ ln, medium, human, humanoid
 
 **Languages** common, infernal
 
+**Skills** Arcana +16, Deception +21, Intimidation +23, Religion +21, Society +16
+
 **STR** +4, **DEX** +2, **CON** +2, **INT** +0, **WIS** +3, **CHA** +5
 
 **Items** +1 striking crossbow (20 bolts), lesser healing potion, +1 Hellknight plate (page 80), +1 striking morningstar
@@ -25,9 +27,9 @@ ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** morningstar +21 (magical, versatile P); **Damage** 2d6+8 bludgeoning
+**Melee** ◆ morningstar +21 (magical, versatile P); **Damage** 2d6+8 bludgeoning
 
-**Melee** crossbow +19 (magical, range increment 120 feet, reload 1); **Damage** 2d8+4 piercing
+**Ranged** ◆ crossbow +19 (magical, range increment 120 feet, reload 1); **Damage** 2d8+4 piercing
 
 **Spontaneous divine Spells** (DC 30), attack +20
 

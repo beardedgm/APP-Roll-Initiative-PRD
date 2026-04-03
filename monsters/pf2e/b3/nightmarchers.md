@@ -5,9 +5,11 @@ ln, gargantuan, incorporeal, spirit, troop, undead
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision, kinsense
 
 **Languages** common
+
+**Skills** Athletics +25, Religion +27, Warfare Lore +27
 
 **STR** -5, **DEX** +5, **CON** +4, **INT** +5, **WIS** +5, **CHA** +5
 
@@ -23,7 +25,7 @@ ln, gargantuan, incorporeal, spirit, troop, undead
 
 **Immunities** poison, precision, death effects, disease, paralyzed, sleep
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Weaknesses** area damage 20, splash damage
 
@@ -33,9 +35,11 @@ ln, gargantuan, incorporeal, spirit, troop, undead
 
 ---
 
-Speed 25 feet
+Speed 25 feet, air walk, troop movement
 
 **Innate divine Spells** (DC 31)
+
+  **Constant (4th)** air walk
 
 **Blazing Admonition** ◆◆ (divine, evocation, fire, visual) Heat scorches those who lay eyes on the nightmarchers. All creatures in a 60-foot cone take 15d6 fire damage (DC 34 basic Reflex save). Prone creatures and the nightmarchers' kin are unaffected as long as they have not taken a hostile action against the nightmarchers. The nightmarchers can't use Blazing Admonition for 1d4 rounds.
 

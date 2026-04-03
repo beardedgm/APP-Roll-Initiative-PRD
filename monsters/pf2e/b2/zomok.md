@@ -5,9 +5,11 @@ n, gargantuan, dragon, plant
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, {@ability tremorsense} 60 feet (imprecise)
 
-**Languages** arboreal, common, sylvan, terran
+**Languages** arboreal, common, sylvan, terran; speak with plants
+
+**Skills** Acrobatics +27, Athletics +33, Nature +29, Stealth +29, Survival +30
 
 **STR** +9, **DEX** +5, **CON** +9, **INT** +3, **WIS** +6, **CHA** +6
 
@@ -25,15 +27,19 @@ n, gargantuan, dragon, plant
 
 ---
 
-Speed 30 feet, fly 80 feet
+Speed 30 feet, fly 80 feet, pass without trace
 
-**Melee** jaws +33 (magical, reach <15 feet>); **Damage** 3d12+17 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +33 (magical, reach <15 feet>); **Damage** 3d12+17 piercing plus Improved Grab plus Improved Grab
 
-**Melee** claw +33 (agile, magical, reach <15 feet>); **Damage** 3d8+17 slashing
+**Melee** ◆ claw +33 (agile, magical, reach <15 feet>); **Damage** 3d8+17 slashing
 
-**Melee** tail +33 (magical, reach <20 feet>); **Damage** 3d10+17 bludgeoning
+**Melee** ◆ tail +33 (magical, reach <20 feet>); **Damage** 3d10+17 bludgeoning
 
 **Innate primal Spells** (DC 34), attack +26
+
+  **Constant (4th)** speak with plants
+
+  **Constant (1st)** pass
 
   **6th** tangling creepers
 

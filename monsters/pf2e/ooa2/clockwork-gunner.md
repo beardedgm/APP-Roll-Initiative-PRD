@@ -5,7 +5,9 @@ unique, n, medium, clockwork, construct, mindless
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
+
+**Skills** Athletics +16
 
 **STR** +4, **DEX** +6, **CON** +2, **INT** -5, **WIS** +4, **CHA** -5
 
@@ -23,7 +25,7 @@ unique, n, medium, clockwork, construct, mindless
 
 **Immunities** death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poisoned, sickened, unconscious
 
-**Resistances** physical 10
+**Resistances** physical 10 (except adamantine or orichalcum)
 
 **Weaknesses** electricity 10, orichalcum 10
 
@@ -31,10 +33,10 @@ unique, n, medium, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** mace multipistol +19 (critical fusion, magical, shove); **Damage** 2d6+7 bludgeoning
+**Melee** ◆ mace multipistol +19 (critical fusion, magical, shove); **Damage** 2d6+7 bludgeoning
 
-**Melee** dragon-mouth pistol +20 (concussive, range increment <20 feet>, reload <1>, scatter <5 feet>); **Damage** 1d6+3 piercing
+**Ranged** ◆ dragon-mouth pistol +20 (concussive, range increment <20 feet>, reload <1>, scatter <5 feet>); **Damage** 1d6+3 piercing
 
-**Melee** mace multipistol +21 (capacity <3>, concussive, fatal <d8>, magical, range increment <20 feet>, reload <1>); **Damage** 2d4+3 piercing
+**Ranged** ◆ mace multipistol +21 (capacity <3>, concussive, fatal <d8>, magical, range increment <20 feet>, reload <1>); **Damage** 2d4+3 piercing
 
 **Integrated Weapons** An integrated weapon is built into the limb of the clockwork gunner. They can't be disarmed, and they take 10 minutes to attach or remove. Each of a clockwork gunner's firearms can be loaded with 10 shots before they must be reloaded. Reloading a single round into either of these firearms takes 3 actions, or 10 minutes to fully reload a weapon. A clockwork gunner can't reload its own weapons.

@@ -5,9 +5,11 @@ uncommon, ne, medium, undead, zombie
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
 **Languages** common, necril
+
+**Skills** Athletics +10, Religion +13, Stealth +10
 
 **STR** +4, **DEX** +4, **CON** +3, **INT** +1, **WIS** +5, **CHA** +2
 
@@ -29,15 +31,15 @@ uncommon, ne, medium, undead, zombie
 
 Speed 25 feet
 
-**Melee** scythe +12 (deadly <d10>, trip); **Damage** 1d10+8 slashing
+**Melee** ◆ scythe +12 (deadly <d10>, trip); **Damage** 1d10+8 slashing
 
-**Melee** fist +12; **Damage** 1d8+8 bludgeoning
+**Melee** ◆ fist +12; **Damage** 1d8+8 bludgeoning
 
 **Innate divine Spells** (DC 21), attack +13
 
   **Cantrips (2nd)** chill touch, daze, divine lance
 
-  **1st** fear, harm, ray of enfeeblement
+  **1st** fear, harm (×3), ray of enfeeblement
 
   **2nd** death knell, sudden blight
 

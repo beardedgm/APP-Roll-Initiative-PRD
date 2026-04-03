@@ -5,7 +5,9 @@ n, medium, aquatic, elemental, water
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
+
+**Skills** Athletics +10, Stealth +11, Survival +8
 
 **STR** +3, **DEX** +2, **CON** +2, **INT** -4, **WIS** +1, **CHA** +0
 
@@ -25,7 +27,7 @@ n, medium, aquatic, elemental, water
 
 Speed 15 feet, swim 50 feet
 
-**Melee** jaws +11; **Damage** 1d12 + 7 piercing plus Grab plus Grab
+**Melee** ◆ jaws +11; **Damage** 1d12 + 7 piercing plus Grab plus Grab
 
 **Deep Plunge** ◆ The brine shark dives straight down into the water, swimming up to 100 feet in a straight vertical line. It can use this ability while grabbing a creature.
 

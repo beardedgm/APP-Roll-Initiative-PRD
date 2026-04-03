@@ -5,9 +5,11 @@ rare, le, gargantuan, dragon, fire
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, scent 60 feet (imprecise), smoke vision
 
 **Languages** common, draconic, ignan, terran, undercommon
+
+**Skills** Acrobatics +23, Arcana +25, Athletics +32, Crafting +29, Deception +27, Intimidation +29, Nature +24, Stealth +25, Survival +24
 
 **STR** +8, **DEX** +3, **CON** +6, **INT** +5, **WIS** +4, **CHA** +5
 
@@ -31,11 +33,11 @@ rare, le, gargantuan, dragon, fire
 
 Speed 40 feet, fly 80 feet, burrow 60 feet
 
-**Melee** jaws +32 (magical, reach <15 feet>); **Damage** 3d10+16 piercing plus 3d6 fire
+**Melee** ◆ jaws +32 (magical, reach <15 feet>); **Damage** 3d10+16 piercing plus 3d6 fire
 
-**Melee** claw +32 (agile, magical, reach <10 feet>); **Damage** 3d10+16 slashing plus adamantine claws and Grab plus adamantine claws, Grab
+**Melee** ◆ claw +32 (agile, magical, reach <10 feet>); **Damage** 3d10+16 slashing plus adamantine claws and Grab plus adamantine claws, Grab
 
-**Melee** tail +32 (magical, reach <25 feet>); **Damage** 3d10+16 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +32 (magical, reach <25 feet>); **Damage** 3d10+16 bludgeoning plus Grab plus Grab
 
 **Innate arcane Spells** (DC 37)
 

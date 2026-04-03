@@ -9,6 +9,8 @@ unique, le, medium, human, humanoid
 
 **Languages** common, draconic, elven
 
+**Skills** Acrobatics +20, Crafting +23, Deception +16, Medicine +16, Nature +18, Stealth +20, Survival +18, Poison Lore +21
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +5, **WIS** +2, **CHA** +0
 
 **Items** alchemist goggles, alchemist's tools, formula book, +1 striking rapier (with wyvern poison), +1 studded leather armor
@@ -27,9 +29,9 @@ unique, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** rapier +21 (deadly <d8>, disarm, finesse, magical); **Damage** 2d6+8 piercing plus wyvern poison plus wyvern poison
+**Melee** ◆ rapier +21 (deadly <d8>, disarm, finesse, magical); **Damage** 2d6+8 piercing plus wyvern poison plus wyvern poison
 
-**Melee** alchemical bomb +22 (range increment <30 feet>, splash); plus varies by bomb
+**Ranged** ◆ alchemical bomb +22 (range increment <30 feet>, splash); plus varies by bomb
 
 **Alchemical Formulas** (10th) moderate acid flask, moderate alchemist's fire, greater antidote, moderate bravo's brew, moderate elixir of life, moderate tanglefoot bag, wyvern poison.
 

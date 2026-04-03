@@ -5,9 +5,11 @@ unique, cg, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision, harrow sense
 
 **Languages** common, shoanti, varisian
+
+**Skills** Acrobatics +26, Diplomacy +28, Fortune-telling Lore +26, Occultism +28, Performance +26
 
 **STR** -5, **DEX** +6, **CON** +2, **INT** +4, **WIS** +5, **CHA** +6
 
@@ -25,7 +27,7 @@ unique, cg, medium, ghost, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 15
+**Resistances** all damage 15 (except force, ghost touch, or positive; double resistance vs. nonmagical)
 
 **Rejuvenation** (divine, necromancy) When Zellara is destroyed, she re-forms after 2d4 days at the site of her destruction, fully healed. If she is bound to a harrow deck or harrow card, Zellara can manifest near the bound item instead. Once her ex-student Raven has been defeated, Zellara will return to the Boneyard|GMG to face her final judgment.
 
@@ -35,9 +37,9 @@ unique, cg, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ghostly hand +26 (agile, finesse, magical); **Damage** 3d12+8 negative
+**Melee** ◆ ghostly hand +26 (agile, finesse, magical); **Damage** 3d12+8 negative
 
-**Melee** ghostly harrow card +26 (magical, range increment <60 feet>); **Damage** 3d8+8 negative
+**Ranged** ◆ ghostly harrow card +26 (magical, range increment <60 feet>); **Damage** 3d8+8 negative
 
 **Innate occult Spells** (DC 34), attack +26
 
@@ -53,7 +55,7 @@ Speed fly 25 feet
 
   **5th** crushing despair, sending
 
-  **6th** teleport, true seeing
+  **6th** teleport (at will), true seeing
 
   **7th** plane shift
 

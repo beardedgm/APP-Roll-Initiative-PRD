@@ -5,7 +5,9 @@ uncommon, large, skeleton, swarm, undead, unholy
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision, scent (imprecise)
+
+**Skills** Acrobatics +10, Stealth +7, Thievery +10
 
 **STR** +0, **DEX** +3, **CON** +0, **INT** -4, **WIS** +4, **CHA** +0
 

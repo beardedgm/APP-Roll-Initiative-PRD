@@ -5,9 +5,11 @@ uncommon, ln, large, earth, elemental, genie
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, detect magic, {@ability tremorsense} 60 feet (imprecise)
 
 **Languages** common, terran
+
+**Skills** Athletics +19, Crafting +14, Deception +16, Nature +15, Society +14
 
 **STR** +6, **DEX** +1, **CON** +4, **INT** +3, **WIS** +2, **CHA** +3
 
@@ -23,17 +25,19 @@ uncommon, ln, large, earth, elemental, genie
 
 ---
 
-Speed 20 feet, burrow 45 feet, climb 20 feet
+Speed 20 feet, burrow 45 feet, climb 20 feet, earth glide
 
-**Melee** falchion +20 (forceful +1, magical, reach <10 feet>, sweep); **Damage** 1d10+12 slashing
+**Melee** ◆ falchion +20 (forceful +1, magical, reach <10 feet>, sweep); **Damage** 1d10+12 slashing
 
-**Melee** fist +19 (agile, magical, nonlethal, reach <10 feet>); **Damage** 1d4+12 bludgeoning plus Push 10 feet and shove into stone plus shove into stone
+**Melee** ◆ fist +19 (agile, magical, nonlethal, reach <10 feet>); **Damage** 1d4+12 bludgeoning plus Push 10 feet and shove into stone plus shove into stone
 
 **Innate arcane Spells** (DC 24)
 
-  **2nd** glitterdust
+  **Constant (4th)** detect magic
 
-  **4th** shape stone
+  **2nd** glitterdust (×2)
+
+  **4th** shape stone (at will)
 
   **5th** veil, wall of stone
 

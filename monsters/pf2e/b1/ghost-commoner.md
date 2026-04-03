@@ -5,9 +5,11 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common
+
+**Skills** Stealth +12, Dwelling Lore +10
 
 **STR** -5, **DEX** +3, **CON** +0, **INT** +0, **WIS** +2, **CHA** +2
 
@@ -23,7 +25,7 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 **Immunities** poison, precision, death effects, disease, paralyzed, unconscious
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Rejuvenation** (divine, necromancy) Setting right the injustice that led to the commoner's death allows it to move on to the afterlife.
 
@@ -31,6 +33,6 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ghostly hand +13 (agile, finesse, magical); **Damage** 2d6+2 negative
+**Melee** ◆ ghostly hand +13 (agile, finesse, magical); **Damage** 2d6+2 negative
 
 **Frightful Moan** ◆ (auditory, divine, emotion, enchantment, fear, mental) DC 21

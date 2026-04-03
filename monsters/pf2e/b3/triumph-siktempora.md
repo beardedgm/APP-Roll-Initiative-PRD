@@ -5,9 +5,11 @@ rare, ln, small, siktempora, time
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision
 
-**Languages** aklo (can't speak any language)
+**Languages** aklo (can't speak any language); telepathy 200 feet (page 308)
+
+**Skills** Acrobatics +24, Athletics +30, Diplomacy +23, Intimidation +27, Medicine +22, Performance +25, Dimension Of Time Lore +24
 
 **STR** +8, **DEX** +4, **CON** +5, **INT** +4, **WIS** +4, **CHA** +5
 
@@ -31,13 +33,15 @@ rare, ln, small, siktempora, time
 
 ---
 
-Speed 60 feet
+Speed 60 feet, air walk
 
-**Melee** glorious fist +30; **Damage** 3d12+16 bludgeoning
+**Melee** ◆ glorious fist +30; **Damage** 3d12+16 bludgeoning
 
 **Innate occult Spells** (DC 32)
 
-  **4th** dimension door
+  **Constant (7th)** air walk
+
+  **4th** dimension door (at will)
 
   **7th** blink
 

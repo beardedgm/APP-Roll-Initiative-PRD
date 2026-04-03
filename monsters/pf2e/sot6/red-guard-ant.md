@@ -5,9 +5,11 @@ rare, n, large, beast
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision, scent 60 feet (precise)
 
 **Languages** common
+
+**Skills** Athletics +31, Intimidation +27, Survival +27
 
 **STR** +8, **DEX** +4, **CON** +6, **INT** -2, **WIS** +6, **CHA** +4
 
@@ -25,9 +27,9 @@ rare, n, large, beast
 
 Speed 40 feet, climb 20 feet
 
-**Melee** mandibles +30; **Damage** 3d10+14 slashing plus
+**Melee** ◆ mandibles +30; **Damage** 3d10+14 slashing plus
 
-**Melee** stinger +30 (agile); **Damage** 3d6+14 piercing plus red ant venom
+**Melee** ◆ stinger +30 (agile); **Damage** 3d6+14 piercing plus red ant venom
 
 **Grab**
 
@@ -35,6 +37,11 @@ Speed 40 feet, climb 20 feet
 
 **Haul Away** ◆ **Requirements** The red guard ant has a Huge or smaller creature grabbed; The ant Strides up to its full Speed, carrying the grabbed creature with it. It's encumbered if the grabbed creature is Large or larger.
 
-**Pack Attack** A red guard ant deals an additional 2d6 precision damage to any creature within reach of at least two of the ant's allies. 
+**Pack Attack** A red guard ant deals an additional 2d6 precision damage to any creature within reach of at least two of the ant's allies. **Red Ant Venom**
+(poison); **Saving Throw** DC 36 Fortitude
+**Maximum Duration** 4 rounds
+**Stage 1** 3d6 poison and enfeebled 1 (1 round)
+**Stage 2** 4d6 poison and enfeebled 2 (1 round)
+**Stage 3** 6d6 poison and enfeebled 3 (1 round)
 
 **Swarming Flank** If at least three red guard ants have a creature within their reach, they flank the creature, even if they can't draw a line to each other that passes through opposite sides of the creature's space.

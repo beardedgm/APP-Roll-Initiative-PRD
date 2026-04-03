@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Arcana +13, Deception +16, Diplomacy +14, Intimidation +16, Occultism +17, Society +13
+
 **STR** +0, **DEX** +4, **CON** +1, **INT** +4, **WIS** +3, **CHA** +5
 
 **Items** indecipherable book of sigils, ceremonial robes, +1 staff
@@ -27,7 +29,7 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** staff +13 (magical, two-hand <d8>); **Damage** 1d4+6 bludgeoning
+**Melee** ◆ staff +13 (magical, two-hand <d8>); **Damage** 1d4+6 bludgeoning
 
 **Spontaneous occult Spells** (DC 26), attack +18
 

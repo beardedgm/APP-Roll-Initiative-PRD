@@ -5,7 +5,9 @@ ne, tiny, undead
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
+
+**Skills** Acrobatics +7
 
 **STR** +3, **DEX** +4, **CON** +1, **INT** -3, **WIS** +3, **CHA** +0
 
@@ -25,6 +27,6 @@ ne, tiny, undead
 
 Speed 15 feet, fly 25 feet
 
-**Melee** jaws +9 (agile, finesse, reach <0 feet>); **Damage** 1d4+3 piercing plus brain rot
+**Melee** ◆ jaws +9 (agile, finesse, reach <0 feet>); **Damage** 1d4+3 piercing plus brain rot
 
 **Brain Rot** (disease)

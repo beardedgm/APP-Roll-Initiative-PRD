@@ -5,9 +5,11 @@ unique, ne, large, humanoid
 
 ---
 
-**Perception** +38
+**Perception** +38; blizzard sight, scent 60 feet (imprecise), see invisibility
 
-**Languages** common
+**Languages** common; tongues
+
+**Skills** Acrobatics +36, Athletics +39, Intimidation +42, Society +35, Stealth +39, Survival +38, Festival Lore +35
 
 **STR** +10, **DEX** +7, **CON** +10, **INT** +6, **WIS** +6, **CHA** +10
 
@@ -35,19 +37,21 @@ unique, ne, large, humanoid
 
 ---
 
-Speed 60 feet
+Speed 60 feet, air walk, snowstep
 
-**Melee** spiked chain +42 (disarm, evil, finesse, magical, reach <60 feet>, trip); **Damage** 3d8+18 slashing plus Improved Grab plus Improved Grab
+**Melee** ◆ spiked chain +42 (disarm, evil, finesse, magical, reach <60 feet>, trip); **Damage** 3d8+18 slashing plus Improved Grab plus Improved Grab
 
-**Melee** claw +41 (agile, magical, reach <10 feet>); **Damage** 4d6+25 slashing plus
+**Melee** ◆ claw +41 (agile, magical, reach <10 feet>); **Damage** 4d6+25 slashing plus
 
-**Melee** horn +41 (magical); **Damage** 4d10+25 piercing
+**Melee** ◆ horn +41 (magical); **Damage** 4d10+25 piercing
 
 **Innate primal Spells** (DC 42), attack +34
 
+  **Constant (9th)** air walk, see invisibility, tongues
+
   **Cantrips (10th)** dancing lights, ray of frost, sigil, tanglefoot
 
-  **9th** baleful polymorph, cone of cold, wall of ice
+  **9th** baleful polymorph (×2), cone of cold (×2), wall of ice
 
 **Improved Grab** ◆
 

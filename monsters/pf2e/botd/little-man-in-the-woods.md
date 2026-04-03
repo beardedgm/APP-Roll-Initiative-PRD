@@ -5,9 +5,11 @@ rare, ce, small, undead
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
 **Languages** common, necril
+
+**Skills** Acrobatics +14, Athletics +14, Deception +14, Stealth +16
 
 **STR** +4, **DEX** +5, **CON** +3, **INT** +1, **WIS** +2, **CHA** +4
 
@@ -29,9 +31,9 @@ rare, ce, small, undead
 
 Speed 25 feet
 
-**Melee** fist +17 (finesse, nonlethal); **Damage** 2d6+7 bludgeoning plus Grab
+**Melee** ◆ fist +17 (finesse, nonlethal); **Damage** 2d6+7 bludgeoning plus Grab
 
-**Melee** shortbow +18 (deadly <d10>, magical, range increment <60 feet>); **Damage** 1d6+3 piercing
+**Ranged** ◆ shortbow +18 (deadly <d10>, magical, range increment <60 feet>); **Damage** 1d6+3 piercing
 
 **Adopt Guise** ◆◆ (illusion, mental, occult) Playing on the expectations of surrounding creatures, the little man in the woods adopts the guise of a Small or Medium living person that matches the voice he imitates. This guise is subjective and entirely in the mind of each creature around him. A creature that doesn't believe the little man in the woods' voice imitation sees the little man in the woods as he truly is and isn't fooled by Adopt Guise.
 

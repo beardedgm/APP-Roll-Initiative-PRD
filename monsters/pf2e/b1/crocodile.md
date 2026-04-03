@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +7
+**Perception** +7; low-light vision
+
+**Skills** Athletics +8, Stealth +7
 
 **STR** +4, **DEX** +1, **CON** +3, **INT** -5, **WIS** +1, **CHA** -4
 
@@ -21,9 +23,9 @@ n, large, animal
 
 Speed 20 feet, swim 25 feet
 
-**Melee** jaws +10; **Damage** 1d10+4 piercing plus Grab plus Grab
+**Melee** ◆ jaws +10; **Damage** 1d10+4 piercing plus Grab plus Grab
 
-**Melee** tail +10 (agile); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ tail +10 (agile); **Damage** 1d6+4 bludgeoning
 
 **Aquatic Ambush** ◆ 35 feet
 

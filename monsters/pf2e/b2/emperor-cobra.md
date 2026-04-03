@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +13
+**Perception** +13; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +11, Athletics +13, Survival +11
 
 **STR** +6, **DEX** +4, **CON** +4, **INT** -4, **WIS** +2, **CHA** -2
 
@@ -21,7 +23,7 @@ n, large, animal
 
 Speed 25 feet, swim 25 feet, climb 25 feet
 
-**Melee** fangs +15 (reach <10 feet>); **Damage** 2d8+8 piercing plus emperor cobra venom plus emperor cobra venom
+**Melee** ◆ fangs +15 (reach <10 feet>); **Damage** 2d8+8 piercing plus emperor cobra venom plus emperor cobra venom
 
 **Emperor Cobra Venom** (poison)
 

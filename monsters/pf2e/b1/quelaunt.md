@@ -5,9 +5,11 @@ ce, large, aberration
 
 ---
 
-**Perception** +29
+**Perception** +29; {@ability tremorsense} 60 feet (imprecise)
 
-**Languages** aklo (can't speak any language)
+**Languages** aklo (can't speak any language); telepathy
+
+**Skills** Deception +30, Intimidation +30, Occultism +27
 
 **STR** +6, **DEX** +5, **CON** +4, **INT** +5, **WIS** +6, **CHA** +8
 
@@ -21,17 +23,19 @@ ce, large, aberration
 
 ---
 
-Speed 40 feet
+Speed 40 feet, air walk
 
-**Melee** claw +30 (agile, magical, reach <10 feet>); **Damage** 3d8+12 slashing
+**Melee** ◆ claw +30 (agile, magical, reach <10 feet>); **Damage** 3d8+12 slashing
 
 **Innate occult Spells** (DC 39)
 
+  **Constant (4th)** air walk
+
   **2nd** hideous laughter
 
-  **3rd** fear
+  **3rd** fear (at will)
 
-  **7th** crushing despair
+  **7th** crushing despair (×3)
 
 **Emotional Focus** The quelaunt can cast the following cleric domain spells as 8th-level occult innate spells at will without spending Focus Points: blind ambition, captivating adoration, and delusional pride.
 

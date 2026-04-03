@@ -5,9 +5,11 @@ rare, cn, huge, fey, plant
 
 ---
 
-**Perception** +35
+**Perception** +35; low-light vision, greensight
 
 **Languages** common, sylvan
+
+**Skills** Acrobatics +35, Nature +33, Stealth +35, Survival +37
 
 **STR** +6, **DEX** +10, **CON** +5, **INT** +0, **WIS** +10, **CHA** +6
 
@@ -31,9 +33,9 @@ rare, cn, huge, fey, plant
 
 ---
 
-Speed 20 feet
+Speed 20 feet, woodland stride
 
-**Melee** branch +24 (agile, finesse, magical, reach <10 feet>); **Damage** 4d8+12 bludgeoning
+**Melee** ◆ branch +24 (agile, finesse, magical, reach <10 feet>); **Damage** 4d8+12 bludgeoning
 
 **Branch Whip** ◆◆ The ta'apundo makes four branch Strikes against different targets, increasing its reach to 20 feet for these Strikes. These attacks count toward its multiple attack penalty, but this penalty doesn't increase until after all four attacks.
 

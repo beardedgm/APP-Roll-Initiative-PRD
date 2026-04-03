@@ -5,9 +5,11 @@ uncommon, ne, medium, aberration
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** undercommon
+
+**Skills** Acrobatics +11, Athletics +11, Stealth +13
 
 **STR** +3, **DEX** +5, **CON** +3, **INT** -2, **WIS** +3, **CHA** +0
 
@@ -29,9 +31,9 @@ uncommon, ne, medium, aberration
 
 Speed 25 feet, climb 25 feet
 
-**Melee** jaws +13 (finesse); **Damage** 2d8+5 piercing plus scalathrax venom plus scalathrax venom
+**Melee** ◆ jaws +13 (finesse); **Damage** 2d8+5 piercing plus scalathrax venom plus scalathrax venom
 
-**Melee** leg quill +13 (range increment <20 feet>); **Damage** 2d4+5 piercing
+**Ranged** ◆ leg quill +13 (range increment <20 feet>); **Damage** 2d4+5 piercing
 
 **Scalathrax Venom** (poison) Saving Throw Fortitude DC 21
 

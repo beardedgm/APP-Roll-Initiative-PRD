@@ -9,6 +9,8 @@ rare, cn, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +10, Athletics +9, Deception +8, Intimidation +8, Stealth +12, Thievery +12
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** +1, **WIS** +0, **CHA** +2
 
 **Items** leather armor, club, dagger; one delinquent carries a crowbar and another carries a brush and pot of red paint
@@ -27,9 +29,9 @@ rare, cn, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** club +11; **Damage** 1d6+5 bludgeoning
+**Melee** ◆ club +11; **Damage** 1d6+5 bludgeoning
 
-**Melee** dagger +12 (agile, thrown 10 feet, versatile S); **Damage** 1d4+5 piercing
+**Ranged** ◆ dagger +12 (agile, thrown 10 feet, versatile S); **Damage** 1d4+5 piercing
 
 **Quick Draw** ◆ The delinquent draws a weapon with an Interact action, then Strikes with the weapon they just drew.
 

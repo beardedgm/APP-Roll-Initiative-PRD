@@ -5,7 +5,9 @@ rare, n, huge, construct, golem, mindless
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision
+
+**Skills** Acrobatics +30, Athletics +33
 
 **STR** +9, **DEX** +6, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -19,7 +21,7 @@ rare, n, huge, construct, golem, mindless
 
 **Immunities** mental, poison, death effects, disease, doomed, drained, fatigued, healing, magic (see below), necromancy, nonlethal attacks, paralyzed, sickened, unconscious
 
-**Resistances** physical 15
+**Resistances** physical 15 (except adamantine)
 
 **Evasion** When the mithral golem rolls a success on a Reflex save, it gets a critical success instead.
 
@@ -33,9 +35,9 @@ rare, n, huge, construct, golem, mindless
 
 Speed 50 feet, climb 40 feet
 
-**Melee** fist +31 (agile, magical, reach <15 feet>); **Damage** 3d12+12 bludgeoning
+**Melee** ◆ fist +31 (agile, magical, reach <15 feet>); **Damage** 3d12+12 bludgeoning
 
-**Melee** spike +31 (deadly <2d10>, magical, reach <30 feet>); **Damage** 3d10+12 piercing
+**Melee** ◆ spike +31 (deadly <2d10>, magical, reach <30 feet>); **Damage** 3d10+12 piercing
 
 **Liquefy** ◆ The mithral golem becomes fully liquid and amorphous. It gains immunity to precision damage, but it takes double damage from cold and water magic (see golem antimagic). The only actions it can use while Liquefied are move actions, Spike Storm, and spike Strikes. It can resume its normal form by taking this action again.
 

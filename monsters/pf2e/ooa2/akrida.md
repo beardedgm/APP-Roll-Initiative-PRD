@@ -5,9 +5,11 @@ unique, ce, small, animal, mutant
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision, scent 30 feet (precise)
 
-**Languages** undercommon
+**Languages** undercommon; telepathy 100 feet
+
+**Skills** Acrobatics +11, Athletics +13
 
 **STR** +5, **DEX** +3, **CON** +4, **INT** +0, **WIS** +3, **CHA** +0
 
@@ -27,11 +29,11 @@ unique, ce, small, animal, mutant
 
 Speed 20 feet, burrow 10 feet
 
-**Melee** light pick +13 (agile, fatal <d8>, magical); **Damage** 2d4+7 piercing
+**Melee** ◆ light pick +13 (agile, fatal <d8>, magical); **Damage** 2d4+7 piercing
 
-**Melee** mandibles +13; **Damage** 1d6+7 slashing plus 1d6 acid
+**Melee** ◆ mandibles +13; **Damage** 1d6+7 slashing plus 1d6 acid
 
-**Melee** claw +13 (agile); **Damage** 1d6+7 slashing
+**Melee** ◆ claw +13 (agile); **Damage** 1d6+7 slashing
 
 **Innate primal Spells** (DC 19), attack +11
 

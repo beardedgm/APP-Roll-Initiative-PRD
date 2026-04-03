@@ -5,9 +5,11 @@ ce, medium, amphibious, fey
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
 **Languages** common, sylvan
+
+**Skills** Athletics +19, Deception +22, Intimidation +22, Nature +22, Survival +20
 
 **STR** +5, **DEX** +3, **CON** +4, **INT** +0, **WIS** +4, **CHA** +6
 
@@ -23,21 +25,21 @@ ce, medium, amphibious, fey
 
 Speed 25 feet, swim 25 feet
 
-**Melee** jaws +21; **Damage** 2d10+9 piercing plus Grab plus Grab
+**Melee** ◆ jaws +21; **Damage** 2d10+9 piercing plus Grab plus Grab
 
-**Melee** claw +19 (agile); **Damage** 2d8+5 slashing
+**Melee** ◆ claw +19 (agile); **Damage** 2d8+5 slashing
 
 **Innate primal Spells** (DC 28), attack +22
 
   **Cantrips (4th)** detect magic, produce flame
 
-  **1st** fear
+  **1st** fear (at will)
 
   **2nd** faerie fire, hideous laughter
 
-  **3rd** enthrall
+  **3rd** enthrall (×3)
 
-  **4th** charm, confusion
+  **4th** charm (at will), confusion
 
 **Deceitful Feast** (illusion) The brughadatch conjures a decadent, enticing feast void of nutritional substance. This conjuration takes 1 minute and lasts for 24 hours. For each item of illusory food a creature eats, it must attempt a DC 29 Will save. **Critical Success** The creature sees through the illusion and becomes immune to the effects of Deceitful Feast for 24 hours.
 **Success** The creature doesn't see through the illusion but is unaffected by the food.

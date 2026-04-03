@@ -5,9 +5,11 @@ uncommon, ne, large, dragon, shadow
 
 ---
 
-**Perception** +22
+**Perception** +22; greater darkvision, scent 60 feet (imprecise)
 
 **Languages** common, draconic, shadowtongue
+
+**Skills** Acrobatics +18, Athletics +22, Deception +22, Intimidation +22, Nature +20, Stealth +20, Survival +22
 
 **STR** +7, **DEX** +3, **CON** +5, **INT** +3, **WIS** +5, **CHA** +3
 
@@ -29,19 +31,19 @@ uncommon, ne, large, dragon, shadow
 
 Speed 40 feet, fly 140 feet
 
-**Melee** jaws +24 (negative, reach <10 feet>); **Damage** 2d10+13 piercing plus 2d6 negative
+**Melee** ◆ jaws +24 (negative, reach <10 feet>); **Damage** 2d10+13 piercing plus 2d6 negative
 
-**Melee** claw +24 (agile); **Damage** 2d10+13 slashing
+**Melee** ◆ claw +24 (agile); **Damage** 2d10+13 slashing
 
-**Melee** tail +22 (reach <15 feet>); **Damage** 2d12+13 slashing
+**Melee** ◆ tail +22 (reach <15 feet>); **Damage** 2d12+13 slashing
 
-**Melee** wing +22 (reach <10 feet>); **Damage** 1d10+13 slashing
+**Melee** ◆ wing +22 (reach <10 feet>); **Damage** 1d10+13 slashing
 
 **Innate primal Spells** (DC 30)
 
   **Cantrips (4th)** detect magic
 
-  **4th** darkness
+  **4th** darkness (×3)
 
 **Breath Weapon** ◆◆ (necromancy, negative, primal) The dragon breathes a blast of darkness that deals 12d6 negative energy damage in a 30-foot cone (DC 30 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds. Undead creatures take 14d6 force damage instead of the negative damage.
 

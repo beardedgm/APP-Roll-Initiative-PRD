@@ -5,9 +5,11 @@ rare, ng, gargantuan, beast, fire
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision, detect magic, see invisibility
 
 **Languages** auran, celestial, common, ignan
+
+**Skills** Acrobatics +30, Athletics +27, Diplomacy +31, Intimidation +27, Nature +25
 
 **STR** +6, **DEX** +7, **CON** +5, **INT** +7, **WIS** +6, **CHA** +6
 
@@ -31,20 +33,24 @@ rare, ng, gargantuan, beast, fire
 
 Speed 25 feet, fly 70 feet
 
-**Melee** beak +30 (finesse, fire, magical, reach <20 feet>); **Damage** 1d12+9 piercing plus 3d8 fire and 2d10 persistent fire
+**Melee** ◆ beak +30 (finesse, fire, magical, reach <20 feet>); **Damage** 1d12+9 piercing plus 3d8 fire and 2d10 persistent fire
 
-**Melee** talon +30 (agile, finesse, fire, magical, reach <20 feet>); **Damage** 1d6+6 piercing plus 3d8 fire and 2d10 persistent fire
+**Melee** ◆ talon +30 (agile, finesse, fire, magical, reach <20 feet>); **Damage** 1d6+6 piercing plus 3d8 fire and 2d10 persistent fire
 
-**Melee** flame jet +30 (fire, range increment <40 feet>); **Damage** 6d6 fire plus 2d10 persistent fire
+**Ranged** ◆ flame jet +30 (fire, range increment <40 feet>); **Damage** 6d6 fire plus 2d10 persistent fire
 
 **Innate primal Spells** (DC 39)
 
+  **Constant (8th)** detect magic
+
+  **Constant (6th)** see invisibility
+
   **Cantrips (8th)** light
 
-  **6th** restoration
+  **6th** restoration (×3)
 
-  **7th** dispel magic
+  **7th** dispel magic (at will)
 
-  **8th** continual flame, dispel magic, flame strike, heal, remove curse, wall of fire
+  **8th** continual flame (at will), dispel magic (×3), flame strike, heal (×3), remove curse, wall of fire (×3)
 
 **Flaming Strafe** ◆ (evocation, fire, primal) The phoenix blazes with superheated flame and Flies up to its Speed. It deals 6d6 fire damage to each creature within 20 feet of each square it moves through (DC 37 basic Reflex save).

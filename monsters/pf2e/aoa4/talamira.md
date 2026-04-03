@@ -5,9 +5,11 @@ unique, cn, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision
 
 **Languages** elven
+
+**Skills** Acrobatics +27, Arcana +27, Nature +27, Aiudara Lore +30
 
 **STR** -5, **DEX** +4, **CON** +0, **INT** +6, **WIS** +5, **CHA** +4
 
@@ -23,7 +25,7 @@ unique, cn, medium, ghost, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Rejuvenation** (divine, necromancy) Talamira's ghost is bound to the way station by the presence of the wailing crystals; if this hazard is deactivated or destroyed, Talamira sighs in relief as her memories are restored—this burst of psychic energy suffuses all PCs in the area, granting them access to the ancient tradition of magic she once followed, that of the crystal keeper|aoa4 archetype. A moment later, Talamira fades away, her soul moving on to the afterlife.
 
@@ -31,7 +33,7 @@ unique, cn, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 30 feet
 
-**Melee** ghostly hand +27 (agile, finesse, magical); **Damage** 3d10+12 negative
+**Melee** ◆ ghostly hand +27 (agile, finesse, magical); **Damage** 3d10+12 negative
 
 **Innate arcane Spells** (DC 33), attack +27
 

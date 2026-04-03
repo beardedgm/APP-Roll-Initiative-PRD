@@ -5,7 +5,11 @@ n, tiny, astral, incorporeal
 
 ---
 
-**Perception** +3
+**Perception** +3; thoughtsense 60 feet (imprecise)
+
+**Languages** absorbed language
+
+**Skills** Acrobatics +6, Stealth +6
 
 **STR** -5, **DEX** +2, **CON** +3, **INT** +0, **WIS** -1, **CHA** -3
 
@@ -23,13 +27,13 @@ n, tiny, astral, incorporeal
 
 **Immunities** poison, precision, disease
 
-**Resistances** all damage 2
+**Resistances** all damage 2 (except force, ghost touch, or mental; double resistance vs. non-magical)
 
 ---
 
 Speed fly 30 feet
 
-**Melee** touch +6 (agile, magical, mental); **Damage** 1d4 persistent mental damage and leech thought plus leech thought
+**Melee** ◆ touch +6 (agile, magical, mental); **Damage** 1d4 persistent mental damage and leech thought plus leech thought
 
 **Innate occult Spells** (DC 14)
 

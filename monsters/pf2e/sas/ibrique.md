@@ -5,13 +5,15 @@ unique, ce, small, ghoul, undead
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
 **Languages** aklo, common, necril, undercommon
 
+**Skills** Acrobatics +27, Crafting +25, Deception +24, Occultism +25, Performance +24, Stealth +27
+
 **STR** +4, **DEX** +8, **CON** +5, **INT** +6, **WIS** -1, **CHA** +5
 
-**Items** {@runeItem leather||+1 armor potency||resilient||+1 resilient leather armor}
+**Items** +1 resilient leather armor
 
 **Vulnerable to Sunlight** Ibrique takes 20 damage for each hour she is exposed to sunlight.
 
@@ -31,17 +33,17 @@ unique, ce, small, ghoul, undead
 
 Speed 25 feet, burrow 10 feet
 
-**Melee** jaws +27 (finesse); **Damage** 3d10+10 piercing plus 2d6 negative and profane paralysis and ghoul fever
+**Melee** ◆ jaws +27 (finesse); **Damage** 3d10+10 piercing plus 2d6 negative and profane paralysis and ghoul fever
 
-**Melee** claw +27 (agile, finesse); **Damage** 3d6+10 slashing plus 2d6 negative and profane paralysis
+**Melee** ◆ claw +27 (agile, finesse); **Damage** 3d6+10 slashing plus 2d6 negative and profane paralysis
 
 **Innate occult Spells** (DC 33), attack +27
 
   **Cantrips (7th)** daze, ghost sound, telekinetic projectile
 
-  **2nd** darkness
+  **2nd** darkness (at will)
 
-  **4th** confusion
+  **4th** confusion (×3)
 
   **5th** dimension door
 

@@ -5,9 +5,11 @@ cg, medium, elf, humanoid
 
 ---
 
-**Perception** +2
+**Perception** +2; low-light vision
 
 **Languages** common, elven
+
+**Skills** Arcana +5, Occultism +5, Library Lore +5
 
 **STR** +0, **DEX** +3, **CON** -1, **INT** +3, **WIS** +0, **CHA** +2
 
@@ -25,8 +27,8 @@ cg, medium, elf, humanoid
 
 Speed 30 feet
 
-**Melee** dagger +2 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
+**Melee** ◆ dagger +2 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
 
-**Melee** crossbow +5 (range <120 feet>, reload <1>); **Damage** 1d8 piercing
+**Ranged** ◆ crossbow +5 (range <120 feet>, reload <1>); **Damage** 1d8 piercing
 
 **Cantrips** (1st) mage hand, tanglefoot.

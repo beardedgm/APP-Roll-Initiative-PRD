@@ -5,7 +5,9 @@ uncommon, large, mindless, undead, unholy
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, willsense (precise)
+
+**Skills** Athletics +32, Survival +30
 
 **STR** +9, **DEX** +7, **CON** +6, **INT** -5, **WIS** +5, **CHA** -2
 
@@ -31,9 +33,9 @@ uncommon, large, mindless, undead, unholy
 
 Speed 40 feet
 
-**Melee** hoof +31; **Damage** 3d10+13 bludgeoning
+**Melee** ◆ hoof +31; **Damage** 3d10+13 bludgeoning
 
-**Melee** jaws +31; **Damage** 3d8+13 piercing plus siphon will
+**Melee** ◆ jaws +31; **Damage** 3d8+13 piercing plus siphon will
 
 **Gallop** ◆◆ The moldering steed Stride|PC1|Strides twice. It has a +10-foot circumstance bonus to its Speed during these Stride|PC1|Strides.
 

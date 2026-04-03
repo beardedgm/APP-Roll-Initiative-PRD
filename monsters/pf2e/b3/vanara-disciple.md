@@ -5,9 +5,11 @@ uncommon, lg, medium, humanoid, vanara
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision
 
 **Languages** common, sylvan, vanara
+
+**Skills** Acrobatics +7, Athletics +4, Stealth +7
 
 **STR** +1, **DEX** +4, **CON** +0, **INT** +1, **WIS** +3, **CHA** +0
 
@@ -27,11 +29,11 @@ uncommon, lg, medium, humanoid, vanara
 
 Speed 25 feet, climb 15 feet
 
-**Melee** fist +7 (agile, finesse, nonlethal, unarmed); **Damage** 1d6+1 bludgeoning
+**Melee** ◆ fist +7 (agile, finesse, nonlethal, unarmed); **Damage** 1d6+1 bludgeoning
 
-**Melee** bo staff +4 (parry, reach <10 feet>, trip); **Damage** 1d8+1 bludgeoning
+**Melee** ◆ bo staff +4 (parry, reach <10 feet>, trip); **Damage** 1d8+1 bludgeoning
 
-**Melee** javelin +7 (thrown <30 feet>); **Damage** 1d6+1 piercing
+**Ranged** ◆ javelin +7 (thrown <30 feet>); **Damage** 1d6+1 piercing
 
 **Innate divine Spells** (DC 13)
 

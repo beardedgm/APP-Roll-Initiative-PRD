@@ -5,9 +5,11 @@ unique, ce, large, undead, vampire
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision
 
 **Languages** elven, necril, undercommon
+
+**Skills** Acrobatics +28, Athletics +26, Deception +28, Intimidation +28, Religion +33, Society +26, Stealth +28
 
 **STR** +5, **DEX** +7, **CON** +4, **INT** +2, **WIS** +7, **CHA** +6
 
@@ -25,7 +27,7 @@ unique, ce, large, undead, vampire
 
 **Immunities** death effects, disease, paralyze, poison, sleep
 
-**Resistances** physical 20
+**Resistances** physical 20 (except magical silver)
 
 **Weaknesses** vampire weaknesses
 
@@ -35,17 +37,17 @@ unique, ce, large, undead, vampire
 
 Speed 30 feet, climb 30 feet
 
-**Melee** fangs +32; **Damage** 4d6+15 piercing plus Grab and vampire drider venom plus Grab, vampire drider venom
+**Melee** ◆ fangs +32; **Damage** 4d6+15 piercing plus Grab and vampire drider venom plus Grab, vampire drider venom
 
-**Melee** composite shortbow +0 (deadly <d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 3d6+13 piercing
+**Ranged** ◆ composite shortbow +0 (deadly <d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 3d6+13 piercing
 
-**Melee** web +32 (range increment <30 feet>); plus web trap
+**Ranged** ◆ web +32 (range increment <30 feet>); plus web trap
 
 **Prepared divine Spells** (DC 37), attack +29
 
   **Cantrips (8th)** guidance, know direction, sigil
 
-  **1st** alarm, ray of enfeeblement
+  **1st** alarm, ray of enfeeblement (×2)
 
   **2nd** false life, silence, spiritual weapon
 
@@ -63,7 +65,7 @@ Speed 30 feet, climb 30 feet
 
   **Cantrips (8th)** dancing lights, detect magic
 
-  **2nd** darkness, faerie fire
+  **2nd** darkness (at will), faerie fire (at will)
 
   **3rd** dispel magic, levitate
 

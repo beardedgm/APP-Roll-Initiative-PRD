@@ -5,9 +5,11 @@ ce, medium, hag, humanoid
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
-**Languages** aklo, common, jotun
+**Languages** aklo, common, jotun; tongues
+
+**Skills** Acrobatics +9, Athletics +11, Deception +10, Nature +8, Occultism +8, Stealth +9
 
 **STR** +5, **DEX** +3, **CON** +3, **INT** +2, **WIS** +2, **CHA** +4
 
@@ -29,13 +31,19 @@ ce, medium, hag, humanoid
 
 Speed 25 feet, swim 25 feet
 
-**Melee** claw +14 (agile, magical); **Damage** 1d10+5 slashing plus enfeebling humors plus enfeebling humors
+**Melee** ◆ claw +14 (agile, magical); **Damage** 1d10+5 slashing plus enfeebling humors plus enfeebling humors
 
 **Innate occult Spells** (DC 20), attack +14
 
+  **Constant (5th)** tongues
+
+  **Constant (2nd)** water breathing
+
+  **Constant (1st)** pass without trace
+
   **Cantrips (2nd)** acid splash, dancing lights, ghost sound, message
 
-  **2nd** invisibility, tree shape
+  **2nd** invisibility (at will), tree shape (at will)
 
 **Betraying Touch** ◆ The green hag touches a creature that doesn't realize the hag is an enemy. The betrayed creature is affected by the hag's enfeebling humors and takes a –4 circumstance penalty to their saving throw against that effect.
 

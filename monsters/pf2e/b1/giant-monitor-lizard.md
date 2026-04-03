@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +7
+**Perception** +7; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +6, Athletics +9, Stealth +6
 
 **STR** +3, **DEX** +2, **CON** +3, **INT** -4, **WIS** +1, **CHA** -2
 
@@ -23,7 +25,7 @@ n, medium, animal
 
 Speed 30 feet, swim 30 feet
 
-**Melee** jaws +11; **Damage** 1d10+3 piercing plus Grab and monitor lizard venom plus Grab, monitor lizard venom
+**Melee** ◆ jaws +11; **Damage** 1d10+3 piercing plus Grab and monitor lizard venom plus Grab, monitor lizard venom
 
 **Lurching Charge** ◆◆ The giant monitor lizard Strides twice and then makes a jaws Strike. If the lizard moved at least 20 feet away from its starting position, it gains a +2 circumstance bonus to this attack roll.
 

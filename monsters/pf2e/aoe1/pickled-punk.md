@@ -5,9 +5,11 @@ ne, tiny, undead
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +7, Athletics +5, Stealth +7
 
 **STR** +2, **DEX** +4, **CON** +3, **INT** -3, **WIS** +0, **CHA** -3
 

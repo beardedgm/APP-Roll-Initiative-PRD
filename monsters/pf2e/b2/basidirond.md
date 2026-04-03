@@ -5,7 +5,9 @@ n, medium, fungus, mindless
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision, {@ability tremorsense} 30 feet (imprecise)
+
+**Skills** Athletics +13, Stealth +13
 
 **STR** +4, **DEX** +4, **CON** +4, **INT** -5, **WIS** +1, **CHA** -3
 
@@ -27,7 +29,7 @@ n, medium, fungus, mindless
 
 Speed 20 feet
 
-**Melee** frond +15; **Damage** 2d8+6 bludgeoning plus basidirond spores plus basidirond spores
+**Melee** ◆ frond +15; **Damage** 2d8+6 bludgeoning plus basidirond spores plus basidirond spores
 
 **Basidirond Spores** (disease)
 

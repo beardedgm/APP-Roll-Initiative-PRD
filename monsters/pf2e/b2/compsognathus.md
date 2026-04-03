@@ -5,7 +5,9 @@ n, tiny, animal, dinosaur
 
 ---
 
-**Perception** +5
+**Perception** +5; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +6, Stealth +6
 
 **STR** +0, **DEX** +3, **CON** +2, **INT** -4, **WIS** +2, **CHA** -2
 
@@ -21,6 +23,6 @@ n, tiny, animal, dinosaur
 
 Speed 30 feet, swim 15 feet
 
-**Melee** jaws +7 (agile, finesse); **Damage** 1d6 piercing plus compsognathus venom plus compsognathus venom
+**Melee** ◆ jaws +7 (agile, finesse); **Damage** 1d6 piercing plus compsognathus venom plus compsognathus venom
 
 **Compsognathus Venom** (poison)

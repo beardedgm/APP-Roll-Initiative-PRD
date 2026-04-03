@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +7
+**Perception** +7; low-light vision
+
+**Skills** Acrobatics +8, Athletics +5, Stealth +6
 
 **STR** +2, **DEX** +3, **CON** +1, **INT** -4, **WIS** +2, **CHA** -2
 
@@ -23,4 +25,4 @@ n, medium, animal
 
 Speed 30 feet, climb 30 feet
 
-**Melee** jaws +8; **Damage** 1d8+2 piercing
+**Melee** ◆ jaws +8; **Damage** 1d8+2 piercing

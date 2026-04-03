@@ -5,9 +5,11 @@ cg, medium, human, humanoid
 
 ---
 
-**Perception** +21
+**Perception** +21; see invisibility
 
 **Languages** aquan, common
+
+**Skills** Acrobatics +20, Athletics +17, Deception +21, Religion +23, Sailing Lore +19, Thievery +22
 
 **STR** +1, **DEX** +4, **CON** +3, **INT** +0, **WIS** +5, **CHA** +3
 
@@ -25,9 +27,9 @@ cg, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** rapier +21 (deadly 1d8, magical, disarm); **Damage** 2d6+5 piercing
+**Melee** ◆ rapier +21 (deadly 1d8, magical, disarm); **Damage** 2d6+5 piercing
 
-**Melee** crossbow +21 (magical, range increment 120 feet, reload 1); **Damage** 1d8+5 piercing
+**Ranged** ◆ crossbow +21 (magical, range increment 120 feet, reload 1); **Damage** 1d8+5 piercing
 
 **Prepared divine Spells** (DC 30)
 
@@ -43,7 +45,7 @@ Speed 25 feet
 
   **5th** breath of life, control water, see invisibility
 
-  **6th** blade barrier, harm, repulsion
+  **6th** blade barrier, harm (×4), repulsion
 
 **Cleric Domain Spells** (DC 30)
 

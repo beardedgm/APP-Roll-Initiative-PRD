@@ -5,9 +5,11 @@ unique, cn, medium, fey
 
 ---
 
-**Perception** +34
+**Perception** +34; darkvision, scent (imprecise)
 
-**Languages** common, sylvan
+**Languages** common, sylvan; speak with plants, tongues
+
+**Skills** Acrobatics +34, Athletics +34, Deception +36, Diplomacy +38, Intimidation +36, Nature +34
 
 **STR** +6, **DEX** +6, **CON** +5, **INT** +4, **WIS** +6, **CHA** +8
 
@@ -25,15 +27,17 @@ unique, cn, medium, fey
 
 Speed 30 feet
 
-**Melee** fist +36 (magical, versatile <S>); **Damage** 4d10+14 bludgeoning plus 2d8 mental
+**Melee** ◆ fist +36 (magical, versatile <S>); **Damage** 4d10+14 bludgeoning plus 2d8 mental
 
-**Melee** tail +36 (agile, magical, backswing); **Damage** 4d6+14 bludgeoning plus 2d10 mental and Befuddling Lash
+**Melee** ◆ tail +36 (agile, magical, backswing); **Damage** 4d6+14 bludgeoning plus 2d10 mental and Befuddling Lash
 
 **Innate primal Spells** (DC 42), attack +34
 
+  **Constant (10th)** speak with plants, tongues
+
   **Cantrips (10th)** light, guidance, produce flame, tanglefoot
 
-  **6th** chain lightning, slow
+  **6th** chain lightning (×3), slow
 
   **7th** cloudkill, fly, heal
 

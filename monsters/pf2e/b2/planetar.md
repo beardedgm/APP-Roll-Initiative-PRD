@@ -5,9 +5,11 @@ uncommon, ng, large, angel, celestial
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, true seeing
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Athletics +32, Intimidation +32, Religion +32
 
 **STR** +8, **DEX** +3, **CON** +6, **INT** +5, **WIS** +6, **CHA** +6
 
@@ -29,17 +31,19 @@ uncommon, ng, large, angel, celestial
 
 Speed 25 feet, fly 60 feet
 
-**Melee** holy greatsword +32 (good, magical, versatile <P>); **Damage** 3d12+16 slashing plus 1d6 good
+**Melee** ◆ holy greatsword +32 (good, magical, versatile <P>); **Damage** 3d12+16 slashing plus 1d6 good
 
 **Innate divine Spells** (DC 37), attack +29
 
-  **2nd** invisibility, remove paralysis
+  **Constant (5th)** detect alignment, tongues, true seeing
 
-  **5th** breath of life, death ward, freedom of movement, restoration
+  **2nd** invisibility (at will), remove paralysis
 
-  **6th** blade barrier, dispel magic
+  **5th** breath of life, death ward, freedom of movement, restoration (×3)
 
-  **7th** charm, plane shift, power word blind, remove fear
+  **6th** blade barrier, dispel magic (at will)
+
+  **7th** charm, plane shift, power word blind, remove fear (at will)
 
   **8th** dispel magic, divine wrath, earthquake, heal, power word stun, sunburst
 

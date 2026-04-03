@@ -5,9 +5,11 @@ uncommon, n, medium, beast, spirit
 
 ---
 
-**Perception** +21
+**Perception** +21; {@ability darkvision}
 
 **Languages** common
+
+**Skills** Intimidation +17, Religion +17, Stealth +19, Survival +19
 
 **STR** +4, **DEX** +4, **CON** +4, **INT** +0, **WIS** +6, **CHA** +2
 
@@ -27,13 +29,13 @@ uncommon, n, medium, beast, spirit
 
 Speed 30 feet, climb 30 feet
 
-**Melee** fangs +19 (agile, magical); **Damage** 2d12+7 piercing plus algriever venom plus Algriever Venom
+**Melee** ◆ fangs +19 (agile, magical); **Damage** 2d12+7 piercing plus algriever venom plus Algriever Venom
 
-**Melee** web +19 (range increment <30 feet>); **Damage** web trap plus Web Trap
+**Ranged** ◆ web +19 (range increment <30 feet>); **Damage** web trap plus Web Trap
 
 **Innate divine Spells** (DC 25), attack +20
 
-  **4th** anathematic reprisal
+  **4th** anathematic reprisal (×3)
 
   **5th** crisis of faith, dispel magic
 

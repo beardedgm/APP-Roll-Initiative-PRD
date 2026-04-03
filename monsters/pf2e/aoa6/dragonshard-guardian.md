@@ -5,7 +5,9 @@ unique, n, large, construct
 
 ---
 
-**Perception** +39
+**Perception** +39; darkvision, true seeing
+
+**Skills** Arcana +30
 
 **STR** +10, **DEX** +8, **CON** +9, **INT** -5, **WIS** +7, **CHA** -5
 
@@ -19,7 +21,7 @@ unique, n, large, construct
 
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** fire 24, physical 24
+**Resistances** fire 24, physical 24 (except bludgeoning adamantine)
 
 **Weaknesses** sonic 24
 
@@ -31,9 +33,9 @@ unique, n, large, construct
 
 Speed 30 feet
 
-**Melee** jaws +41 (magical, reach <15 feet>); **Damage** 6d10+8 piercing plus 2d10 persistent bleed
+**Melee** ◆ jaws +41 (magical, reach <15 feet>); **Damage** 6d10+8 piercing plus 2d10 persistent bleed
 
-**Melee** claw +41 (agile, magical, reach <10 feet>); **Damage** 9d6+8 slashing
+**Melee** ◆ claw +41 (agile, magical, reach <10 feet>); **Damage** 9d6+8 slashing
 
 **Breath Weapon** ◆◆ The construct breathes in one of two ways, then can't use Breath Weapon again for 1d4 rounds. - 
 - 

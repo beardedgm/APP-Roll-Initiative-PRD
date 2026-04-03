@@ -5,7 +5,9 @@ uncommon, n, small, animal
 
 ---
 
-**Perception** +4
+**Perception** +4; darkvision, tremorsense 60 feet (precise)
+
+**Skills** Acrobatics +5, Athletics +2, Stealth +5
 
 **STR** +0, **DEX** +1, **CON** +3, **INT** -5, **WIS** +0, **CHA** -3
 
@@ -23,4 +25,4 @@ uncommon, n, small, animal
 
 Speed 20 feet, burrow 5 feet, climb 20 feet
 
-**Melee** mandibles +5 (agile, finesse); **Damage** 1d6 piercing
+**Melee** ◆ mandibles +5 (agile, finesse); **Damage** 1d6 piercing

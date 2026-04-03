@@ -5,13 +5,15 @@ small, fey
 
 ---
 
-**Perception** +17
+**Perception** +17; low-light vision
 
 **Languages** common, fey
 
+**Skills** Acrobatics +16, Athletics +18, Deception +18, Intimidation +15, Stealth +19, Thievery +16
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +2, **WIS** +3, **CHA** +4
 
-**Items** {@i Sally Sharp-tongue} ({@runeItem war razor|TV|+1 weapon potency||striking||wounding|}), {@item unmemorable mantle|LOCG}
+**Items** Sally Sharp-tongue (), unmemorable mantle|LOCG
 
 ---
 
@@ -29,11 +31,13 @@ small, fey
 
 Speed 40 feet
 
-**Melee** Sally Sharp-tongue +18 (agile, backstabber, deadly <d8>, finesse, magical); **Damage** 3d4+7 slashing plus 1d6 bleed
+**Melee** ◆ Sally Sharp-tongue +18 (agile, backstabber, deadly <d8>, finesse, magical); **Damage** 3d4+7 slashing plus 1d6 bleed
 
 **Innate primal Spells** (DC 26)
 
-  **1st** gentle landing
+  **Constant (2nd)** vanishing tracks
+
+  **1st** gentle landing (at will)
 
   **2nd** calm
 

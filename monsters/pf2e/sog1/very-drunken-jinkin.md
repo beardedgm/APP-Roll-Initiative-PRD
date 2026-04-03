@@ -5,13 +5,15 @@ uncommon, ce, tiny, fey, gremlin
 
 ---
 
-**Perception** +0
+**Perception** +0; darkvision
 
 **Languages** common
 
+**Skills** Acrobatics +2, Crafting +0, Deception +2, Nature +2, Stealth +2, Thievery +2
+
 **STR** -2, **DEX** +0, **CON** +0, **INT** -2, **WIS** +0, **CHA** +0
 
-**Items** {@item club} (table leg or bottle)
+**Items** club (table leg or bottle)
 
 **Far Too Drunk** The jinkins are inefficient with their actions and always spend one action each round to cackle, stumble in place, or otherwise perform ineffective antics.
 
@@ -29,9 +31,9 @@ uncommon, ce, tiny, fey, gremlin
 
 Speed 20 feet
 
-**Melee** club +0 (thrown <10 feet>); **Damage** 1d6-2 bludgeoning
+**Melee** ◆ club +0 (thrown <10 feet>); **Damage** 1d6-2 bludgeoning
 
-**Melee** club +17 (thrown <10 feet>); **Damage** 1d6-2 bludgeoning
+**Ranged** ◆ club +17 (thrown <10 feet>); **Damage** 1d6-2 bludgeoning
 
 **Innate primal Spells** (DC 13)
 

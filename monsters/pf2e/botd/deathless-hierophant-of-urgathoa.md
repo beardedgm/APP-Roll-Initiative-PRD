@@ -5,13 +5,15 @@ uncommon, ne, medium, undead
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
 **Languages** common, necril
 
+**Skills** Intimidation +15, Occultism +12, Religion +19, Stealth +13
+
 **STR** +2, **DEX** +4, **CON** +0, **INT** +1, **WIS** +6, **CHA** +4
 
-**Items** +1 scythe, religious symbol of {@deity Urgathoa}
+**Items** +1 scythe, religious symbol of Urgathoa
 
 ---
 
@@ -31,7 +33,7 @@ uncommon, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** scythe +15 (deadly <d10>, magical, trip); **Damage** 1d10+8 slashing
+**Melee** ◆ scythe +15 (deadly <d10>, magical, trip); **Damage** 1d10+8 slashing
 
 **Prepared divine Spells** (DC 25), attack +17
 
@@ -41,9 +43,9 @@ Speed 25 feet
 
   **2nd** false life, ghoulish cravings, spiritual weapon
 
-  **3rd** blindness, vampiric touch
+  **3rd** blindness, vampiric touch (×2)
 
-  **4th** anathematic reprisal, harm
+  **4th** anathematic reprisal, harm (×5)
 
 **Cleric Domain Spells** (DC 25)
 

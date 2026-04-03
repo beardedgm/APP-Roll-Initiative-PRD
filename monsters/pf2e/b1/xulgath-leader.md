@@ -5,9 +5,11 @@ ce, medium, humanoid, xulgath
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** draconic, undercommon
+
+**Skills** Athletics +11, Intimidation +6, Stealth +6
 
 **STR** +4, **DEX** +1, **CON** +2, **INT** -1, **WIS** +2, **CHA** +1
 
@@ -27,12 +29,12 @@ ce, medium, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** greataxe +11 (sweep); **Damage** 1d10+6 slashing plus Weakening Strike plus Weakening Strike
+**Melee** ◆ greataxe +11 (sweep); **Damage** 1d10+6 slashing plus Weakening Strike plus Weakening Strike
 
-**Melee** jaws +11; **Damage** 1d6+6 piercing plus Weakening Strike plus Weakening Strike
+**Melee** ◆ jaws +11; **Damage** 1d6+6 piercing plus Weakening Strike plus Weakening Strike
 
-**Melee** claw +11 (agile); **Damage** 1d4+6 slashing
+**Melee** ◆ claw +11 (agile); **Damage** 1d4+6 slashing
 
-**Melee** javelin +8 (thrown <30 feet>); **Damage** 1d6+4 piercing
+**Ranged** ◆ javelin +8 (thrown <30 feet>); **Damage** 1d6+4 piercing
 
 **Weakening Strike** ◆ The target must succeed at a DC 20 Fortitude save or become enfeebled 1 (or enfeebled 2 on a critical hit) for 1 round. Lone exiles of yeti clans have little use for treasure and leave the gear of their slain victims behind where it is quickly covered by snowfall. Clan-based yetis, on the other hand, create beautifully carved stonework, some of which they shape into protective talismans of rare beauty.

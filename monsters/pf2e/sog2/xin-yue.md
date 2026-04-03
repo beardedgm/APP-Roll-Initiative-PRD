@@ -5,13 +5,15 @@ unique, ce, medium, undead
 
 ---
 
-**Perception** +15
+**Perception** +15; {@ability darkvision}
 
 **Languages** aklo, common, necril
 
+**Skills** Acrobatics +13, Athletics +17, Deception +15, Diplomacy +17, Intimidation +17, Occultism +13, Religion +15, Sangpotshi Lore +15, Society +13
+
 **STR** +4, **DEX** +2, **CON** +0, **INT** +2, **WIS** +4, **CHA** +6
 
-**Items** {@runeItem shortsword||+1 weapon potency||striking||wounding|}
+**Items** 
 
 ---
 
@@ -33,7 +35,7 @@ unique, ce, medium, undead
 
 Speed 25 feet
 
-**Melee** shortsword +10 (agile, finesse, magical, versatile <s>); **Damage** 2d6+6 piercing plus 1d6 persistent bleed
+**Melee** ◆ shortsword +10 (agile, finesse, magical, versatile <s>); **Damage** 2d6+6 piercing plus 1d6 persistent bleed
 
 **Spontaneous divine Spells** (DC 25), attack +17
 

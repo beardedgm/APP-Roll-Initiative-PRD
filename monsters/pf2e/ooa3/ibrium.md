@@ -9,6 +9,8 @@ unique, ne, medium, human, humanoid
 
 **Languages** common, terran
 
+**Skills** Arcana +24, Deception +19, Diplomacy +19, Elemental Lore +22, Nex Lore +22, Society +19
+
 **STR** +0, **DEX** +4, **CON** +0, **INT** +5, **WIS** +3, **CHA** +3
 
 **Items** wand of wall of stone
@@ -27,22 +29,22 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** glass spike +21 (deadly <d12>, earth, finesse, magical); **Damage** 3d10 piercing
+**Melee** ◆ glass spike +21 (deadly <d12>, earth, finesse, magical); **Damage** 3d10 piercing
 
-**Melee** glass spike +21 (deadly <d12>, earth, magical, range increment <60 feet>); **Damage** 3d10 piercing
+**Ranged** ◆ glass spike +21 (deadly <d12>, earth, magical, range increment <60 feet>); **Damage** 3d10 piercing
 
 **Prepared arcane Spells** (DC 33), attack +25
 
   **Cantrips (5th)** daze, detect magic, message, shield, sigil
 
-  **1st** hydraulic push, pummeling rubble
+  **1st** hydraulic push, pummeling rubble (×2)
 
-  **2nd** heat metal, hydraulic push
+  **2nd** heat metal, hydraulic push (×2)
 
-  **3rd** earthbind, fireball
+  **3rd** earthbind, fireball (×2)
 
   **4th** fly, stoneskin, wall of fire
 
-  **5th** elemental form, impaling spike
+  **5th** elemental form, impaling spike (×2)
 
 **Vitrumancy** Ibrium has modified certain spells to incorporate glass into their manifestation. Whenever Ibrium casts fireball, hydraulic push, or pummeling rubble, the spell deals slashing damage instead of its normal damage type as the damaging component is replaced with shards of razor-sharp glass.

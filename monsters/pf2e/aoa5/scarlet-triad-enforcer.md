@@ -9,6 +9,8 @@ rare, le, medium, human, humanoid
 
 **Languages** common, osiriani
 
+**Skills** Athletics +30, Intimidation +28, Stealth +27, Underworld Lore +26
+
 **STR** +8, **DEX** +6, **CON** +6, **INT** +3, **WIS** +4, **CHA** +5
 
 **Items** +2 striking composite shortbow, good manacles, moderate healing potion, +1 striking sap, +2 greater striking scimitar, +2 resilient studded leather
@@ -27,11 +29,11 @@ rare, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** scimitar +32 (forceful, magical, sweep); **Damage** 3d6+15 slashing
+**Melee** ◆ scimitar +32 (forceful, magical, sweep); **Damage** 3d6+15 slashing
 
-**Melee** sap +32 (agile, magical, nonlethal); **Damage** 2d6+15 bludgeoning
+**Melee** ◆ sap +32 (agile, magical, nonlethal); **Damage** 2d6+15 bludgeoning
 
-**Melee** composite shortbow +31 (deadly <1d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 2d6+12 piercing
+**Ranged** ◆ composite shortbow +31 (deadly <1d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 2d6+12 piercing
 
 **Dual Abuse** ◆◆ The enforcer uses the pain of one attack as an opening to deal a devastating second blow. The enforcer makes two attacks against the same target: a scimitar Strike and sap Strike (in any order) or two composite shortbow Strikes. If both attacks hit, the second attack deals an additional 3d6 damage, and the enforcer gives the target one of the following conditions until the end of the enforcer's next turn: dazzled, enfeebled|CRB|enfeebled 2, flat-footed, or slowed|CRB|slowed 1. This counts as two attacks when calculating the enforcer's multiple attack penalty, but the penalty doesn't increase until after both attacks.
 

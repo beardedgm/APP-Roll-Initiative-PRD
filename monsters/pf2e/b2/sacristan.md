@@ -5,9 +5,11 @@ le, medium, fiend, velstrac
 
 ---
 
-**Perception** +19
+**Perception** +19; greater darkvision, painsight
 
 **Languages** common, infernal, shadowtongue
+
+**Skills** Acrobatics +19, Athletics +22, Intimidation +18, Stealth +21, Torture Lore +16
 
 **STR** +6, **DEX** +5, **CON** +6, **INT** +0, **WIS** +3, **CHA** +2
 
@@ -31,7 +33,7 @@ le, medium, fiend, velstrac
 
 Speed 25 feet
 
-**Melee** barbed chain +22 (evil, magical, reach <10 feet>, trip, versatile <S>); **Damage** 2d8+9 piercing plus 1d6 evil and 2d6 persistent bleed
+**Melee** ◆ barbed chain +22 (evil, magical, reach <10 feet>, trip, versatile <S>); **Damage** 2d8+9 piercing plus 1d6 evil and 2d6 persistent bleed
 
 **Innate divine Spells** (DC 29)
 

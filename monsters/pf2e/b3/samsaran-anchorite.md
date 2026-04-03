@@ -5,9 +5,11 @@ uncommon, n, medium, humanoid, samsaran
 
 ---
 
-**Perception** +9
+**Perception** +9; low-light vision
 
 **Languages** celestial, common, samsaran
+
+**Skills** Medicine +6, Occultism +6, Religion +7, Society +4
 
 **STR** +0, **DEX** +2, **CON** +0, **INT** +1, **WIS** +4, **CHA** +2
 
@@ -31,9 +33,9 @@ uncommon, n, medium, humanoid, samsaran
 
 Speed 25 feet
 
-**Melee** spear +5; **Damage** 1d6+2 piercing
+**Melee** ◆ spear +5; **Damage** 1d6+2 piercing
 
-**Melee** sling +7 (range increment <50 feet>, reload <1>); **Damage** 1d4+2 bludgeoning
+**Ranged** ◆ sling +7 (range increment <50 feet>, reload <1>); **Damage** 1d4+2 bludgeoning
 
 **Prepared divine Spells** (DC 17)
 

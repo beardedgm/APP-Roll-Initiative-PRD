@@ -5,9 +5,11 @@ uncommon, le, medium, undead
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **Languages** common, necril
+
+**Skills** Athletics +16, Intimidation +15, Survival +12, Warfare Lore +12
 
 **STR** +5, **DEX** +3, **CON** +4, **INT** +1, **WIS** +2, **CHA** +3
 
@@ -31,9 +33,9 @@ uncommon, le, medium, undead
 
 Speed 25 feet
 
-**Melee** warhammer +16 (electricity, magical, shove); **Damage** 2d8+7 bludgeoning plus 1d6 electricity
+**Melee** ◆ warhammer +16 (electricity, magical, shove); **Damage** 2d8+7 bludgeoning plus 1d6 electricity
 
-**Melee** fist +15 (agile, electricity); **Damage** 2d4+7 bludgeoning plus 1d6 electricity
+**Melee** ◆ fist +15 (agile, electricity); **Damage** 2d4+7 bludgeoning plus 1d6 electricity
 
 **Devastating Blast** ◆◆ (arcane, electricity, evocation) 4d12 electricity, DC 24; as graveknight.
 

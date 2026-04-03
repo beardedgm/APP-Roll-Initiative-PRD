@@ -5,9 +5,11 @@ unique, ng, huge, beast, incorporeal, spirit
 
 ---
 
-**Perception** +25
+**Perception** +25; imprecise scent 60 feet
 
 **Languages** mwangi (can't speak any language)
+
+**Skills** Athletics +31, Diplomacy +28, Nature +31, Survival +28
 
 **STR** +9, **DEX** +5, **CON** +8, **INT** +1, **WIS** +8, **CHA** +4
 
@@ -31,11 +33,13 @@ unique, ng, huge, beast, incorporeal, spirit
 
 Speed 40 feet
 
-**Melee** horn +31 (reach <10 feet>); **Damage** 2d10+16 piercing damage plus 1d12 force damage
+**Melee** ◆ horn +31 (reach <10 feet>); **Damage** 2d10+16 piercing damage plus 1d12 force damage
 
 **Innate primal Spells** (DC 34)
 
-  **3rd** humanoid form
+  **Constant (1st)** pass without trace
+
+  **3rd** humanoid form (at will)
 
 **Spirit Charge** ◆◆ Sié Goluo Strides twice, then makes a horn Strike. On a hit, Sié Goluo creates a shock wave that deals 4d12 force damage in a 30-foot cone (DC 34 basic Reflex save). Creatures that fail their save are pushed away 5 feet (10 feet on a critical failure).
 

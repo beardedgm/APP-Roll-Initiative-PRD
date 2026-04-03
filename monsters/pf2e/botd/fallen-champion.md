@@ -5,13 +5,15 @@ uncommon, ne, medium, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** common, necril
 
+**Skills** Acrobatics +14, Athletics +19, Intimidation +19, Kazutal Lore +16, Religion +17
+
 **STR** +5, **DEX** +2, **CON** +5, **INT** +2, **WIS** +3, **CHA** +5
 
-**Items** +1 striking machete (Gods & Magic 120), defiled religious symbol of {@deity Kazutal|LOGM}, +1 scale mail, steel shield (Hardness 5, HP 20, BT 10)
+**Items** +1 striking machete (Gods & Magic 120), defiled religious symbol of Kazutal|LOGM, +1 scale mail, steel shield (Hardness 5, HP 20, BT 10)
 
 ---
 
@@ -35,11 +37,11 @@ uncommon, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** machete +20 (deadly <d8>, magical, sweep); **Damage** 2d6+11 slashing plus heretic's smite
+**Melee** ◆ machete +20 (deadly <d8>, magical, sweep); **Damage** 2d6+11 slashing plus heretic's smite
 
 **Innate divine Spells** (DC 25)
 
-  **4th** harm
+  **4th** harm (×2)
 
 **Champion Devotion Spells** (DC 25)
 

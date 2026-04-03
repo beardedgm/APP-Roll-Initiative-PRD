@@ -5,9 +5,11 @@ ne, medium, humanoid, urdefhan
 
 ---
 
-**Perception** +26
+**Perception** +26; greater darkvision
 
 **Languages** aklo, daemonic, undercommon
+
+**Skills** Acrobatics +24, Nature +23, Religion +21, Stealth +26, Survival +25
 
 **STR** +4, **DEX** +6, **CON** +4, **INT** +2, **WIS** +5, **CHA** +1
 
@@ -31,15 +33,15 @@ ne, medium, humanoid, urdefhan
 
 Speed 30 feet
 
-**Melee** rhoka sword +24 (fatal <d10>, magical, two-hand <d12>); **Damage** 2d8+10 slashing
+**Melee** ◆ rhoka sword +24 (fatal <d10>, magical, two-hand <d12>); **Damage** 2d8+10 slashing
 
-**Melee** jaws +22 (agile); **Damage** 3d6+10 piercing plus wicked bite plus wicked bite
+**Melee** ◆ jaws +22 (agile); **Damage** 3d6+10 piercing plus wicked bite plus wicked bite
 
-**Melee** composite longbow +26 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+4 piercing
+**Ranged** ◆ composite longbow +26 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+4 piercing
 
 **Innate divine Spells** (DC 29), attack +23
 
-  **3rd** feather fall, ray of enfeeblement
+  **3rd** feather fall (at will), ray of enfeeblement
 
   **4th** death knell
 

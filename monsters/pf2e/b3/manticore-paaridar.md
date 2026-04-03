@@ -5,9 +5,11 @@ uncommon, le, medium, beast, humanoid, paaridar
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, scent 30 feet (imprecise)
 
 **Languages** common
+
+**Skills** Acrobatics +16, Athletics +19, Intimidation +11, Occultism +10, Manticore Lore +14
 
 **STR** +6, **DEX** +5, **CON** +3, **INT** -1, **WIS** +5, **CHA** -2
 
@@ -25,13 +27,13 @@ uncommon, le, medium, beast, humanoid, paaridar
 
 ---
 
-Speed 40 feet, fly 20 feet
+Speed 40 feet, fly 20 feet, limited flight
 
-**Melee** jaws +18 (magical); **Damage** 2d8+8 piercing
+**Melee** ◆ jaws +18 (magical); **Damage** 2d8+8 piercing
 
-**Melee** claw +18 (agile, magical); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +18 (agile, magical); **Damage** 2d6+8 slashing
 
-**Melee** spike +16 (propulsive, range increment <40 feet>); **Damage** 1d10+5 piercing
+**Ranged** ◆ spike +16 (propulsive, range increment <40 feet>); **Damage** 1d10+5 piercing
 
 **Monk Ki Spells** (DC 24)
 

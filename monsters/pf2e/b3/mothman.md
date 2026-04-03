@@ -5,9 +5,11 @@ rare, cn, medium, aberration
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
-**Languages** aklo, common, sylvan, undercommon (can't speak any language)
+**Languages** aklo, common, sylvan, undercommon (can't speak any language); telepathy
+
+**Skills** Acrobatics +16, Nature +13, Occultism +15, Society +13, Stealth +16
 
 **STR** +2, **DEX** +5, **CON** +4, **INT** +2, **WIS** +4, **CHA** +5
 
@@ -25,7 +27,7 @@ rare, cn, medium, aberration
 
 Speed 25 feet, fly 50 feet
 
-**Melee** claw +16 (agile, finesse); **Damage** 2d8+4 slashing
+**Melee** ◆ claw +16 (agile, finesse); **Damage** 2d8+4 slashing
 
 **Innate occult Spells** (DC 25), attack +17
 

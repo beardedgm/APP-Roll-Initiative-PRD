@@ -5,9 +5,11 @@ n, small, gnome, humanoid
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
 **Languages** gnomish, undercommon
+
+**Skills** Acrobatics +7, Nature +5, Stealth +7, Survival +5
 
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** -1
 
@@ -25,9 +27,9 @@ n, small, gnome, humanoid
 
 Speed 20 feet
 
-**Melee** light pick +7 (agile, fatal <d8>); **Damage** 1d4+2 piercing
+**Melee** ◆ light pick +7 (agile, fatal <d8>); **Damage** 1d4+2 piercing
 
-**Melee** sling +9 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+1 bludgeoning
+**Ranged** ◆ sling +9 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+1 bludgeoning
 
 **Innate primal Spells** (DC 14)
 

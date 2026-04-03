@@ -5,9 +5,11 @@ rare, cn, medium, aesir, monitor
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision
 
-**Languages** common, skald, jotun
+**Languages** common, skald, jotun; tongues
+
+**Skills** Athletics +32, Crafting +25, Intimidation +29
 
 **STR** +8, **DEX** +5, **CON** +7, **INT** +1, **WIS** +3, **CHA** +5
 
@@ -31,11 +33,11 @@ rare, cn, medium, aesir, monitor
 
 Speed 40 feet, fly 30 feet
 
-**Melee** longsword +34 (magical, versatile <P>); **Damage** 3d8+16 slashing plus 2d6 mental
+**Melee** ◆ longsword +34 (magical, versatile <P>); **Damage** 3d8+16 slashing plus 2d6 mental
 
-**Melee** fist +32 (agile); **Damage** 3d6+16 bludgeoning
+**Melee** ◆ fist +32 (agile); **Damage** 3d6+16 bludgeoning
 
-**Melee** dagger +31 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 3d4+16 piercing
+**Ranged** ◆ dagger +31 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 3d4+16 piercing
 
 **Champion Devotion Spells** (DC 34)
 
@@ -44,6 +46,8 @@ Speed 40 feet, fly 30 feet
   **4th** word of freedom, zeal for battle
 
 **Innate divine Spells** (DC 34)
+
+  **Constant (5th)** tongues
 
 **Challenge Foe** ◆ The soldier challenges one creature they can see to single combat, attempting to Demoralize that target. This target remains the soldier's foe until it's defeated, it flees, or the encounter ends. The soldier gains a circumstance bonus to damage equal to their number of weapon damage dice against their designated foe but takes an equivalent circumstance penalty to damage against any other creature. If the soldier is defeated by their challenged foe, the shame causes them to lose use of their champion devotion spells for 1 week or until they challenge the same foe again and emerge victorious, whichever comes first.
 

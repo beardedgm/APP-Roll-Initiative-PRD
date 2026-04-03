@@ -9,6 +9,8 @@ uncommon, n, large, aquatic, elemental, water
 
 **Languages** aklo, aquan, common
 
+**Skills** Athletics +32, Stealth +32
+
 **STR** +8, **DEX** +8, **CON** +8, **INT** +0, **WIS** +0, **CHA** +0
 
 **Spell Circle** (mental) By performing an hour-long ritual, an elemental vessel can form a spell circle with an arcane or primal spellcaster. After the spell circle is formed, other spellcasters can join the spell circle by performing the same hour-long ritual while assisted by at least one spellcaster already in the spell circle. Each member of the spell circle must contribute at least one spell to the elemental vessel. The spellcaster permanently loses access to a spell slot equal to the spell's level and the elemental vessel adds the contributed spell to its list of arcane innate spells (regardless of the spell's original type). An elemental vessel can be imbued with no more than three spells per spell level. If the elemental vessel is destroyed, all members of the spell circle regain the spell slots they contributed to the creature. The arcane innate spells shown below represent a typical spell list for an elemental vessel, but each elemental vessel is likely to have different spells depending on what its spell circle has contributed.
@@ -33,7 +35,7 @@ uncommon, n, large, aquatic, elemental, water
 
 Speed 35 feet, swim 100 feet
 
-**Melee** wave +30 (reach <10 feet>); **Damage** 3d12+12 bludgeoning plus Push 10 feet
+**Melee** ◆ wave +30 (reach <10 feet>); **Damage** 3d12+12 bludgeoning plus Push 10 feet
 
 **Innate arcane Spells** (DC 38), attack +30
 

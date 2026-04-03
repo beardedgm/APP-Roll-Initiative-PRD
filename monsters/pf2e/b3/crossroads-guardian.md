@@ -5,9 +5,11 @@ rare, n, medium, fey
 
 ---
 
-**Perception** +19
+**Perception** +19; recognize hero
 
-**Languages** sylvan
+**Languages** sylvan; tongues
+
+**Skills** Arcana +16, Diplomacy +20, Medicine +17, Nature +19, Occultism +16, Performance +16, Religion +17, Society +16, Survival +19
 
 **STR** +5, **DEX** +4, **CON** +3, **INT** +5, **WIS** +6, **CHA** +7
 
@@ -31,10 +33,12 @@ rare, n, medium, fey
 
 Speed 25 feet, swim 25 feet
 
-**Melee** greatsword +18 (versatile <P>); **Damage** 1d12+11 slashing plus 1d6 mental
+**Melee** ◆ greatsword +18 (versatile <P>); **Damage** 1d12+11 slashing plus 1d6 mental
 
 **Innate primal Spells** (DC 25)
 
-  **4th** obscuring mist, solid fog
+  **Constant (5th)** tongues
+
+  **4th** obscuring mist (at will), solid fog
 
   **7th** plane shift

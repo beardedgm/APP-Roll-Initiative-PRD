@@ -5,9 +5,11 @@ unique, ln, huge, construct, divine, mindless
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision
 
 **Languages** tien (can't speak any language)
+
+**Skills** Athletics +28
 
 **STR** +8, **DEX** -1, **CON** +8, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -21,7 +23,7 @@ unique, ln, huge, construct, divine, mindless
 
 **Immunities** bleed, death effects, disease, doomed
 
-**Resistances** physical 10
+**Resistances** physical 10 (except adamantine)
 
 **Divine Destruction** (divine, necromancy, positive) 14d6 positive, DC 32
 
@@ -31,9 +33,9 @@ unique, ln, huge, construct, divine, mindless
 
 Speed 30 feet
 
-**Melee** fist +28 (magical, reach <10 feet>); **Damage** 3d10+14 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +28 (magical, reach <10 feet>); **Damage** 3d10+14 bludgeoning plus Grab plus Grab
 
-**Melee** staff +30 (magical, parry, reach <15 feet>, trip); **Damage** 3d8+14 bludgeoning
+**Melee** ◆ staff +30 (magical, parry, reach <15 feet>, trip); **Damage** 3d8+14 bludgeoning
 
 **Innate divine Spells** (DC 32), attack +24
 

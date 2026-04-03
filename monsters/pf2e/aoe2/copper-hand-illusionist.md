@@ -9,6 +9,8 @@ le, medium, human, humanoid
 
 **Languages** common, vudrani
 
+**Skills** Acrobatics +13, Arcana +13, Deception +9, Stealth +13, Thievery +13
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +4, **WIS** +1, **CHA** +0
 
 **Items** +1 dagger, moderate healing potion, spellbook
@@ -25,7 +27,7 @@ le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +13 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
+**Melee** ◆ dagger +13 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
 
 **Prepared arcane Spells** (DC 23), attack +15
 

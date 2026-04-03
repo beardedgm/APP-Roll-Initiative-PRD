@@ -5,9 +5,11 @@ uncommon, n, medium, construct
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +20, Athletics +22, Intimidation +21, Occultism +17
 
 **STR** +6, **DEX** +4, **CON** +5, **INT** +1, **WIS** +1, **CHA** +5
 
@@ -35,10 +37,10 @@ uncommon, n, medium, construct
 
 Speed 25 feet
 
-**Melee** battle axe +23 (magical, sweep); **Damage** 2d8+12 slashing
+**Melee** ◆ battle axe +23 (magical, sweep); **Damage** 2d8+12 slashing
 
-**Melee** shield bash +22; **Damage** 1d4+12 bludgeoning
+**Melee** ◆ shield bash +22; **Damage** 1d4+12 bludgeoning
 
-**Melee** harrow card +21 (agile, magical, range increment <20 feet>, thrown); **Damage** 2d4+9 piercing
+**Ranged** ◆ harrow card +21 (agile, magical, range increment <20 feet>, thrown); **Damage** 2d4+9 piercing
 
 **Hit 'Em While They're Down** The harrowkin wildly attacks a prone target. They deal an additional 2d6 points of damage with their melee Strikes against prone targets. This damage is equal to the damage type of the Strike.

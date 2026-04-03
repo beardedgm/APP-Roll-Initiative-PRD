@@ -5,9 +5,11 @@ ce, small, goblin, humanoid
 
 ---
 
-**Perception** +4
+**Perception** +4; darkvision
 
 **Languages** common, goblin
+
+**Skills** Acrobatics +7, Stealth +7, Fire Lore +7
 
 **STR** +0, **DEX** +4, **CON** +2, **INT** +0, **WIS** -1, **CHA** +3
 
@@ -27,7 +29,7 @@ ce, small, goblin, humanoid
 
 Speed 25 feet
 
-**Melee** torch +7 (fire); **Damage** 1d4 bludgeoning plus 1 fire
+**Melee** ◆ torch +7 (fire); **Damage** 1d4 bludgeoning plus 1 fire
 
 **Spontaneous arcane Spells** (DC 16)
 

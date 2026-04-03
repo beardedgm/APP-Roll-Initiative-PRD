@@ -5,9 +5,11 @@ rare, ce, huge, air, elemental
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision
 
 **Languages** auran, tengu, tien
+
+**Skills** Acrobatics +32, Performance +32, Stealth +32
 
 **STR** +6, **DEX** +8, **CON** +4, **INT** +2, **WIS** +6, **CHA** +8
 
@@ -27,11 +29,11 @@ rare, ce, huge, air, elemental
 
 ---
 
-Speed fly 100 feet
+Speed fly 100 feet, swiftness
 
-**Melee** wind gust +32 (agile, finesse); **Damage** 3d10+14 bludgeoning plus Push 10 feet
+**Melee** ◆ wind gust +32 (agile, finesse); **Damage** 3d10+14 bludgeoning plus Push 10 feet
 
-**Melee** solid refrain +32 (range increment <70 feet>); **Damage** 3d8+14 sonic
+**Ranged** ◆ solid refrain +32 (range increment <70 feet>); **Damage** 3d8+14 sonic
 
 **Mesmerizing Melody** ◆ (auditory, concentrate, enchantment, mental, primal) The melodic squall sings in a sonorous chorus. Any creature in a 30-foot emanation must attempt a DC 36 Will save to resist becoming fascinated by the melodic squall. A creature that succeeds at its save is temporarily immune for 24 hours. **Critical Success** The creature is unaffected.
 **Success** The creature is fascinated for 1 round.

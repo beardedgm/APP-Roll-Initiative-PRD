@@ -5,7 +5,9 @@ n, large, animal, aquatic
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +4, Athletics +7
 
 **STR** +4, **DEX** +1, **CON** +4, **INT** -4, **WIS** +3, **CHA** +1
 
@@ -23,6 +25,6 @@ n, large, animal, aquatic
 
 Speed 5 feet, swim 40 feet
 
-**Melee** tail +7 (reach <10 feet>); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ tail +7 (reach <10 feet>); **Damage** 1d6+4 bludgeoning
 
 **Sudden Retreat** ◆◆ The hippocampus makes a tail Strike, then Swims with a +10-foot circumstance bonus to its swim Speed. It gains a +2 circumstance bonus to AC against reactions triggered by this movement.

@@ -5,9 +5,11 @@ rare, le, medium, beast, human, humanoid, werecreature
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, scent 30 feet (precise)
 
-**Languages** common
+**Languages** common; insect empathy, telepathy 120 feet
+
+**Skills** Acrobatics +31, Athletics +28, Stealth +29, Survival +28
 
 **STR** +6, **DEX** +9, **CON** +5, **INT** +0, **WIS** +6, **CHA** +4
 
@@ -31,13 +33,13 @@ rare, le, medium, beast, human, humanoid, werecreature
 
 Speed 40 feet, fly 60 feet
 
-**Melee** mandibles +29; **Damage** 3d10+14 slashing plus curse of the wereant
+**Melee** ◆ mandibles +29; **Damage** 3d10+14 slashing plus curse of the wereant
 
-**Melee** carapace fist +32 (agile, finesse); **Damage** 3d8+14 bludgeoning plus staggering blow (page 87)
+**Melee** ◆ carapace fist +32 (agile, finesse); **Damage** 3d8+14 bludgeoning plus staggering blow (page 87)
 
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The wereant changes into their humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true wereant's natural form is their hybrid shape. In humanoid shape, they use their original humanoid size, lose their jaws and claw Strikes, and gain a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by their mandibles. In animal shape, they take the form of a Medium giant ant, gain a climb Speed of 20 feet, gain Grab on their mandibles Strike, and lose their weapon Strikes.
 
-**Curse of the Wereant** (curse, necromancy, primal) This curse affects only humanoids; On each full moon, the cursed creature must succeed at another Fortitude save or turn into a wereant until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn. 
+**Curse of the Wereant** (curse, necromancy, primal) This curse affects only humanoids; On each full moon, the cursed creature must succeed at another Fortitude save or turn into a wereant until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn. **Saving Throw** DC 34 Fortitude
 
 **Flying Leap** ◆ **Frequency** {"number":1,"unit":"round"}; The wereant disciple Flies and makes two Strikes against different targets at any point during that movement. These Strikes deal an additional 2d6 precision damage if the disciple is above the target. If the wereant began this action hidden, they remain hidden until after this ability's Strikes. Both attacks count toward the disciple's multiple attack penalty, but the penalty doesn't increase until after both Strikes.
 

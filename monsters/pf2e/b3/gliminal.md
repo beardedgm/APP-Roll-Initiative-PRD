@@ -5,9 +5,11 @@ rare, n, medium, incorporeal, positive, spirit
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, lifesense 60 feet
 
-**Languages** jyoti
+**Languages** jyoti; telepathy 60 feet
+
+**Skills** Acrobatics +19, Arcana +15, Medicine +18, Religion +16, Positive Energy Plane Lore +19
 
 **STR** -5, **DEX** +6, **CON** +4, **INT** +2, **WIS** +3, **CHA** +5
 
@@ -21,7 +23,7 @@ rare, n, medium, incorporeal, positive, spirit
 
 **Immunities** poison, precision, death effects, disease, paralyzed, unconscious
 
-**Resistances** all 5
+**Resistances** all 5 (except force, ghost touch, or negative; double resistance against non-magical)
 
 **Weaknesses** negative 10
 
@@ -33,17 +35,17 @@ rare, n, medium, incorporeal, positive, spirit
 
 Speed fly 60 feet
 
-**Melee** scintillating claw +19 (agile, finesse, magical); **Damage** 3d8+7 positive
+**Melee** ◆ scintillating claw +19 (agile, finesse, magical); **Damage** 3d8+7 positive
 
-**Melee** radiant ray +19 (light, magical, positive); **Damage** 4d8 positive
+**Ranged** ◆ radiant ray +19 (light, magical, positive); **Damage** 4d8 positive
 
 **Innate primal Spells** (DC 28), attack +20
 
   **Cantrips (5th)** light
 
-  **3rd** heal
+  **3rd** heal (at will)
 
-  **5th** chromatic wall, searing light
+  **5th** chromatic wall, searing light (×3)
 
 **Bond in Light** ◆ (healing, necromancy, positive, primal) The gliminal magically links to one living creature within the radius of their radiant mantle. This creature glows with bright light in a 20-foot emanation and dim light to 40 feet. While the link is in effect, the target has fast healing 10, and any time the target needs to defend against an attack or attempt a save, the gliminal can substitute their own AC or corresponding save bonus if it's higher than the target's. Any time the target takes damage, the gliminal can choose to divert any amount of that damage to themself. The damage has the same type and still applies the gliminal's immunities, resistances, and weaknesses. The link remains until the target is more than 120 feet away, the gliminal falls unconscious, or the gliminal uses Bond in Light again.
 

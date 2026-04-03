@@ -5,9 +5,11 @@ uncommon, n, medium, humanoid
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision, scent 30 feet (imprecise)
 
 **Languages** sasquatch
+
+**Skills** Athletics +9, Intimidation +5, Stealth +9, Survival +6
 
 **STR** +5, **DEX** +1, **CON** +3, **INT** -1, **WIS** +2, **CHA** +1
 
@@ -27,9 +29,9 @@ uncommon, n, medium, humanoid
 
 Speed 30 feet
 
-**Melee** fist +11; **Damage** 1d10+5 bludgeoning
+**Melee** ◆ fist +11; **Damage** 1d10+5 bludgeoning
 
-**Melee** rock +9 (brutal, range increment <30 feet>); **Damage** 1d6+5 bludgeoning
+**Ranged** ◆ rock +9 (brutal, range increment <30 feet>); **Damage** 1d6+5 bludgeoning
 
 **Brutal Blows** On a critical hit with a fist Strike, the target is knocked prone by the blow.
 

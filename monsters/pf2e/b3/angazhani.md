@@ -5,9 +5,11 @@ ce, large, beast
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
 **Languages** abyssal, common, mwangi
+
+**Skills** Athletics +20, Intimidation +15, Religion +16, Survival +16
 
 **STR** +6, **DEX** +4, **CON** +5, **INT** -1, **WIS** +4, **CHA** +3
 
@@ -25,13 +27,13 @@ ce, large, beast
 
 Speed 25 feet, climb 25 feet
 
-**Melee** fist +20 (reach <10 feet>); **Damage** 2d8+9 bludgeoning
+**Melee** ◆ fist +20 (reach <10 feet>); **Damage** 2d8+9 bludgeoning
 
-**Melee** jaws +20; **Damage** 2d12+9 piercing
+**Melee** ◆ jaws +20; **Damage** 2d12+9 piercing
 
 **Innate divine Spells** (DC 24)
 
-  **3rd** fear
+  **3rd** fear (×2)
 
   **6th** dominate
 

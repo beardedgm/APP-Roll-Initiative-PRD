@@ -5,9 +5,11 @@ ne, medium, undead
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
 **Languages** common, necril
+
+**Skills** Acrobatics +15, Deception +17, Stealth +17, Thievery +15
 
 **STR** +4, **DEX** +6, **CON** +2, **INT** +1, **WIS** +2, **CHA** +3
 
@@ -23,9 +25,9 @@ ne, medium, undead
 
 Speed 40 feet
 
-**Melee** jaws +18 (finesse); **Damage** 2d6+7 piercing plus 2d6 negative
+**Melee** ◆ jaws +18 (finesse); **Damage** 2d6+7 piercing plus 2d6 negative
 
-**Melee** claw +18 (agile, finesse); **Damage** 2d8+7 slashing
+**Melee** ◆ claw +18 (agile, finesse); **Damage** 2d8+7 slashing
 
 **Drink Flesh** ◆ (divine, necromancy) **Requirements** The totenmaske hit the same enemy with two claw Strikes this turn and is still adjacent to it; The totenmaske drains flesh from the creature's body. The creature becomes sickened 2 and drained 1 unless it succeeds at a DC 25 Fortitude save (sickened 2 and drained 2 on a critical failure).
 

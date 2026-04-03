@@ -5,9 +5,11 @@ ne, small, fey
 
 ---
 
-**Perception** +13
+**Perception** +13; low-light vision
 
 **Languages** aklo, common, sylvan
+
+**Skills** Acrobatics +14, Nature +11, Occultism +11, Stealth +14, Survival +13
 
 **STR** +0, **DEX** +5, **CON** +2, **INT** +2, **WIS** +4, **CHA** +2
 
@@ -25,9 +27,9 @@ ne, small, fey
 
 Speed 25 feet, fly 25 feet
 
-**Melee** claw +14 (agile, finesse); **Damage** 2d6+2 slashing
+**Melee** ◆ claw +14 (agile, finesse); **Damage** 2d6+2 slashing
 
-**Melee** mote of light +14 (agile, magical, range increment <10 feet>); **Damage** 2d4+2 force plus lurker's glow plus lurker's glow
+**Ranged** ◆ mote of light +14 (agile, magical, range increment <10 feet>); **Damage** 2d4+2 force plus lurker's glow plus lurker's glow
 
 **Innate primal Spells** (DC 22), attack +14
 

@@ -5,9 +5,11 @@ ce, tiny, demon, fiend
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
-**Languages** abyssal, common
+**Languages** abyssal, common; telepathy (touch)
+
+**Skills** Acrobatics +7, Arcana +4, Deception +7, Intimidation +5, Religion +5, Stealth +7
 
 **STR** -1, **DEX** +4, **CON** +0, **INT** +1, **WIS** +2, **CHA** +2
 
@@ -29,7 +31,7 @@ ce, tiny, demon, fiend
 
 Speed 15 feet, fly 35 feet
 
-**Melee** claw +9 (agile, evil, finesse, magical, poison); **Damage** 1d6-1 slashing plus 1d4 evil and quasit venom plus quasit venom
+**Melee** ◆ claw +9 (agile, evil, finesse, magical, poison); **Damage** 1d6-1 slashing plus 1d4 evil and quasit venom plus quasit venom
 
 **Innate divine Spells** (DC 17)
 
@@ -37,7 +39,7 @@ Speed 15 feet, fly 35 feet
 
   **1st** fear
 
-  **2nd** detect alignment, invisibility
+  **2nd** detect alignment (at will), invisibility (at will)
 
   **4th** read omens
 

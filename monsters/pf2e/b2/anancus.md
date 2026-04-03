@@ -5,7 +5,9 @@ n, huge, animal
 
 ---
 
-**Perception** +16
+**Perception** +16; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +19, Survival +16
 
 **STR** +7, **DEX** +0, **CON** +5, **INT** -4, **WIS** +2, **CHA** -2
 
@@ -21,9 +23,9 @@ n, huge, animal
 
 Speed 40 feet
 
-**Melee** tusk +19 (reach <15 feet>); **Damage** 2d12+11 piercing
+**Melee** ◆ tusk +19 (reach <15 feet>); **Damage** 2d12+11 piercing
 
-**Melee** foot +17 (reach <10 feet>); **Damage** 2d10+9 bludgeoning
+**Melee** ◆ foot +17 (reach <10 feet>); **Damage** 2d10+9 bludgeoning
 
 **Trample** ◆◆◆ Large or smaller, foot, DC 25
 

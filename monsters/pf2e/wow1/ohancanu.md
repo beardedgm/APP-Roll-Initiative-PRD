@@ -5,13 +5,15 @@ large, fey
 
 ---
 
-**Perception** +12
+**Perception** +12; low-light vision
 
 **Languages** aklo, common, fey
 
+**Skills** Athletics +14, Intimidation +12, Warfare Lore +22
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** -2, **WIS** +2, **CHA** +0
 
-**Items** {@item greataxe}, sack with 5 rocks
+**Items** greataxe, sack with 5 rocks
 
 **White Hairs** An ohancanu has 2d4 white hairs that are connected to its essence. If a hair is plucked, the ohancanu gains the drained 1 condition. This is cumulative with other drained conditions, and if plucking a hair would increase their drained value to 5 or more, the ohancanu falls unconscious. A creature can Steal a white hair from an unaware ohancanu, though they always notice a successful theft. If an ohancanu is grappled, restrained, or stunned, a creature can attempt to pluck out a white hair by spending a single action, which has the attack and manipulate traits, to attempt either an Athletics check against the ohancanu's Fortitude DC or a Thievery check.
 
@@ -33,11 +35,11 @@ large, fey
 
 Speed 25 feet
 
-**Melee** greataxe +15 (reach <10 feet>, sweep); **Damage** 1d12+8 slashing
+**Melee** ◆ greataxe +15 (reach <10 feet>, sweep); **Damage** 1d12+8 slashing
 
-**Melee** fist +15 (agile, reach <10 feet>); **Damage** 1d8+8 bludgeoning
+**Melee** ◆ fist +15 (agile, reach <10 feet>); **Damage** 1d8+8 bludgeoning
 
-**Melee** rock +13 (brutal, range increment <120 feet>); **Damage** 2d6+8 bludgeoning
+**Ranged** ◆ rock +13 (brutal, range increment <120 feet>); **Damage** 2d6+8 bludgeoning
 
 **Sudden Charge** ◆◆ The ohancanu strides twice. If they end their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy.
 

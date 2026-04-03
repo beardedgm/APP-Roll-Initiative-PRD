@@ -5,9 +5,11 @@ n, medium, aberration
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
 **Languages** aklo
+
+**Skills** Acrobatics +12, Athletics +13
 
 **STR** +2, **DEX** +3, **CON** +4, **INT** -3, **WIS** +3, **CHA** +0
 
@@ -31,9 +33,9 @@ n, medium, aberration
 
 Speed 10 feet, swim 20 feet
 
-**Melee** jaws +14 (finesse); **Damage** 2d8+5 piercing plus 1d4 persistent bleed damage and Grab plus Grab
+**Melee** ◆ jaws +14 (finesse); **Damage** 2d8+5 piercing plus 1d4 persistent bleed damage and Grab plus Grab
 
-**Melee** spittle +14 (range <30 feet>); **Damage** 4d6 acid and burn eyes plus burn eyes
+**Ranged** ◆ spittle +14 (range <30 feet>); **Damage** 4d6 acid and burn eyes plus burn eyes
 
 **Burn Eyes** A creature that takes damage from a gibbering mouther's spittle must succeed at a DC 22 Fortitude save or be dazzled for 1 round (or blinded for 1 round on a critical failure).
 

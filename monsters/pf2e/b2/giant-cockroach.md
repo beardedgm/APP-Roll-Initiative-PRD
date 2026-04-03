@@ -5,7 +5,9 @@ n, small, animal
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision, scent 60 feet (imprecise)
+
+**Skills** Acrobatics +6, Stealth +8
 
 **STR** +1, **DEX** +3, **CON** +1, **INT** -5, **WIS** +1, **CHA** -1
 
@@ -23,4 +25,4 @@ n, small, animal
 
 Speed 25 feet, fly 15 feet, climb 25 feet
 
-**Melee** mandibles +8 (agile, finesse); **Damage** 1d6+1 piercing
+**Melee** ◆ mandibles +8 (agile, finesse); **Damage** 1d6+1 piercing

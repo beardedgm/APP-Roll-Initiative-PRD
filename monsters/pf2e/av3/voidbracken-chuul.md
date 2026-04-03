@@ -5,9 +5,11 @@ rare, ce, large, aberration, amphibious
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, {@ability tremorsense} 30 feet (imprecise)
 
 **Languages** aklo, undercommon
+
+**Skills** Athletics +21, Nature +16, Stealth +17, Survival +16
 
 **STR** +6, **DEX** +4, **CON** +4, **INT** +0, **WIS** +3, **CHA** +0
 
@@ -27,7 +29,7 @@ rare, ce, large, aberration, amphibious
 
 Speed 30 feet, swim 25 feet
 
-**Melee** claw +22 (reach <10 feet>); **Damage** 2d8+12 bludgeoning plus Grab plus Grab
+**Melee** ◆ claw +22 (reach <10 feet>); **Damage** 2d8+12 bludgeoning plus Grab plus Grab
 
 **Constrict** ◆ 1d8+12 bludgeoning, DC 28 (grabbed by claws only)
 

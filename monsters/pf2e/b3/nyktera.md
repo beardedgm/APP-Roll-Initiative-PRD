@@ -7,7 +7,9 @@ ng, tiny, fey, sprite
 
 **Perception** +6
 
-**Languages** common, sylvan
+**Languages** common, sylvan; speak with bats
+
+**Skills** Acrobatics +5, Diplomacy +5, Stealth +5
 
 **STR** -3, **DEX** +3, **CON** +0, **INT** +0, **WIS** +2, **CHA** +3
 
@@ -25,9 +27,9 @@ ng, tiny, fey, sprite
 
 Speed 10 feet, fly 40 feet
 
-**Melee** fist +7 (agile, finesse, magical); **Damage** 1d6-3 bludgeoning damage
+**Melee** ◆ fist +7 (agile, finesse, magical); **Damage** 1d6-3 bludgeoning damage
 
-**Melee** ultrasonic pulse +7 (evocation, magical, range <20 feet>); **Damage** 1d4 sonic
+**Ranged** ◆ ultrasonic pulse +7 (evocation, magical, range <20 feet>); **Damage** 1d4 sonic
 
 **Innate primal Spells** (DC 17)
 

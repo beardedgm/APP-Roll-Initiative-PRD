@@ -9,6 +9,8 @@ uncommon, le, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +32, Athletics +29, Deception +26, Stealth +32, Thievery +30
+
 **STR** +5, **DEX** +6, **CON** +3, **INT** +1, **WIS** +4, **CHA** +0
 
 **Items** +2 striking crossbow with 20 bolts, +2 striking dagger, garrote bolts (4; page 77), +2 resilient studded leather armor
@@ -27,11 +29,11 @@ uncommon, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +31 (agile, finesse, magical, versatile <S>); **Damage** 2d4+11 piercing
+**Melee** ◆ dagger +31 (agile, finesse, magical, versatile <S>); **Damage** 2d4+11 piercing
 
-**Melee** crossbow +30 (magical, range increment <120 feet>, reload <1>); **Damage** 2d8+6 piercing
+**Ranged** ◆ crossbow +30 (magical, range increment <120 feet>, reload <1>); **Damage** 2d8+6 piercing
 
-**Melee** dagger +32 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+11 piercing
+**Ranged** ◆ dagger +32 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+11 piercing
 
 **Point Blank** ◆ (flourish) The master assassin makes a crossbow Strike against an adjacent enemy; unlike most ranged Strikes, this Strike doesn't provoke reactions. If successful, the attack deals an additional 4d8 precision damage.
 

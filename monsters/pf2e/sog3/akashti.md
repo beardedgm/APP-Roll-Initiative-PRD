@@ -5,9 +5,11 @@ rare, ce, medium, fiend, nindoru|SoG2
 
 ---
 
-**Perception** +19
+**Perception** +19; {@ability darkvision}
 
 **Languages** aklo, common, necril
+
+**Skills** Deception +23, Diplomacy +21, Occultism +17, Society +19, Stealth +21
 
 **STR** +5, **DEX** +5, **CON** +3, **INT** +3, **WIS** +3, **CHA** +7
 
@@ -31,7 +33,7 @@ rare, ce, medium, fiend, nindoru|SoG2
 
 Speed 25 feet
 
-**Melee** claw +21 (agile, finesse, magical); **Damage** 2d6+11 slashing plus 1d6 mental
+**Melee** ◆ claw +21 (agile, finesse, magical); **Damage** 2d6+11 slashing plus 1d6 mental
 
 **Innate occult Spells** (DC 29), attack +21
 

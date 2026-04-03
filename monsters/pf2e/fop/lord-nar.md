@@ -5,9 +5,11 @@ unique, ce, medium, humanoid, orc
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** common, orc
+
+**Skills** Athletics +13, Diplomacy +8, Intimidation +8
 
 **STR** +5, **DEX** +2, **CON** +3, **INT** -1, **WIS** +1, **CHA** +0
 
@@ -27,11 +29,11 @@ unique, ce, medium, humanoid, orc
 
 Speed 30 feet
 
-**Melee** +1 greatclub +14 (backswing, shove); **Damage** 1d10+5 bludgeoning
+**Melee** ◆ +1 greatclub +14 (backswing, shove); **Damage** 1d10+5 bludgeoning
 
-**Melee** fist +11 (agile, nonlethal, unarmed); **Damage** 1d4+5 bludgeoning
+**Melee** ◆ fist +11 (agile, nonlethal, unarmed); **Damage** 1d4+5 bludgeoning
 
-**Melee** hatchet +10 (agile, sweep, thrown <10 feet>); **Damage** 1d6+5 slashing
+**Ranged** ◆ hatchet +10 (agile, sweep, thrown <10 feet>); **Damage** 1d6+5 slashing
 
 **No Escape** ◈ **Trigger** An adjacent foe moves away.; Lord Nar may move up to his speed but must end his move as close to the triggering creature as possible without entering the triggering creature's square.
 

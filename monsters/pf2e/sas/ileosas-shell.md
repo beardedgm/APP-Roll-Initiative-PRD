@@ -5,9 +5,11 @@ unique, ne, medium, undead
 
 ---
 
-**Perception** +24
+**Perception** +24; greater darkvision
 
 **Languages** aklo, common, elven, giant, infernal, shadowtongue, thassilonian
+
+**Skills** Acrobatics +24, Athletics +27
 
 **STR** +8, **DEX** +5, **CON** +5, **INT** +0, **WIS** +5, **CHA** +0
 
@@ -26,7 +28,7 @@ unique, ne, medium, undead
 
 **Immunities** death effects, disease, mental, paralyzed, poison, unconscious
 
-**Resistances** physical 10
+**Resistances** physical 10 (except silver)
 
 **Weaknesses** bleed 10
 
@@ -34,8 +36,8 @@ unique, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** fangs +29 (magic); **Damage** 3d12+8 piercing plus 2d6 persistent bleed and blood feast
+**Melee** ◆ fangs +29 (magic); **Damage** 3d12+8 piercing plus 2d6 persistent bleed and blood feast
 
-**Melee** claw +29 (agile, magic); **Damage** 3d8+8 slashing plus 2d6 persistent bleed
+**Melee** ◆ claw +29 (agile, magic); **Damage** 3d8+8 slashing plus 2d6 persistent bleed
 
 **Blood Feast** When a creature takes damage from a fangs Strike, the creature must succeed at a DC 33 Fortitude save or become enfeebled 1 (enfeebled 1 and drained 1 on a critical failure). The shell becomes quickened for 1 round, and can use the extra action only for fangs Strike actions against a creature that is taking persistent bleed damage. Further damage dealt by the shell increases the enfeebled condition by 1 on a failed save, to a maximum of enfeebled 4.

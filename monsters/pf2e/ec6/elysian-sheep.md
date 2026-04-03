@@ -5,7 +5,9 @@ rare, ng, large, animal
 
 ---
 
-**Perception** +18
+**Perception** +18; low-light vision
+
+**Skills** Acrobatics +17, Athletics +15, Survival +16
 
 **STR** +2, **DEX** +6, **CON** +4, **INT** -4, **WIS** +3, **CHA** -1
 
@@ -27,8 +29,8 @@ rare, ng, large, animal
 
 Speed 40 feet
 
-**Melee** horn +16; **Damage** 2d8+5 plus 1d6 good plus 2d8+5
+**Melee** ◆ horn +16; **Damage** 2d8+5 plus 1d6 good plus 2d8+5
 
-**Melee** hoof +16; **Damage** 2d6+5 plus 1d6 good plus 2d6+5
+**Melee** ◆ hoof +16; **Damage** 2d6+5 plus 1d6 good plus 2d6+5
 
 **Trample** ◆◆◆ Medium or smaller, hoof, DC 24

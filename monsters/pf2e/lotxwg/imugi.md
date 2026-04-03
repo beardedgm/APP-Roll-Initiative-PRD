@@ -5,9 +5,11 @@ uncommon, large, amphibious, dragon, water
 
 ---
 
-**Perception** +13
+**Perception** +13; {@ability darkvision}, {@ability scent} 60 feet (imprecise)
 
 **Languages** draconic, tien
+
+**Skills** Acrobatics +15, Athletics +17, Intimidation +15, Stealth +15
 
 **STR** +6, **DEX** +4, **CON** +4, **INT** +2, **WIS** +1, **CHA** +2
 
@@ -31,11 +33,11 @@ uncommon, large, amphibious, dragon, water
 
 Speed 40 feet, swim 60 feet
 
-**Melee** jaws +17 (reach <10 feet>); **Damage** 2d10+8 piercing
+**Melee** ◆ jaws +17 (reach <10 feet>); **Damage** 2d10+8 piercing
 
-**Melee** claws +17 (agile); **Damage** 2d6+8 slashing
+**Melee** ◆ claws +17 (agile); **Damage** 2d6+8 slashing
 
-**Melee** tail +17 (reach <15 feet>); **Damage** 2d4+8 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +17 (reach <15 feet>); **Damage** 2d4+8 bludgeoning plus Grab plus Grab
 
 **Innate primal Spells** (DC 25)
 

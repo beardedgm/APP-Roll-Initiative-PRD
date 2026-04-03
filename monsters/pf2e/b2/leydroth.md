@@ -5,9 +5,11 @@ uncommon, ne, large, beast
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, magic sense 60 feet (imprecise)
 
 **Languages** aklo
+
+**Skills** Acrobatics +32, Deception +28, Intimidation +28, Stealth +32, Survival +30
 
 **STR** +8, **DEX** +7, **CON** +9, **INT** -3, **WIS** +5, **CHA** +5
 
@@ -29,17 +31,17 @@ uncommon, ne, large, beast
 
 Speed 50 feet
 
-**Melee** jaws +33 (magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 1d10 persistent bleed
+**Melee** ◆ jaws +33 (magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 1d10 persistent bleed
 
-**Melee** claw +33 (agile, magical, reach <10 feet>); **Damage** 3d10+16 slashing
+**Melee** ◆ claw +33 (agile, magical, reach <10 feet>); **Damage** 3d10+16 slashing
 
-**Melee** horn sweep +33 (magical, reach <10 feet>, sweep, versatile <P>); **Damage** 3d12+16 bludgeoning
+**Melee** ◆ horn sweep +33 (magical, reach <10 feet>, sweep, versatile <P>); **Damage** 3d12+16 bludgeoning
 
 **Innate primal Spells** (DC 38)
 
-  **7th** dispel magic
+  **7th** dispel magic (at will)
 
-  **9th** disjunction
+  **9th** disjunction (×2)
 
 **Dispelling Roar** ◆◆ (abjuration, auditory, emotion, fear, mental, primal) The leydroth unleashes a bestial roar that reverberates within a 30-foot emanation. It rolls an Intimidation check and compares the result to the Will DC of each creature in the area, with the effects of Demoralize. It also uses this result to attempt to counteract each spell or magical effect in the area, plus one item or effect on each creature in the area, with the effects of dispel magic. The leydroth can't use Dispelling Roar again for 1d4 rounds.
 

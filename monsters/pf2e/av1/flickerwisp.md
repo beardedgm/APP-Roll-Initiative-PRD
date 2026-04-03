@@ -5,9 +5,11 @@ uncommon, ce, small, aberration, air
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** aklo, common
+
+**Skills** Acrobatics +8, Deception +7, Intimidation +5, Stealth +8
 
 **STR** -5, **DEX** +4, **CON** +0, **INT** +0, **WIS** +3, **CHA** +1
 
@@ -31,7 +33,7 @@ uncommon, ce, small, aberration, air
 
 Speed fly 25 feet
 
-**Melee** shock +11 (magical); **Damage** 1d8+2 electricity
+**Melee** ◆ shock +11 (magical); **Damage** 1d8+2 electricity
 
 **Consume Confusion** ◆ (concentrate) **Frequency** {"unit":"round","number":1}; **Requirements** A creature within 15 feet of the flickerwisp is confused; The flickerwisp feeds on the creature's confusion, even as its flashing body and disjointed gyrations cause existing confusion effects to persist. It regains 1d4 Hit Points, and if the creature's confused condition has a limited duration, it lasts 1 additional round.
 

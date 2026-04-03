@@ -5,9 +5,11 @@ lg, small, archon, celestial
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** celestial, draconic, infernal
+
+**Skills** Acrobatics +8, Diplomacy +6, Religion +6
 
 **STR** -5, **DEX** +3, **CON** +1, **INT** -1, **WIS** +1, **CHA** +1
 
@@ -29,13 +31,13 @@ lg, small, archon, celestial
 
 Speed fly 40 feet
 
-**Melee** light ray +8 (agile, good, fire, magical, range <30 feet>); **Damage** 1d4 fire plus 1d4 good
+**Ranged** ◆ light ray +8 (agile, good, fire, magical, range <30 feet>); **Damage** 1d4 fire plus 1d4 good
 
 **Innate divine Spells** (DC 17)
 
   **Cantrips (1st)** light
 
-  **1st** detect alignment, heal
+  **1st** detect alignment (at will), heal
 
   **4th** read omens
 

@@ -9,6 +9,8 @@ unique, n, medium, construct, minion
 
 **Languages** osiriani, taldane
 
+**Skills** Acrobatics +12, Athletics +12, Poetry Lore +3
+
 **STR** +5, **DEX** +5, **CON** +4, **INT** -4, **WIS** +3, **CHA** +0
 
 ---
@@ -23,8 +25,10 @@ unique, n, medium, construct, minion
 
 ---
 
-**Melee** fist +12; **Damage** 2d8+7 bludgeoning
+Speed 25
 
-**Melee** retractable blade +12 (agile, finesse); **Damage** 2d6+7 piercing
+**Melee** ◆ fist +12; **Damage** 2d8+7 bludgeoning
+
+**Melee** ◆ retractable blade +12 (agile, finesse); **Damage** 2d6+7 piercing
 
 **Inspired Recitation** ◆ The mechanical assistant recites an inspiring poem, filling allies with determination and vigor. All allies within 60 feet gain a +1 status bonus to saving throws and 10 temporary Hit Points for 1 minute. Once an ally has benefited from this ability, they become temporarily immune to Inspired Recitation for 10 minutes.

@@ -5,9 +5,11 @@ ce, medium, humanoid, orc
 
 ---
 
-**Perception** +5
+**Perception** +5; darkvision
 
 **Languages** orc
+
+**Skills** Athletics +5, Intimidation +2
 
 **STR** +3, **DEX** +2, **CON** +3, **INT** -1, **WIS** +1, **CHA** +0
 
@@ -27,8 +29,8 @@ ce, medium, humanoid, orc
 
 Speed 25 feet
 
-**Melee** orc knuckle dagger +7 (agile, disarm); **Damage** 1d6+3 piercing
+**Melee** ◆ orc knuckle dagger +7 (agile, disarm); **Damage** 1d6+3 piercing
 
-**Melee** fist +7 (agile, nonlethal); **Damage** 1d4+3 bludgeoning
+**Melee** ◆ fist +7 (agile, nonlethal); **Damage** 1d4+3 bludgeoning
 
-**Melee** javelin +4 (thrown <30 feet>); **Damage** 1d6+3 piercing
+**Ranged** ◆ javelin +4 (thrown <30 feet>); **Damage** 1d6+3 piercing

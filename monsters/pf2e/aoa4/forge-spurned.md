@@ -5,9 +5,11 @@ uncommon, ne, medium, fire, undead
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** common, dwarven, undercommon
+
+**Skills** Athletics +14, Crafting +14, Droskar Lore +12
 
 **STR** +5, **DEX** +2, **CON** +4, **INT** +1, **WIS** +2, **CHA** +0
 
@@ -33,9 +35,9 @@ uncommon, ne, medium, fire, undead
 
 Speed 20 feet
 
-**Melee** soul chain +15 (disarm, trip); **Damage** 2d8+5 slashing plus 1d6 fire
+**Melee** ◆ soul chain +15 (disarm, trip); **Damage** 2d8+5 slashing plus 1d6 fire
 
-**Melee** warhammer +14 (shove); **Damage** 1d8+7 bludgeoning
+**Melee** ◆ warhammer +14 (shove); **Damage** 1d8+7 bludgeoning
 
 **Inflate Bellows** ◆◆ **Requirements** The forgespurned has used Forge Breath.; The forge-spurned draws a massive breath to refill its emptied lungs, enabling it to use Forge Breath again.
 

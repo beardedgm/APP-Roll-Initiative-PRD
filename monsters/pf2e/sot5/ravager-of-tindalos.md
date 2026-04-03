@@ -5,9 +5,11 @@ rare, ne, large, aberration, time
 
 ---
 
-**Perception** +31
+**Perception** +31; greater darkvision, true seeing
 
 **Languages** aklo
+
+**Skills** Acrobatics +35, Athletics +32, Occultism +35, Stealth +35, Survival +31
 
 **STR** +6, **DEX** +9, **CON** +6, **INT** +6, **WIS** +7, **CHA** +5
 
@@ -33,11 +35,13 @@ rare, ne, large, aberration, time
 
 Speed 30 feet, fly 30 feet
 
-**Melee** jaws +34 (magic); **Damage** 3d10+14 piercing plus 2d6 mental
+**Melee** ◆ jaws +34 (magic); **Damage** 3d10+14 piercing plus 2d6 mental
 
-**Melee** claw +34 (agile, magic); **Damage** 3d8+14 slashing plus 2d6 mental
+**Melee** ◆ claw +34 (agile, magic); **Damage** 3d8+14 slashing plus 2d6 mental
 
 **Innate occult Spells** (DC 40), attack +32
+
+  **Constant (9th)** true seeing
 
   **6th** slow
 

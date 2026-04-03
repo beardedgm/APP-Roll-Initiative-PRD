@@ -5,9 +5,11 @@ ne, small, aberration
 
 ---
 
-**Perception** +25
+**Perception** +25; dander scent (1 mile, imprecise), darkvision
 
 **Languages** aklo
+
+**Skills** Acrobatics +27, Deception +27, Stealth +27, Survival +25
 
 **STR** +3, **DEX** +7, **CON** +4, **INT** +5, **WIS** +5, **CHA** +7
 
@@ -27,9 +29,9 @@ ne, small, aberration
 
 Speed 35 feet
 
-**Melee** claw +27 (agile, finesse); **Damage** 3d10+9 slashing
+**Melee** ◆ claw +27 (agile, finesse); **Damage** 3d10+9 slashing
 
-**Melee** tentacles +27 (finesse, reach <10 feet>); **Damage** 3d12+9 piercing plus Grab plus Grab
+**Melee** ◆ tentacles +27 (finesse, reach <10 feet>); **Damage** 3d12+9 piercing plus Grab plus Grab
 
 **Silent Yowl** ◆◆ (auditory, fear, illusion, mental, occult) The angoyang opens its mouth and drops its innocent disguise, releasing its monstrous tentacles and letting out a blood-curdling scream directed at a single target that it can see to deal 8d10 mental damage. Only the target of this ability can hear this scream. The target must succeed at a DC 30 Will save as the sound tears through their mind. **Critical Success** The target takes no damage and is immune to Silent Yowl for 24 hours.
 **Success** The target takes half damage.

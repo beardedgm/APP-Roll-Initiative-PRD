@@ -5,9 +5,11 @@ ce, large, humanoid, xulgath
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** draconic, undercommon
+
+**Skills** Athletics +15, Intimidation +11
 
 **STR** +6, **DEX** +1, **CON** +4, **INT** +0, **WIS** +2, **CHA** +0
 
@@ -27,11 +29,11 @@ ce, large, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** maul +15 (shove); **Damage** 1d12+10 bludgeoning
+**Melee** ◆ maul +15 (shove); **Damage** 1d12+10 bludgeoning
 
-**Melee** jaws +15; **Damage** 2d8+8 piercing
+**Melee** ◆ jaws +15; **Damage** 2d8+8 piercing
 
-**Melee** claw +15 (agile); **Damage** 2d4+8 slashing plus
+**Melee** ◆ claw +15 (agile); **Damage** 2d4+8 slashing plus
 
 **Grab**
 

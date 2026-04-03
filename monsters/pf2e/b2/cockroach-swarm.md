@@ -5,7 +5,9 @@ n, small, animal, swarm
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision, scent 60 feet (imprecise)
+
+**Skills** Acrobatics +8, Stealth +8
 
 **STR** +2, **DEX** +4, **CON** +3, **INT** -5, **WIS** +0, **CHA** -4
 

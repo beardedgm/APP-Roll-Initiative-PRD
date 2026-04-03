@@ -5,9 +5,11 @@ rare, ne, large, dragon
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision, ley line sense (imprecise), scent (imprecise)
 
 **Languages** aklo, draconic
+
+**Skills** Acrobatics +15, Athletics +14, Intimidation +15, Occultism +14
 
 **STR** +4, **DEX** +3, **CON** +4, **INT** +2, **WIS** +2, **CHA** +5
 
@@ -23,21 +25,21 @@ rare, ne, large, dragon
 
 **Immunities** paralyzed, sleep
 
-**Resistances** physical 5
+**Resistances** physical 5 (while within 500 feet of a ley line)
 
 **Attack of Opportunity** ◈
 
 ---
 
-Speed 20 feet, fly 50 feet
+Speed 20 feet, fly 50 feet, Damage 2d8+7 piercing
 
-**Melee** tail +16 (reach <15 feet>); **Damage** 2d6+7 bludgeoning
+**Melee** ◆ tail +16 (reach <15 feet>); **Damage** 2d6+7 bludgeoning
 
-**Melee** talon +16 (agile); **Damage** 2d6+7 slashing
+**Melee** ◆ talon +16 (agile); **Damage** 2d6+7 slashing
 
 **Innate occult Spells** (DC 23)
 
-  **3rd** grim tendrils
+  **3rd** grim tendrils (×2)
 
 **Draconic Frenzy** ◆◆ The myroga makes two talon Strikes and one tail Strike in any order.
 

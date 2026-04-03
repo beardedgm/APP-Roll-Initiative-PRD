@@ -5,9 +5,11 @@ rare, ce, small, undead
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +7, Deception +8, Stealth +7
 
 **STR** +0, **DEX** +3, **CON** +2, **INT** +0, **WIS** +2, **CHA** +4
 
@@ -31,9 +33,9 @@ rare, ce, small, undead
 
 ---
 
-Speed 30 feet
+Speed 30 feet, thicket walker
 
-**Melee** frond +9 (agile, finesse); **Damage** 1d6+2 slashing plus 1d6 persistent bleed
+**Melee** ◆ frond +9 (agile, finesse); **Damage** 1d6+2 slashing plus 1d6 persistent bleed
 
 **Innate occult Spells** (DC 18), attack +10
 

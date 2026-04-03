@@ -5,7 +5,9 @@ rare, ce, large, illusion, mental
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
+
+**Skills** Deception +22, Intimidation +24, Occultism +21, Society +21, Stealth +20
 
 **STR** +4, **DEX** +5, **CON** +4, **INT** +2, **WIS** +3, **CHA** +7
 
@@ -25,7 +27,7 @@ rare, ce, large, illusion, mental
 
 **Immunities** death effects, detection, diseased, doomed, emotion effects, necromancy, scrying
 
-**Resistances** physical 10
+**Resistances** physical 10 (except silver)
 
 **Weaknesses** mental 10
 
@@ -33,12 +35,12 @@ rare, ce, large, illusion, mental
 
 Speed 30 feet, fly 30 feet
 
-**Melee** illusory weapon +24 (illusion, mental, occult); **Damage** 4d6+10 mental plus 1d6 persistent bleed
+**Melee** ◆ illusory weapon +24 (illusion, mental, occult); **Damage** 4d6+10 mental plus 1d6 persistent bleed
 
 **Innate occult Spells** (DC 30)
 
   **Cantrips (5th)** shield, telekinetic projectile
 
-  **4th** dimension door
+  **4th** dimension door (×2)
 
-  **5th** phantasmal killer
+  **5th** phantasmal killer (×3)

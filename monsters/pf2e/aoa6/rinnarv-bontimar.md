@@ -5,9 +5,11 @@ unique, ln, medium, elf, human, humanoid
 
 ---
 
-**Perception** +32
+**Perception** +32; low-light vision
 
 **Languages** common, draconic, elven
+
+**Skills** Arcana +32, Athletics +38, Diplomacy +38, Deception +34, Occultism +34, Religion +38, Hermea Lore +32
 
 **STR** +8, **DEX** +7, **CON** +8, **INT** +3, **WIS** +4, **CHA** +10
 
@@ -27,7 +29,7 @@ unique, ln, medium, elf, human, humanoid
 
 Speed 30 feet
 
-**Melee** elven curve blade +38 (finesse, forceful, magical); **Damage** 4d8+24 slashing
+**Melee** ◆ elven curve blade +38 (finesse, forceful, magical); **Damage** 4d8+24 slashing
 
 **Spontaneous divine Spells** (DC 42), attack +38
 

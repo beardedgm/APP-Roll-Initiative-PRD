@@ -5,9 +5,11 @@ ln, large, earth, giant, humanoid
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
 **Languages** common, jotun
+
+**Skills** Acrobatics +16, Athletics +22, Intimidation +16, Stealth +16
 
 **STR** +6, **DEX** +2, **CON** +4, **INT** +0, **WIS** +1, **CHA** +0
 
@@ -27,9 +29,9 @@ ln, large, earth, giant, humanoid
 
 Speed 40 feet
 
-**Melee** fist +22 (agile, reach 10 feet); **Damage** 2d8+16 bludgeoning
+**Melee** ◆ fist +22 (agile, reach 10 feet); **Damage** 2d8+16 bludgeoning
 
-**Melee** rock +20 (brutal, range increment 120 feet); **Damage** 2d6+14 bludgeoning
+**Ranged** ◆ rock +20 (brutal, range increment 120 feet); **Damage** 2d6+14 bludgeoning
 
 **Focus divine Spells** (DC 24)
 

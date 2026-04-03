@@ -5,9 +5,11 @@ cn, small, monitor, protean
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision, entropy sense 30 feet (imprecise)
 
-**Languages** abyssal, celestial, protean
+**Languages** abyssal, celestial, protean; telepathy (touch)
+
+**Skills** Acrobatics +9, Deception +10, Occultism +11, Society +10, Stealth +9, Thievery +9
 
 **STR** +3, **DEX** +4, **CON** +1, **INT** +4, **WIS** +3, **CHA** +1
 
@@ -29,17 +31,19 @@ cn, small, monitor, protean
 
 ---
 
-Speed 25 feet, fly 25 feet, swim 25 feet
+Speed 25 feet, fly 25 feet, swim 25 feet, freedom of movement
 
-**Melee** jaws +12 (chaotic, finesse, magical); **Damage** 2d8+3 piercing plus 1d4 chaotic and garbled thoughts plus garbled thoughts
+**Melee** ◆ jaws +12 (chaotic, finesse, magical); **Damage** 2d8+3 piercing plus 1d4 chaotic and garbled thoughts plus garbled thoughts
 
-**Melee** tail +12 (chaotic, finesse, magical); **Damage** 2d6+3 bludgeoning plus 1d4 chaotic and Grab plus Grab
+**Melee** ◆ tail +12 (chaotic, finesse, magical); **Damage** 2d6+3 bludgeoning plus 1d4 chaotic and Grab plus Grab
 
 **Innate divine Spells** (DC 20), attack +12
 
+  **Constant (4th)** freedom of movement
+
   **Cantrips (2nd)** acid splash, daze, ghost sound, mage hand, sigil
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
   **3rd** glyph of warding, secret page
 

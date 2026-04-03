@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +3, Athletics +5, Intimidation +3, Labor Lore +4
+
 **STR** +3, **DEX** +1, **CON** +3, **INT** +0, **WIS** +1, **CHA** +1
 
 **Items** empty bottle (3), leather armor, whiskey (1 bottle)
@@ -25,9 +27,9 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** fist +7 (agile, nonlethal); **Damage** 1d4+3 bludgeoning
+**Melee** ◆ fist +7 (agile, nonlethal); **Damage** 1d4+3 bludgeoning
 
-**Melee** bottle +5 (agile, thrown <20 feet>); **Damage** 1d6+3 bludgeoning
+**Ranged** ◆ bottle +5 (agile, thrown <20 feet>); **Damage** 1d6+3 bludgeoning
 
 **Heft Crate** ◆◆ (manipulate) **Requirements** The dockhand is adjacent to a crate; The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a 5-foot burst. Each creature within the area takes 2d6 bludgeoning damage (DC 13 basic Reflex save), and the area becomes terrain until cleared.
 

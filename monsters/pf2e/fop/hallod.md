@@ -9,6 +9,8 @@ unique, le, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +8, Athletics +11, Nature +7, Stealth +8, Survival +7
+
 **STR** +4, **DEX** +3, **CON** +1, **INT** +0, **WIS** +2, **CHA** +0
 
 **Items** heavy crossbow (10 bolts), +1 kukri, leather armor, lesser healing potion, lesser juggernaut mutagen (2), strongbox key
@@ -25,11 +27,11 @@ unique, le, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** kukri +12 (agile, trip); **Damage** 1d6+6 slashing
+**Melee** ◆ kukri +12 (agile, trip); **Damage** 1d6+6 slashing
 
-**Melee** fist +11 (agile, nonlethal, unarmed); **Damage** 1d4+6 bludgeoning
+**Melee** ◆ fist +11 (agile, nonlethal, unarmed); **Damage** 1d4+6 bludgeoning
 
-**Melee** heavy crossbow +10 (range increment 120 ft., reload <2>); **Damage** 1d10+2 piercing
+**Ranged** ◆ heavy crossbow +10 (range increment 120 ft., reload <2>); **Damage** 1d10+2 piercing
 
 **Attack of Opportunity** ◈
 

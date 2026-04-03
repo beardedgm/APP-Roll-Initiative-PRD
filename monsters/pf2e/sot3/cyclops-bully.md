@@ -5,9 +5,11 @@ uncommon, le, large, giant, humanoid
 
 ---
 
-**Perception** +17
+**Perception** +17; low-light vision
 
 **Languages** common, cyclops, jotun
+
+**Skills** Athletics +19, Intimidation +18, Survival +17
 
 **STR** +6, **DEX** +0, **CON** +4, **INT** -1, **WIS** +4, **CHA** +3
 
@@ -29,8 +31,8 @@ uncommon, le, large, giant, humanoid
 
 Speed 30 feet
 
-**Melee** greatclub +21 (backswing, reach <10 feet>, shove); **Damage** 2d10+10 bludgeoning
+**Melee** ◆ greatclub +21 (backswing, reach <10 feet>, shove); **Damage** 2d10+10 bludgeoning
 
-**Melee** fist +21 (agile, unarmed); **Damage** 2d6+10 bludgeoning
+**Melee** ◆ fist +21 (agile, unarmed); **Damage** 2d6+10 bludgeoning
 
 **Terrorizing Swing** ◆◆ The cyclops bully attempts to Demoralize a foe within its melee reach, then makes a melee Strike against that foe. If the creature is frightened and takes damage, it takes an additional 2d10 damage and is knocked prone. This counts as two attacks toward the cyclops's multiple attack penalty.

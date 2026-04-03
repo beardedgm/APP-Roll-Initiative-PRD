@@ -5,9 +5,11 @@ uncommon, le, large, dragon, fire
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision, scent 60 feet (imprecise), smoke vision
 
 **Languages** common, draconic, undercommon
+
+**Skills** Acrobatics +11, Arcana +13, Athletics +17, Crafting +17, Deception +10, Intimidation +12, Nature +13, Stealth +13, Survival +11
 
 **STR** +6, **DEX** +2, **CON** +3, **INT** +4, **WIS** +2, **CHA** +1
 
@@ -29,11 +31,11 @@ uncommon, le, large, dragon, fire
 
 Speed 40 feet, fly 80 feet, burrow 30 feet
 
-**Melee** jaws +18 (reach <10 feet>); **Damage** 2d8+8 piercing plus 1d6 fire
+**Melee** ◆ jaws +18 (reach <10 feet>); **Damage** 2d8+8 piercing plus 1d6 fire
 
-**Melee** claw +18 (agile); **Damage** 2d8+8 slashing plus adamantine claws and Grab plus adamantine claws, Grab
+**Melee** ◆ claw +18 (agile); **Damage** 2d8+8 slashing plus adamantine claws and Grab plus adamantine claws, Grab
 
-**Melee** tail +18 (reach <20 feet>); **Damage** 2d8+8 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +18 (reach <20 feet>); **Damage** 2d8+8 bludgeoning plus Grab plus Grab
 
 **Innate arcane Spells** (DC 25)
 
