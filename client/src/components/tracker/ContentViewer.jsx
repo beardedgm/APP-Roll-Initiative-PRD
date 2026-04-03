@@ -3,7 +3,7 @@ import { BookOpen } from 'lucide-react';
 import { marked } from 'marked';
 import DOMPurify from 'dompurify';
 import { useMonster } from '../../api/useMonsters';
-import { useSpell } from '../../api/useSpells';
+import { useSpell, useSpellNames } from '../../api/useSpells';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
 
@@ -75,22 +75,36 @@ function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
   const monster = isCustomSlug ? storeDetailMonster : apiMonster;
   const loading = isCustomSlug ? false : isLoading;
 
-  // Event delegation for dice clicks in the rendered HTML.
+  const monsterGameSystem = monster?.gameSystem || '5e';
+  const { data: spellNames } = useSpellNames(monsterGameSystem);
+  const pushContent = useUIStore(s => s.pushContent);
+
+  // Event delegation for dice clicks and spell link clicks in the rendered HTML.
   // Must re-run when monster loads (detailRef is null during loading state).
   useEffect(() => {
-    if (!detailRef.current || !onRollDice) return;
+    if (!detailRef.current) return;
 
     const el = detailRef.current;
     const handler = (e) => {
+      // Dice roll click
       const diceEl = e.target.closest('.dice-roll');
-      if (!diceEl || !el.contains(diceEl)) return;
-      const notation = diceEl.dataset.dice;
-      if (notation) onRollDice(notation);
+      if (diceEl && el.contains(diceEl) && onRollDice) {
+        const notation = diceEl.dataset.dice;
+        if (notation) onRollDice(notation);
+        return;
+      }
+      // Spell link click
+      const spellEl = e.target.closest('.spell-link');
+      if (spellEl && el.contains(spellEl)) {
+        const spellSlug = spellEl.dataset.spellSlug;
+        const spellName = spellEl.textContent;
+        if (spellSlug) pushContent({ type: 'spell', slug: spellSlug, name: spellName });
+      }
     };
 
     el.addEventListener('click', handler);
     return () => el.removeEventListener('click', handler);
-  }, [onRollDice, monster, loading]);
+  }, [onRollDice, monster, loading, spellNames, pushContent]);
 
   const handleDelete = useCallback((deleteSlug) => {
     try {
@@ -125,8 +139,9 @@ function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
 
   const markdown = monster.rawMarkdown || buildFallbackMarkdown(monster);
   const htmlWithDice = makeDiceClickable(marked.parse(markdown));
-  const html = DOMPurify.sanitize(htmlWithDice, {
-    ADD_ATTR: ['data-dice'],
+  const htmlWithSpells = makeSpellsClickable(htmlWithDice, spellNames || []);
+  const html = DOMPurify.sanitize(htmlWithSpells, {
+    ADD_ATTR: ['data-dice', 'data-spell-slug'],
     ADD_TAGS: ['span'],
   });
 
@@ -233,6 +248,28 @@ function SpellContent({ slug, breadcrumb, onBack, onRollDice }) {
       />
     </div>
   );
+}
+
+/* ---- Utility: makeSpellsClickable ---- */
+
+/**
+ * Scan rendered HTML for known spell names and wrap them in clickable spans.
+ * Sorts by name length descending so "Magic Missile" matches before "Magic".
+ * Only matches text between HTML tags to avoid corrupting tag attributes.
+ */
+function makeSpellsClickable(html, spellIndex) {
+  if (!spellIndex?.length) return html;
+  const sorted = [...spellIndex].sort((a, b) => b.name.length - a.name.length);
+  let result = html;
+  for (const spell of sorted) {
+    const escaped = spell.name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    // Match spell name in text nodes only (between > and <), case-insensitive, word boundary
+    const regex = new RegExp(`(>[^<]*?)(\\b${escaped}\\b)([^<]*?<)`, 'gi');
+    result = result.replace(regex, (match, before, name, after) => {
+      return `${before}<span class="spell-link" data-spell-slug="${spell.slug}" title="View ${spell.name}">${name}</span>${after}`;
+    });
+  }
+  return result;
 }
 
 /* ---- Utility: makeDiceClickable ---- */
