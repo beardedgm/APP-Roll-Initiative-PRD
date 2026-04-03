@@ -1,0 +1,15 @@
+# Take Root
+
+*cantrip, manipulate, plant, wood*
+
+- **Level**: Spell 1
+- **Traditions**: arcane, primal
+- **Cast**: ◆ (somatic, verbal)
+- **Range**: 30 feet
+- **Targets**: 1 willing creature
+- **Duration**: 1 round
+- **Source**: RoE p.198
+
+---
+
+Roots sprout from the flesh of the target and coil across the floor or around objects, reinforcing their stance or grip. The targeted creature gains a +1 circumstance bonus to their Fortitude DC against attempts to Shove them and a +1 circumstance bonus to their Reflex DC against attempts to Disarm or Trip them. This bonus also applies to saving throws against spells or effects that would attempt to remove a held item from their grasp.
