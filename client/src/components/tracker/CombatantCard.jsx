@@ -16,7 +16,7 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
   const applyDamageHeal = useCombatStore(s => s.applyDamageHeal);
   const combatState = useCombatStore(s => s.state);
   const isPreCombat = combatState === 'pre-combat';
-  const initDisplay = isPreCombat ? '—' : (Number.isInteger(initiative) ? initiative : initiative.toFixed(1));
+  const initDisplay = isPreCombat || initiative == null ? '—' : Number.isInteger(initiative) ? initiative : initiative.toFixed(1);
   const [hpInput, setHpInput] = useState('');
   const [inputError, setInputError] = useState(false);
   const [lastAction, setLastAction] = useState('damage');
