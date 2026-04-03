@@ -35,7 +35,23 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 26), attack +18
 
+  **1st** feather fall, ray of enfeeblement
+
+  **2nd** death knell
+
+  **3rd** paralyze
+
 **Spontaneous occult Spells** (DC 26), attack +18
+
+  **Cantrips (8th)** chill touch, daze, message, shield, telekinetic projectile
+
+  **1st (4 slots)** bane, fear, grim tendrils, phantom pain
+
+  **2nd (4 slots)** dispel magic, ghoulish craving, invisibility, touch of idiocy
+
+  **3rd (4 slots)** haste, levitate, slow, vampiric touch
+
+  **4th (4 slots)** call the blood, confusion, dimension door, phantasmal killer
 
 **Blood Offering** ◆ (occult, metamagic, necromancy) **Frequency** {"unit":"round","number":1}; The blood mage cuts themself and takes 8 slashing damage. If the blood mage's next action is to Cast a Spell, the action can't be disrupted, and if the spell has a range, the blood mage can increase that spell's range by 30 feet.
 

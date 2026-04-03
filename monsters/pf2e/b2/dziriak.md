@@ -29,6 +29,8 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 19)
 
+  **7th** plane shift, to Shadow
+
 **Dazzling Burst** ◆◆ (light, visual) The d'ziriak causes its body to flare with intense colorful light. Non-d'ziriaks in a 20-foot emanation must attempt a DC 20 Fortitude save. After using this ability, the d'ziriak loses its glow for 24 hours; during this time it can't use.
 
 **Dazzling** Burst again. A creature that attempts this save is immune to all.

@@ -33,7 +33,15 @@ Speed 25 feet, climb 20 feet
 
 **Spontaneous occult Spells** (DC 22), attack +15
 
+  **Cantrips (1st)** daze, detect magic, ghost sound, mage hand, sigil
+
+  **1st (4 slots)** charm, ventriloquism
+
 **Innate occult Spells** (DC 19)
+
+  **3rd** clairaudience, mind reading
+
+  **4th** clairvoyance
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The dandasuka takes on the appearance of any Small humanoid. This doesn't change the dandasuka's Speed or its attack and damage modifiers with its Strikes, but it might change the damage type its Strikes deal (typically to bludgeoning). It typically loses its fangs Strike unless the humanoid form has fangs or a similar unarmed attack.
 

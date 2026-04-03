@@ -20,3 +20,9 @@
 ---
 
 **Spontaneous primal Spells** (DC 27), attack +19
+
+  **Cantrips (6th)** frostbite, detect magic, light
+
+  **5th (3 slots)** fireball, hydraulic torrent, wall of thorns
+
+  **6th (2 slots)** acid grip, slow

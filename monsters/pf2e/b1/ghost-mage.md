@@ -35,6 +35,18 @@ Speed fly 25 feet
 
 **Innate arcane Spells** (DC 29), attack +23
 
+  **Cantrips (5th)** detect magic, ghost sound, mage hand, prestidigitation, read magic
+
+  **1st** ray of enfeeblement
+
+  **2nd** telekinetic maneuver
+
+  **3rd** blindness, dispel magic, nondetection
+
+  **4th** phantasmal killer, suggestion
+
+  **5th** cone of cold, hallucination
+
 **Frightful Moan** ◆ (auditory, divine, emotion, enchantment, fear, mental) DC 29
 
 **Telekinetic Assault** ◆◆ (divine, evocation) 6d6 bludgeoning, DC 29

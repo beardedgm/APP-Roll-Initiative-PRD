@@ -34,3 +34,7 @@ Speed 5 feet, fly 25 feet
 **Melee** claw +7 (finesse); **Damage** 1d6 slashing
 
 **Innate occult Spells** (DC 18), attack +10
+
+  **Cantrips (1st)** daze, ghost sound, mage hand, read aura, telekinetic projectile
+
+  **1st** magic missile, mindlink

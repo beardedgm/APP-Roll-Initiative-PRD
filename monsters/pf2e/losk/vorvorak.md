@@ -37,6 +37,14 @@ Speed 40 feet, swim 30 feet, climb 30 feet
 
 **Innate primal Spells** (DC 26)
 
+  **2nd** mist, vanishing tracks
+
+  **3rd** aqueous orb, slow
+
+  **4th** hydraulic torrent, mirage
+
+  **5th** control water
+
 **Canal Walker** A vorvorak ignores difficult terrain caused by swamp terrain features.
 
 **Vorvorak Bile** (poison)

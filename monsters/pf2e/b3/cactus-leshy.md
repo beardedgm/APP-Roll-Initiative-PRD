@@ -35,6 +35,8 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 18)
 
+  **4th** speak with plants
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) As vine leshy, except the cactus leshy transforms into a cactus.
 
 **Prickly Burst** ◆◆ **Frequency** {"unit":"day","number":1}; The cactus leshy shoots their spines in every direction. All creatures in a 10-foot emanation take 3d6 piercing damage (DC 18 basic Reflex save).

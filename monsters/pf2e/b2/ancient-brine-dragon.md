@@ -39,6 +39,12 @@ Speed 50 feet, fly 140 feet, swim 70 feet
 
 **Innate primal Spells** (DC 38), attack +30
 
+  **4th** hydraulic push, obscuring mist
+
+  **5th** control water, mariner's curse
+
+  **6th** hydraulic torrent
+
 **Breath Weapon** ◆◆ (acid, evocation, primal) The dragon breathes a spray of acidic salt water that deals 18d6 acid damage in a 120-foot line (DC 38 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.
 
 **Capsize** ◆ (attack) The dragon tries to capsize an adjacent aquatic vessel of their size or smaller. They must succeed at an Athletics check with a DC of 35 (reduced by 5 for each size smaller the vessel is than the dragon) or the pilot's Sailing Lore DC, whichever is higher.

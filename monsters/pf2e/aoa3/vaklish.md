@@ -37,7 +37,23 @@ Speed 35 feet
 
 **Spontaneous occult Spells** (DC 32), attack +24
 
+  **Cantrips (6th)** dancing lights, detect magic, mage hand, shield, telekinetic projectile
+
+  **1st (4 slots)** charm, magic missile, ray of enfeeblement
+
+  **2nd (4 slots)** hideous laughter, mirror image, silence
+
+  **3rd (4 slots)** dream message, hypnotic pattern, slow
+
+  **4th (4 slots)** fly, soothe, suggestion
+
+  **5th (4 slots)** dispel magic, shadow blast, synaptic pulse
+
+  **6th (3 slots)** dominate, feeblemind, spirit blast
+
 **Innate occult Spells** (DC 32)
+
+  **3rd** mind reading
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) Vaklish takes on the appearance of any Medium humanoid. This doesn't change Vaklish's Speed or his attack and damage modifiers with his Strikes but might change the damage type his Strikes deal (typically to bludgeoning). He typically loses his fangs Strike unless the humanoid form has fangs or a similar unarmed attack.
 

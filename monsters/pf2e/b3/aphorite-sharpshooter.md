@@ -33,6 +33,8 @@ Speed 20 feet
 
 **Innate divine Spells** (DC 18)
 
+  **1st** true strike
+
 **Calculated Reload** When the sharpshooter reloads their crossbow, they also calculate the best angle to their target, increasing the damage die from 1d8 to 1d10 and gaining a +2 circumstance bonus to their damage roll for their next crossbow Strike, as long as it occurs before the end of their next turn.
 
 **Hurtful Critique** ◆ (auditory, emotion, linguistic, mental) The sharpshooter makes witty, but disparaging comments about the fighting style of a target within 30 feet, expressing sympathy over every missed blow and providing sarcastic advice on how to improve. The target must succeed at a DC 18 Will save or take a –1 circumstance penalty to attack rolls (–2 on a critical failure) for 1 minute or until it makes a successful Strike against the sharpshooter. A creature who critically succeeds or who Strikes the sharpshooter after failing is immune to that sharpshooter's Hurtful Critique for 1 hour.

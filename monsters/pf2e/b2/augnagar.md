@@ -35,6 +35,8 @@ Speed 40 feet, fly 40 feet, climb 40 feet
 
 **Innate occult Spells** (DC 31)
 
+  **5th** dimension door
+
 **Confusing Display** ◆◆ (concentrate, emotion, enchantment, fear, incapacitation, mental, occult, visual) The augnagar's writhing limbs and flesh seethe and squirm in a disorienting and unsettling manner. Creatures in a 30-foot emanation must attempt a DC 34 Will save, after which they are temporarily immune to further Confusing Displays for 1 minute. **Critical Success** The creature is unaffected.
 **Success** The creature is stupefied 1 for 1 round.
 **Failure** The creature is stupefied 1 and confused for 1 minute.

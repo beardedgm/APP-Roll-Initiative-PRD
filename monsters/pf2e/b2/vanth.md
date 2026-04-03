@@ -39,6 +39,14 @@ Speed 25 feet, fly 40 feet
 
 **Innate divine Spells** (DC 22)
 
+  **2nd** invisibility
+
+  **3rd** locate, searing light
+
+  **4th** dimension door
+
+  **5th** dimension door
+
 **Infuse Weapon** (divine, evocation) A vanth's scythe is its symbol of office and gains a measure of its personal power. This scythe becomes a +1 scythe and is treated as if it were adamantine while the vanth wields it. A vanth whose scythe is taken or destroyed can infuse a new one with an hour of work.
 
 **Spirit Touch** A vanth's Strikes affect incorporeal creatures with the effects of a ghost touch property rune and deal 2d6 negative damage to living creatures and 2d6 positive damage to undead.

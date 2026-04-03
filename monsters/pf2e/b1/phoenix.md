@@ -39,4 +39,12 @@ Speed 25 feet, fly 70 feet
 
 **Innate primal Spells** (DC 39)
 
+  **Cantrips (8th)** light
+
+  **6th** restoration
+
+  **7th** dispel magic
+
+  **8th** continual flame, dispel magic, flame strike, heal, remove curse, wall of fire
+
 **Flaming Strafe** ◆ (evocation, fire, primal) The phoenix blazes with superheated flame and Flies up to its Speed. It deals 6d6 fire damage to each creature within 20 feet of each square it moves through (DC 37 basic Reflex save).

@@ -31,6 +31,14 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** detect magic, disrupt undead, light, read aura, shield
+
+  **1st** disrupting weapons, mindlink, spirit link
+
+  **2nd** gentle repose, silence, spiritual weapon
+
+  **3rd** circle of protection, heal, searing light
+
 **Healing Hands** When the priest casts heal, they roll d10s instead of d8s.
 
 **Steady Spellcasting** If another creature's reaction would disrupt the priest's spellcasting action, the priest attempts a DC 15 flat check. If the priest succeeds, their action isn't disrupted.

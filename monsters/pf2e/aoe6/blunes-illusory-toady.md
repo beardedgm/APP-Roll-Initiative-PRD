@@ -37,4 +37,10 @@ Speed 30 feet
 
 **Innate arcane Spells** (DC 36), attack +28
 
+  **Cantrips (5th)** guidance
+
+  **5th** magic missile, shield other, telekinetic haul
+
+  **6th** heroism
+
 **Amplify Spell** ◆◆◆ (arcane, transmutation) The toady wills itself to become a conduit for Blune's next spell, empowering the spell. The toady becomes immobilized until the beginning of its next turn. If Blune Bandersworth is within 30 feet and Casts a Spell before the toady's next turn, the spell travels through the toady before redirecting toward its intended target. The spell is heightened by 1 level, to a maximum of 10th level. The toady is then destroyed.

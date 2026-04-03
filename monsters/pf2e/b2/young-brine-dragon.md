@@ -39,6 +39,10 @@ Speed 30 feet, fly 100 feet, swim 50 feet
 
 **Innate primal Spells** (DC 26), attack +18
 
+  **1st** hydraulic push
+
+  **2nd** obscuring mist
+
 **Breath Weapon** ◆◆ (acid, evocation, primal) The dragon breathes a spray of acidic salt water that deals 9d6 acid damage in an 80-foot line (DC 26 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.
 
 **Draconic Frenzy** ◆◆ The dragon makes two claw Strikes and one wing Strike in any order.

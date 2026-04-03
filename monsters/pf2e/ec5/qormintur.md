@@ -43,6 +43,10 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 35)
 
+  **2nd** enlarge
+
+  **4th** invisibility
+
 **Bomber** When throwing an alchemical bomb with the splash trait, Qormintur can choose to deal splash damage to her primary target only, rather than dealing the usual splash damage.
 
 **Dire Warning** ◆ (auditory, concentrate, emotion, linguistic, mental) Qormintur reminds others of the punishments Shraens mete out for failure. Qormintur and all allies within 60 feet of her gain a +1 status bonus to attack rolls and damage rolls until the end of Qormintur's next turn.

@@ -42,6 +42,12 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 24)
 
+  **2nd** darkness
+
+  **4th** dimension door
+
+  **5th** dimension door
+
 **Grievous Strike** ◆◆ The babau attacks with the intent of creating a particularly horrific and gory wound. The babau makes a melee Strike. This counts as two attacks when calculating the daemon's multiple attack penalty. If this Strike hits, the babau deals an additional 2d6 damage of the same damage type, and the creature struck is frightened 2.
 
 **Sneak Attack** The babau's Strikes deal an extra 2d6 precision damage to flat-footed creatures. Rituals like planar ally or planar binding are typical for long-term ends, and summon fiend for combat applications. For planar ally, demons.

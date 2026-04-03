@@ -40,4 +40,6 @@ Speed fly 40 feet
 
 **Innate occult Spells** (DC 15), attack +7
 
+  **Cantrips (1st)** daze, ghost sound
+
 **Boar Charge** ◆◆ The phantom boar Strides twice and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll.

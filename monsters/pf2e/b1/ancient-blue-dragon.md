@@ -41,6 +41,14 @@ Speed 50 feet, fly 200 feet, burrow 30 feet
 
 **Innate arcane Spells** (DC 43)
 
+  **Cantrips (8th)** ghost sound
+
+  **1st** create water
+
+  **7th** project image
+
+  **8th** hallucinatory terrain, illusory creature, illusory object, ventriloquism
+
 **Breath Weapon** (arcane, electricity, evocation) The dragon breathes lightning that deals 12d12 electricity damage in a 120-foot line (DC 40 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds. Each time the dragon uses Breath Weapon, a 20-foot-radius storm cloud appears 80 feet above a point of the dragon's choosing along the Breath Weapon's path. Clouds last for 10 minutes and allow the dragon to use Storm Breath.
 
 **Desert Thirst** (arcane, transmutation) When casting create water, the dragon can attempt to destroy liquid instead of creating it, turning an equal amount of liquid into sand. This destroys liquid magic or alchemical items if they're of a lower level than the dragon (a creature can attempt a DC 37 Will save to protect all liquids in its possession). This doesn't affect the liquids in a creature's body.

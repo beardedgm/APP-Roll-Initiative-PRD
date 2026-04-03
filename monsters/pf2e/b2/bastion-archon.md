@@ -35,6 +35,12 @@ Speed 70 feet
 
 **Innate divine Spells** (DC 42), attack +34
 
+  **4th** dimension door
+
+  **7th** prismatic spray, true target, vibrant pattern
+
+  **10th** meteor swarm, polar ray, sunburst
+
 **Archon's Door** Once per day, if an archon sees another creature cast dimension door, the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door.
 
 **Blinding Beams** ◇ **Trigger** The bastion archon hits a creature with two fist Strikes this turn and can use its Holy Beam;; The bastion archon fires its Holy Beam at only the creature it hit twice. The creature's save result is one degree of success worse than the result it rolled.

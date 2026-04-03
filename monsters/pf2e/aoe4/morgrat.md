@@ -38,6 +38,20 @@ Speed 25 feet
 
 **Spontaneous primal Spells** (DC 28), attack +17
 
+  **Cantrips (5th)** detect magic, guidance, light, ray of frost, read aura
+
+  **1st (4 slots)** fleet step, gust of wind, spider sting
+
+  **2nd (4 slots)** animal messenger, faerie fire, imp sting
+
+  **3rd (4 slots)** blindness, earth bind, stinking cloud
+
+  **4th (3 slots)** heal, summon animal, swarming wasp stings
+
+  **5th (2 slots)** cloudkill, wyvern sting
+
 **Innate primal Spells** (DC 28)
+
+  **2nd** detect poison
 
 **Steady Spellcasting** If another creature's reaction would disrupt the venom mage's spellcasting action, the venom mage attempts a DC 15 flat check. If the venom mage succeeds, their action isn't disrupted.

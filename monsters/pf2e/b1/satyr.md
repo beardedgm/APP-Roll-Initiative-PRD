@@ -35,6 +35,10 @@ Speed 35 feet
 
 **Innate primal Spells** (DC 21)
 
+  **Cantrips (2nd)** dancing lights, ghost sound, inspire competence, inspire courage, triple time
+
+  **4th** charm, fear, sleep, suggestion
+
 **Fleet Performer** When the satyr Plays the Pipes to cast a spell, he can Step or Stride as part of the activity.
 
 **Play the Pipes** ◆◆◆ (auditory, primal) **Requirements** The satyr is holding a musical instrument.; The satyr plays a melody on his instrument to cast charm, fear, sleep, or suggestion without expending the spell slot and using his music in place of providing the spell's component actions. The spell gains the auditory trait and targets all creatures in a 60-foot emanation instead of its usual targets. A creature that succeeds at its Will save against any spell is then temporarily immune from spells played from that satyr's pipes for 1 minute. Satyrs are immune to this music.

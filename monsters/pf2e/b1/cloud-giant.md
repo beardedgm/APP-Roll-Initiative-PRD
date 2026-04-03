@@ -37,6 +37,12 @@ Speed 30 feet
 
 **Innate primal Spells** (DC 30)
 
+  **2nd** obscuring mist
+
+  **3rd** levitate
+
+  **4th** solid fog
+
 **Throw Rock** ◆
 
 **Wind Strike** ◆◆ (air, evocation, primal) The cloud giant Strikes a creature with its ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 bludgeoning damage and is deafened for 1 minute. Whether or not the Strike hits, each non-cloud giant within a 20-foot emanation, including the target of the Strike, is buffeted by roaring winds and must attempt a DC 30 Fortitude saving throw. **Critical Success** The creature is unaffected.

@@ -34,3 +34,13 @@ Speed 25 feet, fly 45 feet
 **Melee** tail +18 (agile, magical, reach <10 feet>); **Damage** 2d6+10 bludgeoning plus 1d6 chaotic, 1d6 good, and Grab plus Grab
 
 **Innate divine Spells** (DC 26)
+
+  **Cantrips (4th)** daze, detect magic, ghost sound, inspire competence, inspire courage, light
+
+  **1st** charm
+
+  **2nd** darkness, invisibility
+
+  **3rd** sleep
+
+  **4th** counter performance, hallucinatory terrain, heal, inspire heroics, sound burst, suggestion

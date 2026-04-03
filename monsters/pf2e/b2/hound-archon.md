@@ -35,6 +35,10 @@ Speed 35 feet
 
 **Innate divine Spells** (DC 19)
 
+  **Cantrips (2nd)** message
+
+  **4th** dimension door
+
 **Archon's Door** Once per day, if an archon sees another creature cast dimension door, the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door.
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) A hound archon can take the appearance of any canid animal of Small to Large size. This doesn't change their Speed or the attack and damage bonuses for their Strikes, but if the canid's bite attack has the Knockdown ability, then the hound archon's bite attack gains that ability while they are in that form.

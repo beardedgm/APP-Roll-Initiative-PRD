@@ -41,6 +41,16 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** detect magic, divine lance, sigil
+
+  **1st** command, enfeeble
+
+  **2nd** dispel magic, silence
+
+  **3rd** crisis of faith, dispel magic
+
+  **4th** dull ambition
+
 **Change Shape** ◆ (concentrate, divine, polymorph) The bibliodaemon can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strike|PC1|Strikes, but it might change the damage type their claw Strike|PC1|Strikes deal (typically to bludgeoning).
 
 **Death by 1,000 Papercuts** ◆◆ (divine) The bibliodaemon launches a torrent of sharp papers from the sleeves of their robes. All creatures in a 15-foot cone take 9d6 slashing damage (DC 23 basic Reflex save). Creatures that fail their save also take 2d4 persistent damage|PC1|persistent bleed damage. The bibliodaemon can't use Death by 1,000 Papercuts again for 1d4 rounds.

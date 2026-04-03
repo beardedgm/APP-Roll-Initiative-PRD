@@ -41,6 +41,18 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 41), attack +31
 
+  **4th** ray of enfeeblement, sleep
+
+  **5th** invisibility
+
+  **6th** dream message, magic missile
+
+  **7th** nightmare, shadow blast
+
+  **8th** dream council
+
+  **9th** bind soul, ethereal jaunt
+
 **Abyssal Plague** (disease)
 
 **Change Shape** ◆ As night hag.

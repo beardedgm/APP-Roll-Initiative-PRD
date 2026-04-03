@@ -39,4 +39,12 @@ Speed 15 feet
 
 **Innate divine Spells** (DC 32), attack +22
 
+  **3rd** bind undead, fear
+
+  **4th** enervation, ghostly tragedy
+
+  **5th** shadow blast
+
+  **6th** harm, spirit blast, vampiric exsanguination
+
 **Drain Qi** ◆ (divine, necromancy) When Draining Qi, the provincial jiang-shi regains 13 HP.

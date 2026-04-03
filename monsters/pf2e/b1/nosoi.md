@@ -31,6 +31,10 @@ Speed 15 feet, fly 40 feet
 
 **Innate divine Spells** (DC 16)
 
+  **2nd** invisibility, sound burst
+
+  **4th** read omens, talking corpse
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The nosoi takes the appearance of a raven or songbird. This doesn't change its Speed or its attack and damage modifiers with its Strikes.
 
 **Haunting Melody** ◆ (auditory, concentrate, divine, enchantment, incapacitation, mental) The nosoi croons an entrancing song. Each living or undead creature within a 60-foot emanation must attempt a DC 18 Will save. The effect lasts for 1 round, but a nosoi can use this ability again on subsequent rounds to extend the duration by 1 round for all affected creatures. A creature that succeeds at any save is temporarily immune for 24 hours. Despite being a mental effect, this ability affects mindless undead. Psychopomps are immune to this ability. **Failure** The creature is fascinated.

@@ -37,6 +37,8 @@ Speed 10 feet, fly 70 feet
 
 **Innate primal Spells** (DC 31)
 
+  **5th** cone of cold, gust of wind, wall of wind
+
 **Windslice** Pengs can move in any wind with easy grace. A peng ignores terrain caused by wind and doesn't need to Maneuver in Flight in high winds.
 
 **Cloud Cover** ◆ (air, evocation, primal) The peng exhales a thick cloud and envelops themself in the mist. The peng gains cover until the end of their next turn.

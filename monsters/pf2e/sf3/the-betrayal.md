@@ -41,6 +41,26 @@ Speed 25 feet, fly 40 feet
 
 **Innate occult Spells** (DC 42), attack +34
 
+  **Cantrips (9th)** daze, detect magic, ghost sound, telekinetic projectile
+
+  **1st** color spray, ill omen, ray of enfeeblement
+
+  **2nd** augury, hideous laughter, mirror image
+
+  **3rd** blindness, hypnotic pattern, paralyze
+
+  **4th** confusion, phantasmal killer, suggestion
+
+  **5th** shadow blast, shadow siphon, synesthesia
+
+  **6th** feeblemind, spirit blast, true seeing
+
+  **7th** prismatic spray, visions of danger, warp mind
+
+  **8th** discern location, maze, uncontrollable dance
+
+  **9th** dispel magic, foresight, wail of the banshee
+
 **Shuffle the Deck** ◆◆
 
 **Shift Reality** ◆◆◆ (conjuration, occult, teleportation) If the Betrayal is in the Harrowing Room, she vanishes and then reappears at any location she chooses in Sonnorae's Library. If she's in the library, she vanishes and reappears in a space of her choice in the Harrowing Room.

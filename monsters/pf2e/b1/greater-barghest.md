@@ -35,6 +35,14 @@ Speed 35 feet
 
 **Innate divine Spells** (DC 25)
 
+  **1st** charm
+
+  **2nd** invisibility
+
+  **3rd** levitate
+
+  **4th** blink, confusion, dimension door, enlarge
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The barghest takes on the shape of a goblinoid (a goblin, hobgoblin, or bugbear) or a wolf, or it transforms back into its true form. When the barghest is a goblinoid, it loses its jaws and claw Strikes, it becomes Small if it is a goblin, and its Speed changes to 20 feet. When the barghest is a wolf, its Speed changes to 40 feet and its jaws gain Knockdown. Each individual barghest has only one goblinoid form and one wolf form.
 
 **Mutations** The process of consuming corpses to evolve into a greater barghest results in odd and unpredictable physiological changes. A greater barghest has one mutation, typically chosen from the following options. - Fangs (poison) The barghest grows elongated fangs that seep poison. Its jaws deal 1d6 additional poison damage and 1d6 persistent poison damage.

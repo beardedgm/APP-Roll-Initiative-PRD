@@ -35,7 +35,17 @@ Speed 30 feet, burrow 5 feet
 
 **Prepared divine Spells** (DC 22), attack +14
 
+  **Cantrips (3rd)** chill touch, daze, read aura, shield, sigil
+
+  **1st** bane, command, harm, ray of enfeeblement
+
+  **2nd** dispel magic, harm, silence, sound burst
+
+  **3rd** chilling darkness, harm, vampiric touch
+
 **Domain Spells** (DC 22)
+
+  **3rd** touch of undeath
 
 **Consume Flesh** ◆ (manipulate) **Requirements** Nhakazarin is adjacent to the corpse of a creature that died within the last hour; Nhakazarin devours a chunk of the corpse and regains 3d6 Hit Points. Nhakazarin can regain Hit Points from any given corpse only once.
 

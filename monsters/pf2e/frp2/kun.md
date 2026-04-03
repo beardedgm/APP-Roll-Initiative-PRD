@@ -35,6 +35,8 @@ Speed swim 40 feet
 
 **Innate primal Spells** (DC 32)
 
+  **7th** control water, darkness, wall of ice
+
 **Funnel** ◆◆ (cold, evocation, primal, water) The kun inhales violently, sucking in heat and all creatures in the water in a 60-foot cone. Creatures in the area must succeed at a DC 33 Fortitude save or take 10d8 cold damage. The kun can't Funnel again for 1d4 rounds. **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
 **Failure** The creature takes full damage and is pulled 30 feet toward the kun.

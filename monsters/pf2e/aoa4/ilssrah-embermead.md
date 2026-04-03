@@ -35,7 +35,27 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 36), attack +32
 
+  **Cantrips (8th)** detect magic, disrupt undead, message, shield, sigil
+
+  **1st** command, purify food and drink, ray of enfeeblement
+
+  **2nd** augury, darkness, silence
+
+  **3rd** circle of protection, locate
+
+  **4th** air walk, anathematic reprisal, divine wrath
+
+  **5th** death ward, heal, sending
+
+  **6th** blade barrier, heroism, true seeing
+
+  **7th** divine decree, energy aegis, heal
+
+  **8th** divine aura, harm, spiritual epidemic
+
 **Cleric Domain Spells** (DC 36)
+
+  **8th** commanding lash, touch of obedience
 
 **Efficient Capture** ◆◆◆ (attack, manipulate) **Requirements** Ilssrah has manacles in hand and is adjacent to a creature.; Ilssrah attempts to bind the creature's wrists or ankles with the manacles. If she succeeds at an attack roll with a +30 modifier against the target's AC, she applies the manacles.
 

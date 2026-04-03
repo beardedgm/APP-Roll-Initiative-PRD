@@ -39,6 +39,8 @@ Speed 20 feet, burrow 10 feet
 
 **Innate primal Spells** (DC 34)
 
+  **4th** shape stone
+
 **Alchemical Formulas** (14th) greater acid flask, greater alchemist's fire, greater antidote, moderate bravo's brew, greater comprehension elixir, greater frost vial, greater quicksilver mutagen, stone fist elixir, greater tanglefoot bag.
 
 **Earthen Blow** ◆ As xulgath stoneliege (page 84).

@@ -43,6 +43,8 @@ Speed 20 feet
 
 **Innate arcane Spells** (DC 19)
 
+  **2nd** see invisibility
+
 **Imitate Door** ◆ (concentrate) Until the next time it acts, the doorwarden appears to be a door. It has an automatic result of 31 on Deception checks and DCs to pass as a door.
 
 **Slam Doors** ◆◆ (concentrate) The door opens and slams its doors, making two door Strikes against one creature. If both hit, the creature is grabbed—stuck between the doors. The doorwarden's multiple attack penalty doesn't increase until it has finished both attacks.

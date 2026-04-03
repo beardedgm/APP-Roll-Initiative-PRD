@@ -37,6 +37,10 @@ Speed 35 feet
 
 **Innate occult Spells** (DC 20)
 
+  **Cantrips (2nd)** chill touch, disrupt undead
+
+  **2nd** gentle repose
+
 **Blessed Strikes** The eunemvro's Strikes deal damage that's either bludgeoning or positive—whichever deals more damage to the target creature.
 
 **Tide of Creation** ◆◆ (evocation, light, occult, positive) **Requirements** The eunemvro isn't fatigued; The eunemvro channels from their soul a blast of searing positive energy, bathing their enemies in a wave of blinding light and cosmic power. The eunemvro creates either a 10-foot cone or a 30-foot line, dealing 6d8 positive damage (DC 22 basic Fortitude save). A creature that critically fails its save is blinded for 1d4 rounds. After using this ability, the eunemvro becomes fatigued.

@@ -45,6 +45,12 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 38)
 
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **6th** vampiric exsanguination, weapon storm
+
 **Bloody Sneak Attack** Any creature taking persistent bleed damage is flat-footed against the Daemonic Skinner's attacks. When attacking a flat-footed creature, the Skinner deals an additional 2d6 precision damage.
 
 **Hook and Flay** ◆◆ **Requirements** The Daemonic Skinner has a creature grabbed with her blood chain or a creature is affected by her bloody chain aura; The Skinner pulls the creature into the nearest open adjacent square and makes a cleaver Strike against the creature.

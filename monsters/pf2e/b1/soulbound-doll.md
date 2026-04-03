@@ -28,3 +28,7 @@ Speed 20 feet
 **Melee** fist +10 (agile, finesse, magical); **Damage** 1d6+2 bludgeoning
 
 **Innate occult Spells** (DC 18), attack +8
+
+  **Cantrips (1st)** light, mage hand, prestidigitation
+
+  **3rd** levitate, one additional spell depending on the donor soul's alignment

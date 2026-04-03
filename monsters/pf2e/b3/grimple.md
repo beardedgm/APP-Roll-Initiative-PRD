@@ -35,4 +35,8 @@ Speed 10 feet, fly 20 feet, climb 20 feet
 
 **Innate primal Spells** (DC 16)
 
+  **Cantrips (1st)** mage hand, prestidigitation
+
+  **1st** grease
+
 **Putrid Vomit** ◆ The grimple spews a 30-foot line of vomit. Each creature in the line must succeed at a DC 16 Fortitude save or become sickened 1 (sickened 2 on a critical failure). The grimple can't use Putrid Vomit again for 1d4 rounds.

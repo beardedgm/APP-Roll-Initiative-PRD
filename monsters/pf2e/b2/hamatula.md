@@ -37,6 +37,14 @@ Speed 25 feet, fly 30 feet
 
 **Innate divine Spells** (DC 27), attack +21
 
+  **Cantrips (5th)** produce flame
+
+  **3rd** harm, paralyze
+
+  **4th** dimension door
+
+  **5th** dimension door, glyph of warding
+
 **Bloodletting** On a critical hit, the hamatula's barbs deal 3d6 persistent bleed damage.
 
 **Frightful Strike** ◇ (divine, emotion, enchantment, fear, mental) **Trigger** The hamatula hits a creature with a barb Strike; The creature struck must succeed at a DC 27 Will save or become frightened 2 (or frightened 3 on a critical failure). Regardless of the result of its saving throw, the creature is then temporarily immune to Frightful Strike for 24 hours.

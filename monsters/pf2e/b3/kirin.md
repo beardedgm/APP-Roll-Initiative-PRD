@@ -35,6 +35,12 @@ Speed 40 feet
 
 **Innate divine Spells** (DC 25)
 
+  **Cantrips (4th)** light
+
+  **1st** detect alignment
+
+  **3rd** calm emotions, heal, gust of wind
+
 **Breath Weapon** ◆◆ (divine, evocation, fire) The kirin breathes fire in a 30-foot cone, dealing 8d6 fire damage (DC 25 basic Reflex save). The kirin can't use Breath Weapon again for 1d4 rounds.
 
 **Rearing Thrust** ◆◆ The kirin rushes forward, rears up on their hind legs, and descends upon their target with their horn. The kirin Strides and makes a horn Strike. If this Strike hits, it deals an additional 1d8 damage, and the target is knocked prone.

@@ -22,3 +22,11 @@ unique, medium, fungus, leshy, plant
 ---
 
 **Innate primal Spells** (DC 48)
+
+  **Cantrips (10th)** detect magic, read aura
+
+  **8th** desiccate, life-draining roots, unfettered movement
+
+  **9th** energy aegis, entwined roots
+
+  **10th** flourishing flora, heal, nature's pathway, regenerate, truesight

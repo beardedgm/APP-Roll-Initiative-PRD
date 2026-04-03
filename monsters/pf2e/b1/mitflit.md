@@ -37,4 +37,10 @@ Speed 20 feet
 
 **Innate primal Spells** (DC 16)
 
+  **Cantrips (1st)** prestidigitation
+
+  **1st** bane
+
+  **2nd** speak with animals
+
 **Vengeful Anger** (emotion, mental) As long as it isn't frightened, a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it.

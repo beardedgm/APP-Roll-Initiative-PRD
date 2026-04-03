@@ -37,6 +37,20 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 36), attack +26
 
+  **Cantrips (6th)** detect magic, mage hand, message, ray of frost, shield
+
+  **1st** fleet step, ray of enfeeblement, true strike
+
+  **2nd** false life, mirror image, resist energy, see invisibility
+
+  **3rd** blindness, locate, magic missile, vampiric touch
+
+  **4th** dimension door, dispel magic, fire shield, fly
+
+  **5th** cloudkill, cone of cold, wall of ice
+
+  **6th** chain lightning, dominate, vampiric exsanguination
+
 **Drain Phylactery** ◇ 6th level.
 
 **Paralyzing Touch** (arcane, curse, incapacitation, necromancy) DC 32

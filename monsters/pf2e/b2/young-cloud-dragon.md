@@ -41,6 +41,10 @@ Speed 40 feet, fly 140 feet
 
 **Innate primal Spells** (DC 29)
 
+  **1st** gust of wind
+
+  **2nd** obscuring mist
+
 **Breath Weapon** ◆◆ (electricity, evocation, primal) The dragon breathes a thundercloud that deals 11d6 electricity damage in a 40-foot cone (DC 29 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.
 
 **Cloud Walk** The cloud dragon can tread on clouds or fog as though on solid ground.

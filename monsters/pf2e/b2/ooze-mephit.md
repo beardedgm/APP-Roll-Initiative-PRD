@@ -29,4 +29,6 @@ Speed 20 feet, fly 20 feet
 
 **Innate arcane Spells** (DC 17)
 
+  **1st** grease
+
 **Breath Weapon** ◆◆ (arcane, poison) The ooze mephit spits toxic slime in a 15-foot cone that deals 2d6 poison damage to each creature within the area (DC 17 basic Reflex save). The ooze mephit can't use Breath Weapon again for 1d4 rounds.

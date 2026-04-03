@@ -37,6 +37,8 @@ Speed 20 feet, fly 50 feet
 
 **Innate occult Spells** (DC 23)
 
+  **3rd** grim tendrils
+
 **Draconic Frenzy** ◆◆ The myroga makes two talon Strikes and one tail Strike in any order.
 
 **Ley Line Empowerment** ◆◆ (evocation, force, occult) **Requirements** The myroga is within 500 feet of a ley line; The myroga wreathes itself in raw destructive energy converted from the ley line's ambient magic. The myroga deals an additional 2d6 force damage with each of its next successful fangs, tail, and talon Strike. Once its dealt damage with one of these Strikes, the energy is discharged from that body part, but not the others.

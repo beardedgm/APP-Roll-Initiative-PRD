@@ -31,6 +31,10 @@ Speed 15 feet, fly 40 feet
 
 **Innate arcane Spells** (DC 17)
 
+  **1st** alarm, soothe
+
+  **2nd** obscuring mist, see invisibility
+
 **Breath Weapon** ◆◆ (arcane, conjuration, mental) The house drake breathes a 10-foot cone of silver mist. Each creature within the mist must succeed at a DC 16 Will save or become stupefied 2 for 1 round. The house drake can't use Breath Weapon again for 1d4 rounds.
 
 **Silver Strike** House drakes sharpen their jaws on silver ornamentation until they incorporate bits of silver in their teeth. Their jaws Strike counts as silver.

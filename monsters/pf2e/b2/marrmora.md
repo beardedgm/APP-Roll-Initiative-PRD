@@ -42,4 +42,12 @@ Speed 30 feet, fly 30 feet
 
 **Innate primal Spells** (DC 36), attack +28
 
+  **Cantrips (8th)** produce flame
+
+  **6th** fire shield, fireball, tree shape
+
+  **7th** elemental form, volcanic eruption, wall of fire
+
+  **8th** fire shield, fireball
+
 **Igniting Assault** ◆ **Requirements** The marrmora is not under the effect of fire shield; The marrmora makes a claw Strike. If it hits, it can immediately cast one of its available fire shield innate spells as a free action.

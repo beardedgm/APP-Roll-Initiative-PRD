@@ -35,6 +35,12 @@ Speed 35 feet
 
 **Innate occult Spells** (DC 29)
 
+  **2nd** invisibility
+
+  **4th** dimension door
+
+  **6th** blink
+
 **Inflict Misery** ◆ (emotion, enchantment, mental, occult) **Requirements** The misery siktempora's last action was a claw Strike that damaged the target; The misery siktempora fills the target's thoughts with abject despair. The target must attempt a DC 32 Will save. Regardless of outcome, the target is then immune to Inflict Misery for 1 minute. **Success** The target is unaffected.
 **Failure** The target is clumsy 2, enfeebled 2, and stupefied 2 for 1 round.
 **Critical Failure** As failure, but for 1 minute.

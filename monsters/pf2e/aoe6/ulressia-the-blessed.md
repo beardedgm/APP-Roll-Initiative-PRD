@@ -44,6 +44,18 @@ Speed 40 feet, fly 75 feet
 
 **Innate divine Spells** (DC 39), attack +33
 
+  **Cantrips (7th)** light
+
+  **2nd** invisibility
+
+  **4th** discern lies, meld into stone
+
+  **7th** blade barrier, divine decree, divine wrath, harm, unfettered pack, wall of ice
+
+  **8th** shatter
+
+  **9th** nature's enmity, shattering gem
+
 **Stunning Strike** ◆ **Requirements** Ulressia hit a foe earlier this turn with a weapon Strike; Ulressia makes a weapon Strike against the foe. On a success, the foe must succeed at a DC 41 Fortitude save or become stunned|CRB|stunned 1. On a critical failure, the foe is stunned|CRB|stunned 2 instead.
 
 **Crystallize Blood** ◆◆ (divine, transmutation) Ulressia channels her warped powers over crystals through her blade and into a creature's body, partially crystallizing its blood. Ulressia makes a melee dagger Strike. On a hit, the creature takes damage as normal and must also roll a DC 41 Fortitude save. **Critical Success** The creature is unaffected.

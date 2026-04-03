@@ -43,6 +43,20 @@ Speed 50 feet, fly 60 feet, swim 50 feet
 
 **Innate divine Spells** (DC 45), attack +39
 
+  **2nd** detect alignment
+
+  **4th** confusion, dimension door
+
+  **5th** creation, dimension door, hallucinatory terrain
+
+  **6th** teleport
+
+  **7th** disintegrate, dispel magic, shatter, warp mind
+
+  **8th** baleful polymorph, confusion
+
+  **9th** divine wrath, prismatic shield, prismatic sphere
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) As keketar, but Hestriviniaas takes the appearance of any Gargantuan or smaller creature.
 
 **Constrict** ◆ 2d12+21 bludgeoning, DC 44

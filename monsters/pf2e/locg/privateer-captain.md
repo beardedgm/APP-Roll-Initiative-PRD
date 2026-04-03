@@ -31,7 +31,23 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 30)
 
+  **Cantrips (6th)** chill touch, detect magic, know direction, light, shield
+
+  **1st** air bubble, bane, gust of wind
+
+  **2nd** faerie fire, resist energy, water walk
+
+  **3rd** blindness, dispel magic
+
+  **4th** freedom of movement, silence, water breathing
+
+  **5th** breath of life, control water, see invisibility
+
+  **6th** blade barrier, harm, repulsion
+
 **Cleric Domain Spells** (DC 30)
+
+  **6th** downpour, tidal surge
 
 **Reach Spell** ◆ (concentrate, metamagic) If the next action the privateer captain uses is to Cast a Spell that has a range, increase that spell's range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, extend its range to 30 feet.
 

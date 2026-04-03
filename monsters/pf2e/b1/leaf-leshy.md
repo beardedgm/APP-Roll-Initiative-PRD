@@ -35,6 +35,8 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 14)
 
+  **4th** speak with plants
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The leaf leshy transforms into a Small tree. This ability otherwise uses the effects of tree shape.
 
 **Deafening Blow** When a leaf leshy hits with its seedpod Strike, the target must attempt a DC 16 Fortitude save. **Critical Success** The target is unaffected and temporarily immune for 24 hours.

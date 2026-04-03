@@ -35,6 +35,10 @@ Speed 25 feet, climb 25 feet
 
 **Innate occult Spells** (DC 21)
 
+  **Cantrips (2nd)** ghost sound, mage hand
+
+  **2nd** fear, illusory creature, illusory object, invisibility
+
 **Cynic's Curse** (curse, emotion, enchantment, mental, occult) A creature hit by a lovelorn's fangs Strike must attempt a DC 19 Will save as it grows morose and listless. If the creature would be affected by a calm emotions spell, that spell attempts to counteract this curse instead of having its normal effect. **Critical Success** The target is unaffected.
 **Success** For 1 minute, the target can't benefit from helpful emotion effects, but can still be affected by harmful emotion effects.
 **Failure** As success, plus the target is fatigued for the same duration.

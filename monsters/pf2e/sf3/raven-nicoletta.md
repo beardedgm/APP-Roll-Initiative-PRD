@@ -31,6 +31,28 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 42), attack +34
 
+  **Cantrips (10th)** daze, detect magic, mage hand, shield, telekinetic projectile
+
+  **1st (4 slots)** color spray, ill omen, ray of enfeeblement, true strike
+
+  **2nd (4 slots)** augury, blur, hideous laughter, mirror image
+
+  **3rd (4 slots)** blindness, hypnotic pattern, paralyze, wanderer's guide
+
+  **4th (4 slots)** blink, confusion, phantasmal killer, suggestion
+
+  **5th (4 slots)** cloak of colors, shadow blast, shadow siphon, synesthesia
+
+  **6th (4 slots)** feeblemind, spirit blast, teleport, true seeing
+
+  **7th (4 slots)** fly, prismatic spray, retrocognition, warp mind
+
+  **8th (4 slots)** discern location, maze, uncontrollable dance, unrelenting observation
+
+  **9th (4 slots)** dispel magic, foresight, wail of the banshee, weird
+
+  **10th (2 slots)** alter reality, gate
+
 **Bloodline Magic When** Raven casts a bloodline spell (marked with an asterisk), she gains concealment for 1 round, but can't use it to Hide.
 
 **Harrow Burst** ◆◆ (evocation, occult) Raven unleashes a mass of magical harrow cards, dealing 15d8 slashing damage in a 30-foot emanation (DC 42 basic Reflex save). A creature that fails its save rolls 1d6 to determine a suit of cards: 1 = hammers (Strength), 2 = keys (Dexterity), 3 = shields (Constitution), 4 = books (Intelligence), 5 = stars (Wisdom), 6 = crowns (Charisma). The creature takes a −1 status penalty to all checks related to that ability score for 1 round (−2 status penalty on a critical failure). Raven can't use Harrow Burst again for 1d4 rounds.

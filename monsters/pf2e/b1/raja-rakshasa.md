@@ -39,7 +39,21 @@ Speed 35 feet
 
 **Spontaneous occult Spells** (DC 31)
 
+  **Cantrips (5th)** detect magic, ghost sound, mage hand, read aura, sigil
+
+  **1st (4 slots)** charm, illusory object, item facade
+
+  **2nd (4 slots)** blur, hideous laughter, invisibility
+
+  **3rd (4 slots)** clairaudience, dispel magic, nondetection, vampiric touch
+
+  **4th (4 slots)** clairvoyance, dispel magic, fly, suggestion
+
+  **5th (3 slots)** dispel magic, hallucination, shadow blast
+
 **Innate occult Spells** (DC 31)
+
+  **3rd** mind reading
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The raja rakshasa takes on the appearance of any Medium humanoid. This doesn't change the raja rakshasa's Speed or its attack and damage modifiers with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning). It typically loses its fangs Strike unless the humanoid form has fangs or a similar unarmed attack.
 

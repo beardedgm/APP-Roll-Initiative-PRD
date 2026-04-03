@@ -39,6 +39,14 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 30)
 
+  **Cantrips (5th)** detect magic
+
+  **5th** charm, calm emotions, suggestion
+
+  **6th** dominate
+
+  **7th** mask of terror
+
 **Betrayal Toxin** (divine, enchantment, mental, poison)
 
 **Skip Between** ◆ (conjuration, divine, teleportation) The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of ethereal jaunt except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between.

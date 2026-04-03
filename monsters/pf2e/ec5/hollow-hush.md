@@ -29,6 +29,16 @@ Speed 40 feet
 
 **Innate occult Spells** (DC 42)
 
+  **2nd** hideous laughter
+
+  **3rd** fear
+
+  **4th** restoration
+
+  **7th** crushing despair, warp mind
+
+  **9th** unfathomable song
+
 **Emotional Focus** Hollow Hush can cast the following cleric domain spells as 9th-level occult innate spells at will without spending Focus Points: blind ambition, captivating adoration, and delusional pride.
 
 **Emotional Frenzy** ◆◆◆ Hollow Hush casts up to three spells chosen from its at-will innate spells and its emotional focus spells.

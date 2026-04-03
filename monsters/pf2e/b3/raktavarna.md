@@ -29,6 +29,12 @@ Speed 20 feet, swim 20 feet, climb 20 feet
 
 **Innate occult Spells** (DC 16)
 
+  **Cantrips (1st)** detect magic
+
+  **1st** charm, command
+
+  **4th** read omens
+
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The raktavarna takes on the appearance of a Tiny inanimate object. If, while transformed, the raktavarna takes any action other than the purely mental (such as Recall Knowledge), they immediately revert to their original form. Until then, they can use Deception to Impersonate the object.
 
 **Designate Master** A raktavarna can designate a creature as their master using a 10-minute invocation in which the master must participate. The raktavarna can revoke this status at any time.

@@ -35,6 +35,10 @@ Speed 20 feet, burrow 10 feet
 
 **Innate primal Spells** (DC 19), attack +11
 
+  **Cantrips (1st)** acid splash
+
+  **1st** acidic burst
+
 **Breath Weapon** ◆◆ (acid, evocation, primal) Akrida spits a gout of slimy green acid in a 30-foot line that deals 5d6 acid damage (DC 20 basic Reflex save). Akrida can't use Breath Weapon again for 1d4 rounds.
 
 **Frantic Scrabble** ◆◆ Akrida makes three claw Strikes against a single creature within reach. His multiple attack penalty doesn't increase until after he makes all three Strikes.

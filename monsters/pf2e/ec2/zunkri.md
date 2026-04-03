@@ -37,4 +37,16 @@ Speed 25 feet
 
 **Spontaneous arcane Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** acid splash, detect magic, mage hand, read aura, shield
+
+  **1st (4 slots)** burning hands, fear, magic missile, ray of enfeeblement
+
+  **2nd (4 slots)** create food, dispel magic, flaming sphere, see invisibility
+
+  **3rd (4 slots)** fireball, haste, magic missile
+
+  **4th (3 slots)** acid arrow, dimension door, lightning bolt
+
 **Bloodline Spells** (DC 26)
+
+  **4th** ancestral memories, extend spell

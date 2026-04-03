@@ -31,4 +31,14 @@ Speed 25 feet
 
 **Prepared primal Spells** (DC 25), attack +17
 
+  **Cantrips (4th)** disrupt undead, electric arc, know direction, light, read aura
+
+  **1st** heal, longstrider, shocking grasp
+
+  **2nd** acid arrow, entangle, restoration
+
+  **3rd** dispel magic, heal, lightning bolt
+
+  **4th** heal, speak with plants
+
 **Slough Toxins** ◆ As nagaji.

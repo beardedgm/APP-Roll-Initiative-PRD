@@ -37,6 +37,12 @@ Speed 20 feet, climb 20 feet
 
 **Innate primal Spells** (DC 17)
 
+  **Cantrips (1st)** prestidigitation
+
+  **1st** bane
+
+  **2nd** speak with animals
+
 **Spear Frog Poison** (poison)
 
 **Vengeful Anger** (emotion, mental) As mitflit.

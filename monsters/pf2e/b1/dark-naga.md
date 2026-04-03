@@ -29,6 +29,16 @@ Speed 30 feet
 
 **Spontaneous arcane Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** daze, detect magic, mage hand, read aura, shield
+
+  **1st (4 slots)** feather fall, illusory object, longstrider
+
+  **2nd (4 slots)** illusory creature, invisibility, magic missile
+
+  **3rd (4 slots)** dispel magic, haste, lightning bolt
+
+  **4th (3 slots)** blink, wall of fire
+
 **Innate occult Spells** (DC 25)
 
 **Dark Naga Venom** (incapacitation, poison)

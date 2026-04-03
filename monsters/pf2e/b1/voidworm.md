@@ -35,6 +35,14 @@ Speed 20 feet, fly 40 feet
 
 **Innate divine Spells** (DC 16)
 
+  **Cantrips (4th)** dancing lights, ghost sound, prestidigitation
+
+  **1st** detect alignment
+
+  **2nd** blur, obscuring mist
+
+  **4th** read omens
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The voidworm takes on the appearance of a Tiny animal. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.
 
 **Confounding Lash** (divine, emotion, enchantment, mental) A creature hit by the voidworm's tail Strike is stupefied 1 for 1 round (stupefied 2 on a critical hit). A successful DC 16 Will save negates this effect and grants temporary immunity to confounding lash for 1 minute.

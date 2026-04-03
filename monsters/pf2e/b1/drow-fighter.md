@@ -39,6 +39,10 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 14)
 
+  **Cantrips (2nd)** dancing lights
+
+  **2nd** darkness, faerie fire
+
 **Quick Draw** ◆ The drow fighter draws a weapon using the Interact action, then Strikes with that weapon.
 
 **Skewer** ◆◆ The drow fighter Strikes with its rapier, and gains a +1 circumstance bonus to the attack roll. A creature damaged by the attack takes 1d6 persistent bleed damage.

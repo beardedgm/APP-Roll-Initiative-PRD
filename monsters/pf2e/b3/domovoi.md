@@ -35,4 +35,8 @@ Speed 20 feet
 
 **Innate primal Spells** (DC 18)
 
+  **Cantrips (1st)** mage hand, prestidigitation, telekinetic projectile
+
+  **1st** mending
+
 **Home Guardian** By commanding their home to attack, the domovoi can Grapple, Shove, Trip, and Disarm with their enraged home Strike. The domovoi uses their Household Lore instead of Athletics skill for these checks.

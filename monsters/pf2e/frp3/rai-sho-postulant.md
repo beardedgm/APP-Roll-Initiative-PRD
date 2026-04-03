@@ -39,6 +39,8 @@ Speed 60 feet, climb 20 feet
 
 **Innate divine Spells** (DC 37)
 
+  **8th** obscuring mist
+
 **Frozen Flurry** ◆ (cold) **Frequency** {"unit":"round","number":1}; The Rai Sho postulant makes two Strikes, which can be any combination of claw or icicle Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. If either Strike hits and deals damage, the target must succeed at a DC 37 Fortitude save or be stunned|CRB|stunned 1 (or stunned|CRB|stunned 3 on a critical failure); this save has the incapacitation trait.
 
 **Grisly Arrival** ◇ (emotion, fear, mental) As yeti, but DC 37.

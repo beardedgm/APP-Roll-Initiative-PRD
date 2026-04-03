@@ -37,6 +37,18 @@ Speed 50 feet, fly 60 feet
 
 **Innate occult Spells** (DC 38)
 
+  **Cantrips (9th)** detect magic
+
+  **3rd** haste
+
+  **4th** darkness
+
+  **5th** Abyssal plague
+
+  **7th** eclipse burst, teleport
+
+  **9th** darkness, teleport, wail of the banshee
+
 **Drain Life** When a tzitzimitl's claw Strike deals damages to a living creature, the tzitzimitl gains 20 temporary Hit Points, and the target must succeed at a DC 41 Fortitude save or become drained 2. Further damage dealt by a tzitzimitl's claw Strike increases the value of the drained condition by 2 on a failed save, to a maximum of drained 4.
 
 **Eclipse** ◆◆ (cold, occult) The tzitzimitl casts darkness and drains the heat and warmth from the darkness spell's area, and each creature within the spell's area must attempt a DC 41 Fortitude save. **Critical Success** The creature takes 4d8 cold damage.

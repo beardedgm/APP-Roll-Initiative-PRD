@@ -41,6 +41,12 @@ Speed 25 feet, fly 40 feet
 
 **Innate divine Spells** (DC 32), attack +24
 
+  **4th** dimension door, rusting grasp, suggestion
+
+  **5th** creation, dimension door, shatter, wall of stone
+
+  **6th** flesh to stone
+
 **Ferrugon Tetanus** (disease)
 
 **Sunder Objects** When a ferrugon damages an item or structure, they deal an additional 2d8 damage to that item or structure.

@@ -36,6 +36,10 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 20), attack +12
 
+  **Cantrips (2nd)** chill touch, daze, detect magic, shield
+
+  **2nd** darkness, death knell, phantom pain, spectral hand
+
 **Black Smear Poison** (poison)
 
 **Call to Blood** ◆◆ (enchantment, mental, occult) Each caligni within 30 feet gains a +2 status bonus to attack rolls against flat-footed creatures. This bonus lasts for 1 minute.

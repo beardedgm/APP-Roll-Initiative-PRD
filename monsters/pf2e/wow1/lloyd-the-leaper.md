@@ -33,6 +33,12 @@ Speed 40 feet
 
 **Innate primal Spells** (DC 26)
 
+  **1st** gentle landing
+
+  **2nd** calm
+
+  **5th** magic passage
+
 **Haze of Dreams** ◆◆ (incapacitation, mental, poison, primal, sleep) Lloyd exhales a cloud of clammy gray fog. Each creature in the area must attempt a DC 23 Fortitude save. **Critical Success** 
 **Success** 
 **Failure** 

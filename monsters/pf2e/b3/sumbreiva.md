@@ -37,6 +37,8 @@ Speed 50 feet
 
 **Innate arcane Spells** (DC 36)
 
+  **4th** darkness, earthbind
+
 **Claim Trophy** ◆ The sumbreiva claims the soul of a creature they killed within the last minute. This works like bind soul, except that no black sapphire is required and the soul is turned into a glowing blue light called a soul trophy. Anyone who kills the sumbreiva can then free the soul from any soul trophy by touching it and speaking the word for "freedom" in any language.
 
 **Huntblade Brutality** The sumbreiva's huntblade deals an additional 2d8 damage to drained, flat-footed, or frightened creatures.

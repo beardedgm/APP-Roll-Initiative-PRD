@@ -29,6 +29,14 @@ Speed 5 feet, fly 40 feet
 
 **Innate divine Spells** (DC 17)
 
+  **Cantrips (1st)** detect magic
+
+  **1st** detect alignment, fear
+
+  **2nd** invisibility
+
+  **4th** read omens
+
 **Cacodaemonia** (disease)
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) - Lizard Speed 20 feet; Melee jaws +8 (agile, finesse), Damage 1d8+1 piercing

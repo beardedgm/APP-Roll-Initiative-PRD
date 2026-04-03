@@ -35,4 +35,6 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 34)
 
+  **2nd** enlarge, invisibility
+
 **Fearsome Brute** When Kralgurn attacks a frightened creature, he gains a circumstance bonus to damage equal to three times the target's frightened value.

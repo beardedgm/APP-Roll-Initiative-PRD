@@ -35,4 +35,8 @@ Speed 25 feet
 
 **Druid Prepared Spells** (DC 16), attack +8
 
+  **Cantrips (1st)** light, ray of frost, stabilize, tanglefoot
+
+  **1st** magic fang, shillelagh
+
 **Wild Shape** ◆◆ (morph, primal, transmutation) **Frequency** {"number":1,"unit":"day"}; The Oaksteward's hands transform into wild claws for 1 minute. The Oaksteward gains the following Strike.

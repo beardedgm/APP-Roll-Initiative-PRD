@@ -35,7 +35,15 @@ Speed 20 feet
 
 **Spontaneous occult Spells** (DC 21), attack +13
 
+  **Cantrips (2nd)** daze, ghost sound, guidance, mending, telekinetic projectile
+
+  **1st (4 slots)** bless, magic missile, protection, sanctuary
+
+  **2nd (3 slots)** death knell, sound burst, telekinetic maneuver
+
 **Innate occult Spells** (DC 21)
+
+  **2nd** enlarge, invisibility
 
 **Guiding Rhythm** When Kragala casts guidance while using a percussive instrument, her targets don't become temporarily immune to her guidance.
 

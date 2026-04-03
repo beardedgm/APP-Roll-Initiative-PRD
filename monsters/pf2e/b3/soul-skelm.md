@@ -35,6 +35,14 @@ Speed 30 feet
 
 **Innate occult Spells** (DC 29)
 
+  **2nd** invisibility, silence
+
+  **4th** dimension door
+
+  **5th** harm, illusory creature, mind probe, modify memory
+
+  **7th** plane shift
+
 **Bully the Departed** ◆ (auditory, emotion, mental, occult, enchantment) The skelm draws upon the spirit of one of his deceased victims, tormenting their soul beyond the grave. Until the end of his next turn, the soul skelm gains regeneration 15 (deactivated by force or good; page 306), and he deals an extra 1d8 evil damage on his Strikes.
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The street skelm can take on the appearance of any Medium male humanoid (page 304). This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.

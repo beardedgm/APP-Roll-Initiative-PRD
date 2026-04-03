@@ -35,7 +35,27 @@ Speed 25 feet, burrow 25 feet
 
 **Prepared primal Spells** (DC 41), attack +33
 
+  **Cantrips (8th)** dancing lights, detect magic, produce flame, sigil, tanglefoot
+
+  **1st** longstrider, pass without trace, ventriloquism
+
+  **2nd** spider climb, water walk, web
+
+  **3rd** earthbind, wall of thorns, wall of wind
+
+  **4th** freedom of movement, rusting grasp, solid fog
+
+  **5th** cloudkill, cone of cold, tree stride
+
+  **6th** flesh to stone, tangling creepers
+
+  **7th** chain lightning, eclipse burst, finger of death
+
+  **8th** earthquake, mask of terror, polar ray
+
 **Druid Order Spells** (DC 41)
+
+  **7th** wild morph, wild shape
 
 **Blight Mastery** Any of the siabrae's spells or effects that would normally be restricted to affecting animal can also affect undead animals. Furthermore, any animals the siabrae takes the form of or summons appear to be diseased, malnourished, or even dead and rotting. (This doesn't affect their statistics.)
 

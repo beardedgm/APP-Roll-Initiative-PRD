@@ -44,6 +44,16 @@ Speed 60 feet, fly 200 feet
 
 **Innate occult Spells** (DC 42)
 
+  **Cantrips (10th)** detect magic
+
+  **5th** locate
+
+  **7th** plane shift
+
+  **9th** teleport
+
+  **10th** time stop
+
 **Breath Weapon** ◆◆ The time dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 rounds. - 
 - 
 

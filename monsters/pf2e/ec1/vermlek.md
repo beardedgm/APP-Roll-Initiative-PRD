@@ -35,6 +35,8 @@ Speed 25 feet, burrow 15 feet
 
 **Innate divine Spells** (DC 19), attack +11
 
+  **3rd** fear, harm
+
 **Abandon Body** ◆◆ (manipulate) **Requirements** The worm demon is Inhabiting a Body; The worm demon crawls out of the body it is inhabiting, devouring much of the body's remaining flesh and regaining 10 Hit Points in the process. The corpse it leaves behind is little more than a husk.
 
 **Inhabit Body** ◆◆◆ (manipulate) The worm demon crawls into the body of an adjacent dead Medium humanoid, consuming the bulk of the victim's skeleton and internal organs as it does so and cramming itself into the cavity. As long as it Inhabits a Body, the worm demon loses its bite attack, can wield weapons like a humanoid, gains a +3 circumstance bonus to AC, and gains a +3 circumstance bonus to Deception checks to Impersonate the creature it is inhabiting. It cannot use this ability if it is already Inhabiting a Body.

@@ -37,6 +37,8 @@ Speed 35 feet
 
 **Innate occult Spells** (DC 24)
 
+  **7th** plane shift
+
 **Double Slash** ◆ (flourish) The xill makes two scimitar Strikes against a single target. If both hit, combine their damage for the purpose of the target's resistances and weaknesses. The xill applies its multiple attack penalty to each strike normally.
 
 **Implant** ◆◆ (manipulate) **Requirements** The xill is adjacent to a unconscious, willing, or paralyzed creature; The xill implants xill eggs in the creature's flesh.

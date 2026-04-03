@@ -35,6 +35,8 @@ Speed 60 feet
 
 **Innate occult Spells** (DC 48)
 
+  **9th** bind soul, dimension door, plane shift, weird
+
 **Demolish Veil** ◇ **Trigger** The titan casts plane shift; **Frequency** {"unit":"month","number":1}; The titan arrives in a storm of shattered planar barriers. This has the effects of a 10th-level storm of vengeance.
 
 **Hundred-Dimension Grasp** ◆ The titan reaches between realities to drag foes closer. They attempt an Athletics check and compare the result to the Fortitude DCs of all foes within 120 feet. On a success, a foe is teleported to any square the titan chooses within 120 feet; on a critical success, it's also paralyzed for 1 round. The titan can Grab any foe brought within 30 feet as a free action.

@@ -37,6 +37,8 @@ Speed 35 feet, climb 15 feet
 
 **Innate divine Spells** (DC 29)
 
+  **7th** plane shift
+
 **Abyssal Rot** (disease, necromancy)
 
 **Dimensional Tether** A creature hit by the bebilith's web Strike is restrained and tethered to the bebilith, preventing it from moving further away from the bebilith. The restrained creature is also under the effects of a dimensional anchor spell (DC 29) with a duration that lasts as long as the creature remains tethered. The bebilith can have only one creature tethered at a time. The DC to Escape or Force Open the tether is 29. The tether can be severed with a Strike (AC 20, Hardness 2, HP 20); this ends the dimensional anchor effect but does not free the restrained creature.

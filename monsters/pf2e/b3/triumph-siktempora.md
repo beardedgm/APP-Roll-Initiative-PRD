@@ -37,6 +37,10 @@ Speed 60 feet
 
 **Innate occult Spells** (DC 32)
 
+  **4th** dimension door
+
+  **7th** blink
+
 **Vie for Victory** ◆◆ The triumph siktempora pushes themself beyond their limits to secure victory over a chosen foe. They choose one target they can see and reach with a single Stride action. They attempt to Demoralize that target, ignoring the typical limitations on distance and with no penalty for not sharing a language with the target. They then Stride and attempt one Athletics attack action (such as Grapple or Disarm) against the target.
 
 **Winning Smile** ◆◆ (emotion, enchantment, mental, occult) The triumph siktempora flashes their disarming grin at one creature within 15 feet. The target takes 10d8 mental damage (DC 34 basic Will save). On a failure, the target's attacks against the triumph siktempora also become nonlethal until the end of the target's next turn.

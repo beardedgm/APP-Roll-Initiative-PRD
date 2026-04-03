@@ -33,7 +33,25 @@ Speed 30 feet
 
 **Spontaneous occult Spells** (DC 30), attack +24
 
+  **Cantrips (6th)** daze, dancing lights, detect magic, forbidding ward, prestidigitation
+
+  **1st (3 slots)** mindlink, magic aura, unseen servant
+
+  **2nd (3 slots)** hideous laughter, spectral hand, touch of idiocy
+
+  **3rd (3 slots)** comprehend language, fear, magic missile
+
+  **4th (3 slots)** phantasmal killer, soothe, vampiric touch
+
+  **5th (3 slots)** cloak of colors, command, crushing despair
+
+  **6th (2 slots)** feeblemind, paranoia
+
 **Bard Composition Spells** (DC 30)
+
+  **Cantrips (6th)** inspire courage 
+
+  **6th** counter performance, house of imaginary walls
 
 **Beguile the Addled** ◆ (enchantment, emotion, occult, visual) Mistress Dusklight shoots a captivating look at one creature within 60 feet, who must be stupefied. Until the end of its next turn, the creature is fascinated by Mistress Dusklight and can't use hostile actions toward her. The victim is then temporarily immune for 10 minutes.
 

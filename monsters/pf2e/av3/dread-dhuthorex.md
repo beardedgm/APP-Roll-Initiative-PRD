@@ -37,6 +37,10 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 27)
 
+  **3rd** hypnotic pattern, mind reading
+
+  **5th** mariner's curse
+
 **Aquatic Ambush** ◆
 
 **Overpowering Jaws** As deepwater dhuthorex, but 8 piercing damage.

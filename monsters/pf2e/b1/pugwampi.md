@@ -34,3 +34,7 @@ Speed 25 feet
 **Melee** shortbow +8 (deadly <1d10>, magical, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
 
 **Innate primal Spells** (DC 16)
+
+  **Cantrips (1st)** prestidigitation
+
+  **2nd** speak with animals

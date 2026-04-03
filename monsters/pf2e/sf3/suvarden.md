@@ -35,6 +35,14 @@ Speed 40 feet, fly 20 feet, climb 20 feet
 
 **Innate primal Spells** (DC 25)
 
+  **Cantrips (3rd)** guidance, know direction
+
+  **1st** true strike
+
+  **2nd** augury
+
+  **3rd** hypercognition
+
 **Web of Fate** ◆◆ (divination, primal) The suvarden creates a web spun from the threads of fate in a 10-foot burst within 30 feet. The squares filled with the web are difficult terrain. Each square can be cleared of the web by a single attack or effect that deals at least 5 slashing damage or 1 fire damage. A square has AC 5, and it automatically fails its saving throws. Each time a creature in the web begins to use a move action or enters the web during a move action, it must attempt a DC 25 Will save. **Critical Success** 
 **Success** 
 **Failure** 

@@ -33,6 +33,10 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 18)
 
+  **1st** harm
+
 **Focus divine Spells** (DC 18)
+
+  **1st** death's call
 
 **Heretic's Smite** (divine, necromancy) While wielding the favored weapon of its former deity (such as a dagger for an ex-Pharasmin herexen), the herexen's Strikes deal an additional 1d6 evil damage against creatures that can cast divine spells.

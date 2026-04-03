@@ -35,6 +35,12 @@ Speed 25 feet, fly 25 feet
 
 **Innate occult Spells** (DC 36)
 
+  **4th** dimension door
+
+  **7th** darkness, mask of terror, nightmare, sleep, soothe
+
+  **8th** dream council
+
 **Bittersweet Dreams** ◆◆ (emotion, enchantment, mental, occult, visual) The dramofir swishes their robes in a mesmerizing display that brings the dreams in the robes to life before the viewer's very eyes. Each creature within 30 feet must attempt a DC 34 Will save or be filled with ennui. **Critical Success** The creature is unaffected and temporarily immune for 24 hours.
 **Success** For 1 round, the creature takes a –1 status penalty to attack rolls, saving throws, and skill checks, and all other emotion effects on it are suppressed.
 **Failure** As success, but the creature is also slowed 1 and the duration is 1d4 rounds.

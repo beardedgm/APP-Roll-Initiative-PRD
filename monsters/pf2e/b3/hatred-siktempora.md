@@ -37,6 +37,10 @@ Speed 80 feet
 
 **Innate occult Spells** (DC 40)
 
+  **4th** dimension door
+
+  **9th** blink
+
 **Contorted Clutch** The hatred siktempora can have up to two creatures grabbed with their loathing garotte at once.
 
 **Vindictive Crush** ◆ **Frequency** {"unit":"round","number":1}; **Requirements** The hatred siktempora has a creature grabbed; The hatred siktempora tightens their garrote, dealing 5d10 bludgeoning damage to each creature they're Grabbing. Each creature grabbed by the siktempora must attempt a DC 40 Fortitude save. **Critical Success** The creature takes no damage.

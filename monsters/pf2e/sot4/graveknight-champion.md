@@ -39,6 +39,16 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 33), attack +25
 
+  **Cantrips (7th)** chill touch, daze, light, shield
+
+  **4th** fireball
+
+  **5th** cone of cold, flame strike
+
+  **6th** fireball, scorching ray
+
+  **7th** eclipse burst, finger of death
+
 **Channel Magic** ◆◆ The graveknight redirects magical energies through its armor, allowing it to deliver magic through an attack. The graveknight Casts a Spell that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell don't occur immediately but are imbued into an attack instead. The graveknight then makes a melee Strike with a weapon or unarmed attack. The spell is coupled with the attack, using the attack roll result to determine the effects of both the Strike and the spell. This counts as two attacks for the graveknight's multiple attack penalty but doesn't apply the penalty until after it's completed Channeling Magic. The graveknight can't use Channel Magic again for 1d4 rounds.
 
 **Devastating Blast** ◆◆ (arcane, evocation, fire) The graveknight unleashes a 30-foot cone of energy. Creatures in the area take 8d12 fire damage (DC 36 basic Reflex save). The graveknight can't use this ability again for 1d4 rounds.

@@ -31,4 +31,22 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 36)
 
+  **Cantrips (8th)** daze, detect magic, guidance, light, message
+
+  **1st (3 slots)** sanctuary, summon fey, true strike
+
+  **2nd (3 slots)** dispel magic, paranoia, spiritual weapon
+
+  **3rd (3 slots)** circle of protection, invisibility sphere, nondetection
+
+  **4th (3 slots)** confusion, remove curse, telepathy
+
+  **5th (3 slots)** banishment, shadow siphon, synaptic pulse
+
+  **6th (3 slots)** collective transposition, spellwrack, spirit blast
+
+  **7th (3 slots)** dimensional lock, duplicate foe, energy aegis
+
+  **8th (2 slots)** scintillating pattern, uncontrollable dance
+
 **Occult Strike** ◇ **Trigger** Yarrika casts an occult spell; Yarrika makes a fist Strike against a creature within reach.

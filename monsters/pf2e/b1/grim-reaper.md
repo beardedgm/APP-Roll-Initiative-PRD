@@ -43,6 +43,10 @@ Speed 50 feet, fly 75 feet
 
 **Innate divine Spells** (DC 47), attack +37
 
+  **7th** plane shift
+
+  **10th** finger of death
+
 **Death Strike** (death) A creature critically hit by any of the grim reaper's attacks or that critically fails against any of its spells must succeed at a DC 47 Fortitude save or die.
 
 **Energy Drain** When the grim reaper hits and deals damage with its scythe, it regains 20 Hit Points, and the target must succeed at a DC 43 Fortitude save or become doomed 1. If the target is already doomed, the doomed value increases by 1 (to a maximum of doomed 3).

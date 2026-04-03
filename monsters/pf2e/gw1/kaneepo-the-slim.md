@@ -35,6 +35,8 @@ Speed 30 feet
 
 **Innate primal Spells** (DC 21)
 
+  **3rd** mind reading, paralyze
+
 **Create Breach** Once per day, Kaneepo can tear open the fabric between planes, creating a portal between the Thinlands and a point anywhere in Sevenarches. This portal lasts for up to 1 hour, but Kaneepo can close it at will.
 
 **Shadowfeed** (fear, emotion, mental) Whenever Kaneepo hits a creature with an attack, Kaneepo's flayed strips of flesh wrap around the target's shadow, causing the victim's body to wither. The struck creature must attempt a DC 21 Fortitude saving throw. **Success** 

@@ -37,6 +37,12 @@ Speed 5 feet, fly 25 feet
 
 **Innate occult Spells** (DC 26), attack +20
 
+  **3rd** fear
+
+  **4th** acid arrow, dimension door
+
+  **5th** cloudkill
+
 **Feeding Frenzy** ◆ **Requirements** The nyogoth has grabbed a creature; The nyogoth slavers and chews at the grabbed creature, dealing 2d6+7 slashing and 1d6 acid damage (DC 29 basic Fortitude save).
 
 **Nauseating Display** ◆◆ (concentrate, emotion, enchantment, fear, incapacitation, mental, occult, visual) The nyogoth untangles its tentacles and prolapses its many mouths, turning itself inside out in a truly nauseating display. Creatures in a 30-foot emanation must attempt a DC 29 Will save, after which they are temporarily immune to further Nauseating Displays for 1 minute. **Critical Success** The creature is unaffected.

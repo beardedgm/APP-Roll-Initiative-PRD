@@ -33,6 +33,14 @@ Speed 15 feet, fly 35 feet
 
 **Innate divine Spells** (DC 17)
 
+  **Cantrips (1st)** detect magic
+
+  **1st** fear
+
+  **2nd** detect alignment, invisibility
+
+  **4th** read omens
+
 **Abyssal Healing** ◆ (concentrate, divine, healing, necromancy) **Frequency** {"unit":"round","number":1}; The quasit restores 1d6 HP to itself.
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) - Bat echolocation 40 feet; Speed 15 feet, fly Speed 30 feet; Melee fangs +7, Damage 1d4-1 piercing; Melee wing +7 (agile), Damage 1d4-1 bludgeoning

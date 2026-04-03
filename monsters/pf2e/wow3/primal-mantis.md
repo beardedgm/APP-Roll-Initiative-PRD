@@ -18,3 +18,9 @@
 ---
 
 **Innate primal Spells** (DC 27)
+
+  **4th** fly
+
+  **5th** howling blizzard
+
+  **6th** chain lightning

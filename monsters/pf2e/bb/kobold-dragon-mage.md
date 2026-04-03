@@ -33,4 +33,8 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 20), attack +12
 
+  **Cantrips (1st)** detect magic, ghost sound, mage hand, ray of frost
+
+  **1st** fear, magic missile
+
 **Sneak Attack** The dragon mage deals an extra 1d6 damage to creatures that have the flat-footed condition.

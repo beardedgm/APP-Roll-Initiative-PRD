@@ -36,6 +36,14 @@ Speed 25 feet, climb 20 feet
 
 **Spontaneous occult Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** chill touch, forbidding ward, know direction, shield, telekinetic projectile
+
+  **1st (3 slots)** bane, ray of enfeeblement, spider sting
+
+  **2nd (3 slots)** dispel magic, summon animal, vomit swarm
+
+  **3rd (3 slots)** blindness, fear, paralyze
+
 **Baneback Poison** (poison)
 
 **Curse of Baneful Venom** ◆◆◆ (necromancy, occult) The jinxer magically intensifies toxins in their foes. Creatures within 30 feet of the jinxer that are currently afflicted by a poison immediately attempt their next saving throw against the poison with a –2 status penalty, then are temporarily immune to Curse of Baleful Venom for 1 hour.

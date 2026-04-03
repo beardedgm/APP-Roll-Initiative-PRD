@@ -41,6 +41,14 @@ Speed 30 feet, climb 40 feet
 
 **Innate occult Spells** (DC 39)
 
+  **Cantrips (9th)** daze, detect magic, guidance, read aura
+
+  **2nd** augury
+
+  **8th** confusion, mind reading, true strike
+
+  **9th** foresight, true seeing
+
 **Cacophonous Roar** ◆◆ (auditory, emotion, enchantment, incapacitation, mental, primal) Gegnir emits a cacophonous roar from all his heads with a mystical power that distorts the listener's mind. Each non-troll creature within 100 feet must attempt a DC 42 Will save. Gegnir can't use Cacophonous Roar for 1d4 rounds. **Critical Success** 
 **Success** 
 **Failure** 

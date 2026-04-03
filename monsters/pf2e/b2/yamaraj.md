@@ -39,6 +39,14 @@ Speed 35 feet, fly 50 feet, swim 30 feet
 
 **Innate divine Spells** (DC 44)
 
+  **5th** dimension door, mind probe
+
+  **8th** chain lightning, dispel magic, spirit song, wall of force
+
+  **9th** bind soul, harm, heal, wail of the banshee
+
+  **10th** miracle, revival
+
 **Breath Weapon** ◆◆ (divine, evocation) The yamaraj breathes a blast of beetles in a 50-foot cone that deals 14d8 slashing damage and 4d8 persistent slashing damage to creatures in the area (DC 42 Reflex save). It can't use Breath Weapon again for 1d4 rounds. **Critical Success** The creature takes no damage.
 **Success** The creature takes half damage and is sickened 1.
 **Failure** The creature takes full damage and is sickened 2.

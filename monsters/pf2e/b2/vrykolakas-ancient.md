@@ -41,6 +41,10 @@ Speed 40 feet, climb 20 feet
 
 **Innate divine Spells** (DC 33)
 
+  **3rd** fear
+
+  **7th** vampiric touch
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation)
 
 **Create Spawn** (divine, downtime, necromancy)

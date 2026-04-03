@@ -31,6 +31,26 @@ Speed 40 feet, swim 20 feet
 
 **Spontaneous arcane Spells** (DC 39), attack +30
 
+  **Cantrips (9th)** acid splash, detect magic, message, shield, tanglefoot
+
+  **1st (3 slots)** charm, grease, mage armor, magic missile
+
+  **2nd (3 slots)** humanoid form, invisibility, spider climb
+
+  **3rd (3 slots)** haste, lightning bolt, stinking cloud
+
+  **4th (3 slots)** confusion, gaseous form, speak with plants
+
+  **5th (3 slots)** cloudkill, dimension door, wall of stone
+
+  **6th (3 slots)** flesh to stone, stoneskin
+
+  **7th (3 slots)** spell turning, warp mind
+
+  **8th (3 slots)** horrid wilting, power word stun
+
+  **9th (2 slots)** implosion, power word kill
+
 **Mother Venom Poison** (poison)
 
 **Ooze Tendril** Mother Venom can command her minions and the oozes that cover her dungeon to attack foes. As long as she's conscious, she can make melee ooze tendril Strikes that originate from any slime-covered terrain in her dungeon, including the dungeon's walls and doors, or from a space occupied by one of her children of venom.

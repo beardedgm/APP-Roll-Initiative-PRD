@@ -31,6 +31,14 @@ Speed fly 25 feet
 
 **Innate primal Spells** (DC 33), attack +25
 
+  **Cantrips (7th)** detect magic, tangle vine, timber
+
+  **5th** life-draining roots, toxic cloud
+
+  **6th** lignify, tangling creepers
+
+  **7th** execute, pollen pods
+
 **Frightful Moan** ◆ (auditory, divine, emotion, fear, mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 33 Will save. On a failure, any creature becomes frightened 2 (or frightened 3 on a critical failure). On a success, any creature is temporarily immune to this ghost's Frightful Moan for 1 minute.
 
 **Memory of Leaves** ◆ (plant, primal, wood) The ghost mourns its verdant birthplace, creating a swirling cloud of phantom leaves as a 20-foot emanation until the end of its next turn. All creatures within the emanation become concealed, and all creatures outside the emanation become concealed to creatures within it. Creatures with the plant or wood traits ignore this concealment. The ghost can't use Memory of Leaves again for 1d4 rounds.

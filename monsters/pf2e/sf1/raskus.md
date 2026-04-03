@@ -35,6 +35,8 @@ Speed 25 feet, fly 25 feet
 
 **Innate divine Spells** (DC 26)
 
+  **4th** blindness, earthbind
+
 **Go for the Eyes** ◈ **Trigger** Raskus critically hits with a beak Strike; Raskus attempts to peck out his victim's eyes. The target must attempt a DC 29 Fortitude save. **Success** 
 **Failure** 
 **Critical Failure** 

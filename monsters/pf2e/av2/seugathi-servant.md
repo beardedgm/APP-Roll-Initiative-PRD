@@ -39,6 +39,10 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** daze, detect magic, mage hand, telekinetic projectile
+
+  **3rd** hypercognition, levitate, mind reading
+
 **Envenom Weapon** ◆ (manipulate) The seugathi applies their seugathi venom to one weapon they wield.
 
 **Magic Item Mastery** A seugathi can Cast a Spell from a magic item even if the spell isn't on their spell list. All such spells are occult spells and use the seugathi's innate spell DC and attack modifier.

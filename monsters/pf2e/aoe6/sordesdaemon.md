@@ -33,6 +33,14 @@ Speed 30 feet, climb 20 feet
 
 **Innate divine Spells** (DC 38)
 
+  **1st** detect alignment
+
+  **4th** dimension door
+
+  **5th** cloudkill, dimension door
+
+  **8th** horrid wilting, spiritual epidemic
+
 **Pollution Infusion** (disease, virulent)
 
 **Retch of Foulness** ◆◆ (acid, divine, evocation) The sordesdaemon exhales a spray of sewage that deals 8d6 acid damage and 8d6 poison damage in a 30-foot cone (DC 40 basic Fortitude save). It can't use Retch of Foulness again for 1d4 rounds.

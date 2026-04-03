@@ -39,4 +39,8 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 19)
 
+  **Cantrips (2nd)** daze, ghost sound
+
+  **2nd** darkness, sound burst
+
 **Strangle** ◆ (attack, nonlethal) The dero attempts an Athletics check to Grab with a +2 circumstance bonus. On a success, the target takes 1d6+6 bludgeoning damage. Double the damage on a critical success.

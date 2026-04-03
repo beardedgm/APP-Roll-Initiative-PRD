@@ -39,7 +39,27 @@ Speed 25 feet, fly 25 feet
 
 **Wizard Spells Prepared** (DC 36), attack +28
 
+  **Cantrips (8th)** chill touch, detect magic, electric arc, mage hand, prestidigitation
+
+  **1st** ray of enfeeblement, true strike
+
+  **2nd** deafness, mirror image, spectral hand
+
+  **3rd** blindness, mind reading, slow
+
+  **4th** dimension door, grim tendrils, nightmare
+
+  **5th** cloudkill, mind probe, sending, shadow walk
+
+  **6th** baleful polymorph, vampiric exsanguination, wall of force
+
+  **7th** dispel magic, eclipse burst, magic missile
+
+  **8th** horrid wilting, maze
+
 **Wizard School Spells** (DC 36)
+
+  **8th** call of the grave, overstuff, take its course
 
 **Create Spawn** (divine, downtime, necromancy)
 

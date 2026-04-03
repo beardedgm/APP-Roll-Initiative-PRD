@@ -41,6 +41,10 @@ Speed 30 feet, fly 100 feet, swim 50 feet
 
 **Innate arcane Spells** (DC 26)
 
+  **1st** create water
+
+  **2nd** endure elements
+
 **Breath Weapon** ◆◆ (arcane, evocation, water) The dragon shoots a ball of water that deals 9d6 bludgeoning damage in a 20-foot burst within 40 feet (DC 26 basic Reflex save). All non-magical fire in the radius is extinguished. The dragon can't use Breath Weapon again for 1d4 rounds.
 
 **Coiling Frenzy** ◆◆ The dragon makes one claw Strike and one tail Strike in either order, each against the same target. If either Strike hits, the dragon automatically Grabs the target.

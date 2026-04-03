@@ -37,6 +37,18 @@ Speed 25 feet, burrow 10 feet
 
 **Innate occult Spells** (DC 33), attack +27
 
+  **Cantrips (7th)** daze, ghost sound, telekinetic projectile
+
+  **2nd** darkness
+
+  **4th** confusion
+
+  **5th** dimension door
+
+  **6th** modify memory, phantasmal killer, teleport
+
+  **7th** sound burst
+
 **Cytillesh Stare** ◆ (concentrate, incapacitation, mental, visual) **Frequency** {"number":1,"unit":"round"}; Ibrique focuses her gaze on a creature she can see within 30 feet. The target is dazzled for 1 round and must succeed at a DC 33 Will save or be confused for 1 round.
 
 **Ghoul Fever** (disease) As ghoul, but DC 33.

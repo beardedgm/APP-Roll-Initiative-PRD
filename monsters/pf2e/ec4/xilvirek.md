@@ -43,6 +43,12 @@ Speed 40 feet, swim 30 feet
 
 **Innate divine Spells** (DC 28)
 
+  **2nd** darkness
+
+  **4th** dimension door
+
+  **6th** teleport
+
 **Disgorge Bile** ◆◆ (acid, inhaled) The xilvirek retches a small pool of debilitating, acrid bile onto itself. All creatures within 30 feet take 4d6 acid damage as they inhale the bile's noxious fumes (DC 32 basic Fortitude save; on a failure, the creature is sickened|CRB|sickened 1, or sickened|CRB|sickened 2 on a critical failure). The xilvirek can't Disgorge Bile again for 1d4 rounds.
 
 **Feasting Tentacles** The xilvirek has two tentacles on its back that it can use to suck the life from its prey. A creature that starts its turn grabbed by the xilvirek becomes drained|CRB|drained 1, and the xilvirek regains 20 HP. The drained value increases by 1 on each subsequent round that the creature starts its turn grabbed, but the xilvirek doesn't regain additional HP from draining the same creature more than once per day.

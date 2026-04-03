@@ -37,6 +37,20 @@ Speed 25 feet, fly 35 feet
 
 **Innate divine Spells** (DC 38), attack +30
 
+  **1st** detect alignment
+
+  **4th** dimension door, nightmare
+
+  **5th** dimension door, shadow siphon
+
+  **6th** shadow blast
+
+  **7th** phantasmal killer, shadow blast
+
+  **8th** mask of terror
+
+  **9th** duplicate foe, weird
+
 **Constrict** ◆ 3d10+6 bludgeoning plus 1d6 evil, DC 35
 
 **Consume Fear** ◆ (emotion, fear, mental) **Requirements** The phasmadaemon has a creature grabbed; The phasmadaemon feeds on the creature's mortality and innate terror, dealing 6d8 mental damage. The creature must attempt a DC 38 Will save. **Critical Success** 

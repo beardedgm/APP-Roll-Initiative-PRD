@@ -31,7 +31,17 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 23), attack +15
 
+  **Cantrips (3rd)** chill touch, detect magic, light, read, shield
+
+  **1st** fear, grim tendrils, mage armor, ray of enfeeblement
+
+  **2nd** acid arrow, false life, mirror image, spider climb
+
+  **3rd** bind undead, paralyze, vampiric touch
+
 **Wizard School Spells** (DC 23)
+
+  **3rd** call of the grave
 
 **Drain Bonded Item** ◇ When Voz uses this ability, she also regains 1 Focus Point.
 

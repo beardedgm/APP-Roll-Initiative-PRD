@@ -31,4 +31,6 @@ Speed 40 feet, fly 90 feet
 
 **Innate divine Spells** (DC 24)
 
+  **7th** plane shift
+
 **Flaming Gallop** ◆◆ (fire) The nightmare Strides or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 3d6 fire damage (DC 24 basic Reflex save) once to each creature other than the nightmare's rider that the nightmare moves adjacent to during its gallop.

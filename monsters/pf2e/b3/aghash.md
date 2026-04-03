@@ -33,6 +33,14 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 21)
 
+  **Cantrips (2nd)** detect magic
+
+  **1st** illusory object
+
+  **2nd** touch of idiocy
+
+  **4th** dimension door, outcast's curse
+
 **Cursed Gaze** ◆◆ (divine, concentrate, curse, fear, emotion, enchantment, mental, visual) The aghash fixes their gaze on one creature they can see within 20 feet. The creature must attempt a DC 21 Will save. **Critical Success** The creature is unaffected.
 **Success** The creature takes 2d6 mental damage and becomes frightened 1.
 **Failure** The creature takes 4d6 mental damage and becomes either frightened 2 or stunned 1 (the aghash's choice).

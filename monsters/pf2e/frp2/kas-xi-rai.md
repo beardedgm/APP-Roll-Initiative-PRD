@@ -33,6 +33,8 @@ Speed 50 feet, climb 35 feet
 
 **Monk Ki Spells** (DC 38)
 
+  **8th** ki rush, ki strike, wind jump
+
 **Exhausting Flurry** When Kas Xi Rai targets the same creature with two Strikes from her Flurry of Blows and at least one hits and deals damage, the target must succeed at a DC 39 Fortitude save or be enfeebled|CRB|enfeebled 1 and take a –5-foot status penalty to land Speed while enfeebled. On a critical failure, the creature is enfeebled|CRB|enfeebled 2 and takes a –10-foot status penalty to land Speed while enfeebled.
 
 **Flurry of Blows** ◆ (flourish) Kas Xi Rai makes two Strikes with her fist. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.

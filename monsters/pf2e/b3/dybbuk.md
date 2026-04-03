@@ -33,6 +33,16 @@ Speed fly 50 feet
 
 **Innate occult Spells** (DC 36), attack +30
 
+  **Cantrips (6th)** telekinetic projectile
+
+  **3rd** fear
+
+  **4th** modify memory
+
+  **5th** chilling darkness, fear
+
+  **6th** dominate, feeblemind, telekinetic maneuver
+
 **Inhabit Object** ◆ (necromancy, occult, possession) The dybbuk possesses a Large or smaller unattended object within 20 feet, making it an search=animated. This animated object's level can be no higher than the dybbuk's level – 2. This possession ends when the object is destroyed or the dybbuk leaves it by using this ability again. At this point, the dybbuk reappears in the object's square and can't Inhabit an Object again for 1d4 rounds. If the object is destroyed, the dybbuk takes 5d6 force damage.
 
 **Malevolent Possession** ◆◆ (incapacitation, mental, necromancy, occult, possession) The dybbuk attempts to possess an adjacent corporeal creature. This has the same effect as the possession spell (DC 34) with an unlimited duration, except since the dybbuk doesn't have a physical body, they aren't unconscious, and aren't paralyzed when the effect ends, though they take 5d6 force damage if the body is knocked unconscious or killed. If the dybbuk took control of the target with Malevolent Possession, when the dybbuk departs, the target has only incoherent memories of the interval it was possessed. If a creature dies while possessed by the dybbuk and its corpse remains intact, the dybbuk can immediately inhabit the corpse (see Inhabit Object) as a reaction, in which case the corpse becomes an animated object.

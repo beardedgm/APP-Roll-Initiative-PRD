@@ -37,6 +37,16 @@ Speed 35 feet, fly 40 feet, burrow 35 feet
 
 **Innate divine Spells** (DC 42), attack +34
 
+  **1st** detect alignment
+
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **9th** disintegrate, disjunction, wail of the banshee
+
+  **10th** cataclysm, massacre
+
 **Apocalypse Breath** (divine, negative) The daemon expels a shrieking black cloud of smoke from its mouth in a 120-foot line or a 60-foot cone (or both a line and a cone in the same direction if it spends 3 actions). Living creatures in the area take 24d6 negative damage (DC 45 basic Reflex save) The olethrodaemon can't use Apocalypse Breath again for 1d4 rounds.
 
 **Soul Crush** ◆◆ (manipulate) **Requirements** The olethrodaemon has a soul gem; The olethrodaemon crushes the soul gem in one hand and regains the use of Apocalypse Breath or any one of its innate spells.

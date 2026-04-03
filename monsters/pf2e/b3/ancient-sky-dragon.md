@@ -37,6 +37,10 @@ Speed 60 feet, fly 160 feet
 
 **Innate divine Spells** (DC 42)
 
+  **1st** feather fall, gust of wind
+
+  **4th** gaseous form, invisibility
+
 **Breath Weapon** ◆◆ (divine, electricity, evocation) The dragon shoots a ball of electricity that deals 9d12 electricity damage and 2d12 sonic damage in a 30-foot burst within 60 feet (DC 40 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds. See divine lightning below.
 
 **Coiling Frenzy** ◆◆ The dragon makes one claw Strike and one tail Strike in either order, each against the same target. If either Strike hits, the dragon automatically Grabs the target.

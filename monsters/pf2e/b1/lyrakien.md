@@ -29,4 +29,10 @@ Speed 25 feet, fly 50 feet
 
 **Innate divine Spells** (DC 17)
 
+  **Cantrips (1st)** dancing lights, daze, detect magic
+
+  **1st** detect alignment, heal, illusory object
+
+  **4th** read omens
+
 **Starlight Blast** ◆◆ (chaotic, good, light) The lyrakien unleashes a blast of holy starlight in a 5-foot burst centered on itself. Creatures in the area take 1d6 chaotic damage and 1d6 good damage (DC 17 basic Reflex save). The lyrakien can't use Starlight Blast or its starlight ray ranged attack for 1d4 rounds.

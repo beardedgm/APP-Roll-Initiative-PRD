@@ -31,6 +31,14 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 24), attack +12
 
+  **Cantrips (2nd)** daze, detect magic, light, read aura, sigil
+
+  **1st** command, fear, magic weapon
+
+  **2nd** darkness, harm, spiritual weapon
+
+  **3rd** harm, vampiric touch
+
 **Pack Attack** Krashk deals an additional 1d4 damage to any creature that's within reach of at least two of her allies.
 
 **Rugged Travel** Krashk ignores the first square of difficult terrain she moves into each time she Steps or Strides.

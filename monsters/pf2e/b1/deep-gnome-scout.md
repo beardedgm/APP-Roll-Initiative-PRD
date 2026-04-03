@@ -31,4 +31,6 @@ Speed 20 feet
 
 **Innate primal Spells** (DC 14)
 
+  **1st** illusory disguise
+
 **Hidden Movement** If the deep gnome scout starts its turn undetected or hidden to a creature, that creature is flat-footed against the deep gnome scout's attacks until the end of the turn.

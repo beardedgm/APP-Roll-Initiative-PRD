@@ -49,6 +49,8 @@ Speed 50 feet, fly 160 feet, burrow 25 feet, swim 80 feet
 
 **Innate primal Spells** (DC 45)
 
+  **10th** plane shift, spell turning
+
 **Blasting Breath** ◆◆ (electricity, evocation, fire, primal) Fafnheir exhales a cataclysmic firestorm laced with lightning and hurricane-strength winds, dealing 20d6 fire damage in a 90-foot cone (DC 48 basic Reflex save). Additionally, Fafnheir deals 10d6 additional electricity damage to one creature within the area of Blasting Breath of Fafnheir's choice, determined by the same basic Reflex save. Creatures in the area must also attempt a DC 48 Fortitude save to resist the powerful winds and deafening thunderclaps of the breath. Creatures that fail experience the effects of gust of wind, affecting Large or smaller creatures as normal. Finally, creatures that fail their Fortitude save become deafened for 1 minute (permanently deafened on a critical failure).
 
 **Boiling Blood** (fire, poison)

@@ -35,6 +35,8 @@ Speed 20 feet
 
 **Innate primal Spells** (DC 18)
 
+  **1st** charm
+
 **Inspired Feast** (emotion, mental) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour.
 
 **Swipe** ◆◆ The veteran makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within their melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Swipe counts as two attacks for the biloko veteran's multiple attack penalty.

@@ -39,6 +39,18 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 28)
 
+  **1st** ray of enfeeblement, sleep
+
+  **2nd** invisibility
+
+  **3rd** dream message, magic missile
+
+  **5th** nightmare, shadow blast
+
+  **8th** dream council
+
+  **9th** bind soul, ethereal jaunt
+
 **Abyssal Plague** (disease)
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The night hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).

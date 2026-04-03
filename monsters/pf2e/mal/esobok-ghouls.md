@@ -31,6 +31,8 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 22)
 
+  **2nd** invisibility
+
 **Pounce** ◆ The esobok ghoul Strides and then makes a claw Strike. If it began this action hidden, it remains hidden until after the Strike.
 
 **Consume Flesh** ◆ (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour.; The ghoul regains 3d6 Hit Points. It can regain Hit Points from any given corpse only once.

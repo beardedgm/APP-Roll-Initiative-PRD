@@ -42,6 +42,18 @@ Speed fly 25 feet
 
 **Innate occult Spells** (DC 28), attack +20
 
+  **Cantrips (5th)** daze, ghost sound, light, mage hand, telekinetic projectile
+
+  **1st** command, fear, ray of enfeeblement
+
+  **2nd** gentle repose, mirror image, telekinetic maneuver
+
+  **3rd** dream message, paralyze, slow
+
+  **4th** grim tendrils, nightmare, phantasmal killer
+
+  **5th** banishment, summon entity
+
 **Incite Insurrection** ◈ **Trigger** A creature within 30 feet of Ioseff fails a saving throw against one of his spells; Ioseff infuses the magic of his spell with the agonies of his own death. In addition to any effects caused by the triggering spell, the target must also attempt a DC 28 Fortitude save or contract internal insurrection at stage 1 (stage 2 on a critical failure); see page 67 for details of this eerie alien affliction.
 
 **Malevolent Possession** ◆◆ As ghost, DC 28 Will save. A character who carries Fulvia's ring on their person gains a +4 item bonus to their save and treats the result of the save as one degree of success better than their rolled result. If Ioseff attempts to use this ability on a character who wears Fulvia's ring, he can attempt a Perception check against the ring-wearer's Stealth DC to notice the ring in time to avoid the attempt; on a success, he loses the two actions he took to make the attempt but avoids further effects. If he doesn't notice the ring and attempts to possess the ring-wearer, the ring-wearer automatically gains a critical success on their Will save, Ioseff is stunned 3, and he can't use Malevolent Possession again for 24 hours.

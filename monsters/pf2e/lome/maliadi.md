@@ -37,6 +37,14 @@ Speed 30 feet, swim 20 feet
 
 **Innate primal Spells** (DC 38), attack +30
 
+  **Cantrips (9th)** detect magic, produce flame
+
+  **4th** air walk, gaseous form
+
+  **8th** fire shield, volcanic eruption
+
+  **9th** wall of fire, wall of stone
+
 **Improved Grab** ◆
 
 **Capsize** ◆ The maliadi tries to capsize an adjacent aquatic vessel of its size or smaller. The maliadi must succeed at a DC 35 Athletics check (reduced by 5 for each size smaller the vessel is than the maliadi) or the pilot's Sailing Lore DC, whichever is higher.

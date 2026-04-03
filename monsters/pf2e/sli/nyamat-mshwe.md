@@ -33,7 +33,17 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** daze, forbidding ward, light, stabilize
+
+  **1st** bane, bless, command, ray of enfeeblement
+
+  **2nd** death knell, heal, see invisibility, spiritual weapon
+
+  **3rd** chilling darkness, fear, harm
+
 **Focus divine Spells** (DC 24)
+
+  **3rd** touch of obedience
 
 **Demonic Strength** Nyamat inflicts an extra 1d6 damage with his spear, and any spear gains the fatal <d10> trait while Nyamat is using it (both the extra weapon damage die and the fatal trait have already been included in Nyamat's spear Strikes above).
 

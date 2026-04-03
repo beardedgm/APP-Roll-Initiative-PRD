@@ -29,6 +29,12 @@ Speed 25 feet, fly 30 feet
 
 **Innate primal Spells** (DC 18)
 
+  **Cantrips (2nd)** ghost sound
+
+  **1st** illusory disguise
+
+  **2nd** glitterdust, invisibility
+
 **Fiddle** ◆ (auditory, emotion, enchantment, mental, primal) A grig can rub its legs together to create a catchy fiddling tune that compels others within 30 feet to dance about, with varying effects depending on a DC 18 Will save. A listener is temporarily immune for 10 minutes on a success, but otherwise, if the grig continues to Fiddle each round, the creature receives no additional saves. **Success** No effect.
 **Failure** Flat-footed and –10-foot status penalty to Speeds.
 **Critical Failure** As failure, and also slowed 1.

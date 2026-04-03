@@ -33,7 +33,17 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 30), attack +22
 
+  **Cantrips (6th)** acid splash, mage hand, prestidigitation, ray of frost, shield
+
+  **3rd** haste, true strike
+
+  **5th** dispel magic, vampiric touch
+
+  **6th** baleful polymorph, chain lightning
+
 **Magus Focus Spells** (DC 30)
+
+  **6th** thunderous strike
 
 **Arcane Cascade** ◆ (concentrate, stance) **Requirements** The Blade magi can enter this stance if their most recent action was to Cast a Spell or make a Spellstrike|SoM, but the Blade magi can remain in the stance even if they no longer meet the requirements; When the Blade magi enters this stance and at the beginning of each of their turns while in it, the Blade magi gains 5 temporary Hit Points. While in this stance, the Blade magi's melee Strikes gain the arcane trait, deal an extra 2 force damage, and deal 4 splash force damage to foes adjacent to the target.
 

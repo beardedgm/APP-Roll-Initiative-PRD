@@ -35,7 +35,27 @@ Speed 35 feet
 
 **Prepared occult Spells** (DC 45), attack +37
 
+  **Cantrips (10th)** daze, forbidding ward, guidance, shield, telekinetic projectile
+
+  **4th** blink, remove fear, remove paralysis
+
+  **5th** black tentacles, chilling darkness, synaptic pulse
+
+  **6th** feeblemind, repulsion, true seeing
+
+  **7th** soothe, spider sting, warp mind
+
+  **8th** collective transposition, haste, slow
+
+  **9th** soothe, unfathomable song, weird
+
+  **10th** dispel magic, vampiric exsanguination, visions of danger
+
 **Witch Hexes** (DC 42)
+
+  **Cantrips** evil eye
+
+  **10th** cackle, curse of death, malicious shadow, needle of vengeance
 
 **Empowered Hair** Tak-nwa's mastery over her prehensile hair while in the Glass Lighthouse is so powerful that she can walk on thick strands like giant spider legs. This makes her immune to tripping, and she ignores the effects of terrain (but not terrain). She can use her living hair to perform precise tasks such as picking up objects and performing simple Interact actions. She can also deliver hexes through her hair. Whenever Tak-nwa successfully casts a hex focus spell that requires 2 or more actions to cast and that doesn't require a spell attack roll, if her target is within reach, as part of the spellcasting activity she can make a hair Strike against the foe before applying any effects of the hex. If this Strike misses, the hex has no effect.
 

@@ -35,6 +35,8 @@ Speed 20 feet
 
 **Innate primal Spells** (DC 30)
 
+  **1st** charm
+
 **Inspired Feast** (emotion, mental) As biloko reaver.
 
 **Size Alteration** ◆◆ (polymorph, primal, transmutation) Gambulami is affected by a 4th-level enlarge spell. This lasts for 1 minute, and Gambulami can Dismiss the Spell.

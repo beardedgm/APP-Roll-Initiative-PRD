@@ -35,6 +35,8 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 28)
 
+  **4th** enlarge
+
 **Change Shape** ◆ (concentrate, polymorph, primal) The redwood leshy can take the form of a Large tree, using the effects of one with plants.
 
 **Looming Strike** The leshy deals an additional 1d8 damage to creatures smaller than it.

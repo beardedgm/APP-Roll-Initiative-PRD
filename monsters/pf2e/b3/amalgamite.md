@@ -39,6 +39,10 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 33)
 
+  **4th** blink
+
+  **7th** ethereal jaunt, warp mind
+
 **Reposition** ◆◆ (concentrate, conjuration, occult, teleportation) The amalgamite teleports into an unoccupied space it can see within 50 feet.
 
 **Transpose** ◆◆ (conjuration, occult, teleportation) The amalgamite chooses up to two destabilized creatures they can see within 50 feet and swaps their positions, or moves a single such creature to an unoccupied space they can see within range. If the amalgamite chooses two creatures, they can choose their self as one of these creatures, but both targets must be the same size. An unwilling creature can attempt a DC 33 Will save. If either target succeeds at this saving throw, both are unaffected.

@@ -33,6 +33,18 @@ Speed 25 feet, fly 35 feet
 
 **Innate divine Spells** (DC 26)
 
+  **1st** charm
+
+  **2nd** detect alignment
+
+  **3rd** mind reading
+
+  **4th** dimension door, suggestion
+
+  **5th** dimension door
+
+  **6th** dominate
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The succubus can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).
 
 **Embrace** ◆ (attack) The succubus attempts to Grapple a creature using their Diplomacy bonus instead of Athletics. If the creature is willing, the succubus grapples it automatically.

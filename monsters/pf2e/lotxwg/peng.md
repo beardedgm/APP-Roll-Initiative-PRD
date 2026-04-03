@@ -37,6 +37,12 @@ Speed 10 feet, fly 70 feet
 
 **Innate primal Spells** (DC 32)
 
+  **1st** gust of wind
+
+  **3rd** wall of wind
+
+  **5th** howling blizzard
+
 **Cloud Cover** ◆ (air, primal) The peng exhales a thick cloud and envelops themself in the mist. The peng is concealed until the end of their next turn.
 
 **Flap Wings** ◆◆ (air, cold, primal) The peng beats their wings to create a mighty burst of frosty air and push away foes. Each creature within 10 feet of the peng takes 4d6 bludgeoning and 4d6 cold damage (DC 32 basic Reflex save). Creatures that fail their save are pushed away 10 feet; creatures that critically fail are pushed away 20 feet and knocked prone.

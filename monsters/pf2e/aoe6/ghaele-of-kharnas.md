@@ -39,6 +39,24 @@ Speed 35 feet, fly 100 feet
 
 **Innate divine Spells** (DC 38)
 
+  **Cantrips (7th)** dancing lights, detect magic, light
+
+  **1st** charm, detect alignment, illusory disguise
+
+  **2nd** continual flame, dispel magic
+
+  **3rd** mind reading
+
+  **4th** heal, invisibility, restoration
+
+  **5th** banishment
+
+  **6th** illusory scene
+
+  **7th** chromatic wall, dispel magic, heal, prismatic spray
+
+  **8th** prismatic wall
+
 **Choose Weakness** ◆ (concentrate, divination, divine, evocation, manipulate) A ghaele attempts to Recall Knowledge about a foe they are facing. If successful, they can change the elemental damage dealt by their greatsword and light ray to acid, cold, electricity, fire, or sonic, usually to match the foe's weakness. They can also change their energy resistance to any of these energy types (this can be a different type than for their attacks) The choices remain until they next use Choose Weakness.
 
 **Ghaele's Gaze** ◆ (divine, evocation, visual) When a ghaele fixes their gaze upon a non-good creature, the creature is subjected to the effects of divine decree (DC 38 Will save). If it survives, the creature is temporarily immune to Ghaele's Gaze for 1 minute.

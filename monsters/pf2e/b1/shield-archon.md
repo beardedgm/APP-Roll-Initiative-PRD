@@ -39,6 +39,14 @@ Speed 30 feet, fly 60 feet
 
 **Innate divine Spells** (DC 27)
 
+  **Cantrips (5th)** message
+
+  **1st** true strike
+
+  **2nd** shield other
+
+  **4th** dimension door
+
 **Archon's Door** Once per day, if an archon sees another creature cast dimension door, it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door.
 
 **Courageous Switch** When a shield archon uses its dimension door innate spell, it can choose to move into the space of a willing ally it can see within range. If it does so, the ally switches places with the archon, appearing in the space the archon just vacated, as if it too had cast dimension door.

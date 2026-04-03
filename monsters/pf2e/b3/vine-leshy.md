@@ -33,6 +33,8 @@ Speed 20 feet, climb 20 feet
 
 **Innate primal Spells** (DC 15)
 
+  **4th** speak with plants
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The vine leshy transforms into a Small plant with vines. This ability otherwise uses the effects of tree shape.
 
 **Extend Vines** ◆ The vine leshy Interacts to extend or shorten their arms. With limbs extended, the vine leshy has a 10-foot reach. The leshy can't use weapons that already have reach in this way, because they would be unable to keep their balance.

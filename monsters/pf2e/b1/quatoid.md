@@ -33,4 +33,6 @@ Speed 25 feet, swim 25 feet
 
 **Innate primal Spells** (DC 27), attack +17
 
+  **2nd** hydraulic push
+
 **Constrict** ◆ 1d12+6 bludgeoning, DC 25

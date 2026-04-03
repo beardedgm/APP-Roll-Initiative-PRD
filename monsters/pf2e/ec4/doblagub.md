@@ -33,6 +33,14 @@ Speed 10 feet, swim 10 feet
 
 **Innate primal Spells** (DC 33), attack +27
 
+  **3rd** faerie fire, fear, hideous laughter
+
+  **4th** charm, lightning bolt, paralyze
+
+  **5th** confusion, enthrall, illusory scene, wall of stone
+
+  **6th** crushing despair, dominate
+
 **Cantrips** (6th) detect magic, produce flame; Constant (6th) true seeing.
 
 **Etheric Tug** ◆ **Frequency** {"unit":"round","number":1}; Requirements The doblagub's etheric fibers aura is active; ; All nonbrughadatch creatures within the aura must succeed at a DC 30 Fortitude save or be pulled 10 feet toward the doblagub.

@@ -37,6 +37,12 @@ Speed 25 feet, fly 30 feet
 
 **Innate divine Spells** (DC 38)
 
+  **7th** enervation, plane shift
+
+  **8th** finger of death, scrying
+
+  **9th** bind soul
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The shinigami takes on the appearance of a specific Small or Medium humanoid creature. This doesn't change their statistics, other than to remove the reach trait from their Strikes. The shinigami's human shape is unique to the shinigami and can't be used to Impersonate a creature.
 
 **Pouch of Four Gems** Each shinigami carries a pouch containing four black sapphires for use with bind soul. Each gem is capable of holding a soul of a maximum level equal to that of the shinigami. If the shinigami dies, the gems are destroyed as well, and any souls they contain are released harmlessly to travel to the Boneyard.

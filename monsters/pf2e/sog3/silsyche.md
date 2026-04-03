@@ -35,6 +35,12 @@ Speed fly 30 feet
 
 **Innate occult Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** dancing lights, mage hand, telekinetic projectile
+
+  **2nd** illusory object
+
+  **3rd** item facade
+
 **Hallucinatory Home** ◆◆◆ (charm, divine, emotion, illusion, mental) **Frequency** {"unit":"day","number":1}; The silsyche creates a hospitable but illusory environment in an attempt to entice their targets into staying, including food and amenities. Creatures in the building must attempt a DC 24 Will save. **Critical Success** The creature is unaffected.
 **Success** The creature perceives the home to be as the silsyche's illusion presents it but isn't compelled to stay.
 **Failure** The creature becomes fascinated with the building and refuses to leave. The creature can attempt another Will save at the end of each turn. On a success, they're no longer fascinated.

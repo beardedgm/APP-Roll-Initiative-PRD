@@ -33,6 +33,12 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** detect magic, produce flame, ray of frost, shield
+
+  **1st** true strike
+
+  **2nd** shocking grasp
+
 **Spellstrike** ◆◆ **Frequency** {"number":2,"unit":"day"}; Onyiji casts a spell and couples it with a staff Strike. She casts produce flame, ray of frost, or shocking grasp, but the effects don't occur immediately. She makes a melee Strike with her staff and uses the attack roll result as the effect of both the Strike and the spell. This counts as two attacks towards her multiple attack penalty, but the penalties don't apply until after the Spellstrike|SoM.
 
 **Twisting Tree When** Onyiji wields a staff in one hand, it gains the agile trait and its damage die size increases to d6 (these adjustments are reflected in the Strike above). When she wields a staff in two hands, it gains the parry, reach, and trip traits. She can Interact to Release or change her grip on her staff as a free action

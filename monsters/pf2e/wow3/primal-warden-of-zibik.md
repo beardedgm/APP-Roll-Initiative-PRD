@@ -42,6 +42,18 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 32), attack +24
 
+  **Cantrips (6th)** caustic blast, tangle vine
+
+  **2nd** speak with animals
+
+  **3rd** wall of thorns
+
+  **4th** speak with plants, vital beacon
+
+  **5th** nature's pathway, toxic cloud
+
+  **6th** field of life, tangling creepers
+
 **Flourishing Growth** (plant, primal) The first time each round any creature takes damage from the warden's fists, the target must attempt a DC 32 Fortitude save. On a failure, tiny sprouts burst from the creature's flesh, and it becomes slowed 1 for 1 round.
 
 **Fractal Rot** (disease, primal) The first time each round any creature takes damage from the warden's rotten bark, the target becomes sickened 1 as the flesh where it was struck momentarily twists and rots, causing considerable pain.

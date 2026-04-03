@@ -39,6 +39,12 @@ Speed 40 feet, fly 40 feet
 
 **Innate occult Spells** (DC 37)
 
+  **6th** slow
+
+  **8th** inevitable disaster, teleport
+
+  **9th** cast into time
+
 **Breath Weapon** ◆◆ (divination, mental, primal) The nornhound unleashes a blast of temporal energy in a 30-foot cone that deals 15d8 mental damage (DC 40 basic Will save). Creatures that fail their save become confused for 1 round. The nornhound can't use Breath Weapon again for 1d4 rounds.
 
 **Follow the Thread** A nornhound is permanently quickened. It can use its extra action only to Step or Stride.

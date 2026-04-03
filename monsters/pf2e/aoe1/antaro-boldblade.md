@@ -28,3 +28,7 @@ Speed 15 feet
 **Melee** rapier +5 (deadly <1d8>, disarm, finesse); **Damage** 1d6+2 piercing
 
 **Prepared divine Spells** (DC 16)
+
+  **Cantrips (1st)** light, stabilize
+
+  **1st** heal

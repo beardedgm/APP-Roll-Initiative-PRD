@@ -37,6 +37,8 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 32)
 
+  **5th** bind undead, harm
+
 **Dooming Touch** (divine, necromancy) The tomb giant's claws carry the accursed power of their foul gods. A creature hit by the tomb giant's claw Strike becomes doomed 1.
 
 **Font of Death** ◆◆◆ (divine, necromancy, negative) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of negative energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with negative energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this negative energy from the corpse in an explosion that deals 10d8 negative energy in a 15-foot burst (DC 32 basic Fortitude save); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused.

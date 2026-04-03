@@ -47,6 +47,12 @@ Speed 25 feet, fly 50 feet
 
 **Innate divine Spells** (DC 36)
 
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **7th** dispel magic, fireball, lightning bolt
+
 **Chain of Malebolge** ◆ **Requirements** The cornugon's last action was a success with a spiked chain Strike; The devil pulls the creature 5 feet closer and grabs it with the spiked chain (Escape DC 42). The creature is automatically freed if the devil makes another spiked chain attack or moves away.
 
 **Infernal Wound** (divine, necromancy) A cornugon's tail Strike deals 4d6 persistent bleed damage. The DC of the flat check to stop the bleeding starts at 20 and is reduced to 15 only if someone successfully assists. The DC to Administer First Aid to a creature with an infernal wound increases by 10. A spellcaster or item using healing magic on an infernally wounded creature must succeed at a DC 34 counteract check or the magic fails to heal the creature.

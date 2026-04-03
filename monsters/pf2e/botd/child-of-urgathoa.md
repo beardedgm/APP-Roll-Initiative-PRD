@@ -35,6 +35,10 @@ Speed fly 40 feet
 
 **Innate divine Spells** (DC 26)
 
+  **3rd** bind undead
+
+  **4th** harm, sudden blight
+
 **Pallid Plague** (disease, divine, necromancy, virulent)
 
 **Reap** ◆◆ The child of Urgathoa makes a scything blade Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within their melee reach. Roll damage only once and apply it to each creature hit. Reap counts as two attacks for the child of Urgathoa's multiple attack penalty.

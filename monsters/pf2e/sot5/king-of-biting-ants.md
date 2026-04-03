@@ -39,6 +39,28 @@ Speed 30 feet, climb 20 feet
 
 **Spontaneous occult Spells** (DC 44), attack +34
 
+  **Cantrips (10th)** daze, detect magic, light, mage hand, shield
+
+  **1st (4 slots)** charm, illusory disguise, mindlink, ray of enfeeblement
+
+  **2nd (4 slots)** comprehend language, illusory creature, mirror image, undetectable alignment
+
+  **3rd (4 slots)** dream message, haste, hypercognition, slow
+
+  **4th (4 slots)** dimension door, modify memory, suggestion, veil
+
+  **5th (4 slots)** black tentacles, mind probe, phantom pain, subconscious suggestion
+
+  **6th (4 slots)** dominate, paranoia, slow, teleport
+
+  **7th (4 slots)** dispel magic, phantasmal killer, visions of danger, warp mind
+
+  **8th (4 slots)** disappearance, dispel magic, maze, mind blank, prismatic wall
+
+  **9th (3 slots)** foresight, wail of the banshee, weird
+
+  **10th (2 slots)** time stop, visions of danger
+
 **Squirming Embrace** ◆ The King of
 
 **Biting Ants** Strides to a creature, ends h i s movement sharing a space with it, and deals 3d8 piercing damage and 3d8 poison damage to it (DC 39 basic Reflex save). A creature that fails this save also takes 2d8 persistent piercing damage.

@@ -37,4 +37,12 @@ Speed 40 feet, fly 40 feet
 
 **Innate occult Spells** (DC 33)
 
+  **Cantrips (7th)** daze, detect magic
+
+  **5th** hallucinatory terrain
+
+  **6th** hallucination, illusory scene, modify memory, zealous conviction
+
+  **7th** reverse gravity
+
 **Fatal Fantasia** (illusion, mental) An adachros's melee and ranged Strikes gain the fatal <d12> trait against any creature affected by the adachros's enchantment or illusion spells, including creatures in the area of a hallucinatory terrain that haven't disbelieved the effect.

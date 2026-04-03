@@ -29,4 +29,12 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 24), attack +16
 
+  **Cantrips (2nd)** bullhorn, ghost sound, haunting hymn, light, summon instrument
+
+  **1st** biting words, charm, fear
+
+  **2nd** dispel magic, false life, mirror image
+
+  **3rd** agonizing despair, roaring applause, slow
+
 **Cruel Performance** ◆◆ (occult, evil, sonic) **Frequency** {"number":1,"unit":"day"}; The bard makes cruel, cutting comments that draw blood. All enemies within 30 feet take 7d6 slashing damage (DC 24 basic Fortitude save).

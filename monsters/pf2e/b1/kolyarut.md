@@ -34,3 +34,15 @@ Speed 25 feet
 **Melee** fist +23 (agile, lawful, magical); **Damage** 1d10+11 bludgeoning plus 1d6 lawful
 
 **Innate divine Spells** (DC 32)
+
+  **1st** command
+
+  **2nd** invisibility
+
+  **3rd** paralyze
+
+  **4th** illusory disguise, suggestion
+
+  **5th** command
+
+  **8th** discern location

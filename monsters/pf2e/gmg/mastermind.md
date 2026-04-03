@@ -33,7 +33,15 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 22), attack +14
 
+  **Cantrips (2nd)** daze, detect magic, message, prestidigitation, sigil
+
+  **1st (3 slots)** charm, illusory disguise, illusory object
+
+  **2nd (3 slots)** blur, charm, invisibility, paranoia
+
 **Bard Composition Spells** (DC 22)
+
+  **Cantrips (2nd)** inspire competence, inspire courage
 
 **Scoundrel's Feint** When the mastermind successfully Feints, the target is flat-footed against the mastermind's melee attacks until the end of the mastermind's next turn. On a critical success, the target is flat-footed against all melee attacks for that time, not just the mastermind's.
 

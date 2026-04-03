@@ -33,6 +33,12 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 20)
 
+  **Cantrips (2nd)** detect magic, mage hand
+
+  **1st** grease
+
+  **3rd** fear, remove disease
+
 **Nervous Consumption** (disease, divine, emotion, enchantment, mental)
 
 **Skip Between** ◆ (conjuration, divine, teleportation) The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of ethereal jaunt except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between.

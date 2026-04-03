@@ -39,6 +39,26 @@ Speed 25 feet, fly 25 feet
 
 **Prepared arcane Spells** (DC 39), attack +29
 
+  **Cantrips (9th)** detect magic, mage hand, message, ray of frost, shield
+
+  **1st** magic missile, ray of enfeeblement, true strike
+
+  **2nd** false life, mirror image, resist energy, see invisibility
+
+  **3rd** blindness, locate, magic missile, vampiric touch
+
+  **4th** fly, phantasmal killer, vampiric maiden
+
+  **5th** cloudkill, cone of cold, wall of ice
+
+  **6th** chain lightning, dominate, vampiric exsanguination
+
+  **7th** duplicate foe, eclipse burst, mask of terror
+
+  **8th** horrid wilting, maze, prismatic wall
+
+  **9th** massacre, power word kill, telepathic demand
+
 **Drain Soul Cage** ◇ **Frequency** {"number":1,"unit":"day"}; Dwandek taps into his soul cage's power to cast any arcane spell up to 9th level, even if the spell being cast is not one of his prepared spells. The lich's soul cage doesn't need to be present for the lich to use this ability.
 
 **Paralyzing Touch** (arcane, curse, incapacitation, necromancy) As lich, but DC 38.

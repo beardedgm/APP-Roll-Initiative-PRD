@@ -47,6 +47,10 @@ Speed 60 feet
 
 **Innate primal Spells** (DC 42), attack +34
 
+  **Cantrips (10th)** dancing lights, ray of frost, sigil, tanglefoot
+
+  **9th** baleful polymorph, cone of cold, wall of ice
+
 **Bountiful Bag** Krampus carries a large bag brimming with barely contained gifts and trinkets, including one of every weapon==sand, at least 20 golden rod memento|LOMM|golden rod mementos, and an assortment of food and valuables. Once every 24 hours, the bag's contents magically regenerate, replacing any of these items that have been removed. Krampus can Interact with the bag to stow or withdraw items, always finding the desired stored item at the top of the bag. The bag is an extradimensional space, so the weight of its contents doesn't count against Krampus's Bulk limit. The bag functions as a normal sack if used by anyone other than Krampus, and if the bag is stolen or Krampus is slain, the bag retains only 2d4 random weapon==sand A creature can use Disarm or Steal to extract a consumable item from Krampus's bag. As part of the action, the creature can envision a specific item it wants to extract. On a success, the creature Disarms or Steals the object and rolls a DC 13 flat check. **Success** The creature Disarms or Steals the envisioned object. If the creature didn't envision an object, it Disarms or Steals a random common consumable item of a level at least half the creature's level.
 **Failure** The creature Disarms or Steals a random common consumable item of a level at least half the creature's level.
 **Critical Failure** The creature Disarms or Steals a golden rod memento|LOMM instead of a consumable item.

@@ -41,6 +41,16 @@ Speed 50 feet
 
 **Innate primal Spells** (DC 46)
 
+  **Cantrips (10th)** produce flame
+
+  **7th** plane shift
+
+  **8th** earthquake
+
+  **9th** meteor swarm, fireball
+
+  **10th** cataclysm
+
 **Throw Rock** ◆ A lerritan can break stony scales off its body to throw; these scales reform at the end of each round, so the lerritan is never without a supply of rocks to hurl.
 
 **Volcanic Eruption** ◆◆ (earth, evocation, fire, primal) The volcano on the lerritan's back erupts and sends lava bombs raining down in a 30-foot emanation, dealing 12d12 fire damage. Each creature in the area must attempt a DC 46 Reflex saving throw. The lava globules quickly cool into heavy stones, transforming the area into terrain for non-lerritans. The lerritan can't use Volcanic Eruption for 1d4 rounds. **Critical Success** The creature is unaffected.

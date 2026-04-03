@@ -39,7 +39,33 @@ Speed 25 feet, fly 20 feet
 
 **Innate arcane Spells** (DC 37), attack +29
 
+  **Cantrips (8th)** detect magic, mage hand, message, produce flame, read aura
+
+  **5th** dimension door
+
+  **6th** dominate, feeblemind, scrying, slow
+
+  **7th** divine decree, magic missile, teleport
+
+  **8th** dispel magic, maze, suggestion
+
 **Prepared arcane Spells** (DC 37), attack +29
+
+  **1st** ray of enfeeblement
+
+  **2nd** mirror image
+
+  **3rd** mind reading
+
+  **4th** invisibility
+
+  **5th** magic missile
+
+  **6th** phantasmal killer
+
+  **7th** shadow blast
+
+  **8th** horrid wilting
 
 **Arcane Absorption** ◆◆◆ (arcane, enchantment, manipulate, mental) **Requirements** Any creature adjacent to Lorthact is stupefied, capable of casting prepared arcane spells, and is either immobilized, unconscious, or willing; Lorthact attempts to drain a 1st- through 8th-level prepared spell from the target, who can resist with a successful DC 37 Will saving throw. On a failure or against a willing target, the prepared arcane spell is transferred from that creature as if it were cast, and Lorthact immediately prepares that spell in the same level slot. If he already had a spell prepared in that slot, the previously prepared spell is lost. That creature is then immune to Arcane Absorption for 24 hours.
 

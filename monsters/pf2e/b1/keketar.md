@@ -43,6 +43,20 @@ Speed 40 feet, fly 50 feet, swim 40 feet
 
 **Innate divine Spells** (DC 42), attack +32
 
+  **2nd** detect alignment
+
+  **4th** confusion, dimension door
+
+  **5th** creation, dimension door, hallucinatory terrain
+
+  **6th** teleport
+
+  **7th** disintegrate, dispel magic, shatter, warp mind
+
+  **8th** baleful polymorph, confusion
+
+  **9th** divine wrath, prismatic sphere
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The keketar can take the appearance of any Huge or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.
 
 **Constrict** ◆ 1d10+15 bludgeoning, DC 42

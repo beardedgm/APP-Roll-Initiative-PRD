@@ -31,7 +31,17 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 23)
 
+  **Cantrips (3rd)** guidance, light, message, sigil, stabilize
+
+  **1st** detect poison, purify food and drink
+
+  **2nd** death knell, remove fear, restoration
+
+  **3rd** heal, neutralize poison, remove disease
+
 **Cleric Domain Spells** (DC 23)
+
+  **3rd** healer's blessing
 
 **Healing Hands** When the plague doctor casts heal, they roll d10s instead of d8s.
 

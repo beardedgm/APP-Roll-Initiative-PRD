@@ -29,6 +29,12 @@ Speed 25 feet
 
 **Spontaneous divine Spells** (DC 29), attack +21
 
+  **Cantrips (6th)** daze, detect magic, divine lance
+
+  **5th (4 slots)** burning hands, fireball, flame strike
+
+  **6th (3 slots)** blade barrier, vampiric exsanguination, wall of fire
+
 **Form Up** ◆
 
 **Frenetic Assault** **Frequency** {"number":1,"unit":"round"}; The members of the brigade wildly swing their weapons—primarily spears—in a frenzied attack at each enemy adjacent to the troop (DC 29 basic Reflex save). The damage depends on the number of actions. 1 1d12+1 piercing damage 2 2d12+11 piercing damage 3 3d12+11 piercing damage

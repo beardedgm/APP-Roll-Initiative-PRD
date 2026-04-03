@@ -33,6 +33,10 @@ Speed 20 feet
 
 **Innate divine Spells** (DC 16)
 
+  **1st** fear
+
+  **3rd** slow
+
 **Cower** ◆ The dretch makes itself as small as possible, protecting its vital organs with its limbs. It gains a +4 circumstance bonus to AC but takes a –2 penalty to attack rolls. This lasts until the dretch moves from its current space, falls unconscious, or ends the effect as a free action.
 
 **Frenzied Slashes** ◆◆◆ The dretch makes three claw Strikes, each at a –2 penalty, all targeting the same creature. The dretch's multiple attack penalty doesn't increase until after it has made all three attacks. The dretch gains the clumsy 2 condition until the beginning of its next turn.

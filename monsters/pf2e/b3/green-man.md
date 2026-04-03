@@ -46,6 +46,14 @@ Speed 40 feet, climb 40 feet
 
 **Innate primal Spells** (DC 48)
 
+  **Cantrips (10th)** detect magic, read aura
+
+  **8th** air walk, freedom of movement
+
+  **9th** energy aegis
+
+  **10th** heal, regenerate, tree stride, true seeing, primal phenomenon
+
 **Absorb Magic** ◆ The green man's vines leach away magic and transform it into life essence for the green man. On a successful vine Strike, the green man attempts to counteract one spell active on the target (typically one vexing the green man, or determined randomly if they aren't aware of specific effects), with a counteract level of 10 and a modifier of 1d20+38|+38. If the effect is counteracted, the green man gains 30 temporary Hit Points that last for 10 minutes.
 
 **Embed** The green man's thorns embed themselves into any creature they damage, taking root into the ground. A target damaged by a thorn has its Speeds halved, and it can't Step, Fly, air walk, or otherwise leave the ground until the thorn is removed. Removing a thorn requires 3 Interact actions, which don't have to be consecutive. If the creature performing the final action doesn't succeed at a DC 45 Medicine check as part of that action, the target takes 10d6 damage upon the thorn's removal.

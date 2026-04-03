@@ -39,4 +39,12 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 29), attack +21
 
+  **Cantrips (5th)** mage hand, message, shield, telekinetic projectile
+
+  **3rd** paralyze, vampiric touch
+
+  **4th** charm, phantasmal killer
+
+  **5th** hallucination, subconscious suggestion
+
 **Drain Qi** ◆ (divine, necromancy) When Draining Qi, Hong Meigui regains 12 HP.

@@ -34,3 +34,7 @@ Speed 25 feet, swim 25 feet
 **Melee** greatsword +18 (versatile <P>); **Damage** 1d12+11 slashing plus 1d6 mental
 
 **Innate primal Spells** (DC 25)
+
+  **4th** obscuring mist, solid fog
+
+  **7th** plane shift

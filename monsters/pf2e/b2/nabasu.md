@@ -35,6 +35,10 @@ Speed 25 feet, fly 50 feet
 
 **Innate divine Spells** (DC 26)
 
+  **4th** dimension door, grim tendrils, paralyze, vampiric touch
+
+  **5th** dimension door
+
 **Consume Death** ◆ (concentrate, divine, necromancy, visual) The nabasu focuses their death-stealing gaze upon a single target they can see within 30 feet. The target must immediately attempt a Fortitude save against death-stealing gaze. **Critical Success** The creature is unaffected and the nabasu suffers starvation vulnerability.
 **Success** The creature is unaffected.
 **Failure** The creature is affected by deathstealing gaze and becomes drained 1. If the creature was already drained 1 by the death-stealing gaze before attempting the save, a failed save increases the value of the drained condition by 1, to a maximum of drained 4. The nabasu gains 10 temporary Hit Points, and the drained creature is temporarily immune until the start of the nabasu's next turn.

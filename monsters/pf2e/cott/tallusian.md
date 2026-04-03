@@ -35,6 +35,12 @@ Speed 25 feet, climb 20 feet
 
 **Innate divine Spells** (DC 22)
 
+  **1st** pummeling rubble
+
+  **2nd** humanoid form
+
+  **4th** shape stone
+
 **Crumbling Ground** ◆◆ (divine, earth) The tallusian slaps their tail against the earth, creating a vibration at the precise frequency needed to shake the ground in a 10-foot burst within 30 feet. The area becomes difficult terrain for 24 hours. Any creature in the area must attempt a DC 22 Reflex save. **Critical Success** 
 **Success** 
 **Failure** 

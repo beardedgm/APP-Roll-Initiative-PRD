@@ -45,6 +45,10 @@ Speed 60 feet
 
 **Innate primal Spells** (DC 42), attack +34
 
+  **Cantrips (10th)** dancing lights, ray of frost, sigil, tanglefoot
+
+  **9th** baleful polymorph, cone of cold, wall of ice
+
 **Improved Grab** ◆
 
 **Capture** ◆ (attack) **Requirements** Krampus has a Medium or smaller creature grabbed; Krampus attempts to stuff the grabbed creature into his basket, attempting an Athletics check against the target's Reflex DC. If he succeeds, the creature is shoved into Krampus's basket and Krampus's spiked chain or claw is freed for future Strikes. The captured creature is grabbed, slowed 1, and subjected to Krampus's regression ability (see below) at the start of each round it is captured. If the victim Escapes (DC 48), it climbs out of the basket. A captured creature can attack the interior of the basket, but only with unarmed attacks or weapons of light Bulk or less, against an AC of 40. If the captured creature deals 40 slashing or piercing damage, the basket is broken and all the creatures inside spill out. A creature that gets free by either Escaping or by someone breaking the basket is deposited in a square of their choosing adjacent to Krampus. The basket is an extradimensional space, so the weight of the creatures within doesn't count against Krampus's Bulk limit. Up to four Small creatures or two Medium creatures can fit in the basket at one time. Krampus can Repair the basket as a 2-action activity that doesn't require tools. If the basket is lost or destroyed, Krampus can create a new one with 1 hour of work. The basket functions as a normal sack if used by anyone other than Krampus.

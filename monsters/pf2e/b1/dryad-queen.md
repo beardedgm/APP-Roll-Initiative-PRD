@@ -37,7 +37,35 @@ Speed 30 feet
 
 **Prepared primal Spells** (DC 35), attack +25
 
+  **Cantrips (7th)** detect magic, guidance, light, ray of frost, stabilize
+
+  **1st** fleet step, gust of wind, negate aroma
+
+  **2nd** animal messenger, faerie fire, remove fear
+
+  **3rd** earthbind, haste, wall of thorns
+
+  **4th** fly, resist energy, stoneskin
+
+  **5th** cone of cold, death ward, heal
+
+  **6th** baleful polymorph, chain lightning, tangling creepers
+
+  **7th** regenerate, summon plant or fungus
+
 **Innate primal Spells** (DC 35), attack +25
+
+  **Cantrips (5th)** tanglefoot
+
+  **2nd** shape wood, tree shape
+
+  **3rd** entangle, sleep
+
+  **4th** charm, suggestion
+
+  **5th** tree stride
+
+  **8th** impaling briars
 
 **Change Shape** ◆ (polymorph, primal, transmutation)
 

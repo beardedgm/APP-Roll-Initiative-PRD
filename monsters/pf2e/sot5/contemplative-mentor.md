@@ -37,6 +37,14 @@ Speed 5 feet, fly 30 feet
 
 **Innate occult Spells** (DC 43), attack +33
 
+  **Cantrips (9th)** daze, ghost sound, mage hand, read aura, telekinetic projectile
+
+  **7th** haste, magic missile, return to essence, sanctuary, slow
+
+  **8th** dimensional anchor, disappearance, discern location
+
+  **9th** foresight, magic missile
+
 **Project Calm** ◆◆◆ (emotion, enchantment, mental, occult) The contemplative mentor projects a field of perfect calm in a 60-foot emanation. All creatures within the area of effect must succeed at a DC 40 Will save or be unable to take hostile actions for 1 round. After using this ability, the contemplative is drained 1, or increases its drained value by 1 if it was already drained. A contemplative mentor can't use this ability if its drained value is 3 or more.
 
 **Temporal Suppression** ◆ (enchantment, mental, occult) As contemplative meditant, but DC 40.

@@ -31,6 +31,14 @@ Speed 45 feet
 
 **Innate primal Spells** (DC 21)
 
+  **Cantrips (2nd)** light
+
+  **1st** detect alignment
+
+  **3rd** heal, neutralize poison
+
+  **5th** tree stride
+
 **Ghost Touch** A unicorn's Strikes have the effects of a ghost touch property rune.
 
 **Powerful Charge** ◆◆ The unicorn Strides up to double its Speed in a straight line and then makes a horn Strike. If the unicorn moved at least 20 feet, it deals an additional 2d6 damage on a hit.

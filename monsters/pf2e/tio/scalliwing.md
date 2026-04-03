@@ -27,6 +27,12 @@ Speed 10 feet, fly 40 feet
 
 **Innate divine Spells** (DC 20)
 
+  **Cantrips (2nd)** daze, guidance, mage hand, message, shield
+
+  **1st** command, heal, sanctuary
+
+  **2nd** heal, invisibility
+
 **Wing Flash** ◆◆ (mental, visual) The scalliwing spreads their iridescent wings and flutters them in a hypnotizing pattern. Each creature within 30 feet that can see the scalliwing must attempt a DC 20 Will save. **Critical Success** The creature is unaffected.
 **Success** The creature is flat-footed until the start of its next turn.
 **Failure** The creature is flat-footed until the start of its next turn, and it must spend its first action on its next turn admiring the scalliwing.

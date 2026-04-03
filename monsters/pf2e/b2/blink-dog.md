@@ -27,4 +27,6 @@ Speed 35 feet
 
 **Innate occult Spells** (DC 18)
 
+  **4th** dimension door
+
 **Pack Attack** The blink dog's Strikes deal an additional 1d4 damage to creatures within the reach of at least two of the blink dog's allies.

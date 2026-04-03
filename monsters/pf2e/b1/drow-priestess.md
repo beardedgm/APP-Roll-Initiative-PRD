@@ -37,4 +37,20 @@ Speed 30 feet
 
 **Prepared divine Spells** (DC 21)
 
+  **Cantrips (2nd)** detect magic, guidance, know direction, read aura, stabilize
+
+  **1st** bless, command, fear
+
+  **2nd** harm, silence, spiritual weapon
+
 **Innate divine Spells** (DC 17)
+
+  **Cantrips (4th)** dancing lights
+
+  **1st** command
+
+  **2nd** darkness, faerie fire
+
+  **3rd** dispel magic, levitate
+
+  **4th** darkness

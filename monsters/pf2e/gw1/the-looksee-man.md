@@ -35,6 +35,16 @@ unique, ne, medium, fetchling, humanoid, shadow
 
 **Wizard Prepared Spells** (DC 21), attack +14
 
+  **Cantrips (2nd)** mage hand, shield, tanglefoot
+
+  **1st** magic missile, shocking grasp
+
+  **2nd** acid arrow, scorching ray, spider climb
+
 **Innate occult Spells** (DC 21)
 
+  **1st** illusory disguise
+
 **Focus Transmutation School Spell Spells**
+
+  **1st** physical boost

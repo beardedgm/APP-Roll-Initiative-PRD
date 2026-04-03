@@ -41,6 +41,10 @@ Speed 35 feet
 
 **Innate divine Spells** (DC 19)
 
+  **4th** dimension door
+
+  **5th** dimension door
+
 **Avernal Fever** (disease)
 
 **Infernal Wound** (divine, necromancy) A bearded devil's glaive Strike also deals 1d6 persistent bleed damage that resists attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery. The DC to Administer First Aid to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 21 counteract check or the magic fails to heal the creature.

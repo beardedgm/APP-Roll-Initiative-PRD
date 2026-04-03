@@ -38,4 +38,16 @@ Speed 25 feet, burrow 20 feet, climb 20 feet
 
 **Prepared divine Spells** (DC 29), attack +21
 
+  **Cantrips (5th)** daze, divine lance, message, read aura, sigil
+
+  **1st** command, fear, sanctuary
+
+  **2nd** enhance victuals, ghoulish cravings, silence
+
+  **3rd** blindness, chilling darkness, heal
+
+  **4th** air walk, dimensional anchor, heal
+
+  **5th** command, harm, sending
+
 **Swallow Whole** ◆ Medium, 3d8+7 bludgeoning, Rupture 26

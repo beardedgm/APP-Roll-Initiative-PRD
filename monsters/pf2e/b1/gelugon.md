@@ -42,3 +42,13 @@ Speed 35 feet, fly 35 feet
 **Melee** frost longspear +27 (cold, magical, thrown <20 feet>); **Damage** 2d8+12 piercing plus 1d6 cold
 
 **Innate divine Spells** (DC 33)
+
+  **Cantrips (7th)** ray of frost
+
+  **4th** dimension door
+
+  **5th** dimension door, wall of ice
+
+  **6th** illusory scene
+
+  **7th** cone of cold

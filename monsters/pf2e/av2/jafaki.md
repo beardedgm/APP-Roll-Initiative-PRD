@@ -45,6 +45,12 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** daze, detect magic, mage hand, telekinetic projectile
+
+  **3rd** hypercognition, levitate, mind reading
+
+  **4th** confusion, phantasmal killer
+
 **Envenom Weapon** ◆ (manipulate) Jafaki applies their innate seugathi venom to one weapon they wield.
 
 **Magic Item Mastery** Jafaki can Cast a Spell from magic items even if the spell isn't on their spell list. All such spells are occult spells and use Jafaki's innate spell DC and attack modifier.

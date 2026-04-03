@@ -37,6 +37,12 @@ Speed 25 feet, swim 40 feet
 
 **Innate divine Spells** (DC 29)
 
+  **1st** detect alignment, detect poison
+
+  **4th** dimension door, stinking cloud
+
+  **5th** dimension door
+
 **Constrict** ◆ 2d10+6 bludgeoning, DC 30
 
 **Gory Rend** ◆◆ The piscodaemon makes two claw Strikes against the same creature. If both hit, the creature takes 2d10 persistent bleed damage and is exposed to piscovenom.

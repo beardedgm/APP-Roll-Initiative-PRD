@@ -31,6 +31,14 @@ Speed 25 feet
 
 **Spontaneous divine Spells** (DC 23), attack +13
 
+  **Cantrips (3rd)** chill touch, daze, message, produce flame, shield
+
+  **1st (4 slots)** charm, command, fear, sanctuary
+
+  **2nd** calm emotions, flaming sphere, see invisibility, undetectable alignment
+
+  **3rd (4 slots)** chilling darkness, enthrall, harm
+
 **Bloodline Magic** When the despot casts a bloodline spell, enthrall, flaming sphere, or charm, either a target takes 1 fire damage per spell level, or the despot gains a +1 status bonus to Deception checks for 1 round.
 
 **Dangerous Sorcery** When the despot Casts a Spell from a spell slot, if the spell deals damage and doesn't have a duration, the despot gains a status bonus equal to the spell's level to that spell's damage.

@@ -29,4 +29,20 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 34)
 
+  **Cantrips (7th)** chill touch, daze, detect magic, guidance, message
+
+  **1st** command, detect poison, illusory disguise
+
+  **2nd** see invisibility, silence, undetectable alignment
+
+  **3rd** crisis of faith, locate, zone of truth
+
+  **4th** discern lies, invisibility, outcast's curse
+
+  **5th** flame strike, phantasmal killer, prying eye
+
+  **6th** blade barrier, heal, true seeing
+
+  **7th** divine decree, finger of death, harm
+
 **Designate Apostate** ◆ (auditory, concentrate, divine, visual) Velberi designates one creature she can see within 30 feet as an apostate to the church of Norgorber, regardless of the creature's actual religious leanings. She can have up to four apostates designated at a time; any additional apostate removes another apostate of her choice. Velberi treats all Perception checks made to Sense Motive against an apostate as one degree of success better, and her Strikes deal an additional 2d8 mental damage to apostates.

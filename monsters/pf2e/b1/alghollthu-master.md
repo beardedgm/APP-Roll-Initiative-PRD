@@ -29,4 +29,14 @@ Speed 10 feet, swim 60 feet
 
 **Innate occult Spells** (DC 25)
 
+  **3rd** hypnotic pattern
+
+  **4th** hallucinatory terrain
+
+  **5th** illusory object
+
+  **6th** dominate, illusory scene
+
+  **7th** project image, veil
+
 **Slime** (curse, occult, virulent)

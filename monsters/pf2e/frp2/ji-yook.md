@@ -33,6 +33,12 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 33)
 
+  **Cantrips (7th)** daze
+
+  **1st** sanctuary
+
+  **5th** illusory scene
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) Ji-yook transforms into her human form. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. Ji-yook can remain in her human form indefinitely, and she can shift back to her kitsune form by using this action again.
 
 **Foxfire Blast** ◆◆ (electricity, evocation, flourish, magical) Ji-yook makes a fist Strike. On a hit the target takes an additional 3d4 electricity damage and is pushed back 10 feet. On a critical hit, the target is pushed back and then knocked prone.

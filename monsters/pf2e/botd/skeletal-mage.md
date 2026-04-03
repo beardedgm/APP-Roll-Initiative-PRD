@@ -30,3 +30,11 @@ Speed 25 feet
 **Melee** claw +11 (agile, finesse); **Damage** 2d8+2 slashing
 
 **Innate arcane Spells** (DC 22), attack +14
+
+  **Cantrips (3rd)** produce flame, ray of frost
+
+  **1st** burning hands, grease, shocking grasp
+
+  **2nd** acid arrow, enlarge, telekinetic maneuver
+
+  **3rd** lightning bolt, magic missile, paralyze

@@ -35,6 +35,8 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 17)
 
+  **4th** speak with plants
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The sunflower leshy transforms into a Small flower. This ability otherwise uses the effects of tree shape.
 
 **Seed Spray** ◆◆ (conjuration, primal) The sunflower leshy launches a deluge of seeds from their head in a 15-foot cone, dealing 2d6 bludgeoning damage to creatures within the area (DC 16 basic Reflex save). It gains a +2 status bonus to this damage against dazzled creatures. The sunflower leshy can't use Seed Spray again for 1d4 rounds.

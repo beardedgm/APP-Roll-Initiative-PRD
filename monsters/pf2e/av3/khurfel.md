@@ -39,6 +39,14 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 28), attack +20
 
+  **1st** feather fall, ray of enfeeblement
+
+  **2nd** augury, death knell
+
+  **3rd** blindness, paralyze
+
+  **4th** harm, read omens
+
 **Frenzied Attack** ◆◆ Khurfel makes one rhoka sword Strike and two jaws Strikes against one or two different creatures (splitting up the attacks any way he wishes) His multiple attack penalty doesn't increase until after all three attacks.
 
 **Insightful Swing** ◆◆ Khurfel makes a melee weapon Strike. On this Strike, he gains a +2 circumstance bonus to the attack roll and ignores any concealment the target has.

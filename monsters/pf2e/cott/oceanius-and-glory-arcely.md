@@ -33,6 +33,16 @@ Speed 25 feet, fly 60 feet
 
 **Innate divine Spells** (DC 41), attack +33
 
+  **2nd** invisibility, sure footing
+
+  **5th** breath of life, cleanse affliction, unfettered movement
+
+  **6th** blessed boundary, dispel magic
+
+  **7th** charm, clear mind, divine decree, interplanar teleport
+
+  **8th** dispel magic, divine wrath, earthquake, heal, sunburst
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The angel takes on the appearance of any Small or Medium humanoid. This doesn't change their Speed or Strike|PC1|Strikes.
 
 **Holy Armaments** (divine, holy) Any weapon gains the effect of a holy property rune while the angel wields it.

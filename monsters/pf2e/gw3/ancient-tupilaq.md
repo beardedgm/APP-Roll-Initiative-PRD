@@ -29,4 +29,6 @@ Speed 40 feet, swim 40 feet
 
 **Innate primal Spells** (DC 30)
 
+  **5th** lightning bolt
+
 **Carver's Curse** As tupilaq, but a 5th-level primal spell.

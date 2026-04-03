@@ -35,4 +35,6 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 22)
 
+  **3rd** vampiric touch
+
 **Leech Moisture** ◆◆ The arboreal reaper grows still and focuses intently on a single foe within 50 feet, draining moisture from the target's body. This deals 10d6 negative damage (DC 25 basic Fortitude save). The arboreal reaper can't Leech Moisture again for 1d4 rounds.

@@ -44,4 +44,8 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 19)
 
+  **1st** charm
+
 **Champion Devotion Spells** (DC 19)
+
+  **2nd** lay on hands

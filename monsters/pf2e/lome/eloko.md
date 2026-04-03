@@ -35,6 +35,8 @@ Speed 20 feet
 
 **Innate primal Spells** (DC 22)
 
+  **1st** charm
+
 **Inspired Feast** (emotion, mental) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour.
 
 **Size Alteration** ◆◆ (polymorph, primal, transmutation) The eloko is affected by a 4th-level enlarge spell. This lasts for 1 minute, and the eloko can Dismiss the Spell.

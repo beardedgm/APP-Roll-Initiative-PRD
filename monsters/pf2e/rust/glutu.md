@@ -31,6 +31,12 @@ Speed 20 feet, swim 25 feet
 
 **Prepared primal Spells** (DC 21), attack +11
 
+  **Cantrips (2nd)** chill touch, divine lance, read aura, shield
+
+  **1st** bane, fear, harm
+
+  **2nd** heal, sound burst
+
 **Terrifying Croak** ◆ (auditory, emotion, fear, mental) The boggard scout unleashes a terrifying croak. Any non-boggard within 30 feet becomes frightened 1 unless they succeed at a DC 19 Will save; those who critically succeed are temporarily immune for 1 minute.
 
 **Swamp Stride** A boggard scout ignores terrain caused by swamp terrain features.

@@ -39,6 +39,14 @@ Speed 25 feet, fly 60 feet
 
 **Innate primal Spells** (DC 30), attack +22
 
+  **Cantrips (6th)** detect magic, produce flame
+
+  **4th** dimension door, fear
+
+  **5th** lightning bolt, wall of wind
+
+  **6th** dispel magic, earthbind, gust of wind
+
 **Dive Bomb** ◆ **Frequency** {"number":1,"unit":"round"}; The hurlilu Strides using its fly Speed and makes a Strike at the end of that movement.
 
 **Flesh Tearer** If a hurlilu critically hits a foe with a melee Strike, the foe's flat check to recover from any resulting bleed damage is DC 19 instead of DC 15.

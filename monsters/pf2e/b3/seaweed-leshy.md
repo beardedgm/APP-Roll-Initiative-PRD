@@ -31,6 +31,8 @@ Speed 20 feet, swim 20 feet
 
 **Innate primal Spells** (DC 20)
 
+  **4th** speak with plants
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) As vine leshy, except the seaweed leshy transforms into a patch of seaweed.
 
 **Sea Spray** A seaweed leshy's water jet has enough salt in it to temporarily impair their target's vision. On a hit, the target must succeed at a DC 20 Fortitude save or be dazzled for 1 minute or until it spends 3 Interact actions wiping the salt out of its eyes. On a critical hit, a target that fails its Fortitude save is also blinded for 1 round.

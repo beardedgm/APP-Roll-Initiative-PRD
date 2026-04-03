@@ -39,6 +39,14 @@ Speed 35 feet, fly 35 feet
 
 **Innate occult Spells** (DC 42)
 
+  **7th** dispel magic, read omens, spellwrack
+
+  **8th** migration, quandary
+
+  **9th** execute, phantasmagoria, retrocognition
+
+  **10th** freeze time
+
 **Fated** When a creature is subject to a misfortune effect from a norn and a fortune effect from any source other than a norn (or vice versa), the norn's effect automatically counteracts the other effect and then takes place normally, rather than the two effects canceling each other out. If both the fortune and misfortune effect are from a norn, then the two cancel each other out as normal. At the GM's discretion, powerful entities related to fate or luck, like Desna|PC1, Magdh|LODM, or Pharasma|PC1, can't have their effects negated by this ability.
 
 **Sever Fate** (occult) When a norn deals void damage with a Strike|PC1, she regains 10 Hit Points. The target must succeed at a DC 39 Fortitude save or become drained|PC1|drained 1 (drained|PC1|drained 2 on a critical failure). Further void damage dealt by the norn increases the drained|PC1 condition value by 1 on a failed save (or by 2 on a critical failure), to a maximum of drained|PC1|drained 4.

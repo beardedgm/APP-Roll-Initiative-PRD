@@ -33,6 +33,14 @@ Speed fly 30 feet
 
 **Innate divine Spells** (DC 26)
 
+  **3rd** fear
+
+  **4th** darkness, dimension door
+
+  **5th** dimension door, shadow blast
+
+  **7th** possession
+
 **Favored Host** Each invidiak has a particular type of creature they prefer possessing, chosen from the following list: aberration, animal, beast, or any humanoid (such as dwarf)—in most cases, the favored type of target is human. When an invidiak uses possession against a favored host, the duration of possession increases to unlimited, and the effect lasts until dispelled or until the invidiak dismisses it.
 
 **Shadow Blend** ◆◆ (divine, illusion) The invidiak Strides up to twice their speed. If the invidiak ends their movement in an area of dim light, they become hidden as long as they don't move and the lighting in the area they're in doesn't grow brighter than dim light.

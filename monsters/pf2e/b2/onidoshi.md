@@ -35,4 +35,12 @@ Speed 30 feet, fly 30 feet
 
 **Innate primal Spells** (DC 24)
 
+  **2nd** darkness, invisibility
+
+  **3rd** fear
+
+  **4th** charm, gaseous form, sleep
+
+  **5th** cone of cold
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The onidoshi takes on the appearance of an ogre. This doesn't change their Speed or Strike attack and damage.

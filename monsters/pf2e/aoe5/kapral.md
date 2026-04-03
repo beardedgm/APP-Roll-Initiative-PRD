@@ -29,4 +29,18 @@ Speed 30 feet
 
 **Prepared arcane Spells** (DC 37), attack +27
 
+  **1st** alarm, color spray, mage armor
+
+  **2nd** acid arrow, illusory creature, knock
+
+  **3rd** invisibility sphere, lightning bolt, nondetection
+
+  **4th** confusion, dimension door, fly
+
+  **5th** black tentacles, cone of cold, mind probe
+
+  **6th** feeblemind, teleport, true seeing
+
+  **7th** prismatic spray, project image
+
 **Cantrips** (7th) detect magic, ghost sound, message, shield, telekinetic projectile.

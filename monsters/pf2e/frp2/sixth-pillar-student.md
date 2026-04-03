@@ -29,6 +29,24 @@ Speed 30 feet
 
 **Spontaneous arcane Spells** (DC 35), attack +27
 
+  **Cantrips (6th)** detect magic, light, produce flame, ray of frost, shield
+
+  **1st (4 slots)** burning hands, fleet step, jump, mending
+
+  **2nd (4 slots)** dispel magic, glitterdust, humanoid form, resist energy
+
+  **3rd (4 slots)** earthbind, fireball, wall of thorns, wall of wind
+
+  **4th (4 slots)** fire shield, freedom of movement, stoneskin, wall of fire
+
+  **5th (4 slots)** elemental form, mariner's curse, moon frenzy, wall of ice
+
+  **6th (4 slots)** baleful polymorph, field of life, repulsion, tangling creepers
+
+  **7th (3 slots)** disappearance, monstrosity form, polar ray
+
 **Sorcerer Bloodline Spells** (DC 35)
+
+  **7th** elemental blast, elemental motion, elemental toss
 
 **Bludgeoning Energy** The students' combine elemental energies with physical brawn, blasting opponents with huge gusts of compressed air instead of typical energies. Any of the students' spells that deal energy damage (such as fireball, burning hands, ray of frost, and so on) instead deal bludgeoning damage.

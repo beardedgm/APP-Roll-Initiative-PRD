@@ -38,6 +38,16 @@ Speed 50 feet
 
 **Innate occult Spells** (DC 40), attack +35
 
+  **1st** detect alignment
+
+  **4th** dimension door
+
+  **7th** plane shift
+
+  **8th** divine wrath, harm
+
+  **9th** disintegrate, dispel magic, harm
+
 **Activate Attractor** ◆ (enchantment, mental, occult) The hundun releases its staff-like attractor, which hovers in place. The hundun can use an action, which has the concentrate trait, to move the attractor up to 60 feet, to a maximum of 300 feet from the hundun. It can also use an action, which has the concentrate trait, to recall the attractor, which flies to the hundun and immediately deactivates. Creatures within 40 feet of the attractor must attempt a DC 40 Will save if they're within the area when the attractor is activated or as soon as they enter the area while it's active. Once a creature has attempted the save, it uses the same result for the rest of that activation of the attractor. Any restrictions on a creature's movement apply only if it voluntarily moves away from the attractor. For example, if the attractor moves closer to a creature, the creature doesn't then need to move away. Chaotic creatures are immune to the effects of the attractor. The attractor can't be harmed by physical attacks but is destroyed by disintegrate, disjunction, a rod of cancellation (Advancer Player's Guide 262), a sphere of annihilation (Gamemastery Guide 113), and other similarly powerful effects. The attractor has an AC of 40 and a counteract DC of 37. A hundun can rebuild a destroyed attractor after 1d8 hours of uninterrupted meditation. If the hundun is slain, its attractor disappears. **Critical Success** The creature's movement isn't restricted.
 **Success** The creature treats each square in the area as terrain when moving away from the attractor.
 **Failure** The creature can't move away from the attractor within the area.

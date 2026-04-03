@@ -41,6 +41,14 @@ Speed 25 feet, burrow 60 feet
 
 **Innate divine Spells** (DC 40)
 
+  **Cantrips (9th)** detect magic
+
+  **4th** darkness
+
+  **7th** eclipse burst, plane shift, true seeing
+
+  **8th** harm
+
 **Frenzy** ◆◆ The urveth makes two claw Strikes and one stinger Strike in any order.
 
 **Swallow Whole** ◆ Huge, 2d10+5 bludgeoning, Rupture 35. A living creature that ends its turn swallowed whole by an urveth becomes drained 1 or increases its drained condition by 1, and the urveth gains 10 temporary Hit Points. A creature whose drained condition increases to 5 in this way dies. 

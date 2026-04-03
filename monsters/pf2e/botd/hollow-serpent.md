@@ -35,6 +35,8 @@ Speed 50 feet, climb 50 feet
 
 **Innate divine Spells** (DC 35)
 
+  **7th** vampiric exsanguination
+
 **Constrict** ◆ 1d10+7 bludgeoning plus drained 1, DC 36
 
 **Swallow Whole** ◆ Medium, 4d6 negative plus drained 1, Rupture 32

@@ -31,7 +31,31 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 44), attack +36
 
+  **Cantrips (10th)** acid splash, detect magic, electric arc, prestidigitation, read aura, shield
+
+  **1st** command, fear, magic missile, shocking grasp
+
+  **2nd** acid arrow, invisibility, mirror image, obscuring mist
+
+  **3rd** acid arrow, fireball, invisibility sphere, slow
+
+  **4th** blink, dimension door, fly, wall of fire
+
+  **5th** cone of cold, dispel magic, fireball
+
+  **6th** chain lightning, disintegrate, dominate
+
+  **7th** energy aegis, fireball, prismatic spray, warp mind
+
+  **8th** earthquake, maze, polar ray
+
+  **9th** fireball, meteor swarm
+
+  **10th** cataclysm
+
 **Wizard School Spells** (DC 44)
+
+  **10th** elemental tempest, force bolt
 
 **Drain Bonded Item** ◇ **Frequency** {"unit":"day","number":1}; **Requirements** Ilgreth hasn't acted yet on this turn; Ilgreth can cast one prepared spell he has already cast today without spending a spell slot. He must still Cast the Spell and meet the spell's other requirements.
 

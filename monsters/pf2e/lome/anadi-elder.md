@@ -33,6 +33,14 @@ Speed 25 feet, climb 25 feet
 
 **Innate arcane Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** detect magic, electric arc, ghost sound, mage hand, message
+
+  **1st** color spray, illusory disguise, illusory object
+
+  **2nd** blur, invisibility, mirror image
+
+  **3rd** hypnotic pattern, invisibility sphere
+
 **Anadi Venom** (poison)
 
 **Change Shape** ◆ (arcane, concentrate, polymorph, transmutation) The anadi changes into their hybrid form, spider form, or human form. The above statistics assume the anadi is in their hybrid form. While in their human form, the anadi elder can't use their fangs attack and loses their climb Speed. When in spider form, they can't use weapons.

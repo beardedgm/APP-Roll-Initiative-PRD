@@ -33,4 +33,10 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 20), attack +12
 
+  **Cantrips (2nd)** light, figment, tangle vine
+
+  **1st** sleep
+
+  **2nd** entangling flora, laughing fit, shape wood
+
 **Speak with Water** (auditory, concentrate, primal) Once per day, four azhanas within 15 feet of each other can perform a 1-minute rite to communicate with an adjacent body of fresh water at least as large as an azhana. This ability functions like speak with stones|PC1. Flowing water can generally speak about events happening upstream (even distantly upstream), but not events happening downstream.

@@ -37,6 +37,12 @@ Speed 25 feet, fly 25 feet
 
 **Innate divine Spells** (DC 37)
 
+  **6th** darkness, dimensional anchor
+
+  **7th** blur, plane shift, silence
+
+  **8th** chilling darkness, discern location, shadow walk
+
 **Constrict** ◆ 2d4+13 slashing, DC 37
 
 **Exhale Chains** ◆◆ (conjuration, divine) The ephialtes exhales a tangle of barbed chains. All creatures in a 50-foot cone must attempt a DC 37 Reflex save. The ephialtes can't Exhale Chains for 1d4 rounds. **Critical Success** 

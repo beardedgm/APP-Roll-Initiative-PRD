@@ -33,7 +33,23 @@ Speed 30 feet
 
 **Spontaneous divine Spells** (DC 30), attack +22
 
+  **Cantrips (6th)** daze, detect magic, light, prestidigitation, read aura, shield
+
+  **1st (3 slots)** create water, purify food and drink, ray of enfeeblement, sanctuary
+
+  **2nd (3 slots)** augury, continual flame, death knell, heal
+
+  **3rd (3 slots)** blindness, haste, neutralize poison, wanderer's guide
+
+  **4th (3 slots)** freedom of movement, globe of invulnerability, outcast's curse, read omens
+
+  **5th (3 slots)** flame strike, harm, heal, vampiric touch
+
+  **6th (2 slots)** heroism, stoneskin, true seeing
+
 **Revelation Spells** (DC 30)
+
+  **6th** brain drain, scholarly recollection, vision of weakness
 
 **Curse of Torrential Knowledge** When halbrux uses her revelation spells, her mind fills with a flood of disorienting information. The first time Halbrux casts one of her revelation spells in a day, she takes a –4 penalty to initiative rolls until the next time she makes her daily preparations. The second time Halbrux casts one of her revelation spells in a day, she is also flat-footed until the next time she makes her daily preparations.
 

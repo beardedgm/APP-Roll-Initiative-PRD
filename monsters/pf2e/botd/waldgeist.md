@@ -37,6 +37,14 @@ Speed fly 30 feet
 
 **Innate primal Spells** (DC 24), attack +16
 
+  **Cantrips (4th)** tanglefoot
+
+  **2nd** entangle
+
+  **3rd** wall of thorns
+
+  **5th** tree stride
+
 **Lignify** (incapacitation, primal, transmutation) The touch of a waldgeist transforms flesh into wood. A living creature damaged by the waldgeist's lignifying hand Strike must succeed at a DC 24 Fortitude save or become slowed 1 (or slowed 2 on a critical failure). Further failed saves against lignify increases the slowed condition. Once a creature's actions are reduced to 0 by lignify, that creature becomes petrified, except they're transformed into wood instead of stone.
 
 **Possess Tree** ◆◆ (primal, transmutation) **Frequency** {"number":1,"interval":10,"unit":"minute"}; The waldgeist touches a tree to merge with it, possessing it for up to 1 minute. They can end this possession early as a free action at the start of their turn. While the waldgeist possesses a tree, they lose the incorporeal trait, fly Speed, all resistances, their non-constant spells, and their lignifying hand Strike. Additionally, their size increases to Huge, they gain resistance 5 to bludgeoning and piercing damage, weakness 10 to fire, Speed 20 feet, and the following branch Strike.

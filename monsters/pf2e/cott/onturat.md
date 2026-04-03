@@ -39,6 +39,12 @@ Speed 30 feet, fly 30 feet
 
 **Innate divine Spells** (DC 42)
 
+  **5th** translocate
+
+  **8th** desiccate, execute, punishing winds
+
+  **9th** metamorphosis
+
 **Bonetaker** (divine) Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm. The creature must succeed at a DC 42 Will save or rise as a skeletal champion (Pathfinder Monster Core 312) in 1d4 rounds. These skeletal champions are controlled|PC1 by the skulltaker.
 
 **Void Drain** (divine) When a skulltaker hits with a melee Strike|PC1, the target must succeed at a DC 42 Fortitude save or become drained|PC1|drained 2 and doomed|PC1|doomed 1.

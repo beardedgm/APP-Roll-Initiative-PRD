@@ -43,6 +43,20 @@ Speed 40 feet
 
 **Innate primal Spells** (DC 49), attack +41
 
+  **2nd** entangle
+
+  **3rd** earthbind
+
+  **6th** tangling creepers
+
+  **7th** regenerate, sunburst
+
+  **8th** moment of renewal, punishing winds, wind walk
+
+  **9th** nature's enmity, storm of vengeance, summon plant or fungus
+
+  **10th** primal phenomenon, revival
+
 **Forest Growth** Once per month, Dimari-Diji can spend 1 hour to sprout a new forest. He causes the forest to sprout in a 50-foot burst within 300 feet. The forest instantly springs to life, and is composed of fungi, plants, and trees most appropriate to the area he selected. The forest grows to the height, density, and liveliness of a forest that has grown for 10 years. The forest doesn't feature any animals or other creatures, but animals within 1 mile are aware of the new forest and might make the forest their new habitat as appropriate.
 
 **Memories of Ages** Dimari-Diji's mental blasts cloud the minds of his foes, making it difficult for them to focus on combat. A creature that takes damage from Dimari-Diji's mental blast is dazzled for 1 round. If the attack was a critical hit, the creature is dazzled for 1 minute instead.

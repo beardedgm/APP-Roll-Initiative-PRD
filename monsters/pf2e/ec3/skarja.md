@@ -41,6 +41,20 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 33), attack +25
 
+  **1st** ray of enfeeblement, sleep
+
+  **2nd** invisibility
+
+  **4th** dream message, magic missile
+
+  **5th** nightmare
+
+  **6th** shadow blast, spirit blast
+
+  **8th** dream council
+
+  **9th** bind soul, ethereal jaunt
+
 **Abyssal Plague** (disease)
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) Skarja can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack or damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).

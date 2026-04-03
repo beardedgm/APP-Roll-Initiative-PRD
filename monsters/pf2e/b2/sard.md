@@ -41,6 +41,12 @@ Speed 40 feet, climb 25 feet
 
 **Innate primal Spells** (DC 41)
 
+  **7th** chain lightning
+
+  **8th** punishing winds, tree stride
+
+  **9th** storm of vengeance
+
 **Lightning-Struck Curse** ◈ (curse, necromancy, primal) **Trigger** The sard is about to damage a creature that has electricity resistance; An instant before the target takes the electricity damage from the triggering event, the sard's electrical sparks glow red. The target must succeed at a DC 41 Will save or lose any electricity resistance it has until this curse is lifted.
 
 **Sard Venom** (poison, primal, virulent)

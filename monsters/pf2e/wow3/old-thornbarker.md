@@ -37,6 +37,12 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 32), attack +24
 
+  **2nd** entangling flora
+
+  **3rd** earthbind
+
+  **6th** tangling creepers
+
 **Memory Maelstrom** ◆◆◆ (concentration, incapacitation, mental, nonlethal, primal) Old Thornbarker tries to overwhelm foes with a surge of information he has absorbed over his long life. This surge deals 5d6 mental damage to each enemy within 40 feet, who must attempt a DC 32 Will save. **Critical Success** 
 **Success** 
 **Failure** 

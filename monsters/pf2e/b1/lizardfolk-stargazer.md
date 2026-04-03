@@ -33,4 +33,8 @@ Speed 25 feet, swim 20 feet
 
 **Prepared primal Spells** (DC 20), attack +10
 
+  **Cantrips (1st)** guidance, know direction, produce flame, stabilize
+
+  **1st** charm, heal, magic fang, shillelagh, summon animal
+
 **Deep Breath** A lizardfolk stargazer can hold their breath for 200 rounds (20 minutes).

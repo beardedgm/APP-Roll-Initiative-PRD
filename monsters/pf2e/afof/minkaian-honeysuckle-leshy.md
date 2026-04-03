@@ -31,4 +31,6 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 16)
 
+  **4th** speak with plants
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The leshy transforms into a Small plant. This ability otherwise uses the effects of tree shape.

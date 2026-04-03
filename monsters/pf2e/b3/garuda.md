@@ -33,6 +33,14 @@ Speed 25 feet, fly 60 feet
 
 **Innate divine Spells** (DC 27)
 
+  **1st** true strike
+
+  **2nd** see invisibility
+
+  **3rd** haste
+
+  **4th** freedom of movement
+
 **Electric Projectiles** (arcane, evocation) Any arrow the garuda fires gains the effects of a shock rune.
 
 **Swooping Dive** ◆◆ The garuda flies up to their Speed in a straight line, descending at least 10 feet, and then makes two talon Strikes.

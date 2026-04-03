@@ -29,4 +29,10 @@ Speed 30 feet
 
 **Innate occult Spells** (DC 25)
 
+  **Cantrips (3rd)** read aura, shield, void warp
+
+  **2nd** darkvision, see the unseen
+
+  **4th** vampiric feast
+
 **Sneak Attack** The shadow sage deals an additional 2d6 precision damage to off-guard|PC1 creatures.

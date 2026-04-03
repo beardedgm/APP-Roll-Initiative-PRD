@@ -29,6 +29,8 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 30)
 
+  **5th** wall of thorns
+
 **Form Up** ◆
 
 **Change Shape** ◆ (concentrate, polymorph, primal) The leshies can transform into an assortment of Small plants that fills a 15-foot burst centered on any one square the leshy mob occupies, creating difficult terrain. When the leshies return to their natural form, they Form Up|B3 anywhere within the burst. This otherwise uses the effects of one with plants.

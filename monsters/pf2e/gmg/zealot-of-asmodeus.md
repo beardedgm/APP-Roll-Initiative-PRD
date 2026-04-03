@@ -35,6 +35,12 @@ Speed 20 feet
 
 **Prepared divine Spells** (DC 19), attack +11
 
+  **Cantrips (2nd)** detect magic, divine lance, forbidding ward, read aura, sigil
+
+  **1st** detect alignment, magic weapon, spirit link
+
+  **2nd** harm, restoration, see invisibility, shield other
+
 **Channel Smite** ◆◆ (divine, necromancy) The zealot expends a prepared harm spell and makes a melee Strike. Instead of the normal effect of the spell, its negative damage is added to the Strike's damage.
 
 **Deadly Simplicity** The zealot's mace deals 1d8 damage instead of 1d6.

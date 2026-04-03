@@ -29,6 +29,12 @@ Speed 5 feet, fly 35 feet
 
 **Innate occult Spells** (DC 23)
 
+  **3rd** invisibility, mind reading
+
+  **4th** modify memory
+
+  **5th** mind probe
+
 **Excruciating Enzyme** (occult, poison) A rhu-chalik's tendrils secrete an enzyme that causes intense pain. A living creature hit by a tendril Strike must succeed at a DC 24 Fortitude save or become sickened 1 from the pain.
 
 **Project Terror** ◆◆ (emotion, enchantment, fear, mental, occult) **Requirements** The rhu-chalik has successfully affected the target with mind probe, mind reading, or Project Terror in the last minute; The rhu-chalik creates nightmarish visions in the target's mind. The target must attempt a DC 24 Will save. **Critical Success** The target creature is unaffected and temporarily immune to Project Terror for 1 minute.

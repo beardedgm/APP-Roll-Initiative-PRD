@@ -35,6 +35,8 @@ Speed fly 25 feet
 
 **Innate divine Spells** (DC 17)
 
+  **1st** detect alignment
+
 **Inhabit Vessel** ◆◆ (manipulate) The cub touches and melds with its bonded vessel, bringing the statue to life. It can cease Inhabiting its Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, it loses its fly Speed and gains Immunities healing, nonlethal; Resistances physical 3 (except bludgeoning); Speed 20 feet; and the following Strike. - Melee 1 jaws +10 (agile), Damage 1d6+5 bludgeoning plus Grab
 
 **Spirit Body** When not Inhabiting its Vessel, the cub is incorporeal and gains resistance 3 to all damage (except force damage and damage from Strikes with the ghost touch property rune; double resistance against non-magical).

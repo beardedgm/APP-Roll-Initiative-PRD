@@ -37,6 +37,12 @@ Speed 40 feet, fly 40 feet
 
 **Innate divine Spells** (DC 38)
 
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **9th** blade barrier, weapon storm
+
 **Bladestorm** ◆◆ The marilith makes up to six longsword Strikes, each against a different target. These attacks count toward the marilith's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks.
 
 **Defensive Assault** ◆◆ The marilith makes two Strikes, each with a different weapon, and they use the remaining weapons for protection. The demon gains a circumstance bonus to AC for 1 round equal to the number of weapons not used for attacks. If the marilith later uses any of those weapons to attack (including for an Attack of Opportunity), the bonus to AC decreases by 1 for each weapon used.

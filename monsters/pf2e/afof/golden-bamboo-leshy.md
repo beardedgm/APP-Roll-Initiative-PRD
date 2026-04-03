@@ -29,6 +29,8 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 16)
 
+  **4th** speak with plants
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The leshy transforms into a Small plant. This ability otherwise uses the effects of tree shape.
 
 **Bend Back** ◆ The golden bamboo leshy uses an action to bend itself back, ready to whip forward, increasing its reach with its fist to 10 feet. After the golden bamboo leshy Strikes with its fist, it's no longer Bent Back.

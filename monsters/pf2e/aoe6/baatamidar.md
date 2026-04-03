@@ -35,6 +35,12 @@ Speed fly 70 feet, swim 50 feet
 
 **Innate arcane Spells** (DC 44)
 
+  **8th** dispel magic, mind blank
+
+  **9th** prismatic sphere
+
+  **10th** cataclysm
+
 **Mind-Numbing Grasp** (arcane, enchantment, incapacitation, mental) The baatamidar's tentacles leech away thought. A creature that starts its turn grabbed by the baatamidar must attempt a DC 41 Will save. **Critical Success** Unaffected.
 **Success** Stupefied|CRB|Stupefied 1 for 1 round.
 **Failure** Stupefied|CRB|Stupefied 3 for 1 minute.

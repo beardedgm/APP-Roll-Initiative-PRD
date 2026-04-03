@@ -37,4 +37,8 @@ Speed fly 40 feet
 
 **Innate occult Spells** (DC 20)
 
+  **Cantrips (2nd)** daze, ghost sound, mage hand
+
+  **2nd** animate dead
+
 **Skilled Ritualist** Bakenekos can only create zombies with create undead but can perform the ritual without secondary casters and lower the casting time to 4 hours.

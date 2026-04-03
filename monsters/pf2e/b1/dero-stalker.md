@@ -39,4 +39,6 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 17)
 
+  **Cantrips (1st)** daze, ghost sound
+
 **Sneak Attack** A dero stalker deals 1d6 extra precision damage to flat-footed creatures.

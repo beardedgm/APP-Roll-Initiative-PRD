@@ -31,4 +31,12 @@ Speed 25 feet
 
 **Wizard Prepared Spells** (DC 21), attack +13
 
+  **Cantrips (3rd)** chill touch, detect magic, electric arc, ray of frost, read aura, shield
+
+  **1st** fear, feather fall, ray of enfeeblement, spider sting
+
+  **2nd** false life, grim tendrils, mirror image, web
+
+  **3rd** bind undead, lightning bolt, vampiric touch
+
 **Drain Bonded Item** ◇ (arcane) **Frequency** {"unit":"day","number":1}; **Requirements** The necromancer hasn't acted yet on this turn; The necromancer expends the power stored in their mace. This gives them the ability to cast one prepared spell they prepared today and already cast, without spending a spell slot.

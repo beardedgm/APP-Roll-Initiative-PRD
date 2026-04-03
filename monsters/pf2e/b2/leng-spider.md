@@ -37,6 +37,14 @@ Speed 40 feet, climb 40 feet
 
 **Innate occult Spells** (DC 33)
 
+  **Cantrips (7th)** detect magic
+
+  **4th** charm, freedom of movement
+
+  **6th** illusory scene, mislead
+
+  **7th** dispel magic, veil, warp mind
+
 **Create Web Weaponry** ◆ (manipulate) The Leng spider creates a weapon by applying a cord of webbing to heavy objects, such as rocks or chunks of metal, either attaching two heavy objects together to create a web bola or fastening one to its leg to create a web war flail.
 
 **Descend on a Web** ◆ (move) The Leng spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count when calculating falling damage. The web can be severed by a Strike that deals slashing damage (AC 30, Hardness 15, 25 HP), causing the Leng spider to fall.

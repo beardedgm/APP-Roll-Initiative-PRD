@@ -41,6 +41,14 @@ Speed fly 30 feet
 
 **Innate arcane Spells** (DC 40), attack +30
 
+  **Cantrips (8th)** mage hand, telekinetic projectile
+
+  **4th** blink, dimension door, telekinetic maneuver
+
+  **7th** spell turning
+
+  **9th** wail of the banshee
+
 **Demilich Eye Gems** (arcane) A demilich has gemstone eyes that glow when the demilich is active. Each eye contains an 8th-level spell that targets one creature (usually one eye has maze and the other polar ray). The demilich can Activate an eye. This uses the number of spellcasting actions the spell requires, and also requires command and envision components. When the demilich casts a spell from a gemstone eye, that eye stops glowing for 1d4 rounds, during which time that eye's spell can't be used. Occasionally, one or both of the two demilich eye gem|B1|demilich eye gems can be harvested from a destroyed demilich as magic items.
 
 **Devour Soul** ◆ (arcane, necromancy, negative) **Requirements** A soul has been trapped in one of the demilich's blight quartz gems (see Trap Soul) for 24 hours.; The demilich consumes the soul. The soul is utterly destroyed, and the demilich regains HP equal to double the creature's level.

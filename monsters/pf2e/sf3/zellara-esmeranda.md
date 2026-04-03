@@ -41,6 +41,22 @@ Speed fly 25 feet
 
 **Innate occult Spells** (DC 34), attack +26
 
+  **Cantrips (7th)** detect magic, ghost sound, mage hand, prestidigitation, read aura, telekinetic projectile
+
+  **1st** command, mindlink
+
+  **2nd** augury, telekinetic maneuver
+
+  **3rd** dispel magic, hypercognition
+
+  **4th** confusion, read omens
+
+  **5th** crushing despair, sending
+
+  **6th** teleport, true seeing
+
+  **7th** plane shift
+
 **Flurry of Cards** ◆◆ Zellara unleashes a barrage of harrow cards that deals 7d6 negative damage in a 30-foot cone (DC 34 basic Reflex save).
 
 **Harrow Binding** ◆◆◆ (divination, occult) **Requirements** Zellara is within 120 feet of a harrow card or harrow deck; Zellara intentionally binds herself to a harrow card or deck she can sense. While bound in this way, she grants her Stack the Deck ability to anyone carrying the bound card or deck. The trigger and effect for Stack the Deck changes to affect the creature carrying the bound item. She can still Stack the Deck for herself while bound. Zellara can unbind herself from the item as an action, which has the concentrate trait.

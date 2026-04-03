@@ -30,3 +30,5 @@ Speed 25 feet
 **Melee** crossbow +5 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
 
 **Cleric Domain Spells** (DC 17)
+
+  **1st** cry of destruction

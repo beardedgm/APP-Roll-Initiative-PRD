@@ -37,6 +37,12 @@ Speed 10 feet, swim 40 feet
 
 **Innate primal Spells** (DC 40)
 
+  **7th** resist energy
+
+  **8th** punishing winds
+
+  **10th** dominate
+
 **Constrict** ◆ 2d10+17 bludgeoning, DC 40. On a failed save, a creature that is holding its breath loses 1d4 rounds worth of air.
 
 **Double Attack** ◆ The kraken makes two Strikes with two different arms or tentacles, each limb targeting a different creature. Double Attack counts as two attacks toward the kraken's multiple attack penalty for further actions, but the penalty doesn't increase until after both attacks are made. If the kraken subsequently uses the Grab action, it Grabs any number of creatures it hit with Double Attack.

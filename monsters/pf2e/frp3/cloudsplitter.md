@@ -37,6 +37,12 @@ Speed 60 feet
 
 **Innate divine Spells** (DC 41)
 
+  **Cantrips (9th)** light
+
+  **2nd** detect alignment
+
+  **8th** calm emotions, gust of wind, heal, punishing winds, spirit link
+
 **Breath Weapon** ◆◆ (divine, evocation, fire) Cloudsplitter breathes fire in a 30-foot cone, dealing 18d6 fire damage (DC 40 basic Reflex save). Cloudsplitter can't use Breath Weapon again for 1d4 rounds.
 
 **Rearing Thrust** ◆◆ As kirin, but 2d8 additional damage.

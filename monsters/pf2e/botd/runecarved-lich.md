@@ -43,6 +43,26 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 45), attack +37
 
+  **Cantrips (9th)** daze, detect magic, ghost sound, mage hand, prestidigitation
+
+  **1st (3 slots)** alarm, illusory disguise, unseen servant
+
+  **2nd (3 slots)** death knell, mirror image, see invisibility
+
+  **3rd (3 slots)** hypercognition, mind reading, slow
+
+  **4th (3 slots)** confusion, dimension door, fly
+
+  **5th (3 slots)** black tentacles, false vision, prying eye
+
+  **6th (3 slots)** spellwrack, spirit blast, teleport
+
+  **7th (3 slots)** duplicate foe, energy aegis, paralyze
+
+  **8th (3 slots)** disappearance, maze, mind blank
+
+  **9th (3 slots)** overwhelming presence, telepathic demand, wail of the banshee
+
 **Consult the Text** ◆ (manipulate) **Frequency** {"number":1,"unit":"day"}; The runecarved lich causes the pages of their spell tome to flip open, revealing an occult spell of 9th level or lower of their choice. For the remainder of the day, the lich can cast that spell as if it were one of their spells known for every level from its base level up to 9th.
 
 **Drain Spell Tome** ◇ The lich draws upon the magic stored in their spell tome to cast one of the spells they've countered. This spell is the same level as the one countered, but it uses the runecarved lich's spell DC and spell attack. Casting a spell in this way removes it from the spell tome.

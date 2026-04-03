@@ -31,7 +31,17 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 34), attack +26
 
+  **Cantrips (7th)** chill touch, daze, electric arc, prestidigitation, produce flame
+
+  **4th** blink, slow
+
+  **6th** chain lightning, disintegrate
+
+  **7th** dispel magic, prismatic spray
+
 **Magus Conflux Spells** (DC 34)
+
+  **7th** runic impression, spinning staff
 
 **Arcane Cascade** ◆ (concentrate, stance) Lady Arodeth can enter this stance only if her most recent action was to Cast a Spell or make a Spellstrike|SoM, but she can remain in the stance even if she no longer meets the requirements Effect While in this stance, Arodeth can Interact or Release to change her grip on her staff as a free action when she Strikes with the staff, including Strikes made in a Spellstrike|SoM. This happens before she rolls her attack roll. She can also Interact to change her grip on the staff as a free action triggered at the end of her turn.
 

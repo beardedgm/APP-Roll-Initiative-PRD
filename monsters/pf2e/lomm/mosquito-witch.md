@@ -37,6 +37,16 @@ Speed 30 feet, fly 25 feet, climb 30 feet
 
 **Innate primal Spells** (DC 29)
 
+  **Cantrips (5th)** dancing lights
+
+  **2nd** animal messenger
+
+  **3rd** animal vision
+
+  **4th** pest form
+
+  **5th** tree stride, vomit swarm
+
 **Dipteric Dread** (poison)
 
 **Terror from Within** The Mosquito Witch's powers feed on fear. When taking bleed or piercing damage dealt by the Mosquito Witch's bleed and dipteric dread, a creature takes additional damage equal to twice the creature's frightened value.

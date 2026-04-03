@@ -29,6 +29,16 @@ Speed 25 feet, swim 25 feet
 
 **Innate primal Spells** (DC 28), attack +22
 
+  **Cantrips (4th)** detect magic, produce flame
+
+  **1st** fear
+
+  **2nd** faerie fire, hideous laughter
+
+  **3rd** enthrall
+
+  **4th** charm, confusion
+
 **Deceitful Feast** (illusion) The brughadatch conjures a decadent, enticing feast void of nutritional substance. This conjuration takes 1 minute and lasts for 24 hours. For each item of illusory food a creature eats, it must attempt a DC 29 Will save. **Critical Success** The creature sees through the illusion and becomes immune to the effects of Deceitful Feast for 24 hours.
 **Success** The creature doesn't see through the illusion but is unaffected by the food.
 **Failure** The creature takes a –1 circumstance penalty to Will saves against any of the brughadatch's spells or abilities. The penalty increases with each failed save, to a maximum of –5.

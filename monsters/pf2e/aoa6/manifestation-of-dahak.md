@@ -51,6 +51,28 @@ Speed 60 feet, fly 200 feet
 
 **Prepared divine Spells** (DC 48), attack +44
 
+  **Cantrips (10th)** detect magic, divine lance, guidance, read aura, shield
+
+  **1st** command, ray of enfeeblement
+
+  **2nd** heal, see invisibility
+
+  **3rd** blindness, chilling darkness, vampiric touch
+
+  **4th** divine wrath, heal
+
+  **5th** Abyssal plague, drop dead, heal
+
+  **6th** blade barrier, spirit blast
+
+  **7th** dispel magic, eclipse burst, finger of death
+
+  **8th** harm, heal
+
+  **9th** massacre, telepathic demand
+
+  **10th** miracle
+
 **Constrict** ◆ 2d10+10 plus 2d6 fire
 
 **Draconic Frenzy** ◆◆ The dragon makes two claw Strikes and one wing Strike in any order.

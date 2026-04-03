@@ -35,6 +35,14 @@ Speed 30 feet, fly 30 feet
 
 **Innate divine Spells** (DC 38)
 
+  **Cantrips (8th)** daze, sigil
+
+  **5th** sound burst, synesthesia
+
+  **8th** harm, plane shift
+
+  **9th** wail of the banshee
+
 **Assemble Choir** ◆◆ The precentor adds a creature that is affected by its Tormenting Touch and is within 100 feet to its choir of screams. A precentor can have any number of creatures in its choir, although a creature no longer affected by Tormenting Touch leaves the choir immediately. Creatures in a precentor's choir of screams are fascinated by each other and the precentor, and they can't use hostile actions toward each other or the precentor. When the precentor casts an innate divine spell, it can cause the effect to originate from any member of its choir instead of itself, using the precentor's saving throw DC and attack bonus.
 
 **Focus Gaze** ◆ (concentrate, divine, enchantment, mental, visual) The precentor stares at a creature they can see within 30 feet. The target must immediately attempt a Will save against feel the blades. After attempting this save, the creature is then temporarily immune until the start of the precentor's next turn. In addition, if the creature was already doomed, on a failed save it sees the skin of its own body peel back, making it confused for as long as it remains doomed.

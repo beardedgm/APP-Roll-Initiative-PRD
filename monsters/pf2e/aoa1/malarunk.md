@@ -35,6 +35,14 @@ Speed 25 feet, climb 25 feet
 
 **Prepared divine Spells** (DC 23), attack +13
 
+  **Cantrips** detect magic, guidance, prestidigitation, shield
+
+  **1st** create water, heal, sanctuary
+
+  **2nd** create food, sound burst, spiritual weapon
+
+  **3rd** dream message, fireball, harm
+
 **Channel Smite** ◆◆
 
 **Shrieking Frenzy** ◇ The charau-ka is quickened until the end of its turn, and can use the extra action to Stride or Strike. Due to its loud wailing while in a shrieking frenzy, the charau-ka can't speak and automatically critically fails all Stealth checks.

@@ -35,6 +35,18 @@ Speed 35 feet, fly 60 feet
 
 **Innate divine Spells** (DC 34)
 
+  **Cantrips (6th)** message
+
+  **3rd** circle of protection
+
+  **4th** dimension door
+
+  **5th** banishment, breath of life
+
+  **6th** heroism, zealous conviction
+
+  **7th** heal, sound burst
+
 **Archon's Door** Once per day, if an archon sees another creature cast dimension door, the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door.
 
 **Kind Word** ◆ (auditory, divine, emotion, enchantment, linguistic, mental) The trumpet archon offers an ally praise or encouragement. The archon attempts to counteract one emotion effect on the ally (with a counteract modifier of +24), and the archon and the ally both gain a +1 status bonus to attack rolls and saving throws for 1 round.

@@ -37,6 +37,12 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 39), attack +31
 
+  **Cantrips (10th)** shield, telekinetic projectile
+
+  **2nd** calm emotions, telekinetic maneuver
+
+  **10th** divine wrath
+
 **Convergent Calm** When Kendley casts calm emotions, creatures controlled by the convergence lattice automatically fail their saving throws against the effect, but they can still use hostile actions against creatures who aren't controlled by the convergence lattice. Each time she Sustains the Spell, creatures affected by the spell are exposed to the convergence lattice as though they had been in conversation with her.
 
 **Convergent Tactics** Kendley's attacks (including telekinetic projectile) deal an extra 4d8 damage to creatures within reach of one of her allies who has convergent tactics.

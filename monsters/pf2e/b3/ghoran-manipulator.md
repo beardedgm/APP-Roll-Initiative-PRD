@@ -42,4 +42,14 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 20)
 
+  **Cantrips (2nd)** daze, forbidding ward, ghost sound, light, mage hand
+
+  **1st (3 slots)** charm, sanctuary, sleep, soothe
+
+  **2nd (2 slots)** illusory disguise, phantom pain
+
 **Innate primal Spells** (DC 20)
+
+  **1st** goodberry, purify food and drink
+
+  **2nd** detect poison

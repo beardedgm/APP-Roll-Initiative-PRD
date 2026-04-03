@@ -37,4 +37,8 @@ Speed 25 feet, swim 40 feet
 
 **Innate occult Spells** (DC 21), attack +13
 
+  **Cantrips (2nd)** ghost sound, mage hand, telekinetic projectile
+
+  **2nd** charm, invisibility, sleep
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The kushtaka takes on the specific appearance of a unique Small or Medium humanoid (page 304). Every time the kushtaka uses this ability, it takes on the same chosen form, though it can use non-magical disguises to further alter its appearance. This doesn't change the kushtaka's Speed or its attack and damage bonuses with its Strikes, though it does change the damage to an appropriate type, typically bludgeoning.

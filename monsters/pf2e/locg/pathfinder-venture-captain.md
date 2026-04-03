@@ -37,6 +37,8 @@ Speed 20 feet
 
 **Spontaneous occult Spells** (DC 27)
 
+  **Cantrips (3rd)** detect magic, inspire competence, inspire courage, read aura
+
 **Bardic Lore** The venture-captain can Recall Knowledge on any topic using their Bardic Lore skill.
 
 **Paragon's Guard** ◆ (stance) While the venture-captain is in this stance and wielding a shield, their shield is always raised.

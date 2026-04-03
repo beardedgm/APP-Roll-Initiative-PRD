@@ -39,6 +39,14 @@ Speed 60 feet, fly 200 feet
 
 **Innate primal Spells** (DC 42)
 
+  **Cantrips (10th)** detect magic
+
+  **8th** vampiric exsanguination
+
+  **9th** darkness, finger of death
+
+  **10th** massacre
+
 **Breath Weapon** ◆◆ The umbral dragon breathes in one of two ways. They can't use Breath Weapon again for 1d4 rounds. - Negative (necromancy, negative, primal) The dragon breathes a blast of darkness in a 50-foot cone that deals 21d6 negative damage (DC 42 basic Reflex save). Undead creatures take 25d6 force damage instead of the negative damage.
 - 
 

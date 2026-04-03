@@ -41,6 +41,12 @@ Speed 25 feet, fly 35 feet
 
 **Innate occult Spells** (DC 21)
 
+  **Cantrips (2nd)** chill touch, detect magic
+
+  **4th** gaseous form
+
+  **7th** plane shift
+
 **Bide** ◆◆ The shae prepares to take action against their foes, watching their opponent and waiting for the right opportunity to respond. The shae gains a second reaction until the start of their next turn, though they still can't use more than one reaction on the same triggering action.
 
 **Swift Steps** The shae's movement doesn't trigger reactions.

@@ -35,6 +35,10 @@ Speed fly 40 feet
 
 **Innate divine Spells** (DC 21)
 
+  **1st** detect alignment
+
+  **3rd** dream message
+
 **Ferocious Roar** ◆◆ (auditory, emotion, fear, mental, sonic) The lion makes a terrifying roar that deals 2d8 sonic damage (DC 23 basic Fortitude save) to each creature in a 20-foot cone. Creatures that fail this save become frightened 1.
 
 **Inhabit Vessel** ◆◆ (manipulate) The lion touches and melds with its bonded vessel, bringing the statue to life. It can cease Inhabiting its Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, it loses its fly Speed and gains Immunities healing, nonlethal; Resistances physical 5 (except bludgeoning); Speed 30 feet; and the following Strikes. - Melee 1 jaws +14, Damage 2d6+7 bludgeoning plus Grab

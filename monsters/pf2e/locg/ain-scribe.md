@@ -33,6 +33,14 @@ Speed 40 feet
 
 **Prepared primal Spells** (DC 21), attack +11
 
+  **Cantrips (2nd)** detect magic, electric arc, know direction, light, tanglefoot
+
+  **1st** gust of wind, longstrider
+
+  **2nd** acid arrow, entangle, spider climb
+
 **Druid Order Spells** (DC 21)
+
+  **2nd** tempest surge
 
 **Chameleon Step** ◆◆ (illusion, primal, visual) **Frequency** {"number":1,"unit":"day"}; **Requirements** The Rain-Scribe must be in natural terrain.; The RainScribe shifts their coloration and the coloration of their gear to match the surroundings and then immediately Sneaks, even while being observed. The Rain-Scribe must end their movement concealed or behind cover to remain hidden or undetected.

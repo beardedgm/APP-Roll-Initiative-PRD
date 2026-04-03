@@ -35,4 +35,8 @@ Speed 40 feet, fly 40 feet
 
 **Innate divine Spells** (DC 28)
 
+  **4th** clairaudience, clairvoyance, dimensional anchor, dispel magic, paralyze
+
+  **5th** locate
+
 **Double Attack** ◆◆ The zelekhut makes two chain Strikes, each targeting a different creature. Each Strike counts toward the zelekhut's multiple attack penalty, but the penalty doesn't increase until after it has made both attacks. If the zelekhut subsequently uses the Knockdown action, it affects all creatures it hit with Double Attack.

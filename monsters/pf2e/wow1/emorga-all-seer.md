@@ -37,3 +37,13 @@ Speed 10 feet, swim 20 feet
 **Melee** foot +19; **Damage** 2d8+10 bludgeoning
 
 **Innate primal Spells** (DC 28), attack +20
+
+  **Cantrips (5th)** guidance, read aura, tangle vine
+
+  **2nd** animal messenger, entangling flora
+
+  **3rd** earthbind, safe passage
+
+  **4th** heal, mountain resilience
+
+  **5th** control water, speak with stones

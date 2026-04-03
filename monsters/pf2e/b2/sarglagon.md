@@ -41,6 +41,10 @@ Speed 25 feet, fly 25 feet, swim 30 feet
 
 **Innate divine Spells** (DC 23), attack +18
 
+  **4th** dimension door, freedom of movement, hydraulic torrent
+
+  **5th** control water, dimension door
+
 **Drown** ◆◆ (conjuration, divine, incapacitation) The sarglagon conjures murky water to fill the lungs of a creature that can't breathe water within 30 feet. The target must attempt a DC 26 Fortitude save. **Critical Success** The target is unaffected.
 **Success** The target coughs up water and is sickened 1.
 **Failure** The target is holding its breath (Core Rulebook 478). The only action it can take is to attempt a Fortitude save against Drown to expel the water, which is a single action.

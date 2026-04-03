@@ -34,3 +34,9 @@ Speed 25 feet
 **Melee** claw +12 (agile, finesse); **Damage** 2d6+4 slashing
 
 **Spontaneous divine Spells** (DC 21), attack +13
+
+  **Cantrips (2nd)** daze, divine lance, prestidigitation, read aura, shield
+
+  **1st (4 slots)** bane, command, fear, harm
+
+  **2nd (4 slots)** blood vendetta, darkness, harm, sudden blight

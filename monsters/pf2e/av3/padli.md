@@ -35,4 +35,12 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 26), attack +18
 
+  **Cantrips (5th)** chill touch, daze, detect magic, shield
+
+  **2nd** darkness, invisibility, obscuring mist
+
+  **3rd** blindness, enthrall, paralyze
+
+  **4th** darkness, phantom pain, suggestion
+
 **Sneak** Attack Padli deals 3d6 extra precision damage to flat-footed creatures.

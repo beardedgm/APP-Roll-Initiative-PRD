@@ -35,6 +35,10 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 22)
 
+  **2nd** animal messenger
+
+  **3rd** animal allies
+
 **Exalt the Little Ones** ◆ (auditory, linguistic, primal) The arboreal shepherd encourages its friends to overcome titanic odds. For 1 round, allies with the animal trait in a 50-foot radius gain a +1 status bonus to attack rolls, damage rolls, and saving throws. If the animals have the swarm trait, the saving throw DCs to resist their damaging actions gain a +1 status bonus. This bonus increases to +2 for allies whose level is 2 or lower.
 
 **Healing Haven** ◆ (healing, manipulate) **Frequency** {"number":1,"unit":"hour"}; The arboreal shepherd scoops up a willing Medium or smaller animal (or animal with the swarm trait) within its reach, sequestering the animal into a recess in the arboreal's trunk. While sequestered, the animal cannot act, gains greater cover, and gains fast healing 5. At the beginning of its turn after regaining Hit Points, the animal can choose to exit by reappearing in any space adjacent to the arboreal as a free action.

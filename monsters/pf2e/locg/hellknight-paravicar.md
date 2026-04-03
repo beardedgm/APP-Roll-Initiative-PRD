@@ -31,7 +31,23 @@ Speed 25 feet
 
 **Spontaneous divine Spells** (DC 30), attack +20
 
+  **Cantrips (6th)** detect magic, forbidding ward, light, produce flame, shield, sigil
+
+  **1st (4 slots)** bane, charm, command, ray of enfeeblement
+
+  **2nd (4 slots)** darkvision, detect alignment, faerie fire, flaming sphere
+
+  **3rd (4 slots)** blindness, crisis of faith, enthrall, fear
+
+  **4th (4 slots)** air walk, dimensional anchor, discern lies, suggestion
+
+  **5th (4 slots)** command, crushing despair, banishment, heal, summon fiend
+
+  **6th (3 slots)** crisis of faith, spellwrack, spirit blast, summon fiend, true seeing
+
 **Sorcerer Bloodline Spells** (DC 30)
+
+  **6th** diabolical edict, embrace the pit, hellfire plume
 
 **Steady Spellcasting** If a reaction would disrupt the Hellknight paravicar's spellcasting, they can attempt a DC 15 flat check. On a success, the action isn't disrupted.
 

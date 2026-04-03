@@ -37,6 +37,10 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 25), attack +17
 
+  **2nd** blur, darkness
+
+  **4th** darkness
+
 **Drain Light** ◆◆ (abjuration, darkness, primal) The shimmerthief targets a light source within 30 feet, then attempts to counteract|CRB|3|counteracting|0 it with a spell attack roll. If they succeed, the shimmerthief regains 2d8+10 Hit Points (4d8+20 Hit Points on a critical success).
 
 **Lasting Darkness** ◈ **Trigger** The shimmerthief casts darkness as a 2nd-level spell; **Frequency** {"unit":"day","number":1}; The duration of the shimmerthief's darkness increases to 24 hours.

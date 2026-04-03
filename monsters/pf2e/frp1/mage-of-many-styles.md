@@ -31,6 +31,24 @@ Speed 25 feet
 
 **Wizard Prepared Spells** (DC 32), attack +26
 
+  **Cantrips (7th)** acid splash, daze, mage hand, shield, tanglefoot
+
+  **1st** fleet step, ray of enfeeblement, true strike
+
+  **2nd** acid arrow, mirror image, touch of idiocy
+
+  **3rd** lightning bolt, true strike, vampiric touch
+
+  **4th** confusion, dimension door, fly
+
+  **5th** black tentacles, shocking grasp, true strike
+
+  **6th** chain lightning, disintegrate, vampiric exsanguination
+
+  **7th** shocking grasp, true target
+
 **Wizard School Spells**
+
+  **7th** hand of the apprentice, physical boost
 
 **Spell Punch** ◇ (flourish) **Trigger** The mage of many styles begins to Cast a Spell that targets at least 1 creature; The mage channels the spell through their fist. The mage makes a fist Strike against a target within reach. If the Strike is successful, the target is subjected to the spell. If the spell required an attack roll, the target is hit automatically upon a successful Strike. If the spell required a saving throw, the target takes a –2 status penalty to its saving throw. If the spell could target multiple creatures, it targets only the creature the mage hit with their fist Strike.

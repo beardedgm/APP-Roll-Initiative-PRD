@@ -33,6 +33,14 @@ Speed 25 feet
 
 **Prepared primal Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** caustic blast, detect magic, puff of poison, prestidigitation, tangle vine
+
+  **1st** fear, runic body, tailwind
+
+  **2nd** heal, oaken resilience, quench
+
+  **3rd** slow, wall of thorns
+
 **Bramble Jump** ◆◆◆ (plant, primal, teleportation) **Requirements** Splintershank is in the forest's undergrowth; Splintershank scrambles into the undergrowth and instantly teleports to a different square of undergrowth within 60 feet of him. This movement doesn't trigger reactions.
 
 **Splinter Spray** ◆◆ Splintershank sprays a barrage of splinters and brambles from his body in a 15-foot cone, dealing 7d6 piercing damage (DC 24 basic Reflex save). He can't use Splinter Spray again for 1d4 rounds.

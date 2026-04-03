@@ -31,6 +31,10 @@ Speed 30 feet, climb 30 feet
 
 **Innate primal Spells** (DC 31)
 
+  **4th** meld into stone, shape stone
+
+  **6th** stone tell
+
 **Regurgitate Gastrolith** ◆◆ (acid, evocation, primal) The irlgaunt violently regurgitates a melonsized clot of brittle stone supernaturally infused with digestive enzymes. The stone and acid explode on impact within a range of 30 feet, dealing 7d6 piercing damage and 7d6 acid damage to creatures in a 20-foot burst (DC 33 basic Reflex save). The irlgaunt can't Regurgitate Gastroliths for 1d4 rounds.
 
 **Stone Step** The irlgaunt ignores terrain composed of rocks and stone.

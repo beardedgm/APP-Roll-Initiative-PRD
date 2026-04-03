@@ -37,6 +37,10 @@ Speed 40 feet
 
 **Innate primal Spells** (DC 37)
 
+  **3rd** animal vision
+
+  **4th** air walk
+
 **Boneshaking Roar** ◆◆ (incapacitation, sonic) The saurian warmonger bellows, evoking the power of the primordial world. Non-dinosaur creatures within 30 feet take 10d6 sonic damage (DC 34 basic Fortitude save). On a failed save, a creature is also slowed|CRB|slowed 2 for 1 round (stunned 1d4 on a critical failure). The saurian can't use Boneshaking Roar again for 1d4 rounds.
 
 **Primordial Balance** A warmonger wields their mancatcher in one hand.

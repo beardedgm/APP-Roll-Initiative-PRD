@@ -31,6 +31,8 @@ Speed 25 feet, burrow 15 feet
 
 **Innate primal Spells** (DC 26)
 
+  **4th** shape stone
+
 **Break Ground** ◆◆ (arcane, earth, transmutation) The guecubu stomps, and the ground breaks and ripples in a 30-foot emanation, erupting in razor-sharp, crisscrossing spikes of rock that deal 3d8 piercing damage to creatures in the area (DC 26 basic Reflex save). The area becomes terrain and hazardous terrain, with each square dealing 3 piercing damage to a creature that moves through it. A guecubu is immune to these effects. Ground under the effects of a consecrate ritual or a circle of protection spell tuned against evil or chaos can't be affected by this ability.
 
 **Earth Glide** The guecubu can Burrow through any earthen matter, including rock. When it does so, the guecubu moves at its full burrow Speed, leaving no tunnels or signs of its passing.

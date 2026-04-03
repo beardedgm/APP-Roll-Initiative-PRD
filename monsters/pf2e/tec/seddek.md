@@ -37,4 +37,10 @@ Speed 20 feet, fly 15 feet
 
 **Innate arcane Spells** (DC 24)
 
+  **1st** create water
+
+  **2nd** create food, invisibility, speak with animals
+
+  **7th** plane shift
+
 **Change Size** (arcane, concentrate, polymorph, transmutation) **Frequency** {"number":1,"unit":"day"}; The janni changes a creature's size. This works as a 4th-level enlarge|PC1 or shrink|PC1 spell but can target an unwilling creature (DC 24 Fortitude save negates).

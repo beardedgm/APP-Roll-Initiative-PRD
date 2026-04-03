@@ -39,6 +39,10 @@ Speed 40 feet, fly 30 feet
 
 **Champion Devotion Spells** (DC 34)
 
+  **1st** lay on hands, weapon surge
+
+  **4th** word of freedom, zeal for battle
+
 **Innate divine Spells** (DC 34)
 
 **Challenge Foe** ◆ The soldier challenges one creature they can see to single combat, attempting to Demoralize that target. This target remains the soldier's foe until it's defeated, it flees, or the encounter ends. The soldier gains a circumstance bonus to damage equal to their number of weapon damage dice against their designated foe but takes an equivalent circumstance penalty to damage against any other creature. If the soldier is defeated by their challenged foe, the shame causes them to lose use of their champion devotion spells for 1 week or until they challenge the same foe again and emerge victorious, whichever comes first.

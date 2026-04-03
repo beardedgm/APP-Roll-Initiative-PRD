@@ -29,4 +29,10 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 20), attack +12
 
+  **Cantrips (2nd)** dancing lights, daze, detect magic, electric arc, mage hand, message, shield
+
+  **1st** grease, mage armor, magic missile, true strike
+
+  **2nd** flaming sphere, knock, see invisibility
+
 **Wizard School Spell** 1 Focus Point, DC 20; 2nd diviner's sight (Core Rulebook 406)

@@ -35,4 +35,8 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 21)
 
+  **2nd** entangle, gust of wind, obscuring mist, pummeling rubble
+
+  **3rd** see nature's chosen
+
 **Nature's Chosen** Once per day, the kovintus can cast a 3rd-level primal innate spell. They can do so only if a spell with a corresponding trait was cast within 10 feet of the kovintus since the start of their last turn (including if the kovintus Cast the Spell). The traits and the spells they grant are as follows: wall of wind for air, meld into stone for earth, wall of thorns for plant, and crashing wave|apg for water.

@@ -37,6 +37,10 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 23)
 
+  **Cantrips (4th)** dancing lights
+
+  **2nd** darkness, faerie fire
+
 **Hunter's Wound** ◆ **Frequency** {"unit":"round","number":1}; The hunter makes two ranged Strikes against their prey. If both hit and deal damage, the target takes an additional 1d8 persistent bleed damage.
 
 **Skirmish Strike** ◆ The hunter can Step and then Strike, or Strike and then Step.

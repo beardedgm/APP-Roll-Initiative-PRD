@@ -37,6 +37,10 @@ Speed 35 feet
 
 **Innate arcane Spells** (DC 28)
 
+  **1st** magic weapon
+
+  **6th** chain lightning
+
 **Breath Weapon** ◆◆ (acid, arcane, cold, electricity, evocation, fire, sonic) **Frequency** {"unit":"day","number":1}; The calikang breathes a blast of energy that deals 13d6 energy damage to creatures in a 60-foot line (DC 28 basic Reflex save). The calikang can choose the damage type each time: acid, cold, electricity, fire, or sonic. Increase the die size to d8 if the calikang chooses electricity.
 
 **Sixfold Flurry** ◆◆ The calikang makes up to two longsword Strikes and up to four fist Strikes. Each Strike must be against a different target. These attacks count toward the calikang's multiple attack penalty, which doesn't increase until after all the attacks are complete. For 1 round, the calikang gains a circumstance bonus to their AC equal to the number of Strikes they choose not to take, to a maximum of +4 for taking only two Strikes.

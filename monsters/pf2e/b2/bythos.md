@@ -33,6 +33,14 @@ Speed fly 35 feet
 
 **Innate divine Spells** (DC 37)
 
+  **4th** dimensional anchor
+
+  **6th** slow
+
+  **7th** dimensional anchor, dimensional lock, haste, plane shift
+
+  **8th** augury, teleport
+
 **Aging Strikes** ◆◆ (divine, necromancy) The bythos make two fist Strikes against a single target. If both Strikes hit, the target attempts a DC 37 Fortitude save. Creatures that don't get weaker with age or don't age are immune (GM's discretion). If a creature becomes clumsy 4, drained 4, and enfeebled 4 due to Aging Strikes, it dies of old age. **Success** The creature is unaffected.
 **Failure** The creature becomes clumsy 1, drained 1, and enfeebled 1, or increases each of these conditions by 1. This effect is cumulative with other aging strikes from bythoses, to a maximum of clumsy 4, drained 4, and enfeebled 4.
 **Critical Failure** As failure, but the creature becomes clumsy 2, drained 2, and enfeebled 2, or increases these conditions by 2.

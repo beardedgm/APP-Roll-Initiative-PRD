@@ -27,4 +27,8 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 18), attack +12
 
+  **Cantrips (1st)** acid splash, detect magic, mage hand, prestidigitation, ray of frost
+
+  **1st** burning hands, mage armor, magic missile, shocking grasp
+
 **Eschew Materials**

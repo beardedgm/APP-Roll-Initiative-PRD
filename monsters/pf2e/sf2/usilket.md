@@ -35,7 +35,19 @@ Speed 25 feet
 
 **Innate arcane Spells** (DC 33)
 
+  **Cantrips (7th)** detect magic
+
+  **1st** floating disk, unseen servant
+
+  **5th** dimension door, mirror image
+
+  **6th** resilient sphere, suggestion
+
+  **7th** dispel magic, resist energy
+
 **Monk Focus Spells** (DC 32), attack +25
+
+  **7th** abundant step, ki blast, ki rush, ki strike, wholeness of body, wind jump
 
 **Flurry of Blows** ◆ (flourish) Usilket makes two Strikes with their fist or with a monk weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.
 

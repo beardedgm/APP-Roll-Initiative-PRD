@@ -31,6 +31,14 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 24), attack +17
 
+  **Cantrips (3rd)** chill touch, divine lance, guidance, light, shield
+
+  **1st** bane, fear, illusory disguise
+
+  **2nd** augury, invisibility, spiritual weapon
+
+  **3rd** blindness, harm, heroism, vampiric touch
+
 **Cast Down** ◆ When the acolyte casts harm to damage one creature, that creature is knocked prone if it takes any damage from the spell. If the creature critically fails its save against the spell, it also takes a –10-foot status penalty to its Speed for 1 minute.
 
 **Sneak Attack** The acolyte deals an additional 2d6 precision damage to flat-footed creatures.

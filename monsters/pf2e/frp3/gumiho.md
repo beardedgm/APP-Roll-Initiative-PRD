@@ -38,6 +38,22 @@ Speed 40 feet
 
 **Spontaneous occult Spells** (DC 38), attack +30
 
+  **Cantrips (9th)** dancing lights, daze
+
+  **3rd (3 slots)** enthrall
+
+  **4th (4 slots)** charm, invisibility, sleep
+
+  **5th (3 slots)** subconscious suggestion
+
+  **6th (3 slots)** dominate, repulsion
+
+  **7th (2 slots)** project image, warp mind
+
+  **8th (2 slots)** disappearance, power word stun
+
+  **9th** 1 slot) power word kill
+
 **Change Shape** ◆ (concentrate, polymorph, occult, transmutation) The gumiho changes into humanoid or fox shape. Their humanoid shape has a specific, persistent appearance but their true form is their fox shape. In humanoid shape, the gumiho uses their original size, loses their jaws strike but retains their claws strike, and their Speed is reduced to 25 feet. A gumiho is never able to completely conceal one of their nine tails through this transformation.
 
 **Sapping Critical** ◇ **Trigger** The gumiho critically hits with a claw or jaws Strike; The gumiho uses its fox marble to channel the life force lost by the target and heal for half the amount of damage dealt.

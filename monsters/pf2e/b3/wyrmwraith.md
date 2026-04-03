@@ -39,6 +39,16 @@ Speed 50 feet, fly 80 feet
 
 **Innate divine Spells** (DC 35)
 
+  **3rd** bind undead
+
+  **4th** charm, darkness
+
+  **6th** vampiric exsanguination
+
+  **7th** divine wrath, finger of death
+
+  **8th** charm
+
 **Breath Weapon** ◆◆ (divine, necromancy, negative) The wyrmwraith unleashes a burst of negative energy that deals 18d6 negative damage to all creatures in a 60-foot cone (DC 38 basic Reflex save) They can't use Breath Weapon again for 1d4 rounds.
 
 **Divine Dispelling** (abjuration, divine) A wyrmwraith's claws rend divine magic. Whenever a wyrmwraith hits a creature with a spectral claws Strike, the wyrmwraith can attempt a Religion check to counteract an ongoing divine spell effect on the creature.

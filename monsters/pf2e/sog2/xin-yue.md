@@ -37,6 +37,16 @@ Speed 25 feet
 
 **Spontaneous divine Spells** (DC 25), attack +17
 
+  **Cantrips (4th)** daze, divine lance, guidance, read aura, shield
+
+  **1st (4 slots)** command, fear, ray of enfeeblement, sanctuary
+
+  **2nd (4 slots)** deafness, harm, sound burst, spiritual weapon
+
+  **3rd (4 slots)** dispel magic, crisis of faith, harm, vampiric touch
+
+  **4th (3 slots)** air walk, divine wrath, harm
+
 **Near-Death Experience** ◈ (divine, emotion, mental, necromancy) **Trigger** Xin Yue reduces a creature to 0 Hit Points and causes them to gain the dying condition; Time appears to slow down to the dying creature as the immense stress of their near-death experience pushes their brain into overdrive. The target sees their life flash before their eyes, and the urge to resist death grows strong. The target reduces the DC of their recovery checks by 2, but if they lose the dying condition, they must attempt a DC 25 Will save. **Critical Success** The creature is empowered by the experience and gains fast healing 5 for 1 minute.
 **Success** The creature is empowered by the experience and gains fast healing 1 for 1 minute.
 **Failure** The creature becomes depressed by the experience and becomes stupefied 1 for 24 hours.

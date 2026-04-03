@@ -36,3 +36,9 @@ Speed 30 feet, fly 30 feet
 **Melee** illusory weapon +24 (illusion, mental, occult); **Damage** 4d6+10 mental plus 1d6 persistent bleed
 
 **Innate occult Spells** (DC 30)
+
+  **Cantrips (5th)** shield, telekinetic projectile
+
+  **4th** dimension door
+
+  **5th** phantasmal killer

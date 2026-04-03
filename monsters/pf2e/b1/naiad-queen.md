@@ -37,7 +37,21 @@ Speed 25 feet, swim 25 feet
 
 **Prepared primal Spells** (DC 28), attack +18
 
+  **Cantrips (4th)** detect magic, guidance, light, ray of frost, stabilize
+
+  **1st** fleet step, gust of wind, negate aroma
+
+  **2nd** animal messenger, faerie fire, tree shape
+
+  **3rd** earth bind, haste, heal
+
+  **4th** heal, summon animal
+
 **Innate primal Spells** (DC 28)
+
+  **1st** charm, create water
+
+  **4th** tidal surge
 
 **Change Shape** ◆ (polymorph, primal, transmutation)
 

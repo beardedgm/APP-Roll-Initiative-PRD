@@ -29,4 +29,8 @@ Speed fly 40 feet
 
 **Innate occult Spells** (DC 26)
 
+  **3rd** fear
+
+  **4th** confusion, dimension door, nightmare, phantasmal killer, sleep
+
 **Endless Nightmare** (curse, emotion, enchantment, fear, mental, occult)

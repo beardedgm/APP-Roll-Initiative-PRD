@@ -33,6 +33,10 @@ Speed 25 feet, swim 50 feet
 
 **Innate primal Spells** (DC 35)
 
+  **2nd** invisibility, obscuring mist
+
+  **5th** charm, control water
+
 **Beckoning Call** ◆ (auditory, concentrate, enchantment, incapacitation, mental, primal) The rusalka cries out a compelling invitation. Each non-fey creature within a 300-foot emanation must attempt a DC 27 Will save. The effect lasts for 1 round, but if the rusalka uses Beckoning Call again on subsequent rounds, the duration extends by 1 round for all affected creatures. Once a creature succeeds at any save against Beckoning Call, that creature is temporarily immune for 24 hours. **Success** The creature is unaffected.
 **Failure** The creature is fascinated and must spend each of its actions to move closer to the rusalka, avoiding obvious dangers. If a beckoned creature is adjacent to the rusalka, it stays still and doesn't act. If attacked by the rusalka, the creature is freed from captivation at the end of the rusalka's turn.
 **Critical Failure** As failure, but if attacked by the rusalka, the creature can attempt a new save only at the start of its next turn, rather than being freed at the end of the rusalka's turn.

@@ -37,6 +37,16 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 38), attack +30
 
+  **Cantrips (9th)** shield, telekinetic projectile
+
+  **6th** true seeing
+
+  **7th** fly, paralyze
+
+  **8th** dimension door, suggestion, teleport
+
+  **9th** phantasmal killer
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The Prince changes into his humanoid shape, hybrid shape, or wolf shape. While in hybrid shape, he gains a jaws Strike. While in animal shape, he gains the effects of a 5th-level casting of animal form to become a canine. He prefers fighting in hybrid shape.
 
 **Hunt Prey** ◆ (concentrate) The Prince designates one or two targets he can see or hear as his prey. He gains a +2 circumstance bonus to Perception checks to Seek and Track his prey. If he uses Hunt Prey against a third creature when he already has two designated, a prior creature of his choice loses the designation. His designation lasts until his next daily preparations.

@@ -37,7 +37,11 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 32), attack +24
 
+  **Cantrips (7th)** divine lance
+
 **Focus divine Spells** (DC 32)
+
+  **7th** athletic rush, enduring might, perfected form, perfected mind
 
 **Faithful Weapon** As divine warden (staff).
 

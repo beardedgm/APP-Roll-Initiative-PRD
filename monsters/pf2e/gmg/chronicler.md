@@ -33,4 +33,10 @@ Speed 25 feet
 
 **Prepared primal Spells** (DC 20), attack +12
 
+  **Cantrips (2nd)** know direction, light, ray of frost, sigil, tanglefoot
+
+  **1st** fleet step, longstrider, pass without trace
+
+  **2nd** entangle, flaming sphere
+
 **Scroll Mastery** The chronicler can activate any scroll of a 2nd-level spell or lower as if they had the spell on their spell list, regardless of its magical tradition.

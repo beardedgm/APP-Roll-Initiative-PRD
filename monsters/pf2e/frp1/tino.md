@@ -31,6 +31,8 @@ Speed 40 feet
 
 **Focus Spells** (DC 24)
 
+  **5th** ki blast, ki strike, lay on hands
+
 **Flurry of Blows** ◆ (flourish) Tino makes two Strikes with his fist or with a monk weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.
 
 **Powerful Fists** Tino's fist Strikes don't take penalties when making lethal attacks.

@@ -39,6 +39,16 @@ Speed 40 feet, fly 40 feet, swim 50 feet
 
 **Innate primal Spells** (DC 38)
 
+  **2nd** invisibility
+
+  **4th** charm, darkness
+
+  **5th** control water
+
+  **8th** hydraulic torrent
+
+  **9th** chain lightning, horrid wilting
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The water yai takes on the appearance of an storm giant. This doesn't change their Speed or Strike attack and damage. The yai can also turn into a puddle of water, with the effects of gaseous form except they retain their land Speed, double their swim Speed, and can't fly.
 
 **Enveloping Kimono** ◆ (electricity, manipulate, primal, transmutation, water) **Requirements** The water yai's last action was a successful kimono Strike; The water yai extends a portion of their kimono to attempt to envelop a creature within 15 feet. The water yai must attempt a Performance check against the creature's Reflex DC. **Critical Success** The creature takes 20d6 electricity damage and is grabbed until the end of its next turn.

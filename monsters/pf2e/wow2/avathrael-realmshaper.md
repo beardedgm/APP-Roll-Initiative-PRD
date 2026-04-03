@@ -43,7 +43,27 @@ Speed 40 feet, fly 100 feet
 
 **Innate arcane Spells** (DC 32), attack +24
 
+  **Cantrips (6th)** detect magic, figment, prestidigitation, read aura, sigil
+
+  **2nd** darkness
+
+  **3rd** inscrutable mask
+
+  **4th** chilling darkness, darkness
+
+  **5th** illusory scene, umbral journey
+
+  **6th** shadow blast
+
 **Innate primal Spells** (DC 32), attack +24
+
+  **Cantrips (6th)** tangle vine
+
+  **2nd** shape wood, one with plants
+
+  **5th** nature's pathway, wall of thorns
+
+  **6th** nature's reprisal, tangling creepers
 
 **Poison Breath** ◆◆ (poison, primal) Avathrael exhales a cloud of sweet-smelling poisonous gas that deals 13d6 poison damage in a 50-foot cone (DC 32 basic Fortitude save). A creature that critically fails is also sickened 2. Avathrael can't use Poison Breath again for 1d4 rounds.
 

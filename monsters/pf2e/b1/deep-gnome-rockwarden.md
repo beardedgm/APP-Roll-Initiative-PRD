@@ -31,4 +31,14 @@ Speed 15 feet
 
 **Prepared primal Spells** (DC 24), attack +14
 
+  **Cantrips (3rd)** acid splash, detect magic, prestidigitation, produce flame, read aura
+
+  **1st** ant haul, shocking grasp, ventriloquism
+
+  **2nd** acid arrow, deafness, spider climb
+
+  **3rd** blindness, meld into stone
+
 **Innate primal Spells** (DC 21)
+
+  **1st** illusory disguise

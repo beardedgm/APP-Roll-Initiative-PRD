@@ -33,7 +33,17 @@ Speed 25 feet
 
 **Spontaneous arcane Spells** (DC 26), attack +18
 
+  **Cantrips (5th)** acid splash, dancing lights, electric arc, prestidigitation, telekinetic projectile
+
+  **3rd (2 slots)** earthbind, haste
+
+  **4th (2 slots)** dispel magic, phantasmal killer
+
+  **5th (2 slots)** magic missile, weapon storm
+
 **Sorcerer Bloodline Spells** (DC 26)
+
+  **5th** ancestral memories, extend spell
 
 **Sudden Charge** ◆◆ Vharnev Strides twice and makes a melee Strike.
 

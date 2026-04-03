@@ -37,6 +37,8 @@ Speed 40 feet
 
 **Innate primal Spells** (DC 38)
 
+  **9th** nature's enmity
+
 **Fungal Web** ◆ The canopy elder launches a rapidly growing net of fungus from the mushrooms growing on its body at a single creature within 80 feet. The target must attempt a DC 39 Reflex save or become restrained by the fungal web (Escape DC 39). While restrained, the creature takes 4d6 poison damage at the end of each of their turns.
 
 **Pollen Cloud** ◆◆ The canopy elder releases a dense cloud of pollen from the epiphytes living in its branches. The cloud emanates from the canopy elder in a 40-foot emanation. The cloud doesn't move with the canopy elder and remains in place for 1d6 rounds before dissipating. Creatures inside the cloud become concealed, and all creatures outside the cloud become concealed to creatures within it. Non-plant and non-fungus creatures within the cloud must attempt a DC 38 Fortitude save. On a failure, the creature is sickened|CRB|sickened 3, and on a critical failure the creature is also blinded for 1 minute. Regardless of the result, a creature is then temporarily immune to the sickening and blinding effects of the canopy elder's pollen for 24 hours.

@@ -41,6 +41,14 @@ Speed 45 feet
 
 **Innate arcane Spells** (DC 35)
 
+  **4th** charm, suggestion
+
+  **5th** sending
+
+  **6th** dominate, true seeing
+
+  **8th** charm, suggestion
+
 **Command Giants** When a rune giant casts a mental spell against another giant, the DC is 39, rather than 35.
 
 **Demand** ◇ (arcane, enchantment, mental) When a rune giant casts its innate sending spell, it can also cast suggestion on the target.

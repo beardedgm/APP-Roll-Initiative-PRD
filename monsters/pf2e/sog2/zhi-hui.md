@@ -33,4 +33,14 @@ Speed fly 35 feet
 
 **Innate divine Spells** (DC 25), attack +17
 
+  **Cantrips (4th)** divine lance, read aura, stabilize
+
+  **1st** sanctuary
+
+  **2nd** restoration, restore senses
+
+  **3rd** heal, remove disease
+
+  **4th** life's fresh bloom, remove curse
+
 **Incarnate Skill** ◆◆◆ (divination, divine) Zhi Hui peers into a willing creature's soul and searches through their past lives. That creature permanently trades proficiency rank from one skill they're currently expert in with a skill in which they're untrained, both of their choice. Zhi Hui can only perform this activity once per character.

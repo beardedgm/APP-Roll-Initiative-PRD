@@ -39,6 +39,14 @@ Speed 30 feet
 
 **Innate occult Spells** (DC 27), attack +19
 
+  **Cantrips (4th)** chill touch, detect magic, mage hand, message, read aura
+
+  **2nd** mirror image
+
+  **3rd** hypnotic pattern, levitate, locate, mind reading
+
+  **4th** outcast's curse, phantom pain, suggestion
+
 **Debilitating Bite** (curse, occult) A creature that takes damage from a denizen's bite must succeed at a DC 27 Fortitude save or become clumsy 1. Each time a target fails an additional save against this ability, the condition value increases by 1 (to a maximum of clumsy 4). This condition value decreases by 1 every 24 hours.
 
 **Leng Ruby** (enchantment, occult) Many denizens of Leng carry strange rubies mined from quarries in Leng. As long as a creature holds a Leng ruby that it willingly accepted as a gift or payment from a denizen of Leng, any denizen of Leng can target that creature with outcast's curse, phantom pain, or mind reading at a range of 1 mile, and the bearer uses an outcome one degree of success worse than the result of its saving throw against outcast's curse.

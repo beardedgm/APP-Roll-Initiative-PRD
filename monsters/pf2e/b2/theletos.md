@@ -29,6 +29,8 @@ Speed 25 feet, fly 25 feet
 
 **Innate divine Spells** (DC 25), attack +17
 
+  **4th** augury, charm, dispel magic, enthrall, outcast's curse, remove curse, suggestion, touch of idiocy
+
 **Fate Drain** (curse, divine, mental) A creature damaged by the theletos's tentacle must succeed at a DC 22 Will save or become stupefied 1. As long as the creature is stupefied, it can no longer benefit from fortune effects. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours.
 
 **Wrath of Fate** ◆◆ (curse, divine, mental, misfortune) The theletos releases a 60-foot cone of energy from its center. Creatures in the cone become overwhelmed with the knowledge of various fates that destiny has in store for them and lack of clear pathways to these potential futures. They must succeed at a DC 26 Will save or be slowed 1 indefinitely. An affected creature can choose to roll twice when it attempts an attack, saving throw, or skill check and take the lower result. Regardless of the outcome, that creature is no longer slowed after that roll. The theletos can't use Wrath of Fate again for 1d4 rounds.

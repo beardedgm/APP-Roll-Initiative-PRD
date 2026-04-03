@@ -35,6 +35,20 @@ Speed 25 feet, fly 35 feet
 
 **Innate divine Spells** (DC 34)
 
+  **1st** charm
+
+  **2nd** detect alignment
+
+  **3rd** mind reading
+
+  **4th** dimension door, suggestion
+
+  **5th** dimension door
+
+  **6th** dominate
+
+  **7th** warp mind
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) As succubus.
 
 **Grab Attention** ◆ (attack) Fate's Prophet attempts to Grapple a creature using Deception instead of Athletics. If the creature is willing, she grapples it automatically.

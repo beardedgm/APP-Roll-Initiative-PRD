@@ -29,4 +29,8 @@ Speed 10 feet, fly 40 feet
 
 **Innate primal Spells** (DC 17)
 
+  **Cantrips (1st)** dancing lights, ghost sound
+
+  **1st** ant haul
+
 **Sugar Rush** ◆ (manipulate) The melixie consumes a large quantity of sugar, honey, nectar, or similar sweets and goes into a frenzied state. The melixie immediately Strides or Flies. For the next 1d4+1 rounds, the melixie is quickened, and can use the additional action only to Stride or Fly. As soon as the rush ends, the melixie is fatigued for 1 minute.

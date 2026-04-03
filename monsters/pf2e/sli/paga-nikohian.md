@@ -37,7 +37,23 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 28), attack +21
 
+  **Cantrips (5th)** daze, detect magic, guidance, light, prestidigitation
+
+  **1st (3 slots)** alarm, charm, unseen servant
+
+  **2nd (3 slots)** hideous laughter, invisibility, touch of idiocy
+
+  **3rd (3 slots)** fear, paralyze, magic missile
+
+  **4th (3 slots)** phantasmal killer, soothe, vampiric touch
+
+  **5th (2 slots)** command, illusory scene
+
 **Bard Composition Spells** (DC 28)
+
+  **Cantrips (5th)** dirge of doom, inspire courage
+
+  **5th** counter performance
 
 **Feign Harmlessness** ◆ (emotion, enchantment, occult, visual) Paga cringes and cowers before a creature within 10 feet that can see her. The target must attempt a DC 28 Will save. The target is then temporarily immune for 1 hour. **Critical Success** No effect.
 **Success** The creature is fascinated by Paga until the end of its next turn.

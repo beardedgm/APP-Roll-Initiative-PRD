@@ -33,6 +33,14 @@ Speed 10 feet, fly 40 feet
 
 **Innate primal Spells** (DC 25)
 
+  **Cantrips (2nd)** guidance, know direction, stabilize
+
+  **1st** detect poison, purify food and drink
+
+  **2nd** remove fear, restore senses
+
+  **3rd** heal, remove disease
+
 **Bond with Mortal** ◆◆ (mental, necromancy, primal) As nimble green monkey, except HP increases by 14.
 
 **Bonded Strike** ◆◆ **Requirements** The spirit guide is currently Bonded with a Mortal; The spirit guide makes a talon Strike. If this attack hits, the bonded mortal can spend their reaction to Strike the same target.

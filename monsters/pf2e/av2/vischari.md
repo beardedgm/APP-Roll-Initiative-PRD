@@ -37,6 +37,12 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 22), attack +14
 
+  **1st** feather fall, ray of enfeeblement
+
+  **2nd** darkness, death knell
+
+  **3rd** fear
+
 **Immobilizing Blow** ◆◆ (incapacitation) Vischari makes a fist Strike that shuts down her target's motor control. The target must make a DC 25 Fortitude save. If the Strike was a critical hit, treat the target's save result as one degree worse. The target is then temporarily immune for 1 hour. **Critical Success** The target is unaffected.
 **Success** The target is stunned|CRB|stunned 1.
 **Failure** The target is paralyzed for 1 round.

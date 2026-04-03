@@ -37,6 +37,14 @@ Speed 20 feet, swim 40 feet
 
 **Innate arcane Spells** (DC 28)
 
+  **2nd** blur, illusory object
+
+  **4th** hydraulic push, hydraulic torrent, solid fog
+
+  **5th** control water, hallucinatory terrain
+
+  **7th** plane shift
+
 **Change Shape** ◆ (arcane, concentrate, polymorph, transmutation) The marid can take on the appearance of any water elemental or humanoid. This ability doesn't change the marid's Speed or its attack and damage bonuses with its Strikes.
 
 **Rush of Water** ◆◆ (arcane, evocation, water) The marid releases a jet of water in a 60-foot line, dealing 9d6 bludgeoning damage (DC 28 basic Reflex save). A creature that fails its save is also pushed 10 feet (20 feet on a critical failure). The marid can't use Rush of Water again for 1d4 rounds.

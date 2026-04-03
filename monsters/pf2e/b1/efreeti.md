@@ -33,6 +33,14 @@ Speed 25 feet, fly 35 feet
 
 **Innate arcane Spells** (DC 29), attack +19
 
+  **Cantrips (5th)** produce flame
+
+  **4th** gaseous form, invisibility
+
+  **5th** illusory object
+
+  **7th** plane shift
+
 **Burning Grasp** (fire) When the efreeti grabs a creature, that creature takes 2d6 fire damage, and takes 2d6 fire damage at the end of each of its turns as long as it remains grabbed.
 
 **Change Size** ◆◆ (arcane, concentrate, polymorph, transmutation) **Frequency** {"unit":"day","number":1}; The efreeti changes a creature's size. This works as a 4th-level enlarge or shrink spell but can target an unwilling creature (DC 29 Fortitude save negates).

@@ -38,4 +38,8 @@ Speed 20 feet
 
 **Innate divine Spells** (DC 20)
 
+  **Cantrips (3rd)** light
+
 **Champion Devotion Spells** (DC 20)
+
+  **3rd** lay on hands

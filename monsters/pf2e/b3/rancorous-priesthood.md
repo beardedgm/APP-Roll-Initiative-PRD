@@ -29,6 +29,12 @@ Speed 25 feet
 
 **Spontaneous divine Spells** (DC 27), attack +19
 
+  **Cantrips (6th)** daze, detect magic, divine lance
+
+  **5th (3 slots)** burning hands, fireball, hurtling stone
+
+  **6th (2 slots)** cry of destruction, destructive aura
+
 **Form Up** ◆
 
 **Troop Movement** Whenever the troop Strides, they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to their Speed. This works just like a Gargantuan creature moving; for instance, if any square of the troop enters terrain, the extra movement cost applies to the whole troop.

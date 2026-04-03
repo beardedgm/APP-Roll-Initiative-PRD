@@ -31,4 +31,10 @@ Speed fly 40 feet
 
 **Innate occult Spells** (DC 30)
 
+  **4th** nightmare, sleep
+
+  **5th** confusion, dimension door
+
+  **6th** fear, phantasmal killer, teleport
+
 **Frozen Nightmare** (curse, emotion, enchantment, fear, mental, occult) Ogmunzorius's touch fills the victim's mind with realistic hallucinations and visions of being stranded alone and naked in an endless expanse of ice. The only point of reference in this vision when it manifests are strange dark spires looming impossibly tall on the horizon. 

@@ -37,6 +37,12 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 23)
 
+  **1st** true strike
+
+  **2nd** invisibility, silence
+
+  **4th** dimension door
+
 **Dreadsong** ◆◆ (auditory, concentrate, fear, illusion, mental) The dreadsong dancer whirls their howling songblades and cloaks themself in illusion magic. Each non-fiend creature in a 30-foot emanation from the dreadsong dancer must attempt a DC 29 Will save. **Critical Success** No effect, and the creature is temporarily immune for 24 hours. The dreadsong dancer is affected by their performance anxiety.
 **Success** The creature is frightened|CRB|frightened 1.
 **Failure** The creature is frightened|CRB|frightened 2, and the dreadsong dancer is undetected by the creature for 1 minute. The creature can't use Seek to find the dreadsong dancer.

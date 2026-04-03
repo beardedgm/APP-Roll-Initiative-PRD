@@ -35,6 +35,10 @@ Speed 40 feet, climb 20 feet
 
 **Innate primal Spells** (DC 34), attack +26
 
+  **Cantrips (8th)** dancing lights
+
+  **8th** fire shield, searing lights
+
 **Dual Pounce** ◆◆ Grogrisant Strides and makes two claw Strikes against the same creature at the end of that movement. Each attack counts against Grogrisant's multiple attack penalty, but the penalty doesn't increase until after Grogrisant makes both attacks. If both attacks hit, combine their damage for the purpose of resistances and weaknesses.
 
 **Rend** ◆ Claw. If Grogrisant Rends after a successful Dual Pounce, combine the Rend's damage with that from the Dual Pounce for the purpose of resistances and weaknesses.

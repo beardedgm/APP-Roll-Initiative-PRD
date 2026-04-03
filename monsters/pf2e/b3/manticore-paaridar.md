@@ -35,6 +35,8 @@ Speed 40 feet, fly 20 feet
 
 **Monk Ki Spells** (DC 24)
 
+  **4th** ki rush, ki strike, wholeness of body
+
 **Flurry of Blows** ◆ **Frequency** {"unit":"round","number":1}; The paaridar makes two unarmed Strikes or two spike Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.
 
 **Limited Flight** The manticore paaridar's wings are small and weak, insufficient to keep them in the air. If the paaridar Flies using their wings, they fall at the end of their turn if they haven't landed.

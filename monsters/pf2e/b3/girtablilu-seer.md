@@ -33,6 +33,20 @@ Speed 40 feet
 
 **Spontaneous divine Spells** (DC 33)
 
+  **Cantrips (6th)** daze, detect magic, forbidding ward, guidance, read aura
+
+  **1st (3 slots)** create water, purify food and drink, sanctuary
+
+  **2nd (3 slots)** augury, calm emotions, create food
+
+  **3rd (3 slots)** dream message, glyph of warding, sanctified ground
+
+  **4th (3 slots)** freedom of movement, neutralize poison, outcast's curse
+
+  **5th (3 slots)** divine wrath, harm, remove curse
+
+  **6th (3 slots)** blade barrier, heal, spirit blast
+
 **Constrict** ◆ 3d8+6 bludgeoning, DC 24
 
 **Desert Stride** A girtablilu ignores natural terrain in the desert.

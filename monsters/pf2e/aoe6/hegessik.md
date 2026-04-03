@@ -41,6 +41,18 @@ Speed 30 feet, fly 30 feet, swim 30 feet
 
 **Innate divine Spells** (DC 38)
 
+  **2nd** detect alignment
+
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **6th** baleful polymorph, slow, teleport
+
+  **7th** dispel magic, plane shift
+
+  **8th** confusion, divine aura
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The hegessik takes the appearance of any Large or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.
 
 **Constrict** ◆ 2d8+14 bludgeoning, DC 36

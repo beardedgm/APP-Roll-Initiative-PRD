@@ -37,6 +37,12 @@ Speed 35 feet, fly 50 feet
 
 **Innate divine Spells** (DC 43)
 
+  **5th** dimension door
+
+  **7th** paralyze, regenerate
+
+  **9th** massacre, power word kill, vampiric exsanguination
+
 **Black Flame Knives** A vrolikai can manifest a dagger-shaped blade of what looks like crystallized black flame in each of their four hands. These weapons function as +2 greater striking daggers, although they fade away into nothingness 1 minute after a vrolikai no longer carries them.
 
 **Consume Death** ◆ (concentrate, divine, necromancy, visual) The vrolikai focuses their death-stealing gaze upon a single target they can see within 30 feet. The target must immediately attempt a Fortitude save against death-stealing gaze. **Success** The creature is unaffected.

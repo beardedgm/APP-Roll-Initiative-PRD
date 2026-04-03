@@ -37,6 +37,12 @@ Speed 40 feet, burrow 40 feet, climb 25 feet
 
 **Innate occult Spells** (DC 42)
 
+  **7th** hallucinatory terrain
+
+  **8th** disappearance, hallucination
+
+  **9th** overwhelming presence
+
 **Constrict** ◆ 3d10+17 piercing.
 
 **Eat Away** A creature that begins its turn inside Iffdahsil takes 10d6 negative damage. Iffdahsil gains temporary HP for 1 minute equal to half the damage dealt.

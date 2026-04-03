@@ -33,6 +33,8 @@ Speed 10 feet, fly 60 feet
 
 **Innate primal Spells** (DC 30)
 
+  **Cantrips (4th)** detect magic
+
 **Push** ◆
 
 **Concussive Blow** ◆◆ (evocation, primal, sonic) The harmona makes a beak Strike, channeling disruptive sound waves into the blow. On a hit, the target must succeed at a DC 30 Fortitude save or become stunned 1 (stunned 2 on a critical failure). After this Strike, the harmona can Fly up to half their fly Speed.

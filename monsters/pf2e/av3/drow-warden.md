@@ -35,6 +35,10 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 19)
 
+  **Cantrips (2nd)** dancing lights
+
+  **2nd** darkness, faerie fire
+
 **Hampering Slash** A target damaged by the warden's melee Strike must succeed at a DC 21 Fortitude save or be slowed|CRB|slowed 1 until the end of the warden's next turn.
 
 **Sneak Attack** A warden deals an extra 1d6 damage to flat-footed creatures.

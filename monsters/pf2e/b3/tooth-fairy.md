@@ -33,4 +33,8 @@ Speed 10 feet, fly 25 feet
 
 **Innate primal Spells** (DC 13)
 
+  **Cantrips (1st)** mage hand
+
+  **1st** sleep
+
 **Tooth Tug** ◆ (manipulate) **Requirements** The tooth fairy's last action was a successful pliers Strike against a creature with teeth; The tooth fairy tugs on the creature's teeth, dealing 2 persistent bleed damage to the creature.

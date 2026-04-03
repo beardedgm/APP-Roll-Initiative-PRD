@@ -33,6 +33,8 @@ Speed 25 feet
 
 **Innate arcane Spells** (DC 27)
 
+  **1st** charm
+
 **Constrict** ◆ 1d10+9 piercing, DC 26 (grabbed by jaws only)
 
 **Head Spin** ◇ The kishi switches between showing their attractive human face and their snarling hyena face. A kishi can use their innate spell and their Deception and Diplomacy skills only when their human face is showing, and they can use their jaws Strike only when their hyena face is showing.

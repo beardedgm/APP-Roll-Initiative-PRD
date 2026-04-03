@@ -31,6 +31,10 @@ Speed 25 feet, fly 25 feet
 
 **Innate arcane Spells** (DC 38)
 
+  **5th** locate
+
+  **9th** bind soul
+
 **Aluum Antimagic** Spiritbound aluum are immune to spells and magical abilities, with two exceptions. A negative spell or magical ability grants a spiritbound aluum the quickened condition until the end of its next turn instead of its normal effects. A positive spell or ability makes a spiritbound aluum slowed|CRB|slowed 1 until the end of its next turn instead of its normal effects.
 
 **Obliteration Beam** ◆◆ (arcane, evocation, force) **Requirements** The spiritbound aluum has bound a soul using its bind soul innate spell; The spiritbound aluum transforms the captured soul's essence into raw magical energy, channeling the spirit into a beam that deals 20d6 force damage in a 30-foot line (DC 38 basic Reflex save). The remaining fragments of the captured soul are released to the Great Beyond. The spiritbound aluum can't use Obliteration Beam again for 1d4 rounds.

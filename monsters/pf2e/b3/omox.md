@@ -37,6 +37,10 @@ Speed 40 feet, swim 80 feet, climb 20 feet
 
 **Innate divine Spells** (DC 32)
 
+  **4th** dimension door
+
+  **5th** control water, create water, dimension door, stinking cloud
+
 **Liquid Leap** ◆◆ (concentrate, conjuration, teleportation) **Requirements** The omox is in a space of liquid; The omox teleports from its current space to any unoccupied space of liquid within 120 feet.
 
 **Slime Trap** A creature hit by an omox's slime ball must attempt a DC 32 Reflex save. **Success** The creature is unaffected.

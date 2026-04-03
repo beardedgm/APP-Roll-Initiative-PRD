@@ -43,6 +43,12 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 40)
 
+  **Cantrips (9th)** daze, sigil
+
+  **8th** command, mind blank, mind probe, teleport
+
+  **9th** darkness, divine wrath, prying eye
+
 **Focus Gaze** ◆ (concentrate, divine, enchantment, fear, mental, visual) The vincuvicar stares at a creature they can see within 30 feet. The creature must attempt a Will save against the alone and forgotten aura. If the creature was already enfeebled and slowed, on a failed save, its hopelessness causes it to be enfeebled 2 and unable to take the Escape action as long as they remain enfeebled. After attempting this save, the creature is then temporarily immune until the start of the vincuvicar's next turn.
 
 **Shackle** ◈ **Trigger** A creature within 60 feet is damaged by the vincuvicar's animated manacles Strike; The creature must attempt a DC 40 Reflex save. **Critical Success** 

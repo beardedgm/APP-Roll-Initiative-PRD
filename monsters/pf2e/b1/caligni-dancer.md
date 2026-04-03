@@ -37,6 +37,8 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 16)
 
+  **Cantrips (1st)** counter performance
+
 **Dancer's Curse** ◆ (curse, enchantment, occult, mental) The caligni dancer touches a foe and curses it. If the target fails a DC 18 Will save, it gains clumsy 1 and stupefied 1. The target is then temporarily immune for 24 hours. These conditions persist until the curse is removed. The victim can attempt a new DC 18 Will save once per hour to end the curse.
 
 **Sneak Attack** The caligni dancer deals 1d6 extra precision damage to flat-footed creatures.

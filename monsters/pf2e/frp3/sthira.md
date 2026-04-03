@@ -41,6 +41,12 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 39), attack +31
 
+  **Cantrips (10th)** ray of frost
+
+  **9th** polar ray, storm of vengeance, wall of ice
+
+  **10th** massacre
+
 **Frostbite** A creature that takes cold damage from a sthira's Strikes or aura must attempt a DC 42 Fortitude save. A creature that already has persistent cold damage from frostbite ignores this effect. **Critical Success** The creature is unaffected, and is temporarily immune to this ability for 1 hour.
 **Success** The creature is unaffected.
 **Failure** The creature takes 3d6 persistent cold damage.

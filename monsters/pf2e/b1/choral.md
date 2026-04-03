@@ -35,6 +35,14 @@ Speed 30 feet, fly 40 feet
 
 **Innate divine Spells** (DC 23), attack +13
 
+  **Cantrips (3rd)** ghost sound, inspire competence, inspire courage
+
+  **1st** counter performance
+
+  **2nd** invisibility, sound burst
+
+  **3rd** heal, remove curse, remove disease, remove fear, sound burst
+
 **Deafening Aria** On a critical hit with piercing hymn, the target is deafened for 1 minute.
 
 **Harmonize** ◆ The choral angel adds its harmony to a choral angel ally within its harmonizing aura. The ally can cast calm emotions or heroism on its next turn in place of its 3rd-level sound burst or heighten its 3rd-level sound burst by 1 level. If five different choral angels use Harmonize on the same choral angel ally, it can instead cast divine decree in place of its 3rd-level sound burst.

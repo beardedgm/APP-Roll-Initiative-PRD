@@ -35,6 +35,10 @@ Speed 25 feet, fly 35 feet
 
 **Innate divine Spells** (DC 25)
 
+  **Cantrips (4th)** detect magic
+
+  **4th** charm, dimension door, misdirection, outcast's curse, suggestion
+
 **Bubonic Plague** (disease)
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The pairaka can take the appearance of any Small or Medium humanoid or animal. This doesn't change her Speed or her attack and damage modifiers with the Strikes, but it might change the damage type her strikes deal.

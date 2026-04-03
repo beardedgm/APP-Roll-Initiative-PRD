@@ -35,6 +35,10 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 20), attack +12
 
+  **Cantrips (2nd)** detect magic, ghost sound
+
+  **2nd** darkness, sound burst
+
 **Intense Performer** When Nox has a musical instrument in hand, they can use Performance to Feint or Demoralize.
 
 **Sneak** Attack Nox deals an additional 1d6 precision damage to flat-footed creatures.

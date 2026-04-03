@@ -37,6 +37,12 @@ Speed 35 feet
 
 **Innate primal Spells** (DC 23)
 
+  **2nd** entangle, tree shape
+
+  **3rd** earthbind
+
+  **4th** speak with plants
+
 **Piercing Shot** ◆ The wood giant shoots an arrow at a target so that it glances off the first target to strike another target behind the first one. The wood giant chooses two targets in a direct line, one of which must be giving lesser cover to the other, then makes a single ranged Strike with its longbow against both targets. This attack ignores the lesser cover the first target provides to the second. The wood giant rolls damage only once, and applies it to each creature it hits.
 
 **Piercing** Shot counts as two attacks for the wood giant's multiple attack penalty.

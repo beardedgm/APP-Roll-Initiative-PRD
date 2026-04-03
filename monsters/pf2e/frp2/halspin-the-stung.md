@@ -33,4 +33,26 @@ Speed 25 feet, climb 10 feet
 
 **Spontaneous occult Spells** (DC 34)
 
+  **Cantrips (8th)** detect magic, forbidding ward, guidance, light, message
+
+  **1st (3 slots)** sanctuary, spirit link, true strike
+
+  **2nd (3 slots)** dispel magic, resist energy, silence
+
+  **3rd (3 slots)** haste, invisibility sphere, slow
+
+  **4th (3 slots)** blink, dimension door, fly
+
+  **5th (3 slots)** cloak of colors, shadow blast, shadow siphon
+
+  **6th (3 slots)** collective transposition, phantasmal calamity, vampiric exsanguination
+
+  **7th (3 slots)** dimensional lock, energy aegis, prismatic spray
+
+  **8th (2 slots)** scintillating pattern, uncontrollable dance
+
 **Bard Composition Spells** (DC 34)
+
+  **Cantrips (8th)** allegro, inspire courage
+
+  **8th** counter performance, inspire heroics, soothing ballad

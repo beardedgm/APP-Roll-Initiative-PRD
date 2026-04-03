@@ -44,6 +44,10 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 26)
 
+  **4th** darkness, dimension door
+
+  **5th** dimension door
+
 **Grievous Strike** ◆◆ (attack) The babau makes an attack with the intent of creating a particularly horrific and gory wound. It make a melee Strike. This counts as two attacks when calculating their multiple attack penalty. If this Strike hits, the babau deals an additional 1d6 damage and the creature struck is sickened 2 for 1 round; this sickened condition cannot be removed by retching.
 
 **Sneak Attack** A babau deals an additional 1d6 precision damage to flat-footed creatures.

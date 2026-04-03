@@ -41,6 +41,16 @@ Speed 35 feet, fly 70 feet
 
 **Innate divine Spells** (DC 44)
 
+  **Cantrips (10th)** telekinetic projectile
+
+  **5th** dimension door
+
+  **6th** dominate
+
+  **8th** dispel magic
+
+  **10th** dimension door, divine decree
+
 **Dimensional Dervish** A balor can cast their 5th-level innate dimension door with only a single action.
 
 **Dispelling Strike** ◇ **Trigger** The balor hits a creature, object, or spell effect with a weapon Strike.; **Frequency** {"unit":"round","number":1}; The balor casts an innate dispel magic on the target of the triggering Strike.

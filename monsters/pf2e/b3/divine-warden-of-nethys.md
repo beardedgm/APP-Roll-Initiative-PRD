@@ -33,7 +33,11 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 19)
 
+  **Cantrips (3rd)** daze
+
 **Divine Domain Spells** (DC 19)
+
+  **3rd** cry of destruction, protector's sacrifice
 
 **Faithful Weapon** staff, striking rune.
 

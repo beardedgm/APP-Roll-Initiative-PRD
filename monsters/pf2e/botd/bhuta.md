@@ -39,6 +39,18 @@ Speed fly 30 feet
 
 **Innate primal Spells** (DC 30), attack +22
 
+  **Cantrips (6th)** daze, tanglefoot
+
+  **3rd** animal vision
+
+  **4th** charm
+
+  **5th** command, vampiric touch
+
+  **6th** summon animal
+
+  **9th** nature's enmity
+
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The bhuta takes the form of a Large, Medium, or Small animal common to their bound area. This doesn't change the bhuta's Speed or attack and damage modifiers with their Strikes but might change the damage type their Strikes deal. No matter what form the bhuta takes, their feet remain backward and they cast no shadow. A bhuta in animal form is still incorporeal, though that isn't obvious just by looking at it.
 
 **Possess Animal** ◆◆ The bhuta attempts to possess an adjacent animal. They cast 9th-level heightened possession with the following changes: since the bhuta has no physical body, they're unaffected by that restriction. On a critical failure, the duration extends to 1 full day. While possessed by a bhuta, the animal casts no shadow.

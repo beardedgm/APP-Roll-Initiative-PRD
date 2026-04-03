@@ -37,6 +37,14 @@ Speed 25 feet, climb 25 feet
 
 **Prepared arcane Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** daze, detect magic, electric arc, shield, tanglefoot
+
+  **1st** magic missile, ray of enfeeblement
+
+  **2nd** acid arrow, dispel magic
+
+  **3rd** fireball, lightning bolt, wall of wind
+
 **Sarcophagus** ◆ (concentrate) Until the next time it acts, the scarecophagus appears to be a normal stone sarcophagus. It has an automatic result of 34 on Deception checks and DCs to pass as a sarcophagus.
 
 **Shifting Scuttle** ◇ **Frequency** {"number":1,"unit":"turn"}; The scarecophagus Steps up to 10 feet.

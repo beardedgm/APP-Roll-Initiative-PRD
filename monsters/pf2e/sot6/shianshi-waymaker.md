@@ -35,7 +35,21 @@ Speed 50 feet
 
 **Prepared arcane Spells** (DC 40), attack +32
 
+  **Cantrips (9th)** daze, detect magic, electric arc, produce flame, read aura
+
+  **5th** dimension door, sending, shadow walk
+
+  **6th** collective transposition, disintegrate, teleport
+
+  **7th** dimensional lock, plane shift, true target
+
+  **8th** eclipse burst, maze, unrelenting observation
+
+  **9th** dispel magic, foresight, telepathic demand
+
 **Innate arcane Spells** (DC 40)
+
+  **4th** darkness, earthbind
 
 **Claim Trophy** ◆ Shianshi claims the soul of a creature she killed within the last minute. This works like bind soul, except that no black sapphire is required and the soul is turned into a glowing blue light called a soul trophy. Anyone who kills Shianshi can then free the soul from any soul trophy by touching it and speaking the word for "freedom" in any language.
 

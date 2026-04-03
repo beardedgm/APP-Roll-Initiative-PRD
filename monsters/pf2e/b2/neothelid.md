@@ -39,6 +39,16 @@ Speed 30 feet, fly 50 feet
 
 **Innate occult Spells** (DC 38), attack +30
 
+  **Cantrips (8th)** daze, detect magic, mage hand, telekinetic projectile
+
+  **5th** mind probe, telekinetic haul
+
+  **6th** scrying, suggestion
+
+  **7th** phantasmal calamity, teleport
+
+  **8th** charm, suggestion, summon entity
+
 **Breath Weapon** ◆◆ (acid, evocation, occult) The neothelid breathes a spray of acid that deals 16d6 acid damage in a 60-foot cone (DC 38 basic Reflex save). The neothelid can't use Breath Weapon again for 1d4 rounds.
 
 **Instant Suggestion** ◈ **Trigger** A creature fails a Will save against a spell or effect created by the neothelid; The neothelid casts a suggestion spell it has available on the creature that failed its Will save.

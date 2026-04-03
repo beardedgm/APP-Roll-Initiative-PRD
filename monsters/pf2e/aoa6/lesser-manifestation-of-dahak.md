@@ -49,6 +49,12 @@ Speed 60 feet, fly 240 feet
 
 **Innate arcane Spells** (DC 46)
 
+  **Cantrips (9th)** detect magic, read aura
+
+  **4th** suggestion
+
+  **8th** wall of fire
+
 **Breath Weapon** ◆◆ (divine, evocation) Dahak|LOGM's manifestation breathes a blast of dragonstorm energy that deals 5d6 acid, 5d6 cold, 5d6 electricity, 5d6 fire, and 5d6 poison damage in a 60-foot cone (DC 46 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 
 **Draconic Frenzy** ◆◆ The dragon makes two claw Strikes and one wing Strike in any order.

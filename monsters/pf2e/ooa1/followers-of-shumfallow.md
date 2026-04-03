@@ -31,6 +31,8 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 14)
 
+  **4th** speak with plants
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The follower of Shumfallow transforms into a Small giant mushroom or patch of fungi. This ability otherwise uses the effects of tree shape.
 
 **Pack Attack** A follower of Shumfallow's Strikes deal an additional 1d4 damage to creatures that are within the reach of at least two of the follower's allies.

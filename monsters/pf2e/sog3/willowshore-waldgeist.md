@@ -33,4 +33,8 @@ Speed fly 30 feet
 
 **Innate primal Spells** (DC 22), attack +14
 
+  **Cantrips (4th)** tanglefoot
+
+  **3rd** wall of thorns
+
 **Lignify** (incapacitation, primal, transmutation) The touch of a waldgeist transforms flesh into wood. A living creature damaged by the waldgeist's lignifying root Strike must succeed at a DC 22 Fortitude save or become slowed 1 (or slowed 2 on a critical failure). Further failed saves against lignify increases the slowed condition. Once a creature's actions are reduced to 0 by lignify, that creature becomes petrified, except they're transformed into wood instead of stone.

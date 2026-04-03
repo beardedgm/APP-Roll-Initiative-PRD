@@ -39,6 +39,12 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 21)
 
+  **Cantrips (3rd)** produce flame
+
+  **3rd** dispel magic, fireball
+
+  **4th** dimension door
+
 **Breath Weapon** ◆◆ (divine, evocation, fire) The brimorak spits their boiling blood in a 20-foot line that deals 6d6 fire damage (DC 21 basic Reflex save). The brimorak can't use their Breath Weapon again for 1d4 rounds. The ground within this area becomes slippery, with the effects of a grease spell targeting an area until it's cleaned up or the brimorak is able to use their Breath Weapon again, whichever comes first.
 
 **Flaming Weapon** (divine, evocation, fire) A brimorak's hooves and any weapon they wield burst into flame, dealing an extra 1d6 fire damage with each hit. If they don't have a weapon, they can create a flaming sword of fire and steel (see flaming sword Strike in Melee entry above).

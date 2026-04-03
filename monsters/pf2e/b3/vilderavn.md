@@ -39,6 +39,10 @@ Speed 40 feet, fly 120 feet
 
 **Innate occult Spells** (DC 37)
 
+  **5th** crushing despair, modify memory, outcast's curse, suggestion
+
+  **8th** ethereal jaunt, suggestion
+
 **Bloodbird** (curse, occult) A creature hit by a vilderavn's melee attack becomes cursed. It takes 2d6 persistent bleed damage that's difficult to stanch. The DC to stop the bleeding using Administer First Aid is 35, and healing the creature to full HP doesn't automatically end the bleeding. Removing the curse ends the bleeding.
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation; page 304) The vilderavn takes on the appearance of a Small or Medium humanoid, wolf, dire wolf, or hybrid with both raven and wolf parts. The vilderavn can only use their jaws attack when in a form with a wolf's head, and their talon attack in a form with raven qualities. They can instead assume their raven knight form: a Medium humanoid in black full plate carrying a greatsword. They can use their jaws or talon Strikes only in a form that has that body part, and their greatsword only in knight form.

@@ -29,4 +29,12 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 23), attack +15
 
+  **Cantrips (3rd)** daze, detect magic, electric arc, ghost sound, shield
+
+  **1st** color spray, illusory disguise, illusory object, spider sting
+
+  **2nd** dispel magic, invisibility, mirror image, telekinetic maneuver
+
+  **3rd** haste, hypnotic pattern, vampiric touch
+
 **Sneak Attack** The Copper Hand illusionist deals 2d6 additional precision damage to flat-footed creatures.

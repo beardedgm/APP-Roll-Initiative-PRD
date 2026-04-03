@@ -31,7 +31,23 @@ Speed 25 feet
 
 **Spontaneous arcane Spells** (DC 32), attack +24
 
+  **Cantrips (6th)** chill touch, daze, prestidigitation, ray of frost, shield
+
+  **1st (4 slots)** illusory disguise, lock, magic missile, true strike
+
+  **2nd (4 slots)** blur, dispel magic, hideous laughter, touch of idiocy
+
+  **3rd (4 slots)** enthrall, haste, meld into stone, mind reading
+
+  **4th (4 slots)** dimension door, freedom of movement, outcast's curse, suggestion
+
+  **5th (4 slots)** cloak of colors, dispel magic, lightning bolt, prying eye
+
+  **6th (4 slots)** disintegrate, mislead, slow, vampiric touch
+
 **Sorcerer Bloodline Spells** (DC 32)
+
+  **6th** ancestral memories, arcane countermeasure, extend spell
 
 **Bloodline Magic** When Stirvyn casts a bloodline spell, a surge of ancestral memories grants either him or a target of the spell a +1 status bonus to skill checks for 1 round.
 

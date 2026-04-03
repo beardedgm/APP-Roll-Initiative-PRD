@@ -35,6 +35,16 @@ Speed 35 feet, fly 50 feet
 
 **Innate occult Spells** (DC 23), attack +15
 
+  **Cantrips (4th)** produce flame
+
+  **1st** gust of wind
+
+  **2nd** obscuring mist
+
+  **3rd** stinking cloud
+
+  **4th** dimension door, phantasmal killer
+
 **Accursed Breath** ◆◆ (curse, evocation, fire, occult) The Sandpoint Devil breathes a 30-foot cone of flame that deals 6d10 fire damage. Each creature in the area must attempt a DC 26 Reflex save. The.
 
 **Sandpoint** Devil can't use Accursed Breath for 1d4 rounds. **Critical Success** The creature is unaffected.

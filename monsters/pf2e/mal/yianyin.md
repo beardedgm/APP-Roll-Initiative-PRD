@@ -36,6 +36,14 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 25)
 
+  **Cantrips (4th)** dancing lights
+
+  **2nd** invisibility
+
+  **3rd** illusory disguise
+
+  **4th** confusion, phantasmal killer
+
 **Compel Condemned** ◆ (divine, enchantment, incapacitation, mental) The catrina telepathically compels a creature within 30 feet to approach and allow the catrina to kiss them, in preparation for using Kiss of Death. The target must attempt a DC 25 Will save. **Success** The creature is unaffected and is temporarily immune to Compel Condemned for 24 hours.
 **Failure** The creature must spend each of its actions to move closer to the catrina as quickly as possible, while avoiding obvious dangers. If the compelled creature is adjacent to the catrina, it stays still and doesn't act. If the creature takes any damage, the effect ends and the creature is temporarily immune to Compel Condemned for 24 hours. This effect lasts for 1 round, but if the catrina uses this ability again on subsequent rounds, it extend the duration by 1 round for all affected creatures.
 **Critical Failure** As failure, but damage does not end the effect.

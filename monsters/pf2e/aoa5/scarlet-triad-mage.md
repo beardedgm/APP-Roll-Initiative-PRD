@@ -31,4 +31,16 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 36), attack +30
 
+  **Cantrips (8th)** detect magic, message, ray of frost, read aura, shield
+
+  **5th** magic missile
+
+  **6th** purple worm sting, slow, teleport
+
+  **7th** energy aegis, fly, power word blind
+
+  **8th** horrid wilting, lightning bolt, mind blank
+
 **Innate divine Spells** (DC 36)
+
+  **2nd** darkness

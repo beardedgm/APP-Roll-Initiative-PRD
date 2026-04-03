@@ -39,6 +39,10 @@ Speed 40 feet, fly 120 feet
 
 **Innate occult Spells** (DC 30)
 
+  **2nd** detect alignment
+
+  **6th** shape stone, suggestion
+
 **Breath Weapon** ◆◆ (evocation, mental, occult) The dragon unleashes a roar charged with psychic energy, dealing 12d6 mental damage in a 30-foot cone (DC 30 basic Will save). The dragon can't use Breath Weapon again for 1d4 rounds.
 
 **Coiling Frenzy** ◆◆ The dragon makes one claw Strike and one tail Strike in either order, each against the same target. If either Strike hits, the dragon automatically Grabs the target.

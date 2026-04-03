@@ -33,4 +33,6 @@ Speed fly 30 feet
 
 **Innate occult Spells** (DC 14)
 
+  **Cantrips (1st)** daze, detect magic
+
 **Leech Thought** (healing, occult, polymorph, transmutation) While a creature is taking persistent mental damage from the ioton, the ioton takes the shape of a creature familiar to the target, such as an acquaintance, pet, or common animal, though the appearance is imperfect and grants no benefit to Impersonate an individual. While transformed, the ioton loses its incorporeal trait, immunities, and resistances, but it gains an unarmed melee Strike with a +6 attack modifier that deals 1d8+2 bludgeoning damage. The ioton immediately returns to its original form once no creature is taking persistent mental damage from it.

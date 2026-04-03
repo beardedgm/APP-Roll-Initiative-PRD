@@ -27,4 +27,8 @@ Speed 20 feet, fly 40 feet
 
 **Innate arcane Spells** (DC 17)
 
+  **1st** gust of wind
+
+  **2nd** blur
+
 **Breath Weapon** ◆◆ (air, arcane) The air mephit breathes sand and grit in a 15-foot cone that deals 2d6 slashing damage to each creature within the area (DC 17 basic Reflex save). The air mephit can't use Breath Weapon again for 1d4 rounds.

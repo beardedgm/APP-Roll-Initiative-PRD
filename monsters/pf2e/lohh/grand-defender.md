@@ -47,4 +47,8 @@ Speed 35 feet, burrow 35 feet
 
 **Innate divine Spells** (DC 36)
 
+  **5th** flame strike, repelling pulse
+
+  **6th** blade barrier
+
 **Hammer Storm** ◆◆ (divine, earth, evocation) **Frequency** {"unit":"day","number":1}; The Grand Defender unleashes a volley of warhammers that deal 12d8 bludgeoning damage in a 50-foot cone (DC 36 basic Reflex save). The Grand Defender can exclude any number of squares from the cone's area, preventing damage to creatures in those squares. Creatures that critically fail their save are pushed 10 feet away from the Grand Defender and knocked prone. The storm creates 24 Medium warhammers that persist after the attack and can be used by creatures. The Grand Defender can't use Hammer Storm for 1d4 rounds.

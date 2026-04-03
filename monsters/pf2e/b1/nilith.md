@@ -29,4 +29,12 @@ Speed 25 feet, climb 30 feet
 
 **Innate occult Spells** (DC 29)
 
+  **Cantrips (5th)** mage hand, message, read aura, shield
+
+  **3rd** mind reading
+
+  **4th** blink, confusion, crushing despair, dream message, invisibility, nightmare
+
+  **5th** hallucination, mind probe
+
 **Mind Crush** ◆ (enchantment, mental, occult) **Requirements** The nilith has a creature grabbed.; The nilith reaches into the mind of the grabbed creature and implants disjointed images of the victim's worst fears and nightmares. The grabbed creature takes 6d6 mental damage (DC 31 basic Will save). On a critical failure, the target is also affected as though by feeblemind, and it must attempt a second Will save against that effect.

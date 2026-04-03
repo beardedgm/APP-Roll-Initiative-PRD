@@ -39,6 +39,10 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 29), attack +23
 
+  **3rd** feather fall, ray of enfeeblement
+
+  **4th** death knell
+
 **Deadly Aim** ◆ (open) The urdefhan hunter makes a ranged Strike at a –2 penalty. The urdefhan deals 4 additional damage with this Strike.
 
 **Double Shot** ◆ **Requirements** The urdefhan hunter is wielding a ranged weapon with reload <0>; The urdefhan hunter makes two Strikes with the required weapon at a single target. These Strikes both count toward the urdefhan's multiple attack penalty, but the penalty doesn't increase until both attacks are resolved.

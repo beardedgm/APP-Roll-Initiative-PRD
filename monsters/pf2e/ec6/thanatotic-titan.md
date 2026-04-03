@@ -39,6 +39,16 @@ Speed 40 feet
 
 **Innate divine Spells** (DC 45)
 
+  **5th** sending
+
+  **6th** scrying
+
+  **7th** spell turning
+
+  **8th** dispel magic, spiritual epidemic, suggestion
+
+  **10th** massacre, meteor swarm
+
 **Godslayer** ◇ (divine) **Trigger** The titan damages a creature capable of using divine spells or abilities; The creature must attempt a DC 45 Will save. **Critical Success** The creature is unaffected.
 **Success** The creature can't use divine spells or abilities for 1 round and is frightened|CRB|frightened 2. Only powerful non-divine magic, such as wish, can undo this effect.
 **Failure** As success, but the duration is 1 minute.

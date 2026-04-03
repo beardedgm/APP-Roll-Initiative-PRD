@@ -35,6 +35,10 @@ Speed 30 feet, climb 30 feet
 
 **Innate occult Spells** (DC 40), attack +32
 
+  **7th** chilling darkness, darkness, mask of terror, plane shift
+
+  **9th** chilling darkness, eclipse burst, project image
+
 **Shadow** Plane only) 5th hallucinatory terrain (at will); 2nd invisibility (at will, self only); Constant (8th) freedom of movement.
 
 **Illusory Persona** The illusion created by the myrucarx's project image can resemble any Medium humanoid, including any specific individual it has seen, and has appropriate voice, scent, and mannerisms, allowing the myrucarx to use its Deception check to Impersonate that humanoid if it chooses.

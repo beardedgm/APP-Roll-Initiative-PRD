@@ -43,7 +43,35 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 41)
 
+  **Cantrips (10th)** detect magic, ghost sound, mage hand, read aura, sigil
+
+  **1st (4 slots)** charm, floating disk, illusory object, item facade
+
+  **2nd (4 slots)** augury, blur, hideous laughter, invisibility
+
+  **3rd (4 slots)** blindness, clairaudience, dispel magic, nondetection
+
+  **4th (4 slots)** clairvoyance, fly, read omens, suggestion
+
+  **5th (4 slots)** dispel magic, hallucination, shadow blast, synaptic pulse
+
+  **6th (4 slots)** feeblemind, mislead, repulsion, true seeing
+
+  **7th (5 slots)** duplicate foe, paralyze, visions of danger, warp mind
+
+  **8th (4 slots)** magic missile, phantasmal calamity, scintillating pattern, uncontrollable dance
+
+  **9th (4 slots)** dispel magic, foresight, overwhelming presence, telepathic demand
+
+  **10th (1 slots)** time stop
+
 **Innate divine Spells** (DC 41)
+
+  **Cantrips (10th)** dancing lights
+
+  **2nd** darkness, faerie fire
+
+  **8th** moment of renewal
 
 **Channel Rot** (divine, necromancy) Dyzallin can deliver insidious mummy rot through any weapons he wields.
 

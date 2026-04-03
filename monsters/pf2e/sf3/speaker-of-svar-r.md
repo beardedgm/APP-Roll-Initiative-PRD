@@ -31,6 +31,18 @@ Speed 30 feet
 
 **Innate primal Spells** (DC 42), attack +34
 
+  **Cantrips (10th)** light, guidance, produce flame, tanglefoot
+
+  **6th** chain lightning, slow
+
+  **7th** cloudkill, fly, heal
+
+  **8th** heal, mask of terror
+
+  **9th** disjunction, heal
+
+  **10th** chain lightning, heal
+
 **Befuddling Lash** (curse, enchantment, mental) When the Speaker damages a creature with her tail, a wave of befuddlement clouds the target's thoughts. The creature must succeed at a DC 42 Will save or become stupefied 1 (stupefied 2 on a critical failure) for 1 minute.
 
 **Manipulate Luck** ◆ (curse, primal) **Frequency** {"number":1,"unit":"day"}; The huldra touches another creature to manipulate the creature's luck. The creature must attempt a DC 42 Will save. On a failure, the huldra chooses good luck or bad luck. If the huldra chooses good luck, the affected creature can roll twice on one d20 roll within the next minute and use the higher result; this is a fortune effect. If the huldra chooses bad luck, the creature must roll twice and use the lower result on its next d20 roll; this is a misfortune effect.

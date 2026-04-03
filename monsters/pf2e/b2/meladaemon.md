@@ -37,6 +37,14 @@ Speed 25 feet, fly 50 feet
 
 **Innate divine Spells** (DC 31)
 
+  **1st** detect alignment
+
+  **4th** dimension door
+
+  **5th** dimension door, fear, magic missile
+
+  **6th** phantom pain
+
 **Daemonic Famine** (disease)
 
 **Withering Touch** (divine, evil, necromancy) When the meladaemon hits with a claw Strike or a creature begins its turn grabbed by the meladaemon, the creature must attempt a DC 30 Fortitude save. On a failure, the creature takes 1d6 negative damage and becomes fatigued. This fatigue ends when the creature drinks.

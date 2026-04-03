@@ -35,6 +35,10 @@ Speed fly 40 feet
 
 **Innate divine Spells** (DC 21)
 
+  **1st** detect alignment
+
+  **3rd** dream message
+
 **Inhabit Vessel** ◆◆ (manipulate) The spider touches and melds with its bonded vessel, bringing it to life. It can cease Inhabiting its Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, it loses its fly Speed and gains Immunities healing, nonlethal; Resistances physical 6 (except bludgeoning); Speed 25 feet, climb 25 feet; and the following Strike. - Melee 1 stone fangs 14 (finesse), Damage 2d8+7 piercing
 
 **Spirit Body** When not Inhabiting its Vessel, the stone spider is incorporeal and gains resistance 6 to all damage (except force damage and ghost touch; double resistance against non-magical).

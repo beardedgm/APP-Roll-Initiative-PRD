@@ -39,6 +39,14 @@ Speed 40 feet
 
 **Innate occult Spells** (DC 32), attack +24
 
+  **Cantrips (6th)** daze, ghost sound, message
+
+  **2nd** death knell, item facade
+
+  **5th** hallucination, phantasmal killer
+
+  **6th** vampiric exsanguination
+
 **Spread Decay** ◆ The shisagishin causes the flesh of any number of creatures grabbed or restrained by it to swiftly begin to decay. Each of those creatures must attempt a DC 32 Fortitude save. **Critical Success** The creature is unaffected.
 **Success** The creature takes 2d8 negative damage.
 **Failure** The creature takes 4d8 negative damage and is enfeebled 1.

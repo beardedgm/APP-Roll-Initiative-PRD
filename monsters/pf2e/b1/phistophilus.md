@@ -37,6 +37,18 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 31)
 
+  **Cantrips (7th)** detect magic
+
+  **3rd** mind reading
+
+  **4th** dimension door, private sanctum, silence
+
+  **5th** dimension door, fireball, illusory scene, lightning bolt, locate, mind probe, sending
+
+  **7th** plane shift
+
+  **10th** scrying
+
 **Draft Contract** ◆◆◆ (conjuration, divine, manipulate) The contract devil produces an infernal contract for a single living mortal. This contract can grant a wide range of abilities and effects, akin to the power of a wish spell but fulfilled to the letter by the contract devil. To receive any of those benefits, the mortal must willingly sign its true name to the contract. At that point, the mortal's soul is bound to the contract devil and Hell. While the contract is in effect, the victim can't be restored to life except by wish or similar magic. If the mortal is restored to life by those means, the contract devil knows which mortal came to life and can locate the creature or creatures who restored the mortal to life for 1 year, gaining the effects of a locate spell with unlimited range. Avoiding the terms of an infernal contract is difficult and often dangerous.
 
 **Infernal Investment** A contract devil can cast a 10th-level innate scrying spell at will, but only to target a creature with which it has a contract. The target automatically critically fails its save.

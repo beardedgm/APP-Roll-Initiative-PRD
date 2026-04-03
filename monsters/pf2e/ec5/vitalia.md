@@ -35,6 +35,10 @@ Speed 15 feet, swim 30 feet
 
 **Innate occult Spells** (DC 36)
 
+  **6th** status, vampiric touch
+
+  **8th** vampiric exsanguination
+
 **Constrict** ◆ 4d8+10 bludgeoning, DC 37
 
 **Forced Transfusion** ◆ **Requirements** The vitalia is grabbing a creature; The vitalia inserts some of its veins into the grabbed creature and pumps violently, rapidly exchanging the victim's blood with its own. Any diseases or poisons affecting the vitalia can be transmitted to the target creature, which must make a saving throw as though it had just been targeted with the original affliction. The inverse is true as well; the vitalia must successfully save against any diseases or poisons affecting the target or contract the affliction.

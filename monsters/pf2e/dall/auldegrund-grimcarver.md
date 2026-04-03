@@ -37,4 +37,12 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 22), attack +14
 
+  **1st** true strike
+
+  **2nd** undetectable alignment
+
+  **3rd** crisis of faith
+
+  **4th** glibness, summon animal
+
 **Cruel Shot** ◆◆ Auldegrund takes time to line up a shot with his bow and smiles cruelly as he makes a ranged Strike with it. If he hits, he deals 2d6 precision damage and 1d6 bleed damage. Even if he misses, he still deals 2d6 damage from the glancing blow. Only on a critical miss does his cruel shot deal no damage.

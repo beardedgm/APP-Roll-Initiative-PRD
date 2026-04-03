@@ -35,6 +35,8 @@ Speed 40 feet
 
 **Innate primal Spells** (DC 34)
 
+  **3rd** humanoid form
+
 **Spirit Charge** ◆◆ Sié Goluo Strides twice, then makes a horn Strike. On a hit, Sié Goluo creates a shock wave that deals 4d12 force damage in a 30-foot cone (DC 34 basic Reflex save). Creatures that fail their save are pushed away 5 feet (10 feet on a critical failure).
 
 **Spirit Steps** Sié Goluo ignores terrain and doesn't trigger traps with his movement.

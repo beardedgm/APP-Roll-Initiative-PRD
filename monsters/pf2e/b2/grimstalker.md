@@ -29,6 +29,12 @@ Speed 40 feet, climb 20 feet
 
 **Innate primal Spells** (DC 22), attack +14
 
+  **Cantrips (3rd)** tanglefoot
+
+  **2nd** entangle, pass without trace, tree shape
+
+  **3rd** earthbind, wall of thorns
+
 **Grimstalker Sap** (poison)
 
 **Woodland Stride** A grimstalker can always find a path, almost as if foliage parts before it. A grimstalker ignores terrain caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don't impede its progress.

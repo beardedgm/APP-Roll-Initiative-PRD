@@ -37,7 +37,15 @@ Speed 50 feet
 
 **Innate occult Spells** (DC 37)
 
+  **4th** dimension door
+
+  **8th** blink
+
 **Bard Composition Spells** (DC 37)
+
+  **Cantrips (8th)** inspire courage, inspire defense
+
+  **8th** lingering composition
 
 **Heartsong** (emotion, enchantment, mental, occult) A creature that takes mental damage from the love siktempora's emotional bolt must succeed at a DC 37 Will save or become fascinated by the siktempora until the end of the target's next turn. Hostile actions don't end this fascinated condition.
 

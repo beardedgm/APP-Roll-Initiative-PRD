@@ -35,6 +35,22 @@ Speed fly 30 feet
 
 **Innate arcane Spells** (DC 33), attack +27
 
+  **Cantrips (7th)** acid splash, detect magic, mage hand, ray of frost, shield
+
+  **1st** grease, magic missile, ray of enfeeblement
+
+  **2nd** acid arrow, glitterdust, mirror image
+
+  **3rd** blindness, paralyze, slow
+
+  **4th** confusion, lightning bolt, suggestion
+
+  **5th** fireball, magic missile, phantasmal killer
+
+  **6th** chain lightning, cone of cold, flesh to stone
+
+  **7th** power word blind, spell turning
+
 **Resonant Wail** ◆◆ (arcane, emotion, enchantment, mental, sonic) Talamira releases an anguish-filled cry of despair. All creatures within 30 feet must attempt a DC 33 Will save to resist. Talamira can't use Resonant Wail for 1d4 rounds. **Critical Success** The creature is unaffected.
 **Success** The creature wails with anguish for 3 rounds. The shrieks resonate within the room's wailing crystals, giving the crystals a +2 status bonus on attack rolls against that creature during this time.
 **Failure** As success, but the creature is slowed|CRB|slowed 1 for 1 minute as it sobs uncontrollably. If the creature is already slowed|CRB|slowed 1 by crushing despair, it is slowed|CRB|slowed 2 as long as it's under both effects simultaneously.

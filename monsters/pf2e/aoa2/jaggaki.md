@@ -39,6 +39,22 @@ Speed 35 feet
 
 **Prepared arcane Spells** (DC 34), attack +26
 
+  **Cantrips (7th)** acid splash, detect magic, mage hand, ray of frost, read aura, shield
+
+  **1st** grim tendrils, ray of enfeeblement
+
+  **2nd** magic missile, mirror image, telekinetic maneuver
+
+  **3rd** blindness, paralyze, slow
+
+  **4th** fly, lightning bolt, phantasmal killer
+
+  **5th** black tentacles, cloudkill, fireball
+
+  **6th** chain lightning, dispel magic, flesh to stone
+
+  **7th** cone of cold, eclipse burst
+
 **Bones of Stone** ◆ (arcane, earth, necromancy) **Frequency** {"number":1,"unit":"round"}; **Requirements** The target is standing on or adjacent to a stone surface.; Jaggaki calls upon unquiet spirits within the land, causing a giant skeletal arm made of jagged stone to reach out of a stone surface adjacent to a creature within 60 feet. Jaggaki makes a hand Strike against the target via this stone arm rather than using his own hand. If the Strike hits, it deals 4d6 additional bludgeoning damage.
 
 **Drain Phylactery** ◈ **Frequency** {"number":1,"unit":"day"}; Jaggaki taps into his phylactery's power to cast any arcane spell up to the highest level he can cast, even if the spell being cast is not one of his prepared spells. His phylactery doesn't need to be present for him to use this ability.

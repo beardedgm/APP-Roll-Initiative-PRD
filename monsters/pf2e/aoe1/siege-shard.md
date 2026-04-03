@@ -33,6 +33,10 @@ Speed fly 25 feet
 
 **Innate occult Spells** (DC 20), attack +12
 
+  **2nd** telekinetic maneuver
+
+  **3rd** meld into stone
+
 **Cantrips** (2nd) mage hand, telekinetic projectile.
 
 **Overwhelming Anguish** ◆◆ (emotion, enchantment, mental, occult) **Frequency** {"unit":"minute","number":1}; The siege shard emits a disorienting psychic blast. All creatures within a 15 feet take 4d6 mental damage (DC 20 basic Will save).

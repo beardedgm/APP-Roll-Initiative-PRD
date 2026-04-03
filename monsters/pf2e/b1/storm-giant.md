@@ -37,6 +37,12 @@ Speed 35 feet, swim 30 feet
 
 **Innate arcane Spells** (DC 33)
 
+  **3rd** levitate
+
+  **5th** control weather
+
+  **6th** chain lightning
+
 **Lightning** ◆◆◆ Blade three (electricity, evocation, primal) The storm giant raises one hand to the sky, channeling a bolt of lightning into the blade held in the other. The giant makes a greatsword Strike with a –2 circumstance penalty against each creature within its reach. It makes only one attack roll and compares the result against each creature's AC. This Strike deals an additional 3d12 electricity damage and counts as two attacks for the giant's multiple attack penalty.
 
 **Throw Rock** ◆

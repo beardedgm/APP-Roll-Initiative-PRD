@@ -39,6 +39,10 @@ Speed 30 feet, fly 120 feet, swim 30 feet
 
 **Innate arcane Spells** (DC 26)
 
+  **1st** charm
+
+  **2nd** entangle
+
 **Breath Weapon** ◆◆ (arcane, evocation, poison) The dragon breathes a toxic cloud that deals 9d6 poison damage in a 40-foot cone (DC 25 basic Fortitude save). It can't use Breath Weapon again for 1d4 rounds.
 
 **Draconic Frenzy** ◆◆ The dragon makes two claw Strikes and one horn Strike in any order.

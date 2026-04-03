@@ -35,6 +35,12 @@ Speed 25 feet, climb 25 feet
 
 **Prepared divine Spells** (DC 17), attack +11
 
+  **Cantrips (2nd)** daze, detect magic, divine lance, guidance, message
+
+  **1st** fear, heal, ray of enfeeblement
+
+  **2nd** entangle, sound burst
+
 **Shrieking Frenzy** ◇ (primal, transmutation) **Trigger** The charau-ka's turn begins; **Frequency** {"unit":"hour","number":1}; The charau-ka is quickened until the end of their turn and can use the extra action only to Stride or Strike. While in the frenzy, the charau-ka can't speak and automatically critically fails Stealth checks, due to their loud wailing.
 
 **Thrown Weapon Mastery** Any weapon a charau-ka throws gains the deadly <d6> weapon trait. Furthermore, when a charau-ka throws an improvised weapon, they do not take the –2 penalty for doing so, nor does they take a penalty for using a thrown improvised weapon with the nonlethal trait to make a lethal attack.

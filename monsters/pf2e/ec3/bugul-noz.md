@@ -39,6 +39,12 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 33)
 
+  **Cantrips (3rd)** dancing lights
+
+  **2nd** pass without trace
+
+  **3rd** blindness, wanderer's guide
+
 **Flail** ◆ The bugul noz swings its limbs about wildly. It makes up to three claw Strikes, each against a different creature and each with a –2 circumstance penalty. Its multiple attack penalty doesn't increase until after it makes all the attacks.
 
 **Forest Jaunt** The bugul noz ignores terrain in forests.

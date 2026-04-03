@@ -37,6 +37,12 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 28), attack +20
 
+  **2nd** invisibility
+
+  **3rd** wall of thorns
+
+  **4th** mirage, unfettered movement
+
 **Brush By** ◇ (flourish) **Trigger** Khasprickle leaves a square adjacent to an enemy; Khasprickle roughly brushes up against the enemy with his quills as he passes by. Khasprickle makes a melee quill Strike. On a success, he additionally Shoves the target.
 
 **Change Shape** ◆ (concentrate, polymorph, primal) Khasprickle takes on the physical form of a giant porcupine. His size changes to Medium, he loses his weapon Strikes, and he gains a quill Strike (+21 for 2d8+8 piercing plus 1d8 persistent poison).

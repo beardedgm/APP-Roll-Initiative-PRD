@@ -31,4 +31,8 @@ Speed 30 feet
 
 **Prepared arcane Spells** (DC 22), attack +14
 
+  **Cantrips (1st)** chill touch, daze, light, mage hand, prestidigitation, shield
+
+  **1st** ray of enfeeblement, true strike
+
 **Sword Cane Duelist** Each round, Pratchett can Strike once with each component of a sword cane without incurring the usual multiple attack penalty. Subsequent attacks incur the multiple attack penalty as usual.

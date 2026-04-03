@@ -33,6 +33,16 @@ Speed 25 feet, fly 60 feet
 
 **Innate divine Spells** (DC 37), attack +29
 
+  **2nd** invisibility, remove paralysis
+
+  **5th** breath of life, death ward, freedom of movement, restoration
+
+  **6th** blade barrier, dispel magic
+
+  **7th** charm, plane shift, power word blind, remove fear
+
+  **8th** dispel magic, divine wrath, earthquake, heal, power word stun, sunburst
+
 **Blade of Justice** ◆◆ The planetar makes a greatsword Strike against a target it detects as evil. If the target is evil, the Strike deals three extra weapon damage dice and deals 1d6 persistent good damage to the target. The planetar can convert all the physical damage from the attack into good damage.
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The planetar can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or Strikes.

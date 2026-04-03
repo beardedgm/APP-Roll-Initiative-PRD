@@ -39,6 +39,10 @@ Speed fly 20 feet
 
 **Innate occult Spells** (DC 23), attack +13
 
+  **Cantrips (3rd)** mage hand
+
+  **3rd** telekinetic maneuver
+
 **Frighten** ◆ (concentrate, emotion, fear, incapacitation, mental) **Requirements** The poltergeist must be invisible.; The poltergeist becomes visible, appearing as a skeletal, ghostlike humanoid. Each creature within 30 feet must attempt a DC 21 Will save, becoming frightened 2 on a failure. On a critical failure, it's also fleeing for as long as it's frightened. On a success, the creature is temporarily immune for 1 minute. At the start of its next turn, the poltergeist becomes invisible again.
 
 **Telekinetic Storm** ◆◆ (concentrate, evocation, occult) The poltergeist telekinetically throws numerous small objects, such as dozens of pieces of silverware or books, either spreading them out among multiple foes or directing them at one target. - When this effect is spread out among multiple foes, the poltergeist makes a telekinetic object Strike at a –2 penalty against each creature within 30 feet. These count as one attack for the poltergeist's multiple attack penalty, and the penalty doesn't increase until after all the attacks.

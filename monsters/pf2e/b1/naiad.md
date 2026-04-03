@@ -35,4 +35,6 @@ Speed 25 feet, swim 25 feet
 
 **Innate primal Spells** (DC 17)
 
+  **1st** charm, create water, tidal surge
+
 **Water Healing** ◆◆ (concentrate, healing, necromancy, primal) While within her bonded body of water (see water dependent above), the naiad heals 1 Hit Point every 10 minutes.

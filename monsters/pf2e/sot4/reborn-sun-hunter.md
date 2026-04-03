@@ -41,6 +41,10 @@ Speed 35 feet
 
 **Innate divine Spells** (DC 27), attack +19
 
+  **Cantrips (5th)** divine lance, message, shield, sigil
+
+  **5th** burning hands
+
 **Sneak Attack** The sun hunter's Strikes deal an additional 2d6 precision damage to flat-footed creatures.
 
 **Study Foe** ◆ The sun hunter reads a creature they can see within 30 feet to notice openings. The sun hunter attempts a Perception check against that creature's

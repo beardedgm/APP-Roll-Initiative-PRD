@@ -37,6 +37,10 @@ Speed 50 feet
 
 **Innate primal Spells** (DC 38)
 
+  **7th** dispel magic
+
+  **9th** disjunction
+
 **Dispelling Roar** ◆◆ (abjuration, auditory, emotion, fear, mental, primal) The leydroth unleashes a bestial roar that reverberates within a 30-foot emanation. It rolls an Intimidation check and compares the result to the Will DC of each creature in the area, with the effects of Demoralize. It also uses this result to attempt to counteract each spell or magical effect in the area, plus one item or effect on each creature in the area, with the effects of dispel magic. The leydroth can't use Dispelling Roar again for 1d4 rounds.
 
 **Dispelling Strike** ◇ (abjuration, primal) **Trigger** The leydroth hits a creature, object, or spell effect with a Strike; **Frequency** {"unit":"round","number":1}; The leydroth casts its innate dispel magic, targeting one effect on the creature struck.

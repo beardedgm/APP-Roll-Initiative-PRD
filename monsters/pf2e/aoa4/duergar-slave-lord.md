@@ -35,6 +35,8 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 33)
 
+  **2nd** enlarge, invisibility
+
 **Hunt Prey** ◆ (concentrate) The slave lord designates as its prey a single creature that they can see or hear or that they are Tracking. They gain a +2 circumstance bonus to Perception checks when they Seek their prey and a +2 circumstance bonus to Survival checks when they track their prey. They also ignore the penalty for making ranged attacks within their second range increment against their prey. The first time a slave lord hits their hunted prey in a round, they deal 2d8 additional precision damage. A slave lord can have only one prey designated at a time.
 
 **Hunter's Flurry** ◆ **Frequency** {"unit":"round","number":1}; The slave lord makes two bow Strikes or two melee Strikes, each using a different weapon. These Strikes must target the slave lord's prey. If both Strikes hit, combine their damage for the purpose of resistances and weaknesses.

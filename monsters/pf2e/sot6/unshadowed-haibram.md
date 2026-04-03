@@ -37,7 +37,29 @@ Speed 20 feet
 
 **Prepared arcane Spells** (DC 37), attack +29
 
+  **Cantrips (9th)** detect magic, electric arc, produce flame, ray of frost, shield
+
+  **1st** gust of wind, ray of enfeeblement, true strike
+
+  **2nd** endure elements, flaming sphere, obscuring mist
+
+  **3rd** fireball, lightning bolt, wall of wind
+
+  **4th** fly, gaseous form, wall of fire
+
+  **5th** fireball, mantle of the magma heart, telekinetic haul
+
+  **6th** chain lightning, flame vortex, repulsion
+
+  **7th** energy aegis, fly, true target
+
+  **8th** boil blood, disappearance, lightning bolt
+
+  **9th** fireball, implosion, meteor swarm
+
 **Innate occult Spells** (DC 40), attack +32
+
+  **9th** shadow blast, shadow siphon
 
 **Rupture Shadow** ◆◆ (acid, conjuration, occult, shadow) Haibram can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. He targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will save. Haibram can't use Rupture Shadow again for 1d4 rounds. **Critical Success** 
 **Success** 

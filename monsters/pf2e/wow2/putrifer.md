@@ -39,6 +39,10 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 28), attack +20
 
+  **Cantrips (5th)** puff of poison, tangle vine
+
+  **5th** entangling flora
+
 **Noxious Putrescence** (inhaled, poison)
 
 **Woodland Stride** The putrifer ignores difficult terrain and greater difficult terrain from non-magical foliage.

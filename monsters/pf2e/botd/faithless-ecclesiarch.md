@@ -35,7 +35,17 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** chill touch, daze, detect magic, read aura, shield
+
+  **1st** fear, magic missile, ray of enfeeblement
+
+  **2nd** darkness, dispel magic, resist energy
+
+  **3rd** harm, levitate, magic missile
+
 **Cleric Domain Spells** (DC 24)
+
+  **3rd** cry of destruction
 
 **Heretic's Smite** (divine, necromancy) While wielding the favored weapon of its former deity (such as a staff for an ex-Nethys herexen), the herexen's Strikes deal an additional 2d6 evil damage against creatures that can cast divine spells. This damages divine spellcasters who follow the herexen's former faith regardless of their alignment.
 

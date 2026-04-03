@@ -39,4 +39,6 @@ Speed 30 feet
 
 **Monk Ki Spells** (DC 29)
 
+  **5th** ki blast, ki rush, ki strike, wind jump
+
 **Stunning Flurry** ◆ **Frequency** {"number":1,"unit":"round"}; The Iroran mummy makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses, and the target must succeed at a DC 29 Fortitude save or be stunned 1 (or stunned 3 on a critical failure); this save has the incapacitation trait.

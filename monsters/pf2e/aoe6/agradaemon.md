@@ -37,6 +37,16 @@ Speed 40 feet, climb 40 feet
 
 **Innate divine Spells** (DC 41)
 
+  **1st** detect alignment
+
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **8th** volcanic eruption
+
+  **10th** massacre
+
 **Daemonic Pledge** ◆◆◆ (divine, healing, necromancy) **Frequency** {"unit":"day","number":1}; The agradaemon designates a single willing mortal as a pledged fanatic. That creature gains resistance to fire equal to its level, immunity to the agradaemon's choking smog aura, and smoke vision. The agradaemon can have up to 10 pledged fanatics at one time and can remove the status from any number of pledged fanatics as a free action with the concentrate trait. The status can also be removed with an atone ritual.
 
 **Proven Devotion** ◆ (concentrate, evil, fire) The agradaemon regains 15 Hit Points, and a pledged fanatic of the agradaemon's choice that it can see loses 15 Hit Points (no effects apply that would decrease this Hit Point loss). A pledged creature that dies in this way explodes and deals 9d10 fire damage in a 20-foot emanation (DC 41 basic Reflex save).

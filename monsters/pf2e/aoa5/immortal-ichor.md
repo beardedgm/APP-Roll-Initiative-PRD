@@ -33,7 +33,21 @@ Speed 20 feet, fly 20 feet
 
 **Innate divine Spells** (DC 37), attack +31
 
+  **Cantrips (7th)** telekinetic projectile
+
+  **1st** charm, command
+
+  **2nd** telekinetic maneuver
+
+  **3rd** mind reading
+
+  **6th** crisis of faith, telekinetic haul
+
+  **7th** charm, feeblemind, possession, suggestion
+
 **Cleric Domain Spells** (DC 37), attack +31
+
+  **8th** cry of destruction, destructive aura
 
 **Corrupt Ally** (divine, enchantment, mental) A creature that fails to save against an immortal ichor's charm spell becomes stupefied|CRB|stupefied 1. The stupefied value reduces by 1 every 24 hours. The first time each day a creature stupefied by the ichor's charm fails to save against another casting of the ichor's charm, the value of the condition increases by 1d4. If the stupefied condition ever equals the creature's Wisdom score, it becomes controlled by the ichor permanently; if it dies, it rises the next round as a zombie (of the GM's choice) under the ichor's control. If the ichor is killed, these zombies are destroyed.
 

@@ -35,4 +35,14 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** chill touch, detect magic
+
+  **2nd** darkness
+
+  **3rd** chilling darkness, grim tendrils
+
+  **4th** darkness
+
+  **5th** shadow walk
+
 **Sneak Attack** The caller deals an additional 2d6 precision damage to flat-footed creatures.

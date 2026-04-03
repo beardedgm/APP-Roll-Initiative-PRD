@@ -35,6 +35,10 @@ Speed 30 feet, climb 30 feet
 
 **Innate primal Spells** (DC 20)
 
+  **1st** longstrider
+
+  **2nd** spider climb
+
 **Bond with Mortal** ◆◆ (mental, necromancy, primal) **Frequency** {"number":1,"unit":"day"}; The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide's current and maximum Hit Points increase by 10, the spirit guide gains a +2 status bonus to attack and damage rolls, and the spirit guide and bonded mortal can communicate telepathically as long as they're on the same plane. The spirit guide can be bonded with only one mortal at a time, and can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond ends if the spirit guide or the mortal dies. This bond strengthens the spirit guide's connection to the Material Plane. While bonded, the spirit guide loses the incorporeal and spirit traits, loses their immunities and resistances, and changes their Strikes to deal the appropriate physical damage (typically piercing or slashing) instead of force damage.
 
 **Bonded Strike** ◆◆ **Requirements** The spirit guide is currently Bonded with a Mortal; The spirit guide makes a jaws Strike. If this attack hits, the bonded mortal can spend their reaction to Strike the same target.

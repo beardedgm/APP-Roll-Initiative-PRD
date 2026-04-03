@@ -33,6 +33,8 @@ Speed 30 feet
 
 **Innate primal Spells** (DC 16)
 
+  **Cantrips (1st)** dancing lights, detect magic, disrupt undead, tanglefoot
+
 **Double Slice** ◆◆ The Ekujae guardian makes two Strikes against the same target, one with each of their daggers. The guardian combines the damage of any attacks that hit and applies precision damage, resistance, and weaknesses only once. Both attacks count toward the guardian's multiple attack penalty, but the penalty increases only after both attacks.
 
 **Sneak Attack** (precision) 1d6

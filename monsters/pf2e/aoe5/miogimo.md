@@ -43,4 +43,18 @@ Speed 30 feet
 
 **Innate occult Spells** (DC 41)
 
+  **2nd** illusory creature
+
+  **3rd** enthrall
+
+  **4th** veil
+
+  **5th** hallucination, subconscious suggestion
+
+  **6th** dominate, zealous conviction
+
 **Prepared occult Spells** (DC 39)
+
+  **6th** blade barrier, mislead
+
+  **7th** freedom of movement

@@ -31,6 +31,18 @@ Speed 20 feet, swim 25 feet
 
 **Spontaneous primal Spells** (DC 28), attack +20
 
+  **Cantrips (5th)** acid splash, detect magic, light, read aura, tanglefoot
+
+  **1st (3 slots)** fleet step, grease, mending
+
+  **2nd (3 slots)** darkness, water walk, web
+
+  **3rd (3 slots)** animal vision, glyph of warding, stinking cloud
+
+  **4th (3 slots)** acid arrow, freedom of movement, summon elemental
+
+  **5th (2 slots)** cloudkill, hydraulic torrent
+
 **Soul-Shaking Croak** ◆◆ (sonic) Grouloop utters a powerful croak that deals 6d10 sonic damage to any non-boggard within a 30-foot emanation (DC 27 basic Fortitude save). A creature with the frightened condition that fails its saving throw increases its frightened condition by 1 (on a critical failure, the creature is also fleeing for as long as it is frightened). Grouloop can't use Soul-Shaking Croak again for 1d4 rounds.
 
 **Swamp Stride** Grouloop ignores terrain caused by swamp terrain features.

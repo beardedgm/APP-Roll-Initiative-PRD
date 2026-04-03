@@ -33,6 +33,8 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 27)
 
+  **5th** levitate
+
 **Blasphemous Invocation** ◆◆ (divine, necromancy, negative) While Bishop Keppira D'Bear lost her spellcasting abilities and other clerical powers upon being transformed into a strigoi, Urgathoa is pleased with the development and granted the fallen bishop a boon. In time, and if she's allowed to continue her undeath, the bishop may well regain many of her spellcasting powers as a cleric of Urgathoa, but until that time she can draw upon this connection to the goddess of undeath to utter a blasphemous invocation. When she does so, shadows within a 20-foot emanation from Bishop Keppira twist, writhe, and animate before lashing out. All living creatures in the area must attempt a DC 30 Fortitude save. Bishop Keppira cannot use Blasphemous Invocation again for 1d4 rounds. **Critical Success** 
 **Success** 
 **Failure** 

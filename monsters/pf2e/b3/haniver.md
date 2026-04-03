@@ -27,4 +27,8 @@ Speed 10 feet, fly 20 feet, swim 20 feet
 
 **Innate primal Spells** (DC 13)
 
+  **Cantrips (1st)** prestidigitation
+
+  **1st** fear, ventriloquism
+
 **Rearrange Possessions** ◆ (or) 2 (manipulate) The haniver attempts to Steal a small object off a target's person. If they succeed, they also rifle through and rearrange the contents of the target's pockets, pouches, and other containers. The next time the target attempts to draw a weapon or retrieve a worn item, doing so requires two Interact actions instead of one. The haniver can Steal an object that's closely guarded using this action without the –5 penalty, though not objects that would be extremely noticeable or time-consuming to remove. They can spend 2 actions instead of 1 to use this ability to Steal from a creature in combat or otherwise on guard.

@@ -35,6 +35,14 @@ Speed 50 feet, fly 50 feet
 
 **Innate divine Spells** (DC 36)
 
+  **4th** status
+
+  **5th** gentle repose
+
+  **6th** restoration, slow, tree stride
+
+  **7th** finger of death, haste, regenerate
+
 **Fleeting Blossoms** A toshigami's staff Strikes stir up fleeting cherry blossoms that bloom, wilt, and decay all in the space of an instant. On a hit, they deal an additional 1d6 mental damage, as well as an additional 1d6 negative damage to living creatures and an additional 1d6 positive damage to undead.
 
 **Swift Staff Strike** ◆◆ In a rapid series of movements, the toshigami unleashes a deadly assault. The toshigami makes three staff Strikes. The toshigami's multiple attack penalty doesn't increase until after they've made all three Strikes.

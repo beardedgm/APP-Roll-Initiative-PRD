@@ -37,6 +37,10 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 16)
 
+  **Cantrips (2nd)** dancing lights
+
+  **2nd** darkness, faerie fire
+
 **Quick Draw** ◆ The drow rogue draws a weapon using the Interact action, then Strikes with that weapon.
 
 **Sneak Attack** The drow rogue deals 1d6 extra precision damage to flat-footed creatures.

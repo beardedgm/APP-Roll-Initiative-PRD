@@ -47,4 +47,12 @@ Speed 20 feet, fly 20 feet
 
 **Innate occult Spells** (DC 33), attack +25
 
+  **Cantrips (7th)** ghost sound, message
+
+  **5th** dimension door, shatter
+
+  **6th** death knell, phantasmal killer
+
+  **7th** phantasmal calamity
+
 **Steal Soul** ◈ (death, necromancy, occult) **Trigger** Heh Shan-Bao casts death knell on a 10th- or lower-level creature; If the death knell kills the target, the target's eyes vanish, all fat drains from its body, and burnt brands manifest around the wrists as the target's soul is siphoned into the corrupted Willowshore mindscape. The target can't be returned to life through any means, even powerful magic like wish, until the corrupted Willowshore mindscape is destroyed.

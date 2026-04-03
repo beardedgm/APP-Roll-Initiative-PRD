@@ -41,6 +41,14 @@ Speed 25 feet, fly 60 feet
 
 **Innate divine Spells** (DC 34)
 
+  **Cantrips (7th)** detect magic
+
+  **4th** darkness, see invisibility
+
+  **6th** dispel magic, harm
+
+  **7th** plane shift
+
 **Constrict** ◆ 3d10+5 piercing, DC 33
 
 **Drain Magic** ◆ **Requirements** The vanyver's last action was a successful jaws Strike against a creature, object, or spell effect; The vanyver casts an innate dispel magic on the same target; if the target was a creature, the vanyver can target a spell affecting the creature instead. If a spell effect or item is successfully counteracted, the vanyver gains temporary Hit Points equal to double the counteract level of the effect that was counteracted.

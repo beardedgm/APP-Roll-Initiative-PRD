@@ -43,7 +43,31 @@ Speed 30 feet, climb 30 feet
 
 **Prepared divine Spells** (DC 37), attack +29
 
+  **Cantrips (8th)** guidance, know direction, sigil
+
+  **1st** alarm, ray of enfeeblement
+
+  **2nd** false life, silence, spiritual weapon
+
+  **3rd** blindness, crisis of faith, vampiric touch
+
+  **4th** harm, freedom of movement, spell immunity
+
+  **5th** shadow blast, spiritual guardian
+
+  **6th** true seeing, vampiric exsanguination
+
+  **7th** finger of death, mask of terror
+
 **Innate divine Spells** (DC 37)
+
+  **Cantrips (8th)** dancing lights, detect magic
+
+  **2nd** darkness, faerie fire
+
+  **3rd** dispel magic, levitate
+
+  **4th** darkness
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The vampire transforms into one of its animal forms or back into its normal form. Use the options in the aerial form and animal form spells as guidelines. Zinogyvaz can turn into a hunting spider or spider swarm only, and she keeps her fangs and web Strikes in either form.
 

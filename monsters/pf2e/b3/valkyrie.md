@@ -41,4 +41,10 @@ Speed 25 feet, fly 60 feet
 
 **Innate divine Spells** (DC 29)
 
+  **3rd** augury, sanctified ground, status, wanderer's guide
+
+  **6th** disrupting weapons, heal, heroism
+
+  **7th** plane shift
+
 **Storm of Battle** ◆◆ (divine, electricity, evocation) The valkyrie hurls her spear into the air, creating a massive storm in a 100-foot burst. Spears of lightning rain down upon enemies in the area, dealing 4d12 electricity damage (DC 32 basic Reflex save).

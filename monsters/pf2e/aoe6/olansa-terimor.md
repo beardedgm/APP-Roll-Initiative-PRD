@@ -41,6 +41,20 @@ Speed 40 feet
 
 **Innate divine Spells** (DC 47), attack +37
 
+  **4th** dimensional anchor, stoneskin
+
+  **5th** banishment
+
+  **6th** slow, teleport
+
+  **7th** energy aegis, finger of death
+
+  **8th** divine aura, moment of renewal
+
+  **9th** foresight
+
+  **10th** miracle
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) Olansa's true form is that of a monstrous spiderlike daemon. Olansa can still take on her former human appearance. This doesn't change her Speed or her attack and damage modifiers with her Strikes.
 
 **Sneak Attack** Olansa deals 4d6 extra precision damage to flat-footed creatures.

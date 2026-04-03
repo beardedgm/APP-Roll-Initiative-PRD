@@ -31,6 +31,10 @@ Speed 5 feet, swim 20 feet
 
 **Innate primal Spells** (DC 40)
 
+  **5th** control water
+
+  **9th** hydraulic torrent
+
 **Fast Swallow** ◈ **Trigger** The minchgorm Grabs a creature in its jaws; The minchgorm uses Swallow Whole.
 
 **Riptide** ◆◆ (conjuration, primal, water) Tentacles of water rise up and attempt to Grapple all enemies within 15 feet of the minchgorm. The minchgorm attempts an Athletics check against the Fortitude DC of each creature in the area. On a success, the creature is grabbed (Escape DC 40). On a critical success, or a success against a creature that is already grabbed, the target begins to drowning and suffocating.

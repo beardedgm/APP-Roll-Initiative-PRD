@@ -29,6 +29,14 @@ Speed 20 feet
 
 **Innate primal Spells** (DC 17)
 
+  **Cantrips (4th)** dancing lights, prestidigitation
+
+  **1st** ventriloquism
+
+  **3rd** mending
+
+  **4th** dimension door
+
 **Baffling Bluff** ◆◆ (emotion, enchantment, mental, primal) The brownie's antics can confuse and disorient a creature. When the brownie uses.
 
 **Baffling** Bluff, it targets a single creature within 30 feet; that creature must attempt a DC 17 Will save. The target is temporarily immune to Baffling Bluff for 1 minute. **Critical Success** The target is unaffected.

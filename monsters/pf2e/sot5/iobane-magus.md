@@ -35,7 +35,17 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 33), attack +25
 
+  **Cantrips (7th)** chill touch, daze, detect magic, electric arc, produce flame
+
+  **4th** dimension door, true strike
+
+  **6th** chain lightning, disintegrate
+
+  **7th** dimensional lock, prismatic spray
+
 **Magus Conflux Spells**
+
+  **7th** dimensional assault
 
 **Iobane Vision** (fortune) As Warder-Chief Mpondo.
 

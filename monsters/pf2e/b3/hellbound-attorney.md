@@ -35,4 +35,6 @@ Speed 20 feet
 
 **Innate divine Spells** (DC 21)
 
+  **1st** burning hands
+
 **Opening Statement** ◇ (auditory, concentrate) **Trigger** The Hellbound attorney's turn begins; The attorney enumerates the alleged crimes of a creature they can see and attempts a Legal Lore check against that creature's Will DC. On a success, the attorney's Strikes deal an additional 2d6 precision damage (4d6 precision damage on a critical success) to the creature until the end of the attorney's turn.

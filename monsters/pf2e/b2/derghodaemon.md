@@ -31,6 +31,14 @@ Speed 35 feet
 
 **Innate divine Spells** (DC 32)
 
+  **1st** detect alignment
+
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **6th** blade barrier, feeblemind
+
 **Derghodaemon's Stare** ◆ (divine, emotion, enchantment, incapacitation, mental, visual) A non-evil target must succeed at a DC 32 Will save or become confused for 1 round, or 1 minute on a critical failure. It is temporarily immune for 10 minutes.
 
 **Rend** ◆ (claw)

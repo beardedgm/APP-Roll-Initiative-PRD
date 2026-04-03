@@ -35,4 +35,10 @@ Speed 30 feet, climb 20 feet
 
 **Innate primal Spells** (DC 21)
 
+  **Cantrips (2nd)** daze, produce flame
+
+  **2nd** augury, burning hands, flaming sphere, purify food and drink
+
+  **4th** read omens
+
 **Raise Grain Cloud** ◆◆ While in their bound storeroom or granary, the ovinnik slams a paw against the ground, stirring up a cloud of grain dust in an 20-foot emanation. Within this cloud, they gain a +4 status bonus to any fire damage they deal. The ovinnik doubles their fire resistance against this increased damage. The grain cloud dissipates after the first such effect or after 1 minute if no such effects occur.

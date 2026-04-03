@@ -33,6 +33,12 @@ Speed 20 feet
 
 **Innate primal Spells** (DC 20)
 
+  **Cantrips (2nd)** dancing lights
+
+  **1st** fear
+
+  **2nd** shatter
+
 **Bully's Bludgeon** ◆ The spriggan bully makes a morningstar Strike with a +2 circumstance bonus to its attack roll. This attack is nonlethal.
 
 **Sneak Attack** The spriggan bully's Strikes deal an additional 1d6 precision damage to flat-footed creatures.

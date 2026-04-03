@@ -33,6 +33,16 @@ Speed 25 feet, swim 50 feet
 
 **Innate primal Spells** (DC 41), attack +33
 
+  **2nd** invisibility, obscuring mist
+
+  **5th** control water
+
+  **6th** baleful polymorph
+
+  **8th** charm, fire seeds
+
+  **9th** hydraulic torrent, nature's enmity
+
 **Beckoning Dance** ◆ (concentrate, enchantment, incapacitation, mental, primal, visual) The riekanoy sways in a compelling fashion. Each non-fey creature within a 300-foot emanation that can see the riekanoy must attempt a DC 38 Will save. The effect lasts for 1 round, but if the riekanoy uses Beckoning Dance again on subsequent rounds, the duration extends by 1 round for all affected creatures. Once a creature succeeds at any save against Beckoning Dance, that creature is temporarily immune for 24 hours. **Success** 
 **Failure** 
 **Critical Failure** 

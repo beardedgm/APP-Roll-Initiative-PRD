@@ -41,6 +41,12 @@ Speed 40 feet, fly 150 feet, burrow 20 feet
 
 **Innate arcane Spells** (DC 33)
 
+  **Cantrips (6th)** ghost sound
+
+  **1st** create water
+
+  **6th** illusory creature, illusory object, ventriloquism
+
 **Breath Weapon** ◆◆ (arcane, electricity, evocation) The dragon breathes lightning that deals 9d12 electricity damage in a 100-foot line (DC 33 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 
 **Desert Thirst** (arcane, transmutation) When casting create water, the dragon can attempt to destroy liquid instead of creating it, turning an equal amount of liquid into sand. This destroys liquid magic or alchemical items if they're of a lower level than the dragon (a creature can attempt a DC 32 Will save to protect all liquids in its possession). This doesn't affect the liquids in a creature's body.

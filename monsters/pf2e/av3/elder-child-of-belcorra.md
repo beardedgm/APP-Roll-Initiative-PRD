@@ -35,6 +35,16 @@ Speed 20 feet
 
 **Prepared primal Spells** (DC 28), attack +20
 
+  **Cantrips (5th)** acid splash, detect magic, prestidigitation, produce flame, read aura
+
+  **2nd** acid arrow, entangle, glitterdust
+
+  **3rd** blindness, glyph of warding, meld into stone
+
+  **4th** air walk, barkskin, freedom of movement
+
 **Innate primal Spells** (DC 28)
+
+  **1st** illusory disguise
 
 **Bog Rot** (curse, disease, divine, necromancy, negative)

@@ -41,6 +41,8 @@ Speed 40 feet, fly 100 feet
 
 **Innate arcane Spells** (DC 28)
 
+  **1st** detect alignment
+
 **Breath Weapon** ◆◆ The silver dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 rounds. - Frost (arcane, cold, evocation); The dragon breathes a cloud of frost in a 30-foot cone that deals 10d6 cold damage (DC 29 basic Reflex save).
 - Paralyzing Gas (arcane, enchantment, incapacitation); The dragon breathes a blast of paralyzing gas. Each creature within a 30-foot cone must succeed at a DC 29 Fortitude save or be slowed 1 for 1 round (or paralyzed for 1 round on a critical failure).
 

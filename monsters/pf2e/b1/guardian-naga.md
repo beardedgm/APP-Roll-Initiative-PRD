@@ -29,4 +29,16 @@ Speed 25 feet
 
 **Spontaneous divine Spells** (DC 29), attack +21
 
+  **Cantrips (5th)** daze, detect magic, light, mage hand, ray of frost, read aura, stabilize
+
+  **1st (4 slots)** bless, heal, protection, spirit link
+
+  **2nd (4 slots)** calm emotions, restoration, see invisibility, sound burst
+
+  **3rd (4 slots)** dispel magic, neutralize poison, remove disease, searing light
+
+  **4th (4 slots)** air walk, freedom of movement, remove curse, restoration
+
+  **5th (4 slots)** breath of life, death ward, flame strike, heal
+
 **Guardian Naga Venom** (poison)

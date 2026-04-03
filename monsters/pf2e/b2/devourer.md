@@ -31,6 +31,16 @@ Speed 30 feet, fly 30 feet
 
 **Innate occult Spells** (DC 31)
 
+  **1st** harm
+
+  **2nd** death knell
+
+  **3rd** bind undead, paralyze
+
+  **4th** confusion, suggestion
+
+  **6th** feeblemind, true seeing
+
 **Devour Soul** ◆◆ (death, divine, necromancy) The devourer touches a creature within reach, dealing 8d6 negative damage (DC 31 basic Fortitude save). If a creature is slain by this attack, its soul becomes trapped within the devourer. While its soul is trapped, a creature can't be resurrected except by powerful magic such as a wish spell. Destroying the devourer or successfully counteracting Devour Soul (see Spell Deflection above) releases the soul. The devourer can hold only one soul at a time. A soul has 5 soul charges per level of the originating creature (see Soul Spells below). The devourer can expend these charges to cast spells. If the soul is freed and the creature returns to life, the creature is drained 1 for every 5 soul charges expended. If reduced to 0 soul charges, the soul is consumed and can be restored to life only by powerful magic such as wish.
 
 **Drain Life** (divine, necromancy) When the devourer damages a living creature with its claw Strike, the devourer gains 10 temporary Hit Points and the creature must succeed at a DC 24 Fortitude save or become drained 1. Further damage dealt by the devourer increases the condition value by 1 on a failed save, to a maximum of drained 4.

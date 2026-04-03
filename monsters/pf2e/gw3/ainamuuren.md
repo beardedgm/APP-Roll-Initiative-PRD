@@ -39,6 +39,12 @@ Speed 35 feet
 
 **Innate occult Spells** (DC 32), attack +24
 
+  **Cantrips (6th)** daze
+
+  **5th** black tentacles, synaptic pulse
+
+  **6th** feeblemind, phantasmal calamity
+
 **Dreams of the Blackfrost Whale** ◆◆ (enchantment, incapacitation, mental) **Frequency** {"number":1,"unit":"day"}; Ainamuuren fixes his many-eyed gaze upon a single target he can see within 60 feet, then opens wide his maw to release a torrent of whispers channeled from Osoyo's slumbering mind. The targeted creature must attempt a DC 32 Will save. **Critical Success** 
 **Success** 
 **Failure** 

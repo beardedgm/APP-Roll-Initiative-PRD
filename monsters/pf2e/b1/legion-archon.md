@@ -39,6 +39,12 @@ Speed 30 feet, fly 60 feet
 
 **Innate divine Spells** (DC 24)
 
+  **Cantrips (4th)** light, message
+
+  **1st** true strike
+
+  **4th** dimension door
+
 **Archon's Door** Once per day, if an archon sees another creature cast dimension door, it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door.
 
 **Flame of Justice** (divine, evocation) A legion archon's spirit of righteousness manifests in its hands as a mighty two-handed sword called the flame.

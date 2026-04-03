@@ -35,6 +35,20 @@ Speed 25 feet, climb 25 feet
 
 **Prepared occult Spells** (DC 30), attack +22
 
+  **Cantrips (6th)** daze, mage hand, read aura, sigil, telekinetic projectile
+
+  **1st** bane, command, unseen servant
+
+  **2nd** blur, darkness, telekinetic maneuver
+
+  **3rd** false life, hypercognition, mind reading, paralyze
+
+  **4th** agonizing despair, fly, suggestion, talking corpse
+
+  **5th** command, mind probe, subconscious suggestion, synaptic pulse
+
+  **6th** dominate, shadow blast
+
 **Grab**
 
 **Control Comatose** (exploration, incapacitation, mental, necromancy, occult, possession)

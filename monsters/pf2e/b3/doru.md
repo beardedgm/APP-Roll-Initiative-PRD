@@ -31,4 +31,12 @@ Speed 15 feet, fly 30 feet
 
 **Innate divine Spells** (DC 17)
 
+  **Cantrips (1st)** detect magic
+
+  **1st** charm, illusory object
+
+  **2nd** invisibility
+
+  **4th** read omens
+
 **Doru Venom** (poison)

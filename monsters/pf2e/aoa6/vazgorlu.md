@@ -38,6 +38,10 @@ Speed 30 feet, climb 30 feet
 
 **Innate arcane Spells** (DC 35)
 
+  **4th** dimension door
+
+  **7th** plane shift, teleport
+
 **Dimensional Tether** A creature hit by a vazgorlu's web Strike is immobilized and stuck to the nearest surface until it Escapes (DC 42). As long as it remains immobilized by the web, the web attempts to counteract any effect that would move the webbed creature to another plane, with a counteract level of 10 and using the vazgorlu's Arcana skill to attempt the counteract check.
 
 **Demiplane Lair** A vazgorlu maintains a 30-foot-diameter demiplane in the Astral Plane. Gravity in this demiplane pulls out from the center, so that creatures can walk upon the inner surface. A vazgorlu's demiplane lair lacks a built-in point of exit, and if the vazgorlu fails to visit the demiplane during a 24-hour period, the demiplane collapses—all objects and creatures within are then returned to their original locations in the multiverse before they entered the demiplane. A vazgorlu can create a replacement demiplane lair with 24 hours of concentration.

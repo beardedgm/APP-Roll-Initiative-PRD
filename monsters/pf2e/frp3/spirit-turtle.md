@@ -35,6 +35,20 @@ Speed 30 feet, swim 40 feet
 
 **Innate primal Spells** (DC 44)
 
+  **4th** heal, vital beacon
+
+  **5th** breath of life
+
+  **6th** restoration
+
+  **7th** plane shift, regenerate
+
+  **8th** moment of renewal
+
+  **9th** field of life
+
+  **10th** primal phenomenon, revival
+
 **Constrict** ◆ 4d12+7 bludgeoning, DC 41
 
 **Environmental Balance** ◇ (evocation, primal) **Trigger** The spirit turtle begins their turn; The spirit turtle harnesses their connection with the world around them to augment their attacks. They choose acid, cold, electricity, or fire. The energy damage dealt by their Strikes and Unbalancing Stomp changes to the selected energy type.

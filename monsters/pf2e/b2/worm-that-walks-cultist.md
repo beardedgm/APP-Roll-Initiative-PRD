@@ -35,6 +35,22 @@ Speed 30 feet
 
 **Spontaneous occult Spells** (DC 34), attack +26
 
+  **Cantrips (7th)** daze, detect magic, light, mage hand, shield
+
+  **1st (4 slots)** charm, illusory disguise, mindlink, ray of enfeeblement
+
+  **2nd (4 slots)** comprehend language, illusory creature, mirror image, undetectable alignment
+
+  **3rd (4 slots)** dream message, haste, hypercognition, slow
+
+  **4th (4 slots)** dimension door, modify memory, suggestion, veil
+
+  **5th (4 slots)** black tentacles, mind probe, phantom pain, subconscious suggestion
+
+  **6th (4 slots)** dispel magic, dominate, paranoia, summon entity
+
+  **7th (3 slots)** phantasmal killer, visions of danger, warp mind
+
 **Squirming Embrace** ◆ 5d8 piercing, DC 32
 
 **Swarm Shape** ◆ (concentrate) The worm that walks collapses into a shapeless swarm of worms. It drops all held, worn, and carried items. While discorporated, the worm that walks can't use attack actions and can't cast spells, but it can move through areas small enough for its individual worms to fit without having to Squeeze. It can use the same action to coalesce back into its normal form.

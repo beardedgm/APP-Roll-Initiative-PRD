@@ -43,6 +43,12 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 36)
 
+  **Cantrips (6th)** dancing lights
+
+  **2nd** faerie fire
+
+  **4th** darkness
+
 **Devastating Blast** ◆◆ (arcane, cold, evocation) The graveknight unleashes a 30-foot cone of lightning. Creatures in the area take 8d12 cold damage (DC 36 basic Reflex save). The graveknight can use this ability once every 1d4 rounds.
 
 **Graveknight's Curse**

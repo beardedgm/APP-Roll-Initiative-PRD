@@ -33,4 +33,12 @@ Speed 30 feet, fly 60 feet
 
 **Innate primal Spells** (DC 28), attack +20
 
+  **Cantrips (5th)** dancing lights, light
+
+  **1st** illusory disguise
+
+  **2nd** faerie fire
+
+  **5th** heal, searing light
+
 **Create Golden Apple** ◆◆ (primal, transmutation) While the hesperid is within their bonded location, they can spin golden light around an object they're holding of up to 20 cubic feet in volume and up to 80 Bulk. Doing so condenses the object into a magic apple made of golden light with light Bulk. The golden apple reverts back to its original shape after a full day away from the hesperid's bonded location, or when the hesperid spends a single action (which has the concentrate trait) to end the effect.

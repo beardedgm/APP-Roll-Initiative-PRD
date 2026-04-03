@@ -33,6 +33,14 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 23)
 
+  **1st** charm
+
+  **2nd** heal, mirror image
+
+  **3rd** heroism
+
+  **4th** suggestion
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The gancanagh can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes, but might change the damage type their Strikes deal (typically to bludgeoning).
 
 **Invigorating Passion** ◆◆ (divine, emotion, enchantment, mental) The gancanagh embraces or kisses a willing creature, infusing that creature with their invigorating passion. The creature gains a +1 status bonus to attack rolls and 10 temporary Hit Points for 10 minutes. After that time, the target becomes fatigued for 10 minutes unless they succeed at a DC 21 Fortitude save.

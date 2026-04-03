@@ -39,6 +39,10 @@ Speed 40 feet
 
 **Champion Devotion Spells** (DC 29)
 
+  **1st** weapon surge
+
+  **4th** word of freedom
+
 **Challenge Foe** ◆ The einherji challenges one creature they can see to single combat, attempting to Demoralize that target. This target remains the einherji's foe until it's defeated, it flees, or the encounter ends. The einherji gains a circumstance bonus to damage equal to their number of weapon damage dice against their designated foe but takes an equivalent circumstance penalty to damage against any other creature. If the einherji is defeated by their challenged foe, the shame causes them to lose use of their champion devotion spells for 1 week or until they challenge the same foe again and emerge victorious, whichever comes first.
 
 **Jotun Slayer** The einherji has a +4 circumstance bonus to damage rolls made against giants and creatures that are at least two sizes larger than the einherji.

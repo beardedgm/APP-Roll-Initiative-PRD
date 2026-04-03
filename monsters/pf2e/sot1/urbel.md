@@ -35,6 +35,12 @@ Speed 30 feet, climb 20 feet
 
 **Innate primal Spells** (DC 21), attack +13
 
+  **Cantrips (2nd)** prestidigitation
+
+  **1st** grease, shocking grasp
+
+  **2nd** shatter
+
 **Bully** Any melee weapon Urbel uses gains the shove trait, and if he rolls a critical failure when attempting to Shove a creature with the weapon, he treats the result as a failure instead.
 
 **Pound Down** Urbel's melee Strikes deal an additional 1d6 damage to prone targets.

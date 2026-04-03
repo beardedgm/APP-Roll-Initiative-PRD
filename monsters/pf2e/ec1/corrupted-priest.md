@@ -33,4 +33,10 @@ Speed 25 feet
 
 **Prepared primal Spells** (DC 20), attack +12
 
+  **Cantrips (2nd)** light, produce flame, stabilize, tanglefoot
+
+  **1st** fear, heal, spider sting, summon animal
+
+  **2nd** barkskin, flaming sphere, summon elemental
+
 **Demonic Strength** Corrupted priests deal an extra 1d8 damage with their tridents, and any trident gains the fatal <d10> trait while the priest is using it (both the extra weapon damage die and the fatal trait have already been included above).

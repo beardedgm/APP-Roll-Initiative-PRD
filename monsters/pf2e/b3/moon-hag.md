@@ -35,6 +35,8 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 29)
 
+  **5th** confusion, fear, read omens, talking corpse, tongues
+
 **Dreadful Prediction** ◆ (curse, enchantment, occult, mental) Frequency once per round; The moon hag howls a series of dreadful, apocalyptic predictions at a single creature within 30 feet, shattering its perceptions of reality. The target must succeed at a DC 29 Will save or become stupefied 2 (stupefied 3 on a critical failure); regardless of the outcome, the creature is then temporarily immune for 24 hours. A creature that can see the moon takes a –2 circumstance penalty to saving throws against Dreadful Prediction. The stupefied condition from Dreadful Prediction persists until the curse is removed.
 
 **Rend** ◆ (claw) (page 306)

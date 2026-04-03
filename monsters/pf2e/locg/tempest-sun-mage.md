@@ -31,7 +31,23 @@ Speed 30 feet
 
 **Prepared arcane Spells** (DC 30), attack +20
 
+  **Cantrips (6th)** detect magic, light, mage hand, produce flame, tanglefoot
+
+  **1st** create water, fleet step, gust of wind, unseen servant
+
+  **2nd** endure elements, false life, obscuring mist, see invisibility
+
+  **3rd** haste, mind reading, slow, stinking cloud
+
+  **4th** dimension door, fly, freedom of movement, wall of fire
+
+  **5th** cone of cold, fireball, sending, wall of stone
+
+  **6th** chain lightning, tangling creepers, elemental form
+
 **Wizard School Spells** (DC 30)
+
+  **6th** elemental tempest, force bolt
 
 **Mask Bond** ◇ (arcane) **Trigger** The Tempest-Sun Mage has not acted yet on their turn; **Frequency** {"number":1,"unit":"day"}; The Tempest-Sun Mage expends the power stored in their bonded item, which is their mask. This gives them the ability to cast one spell they prepared today and already cast, without spending a spell slot. They must still Cast the Spell and meet the spell's other requirements.
 

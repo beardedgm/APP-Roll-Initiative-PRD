@@ -43,6 +43,12 @@ Speed 50 feet, fly 180 feet, swim 50 feet
 
 **Innate arcane Spells** (DC 35)
 
+  **1st** detect alignment
+
+  **3rd** locate
+
+  **7th** sunburst
+
 **Breath Weapon** ◆◆ The gold dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 rounds. - 
 - 
 

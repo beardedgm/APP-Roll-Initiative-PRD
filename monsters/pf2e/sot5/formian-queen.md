@@ -31,6 +31,12 @@ Speed 10 feet
 
 **Innate primal Spells** (DC 38), attack +30
 
+  **7th** magic missile
+
+  **8th** disappearance, illusory scene, repulsion, teleport
+
+  **9th** cone of cold, feeblemind
+
 **Hive Frenzy** ◆ (enchantment, mental, primal) **Frequency** {"number":1,"unit":"day"}; The formian queen stirs all formians within range of her telepathy into a frenzy. Each affected formian gains the quickened condition for 1 minute, and can use the extra action each round only to Strike or Stride.
 
 **Possess Formian** ◆ (incapacitation, mental, necromancy, possession, primal) A formian queen transfers her consciousness to the body of any formian within range of her telepathy to whom she has a line of effect. As long as the queen's consciousness is outside her body, her body is unconscious (though she is aware if any damage is dealt to it). An unwilling target can attempt a DC 38 Will saving throw to resist being possessed, but the queen's offspring are part of her hive mind and thus are almost always willing. The queen receives all sensory input from the target creature; she can speak through it, and she can use her own modifier for Intelligence-, Wisdom-, and Charisma-based skill checks. If the target creature is slain or moves to a different plane from the queen's body, the queen returns to her own body immediately and is stunned 1; otherwise, she can return to her own body as a free action, ending the possession effect.

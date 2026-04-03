@@ -31,6 +31,14 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 24)
 
+  **2nd** detect alignment, invisibility
+
+  **3rd** calm emotions, remove disease
+
+  **4th** dimension door, divine wrath
+
 **Champion Focus Spells** (DC 24)
+
+  **3rd** lay on hands
 
 **Fox's Cunning** A vulpinal's core value is cunning. They can apply their knowledge and stories from their extensive travels to just about any situation in an instant. Before spending any other action on their turn, the vulpinal can Recall Knowledge as a free action.

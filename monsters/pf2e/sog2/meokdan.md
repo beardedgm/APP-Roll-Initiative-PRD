@@ -41,6 +41,12 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 18), attack +10
 
+  **Cantrips (2nd)** telekinetic projectile
+
+  **1st** illusory disguise, phantom pain
+
+  **2nd** item facade
+
 **Manifest Bone Club** ◆ (concentrate, conjuration, occult) **Requirements** The meokdan isn't carrying a bone club; The meokdan reaches down its throat into its stomach and pulls out a human femur that it can wield as a bone club. After the meokdan Strikes a creature, the bone club shatters, but its sharp fragments remain in roughly the same shape; Strikes with a shattered bone club inflict slashing and bleed damage. After the meokdan Strikes with a shattered bone club, or if the meokdan drops the bone club, the club is destroyed, and the nindoru can Manifest a new bone club.
 
 **Quick Snack** ◈ **Trigger** The meokdan critically hits a living creature with its bite; The meokdan Snacks on the creature.

@@ -33,7 +33,29 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 28), attack +20
 
+  **Cantrips (5th)** dancing lights, daze, detect magic, ghost sound, telekinetic projectile
+
+  **1st** fleet step, item facade, true strike
+
+  **2nd** darkness, hideous laughter, invisibility
+
+  **3rd** hypnotic pattern, magic missile, mind reading
+
+  **4th** glibness, phantasmal killer, veil
+
+  **5th** cloak of colors, passwall
+
 **Innate occult Spells** (DC 28)
+
+  **1st** ventriloquism
+
+  **2nd** mirror image
+
+  **3rd** illusory disguise
+
+  **4th** suggestion
+
+  **5th** command, illusory scene
 
 **Morphic Weapon** ◆ (morph, occult, transmutation) Salathiss transforms one of his hands into a tentacle with a blade at the end, allowing him to make morphic weapon Strikes. If he's disguised, whether by magical or mundane means, his disguise immediately ends. He can return his hand to normal with another use of this ability, but doing so doesn't restore his disguise.
 

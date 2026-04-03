@@ -47,6 +47,28 @@ Speed 60 feet, fly 200 feet, swim 60 feet
 
 **Innate arcane Spells** (DC 45), attack +42
 
+  **Cantrips (10th)** daze, detect magic, forbidding word, prestidigitation, read aura
+
+  **1st** charm, magic missile, unseen servant
+
+  **2nd** comprehend language, invisibility, water breathing
+
+  **3rd** dream message, locate, slow
+
+  **4th** creation, dimension door, suggestion
+
+  **5th** chromatic wall, mind probe, sending
+
+  **6th** dominate, true seeing, wall of force
+
+  **7th** dimensional lock, dispel magic, plane shift
+
+  **8th** dream council, maze, power word stun
+
+  **9th** disjunction, meteor swarm, telepathic demand
+
+  **10th** contingency, wish
+
 **Breath Weapon** ◆◆ The gold dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 rounds. - 
 - 
 

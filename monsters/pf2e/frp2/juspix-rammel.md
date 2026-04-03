@@ -35,7 +35,27 @@ Speed 25 feet
 
 **Prepared primal Spells** (DC 35), attack +27
 
+  **Cantrips (7th)** detect magic, electric arc, light, ray of frost, stabilize
+
+  **1st** alarm, fleet step, heal, jump
+
+  **2nd** dispel magic, glitterdust, obscuring mist
+
+  **3rd** earthbind, haste, heal
+
+  **4th** air walk, freedom of movement
+
+  **5th** cone of cold, dispel magic, wall of ice
+
+  **6th** baleful polymorph, chain lightning, true seeing, blinding fury
+
+  **7th** dragon form, eclipse burst, energy aegis, unfettered pack
+
 **Witch Hexes** (DC 35)
+
+  **Cantrips (7th)** clinging ice
+
+  **7th** cackle, elemental betrayal, life boost, phase familiar, personal blizzard
 
 **Witch Patron** winter
 

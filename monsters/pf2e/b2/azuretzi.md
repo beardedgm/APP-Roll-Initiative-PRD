@@ -41,6 +41,14 @@ Speed 25 feet, fly 25 feet, swim 25 feet
 
 **Innate divine Spells** (DC 22)
 
+  **1st** detect alignment
+
+  **2nd** hideous laughter
+
+  **3rd** crisis of faith, dispel magic, shatter
+
+  **4th** dimension door
+
 **Constrict** ◆ 1d12+4 bludgeoning, DC 22
 
 **Mimic Form** ◆ (concentrate, [magical tradition], polymorph, transmutation) As Change Shape, but an azuretzi can assume the specific form of a Medium or smaller creature it Seeks with a successful DC 25.

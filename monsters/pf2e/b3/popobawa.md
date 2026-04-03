@@ -33,6 +33,12 @@ Speed 30 feet, fly 80 feet, climb 30 feet
 
 **Innate occult Spells** (DC 36), attack +28
 
+  **Cantrips (7th)** ghost sound, mage hand
+
+  **5th** clairaudience, clairvoyance, telekinetic haul, telekinetic maneuver, ventriloquism
+
+  **6th** animated assault, dominate
+
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The popobawa can take on the appearance of a human or a Small or Medium bat. It loses its stench aura while transformed. In human form it also loses its Strikes but can make fist Strikes that deal the same amount of bludgeoning damage as its talon Strike.
 
 **Feed on Sorrow** ◆ (concentrate, healing, necromancy, occult, positive) **Frequency** {"unit":"round","number":1}; The popobawa draws strength from the suffering of others. It regains 10 Hit Points for each enemy within 30 feet that has one of the following conditions, to a maximum of 40 Hit Points: confused, doomed, dying, enfeebled, fatigued, frightened, sickened, slowed, stunned, stupefied, or wounded.

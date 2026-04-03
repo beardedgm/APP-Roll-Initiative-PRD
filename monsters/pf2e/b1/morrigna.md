@@ -39,7 +39,23 @@ Speed 30 feet, climb 30 feet
 
 **Spontaneous divine Spells** (DC 35), attack +30
 
+  **Cantrips (8th)** chill touch, detect magic, disrupt undead, read aura, stabilize
+
+  **1st (4 slots)** bane, bless, ray of enfeeblement
+
+  **2nd (4 slots)** calm emotions, see invisibility, silence
+
+  **3rd (4 slots)** blindness, crisis of faith, dream message
+
+  **4th (4 slots)** freedom of movement, read omens, spell immunity
+
+  **5th (4 slots)** death ward, dispel magic, sending
+
+  **6th (4 slots)** field of life, heal, spirit blast
+
 **Innate divine Spells** (DC 37)
+
+  **4th** talking corpse
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) A morrigna can take the appearance of any Small or Medium animal or humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal. Unless they choose to manifest their web wrappings in their new form, they cannot make web wrappings Strikes.
 

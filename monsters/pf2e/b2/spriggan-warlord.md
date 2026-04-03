@@ -33,6 +33,14 @@ Speed 20 feet
 
 **Innate primal Spells** (DC 25)
 
+  **Cantrips (4th)** dancing lights
+
+  **2nd** blur
+
+  **3rd** dispel magic, fear
+
+  **4th** fly, shatter
+
 **Bully's Bludgeon** ◆ The spriggan warlord makes a morningstar Strike with a +2 circumstance bonus to its attack roll. This attack is nonlethal.
 
 **Sneak Attack** The spriggan warlord's Strikes deal an additional 2d6 precision damage to flat-footed creatures.

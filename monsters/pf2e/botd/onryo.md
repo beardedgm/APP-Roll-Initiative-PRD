@@ -31,6 +31,8 @@ Speed 35 feet, climb 35 feet
 
 **Innate occult Spells** (DC 32)
 
+  **6th** nightmare
+
 **Flicker** An onryo's erratic movement makes them difficult to target. If an onryo moves at least 10 feet during a move action, they gain concealment until the start of their next turn.
 
 **Onryo's Rancor** ◆ (curse, enchantment, mental, occult) **Requirements** The onryo's last action was a successful claw Strike; The onryo attempts to instill its need for vengeance into the creature. The onryo, with their touch, casts a 5th-level geas on the creature they hit (DC 30 Will). On a failure, it's forced to seek and slay loved ones of the onryo's wrongdoer and anyone who attempts to defend them for up to one week. On a critical failure, the duration is 1 month and the creature gains Onryo's Rancor, which it's also compelled to use by the geas. Regardless of the outcome, the creature is temporarily immune to Onryo's Rancor from this individual for 1 year.

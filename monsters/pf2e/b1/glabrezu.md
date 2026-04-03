@@ -35,6 +35,18 @@ Speed 35 feet
 
 **Innate divine Spells** (DC 34)
 
+  **Cantrips (7th)** telekinetic projectile
+
+  **2nd** mirror image
+
+  **4th** confusion, dimension door
+
+  **5th** dimension door
+
+  **6th** dispel magic
+
+  **7th** illusory disguise, reverse gravity
+
 **Captive Rake** ◆ **Requirements** A creature is grabbed in the glabrezu's pincer.; The glabrezu pulls the grabbed creature up to 5 feet closer, then makes two claw Strikes against it. Those Strikes count as one attack when determining a treachery demon's multiple attack penalty, and the penalty doesn't increase until after both Strikes.
 
 **Steady Spellcasting** When a reaction would disrupt a glabrezu's spell, the demon can attempt a DC 15 flat check, avoiding the disruption on a success.

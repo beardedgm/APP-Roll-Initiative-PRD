@@ -31,6 +31,10 @@ Speed 25 feet, climb 25 feet
 
 **Innate divine Spells** (DC 24)
 
+  **3rd** fear
+
+  **6th** dominate
+
 **Defensive Slam** ◆◆ The angazhani uses their arms to defend themself while attacking. The angazhani Strikes once and gains a +2 circumstance bonus to AC until the start of their next turn.
 
 **Focused Slam** ◆◆ The angazhani beats a single opponent with all four of their brawny arms, leaving their foe nowhere to dodge. The angazhani makes a fist Strike. On a successful attack, they deal fist damage to the target plus an additional 3d8 damage, and they meet the requirements to Rend the target this turn, even if they didn't hit on two consecutive Strikes. Even on a failed attack, the angazhani deals the damage from one fist Strike to the target, though they still miss completely on a critical failure. This ability counts as four attacks toward an angazhani's multiple attack penalty. After using this ability, the angazhani is flat-footed until the beginning of their next turn.

@@ -37,6 +37,10 @@ Speed 30 feet, fly 50 feet
 
 **Innate divine Spells** (DC 42)
 
+  **7th** dimension door, dimensional lock, plane shift, shadow siphon, warp mind
+
+  **9th** bind soul, blade barrier, harm, heal, shadow blast, shadow walk
+
 **Evisceration** ◆ (attack) **Requirements** The eremite has a creature grabbed; The eremite excises flesh or bone from a creature it has grabbed. The target takes 6d10 persistent bleed damage.
 
 **Exquisite Pain** An eremite's knowledge of pressure points and pain centers is unsurpassed. A creature hit by an eremite's melee Strikes must succeed at a DC 40 Fortitude save or be stunned 2 (stunned 4 on a critical failure). A creature that critically succeeds is temporarily immune for 24 hours.

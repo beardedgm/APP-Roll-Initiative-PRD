@@ -38,3 +38,13 @@ Speed 40 feet, fly 90 feet
 **Melee** glaring ray +34 (magical, range 100 feet); **Damage** 10d6 fire
 
 **Innate divine Spells** (DC 42)
+
+  **Cantrips (9th)** detect magic, light
+
+  **1st** dazzling flash
+
+  **2nd** detect alignment
+
+  **3rd** zone of truth
+
+  **9th** flame strike, heal

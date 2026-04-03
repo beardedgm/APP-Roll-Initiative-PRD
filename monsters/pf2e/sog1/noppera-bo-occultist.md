@@ -37,6 +37,10 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 18), attack +9
 
+  **Cantrips (1st)** daze, ghost sound, prestidigitation, read aura, shield
+
+  **1st** fear, phantom pain, sleep
+
 **Remove Face** ◆◆ (emotion, enchantment, fear, mental, occult, visual) **Requirements** The noppera-bo occultist is Impersonating a creature with a face.; The noppera-bo occultist's facial features melt into nothingness, and they menace a creature within 30 feet. The creature becomes frightened 1 on a failed DC 18 Will save (frightened 2 on a critical failure).
 
 **Impersonate Shape** ◆◆ (concentrate, occult, polymorph, transmutation) The noppera-bo changes into a  Small or Medium humanoid they've touched during the last 24 hours and gains the target creature's face and voice. While transformed and their face is covered, the noppera-bo gains a +2 circumstance bonus to Impersonate that creature. The noppera-bo can change back by using this ability again. As long as the noppera-bo has a face, it loses its no face ability and its listed immunities.

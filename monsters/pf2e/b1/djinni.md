@@ -39,4 +39,12 @@ Speed 25 feet, fly 40 feet
 
 **Innate arcane Spells** (DC 23)
 
+  **2nd** enhance victuals, invisibility
+
+  **3rd** illusory creature, illusory object
+
+  **4th** creation, gaseous form
+
+  **7th** plane shift
+
 **Hurricane Blast** ◆ (air, arcane, evocation) **Frequency** {"unit":"round","number":1}; The djinni all creatures in its whirlwind pushes back 20 feet, or forces all creatures in the aura to move 20 feet clockwise or counterclockwise. Each creature must attempt a DC 21 Fortitude save. On a success, it avoids being moved, and on a critical failure it falls prone in addition to being moved. Creatures with the air trait are immune.

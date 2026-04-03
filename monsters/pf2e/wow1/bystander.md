@@ -24,3 +24,7 @@
 **Melee** sling +9 (range increment <50 feet>, reload <1>); **Damage** 1d6+2 bludgeoning
 
 **Spontaneous primal Spells** (DC 18), attack +10
+
+  **Cantrips (1st)** caustic blast, tangle vine
+
+  **1st** heal, runic weapon

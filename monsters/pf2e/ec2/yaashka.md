@@ -37,6 +37,16 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** detect magic, forbidding ward, guidance, shield
+
+  **1st** bane, command, heal
+
+  **2nd** death knell, dispel magic, spiritual weapon
+
+  **3rd** blindness, harm, vampiric touch
+
 **Cleric Domain Spells** (DC 24)
+
+  **3rd** athletic rush
 
 **Demonic Condemnation** The target must succeed at a DC 22 Fortitude save or become frightened|CRB|frightened 2 (frightened|CRB|frightened 4 on a critical failure). The target is enfeebled|CRB|enfeebled 1 for as long as it is frightened.

@@ -33,6 +33,14 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 40), attack +32
 
+  **Cantrips (8th)** daze, detect magic, read aura
+
+  **4th** air walk, hypercognition, zone of truth
+
+  **7th** dispel magic, mindlink
+
+  **8th** charm, disappearance, mind blank
+
 **Eye Probe** ◆◆◆ (divination, occult) **Frequency** {"unit":"day","number":1}; Up to six of the hyakume's eyes detach from the hyakume's body. Each eye has AC 26, HP 1, and a fly speed of 40 feet. The hyakume can see through all of their eye probes. They can move the probes all in separate directions using a single action. A hyakume can have no more than six eye probes active at a time; using this ability to create more causes the eye or eyes farthest away to shrivel and die. The hyakume can deliver touch spells through their eye probes and can make melee spell attacks through them. In addition, the hyakume can Steal Memories through an eye probe using a single action by touching the target with the eye.
 
 **Scatterbrain Palm** (divination, enchantment, incapacitation, mental, occult) A creature hit by the hyakume's fist Strike must attempt a DC 36 Will save. The creature is then temporarily immune until start of its next turn. **Critical Success** The creature is unaffected.

@@ -31,4 +31,8 @@ Speed fly 35 feet
 
 **Innate occult Spells** (DC 28), attack +20
 
+  **Cantrips (4th)** daze, telekinetic projectile
+
+  **4th** phantom pain, sleep, spiritual weapon
+
 **Grab Item** ◆ The phantom beast attempts to Steal one item of up to 1 Bulk from a creature, even if the creature is in combat, though the object still must not be one that is actively in use. If they succeed, they carry the object along with them telekinetically.

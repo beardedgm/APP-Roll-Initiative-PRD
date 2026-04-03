@@ -31,6 +31,16 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** chill touch, daze, detect magic, guidance, shield
+
+  **1st (4 slots)** bless, illusory disguise, lock, unseen servant
+
+  **2nd (4 slots)** augury, calm emotions, hideous laughter, touch of idiocy
+
+  **3rd (4 slots)** enthrall, grim tendrils, haste, mind reading
+
+  **4th (3 slots)** dimension door, glibness, outcast's curse, suggestion
+
 **Gather Converts** ◆◆◆ (auditory, concentrate, emotion, linguistic, mental) With a short emotional phrase, the cult leader tries to sway the public to do their bidding. The cult leader tries to convince up to four bystanders in a crowd to either cause a commotion, turn against a person or group, leave the area, protect the cult leader, or calm down. The cult leader attempts a single Deception check against the highest Perception DC among the targets. **Critical Success** The targets believe the lie and act as directed for 1 minute. Additionally, one bystander remains by the cult leader's side, influenced enough to join their sect. All other targets become wise to the cult leader after 1 minute, at which point their attitude toward the leader worsens by one step.
 **Success** As a critical success, but no bystander joins the sect permanently.
 **Critical Failure** The crowd is unmoved and unamused, and their attitude toward the cult leader worsens by one step.

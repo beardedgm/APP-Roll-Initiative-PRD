@@ -41,6 +41,10 @@ Speed 25 feet, fly 30 feet
 
 **Innate occult Spells** (DC 16), attack +8
 
+  **Cantrips (1st)** daze, detect magic, mage hand, telekinetic projectile
+
+  **1st** phantom pain
+
 **Grioth Venom** (emotion, fear, mental, poison)
 
 **Shock Mind** ◆◆ (enchantment, mental, occult) The grioth scout makes a Strike with a voidglass weapon. If the Strike hits, it deals an additional 1d6 mental damage, and the target must succeed at a DC 17 Will save (this has the incapacitation trait) or become confused for 1 round.

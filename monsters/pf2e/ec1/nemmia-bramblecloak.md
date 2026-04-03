@@ -33,7 +33,19 @@ Speed 20 feet
 
 **Innate primal Spells** (DC 19)
 
+  **1st** charm
+
+  **2nd** paranoia
+
+  **3rd** animal vision
+
 **Spontaneous primal Spells** (DC 21), attack +11
+
+  **Cantrips (2nd)** produce flame, read aura, stabilize, tanglefoot
+
+  **1st** fear, goblin pox, shocking grasp
+
+  **2nd** darkvision, entangle
 
 **Keen Eyes** Nemmia has a +2 circumstance bonus when using the Seek action to find hidden or undetected creatures within 30 feet. When she targets a concealed or hidden opponent, she reduces the DC of the flat check to 3 for a concealed target or 9 for a hidden one.
 

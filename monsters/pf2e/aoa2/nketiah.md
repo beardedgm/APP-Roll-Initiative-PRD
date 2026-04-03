@@ -35,9 +35,23 @@ Speed 35 feet, climb 20 feet
 
 **Spontaneous occult Spells** (DC 24), attack +14
 
+  **Cantrips (3rd)** ghost sound, guidance, mage hand, message, prestidigitation
+
+  **1st (3 slots)** fear, illusory disguise, illusory object
+
+  **2nd (3 slots)** hideous laughter, restore senses, see invisibility
+
+  **3rd (3 slots)** circle of protection, heroism, mind reading
+
 **Bard Composition Spells** (DC 24)
 
+  **Cantrips (3rd)** inspire competence, inspire courage
+
+  **3rd** counter performance, loremaster's etude
+
 **Innate primal Spells** (DC 24)
+
+  **Cantrips (3rd)** dancing lights, detect magic, disrupt undead, tanglefoot
 
 **Arborean Arm** (primal) This magical limb functions in all ways as Nketiah's original arm. The arm can extend a vine to attack in melee, and using the arm, Nketiah has a climb Speed of 20 feet and Climbs as if she had master proficiency in Athletics. Finally, the arm's primal magic allows her to use the spells from her verdant staff as if she had all of those spells on her spell list.
 

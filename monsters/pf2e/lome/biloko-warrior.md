@@ -35,4 +35,6 @@ Speed 20 feet
 
 **Innate primal Spells** (DC 14)
 
+  **1st** charm
+
 **Inspired Feast** (emotion, mental) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour.

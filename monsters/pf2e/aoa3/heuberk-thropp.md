@@ -35,6 +35,18 @@ Speed 25 feet
 
 **Prepared occult Spells** (DC 27), attack +19
 
+  **Cantrips (5th)** detect magic, message, prestidigitation, read aura, shield
+
+  **1st** charm, command, fear, ray of enfeeblement
+
+  **2nd** invisibility, mirror image, paranoia
+
+  **3rd** dream message, enthrall, hypnotic pattern
+
+  **4th** discern lies, fly
+
+  **5th** crushing despair
+
 **Identify an Opening** ◆ (auditory, linguistic) **Requirements** A creature is flat-footed against Heuberk's next melee attack.; Heuberk points out a lapse in the creature's defenses. The creature is flat-footed against all melee attacks attempted by any of Heuberk's allies who hear and understand this instruction until the start of Heuberk's next turn.
 
 **Sneak Attack** 2d6

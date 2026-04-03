@@ -43,6 +43,22 @@ Speed 40 feet, fly 50 feet, swim 40 feet
 
 **Innate divine Spells** (DC 47)
 
+  **2nd** detect alignment
+
+  **4th** dimension door
+
+  **5th** creation, dimension door, hallucinatory terrain
+
+  **6th** teleport
+
+  **7th** warp mind
+
+  **8th** baleful polymorph, confusion, disintegrate, dispel magic, prismatic wall
+
+  **9th** divine wrath, massacre, overwhelming presence, prismatic sphere
+
+  **10th** miracle
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The izfiitar takes the appearance of any Huge or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.
 
 **Constrict** ◆ 2d8+17 bludgeoning, DC 44

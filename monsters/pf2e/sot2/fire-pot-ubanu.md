@@ -37,6 +37,16 @@ Speed 25 feet
 
 **Spontaneous primal Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** acid splash, detect magic, guidance, prestidigitation, produce flame
+
+  **1st (3 slots)** gust of wind, jump, mending
+
+  **2nd (3 slots)** flaming sphere, obscuring mist, resist energy
+
+  **3rd (3 slots)** blindness, fireball, haste
+
+  **4th (2 slots)** burning hands, fire shield
+
 **Distracting Spells** Creatures who fail a saving throw against one of Ubanu's spells are flat-footed to his attacks until the end of his turn or until the end of his next turn on a critical failure.
 
 **Quick Bomber** ◆ Ubanu Interacts to draw a bomb, then Strikes with it.

@@ -37,7 +37,17 @@ Speed 10 feet, swim 25 feet
 
 **Spontaneous occult Spells** (DC 25), attack +17
 
+  **2nd (4 slots)** comprehend language, illusory disguise, mirror image, vomit swarm
+
+  **3rd (4 slots)** bind undead, mind reading, paralyze, phantom pain
+
+  **4th (3 slots)** dimension door, suggestion, worm's repast
+
 **Innate divine Spells** (DC 25)
+
+  **Cantrips (4th)** dancing lights
+
+  **2nd** darkness, faerie fire
 
 **Squirming Embrace** ◆ Volluk Strides, ending his movement sharing a space with a creature, and deals 3d8 piercing damage to the creature. The creature can attempt a DC 23 basic Reflex save.
 

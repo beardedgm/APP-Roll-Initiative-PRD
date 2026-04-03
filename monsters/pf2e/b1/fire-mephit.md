@@ -31,4 +31,6 @@ Speed 20 feet, fly 25 feet
 
 **Innate arcane Spells** (DC 15)
 
+  **Cantrips (1st)** daze, light
+
 **Breath Weapon** ◆◆ (arcane, fire) The fire mephit breathes flames in a 15-foot cone that deals 2d4 fire and 1d4 persistent fire damage to each creature within the area (DC 17 basic Reflex save). The fire mephit can't use Breath Weapon again for 1d4 rounds.

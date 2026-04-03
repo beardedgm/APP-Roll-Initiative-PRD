@@ -35,6 +35,12 @@ Speed 35 feet, climb 25 feet
 
 **Innate divine Spells** (DC 32)
 
+  **2nd** share life
+
+  **4th** cleanse affliction
+
+  **5th** nature's pathway
+
 **Change Shape** ◆ (concentrate, divine, polymorph) The aso berang takes the appearance of any Medium or Small humanoid creature. In this form, the aso berang can't use their tusk Strikes, and their claw Strike becomes a fist Strike that deals bludgeoning damage and loses the reach trait.
 
 **Cleanse the Forest** ◆◆◆ (divine) The aso berang dashes to attack each nearby enemy so quickly that it's impossible to tell they've moved at all, save for a slight flicker in their outline. The aso berang Strides adjacent to an enemy and attempts a melee Strike. If successful, the aso berang can Stride and attempt to Strike a different enemy. If this second attack is successful, they can Stride and attempt to Strike a third enemy. Once they fail a Strike (or upon succeeding at their third Strike), the aso berang Strides back to the space where they began.

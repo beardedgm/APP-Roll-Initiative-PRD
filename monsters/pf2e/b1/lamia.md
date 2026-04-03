@@ -35,4 +35,12 @@ Speed 40 feet
 
 **Innate occult Spells** (DC 25)
 
+  **1st** illusory disguise, illusory object, ventriloquism
+
+  **2nd** humanoid form, mirror image
+
+  **3rd** sleep
+
+  **4th** charm, suggestion
+
 **Lamia's Caress** ◆◆ (curse, enchantment, mental, occult) The lamia touches a creature, who must succeed at a DC 23 Will save or become stupefied 1. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours.

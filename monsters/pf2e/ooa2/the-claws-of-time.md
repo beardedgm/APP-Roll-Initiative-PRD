@@ -41,4 +41,12 @@ Speed 30 feet, fly 30 feet
 
 **Innate occult Spells** (DC 28)
 
+  **2nd** invisibility
+
+  **3rd** agonizing despair, haste, slow
+
+  **4th** dimensional anchor
+
+  **8th** discern location
+
 **Angled Entry** ◆ The Claws of Time casts a 4th-level dimension door spell, but it must transport itself into a space adjacent to an angle of 90º (or more acute) in the structure or environment around it. This means the hound can use dimension door to appear adjacent to any wall or corner in the Cradle of Quartz except for the central geode (area D16). Once per day, the hound can use this ability to plane shift to or from the Dimension of Time, with the same restrictions on what angles next to which it can appear.

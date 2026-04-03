@@ -41,6 +41,10 @@ Speed 50 feet, fly 160 feet
 
 **Innate primal Spells** (DC 40)
 
+  **Cantrips (8th)** produce flame
+
+  **8th** burning hands, fireball, wall of fire
+
 **Breath Weapon** ◆◆ (evocation, fire, primal) Veshumirix breathes a blast of magma that deals 9d6 fire damage and 4d12 bludgeoning damage in a 60-foot cone (DC 42 basic Reflex save). He can't use Breath Weapon again for 1d4 rounds.
 
 **Draconic Frenzy** ◆◆ Veshumirix makes two claw Strikes and one horns Strike in any order.

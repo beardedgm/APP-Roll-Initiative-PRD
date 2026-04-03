@@ -43,6 +43,16 @@ Speed 25 feet
 
 **Spontaneous divine Spells** (DC 34), attack +26
 
+  **Cantrips (8th)** daze, detect magic, divine lance, message, shield, sigil
+
+  **4th (3 slots)** air walk, discern lies, freedom of movement
+
+  **5th (3 slots)** prying eye, see invisibility, tongues
+
+  **6th (3 slots)** dispel magic, heal, wall of fire
+
+  **7th (3 slots)** dispel magic, fireball, heal
+
 **Battle Cry** ◆ (auditory, concentrate, emotion, mental) Worknesh unleashes a war cry, granting herself and all allies within 60 feet a +1 status bonus to attack and damage rolls until the start of her next turn.
 
 **Walkena's Fury** ◆ **Frequency** {"number":1,"unit":"round"}; **Requirements** Worknesh is within reach of an enemy designated by Walkena|LOGM's Judgment; Worknesh makes two melee Strikes against the enemy of Walkena|LOGM. If both attacks hit, she combines their damage for the purpose of the creature's resistances and weaknesses.

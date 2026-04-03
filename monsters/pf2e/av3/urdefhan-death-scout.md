@@ -35,6 +35,12 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 21), attack +13
 
+  **1st** feather fall, ray of enfeeblement
+
+  **2nd** death knell
+
+  **4th** invisibility
+
 **Shauth Bite** The death scout deals an additional 1d6 persistent bleed damage with shauth blades and can use their Wicked Bite through magical shauth weapon Strikes.
 
 **Sneak Attack** The death scout deals an extra 2d6 precision damage to flat-footed creatures.

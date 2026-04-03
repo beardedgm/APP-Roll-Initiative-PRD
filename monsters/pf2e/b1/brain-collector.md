@@ -37,6 +37,16 @@ Speed 25 feet, fly 30 feet
 
 **Spontaneous occult Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** dancing lights, detect magic, mage hand, prestidigitation
+
+  **1st (4 slots)** mindlink, ray of enfeeblement, true strike, unseen servant
+
+  **2nd (4 slots)** humanoid form, invisibility, mirror image, paranoia
+
+  **3rd (3 slots)** dispel magic, haste, paralyze
+
+  **4th (2 slots)** confusion, phantasmal killer
+
 **Brain Collector Venom** (poison)
 
 **Collect Brain** ◆ (manipulate) The brain collector collects a brain of a creature that has been dead for no more than 1 minute. It can then use an Interact action to secure the brain in one of its empty brain blisters.

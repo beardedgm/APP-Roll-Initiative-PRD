@@ -37,7 +37,17 @@ Speed 25 feet
 
 **Spontaneous primal Spells** (DC 22), attack +14
 
+  **Cantrips (3rd)** dancing lights, disrupt undead, ghost sound, ray of frost, stabilize
+
+  **1st (4 slots)** charm, feather fall, gust of wind, pest form
+
+  **2nd (4 slots)** glitterdust, hideous laughter, restoration, web
+
+  **3rd (3 slots)** enthrall, heal, remove disease
+
 **Bloodline Spells** (DC 22)
+
+  **3rd** faerie dust
 
 **Blood Magic** When Wrin casts charm, enthrall, faerie dust, ghost sound, or hideous laughter, fey glamours dance around Wrin or one target of the spell, causing them to be concealed for 1 round. Such obvious concealment can't be used to Hide.
 

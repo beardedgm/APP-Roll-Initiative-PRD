@@ -31,4 +31,10 @@ Speed 20 feet, burrow 20 feet
 
 **Innate primal Spells** (DC 20), attack +12
 
+  **Cantrips (2nd)** detect magic, telekinetic projectile
+
+  **1st** mindlink, share lore, shockwave
+
+  **2nd** glitterdust, pummeling rubble
+
 **Gestalt** (mental, primal, transmutation) Two or more kaseshi can combine their scribed words to create something greater than either one alone. This has the effects of the Coven ability but no ritual is necessary, simply close proximity for 8 hours. All gestalts grant the following spells, which the gestalt can cast at any level up to 5th: creation, strange geometry|APG, and telekinetic haul. Individual kaseshi also grant additional spells to any gestalt they join—this one grants meld into stone and shape stone.

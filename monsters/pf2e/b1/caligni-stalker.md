@@ -31,6 +31,10 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 19)
 
+  **Cantrips (2nd)** detect magic
+
+  **2nd** darkness, obscuring mist
+
 **Double Slice** ◆◆ The caligni stalker makes two Strikes against the same target, one with each of their shortswords. The stalker combines the damage of any attacks that hit and applies precision damage, resistances, and weaknesses only once. Both attacks count toward the stalker's multiple attack penalty, but the penalty increases only after both attacks.
 
 **Encircling Command** ◆ (auditory) Each caligni creeper within 30 feet of the stalker can Step. Each creeper can benefit from Encircling Command only once per round.

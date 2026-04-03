@@ -43,6 +43,16 @@ Speed 60 feet, fly 140 feet, burrow 40 feet
 
 **Innate arcane Spells** (DC 43)
 
+  **Cantrips (8th)** ghost sound
+
+  **1st** create water
+
+  **7th** project image
+
+  **8th** hallucinatory terrain, ventriloquism
+
+  **9th** illusory creature, illusory object
+
 **Breath Weapon** ◆◆ (evocation, primal) Vehanezhad breathes a flurry of piercing crystals that deals 19d6 piercing damage in a 60-foot cone (DC 40 basic Reflex save). A creature who takes damage from this breath weapon is exposed to crystal corruption. Vehanezhad can't use Breath Weapon again for 1d4 rounds.
 
 **Crystal Corruption** (arcane, curse, incapacitation, transmutation) As crystalline sentinel|SF2, but DC 40.

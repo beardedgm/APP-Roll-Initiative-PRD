@@ -35,6 +35,10 @@ Speed 50 feet
 
 **Innate divine Spells** (DC 32), attack +28
 
+  **4th** death knell, fear, invisibility, phantom pain
+
+  **7th** glyph of warding, paralyze
+
 **Daemonic Trap Making** (divine) When the crucidaemon casts its innate glyph of warding spell, it can store any arcane or divine spell of an appropriate level in the glyph, even if it can't otherwise cast the spell.
 
 **Flurry of Daggers** ◆ The crucidaemon makes two chained dagger Strikes against a single target. These attacks count toward the crucidaemon's multiple attack penalty and its multiple attack penalty doesn't increase until after both attacks.

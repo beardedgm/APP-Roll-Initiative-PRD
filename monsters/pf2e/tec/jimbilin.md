@@ -27,4 +27,10 @@ Speed 20 feet
 
 **Prepared divine Spells** (DC 21), attack +13
 
+  **Cantrips (2nd)** chill touch, divine lance, haunting hymn, shield
+
+  **1st** bane, fear, harm
+
+  **2nd** boneshaker, darkvision, harm
+
 **Prayer of Oblivion** ◆◆◆ (divine, evil, negative) **Frequency** {"number":1,"unit":"day"}; The priest chants a prayer to his deity that invokes the forces of nothingness. All enemies within 30 feet take 5d6 negative damage (DC 21 basic Will save).

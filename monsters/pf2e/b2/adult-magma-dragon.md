@@ -41,6 +41,10 @@ Speed 40 feet, fly 140 feet
 
 **Innate primal Spells** (DC 31), attack +23
 
+  **Cantrips (6th)** produce flame
+
+  **6th** burning hands, wall of fire
+
 **Breath Weapon** ◆◆ (evocation, fire, primal) The dragon breathes a blast of magma that deals 9d6 fire damage and 4d12 bludgeoning damage in a 40-foot cone (DC 33 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.
 
 **Draconic Frenzy** ◆◆ The dragon makes two claw Strikes and one horn Strike in any order.

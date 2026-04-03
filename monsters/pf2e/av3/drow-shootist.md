@@ -37,6 +37,10 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 24)
 
+  **Cantrips (4th)** dancing lights
+
+  **2nd** darkness, faerie fire
+
 **Distracting Shot** ◆◆ The shootist takes aim and makes a ranged Strike. If the attack hits and deals damage, the target is flat-footed until the end of the shootist's turn, or until the end of the shootist's next turn on a critical hit.
 
 **Reloading Trick** ◆◆ **Requirements** The shootist is holding an unloaded repeating hand crossbow; The shootist Interacts to reload the repeating hand crossbow and Strikes with it.

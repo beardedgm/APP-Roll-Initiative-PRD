@@ -31,7 +31,27 @@ Speed 25 feet
 
 **Prepared occult Spells** (DC 35), attack +27
 
+  **Cantrips (7th)** daze, forbidding ward, guidance, shield, telekinetic projectile
+
+  **1st** fear, ray of enfeeblement, true strike
+
+  **2nd** mirror image, paranoia, silence
+
+  **3rd** haste, paralyze, slow
+
+  **4th** blink, confusion, phantom pain
+
+  **5th** black tentacles, chilling darkness, synesthesia
+
+  **6th** feeblemind, repulsion, true seeing
+
+  **7th** duplicate foe, mask of terror, warp mind
+
 **Witch Hexes** (DC 35)
+
+  **Cantrips (7th)** evil eye
+
+  **7th** cackle, curse of death, evil eye, malicious shadow, needle of vengeance
 
 **Witch Patron** fate
 

@@ -29,6 +29,14 @@ Speed 25 feet, fly 50 feet
 
 **Innate occult Spells** (DC 25), attack +17
 
+  **Cantrips (4th)** daze, ghost sound, read aura
+
+  **2nd** illusory object, misdirection
+
+  **3rd** illusory creature, mind reading
+
+  **4th** invisibility, modify memory, nightmare, phantasmal killer, suggestion
+
 **Agent of Fate** ◆◆◆ (primal) **Frequency** {"unit":"day","number":1}; The mothman casts any spell of 5th level or lower that normally takes 2 or fewer actions to cast, whether they have those spells in their innate spells or not. They can use this ability only if doing so steers the flow of fate in its proper course toward a disaster or otherwise significantly memorable event. What the proper flow of fate entails is determined by the GM, but some examples include casting illusory scene to coax someone to a portentous location, casting sending to deliver an important message to someone the exact moment they need to hear it, or casting rusting grasp to weaken a structure and cause some necessary calamity.
 
 **Focus Gaze** ◆ (concentrate, emotion, enchantment, fear, mental, occult, visual) The mothman fixes their glare at a creature they can see within 30 feet. The target must immediately attempt a Will save against the mothman's portentous gaze. If the creature is already frightened when it attempts this save, on a failure it becomes stupefied 1 for 24 hours in addition to the frightened effect. After attempting its save, the creature is then temporarily immune for 1 minute.

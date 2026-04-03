@@ -33,4 +33,10 @@ Speed 25 feet
 
 **Spontaneous divine Spells** (DC 18), attack +10
 
+  **Cantrips (1st)** daze, detect magic, guidance, know direction, light, prestidigitation, read aura
+
+  **1st (4 slots)** bless, heal, ray of enfeeblement, sanctuary
+
 **Cleric Domain Spells** (DC 18)
+
+  **1st** read fate

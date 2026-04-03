@@ -39,7 +39,19 @@ Speed 40 feet, fly 100 feet, burrow 30 feet
 
 **Innate primal Spells** (DC 25)
 
+  **Cantrips (3rd)** dancing lights
+
+  **3rd** color spray
+
 **Prepared primal Spells** (DC 25), attack +18
+
+  **Cantrips (3rd)** acid splash, detect magic, light, prestidigitation, telekinetic projectile
+
+  **1st** grease, mending, pass without trace
+
+  **2nd** faerie fire, glitterdust, shatter
+
+  **3rd** earthbind, meld into stone
 
 **Breath Weapon** ◆◆ (evocation, primal) The dragon breathes a flurry of piercing crystals that deal 8d6 piercing damage in a 30-foot cone (DC 25 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.
 

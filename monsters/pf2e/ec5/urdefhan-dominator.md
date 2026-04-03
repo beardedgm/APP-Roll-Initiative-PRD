@@ -37,6 +37,22 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 35), attack +29
 
+  **Cantrips (7th)** chill touch, divine lance, forbidding ward, telekinetic projectile
+
+  **1st** feather fall, grim tendrils, ray of enfeeblement
+
+  **2nd** darkness, death knell, false life, silence
+
+  **3rd** harm, paralyze
+
+  **4th** phantasmal killer, read omens, spiritual weapon
+
+  **5th** banishment, command, prying eye
+
+  **6th** disintegrate, dominate
+
+  **7th** dimensional lock
+
 **Eyes of the Enthralled** ◆ **Requirements** The urdefhan dominator has a creature dominated with its dominate innate spell; The urdefhan taps into the dominated creature's sight, hearing, and any other senses it has. The urdefhan can change back and forth from its own senses to the target's senses as a single action, which has the concentrate trait.
 
 **Wicked Bite** As urdefhan warrior, but DC 33.

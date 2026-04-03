@@ -31,6 +31,12 @@ Speed 35 feet
 
 **Innate divine Spells** (DC 21)
 
+  **1st** charm, grim tendrils
+
+  **2nd** hideous laughter, see invisibility
+
+  **3rd** paralyze
+
 **Hypnotic Stare** ◆ (concentrate, divine, mental, visual) The Kurnugian jackal opens their third eye to look at a target within 30 feet that can see the jackal. That target takes a –2 penalty to Will saving throws until the end of the Kurnugian jackal's next turn. The Kurnugian jackal can maintain this stare against only one opponent at a time; if the jackal uses it on a second target, it ends for the first target. The jackal can dismiss it as a free action and use their Remove Memory ability if they so choose.
 
 **Knockdown** ◆ When the Kurnugian jackal succeeds at their jaws Strike, they can use this action immediately after to automatically knock over the target, giving the target the prone condition.

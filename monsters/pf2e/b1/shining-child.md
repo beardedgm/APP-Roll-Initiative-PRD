@@ -36,3 +36,15 @@ Speed 30 feet, fly 50 feet
 **Melee** fire ray +25 (arcane, evocation, magical, range <100 feet>); **Damage** 3d10+3 fire, plus 2d10 positive damage if the target is undead
 
 **Innate occult Spells** (DC 33)
+
+  **Cantrips (6th)** light
+
+  **2nd** illusory object
+
+  **4th** dimension door
+
+  **5th** dimension door, false vision, hallucinatory terrain
+
+  **6th** dispel magic, vibrant pattern, wall of force
+
+  **7th** spell turning, sunburst

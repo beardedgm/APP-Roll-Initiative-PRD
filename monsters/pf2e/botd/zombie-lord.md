@@ -35,6 +35,12 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 21), attack +13
 
+  **Cantrips (2nd)** chill touch, daze, divine lance
+
+  **1st** fear, harm, ray of enfeeblement
+
+  **2nd** death knell, sudden blight
+
 **Command Zombie** ◆ (concentrate, divine, incapacitation, necromancy) The zombie lord intones blasphemous words to gain control over a zombie they can see within 100 feet. A zombie that is mindless and not under someone else's control falls under their control automatically; otherwise, the zombie or its controller can attempt a DC 22 Will save to avoid it being controlled (whichever has the higher modifier). The target zombie is temporarily immune for 24 hours if successful. The attempt fails if the zombie is the same level as the zombie lord or higher. The zombie remains controlled by the zombie lord until either is destroyed. A zombie lord can control up to 8 zombies at a time. If the zombie lord would control a number of zombies over this limit, they choose which to release.
 
 **Create Zombies** (concentrate, divine, evil, necromancy) A zombie lord can create lesser zombies with a 1-hour ritual. During this time, the zombie lord chants and performs an unholy dance over the corpses they intend to animate. Unlike normal rituals, this doesn't require a skill check or Cost. At the end of this hour, the zombie lord can create one 1st- or 2nd-level zombie, or two zombies of level 0 or lower. These are automatically under the zombie lord's control and count toward the limit of Command Zombie. Any zombies created by the zombie lord still count toward the XP budget of an encounter normally.

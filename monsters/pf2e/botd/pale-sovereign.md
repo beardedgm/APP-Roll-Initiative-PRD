@@ -35,6 +35,12 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 41)
 
+  **6th** bestial curse, cloak of colors, enthrall, outcast's curse
+
+  **7th** curse of lost time, feeblemind, hallucination, project image, suggestion
+
+  **8th** spirit song, spiritual epidemic
+
 **Curse of Eternal Sleep** ◆◆ (curse, enchantment, incapacitation, mental, occult, sleep) The pale sovereign touches an adjacent living creature to send it into an endless slumber. The target must attempt a DC 39 Will save. **Critical Success** 
 **Success** 
 **Failure** 

@@ -31,7 +31,31 @@ Speed 25 feet, fly 30 feet
 
 **Prepared arcane Spells** (DC 45), attack +36
 
+  **Cantrips (10th)** acid splash, detect magic, electric arc, prestidigitation, read aura, shield
+
+  **1st** command, fear, magic missile, ray of enfeeblement
+
+  **2nd** dispel magic, invisibility, mirror image, resist energy
+
+  **3rd** nondetection, paralyze, slow, vampiric touch
+
+  **4th** blink, dimension door, freedom of movement, suggestion
+
+  **5th** chromatic wall, dimension door, dispel magic, wall of stone
+
+  **6th** dominate, repulsion, spellwrack, true seeing
+
+  **7th** energy aegis, mask of terror, power word blind, warp mind
+
+  **8th** contingency, horrid wilting, mage armor, uncontrollable dance
+
+  **9th** disjunction, implosion, massacre, prismatic sphere
+
+  **10th** remake, time stop
+
 **Wizard School Spells** (DC 45)
+
+  **10th** energy absorption, protective ward
 
 **Drain Bonded Item** ◇ **Frequency** {"unit":"day","number":1}; **Requirements** Emaliza hasn't acted yet on this turn; Emaliza can cast one prepared spell she has already cast today without spending a spell slot. She must still Cast the Spell and meet the spell's other requirements.
 

@@ -33,6 +33,14 @@ Speed limited flight 25 feet
 
 **Innate occult Spells** (DC 32), attack +24
 
+  **Cantrips (6th)** dancing lights, ghost sound, know direction, mage hand, telekinetic projectile
+
+  **4th** dimension door, outcast's curse
+
+  **5th** crushing despair, illusory scene
+
+  **6th** phantasmal calamity, spirit blast
+
 **Scorn Fate** ◆◆ Will DC 32
 
 **Vengeful Frenzy** ◆◆ Will DC 32

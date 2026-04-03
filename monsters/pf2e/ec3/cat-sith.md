@@ -35,6 +35,10 @@ Speed 35 feet
 
 **Innate occult Spells** (DC 23)
 
+  **2nd** paranoia
+
+  **3rd** humanoid form
+
 **Cat Sith's Mark** (curse, misfortune) A creature hit by a cat sith's claw must succeed at a DC 23 Will save or be cursed with misfortune. Whenever the cursed creature rolls a critical success on a skill check or saving throw, it gets a success instead. Each day, a cursed creature can attempt a DC 10 flat check to break the curse.
 
 **Steal Soul** ◆◆ (necromancy, occult) The cat sith touches a dying creature or a creature that died within the past 3 days. If the target is a dying creature, it must attempt a DC 25 Fortitude save; on a failure, its dying value increases by 1 (or 2 on a critical failure). If the target is dead, it receives no save and its soul is imprisoned in the cat sith's body, becoming freed only if the cat sith is slain. While the soul is imprisoned, the creature can't be brought back to life by any means short of a wish or miracle. The cat sith can hold only one soul at a time and can release a soul as a free action.

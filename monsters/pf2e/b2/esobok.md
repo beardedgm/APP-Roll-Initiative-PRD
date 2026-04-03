@@ -31,6 +31,8 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 17)
 
+  **2nd** invisibility
+
 **Pounce** ◆ The esobok Strides and then makes a Strike. If it began this action hidden, it remains hidden until after the Strike.
 
 **Spirit Touch** An esobok's Strikes affect incorporeal creatures with the effects of a ghost touch property rune and deal 1d6 negative damage to living creatures and 1d6 positive damage to undead.

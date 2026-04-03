@@ -45,6 +45,12 @@ Speed 40 feet, fly 160 feet
 
 **Innate arcane Spells** (DC 36)
 
+  **1st** gust of wind
+
+  **2nd** obscuring mist
+
+  **6th** wall of ice
+
 **Breath Weapon** ◆◆ (arcane, cold, evocation) The dragon breathes a cloud of frost that deals 16d6 cold damage in a 50-foot cone (DC 36 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 
 **Draconic Frenzy** ◆◆ The dragon makes two claw Strikes and one tail Strike in any order.

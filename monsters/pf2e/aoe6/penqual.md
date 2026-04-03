@@ -35,6 +35,8 @@ Speed 40 feet
 
 **Innate divine Spells** (DC 36)
 
+  **4th** fear, nightmare
+
 **Crush of Hundreds** A creature frightened by the sahkil's mask of terror feels the press of a suffocating crowd. The creature is slowed|CRB|slowed 1 and takes a –10-foot penalty to all Speeds for as long as it is frightened.
 
 **Frantic Grasp** ◆ (evil, magical) Each enemy in the penqual's space takes 4d12 slashing damage (DC 36 basic Reflex save).

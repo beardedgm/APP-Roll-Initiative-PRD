@@ -35,7 +35,33 @@ Speed 30 feet, fly 90 feet
 
 **Prepared primal Spells** (DC 44)
 
+  **Cantrips (10th)** detect magic, electric arc, guidance, prestidigitation, read aura
+
+  **1st** feather fall, gust of wind, pass without trace
+
+  **2nd** animal messenger, glitterdust, water breathing
+
+  **3rd** earthbind, haste, meld into stone
+
+  **4th** freedom of movement, resist energy, solid fog
+
+  **5th** control water, death ward, hallucinatory terrain
+
+  **6th** dispel magic, slow, true seeing
+
+  **7th** energy aegis, regenerate, volcanic eruption
+
+  **8th** punishing winds, stone skin, wind walk
+
+  **9th** meteor swarm, storm of vengeance, sunburst
+
+  **10th** primal phenomenon
+
 **Innate primal Spells** (DC 44), attack +36
+
+  **Cantrips (10th)** dancing lights, light
+
+  **10th** searing light
 
 **Change Shape** ◆ (polymorph, primal, transmutation) Lampad queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a version of their natural form that more closely resembles a humanoid.
 

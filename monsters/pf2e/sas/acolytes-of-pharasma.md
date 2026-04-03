@@ -31,4 +31,10 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 17), attack +9
 
+  **Cantrips (1st)** detect magic, disrupt undead, light, prestidigitation, read aura
+
+  **1st** create water, heal, mending
+
 **Cleric Domain Spells** (DC 17)
+
+  **1st** healer's blessing

@@ -33,6 +33,12 @@ Speed fly 60 feet, swim 60 feet
 
 **Innate occult Spells** (DC 43)
 
+  **5th** mind probe
+
+  **8th** hallucination
+
+  **9th** project image
+
 **Disgorge Portal** ◆◆ (evocation, light, occult) The camarach vomits a spray of coruscating light. This has the effect of a DC 42 prismatic spray, except that each creature is affected by one violet beam and one other beam (roll 1d6 instead of 1d8 to determine which other beam). The camarach can't Disgorge a Portal again for 1d4 rounds.
 
 **Exile** ◆ (conjuration, occult, teleportation) The camarach shunts one creature within its body through an inner portal to send it away. The target must attempt a DC 38 Will save. **Critical Success** The creature is teleported to an open space it chooses within 30 feet of the camarach.

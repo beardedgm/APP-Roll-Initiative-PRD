@@ -39,4 +39,20 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 35), attack +27
 
+  **Cantrips (7th)** detect magic, electric arc, mage hand, message, shield
+
+  **1st** fleet step, ray of enfeeblement, true strike
+
+  **2nd** deafness, false life, mirror image, see invisibility
+
+  **3rd** blindness, magic missile, vampiric touch
+
+  **4th** dimension door, fire shield, fly, freedom of movement
+
+  **5th** black tentacles, cloudkill, dispel magic
+
+  **6th** disintegrate, vampiric exsanguination, wall of force
+
+  **7th** duplicate foe, eclipse burst, reverse gravity
+
 **Steady Spellcasting** If another creature's reaction would disrupt King Harral's spell, he attempts a DC 15 flat check. If he succeeds, the spell isn't disrupted.

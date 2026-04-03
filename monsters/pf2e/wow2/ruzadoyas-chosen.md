@@ -39,4 +39,8 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 25)
 
+  **Cantrips (4th)** timber
+
+  **4th** entangling flora, life-draining roots, oaken resilience
+
 **Tap Planar Gate** ◆ (concentrate, primal)

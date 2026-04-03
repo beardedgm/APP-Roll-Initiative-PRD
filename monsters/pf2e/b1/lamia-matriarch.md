@@ -33,7 +33,23 @@ Speed 30 feet, swim 30 feet, climb 30 feet
 
 **Spontaneous occult Spells** (DC 28)
 
+  **Cantrips (3rd)** daze, detect magic, mage hand, prestidigitation, read aura
+
+  **1st (4 slots)** bless, magic missile, phantom pain, soothe
+
+  **2nd (4 slots)** blur, death knell, illusory creature, invisibility
+
+  **3rd (4 slots)** dispel magic, enthrall, haste, mind reading
+
 **Innate occult Spells** (DC 28)
+
+  **1st** ventriloquism
+
+  **2nd** illusory disguise, illusory object, mirror image
+
+  **3rd** sleep
+
+  **4th** charm, suggestion
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The lamia matriarch can take on the appearance of a Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it does prevent them from using their cursed touch. Each lamia matriarch has a fixed humanoid form—they cannot adopt a different appearance each time they use this ability, and the appearance resembles that of their upper torso when in their true form.
 

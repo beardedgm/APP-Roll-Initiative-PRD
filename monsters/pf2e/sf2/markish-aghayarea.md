@@ -39,7 +39,27 @@ Speed 30 feet, fly 30 feet, swim 40 feet
 
 **Innate arcane Spells** (DC 36), attack +29
 
+  **6th** blur, hydraulic push, illusory object, solid fog
+
+  **7th** cone of cold, control water, plane shift
+
+  **8th** hallucinatory terrain, hydraulic torrent, illusory creature
+
 **Innate occult Spells** (DC 36)
+
+  **1st** harm
+
+  **2nd** death knell
+
+  **3rd** bind undead, paralyze
+
+  **4th** confusion, suggestion
+
+  **6th** feeblemind, true seeing
+
+  **7th** warp mind
+
+  **8th** maze
 
 **Devour Soul** ◆◆ (death, divine, necromancy) Markish touches a creature within reach, dealing 12d6 negative damage (DC 36 basic Fortitude save). If a creature is slain by this ability, the creature's soul becomes trapped within Markish. While its soul is trapped, a creature can't be resurrected except by powerful magic such as a wish spell. Destroying Markish or successfully counteracting Devour Soul (see Spell Deflection) releases the soul. Markish can hold only one soul at a time. A soul has 5 soul charges per level of the originating creature (see Soul Spells below). The devourer can expend these charges to cast spells. If the soul is freed and the creature returns to life, the creature is drained 1 for every 5 soul charges expended. If reduced to 0 soul charges, the soul is consumed and can be restored to life only by wish or similar magic.
 

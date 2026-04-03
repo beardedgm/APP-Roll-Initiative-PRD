@@ -29,6 +29,18 @@ Speed 15 feet, fly 50 feet
 
 **Innate primal Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** guidance, light, produce flame, stabilize
+
+  **1st** create water, mending
+
+  **2nd** detect alignment, invisibility, speak with animals
+
+  **3rd** heal, mind reading
+
+  **4th** fireball, speak with plants
+
+  **7th** plane shift
+
 **Constrict** ◆ 2d10+4 bludgeoning, DC 26
 
 **Gift of Knowledge** When a mix couatl casts modify memory on a willing creature, the mix couatl can Sustain the Spell to modify memories for up to 60 continuous minutes. A mix couatl can grant knowledge of a particular skill to the target as part of the spell. The mix couatl chooses Engineering Lore, Farming Lore, Fishing Lore, Hunting Lore, or Mercantile Lore. The target becomes permanently trained in the chosen skill. A creature can benefit from Gift of Knowledge only once.

@@ -37,6 +37,16 @@ Speed 40 feet
 
 **Innate divine Spells** (DC 44)
 
+  **5th** sending
+
+  **6th** scrying
+
+  **7th** plane shift
+
+  **8th** dispel magic, freedom of movement
+
+  **10th** meteor swarm, revival
+
 **Throw Rock** ◆
 
 **Titanic Grasp** ◆ The titan makes a fist Strike against a creature affected by their Impossible Stature, even if it's outside of the titan's normal reach. On a hit, the titan automatically Grabs the creature and, if out of their reach, pulls it within reach.

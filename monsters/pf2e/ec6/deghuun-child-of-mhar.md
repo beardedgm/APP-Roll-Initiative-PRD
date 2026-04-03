@@ -39,6 +39,10 @@ Speed 40 feet, climb 40 feet
 
 **Innate divine Spells** (DC 38)
 
+  **6th** earthbind, hallucination
+
+  **8th** earthquake
+
 **Beak Crunch** ◆ **Requirements** The deghuun has a creature grabbed with its tentacles; The creature takes 4d8+17 piercing damage.
 
 **Sulfurous Plume** ◆◆ (fire, poison) The deghuun vents caustic smog for 1d4 rounds. Any creature that ends its turn within 30 feet of the deghuun during this time takes 6d6 fire damage and is sickened 1 (DC 38 Fortitude save; the creature avoids the sickened condition on a critical success, or is sickened 2 on a critical failure). While sickened in this way, a creature takes a –2 status penalty to its saving throw against the deghuun's hallucination. Any creature that's in the smog is concealed and treats other creatures as concealed. Strong winds dissipate the smog.

@@ -39,4 +39,12 @@ Speed 30 feet, fly 30 feet
 
 **Innate occult Spells** (DC 21)
 
+  **2nd** invisibility
+
+  **3rd** haste, slow
+
+  **4th** dimensional anchor
+
+  **8th** discern location
+
 **Angled Entry** ◆ The hound of Tindalos casts a 4th-level dimension door spell, but it must transport itself into a space adjacent to an angle of 90o (or more acute) in the structure or environment around it. For example, it could teleport to a space adjacent to a wall (using the angle between the wall and floor) or a corner in a room, or adjacent to a sizable tree growing straight up out of the ground, but not to a flat plain or a room with only curved corners and edges. Once per day, the hound can use this ability to plane shift to or from the Dimension of Time, with the same restrictions on what angles it can appear next to.

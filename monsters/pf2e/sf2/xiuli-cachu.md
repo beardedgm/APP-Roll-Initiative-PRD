@@ -35,9 +35,29 @@ Speed 30 feet, climb 20 feet
 
 **Innate divine Spells** (DC 33)
 
+  **4th** confusion
+
 **Prepared divine Spells** (DC 33), attack +25
 
+  **Cantrips (7th)** bullhorn, chill touch, detect magic, read aura, shield
+
+  **1st** bane, protection, sanctuary
+
+  **2nd** darkness, death knell, see invisibility
+
+  **3rd** blindness, heal, vampiric touch
+
+  **4th** air walk, divine wrath, outcast's curse
+
+  **5th** drop dead, heal, shadow blast
+
+  **6th** dispel magic, heal, repulsion
+
+  **7th** divine vessel, harm, regenerate
+
 **Cleric Domain Spells** (DC 33)
+
+  **7th** shared nightmare, waking nightmare
 
 **Instinctual Tinker** ◆◆ As morlock|B2.
 

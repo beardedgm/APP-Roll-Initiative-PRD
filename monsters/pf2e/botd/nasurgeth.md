@@ -37,6 +37,12 @@ Speed fly 60 feet, swim 80 feet
 
 **Innate divine Spells** (DC 43)
 
+  **Cantrips (10th)** detect magic
+
+  **7th** plane shift, true seeing
+
+  **8th** eclipse burst, harm
+
 **Broken Barb** ◆ **Requirements** A creature is grabbed or restrained in the nasurgeth's jaws; The nasurgeth breaks a tooth off in the target, who takes 3d10 persistent bleed damage and is no longer grabbed or restrained. If the target is adjacent to a surface, the tooth also pins it in place, making it immobilized (Escape DC 45).
 
 **Ravenous Void** ◆◆◆ The nasurgeth barrels forward with their mouth open, Swimming twice in a straight line and moving through the spaces of Huge or smaller creatures. The nasurgeth deals the damage of their jaws Strike to each creature whose space they enter (DC 45 basic Reflex save). Any creature that critically fails is automatically Swallowed Whole.

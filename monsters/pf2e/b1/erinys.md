@@ -37,6 +37,14 @@ Speed 25 feet, fly 40 feet
 
 **Innate divine Spells** (DC 26)
 
+  **2nd** illusory object, illusory disguise
+
+  **3rd** fear
+
+  **4th** dimension door, divine wrath, retributive pain
+
+  **5th** dimension door
+
 **Flames of Fury** Any weapon an erinys holds gains the effects of a flaming rune while they hold it.
 
 **Furious Fusillade** ◆◆◆ The erinys hovers in place if they are flying and fires one arrow at any number of creatures in a 30-foot cone. Each attack is rolled separately. This counts as one attack for the purpose of the erinys's multiple attack penalty.

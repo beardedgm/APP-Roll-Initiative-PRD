@@ -33,7 +33,15 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 21), attack +11
 
+  **Cantrips (2nd)** chill touch, detect magic, mage hand, shield, tanglefoot
+
+  **1st** charm, magic missile, ray of enfeeblement
+
+  **2nd** flaming sphere, invisibility
+
 **Innate divine Spells** (DC 17)
+
+  **2nd** darkness
 
 **Drain Bonded Item** ◇ **Frequency** {"unit":"day","number":1}; **Requirements** The adept hasn't acted yet on this turn.; The adept expends the power stored in its staff. This gives the adept the ability to cast one prepared spell it had already previously cast today (choosing a different spell level each time), without spending a spell slot. The adept must still Cast the Spell and meet the spell's other requirements.
 

@@ -41,6 +41,8 @@ Speed 20 feet
 
 **Innate divine Spells** (DC 30), attack +24
 
+  **6th** searing light
+
 **Hampering Blow When** Ginjana critically succeeds at an attack roll, the target of the attack is clumsy|CRB|clumsy 1 and flat-footed until the end of Ginjana's next turn.
 
 **Light Step** When Ginjana Strides or Steps, she ignores terrain.

@@ -31,6 +31,10 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 17)
 
+  **Cantrips (1st)** read aura
+
+  **2nd** charm, spider climb, touch of idiocy
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The shaukeen takes on the appearance of a Small humanoid. This doesn't change the shaukeen's Speed or their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning). The asura typically loses their jaws and thorn Strikes unless the humanoid form has fangs or a similar unarmed attack. This alternate form has a specific, persistent appearance, which the shaukeen can change by performing a 1-hour ritual.
 
 **Fire Jackal Saliva** (poison)

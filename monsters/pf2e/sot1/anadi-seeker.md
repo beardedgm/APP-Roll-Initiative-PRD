@@ -31,6 +31,10 @@ Speed 25 feet, climb 25 feet
 
 **Innate arcane Spells** (DC 17)
 
+  **Cantrips (1st)** dancing lights, detect magic, mage hand, read aura, shield
+
+  **1st** color spray, magic missile, unseen servant
+
 **Anadi Venom** (poison)
 
 **Change Shape** ◆ (arcane, concentrate, polymorph, transmutation) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.

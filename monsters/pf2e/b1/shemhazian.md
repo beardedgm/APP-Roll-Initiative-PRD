@@ -41,6 +41,14 @@ Speed 35 feet, fly 35 feet, climb 20 feet
 
 **Innate divine Spells** (DC 37)
 
+  **2nd** invisibility
+
+  **4th** clairvoyance, dimension door
+
+  **5th** dimension door, prying eye
+
+  **8th** divine decree
+
 **Enfeebling Bite** (divine, necromancy) If the shemhazian's jaws Strike damages a creature, the target is enfeebled 3. The target can attempt a DC 37 Fortitude save to reduce this to enfeebled 1 (or be unaffected on a critical success).
 
 **Focused Gaze** ◆ (concentrate, divine, enchantment, incapacitation, visual) The shemhazian focuses their gaze on a non-evil creature they can see within 30 feet. If that creature isn't already slowed by the shemhazian's paralyzing gaze, it must attempt a save against the shemhazian's paralyzing gaze. If that creature is slowed, it must succeed at a DC 35 Fortitude save or be paralyzed for 1 round. A shemhazian can't use this ability against the same creature more than once per round.

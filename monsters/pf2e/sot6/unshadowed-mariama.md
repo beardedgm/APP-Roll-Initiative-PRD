@@ -35,9 +35,35 @@ Speed 25 feet
 
 **Prepared occult Spells** (DC 40), attack +32
 
+  **Cantrips (9th)** daze, forbidding ward, ghost sound, read aura, telekinetic projectile
+
+  **1st** bane, fear, true strike
+
+  **2nd** death knell, invisibility, paranoia
+
+  **3rd** chilling darkness, hypnotic pattern, paralyze
+
+  **4th** confusion, dimension door, fly
+
+  **5th** hallucination, synaptic pulse, synesthesia
+
+  **6th** feeblemind, spellwrack, vibrant pattern
+
+  **7th** duplicate foe, paralyze, warp mind
+
+  **8th** disappearance, spiritual epidemic, uncontrollable dance
+
+  **9th** foresight, synesthesia, unfathomable song
+
 **Innate occult Spells** (DC 40), attack +32
 
+  **9th** shadow blast, shadow siphon
+
 **Witch Hexes** (DC 40)
+
+  **Cantrips (9th)** nudge fate
+
+  **9th** blood ward, cackle, curse of death, malicious shadow
 
 **Bind Destinies** ◆◆◆ (abjuration, curse, occult) **Frequency** {"number":1,"unit":"day"}; Mariama ties her fate with that of another creature within 30 feet. The creature must attempt a DC 40 Will save. Regardless of the result of its save, the creature is temporarily immune for 1 day. **Critical Success** 
 **Success** 

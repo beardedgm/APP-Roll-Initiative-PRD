@@ -39,6 +39,14 @@ Speed 30 feet, fly 60 feet
 
 **Innate occult Spells** (DC 25)
 
+  **Cantrips (4th)** chill touch
+
+  **2nd** silence
+
+  **3rd** grim tendrils, harm
+
+  **4th** darkness, dimension door, dispel magic, harm
+
 **Drain Life** (necromancy, occult) When the sceaduinar damages a living creature with its jaws Strike, the sceaduinar gains 5 temporary Hit Points and the creature must succeed at a DC 25 Fortitude save or become drained 1. Further damage dealt to the creature by the sceaduinar increases the drained value by 1 on a failed save, to a maximum of drained 4.
 
 **Entropic Touch** Negative damage dealt by a sceaduinar damages undead and creatures with negative healing as if it were positive damage. The sceaduinar's melee Strikes have the benefits of the ghost touch property rune on attacks against incorporeal undead.

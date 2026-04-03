@@ -35,6 +35,8 @@ Speed 30 feet
 
 **Monk Focus Spells** (DC 34)
 
+  **8th** ki rush, medusa's wrath, wind jump
+
 **Drain Qi** ◆ (divine, necromancy) When Draining Qi, the minister of tumult regains 19 HP.
 
 **Premonition of Death** ◇ **Trigger** The minister rolls initiative or their turn begins; The minister is attuned to coming violence. The minister uses Stance of Death.

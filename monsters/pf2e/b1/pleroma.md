@@ -35,6 +35,24 @@ Speed fly 40 feet
 
 **Innate divine Spells** (DC 47), attack +37
 
+  **1st** create water
+
+  **2nd** detect alignment, shape wood
+
+  **3rd** hypercognition
+
+  **4th** create food, shape stone
+
+  **5th** creation
+
+  **7th** plane shift, retrocognition
+
+  **8th** disintegrate, unrelenting observation
+
+  **9th** banishment, blade barrier, disjunction, overwhelming presence
+
+  **10th** alter reality
+
 **Energy Touch** A pleroma's touch deals its choice of positive or negative damage, but neither energy can be used to heal a creature.
 
 **Sphere of Creation** ◆◆ (incapacitation, magical) Three times per day, a pleroma can manifest a 2-foot-diameter sphere of white energy that hovers above its left hand. By using a single action, which has the concentrate trait, the pleroma can cause the sphere to fly 10 feet. The sphere can move in any direction, ignoring terrain, but it can't move farther than 300 feet away from the pleroma. Wherever the sphere travels, it leaves behind a 5-foot-wide path of new matter, creating either new terrain (the pleroma's choice of normal, difficult, or terrain) or a 5-foot-square solid barrier of a single natural substance (such as clay, wood, or stone). The sphere can enter the space of a creature; when it does, the creature must succeed at a DC 43 Fortitude save or be absorbed into the sphere. On a successful save, the creature is pushed to a space of the GM's choice away from the sphere. Those who fail take 20d6 positive damage (even if they are living) and are pushed away as a success. Those who critically fail, or are reduced to 0 HP by the damage from a failure, become one with the new material and can be restored only via a 10th-level spell. A pleroma can have only one Sphere of Creation in existence at a time, and the sphere automatically vanishes in a flash of blinding light after 1d4 minutes. All creatures within 30 feet of the sphere of creation when it vanishes must succeed at a DC 43 Fortitude save or be permanently blinded.

@@ -41,6 +41,12 @@ Speed 60 feet, fly 160 feet
 
 **Innate primal Spells** (DC 42)
 
+  **4th** gust of wind, solid fog, wall of wind
+
+  **5th** cloudkill
+
+  **8th** wind walk
+
 **Breath Weapon** ◆◆ (electricity, evocation, primal) The dragon breathes a thundercloud that deals 20d6 electricity damage in a 60-foot cone (DC 41 basic Reflex save). This cloud remains in the area for 1d4 rounds, with the effects of obscuring mist. A creature that ends its turn inside of the cloud takes 10d6 electricity damage (DC 41 basic Reflex save). The cloud dragon can't use Breath Weapon again for 1d4 rounds.
 
 **Cloud Form** ◆ (polymorph, primal, transmutation) The cloud dragon's body becomes vaporous and misty. They gain the effects of gaseous form, except their fly Speed remains unchanged. The cloud dragon can use this action again to return to physical form.

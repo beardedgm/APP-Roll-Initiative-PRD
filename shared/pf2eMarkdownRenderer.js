@@ -231,17 +231,26 @@ function renderSpellcasting(spellcastingArr) {
       }
     } else {
       // Format A: PF2eTools internal object keyed by level
-      // Cantrips
+      // The JSON field is "entry" (singular), not "entries" (plural).
+      // Level "0" contains cantrips (with a "level" field for heightened rank).
+      const entry = block.entry ?? block.entries ?? {};
+
+      // Cantrips: either in block.cantrips or in entry["0"]
       if (block.cantrips) {
         const spells = renderSpellLevel(block.cantrips);
         if (spells) lines.push(`  Cantrips ${spells}`);
+      } else if (entry['0']) {
+        const cantrips = renderSpellLevel(entry['0']);
+        const heightenedLvl = entry['0'].level ? ` (${ordinal(entry['0'].level)})` : '';
+        if (cantrips) lines.push(`  **Cantrips${heightenedLvl}** ${cantrips}`);
       }
 
-      // Leveled spells
-      const entries = block.entries ?? {};
-      for (const [lvl, data] of Object.entries(entries).sort(([a], [b]) => Number(a) - Number(b))) {
+      // Leveled spells (skip level 0 — already handled as cantrips)
+      for (const [lvl, data] of Object.entries(entry).sort(([a], [b]) => Number(a) - Number(b))) {
+        if (lvl === '0') continue; // cantrips handled above
         const lvlSpells = renderSpellLevel(data);
-        if (lvlSpells) lines.push(`  **${ordinal(Number(lvl))} level** ${lvlSpells}`);
+        const slots = data.slots ? ` (${data.slots} slots)` : '';
+        if (lvlSpells) lines.push(`  **${ordinal(Number(lvl))}${slots}** ${lvlSpells}`);
       }
 
       // Focus spells

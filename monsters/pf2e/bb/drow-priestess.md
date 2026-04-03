@@ -34,3 +34,9 @@ Speed 30 feet
 **Melee** hand crossbow +9 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing
 
 **Prepared divine Spells** (DC 21)
+
+  **Cantrips (2nd)** detect magic, guidance, message, shield, stabilize
+
+  **1st** command, fear, magic weapon
+
+  **2nd** dispel magic, heal, resist energy

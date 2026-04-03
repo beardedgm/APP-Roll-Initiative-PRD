@@ -39,6 +39,12 @@ Speed 40 feet, fly 100 feet
 
 **Innate primal Spells** (DC 29)
 
+  **Cantrips (2nd)** know direction
+
+  **2nd** entangle
+
+  **3rd** fear
+
 **Breath Weapon** ◆◆ (evocation, primal) The dragon unleashes a swarm of insects that deals 10d6 piercing damage in a 30-foot cone (DC 29 basic Reflex save) before dispersing. A creature that critically fails is stunned 2 from the insects' venom; this is a poison effect. The dragon can't use Breath Weapon again for 1d4 rounds.
 
 **Coiling Frenzy** ◆◆ The dragon makes one claw Strike and one tail Strike in either order, each against the same target. If either Strike hits, the dragon automatically Grabs the target.

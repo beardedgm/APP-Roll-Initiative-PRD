@@ -35,6 +35,8 @@ Speed 20 feet
 
 **Innate primal Spells** (DC 26)
 
+  **1st** charm
+
 **Inspired Feast** (emotion, mental) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour.
 
 **Terrifying Roar** ◆ (auditory, emotion, fear, mental) The biloko reaver unleashes a frightful roar. Any non-biloko within 30 feet must succeed at a DC 29 Will save or become frightened 1 (frightened 3 on a critical failure). Those who critically succeed are temporarily immune for 1 minute.

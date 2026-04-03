@@ -41,4 +41,14 @@ Speed 35 feet, fly 35 feet, burrow 15 feet
 
 **Innate divine Spells** (DC 40), attack +32
 
+  **4th** dimensional anchor
+
+  **5th** dimension door, prying eye
+
+  **7th** plane shift, teleport
+
+  **8th** banishment, blink, disintegrate
+
+  **9th** summon fiend
+
 **Dimensional Ambush** ◆◆ (conjuration, divine, teleportation) The katpaskir casts dimension door, then makes a melee Strike that deals three extra dice of damage. This Strike counts as two attacks when calculating the katpaskir's multiple attack penalty.

@@ -37,6 +37,10 @@ Speed 40 feet, fly 40 feet, climb 20 feet
 
 **Innate divine Spells** (DC 38)
 
+  **Cantrips (9th)** detect magic
+
+  **8th** fear, horrid wilting, Bestiary 3 222 maze, suggestion
+
 **Isolate Foes** ◆◆ (curse, divine, emotion, enchantment, incapacitation, mental) **Frequency** {"unit":"day","number":1}; The ximtal attempts to isolate its enemy's companions, forcing an impression that each creature's friends and allies have vanished and they are all alone against an insurmountable threat. The ximtal chooses up to four creatures, each of whom must be adjacent to one other target. Each target must attempt a DC 38 Will save. On a failure, a target becomes out of phase with all allies. The affected creatures can't perceive their allies or interact with them in any way, and they can move into allies' spaces as if their allies simply weren't there. Allies similarly can't perceive or interact with the affected creatures with one exception: an ally can target an effected creature with remove curse to remove the effects. Every 24 hours, an affected creature can attempt a new saving throw to end this effect.
 
 **Sensory Fever** (disease)

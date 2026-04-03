@@ -31,4 +31,10 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 19), attack +12
 
+  **Cantrips (2nd)** daze, mage hand, message, prestidigitation, telekinetic projectile
+
+  **1st (3 slots)** fear, soothe, true strike
+
+  **2nd (3 slots)** invisibility, mirror image, silence
+
 **Elaborate Feint** ◆◆ Ruanna attempts to Feint using Performance rather than Deception. On a success, the target is flat-footed to any melee attack, not just Ruanna's. Ruanna then Strides.

@@ -33,6 +33,14 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 15)
 
+  **Cantrips (1st)** mage hand
+
+  **1st** fear
+
+  **2nd** mirror image
+
+  **3rd** fear
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The esipil transforms into a Tiny cat, dog, or other unassuming domestic animal (page 304). This doesn't affect the esipil's statistics, but it could change the damage type of its Strikes.
 
 **Skip Between** ◆ (conjuration, divine, teleportation) The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of ethereal jaunt except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between.

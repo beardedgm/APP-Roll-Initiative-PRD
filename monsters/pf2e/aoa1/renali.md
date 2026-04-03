@@ -27,6 +27,12 @@ Speed 25 feet, climb 25 feet
 
 **Innate arcane Spells** (DC 22)
 
+  **Cantrips (2nd)** detect magic, ghost sound, mage hand, message
+
+  **1st** color spray, illusory disguise, illusory object
+
+  **2nd** illusory creature, invisibility
+
 **Anadi Venom** (poison)
 
 **Change Shape** ◆ (arcane, concentrate, polymorph, transmutation) Renali changes into her true form, spider form, or human form. The above statistics assume Renali is in her true form. While in her human form, Renali can't use her fangs attack and loses her climb Speed. When in spider form, she can't use weapons.

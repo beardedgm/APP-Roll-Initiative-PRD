@@ -37,6 +37,10 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 26)
 
+  **Cantrips (4th)** tanglefoot
+
+  **2nd** obscuring mist
+
 **Frightful Parade** ◆◆ The Krampus celebrant Strides up to its Speed and attempts a birch bundle Strike against one creature within its reach at any point during that movement.
 
 **Relentless Torment** ◈ **Trigger** The Krampus celebrant hits a frightened creature with its birch bundle Strike; The target must attempt a DC 26 Will save to resist the effects of the fearful assault. **Critical Success** The creature is unaffected and becomes temporarily immune for 1 hour.

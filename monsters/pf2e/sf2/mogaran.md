@@ -39,6 +39,14 @@ Speed 40 feet, fly 40 feet
 
 **Innate divine Spells** (DC 38)
 
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **8th** divine aura, divine wrath, earthquake
+
+  **9th** massacre, power word stun
+
 **Smoking Wound** A creature damaged by Mogaran's jaws is sickened 1 from the rank smell of vapors from the wound.
 
 **Soulfire Breath** ◆◆ (death, divine, necromancy, negative) Mogaran exhales ghostly green fire in a 60-foot cone. Living creatures in the area take 18d6 negative damage (DC 38 basic Reflex save). A good creature that fails this save becomes stupefied 2 for 1 minute (stupefied 4 on a critical failure). A creature slain by Soulfire Breath can't be resurrected except by powerful magic such as a wish spell. Mogaran can't use Soulfire Breath again for 1d4 rounds.

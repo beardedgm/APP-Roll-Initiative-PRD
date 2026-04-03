@@ -47,6 +47,8 @@ Speed 35 feet
 
 **Innate arcane Spells** (DC 26)
 
+  **4th** dimension door, dispel magic, globe of invulnerability
+
 **Dweomer Leap** ◆◆ (arcane, conjuration, teleportation) The dweomercat casts dimension door, then can make a melee Strike against one creature adjacent to it at the end of its teleport. If the dweomercat ends its teleport adjacent to a creature under an ongoing spell effect or who cast a spell since the dweomercat's last turn, this does not expend a casting of dimension door.
 
 **Pounce** ◆ The dweomercat Strides and makes a Strike at the end of that movement. If the dweomercat began this action hidden, it remains hidden until after this ability's Strike.

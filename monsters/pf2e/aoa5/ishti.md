@@ -31,6 +31,12 @@ Speed 40 feet, fly 40 feet, swim 40 feet, climb 40 feet
 
 **Innate occult Spells** (DC 40)
 
+  **6th** illusory disguise, illusory object, mirror image, ventriloquism
+
+  **8th** sleep
+
+  **9th** charm, nondetection, suggestion
+
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The lamia matriarch can take on the appearance of a Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it does prevent them from using their cursed touch. Each lamia matriarch has a fixed humanoid form—they cannot adopt a different appearance each time they use this ability, and the appearance resembles that of their upper torso when in their true form.
 
 **Quick Dervish Strike** ◆◆ Ishti makes a dagger attack against each enemy within reach. Each attack counts toward her multiple attack penalty, but the penalty does not increase until after all the attacks. The first enemy she damages is subject to matriarch's caress.

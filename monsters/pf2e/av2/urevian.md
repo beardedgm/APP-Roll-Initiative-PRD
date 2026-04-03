@@ -39,6 +39,16 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 30)
 
+  **Cantrips (5th)** detect magic
+
+  **3rd** enthrall, mind reading
+
+  **4th** dimension door, private sanctum, silence
+
+  **5th** dimension door, flame strike, locate, mind probe, sending, wall of force
+
+  **6th** scrying
+
 **Draft Contract** ◆◆◆ (conjuration, divine, manipulate) Urevian produces an infernal contract for a single living mortal. This contract can grant a wide range of abilities and effects, akin to the power of a wish spell but fulfilled to the letter by Urevian. To receive any of those benefits, the mortal must willingly sign its true name to the contract. At that point, the mortal's soul is bound to Urevian and to Hell. While the contract is in effect, the mortal can't be restored to life except by wish or similar magic. If the mortal is restored to life by those means, Urevian knows which mortal came to life and can locate the creature or creatures who restored the mortal to life for 1 year, gaining the effects of a locate spell with unlimited range. Avoiding the terms of an infernal contract is difficult and often dangerous.
 
 **Infernal Wound** (divine, necromancy) Urevian's Strikes also deal 2d6 persistent bleed damage that resists attempts to heal them. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery. The DC to Administer First Aid to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 28 counteract check or the magic fails to heal the creature.

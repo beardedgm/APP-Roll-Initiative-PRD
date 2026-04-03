@@ -37,6 +37,8 @@ Speed 30 feet, fly 40 feet
 
 **Innate divine Spells** (DC 26)
 
+  **4th** cleanse affliction
+
 **Devour Wealth** ◆ **Requirements** The pixiu's previous action was a successful jaws Strike; The pixiu swallows up to 2d12 gold pieces on the target's person and gains temporary Hit Points equal to the amount devoured. These temporary Hit Points last for 1 minute.
 
 **Trample** ◆◆◆ Medium or smaller, claw, DC 26

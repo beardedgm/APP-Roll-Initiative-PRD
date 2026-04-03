@@ -36,3 +36,7 @@ Speed 25 feet
 **Melee** dagger +7 (agile, thrown <10 feet>, versatile S); **Damage** 1d4+2 piercing
 
 **Prepared arcane Spells** (DC 18), attack +8
+
+  **Cantrips (1st)** chill touch, detect magic, prestidigitation, ray of frost, shield
+
+  **1st** command, grim tendrils, magic missile

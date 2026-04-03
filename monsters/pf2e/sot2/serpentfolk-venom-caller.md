@@ -35,7 +35,25 @@ Speed 25 feet
 
 **Spontaneous arcane Spells** (DC 25), attack +17
 
+  **Cantrips (4th)** acid splash, detect magic, mage hand, read aura, shield
+
+  **1st (3 slots)** feather fall, item facade, magic missile
+
+  **2nd (3 slots)** acid arrow, false life, invisibility
+
+  **3rd (3 slots)** mind reading, slow, stinking cloud
+
+  **4th (2 slots)** acid arrow, noxious vapors
+
 **Innate occult Spells** (DC 25)
+
+  **1st** ventriloquism
+
+  **2nd** mirror image
+
+  **3rd** illusory disguise
+
+  **4th** suggestion
 
 **Serpentfolk Venom** (poison) As granitescale, but DC 23.
 

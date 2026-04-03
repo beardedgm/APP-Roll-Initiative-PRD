@@ -51,6 +51,10 @@ Speed 60 feet, fly 180 feet
 
 **Innate arcane Spells** (DC 44)
 
+  **4th** suggestion
+
+  **8th** wall of fire
+
 **Consume Soul** ◇ (death, divine, necromancy) **Trigger** A living creature within 30 feet of the ravener dies; The ravener tears the creature's soul from its body with their maw and gulps it down. The dying creature must attempt a DC 44 Fortitude save. **Critical Success** The creature is unaffected.
 **Success** The ravener tears off a small chunk of the creature's soul. If the victim is restored to life, they are drained 1 in addition to any other side effects of returning to life. The ravener adds a number of Hit Points to their soul ward equal to half the creature's level.
 **Failure** As success, but the creature's soul is ravaged. The creature is drained 3 and the ravener adds a number of Hit Points to their soul ward equal to the creature's level.

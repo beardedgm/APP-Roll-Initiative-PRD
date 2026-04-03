@@ -33,6 +33,10 @@ Speed 25 feet, burrow 25 feet
 
 **Innate primal Spells** (DC 25)
 
+  **1st** shockwave
+
+  **3rd** noxious vapors, shifting sand
+
 **Constrict** ◆ 1d8+8 bludgeoning 
 
 **Writhing Arms** ◆◆ I makes up to four Strikes with different arms, each against a different target. Each attack counts separately for their multiple attack penalty, but the penalty doesn't increase until all attacks have been made. If I subsequently uses the Grab action, they can Grab any number of creatures they hit with Writhing Arms.

@@ -32,3 +32,9 @@ Speed 25 feet
 **Melee** crossbow +12 (range increment <120 feet>, reload <1>); **Damage** 1d8+3 piercing
 
 **Spontaneous occult Spells** (DC 21)
+
+  **Cantrips (2nd)** detect magic, ghost sound, message, prestidigitation, read aura
+
+  **1st (3 slots)** charm, illusory disguise, soothe, ventriloquism
+
+  **2nd (2 slots)** calm emotions, charm, magic mouth

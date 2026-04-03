@@ -35,4 +35,8 @@ Speed 20 feet, fly 40 feet
 
 **Innate divine Spells** (DC 17)
 
+  **1st** command, detect alignment, mending
+
+  **4th** read omens
+
 **Electrical Burst** ◆◆ (divine, electricity, evocation) The arbiter releases an electrical burst from its body that deals 3d6 electricity damage (DC 17 basic Reflex save). Following such a burst, the arbiter becomes stunned for 24 hours.

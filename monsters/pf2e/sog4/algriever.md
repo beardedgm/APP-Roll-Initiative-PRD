@@ -33,6 +33,10 @@ Speed 30 feet, climb 30 feet
 
 **Innate divine Spells** (DC 25), attack +20
 
+  **4th** anathematic reprisal
+
+  **5th** crisis of faith, dispel magic
+
 **Algriever Venom** (enchantment, mental, poison)
 
 **Pilgrim's Ward** ◆◆ (abjuration, divine) **Frequency** {"unit":"month","number":1}; The algriever touches a willing creature and fills it with reverence for their bonded shrine. As long as the target creature obeys the edicts and anathemas of the algriever's bonded shrine, or until that algriever grants Pilgrim's Ward to a different creature, that creature gains a +1 status bonus to all Religion checks and Will saves.

@@ -37,4 +37,12 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 28), attack +20
 
+  **Cantrips (5th)** daze, detect magic, shield, telekinetic projectile
+
+  **2nd** darkness, ghoulish craving, obscuring mist
+
+  **3rd** haste, paralyze, vampiric touch
+
+  **4th** darkness, read omens, suggestion
+
 **Sneak** Attack Dulac deals an additional 1d6 precision damage to flat-footed creatures.

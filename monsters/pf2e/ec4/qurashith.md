@@ -39,6 +39,8 @@ Speed 20 feet, fly 60 feet
 
 **Innate divine Spells** (DC 35)
 
+  **6th** teleport
+
 **Paralytic Saliva** A creature that takes damage from a qurashith's jaws or spittle must succeed at a DC 39 Fortitude save or be slowed|CRB|slowed 1 for 1d4 rounds (slowed|CRB|slowed 2 on a critical failure). If a creature is already slowed when it fails its save, it becomes paralyzed for 1 round.
 
 **Psychic Howl** ◆◆ The qurashith unleashes a debilitating psionic scream. Creatures in a 60-foot cone must succeed at a DC 35 Will save or become stupefied|CRB|stupefied 2 (stupefied|CRB|stupefied 4 on a critical failure) for 1 minute. A creature that critically succeeds at its Will save is immune to the qurashith's Psychic Howl for 24 hours. The qurashith can't use Psychic Howl again for 1d4 rounds.

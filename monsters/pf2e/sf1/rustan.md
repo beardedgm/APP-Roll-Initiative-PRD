@@ -32,6 +32,8 @@ Speed 20 feet
 
 **Champion Devotion Spells** (DC 31)
 
+  **7th** litany of depravity, touch of corruption
+
 **Divine Ally** Drustan's divine ally is his bastard sword. He gains its critical specialization effect, and the weapon gains the flaming property rune.
 
 **Smite Good** ◆ Drustan selects one enemy he can see. Until the start of his next turn, his bastard sword Strikes against that foe deal an additional 6 evil damage. If the chosen enemy attacks Drustan before the start of his next turn, the duration extends to the end of that enemy's next turn.

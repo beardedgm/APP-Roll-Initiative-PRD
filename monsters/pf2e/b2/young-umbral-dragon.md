@@ -39,6 +39,10 @@ Speed 40 feet, fly 140 feet
 
 **Innate primal Spells** (DC 30)
 
+  **Cantrips (4th)** detect magic
+
+  **4th** darkness
+
 **Breath Weapon** ◆◆ (necromancy, negative, primal) The dragon breathes a blast of darkness that deals 12d6 negative energy damage in a 30-foot cone (DC 30 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds. Undead creatures take 14d6 force damage instead of the negative damage.
 
 **Draconic Frenzy** ◆◆ The dragon makes two claw Strikes and one wing Strike in any order.

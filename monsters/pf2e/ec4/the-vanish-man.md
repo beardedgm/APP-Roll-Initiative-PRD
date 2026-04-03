@@ -41,6 +41,10 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 34)
 
+  **2nd** invisibility
+
+  **4th** invisibility
+
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) As faceless butcher (page 80).
 
 **Remove Face** ◆◆ As faceless butcher (page 80).

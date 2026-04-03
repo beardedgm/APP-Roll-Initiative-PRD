@@ -35,4 +35,12 @@ Speed 25 feet
 
 **Prepared primal Spells** (DC 22), attack +14
 
+  **Cantrips (3rd)** acid splash, dancing lights, know direction, shield, tanglefoot
+
+  **1st** command, grease, pass without trace
+
+  **2nd** darkvision, glitterdust, shatter
+
+  **3rd** earthbind, summon elemental
+
 **Entombing Grasp** ◆◆ (earth, manipulate) **Requirements** A foe within Stone Ghost's reach is standing on stone or soil; Stone Ghost briefly extends his intangibility to a foe and drags or pounds them into the earth. He makes an Athletics check against the target's Fortitude DC. On a success, the foe is planted waist-deep in the ground and is immobilized and flat-footed until it Escapes (DC 22). On a critical success, the foe is completely buried and must hold its breath until it is free or else start suffocating. A successful Escape returns the foe to its original square on the surface, or the closest unoccupied square.

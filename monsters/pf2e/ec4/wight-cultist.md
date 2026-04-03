@@ -35,6 +35,14 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 29)
 
+  **Cantrips (6th)** daze, shield
+
+  **3rd** paralyze
+
+  **5th** confusion, downpour
+
+  **6th** crushing despair
+
 **Drain Life** (divine, necromancy) When the wight damages a living creature with its claw or ranseur Strike, the wight gains 12 temporary Hit Points and the creature must succeed at a DC 29 Fortitude save or become drained|CRB|drained 1. Further damage dealt by the wight increases the amount of drain by 1 on a failed save, to a maximum of drained|CRB|drained 4.
 
 **Wight Spawn** (divine, necromancy) A living humanoid slain by a wight's claw or ranseur Strike rises as a wight after 1d4 rounds. This wight spawn is under the command of the wight that killed it. It doesn't have drain life or wight spawn and becomes clumsy|CRB|clumsy 2 for as long as it is a wight spawn. If the creator of the wight spawn dies, the wight spawn becomes a full-fledged, autonomous wight; it regains its free will, gains drain life and wight spawn, and is no longer clumsy.

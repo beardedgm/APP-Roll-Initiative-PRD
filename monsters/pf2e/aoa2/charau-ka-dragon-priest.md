@@ -41,6 +41,14 @@ Speed 25 feet, climb 25 feet
 
 **Prepared divine Spells** (DC 25), attack +17
 
+  **Cantrips (3rd)** daze, divine lance, produce flame, shield
+
+  **1st** burning hands, ray of enfeeblement
+
+  **2nd** flaming sphere, heal
+
+  **3rd** fireball, vampiric touch
+
 **Breath Weapon** ◆◆ (divine, evocation, fire) The priest breathes fire that deals 7d6 fire damage in a 30-foot cone (DC 23 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 
 **Shrieking Frenzy** ◇ (primal, transmutation) **Trigger** The charau-ka's turn begins; **Frequency** {"unit":"hour","number":1}; The charau-ka is quickened until the end of their turn and can use the extra action only to Stride or Strike. While in the frenzy, the charau-ka can't speak and automatically critically fails Stealth checks, due to their loud wailing.

@@ -27,6 +27,12 @@ Speed 40 feet
 
 **Innate occult Spells** (DC 39)
 
+  **2nd** hideous laughter
+
+  **3rd** fear
+
+  **7th** crushing despair
+
 **Emotional Focus** The quelaunt can cast the following cleric domain spells as 8th-level occult innate spells at will without spending Focus Points: blind ambition, captivating adoration, and delusional pride.
 
 **Emotional Frenzy** ◆◆◆ The quelaunt casts up to three spells chosen from its at-will innate spells and its emotional focus spells.

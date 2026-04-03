@@ -41,6 +41,18 @@ Speed 30 feet
 
 **Prepared divine Spells** (DC 45), attack +37
 
+  **Cantrips (10th)** divine lance, message, read aura, shield
+
+  **6th** divine wrath, flame strike, restore senses
+
+  **7th** paralyze, resist energy
+
+  **8th** eclipse burst, finger of death
+
+  **9th** blade barrier, devour life, wail of the banshee
+
+  **10th** harm, miracle, weapon of judgment
+
 **Constrict** ◆ 4d8+12 bludgeoning, DC 45
 
 **Writhe Independently** ◆ **Frequency** {"unit":"round","number":1}; Sarvel makes one tentacle Strike with each tentacle he currently has (to a maximum of six Strikes), but he can't target a single creature with more than one Strike. Each attack counts toward his multiple attack penalty, but the penalty doesn't increase until all the attacks have been made.

@@ -39,6 +39,8 @@ Speed 50 feet, fly 120 feet, burrow 35 feet
 
 **Innate primal Spells** (DC 30)
 
+  **3rd** color spray, glitterdust, hypnotic pattern
+
 **Breath Weapon** ◆◆ (evocation, primal) The dragon breathes a flurry of piercing crystals that deal 12d6 piercing damage in a 40-foot cone (DC 30 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.
 
 **Crystallize Flesh** ◇ (primal, transmutation) **Trigger** The crystal dragon damages a creature made of flesh with a jaws Strike; **Frequency** {"unit":"day","number":1}; The dragon embeds transformative crystals in the creature's flesh. The creature must attempt a DC 30 Fortitude save. **Critical Success** The target is unaffected.

@@ -39,6 +39,14 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 41), attack +33
 
+  **2nd** entangle
+
+  **3rd** earthbind
+
+  **6th** tangling creepers
+
+  **9th** horrid wilting, nature's enmity
+
 **Constrict** ◆ 4d6+16 bludgeoning, DC 41
 
 **Offered to the Swarm** ◇ **Trigger** The arboreal Grabs or Constricts a foe; **Requirements** The hivebound arboreal's swarm host is active; The arboreal offers up the triggering creature to its ants to feed. The triggering creature takes damage as from the swarm host aura, but thereafter gains a +4 circumstance bonus to Escape the Grab until it Escapes.

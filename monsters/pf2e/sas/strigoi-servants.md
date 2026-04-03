@@ -39,6 +39,8 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 27)
 
+  **5th** levitate
+
 **Drink Essence** ◆ (divine, necromancy) When drinking essence, the strigoi servant regains 13 HP.
 
 **Sneak Attack** The strigoi servant deals 1d6 extra precision damage to flat-footed creatures.

@@ -31,4 +31,12 @@ Speed 25 feet
 
 **Prepared primal Spells** (DC 21), attack +11
 
+  **Cantrips (2nd)** dancing lights, produce flame, read aura, tanglefoot
+
+  **1st** burning hands, shillelagh, ventriloquism
+
+  **2nd** darkness, humanoid form
+
 **Druid Order Spells** (DC 21)
+
+  **2nd** wild morph, wild shape

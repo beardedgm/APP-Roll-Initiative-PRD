@@ -41,6 +41,22 @@ Speed 15 feet, swim 15 feet
 
 **Spontaneous occult Spells** (DC 33), attack +25
 
+  **Cantrips (7th)** daze, detect magic, mage hand, read aura, sigil
+
+  **1st (4 slots)** charm, command, grim tendrils, unseen servant
+
+  **2nd (4 slots)** blur, humanoid form, mirror image, telekinetic maneuver
+
+  **3rd (4 slots)** clairaudience, dream message, mind reading, vampiric touch
+
+  **4th (4 slots)** clairvoyance, confusion, fly, modify memory
+
+  **5th (4 slots)** black tentacles, dimension door, subconscious suggestion, synesthesia
+
+  **6th (4 slots)** dispel magic, phantasmal calamity, teleport, spirit blast
+
+  **7th (3 slots)** crushing despair, paralyze, phantom pain
+
 **Drain Qi** ◆ (divine, necromancy) **Requirements** A grabbed, paralyzed, restrained, unconscious, or willing creature is within Kannijo's reach; As vampire, jiang-shi|BotD|jiangi-shi.
 
 **Manipulate the Green** Kannijo can use inveigle against plant creatures normally immune to mental effects, and can communicate with inveigled plant creatures as if under the effects of speak with plants.

@@ -35,4 +35,12 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 19), attack +11
 
+  **Cantrips (2nd)** chill touch, detect magic, divine lance, forbidding ward, shield
+
+  **1st** bane, fear, ray of enfeeblement
+
+  **2nd** animate dead, harm
+
 **Cleric Domain Spells** (DC 19)
+
+  **2nd** touch of undeath

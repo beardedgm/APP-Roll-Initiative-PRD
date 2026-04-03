@@ -35,4 +35,6 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 22)
 
+  **3rd** command, enthrall, mind reading, soothe
+
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The street skelm can take on the appearance of any Medium male humanoid (page 304). This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.

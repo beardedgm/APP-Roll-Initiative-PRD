@@ -33,6 +33,8 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 15)
 
+  **1st** illusory disguise
+
 **Shadow Stride** ◆ (illusion, occult, shadow) **Requirements** The fetchling is in dim light; The fetchling Strides. They have a +10-foot status bonus to their Speed during this Stride. The DC from shadow blending increases to 11 during this Stride, and the fetchling remains concealed by dim light until the end of the movement, even if they leave dim light during the Stride.
 
 **Sneak Attack** The fetchling scout's Strikes deal an additional 1d6 precision damage to flat-footed creatures.

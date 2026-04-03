@@ -49,6 +49,16 @@ Speed 60 feet
 
 **Innate divine Spells** (DC 36), attack +28
 
+  **Cantrips (8th)** daze, produce flame, shield, telekinetic projectile
+
+  **5th** command, harm, heal
+
+  **6th** flame strike, flaming sphere, freedom of movement
+
+  **7th** fireball, harm, heal, prismatic spray
+
+  **8th** blade barrier, fire seeds, prismatic wall
+
 **Constrict** ◆ 2d4+11 bludgeoning plus 2d8 fire, DC 38
 
 **Pull Down the Sun** ◆◆◆ (divine, evocation, fire, light) The avatar of Walkena|LOGM plucks a small drop of sunlight from the sky and rains down sunfire on the battlefield. The avatar selects a 20-foot burst within 90 feet. Sunfire rains down in the area, dealing 12d8 fire damage (DC 38 basic Reflex save) to all creatures that enter or begin their turn in the area. The power of the sun restores the avatar; it instead recovers an equal number of Hit Points while in the area. The sunfire continues to rain until the end of the avatar's next turn. The avatar can't use Pull

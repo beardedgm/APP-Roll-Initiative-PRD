@@ -33,6 +33,8 @@ Speed 45 feet
 
 **Focus Spells** (DC 30)
 
+  **7th** ki blast, ki strike, lay on hands
+
 **Defiant Shove** ◆ **Requirements** Tino used Retributive Strike on a creature since the start of his previous turn, attempted the Strike it permitted, and didn't critically miss; Tino throws his whole body into a powerful push. He moves the target 5 feet in any direction and can then attempt to Trip that creature. This is forced movement.
 
 **Divine Smite** If Tino hits with his Retributive Strike, the target takes 3 persistent good damage.

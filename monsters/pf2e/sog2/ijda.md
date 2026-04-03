@@ -42,6 +42,14 @@ Speed 30 feet
 
 **Innate occult Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** daze
+
+  **1st** true strike
+
+  **2nd** item facade, touch of idiocy
+
+  **3rd** phantom pain, shatter
+
 **Manifest False Memories** ◆◆ (aura, concentrate, emotion, enchantment, mental, occult) The ijda releases a cloud of red butterflies from its body, each of which carries a false memory that infects those they brush against. All non-nindoru|SoG2 creatures within 10 feet of the ijda must attempt a DC 21 Will save. The ijda can't Manifest False Memories for 1d4 rounds. **Critical Success** The creature is unaffected.
 **Success** The creature is stupefied 1 until the end of its next turn.
 **Failure** The creature is stupefied 1 and confused until the end of its next turn.

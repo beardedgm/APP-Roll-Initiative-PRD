@@ -33,6 +33,14 @@ Speed 25 feet, swim 25 feet
 
 **Innate occult Spells** (DC 23)
 
+  **Cantrips (4th)** daze, detect magic
+
+  **1st** charm
+
+  **2nd** paranoia
+
+  **4th** charm, dimension door
+
 **Braincloud** ◆ (attack, enchantment, mental, occult, open) The shoggti caresses a creature with a tentacle and supernaturally erodes the creature's capability for thought as it does so. The target must succeed at a DC 25 Will save or become stupefied 2, with an unlimited duration. The target can attempt the save to remove the stupefied condition again once per day when it makes its daily preparations.
 
 **Constrict** ◆ 1d10+8 bludgeoning, DC 25

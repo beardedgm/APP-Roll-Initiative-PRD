@@ -32,3 +32,7 @@ Speed 10 feet, fly 40 feet
 **Melee** luminous spark +8 (fire, light, range <20 feet>); **Damage** 1d4 fire
 
 **Innate primal Spells** (DC 16)
+
+  **Cantrips (1st)** dancing lights, daze, detect magic
+
+  **1st** color spray

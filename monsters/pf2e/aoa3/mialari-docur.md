@@ -35,6 +35,14 @@ Speed 30 feet
 
 **Spontaneous occult Spells** (DC 29), attack +23
 
+  **Cantrips (3rd)** detect magic, mage hand, shield, telekinetic projectile
+
+  **1st (3 slots)** charm, soothe, true strike
+
+  **2nd (3 slots)** calm emotions, mirror image, telekinetic maneuver
+
+  **3rd (3 slots)** enthrall, haste, mind reading
+
 **Ranged Legerdemain** Mialari can use telekinesis to perform manipulate actions that use the Thievery skill at a range of 30 feet, but she takes a −2 circumstance penalty to her check when doing so.
 
 **Sneak Attack** (precision) Mialari deals an extra 2d6 precision damage to flat-footed creatures.

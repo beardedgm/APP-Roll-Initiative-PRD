@@ -33,6 +33,18 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 31), attack +23
 
+  **Cantrips (5th)** acid splash, chill touch, detect magic, message, ray of frost
+
+  **1st** grim tendrils, unseen servant
+
+  **2nd** false life, mirror image, spectral hand
+
+  **3rd** bind undead, vampiric touch
+
+  **4th** fly, seal fate, vampiric maiden
+
+  **5th** cloudkill, enervation
+
 **Clockwork Necromancy** ◆◆ (evil, necromancy, unstable) Parsus winds their necromechanical innovation (see below) to infuse a corpse-riddled area with necromantic energy. The innovation casts black tentacles on a point within 100 feet, causing the dead body parts in a 10-foot burst to briefly animate and scrabble at creatures within the area for 1 round.
 
 **Explode** ◆◆ (manipulate, necromancy, unstable) Parsus pushes their necromechanical innovation beyond its normal limits, dealing 10d6 negative damage in a 10-foot emanation (DC 31 basic Reflex save). Parsus can choose to include themself in this effect.

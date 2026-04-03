@@ -31,6 +31,14 @@ Speed 20 feet, burrow 45 feet, climb 20 feet
 
 **Innate arcane Spells** (DC 24)
 
+  **2nd** glitterdust
+
+  **4th** shape stone
+
+  **5th** veil, wall of stone
+
+  **7th** plane shift
+
 **Earth Glide** The shaitan can Burrow through dirt and stone at its full burrow Speed, leaving no tunnels or signs of its passing.
 
 **Shove into Stone** (arcane, earth, transmutation) When the shaitan Pushes a creature into a stone barrier, the target must succeed at a DC 22 Reflex save or become merged with the barrier (as meld with stone). The victim can attempt to Escape (DC 28).

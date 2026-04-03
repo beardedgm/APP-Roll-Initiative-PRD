@@ -35,6 +35,12 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 25)
 
+  **1st** command
+
+  **3rd** paralyze
+
+  **4th** air walk, dimension door
+
 **Animal Killer** A kithangian's melee Strikes deal an additional 2d6 damage to animals.
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The kithangian can take on the appearance of any Medium or Large animal. This doesn't change its Speed or their attack and damage modifiers with its Strikes, but it might change the damage type its Strikes deal. 

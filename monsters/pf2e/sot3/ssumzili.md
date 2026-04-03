@@ -37,6 +37,16 @@ Speed 40 feet
 
 **Innate primal Spells** (DC 29)
 
+  **1st** negate aroma
+
+  **2nd** pass without trace, quench, waterwalk
+
+  **3rd** earthbind
+
+  **4th** hydraulic torrent
+
+  **5th** transmute rock and mud
+
 **Puddle Stride** A ssumzili ignores terrain caused by rain, such as puddles or wet rocks.
 
 **Sneak Attack** A ssumzili deals an additional 2d6 precision damage to flat-footed creatures.

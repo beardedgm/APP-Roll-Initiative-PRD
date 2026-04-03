@@ -35,6 +35,8 @@ Speed 20 feet, burrow 10 feet
 
 **Innate primal Spells** (DC 26)
 
+  **4th** shape stone
+
 **Earthen Blow** ◆ (earth, transmutation) **Frequency** {"unit":"round","number":1}; The stoneliege commands nearby earth to attack a foe. The stoneliege makes a claw Strike against a creature that is within 60 feet of the stoneliege and 10 feet of an earthen surface, such as dirt, mud, stone, or sand. The Strike originates from the surface's square and has a reach of 10 feet. On a critical hit, the target is also knocked prone.
 
 **Earthen Torrent** ◆◆ (earth, transmutation) **Frequency** {"unit":"minute","number":1}; **Requirements** The stoneliege is standing on or next to at least 10 cubic feet of dirt, stone, or other earthen material; The stoneliege creates a violent wave of roiling earth. Creatures in a 15-foot cone take 7d8 bludgeoning damage (DC 26 basic Reflex save; on a critical failure, creatures are also knocked prone).

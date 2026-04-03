@@ -31,6 +31,12 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 26), attack +18
 
+  **2nd** invisibility
+
+  **3rd** heroism
+
+  **4th** calm emotions, charm, dimension door, dispel magic, illusory creature, magic aura, suggestion
+
 **Champion Focus Spell** DC 26, 1 Focus Point; 4th lay on hands (Core Rulebook 387)
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The procyal can transform only into a specific individual Small or Medium humanoid that they've met at least once. They can't transform into a generic member of a given ancestry.

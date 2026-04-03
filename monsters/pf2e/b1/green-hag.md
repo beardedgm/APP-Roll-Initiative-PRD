@@ -33,6 +33,10 @@ Speed 25 feet, swim 25 feet
 
 **Innate occult Spells** (DC 20), attack +14
 
+  **Cantrips (2nd)** acid splash, dancing lights, ghost sound, message
+
+  **2nd** invisibility, tree shape
+
 **Betraying Touch** ◆ The green hag touches a creature that doesn't realize the hag is an enemy. The betrayed creature is affected by the hag's enfeebling humors and takes a –4 circumstance penalty to their saving throw against that effect.
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The green hag can take on the appearance of any Medium humanoid woman. This doesn't change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).

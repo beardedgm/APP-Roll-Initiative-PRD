@@ -39,7 +39,17 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 23), attack +13
 
+  **Cantrips (3rd)** chill touch, divine lance, forbidding ward, message
+
+  **1st** bane, bless, fear
+
+  **2nd** darkness, death knell, silence
+
+  **3rd** chilling darkness, crisis of faith, harm
+
 **Cleric Domain Spells** (DC 23)
+
+  **3rd** overstuff, touch of undeath
 
 **Consume Flesh** ◆ (manipulate) As lacedon, but 3d6 Hit Points.
 

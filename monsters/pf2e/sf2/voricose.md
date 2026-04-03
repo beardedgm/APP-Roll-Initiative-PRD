@@ -41,6 +41,16 @@ Speed 40 feet
 
 **Innate divine Spells** (DC 36)
 
+  **Cantrips (8th)** stabilize
+
+  **5th** breath of life
+
+  **6th** restoration
+
+  **7th** regenerate
+
+  **8th** heal
+
 **Focus Gaze** ◆ (concentrate, divine, enchantment, fear, mental, visual) As interlocutor|B2.
 
 **Surgical Rend** ◆ As interlocutor|B2.

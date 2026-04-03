@@ -33,6 +33,8 @@ Speed 25 feet, climb 15 feet
 
 **Innate divine Spells** (DC 15)
 
+  **1st** fear
+
 **Pounce** ◆ The mummified cat Strides and makes a Strike at the end of its movement. If the mummified cat began this action hidden, it remains hidden until after this ability's Strike.
 
 **Sneak Attack** The mummified cat deals an additional 1d4 precision damage to flat-footed creatures.

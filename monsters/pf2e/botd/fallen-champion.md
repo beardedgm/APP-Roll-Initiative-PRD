@@ -39,7 +39,11 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 25)
 
+  **4th** harm
+
 **Champion Devotion Spells** (DC 25)
+
+  **4th** touch of corruption, unimpeded stride
 
 **Heretic's Armaments** (divine, enchantment) While the fallen champion wields the favored weapon of its former deity, that weapon gains the effect of a fearsome property rune (Advanced Player's Guide 260).
 

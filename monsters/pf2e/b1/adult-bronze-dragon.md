@@ -39,6 +39,8 @@ Speed 40 feet, fly 140 feet, swim 50 feet
 
 **Innate arcane Spells** (DC 33)
 
+  **2nd** obscuring mist
+
 **Breath Weapon** ◆◆ The bronze dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 rounds. - Lightning (arcane, electricity, evocation); The dragon breathes lightning in a 80-foot line that deals 8d12 electricity damage (DC 33 basic Reflex save).
 - Repulsion Gas (abjuration, arcane, incapacitation, mental); The dragon breathes a 80-foot line of repulsive gas. Each creature in the area must succeed at a DC 33 Will save or become fleeing from the dragon for 1 round (or 2 rounds on a critical failure).
 

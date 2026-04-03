@@ -37,6 +37,10 @@ Speed 30 feet
 
 **Innate occult Spells** (DC 18), attack +10
 
+  **Cantrips (1st)** ghost sound, telekinetic projectile
+
+  **1st** illusory disguise
+
 **Create Thatchling Spawn** (necromancy, occult) A living humanoid who's slain by a red-hooded thatchling while under the effects of Thatchling's Curse rises as a thatchling|SoG1 after 1d4 rounds. This spawn is under the command of the red-hooded thatchling that killed it. If a red-hooded thatchling controls too many at once (as determined by the GM), some thatchlings can free themselves with a DC 18 Will saving throw at the start of their turn. If the red-hooded thatchling who created the spawn is destroyed, the spawn becomes an autonomous thatchling.
 
 **Howl of Vengeful Fury** ◆◆ (necromancy, occult, sonic) **Frequency** {"unit":"hour","number":1}; The red-hooded thatchling sobs pitifully before unleashing a terrifying scream. All non-thatchling creatures within a 30-foot emanation take 2d10 sonic damage (DC 18 basic Fortitude save) and become immune to all thatchlings' distracting giggle for 1 minute. Thatchlings in the area gain 5 temporary Hit Points and a +1 status bonus to their Strikes and saving throws for 1 minute.

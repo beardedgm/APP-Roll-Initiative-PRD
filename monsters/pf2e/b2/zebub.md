@@ -33,6 +33,14 @@ Speed 15 feet, fly 50 feet
 
 **Innate divine Spells** (DC 17)
 
+  **Cantrips (2nd)** message
+
+  **2nd** invisibility, summon animal
+
+  **4th** dimension door
+
+  **5th** dimension door
+
 **Cocytan Filth** (disease, virulent)
 
 **Infernal Eye** ◆◆◆ (divine, divination) The zebub records everything they see, and though they don't remember all observations, they can pass them along to another creature. The zebub replays 10 minutes of witnessed events to a touched willing creature, which receives the memories in a flash of information. By remaining in contact, the zebub can spend additional 3-action activities to replay more information. After relaying their visions to another, the zebub can't ever recall those events again.

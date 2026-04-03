@@ -41,6 +41,22 @@ Speed 20 feet
 
 **Prepared divine Spells** (DC 33), attack +25
 
+  **Cantrips (7th)** chill touch, detect magic, divine lance, guidance, shield
+
+  **1st** fear, penumbral shroudlogm, ray of enfeeblement
+
+  **2nd** death knell, see invisibility
+
+  **3rd** blindness, cup of dustlogm, chilling darkness
+
+  **4th** air walk, freedom of movement, resist energy
+
+  **5th** crisis of faith, shadow blast, wall of flesh
+
+  **6th** disintegrate, divine wrath
+
+  **7th** eclipse burst, harm
+
 **Channel Rot** (divine, necromancy) The mummy prophet of Set|BotD can deliver devastating rot through melee weapons they wield.
 
 **Breath of Sand** ◆◆ (concentrate, divine, earth, evocation, negative) **Requirements** The prophet's Sandstorm is active; The prophet inhales its Sandstorm, suppressing the effect until the end of the prophet's next turn. It then exhales a 120-foot cone of negatively charged sand that deals 7d6 negative and 7d6 slashing damage (DC 33 basic Reflex save).

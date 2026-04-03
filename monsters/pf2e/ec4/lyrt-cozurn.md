@@ -33,6 +33,16 @@ Speed fly 50 feet
 
 **Innate occult Spells** (DC 35), attack +31
 
+  **Cantrips (6th)** telekinetic projectile
+
+  **3rd** fear
+
+  **4th** modify memory
+
+  **5th** chilling darkness, fear
+
+  **6th** dominate, feeblemind, telekinetic maneuver
+
 **Inhabit Object** ◆ Lyrt possesses a Large or smaller object within 20 feet, making it an animated object (Bestiary 20) This animated object's level can be no higher than Lyrt's level – 2. If the target object is being held by a creature, the bearer can attempt a Will save to prevent the possession. This possession ends when the object is destroyed or Lyrt leaves it. At this point, Lyrt reappears in the object's square and can't Inhabit an Object again for 1d4 rounds.
 
 **Malevolent Possession** ◆◆ Lyrt attempts to possess an adjacent corporeal creature. This has the same effect as the possession spell with an unlimited duration, except since Lyrt doesn't have a physical body, he is unaffected by that restriction. When Lyrt departs, the target has only confused and incoherent memories of the period during which they were possessed. If a creature dies while possessed by Lyrt and its corpse remains intact, Lyrt can immediately inhabit the corpse (see Inhabit Object) as a reaction, in which case the corpse acts like an animated object.

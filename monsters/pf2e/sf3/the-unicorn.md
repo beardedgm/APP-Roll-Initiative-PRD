@@ -20,3 +20,19 @@ unique, n, large, construct
 ---
 
 **Innate occult Spells** (DC 35), attack +27
+
+  **Cantrips (8th)** daze, detect magic, ghost sound, telekinetic projectile
+
+  **1st** ill omen
+
+  **2nd** augury
+
+  **3rd** heal
+
+  **4th** confusion
+
+  **5th** heal, dimension door
+
+  **7th** heal, visions of danger
+
+  **8th** uncontrollable dance

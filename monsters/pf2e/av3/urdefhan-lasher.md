@@ -37,6 +37,12 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 22), attack +14
 
+  **1st** feather fall, ray of enfeeblement
+
+  **2nd** death knell
+
+  **3rd** paralyze
+
 **Constrict** ◆ 1d8+7 slashing, DC 25
 
 **Shauth Seize** The lasher gains the Grab ability with a shauth lash and can use their Wicked Bite through magical shauth weapon Strikes.

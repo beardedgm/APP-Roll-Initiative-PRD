@@ -45,6 +45,10 @@ Speed 50 feet, fly 150 feet
 
 **Innate arcane Spells** (DC 35)
 
+  **Cantrips (6th)** detect magic, read aura
+
+  **4th** suggestion
+
 **Breath Weapon** ◆◆ (arcane, evocation, fire) The dragon breathes a blast of flame that deals 15d6 fire damage in a 50-foot cone (DC 36 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 
 **Draconic Frenzy** ◆◆ The dragon makes two claw Strikes and one wing Strike in any order.

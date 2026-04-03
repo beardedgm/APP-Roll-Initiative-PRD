@@ -37,6 +37,14 @@ Speed 40 feet, fly 40 feet
 
 **Innate primal Spells** (DC 34)
 
+  **2nd** invisibility
+
+  **4th** charm, darkness, gaseous form
+
+  **6th** fireball
+
+  **7th** fireball, fiery body, flame strike, wall of fire
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The fire yai takes on the appearance of a fire giant. This doesn't change their Speed or Strike attack and damage.
 
 **Impaling Push** ◆◆ The fire yai attempts a katana Strike. If it hits, the fire yai attempts an Athletics check against the target creature's Fortitude DC. **Critical Success** The fire yai Strides or Flies up to half its Speed in any direction. The struck creature takes 4d6 persistent bleed damage and is pushed along with the yai an equal distance. The creature is grabbed until the yai's next turn or until the yai makes a katana Strike.

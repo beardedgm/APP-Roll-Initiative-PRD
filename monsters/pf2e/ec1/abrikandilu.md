@@ -35,6 +35,8 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 20)
 
+  **2nd** fear
+
 **Mutilating Bite** (curse, divine, necromancy) When the wrecker demon hits a creature with a jaws Strike, the creature must succeed at a DC 21 Fortitude save or become physically mutilated. The creature then takes a –1 status penalty to Charisma-based checks. This penalty is cumulative up to –3, and remains even if the wounds are healed. The penalty is reduced by 1 every 24 hours until it reaches 0.
 
 **Wreck** ◆ The wrecker demon makes two claw Strikes against an object (if the object is worn or held by a creature, this action gains the manipulate trait). If both Strikes hit, combine their damage for the purpose of overcoming its Hardness. These Strikes do not count toward the wrecker demon's multiple attack penalty, nor does that penalty apply to these Strikes.

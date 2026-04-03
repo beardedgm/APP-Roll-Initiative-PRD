@@ -37,6 +37,14 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 25)
 
+  **Cantrips (4th)** dancing lights, tanglefoot
+
+  **2nd** entangle
+
+  **3rd** wall of thorns
+
+  **4th** hallucinatory terrain, modify memory, sleep
+
 **Change Shape** ◆◆ (concentrate, polymorph, primal, transmutation) A blodeuwedd can take on the appearance of a single unique humanoid or the form of a prairie owl. When in humanoid form, the blodeuwedd loses its claw attack. In owl form, its statistics change as follows: Size Small; Speed fly 60 feet; Melee 1 talons +15, Damage 1d3+1. A blodeuwedd can return to their normal form as a free action.
 
 **Living Footsteps Every** Stride action taken by a blodeuwedd causes small plants, grasses, and wildflowers to sprout from the ground, though they can suppress this effect if they desire. In a region or terrain that wouldn't normally support plant life, these plants thrive for 1 minute before withering away.

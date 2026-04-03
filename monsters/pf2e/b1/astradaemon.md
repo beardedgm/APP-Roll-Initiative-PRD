@@ -41,6 +41,16 @@ Speed 60 feet, fly 60 feet
 
 **Innate divine Spells** (DC 37)
 
+  **1st** detect alignment
+
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **7th** plane shift
+
+  **8th** discern location, finger of death
+
 **Devour Soul** ◆ (divine, incapacitation, necromancy) **Requirements** The astradaemon hasn't used an action with the attack trait yet this turn.; The astradaemon draws out and consumes the soul of a living creature it has grabbed. The creature must succeed at a DC 35 Fortitude save or instantly die. If it dies, the astradaemon gains 10 temporary Hit Points and a +2 status bonus to attack and damage rolls for 1 minute, or for 1 day if the victim was 15th level or higher. A victim slain in this way can be returned to life normally. A creature that survives is temporarily immune for 1 minute.
 
 **Essence Drain** (divine, necromancy, negative) When an astradaemon hits with its claw, jaws, or tail, it drains the target's spiritual and vital essences. The target takes 2d10 negative energy damage and the astradaemon regains an equal number of Hit Points. The target must succeed at a DC 37 Fortitude save or become doomed 1 and drained 1. If the target was already drained or doomed, it instead increases both conditions' value by 1, to a maximum of 4.

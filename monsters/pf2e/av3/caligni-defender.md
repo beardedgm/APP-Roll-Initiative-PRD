@@ -39,4 +39,8 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 24)
 
+  **Cantrips (3rd)** detect magic
+
+  **2nd** darkness, obscuring mist
+
 **Shoulder to Shoulder** When adjacent to one or more defenders they can see, the defender deals an additional 2d6 damage with their Strikes.

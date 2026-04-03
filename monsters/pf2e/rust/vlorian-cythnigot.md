@@ -33,6 +33,14 @@ Speed 30 feet
 
 **Innate occult Spells** (DC 20)
 
+  **Cantrips (2nd)** daze, detect magic
+
+  **1st** phantom pain
+
+  **2nd** detect alignment, paranoia
+
+  **4th** read omens
+
 **Sickening Display** ◆ (concentrate, emotion, enchantment, fear, mental, occult, visual) The vlorian cythnigot presents its awful appearance fully, and creatures in a 10-foot emanation must attempt a DC 20 Will save. Once a creature attempts this save, it's temporarily immune to further Sickening Displays for 1 minute. **Critical Success** The creature is unaffected.
 **Success** The creature is flat-footed until its next turn.
 **Failure** The creature is sickened 1, and is flat-footed for as long as it's sickened.

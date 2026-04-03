@@ -33,6 +33,8 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 15)
 
+  **4th** speak with plants
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) As leaf leshy, except the gourd leshy transforms into a gourd-bearing plant.
 
 **Ensnare** When the gourd leshy damages a creature with a fist or seed Strike, vines lash out from the leshy (or seed) and wrap around the target's limbs. The target must attempt a DC 17 Reflex save. On a failure, the target takes a –10-foot status penalty to its Speed for 1 round; on a critical failure, the target is immobilized for 1 round and the penalty to Speed lasts for 1 minute.

@@ -39,6 +39,16 @@ Speed 25 feet, fly 30 feet, swim 25 feet
 
 **Innate divine Spells** (DC 26), attack +16
 
+  **1st** detect alignment
+
+  **2nd** obscuring mist
+
+  **3rd** shatter
+
+  **4th** acid arrow, solid fog
+
+  **5th** dimension door
+
 **Adaptive Strike** ◇ (divine, polymorph, transmutation) The naunet chooses adamantine, cold iron, or silver; its melee Strikes count as that type for 1 minute or until it uses Adaptive Strike again.
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The naunet can take the appearance of any Small, Medium, or Large animal, beast, or humanoid. This doesn't change its Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal.

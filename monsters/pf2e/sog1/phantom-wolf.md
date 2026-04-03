@@ -40,4 +40,8 @@ Speed fly 35 feet
 
 **Innate occult Spells** (DC 14), attack +6
 
+  **Cantrips (1st)** daze, ghost sound
+
+  **1st** fear
+
 **Pack Attack** The phantom wolf's Strikes deal an additional 1d4 damage to creatures within reach of at least one of its allies.

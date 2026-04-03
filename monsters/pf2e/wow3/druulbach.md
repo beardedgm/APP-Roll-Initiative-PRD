@@ -35,6 +35,10 @@ Speed 35 feet, swim 20 feet
 
 **Innate occult Spells** (DC 29)
 
+  **2nd** augury, mist
+
+  **5th** mariner's curse
+
 **Drowning Hook** ◆ (primal, water) **Requirements** A creature is prone within Druulbach's reach; Druulbach uses his sickle to push the creature down as water bubbles up below it. The target becomes submerged in water until they are no longer prone and must hold their breath (Player Core 437) if it can't breathe water. The target takes 6d6 bludgeoning damage (DC 29 basic Fortitude save) and loses 3 rounds worth of air if it fails the save.
 
 **Flurry of Hooks** ◆◆ **Requirements** Druulbach is wielding two sickles; Druulbach makes three sickle Strikes against one target. If multiple attacks hit, combine their damage and apply weaknesses and resistances only once.

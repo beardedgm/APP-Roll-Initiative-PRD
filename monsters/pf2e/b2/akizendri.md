@@ -37,6 +37,12 @@ Speed 25 feet, fly 25 feet, swim 25 feet
 
 **Innate divine Spells** (DC 20), attack +12
 
+  **Cantrips (2nd)** acid splash, daze, ghost sound, mage hand, sigil
+
+  **1st** detect alignment
+
+  **3rd** glyph of warding, secret page
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The akizendri takes on the appearance of any Small or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.
 
 **Constrict** ◆ 1d8+3 bludgeoning, DC 20

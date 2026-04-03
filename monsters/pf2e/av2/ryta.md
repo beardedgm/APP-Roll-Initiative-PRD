@@ -31,6 +31,12 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 21), attack +13
 
+  **Cantrips (2nd)** dancing lights, daze, ghost sound, shield, telekinetic projectile
+
+  **1st (4 slots)** charm, command, soothe, ventriloquism
+
+  **2nd (3 slots)** deafness, shatter, soothe
+
 **Cheek Pouches** Ryta has stretchy cheek pouches that can store up to 1 cubic foot of objects (though no more than four light items). She can remove or store an item using. the Interact action. As long as she has at least one object in her cheek pouches, her speech is noticeably difficult to understand.
 
 **Swarming** Ryta can end her movement in the same square as an ally that also has this ability. Only two such creatures can share the same space.

@@ -35,6 +35,16 @@ Speed 40 feet, fly 75 feet
 
 **Innate divine Spells** (DC 36), attack +28
 
+  **Cantrips (7th)** light
+
+  **1st** detect alignment
+
+  **2nd** invisibility
+
+  **4th** discern lies
+
+  **7th** blade barrier, divine decree, divine wrath, heal, remove curse, remove disease, remove fear
+
 **Divine Armament** (divine, evocation) Any weapon gains the effect of a holy property rune while an astral deva wields it.
 
 **Stunning Strike** ◆ **Requirements** The astral deva hit a foe earlier this turn with a weapon Strike.; The astral deva makes a weapon Strike against the foe. On a success, the foe must succeed at a DC 34 Fortitude save or become stunned 1. On a critical failure, the foe is stunned 2 instead.

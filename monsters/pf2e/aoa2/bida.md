@@ -33,6 +33,10 @@ Speed 40 feet, fly 60 feet, climb 20 feet
 
 **Innate occult Spells** (DC 26)
 
+  **2nd** humanoid form
+
+  **3rd** nondetection
+
 **Constrict** ◆ 1d6+6 bludgeoning, DC 26
 
 **Eight Coils** A bida can Strike with its tail even while Grabbing creatures with it. The bida can have up to eight Medium or smaller creatures grabbed with its tail at a time; it can also grab Large creatures, but they count as four Medium creatures for this purpose.

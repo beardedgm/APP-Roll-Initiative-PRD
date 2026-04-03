@@ -31,4 +31,10 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 21), attack +13
 
+  **Cantrips (2nd)** daze, message, read aura, shield, telekinetic projectile
+
+  **1st** mindlink, phantom pain, soothe
+
+  **2nd** calm emotions, phantom pain, telekinetic maneuver
+
 **Evaluate Discordance** ◆◆ (emotion, enchantment, mental, occult) **Frequency** {"number":1,"unit":"day"}; The kashrishi evaluator assesses the disharmony between themself and a creature within 30 feet and then sparks the discordance, sending psychic energy to overwhelm the target's feelings. This deals 6d6 mental damage (DC 21 basic Will save). On a critical failure, the target also becomes stunned 1.

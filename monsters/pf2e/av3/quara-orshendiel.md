@@ -45,6 +45,10 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 28)
 
+  **Cantrips (6th)** dancing lights
+
+  **2nd** darkness, faerie fire
+
 **Defensive Shooter** Quara's ranged attacks don't trigger reactions.
 
 **Poison Weapon** ◆ (manipulate) **Requirements** Quara is holding a piercing or slashing weapon and has a free hand; Quara applies poison to the weapon.

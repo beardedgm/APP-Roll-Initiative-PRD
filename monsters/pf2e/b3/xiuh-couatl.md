@@ -31,6 +31,14 @@ Speed 20 feet, fly 60 feet
 
 **Innate occult Spells** (DC 32), attack +24
 
+  **Cantrips (6th)** detect magic, ghost sound, read aura, telekinetic projectile
+
+  **2nd** invisibility
+
+  **6th** charm, clairaudience, clairvoyance, crushing despair, detect alignment, dispel magic, dream message, fear, illusory scene, mind reading, mindlink, phantom pain, see invisibility, sending, zone of truth
+
+  **7th** plane shift
+
 **Breath Weapon** ◆◆ (arcane, evocation, fire) The xiuh couatl breaths a gout of flame and lightning in an 80-foot line that deals 5d8 electricity damage and 5d8 fire damage (DC 32 basic Reflex save). The xiuh couatl can't use Breath Weapon again for 1d4 rounds.
 
 **Greater Constrict** ◆ 1d10+10 bludgeoning plus 1d8 electricity, DC 32 (page 305)

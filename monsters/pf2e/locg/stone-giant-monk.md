@@ -33,6 +33,8 @@ Speed 40 feet
 
 **Focus divine Spells** (DC 24)
 
+  **4th** ki strike, perfect strike
+
 **Big Swing** ◆◆ The stone giant makes a fist Strike. The target is Pushed up to 10 feet on a hit or up to 20 feet on a critical hit. If the target collides with a solid object or lands on the ground, it takes bludgeoning damage as though it had fallen the distance it moved.
 
 **Throw Rock** ◆

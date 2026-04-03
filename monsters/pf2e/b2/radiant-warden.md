@@ -33,6 +33,14 @@ Speed 30 feet, fly 30 feet
 
 **Innate occult Spells** (DC 38)
 
+  **5th** dimension door
+
+  **7th** dimensional lock, prismatic spray
+
+  **8th** collective transposition, scintillating pattern
+
+  **9th** teleport
+
 **Orrery** ◆ (concentrate) Until it acts, the radiant warden appears to be an orrery (or similar large mechanical contraption, such as a telescope). It has an automatic result of 53 on Deception checks and DCs to convincingly pass as such a machine.
 
 **Radiant Blast** ◆◆ (evocation, force, occult) The radiant warden releases a 50-foot cone of bright energy that deals 10d12 force damage (DC 38 basic Reflex save). The radiant warden can't use Radiant Blast for 1d4 rounds.

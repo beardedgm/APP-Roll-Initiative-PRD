@@ -38,7 +38,11 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 37), attack +29
 
+  **Cantrips (8th)** divine lance
+
 **Cleric Domain Spells** (DC 37)
+
+  **5th** weapon surge
 
 **Faithful Weapon** While the divine warden wields the favored weapon of its patron deity, that weapon gains the effect of a greater striking rune.
 

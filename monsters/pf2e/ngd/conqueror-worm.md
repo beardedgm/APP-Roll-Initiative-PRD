@@ -44,7 +44,33 @@ Speed 40 feet, burrow 30 feet
 
 **Spontaneous occult Spells** (DC 48), attack +38
 
+  **Cantrips (10th)** daze, detect magic, mage hand, shield, telekinetic projectile
+
+  **1st (4 slots)** mindlink, sanctuary, true strike, ventriloquism
+
+  **2nd (4 slots)** death knell, misdirection, status, telepathic maneuver
+
+  **3rd (4 slots)** enthrall, fear, hypercognition, nondetection
+
+  **4th (4 slots)** confusion, dream message, modify memory, outcast's curse
+
+  **5th (4 slots)** dimension door, mind probe, sending, synesthesia
+
+  **6th (4 slots)** dominate, feeblemind, scrying, zealous conviction
+
+  **7th (4 slots)** magic missile, possession, project image, warp mind
+
+  **8th (4 slots)** discern location, dispel magic, mind blank, unrelenting observation
+
+  **9th (4 slots)** foresight, overwhelming presence, subconscious suggestion, telepathic demand
+
+  **10th (2 slots)** fabricated truth, time stop
+
 **Innate occult Spells** (DC 48)
+
+  **9th** mind reading
+
+  **10th** dominate
 
 **Breath Weapon** ◆◆ (evocation, acid, occult) The conqueror worm disgorges acid in a 120-foot-line that deals 14d10 acid damage to all creatures in the area (DC 44 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

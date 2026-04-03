@@ -35,6 +35,14 @@ Speed 20 feet
 
 **Prepared divine Spells** (DC 24), attack +17
 
+  **Cantrips (3rd)** chill touch, divine lance, guidance, shield, produce flame, stabilize, tanglefoot
+
+  **1st** bane, protection, harm
+
+  **2nd** death knell, see invisibility, harm
+
+  **3rd** chilling darkness, crisis of faith, harm
+
 **Cantrips** (3rd) .
 
 **Cleric Domain Spell** 1 Focus Point, DC 22; 3rd cry of destruction (Core Rulebook 390)

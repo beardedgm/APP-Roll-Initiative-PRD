@@ -35,6 +35,14 @@ Speed 20 feet, fly 40 feet
 
 **Innate divine Spells** (DC 17)
 
+  **Cantrips (1st)** mage hand
+
+  **1st** harm
+
+  **2nd** augury
+
+  **4th** read omens
+
 **Focus Gaze** ◆ (concentrate, divine, enchantment, fear, mental, visual) The augur stares at a creature they can see within 30 feet. The target must immediately attempt a Will save against feel the blades. After attempting this save, the creature is then temporarily immune until the start of the augur's next turn.
 
 **Whirling Slice** ◆◆ The augur Flies or Strides, whirling as they move. The augur deals the damage of their blade Strike to each creature whose space they enter (DC 16 basic Reflex save). Each creature is affected only once, even if the augur moves through its space multiple times.

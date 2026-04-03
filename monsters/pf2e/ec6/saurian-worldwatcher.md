@@ -41,6 +41,14 @@ Speed 40 feet
 
 **Innate primal Spells** (DC 40)
 
+  **2nd** animal messenger
+
+  **3rd** animal vision
+
+  **4th** air walk
+
+  **9th** fiery body, summon animal, volcanic eruption
+
 **Boneshaking Roar** ◆◆ (incapacitation, sonic) As saurian warmonger, but DC 38.
 
 **Stunning Blow** (incapacitation) Whenever the worldwatcher hits a creature with their fist or naginata Strike, that creature must succeed at a DC 39 Fortitude save or be stunned|CRB|stunned 1 (stunned|CRB|stunned 3 on a critical hit).

@@ -39,6 +39,14 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** daze, message, telekinetic projectile
+
+  **2nd** blur, item facade
+
+  **3rd** fear, nondetection
+
+  **4th** dimension door, modify memory
+
 **Manifest Bundle** ◆◆ (concentrate, conjuration, occult) **Frequency** {"unit":"hour","number":1}; The kagekuma manifests a large bundle of straw, reeds, rope, yarn, hair, or the like, all lashed together with cords and strapped to its back. The kagekuma's AC increases to 27 as long as its bundle remains manifested, but its Speed is reduced to 15 feet.
 
 **Ruin Wielder** When a kagekuma wields a broken non-magical weapon, they do not take any of the disadvantages of the weapon being broken. While the kagekuma wields it, the weapon becomes a +1 striking weapon that deals an additional 1d6 mental damage on a successful hit.

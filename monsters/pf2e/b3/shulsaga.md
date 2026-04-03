@@ -35,6 +35,10 @@ Speed 25 feet, fly 30 feet
 
 **Innate occult Spells** (DC 18), attack +10
 
+  **Cantrips (2nd)** dancing lights, detect magic, telekinetic projectile
+
+  **1st** floating disk
+
 **Astral Recoil** ◆ (occult) **Trigger** The shulsaga's last action was a successful melee Strike against an astral form created by the astral projection|apg ritual or a similar effect; **Frequency** {"unit":"minute","number":1}; The shulsaga attempts to counteract the effect projecting the creature onto the Astral Plane, with the effects of a 5th-level dispel magic spell (counteract modifier +18).
 
 **Astral Shock** An astrally projected creature whose astral form is slain by a shulsaga takes a –2 circumstance penalty to the subsequent Fortitude saving throw to resist the strain.

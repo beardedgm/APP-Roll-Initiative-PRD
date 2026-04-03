@@ -42,6 +42,8 @@ Speed 40 feet
 
 **Innate divine Spells** (DC 32)
 
+  **6th** illusory disguise, read omens, augury
+
 **False Foe** ◆ (divine, enchantment, incapacitation, mental) **Frequency** {"unit":"round","number":1}; The japalisura whispers misleading words and falsehoods to one adjacent creature, attempting a Deception check against the target's Perception DC. **Critical Success** For 1 minute, the target believes that one creature of the japalisura's choice is its mortal foe, spending all its actions to reach and attack that creature. At the end of each of its turns, the target can attempt a DC 32 Will save to end the effect early.
 **Success** As critical success except the effect ends at the end of the creature's first turn, without the need for a Will save.
 **Failure** The target sees through the japalisura's attempts at misdirection and is temporarily immune to False Foe for 1 day.

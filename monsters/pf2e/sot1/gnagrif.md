@@ -35,6 +35,12 @@ Speed 20 feet, burrow 10 feet, climb 10 feet
 
 **Innate primal Spells** (DC 16)
 
+  **Cantrips (1st)** prestidigitation
+
+  **1st** ant haul, feather fall
+
+  **2nd** shatter, speak with animals
+
 **Eat Rocks** ◆ The gnagrif gnashes and tears at an object or structure, dealing 2d4+2 piercing damage and ignoring Hardness 2 or lower.
 
 **Lurk** ◆◆ **Requirements** A structure made from stone or earth is within the gnagrif's reach; The gnagrif partially melds with the stone. It Takes Cover in the stone and makes a Stealth check to Hide.

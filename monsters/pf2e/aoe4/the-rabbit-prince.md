@@ -39,6 +39,12 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 38)
 
+  **6th** baleful polymorph
+
+  **7th** resist energy
+
+  **9th** phantasmal calamity, synesthesia
+
 **Bloody Jab** Whenever the Rabbit Prince deals piercing damage, he also deals 2d10 persistent bleed damage.
 
 **Darting Flurry** ◆◆ The Rabbit Prince Strides and makes a blade of the Rabbit Prince Strike and a harrow card Strike at any point during the Stride. His multiple attack penalty increases only after both attacks.

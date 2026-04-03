@@ -35,6 +35,12 @@ Speed 45 feet, swim 30 feet
 
 **Innate divine Spells** (DC 45)
 
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **7th** black tentacles, spell turning, warp mind
+
 **Black Ink Delirium** (poison)
 
 **Breath of Lies** ◆◆ (acid, evocation, magical, poison) The Daemonic Rumormonger breathes a torrent of acidic sand and poisoned ink in an 80-foot line, dealing 6d12 acid damage and 6d12 poison damage and exposing victims to his black ink delirium. He can't use Breath of Lies again for 1d4 rounds.

@@ -35,6 +35,18 @@ Speed 10 feet, swim 80 feet
 
 **Innate occult Spells** (DC 37)
 
+  **3rd** hypnotic pattern, levitate, mind reading, secret page
+
+  **5th** dimension door, hallucinatory terrain, illusory object
+
+  **6th** dominate
+
+  **7th** veil
+
+  **8th** illusory scene, suggestion
+
+  **9th** project image
+
 **Change Shape** ◇ (concentrate, occult, polymorph, transmutation) Once per round, a veiled master can take on the appearance of a humanoid of Large, Medium, or Small size or resume its true form. While in humanoid form, the veiled master's Speed is 30 feet, and it loses its mucus cloud aura and swim Speed. If the humanoid form assumed lacks the aquatic trait, the veiled master loses its own aquatic trait as well. In humanoid form, the veiled master can use weapons, or it can make Strikes that work like its tentacle attack but use the reach of its current form. If the assumed form has fangs or claws, the veiled master can also make such Strikes, but these attacks lack the veiled master's slime.
 
 **Consume Memories** (mental, occult) When a veiled master makes a fangs Strike against a creature, it can consume some of that creature's memories. The target must succeed at a DC 37 Fortitude saving throw or become stupefied 1. A veiled master regains 5 Hit Points each time it successfully consumes memories. When a veiled master consumes memories, it learns some of the creature's memories (subject to the GM's discretion).

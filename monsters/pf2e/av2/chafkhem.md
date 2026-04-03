@@ -43,4 +43,14 @@ Speed 20 feet
 
 **Prepared arcane Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** chill touch, daze, detect magic, shield, tanglefoot
+
+  **1st** command, mending, ray of enfeeblement, unseen servant
+
+  **2nd** blur, dispel magic, hideous laughter, see invisibility
+
+  **3rd** glyph of warding, grim tendrils, haste, mind reading
+
+  **4th** freedom of movement, invisibility, phantasmal killer, spell immunity
+
 **Mummy Rot** (curse, disease, divine, necromancy, negative)

@@ -37,6 +37,14 @@ Speed fly 25 feet
 
 **Innate divine Spells** (DC 29)
 
+  **2nd** detect alignment, shield other
+
+  **3rd** heal
+
+  **4th** remove disease, remove paralysis
+
+  **5th** breath of life, dimension door, dispel magic, heal
+
 **Healing Arrow** ◆◆ (divine, healing, necromancy) The zuishin blesses an arrow with healing magic and makes a composite longbow Strike against an ally. If it hits, rather than dealing damage, the arrow is infused with the effects of one of the following of the zuishin's innate divine spells: breath of life, heal, remove disease, or remove paralysis. The zuishin must have the spell available to cast, and using this ability expends the spell. If the zuishin rolls a failure on the attack roll against an ally who's aware of the arrow and wants to be hit, the attack hits, but on a critical failure, it still misses.
 
 **Holy Weaponry** (divine, enchantment, evocation, good) Any weapon becomes a striking holy weapon while the zuishin wields it. A zuishin creates arrows out of nothing as part of their attacks with any bow they wield.

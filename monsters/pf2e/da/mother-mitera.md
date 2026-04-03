@@ -33,4 +33,12 @@ Speed 25 feet
 
 **Prepared primal Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** dancing lights, guidance, message, ray of frost, tanglefoot
+
+  **2nd** entangle, glitterdust, tree shape
+
+  **3rd** lightning bolt, mind of menace, soothing blossoms
+
+  **4th** freedom of movement, murderous vine, petal storm
+
 **Ascension is Near** ◆ (auditory, concentrate, emotion, incapacitation, mental) **Frequency** {"number":1,"customUnit":"ascension"}; Mitera activates the moonflower link with her followers. Any followers within 30 feet who failed their saving throw against the moonflower tea become sickened 1. Anyone who critically failed and did not receive an antidote explodes (this is about half of Mitera's congregation if the PCs didn't successfully administer the antidote). If anyone's body explodes, Mitera gains 30 temporary Hit Points and is quickened for 3 rounds; she can use this additional action each round only for Strike and Stride actions.

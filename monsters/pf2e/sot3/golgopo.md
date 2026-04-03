@@ -37,6 +37,14 @@ Speed 15 feet, climb 15 feet
 
 **Innate occult Spells** (DC 26)
 
+  **1st** ill omen
+
+  **2nd** augury, paranoia, restore senses
+
+  **3rd** locate, nondetection
+
+  **4th** read omens, seal fate
+
 **Portents of Doom** ◆ (auditory, divination, emotion, fear, mental, occult) The golgopo unleashes a wailing cry that heralds impending disaster. Each creature within 30 feet must attempt a DC 26 Will save. Golgopos and cyclopes are immune to this effect. **Critical Success** 
 **Success** 
 **Failure** 

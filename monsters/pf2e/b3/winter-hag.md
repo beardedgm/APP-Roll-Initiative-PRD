@@ -35,6 +35,12 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 25), attack +17
 
+  **Cantrips (4th)** chill touch, ray of frost
+
+  **3rd** enthrall, paralyze
+
+  **4th** charm, fly, ice storm
+
 **Craft Ice Staff** (cold, downtime, evocation, occult) A winter hag can spend 1 day performing a specific ritual to create a  of black ice. Once per day, she can use the staff to cast cone of cold. The staff's magic functions only in the hands of the hag who created it; for anyone else, it is a mundane staff. If the hag dies or if the staff remains in another creature's possession for 24 hours, the staff melts into a puddle of foul-smelling water.
 
 **Ice Climb** A winter hag can Climb at the listed Speed, but only on ice. She ignores terrain from ice and snow, and she doesn't risk falling when crossing ice.

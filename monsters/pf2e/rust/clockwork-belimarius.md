@@ -37,6 +37,12 @@ Speed 25 feet
 
 **Innate arcane Spells** (DC 21), attack +13
 
+  **Cantrips (2nd)** daze, shield, tanglefoot
+
+  **1st** color spray, fear, mage armor
+
+  **2nd** magnetic repulsion, resist energy
+
 **Energize Clockwork Wand** ◆ (concentrate) **Frequency** {"unit":"minute","interval":10,"number":1}; The clockwork mage regains a spell it has already cast that day. It must spend 1 hour of its operational time, or 2 hours if the spell is 3rd level or higher.
 
 **Dispelling Critical** On a critical hit with a halberd Strike, shards of noqual built into the clockwork Belimarius glow green for a moment. Instead of inflicting additional damage with the critical hit, the clockwork Belimarius instead attempts a counteract check with a +18 bonus against one magical effect active on the target.

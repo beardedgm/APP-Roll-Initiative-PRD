@@ -33,4 +33,16 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 33), attack +25
 
+  **Cantrips (5th)** daze, detect magic, message, shield, sigil
+
+  **1st** hydraulic push, pummeling rubble
+
+  **2nd** heat metal, hydraulic push
+
+  **3rd** earthbind, fireball
+
+  **4th** fly, stoneskin, wall of fire
+
+  **5th** elemental form, impaling spike
+
 **Vitrumancy** Ibrium has modified certain spells to incorporate glass into their manifestation. Whenever Ibrium casts fireball, hydraulic push, or pummeling rubble, the spell deals slashing damage instead of its normal damage type as the damaging component is replaced with shards of razor-sharp glass.

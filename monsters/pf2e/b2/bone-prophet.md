@@ -31,7 +31,25 @@ Speed 25 feet
 
 **Spontaneous divine Spells** (DC 28), attack +20
 
+  **1st (4 slots)** bane, command, fear, ventriloquism
+
+  **2nd (4 slots)** darkness, death knell, resist energy, see invisibility
+
+  **3rd (4 slots)** bind undead, blindness, chilling darkness, vampiric touch
+
+  **4th (3 slots)** air walk, harm, read omens, talking corpse
+
 **Innate occult Spells** (DC 28)
+
+  **1st** ventriloquism
+
+  **2nd** mirror image
+
+  **3rd** illusory disguise
+
+  **5th** illusory scene, suggestion
+
+  **6th** dominate
 
 **Raise Serpent** ◆◆◆ (divine, necromancy) **Frequency** {"unit":"day","number":1}; The bone prophet animates corpses of snakes, serpentfolk, or similar serpentine creatures within a 30-foot emanation. Any flesh on the bodies sloughs off, and they rise as skeletons. The bone prophet can raise one Large creature as a skeletal giant or up to three Medium creatures as skeletal champions; the equipment and attacks might be different depending on the corpses' possessions (Bestiary 298). These skeletons have the minion trait and are under the bone prophet's control; the bone prophet can give all these minions the same command with a single action that has the concentrate trait. Any skeletal minions that still remain after 10 minutes crumble to dust.
 

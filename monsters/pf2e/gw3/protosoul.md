@@ -31,6 +31,14 @@ Speed fly 40 feet
 
 **Innate divine Spells** (DC 30), attack +22
 
+  **Cantrips (5th)** chill touch
+
+  **3rd** sudden blight
+
+  **4th** enervation
+
+  **5th** harm
+
 **Engulf** ◆◆ DC 30, 2d8 force plus 3d8 negative, Escape DC 30, Rupture 25
 
 **Unstable Magic** The roiling protosoul can't be healed or Repaired, and is destroyed at 0 Hit Points. So long as it is not destroyed, it naturally recovers 77 Hit Points each day. Each time a roiling protosoul casts one of its non-cantrip spells, it drains its own magic to do so, taking 6 force damage.

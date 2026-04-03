@@ -35,6 +35,14 @@ Speed 30 feet, fly 40 feet
 
 **Innate divine Spells** (DC 29)
 
+  **1st** detect alignment
+
+  **2nd** invisibility
+
+  **4th** create food, heal
+
+  **5th** divine wrath, remove curse, remove disease, remove fear
+
 **Dispelling Field** ◆◆ (divine, transmutation) **Frequency** {"unit":"day","number":1}; The movanic deva attempts to unravel unwelcome magic effects on allies within its aura of vitality to protect them from malevolent forces. The movanic deva attempts a counteract check against as many spell effects affecting allies in the area as it wishes with a +19 counteract modifier and a counteract level of 4, rolling once for the selected effects.
 
 **Flaming Armaments** (divine, transmutation) When a movanic deva wields a weapon, that weapon gains the effect of a flaming rune.

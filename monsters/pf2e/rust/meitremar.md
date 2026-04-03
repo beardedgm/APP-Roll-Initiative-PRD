@@ -31,7 +31,15 @@ Speed 20 feet
 
 **Spontaneous divine Spells** (DC 21), attack +12
 
+  **Cantrips (2nd)** acid splash, divine lance, guidance, light, shield, sigil
+
+  **1st (4 slots)** bane, command, fear, heal
+
+  **2nd (4 slots)** enlarge, ghoulish gravings, harm, sudden blight
+
 **Demonic Bloodline Spells** (DC 20)
+
+  **2nd** glutton's jaws
 
 **Reach Spell** ◆ (metamagic) If Meitremar's next action this turn is to Cast a Spell that has a range, he increases that spell's range by 30 feet (or increases the range of a touch spell to 30 feet).
 

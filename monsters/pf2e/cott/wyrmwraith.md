@@ -47,6 +47,16 @@ Speed 50 feet, fly 80 feet
 
 **Innate divine Spells** (DC 35)
 
+  **3rd** bind undead
+
+  **4th** charm, darkness
+
+  **6th** vampiric exsanguination
+
+  **7th** divine wrath, execute
+
+  **8th** charm
+
 **Phase Lurch** ◆ **Requirements** The wyrmwraith is in their ectoplasmic form; As the Stride|PC1 action, but the wyrmwraith can pass through walls or material objects as though they were incorporeal. They must begin and end their movement outside of any physical obstacles, and passing through solid material is difficult terrain.
 
 **Void Breath** ◆◆ (divine, void) The wyrmwraith unleashes a burst of void energy that deals 18d6 void damage to all creatures in a 60-foot cone (DC 38 basic Reflex save). They can't use Void Breath again for 1d4 rounds.

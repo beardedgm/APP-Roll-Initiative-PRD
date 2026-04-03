@@ -35,7 +35,23 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 30), attack +22
 
+  **Cantrips (6th)** daze, detect magic, divine lance, light, guidance
+
+  **1st** command, create water, sanctuary
+
+  **2nd** heal, illusory disguise, silence
+
+  **3rd** blindness, chilling darkness, water breathing
+
+  **4th** freedom of movement, invisibility, phantasmal killer
+
+  **5th** flame strike, sending, shadow blast
+
+  **6th** harm, heal, phantasmal killer
+
 **Cleric Domain Spells** (DC 30)
+
+  **6th** appearance of wealth, precious metals
 
 **Sneak Attack** The Abendego priest deals an additional 2d6 precision damage to flat-footed creatures.
 

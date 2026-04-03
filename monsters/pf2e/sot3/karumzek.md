@@ -33,4 +33,6 @@ Speed 40 feet, climb 30 feet
 
 **Innate occult Spells** (DC 21)
 
+  **2nd** death knell, invisibility, vomit swarm
+
 **Change Shape** (arcane, concentrate, polymorph, transmutation) A karumzek can take the shape of a Tiny spider. This doesn't change its Speed or Strikes. 

@@ -39,6 +39,16 @@ Speed 25 feet, fly 60 feet
 
 **Innate occult Spells** (DC 28), attack +20
 
+  **Cantrips (5th)** disrupt undead, light
+
+  **2nd** restoration
+
+  **3rd** heal
+
+  **4th** dimension door, heal, searing light
+
+  **5th** banishment, breath of life
+
 **Breath Weapon** (evocation, fire, occult) The jyoti breathes a blast of searing flame infused with positive energy in a 40-foot cone that deals 8d6 fire damage plus 4d6 positive damage to creatures in the area (DC 28 basic Reflex save) The jyoti can't use Breath Weapon again for 1d4 rounds.
 
 **Infuse Weapons** (occult, evocation) Any weapon a jyoti wields becomes a flaming ghost touch weapon while the jyoti holds it.

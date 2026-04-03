@@ -27,4 +27,8 @@ Speed 20 feet, fly 15 feet, burrow 20 feet
 
 **Innate arcane Spells** (DC 17)
 
+  **2nd** enlarge
+
+  **3rd** meld into stone
+
 **Breath Weapon** ◆◆ (arcane, earth) The earth mephit breathes rocks in a 15-foot cone that deals 2d6 bludgeoning damage to each creature within the area (DC 17 basic Reflex save). The earth mephit can't use Breath Weapon again for 1d4 rounds.

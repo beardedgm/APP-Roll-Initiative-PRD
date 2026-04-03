@@ -33,7 +33,33 @@ Speed 25 feet
 
 **Prepared primal Spells** (DC 40), attack +32
 
+  **Cantrips (9th)** acid splash, disrupt undead, produce flame, stabilize, tanglefoot
+
+  **1st** fear, grease, ventriloquism
+
+  **2nd** dispel magic, spider climb, ventriloquism
+
+  **3rd** fear, lightning bolt, stinking cloud
+
+  **4th** dispel magic, fly, wall of fire
+
+  **5th** cloudkill, fireball, wall of thorns
+
+  **6th** dispel magic, lightning bolt, true seeing
+
+  **7th** eclipse burst, fireball, volcanic eruption
+
+  **8th** dispel magic, earthquake, horrid wilting
+
+  **9th** lightning bolt, nature's enmity, storm of vengeance
+
 **Innate occult Spells** (DC 40), attack +32
+
+  **2nd** augury
+
+  **5th** animal form
+
+  **9th** shadow blast, shadow siphon
 
 **Rupture Shadow** ◆◆ (acid, conjuration, occult, shadow) Okoro can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. He targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will save. Okoro can't use Rupture Shadow again for 1d4 rounds. **Critical Success** 
 **Success** 

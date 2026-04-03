@@ -37,6 +37,14 @@ Speed 40 feet
 
 **Innate divine Spells** (DC 36)
 
+  **Cantrips (8th)** detect magic
+
+  **4th** darkness, invisibility
+
+  **6th** true seeing
+
+  **7th** harm, paralyze, plane shift
+
 **Change Posture** ◆ The sykever changes between their bipedal and quadrupedal stance. In their bipedal stance, the sykever can use all the abilities in their stat block except Horned Rush. In their quadrupedal stance, the sykever has a Speed of 80 feet but can't make arm spike Strikes, Disarm, cast spells, or use Crush Item.
 
 **Crush Item** ◈ **Trigger** The sykever gets a critical success to Disarm; **Requirements** The sykever is in their bipedal stance; The sykever snatches the item and pierces it with their arm spikes. The item becomes broken and falls to the ground in the sykever's space. Items that are already broken aren't further damaged, and an item with 14 or higher Hardness is unaffected.

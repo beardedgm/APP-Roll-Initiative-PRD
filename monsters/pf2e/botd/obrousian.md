@@ -31,6 +31,10 @@ Speed 5 feet, swim 30 feet
 
 **Innate divine Spells** (DC 34)
 
+  **3rd** enthrall
+
+  **7th** warp mind
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The obrousian can take on the appearance of any kind of Small or Medium humanoid creature. This transformation increases their Speed to 25 feet and might remove their swim Speed depending on the form. It doesn't change their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning damage).
 
 **Drowning Grasp** When a creature is grabbed by the obrousian, the creature's lungs magically fill with water. A creature that can't breathe water is suffocating while it is grabbed.

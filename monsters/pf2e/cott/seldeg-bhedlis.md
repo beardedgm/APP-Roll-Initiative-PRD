@@ -43,6 +43,8 @@ Speed 25 feet
 
 **Champion Devotion Spells** (DC 39)
 
+  **10th** touch of the void
+
 **Devastating Blast** ◆◆ (arcane, fire) 11d12 fire, DC 39
 
 **Graveknight's Curse**

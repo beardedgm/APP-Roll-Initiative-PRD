@@ -39,6 +39,10 @@ Speed 50 feet
 
 **Innate divine Spells** (DC 34), attack +26
 
+  **4th** dimension door
+
+  **7th** bane, bless, dimension door, divine decree, dream message, heal, illusory disguise, invisibility, mind reading, neutralize poison, remove disease, remove curse, restore senses, ventriloquism
+
 **Sap Mind** ◆ (divine, enchantment, mental) The nikaramsa focuses their gaze on one creature within 60 feet. That target must attempt a DC 34 Will save. Regardless of the outcome of the saving throw, the target then becomes temporarily immune for 1 day. **Critical Success** The nikaramsa is caught off guard by the strength of the target's resistance and becomes stupefied 2 until the end of their next turn.
 **Success** The target resists the nikaramsa's influence.
 **Failure** The target's focus and willpower drain away; it becomes stupefied 2 for 1 minute.

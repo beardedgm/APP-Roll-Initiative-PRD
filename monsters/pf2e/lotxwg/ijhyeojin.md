@@ -35,6 +35,10 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 34)
 
+  **2nd** invisibility
+
+  **4th** rewrite memory
+
 **Overwrite Memory** ◆◆ (emotion, fear, mental) ijhyeojin alters the memories of a target within 30 feet, insinuating their faceless visage in the place of others. The target must attempt a DC 34 Will save. **Critical Success** The target is unaffected.
 **Success** The target is frightened 1 and treats no one as an ally for as long as it's frightened.
 **Failure** The target is frightened 2 and is confused for as long as it's frightened.

@@ -51,6 +51,14 @@ Speed 30 feet, swim 30 feet
 
 **Innate occult Spells** (DC 28), attack +20
 
+  **1st** illusory disguise, sleep
+
+  **2nd** invisibility
+
+  **3rd** haste, mind reading
+
+  **5th** false vision, invisibility, subconscious suggestion
+
 **Aquatic Ambush** ◆
 
 **Call Steed** ◆ (auditory) **Requirements** The Skinned Steed hasn't been killed and is within 60 feet; The Kallas Devil whistles loudly and calls for her steed, prompting the creature to Stride twice toward the Kallas Devil.

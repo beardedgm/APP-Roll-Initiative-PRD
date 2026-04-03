@@ -33,7 +33,29 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 41), attack +33
 
+  **Cantrips (9th)** detect magic, electric arc, light, ray of frost, shield
+
+  **1st** alarm, fleet step, heal, ventriloquism
+
+  **2nd** dispel magic, glitterdust, obscuring mist
+
+  **3rd** heal, stinking cloud, wall of wind
+
+  **4th** dimension door, fly, resilient sphere
+
+  **5th** black tentacles, heal, tongues
+
+  **6th** dispel magic, flesh to stone, mislead, tangling creepers
+
+  **7th** chain lightning, dispel magic, reverse gravity, spell turning
+
+  **8th** disappearance, polar ray, power word stun, punishing winds
+
+  **9th** foresight, meteor swarm, summon elemental
+
 **Druid Order Spells** (DC 41)
+
+  **9th** impaling briars, tempest surge
 
 **Halcyon Surge** ◆◆◆ Mafika casts an arcane spell that takes 2 actions or fewer to Cast, then casts a druid order spell that takes 2 actions or fewer to Cast (paying 1 Focus Point, as normal).
 

@@ -35,6 +35,12 @@ Speed fly 25 feet
 
 **Spontaneous occult Spells** (DC 22), attack +14
 
+  **Cantrips (2nd)** ghost sound, telekinetic projectile
+
+  **1st** charm, fear, mindlink
+
+  **2nd** hideous laughter, invisibility
+
 **Grand Finale** ◆◆◆ (mental, occult) **Requirements** The muse phantom's thespian aura is active; The muse ceases its thespian aura and deals 4d8 mental damage to creatures in a 30-foot burst, including the creature it is possessing, if any (DC 22 basic Will save). Creatures that fail their Will saves are fascinated by the muse phantom for 1 minute. The muse phantom can't use Grand Finale again for 1d4 rounds.
 
 **Muse Possession** ◆◆ The phantom muse attempts to possess an adjacent corporeal creature. This has the same effect as the possession spell (DC 20), except the duration is 1d4 hours, and since the phantom muse doesn't have a physical body, it is unaffected by that restriction of the spell. If the target is at least trained in Performance, the DC of this ability is 24.

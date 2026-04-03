@@ -33,6 +33,12 @@ Speed 35 feet, burrow 35 feet
 
 **Innate divine Spells** (DC 37), attack +31
 
+  **4th** suggestion
+
+  **6th** disintegrate, spirit blast
+
+  **8th** dimensional anchor
+
 **Dune** ◆ (concentrate) Until the next time it acts, the zaramuun appears to be a sand dune. It has an automatic result of 47 (50 in sandy terrain) on Deception and Stealth checks and DCs to pass as a sand dune. Any creature that walks onto the zaramuun moves into its body and is Engulfed.
 
 **Engulf** ◆◆ DC 35, 4d12 bludgeoning damage and dimensional anchor, Escape DC 32, Rupture 28.

@@ -45,6 +45,10 @@ Speed 40 feet, fly 20 feet, climb 30 feet
 
 **Innate primal Spells** (DC 34)
 
+  **5th** wall of ice
+
+  **7th** summon animal
+
 **Breath Weapon** ◆◆ (divine, evocation, fire) Cuetzmonquali unleashes a blast of fire that deals 12d10 fire damage in a 50-foot cone (DC 38 basic Reflex save). Creatures that fail their saves catch on fire and take 1d12 persistent fire damage. Cuetzmonquali can't use Breath Weapon again for 1d4 rounds.
 
 **Burning Venom** (fire, poison)

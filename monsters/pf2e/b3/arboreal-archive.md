@@ -35,6 +35,12 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 32), attack +24
 
+  **2nd** entangle
+
+  **3rd** earthbind
+
+  **6th** tangling creepers
+
 **Memory Maelstrom** ◆◆◆ (concentrate, incapacitation, mental, nonlethal, primal) The arboreal archive tries to overwhelm foes with a surge of information it has absorbed over its long life. This surge deals 5d6 mental damage to each enemy within 40 feet, who must attempt a DC 32 Will save. **Critical Success** The creature maintains its composure, takes no damage, and is temporarily immune to Memory Maelstrom for 1 minute.
 **Success** The creature is stunned 1 and takes half damage.
 **Failure** The creature takes full damage and is stunned 3.

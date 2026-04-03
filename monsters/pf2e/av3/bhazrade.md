@@ -35,7 +35,23 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 28)
 
+  **Cantrips (5th)** dancing lights
+
+  **2nd** darkness, faerie fire
+
 **Spontaneous occult Spells** (DC 28), attack +20
+
+  **Cantrips (5th)** chill touch, daze, detect magic, know direction, shield
+
+  **1st (4 slots)** bless, command, grim tendrils, mending
+
+  **2nd (4 slots)** augury, false life, invisibility, paranoia
+
+  **3rd (4 slots)** blindness, heroism, slow, wanderer's guide
+
+  **4th (4 slots)** dimension door, globe of invulnerability, outcast's curse, sound burst
+
+  **5th (3 slots)** black tentacles, ectoplasmic expulsion, prying eyes
 
 **Cavern Distortion** ◆◆ (occult, transmutation) **Frequency** {"unit":"day","number":1}; **Requirements** The cavern seer is underground; Pebbles and dust rise from the stone to impede vision. The cavern seer and their allies within 60 feet become concealed for 1 minute. This concealment can't be used to Hide or Sneak.
 

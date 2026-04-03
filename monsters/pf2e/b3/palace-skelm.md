@@ -38,6 +38,12 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 26)
 
+  **Cantrips (5th)** daze, message
+
+  **2nd** invisibility
+
+  **4th** clairaudience, enthrall, outcast's curse, paranoia, private sanctum, suggestion
+
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The street skelm can take on the appearance of any Medium male humanoid (page 304). This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.
 
 **Incite Violence** ◆◆ (emotion, enchantment, occult, mental) **Frequency** {"unit":"day","number":1}; The skelm gives an impassioned speech calling for his followers to act upon their convictions. Each creature within 30 feet must attempt a DC 24 Will save. **Critical Success** The creature can immediately Strike an adjacent creature of its choosing.

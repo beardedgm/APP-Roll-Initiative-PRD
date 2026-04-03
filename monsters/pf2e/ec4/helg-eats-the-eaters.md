@@ -33,7 +33,27 @@ Speed 40 feet, climb 20 feet
 
 **Prepared arcane Spells** (DC 36), attack +28
 
+  **Cantrips (8th)** chill touch, daze, detect magic, light, read aura
+
+  **1st** fear, mending, ray of enfeeblement
+
+  **2nd** acid arrow, grim tendrils, hideous laughter, see invisibility
+
+  **3rd** blindness, glyph of warding, slow, vampiric touch
+
+  **4th** confusion, false life, freedom of movement, resilient sphere
+
+  **5th** blood feast, cloudkill, lightning bolt, prying eye
+
+  **6th** acid arrow, phantasmal calamity, purple worm sting, wall of force
+
+  **7th** entrancing eyes, vampiric exsanguination, warp mind
+
+  **8th** horrid wilting, maze
+
 **Wizard School Spells** (DC 36)
+
+  **8th** call of the grave, life siphon
 
 **Eerie Flexibility** Despite her size, Helg's multiple joints allow her to fit through tight spaces as if she were a Medium creature. While Squeezing, she can move at her full Speed.
 

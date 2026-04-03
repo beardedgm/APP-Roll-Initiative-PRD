@@ -29,6 +29,12 @@ Speed 20 feet
 
 **Prepared arcane Spells** (DC 21), attack +13
 
+  **Cantrips (2nd)** daze, detect magic, ghost sound, mage hand, message, ray of frost, shield
+
+  **1st** command, gust of wind, magic missile
+
+  **2nd** acid arrow, obscuring mist, resist energy
+
 **Arcane Bond** (arcane) Once per day, Morgrym can drain his bonded item's power to choose a spell that he already cast today and cast it again. Recalling this spell is instant, but he still has to spend the actions to cast the spell.
 
 **Necromancer** Morgrym deals with the grim powers of life and death and has focused his magic to aid him in this endeavor. He can cast fear as a school spell.

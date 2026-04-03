@@ -33,7 +33,21 @@ Speed 25 feet
 
 **Spontaneous arcane Spells** (DC 27), attack +20
 
+  **Cantrips (5th)** acid splash, detect magic, light, shield, telekinetic projectile
+
+  **1st (3 slots)** charm, fear, ray of enfeeblement, true strike
+
+  **2nd (3 slots)** blur, mirror image, resist energy, touch of idiocy
+
+  **3rd (3 slots)** fireball, haste, lightning bolt, slow
+
+  **4th (3 slots)** confusion, freedom of movement, spell immunity, wall of fire
+
+  **5th (2 slots)** chromatic wall, cloak of colors, magic missile
+
 **Sorcerer Bloodline Spells** (DC 27)
+
+  **5th** dragon breath, dragon claws
 
 **Sorcerer Bloodline** draconic (brass dragon)
 

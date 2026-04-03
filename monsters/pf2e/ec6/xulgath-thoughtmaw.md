@@ -41,7 +41,23 @@ Speed 25 feet, fly 35 feet
 
 **Spontaneous occult Spells** (DC 36)
 
+  **Cantrips (7th)** daze, forbidding ward, message, shield
+
+  **4th (3 slots)** invisibility, modify memory, suggestion
+
+  **5th (3 slots)** hallucination, mind probe, synaptic pulse
+
+  **6th (3 slots)** phantasmal calamity, scrying, wall of force
+
+  **7th (3 slots)** phantasmal killer, visions of danger, warp mind
+
 **Innate occult Spells** (DC 36), attack +28
+
+  **2nd** telekinetic maneuver
+
+  **5th** telekinetic haul
+
+  **8th** phantom pain
 
 **Cantrips** (8th) telekinetic projectile; Constant (8th) fly Occult Rituals DC 36; inveigle.
 

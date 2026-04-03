@@ -35,6 +35,20 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 33), attack +27
 
+  **Cantrips (6th)** chill touch, daze, detect magic, shield
+
+  **1st** protection, ray of enfeeblement
+
+  **2nd** status
+
+  **3rd** heroism, meld into stone, vampiric touch
+
+  **4th** air walk, enervation
+
+  **5th** heal, ravening maw
+
+  **6th** divine wrath, harm, repulsion
+
 **Devourer's Dictum** ◆ (concentrate) The deepmouth warps part of a scalescribed creature's flesh into a mouthed tentacle, then wills it to lash out. The deepmouth makes a jaws Strike that originates from any living scalescribed creature within 120 feet; this Strike also has reach <15 feet> and deals an additional 2d8 negative damage. If the Strike originates from a creature other than the deepmouth, that creature triggers reactions as though it had made the Strike.
 
 **Scalescribe** (manipulate) With 10 minutes of work, a deepmouth can carve a magical rune called a scalescript on the flesh of a living, willing xulgath (including the deepmouth itself). A creature cannot be inscribed with more than one scalescribe rune at a time, and a deepmouth can create and maintain no more than three scalescripts at a time. If the deepmouth Scalescribed itself, it can provide material and somatic components while Casting a Spell without a free hand.

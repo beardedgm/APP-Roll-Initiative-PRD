@@ -29,6 +29,10 @@ Speed 40 feet, fly 60 feet
 
 **Innate occult Spells** (DC 37)
 
+  **Cantrips (8th)** detect magic, read aura
+
+  **8th** clairaudience, clairvoyance, dispel magic, hallucinatory terrain, locate, read omens, remove curse, shape stone, true seeing, ventriloquism
+
 **Guardian Monolith** ◆◆ The elder sphinx transforms their body into stone or back to flesh. In stone form, the sphinx is paralyzed but has Hardness 14 and gains immunity to bleed, clumsy, disease, drained, enfeebled, fatigued, negative damage, petrified, poison, sickened, and wounded. They don't age or require food, water, or sleep. They can perceive their surroundings and cast their innate spells. Stone to flesh turns the elder sphinx from stone form back to flesh, and flesh to stone turns it from flesh form to stone form.
 
 **Idols of Stone** When the sphinx casts shape stone, they can shape the stone into a magical duplicate of themself. When they cast clairaudience, clairvoyance, locate, or ventriloquism, they can make the effect come from any duplicate, instead of themself. The elder sphinx can concentrate for 1 minute to transfer their consciousness to any duplicate; the sphinx is then in their stone form from Guardian Monolith in that statue. The sphinx can have no more than four duplicate statues at a time. Casting shape stone at that point causes the oldest duplicate to crumble to dust.

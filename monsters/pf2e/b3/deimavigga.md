@@ -40,6 +40,14 @@ Speed 30 feet, fly 40 feet
 
 **Innate divine Spells** (DC 42), attack +34
 
+  **3rd** dream message
+
+  **4th** dimension door
+
+  **7th** dimension door, scrying, touch of idiocy, veil, warp mind
+
+  **9th** divine decree, dominate, illusory scene
+
 **Boundless Reach** (conjuration, divine, teleportation) A deimavigga's razor-sharp claws can slice through reality, allowing them to make claw Strikes and use spells with a range of touch against any creature they can see directly or via divination magic. A creature targeted this way can retaliate until the start of the deimavigga's next turn; it can target the devil's claws as if the devil were physically present and adjacent to the target, though the claws are concealed.
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The deimavigga can take on the appearance of any humanoid. This doesn't change their Speed or attack and damage bonuses with Strikes but might change the damage type their Strikes deal (typically to bludgeoning).

@@ -37,6 +37,14 @@ Speed 30 feet, swim 30 feet
 
 **Innate occult Spells** (DC 34)
 
+  **1st** charm
+
+  **3rd** mind reading
+
+  **4th** outcast's curse, suggestion
+
+  **7th** summon animal
+
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The jorogumo takes on the appearance of any Small or Medium spider. This doesn't change their Speed or Strikes.
 
 **Jorogumo Venom** (poison)

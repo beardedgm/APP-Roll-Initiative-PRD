@@ -39,6 +39,12 @@ Speed 35 feet, fly 30 feet
 
 **Innate divine Spells** (DC 25)
 
+  **2nd** invisibility
+
+  **4th** dimension door, dimensional anchor, discern lies, zone of truth
+
+  **5th** dimension door, phantom pain
+
 **Osyluth Venom** (poison) Once a creature reaches stage 3, it takes a –4 status penalty to Will saves against attempts to Coerce it for 1 hour (this is a mental effect).
 
 **Quick Invisibility** The osyluth can cast innate invisibility using only 1 action.

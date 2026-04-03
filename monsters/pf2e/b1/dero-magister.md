@@ -37,6 +37,20 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 24)
 
+  **Cantrips (1st)** daze, ghost sound
+
+  **2nd** darkness, sound burst
+
+  **4th** modify memory
+
 **Spontaneous occult Spells** (DC 24)
+
+  **Cantrips (3rd)** chill touch, dancing lights, detect magic, forbidding ward, message
+
+  **1st (4 slots)** grim tendrils, magic missile, phantom pain, soothe
+
+  **2nd (4 slots)** hideous laughter, paranoia, spectral hand, touch of idiocy
+
+  **3rd (3 slots)** blindness, vampiric touch
 
 **Cytillesh Stare** ◆ (concentrate, incapacitation, mental, visual) **Frequency** {"unit":"round","number":1}; The magister focuses their gaze on a creature they can see within 30 feet. The target is dazzled for 1 round and must succeed at a DC 24 Will saving throw or be confused for 1 round.

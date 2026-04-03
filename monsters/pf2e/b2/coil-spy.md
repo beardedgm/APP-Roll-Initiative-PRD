@@ -31,6 +31,14 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 21)
 
+  **1st** ventriloquism
+
+  **2nd** mirror image
+
+  **3rd** illusory disguise
+
+  **4th** suggestion
+
 **Deceptive Reposition** ◆ The Coil spy Strides up to half their Speed and attempts a Feint, in either order.
 
 **Maintain Disguise** A Coil spy can maintain an ongoing illusory disguise as long as they are conscious without having to re-cast the spell; they need only Cast the Spell again to reassume their illusory disguise if they wish to change their appearance or if the active spell is dispelled. Coil spies typically seek privacy when they need to sleep, as an ongoing illusory disguise ends an hour after they fall unconscious.

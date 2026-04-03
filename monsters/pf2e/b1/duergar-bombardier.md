@@ -35,6 +35,8 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 17)
 
+  **2nd** enlarge, invisibility
+
 **Alchemical Formulas (1st)** lesser acid flask, lesser alchemist's fire, lesser tanglefoot bag.
 
 **Far Lobber** The duergar bombardier has a range increment of 30 feet with their bombs instead of 20 feet.

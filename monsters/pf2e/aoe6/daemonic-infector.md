@@ -35,9 +35,33 @@ Speed 25 feet, fly 25 feet
 
 **Prepared divine Spells** (DC 46), attack +38
 
+  **Cantrips (10th)** daze, detect magic, guidance, message, shield
+
+  **1st** command, purify food and drink, sanctuary
+
+  **2nd** darkness, silence, spiritual weapon
+
+  **3rd** crisis of faith, locate, neutralize poison
+
+  **4th** air walk, discern lies, divine wrath
+
+  **5th** Abyssal plague, heal, sending
+
+  **6th** blade barrier, heroism, true seeing
+
+  **7th** divine decree, energy aegis, regenerate
+
+  **8th** spirit blast, spiritual epidemic
+
+  **9th** telepathic demand
+
+  **10th** harm, miracle
+
 **Innate divine Spells** (DC 46)
 
 **Cleric Domain Spells** (DC 46)
+
+  **10th** death's call, eradicate undeath
 
 **Breathe Death** ◆◆ (divine, evocation, poison) The Daemonic Infector exhales a 30-foot line of concentrated fumes. Each creature in the area takes 12d10 poison damage (DC 44 basic Fortitude save; on a critical failure the creature is also drained|CRB|drained 1). The Infector can't Breathe Death again for 1d4 rounds.
 

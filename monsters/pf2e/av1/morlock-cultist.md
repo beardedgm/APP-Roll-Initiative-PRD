@@ -35,6 +35,12 @@ Speed 30 feet, climb 20 feet
 
 **Innate occult Spells** (DC 21), attack +13
 
+  **Cantrips** daze, ghost sound, shield, telekinetic projectile
+
+  **1st** bane, grim tendrils, ray of enfeeblement
+
+  **2nd** mirror image, phantom pain, telekinetic maneuver
+
 **Occult Attack** ◆◆ The morlock cultist Strides up to half its speed, ignoring terrain caused by natural cavern features like rubble or stalagmites. At any point during its movement, the morlock cultist can Cast a Spell that normally takes two actions or fewer to cast.
 
 **Sneak Attack** The morlock deals an extra 1d6 precision damage to flat-footed creatures.

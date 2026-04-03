@@ -31,6 +31,8 @@ Speed 20 feet
 
 **Champion Devotion Spells** (DC 19)
 
+  **2nd** lay on hands, veil of confidence
+
 **Shield Ally** The Committee loyalist's shield is sturdier in their hands. The statistics for the shield above include this benefit; it's a normal steel shield for anyone else.
 
 **Retributive Strike** ◈ The Committee loyalist can Step to put a foe in reach before making a melee Retributive Strike.

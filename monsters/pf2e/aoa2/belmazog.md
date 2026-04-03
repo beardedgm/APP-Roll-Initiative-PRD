@@ -33,6 +33,14 @@ Speed 40 feet, swim 40 feet
 
 **Prepared divine Spells** (DC 27), attack +19
 
+  **Cantrips (5th)** detect magic, forbidding ward, produce flame, shield
+
+  **2nd** ray of enfeeblement, see invisibility
+
+  **4th** burning hands, fear, fireball, heal, summon monster
+
+  **5th** harm
+
 **Breath Weapon** ◆◆ (arcane, acid) Belmazog spews a gout of acid that deals 10d6 acid damage in a 30-foot cone (DC 28 basic Reflex save) Belmazog can't use Breath Weapon again for 1d4 rounds.
 
 **Drowning Drone** ◈ (auditory, mental) **Trigger** Belmazog or one of her allies within 60 feet attempts a saving throw against an auditory or sonic effect.; Belmazog releases a croak that drowns out other sound. She rolls a Performance check. Belmazog and her boggard allies in the area can use the higher result of Belmazog's Performance check or their saves to resolve the effects against the auditory or sonic effect.

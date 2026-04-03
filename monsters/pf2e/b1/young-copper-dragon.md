@@ -37,6 +37,8 @@ Speed 30 feet, fly 120 feet
 
 **Innate arcane Spells** (DC 27)
 
+  **1st** grease
+
 **Breath Weapon** ◆◆ The copper dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 rounds. - Acid (acid, arcane, evocation); The dragon breathes acid in a 60-foot line that deals 8d6 acid damage (DC 26 basic Fortitude save).
 - Slowing Gas (arcane, transmutation); The dragon breathes a 60-foot line of slowing gas. Each creature in the area must succeed at a DC 26 Fortitude save or be slowed 1 for 1 round (or slowed 2 on a critical failure).
 

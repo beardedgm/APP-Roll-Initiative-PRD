@@ -40,3 +40,17 @@ Speed 25 feet, fly 40 feet
 **Melee** harrow card +30 (agile, magical, range increment <20 feet>, thrown); **Damage** 3d6+15 piercing
 
 **Innate occult Spells** (DC 35), attack +27
+
+  **Cantrips (8th)** daze, detect magic, ghost sound, telekinetic projectile
+
+  **1st** ill omen
+
+  **2nd** augury
+
+  **4th** confusion
+
+  **5th** dimension door
+
+  **7th** visions of danger
+
+  **8th** uncontrollable dance

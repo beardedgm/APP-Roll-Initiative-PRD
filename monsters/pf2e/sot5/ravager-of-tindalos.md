@@ -39,6 +39,12 @@ Speed 30 feet, fly 30 feet
 
 **Innate occult Spells** (DC 40), attack +32
 
+  **6th** slow
+
+  **7th** haste
+
+  **8th** discern location, dimensional anchor, disappearance
+
 **Angled Entry** ◆ As hound of Tindalos.
 
 **Ferocious Bites** ◆◆ The ravager of Tindalos makes three Strikes with its jaws attack. Each Strike must be against a different opponent within its reach. Each attack counts toward the ravager's multiple attack penalty, but does not increase its penalty until it has made all the attacks.

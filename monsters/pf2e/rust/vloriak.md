@@ -35,6 +35,12 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 22), attack +14
 
+  **Cantrips (3rd)** acid splash
+
+  **2nd** acid arrow, shatter
+
+  **3rd** paralyze
+
 **Lick Rust** ◆ (attack) **Requirements** The vloriak rusted a metal item with its tongue this turn;; The vloriak attempts a tongue Strike on the same target it just attacked. If it hits, it deals no damage as it licks away the rust and heals 2d6 Hit Points (or 4d6 Hit Points if the Strike was a critical hit). It can't Lick Rust on its next turn.
 
 **Rust** A vloriak's saliva causes metal to rust rapidly. If it succeeds at a tongue Strike or Disarm attempt, the vloriak deals 2d6 damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its Hardness. If the vloriak hits an unattended metal item, the item takes this damage automatically. If a creature uses the Shield Block reaction with a metal shield against a tongue attack, the shield is automatically broken, but no other item is rusted on that attack.

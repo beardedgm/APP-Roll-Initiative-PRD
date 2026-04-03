@@ -37,7 +37,23 @@ Speed fly 25 feet
 
 **Spontaneous occult Spells** (DC 33), attack +25
 
+  **Cantrips (6th)** daze, ghost sound, mage hand, message, read aura, shield, telekinetic projectile
+
+  **1st (4 slots)** mindlink, ray of enfeeblement, spider sting, true strike
+
+  **2nd (4 slots)** death knell, see invisibility, telekinetic maneuver, touch of idiocy
+
+  **3rd (4 slots)** mind reading, nondetection, paralyze, vampiric touch
+
+  **4th (4 slots)** confusion, globe of invulnerability, phantasmal killer, spell immunity
+
+  **5th (4 slots)** black tentacles, crushing despair, illusory scene, tongues
+
+  **6th (4 slots)** dispel magic, feeblemind, phantasmal calamity, true seeing
+
 **Sorcerer Bloodline Spells** (DC 33)
+
+  **6th** aberrant whispers, tentacular limbs
 
 **Blood Magic** Each time Belcorra casts a sorcerer bloodline spell or an aberrant bloodline granted spell, she can grant herself or a target of the spell a +2 status bonus to Will saving throws for 1 round.
 

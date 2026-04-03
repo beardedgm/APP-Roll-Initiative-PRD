@@ -37,7 +37,37 @@ Speed 30 feet, climb 30 feet
 
 **Prepared primal Spells** (DC 38)
 
+  **Cantrips (8th)** detect magic, electric arc, guidance, prestidigitation, stabilize
+
+  **1st** ant haul, fleet step, gust of wind
+
+  **2nd** animal messenger, enlarge, faerie fire
+
+  **3rd** earthbind, haste
+
+  **4th** fly, freedom of movement, resist energy
+
+  **5th** death ward, passwall, wall of stone
+
+  **6th** flesh to stone, slow, stoneskin
+
+  **7th** energy aegis, regenerate, volcanic eruption
+
+  **8th** earthquake, summon plant or fungus
+
 **Innate primal Spells** (DC 38)
+
+  **Cantrips (8th)** dancing lights
+
+  **2nd** faerie fire
+
+  **3rd** meld into stone
+
+  **4th** shape stone
+
+  **7th** heal
+
+  **8th** pummeling rubble
 
 **Change Shape** ◆ (polymorph, primal, transmutation) Lampad queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a version of their natural form that more closely resembles a humanoid.
 

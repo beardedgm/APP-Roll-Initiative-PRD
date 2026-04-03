@@ -32,3 +32,11 @@ Speed 25 feet
 **Melee** dagger +11 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
 
 **Spontaneous occult Spells** (DC 22), attack +13
+
+  **Cantrips (3rd)** chill touch, daze, light, prestidigitation, shield
+
+  **1st (3 slots)** charm, mage armor, magic missile, soothe
+
+  **2nd (3 slots)** augury, restoration, soothe, touch of idiocy
+
+  **3rd (2 slots)** mind reading, soothe, zone of truth

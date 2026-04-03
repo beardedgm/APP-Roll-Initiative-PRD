@@ -35,6 +35,14 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 23), attack +15
 
+  **Cantrips (3rd)** chill touch, daze, detect magic, electric arc, ray of frost, shield
+
+  **1st** fear, grim tendrils, magic weapon
+
+  **2nd** acid arrow, blood vendetta, dispel magic
+
+  **3rd** bind undead, lightning bolt, vampiric touch
+
 **Drain Bonded Staff** ◇ (arcane) **Frequency** {"unit":"day","number":1}; Nyctessa expends the power stored in her staff. This turn she can cast one spell she prepared today and already cast, without spending a spell slot.
 
 **Sepulchral Drain** When the Nyctessa's staff deals damage to a living creature with a Strike, that creature gains a weakness 2 to negative damage until the end of Nyctessa's next turn.

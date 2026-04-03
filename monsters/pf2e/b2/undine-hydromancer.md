@@ -31,4 +31,10 @@ Speed 25 feet, swim 25 feet
 
 **Spontaneous primal Spells** (DC 17), attack +9
 
+  **Cantrips (1st)** acid splash, detect magic, know direction, stabilize, tanglefoot
+
+  **1st** create water, heal, hydraulic push
+
 **Sorcerer Bloodline Spells** (DC 17), attack +9
+
+  **1st** elemental toss

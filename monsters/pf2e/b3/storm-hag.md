@@ -39,6 +39,8 @@ Speed 25 feet, fly 40 feet
 
 **Innate occult Spells** (DC 22)
 
+  **3rd** gust of wind, lightning bolt, obscuring mist, wall of wind
+
 **Stormcalling** A storm hag can perform a special control weather ritual, which requires no secondary casters, to change the weather within 5 miles of her location for 4d12 hours. The primary check is a DC 23 Occultism check, and she can't get an outcome worse than a failure. The storm hag can create only hurricanes, thunderstorms, and tornadoes, but she can do so regardless of the current season. She can also quell natural weather events but never willingly does so.
 
 **Wind Mastery** A storm hag is unaffected by strong winds, natural or magical. Windy conditions are not terrain for her.

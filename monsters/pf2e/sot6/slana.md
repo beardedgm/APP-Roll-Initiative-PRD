@@ -35,6 +35,12 @@ Speed 60 feet, swim 30 feet, climb 30 feet
 
 **Innate primal Spells** (DC 40), attack +32
 
+  **1st** obscuring mist
+
+  **9th** dispel magic, storm lord
+
+  **10th** earthquake, storm of vengeance
+
 **Great Roar** ◆◆ (evocation, primal, sonic) The slana emits a deafening roar. All creatures within a 100-foot cone take 16d8 sonic damage (DC 44 basic Reflex saving throw). On a failed save, a creature is also deafened for 1 minute and stunned 1 (or deafened permanently and stunned 3 on a critical failure). The slana can't use Great Roar again for 1d4 rounds.
 
 **Pounce** ◆ The slana Strides and makes a Strike at the end of that movement. If the slana began this action hidden, they remain hidden until after the ability's Strike.

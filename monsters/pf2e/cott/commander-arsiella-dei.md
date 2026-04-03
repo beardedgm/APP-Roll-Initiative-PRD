@@ -35,6 +35,8 @@ Speed 30 feet
 
 **Ranger Warden Spells** (DC 28)
 
+  **5th** gravity weapon, soothing mist
+
 **For Nirmathas!** ◆ **Frequency** {"number":1,"unit":"round"}; Arsiella makes two battle axe Strike|PC1|Strikes against the same target. Both Strike|PC1|Strikes use Arsiella's current multiple attack penalty, but each Strike|PC1 takes a −2 penalty. A target hit by both attacks on the same turn must also succeed at a DC 26 Fortitude saving throw or be knocked prone|PC1.
 
 **Heavenly Strike** ◆◆ (divine) Arsiella calls on the spirit of her father and the strength of Iomedae|PC1 to infuse her weapon, then Strike|PC1|Strikes with that weapon. If the Strike|PC1 hits, Arsiella deals an extra weapon die of vitality damage.

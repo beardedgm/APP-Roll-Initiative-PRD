@@ -33,4 +33,14 @@ Speed 5 feet, fly 30 feet
 
 **Innate occult Spells** (DC 23), attack +15
 
+  **Cantrips (3rd)** chill touch, daze, read aura, shield
+
+  **3rd** mind reading
+
+  **4th** darkness, invisibility
+
+  **5th** shadow blast, shadow walk
+
+  **7th** plane shift
+
 **Curse of Darkness** ◆ (curse, darkness, evocation, occult) The owb inflicts a curse on one creature taking persistent cold damage from their burning cold Strike, stealing the victim's vibrancy. The creature must attempt a DC 23 Fortitude save. On a failure, the creature gains light blindness and its coloration turns to washed out shades of gray, along with all equipment it carries, wields, or wears. These effects have an unlimited duration. Regardless of the result of its save, the creature is temporarily immune for 1 minute. If the owb uses this ability on a caligni, the curse can't be removed short of wish or similar powerful magic.

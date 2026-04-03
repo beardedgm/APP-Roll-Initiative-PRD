@@ -33,6 +33,14 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 28), attack +20
 
+  **Cantrips (5th)** daze, detect magic, read aura, telekinetic projectile
+
+  **2nd** telekinetic maneuver
+
+  **4th** dream message, nightmare
+
+  **5th** phantasmal killer, telekinetic haul
+
 **Dream Invasion** (enchantment, mental, occult) When Etward casts dream message and targets a gatewalker (like one of the PCs), he manifests inside the character's dream, appearing as he does when he cast the spell. (Typically, Etward disguises himself as a saumen kar when he does this, to further unnerve the target.) Rather than send a message to the target of a dream invasion, Etward can instead sift through the target's recent memories to gain a vague idea of what they did and where they were in the past 24 hours. This leaves the target feeling somewhat unsettled when they wake but causes no lasting harm.
 
 **Nightmarish Attack** ◆◆ (illusion, mental, occult) **Requirements** Etward has used Dream Invasion on the target at some point in the past; Etward draws upon a target's deepest fears and capitalizes upon the nature of their nightmares in an attempt to do them grievous harm. He attempts a melee dagger Strike against a target, and as he does so, that target briefly sees Etward's appearance change to reflect their deepest fear. Someone who's afraid of fire might see Etward and his dagger catch aflame. A person who fears darkness might see Etward transform into a rolling wave of enveloping darkness. A character who's afraid of snakes might witness Etward's dagger and entire arm turn into a serpent. Use your knowledge of the character's past and the specific dream invasions they may have endured during this campaign to make each Nightmarish Attack feel unique and frightening. Etward inflicts an additional 5d6 mental damage if he hits with the dagger Strike, and his dagger strike gains the following additional failure effect. **Failure** 

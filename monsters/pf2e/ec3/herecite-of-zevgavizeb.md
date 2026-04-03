@@ -37,6 +37,14 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 28)
 
+  **1st** ray of enfeeblement
+
+  **2nd** darkness
+
+  **3rd** crisis of faith, harm, meld into stone
+
+  **5th** ravening maw
+
 **Assault the Soul** ◆◆◆ (concentrate, divine, evil, necromancy) **Requirements** The herecite is in a cabal of three or more members, two of which are within 60 feet and have used Cabal Communion within the last round; The herecite casts bind soul, spirit blast, or spiritual epidemic (DC 31) Once a herecite has used this ability (whether or not it was successful), the cabal must wait 24 hours before one of its members can use Assault the Soul again.
 
 **Cabal Communion** ◆◆ (auditory, concentrate) With murmurs and chants, the herecite casts its consciousness toward the other members of its cabal. For 1 round, it senses what other members are sensing, knows their thoughts, and knows their exact location.

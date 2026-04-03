@@ -37,6 +37,26 @@ Speed 30 feet
 
 **Spontaneous arcane Spells** (DC 39), attack +33
 
+  **Cantrips (9th)** acid splash, detect magic, light, mage hand, prestidigitation, sigil
+
+  **1st (4 slots)** color spray, mage armor, magic missile, unseen servant
+
+  **2nd (4 slots)** acid arrow, dispel magic, glitterdust, mirror image
+
+  **3rd (4 slots)** fireball, haste, locate, slow
+
+  **4th (4 slots)** confusion, creation, dimensional anchor, stoneskin
+
+  **5th (4 slots)** banishment, black tentacles, passwall, sending
+
+  **6th (4 slots)** baleful polymorph, disintegrate, scrying, teleport
+
+  **7th (4 slots)** plane shift, prismatic spray, project image, warp mind
+
+  **8th (3 slots)** horrid wilting, maze, uncontrollable dance
+
+  **9th (2 slots)** disjunction, shapechange
+
 **Innate divine Spells** (DC 39)
 
 **Dimensional Slide** ◆ (arcane, move, teleport) **Frequency** {"unit":"day","number":2}; Il'setsya steps through a transient hole in space, instantly teleporting to a space within 60 feet that she can see.

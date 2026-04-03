@@ -34,3 +34,7 @@ Speed 25 feet
 **Melee** spine +8 (range increment <20 feet>, unarmed); **Damage** 1d6+3 piercing
 
 **Focus primal Spells** (DC 18), attack +10
+
+  **Cantrips (1st)** acid splash, dancing lights, guidance, stabilize, tanglefoot
+
+  **1st** heal, hydraulic push, magic fang

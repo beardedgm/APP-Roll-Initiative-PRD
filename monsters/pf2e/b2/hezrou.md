@@ -35,4 +35,10 @@ Speed 30 feet, swim 30 feet
 
 **Innate divine Spells** (DC 27)
 
+  **4th** dimension door, divine wrath, gaseous form
+
+  **5th** Abyssal plague, dimension door
+
+  **6th** divine wrath, paranoia
+
 **Poisonous Pustules** ◆ (poison) **Requirements** The hezrou is grappling a creature; Toxic fluids spurt from burst boils and weeping wens on the hezrou's body. A creature grabbed or restrained by the hezrou takes 2d12+6 poison damage (DC 30 basic Fortitude save).

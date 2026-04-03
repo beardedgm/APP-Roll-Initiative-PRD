@@ -31,6 +31,10 @@ Speed 30 feet, fly 40 feet
 
 **Innate arcane Spells** (DC 23)
 
+  **Cantrips (3rd)** sigil
+
+  **1st** sanctuary, true strike
+
 **Paired Strike** ◆◆ **Requirements** The maftet is wielding two scimitars; The maftet makes two Strikes against the same target, one with each of their scimitars. The maftet combines the damage of any attacks that hit and applies resistances and weaknesses only once. This counts as one attack when calculating the maftet's multiple attack penalty.
 
 **Powerful Scimitars** (arcane, evocation) Any non-magical scimitar becomes a +1 striking scimitar while a maftet wields it.

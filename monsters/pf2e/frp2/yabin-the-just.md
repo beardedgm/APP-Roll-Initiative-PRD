@@ -31,7 +31,25 @@ Speed 25 feet
 
 **Spontaneous arcane Spells** (DC 32), attack +24
 
+  **Cantrips (5th)** acid splash, detect magic, light, shield, telekinetic projectile
+
+  **1st (4 slots)** charm, fear, ray of enfeeblement, true strike
+
+  **2nd (4 slots)** blur, mirror image, resist energy, touch of idiocy
+
+  **3rd (4 slots)** fireball, haste, lightning bolt, slow
+
+  **4th (4 slots)** confusion, freedom of movement, spell immunity, wall of fire
+
+  **5th (4 slots)** chromatic wall, cloak of colors, cone of cold, summon dragon
+
+  **6th (4 slots)** dragon form, flesh to stone, magic missile, repulsion
+
+  **7th (3 slots)** haste, mask of terror, reverse gravity
+
 **Sorcerer Bloodline Spells** (DC 32)
+
+  **7th** dragon breath, dragon claws, dragon wings
 
 **Nagaji Venom** (poison)
 

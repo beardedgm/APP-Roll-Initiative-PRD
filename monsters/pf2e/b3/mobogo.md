@@ -29,6 +29,10 @@ Speed 25 feet, fly 20 feet, swim 30 feet
 
 **Innate primal Spells** (DC 27)
 
+  **4th** create water, entangle, obscuring mist, sound burst
+
+  **5th** control water
+
 **Song of the Swamp** ◆ (auditory, emotion, enchantment, mental, primal) Frequency once per 10 minutes; The mobogo unleashes a booming croak. All boggards and mobogos within 50 feet gain a +2 status bonus to damage rolls and saves against fear for 1 round. Other creatures in the area of effect must attempt a DC 27 Will save. **Success** The creature is unaffected and is temporarily immune for 24 hours.
 **Failure** The creature is slowed 1 for 1d4 rounds.
 **Critical Failure** The creature is slowed 2 for 1d4 rounds.

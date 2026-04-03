@@ -37,6 +37,12 @@ Speed 25 feet, fly 25 feet
 
 **Innate primal Spells** (DC 32), attack +22
 
+  **Cantrips (5th)** tanglefoot
+
+  **3rd** earthbind
+
+  **5th** blindness, deafness, hallucinatory terrain, remove curse
+
 **Devour Curse** ◆◆ (abjuration, primal) The imprecasia casts remove curse against a curse afflicting a creature, but with a cast of two actions rather than 10 minutes. If they succeed in removing the curse, they also drain vitality from the creature, causing it to become drained 1 unless it succeeds at a DC 30 Fortitude save (drained 2 on a critical failure). If the curse is removed, the imprecasia doesn't expend that use of remove curse as a primal innate spell.
 
 **Homeland's Hostility** (curse, enchantment, primal) A creature that takes damage from the imprecasia's claws must attempt a DC 30 Will save. On a failure, it treats all terrain within 60 feet of an imprecasia as 0.

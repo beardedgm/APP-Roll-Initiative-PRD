@@ -37,7 +37,13 @@ Speed 120 feet
 
 **Spontaneous occult Spells** (DC 37)
 
+  **8th (3 slots)** cloudkill, earthquake, horrid wilting, volcanic eruption
+
 **Innate occult Spells** (DC 37)
+
+  **2nd** sudden blight
+
+  **4th** earthbind, haste
 
 **Blighted Footfalls** Whenever the tolokand ends a move action during which it moved 30 feet or farther, it automatically casts one of its innate spells as a free action.
 

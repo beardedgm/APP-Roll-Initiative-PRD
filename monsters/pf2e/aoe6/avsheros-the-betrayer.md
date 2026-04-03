@@ -35,6 +35,20 @@ Speed 35 feet, fly 60 feet
 
 **Innate divine Spells** (DC 47), attack +39
 
+  **Cantrips (7th)** light
+
+  **2nd** invisibility
+
+  **4th** discern lies
+
+  **7th** blade barrier, dispel magic, heal
+
+  **8th** power word stun, spiritual epidemic
+
+  **9th** earthquake, energy aegis, prismatic shield, prismatic sphere
+
+  **10th** weapon of judgment
+
 **Blasphemous Arms** (divine, evocation) Any weapon gains the effects of an unholy property rune while Avsheros wields it.
 
 **Wail of the Betrayed** ◆◆ (fear, mental, verbal) Avsheros lets out an agonized wail that invokes grief and a feeling of betrayal in those who hear it. All creatures within 120 feet must succeed at a DC 47 Will save or become frightened|CRB|frightened 2. A creature frightened in this way can't willingly accept aid of any kind from an ally until the frightened condition is removed. On a successful save, the creature is immune to Avsheros's Wail of the Betrayed for 24 hours.

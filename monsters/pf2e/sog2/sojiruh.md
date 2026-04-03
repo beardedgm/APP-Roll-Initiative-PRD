@@ -37,6 +37,12 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 21), attack +13
 
+  **Cantrips (1st)** ghost sound, telekinetic projectile
+
+  **1st** fear, ventriloquism
+
+  **2nd** item facade, shatter, sound burst
+
 **Manifest Armor** ◆◆ (concentrate, conjuration, occult) The sojiruh manifests a layer of armor on its body that appears to be made of interlocking bones and wicker weaves, increasing its AC to 21. The armor is permanent but collapses and vanishes if the sojiruh takes a critical hit from a Strike that inflicts bludgeoning, force, or slashing damage, reducing its AC back to 17.
 
 **Ruin Wielder** When a sojiruh wields a broken non-magical weapon, they do not take any of the disadvantages of the weapon being broken. While the sojiruh wields it, the weapon becomes a +1 weapon that deals an additional 1d6 mental damage on a successful hit.

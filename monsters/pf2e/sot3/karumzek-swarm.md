@@ -31,6 +31,10 @@ Speed 40 feet, climb 30 feet
 
 **Innate occult Spells** (DC 30)
 
+  **2nd** invisibility
+
+  **6th** death knell, vomit swarm
+
 **Swarming Bites** ◆ Each enemy in the karumzek swarm's space takes 2d6 piercing damage (DC 27 basic Reflex save) plus karumzek venom.
 
 **Karumzek Venom** (poison, virulent)

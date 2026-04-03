@@ -33,4 +33,12 @@ Speed 25 feet, climb 20 feet
 
 **Prepared primal Spells** (DC 23), attack +13
 
+  **Cantrips (3rd)** acid splash, guidance, know direction, produce flame, tanglefoot
+
+  **1st** jump, pass without trace, shillelagh
+
+  **2nd** barkskin, entangle, speak with animals
+
+  **3rd** animal form, summon plants and fungi
+
 **Jungle Stride** A grippli ignores terrain in forests and jungles.

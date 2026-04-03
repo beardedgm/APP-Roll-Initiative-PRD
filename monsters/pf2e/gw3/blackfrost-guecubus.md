@@ -33,6 +33,8 @@ Speed 25 feet, burrow 15 feet
 
 **Innate primal Spells** (DC 26)
 
+  **4th** shape stone
+
 **Break Ground** ◆◆ As guecubu.
 
 **Shove into Ice** (arcane, earth, transmutation) When the blackfrost guecubu successfully Shoves a creature into an ice or frozen earth barrier, the target must succeed at a DC 26 Reflex save or become merged with the barrier, with the effects of meld into stone until the target escapes (DC 26).

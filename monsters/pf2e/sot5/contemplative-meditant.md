@@ -39,4 +39,12 @@ Speed 5 feet, fly 25 feet
 
 **Innate occult Spells** (DC 39), attack +29
 
+  **Cantrips (8th)** daze, ghost sound, mage hand, read aura, telekinetic projectile
+
+  **6th** sanctuary, slow
+
+  **7th** haste, magic missile, return to essence
+
+  **8th** dimensional anchor, disappearance, discern location
+
 **Temporal Suppression** ◆ (enchantment, mental, occult) **Frequency** {"number":1,"unit":"round"}; The contemplative attempts to hinder a target creature's personal flow of time. The target must be within 60 feet, and once targeted must attempt a DC 36 Will save, becoming slowed 1 on a failure or slowed 2 on a critical failure. Each time an affected creature ends its turn, its slowed value decreases by 1. A creature that critically succeeds on their save against Temporal Suppression is temporarily immune to it for 24 hours.

@@ -35,4 +35,16 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 29), attack +21
 
+  **Cantrips (5th)** acid splash, dancing lights, electric arc, ghost sound, prestidigitation
+
+  **1st (4 slots)** bane, grease, ray of enfeeblement, ventriloquism
+
+  **2nd (4 slots)** blur, dispel magic, glitterdust, obscuring mist
+
+  **3rd (4 slots)** earthbind, false life, haste, wall of thorns
+
+  **4th (4 slots)** dispel magic, freedom of movement, grim tendrils, phantasmal killer
+
+  **5th (4 slots)** cloudkill, crushing despair, lightning bolt, synesthesia
+
 **Death Gasp** As angheuvore flesh-gnawer, except up to 8 rounds, and the etioling gains the incorporeal trait, a fly Speed of 25 feet, resistance 10 to all damage (except force, ghost touch, or positive; double this resistance vs. non-magical) while they hold their breath. They can't cast spells during this time.

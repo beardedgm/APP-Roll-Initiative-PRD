@@ -33,4 +33,10 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 18)
 
+  **1st** illusory disguise, ventriloquism
+
+  **2nd** mirror image
+
+  **4th** suggestion
+
 **Serpentfolk Venom** (poison)

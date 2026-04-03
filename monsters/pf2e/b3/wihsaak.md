@@ -35,6 +35,14 @@ Speed 30 feet, fly 40 feet
 
 **Innate divine Spells** (DC 23)
 
+  **Cantrips (3rd)** detect magic
+
+  **2nd** blur, see invisibility
+
+  **3rd** fear, vomit swarm APG
+
+  **4th** suggestion
+
 **Droning Distraction** ◆ (auditory, divine, evocation, incapacitation, mental) The wihsaak beats its wings rapidly, creating a buzzing drone that numbs creatures' minds. Each creature within 100 feet must attempt a DC 23 Will save. They are then temporarily immune for 1 minute. **Success** The creature is unaffected.
 **Failure** The creature is confused and stupefied 1 for 1 round.
 **Critical Failure** The creature is confused for 1 round and stupefied 2 for 1 minute.

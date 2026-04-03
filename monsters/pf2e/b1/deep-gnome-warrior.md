@@ -34,3 +34,5 @@ Speed 20 feet
 **Melee** heavy crossbow +8 (range increment <120 feet>, reload <2>); **Damage** 1d10 piercing
 
 **Innate primal Spells** (DC 15)
+
+  **1st** illusory disguise

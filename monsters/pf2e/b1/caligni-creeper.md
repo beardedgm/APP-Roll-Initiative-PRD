@@ -33,4 +33,8 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 15)
 
+  **Cantrips (1st)** detect magic
+
+  **2nd** darkness
+
 **Sneak Attack** The caligni creeper deals 1d6 extra precision damage to flat-footed creatures.

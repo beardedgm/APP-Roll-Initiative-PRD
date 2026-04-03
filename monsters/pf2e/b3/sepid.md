@@ -39,4 +39,12 @@ Speed 35 feet
 
 **Innate divine Spells** (DC 34)
 
+  **Cantrips (7th)** detect magic
+
+  **3rd** comprehend language
+
+  **4th** darkness, dimension door, fly
+
+  **7th** dispel magic, misdirection, nondetection, paralyze
+
 **Rain of Debris** ◆◆ (divine, evil, evocation) The sepid calls forth a hail of stone, wood, metal, and similar debris in a 40-foot emanation, dealing 10d6 bludgeoning damage and 5d6 evil damage. Each creature in the area other than the sepid must attempt a basic DC 31 Reflex saving throw. The sepid can't use Rain of Debris again for 1d4 rounds.

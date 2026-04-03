@@ -31,6 +31,26 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 34)
 
+  **Cantrips (7th)** daze, detect magic, guidance, light, message
+
+  **1st (3 slots)** sanctuary, spirit link, true strike
+
+  **2nd (3 slots)** dispel magic, silence, sound burst
+
+  **3rd (3 slots)** enthrall, heroism, invisibility sphere
+
+  **4th (3 slots)** blink, dimension door, fly
+
+  **5th (3 slots)** illusory scene, shadow blast, shadow siphon
+
+  **6th (3 slots)** collective transposition, true seeing, zealous conviction
+
+  **7th (2 slots)** mask of terror, true target
+
 **Bard Composition Spells** (DC 34)
+
+  **Cantrips (7th)** inspire courage, inspire defense
+
+  **7th** counter performance, inspire heroics
 
 **Story of Valor** ◆ (auditory, linguistic) Umbasi expounds on the values of courage and respect. They remove the fleeing condition from and reduce the frightened value of each ally within 30 feet by 1. If this is the first time they've used this action in combat, Umbasi automatically rallies the crowd for their team (see the Crowd Appeal sidebar on page 45).

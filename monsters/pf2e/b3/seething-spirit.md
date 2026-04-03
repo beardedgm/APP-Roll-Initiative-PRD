@@ -39,4 +39,10 @@ Speed fly 40 feet
 
 **Innate occult Spells** (DC 32)
 
+  **2nd** invisibility, ventriloquism
+
+  **3rd** mind reading
+
+  **6th** paranoia, remove fear, suggestion
+
 **Furious Possession** ◆◆ The seething spirit attempts to possess an adjacent corporeal creature. This has the same effect as a possession spell (DC 30), except since the spirit doesn't have a physical body, they're not unconscious and paralyzed when the effect ends. The spirit can't Dismiss the possession. The creature gains 12 temporary Hit Points that are lost when the possession ends. During the possession, the creature has the pulse of rage aura. Each time the possessed creature makes a melee Strike, the spirit can substitute their ephemeral claw attack modifier, damage amount, or both in place of the creature's own statistics.

@@ -31,4 +31,8 @@ Speed 5 feet, swim 30 feet
 
 **Prepared primal Spells** (DC 18), attack +10
 
+  **Cantrips (1st)** dancing lights, detect magic, electric arc, ray of frost, stabilize
+
+  **1st** charm, heal, hydraulic push
+
 **Hydraulic Asphyxiation** ◆ (divine, evocation, water) **Requirements** The target is fully submerged in water, within 30 feet of the merfolk wavecaller, and holding its breath.; The merfolk wavecaller commands the tides to crush their foe's throat, rooting the target in place and forcing it to choke up precious air. The target must succeed at a DC 18 Fortitude save or become immobilized for 1 round and immediately lose 1d4 actions' worth of air (or twice that on a critical failure).

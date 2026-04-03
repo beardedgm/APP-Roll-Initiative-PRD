@@ -33,6 +33,8 @@ Speed 25 feet, swim 50 feet
 
 **Spontaneous primal Spells** (DC 25)
 
+  **5th** control water
+
 **Muddy Field** ◆ (primal, transmutation, water) The great grodair transforms all soil, sand, or similar sediment in a 10-foot emanation into mud for 1 round. This mud is terrain for creatures other than grodairs.
 
 **Organ of Endless Water** ◆ (conjuration, manipulate, primal, water) The great grodair causes water to pour from a magical sac on his spine, either a stream of water at a rate of 1 gallon per round, or a fountain in a 5-foot-long stream at a rate of 5 gallons per round. He can stop the flow of water as a single action.

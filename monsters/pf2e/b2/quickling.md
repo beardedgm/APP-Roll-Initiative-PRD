@@ -35,6 +35,12 @@ Speed 100 feet
 
 **Innate primal Spells** (DC 20)
 
+  **Cantrips (2nd)** dancing lights, prestidigitation
+
+  **1st** ventriloquism
+
+  **2nd** shatter
+
 **Sneak Attack** The quickling's Strikes deal an extra 1d6 precision damage to flat-footed creatures.
 
 **Supernatural Speed** The quickling's speed, combined with nearly instantaneous acceleration and deceleration, enables them to move in astonishing ways. As long as they have a firm surface to travel across, they can Stride their full movement vertically or horizontally. They can even run across unstable surfaces, such as water, in the same way, although dangerous surfaces (acid, lava, etc.) harm them as normal. They must end their movement on a horizontal surface capable of bearing their weight or else they fall.

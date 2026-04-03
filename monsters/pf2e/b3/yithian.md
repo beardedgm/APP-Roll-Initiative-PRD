@@ -29,4 +29,8 @@ Speed 20 feet, climb 10 feet
 
 **Innate occult Spells** (DC 28), attack +20
 
+  **5th** hypercognition, mind probe, mind reading, mindlink, modify memory, paralyze, touch of idiocy
+
+  **7th** possession
+
 **Mind Swap** When a yithian successfully casts possession, they exchange their mind and soul with the target. Each creature takes control of the other's body. This effect lasts until the yithian Dismisses the spell or they're forced out by any effect that ends possession. When the effect ends, each creature's mind and soul returns to its own body, regardless of physical or temporal distance, and the yithian can cast modify memory on the target to remove any or all knowledge of its time being possessed. If the yithian is forced out of the target's mind by an effect, the yithian can't remove such knowledge.

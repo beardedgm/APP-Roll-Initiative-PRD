@@ -43,6 +43,12 @@ Speed 40 feet, fly 120 feet
 
 **Innate occult Spells** (DC 41)
 
+  **7th** outcast's curse, suggestion
+
+  **8th** crushing despair, modify memory
+
+  **9th** ethereal jaunt, suggestion
+
 **Bloodbird** (curse, occult) As vilderavn|B3, but DC 41.
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) As vilderavn|B3.

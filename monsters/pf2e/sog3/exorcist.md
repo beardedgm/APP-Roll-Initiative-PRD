@@ -31,6 +31,16 @@ Speed 25 feet
 
 **prepared divine Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** detect magic, divine lance, produce flame, read aura, sigil
+
+  **1st** bane, command, sanctuary
+
+  **2nd** gentle repose, heal, spiritual weapon
+
+  **3rd** dispel magic, heal, searing light
+
+  **4th** divine wrath, talking corpse
+
 **Purifying Flame** ◆◆ (divine, fire, evocation) The exorcist attempts to Strike a creature with their torch, attacking with great precision and causing the torch's fires to flare up. This Strike gains a +2 status bonus to its attack roll and inflicts an additional 2d6 fire damage on a hit instead of just 1d6 fire damage. An undead, spirit, or transmigrate|SoG3|transmigrated creature hit by this attack must also attempt a DC 26 Will save. **Critical Success** The creature is unaffected by this additional effect, and some of the fire flares back onto the exorcist, inflicting 2d6 fire damage to the exorcist (DC 26 basic Reflex save).
 **Success** The creature is unaffected by this additional effect.
 **Failure** The purifying flames cause the creature to become clumsy 1 and stupefied 1 until the end of its next turn.

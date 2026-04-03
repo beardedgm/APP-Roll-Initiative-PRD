@@ -32,3 +32,11 @@ Speed 25 feet
 **Melee** electrical blast +25 (electricity, evocation, range increment <60 feet>); **Damage** 4d12 electricity
 
 **Innate arcane Spells** (DC 35), attack +27
+
+  **Cantrips (7th)** detect magic
+
+  **5th** black tentacles, cloudkill
+
+  **6th** chain lightning, disintegrate, glyph of warding, wall of force
+
+  **7th** prismatic spray

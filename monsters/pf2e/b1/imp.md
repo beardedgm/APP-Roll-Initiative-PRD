@@ -31,6 +31,14 @@ Speed 20 feet, fly 30 feet
 
 **Innate divine Spells** (DC 17)
 
+  **Cantrips (1st)** detect magic
+
+  **1st** charm, detect alignment
+
+  **2nd** invisibility
+
+  **4th** read omens
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) - Boar size Medium; scent (imprecise) 30 feet; Speed 40 feet; Melee tusk +9 (finesse), Damage 1d10-1 piercing
 - Giant Spider size Medium; Speed 25 feet, climb 25 feet; Melee fangs +9 (finesse, poison), Damage 1d6-1 piercing plus 1d4 poison
 - Rat scent (imprecise) 30 feet; Speed 20 feet; Melee jaws +9 (agile, finesse), Damage 1 piercing

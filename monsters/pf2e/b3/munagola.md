@@ -41,6 +41,10 @@ Speed 30 feet, fly 40 feet
 
 **Innate divine Spells** (DC 27)
 
+  **4th** dimension door
+
+  **5th** dimension door
+
 **Felling Assault** When a munagola hits with a melee Strike, they gain Improved Knockdown on all subsequent melee Strikes against that target until the end of the munagola's turn.
 
 **Flames of Fury** Any weapon a munagola holds gains the effects of a flaming rune while they hold it.

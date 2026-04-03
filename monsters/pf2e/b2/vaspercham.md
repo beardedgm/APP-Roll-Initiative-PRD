@@ -38,6 +38,16 @@ Speed 20 feet, swim 50 feet
 
 **Innate arcane Spells** (DC 41)
 
+  **5th** control water
+
+  **6th** spellwrack
+
+  **7th** regenerate
+
+  **8th** lightning bolt
+
+  **9th** cone of cold, spell immunity
+
 **Hallucinatory Brine** (arcane, illusion, mental) A creature hit by the vaspercham's Strikes or Mindwarping Tide must attempt a DC 38 Fortitude save. On a failure, the creature is overwhelmed with phantasmal visions, becoming confused for 1 round (1 minute on a critical failure).
 
 **Mindwarping Tide** ◆ (concentrate) The vaspercham releases an effusion of noxious water from its shell. Creatures within a 15-foot emanation must save against the vaspercham's hallucinatory brine.

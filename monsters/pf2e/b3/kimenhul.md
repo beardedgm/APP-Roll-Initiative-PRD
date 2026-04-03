@@ -39,6 +39,10 @@ Speed 45 feet, climb 25 feet
 
 **Innate divine Spells** (DC 42)
 
+  **Cantrips (10th)** detect magic
+
+  **9th** confusion, dispel magic, fear, mask of terror, phantasmal calamity, suggestion, warp mind, weird
+
 **Eternal Fear** ◆◆ (divine, emotion, enchantment, fear, incapacitation, mental) The kimenhul contorts its faces and presents itself to its enemies in a terrifying and traumatic display that causes lingering fear. Each creature within 100 feet that can observe the kimenhul must make a DC 42 Will save. They are then temporarily immune for 10 minutes. **Critical Success** The target is unaffected.
 **Success** The target becomes frightened 3.
 **Failure** The target becomes frightened 3 and is fleeing as long as it's frightened. Even after recovering from the initial experience, the trauma is lodged in the target's mind for 1 year. Once per day, the kimenhul can communicate telepathically with the target for 1 minute as long as both creatures are on the same plane. Any time a creature under the effect of Eternal Fear is in a stressful situation (such as combat or intense social pressure), they must succeed at a DC 11 flat check or become frightened 2. While Eternal Fear lasts, the target always becomes fleeing as long as it's frightened, regardless of the source of the fear. The target can attempt a new saving throw each week to remove these effects, but they can otherwise be removed only by powerful magic such as wish.

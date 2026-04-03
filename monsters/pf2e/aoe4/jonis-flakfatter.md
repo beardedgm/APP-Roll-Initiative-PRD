@@ -35,6 +35,24 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 37), attack +29
 
+  **Cantrips (8th)** daze, detect magic, guidance, message, shield
+
+  **1st** command, purify food and drink, sanctuary
+
+  **2nd** darkness, silence, spiritual weapon
+
+  **3rd** crisis of faith, locate, neutralize poison
+
+  **4th** air walk, discern lies, divine wrath
+
+  **5th** Abyssal plague, heal, sending
+
+  **6th** blade barrier, heroism, true seeing
+
+  **7th** divine decree, energy aegis, regenerate
+
+  **8th** harm, spirit blast, spiritual epidemic
+
 **Infector** ◆◆ (concentrate, divine, divination) Flakfatter targets a creature within 30 feet that's currently subject to a poison affliction. The poison affliction progresses to the next stage.
 
 **Steady Spellcasting** If a reaction would disrupt Flakfatter's spellcasting action, he attempts a DC 15 flat check. On a success, the action isn't disrupted.

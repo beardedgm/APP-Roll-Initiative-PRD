@@ -33,6 +33,16 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 20), attack +10
 
+  **Cantrips (2nd)** daze, ghost sound, mage hand, message, prestidigitation
+
+  **1st (3 slots)** illusory disguise, magic aura, unseen servant, ventriloquism
+
+  **2nd (2 slots)** charm, illusory disguise, invisibility
+
 **Bard Composition Spells** (DC 19), attack +10
+
+  **Cantrips (1st)** inspire courage
+
+  **1st** counter performance
 
 **Sneak Attack** The charlatan deals an extra 1d6 precision damage to flat-footed creatures.

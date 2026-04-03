@@ -39,6 +39,8 @@ Speed 50 feet, fly 100 feet
 
 **Innate divine Spells** (DC 46)
 
+  **10th** miracle
+
 **Breath Weapon** ◆◆ (divine, necromancy, negative) The wyrmwraith unleashes a burst of negative energy that deals 24d6 negative damage to all creatures in a 90-foot cone (DC 46 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.
 
 **Consume Souls** ◆◆ (divine, death, incapacitation, necromancy) The elder wyrmwraith inhales sharply, sucking in the souls of nearby creatures. Each creature in a 60-foot cone must attempt a DC 46 Will save. The elder wyrmwraith can't Consume Souls again for 1d4 rounds. **Critical Success** The creature is unaffected.

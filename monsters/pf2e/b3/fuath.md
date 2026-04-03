@@ -35,4 +35,8 @@ Speed 20 feet, swim 30 feet
 
 **Innate primal Spells** (DC 17)
 
+  **Cantrips (1st)** prestidigitation
+
+  **1st** create water, sleep
+
 **Viscous Choke** ◆◆ (conjuration, primal, water) **Frequency** {"unit":"day","number":1}; The fuath surrounds the head of one air-breathing creature within 30 feet in a magical film of viscous water for 1 minute. The target must succeed at a DC 17 Reflex save or begin to choke and must hold their breath to avoid drowning (Core Rulebook 478). The film can be temporarily wiped away with a total of 3 Interact actions by the choking creature or creatures adjacent to it, allowing a new Reflex save with a +2 circumstance bonus to end the effect. (These actions don't need to be consecutive or made by the same creature.)

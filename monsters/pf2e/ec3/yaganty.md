@@ -39,6 +39,14 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 29), attack +23
 
+  **Cantrips (5th)** produce flame
+
+  **3rd** burning hands
+
+  **4th** darkness
+
+  **5th** dimension door
+
 **Fling Wax** ◆◆ (fire) The yaganty whips a stream of scalding wax in a 30-foot line. Each glob deals 1d6 persistent fire damage. An affected creature or adjacent ally can remove one glob of wax by spending an Interact action to scrape it off. The yaganty can't use Fling Wax again for 1d4 rounds. Creatures in the area must attempt a DC 27 Reflex save. **Critical Success** The creature is unaffected.
 **Success** The creature is splattered with 1d2+1 globs of wax.
 **Failure** The creature is splattered with 1d4+2 globs of wax.

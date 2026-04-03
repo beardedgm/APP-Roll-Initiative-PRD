@@ -35,6 +35,10 @@ Speed 20 feet, fly 20 feet
 
 **Innate occult Spells** (DC 28)
 
+  **Cantrips (5th)** tongues
+
+  **4th** modify memory
+
 **Search Memory** (divination, mental, occult) When the loreavor damages a creature with its touch Strike, the creature must succeed at a 28 Will save or become stupefied 1, or stupefied 2 on a critical failure.
 
 **Redact** (occult, transmutation) By spending an hour in contact with a nonmagical document or piece of artwork no larger than 1 Bulk, a loreavor can consume either a few words from the text or render the artistry of the work more mundane. Doing so heals the loreavor of 4d8 HP. Words fade from the text, leaving an obvious blank space behind, while artwork is reduced in worth by 10% of its original value. A loreavor can consume incidental text in this manner from a spellbook but cannot consume actual spells recorded in the book. The loreavor can't use Redact for 24 hours.

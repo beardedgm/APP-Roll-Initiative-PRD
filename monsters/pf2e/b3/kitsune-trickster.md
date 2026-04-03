@@ -35,4 +35,8 @@ Speed 25 feet
 
 **Spontaneous divine Spells** (DC 18), attack +10
 
+  **Cantrips (1st)** dancing lights, detect magic, ghost sound, prestidigitation, produce flame, sigil, tanglefoot
+
+  **1st (3 slots)** charm, fleet step, magic fang
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The kitsune trickster transforms into the tailless form of a specific Medium human. The tailless form can't be altered and resembles the kitsune's fox-like humanoid form. While the kitsune trickster's alternate form is a Medium human, some kitsune have tailless forms of other humanoids, or a fox alternate form.

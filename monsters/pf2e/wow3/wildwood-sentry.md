@@ -39,6 +39,12 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 25), attack +17
 
+  **Cantrips (3rd)** know the way, sigil
+
+  **2nd** revealing light, speak with animals
+
+  **3rd** cleanse affliction, earthbind
+
 **Hunt Prey** ◆ (concentrate) The sentry designates a single creature they can see and hear, or one they're Tracking, as their prey. The sentry gains a +2 circumstance bonus to Perception checks to Seek the prey and to Survival checks to Track the prey. The first time the sentry hits the designated prey in a round, they deal an additional 1d8 precision damage. The sentry also ignores the penalty for making ranged attacks within their second range increment against the prey they're hunting. These effects last until the sentry uses Hunt Prey again.
 
 **Protector of Arenway** The sentry can only cast its primal innate spells while on the Isle of Arenway.

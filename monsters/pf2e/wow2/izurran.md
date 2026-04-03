@@ -35,6 +35,24 @@ Speed 30 feet
 
 **Prepared occult Spells** (DC 28), attack +20
 
+  **Cantrips (5th)** daze, detect magic, light, shield, telekinetic projectile
+
+  **1st** alarm, bane, enfeeble, sure strike
+
+  **2nd** blur, resist energy, see the unseen
+
+  **3rd** blindness, dispel magic, false vitality, illusory disguise
+
+  **4th** blood vendetta, grim tendrils, phantom pain
+
+  **5th** biting words, vampiric feast, wave of despair
+
 **Witch Hexes** (DC 28)
+
+  **Cantrips (5th)** evil eye
+
+  **1st** cackle
+
+  **5th** needle of vengeance, phase familiar
 
 **Familiar** Izurran's familiar is Zasir, a cobra with a Speed of 25 feet, a climb Speed of 25 feet, darkvision, and fire resistance 4. Zasir is currently empowered by Izurran's patron; see below.

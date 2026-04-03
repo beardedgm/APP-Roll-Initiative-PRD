@@ -33,6 +33,8 @@ Speed 30 feet, climb 25 feet
 
 **Innate divine Spells** (DC 29)
 
+  **5th** telekinetic haul
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) DC 29
 
 **Command Thrall** ◇ (auditory, divine, mental)

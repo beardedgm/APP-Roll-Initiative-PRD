@@ -37,6 +37,18 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 30), attack +22
 
+  **Cantrips (6th)** daze, ghost sound, mage hand, shield, telekinetic projectile
+
+  **1st (4 slots)** command, fear, illusory disguise, magic missile
+
+  **2nd** calm emotions, death knell, mirror image, touch of idiocy
+
+  **3rd (4 slots)** hypercognition, levitate, paralyze, slow
+
+  **4th (4 slots)** blink, gaseous form, modify memory, phantasmal killer
+
+  **5th (4 slots)** crushing despair, mind probe, shadow blast, vampiric touch
+
 **Gatekeeper's Will** ◆ (concentrate) Lady's Whisper mentally causes any doors or portals within the Gate of Nhimbaloth (areas B60 to B64 and areas C1 through C18) to open or shut. If Lady's Whisper wills a door closed, it must be Forced Open or battered down.
 
 **Unwilling Teleportation** (conjuration, divine, teleportation) When Lady's Whisper hits and damages a creature with its claw Strike, it can choose to teleport that creature to any open space within 15 feet, even if Lady's Whisper can't see the destination. The target can attempt a DC 30 Will saving throw to resist this effect.

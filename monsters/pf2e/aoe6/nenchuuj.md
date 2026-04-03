@@ -37,6 +37,12 @@ Speed 50 feet
 
 **Innate divine Spells** (DC 41)
 
+  **4th** fear, freedom of movement, nightmare
+
+  **8th** mind blank
+
+  **9th** dispel magic, weird
+
 **Tainted Backlash** A creature frightened by the sahkil's mask of terror is gripped with fear of the ways magic can go wrong. The creature is stupefied|CRB|stupefied 2 for as long as it is frightened. If the creature Casts a Spell during its turn, it can't reduce its frightened condition at the end of that turn.
 
 **Skip Between** ◆ (conjuration, divine, teleportation) As penqual (page 84).

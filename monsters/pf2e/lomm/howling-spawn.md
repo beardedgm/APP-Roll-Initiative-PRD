@@ -41,6 +41,12 @@ Speed 35 feet, fly 15 feet, swim 30 feet, climb 20 feet
 
 **Innate occult Spells** (DC 27)
 
+  **2nd** invisibility, mirror image
+
+  **4th** dimension door, hallucinatory terrain
+
+  **5th** hallucination
+
 **Illusory Ambush** ◆◆ The howling spawn shimmers with illusions and devastates a foe who lost track of its position. It Strides up to twice its Speed. If it ends its movement within its melee reach of at least one enemy to which it's undetected, it can attempt two claw Strikes against that enemy. These attacks count toward it's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes both of these attacks. The howling spawn remains undetected to the creature it's attacking until after resolving both of the claw attacks.
 
 **Paralytic Secretion** The howling spawn's saliva is a potent paralytic substance that drains the energy from prey. A creature hit by its spit Strike must succeed at a DC 30 Fortitude save or become drained 1 as well as paralyzed for 1 round. If the target was already drained, it instead increases the condition's value by 1, to a maximum of drained 4.

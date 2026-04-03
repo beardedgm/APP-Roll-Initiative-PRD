@@ -31,6 +31,10 @@ Speed 25 feet, fly 40 feet
 
 **Innate divine Spells** (DC 16)
 
+  **Cantrips (1st)** dancing lights, know direction, prestidigitation, stabilize
+
+  **4th** gaseous form, read omens
+
 **Champion Focus Spell** DC 16, 1 Focus Point; 1st lay on hands (Core Rulebook 387)
 
 **Cat's Grace** When a silvanshee uses their gaseous form spell, the mist form remains roughly the size and shape of a cat, and the silvanshee retains their fly speed in this form.

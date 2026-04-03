@@ -37,6 +37,16 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 21)
 
+  **Cantrips (2nd)** daze, ghost sound
+
+  **2nd** darkness, sound burst
+
 **Spontaneous occult Spells** (DC 21)
+
+  **Cantrips (2nd)** chill touch, dancing lights, detect magic, forbidding ward, message
+
+  **1st (4 slots)** fear, grim tendrils, phantom pain, soothe
+
+  **2nd (4 slots)** blur, hideous laughter, sound burst, telekinetic maneuver
 
 **Cytillesh Stare** ◆ (concentrate, incapacitation, mental, visual) **Frequency** {"unit":"round","number":1}; Zaiox focuses their gaze on a creature they can see within 30 feet. The target is dazzled for 1 round and must succeed at a DC 21 Will saving throw or be confused for 1 round.

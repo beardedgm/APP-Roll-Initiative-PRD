@@ -29,6 +29,10 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 25)
 
+  **Cantrips (4th)** detect magic, read aura
+
+  **2nd** blood vendetta, charitable urge
+
 **Conformance** ◆ (concentrate, occult, polymorph, transmutation) The conformer contorts and reshapes their body into a desired form. The conformer takes on the specific appearance of any Small, Medium, or Large humanoid or animal that they've observed and whose appearance they remember. This doesn't change the conformer's Speed or their attack and damage bonus with their Strikes, but might change the damage type their Strikes deal.
 
 **Surgical Detachment** ◆ (concentrate, manipulate, morph, occult, transmutation) The conformer detaches part of their body to serve them as an autonomous organism. For the next 24 hours, the conformer gains the loyal service of a fleshforged skinskitter (page 329). As long as they remain within 1 mile of each other, the conformer can use the Surgical Detachment action again to empathically direct the actions of their skinskitter servant as well as perceive through its senses. Due to how taxing this process is, the conformer can have only one skinskitter servant at a time.

@@ -37,6 +37,24 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 39), attack +31
 
+  **Cantrips (8th)** daze, detect magic, electric arc, mage hand, shield
+
+  **1st** alarm, command, illusory disguise, unseen servant
+
+  **2nd** hideous laughter, invisibility, mirror image
+
+  **3rd** haste, paralyze, slow, stinking cloud
+
+  **4th** confusion, fly, freedom of movement, veil
+
+  **5th** command, cone of cold, crushing despair, hallucination
+
+  **6th** disintegrate, feeblemind, repulsion, true seeing
+
+  **7th** power word blind, project image, spell turning, true target
+
+  **8th** horrid wilting, power word stun, uncontrollable dance
+
 **Servitor Assembly** ◆ (manipulate) A horde lich has three servitor bodies folded up and attached to themself, usually in the ribcage, on the arms, and around the legs. The lich detaches one of these servitors and places it in any open, adjacent space. The lich can alternatively take this action to reattach an adjacent servitor. The lich and their servitors share actions and Hit Points, and the servitors use the same statistics as the lich. Spells and effects that target the lich or their servitors affect all of them equally, but they're still treated as just one creature when targeted by spells and attacks. The horde lich attempts only one save against such effects, but they take a –2 circumstance penalty to defend against effects that target both the lich and one or more detached servitors. Whenever the horde lich Casts a Spell, they can choose to have the spell originate from themself or from any one of their detached servitors. If the horde lich is destroyed, all attached servitors are destroyed as well. If a servitor is dealt a critical hit, it's destroyed (and the horde lich takes the damage as normal).
 
 **Servitor Attack** ◆◆ (concentrate) Each of the horde lich's detached servitors Strike, with a –2 circumstance penalty on the attack roll. Each of these Strikes counts toward the lich's multiple attack penalty, but the penalty doesn't increase until after all the attacks.

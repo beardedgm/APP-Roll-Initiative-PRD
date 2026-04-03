@@ -33,6 +33,8 @@ Speed 20 feet, fly 25 feet, swim 25 feet
 
 **Innate arcane Spells** (DC 17)
 
+  **2nd** obscuring mist
+
 **Boiling Rain** ◆◆ (arcane, conjuration, fire, water) Frequency once per day; The steam mephit calls down a rain boiling water that surrounds them in a 10-foot emanation. Creatures in the area take 2d8 fire damage (DC 17 basic Reflex save), and small unattended flames (such as torches) are extinguished.
 
 **Breath Weapon** ◆◆ (arcane, fire) The steam mephit spits a cloud of steam in a 15-foot cone that deals 2d6 fire damage to each creature within the area (DC 17 basic Reflex save). The steam mephit can't use Breath Weapon again for 1d4 rounds.

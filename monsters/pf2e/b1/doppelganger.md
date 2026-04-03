@@ -29,4 +29,6 @@ Speed 25 feet
 
 **Innate arcane Spells** (DC 21)
 
+  **3rd** mind reading
+
 **Change Shape** ◆ (arcane, concentrate, polymorph, transmutation) The doppelganger takes on the specific appearance of any Small or Medium humanoid who it has seen and whose appearance it remembers. This doesn't change the doppelganger's Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning).

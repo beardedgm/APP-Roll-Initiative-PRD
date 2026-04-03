@@ -38,6 +38,14 @@ Speed 25 feet, fly 40 feet
 
 **Innate divine Spells** (DC 36)
 
+  **4th** charm
+
+  **5th** command
+
+  **6th** dominate
+
+  **8th** fireball, suggestion
+
 **Abyssal Spew** ◆◆ (acid, divine, evocation, fire) The ghalzarokh spews corrosive flame that deals 8d6 acid damage and 8d6 fire damage in a 40-foot cone (DC 36 basic Reflex save). The ghalzarokh can't use Abyssal Spew again for 1d4 rounds.
 
 **Rend** ◆ claw

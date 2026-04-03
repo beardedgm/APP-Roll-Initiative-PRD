@@ -39,6 +39,14 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 25)
 
+  **Cantrips (4th)** know direction, read aura
+
+  **2nd** augury, undetectable alignment
+
+  **3rd** clairaudience, earthbind
+
+  **4th** clairvoyance, read omens, shape stone
+
 **Gem Gaze** ◆ (emotion, fear, mental, primal) The stygira holds aloft a gem and gazes into the mind of a creature within 30 feet, infusing the creature's thoughts with visions of the creature's own dead body slowly petrifying. The creature must succeed at a DC 25 Will save or become frightened 1 (frightened 2 on a critical failure).
 
 **Stone Curse** (curse, primal, transmutation) Wounds dealt by the stygira's claws leave the flesh bleached of color and turn the blood that runs from them dark gray. Each time a creature is damaged by the stygira's claw Strike, it must succeed at a DC 25 Fortitude save or become permanently slowed 1 (slowed 2 on a critical failure) as its flesh stiffens like stone. If a creature is reduced to 0 Hit Points from the stygira's claw Strike and fails the saving throw against stone curse, it is petrified. A creature that spends 8 hours in direct sunlight can attempt a new saving throw to remove the effects of stone curse, even if it has been petrified.

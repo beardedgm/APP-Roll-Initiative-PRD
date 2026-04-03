@@ -37,6 +37,10 @@ Speed 40 feet, fly 80 feet, burrow 30 feet
 
 **Innate arcane Spells** (DC 25)
 
+  **Cantrips (2nd)** detect magic
+
+  **2nd** continual flame
+
 **Adamantine Claws** The dragon's claws are infused with adamantine. Their claw Strikes ignore half the Hardness of any object hit.
 
 **Breath Weapon** ◆◆ (arcane, evocation, fire) The dragon breathes a blast of fire that explodes in a 20-foot burst within 40 feet, dealing 7d6 fire damage (DC 25 basic Reflex save). Creatures that fail the save also take 1d6 persistent fire damage. The dragon can't use Breath Weapon again for 1d4 rounds.

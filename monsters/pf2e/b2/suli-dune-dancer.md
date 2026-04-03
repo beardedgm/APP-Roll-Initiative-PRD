@@ -31,4 +31,6 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 17), attack +9
 
+  **Cantrips (1st)** detect magic, guidance, inspire courage, mage hand, shield, telekinetic projectile
+
 **Elemental Assault** ◆◆ Elemental magic fills the dune dancer's body or weapon. The dune dancer chooses one element and makes a melee Strike. The Strike deals an additional 1d4 damage of the indicated type and has the trait corresponding to the element: Air electricity, Earth bludgeoning, Fire fire, or Water cold.

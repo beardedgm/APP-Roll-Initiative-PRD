@@ -33,7 +33,23 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 32), attack +22
 
+  **Cantrips (6th)** acid splash, detect magic, light, read aura, shield, tanglefoot
+
+  **1st** command, fear, floating disk, magic missile
+
+  **2nd** invisibility, mirror image, summon fiend
+
+  **3rd** acid arrow, fireball, locate, slow
+
+  **4th** dimension door, fly, phantasmal killer, summon fiend
+
+  **5th** black tentacles, cone of cold, dispel magic, summon fiend
+
+  **6th** collective transposition, summon fiend, wall of force
+
 **Wizard School Spells** (DC 22)
+
+  **6th** augment summoning, dimensional steps
 
 **Drain Bonded Item** ◇ **Frequency** {"unit":"day","number":1}; **Requirements** Barushak hasn't acted yet on this turn.; This turn, Barushak can cast one prepared spell he has already cast today without spending a spell slot. He must still Cast the Spell and meet the spell's other requirements.
 

@@ -43,6 +43,8 @@ Speed 40 feet
 
 **Monk Ki Spells** (DC 40), attack +32
 
+  **8th** ki blast, ki rush, ki strike, wholeness of body
+
 **Crying Bell Stance** ◆ (stance) Abbot Tsujon cups one hand and poses the other to strike it, like the Rai Sho Monastery's central bell. In this stance, she can make temple bell Strikes and gains a +2 status bonus to AC against ranged attacks.
 
 **Falling Sal Stance** ◆ (stance) Abbot Tsujon joins her palms together in the shape of a sal flower, evoking the truth that all things eventually decay. In this stance, she can make sal blossom Strikes and is quickened|CRB|quickened 1, and can use the extra action only to cast wholeness of body.

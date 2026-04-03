@@ -39,6 +39,8 @@ Speed 60 feet, fly 150 feet, swim 60 feet
 
 **Innate arcane Spells** (DC 37)
 
+  **2nd** darkness
+
 **Breath Weapon** ◆◆ (acid, arcane, evocation) The dragon breathes a spray of acid that deals 17d6 acid damage in a 100-foot line (DC 39 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 
 **Corrupt Water** ◆ (arcane, concentrate, necromancy) **Frequency** {"unit":"day","number":1}; The dragon permanently befouls 10 cubic feet of liquid within 90 feet. The liquid becomes undrinkable and unable to support water-breathing life. This destroys liquid magic or alchemical items if they're of a lower level than the dragon (a creature can attempt a DC 35 Will save to protect liquids in its possession). This doesn't affect the liquids in a creature's body.

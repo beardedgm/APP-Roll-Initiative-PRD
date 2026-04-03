@@ -41,6 +41,20 @@ Speed 25 feet, fly 50 feet
 
 **Innate divine Spells** (DC 38), attack +30
 
+  **1st** detect alignment
+
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **6th** cloudkill
+
+  **7th** paralyze, spell turning
+
+  **9th** disintegrate, meteor swarm
+
+  **10th** massacre
+
 **Consume Soul** ◆◆ (divine, necromancy) The obcisidaemon consumes a soul from its cloak to gain one of the following effects. A consumed soul in this way can't be resurrected except by wish or a similarly powerful effect. 
 
 **Inherit Soul** ◈ (divine, incapacitation, necromancy) **Trigger** The obcisidaemon slays a creature; The obcisidaemon attempts to draw the creature's soul into its cloak of souls. The triggering creature must attempt a DC 38 Fortitude save. On a failure, its soul is consumed and added to the cloak of souls. If the obcisidaemon's cloak can't hold any more souls, the daemon can release one of the souls as a free action; otherwise, the soul isn't absorbed.

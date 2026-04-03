@@ -37,6 +37,18 @@ Speed fly 40 feet
 
 **Innate occult Spells** (DC 28)
 
+  **Cantrips (5th)** dancing lights, ghost sound
+
+  **2nd** illusory disguise
+
+  **3rd** phantom pain
+
+  **4th** invisibility, phantasmal killer
+
+  **5th** crushing despair
+
+  **6th** summon entity
+
 **Witchflame** (curse, fire, necromancy, occult) Any creature that takes negative damage from a witchfire's Strike must attempt a DC 26 Will save. **Critical Success** The creature is unaffected and is temporarily immune to witchflame for 1 hour.
 **Success** The creature appears to catch fire with sickly green flames. These flames deal no damage on their own, but as long as the flames burn, the creature can't be concealed (invisible creatures are concealed rather than being undetected) and gains weakness 5 to fire for 1 round.
 **Failure** As success, but the effect is permanent until removed.

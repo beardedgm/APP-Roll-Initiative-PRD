@@ -31,6 +31,10 @@ Speed 15 feet
 
 **Innate primal Spells** (DC 18)
 
+  **1st** jump
+
+  **3rd** levitate
+
 **Specious Suggestion** ◆◆ (enchantment, incapacitation, mental) **Frequency** {"unit":"day","number":3}; The carbuncle concentrates on a creature it can see and tries to manipulate that creature. The target must attempt a DC 18 Will save. The target then becomes temporarily immune for 24 hours. **Critical Success** The attempt backfires and bolsters the target's mind instead, granting it a +1 status bonus to Will saving throws for 1 hour.
 **Success** The target briefly experiences an unusual but harmless sensation like an unexpected flavor or scent, an urge to eat something strange, or an amusing half-forgotten memory.
 **Failure** The target is compelled to spend all of its actions on its next turn performing harmless, pointless, and usually embarrassing actions.

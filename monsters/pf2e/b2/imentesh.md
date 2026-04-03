@@ -39,6 +39,14 @@ Speed 25 feet, fly 25 feet, swim 25 feet
 
 **Innate divine Spells** (DC 29)
 
+  **1st** detect alignment
+
+  **3rd** haste, mending, shrink item, slow
+
+  **4th** creation, dimension door, shatter
+
+  **5th** dimension door, dispel magic, divine wrath, sending
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The imentesh takes the appearance of any Large or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.
 
 **Constrict** ◆ 1d10+11 bludgeoning, DC 29

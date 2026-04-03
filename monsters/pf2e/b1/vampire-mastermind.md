@@ -39,6 +39,16 @@ Speed 25 feet, climb 25 feet
 
 **Prepared arcane Spells** (DC 29), attack +19
 
+  **Cantrips (4th)** detect magic, mage hand, message, ray of frost, sigil
+
+  **1st** color spray, fleet step, ray of enfeeblement
+
+  **2nd** flaming sphere, invisibility, mirror image, touch of idiocy
+
+  **3rd** dispel magic, fireball, haste, lightning bolt
+
+  **4th** fire shield, phantasmal killer, veil, wall of fire
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) Giant bat with fangs +19 for 2d8+9 piercing.
 
 **Create Spawn** (divine, downtime, necromancy)

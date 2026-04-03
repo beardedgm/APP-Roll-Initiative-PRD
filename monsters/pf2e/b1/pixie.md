@@ -31,6 +31,16 @@ Speed 15 feet, fly 45 feet
 
 **Innate primal Spells** (DC 21)
 
+  **Cantrips (2nd)** dancing lights, detect magic, ghost sound, shield
+
+  **1st** illusory disguise
+
+  **2nd** entangle, faerie fire
+
+  **3rd** dispel magic
+
+  **4th** invisibility
+
 **Sprinkle Pixie Dust** ◆ (manipulate) The pixie sprinkles pixie dust onto one of its arrows. If the pixie hits a creature with that arrow before the pixie's next turn, the arrow inflicts one of the following special effects instead of dealing damage. Each effect depends on the target's DC 21 Will save. On a critical hit, the target treats its save result as one degree worse. - Charm (emotion, enchantment, incapacitation, mental) The target suffers the effects of a charm spell, except it doesn't gain a bonus to its save if the only hostile act was the pixie firing its bow, and the pixie can choose to direct the target's adoration toward another creature rather than itself.
 - Memory Loss (divination, mental) On a failed Will save, the target loses the last 5 minutes of its memory.
 - Sleep (enchantment, incapacitation, mental, sleep) The target suffers the effects of a 3rd-level sleep spell.

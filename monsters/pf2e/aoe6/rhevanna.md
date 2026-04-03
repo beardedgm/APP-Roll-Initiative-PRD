@@ -39,6 +39,16 @@ Speed 40 feet, fly 80 feet
 
 **Innate divine Spells** (DC 45)
 
+  **4th** dimension door
+
+  **5th** dimension door, scrying
+
+  **7th** plane shift
+
+  **9th** bind soul, dimensional anchor, dispel magic, possession
+
+  **10th** dominate
+
 **Detaining Strike** ◇ **Trigger** The rhevanna hits a creature with a weapon Strike; **Frequency** {"unit":"round","number":1}; The rhevanna casts an innate dimensional anchor spell on the creature.
 
 **Lifedrinker** ◈ (divine, healing, necromancy) **Trigger** The rhevanna kills a living creature of at least 16th level; The rhevanna drinks the triggering creature's life force and regains 40 Hit Points. If the triggering creature is a celestial, the rhevanna instead regains 80 Hit Points.

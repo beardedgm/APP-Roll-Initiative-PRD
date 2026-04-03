@@ -37,6 +37,16 @@ Speed 40 feet, fly 40 feet
 
 **Innate primal Spells** (DC 34)
 
+  **2nd** entangle, invisibility
+
+  **4th** darkness
+
+  **6th** tangling creepers
+
+  **7th** shifting sand
+
+  **8th** earthquake, summon animal
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The taiga yai takes on the appearance of a taiga giant. This doesn't change their Speed or Strike attack and damage.
 
 **Return to Nature** ◆ (earth, manipulate) The taiga yai commands underground plant roots to drag a creature within 60 feet into the earth. The target must succeed at a DC 35 Fortitude save or be immobilized for 1d4 rounds. After this time, the creature is buried; it is grabbed, begins to suffocate, and takes 4d6 bludgeoning damage each round they remain buried. To escape either while immobilized or grabbed, the creature must succeed at a DC 35 Escape check or an adjacent ally must succeed at a DC 33 Athletics check to pull them out.

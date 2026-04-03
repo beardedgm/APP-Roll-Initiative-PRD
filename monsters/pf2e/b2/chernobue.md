@@ -39,6 +39,16 @@ Speed 30 feet
 
 **Innate occult Spells** (DC 32)
 
+  **Cantrips (6th)** daze, detect magic
+
+  **4th** darkness
+
+  **5th** subconscious suggestion
+
+  **6th** phantasmal calamity, phantom pain
+
+  **7th** plane shift
+
 **Paralyzing Display** ◆◆ (concentrate, emotion, enchantment, fear, incapacitation, mental, occult, visual) The chernobue's eye pulses and its lid peels back to reveal mind-bending awfulness. Creatures in a 30-foot emanation must attempt a DC 32 Will save, after which they are temporarily immune to further Paralyzing Displays for 1 minute. **Critical Success** The creature is unaffected.
 **Success** The creature is slowed 1 for 1 round.
 **Failure** The creature is paralyzed for 1d4 rounds. It can attempt a new save to end the effect at the end of each of its turns.

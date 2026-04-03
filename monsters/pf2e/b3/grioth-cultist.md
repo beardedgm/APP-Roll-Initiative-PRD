@@ -41,7 +41,17 @@ Speed 25 feet, fly 30 feet
 
 **Prepared divine Spells** (DC 20), attack +12
 
+  **Cantrips (3rd)** divine lance, forbidding ward, message, prestidigitation, stabilize.
+
+  **1st** fear, harm, heal, ventriloquism
+
+  **2nd** dispel magic, heal, sound burst
+
 **Innate occult Spells** (DC 19), attack +11
+
+  **Cantrips (2nd)** daze, detect magic, mage hand, telekinetic projectile
+
+  **2nd** phantom pain
 
 **Grioth Venom** (emotion, fear, mental, poison)
 

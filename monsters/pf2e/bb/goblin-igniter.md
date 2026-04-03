@@ -28,3 +28,7 @@ Speed 25 feet
 **Melee** torch +7; **Damage** 1d4 bludgeoning plus 1 fire
 
 **Prepared arcane Spells** (DC 16), attack +6
+
+  **Cantrips (1st)** light, mage hand, shield
+
+  **1st** burning hands

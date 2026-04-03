@@ -41,6 +41,10 @@ Speed 30 feet
 
 **Champion Devotion Spells** (DC 25)
 
+  **4th** lay on hands, litany against wrath, lay on hands
+
 **Innate primal Spells** (DC 24)
+
+  **Cantrips (4th)** dancing lights, detect magic, disrupt undead, tanglefoot
 
 **Woodland Stride** The Ekujae guardian ignores terrain from plants.

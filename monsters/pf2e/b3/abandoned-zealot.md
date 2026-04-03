@@ -40,4 +40,8 @@ Speed fly 40 feet
 
 **Innate divine Spells** (DC 24)
 
+  **4th** crisis of faith
+
+  **6th** zealous conviction
+
 **Rend Faith** When hit by an abandoned zealot's hand of despair, a creature capable of divine spellcasting or with divinely granted abilities must succeed at a DC 24 Will save or be unable to use those spells or abilities until the end of its next turn.

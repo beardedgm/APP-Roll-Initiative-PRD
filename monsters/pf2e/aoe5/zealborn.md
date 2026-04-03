@@ -39,4 +39,14 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 33)
 
+  **2nd** illusory creature
+
+  **3rd** enthrall
+
+  **4th** veil
+
+  **5th** hallucination, subconscious suggestion
+
+  **6th** dominate, zealous conviction
+
 **Occult Ritual** DC 33; geas.

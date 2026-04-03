@@ -29,6 +29,8 @@ Speed 30 feet
 
 **Innate primal Spells** (DC 33)
 
+  **5th** charm, illusory disguise
+
 **Eviscerate** ◆◆ **Requirements** The rivka has not attacked yet this turn; The rivka lashes out with four of its razor-like claws. It makes four Strikes: the first at its highest attack bonus, the next two with a –4 penalty to their attack rolls, and the last one with a –8 penalty. This ability counts as four Strikes for the purpose of its multiple attack penalty.
 
 **Kaiju Ray** ◆◆ (evocation, primal) The rivka opens its maw and projects a 60-foot line of primal energy that deals 14d6 damage (DC 32 basic Reflex save). The type of damage dealt by the ray depends on which kaiju the rivka has most recently fed from (see above). The rivka can't use Kaiju Ray again for 1d4 rounds.

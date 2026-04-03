@@ -39,6 +39,8 @@ Speed 45 feet
 
 **Innate divine Spells** (DC 34)
 
+  **6th** cloudkill, death knell, take its course
+
 **Atrophic Plague** (disease, divine, necromancy)
 
 **Hurl Corpse** ◆ The plague giant picks up a dead or dying creature within reach and flings it at a foe. The giant makes a rock Strike, using the body instead of a rock. If the body is a corpse, on a hit it explodes in a cloud of thick gray vapor, exposing all creatures in a 10-foot burst to atrophic plague. If the body is a dying creature, on a hit its dying value increases by 1 (or 2 on a critical hit).

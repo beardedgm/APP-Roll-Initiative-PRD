@@ -31,6 +31,14 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 22)
 
+  **Cantrips (4th)** prestidigitation
+
+  **1st** illusory disguise
+
+  **3rd** mind reading
+
+  **4th** discern lies
+
 **Change of Luck** ◇ (divination, misfortune, occult) **Trigger** A creature within 30 feet of the bone croupier attempts a check that uses a d20, but hasn't rolled yet; **Frequency** {"unit":"day","number":1}; The bone croupier pulls on the threads of luck that bind all things. Instead of rolling its check, the target automatically gets a failure.
 
 **Roll the Bones** ◆◆ (death, occult) The bone croupier targets an adjacent creature that is dying. That creature can either increase its dying value by 1 or roll a d4. On a 4, the creature is no longer dying and is unconscious at 0 HP. On a 1, 2, or 3, however, the creature increases its dying value by that amount. Regardless, the creature is temporarily immune for the next 24 hours.

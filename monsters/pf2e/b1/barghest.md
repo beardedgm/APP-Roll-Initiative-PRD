@@ -33,6 +33,12 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 21)
 
+  **1st** charm
+
+  **3rd** levitate
+
+  **4th** blink, confusion, dimension door
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The barghest takes on the shape of a goblinoid (a goblin, hobgoblin, or bugbear) or a wolf, or it transforms back into its true form. When the barghest is a goblinoid, it loses its jaws and claw Strikes, it becomes Small if it is a goblin, and its Speed changes to 20 feet. When the barghest is a wolf, its Speed changes to 40 feet and its jaws gain Knockdown. Each individual barghest has only one goblinoid form and one wolf form.
 
 **Feed** Once per month, a barghest can spend 1 minute to devour a corpse, gaining a permanent +1 status bonus to its checks and DCs. Each subsequent time it feeds, this bonus increases by 1. The fourth time a barghest feeds, it sheds its skin and mutates into a greater barghest, and the status bonus ends.

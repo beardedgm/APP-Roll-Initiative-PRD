@@ -37,6 +37,22 @@ Speed 35 feet, swim 100 feet
 
 **Innate arcane Spells** (DC 38), attack +30
 
+  **1st** hydraulic push, shocking grasp, spider sting
+
+  **2nd** dispel magic, obscuring mist, touch of idiocy
+
+  **3rd** earthbind, paralyze, vampiric touch
+
+  **4th** dimension door, wall of fire
+
+  **5th** mariner's curse, wall of ice
+
+  **6th** fireball, purple worm sting
+
+  **7th** prismatic spray, volcanic eruption
+
+  **8th** polar ray
+
 **Engulf** ◆◆ DC 35, no damage, Escape DC 35, Rupture 28.
 
 **Internal Spell Strike** ◆ The elemental vessel targets an engulfed creature with one of its spells. The spell must have a range of touch.

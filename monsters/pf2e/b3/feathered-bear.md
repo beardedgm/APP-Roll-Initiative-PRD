@@ -35,6 +35,8 @@ Speed 35 feet
 
 **Innate primal Spells** (DC 27)
 
+  **3rd** barkskin, endure elements, haste, jump, longstrider
+
 **Feathered Charge** ◆◆ The feathered bear Strides and makes a Strike at the end of that movement. During the Stride, the feathered bear ignores terrain and terrain, and they can move across air as easily as solid ground. If the feathered bear doesn't end their movement on solid ground, they fall as soon as the Strike is completed.
 
 **Bonded Strike** ◆◆ **Requirements** The spirit guide is currently Bonded with a Mortal; The spirit guide makes a jaws Strike. If this attack hits, the bonded mortal can spend their reaction to Strike the same target.

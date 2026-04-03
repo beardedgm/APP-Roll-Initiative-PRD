@@ -39,6 +39,8 @@ Speed 30 feet, fly 60 feet
 
 **Innate divine Spells** (DC 40)
 
+  **8th** finger of death, horrid wilting, punishing winds
+
 **Bonetaker** (divine, necromancy) Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm. The creature must succeed at a DC 40 Will save or rise as a skeletal champion in 1d4 rounds. These skeletal champions are controlled by the skulltaker.
 
 **Energy Drain** (divine, necromancy) When a skulltaker hits with a melee Strike, the target must succeed at a DC 40 Fortitude save or become drained 2 and doomed 1.

@@ -27,6 +27,8 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 24)
 
+  **3rd** mind reading
+
 **Captivating Dance** ◆◆ (enchantment, incapacitation, mental, primal, visual) The baobhan sith sways rhythmically and Strides up to their Speed. Each creature within 30 feet of the baobhan sith at the end of their movement must attempt a DC 25 Will save. **Critical Success** The creature is unaffected and is temporarily immune to Captivating Dance for 24 hours.
 **Success** The creature is slowed 1 for 1 round and is temporarily immune to Captivating Dance for 24 hours.
 **Failure** The creature is fascinated, and it must spend at least 1 of its actions on each of its turns to move closer to the baobhan sith as expediently as possible, while avoiding obvious dangers. If the creature ends its movement or turn adjacent to the fey, it is slowed 1 until the end of its next turn.

@@ -36,4 +36,10 @@ Speed 20 feet
 
 **Innate arcane Spells** (DC 20)
 
+  **Cantrips (2nd)** detect magic, message, read aura, sigil
+
+  **2nd** comprehend language, dispel magic
+
+  **3rd** secret page
+
 **Inkstain** When the scalescribe deals damage to a creature with their fountain pen, the creature takes 1d4 persistent poison damage. When a creature taking this damage attempts to take an action with the concentrate trait, it must succeed at a DC 5 flat check or the action is disrupted.

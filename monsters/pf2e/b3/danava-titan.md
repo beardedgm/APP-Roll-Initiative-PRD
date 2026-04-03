@@ -43,6 +43,10 @@ Speed 50 feet, swim 40 feet
 
 **Innate divine Spells** (DC 46), attack +38
 
+  **9th** control water, dispel magic, eclipse burst, heal, hydraulic push, hydraulic torrent
+
+  **10th** implosion
+
 **Trample** ◆◆◆ Huge or smaller, foot, DC 46
 
 **Wide Cleave** ◆◆ The titan makes a melee weapon Strike against each foe within their reach. This counts as three attacks for the titan's multiple attack penalty.

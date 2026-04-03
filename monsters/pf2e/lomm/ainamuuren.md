@@ -41,4 +41,8 @@ Speed 35 feet
 
 **Innate primal Spells** (DC 34)
 
+  **5th** wall of ice
+
+  **7th** summon animal
+
 **Curse of the Saumen Kar** ◆◆ (cold, conjuration, primal) **Frequency** {"unit":"day","number":1}; Ainamuuren activates the runes covering his body to create an icy prison around a Huge or smaller creature he can see within 60 feet. The prison is a sphere made of unmelting ice, just large enough to fit his target. The target, and any creatures sharing its space, must attempt a DC 34 Reflex save. A creature that fails becomes trapped inside the prison. If it succeeds, the creature is pushed outside the prison into a space of its choice. If the target shares its space with a gargantuan creature, the effect fails. The dome has AC 10, Hardness 20, and 40 Hit Points; and is immune to cold, critical hits, and precision damage. The prison lasts until destroyed, until Ainamuuren uses this ability to create a new prison, or until he dies.

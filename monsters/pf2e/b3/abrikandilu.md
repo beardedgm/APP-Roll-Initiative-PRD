@@ -35,6 +35,8 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 20)
 
+  **2nd** fear
+
 **Mutilating Bite** (curse, divine, necromancy) When the abrikandilu hits a creature with a jaws Strike, the creature must succeed at a DC 21 Fortitude save or become physically mutilated. The creature then takes a –1 status penalty to Charisma-based checks. This penalty is cumulative up to –3 and remains even if the wounds are healed. The penalty is reduced by 1 every 24 hours until it reaches 0.
 
 **Wreck** ◆ The abrikandilu makes two claw Strikes against an unattended object or held mirror. Held mirrors use the holding character's AC. If both Strikes hit, combine their damage for the purpose of overcoming any Hardness or resistance. These Strikes don't count toward the abrikandilu's multiple attack penalty, nor does that penalty apply to these Strikes.

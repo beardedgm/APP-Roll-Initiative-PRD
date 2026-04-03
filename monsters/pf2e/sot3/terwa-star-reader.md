@@ -33,4 +33,14 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 25), attack +17
 
+  **Cantrips (5th)** detect magic, guidance, message, shield
+
+  **1st (4 slots)** mending, ray of enfeeblement, sanctuary
+
+  **2nd (4 slots)** augury, calm emotions, restoration
+
+  **3rd (4 slots)** heroism, searing light, wanderer's guide
+
+  **4th (3 slots)** discern lies, girzanje's march, heal
+
 **Guiding Star** ◆ (divination, fortune, occult) The star reader finds the star that would guide their own attack or that of an ally. The star reader grants themselves or an ally within 30 feet the effects of true strike. If the star reader chooses an ally, the duration lasts until the end of that creature's turn. The target is then temporarily immune to Guiding Star for 1 day.

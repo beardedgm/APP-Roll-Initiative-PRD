@@ -33,4 +33,12 @@ Speed 25 feet, climb 25 feet
 
 **Innate primal Spells** (DC 22)
 
+  **Cantrips (4th)** dancing lights
+
+  **2nd** faerie fire, heal
+
+  **3rd** meld into stone, pummeling rubble
+
+  **4th** shape stone
+
 **Weep** ◆ (auditory, emotion, enchantment, mental, primal) **Frequency** {"unit":"round","number":1}; The lampad begins a heart-wrenching fit of weeping, inspiring sympathetic sobbing in nearby creatures. Each non-lampad creature within 30 feet who hears the lampad's weeping must succeed at a DC 20 Will save or be unable to use reactions for 1 round and slowed 1 on its next turn as it sobs uncontrollably.

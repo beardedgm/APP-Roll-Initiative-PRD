@@ -35,4 +35,16 @@ Speed 25 feet
 
 **Innate arcane Spells** (DC 23)
 
+  **Cantrips (3rd)** detect magic
+
+  **1st** floating disk, unseen servant
+
+  **2nd** mirror image
+
+  **3rd** dispel magic
+
+  **4th** resist energy, suggestion, resilient sphere
+
+  **5th** dimension door
+
 **Force Bolt** (arcane, evocation, force) The witchwyrd fires one magic missile per action spent (dealing 1d4+1 force damage each). They can't spend more actions on this ability than they have free hands. If they use a hand that has Absorbed Force, that hand hurls two missiles instead of one, expending the held energy.

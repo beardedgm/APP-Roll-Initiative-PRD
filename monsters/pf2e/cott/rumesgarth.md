@@ -47,6 +47,26 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 45), attack +37
 
+  **Cantrips (9th)** daze, detect magic, figment, prestidigitation, telekinetic hand
+
+  **1st (3 slots)** alarm, illusory disguise, phantasmal minion
+
+  **2nd (3 slots)** false vitality, see the unseen, shatter
+
+  **3rd (3 slots)** hypercognition, mind reading, slow
+
+  **4th (3 slots)** confusion, fly, translocate
+
+  **5th (3 slots)** false vision, scouting eye, slither
+
+  **6th (3 slots)** spellwrack, spirit blast, teleport
+
+  **7th (3 slots)** duplicate foe, energy aegis, mask of terror
+
+  **8th (3 slots)** disappearance, hidden mind, quandary
+
+  **9th (3 slots)** overwhelming presence, phantasmagoria, wails of the damned
+
 **Consult the Text** ◆ (manipulate) **Frequency** {"number":1,"unit":"day"}; Brumesgarth causes the pages of his spell tome to flip open, revealing an occult spell of 9th rank or lower of his choice. For the remainder of the day, Brumesgarth can cast that spell as if it were one of his spells known for every rank of its base rank up to 9th.
 
 **Drain Spell Tome** ◇ Brumesgarth draws upon the magic stored in his spell tome to cast one of the spells he has countered. This spell is the same rank as the one countered, but it uses Brumesgarth's spell DC and spell attack. Casting a spell in this way removes it from the spell tome.

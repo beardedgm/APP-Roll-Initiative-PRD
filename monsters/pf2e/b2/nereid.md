@@ -33,6 +33,12 @@ Speed 25 feet, swim 50 feet
 
 **Innate primal Spells** (DC 29)
 
+  **4th** suggestion
+
+  **5th** control water, elemental form
+
+  **6th** summon elemental
+
 **Drowning Touch** ◆◆ (conjuration, incapacitation, primal, water) The nereid touches a creature and causes water from its own body to flow into the creature's lungs. If the creature cannot breathe water, it must attempt a DC 29 Fortitude save. **Success** The creature is unaffected and is temporarily immune to Drowning Touch for 24 hours.
 **Failure** The creature becomes sickened 3 as it chokes on the water.
 **Critical Failure** The creature chokes on the water and runs out of air. It falls unconscious and starts drowning (Pathfinder Core Rulebook 478). If the creature is above water, it recovers from drowning as soon as it succeeds at a saving throw against suffocation.

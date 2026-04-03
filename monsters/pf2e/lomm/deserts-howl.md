@@ -43,6 +43,10 @@ Speed 50 feet, fly 20 feet, swim 35 feet, climb 25 feet
 
 **Innate occult Spells** (DC 43)
 
+  **2nd** invisibility, mirror image
+
+  **9th** dimension door, hallucination
+
 **Forlorn Howl** ◆◆◆ (auditory, emotion, fear, mental) Desert's Howl vents a long and desolate wail full of nightmares and despair. The devastating howl can be heard up to 1 mile away under the open sky. Any creature who hears it experiences a sudden sinking in its stomach and heart palpitations, its hair stands on end, and it must attempt a DC 38 Will save. **Critical Success** The creature is unaffected and becomes temporarily immune for 1 hour.
 **Success** The creature becomes frightened 2.
 **Failure** The creature becomes frightened 3.

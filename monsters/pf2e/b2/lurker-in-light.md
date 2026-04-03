@@ -31,6 +31,12 @@ Speed 25 feet, fly 25 feet
 
 **Innate primal Spells** (DC 22), attack +14
 
+  **Cantrips (3rd)** dancing lights, ghost sound, light, mage hand
+
+  **3rd** blindness, searing light, summon fey
+
+  **4th** dimension door, summon fey
+
 **Lurker's Glow** ◈ **Trigger** The lurker in light uses a move action; **Requirements** The lurker in light is in an area of bright light; The lurker in light becomes invisible until it enters an area of dim light or darkness, or until it uses a hostile action.
 
 **Lurker's Glow** (evocation, light, primal) A creature that takes damage from a lurker in light's mote of light must attempt a DC 22 Will save. **Success** The creature is unaffected and is temporarily immune to lurker's glow for 24 hours.

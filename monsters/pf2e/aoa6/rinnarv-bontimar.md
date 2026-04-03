@@ -31,7 +31,31 @@ Speed 30 feet
 
 **Spontaneous divine Spells** (DC 42), attack +38
 
+  **Cantrips (10th)** chill touch, forbidding ward, detect magic, guidance, light, message, shield, stabilize
+
+  **1st (4 slots)** bane, bless, heal, protection
+
+  **2nd (4 slots)** darkvision, resist energy, see invisibility, spiritual weapon
+
+  **3rd (4 slots)** circle of protection, heal, heroism, resist energy, searing light, vampiric touch
+
+  **4th (4 slots)** dimensional anchor, divine wrath, freedom of movement, heal, resist energy, spell immunity, vampiric touch
+
+  **5th (4 slots)** breath of life, divine wrath, drop dead, flame strike, heal, resist energy, spiritual guardian, vampiric touch
+
+  **6th (4 slots)** blade barrier, divine wrath, field of life, repulsion, resist energy, spiritual guardian, true seeing, vampiric touch
+
+  **7th (4 slots)** blade barrier, dimensional lock, divine decree, divine wrath, heal, regenerate, resist energy, spiritual guardian, sunburst, vampiric touch
+
+  **8th (4 slots)** blade barrier, discern location, divine aura, divine inspiration, divine wrath, heal, moment of renewal, regenerate, resist energy, spiritual guardian, vampiric touch
+
+  **9th (4 slots)** blade barrier, divine wrath, foresight, heal, massacre, resist energy, spiritual guardian, telepathic demand, vampiric touch, weapon of judgement
+
+  **10th (2 slots)** miracle, revival
+
 **Bloodline Spells** (DC 42)
+
+  **10th** angelic halo, angelic wings, celestial brand
 
 **Blood Magic** When Rinnarv casts one of his bloodline spells or a spell from his list of granted spells, he creates an aura that protects himself or one of the targets of the spell. The aura grants a +1 status bonus to saving throws for 1 round.
 

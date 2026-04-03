@@ -31,6 +31,16 @@ Speed 40 feet, climb 20 feet
 
 **Innate occult Spells** (DC 33), attack +27
 
+  **2nd** invisibility
+
+  **3rd** earthbind, vampiric touch
+
+  **4th** divine wrath, shape stone
+
+  **5th** black tentacles, wall of stone
+
+  **6th** flesh to stone
+
 **Furious Claws** ◆◆ Xevalorg makes up to four claw Strikes, each against a different target. These attacks count toward Xevalorg's multiple attack penalty, and the multiple attack penalty doesn't increase until after he makes all his attacks.
 
 **Eerie Flexibility** Despite his size, Xevalorg's multiple joints allow him to fit through tight spaces as if he were a Medium creature. While Squeezing, he can move at his full Speed.

@@ -35,6 +35,14 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 25), attack +17
 
+  **Cantrips (4th)** daze, detect magic, read aura, shield
+
+  **3rd** hypnotic pattern, mind reading, paralyze
+
+  **4th** charm, vampiric touch
+
+  **7th** plane shift
+
 **Consume Thoughts** ◆ (mental) **Requirements** The caulborn's last action was a successful hand Strike; The caulborn steals some of the psychic energy from the creature it hit. The target must attempt a DC 25 Will save; regardless of the outcome, the creature is temporarily immune to Consume Thoughts for 1 minute. **Success** The target is unaffected.
 **Failure** The target becomes stupefied 2 for 1 minute, and the caulborn regains 1d12 Hit Points.
 **Critical Failure** As failure, but the target is stupefied 3 for 1 minute and the caulborn regains 2d12 Hit Points. If the target was already stupefied when the caulborn used this ability, the target is also confused for 1 round.

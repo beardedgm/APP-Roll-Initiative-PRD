@@ -39,6 +39,8 @@ Speed fly 30 feet
 
 **Innate divine Spells** (DC 36)
 
+  **5th** darkness
+
 **Shadow Spawn** When a creature's shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the watchtower shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably clumsy 2. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.
 
 **Slink in Shadows** The watchtower shadow can Hide or end its Sneak in a creature's or object's shadow.

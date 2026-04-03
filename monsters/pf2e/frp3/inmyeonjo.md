@@ -39,3 +39,19 @@ Speed 40 feet, fly 100 feet
 **Melee** tail +30 (agile, finesse, reach <25 feet>); **Damage** 3d8+18 bludgeoning
 
 **Spontaneous occult Spells** (DC 34), attack +26
+
+  **Cantrips (8th)** telekinetic projectile, message
+
+  **2nd (3 slots)** mirror image
+
+  **3rd (3 slots)** mind reading, zone of truth
+
+  **4th (3 slots)** discern lies, read omens
+
+  **5th (2 slots)** hallucination, synaptic pulse
+
+  **6th (2 slots)** phantasmal calamity, vibrant pattern
+
+  **7th (2 slots)** ethereal jaunt, mask of terror
+
+  **8th (1 slots)** discern location, unrelenting observation

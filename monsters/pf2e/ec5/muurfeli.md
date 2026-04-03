@@ -42,4 +42,12 @@ Speed 35 feet, fly 50 feet
 
 **Innate arcane Spells** (DC 36)
 
+  **2nd** enhance victuals
+
+  **4th** burning hands, gaseous form, invisibility
+
+  **5th** illusory creature
+
+  **7th** cloudkill
+
 **Change Shape** ◆ (arcane, concentrate, polymorph, transmutation) The muurfeli can take on the form of an owl. The owl form always looks the same, but the muurfeli can choose to become either Tiny or Small in this form. This transformation doesn't change their Speed or the attack and damage bonuses of their Strikes, but might change the damage type their Strikes deal (typically to slashing).

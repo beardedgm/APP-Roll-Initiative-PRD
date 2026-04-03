@@ -35,7 +35,17 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 37), attack +28
 
+  **Cantrips (8th)** chill touch, daze, detect magic, electric arc, produce flame
+
+  **4th** dimension door, true strike
+
+  **7th** dimensional lock, spell turning
+
+  **8th** maze, polar ray
+
 **Magus Conflux Spells**
+
+  **8th** dimensional assault, hasted assault
 
 **Iobane Vision** (fortune) Warder-Chief Mpondo can see invisible creatures and objects as though they are concealed. When he Seeks or Senses Motive, he can roll twice and take the higher result.
 

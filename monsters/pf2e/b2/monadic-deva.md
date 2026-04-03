@@ -35,6 +35,16 @@ Speed 30 feet, fly 60 feet
 
 **Innate divine Spells** (DC 31)
 
+  **1st** detect alignment
+
+  **2nd** invisibility
+
+  **4th** charm
+
+  **5th** creation, remove fear
+
+  **6th** divine wrath, heal, paralyze, remove curse, remove disease
+
 **Holy Armaments** (divine, evocation) Any weapon gains the effect of a holy property rune while a monadic deva wields it.
 
 **Rebuke Soul** ◆ (auditory, divine, enchantment, good, incapacitation) The monadic deva speaks a word to cause a creature's soul to recoil at its sins or an undead creature to recoil at its lack of a soul. One non-good living or undead target within 40 feet takes 5d10 good damage and must attempt a DC 32 Fortitude save. Regardless of the outcome, the target is then temporarily immune for 10 minutes. **Critical Success** The target is unaffected.

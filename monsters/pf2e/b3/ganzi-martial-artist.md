@@ -33,6 +33,8 @@ Speed 35 feet
 
 **Innate divine Spells** (DC 19), attack +11
 
+  **2nd** two of the following chosen at random each day using
+
 **Flurry of Kicks** ◆ **Frequency** {"unit":"turn","number":1}; The martial artist makes two melee Strikes. The martial artist applies their multiple attack penalty to these Strikes normally.
 
 **Handspring Kick** ◆ **Requirements** The martial artist has both hands free; The martial artist Steps, then makes a melee Strike at a –1 penalty.

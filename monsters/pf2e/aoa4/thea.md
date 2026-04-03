@@ -31,6 +31,14 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 33)
 
+  **Cantrips (3rd)** ghost sound
+
+  **1st** fear
+
+  **2nd** hideous laughter
+
+  **3rd** illusory disguise
+
 **Efficient Capture** ◆◆◆ (attack, manipulate) **Requirements** Thea has manacles in hand and is adjacent to a creature.; Thea attempts to bind the creature's wrists or ankles with the manacles. If she succeeds at an attack roll with a +24 modifier against the target's AC, she applies the manacles.
 
 **Precise Debilitations** ◇ **Trigger** Thea's Strike hits a flat- footed creature and deals damage.; Thea applies one of the following debilitations to the creature, which lasts until the end of her next turn. - Brow Gash The target becomes flat-footed.

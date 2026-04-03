@@ -33,6 +33,16 @@ Speed 15 feet, fly 45 feet
 
 **Innate primal Spells** (DC 24)
 
+  **Cantrips (3rd)** detect magic, figment, light, shield
+
+  **1st** illusory disguise
+
+  **2nd** darkness, entangling flora, revealing light
+
+  **3rd** dispel magic
+
+  **4th** invisibility
+
 **Sneak Attack** The pixie deals an additional 1d6 precision damage to off-guard|PC1 creatures.
 
 **Sprinkle Pixie Dust** ◆ (manipulate) The pixie sprinkles pixie dust onto one of their arrows. If the pixie hits a creature with that arrow before the pixie's next turn, the arrow inflicts one of the following special effects instead of dealing damage. Each effect depends on the target's DC 24 Will save. On a critical hit, the target gets a result one degree worse than it rolled. - Confusion (emotion, mental) The target suffers the effects of a 4th-rank confusion|PC1 spell.

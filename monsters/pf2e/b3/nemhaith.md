@@ -39,6 +39,8 @@ Speed fly 40 feet
 
 **Innate divine Spells** (DC 36), attack +28
 
+  **8th** finger of death, harm, wall of force
+
 **Drain Life** (divine, necromancy) When the nemhaith damages a living creature with its spirit tendril Strike, the creature must succeed at a DC 36 Fortitude save or become drained 2. Further damage dealt by the nemhaith increases the condition value by 1 on a failed save, to a maximum of drained 4.
 
 **Rage of Spirits** ◆◆ The nemhaith's bound spirits rage and smash everything in a 30-foot emanation. Creatures in this area take 4d6 sonic damage and 4d6 negative damage (DC 36 basic Fortitude save).

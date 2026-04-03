@@ -33,6 +33,14 @@ Speed 25 feet
 
 **Innate arcane Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** acid splash, chill touch, electric arc, produce flame
+
+  **1st** ray of enfeeblement, true strike
+
+  **2nd** invisibility
+
+  **3rd** shocking grasp
+
 **Shadow Step** ◆◆ The svartalfar killer fades into shadow, Strides up to twice its Speed, and reforms. This movement doesn't trigger reactions, but the svartalfar killer must begin and end in an area of dim light or darkness.
 
 **Sneak Attack** A svartalfar killer deals an extra 2d6 precision damage to flat-footed creatures.

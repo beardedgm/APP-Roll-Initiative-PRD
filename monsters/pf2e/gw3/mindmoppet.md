@@ -45,4 +45,10 @@ Speed fly 40 feet
 
 **Innate occult Spells** (DC 22), attack +14
 
+  **Cantrips (2nd)** mage hand, telekinetic projectile
+
+  **1st** command, mending
+
+  **2nd** telekinetic maneuver
+
 **Anticipate** ◆ The mindmoppet attempts to anticipate its opponent's actions. Until the end of its next turn, the mindmoppet gains one reaction.

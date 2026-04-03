@@ -33,7 +33,17 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 25), attack +17
 
+  **Cantrips (3rd)** detect magic, divine lance, guidance, light, shield
+
+  **1st** alarm, infuse vitality, sure strike
+
+  **2nd** enlarge, dispel magic, see the unseen
+
+  **3rd** crisis of faith, heal, heroism, holy light
+
 **Cleric Domain Spells** (DC 25)
+
+  **1st** weapon surge
 
 **Healing Hands** When the priest casts heal, they roll d10|d10s instead of d8|d8s.
 

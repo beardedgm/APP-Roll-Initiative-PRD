@@ -34,3 +34,9 @@ Speed 25 feet
 **Melee** spade +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d6+2 piercing
 
 **Innate divine Spells** (DC 17)
+
+  **Cantrips (1st)** forbidding ward
+
+  **1st** purify food and drink
+
+  **2nd** animal messenger, invisibility

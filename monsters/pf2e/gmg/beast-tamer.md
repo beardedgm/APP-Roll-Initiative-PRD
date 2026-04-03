@@ -31,6 +31,14 @@ Speed 25 feet
 
 **Prepared primal Spells** (DC 22), attack +14
 
+  **Cantrips (2nd)** dancing lights, guidance, produce flame, stabilize, tanglefoot
+
+  **1st** grease, jump, magic fang
+
+  **2nd** animal form, animal messenger, speak with animals
+
 **Druid Order Spells** (DC 22)
+
+  **1st** heal animal
 
 **Trained Animal** The beast tamer fights alongside a trained animal ally of its level or lower, most likely a tiger. The animal has the standard number of actions, uses its normal stat block, and counts toward the encounter's XP budget normally. The beast tamer can spend 1 action to gain the support benefit appropriate to its type=companion. Unlike for an animal companion, this doesn't require the animal to use any of its actions.

@@ -35,6 +35,16 @@ Speed 25 feet, fly 50 feet
 
 **Innate divine Spells** (DC 37)
 
+  **1st** detect alignment
+
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **7th** flame strike, teleport
+
+  **9th** bind soul, blade barrier, chain lightning
+
 **Hurl Weapon** ◆ (divine, evocation) The purrodaemon causes a weapon that has steeped in their flesh (see Steep Weapon) to telekinetically launch from their flesh. The purrodaemon makes a hurled weapon Strike without using their hands.
 
 **Recall Weapon** ◆ (evocation) **Requirements** A steeped weapon that's no longer sheathed in the purrodaemon's body is within 120 feet of the daemon; The steeped weapon swiftly flies through the air to resheath itself in the purrodaemon's body. If a creature is along this flight path, the purrodaemon can make a hurled weapon Strike against the target; if it hits, the weapon drops to the ground in a square adjacent to the creature.

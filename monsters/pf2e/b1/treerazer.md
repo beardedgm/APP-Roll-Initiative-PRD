@@ -41,6 +41,20 @@ Speed 60 feet, fly 60 feet, swim 40 feet
 
 **Innate primal Spells** (DC 49), attack +43
 
+  **Cantrips (9th)** telekinetic projectile
+
+  **2nd** telekinetic maneuver
+
+  **3rd** earthbind
+
+  **5th** Abyssal plague
+
+  **6th** tangling creepers
+
+  **9th** Abyssal wrath, dispel magic
+
+  **10th** horrid wilting, time stop, wall of thorns
+
 **Defoliation** ◆◆ (primal, necromancy, plant) Treerazer exudes a pulse of sickly green light in a 30-foot-radius emanation. All plants in the area (including creatures under the effect of his aura of corruption) blacken and wither. Non-creature plants immediately wither and die. Plant creatures take 20d8 negative damage with a DC 49 basic Fortitude save. A creature that fails its save is doomed 1 for 1 minute and sickened 3. Treerazer can choose to exclude any number of plants in the area from this effect, and generally does so to preserve twisted and corrupted plants or fungi, or plant creatures that are allied to his cause. Treerazer can't use Defoliation for 1d4 rounds.
 
 **Dispelling Strike** ◇ (abjuration, primal) **Trigger** Treerazer hits a creature, object, or spell effect with a weapon Strike or a defoliation attack.; **Frequency** {"unit":"round","number":1}; Treerazer casts his innate dispel magic, targeting the creature he hit with his Strike or one spell affecting that creature.

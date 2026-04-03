@@ -27,6 +27,10 @@ Speed fly 40 feet
 
 **Innate arcane Spells** (DC 36), attack +26
 
+  **Cantrips (7th)** detect magic, mage hand, telekinetic projectile
+
+  **7th** dispel magic, spell turning
+
 **Siphon Magic** ◆◆ (arcane, illusion, mental) The sorcerous skull swarm saps magic from nearby creatures. Any creature with the ability to cast spells (including innate spells) in the swarm's space takes 15d6 mental damage (DC 34 basic Will save); on a failure, the creature is also stupefied 2 (stupefied 3 on a critical failure).
 
 **Swarming Gnaw** ◆ Each enemy in the swarm's space takes 5d8 piercing damage (DC 34 basic Reflex save).

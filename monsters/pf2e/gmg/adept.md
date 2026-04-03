@@ -32,3 +32,5 @@ Speed 25 feet
 **Melee** journal +6 (nonlethal, thrown <10 feet>); **Damage** 1d6 bludgeoning
 
 **Occult Spells Known Spells** (DC 14)
+
+  **Cantrips (1st)** daze, detect magic, mage hand

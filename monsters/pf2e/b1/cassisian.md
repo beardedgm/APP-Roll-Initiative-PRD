@@ -33,6 +33,12 @@ Speed fly 40 feet
 
 **Innate divine Spells** (DC 16)
 
+  **Cantrips (1st)** know direction, light
+
+  **1st** detect alignment, heal
+
+  **4th** read omens
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) A cassisian can take the appearance of a dove, a winged humanoid, a dog, or a fish. Normally, this doesn't change its Speed or the attack and damage bonuses for its Strikes, but it might change the damage type Strikes deal (typically to bludgeoning). Any further changes for specific forms are noted below. - Dog size Small; scent (imprecise) 30 feet, Speed 40 feet; Melee jaws +7, Damage 1d6+2 piercing plus Knockdown
 - Fish swim Speed 30 feet
 

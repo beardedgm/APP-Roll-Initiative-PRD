@@ -33,6 +33,10 @@ Speed fly 100 feet
 
 **Innate primal Spells** (DC 38)
 
+  **4th** nightmare
+
+  **8th** wind walk
+
 **Dream Haunting** A target that fails its save against the wendigo's nightmare is exposed to wendigo torment.
 
 **Howl** ◆◆◆ (auditory, concentrate, enchantment, fear, incapacitation, mental, primal) **Frequency** {"unit":"day","number":3}; The wendigo unleashes a forlorn howl that can be heard up to 1 mile away. Any creature that hears the howl must succeed at a DC 38 Will save or be frightened 1. Any creature that critically fails and is within 120 feet of the wendigo is instead frightened 3, and is also fleeing for 1d4 rounds (or until it's no longer frightened, whichever comes first). A creature frightened by a wendigo's howl still naturally recovers from its fright but can't reduce it below frightened 1 in this way until 1 hour has passed or magic is used. Whether it succeeds or fails its save, a creature is then temporarily immune to that wendigo's Howl for 24 hours.

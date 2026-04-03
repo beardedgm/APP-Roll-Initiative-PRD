@@ -35,4 +35,12 @@ Speed 20 feet
 
 **Spontaneous primal Spells** (DC 22), attack +12
 
+  **Cantrips (2nd)** dancing lights, produce flame, read aura, tanglefoot
+
+  **1st** burning hands, longstrider, ventriloquism
+
+  **2nd** flaming sphere, resist energy
+
 **Sorcerer Bloodline Spells** (DC 22)
+
+  **2nd** elemental toss

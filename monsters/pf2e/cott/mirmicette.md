@@ -29,6 +29,14 @@ Speed 30 feet
 
 **Innate occult Spells** (DC 24), attack +16
 
+  **Cantrips (3rd)** telekinetic projectile
+
+  **1st** fear, force barrage, gust of wind
+
+  **2nd** animated assault
+
+  **4th** confusion
+
 **Claw Feint** ◆◆ The mirmicette makes a series of quick claw attacks, using the first attack to throw their foe off-guard|PC1 against a second attack from a different angle. They make two claw Strike|PC1|Strikes, both against the same target. The target is automatically off-guard|PC1 against the second attack. The mirmicette applies their multiple attack penalty to these Strike|PC1|Strikes normally.
 
 **Copied Clutter** ◆◆ (concentrate, occult) **Frequency** {"number":1,"unit":"day"}; The mirmicette creates dozens of copies of an object of 1 Bulk or less that the mirmicette can see. The counterfeit items rain down in a 10-foot burst within 40 feet. The ground in the area becomes difficult terrain until the items are collected and removed. Creatures in the area must attempt a DC 24 Reflex save. **Success** 

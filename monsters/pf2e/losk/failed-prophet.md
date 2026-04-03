@@ -39,6 +39,18 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 27), attack +19
 
+  **Cantrips (5th)** daze, figment, shield, telekinetic hand, telekinetic projectile
+
+  **1st (4 slots)** ill omen, item facade, phantasmal minion
+
+  **2nd (4 slots)** paranoia, stupefy, telekinetic maneuver
+
+  **3rd (4 slots)** force barrage, locate, paralyze
+
+  **4th (4 slots)** confusion, translocate, vision of death
+
+  **5th (3 slots)** invoke spirits, shadow blast, telekinetic haul
+
 **Greedy Grab** ◆
 
 **This Is My Reality!** ◆◆ (concentrate) 6d6 spirit, DC 30

@@ -39,6 +39,8 @@ Speed 30 feet, burrow 20 feet, climb 20 feet
 
 **Innate primal Spells** (DC 31)
 
+  **7th** earthbind, slow, stinking cloud
+
 **Belch Smoke** ◆◆◆ The dalos blasts smoke from its head, creating a 20-foot-radius cloud of smoke that drifts to a location within 120 feet. This has the effects of obscuring mist.
 
 **Heat Rock** ◆ (fire) The dalos uses an Interact action to pluck a rock from its body or the nearby environment, then uses its internal fires to heat a rock it's holding until the rock is red hot. A heated rock that hits a target on a ranged Strike deals an additional 4d6 fire damage. Once the dalos heats a rock, that rock retains its heat for 2 rounds before cooling.

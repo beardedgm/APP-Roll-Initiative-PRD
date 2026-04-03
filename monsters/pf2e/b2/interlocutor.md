@@ -37,6 +37,14 @@ Speed 40 feet
 
 **Innate divine Spells** (DC 33)
 
+  **Cantrips (6th)** stabilize
+
+  **4th** heal, restoration
+
+  **5th** breath of life
+
+  **7th** plane shift
+
 **Focus Gaze** ◆ (concentrate, divine, enchantment, fear, mental, visual) The interlocutor stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against glimpse of stolen flesh. In addition, if the creature was already stunned, on a failed save, it feels its internal organs twist and writhe, and is clumsy 2 for 1 minute. After attempting this save, the creature is then temporarily immune until the start of the interlocutor's next turn.
 
 **Surgical Rend** ◆ This functions as the Rend ability, dealing claw damage. In addition, if the target is a living creature with organs and muscle, the interlocutor opens a precise wound. Until the creature is restored to its maximum Hit Points, thus closing the wound, Strikes against the creature deal 1d6 extra precision damage.

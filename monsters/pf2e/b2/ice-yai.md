@@ -35,6 +35,14 @@ Speed 40 feet, fly 40 feet
 
 **Innate primal Spells** (DC 33)
 
+  **2nd** invisibility
+
+  **4th** charm, darkness, gaseous form, solid fog
+
+  **6th** cone of cold
+
+  **7th** cone of cold, wall of ice
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The ice yai takes on the appearance of an frost giant. This doesn't change their Speed or Strike attack and damage.
 
 **Double Punch** ◆ **Frequency** {"unit":"round","number":1}; The ice yai makes two fist Strikes.

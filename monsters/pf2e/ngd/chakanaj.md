@@ -37,6 +37,12 @@ Speed 10 feet, fly 40 feet
 
 **Innate divine Spells** (DC 34)
 
+  **Cantrips (7th)** dancing lights, daze, guidance
+
+  **5th** illusory object
+
+  **7th** fear, mask of terror
+
 **Bond with Host** ◆ (concentrate, move) **Requirements** The chakanaj is Bonded with a Host; The chakanaj interposes itself between the host and its foes, granting its host a +2 circumstance bonus to AC until the start of the chakanaj's next turn.
 
 **Peel Away** ◆ (concentrate, move) **Requirements** The chakanaj is Bonded with a Host; The chakanaj removes itself from its host, peeling off the host's body and enters an adjacent space.

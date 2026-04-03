@@ -35,6 +35,22 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 34), attack +26
 
+  **Cantrips (7th)** detect magic, forbidding ward, mage hand, read aura, sigil
+
+  **1st (3 slots)** illusory object, sanctuary, unseen servant
+
+  **2nd (3 slots)** calm emotions, magic mouth, status
+
+  **3rd (3 slots)** dream message, hypercognition, wanderer's guide
+
+  **4th (3 slots)** discern lies, private sanctum, resilient sphere
+
+  **5th (3 slots)** illusory scene, telepathic bond, tongues
+
+  **6th (3 slots)** mislead, repulsion, true seeing
+
+  **7th (3 slots)** dimensional lock, project image, retrocognition
+
 **Eye for an Opening Nkiruka's** Strikes against creatures she observes that don't have cover and aren't concealed deal an additional 2d10 precision damage.
 
 **Size Up** ◆ Nkiruka attempts a Perception check against the Deception DC or Will DC, whichever is higher, of a creature she can see. On a success, she gleans a notable detail about the creature as if she had successfully

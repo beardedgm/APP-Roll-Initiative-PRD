@@ -34,3 +34,9 @@ Speed 30 feet
 **Melee** pitchfork +12; **Damage** 1d8+6 piercing
 
 **Innate primal Spells** (DC 18)
+
+  **Cantrips (2nd)** prestidigitation, mage hand
+
+  **1st** charm, command, mending
+
+  **2nd** entangle, speak with animals

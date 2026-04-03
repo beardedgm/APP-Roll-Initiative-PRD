@@ -35,6 +35,10 @@ Speed 25 feet
 
 **Spontaneous arcane Spells** (DC 20)
 
+  **Cantrips (1st)** detect magic, electric arc, ghost sound, mage hand, tanglefoot
+
+  **1st (4 slots)** fear, illusory object, magic missile
+
 **Illusory Retreat** ◆◆◆ (arcane, illusion, manipulate, move) **Frequency** {"unit":"hour","number":1}; **Requirements** The kobold dragon mage is adjacent to at least one enemy.; The dragon mage creates an illusion of itself in its square and then becomes invisible (with the effects of a 2nd-level invisibility spell) for 1d4 rounds. The dragon mage can move up to half its Speed, but it must end its movement in a space that's not adjacent to any enemies. This is a 1st-level spell that requires a somatic component.
 
 **Sneak Attack** The dragon mage deals an extra 1d6 precision damage to flat-footed creatures.

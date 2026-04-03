@@ -31,4 +31,8 @@ Speed 25 feet, fly 30 feet
 
 **Innate primal Spells** (DC 17)
 
+  **Cantrips (2nd)** frostbite
+
+  **1st** chilling spray
+
 **Icy Japes** (cold) **Frequency** {"number":1,"unit":"round"}; The beirans descend on their prey, biting and clawing at each enemy in a 5-foot emanation, with a DC 17 basic Reflex save. The damage depends on the number of actions. 

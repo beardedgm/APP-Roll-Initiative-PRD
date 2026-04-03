@@ -27,6 +27,14 @@ Speed 35 feet
 
 **Innate occult Spells** (DC 27)
 
+  **Cantrips (4th)** daze, detect magic, read aura
+
+  **2nd** gentle repose, invisibility, paranoia
+
+  **3rd** soothe
+
+  **4th** confusion, globe of invulnerability
+
 **Body Thief** ◆◆◆ (manipulate, necromancy, occult, possession) The intellect devourer reduces in size and burrows into the brain of a creature dead for no longer than 1 day. At the start of the intellect devourer's next turn, the body revives at its maximum Hit Points, controlled by the devourer. The intellect devourer is conscious and can sense everything the possessed body could. Any effect that ends the possession kills the host body with the same effects as Exit Body. The intellect devourer can't use any of the host creature's spells with Body Thief but can use its own spells. The host body slowly decays while inhabited by the intellect devourer, becoming uninhabitable after 7 days unless preserved with gentle repose or a similar effect.
 
 **Exit Body** ◆ (move) **Requirements** The intellect devourer is controlling a body with Body Thief; The intellect devourer leaves its host body, which dies instantly and is no longer a suitable host for any Body Thief ability. The intellect devourer appears at full size in an adjacent space.

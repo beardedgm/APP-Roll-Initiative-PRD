@@ -35,4 +35,10 @@ unique, ne, medium, human, humanoid
 
 **Druid Prepared Spells** (DC 18), attack +10
 
+  **Cantrips (1st)** acid splash, guidance, light, ray of frost, tanglefoot
+
+  **1st** burning hands, fleet step, shillelagh, summon fey
+
 **Druid Order Spells** (DC 18), attack +10
+
+  **1st** wild morph

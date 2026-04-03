@@ -45,9 +45,35 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 32), attack +24
 
+  **Cantrips (6th)** daze, detect magic, figment, read aura
+
+  **1st (3 slots)** soothe, sure strike
+
+  **2nd (3 slots)** darkvision, invisibility, resist energy
+
+  **3rd (3 slots)** force barrage, haste, translate
+
+  **4th (3 slots)** charm, containment, telepathy
+
+  **5th (3 slots)** mirror malefactors, repelling pulse, rip the spirit
+
+  **6th (2 slots)** dominate, slow
+
 **Innate primal Spells** (DC 32), attack +24
 
+  **Cantrips (6th)** tangle vine, timber
+
+  **1st** cleanse cuisine, protector tree
+
+  **2nd** detect poison, entangling flora
+
+  **5th** oaken resilience
+
 **Bard Composition Spells**
+
+  **Cantrips (6th)** courageous anthem, dirge of doom
+
+  **6th** counter performance
 
 **Scouring Surge** ◆◆ (fire, primal) Unaasi unleashes the planar energy coursing through their body for a split-second, dealing 11d6 fire damage (DC 30 basic Reflex save) to all creatures in their luminant aura. They can't use Scouring Surge again for 1d4 rounds.
 

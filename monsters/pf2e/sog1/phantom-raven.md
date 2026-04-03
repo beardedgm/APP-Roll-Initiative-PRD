@@ -39,3 +39,5 @@ Speed fly 40 feet
 **Melee** beak +7 (finesse, force, magical); **Damage** 1d6 force
 
 **Innate occult Spells** (DC 13), attack +5
+
+  **Cantrips (1st)** daze, ghost sound

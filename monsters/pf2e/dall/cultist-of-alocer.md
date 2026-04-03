@@ -31,6 +31,14 @@ Speed 25 feet
 
 **Focus divine Spells** (DC 20), attack +12
 
+  **Cantrips (2nd)** daze, divine lance, forbidding ward, message, shield
+
+  **1st** command, heal, ray of enfeeblement
+
+  **2nd** harm, spiritual weapon, undetectable alignment
+
 **Cleric Domain Spells** (DC 20)
+
+  **2nd** weapon surge
 
 **Divine Font** harm

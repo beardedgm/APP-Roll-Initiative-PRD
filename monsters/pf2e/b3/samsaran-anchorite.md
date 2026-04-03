@@ -36,3 +36,7 @@ Speed 25 feet
 **Melee** sling +7 (range increment <50 feet>, reload <1>); **Damage** 1d4+2 bludgeoning
 
 **Prepared divine Spells** (DC 17)
+
+  **Cantrips (1st)** guidance, light
+
+  **1st** command, heal, sanctuary

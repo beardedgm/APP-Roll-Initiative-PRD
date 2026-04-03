@@ -36,3 +36,7 @@ Speed 25 feet
 **Melee** shortbow +7 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
 
 **Spontaneous occult Spells** (DC 17)
+
+  **Cantrips (1st)** dancing lights, detect magic, ghost sound, inspire courage, prestidigitation, shield
+
+  **1st (2 slots)** phantom pain, soothe

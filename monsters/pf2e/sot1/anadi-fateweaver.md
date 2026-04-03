@@ -29,7 +29,21 @@ Speed 25 feet, climb 25 feet
 
 **Spontaneous arcane Spells** (DC 23), attack +15
 
+  **Cantrips (3rd)** daze, ghost sound, produce flame, shield
+
+  **1st (3 slots)** illusory object, magic missile, ray of enfeeblement
+
+  **2nd (3 slots)** augury, invisibility, status
+
+  **3rd (2 slots)** hypnotic pattern, mind reading
+
 **Innate arcane Spells** (DC 23)
+
+  **Cantrips (3rd)** dancing lights, detect magic, mage hand, message
+
+  **1st** color spray, mending, unseen servant
+
+  **2nd** blur, web
 
 **Anadi Venom**
 

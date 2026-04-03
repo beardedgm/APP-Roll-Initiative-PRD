@@ -37,6 +37,12 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 20)
 
+  **Cantrips (2nd)** prestidigitation
+
+  **1st** gust of wind, spider sting
+
+  **2nd** speak with animals
+
 **Lucky Stabs** Kurshkin deals an additional 1d6 damage with her melee Strikes against creatures affected by her unluck aura.
 
 **Natural Thief** When attacking with a finesse melee weapon, Kurshkin adds her Dexterity modifier to damage rolls instead of her Strength modifier.

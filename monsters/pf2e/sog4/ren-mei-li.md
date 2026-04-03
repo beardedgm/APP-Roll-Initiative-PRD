@@ -37,6 +37,12 @@ Speed 30 feet, swim 30 feet
 
 **Innate occult Spells** (DC 37), attack +29
 
+  **6th** dimension door, mind probe, mind reading
+
+  **7th** outcast's curse, suggestion
+
+  **8th** charm, suggestion, summon animal
+
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) Ren Mei Li takes on the appearance of any Small or Medium spider. This doesn't change her Speed or Strikes.
 
 **Jorogumo Venom** (incapacitation, poison)

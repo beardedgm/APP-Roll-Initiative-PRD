@@ -35,6 +35,14 @@ Speed 30 feet, fly 40 feet
 
 **Innate divine Spells** (DC 26)
 
+  **1st** detect alignment
+
+  **2nd** invisibility
+
+  **3rd** remove fear
+
+  **4th** divine wrath, heal, paralyze, remove curse, remove disease
+
 **Brand of the Impenitent** ◆◆ (curse, divine, evocation) **Frequency** {"unit":"day","number":1}; The balisse marks an evil creature within its confessor's aura as irredeemable. It can only do so after a failed attempt to convince the creature to repent. The touched creature takes a –1 status penalty to AC and saves, reduces its resistances by 2, and gains weakness 2 to good damage. The duration depends on the target's DC 26 Will save. **Critical Success** The creature is unaffected.
 **Success** The duration is 1 round.
 **Failure** The duration is 1 day.

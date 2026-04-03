@@ -35,6 +35,16 @@ Speed 40 feet, fly 40 feet
 
 **Innate primal Spells** (DC 37)
 
+  **2nd** invisibility
+
+  **3rd** enthrall
+
+  **4th** charm, darkness
+
+  **5th** command, shadow walk
+
+  **8th** charm, sound burst
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The shadow yai takes on the appearance of a shadow giant. This doesn't change its Speed or Strike attack and damage.
 
 **Shadow Step** ◆ (conjuration, primal, shadow, teleportation) **Requirements** The shadow yai is in an area of dim light or darkness or is standing in the shadow of any Large or larger object; The shadow yai instantly teleports to another location that's in dim light or darkness or to a space that's in the shadow of any Large or larger object within 60 feet.

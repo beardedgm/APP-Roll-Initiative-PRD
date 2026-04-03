@@ -33,6 +33,14 @@ Speed 30 feet
 
 **Innate occult Spells** (DC 27)
 
+  **Cantrips (4th)** ghost sound, message
+
+  **2nd** knock
+
+  **3rd** fear, mind reading
+
+  **4th** gaseous form, invisibility, nightmare, phantasmal killer
+
 **Devour Soul** ◆◆◆ (necromancy, occult) **Requirements** The bogey has killed a creature within the last round and is adjacent to the creature; The bogey consumes the creature's soul. The soul is utterly destroyed—nothing short of wish or a similar effect can restore it to life, and only after the bogey has been slain. The bogey regains Hit Points equal to double the level of the consumed creature. After devouring three souls within a year, the bogey transforms into a bugaboo.
 
 **Mobility** When the bugaboo uses a Stride action to move half their Speed or less, that movement does not trigger reactions.

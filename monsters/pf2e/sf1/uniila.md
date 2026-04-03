@@ -35,7 +35,23 @@ Speed 25 feet, fly 40 feet
 
 **Spontaneous arcane Spells** (DC 29), attack +21
 
+  **Cantrips (5th)** chill touch, detect magic, message, ray of frost, shield
+
+  **1st (3 slots)** illusory disguise, ray of enfeeblement, unseen servant
+
+  **2nd (3 slots)** glitterdust, mirror image, touch of idiocy
+
+  **3rd (3 slots)** enthrall, lightning bolt, magic missile
+
+  **4th (3 slots)** confusion, fireball, resilient sphere
+
+  **5th (3 slots)** crushing despair, dispel magic, shadow siphon
+
 **Innate divine Spells** (DC 29)
+
+  **4th** blink, dimension door, discern lies, invisibility, outcast's curse, read omens
+
+  **5th** dimension door
 
 **Every Dagger** ◆◆ **Requirements** The uniila wields four daggers; The uniila attempts a single dagger Strike against a target. If this Strike hits, the uniila deals three extra dice of weapon damage.
 

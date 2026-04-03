@@ -35,4 +35,12 @@ Speed 25 feet
 
 **Prepared primal Spells** (DC 24), attack +15
 
+  **Cantrips (3rd)** acid splash, detect magic, produce flame, tanglefoot
+
+  **1st** feather fall, grease, magic fang
+
+  **2nd** heal, summon animal, water breathing
+
+  **3rd** heal, lightning bolt, wall of thorns
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) As werecreature (Pathfinder Bestiary 329); human with fist +16 for 1d6+7 bludgeoning, or wolf with.

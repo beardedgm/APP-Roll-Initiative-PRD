@@ -39,6 +39,14 @@ Speed 25 feet, fly 50 feet
 
 **Innate primal Spells** (DC 25), attack +17
 
+  **1st** illusory disguise
+
+  **2nd** augury
+
+  **4th** honeyed words
+
+  **5th** summon animal
+
 **Apitoxin** (poison)
 
 **Evasive Swarm** ◇ **Trigger** The Bee-Man moves at least 5 feet; The Bee-Man gains concealment against ranged attacks until the start of his next turn or until he makes an attack action, whichever comes first.

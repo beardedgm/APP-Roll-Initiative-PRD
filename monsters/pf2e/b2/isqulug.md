@@ -33,6 +33,14 @@ Speed 25 feet, swim 25 feet
 
 **Innate primal Spells** (DC 30), attack +22
 
+  **Cantrips (5th)** dancing lights
+
+  **4th** fly
+
+  **5th** control water, entangle, hallucinatory terrain, obscuring mist
+
+  **6th** tangling creepers
+
 **Expel Infestation** ◆◆ The isqulug expels larvae from the hivemind in its head in a 30-foot cone. Creatures in this area take 6d10 piercing damage as the swarm feeds on their flesh (DC 30 basic Reflex save). Any creature that takes damage is exposed to isqulugia. The isqulug becomes stupefied 1 for 1d4 rounds, during which it can't Expel Infestation.
 
 **Isqulugia** (disease, incapacitation, primal, transmutation, virulent)

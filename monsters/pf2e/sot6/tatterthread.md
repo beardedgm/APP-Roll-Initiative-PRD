@@ -37,6 +37,14 @@ Speed 35 feet, fly 35 feet
 
 **Innate occult Spells** (DC 42)
 
+  **7th** dispel magic, read omens, spellwrack
+
+  **8th** maze, wind walk
+
+  **9th** power word kill, weird
+
+  **10th** shadow blast, shadow siphon, time stop
+
 **Fated** When a creature is subject to a fortune effect from a norn and a misfortune effect from any source other than a norn (or vice versa), the norn's effect automatically counteracts the other effect and then takes place normally, rather than the two effects canceling each other out. If both the fortune and misfortune effect are from a norn, then the two cancel each other out as normal. At the GM's discretion, powerful entities related to fate or luck, like Desna, Magdh|LOGM, or Pharasma, count as a norn for the purpose of this ability.
 
 **Shadow Corrosion** (acid, necromancy, occult) When Tatterthread deals acid damage with a Strike, she regains 10 Hit Points. The target must succeed at a DC 39 Fortitude save or become doomed 1 (doomed 2 on a critical failure).

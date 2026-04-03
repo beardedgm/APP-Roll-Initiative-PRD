@@ -32,3 +32,11 @@ Speed 25 feet
 **Melee** longbow +17 (deadly <d10>, volley); **Damage** 1d8+5 piercing
 
 **Innate primal Spells** (DC 24), attack +16
+
+  **Cantrips (3rd)** acid splash, guidance, stabilize
+
+  **1st** heal, pass without trace, swampcall
+
+  **2nd** acid arrow, clawsong, dispel magic, heal
+
+  **3rd** fireball, heal

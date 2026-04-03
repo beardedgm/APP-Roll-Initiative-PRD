@@ -37,6 +37,16 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 30), attack +22
 
+  **1st** feather fall, grim tendrils, ray of enfeeblement
+
+  **2nd** darkness, death knell, false life, silence
+
+  **3rd** harm, paralyze
+
+  **4th** acid arrow, phantasmal killer, spiritual weapon
+
+  **5th** banishment, summon fiend
+
 **Stoke the Fervent** ◆◆ (auditory, divine, emotion, mental) As urdefhan tormentor, but the status bonus to attack and damage rolls is +4, the status bonus to saving throws is +2, and the status penalty to AC is –2.
 
 **Wicked Bite** As urdefhan warrior, but DC 29.

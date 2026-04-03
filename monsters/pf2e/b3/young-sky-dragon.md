@@ -37,7 +37,21 @@ Speed 30 feet, fly 120 feet
 
 **Innate divine Spells** (DC 28)
 
+  **1st** feather fall, gust of wind
+
+  **2nd** invisibility
+
 **Prepared divine Spells** (DC 28), attack +21
+
+  **Cantrips (4th)** detect magic, divine lance, read aura, shield, stabilize
+
+  **1st** alarm, bless, detect alignment, sanctuary
+
+  **2nd** augury, comprehend language, create food
+
+  **3rd** heroism, locate, wanderer's guide
+
+  **4th** discern lies, dispel magic, divine wrath
 
 **Breath Weapon** ◆◆ (divine, electricity, evocation) The dragon shoots a ball of electricity that deals 5d12 electricity damage in a 20-foot burst within 40 feet (DC 28 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.
 

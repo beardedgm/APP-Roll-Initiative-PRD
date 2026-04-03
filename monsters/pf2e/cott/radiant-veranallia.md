@@ -37,6 +37,14 @@ Speed 40 feet, fly 40 feet
 
 **Innate divine Spells** (DC 42), attack +32
 
+  **6th** cursed metamorphosis, tangling creepers
+
+  **8th** arctic rift, sunburst
+
+  **9th** nature's pathway, regenerate, wrathful storm
+
+  **10th** cataclysm, remake, revival
+
 **Alter Weather** ◆◆◆ **Frequency** {"number":3,"unit":"day"}; The veranallia dramatically alters weather patterns in the surrounding area, producing any of the results of a successful 9th-rank control weather|PC1 ritual.
 
 **Rebirth** (divine) **Frequency** {"number":1,"unit":"day"}; The veranallia spends a minute to encase a creature that has been dead for no more than a year in a cocoon. After 24 hours, the creature is restored to life, and the cocoon explodes in a shower of dust. If the veranallia chooses, Rebirth can change the creature's ancestry or heritage, typically into a skeleton (Book of the Dead 54).

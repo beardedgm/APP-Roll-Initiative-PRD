@@ -35,7 +35,23 @@ Speed 30 feet, climb 20 feet
 
 **Innate arcane Spells** (DC 20)
 
+  **Cantrips (3rd)** dancing lights, detect magic
+
+  **2nd** darkness, faerie fire
+
+  **3rd** clairaudience, dispel magic, levitate
+
+  **4th** clairvoyance, suggestion
+
 **Prepared arcane Spells** (DC 24), attack +17
+
+  **Cantrips (3rd)** ghost sound, mage hand, ray of frost
+
+  **1st** magic missile, ray of enfeeblement
+
+  **2nd** acid arrow, invisibility
+
+  **3rd** fireball
 
 **Drider Venom** (poison)
 

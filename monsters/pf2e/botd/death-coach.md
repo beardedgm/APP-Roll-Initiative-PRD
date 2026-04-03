@@ -33,6 +33,14 @@ Speed 60 feet, fly 60 feet
 
 **Innate divine Spells** (DC 34)
 
+  **2nd** death knell
+
+  **3rd** fear
+
+  **6th** agonizing despair
+
+  **7th** finger of death
+
 **Soulbound Gallop** When a death coach has Collected a Soul, its Speeds double.
 
 **Trample** ◆◆◆ Large or smaller, incorporeal wheel, DC 34

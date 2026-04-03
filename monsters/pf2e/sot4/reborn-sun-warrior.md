@@ -39,6 +39,10 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 27), attack +19
 
+  **Cantrips (5th)** divine lance, message, shield, sigil
+
+  **5th** burning hands
+
 **Constrict** ◆ 1d4+9 bludgeoning plus 2d6 fire, DC 27
 
 **Knocking Sweep** ◆◆ **Frequency** {"number":1,"unit":"round"}; The sun warrior swings their weapon with a sweeping spin. They attempt separate Athletics checks to Trip any number of creatures within their reach. Each attempt counts toward the sun warrior's multiple attack penalty, but the multiple attack penalty doesn't increase until after they make all the attacks.

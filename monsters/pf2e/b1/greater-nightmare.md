@@ -31,6 +31,8 @@ Speed 60 feet, fly 120 feet
 
 **Innate divine Spells** (DC 30)
 
+  **7th** ethereal jaunt, plane shift
+
 **Flaming Gallop** ◆◆ (fire) The nightmare Strides or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 6d6 fire damage (DC 30 basic Reflex save) once to each creature other than the nightmare's rider that the nightmare moves adjacent to during its gallop.
 
 **Trample** ◆◆◆ Large or smaller, hoof, DC 30

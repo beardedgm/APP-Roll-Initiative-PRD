@@ -41,6 +41,10 @@ Speed fly 40 feet
 
 **Innate divine Spells** (DC 40)
 
+  **Cantrips (9th)** detect magic
+
+  **9th** dispel magic, earthbind, fear, mask of terror, nightmare
+
 **Claustrophobic Nightmares** (curse, divine, enchantment, mental) A creature fatigued by the tumblak's nightmare spell is subject to paralyzing glimpses of being buried alive. Anyone using an effect that would remove the fatigued condition through a means other than a full night's rest must succeed on a DC 44 counteract check or the fatigued condition isn't removed. When the fatigued creature enters a stressful situation, such as rolling initiative in combat or entering a high-stakes negotiation, it is affected by Entombing Echoes.
 
 **Entombing Echoes** (divine, emotion, enchantment, incapacitation, mental) A creature struck by the tumblak's fist or impacted by Claustrophobic Nightmares must succeed on a DC 44 Will save or feel itself confined on all sides. The creature is immobilized and flat-footed until it Escapes (DC 44).

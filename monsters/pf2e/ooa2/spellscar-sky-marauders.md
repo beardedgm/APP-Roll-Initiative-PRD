@@ -39,6 +39,10 @@ Speed 30 feet, fly 40 feet
 
 **Innate arcane Spells** (DC 22)
 
+  **Cantrips (3rd)** sigil
+
+  **1st** sanctuary, true strike
+
 **Paired Strike** ◆◆ As maftet guardian.
 
 **Mana Fever** (disease) A creature can't remove the fatigued condition while infected; 

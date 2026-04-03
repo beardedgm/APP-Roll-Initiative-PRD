@@ -31,6 +31,10 @@ Speed 50 feet, burrow 20 feet
 
 **Innate primal Spells** (DC 41)
 
+  **8th** earthbind, earthquake, stone tell
+
+  **10th** earthquake
+
 **Grasping Bites** ◆◆ (attack) The sturzstromer attempts an Athletics check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the sturzstromer's multiple attack penalty. **Critical Success** The creature falls prone, takes 1d6 bludgeoning damage, and is restrained by the sturzstromer until the end of the sturzstromer's next turn.
 **Success** The creature falls prone, and is grabbed by the sturzstromer until the end of the sturzstromer's next turn.
 

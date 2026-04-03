@@ -39,6 +39,10 @@ Speed 40 feet, swim 60 feet
 
 **Innate primal Spells** (DC 25)
 
+  **Cantrips (4th)** detect magic
+
+  **4th** fly, water breathing
+
 **Constrict** ◆ 2d8+4 bludgeoning, DC 25
 
 **Floodwaters** ◆◆ (primal, water) Waters rush forth in a 60-foot line, dealing 4d6 bludgeoning damage (DC 25 basic Reflex save). Creatures that fail the save and aren't grabbed by the imugi are pushed 10 feet away.

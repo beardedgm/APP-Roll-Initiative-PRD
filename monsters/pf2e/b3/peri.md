@@ -39,6 +39,10 @@ Speed 0 feet
 
 **Innate divine Spells** (DC 34), attack +26
 
+  **Cantrips (7th)** produce flame
+
+  **7th** humanoid form, wall of fire
+
 **Flame Jump** ◆◆ (conjuration, divine, teleportation) **Frequency** {"unit":"hour","number":1}; The peri Strides into an open flame of their size or larger and instantly transports themself to any other flame of sufficient size within 100 miles. Once they enter the first flame, the peri instantly learns the locations of all other flames within range.
 
 **Flameheart Weapon** The peri can call forth a powerful weapon from their heart of flame. In their hands, this is a +2 greater flaming greater striking weapon that deals 2d6 fire damage instead of 1d6.

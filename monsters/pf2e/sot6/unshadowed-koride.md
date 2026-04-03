@@ -35,7 +35,31 @@ Speed 25 feet
 
 **Prepared primal Spells** (DC 41), attack +33
 
+  **Cantrips (10th)** detect magic, electric arc, prestidigitation, ray of frost, tanglefoot
+
+  **1st** feather fall, fear, gust of wind
+
+  **2nd** darkvision, entangle, web
+
+  **3rd** fear, slow, wall of wind
+
+  **4th** dispel magic, fly, freedom of movement
+
+  **5th** banishment, blazing fissure, healing well
+
+  **6th** flesh to stone, nature's reprisal, true seeing
+
+  **7th** finger of death, regenerate, sunburst
+
+  **8th** dispel magic, moment of renewal, polar ray
+
+  **9th** implosion, shapechange, chain lightning
+
+  **10th** fated confrontation
+
 **Innate occult Spells** (DC 41), attack +33
+
+  **10th** shadow blast, shadow siphon
 
 **Rupture Shadow** ◆◆ (acid, conjuration, occult, shadow) Koride can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. She targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will save. Koride can't use Rupture Shadow again for 1d4 rounds. **Critical Success** 
 **Success** 

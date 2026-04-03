@@ -32,3 +32,19 @@ Speed 25 feet, swim 30 feet
 **Melee** spear +24 (magical, thrown <20 feet>); **Damage** 2d6+3 piercing
 
 **Prepared arcane Spells** (DC 34), attack +26
+
+  **Cantrips (6th)** acid splash, detect magic, light, ray of frost, shield
+
+  **1st** grease, hydraulic push, mage armor
+
+  **2nd** acid arrow, water walk
+
+  **3rd** haste, slow, stinking cloud
+
+  **4th** fly, hydraulic torrent, solid fog
+
+  **5th** cone of cold, elemental form, wall of ice
+
+  **6th** hydraulic push, hydraulic torrent
+
+  **7th** disintegrate, spell turning

@@ -35,6 +35,10 @@ Speed 35 feet, swim 20 feet
 
 **Innate occult Spells** (DC 23)
 
+  **2nd** augury, obscuring mist
+
+  **5th** mariner's curse
+
 **Hook Shake** ◆ **Requirements** A creature adjacent to the marsh giant is prone in water at least 1 foot deep; The marsh giant uses its gaff to shake the creature back and forth and hold it underwater. The giant attempts an Athletics check against the target's Fortitude DC. **Critical Success** The target takes 6d6+14 piercing damage and loses 5 rounds' worth of air if they were holding their breath.
 **Success** The target takes 3d6+14 piercing damage and loses 3 rounds' worth of air if they were holding their breath.
 **Failure** The target is unaffected.

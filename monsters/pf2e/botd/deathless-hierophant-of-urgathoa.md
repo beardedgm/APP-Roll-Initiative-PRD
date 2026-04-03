@@ -35,4 +35,16 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 25), attack +17
 
+  **Cantrips (4th)** chill touch, detect magic, divine lance, forbidding ward, shield
+
+  **1st** bane, fear, goblin pox
+
+  **2nd** false life, ghoulish cravings, spiritual weapon
+
+  **3rd** blindness, vampiric touch
+
+  **4th** anathematic reprisal, harm
+
 **Cleric Domain Spells** (DC 25)
+
+  **4th** malignant sustenance, touch of undeath

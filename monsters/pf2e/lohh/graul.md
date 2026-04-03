@@ -33,6 +33,10 @@ Speed fly 25 feet
 
 **Innate primal Spells** (DC 18)
 
+  **1st** ventriloquism
+
+  **2nd** illusory object
+
 **Paralysis** (poison, incapacitation) A living creature struck by a graul's jaws attack must succeed at a DC 20 Fortitude save or become paralyzed. It can attempt a new check at the end of each of its turns, and the DC cumulatively decreases by 1 on each such check. A creature paralyzed by this ability is also affected by the graul's darkvision invisibility for as long as the effect persists.
 
 **Seize** ◆ **Requirements** The graul has a creature grabbed with its tentacle; The graul pulls the creature toward itself. The graul attempts an Athletics check against the creature's Fortitude DC. With a success, the graul pulls the creature 15 feet closer to it.

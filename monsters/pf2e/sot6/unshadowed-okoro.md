@@ -37,7 +37,29 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 40), attack +32
 
+  **Cantrips (9th)** chill touch, detect magic, guidance, mage hand, telekinetic projectile
+
+  **1st (3 slots)** grim tendrils, magic missile, unseen servant
+
+  **2nd (3 slots)** blur, hideous laughter, sound burst
+
+  **3rd (3 slots)** blindness, magic missile, vampiric touch
+
+  **4th (3 slots)** blink, fly, grim tendrils
+
+  **5th (3 slots)** black tentacles, magic missile, synaptic pulse
+
+  **6th (3 slots)** collective transposition, phantasmal calamity, vampiric exsanguination
+
+  **7th (3 slots)** grim tendrils, magic missile, prismatic spray
+
+  **8th (3 slots)** maze, prismatic wall, spirit song
+
+  **9th (3 slots)** magic missile, prismatic sphere, telepathic demand
+
 **Innate occult Spells** (DC 40), attack +32
+
+  **9th** shadow blast, shadow siphon
 
 **Observe Weakness** ◆ (concentrate, divination, fortune, occult) Okoro studies a creature within 30 feet to find an opening to attack. On his next attack roll against the creature this turn, he rolls twice and uses the higher result, and his attack gains the fortune trait. The target becomes temporarily immune for 1d4 rounds.
 

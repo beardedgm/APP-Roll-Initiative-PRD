@@ -30,3 +30,7 @@ Speed 25 feet
 **Melee** torch +7 (fire); **Damage** 1d4 bludgeoning plus 1 fire
 
 **Spontaneous arcane Spells** (DC 16)
+
+  **Cantrips (1st)** light, mage hand, produce flame, tanglefoot
+
+  **1st (3 slots)** burning hands, grease

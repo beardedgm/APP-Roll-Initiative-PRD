@@ -37,6 +37,12 @@ Speed 35 feet
 
 **Innate divine Spells** (DC 21)
 
+  **Cantrips (2nd)** dancing lights
+
+  **1st** charm, true strike
+
+  **2nd** animal messenger
+
 **Archon's Door** Once per day, if an archon sees another creature cast dimension door, it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door.
 
 **Touch of Charity** ◆ (healing, manipulate, necromancy) A horned archon can touch another creature to take on that creature's wounds, transferring up to 30 of the horned archon's HP to the touched creature. The horned archon can't transfer more HP than it currently has.

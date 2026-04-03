@@ -35,6 +35,12 @@ Speed 35 feet, climb 35 feet
 
 **Innate divine Spells** (DC 36), attack +28
 
+  **4th** charm, dimension door, enthrall
+
+  **5th** black tentacles, dimension door, illusory object
+
+  **7th** dispel magic, dominate
+
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The gylou adopts the appearance of any Small or Medium humanoid. This doesn't change their Speed or the attack and damage modifiers of their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).
 
 **Indispensable Savvy** ◈ **Trigger** The gylou attempts a skill check but hasn't rolled yet; **Frequency** {"unit":"day","number":1}; The gylou demonstrates a preternatural ability for the task at hand. They use their Deception modifier for the triggering check and for all skill checks using the same skill thereafter until the next time the gylou uses this ability or until 24 hours have passed, whichever happens first.

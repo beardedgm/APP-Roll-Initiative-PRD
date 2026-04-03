@@ -37,6 +37,16 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 34)
 
+  **1st** detect alignment
+
+  **4th** dimension door
+
+  **5th** dimension door
+
+  **6th** slow, vampiric exsanguination
+
+  **7th** finger of death, plane shift, teleport
+
 **Draining Strike** (divine, necromancy) When a thanadaemon damages a living creature with a melee Strike, the creature must succeed at a DC 33 Fortitude save or become drained 1. Further damage dealt by the thanadaemon increases the drained condition value by 1 on a failed save, to a maximum of drained 4.
 
 **Focus Gaze** ◆ (concentrate, divine, fear, visual) The thanadaemon glares at a single creature they can see within 30 feet. The target must immediately attempt a DC 33 Will save against the thanadaemon's terrifying gaze. If the target was already frightened, a failed save causes it to become fleeing for 1d4 rounds. After attempting its save, the creature is temporarily immune to this ability until the start of the thanadaemon's next turn.

@@ -33,6 +33,10 @@ Speed 25 feet
 
 **Spontaneous occult Spells** (DC 17)
 
+  **Cantrips (1st)** ghost sound, inspire courage, mage hand, message, telekinetic projectile
+
+  **1st (2 slots)** bless, soothe
+
 **Goblin Song** ◆ The war chanter sings annoying goblin songs, distracting foes with silly and repetitive lyrics. The chanter attempts a Performance check against the Will DCs of up to two enemies within 30 feet. This has the usual traits and restrictions for a Performance check. **Critical Success** The target takes a –1 status penalty to Perception checks and Will saves for 1 minute.
 **Success** As critical success, but the target is affected for only 1 round.
 **Critical Failure** The target is temporarily immune to Goblin Song for 1 hour.

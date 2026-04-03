@@ -37,6 +37,16 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 33), attack +25
 
+  **Cantrips (7th)** daze, mage hand, telekinetic projectile
+
+  **3rd** illusory disguise, item facade
+
+  **5th** subconscious suggestion
+
+  **6th** dominate, illusory scene
+
+  **7th** phantom pain
+
 **Infect Silver** ◆◆◆ (concentrate, curse, necromancy, occult) **Frequency** {"unit":"day","number":1}; The argyrzei concentrates on an adjacent silver object that's no larger than Bulk 2. That object becomes infected silver|SoG4|cursed; if the object is being carried, the object's carrier can resist the object becoming cursed with a DC 33 Will save. The argyrzei can maintain up to five curses simultaneously; if it infects a sixth silver item, the oldest cursed item becomes uncursed.
 
 **Manifest Silver Blade** ◆ (concentrate, conjuration, occult) **Requirements** The argyrzei isn't carrying a silver blade; The argyrzei pulls one of the broken silver weapons from the stump of its neck, transforming it into a +1 striking wounding silver bastard sword. This weapon crumbles into sand if it leaves the argyrzei's possession.

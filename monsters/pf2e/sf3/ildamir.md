@@ -35,4 +35,12 @@ Speed 50 feet, fly 30 feet, climb 20 feet
 
 **Innate primal Spells** (DC 42)
 
+  **Cantrips (9th)** guidance, know direction
+
+  **7th** augury, mindlink, true strike
+
+  **8th** hypercognition, teleport
+
+  **9th** plane shift
+
 **Web of Fate** ◆◆ (divination, primal) As suvarden|SF3, but DC 42.

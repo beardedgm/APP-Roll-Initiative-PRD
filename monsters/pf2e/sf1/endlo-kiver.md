@@ -33,6 +33,20 @@ Speed 20 feet
 
 **Spontaneous divine Spells** (DC 30), attack +22
 
+  **Cantrips (6th)** chill touch, daze, message, sigil, stabilize
+
+  **1st (3 slots)** command, ray of enfeeblement, true strike
+
+  **2nd (3 slots)** death knell, resist energy, see invisibility
+
+  **3rd (3 slots)** chilling darkness, harm, remove disease
+
+  **4th (3 slots)** air walk, dimensional anchor, enlarge
+
+  **5th (3 slots)** flame strike, harm, heal
+
+  **6th (3 slots)** heroism, weapon storm, zealous conviction
+
 **Gorum's Hand** Endlo deals an additional die of damage with greatswords (included in his Strike above), which also adds an additional die to his weapon storm spell.
 
 **Replenishment of War When** Endlo damages a creature with a greatsword Strike, he gains 6 temporary Hit Points until the start of his next turn. If the Strike was a critical hit, he instead gains 12 temporary Hit Points.

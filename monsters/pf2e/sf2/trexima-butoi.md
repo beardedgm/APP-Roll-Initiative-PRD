@@ -35,6 +35,24 @@ Speed 25 feet
 
 **Prepared arcane Spells** (DC 37), attack +29
 
+  **Cantrips (8th)** detect magic, mage hand, message, ray of frost, shield
+
+  **1st** fear, fleet step, ray of enfeeblement
+
+  **2nd** mirror image, resist energy, see invisibility
+
+  **3rd** magic missile, paralyze, stinking cloud
+
+  **4th** dimension door, freedom of movement
+
+  **5th** grim tendrils, illusory object, wall of ice
+
+  **6th** cloudkill, mislead, purple worm sting
+
+  **7th** eclipse burst, fly, spell turning
+
+  **8th** dispel magic, horrid wilting, polar ray
+
 **Drain Phylactery** ◇ **Frequency** {"number":1,"unit":"day"}; As lich.
 
 **Siphon Life** ◈ (necromancy) **Trigger** Trexima deals damage with his hand Strike; Trexima regains Hit Points equal to half the damage dealt.

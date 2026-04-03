@@ -35,6 +35,10 @@ Speed 30 feet, fly 90 feet
 
 **Innate divine Spells** (DC 46), attack +38
 
+  **9th** breath of life, dispel magic, divine decree, earthquake, heal, implosion, storm of vengeance
+
+  **10th** miracle
+
 **Champion Focus Spell** DC 46, 3 Focus Points; 10th dazzling flash (Core Rulebook 391), lay on hands (Core Rulebook 387), protector's sphere (Core Rulebook 395)
 
 **Breath Weapon** ◆◆ (divine, evocation) The draconal breathes a blast of energy that deals 21d6 fire damage to creatures they choose to damage in a 60-foot cone (DC 44 basic Reflex save). They can make this effect nonlethal for selected creatures in the area or choose not to damage certain creatures at all. They can't use Breath Weapon again for 1d4 rounds.

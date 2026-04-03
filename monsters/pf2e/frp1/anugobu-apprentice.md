@@ -35,6 +35,12 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 20), attack +12
 
+  **Cantrips (2nd)** prestidigitation, telekinetic projectile
+
+  **1st** create water, floating disk, unseen servant
+
+  **2nd** dispel magic, mending
+
 **Planar Workshop** An anugobu is intrinsically connected to small, pocket dimension that they typically refer to as their workshop. The workshop is an extradimensional 10-foot cube. The workshop holds an anugobu's collected tools and materials. An anugobu can enter or leave their planar workshop as an action, which has the concentrate and manipulate traits. The anugobu gains resistance 5 to all damage (except force) and concealment while within the workshop. The workshop is only visible while the anugobu is inside it.
 
 **Stone Step** An anugobu can effortlessly stick to any worked or manufactured surface, allowing them to walk up walls and stand on ceilings.

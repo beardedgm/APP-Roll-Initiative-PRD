@@ -33,4 +33,8 @@ Speed 30 feet
 
 **Innate occult Spells** (DC 29)
 
+  **4th** hallucinatory terrain, hypnotic pattern
+
+  **8th** maze
+
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The tikbalang takes on the appearance of any Medium or Large humanoid (page 304). This doesn't change the tikbalang's Speed or their attack and damage modifiers with their Strike|Strikes.

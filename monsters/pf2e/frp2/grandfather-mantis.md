@@ -33,4 +33,6 @@ Speed 35 feet, climb 35 feet
 
 **Innate occult Spells** (DC 35)
 
+  **5th** fly, shadow blast
+
 **Pounce** ◆ Grandfather Mantis Strides, then Strikes.

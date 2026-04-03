@@ -39,6 +39,24 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 30), attack +22
 
+  **Cantrips (5th)** divine lance, message, shield, sigil
+
+  **5th** burning hands
+
 **Spontaneous primal Spells** (DC 30), attack +22
+
+  **Cantrips (6th)** acid splash, detect magic, light, produce flame, read aura
+
+  **1st (4 slots)** grease, gust of wind, shocking grasp, spider sting
+
+  **2nd (4 slots)** barkskin, faerie fire, flaming sphere, spider climb
+
+  **3rd (4 slots)** fireball, haste, meld into stone, wall of thorns
+
+  **4th (4 slots)** fly, shape stone, stoneskin, wall of fire
+
+  **5th (4 slots)** dispel magic, fireball, elemental form, wall of stone
+
+  **6th (3 slots)** chain lightning, fire seeds, purple worm sting
 
 **Revitalizing Flame** ◆ (divine, healing, necromancy) **Frequency** {"number":1,"unit":"day"}; The sun mage produces a specialized flame that burns away maladies and restores a creature. If the sun mage's next action is to Cast a Spell with the fire trait that deals damage and isn't a cantrip, the spell doesn't deal any damage. It instead restores a number of Hit Points equal to four times the spell's level to all targets or creatures. This restoration affects all creatures regardless of whether they are healed by positive or negative energy.

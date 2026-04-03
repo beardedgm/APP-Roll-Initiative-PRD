@@ -43,6 +43,14 @@ Speed 30 feet, fly 20 feet, burrow 45 feet
 
 **Innate arcane Spells** (DC 37)
 
+  **4th** gaseous form, glitterdust
+
+  **5th** stone shape
+
+  **6th** veil, wall of stone
+
+  **7th** chain lightning, flesh to stone
+
 **Change Shape** ◆ (arcane, concentrate, polymorph, transmutation) As muurfeli, but with the appearance of a Tiny or Small scorpion (rather than owl) and piercing damage for their Strikes (rather than slashing).
 
 **Earth Glide** As shaitan (Pathfinder Bestiary 164).

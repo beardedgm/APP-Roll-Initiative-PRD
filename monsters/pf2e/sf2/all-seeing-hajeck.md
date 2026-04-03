@@ -35,6 +35,14 @@ Speed 30 feet, swim 30 feet, climb 30 feet
 
 **Innate occult Spells** (DC 32)
 
+  **1st** ventriloquism
+
+  **2nd** illusory disguise, illusory object, mirror image
+
+  **3rd** glibness, sleep
+
+  **4th** charm, suggestion
+
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) All-Seeing Hajeck can take on the appearance of a Varisian woman—her appearance from her previous life. This doesn't change her Speed or her attack and damage modifiers, but does prevent her from using Hajeck's Caress.
 
 **Hajeck's Caress** ◆◆ (curse, enchantment, mental, occult) Hajeck touches a creature, who must succeed at a DC 32 Will save or become stupefied 1 (stupefied 2 on a critical failure). If the target fails additional saves against this ability, the condition value increases by 2 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours.

@@ -37,6 +37,10 @@ Speed 30 feet
 
 **Innate divine Spells** (DC 28)
 
+  **Cantrips (6th)** dancing lights
+
+  **2nd** darkness, faerie fire
+
 **Attack Now!** ◆ Salaisa shouts, and a drow ally within 30 feet that can see or hear Salaisa makes a melee or ranged Strike as a reaction.
 
 **Storm of Blades** ◆◆ Salaisa Strides up to her Speed. She can make up to three longsword Strikes at any point during this movement, each against a different target within reach. These attacks count toward her multiple attack penalty, but the multiple attack penalty doesn't increase until after she makes all of her attacks. If she moves half her speed or less during Storm of Blades, that movement doesn't trigger reactions.

@@ -29,4 +29,16 @@ Speed 25 feet, swim 15 feet
 
 **Spontaneous occult Spells** (DC 28), attack +20
 
+  **Cantrips (5th)** daze, detect magic, mage hand, read aura, sigil
+
+  **1st (4 slots)** charm, command, grim tendrils, unseen servant
+
+  **2nd (4 slots)** blur, humanoid form, mirror image, telekinetic maneuver
+
+  **3rd (4 slots)** dream message, mind reading, paralyze, vampiric touch
+
+  **4th (4 slots)** clairvoyance, confusion, fly, modify memory
+
+  **5th (3 slots)** black tentacles, sending, subconscious suggestion
+
 **Spirit Naga Venom** (poison)

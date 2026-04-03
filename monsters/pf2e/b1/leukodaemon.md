@@ -41,6 +41,12 @@ Speed 25 feet, fly 40 feet
 
 **Innate divine Spells** (DC 26)
 
+  **1st** detect alignment
+
+  **4th** dimension door, dispel magic
+
+  **5th** dimension door
+
 **Breath Weapon** ◆◆ (evocation, divine) The leukodaemon exhales a cloud of corpse-bloated, biting black flies in a 20-foot cone. Creatures within the cone take 4d8 piercing damage (DC 28 basic Reflex save) A creature that fails the save becomes sickened 1 (or sickened 2 on a critical failure).
 
 **Daemonic Pestilence** (disease)

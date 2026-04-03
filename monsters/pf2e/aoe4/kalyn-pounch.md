@@ -35,4 +35,18 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 32), attack +26
 
+  **Cantrips (6th)** daze, detect magic, light, guidance, message
+
+  **1st** command, fear, sanctuary
+
+  **2nd** illusory disguise, invisibility, silence
+
+  **3rd** blindness, chilling darkness, heal
+
+  **4th** air walk, freedom of movement, invisibility
+
+  **5th** death ward, flame strike, shadow blast
+
+  **6th** harm, heal, phantasmal killer, vampiric exsanguination
+
 **Toxic Mastery** Kalyn can masterfully manipulate vile, poisonous energy and increase its potency. Her melee and ranged Strikes deal an additional 2d6 poison damage, and a target that takes this poison damage has a –1 status penalty to saving throws against Kalyn's divine spells for 1 round. Poisons delivered by Kalyn have the virulent trait.

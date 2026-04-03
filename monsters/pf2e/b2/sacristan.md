@@ -35,6 +35,10 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 29)
 
+  **3rd** fear
+
+  **5th** chilling darkness
+
 **Focus Gaze** ◆ (concentrate, divine, enchantment, fear, mental, visual) The sacristan stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against staggering servitude. In addition, if the creature was already stunned, on a failed save its revulsion toward the sacristan's presence causes it to be stupefied 2 for 1 minute. After attempting this save, the creature is then temporarily immune until the start of the sacristan's next turn.
 
 **Shadow Scream** ◆◆◆ (aura, concentrate, darkness, divine, evocation, mental, sonic) **Frequency** {"unit":"hour","number":1}; The sacristan opens their mouth to unloose the wailing howls and mind-twisting darkness of the Shadow Plane. This creates a 30-foot emanation of darkness and wailing sounds around the sacristan. Creatures with darkvision can't see through this darkness. The sacristan can Sustain Shadow Scream for up to 1 minute. Non-velstrac creatures in the area when the ability is used, as well as those who enter or start their turn in the area, must attempt a DC 28 Will save. **Critical Success** The creature is unaffected and is then temporarily immune for 24 hours.

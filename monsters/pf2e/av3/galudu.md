@@ -37,7 +37,27 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 28), attack +20
 
+  **Cantrips (6th)** detect magic
+
+  **2nd** darkness, obscuring mist
+
+  **4th** darkness
+
 **Prepared arcane Spells** (DC 30), attack +22
+
+  **Cantrips (6th)** acid splash, daze, message, ray of frost, shield
+
+  **1st** alarm, create water
+
+  **2nd** create food, hideous laughter, invisibility, telekinetic maneuver
+
+  **3rd** blindness, glyph of warding, lightning bolt
+
+  **4th** create food, globe of invulnerability, veil
+
+  **5th** banishment, cloudkill, cone of cold
+
+  **6th** dominate, mislead, repulsion
 
 **Sneak Attack** Galudu deals an additional 3d6 precision damage to flat-footed creatures.
 

@@ -35,7 +35,17 @@ Speed 30 feet
 
 **Prepared divine Spells** (DC 25), attack +17
 
+  **Cantrips (4th)** detect magic, guidance, shield
+
+  **2nd** darkvision, faerie fire, restore senses
+
+  **3rd** dispel magic, fear, vampiric touch
+
+  **4th** harm, heal, invisibility
+
 **Focus divine Spells** (DC 25)
+
+  **4th** sudden shift
 
 **Channel Smite** ◆◆ **Requirements** Doatara expends a harm|PC1 spell; Doatara makes a melee Strike and adds the harm spell's negative damage to the Strike's damage.
 

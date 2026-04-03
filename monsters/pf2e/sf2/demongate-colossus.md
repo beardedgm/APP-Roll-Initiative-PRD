@@ -39,6 +39,12 @@ Speed 30 feet, fly 30 feet
 
 **Innate occult Spells** (DC 34)
 
+  **5th** dimension door
+
+  **6th** collective transposition
+
+  **7th** dimensional lock, prismatic spray
+
 **Corrupted Radiant Blast** ◆◆ (evil, evocation, force, occult) The Demongate Colossus releases a 50-foot cone of crimson energy that deals 4d12 force damage and 4d12 evil damage (DC 34 basic Reflex save). The Demongate Colossus can't use Corrupted Radiant Blast again for 1d4 rounds.
 
 **Corrupted Radiant Blow** (evil) When a non-evil creature is hit by the Demongate Colossus's hammer Strike, a red flash of Abyssal energy attempts to infuse the target with evil. The creature must attempt a DC 34 Will save; on a failure, the creature can't use any teleportation effects for 1 minute. On a critical failure, the creature is also enfeebled 2.

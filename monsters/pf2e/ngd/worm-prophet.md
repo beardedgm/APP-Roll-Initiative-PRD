@@ -37,7 +37,29 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 40), attack +32
 
+  **Cantrips (9th)** detect magic, divine lance, forbidding ward, light, message
+
+  **1st** bane, mending, sanctuary
+
+  **2nd** calm emotions, death knell, enhance victuals
+
+  **3rd** locate, neutralize poison, zone of truth
+
+  **4th** charm, dream message, freedom of movement
+
+  **5th** death ward, drop dead, mind probe
+
+  **6th** restoration, spellwrack, true seeing
+
+  **7th** resist energy, spiritual guardian, warp mind
+
+  **8th (4 slots)** discern location, spirit blast, spiritual epidemic
+
+  **9th** dispel magic, divine vessel, harm, zealous conviction
+
 **Cleric Domain Spells** (DC 40)
+
+  **9th** commanding lash, touch of obedience
 
 **Capture Spirit** ◈ **Trigger** A target affected by one of the worm prophet's necromancy spells dies within 60 feet of the worm prophet; The worm prophet harnesses a bit of the departing victim's soul, and the worm prophet is quickened 1 for 1 minute. They can use this extra action only to Step, Stride, or Sustain a Spell.
 

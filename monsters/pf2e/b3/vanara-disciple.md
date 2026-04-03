@@ -35,6 +35,8 @@ Speed 25 feet, climb 15 feet
 
 **Innate divine Spells** (DC 13)
 
+  **1st** pest form
+
 **Flurry of Blows** ◆ **Frequency** {"unit":"round","number":1}; The vanara disciple makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.
 
 **Spring Up** ◆◆ **Requirements** The vanara disciple is prone; The vanara Stands, then can immediately Step twice. The Stand action doesn't trigger reactions.

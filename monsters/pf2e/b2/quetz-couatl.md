@@ -27,6 +27,16 @@ Speed 15 feet, fly 50 feet
 
 **Innate divine Spells** (DC 29)
 
+  **2nd** invisibility
+
+  **3rd** mind reading
+
+  **4th** charm, gaseous form
+
+  **5th** breath of life, divine wrath
+
+  **7th** ethereal jaunt, plane shift
+
 **Greater Constrict** ◆ 2d10+7 bludgeoning, DC 29
 
 **Quetz Couatl Venom** (poison)

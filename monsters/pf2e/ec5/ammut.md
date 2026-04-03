@@ -35,6 +35,8 @@ Speed 50 feet, burrow 30 feet
 
 **Innate divine Spells** (DC 37)
 
+  **6th** dominate
+
 **Breath Weapon** ◆◆ (curse, divine, evocation, fire) The ammut exhales a blast of flame that deals 18d6 fire damage to all creatures in a 30- foot cone (DC 37 basic Reflex save). The ammut can't use their Breath Weapon again for 1d4 rounds.
 
 **Devour Soul** (curse, death, divine, necromancy) A creature whose HP drops to 0 while swallowed by an ammut has its soul consumed, as well as its body. The creature dies instantly and cannot be brought back to life except by miracle, wish, or similar magic.

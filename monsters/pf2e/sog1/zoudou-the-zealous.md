@@ -41,6 +41,12 @@ Speed 25 feet
 
 **Prepared divine Spells** (DC 21)
 
+  **Cantrips (2nd)** chill touch, daze, divine lance, read aura, shield
+
+  **1st** bane, fear, heal
+
+  **2nd** darkness, harm
+
 **Impersonate Shape** ◆◆ (concentrate, occult, polymorph, transmutation) The noppera-bo changes into a Small or Medium humanoid they've touched during the last 24 hours and gains the target creature's face and voice. While transformed and their face is covered, the noppera-bo gains a +2 circumstance bonus to Impersonate that creature. The noppera-bo can change back by using this ability again. As long as the noppera-bo has a face, it loses its no face ability and its listed immunities.
 
 **Regain Anonymity** ◆ (occult, polymorph, transmutation) **Requirements** Zoudou has a face; Zoudou melts the face she's wearing and gains 3d6 temporary Hit Points. She can't Regain Anonymity again for 1d4 rounds.

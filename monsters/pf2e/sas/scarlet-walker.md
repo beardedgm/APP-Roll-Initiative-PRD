@@ -41,6 +41,14 @@ Speed 30 feet, climb 30 feet
 
 **Innate occult Spells** (DC 32)
 
+  **Cantrips (6th)** daze
+
+  **4th** confusion
+
+  **5th** mind probe, sending, subconscious suggestion
+
+  **6th** feeblemind, true seeing, vampiric exsanguination
+
 **Eerie Flexibility** The scarlet walker can fit through tight spaces as if it were a Medium creature. While Squeezing, it can move at its full Speed.
 
 **Paralysis** (incapacitation, occult, necromancy) Any living, non–scarlet walker creature hit by a scarlet walker's tentacle Strike must attempt a Fortitude save. **Critical Success** 

@@ -33,6 +33,14 @@ Speed 30 feet, fly 50 feet, climb 30 feet
 
 **Innate occult Spells** (DC 40)
 
+  **Cantrips (9th)** daze, detect magic
+
+  **7th** plane shift
+
+  **8th** dispel magic, divine aura, divine decree, phantom pain
+
+  **9th** flesh to stone, phantasmal calamity
+
 **Demon Hunter** ◆ (divination, occult) The thulgant causes a demon within 30 feet to suffer the effect of its sinful vulnerability.
 
 **Greater Constrict** ◆ 2d6+17 bludgeoning and 1d6 acid, DC 40

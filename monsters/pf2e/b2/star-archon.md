@@ -41,6 +41,14 @@ Speed 35 feet, fly 75 feet
 
 **Innate divine Spells** (DC 43)
 
+  **4th** dimension door
+
+  **5th** sending
+
+  **7th** heal, prismatic spray
+
+  **9th** blindness, implosion, sunburst
+
 **Archon's Door** Once per day, if an archon sees another creature cast dimension door, the archon can use dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either creature used dimension door.
 
 **Prudent Asterism** ◆◆ The star archon calculates a celestial constellation and sends their starknife flying along that path from one foe to the next. It makes a starknife Strike against a target within 60 feet. If the Strike hits, it can make another Strike at a different target within 60 feet of the first target, and so on, until it misses with a Strike or runs out of targets it hasn't attacked within range of the most recent target. The star archon can attack a given target only once per use of this ability. These attacks don't apply any range increment penalty, and the star archon resolves all the attacks before increasing the multiple attack penalty.

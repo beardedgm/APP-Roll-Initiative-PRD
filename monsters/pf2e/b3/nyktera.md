@@ -30,3 +30,7 @@ Speed 10 feet, fly 40 feet
 **Melee** ultrasonic pulse +7 (evocation, magical, range <20 feet>); **Damage** 1d4 sonic
 
 **Innate primal Spells** (DC 17)
+
+  **Cantrips (1st)** dancing lights, ghost sound
+
+  **1st** heal

@@ -35,6 +35,8 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 18)
 
+  **2nd** darkness
+
 **Quick Draw** ◆ Aives draws a weapon with an Interact action, then Strikes with the weapon he just drew.
 
 **Smoke Exhalation** ◆ (poison) Aives breathes out a cloud of poisonous smoke that he can make curl around him or cling to his weapons. Until the cloud dissipates at the start of his next turn, Aives is concealed, his Strikes deal an extra 1d8 poison damage, and targets of his Strikes must succeed at a DC 22 Fortitude save or become sickened|CRB|sickened 1.

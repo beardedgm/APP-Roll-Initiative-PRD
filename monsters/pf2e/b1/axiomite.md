@@ -35,4 +35,16 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 27), attack +17
 
+  **Cantrips (4th)** telekinetic projectile
+
+  **1st** true strike
+
+  **2nd** telekinetic maneuver
+
+  **3rd** haste, paralyze
+
+  **4th** dispel magic, divine wrath, lightning bolt
+
+  **5th** telekinetic haul
+
 **Crystalline Dust Form** ◆ (polymorph) The axiomite shifts between its humanoid form and that of a cloud of crystalline dust in which strange symbols and equations flash. In this form it gains a fly Speed of 40 feet and can fit through even tiny apertures, similarly to gaseous form. It can cast spells, but it can't make melee or ranged attacks in this state. It can return to its humanoid form by using this action while in crystalline dust form.

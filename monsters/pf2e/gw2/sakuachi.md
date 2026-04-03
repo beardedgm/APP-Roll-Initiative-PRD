@@ -35,3 +35,9 @@ Speed 25 feet
 **Melee** spear +10 (thrown <20 feet>); **Damage** 1d6 piercing
 
 **Prepared occult Spells** (DC 18), attack +12
+
+  **Cantrips (2nd)** detect magic, guidance, light, read aura, shield
+
+  **1st** bless, liberating command, sleep
+
+  **2nd** augury, resist energy, silence

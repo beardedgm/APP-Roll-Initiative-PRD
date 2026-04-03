@@ -31,6 +31,8 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 16)
 
+  **4th** speak with plants
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) As leaf leshy, except the fungus leshy transforms into a giant mushroom or patch of fungi.
 
 **Spore Cloud** ◆◆ (poison) A fungus leshy can unleash a cloud of spores that irritates the eyes and throats of non-fungi creatures in a 15-foot emanation. Each creature must succeed at a DC 16 Fortitude save or take 1 persistent poison damage. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (or 10 feet, on a critical failure).

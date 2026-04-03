@@ -33,7 +33,33 @@ Speed 30 feet, fly 30 feet
 
 **Spontaneous arcane Spells** (DC 36)
 
+  **Cantrips (8th)** acid splash, daze, detect magic, electric arc, ray of frost, shield
+
+  **1st (3 slots)** feather fall, grease, magic missile, true strike
+
+  **2nd (3 slots)** acid arrow, dispel magic, see invisibility, spider climb
+
+  **3rd (3 slots)** fear, fireball, haste, slow
+
+  **4th (3 slots)** dimension door, freedom of movement, invisibility, wall of fire
+
+  **5th (3 slots)** cone of cold, fireball, prying eye, wall of stone
+
+  **6th (3 slots)** chain lightning, disintegrate, lightning bolt, vampiric exsanguination
+
+  **7th (3 slots)** eclipse burst, mask of terror, prismatic spray, reverse gravity
+
+  **8th (3 slots)** maze, polar ray, scintillating pattern
+
 **Innate primal Spells** (DC 36)
+
+  **2nd** darkness, invisibility
+
+  **3rd** fear
+
+  **4th** charm, gaseous form, sleep
+
+  **5th** cone of cold
 
 **Bloodline Magic When Koto** Zekora casts a bloodline spell, dimension door, disintegrate, dispel magic, haste, magic missile, prismatic spray, prying eye, or maze, she gains a +1 status bonus to skill checks for 1 round.
 

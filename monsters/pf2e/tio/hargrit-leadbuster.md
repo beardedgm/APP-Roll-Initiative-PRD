@@ -29,4 +29,10 @@ Speed 20 feet
 
 **Prepared divine Spells** (DC 21), attack +13
 
+  **Cantrips (2nd)** daze, light, message, sigil
+
+  **1st** burning hands, command, fear
+
+  **2nd** dispel magic, heal, resist energy, see invisibility
+
 **Unburdened Iron** Hargrit ignores the reduction to his Speed from armor and deducts 5 feet from any one penalty to his Speed (such as from a spell).

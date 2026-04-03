@@ -34,3 +34,5 @@ Speed 20 feet
 **Melee** club +17 (thrown <10 feet>); **Damage** 1d6-2 bludgeoning
 
 **Innate primal Spells** (DC 13)
+
+  **Cantrips (1st)** prestidigitation

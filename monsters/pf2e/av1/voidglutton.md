@@ -35,6 +35,8 @@ Speed fly 40 feet
 
 **Innate occult Spells** (DC 26)
 
+  **4th** darkness
+
 **Consume Light** ◇ (darkness, evocation, occult) **Trigger** The voidglutton casts darkness; The voidglutton extinguishes its Glow as part of Casting the Spell. It becomes invisible as long as it remains in the area of darkness. If the voidglutton uses a hostile action, its invisibility ends as soon as the hostile action is completed.
 
 **Ectoplasmic Web Trap** (conjuration, occult) A creature hit by the voidglutton's ectoplasmic web trap is immobilized and stuck to the nearest surface until it succeeds at a DC 26 check to Escape.

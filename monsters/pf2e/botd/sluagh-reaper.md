@@ -35,6 +35,10 @@ Speed 25 feet, fly 30 feet
 
 **Innate primal Spells** (DC 26)
 
+  **Cantrips (5th)** ghost sound
+
+  **2nd** invisibility
+
 **Ghostly Swoop** ◆ The sluagh reaper becomes incorporeal until the start of their next turn, and Flies up to their fly Speed. While incorporeal, they are immune to precision damage, and have resistance 10 to all damage (except force, ghost touch, or positive); this resistance is doubled against non-magical damage. After using Ghostly Swoop, the sluagh reaper can't use it again for 1d4 rounds.
 
 **Sneak Attack** The sluagh reaper deals an additional 3d6 precision damage to flat-footed creatures.

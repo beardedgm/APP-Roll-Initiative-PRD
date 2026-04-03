@@ -37,4 +37,16 @@ Speed 25 feet
 
 **Innate arcane Spells** (DC 28), attack +20
 
+  **Cantrips (5th)** daze, detect magic, ray of frost, shield, tanglefoot
+
+  **1st** feather fall, floating disk, grease
+
+  **2nd** glitterdust, obscuring mist, web
+
+  **3rd** haste, invisibility, stinking cloud
+
+  **4th** blink, fly, wall of fire
+
+  **5th** black tentacles, cone of cold
+
 **Energize Clockwork Wand** ◆ (concentrate) **Frequency** {"unit":"minute","interval":10,"number":1}; The clockwork mage regains a spell it has already cast that day. It must spend 1 hour of its operational time, or 2 hours if the spell is 3rd level or higher.

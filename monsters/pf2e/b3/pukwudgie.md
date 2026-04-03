@@ -39,6 +39,12 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 25), attack +17
 
+  **2nd** invisibility
+
+  **3rd** wall of thorns
+
+  **4th** freedom of movement, hallucinatory terrain
+
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The pukwudgie takes on the physical form of a giant porcupine (page 207). Their size changes to Medium, they lose their weapon Strikes, and they gain a quill Strike (+18 for 2d8+6 piercing plus 1d8 persistent poison).
 
 **Pukwudgie Poison** (poison)

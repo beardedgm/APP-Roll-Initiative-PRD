@@ -41,6 +41,10 @@ Speed 30 feet, climb 30 feet
 
 **Innate divine Spells** (DC 37)
 
+  **1st** feather fall, ray of enfeeblement
+
+  **2nd** death knell
+
 **Devastating Strikes** Kharostan's melee Strikes ignore 10 points of a creature's resistance to physical damage.
 
 **Furious Sprint** ◆◆ (rage) Kharostan Strides up to five times his Speed in a straight line. He can increase the number of actions for this activity to 3 in order to Stride up to eight times his Speed in a straight line instead.

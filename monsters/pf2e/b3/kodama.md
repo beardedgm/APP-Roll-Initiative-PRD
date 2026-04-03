@@ -39,4 +39,10 @@ Speed 25 feet
 
 **Innate divine Spells** (DC 23)
 
+  **Cantrips (3rd)** ghost sound
+
+  **2nd** tree shape
+
+  **5th** tree stride
+
 **Spiritual Rope** (abjuration, divine) The kodama spends 1 minute to fashion an enchanted straw rope out of nearby materials. The rope can be wrapped around other kami creatures to protect them from fell forces. A kami who wears a spiritual rope gains resistance 5 to evil damage (though this is usually relevant only if the kami is good-aligned), a +1 status bonus to AC against evil creatures, and a +1 status bonus to saving throws against effects from evil creatures. A kodama always wears a spiritual rope, and they can have one other spiritual rope in existence at a time. Creating a new rope beyond these two releases the magic of one other rope of the kodama's choosing. A spiritual rope around a creature other than a kodama loses its magic after 24 hours or if it's taken outside of the kodama's forest.

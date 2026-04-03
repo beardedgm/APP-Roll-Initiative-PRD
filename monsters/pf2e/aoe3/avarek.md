@@ -35,6 +35,14 @@ Speed 20 feet, swim 50 feet, climb 20 feet
 
 **Innate primal Spells** (DC 30), attack +22
 
+  **Cantrips (4th)** prestidigitation
+
+  **1st** grease, gust of wind
+
+  **2nd** hydraulic push, invisibility, shatter, ventriloquism
+
+  **4th** confusion, hydraulic torrent, suggestion
+
 **Prickly Defense** ◆ The avarek withdraws beneath its spines, presenting a defensive, spiky exterior. It gains a +2 circumstance bonus to spine Strikes and AC. Any adjacent creature that attempts a melee attack against the avarek takes 1d6 piercing damage per attack, regardless of whether the attack hits. Prickly Defense lasts until the avarek uses a move action or makes a Strike with any weapon other than its spines.
 
 **Rolling Assault** ◆◆ The avarek curls into a ball and rolls rapidly, impaling enemies with its spines. The avarek Strides twice and makes up to two spine Strikes at any point during its movement, each against a different target within reach. These attacks count toward the avarek's multiple attack penalty, but the penalty doesn't increase until after the avarek makes all the attacks.

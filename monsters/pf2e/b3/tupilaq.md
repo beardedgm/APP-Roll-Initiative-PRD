@@ -29,4 +29,6 @@ Speed 40 feet, swim 40 feet
 
 **Innate primal Spells** (DC 24)
 
+  **3rd** fireball
+
 **Carver's Curse** When a tupilaq is created, the curse imparted by its creator manifests in the form of a single 3rd-level primal spell the tupilaq can cast three times per day. The particular spell is a reflection of the creator's wish for vengeance. By default, and for a found or summoned tupilaq, this spell is fireball.

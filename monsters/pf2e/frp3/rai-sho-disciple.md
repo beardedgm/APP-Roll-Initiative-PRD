@@ -31,6 +31,8 @@ Speed 40 feet
 
 **Monk Ki Spells** (DC 37), attack +28
 
+  **8th** ki rush, ki strike, wholeness of body
+
 **Crying Bell Stance** ◆ (stance) The disciple cups one hand and poses the other to strike it, like the Rai Sho Monastery's central bell. In this stance, they can make temple bell Strikes. While in this stance, a disciple gains a +2 status bonus to AC against ranged attacks.
 
 **Falling Sal Stance** ◆ (stance) The disciple joins their palms together in the shape of a sal flower, evoking the truth that all things eventually decay. In this stance, they can make sal blossom Strikes (see Strikes) and are quickened|CRB|quickened 1, and can use the extra action only to cast wholeness of body.

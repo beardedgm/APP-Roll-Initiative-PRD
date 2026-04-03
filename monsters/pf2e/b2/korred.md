@@ -37,6 +37,10 @@ Speed 25 feet
 
 **Innate primal Spells** (DC 21)
 
+  **4th** shape stone, shatter
+
+  **6th** stone tell
+
 **Hair Snare** ◆ (incapacitation, primal, transmutation) The korred causes a long, tangled length of their hair to detach from their body and snake out to coil around an adjacent creature. The creature must attempt a DC 21 Reflex save. The korred cannot use Hair Snare again for 1d4 rounds. **Success** The creature is unaffected.
 **Failure** The hair wraps around the creature. The creature takes a –10-foot circumstance penalty to all of its Speeds until it Escapes (DC 21) or until the korred uses Hair Snare again (at which point the previous snare drops to the ground, no longer animated).
 **Critical Failure** The creature is immobilized until it Escapes (DC 21) or the korred uses Hair Snare again.

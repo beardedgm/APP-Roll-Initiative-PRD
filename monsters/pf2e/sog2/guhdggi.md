@@ -39,6 +39,14 @@ Speed 15 feet
 
 **Innate occult Spells** (DC 22), attack +14
 
+  **Cantrips (1st)** daze, know direction
+
+  **1st** ray of enfeeblement
+
+  **2nd** item facade, telekinetic maneuver
+
+  **3rd** slow, wanderer's guide
+
 **Belch Butterflies** ◆◆ (evocation, occult) The guhdggi opens both of its mouths and, from its innermost humanoid mouth, belches forth a blast of red butterflies in a 15-foot-cone. All creatures in the area must attempt a DC 22 Reflex save as the hideous insects' razor sharp wings and tiny claws slash and cut away at exposed flesh. The guhdggi can't Belch Butterflies again for 1d4 rounds. **Critical Success** The creature takes no damage from the butterflies.
 **Success** The creature takes 2d6 slashing damage from the butterflies.
 **Failure** The creature takes 4d6 slashing damage, 1d6 persistent bleed damage, and is sickened 1.

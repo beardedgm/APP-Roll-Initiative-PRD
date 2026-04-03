@@ -41,4 +41,8 @@ Speed 25 feet, climb 25 feet
 
 **Innate divine Spells** (DC 37)
 
+  **3rd** fear
+
+  **8th** chilling darkness
+
 **Shadow Scream** ◆◆◆ (aura, concentrate, darkness, divine, evocation, mental, sonic) **Frequency** {"number":1,"unit":"hour"}; Although the sound of this attack is more akin to a series of thunderous clicking sounds than a scream, it still functions as detailed for Ticktock, but with a DC 37 Will save.

@@ -33,4 +33,6 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 12)
 
+  **2nd** enlarge, invisibility
+
 **Bola Bolt** This shot deals no damage, but on a hit, the target must succeed at a DC 16 Reflex save or be knocked prone and immobilized until it is freed with a successful DC 15 check to Escape. This check can be attempted either by the target or a creature adjacent to the target.

@@ -31,6 +31,14 @@ Speed 25 feet, fly 30 feet
 
 **Innate divine Spells** (DC 26), attack +18
 
+  **Cantrips (4th)** light, stabilize
+
+  **1st** enfeeble, infuse vitality
+
+  **3rd** crisis of faith, holy light
+
+  **5th** invoke spirits
+
 **Disperse** ◆◆ (move) The engerra Stride|PC1|Strides or Fly|PC1|Flies. This movement doesn't trigger reactions. During the movement, the engerra can move through occupied spaces and tiny cracks, and it ignores difficult terrain and greater difficult terrain. It then coalesces back into its normal form.
 
 **Dying Breath** ◆◆ (divine, emotion, fear, mental) The engerra draws the air from around breathing creatures in a 40-foot emanation, giving them the feeling of drawing their last breath. Enemies in the area must attempt a DC 26 Will save. If at least one creature fails the save, the engerra can gift the stolen breath to a willing creature within 40 feet, granting that creature 2d6 temporary Hit Points that last for 1 minute. **Success** 

@@ -29,6 +29,12 @@ Speed 35 feet, fly 40 feet
 
 **Innate occult Spells** (DC 27)
 
+  **Cantrips (4th)** detect magic
+
+  **3rd** dispel magic, locate
+
+  **4th** clairaudience, clairvoyance, read omens, remove curse
+
 **Claw Rake** ◆◆◆ The sphinx rears back on their hind legs and makes two claw Strikes at the same target, using the same attack bonus as their highest melee attack. If both attacks deal damage, the target takes extra damage equal to one claw Strike.
 
 **Pounce** ◆ The sphinx Strides and makes a Strike at the end of that movement. If the sphinx began this action hidden, they remain hidden until after the attack.

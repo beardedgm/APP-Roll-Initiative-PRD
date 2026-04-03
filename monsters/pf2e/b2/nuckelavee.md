@@ -43,6 +43,10 @@ Speed 40 feet, swim 40 feet
 
 **Innate primal Spells** (DC 28)
 
+  **3rd** stinking cloud
+
+  **5th** control water
+
 **Breath Weapon** ◆◆ (disease, necromancy, poison, primal) The nuckelavee breathes a 30-foot cone of foulness, dealing 8d6 negative damage (DC 28 basic Fortitude save) to living creatures in the area. A creature that fails also takes 2d6 persistent bleed damage. The nuckelavee can't use Breath Weapon again for 1d4 rounds.
 
 **Mortasheen** (disease)

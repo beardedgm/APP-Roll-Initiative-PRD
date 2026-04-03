@@ -30,3 +30,9 @@ Speed 25 feet
 **Melee** staff +9 (two-hand <d8>); **Damage** 1d4+1 bludgeoning
 
 **Prepared arcane Spells** (DC 21), attack +13
+
+  **Cantrips (2nd)** daze, detect magic, message, prestidigitation, read aura
+
+  **1st** heal, mending, ray of enfeeblement
+
+  **2nd** comprehend language, glitterdust, see invisibility

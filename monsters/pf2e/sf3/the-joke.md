@@ -20,3 +20,17 @@ unique, n, medium, construct
 ---
 
 **Innate occult Spells** (DC 35), attack +27
+
+  **Cantrips (8th)** daze, detect magic, ghost sound, telekinetic projectile
+
+  **1st** ill omen
+
+  **2nd** augury, hideous laughter
+
+  **4th** confusion
+
+  **5th** dimension door
+
+  **7th** visions of danger
+
+  **8th** uncontrollable dance

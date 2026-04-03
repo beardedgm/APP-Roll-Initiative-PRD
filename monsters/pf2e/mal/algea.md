@@ -37,6 +37,12 @@ Speed 15 feet, fly 40 feet
 
 **Innate divine Spells** (DC 30), attack +22
 
+  **2nd** invisibility
+
+  **4th** confusion, talking corpse
+
+  **7th** plane shift
+
 **Drain Magic** (abjuration, divine) Whenever a creature fails its save against Frenzied Beaks, the algea attempts to counter a spell effect active on that creature (6th level, counteract check 1d20+22|+22). The algea can choose which effect to attempt to counteract for each creature.
 
 **Frenzied Beaks** ◆ Each foe in the swarm's space takes 5d6 piercing damage (DC 30 basic Reflex) and is exposed to drain magic. This damage affects incorporeal creatures as if it had the effects of a ghost touch property rune.

@@ -37,6 +37,18 @@ Speed 5 feet, fly 40 feet
 
 **Innate occult Spells** (DC 33), attack +25
 
+  **Cantrips (7th)** chill touch, daze, read aura, shield
+
+  **3rd** mind reading
+
+  **4th** invisibility
+
+  **5th** shadow walk
+
+  **6th** darkness, dominate
+
+  **7th** plane shift, shadow blast
+
 **Burning Cold Fusillade** ◆◆ The owb prophet makes three burning cold Strikes.
 
 **Clutching Cold** A creature hit by the prophet's burning cold Strike becomes immobilized in a cluster of binding ice crystals (Escape DC 31).

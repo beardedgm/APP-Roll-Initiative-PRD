@@ -37,7 +37,25 @@ Speed 25 feet, fly 25 feet
 
 **Spontaneous divine Spells** (DC 33), attack +25
 
+  **Cantrips (7th)** detect magic, divine lance, message, read aura, shield, sigil
+
+  **1st (3 slots)** command, harm, ray of enfeeblement, sanctuary
+
+  **2nd (3 slots)** comprehend language, dispel magic, see invisibility, undetectable alignment
+
+  **3rd (3 slots)** blindness, chilling darkness, fear, heal
+
+  **4th (3 slots)** dimensional anchor, divine wrath, remove curse, talking corpse
+
+  **5th (3 slots)** flame strike, gentle repose, sending, tongues
+
+  **6th (3 slots)** blade barrier, spirit blast, true seeing, vampiric exsanguination
+
+  **7th (2 slots)** eclipse burst, ethereal jaunt, finger of death
+
 **Oracle Revelation Spell** (DC 33)
+
+  **7th** brain drain
 
 **Oracle Mystery Lore** Oracle Mystery Lore
 

@@ -41,6 +41,14 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 30)
 
+  **3rd** enthrall
+
+  **4th** glibness, suggestion
+
+  **5th** command, subconscious suggestion, tongues
+
+  **6th** dominate
+
 **Blackfrost Rot** (cold, curse, disease, divine, necromancy) As blackfrost (page 76), but DC 30.
 
 **Frozen Breath** ◆◆ (cold, concentrate, divine, evocation) Equendia exhales a 60-foot cone of icy shards that deal 6d6 cold and 6d6 slashing damage (DC 30 basic Reflex save). She can't use Frozen Breath again for 1d4 rounds.

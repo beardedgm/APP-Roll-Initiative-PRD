@@ -33,6 +33,14 @@ Speed 30 feet, fly 80 feet
 
 **Innate divine Spells** (DC 24)
 
+  **1st** gust of wind
+
+  **2nd** calm emotions
+
+  **3rd** heal, lightning bolt, wall of wind
+
+  **4th** gaseous form
+
 **Fair Competition** (divine, enchantment, mental) Once per day, a bralani can spend 1 minute to bless willing creatures within 100 feet who are about to participate in a contest. This blessing lasts 24 hours. If a blessed creature cheats or uses the contest to harm another, the creature grows visibly ill, becoming sickened 1 and unable to remove this condition for the duration or until they withdraw from the competition. At the end of the contest, participants who competed fairly find it easier to negotiate and understand their opponent's perspective. For 1 hour, they gain a +2 status bonus to Diplomacy checks and Recall Knowledge checks that directly pertain to their opponents.
 
 **Whirlwind Blast** ◆◆ (air, divine, evocation) The bralani generates a 20-foot line of scouring wind that deals 7d6 bludgeoning damage (DC 24 basic Reflex save) It can't use this ability again for 1d4 rounds.

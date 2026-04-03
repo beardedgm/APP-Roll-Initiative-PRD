@@ -33,4 +33,14 @@ Speed 25 feet
 
 **Prepared occult Spells** (DC 18), attack +12
 
+  **Cantrips (4th)** detect magic, guidance, light, read aura, shield
+
+  **1st** alarm, bless, soothe
+
+  **2nd** resist energy, soothe, restoration
+
+  **3rd** dispel magic, hypercognition, soothe
+
+  **4th** read omens, soothe
+
 **Ruun's Wings** ◆ (conjuration, occult) Snowy Owl manifests a spectral pair of owl's wings that grant her a fly Speed of 25 feet. She can use this action again to hide her wings, which she often does when in mixed company in order to avoid drawing too much attention. If she falls, she can activate this ability as a reaction to immediately arrest her fall.

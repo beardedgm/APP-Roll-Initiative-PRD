@@ -41,4 +41,14 @@ Speed 25 feet, fly 60 feet
 
 **Innate divine Spells** (DC 38), attack +30
 
+  **3rd** augury, sanctified ground, status, wanderer's guide
+
+  **6th** disrupting weapons, heal, heroism
+
+  **7th** heal, plane shift
+
+  **8th** heal
+
+  **9th** heal, weapon of judgment
+
 **Storm of Battle** ◆◆ (divine, electricity, evocation) The commander hurls their spear into the air, creating a massive storm in a 100-foot burst. Spears of lightning rain down upon enemies in the area, dealing 5d12 electricity damage (DC 41 basic Reflex save).

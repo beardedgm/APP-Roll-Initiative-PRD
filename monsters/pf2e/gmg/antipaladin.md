@@ -33,4 +33,6 @@ Speed 20 feet
 
 **Champion Devotion Spells** (DC 20)
 
+  **3rd** touch of corruption
+
 **Intimidating Strike** ◆◆ The antipaladin makes a melee Strike. If they hit and deal damage, the target is frightened 1, or frightened 2 on a critical hit.

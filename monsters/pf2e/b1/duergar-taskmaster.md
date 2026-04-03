@@ -33,6 +33,12 @@ Speed 20 feet
 
 **Prepared divine Spells** (DC 18)
 
+  **Cantrips (1st)** detect magic, shield
+
+  **1st** fear, harm, magic weapon, Cantrips, shield
+
 **Innate occult Spells** (DC 18)
+
+  **2nd** enlarge, invisibility
 
 **Take Them Down!** ◆ The duergar taskmaster smashes their maul into the ground and invokes Droskar's name to rally their allies to action. All allied duergars of equal or lower level that are within 20 feet of the duergar taskmaster gain a +1 status bonus to attack rolls and damage rolls until the end of the duergar taskmaster's next turn.

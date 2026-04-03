@@ -35,6 +35,16 @@ Speed fly 35 feet
 
 **Innate occult Spells** (DC 30), attack +22
 
+  **Cantrips (6th)** daze, light, prestidigitation, telekinetic projectile
+
+  **3rd** fear, remove disease
+
+  **4th** remove curse
+
+  **6th** heal
+
+  **7th** possession
+
 **Greater Possession** A hantu belian can use its possession innate spell to possess a creature for up to 1 hour rather than 1 minute. While possessing a creature, the hantu uses its own Acrobatics, Athletics,
 
 **and** Stealth modifiers unless those of the possessed creature are higher.
