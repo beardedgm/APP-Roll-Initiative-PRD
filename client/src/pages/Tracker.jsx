@@ -8,8 +8,8 @@ import useEncounterCloudSetup from '../hooks/useEncounterCloudSetup';
 import TrackerHeader from '../components/tracker/TrackerHeader';
 import TurnControls from '../components/tracker/TurnControls';
 import InitiativeList from '../components/tracker/InitiativeList';
-import DiceRoller from '../components/tracker/DiceRoller';
 import LeftPanel from '../components/tracker/LeftPanel';
+import RightPanel from '../components/tracker/RightPanel';
 import StartCombatModal from '../components/tracker/StartCombatModal';
 import StatBlockModal from '../components/tracker/StatBlockModal';
 import DiceToast from '../components/tracker/DiceToast';
@@ -20,14 +20,26 @@ import '../styles/tracker.css';
 
 const DEFAULT_LEFT_WIDTH = 320;
 const MIN_LEFT_WIDTH = 260;
+const DEFAULT_RIGHT_WIDTH = 340;
+const MIN_RIGHT_WIDTH = 280;
 
 export default function Tracker() {
   const leftPanelRef = useRef(null);
+
+  // ── Left panel resize ──
   const [leftWidth, setLeftWidth] = useState(() => {
     const saved = localStorage.getItem('tracker-left-width');
     return saved ? Math.max(MIN_LEFT_WIDTH, parseInt(saved)) : DEFAULT_LEFT_WIDTH;
   });
-  const isResizing = useRef(false);
+  const isResizingLeft = useRef(false);
+
+  // ── Right panel resize ──
+  const [rightWidth, setRightWidth] = useState(() => {
+    const saved = localStorage.getItem('tracker-right-width');
+    return saved ? Math.max(MIN_RIGHT_WIDTH, parseInt(saved)) : DEFAULT_RIGHT_WIDTH;
+  });
+  const isResizingRight = useRef(false);
+
   const undo = useCombatStore(s => s.undo);
   const redo = useCombatStore(s => s.redo);
   const addCombatant = useCombatStore(s => s.addCombatant);
@@ -52,6 +64,7 @@ export default function Tracker() {
   // Wire up live encounter cloud sync for subscribers
   useEncounterCloudSetup(user);
 
+  // ── Keyboard shortcuts ──
   useEffect(() => {
     function handleKeyDown(e) {
       if ((e.ctrlKey || e.metaKey) && e.key === 'z' && !e.shiftKey) {
@@ -62,7 +75,7 @@ export default function Tracker() {
         e.preventDefault();
         redo();
       }
-      // Spacebar → Next Turn (only during combat, only when no input is focused)
+      // Spacebar -> Next Turn (only during combat, only when no input is focused)
       if (e.key === ' ' && combatState === 'combat') {
         const tag = document.activeElement?.tagName?.toLowerCase();
         const isEditable = tag === 'input' || tag === 'textarea' || tag === 'select' || document.activeElement?.isContentEditable;
@@ -99,30 +112,55 @@ export default function Tracker() {
     rollDice({ sides, count, modifier, advantage: 'normal' });
   }, [rollDice]);
 
-  /** Show stat block in the left-panel Monster Database */
+  /** Show stat block in the left panel + right panel content viewer */
   const handleViewStatBlock = useCallback((slug) => {
     leftPanelRef.current?.showStatBlock(slug);
   }, []);
 
-  /** Resize handle drag logic */
-  const handleResizeStart = useCallback((e) => {
+  /** Left panel resize handle drag logic */
+  const handleLeftResizeStart = useCallback((e) => {
     e.preventDefault();
-    isResizing.current = true;
+    isResizingLeft.current = true;
     document.body.classList.add('is-resizing');
 
     const onMouseMove = (moveEvent) => {
-      if (!isResizing.current) return;
-      const maxWidth = Math.floor(window.innerWidth * 0.5);
+      if (!isResizingLeft.current) return;
+      const maxWidth = Math.floor(window.innerWidth * 0.4);
       const newWidth = Math.min(maxWidth, Math.max(MIN_LEFT_WIDTH, moveEvent.clientX - 16));
       setLeftWidth(newWidth);
     };
 
     const onMouseUp = () => {
-      isResizing.current = false;
+      isResizingLeft.current = false;
       document.body.classList.remove('is-resizing');
       document.removeEventListener('mousemove', onMouseMove);
       document.removeEventListener('mouseup', onMouseUp);
       setLeftWidth(w => { localStorage.setItem('tracker-left-width', String(w)); return w; });
+    };
+
+    document.addEventListener('mousemove', onMouseMove);
+    document.addEventListener('mouseup', onMouseUp);
+  }, []);
+
+  /** Right panel resize handle drag logic */
+  const handleRightResizeStart = useCallback((e) => {
+    e.preventDefault();
+    isResizingRight.current = true;
+    document.body.classList.add('is-resizing');
+
+    const onMouseMove = (moveEvent) => {
+      if (!isResizingRight.current) return;
+      const maxWidth = Math.floor(window.innerWidth * 0.4);
+      const newWidth = Math.min(maxWidth, Math.max(MIN_RIGHT_WIDTH, window.innerWidth - moveEvent.clientX - 16));
+      setRightWidth(newWidth);
+    };
+
+    const onMouseUp = () => {
+      isResizingRight.current = false;
+      document.body.classList.remove('is-resizing');
+      document.removeEventListener('mousemove', onMouseMove);
+      document.removeEventListener('mouseup', onMouseUp);
+      setRightWidth(w => { localStorage.setItem('tracker-right-width', String(w)); return w; });
     };
 
     document.addEventListener('mousemove', onMouseMove);
@@ -134,19 +172,18 @@ export default function Tracker() {
       <TrackerHeader />
       <main
         className="dm-main dm-main--3col"
-        style={{ gridTemplateColumns: `${leftWidth}px 6px 1fr 300px` }}
+        style={{ gridTemplateColumns: `${leftWidth}px 6px 1fr 6px ${rightWidth}px` }}
       >
         <section className="dm-col dm-col--left">
           <LeftPanel
             ref={leftPanelRef}
-            onRollDice={handleStatBlockRoll}
             onAddToEncounter={handleAddMonster}
           />
         </section>
 
         <div
-          className="resize-handle"
-          onMouseDown={handleResizeStart}
+          className="resize-handle resize-handle--left"
+          onMouseDown={handleLeftResizeStart}
           role="separator"
           aria-orientation="vertical"
           aria-label="Resize left panel"
@@ -157,8 +194,18 @@ export default function Tracker() {
           <InitiativeList onViewStatBlock={handleViewStatBlock} />
         </section>
 
+        <div
+          className="resize-handle resize-handle--right"
+          onMouseDown={handleRightResizeStart}
+          role="separator"
+          aria-orientation="vertical"
+          aria-label="Resize right panel"
+        />
+
         <section className="dm-col dm-col--right">
-          <DiceRoller />
+          <RightPanel
+            onRollDice={handleStatBlockRoll}
+          />
         </section>
       </main>
       <StartCombatModal />

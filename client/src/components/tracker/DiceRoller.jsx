@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Dices, X, RotateCcw } from 'lucide-react';
+import { X, RotateCcw } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 
 function buildEntryLabel(entry) {
@@ -52,8 +52,6 @@ export default function DiceRoller() {
   const diceHistory = useCombatStore(s => s.diceHistory);
   const rollDice = useCombatStore(s => s.rollDice);
   const clearDiceHistory = useCombatStore(s => s.clearDiceHistory);
-  const showRollsToPlayers = useCombatStore(s => s.showRollsToPlayers);
-  const toggleShowRolls = useCombatStore(s => s.toggleShowRolls);
   const [count, setCount] = useState('1');
   const [modifier, setModifier] = useState('0');
   const [advMode, setAdvMode] = useState('normal');
@@ -85,21 +83,6 @@ export default function DiceRoller() {
 
   return (
     <div className="panel" id="panel-dice">
-      <div className="panel__title-row">
-        <h2 className="panel__title"><Dices size={18} /> Dice Roller</h2>
-        <label className="show-rolls-toggle" title="Broadcast dice rolls to the player view">
-          <span className="show-rolls-toggle__label">Show Rolls</span>
-          <button
-            type="button"
-            role="switch"
-            aria-checked={showRollsToPlayers}
-            className={`show-rolls-toggle__switch${showRollsToPlayers ? ' show-rolls-toggle__switch--on' : ''}`}
-            onClick={toggleShowRolls}
-          >
-            <span className="show-rolls-toggle__knob" />
-          </button>
-        </label>
-      </div>
 
       <div className="dice-grid">
         {dies.map(d => (

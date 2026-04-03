@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import { Swords, Undo2, Redo2, Monitor, Trash2, User } from 'lucide-react';
+import { Swords, Undo2, Redo2, Monitor, Trash2, User, LogIn } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
 import useCombatStore from '../../store/useCombatStore';
 import { useShallow } from 'zustand/react/shallow';
 import { useCurrentUser } from '../../api/useAuth';
@@ -9,7 +10,7 @@ import ProfilePanel from './ProfilePanel';
 export default function TrackerHeader() {
   const [profileOpen, setProfileOpen] = useState(false);
   const { data: user } = useCurrentUser();
-  const displayName = user?.displayName || user?.email?.split('@')[0] || 'Account';
+  const navigate = useNavigate();
 
   const {
     undoLen, redoLen,
@@ -40,30 +41,32 @@ export default function TrackerHeader() {
 
       <div className="dm-header__right">
         <button className="btn btn--icon" disabled={undoLen === 0} onClick={undo} title="Undo (Ctrl+Z)">
-          <Undo2 size={16} /> Undo
+          <Undo2 size={16} />
         </button>
         <button className="btn btn--icon" disabled={redoLen === 0} onClick={redo} title="Redo (Ctrl+Y)">
-          <Redo2 size={16} /> Redo
+          <Redo2 size={16} />
         </button>
 
         <SyncIndicator />
 
         <span className="header-divider" />
 
-        <button className="btn btn--secondary" onClick={handleOpenPlayerView} title="Open player view">
-          <Monitor size={16} /> Player View
+        <button className="btn btn--icon" onClick={handleOpenPlayerView} title="Open player view">
+          <Monitor size={16} />
         </button>
-        <button className="btn btn--danger" onClick={handleReset} title="Reset the entire encounter">
-          <Trash2 size={16} /> Reset
+        <button className="btn btn--icon btn--icon-danger" onClick={handleReset} title="Reset encounter">
+          <Trash2 size={16} />
         </button>
 
-        {user && (
-          <>
-            <span className="header-divider" />
-            <button className="btn btn--icon" onClick={() => setProfileOpen(true)} title="Profile">
-              <User size={16} /> {displayName}
-            </button>
-          </>
+        <span className="header-divider" />
+        {user ? (
+          <button className="btn btn--icon" onClick={() => setProfileOpen(true)} title="Profile">
+            <User size={16} />
+          </button>
+        ) : (
+          <button className="btn btn--icon" onClick={() => navigate('/login')} title="Log in">
+            <LogIn size={16} />
+          </button>
         )}
       </div>
     </header>
