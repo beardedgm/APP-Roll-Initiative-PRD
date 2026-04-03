@@ -4,18 +4,7 @@ import { useMonsterBrowse, useMonsterSources } from '../../api/useMonsters';
 import useCombatStore from '../../store/useCombatStore';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
-
-const CR_OPTIONS_5E = [
-  '0', '1/8', '1/4', '1/2', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10',
-  '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23',
-  '24', '25', '26', '27', '28', '29', '30',
-];
-
-const LEVEL_OPTIONS_PF2E = [
-  '-1', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10',
-  '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
-  '21', '22', '23', '24', '25',
-];
+import { GAME_SYSTEMS } from '../../../../shared/gameSystemConfig.js';
 
 const PAGE_SIZE = 12;
 
@@ -33,10 +22,7 @@ const CreatureList = forwardRef(function CreatureList({ gameSystem = '5e', onAdd
   const selectedCreatureSlug = useUIStore(s => s.selectedCreatureSlug);
   const storeMonsters = useUserDataStore(s => s.customMonsters);
 
-  const isPf2e = gameSystem === 'pf2e';
-  const crLevelOptions = isPf2e ? LEVEL_OPTIONS_PF2E : CR_OPTIONS_5E;
-  const crLabel = isPf2e ? 'Level' : 'CR';
-  const crAllLabel = isPf2e ? 'All Levels' : 'All CRs';
+  const creatureConfig = GAME_SYSTEMS[gameSystem].creatures;
 
   // Allow parent (LeftPanel) to select a creature by slug
   useImperativeHandle(ref, () => ({
@@ -147,9 +133,9 @@ const CreatureList = forwardRef(function CreatureList({ gameSystem = '5e', onAdd
             value={crFilter}
             onChange={e => handleCrFilter(e.target.value)}
           >
-            <option value="">{crAllLabel}</option>
-            {crLevelOptions.map(val => (
-              <option key={val} value={val}>{crLabel} {val}</option>
+            <option value="">{creatureConfig.crAllLabel}</option>
+            {creatureConfig.crOptions.map(val => (
+              <option key={val} value={val}>{creatureConfig.crLabel} {val}</option>
             ))}
           </select>
         </div>
@@ -160,7 +146,7 @@ const CreatureList = forwardRef(function CreatureList({ gameSystem = '5e', onAdd
           className="btn btn--sm btn--primary"
           onClick={() => openModal('monster-form', { gameSystem })}
         >
-          + Create {isPf2e ? 'Creature' : 'Monster'}
+          + Create {gameSystem === 'pf2e' ? 'Creature' : 'Monster'}
         </button>
         <button
           className="btn btn--sm"
