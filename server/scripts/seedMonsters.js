@@ -26,8 +26,10 @@ dns.setServers(['8.8.8.8', '8.8.4.4']);
 
 // ── Source folder config ──────────────────────────────────────
 const MONSTERS_DIR = path.join(__dirname, '..', '..', 'Monsters');
+const MONSTERS_5E_DIR = path.join(MONSTERS_DIR, '5e');
+const MONSTERS_PF2E_DIR = path.join(MONSTERS_DIR, 'pf2e');
 
-const SOURCE_MAP = {
+const SOURCE_MAP_5E = {
   '5.1_srd_(2015_mm)':       { key: '5.1_srd',   label: '5.1 SRD (2015 MM)', format: 'standard' },
   '5.2_srd_(2025_mm)':       { key: '5.2_srd',   label: '5.2 SRD (2025 MM)', format: '5.2' },
   'a5e_monstrous_menagerie': { key: 'a5e',        label: 'A5e Monstrous Menagerie', format: 'standard' },
@@ -335,29 +337,66 @@ function parsePf2e(md) {
   return result;
 }
 
-// ── Build source map (static + auto-detected pf2e_ folders) ─
-function buildSourceMap() {
-  const map = { ...SOURCE_MAP };
-
-  if (!fs.existsSync(MONSTERS_DIR)) return map;
-
-  const entries = fs.readdirSync(MONSTERS_DIR, { withFileTypes: true });
-  for (const entry of entries) {
-    if (!entry.isDirectory()) continue;
-    if (!entry.name.startsWith('pf2e_')) continue;
-    if (map[entry.name]) continue; // don't overwrite if already defined
-
-    // e.g. pf2e_b1 → label "PF2e B1"
-    const suffix = entry.name.slice(5).toUpperCase(); // strip "pf2e_"
-    map[entry.name] = {
-      key: entry.name,
-      label: `PF2e ${suffix}`,
-      format: 'pf2e',
-      gameSystem: 'pf2e',
-    };
+// ── Process a folder of .md files into upsert operations ─────
+function processFolder(folderPath, config, ops, stats) {
+  if (!fs.existsSync(folderPath)) {
+    console.warn(`  Skipping missing folder: ${folderPath}`);
+    return;
   }
 
-  return map;
+  const files = fs.readdirSync(folderPath).filter(f => f.endsWith('.md'));
+  console.log(`  ${config.label}: ${files.length} files`);
+
+  for (const file of files) {
+    try {
+      const md = fs.readFileSync(path.join(folderPath, file), 'utf8');
+      const slug = `${config.key}--${slugFromFilename(file)}`;
+
+      let parsed;
+      if (config.format === 'pf2e') {
+        parsed = parsePf2e(md);
+      } else if (config.format === '5.2') {
+        parsed = parse52(md);
+      } else if (config.format === 'black_flag') {
+        parsed = parseBlackFlag(md);
+      } else {
+        parsed = parseStandard(md, config.key);
+      }
+
+      ops.push({
+        updateOne: {
+          filter: { slug },
+          update: {
+            $set: {
+              name: parsed.name,
+              slug,
+              source: config.label,
+              sourceKey: config.key,
+              gameSystem: config.gameSystem || '5e',
+              cr: parsed.cr || '',
+              crNumeric: parsed.crNumeric || 0,
+              hp: parsed.hp || 0,
+              hpFormula: parsed.hpFormula || '',
+              ac: parsed.ac || 10,
+              acDesc: parsed.acDesc || '',
+              initMod: parsed.initMod || 0,
+              size: parsed.size || '',
+              type: parsed.type || '',
+              alignment: parsed.alignment || '',
+              abilities: parsed.abilities || {},
+              rawMarkdown: md,
+            },
+          },
+          upsert: true,
+        },
+      });
+
+      stats.totalFiles++;
+    } catch (err) {
+      console.error(`  ERROR parsing ${file}: ${err.message}`);
+      stats.errors++;
+    }
+  }
 }
 
 // ── Main seed function ───────────────────────────────────────
@@ -367,74 +406,40 @@ async function seed() {
   console.log('Connected.\n');
 
   const ops = [];
-  let totalFiles = 0;
-  let errors = 0;
+  const stats = { totalFiles: 0, errors: 0 };
 
-  const sourceMap = buildSourceMap();
-
-  for (const [folder, config] of Object.entries(sourceMap)) {
-    const folderPath = path.join(MONSTERS_DIR, folder);
-    if (!fs.existsSync(folderPath)) {
-      console.warn(`  Skipping missing folder: ${folder}`);
-      continue;
-    }
-
-    const files = fs.readdirSync(folderPath).filter(f => f.endsWith('.md'));
-    console.log(`  ${config.label}: ${files.length} files`);
-
-    for (const file of files) {
-      try {
-        const md = fs.readFileSync(path.join(folderPath, file), 'utf8');
-        const slug = `${config.key}--${slugFromFilename(file)}`;
-
-        let parsed;
-        if (config.format === 'pf2e') {
-          parsed = parsePf2e(md);
-        } else if (config.format === '5.2') {
-          parsed = parse52(md);
-        } else if (config.format === 'black_flag') {
-          parsed = parseBlackFlag(md);
-        } else {
-          parsed = parseStandard(md, config.key);
-        }
-
-        ops.push({
-          updateOne: {
-            filter: { slug },
-            update: {
-              $set: {
-                name: parsed.name,
-                slug,
-                source: config.label,
-                sourceKey: config.key,
-                gameSystem: config.gameSystem || '5e',
-                cr: parsed.cr || '',
-                crNumeric: parsed.crNumeric || 0,
-                hp: parsed.hp || 0,
-                hpFormula: parsed.hpFormula || '',
-                ac: parsed.ac || 10,
-                acDesc: parsed.acDesc || '',
-                initMod: parsed.initMod || 0,
-                size: parsed.size || '',
-                type: parsed.type || '',
-                alignment: parsed.alignment || '',
-                abilities: parsed.abilities || {},
-                rawMarkdown: md,
-              },
-            },
-            upsert: true,
-          },
-        });
-
-        totalFiles++;
-      } catch (err) {
-        console.error(`  ERROR parsing ${file}: ${err.message}`);
-        errors++;
-      }
-    }
+  // ── 5e sources (from Monsters/5e/) ──
+  console.log('5e sources:');
+  for (const [folder, config] of Object.entries(SOURCE_MAP_5E)) {
+    const folderPath = path.join(MONSTERS_5E_DIR, folder);
+    processFolder(folderPath, config, ops, stats);
   }
 
-  console.log(`\nParsed ${totalFiles} monsters (${errors} errors).`);
+  // ── PF2e sources (from Monsters/pf2e/) ──
+  console.log('\nPF2e sources:');
+  if (fs.existsSync(MONSTERS_PF2E_DIR)) {
+    const pf2eFolders = fs.readdirSync(MONSTERS_PF2E_DIR, { withFileTypes: true })
+      .filter(e => e.isDirectory())
+      .map(e => e.name)
+      .sort();
+
+    for (const folder of pf2eFolders) {
+      const sourceKey = `pf2e_${folder}`;
+      const label = `PF2e ${folder.toUpperCase()}`;
+      const config = {
+        key: sourceKey,
+        label,
+        format: 'pf2e',
+        gameSystem: 'pf2e',
+      };
+      const folderPath = path.join(MONSTERS_PF2E_DIR, folder);
+      processFolder(folderPath, config, ops, stats);
+    }
+  } else {
+    console.warn('  Monsters/pf2e/ directory not found, skipping PF2e sources.');
+  }
+
+  console.log(`\nParsed ${stats.totalFiles} monsters (${stats.errors} errors).`);
   console.log('Writing to MongoDB...');
 
   // bulkWrite in batches of 500
