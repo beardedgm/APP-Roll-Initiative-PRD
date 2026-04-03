@@ -1498,6 +1498,173 @@ body.is-resizing .resize-handle::after {
   letter-spacing: 0.05em;
 }
 
+/* ── Spell List ────────────────────────────────────────────── */
+.spell-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.spell-list__filters {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--color-bg-mid);
+  padding-bottom: var(--space-xs);
+}
+
+.spell-list__search {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.spell-list__filter-row {
+  display: flex;
+  gap: var(--space-xs);
+}
+
+.spell-list__select {
+  flex: 1;
+  min-width: 0;
+}
+
+.spell-list__select--full {
+  flex: 1;
+}
+
+.spell-list__count {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  padding: 2px 0;
+}
+
+.spell-list__items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+  min-height: 0;
+}
+
+.spell-list__item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  padding: 10px var(--space-md);
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background var(--transition-fast), border-color var(--transition-fast);
+}
+.spell-list__item:hover {
+  background: var(--color-bg-card-hover);
+  border-color: var(--color-accent-gold-dim);
+}
+
+.spell-list__item--selected {
+  background: rgba(201, 162, 103, 0.1);
+  border-left: 2px solid var(--color-accent-gold);
+}
+
+.spell-list__item-main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.spell-list__item-name {
+  font-family: var(--font-app);
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--color-text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.spell-list__item-meta {
+  font-size: 0.7rem;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.spell-list__item-stats {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  flex-shrink: 0;
+}
+
+.spell-list__stat {
+  font-family: var(--font-app);
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+  padding: 1px 4px;
+  background: var(--color-bg-dark);
+  border-radius: 3px;
+  border: 1px solid var(--color-border);
+}
+
+.spell-list__source-badge {
+  font-family: var(--font-app);
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-accent-gold);
+  white-space: nowrap;
+}
+
+.spell-list__empty {
+  text-align: center;
+  padding: var(--space-lg);
+  color: var(--color-text-secondary);
+  font-family: var(--font-app);
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  border: 1px dashed var(--color-border-light);
+  border-radius: var(--radius-md);
+  background: var(--color-bg-dark);
+}
+
+.spell-list__pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+  padding: var(--space-sm);
+  background: var(--color-bg-dark);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  margin-top: var(--space-sm);
+}
+.spell-list__pagination .btn--sm {
+  color: var(--color-text-secondary);
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+}
+.spell-list__pagination .btn--sm:hover:not(:disabled) {
+  color: var(--color-accent-gold);
+  border-color: var(--color-accent-gold-dim);
+  background: var(--color-bg-card-hover);
+}
+
+.spell-list__page-info {
+  font-family: var(--font-app);
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  letter-spacing: 0.05em;
+}
+
 /* ── Monster Detail (inline stat block) ─────────────────────── */
 .monster-detail {
   display: flex;

@@ -3,6 +3,7 @@ import { BookOpen } from 'lucide-react';
 import { marked } from 'marked';
 import DOMPurify from 'dompurify';
 import { useMonster } from '../../api/useMonsters';
+import { useSpell } from '../../api/useSpells';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
 
@@ -41,7 +42,17 @@ export default function ContentViewer({ onRollDice, onSpellClick }) {  // eslint
     );
   }
 
-  // Future: spell rendering
+  if (current.type === 'spell') {
+    return (
+      <SpellContent
+        slug={current.slug}
+        breadcrumb={previous ? `\u2190 Back to ${previous.name}` : null}
+        onBack={previous ? popContent : null}
+        onRollDice={onRollDice}
+      />
+    );
+  }
+
   return (
     <div className="content-viewer content-viewer--empty">
       <p className="content-viewer__empty-text">Content type not yet supported.</p>
@@ -147,6 +158,73 @@ function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
             </button>
           )}
         </div>
+      </div>
+      <div
+        ref={detailRef}
+        className="stat-block-content"
+        dangerouslySetInnerHTML={{ __html: html }}
+      />
+    </div>
+  );
+}
+
+/* ---- Spell Content Sub-component ---- */
+
+function SpellContent({ slug, breadcrumb, onBack, onRollDice }) {
+  const detailRef = useRef(null);
+  const { data: spell, isLoading } = useSpell(slug);
+
+  // Event delegation for dice clicks in spell descriptions
+  useEffect(() => {
+    if (!detailRef.current || !onRollDice) return;
+
+    const el = detailRef.current;
+    const handler = (e) => {
+      const diceEl = e.target.closest('.dice-roll');
+      if (!diceEl || !el.contains(diceEl)) return;
+      const notation = diceEl.dataset.dice;
+      if (notation) onRollDice(notation);
+    };
+
+    el.addEventListener('click', handler);
+    return () => el.removeEventListener('click', handler);
+  }, [onRollDice, spell, isLoading]);
+
+  if (isLoading) {
+    return (
+      <div className="content-viewer">
+        {breadcrumb && (
+          <button className="content-viewer__breadcrumb" onClick={onBack}>{breadcrumb}</button>
+        )}
+        <p className="content-viewer__loading">Loading spell...</p>
+      </div>
+    );
+  }
+
+  if (!spell) {
+    return (
+      <div className="content-viewer">
+        {breadcrumb && (
+          <button className="content-viewer__breadcrumb" onClick={onBack}>{breadcrumb}</button>
+        )}
+        <p className="content-viewer__loading">Spell not found.</p>
+      </div>
+    );
+  }
+
+  const markdown = spell.rawMarkdown || `# ${spell.name}\n\nNo description available.`;
+  const htmlWithDice = makeDiceClickable(marked.parse(markdown));
+  const html = DOMPurify.sanitize(htmlWithDice, {
+    ADD_ATTR: ['data-dice'],
+    ADD_TAGS: ['span'],
+  });
+
+  return (
+    <div className="content-viewer">
+      <div className="content-viewer__header">
+        {breadcrumb && (
+          <button className="content-viewer__breadcrumb" onClick={onBack}>{breadcrumb}</button>
+        )}
       </div>
       <div
         ref={detailRef}

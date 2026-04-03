@@ -9,7 +9,9 @@
     "build": "cd client && npm install --include=dev && npm run build && cd ../server && npm install",
     "start": "cd server && npm start",
     "seed:monsters": "cd server && npm run seed:monsters",
-    "seed:pf2e-convert": "node scripts/convertPf2eToMarkdown.js"
+    "seed:spells": "cd server && npm run seed:spells",
+    "seed:pf2e-convert": "node scripts/convertPf2eToMarkdown.js",
+    "seed:pf2e-spells": "node scripts/convertPf2eSpells.js"
   },
   "engines": {
     "node": ">=20"

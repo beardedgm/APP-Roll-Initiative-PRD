@@ -8,6 +8,7 @@
     "start": "node app.js",
     "dev": "node --watch app.js",
     "seed:monsters": "node scripts/seedMonsters.js",
+    "seed:spells": "node scripts/seedSpells.js",
     "lint": "eslint ."
   },
   "dependencies": {
