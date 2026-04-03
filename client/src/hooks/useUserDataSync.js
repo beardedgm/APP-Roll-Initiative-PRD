@@ -64,18 +64,28 @@ export default function useUserDataSync(enabled) {
   useEffect(() => {
     if (!enabled) return;
 
-    // Subscribe with selector to only fire on data changes, not syncStatus
-    const unsub = useUserDataStore.subscribe(
-      (s) => [s.characters, s.customMonsters, s.encounterPresets],
-      () => {
-        const { _loaded } = useUserDataStore.getState();
-        if (!_loaded) return;
+    // Track previous data references to skip sync when only syncStatus changes
+    let prevCharacters = useUserDataStore.getState().characters;
+    let prevCustomMonsters = useUserDataStore.getState().customMonsters;
+    let prevPresets = useUserDataStore.getState().encounterPresets;
 
-        if (timerRef.current) clearTimeout(timerRef.current);
-        timerRef.current = setTimeout(sync, 2000);
-      },
-      { equalityFn: (a, b) => a[0] === b[0] && a[1] === b[1] && a[2] === b[2] }
-    );
+    const unsub = useUserDataStore.subscribe((state) => {
+      // Only trigger sync when actual data changes, not syncStatus/_loaded
+      if (
+        state.characters === prevCharacters &&
+        state.customMonsters === prevCustomMonsters &&
+        state.encounterPresets === prevPresets
+      ) return;
+
+      prevCharacters = state.characters;
+      prevCustomMonsters = state.customMonsters;
+      prevPresets = state.encounterPresets;
+
+      if (!state._loaded) return;
+
+      if (timerRef.current) clearTimeout(timerRef.current);
+      timerRef.current = setTimeout(sync, 2000);
+    });
 
     return () => {
       unsub();
