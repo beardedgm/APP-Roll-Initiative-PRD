@@ -277,29 +277,22 @@ export default MonsterDatabase;
 function MonsterDetail({ monster, loading, onBack, onRollDice, onDelete, onEdit }) {
   const detailRef = useRef(null);
 
-  // After render, attach click handlers to dice notation
+  // Use event delegation on the container so dice click handlers survive
+  // DOM recreation from dangerouslySetInnerHTML re-renders
   useEffect(() => {
     if (!detailRef.current || !onRollDice) return;
 
     const el = detailRef.current;
-    // Find all .dice-roll spans injected by makeDiceClickable
-    const diceEls = el.querySelectorAll('.dice-roll');
-    const handlers = [];
-
-    diceEls.forEach(diceEl => {
+    const handler = (e) => {
+      const diceEl = e.target.closest('.dice-roll');
+      if (!diceEl || !el.contains(diceEl)) return;
       const notation = diceEl.dataset.dice;
-      if (!notation) return;
-      const handler = () => onRollDice(notation);
-      diceEl.addEventListener('click', handler);
-      handlers.push({ el: diceEl, handler });
-    });
-
-    return () => {
-      handlers.forEach(({ el: diceEl, handler }) => {
-        diceEl.removeEventListener('click', handler);
-      });
+      if (notation) onRollDice(notation);
     };
-  }, [monster, onRollDice]);
+
+    el.addEventListener('click', handler);
+    return () => el.removeEventListener('click', handler);
+  }, [onRollDice]);
 
   if (loading) {
     return (
