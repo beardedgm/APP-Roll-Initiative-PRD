@@ -260,6 +260,11 @@ body.is-resizing .resize-handle::after {
   background: var(--color-bg-card);
 }
 
+.btn--icon-danger:hover:not(:disabled) {
+  color: var(--color-accent-red);
+  border-color: var(--color-accent-red);
+}
+
 .btn--danger {
   background: var(--color-accent-red);
   color: var(--color-text-primary);

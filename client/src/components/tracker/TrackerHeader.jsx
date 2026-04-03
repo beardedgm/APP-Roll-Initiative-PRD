@@ -40,21 +40,21 @@ export default function TrackerHeader() {
 
       <div className="dm-header__right">
         <button className="btn btn--icon" disabled={undoLen === 0} onClick={undo} title="Undo (Ctrl+Z)">
-          <Undo2 size={16} /> Undo
+          <Undo2 size={16} />
         </button>
         <button className="btn btn--icon" disabled={redoLen === 0} onClick={redo} title="Redo (Ctrl+Y)">
-          <Redo2 size={16} /> Redo
+          <Redo2 size={16} />
         </button>
 
         <SyncIndicator />
 
         <span className="header-divider" />
 
-        <button className="btn btn--secondary" onClick={handleOpenPlayerView} title="Open player view">
-          <Monitor size={16} /> Player View
+        <button className="btn btn--icon" onClick={handleOpenPlayerView} title="Open player view">
+          <Monitor size={16} />
         </button>
-        <button className="btn btn--danger" onClick={handleReset} title="Reset the entire encounter">
-          <Trash2 size={16} /> Reset
+        <button className="btn btn--icon btn--icon-danger" onClick={handleReset} title="Reset encounter">
+          <Trash2 size={16} />
         </button>
 
         {user && (
