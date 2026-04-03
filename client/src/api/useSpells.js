@@ -5,9 +5,11 @@ import api from './axiosInstance';
  * Browseable paginated spell listing with filters.
  */
 export function useSpellBrowse(filters = {}) {
-  const { q, source, level, school, tradition, limit = 20, skip = 0, gameSystem = '5e' } = filters;
+  const { q, source, level, school, tradition, category, spellType, actionCost,
+          limit = 20, skip = 0, gameSystem = '5e' } = filters;
   return useQuery({
-    queryKey: ['spells', 'browse', { q, source, level, school, tradition, limit, skip, gameSystem }],
+    queryKey: ['spells', 'browse', { q, source, level, school, tradition, category,
+               spellType, actionCost, limit, skip, gameSystem }],
     queryFn: async () => {
       const params = { limit, skip, gameSystem };
       if (q && q.trim().length >= 1) params.q = q.trim();
@@ -15,6 +17,9 @@ export function useSpellBrowse(filters = {}) {
       if (level !== undefined && level !== '') params.level = level;
       if (school) params.school = school;
       if (tradition) params.tradition = tradition;
+      if (category) params.category = category;
+      if (spellType) params.spellType = spellType;
+      if (actionCost) params.actionCost = actionCost;
       const { data } = await api.get('/spells/search', { params });
       return data;
     },
@@ -48,6 +53,20 @@ export function useSpellSources(gameSystem = '5e') {
       const { data } = await api.get('/spells/sources', {
         params: { gameSystem },
       });
+      return data;
+    },
+    staleTime: 60 * 60 * 1000,
+  });
+}
+
+/**
+ * Lightweight spell name index for spell linking in stat blocks.
+ */
+export function useSpellNames(gameSystem = '5e') {
+  return useQuery({
+    queryKey: ['spells', 'names', gameSystem],
+    queryFn: async () => {
+      const { data } = await api.get('/spells/names', { params: { gameSystem } });
       return data;
     },
     staleTime: 60 * 60 * 1000,
