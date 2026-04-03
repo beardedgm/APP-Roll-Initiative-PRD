@@ -2,7 +2,7 @@ import { useState, useEffect, useRef, useCallback } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { useSpellBrowse, useSpellSources } from '../../api/useSpells';
 import useUIStore from '../../store/useUIStore';
-import { GAME_SYSTEMS } from '../../../shared/gameSystemConfig.js';
+import { GAME_SYSTEMS } from '../../../../shared/gameSystemConfig.js';
 
 const PAGE_SIZE = 12;
 
