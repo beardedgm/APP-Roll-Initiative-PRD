@@ -8,7 +8,7 @@
  *   node scripts/convertPf2eSpells.js ../Pf2eTools/data/spells
  *
  * Reads: spells-*.json files from the provided directory
- * Writes: spells/pf2e_{sourceKey}/{slug}.md files
+ * Writes: spells/pf2e/{sourceKey}/{slug}.md files
  */
 
 import fs from 'fs';
@@ -81,7 +81,8 @@ function main() {
         const sourceKey = sourceToKey(sourceCode);
         const slug = slugify(spell.name);
 
-        const outDir = path.join(SPELLS_DIR, sourceKey);
+        const shortKey = sourceCode.toLowerCase().replace(/[^a-z0-9]/g, '');
+        const outDir = path.join(SPELLS_DIR, 'pf2e', shortKey);
         if (!fs.existsSync(outDir)) {
           fs.mkdirSync(outDir, { recursive: true });
         }
