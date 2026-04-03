@@ -42,7 +42,7 @@ function getStatusBadge(combatant) {
 export default function InitiativeItem({ combatant, isActive }) {
   const { name, initiative, type, hp, status } = combatant;
   const isUnconscious = status === 'unconscious' || (hp && hp.current <= 0) || combatant.healthStatus === 'unconscious';
-  const initDisplay = Number.isInteger(initiative) ? initiative : initiative.toFixed(1);
+  const initDisplay = initiative == null ? '—' : Number.isInteger(initiative) ? initiative : initiative.toFixed(1);
   const badge = getStatusBadge(combatant);
 
   return (
