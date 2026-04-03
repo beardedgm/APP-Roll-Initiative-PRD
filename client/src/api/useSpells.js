@@ -5,15 +5,16 @@ import api from './axiosInstance';
  * Browseable paginated spell listing with filters.
  */
 export function useSpellBrowse(filters = {}) {
-  const { q, source, level, school, limit = 20, skip = 0, gameSystem = '5e' } = filters;
+  const { q, source, level, school, tradition, limit = 20, skip = 0, gameSystem = '5e' } = filters;
   return useQuery({
-    queryKey: ['spells', 'browse', { q, source, level, school, limit, skip, gameSystem }],
+    queryKey: ['spells', 'browse', { q, source, level, school, tradition, limit, skip, gameSystem }],
     queryFn: async () => {
       const params = { limit, skip, gameSystem };
       if (q && q.trim().length >= 1) params.q = q.trim();
       if (source) params.source = source;
       if (level !== undefined && level !== '') params.level = level;
       if (school) params.school = school;
+      if (tradition) params.tradition = tradition;
       const { data } = await api.get('/spells/search', { params });
       return data;
     },

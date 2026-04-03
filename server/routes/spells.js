@@ -9,7 +9,7 @@ const router = Router();
  * Public — returns seeded spells.
  */
 router.get('/api/spells/search', asyncHandler(async (req, res) => {
-  const { q, source, level, school, limit = 20, skip = 0, gameSystem = '5e' } = req.query;
+  const { q, source, level, school, tradition, limit = 20, skip = 0, gameSystem = '5e' } = req.query;
   const filter = { gameSystem };
 
   if (q && q.trim()) {
@@ -28,6 +28,11 @@ router.get('/api/spells/search', asyncHandler(async (req, res) => {
   if (school && school.trim()) {
     const escapedSchool = school.trim().replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     filter.school = new RegExp(escapedSchool, 'i');
+  }
+
+  // PF2e: filter by tradition (stored in classes array)
+  if (tradition && tradition.trim()) {
+    filter.classes = tradition.trim().toLowerCase();
   }
 
   const lim = Math.min(parseInt(limit) || 20, 50);

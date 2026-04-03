@@ -4,8 +4,6 @@ import { useMonsterBrowse, useMonsterSources } from '../../api/useMonsters';
 import useCombatStore from '../../store/useCombatStore';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
-import SOURCE_BADGES from '../../constants/monsterSources';
-import PF2E_SOURCE_BADGES from '../../constants/pf2eSources';
 
 const CR_OPTIONS_5E = [
   '0', '1/8', '1/4', '1/2', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10',
@@ -36,7 +34,6 @@ const CreatureList = forwardRef(function CreatureList({ gameSystem = '5e', onAdd
   const storeMonsters = useUserDataStore(s => s.customMonsters);
 
   const isPf2e = gameSystem === 'pf2e';
-  const sourceBadges = isPf2e ? PF2E_SOURCE_BADGES : SOURCE_BADGES;
   const crLevelOptions = isPf2e ? LEVEL_OPTIONS_PF2E : CR_OPTIONS_5E;
   const crLabel = isPf2e ? 'Level' : 'CR';
   const crAllLabel = isPf2e ? 'All Levels' : 'All CRs';
@@ -184,27 +181,7 @@ const CreatureList = forwardRef(function CreatureList({ gameSystem = '5e', onAdd
             className={`monster-db__item${m.slug === selectedCreatureSlug ? ' monster-db__item--selected' : ''}`}
             onClick={() => handleCreatureClick(m)}
           >
-            <div className="monster-db__item-main">
-              <span className="monster-db__item-name">{m.name}</span>
-              <span className="monster-db__item-meta">
-                {m.size} {m.type}
-                {m.alignment ? ` \u2022 ${m.alignment}` : ''}
-              </span>
-            </div>
-            <div className="monster-db__item-stats">
-              <span className="monster-db__stat" title={isPf2e ? 'Level' : 'Challenge Rating'}>
-                {isPf2e ? `Lvl ${m.cr || '\u2014'}` : `CR ${m.cr || '\u2014'}`}
-              </span>
-              <span className="monster-db__stat" title="Hit Points">
-                HP {m.hp}
-              </span>
-              <span className="monster-db__stat" title="Armor Class">
-                AC {m.ac}
-              </span>
-              <span className="monster-search__source-badge">
-                {m.isCustom ? 'Custom' : (sourceBadges[m.sourceKey] || m.sourceKey)}
-              </span>
-            </div>
+            <span className="monster-db__item-name">{m.name}</span>
             <button
               className="monster-db__add-btn"
               title="Add to encounter"
