@@ -2499,26 +2499,36 @@ body.is-resizing .resize-handle::after {
   border-bottom: 1px solid var(--color-border);
 }
 
-.right-panel__dice-collapsed {
+/* Persistent header bar — always visible, holds toggle + show rolls */
+.right-panel__dice-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 100%;
-  padding: 0.5rem 0.75rem;
+  padding: 0.35rem 0.75rem;
   background: var(--color-bg-mid);
+  gap: 0.5rem;
+}
+
+.right-panel__dice-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: none;
   border: none;
   color: var(--color-text-secondary);
   cursor: pointer;
   font-family: var(--font-app);
   font-size: 0.8rem;
-  transition: background var(--transition-fast);
+  padding: 0;
+  flex: 1;
+  min-width: 0;
 }
 
-.right-panel__dice-collapsed:hover {
-  background: var(--color-bg-card-hover);
+.right-panel__dice-toggle:hover {
+  color: var(--color-text-primary);
 }
 
-.right-panel__dice-collapsed-left {
+.right-panel__dice-toggle-left {
   display: flex;
   align-items: center;
   gap: 0.4rem;
@@ -2530,34 +2540,14 @@ body.is-resizing .resize-handle::after {
 }
 
 .right-panel__dice-collapsed-last {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   color: var(--color-text-muted);
   flex: 1;
   text-align: right;
   margin-right: 0.5rem;
-}
-
-.right-panel__dice-expanded {
-  position: relative;
-}
-
-.right-panel__dice-collapse-btn {
-  position: absolute;
-  top: 0.25rem;
-  right: 0.25rem;
-  background: transparent;
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-sm);
-  color: var(--color-text-muted);
-  cursor: pointer;
-  padding: 0.15rem 0.3rem;
-  z-index: 2;
-  transition: color var(--transition-fast), border-color var(--transition-fast);
-}
-
-.right-panel__dice-collapse-btn:hover {
-  color: var(--color-accent-gold);
-  border-color: var(--color-accent-gold-dim);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .right-panel__content {
