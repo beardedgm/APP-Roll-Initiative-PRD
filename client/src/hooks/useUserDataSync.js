@@ -5,7 +5,8 @@ import api from '../api/axiosInstance';
 
 /**
  * Subscribes to useUserDataStore changes and auto-syncs to PUT /api/user-data
- * with a 2-second debounce. Handles 409 conflicts by accepting server state.
+ * with a 2-second debounce. Server merges by name (newest wins), returns the
+ * merged result which we accept back into the local store.
  */
 export default function useUserDataSync(enabled) {
   const timerRef = useRef(null);
@@ -32,32 +33,23 @@ export default function useUserDataSync(enabled) {
         customMonsters,
         encounterPresets,
       });
-      useUserDataStore.setState({
-        version: data.version,
-        syncStatus: 'synced',
+
+      // Server merges and returns the merged result — accept it back
+      // Update snapshot to the merged state so we don't re-sync what the server just gave us
+      prevSnapshotRef.current = JSON.stringify({
+        characters: data.characters,
+        customMonsters: data.customMonsters,
+        encounterPresets: data.encounterPresets,
       });
+      useUserDataStore.getState().loadFromServer(data);
+      useUserDataStore.setState({ syncStatus: 'synced' });
       syncedTimerRef.current = setTimeout(() => {
         useUserDataStore.setState({ syncStatus: 'idle' });
       }, 3000);
     } catch (err) {
-      if (err.response?.status === 409) {
-        // Server wins — replace local state
-        const serverData = err.response.data;
-        useUserDataStore.getState().loadFromServer(serverData);
-        prevSnapshotRef.current = JSON.stringify({
-          characters: serverData.characters,
-          customMonsters: serverData.customMonsters,
-          encounterPresets: serverData.encounterPresets,
-        });
-        useUserDataStore.setState({ syncStatus: 'synced' });
-        syncedTimerRef.current = setTimeout(() => {
-          useUserDataStore.setState({ syncStatus: 'idle' });
-        }, 3000);
-      } else {
-        prevSnapshotRef.current = previousSnapshot;
-        useUserDataStore.setState({ syncStatus: 'error' });
-        Sentry.captureException(err);
-      }
+      prevSnapshotRef.current = previousSnapshot;
+      useUserDataStore.setState({ syncStatus: 'error' });
+      Sentry.captureException(err);
     }
   }, []);
 

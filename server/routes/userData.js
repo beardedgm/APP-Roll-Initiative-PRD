@@ -25,33 +25,31 @@ router.get('/api/user-data', asyncHandler(async (req, res) => {
   });
 }));
 
-// ── Update user data (optimistic concurrency) ──────────────
+// ── Update user data (merge strategy: newest change wins) ──
 router.put('/api/user-data', validate(updateUserDataSchema), asyncHandler(async (req, res) => {
-  const { version, characters, customMonsters, encounterPresets } = req.validated;
+  const { characters, customMonsters, encounterPresets } = req.validated;
+
+  // Get or create current server doc
+  let current = await UserData.findOne({ userId: req.session.userId });
+  if (!current) {
+    current = await UserData.create({ userId: req.session.userId });
+  }
+
+  // Merge each array: combine both sides, deduplicate by name, newest updatedAt wins
+  const merged = {
+    characters: mergeByName(current.characters, characters),
+    customMonsters: mergeByName(current.customMonsters, customMonsters),
+    encounterPresets: mergeByName(current.encounterPresets, encounterPresets),
+  };
 
   const doc = await UserData.findOneAndUpdate(
-    { userId: req.session.userId, version },
+    { userId: req.session.userId },
     {
-      $set: { characters, customMonsters, encounterPresets },
+      $set: merged,
       $inc: { version: 1 },
     },
     { new: true }
   );
-
-  if (!doc) {
-    // Version mismatch — return server's current data
-    const current = await UserData.findOne({ userId: req.session.userId }).lean();
-    if (!current) {
-      return res.status(404).json({ error: 'User data not found' });
-    }
-    return res.status(409).json({
-      error: 'Version conflict',
-      version: current.version,
-      characters: current.characters,
-      customMonsters: current.customMonsters,
-      encounterPresets: current.encounterPresets,
-    });
-  }
 
   res.json({
     version: doc.version,
@@ -60,5 +58,39 @@ router.put('/api/user-data', validate(updateUserDataSchema), asyncHandler(async 
     encounterPresets: doc.encounterPresets,
   });
 }));
+
+/**
+ * Merge two arrays of items by name. Items with the same name are
+ * deduplicated — the one with the most recent updatedAt wins.
+ * Items only on one side are always included.
+ */
+function mergeByName(serverItems = [], clientItems = []) {
+  const map = new Map();
+
+  // Add server items first
+  for (const item of serverItems) {
+    const key = (item.name || '').toLowerCase().trim();
+    map.set(key, item);
+  }
+
+  // Client items overwrite if newer (or if not on server)
+  for (const item of clientItems) {
+    const key = (item.name || '').toLowerCase().trim();
+    const existing = map.get(key);
+
+    if (!existing) {
+      map.set(key, item);
+    } else {
+      // Newest updatedAt wins; if no timestamps, client wins
+      const existingTime = existing.updatedAt ? new Date(existing.updatedAt).getTime() : 0;
+      const incomingTime = item.updatedAt ? new Date(item.updatedAt).getTime() : 0;
+      if (incomingTime >= existingTime) {
+        map.set(key, item);
+      }
+    }
+  }
+
+  return [...map.values()];
+}
 
 export default router;
