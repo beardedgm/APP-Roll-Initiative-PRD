@@ -63,6 +63,10 @@ router.put('/api/user-data', validate(updateUserDataSchema), asyncHandler(async 
  * Merge two arrays of items by name. Items with the same name are
  * deduplicated — the one with the most recent updatedAt wins.
  * Items only on one side are always included.
+ *
+ * Name matching is case-insensitive and trimmed: "Gandalf" and "GANDALF"
+ * are treated as the same item. This prevents accidental duplicates from
+ * cross-device sync while preserving the casing of the newest version.
  */
 function mergeByName(serverItems = [], clientItems = []) {
   const map = new Map();

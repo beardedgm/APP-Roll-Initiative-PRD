@@ -7,8 +7,15 @@ function getNatClass(entry) {
   return '';
 }
 
+function formatMod(modifier) {
+  if (modifier > 0) return `+${modifier}`;
+  if (modifier < 0) return `${modifier}`;
+  return '+0';
+}
+
 function Breakdown({ entry }) {
   const { rolls, modifier, advantage } = entry;
+  const modStr = formatMod(modifier);
 
   if (advantage !== 'normal') {
     const used = advantage === 'advantage' ? Math.max(...rolls) : Math.min(...rolls);
@@ -17,11 +24,11 @@ function Breakdown({ entry }) {
         ? <b key={`r${i}`}>{r}</b>
         : <s key={`r${i}`} style={{ opacity: 0.5 }}>{r}</s>
     )).reduce((acc, el, i) => i === 0 ? [el] : [...acc, ', ', el], []);
-    return <span className="player-dice-toast__breakdown">({parts}, <span className="player-dice-toast__mod">{modifier}</span>)</span>;
+    return <span className="player-dice-toast__breakdown">({parts}, <span className="player-dice-toast__mod">{modStr}</span>)</span>;
   }
 
   const parts = rolls.map((r, i) => (i === 0 ? String(r) : `, ${r}`));
-  return <span className="player-dice-toast__breakdown">({parts}, <span className="player-dice-toast__mod">{modifier}</span>)</span>;
+  return <span className="player-dice-toast__breakdown">({parts}, <span className="player-dice-toast__mod">{modStr}</span>)</span>;
 }
 
 export default function PlayerDiceToast({ latestSharedRoll }) {

@@ -16,6 +16,7 @@ export default function useEncounterCloudSetup(user) {
   const setCloudId = useCombatStore(s => s.setCloudId);
   const loadSnapshot = useCombatStore(s => s.loadSnapshot);
   const createEncounter = useCreateEncounter();
+  const createRef = useRef(createEncounter);
   const didSetupRef = useRef(false);
   const isCreatingRef = useRef(false);
 
@@ -31,6 +32,9 @@ export default function useEncounterCloudSetup(user) {
 
   // Enable cloud sync when we have a cloudId
   useCloudSync(isSubscriber && !!cloudId);
+
+  // Keep createRef in sync with latest mutation object
+  useEffect(() => { createRef.current = createEncounter; });
 
   // Reset setup flag when cloudId clears (e.g., resetEncounter)
   useEffect(() => {
@@ -69,22 +73,18 @@ export default function useEncounterCloudSetup(user) {
       const { name, state, currentRound, activeCreatureId, combatants, diceHistory } =
         useCombatStore.getState();
 
-      createEncounter.mutate(
+      createRef.current.mutate(
         { name, state, currentRound, activeCreatureId, combatants, diceHistory },
         {
           onSuccess: (encounter) => {
             setCloudId(encounter._id);
           },
           onError: () => {
-            // Allow retry on next render cycle
             didSetupRef.current = false;
             isCreatingRef.current = false;
           },
         }
       );
     }
-  }, [
-    needsSetup, listLoading, encounters, encounterLoading,
-    mostRecentEncounter, loadSnapshot, setCloudId, createEncounter,
-  ]);
+  }, [needsSetup, listLoading, encounters, encounterLoading, mostRecentEncounter, loadSnapshot, setCloudId]);
 }

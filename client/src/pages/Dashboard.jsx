@@ -1,10 +1,9 @@
-import { useCallback, useEffect } from 'react';
+import { useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useCurrentUser } from '../api/useAuth';
-import { useUserData } from '../api/useUserData';
 import useCombatStore from '../store/useCombatStore';
 import useUserDataStore from '../store/useUserDataStore';
-import useUserDataSync from '../hooks/useUserDataSync';
+import useUserDataInit from '../hooks/useUserDataInit';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 import '../styles/marketing.css';
@@ -13,41 +12,9 @@ export default function Dashboard() {
   const navigate = useNavigate();
   const { data: user } = useCurrentUser();
   const isAuthenticated = !!user;
-  const { data: serverData } = useUserData(isAuthenticated);
-  const loadFromServer = useUserDataStore(s => s.loadFromServer);
-  const dataLoaded = useUserDataStore(s => s._loaded);
 
-  // Load server data into store on first fetch
-  // If server has data → use it (server is source of truth)
-  // If server is empty but local has data → keep local, let sync push it up
-  useEffect(() => {
-    if (!serverData || dataLoaded) return;
-
-    const serverHasData = (serverData.characters?.length > 0)
-      || (serverData.customMonsters?.length > 0)
-      || (serverData.encounterPresets?.length > 0);
-
-    if (serverHasData) {
-      loadFromServer(serverData);
-    } else {
-      const local = useUserDataStore.getState();
-      const localHasData = (local.characters?.length > 0)
-        || (local.customMonsters?.length > 0)
-        || (local.encounterPresets?.length > 0);
-
-      if (localHasData) {
-        useUserDataStore.setState({
-          _loaded: true,
-          version: serverData.version || 0,
-        });
-      } else {
-        loadFromServer(serverData);
-      }
-    }
-  }, [serverData, dataLoaded, loadFromServer]);
-
-  // Enable auto-sync when authenticated
-  useUserDataSync(isAuthenticated);
+  // Initialize user data from server + enable auto-sync
+  useUserDataInit(isAuthenticated);
 
   const encounterPresets = useUserDataStore(s => s.encounterPresets);
   const addEncounterPreset = useUserDataStore(s => s.addEncounterPreset);

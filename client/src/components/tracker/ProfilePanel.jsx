@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { X, ExternalLink, LogOut } from 'lucide-react';
 import { useCurrentUser, useLogout, useUpdateProfile, useChangePassword } from '../../api/useAuth';
 import { useNavigate } from 'react-router-dom';
@@ -16,13 +16,38 @@ export default function ProfilePanel({ open, onClose }) {
   const [newPw, setNewPw] = useState('');
   const [pwMsg, setPwMsg] = useState(null);
 
-  // Close on Escape
+  const panelRef = useRef(null);
+
+  // Close on Escape + focus trap
   useEffect(() => {
     if (!open) return;
+
     function handleKey(e) {
-      if (e.key === 'Escape') onClose();
+      if (e.key === 'Escape') {
+        onClose();
+        return;
+      }
+      // Focus trap: keep Tab cycling within the panel
+      if (e.key === 'Tab' && panelRef.current) {
+        const focusable = panelRef.current.querySelectorAll(
+          'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
+        );
+        if (focusable.length === 0) return;
+        const first = focusable[0];
+        const last = focusable[focusable.length - 1];
+        if (e.shiftKey && document.activeElement === first) {
+          e.preventDefault();
+          last.focus();
+        } else if (!e.shiftKey && document.activeElement === last) {
+          e.preventDefault();
+          first.focus();
+        }
+      }
     }
+
     document.addEventListener('keydown', handleKey);
+    // Auto-focus the panel on open
+    if (panelRef.current) panelRef.current.focus();
     return () => document.removeEventListener('keydown', handleKey);
   }, [open, onClose]);
 
@@ -65,7 +90,7 @@ export default function ProfilePanel({ open, onClose }) {
   return (
     <>
       <div className="profile-backdrop" onClick={onClose} />
-      <aside className="profile-panel">
+      <aside className="profile-panel" ref={panelRef} tabIndex={-1}>
         <div className="profile-panel__header">
           <h2>Profile</h2>
           <button className="btn btn--icon" onClick={onClose} title="Close">
