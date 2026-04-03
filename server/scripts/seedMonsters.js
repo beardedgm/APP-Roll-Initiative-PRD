@@ -17,6 +17,7 @@ import dns from 'dns';
 import fs from 'fs';
 import mongoose from 'mongoose';
 import Monster from '../models/Monster.js';
+import PF2E_SOURCE_LABELS from '../config/pf2eSourceLabels.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -425,7 +426,7 @@ async function seed() {
 
     for (const folder of pf2eFolders) {
       const sourceKey = `pf2e_${folder}`;
-      const label = `PF2e ${folder.toUpperCase()}`;
+      const label = PF2E_SOURCE_LABELS[folder] || `PF2e ${folder.toUpperCase()}`;
       const config = {
         key: sourceKey,
         label,

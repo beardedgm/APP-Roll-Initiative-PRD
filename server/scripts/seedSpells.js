@@ -23,6 +23,7 @@ import dns from 'dns';
 import fs from 'fs';
 import mongoose from 'mongoose';
 import Spell from '../models/Spell.js';
+import PF2E_SOURCE_LABELS from '../config/pf2eSourceLabels.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -39,20 +40,6 @@ const SOURCE_MAP_5E = {
   '5.2_srd':           { key: '5.2_srd',    label: '5.2 SRD (D&D 2024)' },
   'deep_magic':        { key: 'deep_magic', label: 'Deep Magic 5e' },
   'level_up_advanced': { key: 'a5e',        label: 'Level Up Advanced 5e' },
-};
-
-const PF2E_SOURCE_LABELS = {
-  crb: 'Core Rulebook', apg: "Advanced Player's Guide", som: 'Secrets of Magic',
-  da: 'Dark Archive', tv: 'Treasure Vault', roe: 'Rage of Elements',
-  pc1: 'Player Core', pc2: 'Player Core 2', botd: 'Book of the Dead',
-  locg: 'Lost Omens Character Guide', logm: 'Lost Omens Gods & Magic',
-  lowg: 'Lost Omens World Guide', loil: 'Lost Omens Impossible Lands',
-  lokl: 'Lost Omens Knights of Lastwall', lol: 'Lost Omens Legends',
-  lomm: 'Lost Omens Monsters of Myth', lopsg: 'Lost Omens Pathfinder Society Guide',
-  lora: 'Lost Omens Rage of Elements', lohh: 'Lost Omens Highhelm',
-  losk: "Lost Omens Shadowcaster's Guide", mal: 'Malevolence', tec: 'The Enmity Cycle',
-  tok: 'Threshold of Knowledge', hotw: 'Howl of the Wild', woi: 'War of Immortals',
-  sf0: 'Starfinder 2e Playtest',
 };
 
 // ── Slug from filename ───────────────────────────────────────
