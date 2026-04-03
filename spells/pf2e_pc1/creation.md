@@ -1,0 +1,17 @@
+# Creation
+
+*concentrate, manipulate*
+
+- **Level**: Spell 4
+- **Traditions**: arcane, primal
+- **Cast**: 1 minute
+- **Duration**: 1 hour
+- **Source**: PC1 p.322
+
+---
+
+You conjure a temporary object from magical energy. It must consist of earthen or plant-derived matter (such as wood, paper, brick, or stone) and 5 cubic feet or smaller. It can't rely on intricate artistry or complex moving parts, never fulfills a cost or the like, and can't be made of precious materials or materials with a rarity of uncommon or higher. It is obviously temporarily conjured, and thus can't be sold or passed off as a genuine item. The spell gains the appropriate trait for the item created, typically earth, plant, or wood.
+
+---
+
+**Heightened (5th)** The item is metal and can include common minerals, like feldspar or quartz. The spell gains the metal trait if used to create a metal object

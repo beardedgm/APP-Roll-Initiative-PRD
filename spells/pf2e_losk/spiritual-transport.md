@@ -1,0 +1,17 @@
+# Spiritual Transport
+
+*uncommon, concentrate, manipulate, teleportation*
+
+- **Level**: Spell 5
+- **Traditions**: divine
+- **Cast**: ◆◆
+- **Range**: 240 feet
+- **Source**: LOSK p.99
+
+---
+
+You call upon the spiritual energies surrounding you to teleport you to an unoccupied space within range that you can see. Any items you're wearing and holding come with you. Your familiar or animal companion, if you have one that's sharing your space or adjacent to your space, is transported with you, but any other creature sharing your space remains in that space.
+
+---
+
+**Heightened (7th)** The range increases to 1 mile. You don't need to be able to see your destination, as long as you have been there in the past and know its relative direction from you.

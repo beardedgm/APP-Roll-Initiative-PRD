@@ -1,0 +1,12 @@
+# Warp Step
+
+*cantrip, conjuration*
+
+- **Level**: Spell 1
+- **Traditions**: arcane, occult
+- **Cast**: ◆◆ (somatic, verbal)
+- **Source**: DA p.107
+
+---
+
+When you walk, the earth warps beneath your feet—your steps extend, distance contracts, and everything is just a little bit closer. You gain a +5-foot status bonus to your Speed until the end of your turn. You then Stride twice. You can use warp step to Burrow, Climb, Fly, or Swim instead of Stride if you have the corresponding movement type.

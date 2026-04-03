@@ -1,0 +1,13 @@
+# Champion's Sacrifice
+
+*uncommon, abjuration, champion*
+
+- **Level**: Focus 6
+- **Cast**: ◈ Reaction (somatic)
+- **Range**: 30 feet
+- **Targets**: 1 ally
+- **Source**: CRB p.387
+
+---
+
+You form a link with an ally, allowing you to take harm in their stead. All the effects of the hit or failed save are applied to you instead of the ally. For example, if the target critically fails a saving throw against a fireball, you would take double damage. These effects ignore any resistances, immunities, or other abilities you have that might mitigate them in any way, although those of the target apply before you take the effect.

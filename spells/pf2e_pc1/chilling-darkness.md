@@ -1,0 +1,25 @@
+# Chilling Darkness
+
+*attack, cold, concentrate, darkness, manipulate, unholy*
+
+- **Level**: Spell 3
+- **Traditions**: divine
+- **Cast**: ◆◆
+- **Range**: 120 feet
+- **Targets**: 1 creature
+- **Saving Throw**: AC
+- **Source**: PC1 p.320
+
+---
+
+You shoot an utterly cold ray of darkness tinged with unholy energy. Make a ranged spell attack. The ray deals 5d6 cold damage.  If the target has the holy trait, you deal an extra 5d6 spirit damage.
+
+**Critical Success** The target takes double damage.
+
+**Success** The target takes full damage.
+
+If the ray passes through an area of magical light or targets a creature affected by magical light, chilling darkness attempts to counteracting the light. If you need to determine whether the ray passes through an area of light, draw a line between yourself and the spell's target.
+
+---
+
+**Heightened (+1)** The cold damage increases by 5d6|3-10|2d6, and the spirit damage against holy creatures increases by 5d6|3-10|2d6.
