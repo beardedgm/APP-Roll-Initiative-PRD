@@ -181,6 +181,13 @@ function parseSpellMarkdown(md, isPf2e = false) {
     result.spellType = deriveSpellType(getField('Level'));
     const RARITIES = ['uncommon', 'rare'];
     result.rarity = result.traits.find(t => RARITIES.includes(t)) || 'common';
+
+    // PF2e cantrips are identified by the 'cantrip' trait, not the Level line.
+    // The Level line says "Spell 1" but the trait line says *cantrip, evocation, ...*
+    if (result.traits.includes('cantrip')) {
+      result.level = 0;
+      result.spellType = 'cantrip';
+    }
   }
 
   return result;
