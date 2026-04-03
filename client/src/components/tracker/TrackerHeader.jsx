@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import { Swords, Undo2, Redo2, Monitor, Trash2, User } from 'lucide-react';
+import { Swords, Undo2, Redo2, Monitor, Trash2, User, LogIn } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
 import useCombatStore from '../../store/useCombatStore';
 import { useShallow } from 'zustand/react/shallow';
 import { useCurrentUser } from '../../api/useAuth';
@@ -9,7 +10,7 @@ import ProfilePanel from './ProfilePanel';
 export default function TrackerHeader() {
   const [profileOpen, setProfileOpen] = useState(false);
   const { data: user } = useCurrentUser();
-  const displayName = user?.displayName || user?.email?.split('@')[0] || 'Account';
+  const navigate = useNavigate();
 
   const {
     undoLen, redoLen,
@@ -57,13 +58,15 @@ export default function TrackerHeader() {
           <Trash2 size={16} />
         </button>
 
-        {user && (
-          <>
-            <span className="header-divider" />
-            <button className="btn btn--icon" onClick={() => setProfileOpen(true)} title="Profile">
-              <User size={16} /> {displayName}
-            </button>
-          </>
+        <span className="header-divider" />
+        {user ? (
+          <button className="btn btn--icon" onClick={() => setProfileOpen(true)} title="Profile">
+            <User size={16} />
+          </button>
+        ) : (
+          <button className="btn btn--icon" onClick={() => navigate('/login')} title="Log in">
+            <LogIn size={16} />
+          </button>
         )}
       </div>
     </header>
