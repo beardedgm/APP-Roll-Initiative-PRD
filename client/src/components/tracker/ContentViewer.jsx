@@ -64,7 +64,8 @@ function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
   const monster = isCustomSlug ? storeDetailMonster : apiMonster;
   const loading = isCustomSlug ? false : isLoading;
 
-  // Event delegation for dice clicks in the rendered HTML
+  // Event delegation for dice clicks in the rendered HTML.
+  // Must re-run when monster loads (detailRef is null during loading state).
   useEffect(() => {
     if (!detailRef.current || !onRollDice) return;
 
@@ -78,7 +79,7 @@ function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
 
     el.addEventListener('click', handler);
     return () => el.removeEventListener('click', handler);
-  }, [onRollDice]);
+  }, [onRollDice, monster, loading]);
 
   const handleDelete = useCallback((deleteSlug) => {
     try {
