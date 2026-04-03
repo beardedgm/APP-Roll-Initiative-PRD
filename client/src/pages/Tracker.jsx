@@ -2,9 +2,8 @@ import { useState, useEffect, useCallback, useRef } from 'react';
 import useCombatStore from '../store/useCombatStore';
 
 import { useCurrentUser } from '../api/useAuth';
-import { useUserData } from '../api/useUserData';
 import useUserDataStore from '../store/useUserDataStore';
-import useUserDataSync from '../hooks/useUserDataSync';
+import useUserDataInit from '../hooks/useUserDataInit';
 import useEncounterCloudSetup from '../hooks/useEncounterCloudSetup';
 import TrackerHeader from '../components/tracker/TrackerHeader';
 import TurnControls from '../components/tracker/TurnControls';
@@ -38,41 +37,10 @@ export default function Tracker() {
 
   const { data: user } = useCurrentUser();
   const isAuthenticated = !!user;
-  const { data: serverData } = useUserData(isAuthenticated);
-  const loadFromServer = useUserDataStore(s => s.loadFromServer);
   const dataLoaded = useUserDataStore(s => s._loaded);
 
-  // Load server data into store on first fetch
-  // If server has data → use it (server is source of truth)
-  // If server is empty but local has data → keep local, let sync push it up
-  useEffect(() => {
-    if (!serverData || dataLoaded) return;
-
-    const serverHasData = (serverData.characters?.length > 0)
-      || (serverData.customMonsters?.length > 0)
-      || (serverData.encounterPresets?.length > 0);
-
-    if (serverHasData) {
-      loadFromServer(serverData);
-    } else {
-      // Server is empty — check if local store has data worth preserving
-      const local = useUserDataStore.getState();
-      const localHasData = (local.characters?.length > 0)
-        || (local.customMonsters?.length > 0)
-        || (local.encounterPresets?.length > 0);
-
-      if (localHasData) {
-        // Keep local data, just mark as loaded so sync hook can push it to server
-        useUserDataStore.setState({
-          _loaded: true,
-          version: serverData.version || 0,
-        });
-      } else {
-        // Both empty — just mark as loaded
-        loadFromServer(serverData);
-      }
-    }
-  }, [serverData, dataLoaded, loadFromServer]);
+  // Initialize user data from server + enable auto-sync
+  useUserDataInit(isAuthenticated);
 
   // One-time migration from old localStorage keys
   useEffect(() => {
@@ -80,9 +48,6 @@ export default function Tracker() {
       migrateLocalStorageToStore();
     }
   }, [dataLoaded]);
-
-  // Enable auto-sync when authenticated
-  useUserDataSync(isAuthenticated);
 
   // Wire up live encounter cloud sync for subscribers
   useEncounterCloudSetup(user);
