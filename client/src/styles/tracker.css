@@ -1403,6 +1403,27 @@ body.is-resizing .resize-handle::after {
   text-overflow: ellipsis;
 }
 
+.monster-db__item-info {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+.monster-db__item-cr,
+.monster-db__item-source {
+  font-family: var(--font-app);
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+  padding: 1px 4px;
+  background: var(--color-bg-dark);
+  border-radius: 3px;
+  border: 1px solid var(--color-border);
+}
+
 .monster-db__add-btn {
   width: 30px;
   height: 30px;
@@ -1654,6 +1675,18 @@ body.is-resizing .resize-handle::after {
 .dice-roll:hover {
   background: var(--color-accent-gold-muted);
   color: var(--color-text-primary);
+}
+
+/* ── Spell Links in Stat Blocks ──────────────────────────── */
+.spell-link {
+  color: var(--color-accent-gold);
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+}
+.spell-link:hover {
+  text-decoration-style: solid;
 }
 
 /* ── Monster Database Custom Actions ─────────────────────────── */

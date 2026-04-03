@@ -13,6 +13,11 @@ const SpellSchema = new mongoose.Schema({
   range:       { type: String },
   components:  { type: String },          // "V, S, M (bat guano)"
   duration:    { type: String },
+  traditions:  [{ type: String }],        // PF2e: arcane, divine, occult, primal, elemental
+  traits:      [{ type: String }],        // PF2e: fire, evocation, uncommon, mental, ...
+  actionCost:  { type: String },          // PF2e: '1', '2', '3', 'reaction', 'free', '1 to 3', 'long'
+  spellType:   { type: String },          // PF2e: 'spell', 'focus', 'ritual', 'cantrip'
+  rarity:      { type: String },          // PF2e: 'common', 'uncommon', 'rare'
   rawMarkdown: { type: String },
 }, { timestamps: true });
 
@@ -22,6 +27,9 @@ SpellSchema.index({ sourceKey: 1 });
 SpellSchema.index({ name: 1 });
 SpellSchema.index({ gameSystem: 1, sourceKey: 1 });
 SpellSchema.index({ gameSystem: 1, level: 1 });
+SpellSchema.index({ gameSystem: 1, traditions: 1 });
+SpellSchema.index({ gameSystem: 1, spellType: 1 });
+SpellSchema.index({ gameSystem: 1, actionCost: 1 });
 
 const Spell = mongoose.model('Spell', SpellSchema);
 

@@ -8,7 +8,7 @@
  *   node scripts/convertPf2eToMarkdown.js ../Pf2eTools/data/bestiary
  *
  * Reads: creatures-*.json files from the provided directory
- * Writes: Monsters/pf2e_{sourceKey}/{slug}.md files
+ * Writes: Monsters/pf2e/{sourceKey}/{slug}.md files
  */
 
 import fs from 'fs';
@@ -81,7 +81,8 @@ function main() {
         const sourceKey = sourceToKey(sourceCode);
         const slug = slugify(creature.name);
 
-        const outDir = path.join(MONSTERS_DIR, sourceKey);
+        const shortKey = sourceCode.toLowerCase().replace(/[^a-z0-9]/g, '');
+        const outDir = path.join(MONSTERS_DIR, 'pf2e', shortKey);
         if (!fs.existsSync(outDir)) {
           fs.mkdirSync(outDir, { recursive: true });
         }

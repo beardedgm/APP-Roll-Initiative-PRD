@@ -2,57 +2,21 @@ import { useState, useEffect, useRef, useCallback } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { useSpellBrowse, useSpellSources } from '../../api/useSpells';
 import useUIStore from '../../store/useUIStore';
-
-const LEVEL_OPTIONS_5E = [
-  { value: '0', label: 'Cantrip' },
-  { value: '1', label: '1st Level' },
-  { value: '2', label: '2nd Level' },
-  { value: '3', label: '3rd Level' },
-  { value: '4', label: '4th Level' },
-  { value: '5', label: '5th Level' },
-  { value: '6', label: '6th Level' },
-  { value: '7', label: '7th Level' },
-  { value: '8', label: '8th Level' },
-  { value: '9', label: '9th Level' },
-];
-
-const RANK_OPTIONS_PF2E = [
-  { value: '0', label: 'Cantrip' },
-  { value: '1', label: 'Rank 1' },
-  { value: '2', label: 'Rank 2' },
-  { value: '3', label: 'Rank 3' },
-  { value: '4', label: 'Rank 4' },
-  { value: '5', label: 'Rank 5' },
-  { value: '6', label: 'Rank 6' },
-  { value: '7', label: 'Rank 7' },
-  { value: '8', label: 'Rank 8' },
-  { value: '9', label: 'Rank 9' },
-  { value: '10', label: 'Rank 10' },
-];
-
-const SCHOOLS_5E = [
-  'Abjuration', 'Conjuration', 'Divination', 'Enchantment',
-  'Evocation', 'Illusion', 'Necromancy', 'Transmutation',
-];
-
-const TRADITIONS_PF2E = [
-  'arcane', 'divine', 'occult', 'primal',
-];
+import { GAME_SYSTEMS } from '../../../../shared/gameSystemConfig.js';
 
 const PAGE_SIZE = 12;
 
 export default function SpellList({ gameSystem = '5e' }) {
+  const config = GAME_SYSTEMS[gameSystem];
+  const spellConfig = config.spells;
+
   const [query, setQuery] = useState('');
   const [debouncedQuery, setDebouncedQuery] = useState('');
   const [sourceFilter, setSourceFilter] = useState('');
   const [levelFilter, setLevelFilter] = useState('');
-  const [thirdFilter, setThirdFilter] = useState(''); // school (5e) or tradition (pf2e)
+  const [primaryFilter, setPrimaryFilter] = useState('');
   const [page, setPage] = useState(0);
   const timerRef = useRef(null);
-
-  const isPf2e = gameSystem === 'pf2e';
-  const levelOptions = isPf2e ? RANK_OPTIONS_PF2E : LEVEL_OPTIONS_5E;
-  const levelAllLabel = isPf2e ? 'All Ranks' : 'All Levels';
 
   const pushContent = useUIStore(s => s.pushContent);
   const contentStack = useUIStore(s => s.contentStack);
@@ -74,14 +38,13 @@ export default function SpellList({ gameSystem = '5e' }) {
 
   function handleSourceFilter(val) { setSourceFilter(val); setPage(0); }
   function handleLevelFilter(val) { setLevelFilter(val); setPage(0); }
-  function handleThirdFilter(val) { setThirdFilter(val); setPage(0); }
+  function handlePrimaryFilter(val) { setPrimaryFilter(val); setPage(0); }
 
   const { data, isLoading } = useSpellBrowse({
     q: debouncedQuery,
     source: sourceFilter,
     level: levelFilter,
-    school: isPf2e ? '' : thirdFilter,
-    tradition: isPf2e ? thirdFilter : '',
+    [spellConfig.primaryFilter.paramName]: primaryFilter,
     gameSystem,
     limit: PAGE_SIZE,
     skip: page * PAGE_SIZE,
@@ -123,36 +86,23 @@ export default function SpellList({ gameSystem = '5e' }) {
             value={levelFilter}
             onChange={e => handleLevelFilter(e.target.value)}
           >
-            <option value="">{levelAllLabel}</option>
-            {levelOptions.map(opt => (
+            <option value="">{spellConfig.levelAllLabel}</option>
+            {spellConfig.levelOptions.map(opt => (
               <option key={opt.value} value={opt.value}>{opt.label}</option>
             ))}
           </select>
         </div>
         <div className="spell-list__filter-row">
-          {isPf2e ? (
-            <select
-              className="spell-list__select spell-list__select--full"
-              value={thirdFilter}
-              onChange={e => handleThirdFilter(e.target.value)}
-            >
-              <option value="">All Traditions</option>
-              {TRADITIONS_PF2E.map(t => (
-                <option key={t} value={t}>{t.charAt(0).toUpperCase() + t.slice(1)}</option>
-              ))}
-            </select>
-          ) : (
-            <select
-              className="spell-list__select spell-list__select--full"
-              value={thirdFilter}
-              onChange={e => handleThirdFilter(e.target.value)}
-            >
-              <option value="">All Schools</option>
-              {SCHOOLS_5E.map(s => (
-                <option key={s} value={s}>{s}</option>
-              ))}
-            </select>
-          )}
+          <select
+            className="spell-list__select spell-list__select--full"
+            value={primaryFilter}
+            onChange={e => handlePrimaryFilter(e.target.value)}
+          >
+            <option value="">{spellConfig.primaryFilter.label}</option>
+            {spellConfig.primaryFilter.options.map(opt => (
+              <option key={opt.value} value={opt.value}>{opt.label}</option>
+            ))}
+          </select>
         </div>
       </div>
 
