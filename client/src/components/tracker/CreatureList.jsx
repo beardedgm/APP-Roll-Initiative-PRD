@@ -19,7 +19,7 @@ const LEVEL_OPTIONS_PF2E = [
   '21', '22', '23', '24', '25',
 ];
 
-const PAGE_SIZE = 20;
+const PAGE_SIZE = 12;
 
 const CreatureList = forwardRef(function CreatureList({ gameSystem = '5e', onAddToEncounter }, ref) {
   const [query, setQuery] = useState('');
