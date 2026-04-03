@@ -9,7 +9,7 @@ const router = Router();
  * Public — returns seeded spells.
  */
 router.get('/api/spells/search', asyncHandler(async (req, res) => {
-  const { q, source, level, school, tradition, limit = 20, skip = 0, gameSystem = '5e' } = req.query;
+  const { q, source, level, school, tradition, category, spellType, actionCost, limit = 20, skip = 0, gameSystem = '5e' } = req.query;
   const filter = { gameSystem };
 
   if (q && q.trim()) {
@@ -30,9 +30,29 @@ router.get('/api/spells/search', asyncHandler(async (req, res) => {
     filter.school = new RegExp(escapedSchool, 'i');
   }
 
-  // PF2e: filter by tradition (stored in classes array)
+  // PF2e: filter by tradition (using proper traditions field)
   if (tradition && tradition.trim()) {
-    filter.classes = tradition.trim().toLowerCase();
+    filter.traditions = tradition.trim().toLowerCase();
+  }
+
+  // PF2e: category filter (tradition or spell type)
+  if (category && category.trim()) {
+    const cat = category.trim().toLowerCase();
+    if (cat === 'focus' || cat === 'ritual') {
+      filter.spellType = cat;
+    } else {
+      filter.traditions = cat;
+    }
+  }
+
+  // PF2e: filter by spell type
+  if (spellType && spellType.trim()) {
+    filter.spellType = spellType.trim().toLowerCase();
+  }
+
+  // PF2e: filter by action cost
+  if (actionCost && actionCost.trim()) {
+    filter.actionCost = actionCost.trim();
   }
 
   const lim = Math.min(parseInt(limit) || 20, 50);
@@ -40,7 +60,7 @@ router.get('/api/spells/search', asyncHandler(async (req, res) => {
 
   const [spells, total] = await Promise.all([
     Spell.find(filter)
-      .select('name slug source sourceKey gameSystem level school classes castingTime range components duration')
+      .select('name slug source sourceKey gameSystem level school classes castingTime range components duration traditions traits actionCost spellType rarity')
       .sort({ name: 1 })
       .skip(sk)
       .limit(lim),
@@ -62,6 +82,19 @@ router.get('/api/spells/sources', asyncHandler(async (req, res) => {
   ];
   const sources = await Spell.aggregate(pipeline);
   res.json(sources.map(s => ({ key: s._id, label: s.label, count: s.count })));
+}));
+
+/**
+ * GET /api/spells/names?gameSystem=pf2e
+ * Lightweight endpoint returning only name + slug for spell linking.
+ */
+router.get('/api/spells/names', asyncHandler(async (req, res) => {
+  const { gameSystem = '5e' } = req.query;
+  const spells = await Spell.find({ gameSystem })
+    .select('name slug')
+    .sort({ name: 1 })
+    .lean();
+  res.json(spells);
 }));
 
 /**
