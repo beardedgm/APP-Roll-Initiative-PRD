@@ -5,6 +5,8 @@ import useCombatStore from '../../store/useCombatStore';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
 import { GAME_SYSTEMS } from '../../../../shared/gameSystemConfig.js';
+import SOURCE_BADGES from '../../constants/monsterSources';
+import PF2E_SOURCE_BADGES from '../../constants/pf2eSources';
 
 const PAGE_SIZE = 12;
 
@@ -168,6 +170,10 @@ const CreatureList = forwardRef(function CreatureList({ gameSystem = '5e', onAdd
             onClick={() => handleCreatureClick(m)}
           >
             <span className="monster-db__item-name">{m.name}</span>
+            <span className="monster-db__item-info">
+              <span className="monster-db__item-cr">{creatureConfig.crLabel} {m.cr || '\u2014'}</span>
+              <span className="monster-db__item-source">{m.isCustom ? 'Custom' : ((gameSystem === 'pf2e' ? PF2E_SOURCE_BADGES : SOURCE_BADGES)[m.sourceKey] || m.sourceKey)}</span>
+            </span>
             <button
               className="monster-db__add-btn"
               title="Add to encounter"
