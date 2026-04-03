@@ -2,6 +2,7 @@ import { useState, useRef, forwardRef, useImperativeHandle } from 'react';
 import useUIStore from '../../store/useUIStore';
 import SystemToggle from './SystemToggle';
 import CreatureList from './CreatureList';
+import SpellList from './SpellList';
 import CharacterLibrary from './CharacterLibrary';
 import EncounterLibrary from './EncounterLibrary';
 
@@ -64,9 +65,7 @@ const LeftPanel = forwardRef(function LeftPanel({ onAddToEncounter }, ref) {
         {activeTab === 'spells' && (
           <>
             <SystemToggle value={spellsSystem} onChange={setSpellsSystem} />
-            <div className="left-panel__placeholder">
-              <p>Spells coming soon</p>
-            </div>
+            <SpellList key={spellsSystem} gameSystem={spellsSystem} />
           </>
         )}
         {activeTab === 'characters' && <CharacterLibrary />}

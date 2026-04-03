@@ -88,7 +88,7 @@ router.get('/api/monsters/sources', asyncHandler(async (req, res) => {
 router.get('/api/monsters/:slug', asyncHandler(async (req, res) => {
 
   // M-8: Validate slug format (alphanumeric + hyphens + underscores, max 200 chars)
-  if (!/^[a-z0-9_-]{1,200}$/i.test(req.params.slug)) {
+  if (!/^[a-z0-9._-]{1,200}$/i.test(req.params.slug)) {
     return res.status(400).json({ error: 'Invalid slug format' });
   }
 
