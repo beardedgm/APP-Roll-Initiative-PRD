@@ -1323,13 +1323,17 @@ body.is-resizing .resize-handle::after {
   display: flex;
   flex-direction: column;
   gap: var(--space-sm);
-  height: 100%;
 }
 
 .monster-db__filters {
   display: flex;
   flex-direction: column;
   gap: var(--space-xs);
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--color-bg-mid);
+  padding-bottom: var(--space-xs);
 }
 
 .monster-db__search {
@@ -1354,8 +1358,6 @@ body.is-resizing .resize-handle::after {
 }
 
 .monster-db__list {
-  flex: 1;
-  overflow-y: auto;
   display: flex;
   flex-direction: column;
   gap: var(--space-xs);
