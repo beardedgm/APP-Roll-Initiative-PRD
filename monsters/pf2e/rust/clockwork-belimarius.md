@@ -9,6 +9,8 @@ unique, n, medium, clockwork, construct, mindless
 
 **Skills** Acrobatics +12
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 29
+
 **STR** +2, **DEX** +4, **CON** +3, **INT** -5, **WIS** +2, **CHA** -5
 
 **Items** clockwork wand, 
@@ -35,7 +37,7 @@ unique, n, medium, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** ◆ halberd +16 (magical, reach, versatile <S>); **Damage** 2d10+4 piercing plus dispelling critical
+**Melee** ◆ halberd +16/+11/+6 (magical, reach, versatile <S>); **Damage** 2d10+4 piercing plus dispelling critical
 
 **Innate arcane Spells** (DC 21), attack +13
 

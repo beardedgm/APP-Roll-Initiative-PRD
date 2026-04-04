@@ -11,6 +11,8 @@ n, gargantuan, construct, troop
 
 **Skills** Athletics +26, Intimidation +23
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 31
+
 **STR** +7, **DEX** +2, **CON** +6, **INT** +2, **WIS** +3, **CHA** +4
 
 ---

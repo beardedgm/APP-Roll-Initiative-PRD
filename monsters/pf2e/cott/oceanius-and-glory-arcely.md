@@ -11,6 +11,8 @@ unique, large, angel, celestial, holy
 
 **Skills** Athletics +36, Intimidation +34, Religion +36
 
+**Recall Knowledge - Celestial** (Religion): DC 48
+
 **STR** +8, **DEX** +4, **CON** +6, **INT** +5, **WIS** +6, **CHA** +7
 
 **Items** +2 greater striking greatsword
@@ -31,7 +33,7 @@ unique, large, angel, celestial, holy
 
 Speed 25 feet, fly 60 feet
 
-**Melee** ◆ holy greatsword +36 (holy, magical, versatile <P>); **Damage** 3d12+19 slashing plus 1d4 spirit (or 2d4 spirit vs. an unholy target)
+**Melee** ◆ holy greatsword +36/+31/+26 (holy, magical, versatile <P>); **Damage** 3d12+19 slashing plus 1d4 spirit (or 2d4 spirit vs. an unholy target)
 
 **Innate divine Spells** (DC 41), attack +33
 

@@ -11,6 +11,8 @@ ne, large, fiend, sahkil
 
 **Skills** Arcana +27, Deception +33, Intimidation +33, Occultism +27, Religion +30, Stealth +28
 
+**Recall Knowledge - Fiend** (Religion): DC 36
+
 **STR** +9, **DEX** +3, **CON** +9, **INT** +2, **WIS** +5, **CHA** +8
 
 **Easy to Call** A sahkil's level is considered 2 lower for the purpose of being conjured by the planar binding ritual (and potentially other rituals, at the GM's discretion), but it is always free to attack or leave instead of negotiate unless the primary caster's check is a critical success.
@@ -33,9 +35,9 @@ ne, large, fiend, sahkil
 
 Speed 40 feet, fly 40 feet, climb 20 feet
 
-**Melee** ◆ jaws +34 (magical, reach <10 feet>); **Damage** 3d12+17 piercing plus 2d6 evil and sensory fever (page 222) plus sensory fever (page 222)
+**Melee** ◆ jaws +34/+29/+24 (magical, reach <10 feet>); **Damage** 3d12+17 piercing plus 2d6 evil and sensory fever (page 222) plus sensory fever (page 222)
 
-**Melee** ◆ claw +34 (agile, magical, reach <15 feet>); **Damage** 3d8+17 slashing plus 2d6 evil and sensory fever (page 222) plus sensory fever (page 222)
+**Melee** ◆ claw +34/+30/+26 (agile, magical, reach <15 feet>); **Damage** 3d8+17 slashing plus 2d6 evil and sensory fever (page 222) plus sensory fever (page 222)
 
 **Innate divine Spells** (DC 38)
 

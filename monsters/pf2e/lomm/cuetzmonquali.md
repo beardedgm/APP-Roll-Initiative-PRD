@@ -11,6 +11,8 @@ unique, ne, huge, beast, fire
 
 **Skills** Acrobatics +30, Athletics +33, Intimidation +30, Stealth +28, Survival +30
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 46
+
 **STR** +9, **DEX** +5, **CON** +8, **INT** -2, **WIS** +4, **CHA** +3
 
 **Follower of the Flame** Cuetzmonquali recognizes the might of the wielder of the Spear of the Destroyer's Flame|LOMM. Out of its respect for that strength, it follows the commands of the spear's wielder and can understand the wielder, regardless of the language the wielder speaks.
@@ -37,13 +39,13 @@ unique, ne, huge, beast, fire
 
 Speed 40 feet, fly 20 feet, climb 30 feet
 
-**Melee** ◆ jaws +33 (magical, reach <10 feet>); **Damage** 2d12+15 piercing plus 2d10 fire
+**Melee** ◆ jaws +33/+28/+23 (magical, reach <10 feet>); **Damage** 2d12+15 piercing plus 2d10 fire
 
-**Melee** ◆ claws +31 (agile, magical, reach <15 feet>); **Damage** 2d6+15 slashing plus 2d10 fire and Improved Grab plus Improved Grab
+**Melee** ◆ claws +31/+27/+23 (agile, magical, reach <15 feet>); **Damage** 2d6+15 slashing plus 2d10 fire and Improved Grab plus Improved Grab
 
-**Melee** ◆ tail +31 (magical, reach <25 feet>); **Damage** 2d4+15 piercing plus 2d10 fire and burning venom plus burning venom
+**Melee** ◆ tail +31/+26/+21 (magical, reach <25 feet>); **Damage** 2d4+15 piercing plus 2d10 fire and burning venom plus burning venom
 
-**Melee** ◆ horn +33 (magical, reach <10 feet>); **Damage** 2d8+15 piercing plus 2d10 fire
+**Melee** ◆ horn +33/+28/+23 (magical, reach <10 feet>); **Damage** 2d8+15 piercing plus 2d10 fire
 
 **Innate primal Spells** (DC 34)
 

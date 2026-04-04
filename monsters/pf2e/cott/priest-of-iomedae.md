@@ -11,6 +11,8 @@ uncommon, medium, humanoid
 
 **Skills** Diplomacy +13, Intimidation +15, Iomedae Lore +17, Medicine +16, Religion +17, Society +12, Survival +12
 
+**Recall Knowledge - Humanoid** (Society): DC 25
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** +2, **WIS** +6, **CHA** +3
 
 **Items** dagger, +1 longsword, religious symbol of Iomedae|PC1
@@ -27,11 +29,11 @@ uncommon, medium, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ longsword +16 (magical, versatile <P>); **Damage** 1d8+9 slashing
+**Melee** ◆ longsword +16/+11/+6 (magical, versatile <P>); **Damage** 1d8+9 slashing
 
-**Melee** ◆ dagger +15 (agile, versatile <S>); **Damage** 1d4+8 piercing
+**Melee** ◆ dagger +15/+11/+7 (agile, versatile <S>); **Damage** 1d4+8 piercing
 
-**Ranged** ◆ dagger +15 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
+**Ranged** ◆ dagger +15/+11/+7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
 
 **Prepared divine Spells** (DC 25), attack +17
 

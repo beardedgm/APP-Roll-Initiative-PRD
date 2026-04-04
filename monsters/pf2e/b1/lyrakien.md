@@ -11,6 +11,8 @@ cg, tiny, azata, celestial
 
 **Skills** Acrobatics +9, Diplomacy +6, Performance +8, Religion +6, Stealth +7
 
+**Recall Knowledge - Celestial** (Religion): DC 15
+
 **STR** -2, **DEX** +4, **CON** +1, **INT** +1, **WIS** +3, **CHA** +3
 
 ---
@@ -25,9 +27,9 @@ cg, tiny, azata, celestial
 
 Speed 25 feet, fly 50 feet
 
-**Melee** ◆ fist +9 (agile, chaotic, finesse, good, magical); **Damage** 1d4 –2 bludgeoning plus 1 chaotic and 1 good
+**Melee** ◆ fist +9/+5/+1 (agile, chaotic, finesse, good, magical); **Damage** 1d4 –2 bludgeoning plus 1 chaotic and 1 good
 
-**Ranged** ◆ starlight ray +9 (chaotic, good, light, range <10 feet>); **Damage** 1d4 chaotic and 1d4 good
+**Ranged** ◆ starlight ray +9/+4/-1 (chaotic, good, light, range <10 feet>); **Damage** 1d4 chaotic and 1d4 good
 
 **Innate divine Spells** (DC 17)
 

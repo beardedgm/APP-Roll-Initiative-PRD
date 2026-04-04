@@ -9,6 +9,8 @@ n, medium, construct, mindless
 
 **Skills** Acrobatics +9, Athletics +10, Stealth +9
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 18
+
 **STR** +3, **DEX** +4, **CON** +0, **INT** -5, **WIS** +2, **CHA** -5
 
 ---
@@ -25,7 +27,7 @@ n, medium, construct, mindless
 
 Speed 25 feet
 
-**Melee** ◆ jaws +8 (agile, finesse); **Damage** 1d10+3 piercing plus necrophidic paralysis plus necrophidic paralysis
+**Melee** ◆ jaws +8/+4/+0 (agile, finesse); **Damage** 1d10+3 piercing plus necrophidic paralysis plus necrophidic paralysis
 
 **Dance of Death** ◆◆◆ (enchantment, mental, occult, visual) The necrophidius sways, its serpentine form undulating and clattering in a hypnotic rhythm. Each creature that witnesses the dance must attempt a DC 18 Will save. **Critical Success** The creature is unaffected and is temporarily immune for 24 hours.
 **Success** The creature is unnerved by the swaying and becomes flat-footed until the end of the necrophidius's next turn.

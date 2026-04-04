@@ -11,6 +11,8 @@ rare, le, small, mummy, undead
 
 **Skills** Athletics +19, Nature +19, Stealth +19
 
+**Recall Knowledge - Undead** (Religion): DC 31
+
 **STR** +6, **DEX** +3, **CON** +0, **INT** +0, **WIS** +3, **CHA** +0
 
 ---
@@ -33,7 +35,7 @@ rare, le, small, mummy, undead
 
 Speed 20 feet, burrow 15 feet
 
-**Melee** ◆ fist +21; **Damage** 2d10+8 bludgeoning plus bog rot plus bog rot
+**Melee** ◆ fist +21/+16/+11; **Damage** 2d10+8 bludgeoning plus bog rot plus bog rot
 
 **Prepared primal Spells** (DC 28), attack +20
 

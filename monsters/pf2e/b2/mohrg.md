@@ -11,6 +11,8 @@ ce, medium, undead
 
 **Skills** Acrobatics +16, Athletics +18, Intimidation +19, Society +15, Stealth +18
 
+**Recall Knowledge - Undead** (Religion): DC 24
+
 **STR** +6, **DEX** +4, **CON** +4, **INT** +1, **WIS** +3, **CHA** +5
 
 ---
@@ -31,8 +33,8 @@ ce, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ claw +20; **Damage** 2d10+9 slashing plus Grab plus Grab
+**Melee** ◆ claw +20/+15/+10; **Damage** 2d10+9 slashing plus Grab plus Grab
 
-**Melee** ◆ tongue +20 (agile); plus paralysis
+**Melee** ◆ tongue +20/+16/+12 (agile); plus paralysis
 
 **Paralysis** (occult, incapacitation, necromancy) A living creature hit by a mohrg's tongue Strike must succeed at a DC 26 Fortitude save or become paralyzed. The creature can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each attempt.

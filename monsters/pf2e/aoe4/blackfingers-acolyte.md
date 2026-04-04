@@ -11,6 +11,8 @@ uncommon, ne, medium, human, humanoid
 
 **Skills** Acrobatics +14, Diplomacy +12, Intimidation +14, Religion +16, Stealth +16, Thievery +16, Norgorber Lore +10
 
+**Recall Knowledge - Humanoid** (Society): DC 24
+
 **STR** +1, **DEX** +4, **CON** +1, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** +1 striking dagger, hand crossbow (10 bolts, 4 with giant scorpion venom), leather armor, religious symbol of Norgorber
@@ -27,9 +29,9 @@ uncommon, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +15 (agile, finesse, magic, versatile <S>); **Damage** 1d4+6 piercing
+**Melee** ◆ dagger +15/+11/+7 (agile, finesse, magic, versatile <S>); **Damage** 1d4+6 piercing
 
-**Ranged** ◆ hand crossbow +14 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing plus giant scorpion venom plus giant scorpion venom
+**Ranged** ◆ hand crossbow +14/+9/+4 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing plus giant scorpion venom plus giant scorpion venom
 
 **Prepared divine Spells** (DC 24), attack +17
 

@@ -11,6 +11,8 @@ uncommon, ln, medium, humanoid, lizardfolk
 
 **Skills** Acrobatics +16, Athletics +18, Astrology Lore +14, Diplomacy +14, Intimidation +14, Religion +18
 
+**Recall Knowledge - Humanoid** (Society): DC 26
+
 **STR** +6, **DEX** +4, **CON** +4, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** leather armor, +1 striking returning mambele (Pathfinder Lost Omens Gods & Magic 120)
@@ -33,11 +35,11 @@ uncommon, ln, medium, humanoid, lizardfolk
 
 Speed 25 feet
 
-**Melee** ◆ mambele +20 (disarm, deadly <d8>); **Damage** 2d6+9 slashing
+**Melee** ◆ mambele +20/+15/+10 (disarm, deadly <d8>); **Damage** 2d6+9 slashing
 
-**Melee** ◆ claws +18 (agile, finesse); **Damage** 2d6+6 slashing
+**Melee** ◆ claws +18/+14/+10 (agile, finesse); **Damage** 2d6+6 slashing
 
-**Ranged** ◆ mambele +18 (disarm, deadly <d8>, thrown <20 feet>); **Damage** 2d6+9 slashing
+**Ranged** ◆ mambele +18/+13/+8 (disarm, deadly <d8>, thrown <20 feet>); **Damage** 2d6+9 slashing
 
 **Celestial Might** ◆◆ **Frequency** {"number":1,"unit":"round"}; The Terwa chosen calls upon the stars to empower their attack. They attempt a Strike. If the Strike hits, the Terwa chosen deals an additional 2d6 precision damage.
 

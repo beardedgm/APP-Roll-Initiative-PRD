@@ -11,6 +11,8 @@ unique, cg, medium, elf, humanoid, tiefling
 
 **Skills** Acrobatics +12, Nature +12, Occultism +12, Performance +10, Religion +13, Astrology Lore +12, Spirit Lore +16
 
+**Recall Knowledge - Humanoid** (Society): DC 30
+
 **STR** +0, **DEX** +3, **CON** +0, **INT** +2, **WIS** +3, **CHA** +4
 
 **Items** harrow fortune-telling deck, silver religious symbol, +1 starknife, violin
@@ -31,11 +33,11 @@ unique, cg, medium, elf, humanoid, tiefling
 
 Speed 25 feet
 
-**Melee** ◆ starknife +12 (agile, deadly <d6>, finesse, magical, versatile <S>); **Damage** 1d4 piercing
+**Melee** ◆ starknife +12/+8/+4 (agile, deadly <d6>, finesse, magical, versatile <S>); **Damage** 1d4 piercing
 
-**Melee** ◆ tail +10 (agile, finesse, unarmed); **Damage** 1d4 bludgeoning
+**Melee** ◆ tail +10/+6/+2 (agile, finesse, unarmed); **Damage** 1d4 bludgeoning
 
-**Ranged** ◆ starknife +12 (agile, deadly <d6>, magical, thrown <20 feet>, versatile <S>); **Damage** 1d4 piercing
+**Ranged** ◆ starknife +12/+8/+4 (agile, deadly <d6>, magical, thrown <20 feet>, versatile <S>); **Damage** 1d4 piercing
 
 **Spontaneous primal Spells** (DC 22), attack +14
 

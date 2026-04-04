@@ -11,6 +11,8 @@ uncommon, ne, medium, mummy, undead
 
 **Skills** Arcana +23, Deception +25, Intimidation +27, Occultism +25, Religion +27, Society +23, Stealth +23
 
+**Recall Knowledge - Undead** (Religion): DC 33
+
 **STR** +5, **DEX** +4, **CON** +5, **INT** +6, **WIS** +8, **CHA** +6
 
 **Items** religious symbol of Set|BotD, +1 striking spear
@@ -35,11 +37,11 @@ uncommon, ne, medium, mummy, undead
 
 Speed 20 feet
 
-**Melee** ◆ spear +25 (magical); **Damage** 3d6+11 piercing plus sand rot
+**Melee** ◆ spear +25/+20/+15 (magical); **Damage** 3d6+11 piercing plus sand rot
 
-**Melee** ◆ fist +24 (agile); **Damage** 3d4+11 bludgeoning plus sand rot
+**Melee** ◆ fist +24/+20/+16 (agile); **Damage** 3d4+11 bludgeoning plus sand rot
 
-**Ranged** ◆ spear +24 (magical, thrown <20 feet>); **Damage** 3d6+11 piercing plus sand rot
+**Ranged** ◆ spear +24/+19/+14 (magical, thrown <20 feet>); **Damage** 3d6+11 piercing plus sand rot
 
 **Prepared divine Spells** (DC 33), attack +25
 

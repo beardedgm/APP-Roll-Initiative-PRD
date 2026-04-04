@@ -9,6 +9,8 @@ rare, n, huge, construct, golem, mindless
 
 **Skills** Athletics +20
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 35
+
 **STR** +7, **DEX** +2, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -31,7 +33,7 @@ rare, n, huge, construct, golem, mindless
 
 Speed 25 feet
 
-**Melee** ◆ jaws +26 (deadly <2d10>, magical, reach <15 feet>); **Damage** 3d10+13 piercing plus fossilization plus fossilization
+**Melee** ◆ jaws +26/+21/+16 (deadly <2d10>, magical, reach <15 feet>); **Damage** 3d10+13 piercing plus fossilization plus fossilization
 
 **Fossilization** (arcane, incapacitation, transmutation) The first time each round a creature takes damage from the fossil golem's jaws, the target must attempt a DC 32 Fortitude save. If it fails and has not already been slowed by this ability, it becomes slowed 1 for 1 minute. If the creature was already slowed by this ability, a failed save causes it to be petrified permanently.
 

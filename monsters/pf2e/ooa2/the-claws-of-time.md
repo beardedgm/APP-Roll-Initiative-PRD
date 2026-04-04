@@ -11,6 +11,8 @@ unique, ne, medium, aberration, time
 
 **Skills** Acrobatics +22, Athletics +19, Occultism +22, Stealth +22, Survival +17
 
+**Recall Knowledge - Aberration** (Occultism): DC 37
+
 **STR** +5, **DEX** +7, **CON** +3, **INT** +7, **WIS** +5, **CHA** +3
 
 **Lamp Vision** The Claws of Time is specially attuned to the crystal lamps in the Cradle of Quartz. It can sense creatures within 30 feet of any crystal lamp in the Cradle of Quartz. These lamps are marked as glowing blue dots on the map on page 42. This is a precise sense.
@@ -37,9 +39,9 @@ unique, ne, medium, aberration, time
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ jaws +22; **Damage** 2d10+11 piercing
+**Melee** ◆ jaws +22/+17/+12; **Damage** 2d10+11 piercing
 
-**Melee** ◆ claw +22 (agile); **Damage** 2d8+11 slashing
+**Melee** ◆ claw +22/+18/+14 (agile); **Damage** 2d8+11 slashing
 
 **Innate occult Spells** (DC 28)
 

@@ -11,6 +11,8 @@ unique, ne, medium, dwarf, humanoid
 
 **Skills** Athletics +14, Deception +15, Intimidation +13, Society +12, Thievery +14
 
+**Recall Knowledge - Humanoid** (Society): DC 32
+
 **STR** +4, **DEX** +2, **CON** +4, **INT** +2, **WIS** +1, **CHA** +3
 
 **Items** heavy crossbow (10 bolts), lesser elixir of life, leather armor, longsword, strongbox key, thieves' tools
@@ -31,9 +33,9 @@ unique, ne, medium, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ longsword +17 (versatile <P>); **Damage** 1d8+6 slashing
+**Melee** ◆ longsword +17/+12/+7 (versatile <P>); **Damage** 1d8+6 slashing
 
-**Melee** ◆ heavy crossbow +15 (range increment <60 feet>, reload <1>); **Damage** 1d10 piercing
+**Melee** ◆ heavy crossbow +15/+10/+5 (range increment <60 feet>, reload <1>); **Damage** 1d10 piercing
 
 **Low Blow** ◈ **Requirements** Kolbo successfully Feints an opponent; The foe is knocked prone.
 

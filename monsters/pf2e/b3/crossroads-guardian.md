@@ -11,6 +11,8 @@ rare, n, medium, fey
 
 **Skills** Arcana +16, Diplomacy +20, Medicine +17, Nature +19, Occultism +16, Performance +16, Religion +17, Society +16, Survival +19
 
+**Recall Knowledge - Fey** (Nature): DC 28
+
 **STR** +5, **DEX** +4, **CON** +3, **INT** +5, **WIS** +6, **CHA** +7
 
 **Items** chain mail, greatsword
@@ -33,7 +35,7 @@ rare, n, medium, fey
 
 Speed 25 feet, swim 25 feet
 
-**Melee** ◆ greatsword +18 (versatile <P>); **Damage** 1d12+11 slashing plus 1d6 mental
+**Melee** ◆ greatsword +18/+13/+8 (versatile <P>); **Damage** 1d12+11 slashing plus 1d6 mental
 
 **Innate primal Spells** (DC 25)
 

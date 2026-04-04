@@ -11,6 +11,8 @@ cn, medium, construct
 
 **Skills** Acrobatics +11, Crafting +5, Deception +10, Stealth +11
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 18
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** -2, **WIS** +2, **CHA** +1
 
 ---
@@ -31,6 +33,6 @@ cn, medium, construct
 
 Speed 25 feet
 
-**Melee** ◆ fist +13 (agile, finesse); **Damage** 2d4+4 bludgeoning
+**Melee** ◆ fist +13/+9/+5 (agile, finesse); **Damage** 2d4+4 bludgeoning
 
-**Ranged** ◆ splatter +11 (nonlethal, range increment <20 feet>); **Damage** 1d4+4 plus blinded|CRB|blinded 1 round plus 1d4+4
+**Ranged** ◆ splatter +11/+6/+1 (nonlethal, range increment <20 feet>); **Damage** 1d4+4 plus blinded|CRB|blinded 1 round plus 1d4+4

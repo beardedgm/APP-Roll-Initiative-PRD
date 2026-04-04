@@ -9,6 +9,8 @@ uncommon, n, medium, construct, golem, mindless
 
 **Skills** Athletics +17
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 24
+
 **STR** +5, **DEX** +4, **CON** +3, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -33,8 +35,8 @@ uncommon, n, medium, construct, golem, mindless
 
 Speed 25 feet
 
-**Melee** ◆ fist +17 (magical); **Damage** 2d8+8 bludgeoning
+**Melee** ◆ fist +17/+12/+7 (magical); **Damage** 2d8+8 bludgeoning
 
-**Ranged** ◆ splinter +16 (magical, range increment <30 feet>); **Damage** 2d4+8 piercing
+**Ranged** ◆ splinter +16/+11/+6 (magical, range increment <30 feet>); **Damage** 2d4+8 piercing
 
 **Splinter Volley** ◆◆ (arcane, evocation) The wood golem makes up to four splinter Strikes, each against a different target. These attacks count toward the wood golem's multiple attack penalty, but the multiple attack penalty doesn't increase until after the wood golem makes all of its attacks.

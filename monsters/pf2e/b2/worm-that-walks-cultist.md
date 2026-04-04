@@ -11,6 +11,8 @@ uncommon, ce, medium, aberration, swarm
 
 **Skills** Acrobatics +24, Deception +28, Intimidation +26, Occultism +27, Society +23, Stealth +28
 
+**Recall Knowledge - Aberration** (Occultism): DC 34
+
 **STR** +5, **DEX** +8, **CON** +5, **INT** +5, **WIS** +4, **CHA** +8
 
 ---
@@ -33,7 +35,7 @@ uncommon, ce, medium, aberration, swarm
 
 Speed 30 feet
 
-**Melee** ◆ tendril +29 (reach <10 feet>); **Damage** 4d8+14 persistent piercing damage
+**Melee** ◆ tendril +29/+24/+19 (reach <10 feet>); **Damage** 4d8+14 persistent piercing damage
 
 **Spontaneous occult Spells** (DC 34), attack +26
 

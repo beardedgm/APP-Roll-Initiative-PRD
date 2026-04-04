@@ -11,6 +11,8 @@ ne, large, fiend, fire, giant, humanoid, oni
 
 **Skills** Acrobatics +23, Arcana +23, Athletics +27, Crafting +25, Deception +27, Intimidation +27, Nature +25
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 32
+
 **STR** +8, **DEX** +6, **CON** +6, **INT** +4, **WIS** +6, **CHA** +8
 
 **Items** +1 resilient breastplate, +2 striking katana
@@ -31,11 +33,11 @@ ne, large, fiend, fire, giant, humanoid, oni
 
 Speed 40 feet, fly 40 feet
 
-**Melee** ◆ katana +30 (deadly <1d8>, magical, reach <10 feet>, two-hand <d10>, versatile <P>); **Damage** 2d6+16 slashing plus 2d6 fire
+**Melee** ◆ katana +30/+25/+20 (deadly <1d8>, magical, reach <10 feet>, two-hand <d10>, versatile <P>); **Damage** 2d6+16 slashing plus 2d6 fire
 
-**Melee** ◆ fist +28 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+16 bludgeoning plus 2d6 fire and 2d6 persistent fire
+**Melee** ◆ fist +28/+24/+20 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+16 bludgeoning plus 2d6 fire and 2d6 persistent fire
 
-**Ranged** ◆ fire missile +26 (evil, fire, magical, range increment <60 feet>); **Damage** 2d10+16 fire plus 2d6 persistent fire
+**Ranged** ◆ fire missile +26/+21/+16 (evil, fire, magical, range increment <60 feet>); **Damage** 2d10+16 fire plus 2d6 persistent fire
 
 **Innate primal Spells** (DC 34)
 

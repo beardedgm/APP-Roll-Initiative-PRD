@@ -11,6 +11,8 @@ rare, ne, huge, incorporeal, spirit, undead
 
 **Skills** Intimidation +40, Occultism +34, Performance +38, Society +34
 
+**Recall Knowledge - Spirit** (Religion): DC 45
+
 **STR** -5, **DEX** +7, **CON** +4, **INT** +6, **WIS** +7, **CHA** +10
 
 **Lifesense** (divination, occult) A gray death senses the vital essence of living creatures within range.
@@ -35,7 +37,7 @@ rare, ne, huge, incorporeal, spirit, undead
 
 Speed fly 60 feet
 
-**Melee** ◆ hand +38 (finesse, magical, reach <15 feet>); **Damage** 4d10+16 negative plus life sap
+**Melee** ◆ hand +38/+33/+28 (finesse, magical, reach <15 feet>); **Damage** 4d10+16 negative plus life sap
 
 **Flailing Touch** ◆◆ The gray death makes up to four hand Strikes, each against a different target it can reach. It increases its reach to 100 feet with these Strikes. These Strikes count as one attack for the gray death's multiple attack penalty, and the penalty doesn't increase until after the attacks.
 

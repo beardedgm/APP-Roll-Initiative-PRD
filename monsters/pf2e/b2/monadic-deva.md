@@ -11,6 +11,8 @@ ng, medium, angel, celestial
 
 **Skills** Arcana +25, Diplomacy +24, Intimidation +22, Occultism +20, Religion +25, Survival +22
 
+**Recall Knowledge - Celestial** (Religion): DC 30
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** +4, **WIS** +4, **CHA** +5
 
 **Items** +1 striking mace
@@ -33,7 +35,7 @@ ng, medium, angel, celestial
 
 Speed 30 feet, fly 60 feet
 
-**Melee** ◆ holy mace +28 (good, magical, shove); **Damage** 2d6+15 bludgeoning plus 1d6 force and 1d6 good plus solid blow plus solid blow
+**Melee** ◆ holy mace +28/+23/+18 (good, magical, shove); **Damage** 2d6+15 bludgeoning plus 1d6 force and 1d6 good plus solid blow plus solid blow
 
 **Innate divine Spells** (DC 31)
 

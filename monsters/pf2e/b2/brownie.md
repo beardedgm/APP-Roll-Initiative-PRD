@@ -11,6 +11,8 @@ n, tiny, fey
 
 **Skills** Acrobatics +7, Crafting +5, Deception +6, Stealth +9
 
+**Recall Knowledge - Fey** (Nature): DC 15
+
 **STR** -2, **DEX** +4, **CON** +1, **INT** +2, **WIS** +4, **CHA** +3
 
 **Items** shortsword
@@ -27,7 +29,7 @@ n, tiny, fey
 
 Speed 20 feet
 
-**Melee** ◆ shortsword +7 (agile, finesse); **Damage** 1d6 plus 1d6
+**Melee** ◆ shortsword +7/+3/-1 (agile, finesse); **Damage** 1d6 plus 1d6
 
 **Innate primal Spells** (DC 17)
 

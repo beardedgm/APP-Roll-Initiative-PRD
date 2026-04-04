@@ -29,9 +29,9 @@ uncommon, ne, medium, shadow
 
 Speed 5 feet, fly 30 feet
 
-**Melee** ◆ claw +16 (agile, magical); **Damage** 1d8+7 slashing plus 1d8 cold
+**Melee** ◆ claw +16/+12/+8 (agile, magical); **Damage** 1d8+7 slashing plus 1d8 cold
 
-**Ranged** ◆ burning cold +17 (magical, range <120 feet>); **Damage** 2d8 cold plus 1d8 persistent cold
+**Ranged** ◆ burning cold +17/+12/+7 (magical, range <120 feet>); **Damage** 2d8 cold plus 1d8 persistent cold
 
 **Innate occult Spells** (DC 23), attack +15
 

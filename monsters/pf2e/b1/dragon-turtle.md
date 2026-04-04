@@ -11,6 +11,8 @@ n, huge, amphibious, dragon
 
 **Skills** Athletics +21, Diplomacy +16, Intimidation +18, Stealth +13, Survival +17
 
+**Recall Knowledge - Dragon** (Arcana): DC 26
+
 **STR** +6, **DEX** +0, **CON** +4, **INT** +1, **WIS** +3, **CHA** +1
 
 ---

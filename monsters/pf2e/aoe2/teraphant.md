@@ -11,6 +11,8 @@ uncommon, n, huge, beast
 
 **Skills** Athletics +20, Intimidation +18, Survival +18
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 28
+
 **STR** +7, **DEX** +1, **CON** +5, **INT** -2, **WIS** +3, **CHA** +3
 
 **Emotion Sense** (emotion, mental) A teraphant can sense the emotions of creatures within 120 feet as an imprecise sense. Emotion sense is a precise sense against creatures under an emotion effect. A creature under the effects of calm emotions can't be noticed via emotion sense.
@@ -29,11 +31,11 @@ uncommon, n, huge, beast
 
 Speed 45 feet
 
-**Melee** ◆ horn +20 (reach <10 feet>); **Damage** 3d6+9 piercing
+**Melee** ◆ horn +20/+15/+10 (reach <10 feet>); **Damage** 3d6+9 piercing
 
-**Melee** ◆ trunk +20 (reach <15 feet>); plus grabbing trunk
+**Melee** ◆ trunk +20/+15/+10 (reach <15 feet>); plus grabbing trunk
 
-**Melee** ◆ foot +20 (reach <10 feet>); **Damage** 3d10+9 bludgeoning
+**Melee** ◆ foot +20/+15/+10 (reach <10 feet>); **Damage** 3d10+9 bludgeoning
 
 **Grabbing Trunk** A Medium or smaller creature hit by the teraphant's trunk is grabbed. If the teraphant moves, it can bring the grabbed creature along with it.
 

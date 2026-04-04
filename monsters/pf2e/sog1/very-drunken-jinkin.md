@@ -11,6 +11,8 @@ uncommon, ce, tiny, fey, gremlin
 
 **Skills** Acrobatics +2, Crafting +0, Deception +2, Nature +2, Stealth +2, Thievery +2
 
+**Recall Knowledge - Fey** (Nature): DC 15
+
 **STR** -2, **DEX** +0, **CON** +0, **INT** -2, **WIS** +0, **CHA** +0
 
 **Items** club (table leg or bottle)
@@ -31,9 +33,9 @@ uncommon, ce, tiny, fey, gremlin
 
 Speed 20 feet
 
-**Melee** ◆ club +0 (thrown <10 feet>); **Damage** 1d6-2 bludgeoning
+**Melee** ◆ club +0/-5/-10 (thrown <10 feet>); **Damage** 1d6-2 bludgeoning
 
-**Ranged** ◆ club +17 (thrown <10 feet>); **Damage** 1d6-2 bludgeoning
+**Ranged** ◆ club +17/+12/+7 (thrown <10 feet>); **Damage** 1d6-2 bludgeoning
 
 **Innate primal Spells** (DC 13)
 

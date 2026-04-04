@@ -11,6 +11,8 @@ ne, medium, human, humanoid
 
 **Skills** Acrobatics +17, Athletics +13, Deception +12, Diplomacy +10, Intimidation +10, Medicine +14, Society +12, Stealth +19, Survival +12, Thievery +15, Underworld Lore +14
 
+**Recall Knowledge - Humanoid** (Society): DC 24
+
 **STR** +3, **DEX** +5, **CON** +2, **INT** +2, **WIS** +2, **CHA** +0
 
 **Items** +1 striking composite shortbow (20 arrows), lesser darkvision elixir, giant centipede venom (3), invisibility potion, leather armor, +1 rapier, simple injury poison (8 doses, 2d4 poison damage), sleep poison (2)
@@ -33,9 +35,9 @@ ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ rapier +18 (deadly <1d8>, disarm, finesse, magical); **Damage** 1d6+8 piercing
+**Melee** ◆ rapier +18/+13/+8 (deadly <1d8>, disarm, finesse, magical); **Damage** 1d6+8 piercing
 
-**Ranged** ◆ composite shortbow +20 (deadly <2d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 2d6+4 piercing
+**Ranged** ◆ composite shortbow +20/+15/+10 (deadly <2d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 2d6+4 piercing
 
 **Poison Weapon** ◆ (manipulate) **Requirements** The assassin is wielding a piercing or slashing weapon and has a free hand; The assassin applies a poison to the weapon.
 

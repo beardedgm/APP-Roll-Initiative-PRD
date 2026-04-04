@@ -11,6 +11,8 @@ uncommon, n, huge, dragon, earth
 
 **Skills** Acrobatics +25, Athletics +31, Deception +28, Diplomacy +32, Intimidation +30, Occultism +25, Society +27, Stealth +25, Survival +27
 
+**Recall Knowledge - Dragon** (Arcana): DC 36
+
 **STR** +8, **DEX** +4, **CON** +6, **INT** +4, **WIS** +6, **CHA** +7
 
 ---
@@ -33,11 +35,11 @@ uncommon, n, huge, dragon, earth
 
 Speed 50 feet, fly 150 feet
 
-**Melee** ◆ jaws +30 (magical, reach <15 feet>); **Damage** 3d10+14 piercing plus 2d6 mental
+**Melee** ◆ jaws +30/+25/+20 (magical, reach <15 feet>); **Damage** 3d10+14 piercing plus 2d6 mental
 
-**Melee** ◆ claw +30 (agile, magical, reach <10 feet>); **Damage** 3d10+14 slashing plus Grab plus Grab
+**Melee** ◆ claw +30/+26/+22 (agile, magical, reach <10 feet>); **Damage** 3d10+14 slashing plus Grab plus Grab
 
-**Melee** ◆ tail +30 (magical, reach <25 feet>); **Damage** 3d10+14 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +30/+25/+20 (magical, reach <25 feet>); **Damage** 3d10+14 bludgeoning plus Grab plus Grab
 
 **Innate occult Spells** (DC 36), attack +30
 

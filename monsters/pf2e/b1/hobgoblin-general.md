@@ -11,6 +11,8 @@ le, medium, goblin, humanoid
 
 **Skills** Acrobatics +12, Athletics +15, Intimidation +14, Stealth +12
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** +0, **WIS** +1, **CHA** +2
 
 **Items** composite shortbow (20 arrows), +1 glaive, half plate
@@ -31,8 +33,8 @@ le, medium, goblin, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ glaive +17 (deadly <1d8>, forceful, reach); **Damage** 1d8+10 slashing
+**Melee** ◆ glaive +17/+12/+7 (deadly <1d8>, forceful, reach); **Damage** 1d8+10 slashing
 
-**Ranged** ◆ composite shortbow +15 (brutal, deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+8 piercing
+**Ranged** ◆ composite shortbow +15/+10/+5 (brutal, deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+8 piercing
 
 **Polearm Critical Specialization** On a critical hit, the target of the critical hit is moved 5 feet in a direction of the hobgoblin general's choice.

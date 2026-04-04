@@ -11,6 +11,8 @@ unique, le, large, mummy, undead
 
 **Skills** Athletics +19, Stealth +16
 
+**Recall Knowledge - Undead** (Religion): DC 36
+
 **STR** +6, **DEX** +1, **CON** +3, **INT** +0, **WIS** +3, **CHA** +0
 
 ---
@@ -35,7 +37,7 @@ unique, le, large, mummy, undead
 
 Speed 20 feet, burrow 15 feet
 
-**Melee** ◆ fist +20 (reach <10 feet>); **Damage** 2d6+5 plus bog rot
+**Melee** ◆ fist +20/+15/+10 (reach <10 feet>); **Damage** 2d6+5 plus bog rot
 
 **Bog Rot** (curse, disease, divine, necromancy, negative) This affliction can't be reduced below stage 1, nor can the damage from it be healed, until it's successfully treated with remove curse or a similar effect; the affliction can then be removed as normal for a disease. A creature killed by bog rot melts into a noxious sludge and can't be resurrected except by a 7th-level resurrect ritual or similar magic **Saving Throw** DC 21 Fortitude
 **Stage 1** carrier with no ill effect (1 minute)

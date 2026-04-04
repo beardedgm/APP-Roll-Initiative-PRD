@@ -9,6 +9,8 @@ n, small, earth, elemental
 
 **Skills** Athletics +11, Survival +9
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 18
+
 **STR** +4, **DEX** -1, **CON** +3, **INT** -4, **WIS** +2, **CHA** -1
 
 **Crystal Sense** A sod hound can sense crystals or gems within 60 feet.
@@ -27,7 +29,7 @@ n, small, earth, elemental
 
 Speed 30 feet
 
-**Melee** ◆ jaws +11; **Damage** 1d10 + 6 piercing plus Knockdown plus Knockdown
+**Melee** ◆ jaws +11/+6/+1; **Damage** 1d10 + 6 piercing plus Knockdown plus Knockdown
 
 **Earth Glide** The sod hound burrows through any earthen matter, including rock. It moves up to 20 feet, leaving no tunnels or signs of its passing.
 

@@ -11,6 +11,8 @@ ce, huge, fiend, giant, humanoid, oni, water
 
 **Skills** Acrobatics +30, Arcana +29, Athletics +33, Deception +32, Intimidation +32, Nature +29, Performance +33
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 36
+
 **STR** +9, **DEX** +6, **CON** +6, **INT** +5, **WIS** +9, **CHA** +6
 
 **Items** +2 greater striking longspear
@@ -31,13 +33,13 @@ ce, huge, fiend, giant, humanoid, oni, water
 
 Speed 40 feet, fly 40 feet, swim 50 feet, water walk
 
-**Melee** ◆ longspear +35 (evil, magical, reach <20 feet>); **Damage** 3d8+15 piercing plus 2d6 electricity
+**Melee** ◆ longspear +35/+30/+25 (evil, magical, reach <20 feet>); **Damage** 3d8+15 piercing plus 2d6 electricity
 
-**Melee** ◆ kimono +33 (electricity, evil, magical, reach <15 feet>); **Damage** 3d12+12 electricity plus Enveloping Kimono plus Enveloping Kimono
+**Melee** ◆ kimono +33/+28/+23 (electricity, evil, magical, reach <15 feet>); **Damage** 3d12+12 electricity plus Enveloping Kimono plus Enveloping Kimono
 
-**Melee** ◆ fist +33 (agile, evil, magical, reach <15 feet>); **Damage** 3d8+15 bludgeoning plus 2d6 electricity
+**Melee** ◆ fist +33/+29/+25 (agile, evil, magical, reach <15 feet>); **Damage** 3d8+15 bludgeoning plus 2d6 electricity
 
-**Ranged** ◆ electric missile +30 (electricity, evil, magical, range increment <60 feet>); **Damage** 3d12+12 electricity plus flat-footed for 1 round
+**Ranged** ◆ electric missile +30/+25/+20 (electricity, evil, magical, range increment <60 feet>); **Damage** 3d12+12 electricity plus flat-footed for 1 round
 
 **Innate primal Spells** (DC 38)
 

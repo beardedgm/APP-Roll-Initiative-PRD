@@ -9,6 +9,8 @@ unique, n, medium, construct
 
 **Skills** Athletics +24
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 38
+
 **STR** +7, **DEX** +5, **CON** +5, **INT** -5, **WIS** +5, **CHA** -5
 
 ---
@@ -27,7 +29,7 @@ unique, n, medium, construct
 
 Speed 40 feet, swim 40 feet
 
-**Melee** ◆ jaws +24 (agile); **Damage** 2d8+13 slashing plus
+**Melee** ◆ jaws +24/+20/+16 (agile); **Damage** 2d8+13 slashing plus
 
 **Innate primal Spells** (DC 30)
 

@@ -11,6 +11,8 @@ unique, ce, large, angel, celestial
 
 **Skills** Athletics +44, Intimidation +43, Religion +41
 
+**Recall Knowledge - Celestial** (Religion): DC 56
+
 **STR** +11, **DEX** +7, **CON** +9, **INT** +6, **WIS** +8, **CHA** +10
 
 **Items** Large +3 major striking greatsword
@@ -31,9 +33,9 @@ unique, ce, large, angel, celestial
 
 Speed 35 feet, fly 60 feet
 
-**Melee** ◆ unholy greatsword +42 (evil, magical, reach <10 feet>, versatile 10 feet); **Damage** 4d12+21 slashing plus 1d6 evil
+**Melee** ◆ unholy greatsword +42/+37/+32 (evil, magical, reach <10 feet>, versatile 10 feet); **Damage** 4d12+21 slashing plus 1d6 evil
 
-**Ranged** ◆ radiant ray +40 (evil, magical, range <60 feet>); **Damage** 6d6+15 fire plus 2d6 evil (plus dazzled on critical hit)
+**Ranged** ◆ radiant ray +40/+35/+30 (evil, magical, range <60 feet>); **Damage** 6d6+15 fire plus 2d6 evil (plus dazzled on critical hit)
 
 **Innate divine Spells** (DC 47), attack +39
 

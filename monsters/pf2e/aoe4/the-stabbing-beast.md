@@ -11,6 +11,8 @@ unique, ne, huge, fiend, herald
 
 **Skills** Acrobatics +27, Athletics +25, Crafting +24, Deception +26, Religion +24, Society +26, Stealth +29, Norgorber Lore +28
 
+**Recall Knowledge - Fiend** (Religion): DC 44
+
 **STR** +6, **DEX** +8, **CON** +4, **INT** +3, **WIS** +4, **CHA** +3
 
 **True Appearance** ◈ **Trigger** The Stabbing Beast is transformed with Change Shape and rolls for initiative; The Stabbing Beast ends Change Shape.
@@ -35,13 +37,13 @@ unique, ne, huge, fiend, herald
 
 Speed 40 feet
 
-**Melee** ◆ pincer +29 (agile, finesse, magical, reach <15 feet>); **Damage** 2d8+10 slashing plus 2d8 persistent bleed and Improved Grab plus Improved Grab
+**Melee** ◆ pincer +29/+25/+21 (agile, finesse, magical, reach <15 feet>); **Damage** 2d8+10 slashing plus 2d8 persistent bleed and Improved Grab plus Improved Grab
 
-**Melee** ◆ stinger +29 (fatal <d12>, finesse, magical, reach <15 feet>); **Damage** 4d8+14 piercing plus Stabbing Beast venom plus Stabbing Beast venom
+**Melee** ◆ stinger +29/+24/+19 (fatal <d12>, finesse, magical, reach <15 feet>); **Damage** 4d8+14 piercing plus Stabbing Beast venom plus Stabbing Beast venom
 
-**Melee** ◆ shortsword +30 (agile, finesse, magical, versatile <S>); **Damage** 3d6+10 piercing plus 2d8 persistent bleed
+**Melee** ◆ shortsword +30/+26/+22 (agile, finesse, magical, versatile <S>); **Damage** 3d6+10 piercing plus 2d8 persistent bleed
 
-**Ranged** ◆ venom stream +29 (range increment <60 feet>); **Damage** 5d10 poison plus blinding stream plus blinding stream
+**Ranged** ◆ venom stream +29/+24/+19 (range increment <60 feet>); **Damage** 5d10 poison plus blinding stream plus blinding stream
 
 **Innate divine Spells** (DC 36)
 

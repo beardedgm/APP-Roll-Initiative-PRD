@@ -11,6 +11,8 @@ le, tiny, devil, fiend
 
 **Skills** Acrobatics +7, Arcana +6, Deception +7, Religion +5
 
+**Recall Knowledge - Fiend** (Religion): DC 15
+
 **STR** -1, **DEX** +4, **CON** +0, **INT** +1, **WIS** +2, **CHA** +2
 
 ---
@@ -29,7 +31,7 @@ le, tiny, devil, fiend
 
 Speed 20 feet, fly 30 feet
 
-**Melee** ◆ stinger +9 (agile, evil, finesse, magical); **Damage** 1d4-1 piercing plus 1d4 evil and imp venom plus imp venom
+**Melee** ◆ stinger +9/+5/+1 (agile, evil, finesse, magical); **Damage** 1d4-1 piercing plus 1d4 evil and imp venom plus imp venom
 
 **Innate divine Spells** (DC 17)
 

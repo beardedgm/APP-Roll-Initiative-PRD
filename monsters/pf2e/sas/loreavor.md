@@ -11,6 +11,8 @@ rare, n, small, astral
 
 **Skills** Acrobatics +19, Arcana +17, Occultism +21, Society +17, Stealth +19
 
+**Recall Knowledge - Astral** (Occultism): DC 31
+
 **STR** +3, **DEX** +6, **CON** +4, **INT** +6, **WIS** +4, **CHA** +3
 
 **Thoughtsense** The loreavor senses all non-mindless creatures at the listed range.
@@ -31,9 +33,9 @@ rare, n, small, astral
 
 Speed 20 feet, fly 20 feet
 
-**Melee** ◆ touch +19 (agile, finesse); **Damage** 2d10+7 mental plus search memory
+**Melee** ◆ touch +19/+15/+11 (agile, finesse); **Damage** 2d10+7 mental plus search memory
 
-**Ranged** ◆ mind bolt +21 (range 60 feet); **Damage** 2d12+4 mental
+**Ranged** ◆ mind bolt +21/+16/+11 (range 60 feet); **Damage** 2d12+4 mental
 
 **Innate occult Spells** (DC 28)
 

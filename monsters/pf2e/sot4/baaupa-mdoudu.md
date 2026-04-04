@@ -9,6 +9,8 @@ n, medium, beast
 
 **Skills** Athletics +27, Stealth +25
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 31
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** -4, **WIS** +4, **CHA** -2
 
 **Skeleton Sense** A ba'aupa mdoudu can sense the presence of bones and skeletons within 60 feet; this is a precise sense when detecting dead bones but an imprecise one when detecting living bones.
@@ -33,9 +35,9 @@ n, medium, beast
 
 Speed 30 feet, burrow 20 feet
 
-**Melee** ◆ jaws +27 (deadly <d12>); **Damage** 3d8+14 piercing plus 1d10 persistent acid
+**Melee** ◆ jaws +27/+22/+17 (deadly <d12>); **Damage** 3d8+14 piercing plus 1d10 persistent acid
 
-**Ranged** ◆ spit +23 (acid, range increment <60 feet>); **Damage** 6d6 acid
+**Ranged** ◆ spit +23/+18/+13 (acid, range increment <60 feet>); **Damage** 6d6 acid
 
 **Caustic Acid** Whenever a creature takes acid damage from any of a ba'aupa mdoudu's abilities or Strikes, it must succeed at a DC 30 Fortitude save or become drained 1 (drained 2 on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4.
 

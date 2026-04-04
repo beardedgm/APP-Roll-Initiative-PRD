@@ -11,6 +11,8 @@ cn, medium, earth, fey, nymph
 
 **Skills** Acrobatics +12, Athletics +9, Diplomacy +14, Nature +10, Occultism +11, Performance +14, Society +9, Stealth +12
 
+**Recall Knowledge - Fey** (Nature): DC 20
+
 **STR** +0, **DEX** +5, **CON** +4, **INT** +2, **WIS** +3, **CHA** +5
 
 ---
@@ -29,9 +31,9 @@ cn, medium, earth, fey, nymph
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ earthen fist +14 (agile, finesse); **Damage** 2d10+2 bludgeoning
+**Melee** ◆ earthen fist +14/+10/+6 (agile, finesse); **Damage** 2d10+2 bludgeoning
 
-**Ranged** ◆ light wisp +14 (magical, range increment <30 feet>); **Damage** 1d8+2 mental plus 1d6 fire and 1d6 positive
+**Ranged** ◆ light wisp +14/+9/+4 (magical, range increment <30 feet>); **Damage** 1d8+2 mental plus 1d6 fire and 1d6 positive
 
 **Innate primal Spells** (DC 22)
 

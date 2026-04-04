@@ -11,6 +11,8 @@ rare, medium, construct
 
 **Skills** Diplomacy +20, Mercantile Lore +26, Occultism +23, Thievery +23
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 32
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** +5, **WIS** +7, **CHA** +6
 
 **Wealthsense** 150 gp
@@ -37,7 +39,7 @@ rare, medium, construct
 
 Speed 25 feet
 
-**Melee** ◆ fist +24 (magical, reach <10 feet>); **Damage** 2d10+11 bludgeoning plus
+**Melee** ◆ fist +24/+19/+14 (magical, reach <10 feet>); **Damage** 2d10+11 bludgeoning plus
 
 **Spontaneous occult Spells** (DC 27), attack +19
 

@@ -11,6 +11,8 @@ rare, ce, gargantuan, dragon, fire, undead
 
 **Skills** Acrobatics +32, Arcana +37, Athletics +39, Deception +38, Diplomacy +38, Intimidation +40, Stealth +35
 
+**Recall Knowledge - Dragon** (Arcana, Religion): DC 47
+
 **STR** +9, **DEX** +5, **CON** +9, **INT** +5, **WIS** +6, **CHA** +8
 
 **Smoke Vision** Smoke doesn't impair an ancient red ravener's vision; it ignores the concealed condition from smoke.
@@ -43,13 +45,13 @@ rare, ce, gargantuan, dragon, fire, undead
 
 Speed 60 feet, fly 180 feet
 
-**Melee** ◆ jaws +39 (fire, magical, reach <20 feet>); **Damage** 4d10+17 piercing plus 3d6 fire and 2d6 negative
+**Melee** ◆ jaws +39/+34/+29 (fire, magical, reach <20 feet>); **Damage** 4d10+17 piercing plus 3d6 fire and 2d6 negative
 
-**Melee** ◆ claw +39 (agile, magical, reach <15 feet>); **Damage** 4d8+17 slashing plus 2d6 negative
+**Melee** ◆ claw +39/+35/+31 (agile, magical, reach <15 feet>); **Damage** 4d8+17 slashing plus 2d6 negative
 
-**Melee** ◆ tail +37 (magical, reach <25 feet>); **Damage** 4d10+15 slashing plus 2d6 negative
+**Melee** ◆ tail +37/+32/+27 (magical, reach <25 feet>); **Damage** 4d10+15 slashing plus 2d6 negative
 
-**Melee** ◆ wing +37 (agile, magical, reach <20 feet>); **Damage** 3d8+15 slashing plus 2d6 negative
+**Melee** ◆ wing +37/+33/+29 (agile, magical, reach <20 feet>); **Damage** 3d8+15 slashing plus 2d6 negative
 
 **Innate arcane Spells** (DC 44)
 

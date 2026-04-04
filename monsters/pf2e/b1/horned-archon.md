@@ -11,6 +11,8 @@ lg, medium, archon, celestial
 
 **Skills** Acrobatics +12, Nature +11, Religion +9, Stealth +10, Survival +11
 
+**Recall Knowledge - Celestial** (Religion): DC 19
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** +1, **WIS** +3, **CHA** +1
 
 **Items** composite longbow (20 arrows)
@@ -33,9 +35,9 @@ lg, medium, archon, celestial
 
 Speed 35 feet
 
-**Melee** ◆ horn +11 (magical); **Damage** 2d8+3 piercing plus 1d6 good and Push plus Push
+**Melee** ◆ horn +11/+6/+1 (magical); **Damage** 2d8+3 piercing plus 1d6 good and Push plus Push
 
-**Ranged** ◆ composite longbow +14 (deadly <1d10>, magical, range increment <100 feet>, reload <0>, volley); **Damage** 1d8+4 piercing plus 1d6 good
+**Ranged** ◆ composite longbow +14/+9/+4 (deadly <1d10>, magical, range increment <100 feet>, reload <0>, volley); **Damage** 1d8+4 piercing plus 1d6 good
 
 **Innate divine Spells** (DC 21)
 

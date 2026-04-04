@@ -11,6 +11,8 @@ uncommon, ne, large, dragon, shadow
 
 **Skills** Acrobatics +18, Athletics +22, Deception +22, Intimidation +22, Nature +20, Stealth +20, Survival +22
 
+**Recall Knowledge - Dragon** (Arcana): DC 30
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** +3, **WIS** +5, **CHA** +3
 
 ---
@@ -31,13 +33,13 @@ uncommon, ne, large, dragon, shadow
 
 Speed 40 feet, fly 140 feet
 
-**Melee** ◆ jaws +24 (negative, reach <10 feet>); **Damage** 2d10+13 piercing plus 2d6 negative
+**Melee** ◆ jaws +24/+19/+14 (negative, reach <10 feet>); **Damage** 2d10+13 piercing plus 2d6 negative
 
-**Melee** ◆ claw +24 (agile); **Damage** 2d10+13 slashing
+**Melee** ◆ claw +24/+20/+16 (agile); **Damage** 2d10+13 slashing
 
-**Melee** ◆ tail +22 (reach <15 feet>); **Damage** 2d12+13 slashing
+**Melee** ◆ tail +22/+17/+12 (reach <15 feet>); **Damage** 2d12+13 slashing
 
-**Melee** ◆ wing +22 (reach <10 feet>); **Damage** 1d10+13 slashing
+**Melee** ◆ wing +22/+17/+12 (reach <10 feet>); **Damage** 1d10+13 slashing
 
 **Innate primal Spells** (DC 30)
 

@@ -11,6 +11,8 @@ n, medium, aberration
 
 **Skills** Acrobatics +11, Athletics +10, Stealth +10, Survival +8
 
+**Recall Knowledge - Aberration** (Occultism): DC 18
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** -3, **WIS** +3, **CHA** -1
 
 ---
@@ -29,9 +31,9 @@ n, medium, aberration
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ jaws +12; **Damage** 1d8+6 piercing
+**Melee** ◆ jaws +12/+7/+2; **Damage** 1d8+6 piercing
 
-**Melee** ◆ tentacle +11 (agile, finesse); **Damage** 1d6+6 slashing
+**Melee** ◆ tentacle +11/+7/+3 (agile, finesse); **Damage** 1d6+6 slashing
 
 **Unbalancing Blow** Any creature a grick critically hits is flat-footed against its attacks until the end of the grick's next turn.
 

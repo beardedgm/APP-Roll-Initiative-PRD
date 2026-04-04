@@ -11,6 +11,8 @@ unique, medium, fungus, leshy, plant
 
 **Skills** Acrobatics +39, Athletics +42, Deception +40, Diplomacy +40, Intimidation +40, Medicine +48, Nature +48, Plane Of Wood Lore +48, Stealth +41, Survival +44
 
+**Recall Knowledge - Fungus** (Nature): DC 58
+
 **STR** +0, **DEX** +0, **CON** +0, **INT** +0, **WIS** +0, **CHA** +0
 
 ---

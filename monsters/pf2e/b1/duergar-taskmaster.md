@@ -11,6 +11,8 @@ le, medium, duergar, dwarf, humanoid
 
 **Skills** Athletics +7, Deception +7, Intimidation +7, Occultism +5, Religion +6, Survival +6
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +2, **DEX** +0, **CON** +2, **INT** +0, **WIS** +2, **CHA** +3
 
 **Items** chain mail, maul, religious symbol
@@ -31,7 +33,7 @@ le, medium, duergar, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ maul +8 (shove); **Damage** 1d12+2 bludgeoning
+**Melee** ◆ maul +8/+3/-2 (shove); **Damage** 1d12+2 bludgeoning
 
 **Prepared divine Spells** (DC 18)
 

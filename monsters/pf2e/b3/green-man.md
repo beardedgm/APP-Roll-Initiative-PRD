@@ -11,6 +11,8 @@ rare, n, medium, leshy, plant
 
 **Skills** Acrobatics +39, Athletics +42, Deception +40, Diplomacy +40, Intimidation +40, Nature +48, Stealth +41, Survival +44
 
+**Recall Knowledge - Plant** (Nature): DC 53
+
 **STR** +12, **DEX** +9, **CON** +11, **INT** +7, **WIS** +10, **CHA** +8
 
 **Green Tongue** A green man can communicate with plants, with the effects of speak with plants, and can use Diplomacy to Make an Impression on plants and Request things from plants.
@@ -42,9 +44,9 @@ rare, n, medium, leshy, plant
 
 Speed 40 feet, climb 40 feet
 
-**Melee** ◆ vine +46 (deadly <3d12>, versatile <P>); **Damage** 4d10+27 bludgeoning plus absorb magic and Improved Grab plus absorb magic, Improved Grab
+**Melee** ◆ vine +46/+41/+36 (deadly <3d12>, versatile <P>); **Damage** 4d10+27 bludgeoning plus absorb magic and Improved Grab plus absorb magic, Improved Grab
 
-**Ranged** ◆ thorn +43 (fatal <d12>, range increment <120 feet>, reload <0>); **Damage** 4d8+27 piercing plus embed plus embed
+**Ranged** ◆ thorn +43/+38/+33 (fatal <d12>, range increment <120 feet>, reload <0>); **Damage** 4d8+27 piercing plus embed plus embed
 
 **Innate primal Spells** (DC 48)
 

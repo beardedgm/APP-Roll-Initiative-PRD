@@ -9,6 +9,8 @@ n, medium, animal
 
 **Skills** Acrobatics +5, Athletics +6, Stealth +7
 
+**Recall Knowledge - Animal** (Nature): DC 15
+
 **STR** +3, **DEX** +2, **CON** +3, **INT** -4, **WIS** +2, **CHA** -1
 
 ---
@@ -23,9 +25,9 @@ n, medium, animal
 
 Speed 25 feet, swim 25 feet
 
-**Melee** ◆ jaws +8; **Damage** 1d6+3 piercing plus Grab plus Grab
+**Melee** ◆ jaws +8/+3/-2; **Damage** 1d6+3 piercing plus Grab plus Grab
 
-**Melee** ◆ tongue +8 (reach <15 feet>); **Damage** tongue grab plus tongue grab
+**Melee** ◆ tongue +8/+3/-2 (reach <15 feet>); **Damage** tongue grab plus tongue grab
 
 **Sticky Feet** Spear frogs are not flat-footed when Balancing on a narrow surface, and they gain a +4 bonus to Reflex saves to avoid falling.
 

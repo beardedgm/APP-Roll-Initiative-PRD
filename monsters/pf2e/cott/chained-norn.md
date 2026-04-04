@@ -11,6 +11,8 @@ unique, large, undead
 
 **Skills** Crafting +36, Deception +35, Intimidation +37, Lore +28 (all), Medicine +38, Occultism +34, Performance +31, Religion +34
 
+**Recall Knowledge - Undead** (Religion): DC 50
+
 **STR** +7, **DEX** +6, **CON** +6, **INT** +6, **WIS** +10, **CHA** +7
 
 **Broken Fate** (misfortune) The chained norn automatically rolls a 1 when she rolls initiative.
@@ -37,7 +39,7 @@ unique, large, undead
 
 Speed 35 feet, fly 35 feet
 
-**Melee** ◆ hand of fate +38 (agile, magical, reach <10 feet>); **Damage** 4d10+15 void plus sever fate
+**Melee** ◆ hand of fate +38/+34/+30 (agile, magical, reach <10 feet>); **Damage** 4d10+15 void plus sever fate
 
 **Innate occult Spells** (DC 42)
 

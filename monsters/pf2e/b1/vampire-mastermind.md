@@ -11,6 +11,8 @@ uncommon, ce, medium, undead, vampire
 
 **Skills** Acrobatics +17, Arcana +21, Athletics +16, Deception +20, Diplomacy +20, Intimidation +22, Society +19, Stealth +19
 
+**Recall Knowledge - Undead** (Religion): DC 28
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** +6, **WIS** +4, **CHA** +5
 
 **Items** signet ring
@@ -37,7 +39,7 @@ uncommon, ce, medium, undead, vampire
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ claw +18 (agile); **Damage** 2d8+9 slashing plus Grab plus Grab
+**Melee** ◆ claw +18/+14/+10 (agile); **Damage** 2d8+9 slashing plus Grab plus Grab
 
 **Prepared arcane Spells** (DC 29), attack +19
 

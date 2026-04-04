@@ -11,6 +11,8 @@ n, small, gnome, humanoid
 
 **Skills** Acrobatics +7, Nature +5, Stealth +7, Survival +5
 
+**Recall Knowledge - Humanoid** (Society): DC 15
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** -1
 
 **Items** light pick, sling (20 bullets)
@@ -27,9 +29,9 @@ n, small, gnome, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ light pick +7 (agile, fatal <d8>); **Damage** 1d4+2 piercing
+**Melee** ◆ light pick +7/+3/-1 (agile, fatal <d8>); **Damage** 1d4+2 piercing
 
-**Ranged** ◆ sling +9 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+1 bludgeoning
+**Ranged** ◆ sling +9/+4/-1 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+1 bludgeoning
 
 **Innate primal Spells** (DC 14)
 

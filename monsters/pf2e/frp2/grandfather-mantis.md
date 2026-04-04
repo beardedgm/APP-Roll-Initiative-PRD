@@ -11,6 +11,8 @@ unique, ng, medium, minion, monitor, spirit
 
 **Skills** Athletics +28, Occultism +25, Religion +25
 
+**Recall Knowledge - Monitor** (Religion): DC 44
+
 **STR** +5, **DEX** +5, **CON** +3, **INT** +2, **WIS** +4, **CHA** +2
 
 ---
@@ -31,7 +33,7 @@ unique, ng, medium, minion, monitor, spirit
 
 Speed 35 feet, climb 35 feet
 
-**Melee** ◆ claw +28 (agile, magical); **Damage** 3d10+13 slashing plus Improved Grab plus Improved Grab
+**Melee** ◆ claw +28/+24/+20 (agile, magical); **Damage** 3d10+13 slashing plus Improved Grab plus Improved Grab
 
 **Innate occult Spells** (DC 35)
 

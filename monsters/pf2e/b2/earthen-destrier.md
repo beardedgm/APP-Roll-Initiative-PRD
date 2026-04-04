@@ -11,6 +11,8 @@ n, large, earth, elemental
 
 **Skills** Athletics +12
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 19
+
 **STR** +4, **DEX** +1, **CON** +4, **INT** -1, **WIS** +3, **CHA** +0
 
 ---
@@ -25,9 +27,9 @@ n, large, earth, elemental
 
 Speed 50 feet, burrow 30 feet, earth glide
 
-**Melee** ◆ lance arm +14 (deadly <d8>, reach <10 feet>); **Damage** 2d8+6 piercing and lancing charge plus lancing charge
+**Melee** ◆ lance arm +14/+9/+4 (deadly <d8>, reach <10 feet>); **Damage** 2d8+6 piercing and lancing charge plus lancing charge
 
-**Melee** ◆ hoof +14; **Damage** 2d6+6 bludgeoning
+**Melee** ◆ hoof +14/+9/+4; **Damage** 2d6+6 bludgeoning
 
 **Earth Glide** An earthen destrier can Burrow through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing.
 

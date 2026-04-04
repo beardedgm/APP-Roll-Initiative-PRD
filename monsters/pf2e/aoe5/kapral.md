@@ -11,6 +11,8 @@ unique, ln, medium, elf, humanoid
 
 **Skills** Arcana +27, Intimidation +21, Stealth +27, Legal Lore +25
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** +1, **DEX** +5, **CON** +4, **INT** +5, **WIS** +4, **CHA** -1
 
 ---
@@ -27,7 +29,7 @@ unique, ln, medium, elf, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ staff +24 (magical, two-hand <d8>); **Damage** 2d4+5 bludgeoning
+**Melee** ◆ staff +24/+19/+14 (magical, two-hand <d8>); **Damage** 2d4+5 bludgeoning
 
 **Prepared arcane Spells** (DC 37), attack +27
 

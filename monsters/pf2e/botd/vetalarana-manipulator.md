@@ -9,6 +9,8 @@ uncommon, ne, medium, undead, vampire
 
 **Skills** Athletics +22, Deception +24, Diplomacy +24, Intimidation +22, Occultism +23, Society +23
 
+**Recall Knowledge - Undead** (Religion): DC 30
+
 **STR** +4, **DEX** +4, **CON** +4, **INT** +6, **WIS** +7, **CHA** +7
 
 ---
@@ -31,7 +33,7 @@ uncommon, ne, medium, undead, vampire
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ claw +21 (agile, finesse, magic); **Damage** 3d8+10 slashing plus
+**Melee** ◆ claw +21/+17/+13 (agile, finesse, magic); **Damage** 3d8+10 slashing plus
 
 **Innate occult Spells** (DC 30)
 

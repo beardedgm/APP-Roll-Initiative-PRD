@@ -11,6 +11,8 @@ n, large, beast, ethereal
 
 **Skills** Athletics +12, Stealth +15
 
+**Recall Knowledge - Beast** (Arcana, Nature, Occultism): DC 20
+
 **STR** +5, **DEX** +4, **CON** +3, **INT** -2, **WIS** +1, **CHA** +7
 
 ---
@@ -25,9 +27,9 @@ n, large, beast, ethereal
 
 Speed 40 feet, climb 20 feet
 
-**Melee** ◆ fangs +15 (magical); **Damage** 1d10+7 piercing plus ether spider venom and Grab plus ether spider venom, Grab
+**Melee** ◆ fangs +15/+10/+5 (magical); **Damage** 1d10+7 piercing plus ether spider venom and Grab plus ether spider venom, Grab
 
-**Ranged** ◆ web +14 (magical, range increment <30 feet>); plus ethereal web trap
+**Ranged** ◆ web +14/+9/+4 (magical, range increment <30 feet>); plus ethereal web trap
 
 **Ether Spider Venom** (poison)
 

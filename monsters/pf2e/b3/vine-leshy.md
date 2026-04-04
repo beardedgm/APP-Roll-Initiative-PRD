@@ -11,6 +11,8 @@ n, small, leshy, plant
 
 **Skills** Athletics +4, Diplomacy +5, Nature +4, Performance +5, Society +1, Survival +4
 
+**Recall Knowledge - Plant** (Nature): DC 14
+
 **STR** +2, **DEX** +1, **CON** +1, **INT** -1, **WIS** +2, **CHA** +3
 
 **Items** spear
@@ -29,9 +31,9 @@ n, small, leshy, plant
 
 Speed 20 feet, climb 20 feet
 
-**Melee** ◆ spear +6; **Damage** 1d6+2 piercing
+**Melee** ◆ spear +6/+1/-4; **Damage** 1d6+2 piercing
 
-**Ranged** ◆ spear +5 (thrown <20 feet>); **Damage** 1d6+2 piercing
+**Ranged** ◆ spear +5/+0/-5 (thrown <20 feet>); **Damage** 1d6+2 piercing
 
 **Innate primal Spells** (DC 15)
 

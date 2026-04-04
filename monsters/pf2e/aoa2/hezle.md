@@ -11,6 +11,8 @@ unique, cn, small, humanoid, kobold
 
 **Skills** Arcana +18, Crafting +16, Nature +12, Stealth +16, Survival +12, Mining Lore +16
 
+**Recall Knowledge - Humanoid** (Society): DC 34
+
 **STR** -1, **DEX** +4, **CON** +2, **INT** +6, **WIS** +2, **CHA** +3
 
 **Items** greater antidote, +1 crossbow (16 regular bolts and 4 wyvern poisoned bolts), +1 dagger, moderate healing potions (2), infused reagents (5), leather armor, greater staff of fire
@@ -29,13 +31,13 @@ unique, cn, small, humanoid, kobold
 
 Speed 25 feet
 
-**Melee** ◆ dagger +19 (agile, finesse, magical, versatile <S>); **Damage** 1d4+2 piercing
+**Melee** ◆ dagger +19/+15/+11 (agile, finesse, magical, versatile <S>); **Damage** 1d4+2 piercing
 
-**Melee** ◆ staff of fire +13 (magical, two-hand <d8>); **Damage** 1d4-1 bludgeoning
+**Melee** ◆ staff of fire +13/+8/+3 (magical, two-hand <d8>); **Damage** 1d4-1 bludgeoning
 
-**Ranged** ◆ crossbow +20 (magical, range increment <120 feet>, reload <1>); **Damage** 1d6+3 piercing (plus wyvern poison on first four shots)
+**Ranged** ◆ crossbow +20/+15/+10 (magical, range increment <120 feet>, reload <1>); **Damage** 1d6+3 piercing (plus wyvern poison on first four shots)
 
-**Ranged** ◆ dagger +19 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
+**Ranged** ◆ dagger +19/+15/+11 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
 
 **Kobold Explosives** ◆◆ (alchemical, fire, interact) Hezle quickly cobbles together an explosive bomb and lobs it up to 30 feet. All creatures in a 5-foot burst take 5d6 fire damage (DC 26 basic Reflex save).
 

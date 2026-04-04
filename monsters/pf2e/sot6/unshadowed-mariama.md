@@ -11,6 +11,8 @@ unique, ce, medium, human, humanoid
 
 **Skills** Academia Lore +35, Deception +31, Intimidation +29, Occultism +35, Religion +31, Stealth +31
 
+**Recall Knowledge - Humanoid** (Society): DC 48
+
 **STR** +1, **DEX** +3, **CON** +4, **INT** +5, **WIS** +4, **CHA** +3
 
 ---
@@ -33,7 +35,7 @@ unique, ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ fist +28 (agile, finesse, nonlethal); **Damage** 3d4+4 bludgeoning
+**Melee** ◆ fist +28/+24/+20 (agile, finesse, nonlethal); **Damage** 3d4+4 bludgeoning
 
 **Prepared occult Spells** (DC 40), attack +32
 

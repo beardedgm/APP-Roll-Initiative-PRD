@@ -9,6 +9,8 @@ n, gargantuan, beast
 
 **Skills** Athletics +32
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 34
+
 **STR** +9, **DEX** +0, **CON** +7, **INT** -3, **WIS** +3, **CHA** +0
 
 ---
@@ -29,15 +31,15 @@ n, gargantuan, beast
 
 Speed 60 feet, burrow 60 feet, climb 60 feet
 
-**Melee** ◆ acid maw +32 (magical, reach <20 feet>); **Damage** 2d12+17 piercing plus 3d6 acid
+**Melee** ◆ acid maw +32/+27/+22 (magical, reach <20 feet>); **Damage** 2d12+17 piercing plus 3d6 acid
 
-**Melee** ◆ flame maw +32 (magical, reach <20 feet>); **Damage** 2d12+17 piercing plus 3d6 fire
+**Melee** ◆ flame maw +32/+27/+22 (magical, reach <20 feet>); **Damage** 2d12+17 piercing plus 3d6 fire
 
-**Melee** ◆ shock maw +32 (magical, reach <20 feet>); **Damage** 2d12+17 piercing plus 3d6 electricity
+**Melee** ◆ shock maw +32/+27/+22 (magical, reach <20 feet>); **Damage** 2d12+17 piercing plus 3d6 electricity
 
-**Melee** ◆ leg +32 (agile, magical, reach <15 feet>); **Damage** 2d10+17 piercing
+**Melee** ◆ leg +32/+28/+24 (agile, magical, reach <15 feet>); **Damage** 2d10+17 piercing
 
-**Melee** ◆ tail lash +32 (magical, reach <30 feet>); **Damage** 3d10+17 slashing plus Knockdown plus Knockdown
+**Melee** ◆ tail lash +32/+27/+22 (magical, reach <30 feet>); **Damage** 3d10+17 slashing plus Knockdown plus Knockdown
 
 **Breath Weapon** ◆◆ (evocation, primal) The mukradi breathes a blast of energy from one of its three heads; each creature in the area must attempt a DC 36 basic Reflex save. The mukradi can't use Breath Weapon again for 1d4 rounds. - Acid Maw (acid) 10-foot-wide, 60-foot line of acid dealing 16d6 acid damage.
 - Flame Maw (fire) 60-foot cone of fire dealing 16d6 fire damage.

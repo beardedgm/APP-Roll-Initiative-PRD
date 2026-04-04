@@ -9,6 +9,8 @@ n, tiny, animal
 
 **Skills** Athletics +5, Stealth +3
 
+**Recall Knowledge - Animal** (Nature): DC 13
+
 **STR** +1, **DEX** -1, **CON** +4, **INT** -4, **WIS** +1, **CHA** -2
 
 **Deep Breath** The snapping turtle can hold its breath for 30 minutes.

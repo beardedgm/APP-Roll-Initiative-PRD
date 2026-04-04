@@ -11,6 +11,8 @@ unique, cn, medium, aberration
 
 **Skills** Arcana +16, Athletics +16, Diplomacy +14, Spellscar Lore +19, Thievery +16
 
+**Recall Knowledge - Aberration** (Occultism): DC 33
+
 **STR** +4, **DEX** +1, **CON** +2, **INT** +4, **WIS** +2, **CHA** +1
 
 **Items** thunder helm (page 78)
@@ -29,9 +31,9 @@ unique, cn, medium, aberration
 
 Speed 25 feet, burrow 25 feet
 
-**Melee** ◆ arm +16 (agile, reach <10 feet>); **Damage** 2d8+6 bludgeoning plus Grab
+**Melee** ◆ arm +16/+12/+8 (agile, reach <10 feet>); **Damage** 2d8+6 bludgeoning plus Grab
 
-**Melee** ◆ beak +16; **Damage** 2d8+6 piercing plus I venom
+**Melee** ◆ beak +16/+11/+6; **Damage** 2d8+6 piercing plus I venom
 
 **Innate primal Spells** (DC 25)
 

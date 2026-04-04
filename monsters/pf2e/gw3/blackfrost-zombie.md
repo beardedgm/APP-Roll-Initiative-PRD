@@ -9,6 +9,8 @@ rare, ne, medium, cold, mindless, undead, zombie
 
 **Skills** Athletics +15
 
+**Recall Knowledge - Undead** (Religion): DC 27
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** -5, **WIS** +0, **CHA** +0
 
 ---
@@ -29,8 +31,8 @@ rare, ne, medium, cold, mindless, undead, zombie
 
 Speed 20 feet, ice climb 20 feet
 
-**Melee** ◆ fist +15; **Damage** 2d6+5 bludgeoning plus 1d6 cold
+**Melee** ◆ fist +15/+10/+5; **Damage** 2d6+5 bludgeoning plus 1d6 cold
 
-**Melee** ◆ jaws +15; **Damage** 2d4+5 piercing plus 1d6 cold and blackfrost
+**Melee** ◆ jaws +15/+10/+5; **Damage** 2d4+5 piercing plus 1d6 cold and blackfrost
 
 **Blackfrost Breath** ◆◆ As above.

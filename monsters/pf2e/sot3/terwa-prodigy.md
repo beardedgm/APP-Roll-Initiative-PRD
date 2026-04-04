@@ -11,6 +11,8 @@ uncommon, n, medium, humanoid, lizardfolk
 
 **Skills** Acrobatics +15, Arcana +13, Astrology Lore +11, Medicine +13, Nature +15, Survival +15
 
+**Recall Knowledge - Humanoid** (Society): DC 24
+
 **STR** +2, **DEX** +5, **CON** +4, **INT** +3, **WIS** +5, **CHA** +2
 
 **Items** leather armor, +1 longbow
@@ -29,9 +31,9 @@ uncommon, n, medium, humanoid, lizardfolk
 
 Speed 25 feet
 
-**Melee** ◆ claw +15 (agile, finesse); **Damage** 2d6+5 slashing
+**Melee** ◆ claw +15/+11/+7 (agile, finesse); **Damage** 2d6+5 slashing
 
-**Ranged** ◆ longbow +17 (deadly <d10>, volley); **Damage** 1d8+5 piercing
+**Ranged** ◆ longbow +17/+12/+7 (deadly <d10>, volley); **Damage** 1d8+5 piercing
 
 **Innate primal Spells** (DC 24), attack +16
 

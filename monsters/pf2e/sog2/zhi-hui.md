@@ -11,6 +11,8 @@ unique, lg, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Acrobatics +15, Diplomacy +17, Medicine +17, Nature +15, Occultism +13, Religion +17, Survival +15
 
+**Recall Knowledge - Spirit** (Religion): DC 33
+
 **STR** -5, **DEX** +4, **CON** +2, **INT** +4, **WIS** +6, **CHA** +6
 
 ---
@@ -31,7 +33,7 @@ unique, lg, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 35 feet
 
-**Melee** ◆ ghostly hand +15 (agile, finesse, magical); **Damage** 2d8+7 negative
+**Melee** ◆ ghostly hand +15/+11/+7 (agile, finesse, magical); **Damage** 2d8+7 negative
 
 **Innate divine Spells** (DC 25), attack +17
 

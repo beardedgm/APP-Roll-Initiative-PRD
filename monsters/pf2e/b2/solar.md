@@ -11,6 +11,8 @@ rare, ng, large, angel, celestial
 
 **Skills** Arcana +38, Athletics +43, Diplomacy +43, Religion +43, Stealth +36, Survival +46
 
+**Recall Knowledge - Celestial** (Religion): DC 51
+
 **STR** +10, **DEX** +6, **CON** +8, **INT** +5, **WIS** +9, **CHA** +10
 
 **Items** +3 major striking greatsword, +3 major striking longbow
@@ -31,9 +33,9 @@ rare, ng, large, angel, celestial
 
 Speed 35 feet, fly 100 feet
 
-**Melee** ◆ holy greatsword +44 (good, magical, versatile <P>); **Damage** 4d12+22 slashing plus 2d6 good
+**Melee** ◆ holy greatsword +44/+39/+34 (good, magical, versatile <P>); **Damage** 4d12+22 slashing plus 2d6 good
 
-**Ranged** ◆ holy longbow +40 (deadly <d10>, good, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 4d8+17 piercing plus 2d6 good and arrow of mortality plus arrow of mortality
+**Ranged** ◆ holy longbow +40/+35/+30 (deadly <d10>, good, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 4d8+17 piercing plus 2d6 good and arrow of mortality plus arrow of mortality
 
 **Animate Weapon** ◈ **Trigger** The solar hits with a melee weapon; Strike while Animate Weapon is not already in effect; The solar's weapon leaps into the air and moves with the solar as if held with both hands. The weapon gains the effects of the dancing weapon rune for 1 minute.
 

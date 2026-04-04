@@ -11,6 +11,8 @@ ne, small, grippli, humanoid
 
 **Skills** Acrobatics +12, Athletics +10, Stealth +12, Survival +11, Thievery +10
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +2, **DEX** +4, **CON** +3, **INT** +0, **WIS** +3, **CHA** -1
 
 **Items** composite shortbow (30 arrows), kukri, leather armor, thieves' tools
@@ -31,9 +33,9 @@ ne, small, grippli, humanoid
 
 Speed 25 feet, climb 20 feet, jungle stride
 
-**Melee** ◆ kukri +14 (agile, finesse, trip); **Damage** 1d6+4 slashing plus baneback poison plus baneback poison
+**Melee** ◆ kukri +14/+10/+6 (agile, finesse, trip); **Damage** 1d6+4 slashing plus baneback poison plus baneback poison
 
-**Ranged** ◆ composite shortbow +14 (deadly <d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+3 piercing plus baneback poison plus baneback poison
+**Ranged** ◆ composite shortbow +14/+9/+4 (deadly <d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+3 piercing plus baneback poison plus baneback poison
 
 **Baneback Poison** (poison)
 

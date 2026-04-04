@@ -9,6 +9,8 @@ ce, small, goblin, humanoid
 
 **Skills** Acrobatics +6, Athletics +6, Intimidation +5, Nature +5, Stealth +6
 
+**Recall Knowledge - Humanoid** (Society): DC 15
+
 **STR** +3, **DEX** +3, **CON** +2, **INT** -1, **WIS** +0, **CHA** +2
 
 **Items** greatsword, leather armor, shortbow (20 arrows)
@@ -27,6 +29,6 @@ ce, small, goblin, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ greatsword +8 (versatile <P>); **Damage** 1d12 + 3 slashing
+**Melee** ◆ greatsword +8/+3/-2 (versatile <P>); **Damage** 1d12 + 3 slashing
 
-**Ranged** ◆ shortbow +8 (deadly <1d10>, range increment <60 feet>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +8/+3/-2 (deadly <1d10>, range increment <60 feet>); **Damage** 1d6 piercing

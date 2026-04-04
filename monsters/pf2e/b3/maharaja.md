@@ -11,6 +11,8 @@ rare, le, medium, fiend, rakshasa
 
 **Skills** Acrobatics +33, Arcana +33, Deception +41, Diplomacy +38, Intimidation +38, Occultism +35, Religion +35, Society +35
 
+**Recall Knowledge - Fiend** (Religion): DC 45
+
 **STR** +8, **DEX** +9, **CON** +7, **INT** +7, **WIS** +7, **CHA** +10
 
 **Items** +2 greater striking falchion
@@ -31,9 +33,9 @@ rare, le, medium, fiend, rakshasa
 
 Speed 40 feet, fly 30 feet
 
-**Melee** ◆ falchion +38 (forceful, sweep); **Damage** 3d10+16 slashing plus 3d6 mental
+**Melee** ◆ falchion +38/+33/+28 (forceful, sweep); **Damage** 3d10+16 slashing plus 3d6 mental
 
-**Melee** ◆ fangs +34 (agile); **Damage** 4d6+14 piercing
+**Melee** ◆ fangs +34/+30/+26 (agile); **Damage** 4d6+14 piercing
 
 **Spontaneous occult Spells** (DC 47)
 

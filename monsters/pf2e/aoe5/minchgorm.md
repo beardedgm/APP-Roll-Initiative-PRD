@@ -11,6 +11,8 @@ rare, ne, huge, amphibious, fey, water
 
 **Skills** Athletics +34, Intimidation +34, Performance +36
 
+**Recall Knowledge - Fey** (Nature): DC 43
+
 **STR** +8, **DEX** +0, **CON** +6, **INT** +5, **WIS** +2, **CHA** +8
 
 ---
@@ -29,7 +31,7 @@ rare, ne, huge, amphibious, fey, water
 
 Speed 5 feet, swim 20 feet
 
-**Melee** ◆ jaws +37 (magical, reach <10 feet>); **Damage** 3d10+16 piercing plus Improved Grab
+**Melee** ◆ jaws +37/+32/+27 (magical, reach <10 feet>); **Damage** 3d10+16 piercing plus Improved Grab
 
 **Innate primal Spells** (DC 40)
 

@@ -11,6 +11,8 @@ n, small, fungus, leshy
 
 **Skills** Athletics +6, Nature +6, Stealth +8
 
+**Recall Knowledge - Fungus** (Nature): DC 16
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** -1, **WIS** +2, **CHA** +0
 
 ---
@@ -27,9 +29,9 @@ n, small, fungus, leshy
 
 Speed 25 feet
 
-**Melee** ◆ fist +10 (agile, finesse); **Damage** 1d6+2 bludgeoning
+**Melee** ◆ fist +10/+6/+2 (agile, finesse); **Damage** 1d6+2 bludgeoning
 
-**Ranged** ◆ spore pod +10 (range increment <30 feet>); **Damage** 1d6+2 bludgeoning plus spores plus spores
+**Ranged** ◆ spore pod +10/+5/+0 (range increment <30 feet>); **Damage** 1d6+2 bludgeoning plus spores plus spores
 
 **Innate primal Spells** (DC 16)
 

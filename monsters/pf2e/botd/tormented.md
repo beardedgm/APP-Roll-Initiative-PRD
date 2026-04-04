@@ -11,6 +11,8 @@ ce, medium, undead
 
 **Skills** Athletics +26, Acrobatics +24, Intimidation +28, Stealth +24
 
+**Recall Knowledge - Undead** (Religion): DC 32
+
 **STR** +6, **DEX** +4, **CON** +4, **INT** -1, **WIS** +5, **CHA** +8
 
 ---
@@ -45,6 +47,6 @@ ce, medium, undead
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ painful touch +28 (agile, finesse, magical); **Damage** 4d6+14 mental plus 2d6 persistent mental damage
+**Melee** ◆ painful touch +28/+24/+20 (agile, finesse, magical); **Damage** 4d6+14 mental plus 2d6 persistent mental damage
 
 **Scream in Agony** ◆◆ (auditory, divine, enchantment, mental) Each creature in the tormented's Tortured Gaze aura takes 14d6 mental damage (DC 34 basic Will save). A creature that fails is also sickened 1 (or sickened 2 on a critical failure). The tormented can't Scream in Agony again for 1d4 rounds, but recharges the ability whenever they take damage from an attacker's critical hit or their own critical failure on a saving throw.

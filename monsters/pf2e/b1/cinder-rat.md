@@ -9,6 +9,8 @@ n, small, elemental, fire
 
 **Skills** Acrobatics +10, Stealth +10, Survival +9
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 18
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** -4, **WIS** +2, **CHA** +0
 
 **Smoke Vision** The cinder rat ignores the concealed condition from smoke.
@@ -31,4 +33,4 @@ n, small, elemental, fire
 
 Speed 40 feet
 
-**Melee** ◆ jaws +10 (finesse); **Damage** 1d8+4 fire plus 1d4 persistent fire
+**Melee** ◆ jaws +10/+5/+0 (finesse); **Damage** 1d8+4 fire plus 1d4 persistent fire

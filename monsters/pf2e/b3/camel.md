@@ -9,6 +9,8 @@ n, large, animal
 
 **Skills** Acrobatics +6, Athletics +7, Survival +6
 
+**Recall Knowledge - Animal** (Nature): DC 15
+
 **STR** +4, **DEX** +3, **CON** +4, **INT** -4, **WIS** +1, **CHA** -1
 
 **Desert-Adapted** A camel is well-adapted to heat and deserts. If allowed to drink and eat its fill, (roughly 40 gallons), it can Subsist for 2 weeks without needing to attempt Survival checks, and it treats environmental heat as if it was one step less severe.
@@ -25,9 +27,9 @@ n, large, animal
 
 Speed 35 feet
 
-**Melee** ◆ jaws +7; **Damage** 1d6+4 piercing
+**Melee** ◆ jaws +7/+2/-3; **Damage** 1d6+4 piercing
 
-**Ranged** ◆ spit +6; plus camel spit
+**Ranged** ◆ spit +6/+1/-4; plus camel spit
 
 **Camel Spit** To drive away enemies, the camel spits the partially digested contents of its stomach at a creature within 10 feet. On a hit, the target is dazzled for 1 round and must succeed at a DC 17 Fortitude save or become sickened 1. The camel can't use its camel spit Strike again for 1d4 rounds.
 

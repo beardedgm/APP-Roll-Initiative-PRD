@@ -11,6 +11,8 @@ ce, large, giant, humanoid
 
 **Skills** Athletics +12, Intimidation +10, Survival +6
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +6, **DEX** -1, **CON** +4, **INT** -2, **WIS** +0, **CHA** -2
 
 **Items** leather armor, greataxe
@@ -27,9 +29,9 @@ ce, large, giant, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ greataxe +14 (reach <10 feet>, sweep); **Damage** 1d12+8 slashing
+**Melee** ◆ greataxe +14/+9/+4 (reach <10 feet>, sweep); **Damage** 1d12+8 slashing
 
-**Melee** ◆ jaws +14; **Damage** 1d8+8 piercing plus Grab and glutton's feast plus Grab, glutton's feast
+**Melee** ◆ jaws +14/+9/+4; **Damage** 1d8+8 piercing plus Grab and glutton's feast plus Grab, glutton's feast
 
 **Glutton's Feast** If the ogre glutton damages a living creature with their jaws Strike, they gain 1d4 temporary Hit Points for 1 minute.
 

@@ -11,6 +11,8 @@ le, tiny, fiend, velstrac
 
 **Skills** Acrobatics +8, Deception +6, Intimidation +7, Religion +4, Stealth +8, Torture Lore +7
 
+**Recall Knowledge - Fiend** (Religion): DC 15
+
 **STR** -1, **DEX** +3, **CON** +1, **INT** +2, **WIS** +1, **CHA** -1
 
 **Painsight** (divination, divine) A velstrac automatically knows whether a creature it sees has any of the doomed, dying, and wounded conditions, as well as the value of those conditions.
@@ -33,7 +35,7 @@ le, tiny, fiend, velstrac
 
 Speed 20 feet, fly 40 feet
 
-**Melee** ◆ blade +8 (agile, evil, finesse, magical, versatile <P>); **Damage** 1d4-1 slashing plus 1d4 persistent bleed
+**Melee** ◆ blade +8/+4/+0 (agile, evil, finesse, magical, versatile <P>); **Damage** 1d4-1 slashing plus 1d4 persistent bleed
 
 **Innate divine Spells** (DC 17)
 

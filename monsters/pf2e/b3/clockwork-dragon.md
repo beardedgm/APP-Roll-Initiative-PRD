@@ -9,6 +9,8 @@ rare, n, huge, clockwork, construct, mindless
 
 **Skills** Acrobatics +29, Athletics +33
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 40
+
 **STR** +9, **DEX** +5, **CON** +5, **INT** -5, **WIS** +4, **CHA** -5
 
 **Wind-Up** 1 week, DC 35, standby
@@ -33,13 +35,13 @@ rare, n, huge, clockwork, construct, mindless
 
 Speed 40 feet, fly 120 feet
 
-**Melee** ◆ adamantine jaws +33 (reach <15 feet>); **Damage** 3d12+17 piercing
+**Melee** ◆ adamantine jaws +33/+28/+23 (reach <15 feet>); **Damage** 3d12+17 piercing
 
-**Melee** ◆ adamantine claw +33 (agile, reach <10 feet>); **Damage** 3d8+17 slashing
+**Melee** ◆ adamantine claw +33/+29/+25 (agile, reach <10 feet>); **Damage** 3d8+17 slashing
 
-**Melee** ◆ tail +31 (reach <20 feet>); **Damage** 3d12+15 bludgeoning
+**Melee** ◆ tail +31/+26/+21 (reach <20 feet>); **Damage** 3d12+15 bludgeoning
 
-**Melee** ◆ wing +31 (agile, reach <15 feet>); **Damage** 2d10+15 piercing
+**Melee** ◆ wing +31/+27/+23 (agile, reach <15 feet>); **Damage** 2d10+15 piercing
 
 **Breath Weapon** ◆◆ (arcane, evocation, fire) The clockwork dragon breathes a spray of flaming oil that deals 16d6 fire damage in a 40-foot cone (DC 37 basic Reflex save). Creatures that fail their saves are covered in burning oil and take 2d6 persistent fire damage. The clockwork dragon can't use Breath Weapon again for 2 rounds.
 

@@ -11,6 +11,8 @@ uncommon, ce, medium, grioth, humanoid
 
 **Skills** Acrobatics +7, Occultism +6, Stealth +7
 
+**Recall Knowledge - Humanoid** (Society): DC 17
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +1, **WIS** +2, **CHA** +0
 
 **Items** voidglass kukri
@@ -37,9 +39,9 @@ uncommon, ce, medium, grioth, humanoid
 
 Speed 25 feet, fly 30 feet
 
-**Melee** ◆ kukri +7 (agile, finesse, trip); **Damage** 1d6 slashing
+**Melee** ◆ kukri +7/+3/-1 (agile, finesse, trip); **Damage** 1d6 slashing
 
-**Melee** ◆ jaws +7 (agile, finesse); **Damage** 1d4 piercing plus grioth venom plus grioth venom
+**Melee** ◆ jaws +7/+3/-1 (agile, finesse); **Damage** 1d4 piercing plus grioth venom plus grioth venom
 
 **Innate occult Spells** (DC 16), attack +8
 

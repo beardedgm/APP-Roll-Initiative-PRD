@@ -9,6 +9,8 @@ rare, n, large, construct, swarm
 
 **Skills** Acrobatics +12, Athletics +6, Stealth +13
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 25
+
 **STR** -1, **DEX** +5, **CON** +4, **INT** -4, **WIS** +2, **CHA** -2
 
 ---

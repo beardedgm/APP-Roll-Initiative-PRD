@@ -11,6 +11,8 @@ le, medium, fiend, rakshasa
 
 **Skills** Deception +23, Diplomacy +21, Intimidation +21, Occultism +18, Performance +19, Stealth +20
 
+**Recall Knowledge - Fiend** (Religion): DC 27
+
 **STR** +4, **DEX** +6, **CON** +4, **INT** +2, **WIS** +1, **CHA** +5
 
 **Items** 
@@ -33,11 +35,11 @@ le, medium, fiend, rakshasa
 
 Speed 35 feet
 
-**Melee** ◆ kukri +23 (agile, finesse, magical, trip); **Damage** 2d6+10 slashing
+**Melee** ◆ kukri +23/+19/+15 (agile, finesse, magical, trip); **Damage** 2d6+10 slashing
 
-**Melee** ◆ fangs +20 (agile, magical); **Damage** 2d12+10 piercing
+**Melee** ◆ fangs +20/+16/+12 (agile, magical); **Damage** 2d12+10 piercing
 
-**Melee** ◆ claw +22 (agile, finesse, magical); **Damage** 2d8+10 slashing
+**Melee** ◆ claw +22/+18/+14 (agile, finesse, magical); **Damage** 2d8+10 slashing
 
 **Spontaneous occult Spells** (DC 31)
 

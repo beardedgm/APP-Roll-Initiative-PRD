@@ -11,6 +11,8 @@ rare, cn, huge, fey, plant
 
 **Skills** Acrobatics +35, Nature +33, Stealth +35, Survival +37
 
+**Recall Knowledge - Fey** (Nature): DC 44
+
 **STR** +6, **DEX** +10, **CON** +5, **INT** +0, **WIS** +10, **CHA** +6
 
 **Greensight** Vegetation doesn't impair a ta'apundo's vision and doesn't provide a creature cover or concealment from a ta'apundo.
@@ -35,7 +37,7 @@ rare, cn, huge, fey, plant
 
 Speed 20 feet, woodland stride
 
-**Melee** ◆ branch +24 (agile, finesse, magical, reach <10 feet>); **Damage** 4d8+12 bludgeoning
+**Melee** ◆ branch +24/+20/+16 (agile, finesse, magical, reach <10 feet>); **Damage** 4d8+12 bludgeoning
 
 **Branch Whip** ◆◆ The ta'apundo makes four branch Strikes against different targets, increasing its reach to 20 feet for these Strikes. These attacks count toward its multiple attack penalty, but this penalty doesn't increase until after all four attacks.
 

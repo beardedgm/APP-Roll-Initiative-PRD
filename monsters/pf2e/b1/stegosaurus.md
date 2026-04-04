@@ -9,6 +9,8 @@ n, huge, animal, dinosaur
 
 **Skills** Athletics +20
 
+**Recall Knowledge - Animal** (Nature): DC 23
+
 **STR** +7, **DEX** +2, **CON** +4, **INT** -4, **WIS** +2, **CHA** +0
 
 ---
@@ -25,8 +27,8 @@ n, huge, animal, dinosaur
 
 Speed 25 feet
 
-**Melee** ◆ tail +18 (sweep, reach <15 feet>); **Damage** 2d8+9 piercing
+**Melee** ◆ tail +18/+13/+8 (sweep, reach <15 feet>); **Damage** 2d8+9 piercing
 
-**Melee** ◆ foot +18 (reach <10 feet>); **Damage** 2d6+9 bludgeoning
+**Melee** ◆ foot +18/+13/+8 (reach <10 feet>); **Damage** 2d6+9 bludgeoning
 
 **Trample** ◆◆◆ Large or smaller, foot, DC 25

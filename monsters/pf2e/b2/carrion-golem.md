@@ -9,6 +9,8 @@ uncommon, n, medium, construct, golem, mindless
 
 **Skills** Athletics +14
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 21
+
 **STR** +4, **DEX** -2, **CON** +3, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -33,8 +35,8 @@ uncommon, n, medium, construct, golem, mindless
 
 Speed 25 feet
 
-**Melee** ◆ jaws +14 (magical); **Damage** 2d10+4 piercing plus filth fever plus filth fever
+**Melee** ◆ jaws +14/+9/+4 (magical); **Damage** 2d10+4 piercing plus filth fever plus filth fever
 
-**Melee** ◆ claw +14 (agile, magical); **Damage** 2d6+4 slashing plus filth fever plus filth fever
+**Melee** ◆ claw +14/+10/+6 (agile, magical); **Damage** 2d6+4 slashing plus filth fever plus filth fever
 
 **Filth Fever** (disease)

@@ -11,6 +11,8 @@ n, small, leshy, plant
 
 **Skills** Nature +5, Stealth +7
 
+**Recall Knowledge - Plant** (Nature): DC 15
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** -1, **WIS** +2, **CHA** +0
 
 **Keepsake** (abjuration, primal) The leshy can store an item of light Bulk or less in its head, concealing it as nondetection. If stored for 24 hours, the item benefits from mending.
@@ -29,9 +31,9 @@ n, small, leshy, plant
 
 Speed 25 feet
 
-**Melee** ◆ fist +7 (agile, finesse); **Damage** 1d4+2 bludgeoning plus ensnare plus ensnare
+**Melee** ◆ fist +7/+3/-1 (agile, finesse); **Damage** 1d4+2 bludgeoning plus ensnare plus ensnare
 
-**Ranged** ◆ seed +9 (range increment <30 feet>); **Damage** 1d6+2 bludgeoning plus ensnare plus ensnare
+**Ranged** ◆ seed +9/+4/-1 (range increment <30 feet>); **Damage** 1d6+2 bludgeoning plus ensnare plus ensnare
 
 **Innate primal Spells** (DC 15)
 

@@ -11,6 +11,8 @@ uncommon, large, amphibious, dragon, water
 
 **Skills** Acrobatics +15, Athletics +17, Intimidation +15, Stealth +15
 
+**Recall Knowledge - Dragon** (Arcana): DC 25
+
 **STR** +6, **DEX** +4, **CON** +4, **INT** +2, **WIS** +1, **CHA** +2
 
 **Nesting** By coiling around a butterfly koi egg for 1 minute, the imugi designates it as their chosen heir, which grants the imugi the effects of a constant status|PC1 spell on that egg. If the egg is destroyed or otherwise made nonviable, the imugi can choose a new koi egg with this ability after 1 week.
@@ -33,11 +35,11 @@ uncommon, large, amphibious, dragon, water
 
 Speed 40 feet, swim 60 feet
 
-**Melee** ◆ jaws +17 (reach <10 feet>); **Damage** 2d10+8 piercing
+**Melee** ◆ jaws +17/+12/+7 (reach <10 feet>); **Damage** 2d10+8 piercing
 
-**Melee** ◆ claws +17 (agile); **Damage** 2d6+8 slashing
+**Melee** ◆ claws +17/+13/+9 (agile); **Damage** 2d6+8 slashing
 
-**Melee** ◆ tail +17 (reach <15 feet>); **Damage** 2d4+8 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +17/+12/+7 (reach <15 feet>); **Damage** 2d4+8 bludgeoning plus Grab plus Grab
 
 **Innate primal Spells** (DC 25)
 

@@ -9,6 +9,8 @@ uncommon, n, huge, animal
 
 **Skills** Athletics +15, Survival +13
 
+**Recall Knowledge - Animal** (Nature): DC 25
+
 **STR** +7, **DEX** +0, **CON** +2, **INT** -4, **WIS** +2, **CHA** +0
 
 ---
@@ -25,11 +27,11 @@ uncommon, n, huge, animal
 
 Speed 40 feet
 
-**Melee** ◆ tusk +14 (reach <10 feet>); **Damage** 3d8+7 piercing
+**Melee** ◆ tusk +14/+9/+4 (reach <10 feet>); **Damage** 3d8+7 piercing
 
-**Melee** ◆ trunk +16 (reach <15 feet>); plus grabbing trunk
+**Melee** ◆ trunk +16/+11/+6 (reach <15 feet>); plus grabbing trunk
 
-**Melee** ◆ foot +14 (reach <10 feet>); **Damage** 2d10+7 bludgeoning plus color splash plus color splash
+**Melee** ◆ foot +14/+9/+4 (reach <10 feet>); **Damage** 2d10+7 bludgeoning plus color splash plus color splash
 
 **Color Splash** (visual) When the iridescent elephant stomps its foot, a bright, disorienting burst of light pulses through its leg. Each creatures adjacent to the iridescent elephant when it makes a foot Strike (regardless of whether or not it hit) must succeed at a DC 24 Will save or be flat-footed until the beginning of the elephant's next turn.
 

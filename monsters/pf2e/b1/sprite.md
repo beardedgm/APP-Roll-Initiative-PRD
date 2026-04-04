@@ -11,6 +11,8 @@ cn, tiny, fey, sprite
 
 **Skills** Acrobatics +6, Stealth +6
 
+**Recall Knowledge - Fey** (Nature): DC 13
+
 **STR** -3, **DEX** +4, **CON** +0, **INT** -2, **WIS** +0, **CHA** +2
 
 **Items** rapier
@@ -29,9 +31,9 @@ cn, tiny, fey, sprite
 
 Speed 10 feet, fly 40 feet
 
-**Melee** ◆ rapier +8 (deadly <1d8>, disarm, finesse, fire, magical); **Damage** 1d6-3 piercing plus 1 fire
+**Melee** ◆ rapier +8/+3/-2 (deadly <1d8>, disarm, finesse, fire, magical); **Damage** 1d6-3 piercing plus 1 fire
 
-**Ranged** ◆ luminous spark +8 (fire, light, range <20 feet>); **Damage** 1d4 fire
+**Ranged** ◆ luminous spark +8/+3/-2 (fire, light, range <20 feet>); **Damage** 1d4 fire
 
 **Innate primal Spells** (DC 16)
 

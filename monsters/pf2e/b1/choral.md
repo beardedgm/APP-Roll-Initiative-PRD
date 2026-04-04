@@ -11,6 +11,8 @@ ng, small, angel, celestial
 
 **Skills** Acrobatics +12, Diplomacy +15, Performance +17, Religion +14
 
+**Recall Knowledge - Celestial** (Religion): DC 22
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +3, **WIS** +4, **CHA** +5
 
 ---
@@ -31,9 +33,9 @@ ng, small, angel, celestial
 
 Speed 30 feet, fly 40 feet
 
-**Melee** ◆ fist +14 (agile, finesse, good, magical); **Damage** 3d6+1 bludgeoning plus 1d6 good
+**Melee** ◆ fist +14/+10/+6 (agile, finesse, good, magical); **Damage** 3d6+1 bludgeoning plus 1d6 good
 
-**Ranged** ◆ piercing hymn +17 (good, magical, range <90 feet>, sonic); **Damage** 4d6 sonic damage plus 1d6 good and deafening aria plus deafening aria
+**Ranged** ◆ piercing hymn +17/+12/+7 (good, magical, range <90 feet>, sonic); **Damage** 4d6 sonic damage plus 1d6 good and deafening aria plus deafening aria
 
 **Innate divine Spells** (DC 23), attack +13
 

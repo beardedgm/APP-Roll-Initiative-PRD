@@ -11,6 +11,8 @@ cg, medium, fey, nymph, plant
 
 **Skills** Acrobatics +9, Athletics +5, Crafting +7, Diplomacy +9, Nature +13, Stealth +9, Survival +12
 
+**Recall Knowledge - Fey** (Nature): DC 18
+
 **STR** +0, **DEX** +4, **CON** +1, **INT** +2, **WIS** +3, **CHA** +4
 
 **Nature Empathy** The dryad can use Diplomacy to Make an Impression on and make very simple Requests of animals and plants.
@@ -31,7 +33,7 @@ cg, medium, fey, nymph, plant
 
 Speed 25 feet
 
-**Melee** ◆ branch +12 (finesse, magical); **Damage** 1d12+2 bludgeoning
+**Melee** ◆ branch +12/+7/+2 (finesse, magical); **Damage** 1d12+2 bludgeoning
 
 **Innate primal Spells** (DC 21), attack +11
 

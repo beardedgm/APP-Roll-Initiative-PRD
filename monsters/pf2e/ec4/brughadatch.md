@@ -11,6 +11,8 @@ ce, medium, amphibious, fey
 
 **Skills** Athletics +19, Deception +22, Intimidation +22, Nature +22, Survival +20
 
+**Recall Knowledge - Fey** (Nature): DC 27
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** +0, **WIS** +4, **CHA** +6
 
 ---
@@ -25,9 +27,9 @@ ce, medium, amphibious, fey
 
 Speed 25 feet, swim 25 feet
 
-**Melee** ◆ jaws +21; **Damage** 2d10+9 piercing plus Grab plus Grab
+**Melee** ◆ jaws +21/+16/+11; **Damage** 2d10+9 piercing plus Grab plus Grab
 
-**Melee** ◆ claw +19 (agile); **Damage** 2d8+5 slashing
+**Melee** ◆ claw +19/+15/+11 (agile); **Damage** 2d8+5 slashing
 
 **Innate primal Spells** (DC 28), attack +22
 

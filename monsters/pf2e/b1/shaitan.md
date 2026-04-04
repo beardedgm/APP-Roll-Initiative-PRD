@@ -11,6 +11,8 @@ uncommon, ln, large, earth, elemental, genie
 
 **Skills** Athletics +19, Crafting +14, Deception +16, Nature +15, Society +14
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 25
+
 **STR** +6, **DEX** +1, **CON** +4, **INT** +3, **WIS** +2, **CHA** +3
 
 **Items** +1 falchion
@@ -27,9 +29,9 @@ uncommon, ln, large, earth, elemental, genie
 
 Speed 20 feet, burrow 45 feet, climb 20 feet, earth glide
 
-**Melee** ◆ falchion +20 (forceful +1, magical, reach <10 feet>, sweep); **Damage** 1d10+12 slashing
+**Melee** ◆ falchion +20/+15/+10 (forceful +1, magical, reach <10 feet>, sweep); **Damage** 1d10+12 slashing
 
-**Melee** ◆ fist +19 (agile, magical, nonlethal, reach <10 feet>); **Damage** 1d4+12 bludgeoning plus Push 10 feet and shove into stone plus shove into stone
+**Melee** ◆ fist +19/+15/+11 (agile, magical, nonlethal, reach <10 feet>); **Damage** 1d4+12 bludgeoning plus Push 10 feet and shove into stone plus shove into stone
 
 **Innate arcane Spells** (DC 24)
 

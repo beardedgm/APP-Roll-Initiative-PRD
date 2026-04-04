@@ -11,6 +11,8 @@ le, medium, duergar, dwarf, humanoid
 
 **Skills** Acrobatics +6, Crafting +6, Occultism +6, Stealth +6, Survival +4
 
+**Recall Knowledge - Humanoid** (Society): DC 15
+
 **STR** +1, **DEX** +3, **CON** +2, **INT** +3, **WIS** +1, **CHA** -1
 
 **Items** alchemist's tools, infused lesser acid flask (2), infused lesser alchemist's fire (2), infused reagents (2), studded leather, warhammer
@@ -31,9 +33,9 @@ le, medium, duergar, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ warhammer +4 (shove); **Damage** 1d8+1 bludgeoning
+**Melee** ◆ warhammer +4/-1/-6 (shove); **Damage** 1d8+1 bludgeoning
 
-**Ranged** ◆ bomb +8 (range increment <30 feet>, splash); plus varies by bomb
+**Ranged** ◆ bomb +8/+3/-2 (range increment <30 feet>, splash); plus varies by bomb
 
 **Innate occult Spells** (DC 17)
 

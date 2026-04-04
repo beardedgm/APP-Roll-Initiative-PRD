@@ -11,6 +11,8 @@ rare, ce, medium, aberration, air
 
 **Skills** Acrobatics +18, Deception +15, Intimidation +15, Occultism +18, Stealth +18
 
+**Recall Knowledge - Aberration** (Occultism): DC 29
+
 **STR** +0, **DEX** +6, **CON** +3, **INT** +6, **WIS** +4, **CHA** +3
 
 ---
@@ -31,9 +33,9 @@ rare, ce, medium, aberration, air
 
 Speed fly 40 feet
 
-**Melee** ◆ claw +20 (agile, finesse); **Damage** 1d6+2 piercing plus 4d6 force and fearful strike plus fearful strike
+**Melee** ◆ claw +20/+16/+12 (agile, finesse); **Damage** 1d6+2 piercing plus 4d6 force and fearful strike plus fearful strike
 
-**Ranged** ◆ ectoplasmic web +20 (range increment <10 feet>); plus ectoplasmic web trap
+**Ranged** ◆ ectoplasmic web +20/+15/+10 (range increment <10 feet>); plus ectoplasmic web trap
 
 **Innate occult Spells** (DC 26)
 

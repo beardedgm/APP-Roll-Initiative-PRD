@@ -11,6 +11,8 @@ n, medium, monitor, psychopomp
 
 **Skills** Acrobatics +14, Diplomacy +14, Intimidation +14, Medicine +12, Occultism +11, Religion +12, Boneyard Lore +11
 
+**Recall Knowledge - Monitor** (Religion): DC 20
+
 **STR** +0, **DEX** +5, **CON** +4, **INT** +2, **WIS** +4, **CHA** +5
 
 ---
@@ -34,7 +36,7 @@ n, medium, monitor, psychopomp
 
 Speed 25 feet
 
-**Melee** ◆ fist +14 (agile, finesse); **Damage** 2d8+2 bludgeoning plus spirit touch plus spirit touch
+**Melee** ◆ fist +14/+10/+6 (agile, finesse); **Damage** 2d8+2 bludgeoning plus spirit touch plus spirit touch
 
 **Innate divine Spells** (DC 22)
 

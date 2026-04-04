@@ -11,6 +11,8 @@ unique, ce, medium, dwarf, humanoid
 
 **Skills** Academia Lore +31, Acrobatics +33, Arcana +33, Athletics +35, Deception +29, Intimidation +31, Performance +31, Stealth +29, Survival +29
 
+**Recall Knowledge - Humanoid** (Society): DC 48
+
 **STR** +5, **DEX** +4, **CON** +4, **INT** +4, **WIS** +2, **CHA** -1
 
 **Items** +3 greater striking mambele (Pathfinder Lost Omens Gods & Magic 120)
@@ -33,9 +35,9 @@ unique, ce, medium, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ mambele +33 (disarm, deadly <d8>, magical); **Damage** 3d6+16 slashing
+**Melee** ◆ mambele +33/+28/+23 (disarm, deadly <d8>, magical); **Damage** 3d6+16 slashing
 
-**Ranged** ◆ mambele +33 (disarm, deadly <d8>, magical, thrown <20 feet>); **Damage** 3d6+16 slashing
+**Ranged** ◆ mambele +33/+28/+23 (disarm, deadly <d8>, magical, thrown <20 feet>); **Damage** 3d6+16 slashing
 
 **Prepared arcane Spells** (DC 37), attack +29
 

@@ -11,6 +11,8 @@ unique, ce, small, charau-ka, humanoid
 
 **Skills** Athletics +10, Intimidation +11, Religion +13, Stealth +8, Dragon Lore +11
 
+**Recall Knowledge - Humanoid** (Society): DC 30
+
 **STR** +3, **DEX** +2, **CON** +2, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** +1 chain shirt, Cinderclaw gauntlet|AoA1, gold religious symbol of Dahak|LOGM (worth 20 gp), hatchet, hunter's arrowhead|TV
@@ -27,13 +29,13 @@ unique, ce, small, charau-ka, humanoid
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ Cinderclaw gauntlet +13 (agile, free-hand, versatile <S>); **Damage** 2d4+5 piercing plus 1d6 fire on a critical hit
+**Melee** ◆ Cinderclaw gauntlet +13/+9/+5 (agile, free-hand, versatile <S>); **Damage** 2d4+5 piercing plus 1d6 fire on a critical hit
 
-**Melee** ◆ hatchet +12 (agile, sweep); **Damage** 1d6+5 slashing
+**Melee** ◆ hatchet +12/+8/+4 (agile, sweep); **Damage** 1d6+5 slashing
 
-**Ranged** ◆ hatchet +12 (agile, sweep, thrown <10 feet>); **Damage** 1d6+5 slashing
+**Ranged** ◆ hatchet +12/+8/+4 (agile, sweep, thrown <10 feet>); **Damage** 1d6+5 slashing
 
-**Ranged** ◆ thrown debris +11 (deadly <1d6>, range <20 feet>); **Damage** 2d6+5 bludgeoning
+**Ranged** ◆ thrown debris +11/+6/+1 (deadly <1d6>, range <20 feet>); **Damage** 2d6+5 bludgeoning
 
 **Prepared divine Spells** (DC 23), attack +13
 

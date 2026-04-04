@@ -11,6 +11,8 @@ uncommon, n, medium, aberration
 
 **Skills** Arcana +8, Medicine +6, Nature +8, Occultism +10, Society +8
 
+**Recall Knowledge - Aberration** (Occultism): DC 18
+
 **STR** -2, **DEX** +3, **CON** +0, **INT** +4, **WIS** +2, **CHA** +3
 
 **Thoughtsense** (divination, mental, occult) The contemplative senses all non-mindless creatures at the listed range.
@@ -33,7 +35,7 @@ uncommon, n, medium, aberration
 
 Speed 5 feet, fly 25 feet
 
-**Melee** ◆ claw +7 (finesse); **Damage** 1d6 slashing
+**Melee** ◆ claw +7/+2/-3 (finesse); **Damage** 1d6 slashing
 
 **Innate occult Spells** (DC 18), attack +10
 

@@ -9,6 +9,8 @@ uncommon, n, small, construct, mindless
 
 **Skills** Acrobatics +11
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 20
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** -5, **WIS** +1, **CHA** +2
 
 ---
@@ -27,7 +29,7 @@ uncommon, n, small, construct, mindless
 
 Speed fly 10 feet
 
-**Melee** ◆ ink blade +10; **Damage** 1d12+5 slashing
+**Melee** ◆ ink blade +10/+5/+0; **Damage** 1d12+5 slashing
 
 **Fly Free** ◆ (concentrate, move) **Requirements** The tattoo guardian is Bonded with its Ward; The tattoo guardian removes itself from the ward and enters an adjacent space.
 

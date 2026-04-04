@@ -11,6 +11,8 @@ rare, le, large, construct
 
 **Skills** Athletics +15
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 27
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** -2, **WIS** +4, **CHA** +2
 
 **Magic Sense** (magical) The scarecophagus detects the presence of magic items and spell effects within 30 feet as an imprecise sense.
@@ -35,7 +37,7 @@ rare, le, large, construct
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ tentacle +15 (agile, magical, reach <10 feet>); **Damage** 2d6+7 bludgeoning
+**Melee** ◆ tentacle +15/+11/+7 (agile, magical, reach <10 feet>); **Damage** 2d6+7 bludgeoning
 
 **Prepared arcane Spells** (DC 24), attack +16
 

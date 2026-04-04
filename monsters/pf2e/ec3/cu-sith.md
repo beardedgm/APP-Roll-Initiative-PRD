@@ -11,6 +11,8 @@ uncommon, n, large, fey
 
 **Skills** Acrobatics +15, Athletics +17, Stealth +17, Survival +16
 
+**Recall Knowledge - Fey** (Nature): DC 25
+
 **STR** +6, **DEX** +4, **CON** +4, **INT** -3, **WIS** +3, **CHA** +5
 
 ---
@@ -27,7 +29,7 @@ uncommon, n, large, fey
 
 Speed 40 feet
 
-**Melee** ◆ jaws +17; **Damage** 2d10+9 piercing plus Grab plus Grab
+**Melee** ◆ jaws +17/+12/+7; **Damage** 2d10+9 piercing plus Grab plus Grab
 
 **Dooming Bark** ◆◆ (auditory, concentrate, fear, mental, necromancy, primal) Any creature within 200 feet of the cu sith that hears its Dooming Bark must attempt a DC 24 Will save. **Critical Success** The creature is unaffected and immune to Dooming Bark for 24 hours.
 **Success** The creature is frightened|CRB|frightened 1.

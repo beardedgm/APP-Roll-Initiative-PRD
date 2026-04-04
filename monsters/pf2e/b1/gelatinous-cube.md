@@ -9,6 +9,8 @@ n, large, mindless, ooze
 
 **Skills** Athletics +11
 
+**Recall Knowledge - Ooze** (Occultism): DC 18
+
 **STR** +4, **DEX** -5, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 **Motion Sense** A sewer ooze can sense nearby motion through vibration and air movement.
@@ -29,7 +31,7 @@ n, large, mindless, ooze
 
 Speed 15 feet
 
-**Melee** ◆ cube face +11; **Damage** 1d6 acid plus paralysis plus paralysis
+**Melee** ◆ cube face +11/+6/+1; **Damage** 1d6 acid plus paralysis plus paralysis
 
 **Engulf** ◆◆ DC 19, 2d6 acid, Escape DC 19, Rupture 7. A creature Engulfed by the gelatinous cube must also attempt a saving throw against paralysis.
 

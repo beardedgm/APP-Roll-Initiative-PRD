@@ -11,6 +11,8 @@ rare, ne, gargantuan, dragon, shadow
 
 **Skills** Acrobatics +33, Athletics +38, Deception +34, Intimidation +36, Nature +34, Stealth +35, Survival +34
 
+**Recall Knowledge - Dragon** (Arcana): DC 45
+
 **STR** +10, **DEX** +5, **CON** +7, **INT** +6, **WIS** +8, **CHA** +6
 
 ---
@@ -31,13 +33,13 @@ rare, ne, gargantuan, dragon, shadow
 
 Speed 60 feet, fly 200 feet
 
-**Melee** ◆ jaws +38 (negative, magical, reach <20 feet>); **Damage** 4d10+18 piercing plus 4d6 negative and drain vigor plus drain vigor
+**Melee** ◆ jaws +38/+33/+28 (negative, magical, reach <20 feet>); **Damage** 4d10+18 piercing plus 4d6 negative and drain vigor plus drain vigor
 
-**Melee** ◆ claw +38 (agile magical, reach <15 feet>); **Damage** 4d10+18 slashing
+**Melee** ◆ claw +38/+34/+30 (agile magical, reach <15 feet>); **Damage** 4d10+18 slashing
 
-**Melee** ◆ tail +36 (magical, reach <25 feet>); **Damage** 4d12+18 slashing
+**Melee** ◆ tail +36/+31/+26 (magical, reach <25 feet>); **Damage** 4d12+18 slashing
 
-**Melee** ◆ wing +36 (agile, magical reach <20 feet>); **Damage** 3d10+18 slashing
+**Melee** ◆ wing +36/+32/+28 (agile, magical reach <20 feet>); **Damage** 3d10+18 slashing
 
 **Innate primal Spells** (DC 42)
 

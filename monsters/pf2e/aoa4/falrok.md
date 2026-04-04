@@ -11,6 +11,8 @@ unique, ce, medium, ghoul, undead
 
 **Skills** Acrobatics +29, Crafting +24, Deception +27, Diplomacy +27, Society +24, Stealth +29, Saggorak Lore +24
 
+**Recall Knowledge - Undead** (Religion): DC 42
+
 **STR** +4, **DEX** +8, **CON** +5, **INT** +3, **WIS** +2, **CHA** +6
 
 **Lazurite-Infused Flesh** Falrok's flesh is infused with lazurite, and he gains the benefits undead creatures gain from this mineral at all times. When in an area infused with lazurite, such as the Sanctum of the Starved, these benefits increase to a +3 circumstance bonus to saving throws against positive effects. This infusion also grants Falrok his resistance to positive damage.
@@ -35,9 +37,9 @@ unique, ce, medium, ghoul, undead
 
 Speed 30 feet, burrow 20 feet
 
-**Melee** ◆ jaws +30 (finesse); **Damage** 3d8+12 piercing plus ghast fever and paralysis plus ghast fever, paralysis
+**Melee** ◆ jaws +30/+25/+20 (finesse); **Damage** 3d8+12 piercing plus ghast fever and paralysis plus ghast fever, paralysis
 
-**Melee** ◆ claw +30 (agile, finesse); **Damage** 3d6+12 slashing plus paralysis plus paralysis
+**Melee** ◆ claw +30/+26/+22 (agile, finesse); **Damage** 3d6+12 slashing plus paralysis plus paralysis
 
 **Consume Flesh** ◆ (manipulate) **Requirements** Falrok is adjacent to the corpse of a creature that died within the last hour.; Falrok devours a chunk of the corpse and regains 8d6 hit points. He can regain Hit Points from any given corpse only once.
 

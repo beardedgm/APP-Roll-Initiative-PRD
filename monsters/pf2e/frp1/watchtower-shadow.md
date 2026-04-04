@@ -11,6 +11,8 @@ unique, ce, medium, incorporeal, undead
 
 **Skills** Acrobatics +28, Stealth +33
 
+**Recall Knowledge - Undead** (Religion): DC 44
+
 **STR** -5, **DEX** +7, **CON** +0, **INT** +0, **WIS** +4, **CHA** +6
 
 **Site Bound** The shadow is tied to its watchtower.
@@ -37,7 +39,7 @@ unique, ce, medium, incorporeal, undead
 
 Speed fly 30 feet
 
-**Melee** ◆ shadow hand +30 (finesse, magical); **Damage** 4d10+10 negative
+**Melee** ◆ shadow hand +30/+25/+20 (finesse, magical); **Damage** 4d10+10 negative
 
 **Innate divine Spells** (DC 36)
 

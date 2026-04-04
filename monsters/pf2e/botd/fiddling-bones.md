@@ -11,6 +11,8 @@ ne, medium, undead
 
 **Skills** Acrobatics +10, Diplomacy +9, Intimidation +9, Performance +13, Theater Lore +10
 
+**Recall Knowledge - Undead** (Religion): DC 18
+
 **STR** +1, **DEX** +3, **CON** +1, **INT** +3, **WIS** +2, **CHA** +4
 
 **Items** fiddle, flute
@@ -33,11 +35,11 @@ ne, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ stamping foot +10 (finesse); **Damage** 2d8+3 bludgeoning
+**Melee** ◆ stamping foot +10/+5/+0 (finesse); **Damage** 2d8+3 bludgeoning
 
-**Melee** ◆ fiddlestick +10 (agile, finesse); **Damage** 2d6+3 bludgeoning
+**Melee** ◆ fiddlestick +10/+6/+2 (agile, finesse); **Damage** 2d6+3 bludgeoning
 
-**Ranged** ◆ dissonant chord +10 (magical, range <40 feet>, sonic); **Damage** 2d6+4 sonic
+**Ranged** ◆ dissonant chord +10/+5/+0 (magical, range <40 feet>, sonic); **Damage** 2d6+4 sonic
 
 **Dance with Death** ◆◆ (auditory, emotion, enchantment, mental, occult) The fiddling bones plays a catchy song that compels others to dance. Each creature in a 30-foot emanation must attempt a DC 19 Will save. Fiddling bones are immune. The effect lasts until the end of the fiddling bones's next turn, but the fiddling bones can Sustain the effect on all affected creatures that remain within the emanation. **Critical Success** 
 **Success** 

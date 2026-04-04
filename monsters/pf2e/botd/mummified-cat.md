@@ -9,6 +9,8 @@ ne, tiny, mummy, undead
 
 **Skills** Acrobatics +4, Athletics +5, Stealth +9
 
+**Recall Knowledge - Undead** (Religion): DC 14
+
 **STR** +1, **DEX** +0, **CON** +2, **INT** -4, **WIS** +3, **CHA** -2
 
 ---
@@ -29,9 +31,9 @@ ne, tiny, mummy, undead
 
 Speed 25 feet, climb 15 feet
 
-**Melee** ◆ jaws +8 (reach <0 feet>); **Damage** 1d6+1 piercing
+**Melee** ◆ jaws +8/+3/-2 (reach <0 feet>); **Damage** 1d6+1 piercing
 
-**Melee** ◆ claw +8 (agile, reach <0 feet>); **Damage** 1d4+1 piercing
+**Melee** ◆ claw +8/+4/+0 (agile, reach <0 feet>); **Damage** 1d4+1 piercing
 
 **Innate divine Spells** (DC 15)
 

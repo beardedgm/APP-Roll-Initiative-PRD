@@ -11,6 +11,8 @@ rare, ce, gargantuan, aberration
 
 **Skills** Athletics +21, Diplomacy +17, Intimidation +19, Occultism +22, Religion +21, Survival +19
 
+**Recall Knowledge - Aberration** (Occultism): DC 32
+
 **STR** +7, **DEX** +3, **CON** +4, **INT** +2, **WIS** +7, **CHA** +3
 
 ---
@@ -34,9 +36,9 @@ rare, ce, gargantuan, aberration
 
 Speed 25 feet, burrow 20 feet, climb 20 feet
 
-**Melee** ◆ jaws +21; **Damage** 2d12+9 piercing plus Grab plus Grab
+**Melee** ◆ jaws +21/+16/+11; **Damage** 2d12+9 piercing plus Grab plus Grab
 
-**Melee** ◆ claw +21 (agile); **Damage** 2d8+9 slashing
+**Melee** ◆ claw +21/+17/+13 (agile); **Damage** 2d8+9 slashing
 
 **Prepared divine Spells** (DC 29), attack +21
 

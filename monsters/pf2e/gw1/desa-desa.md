@@ -9,6 +9,8 @@ uncommon, n, small, animal
 
 **Skills** Acrobatics +8, Athletics +7, Stealth +9, Survival +8
 
+**Recall Knowledge - Animal** (Nature): DC 18
+
 **STR** +2, **DEX** +5, **CON** +1, **INT** -4, **WIS** +4, **CHA** +1
 
 ---
@@ -31,7 +33,7 @@ uncommon, n, small, animal
 
 Speed 40 feet, climb 20 feet
 
-**Melee** ◆ bite +11; **Damage** 1d4+2 piercing plus bubble venom
+**Melee** ◆ bite +11/+6/+1; **Damage** 1d4+2 piercing plus bubble venom
 
 **Bubble Venom** (arcane, poison) A creature bit by a desa-desa breaks out in large, painful blisters which expand and pop as water in the victim's body turns into volatile gasses. Magical healing of any kind counteracts the bubble venom; **Saving Throw** DC 18 Fortitude
 **Maximum Duration** 6 rounds

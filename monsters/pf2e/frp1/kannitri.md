@@ -11,6 +11,8 @@ unique, ln, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Intimidation +26, Occultism +24, Irori Lore +24, Temple Lore +24
 
+**Recall Knowledge - Spirit** (Religion): DC 41
+
 **STR** -5, **DEX** +5, **CON** +0, **INT** +3, **WIS** +6, **CHA** +7
 
 **Site Bound** As ghost.
@@ -33,7 +35,7 @@ unique, ln, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 40 feet
 
-**Melee** ◆ ghostly fist +28 (agile, finesse, magical); **Damage** 3d8+13 negative
+**Melee** ◆ ghostly fist +28/+24/+20 (agile, finesse, magical); **Damage** 3d8+13 negative
 
 **Corrupting Gaze** ◆◆ As ghost. 7d6 negative damage, DC 33.
 

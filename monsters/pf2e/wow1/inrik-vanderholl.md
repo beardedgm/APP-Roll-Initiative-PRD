@@ -19,4 +19,4 @@
 
 ---
 
-**Melee** ◆ composite longbow +13 (deadly <1d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+7 piercing plus 1d6 electricity
+**Melee** ◆ composite longbow +13/+8/+3 (deadly <1d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+7 piercing plus 1d6 electricity

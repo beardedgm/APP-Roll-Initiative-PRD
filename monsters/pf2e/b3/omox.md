@@ -11,6 +11,8 @@ uncommon, ce, medium, demon, fiend, ooze
 
 **Skills** Acrobatics +24, Athletics +23, Religion +20, Stealth +24
 
+**Recall Knowledge - Fiend** (Religion, Occultism): DC 32
+
 **STR** +7, **DEX** +3, **CON** +7, **INT** +2, **WIS** +4, **CHA** +4
 
 **Cleanly Vulnerability** An omox embodies filth, and they find the concept of cleanliness abhorrent. An omox subjected to an effect that cleans them, such as the tidy command of prestidigitation, takes 2d6 mental damage. They also take this damage the first time each round a creature hit by one of the omox's attacks spends actions cleaning off the filth.
@@ -33,9 +35,9 @@ uncommon, ce, medium, demon, fiend, ooze
 
 Speed 40 feet, swim 80 feet, climb 20 feet
 
-**Melee** ◆ sludge tendril +25; **Damage** 2d6+13 bludgeoning plus 2d6 acid and 1d6 evil and Grab plus Grab
+**Melee** ◆ sludge tendril +25/+20/+15; **Damage** 2d6+13 bludgeoning plus 2d6 acid and 1d6 evil and Grab plus Grab
 
-**Ranged** ◆ slime ball +24 (range increment <30 feet>); **Damage** 2d4+13 bludgeoning plus 2d6 acid and 1d6 evil and slime trap plus slime trap
+**Ranged** ◆ slime ball +24/+19/+14 (range increment <30 feet>); **Damage** 2d4+13 bludgeoning plus 2d6 acid and 1d6 evil and slime trap plus slime trap
 
 **Innate divine Spells** (DC 32)
 

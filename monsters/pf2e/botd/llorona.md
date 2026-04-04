@@ -11,6 +11,8 @@ ne, medium, incorporeal, spirit, undead
 
 **Skills** Athletics +23, Deception +25, Intimidation +23, Stealth +23
 
+**Recall Knowledge - Spirit** (Religion): DC 30
+
 **STR** -5, **DEX** +7, **CON** +1, **INT** +2, **WIS** +2, **CHA** +5
 
 ---
@@ -31,7 +33,7 @@ ne, medium, incorporeal, spirit, undead
 
 Speed fly 60 feet
 
-**Melee** ◆ ghostly hand +25 (agile, finesse, magical); **Damage** 2d6+11 negative plus funereal touch and Grab
+**Melee** ◆ ghostly hand +25/+21/+17 (agile, finesse, magical); **Damage** 2d6+11 negative plus funereal touch and Grab
 
 **Constrict** ◆ 2d6+12 negative, DC 31
 

@@ -11,6 +11,8 @@ unique, huge, dragon, plant, shadow
 
 **Skills** Acrobatics +19, Arcana +25, Architecture Lore +27, Art Lore +27, Athletics +21, Crafting +25, Intimidation +20, Nature +25, Netherworld Lore +27, Occultism +25, Survival +25
 
+**Recall Knowledge - Dragon** (Arcana, Nature): DC 40
+
 **STR** +5, **DEX** +3, **CON** +5, **INT** +7, **WIS** +7, **CHA** +4
 
 **Shadowsense** The shadows of Gloaming Arbor are an extension of Avathrael, and they can sense creatures in areas of dim light or darkness.
@@ -35,13 +37,13 @@ unique, huge, dragon, plant, shadow
 
 Speed 40 feet, fly 100 feet, woodland stride
 
-**Melee** ◆ jaws +26 (magical, reach <15 feet>); **Damage** 3d10+11 piercing plus 1d8 poison
+**Melee** ◆ jaws +26/+21/+16 (magical, reach <15 feet>); **Damage** 3d10+11 piercing plus 1d8 poison
 
-**Melee** ◆ razor tail +24 (magical, reach <20 feet>); **Damage** 4d8+11 slashing plus 1d8 persistent bleed
+**Melee** ◆ razor tail +24/+19/+14 (magical, reach <20 feet>); **Damage** 4d8+11 slashing plus 1d8 persistent bleed
 
-**Melee** ◆ shadow claws +26 (agile, magical, reach <10 feet>); **Damage** 2d8+11 slashing plus 1d8 void
+**Melee** ◆ shadow claws +26/+22/+18 (agile, magical, reach <10 feet>); **Damage** 2d8+11 slashing plus 1d8 void
 
-**Ranged** ◆ seedpod +22 (range increment <60 feet>); **Damage** 2d6+11 bludgeoning plus 1d6 poison
+**Ranged** ◆ seedpod +22/+17/+12 (range increment <60 feet>); **Damage** 2d6+11 bludgeoning plus 1d6 poison
 
 **Innate arcane Spells** (DC 32), attack +24
 

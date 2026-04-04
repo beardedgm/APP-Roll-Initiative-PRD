@@ -11,6 +11,8 @@ rare, ne, large, aberration
 
 **Skills** Acrobatics +25, Athletics +29, Intimidation +22, Survival +31
 
+**Recall Knowledge - Aberration** (Occultism): DC 39
+
 **STR** +8, **DEX** +6, **CON** +7, **INT** +5, **WIS** +6, **CHA** -3
 
 **Smoke Vision** Smoke doesn't impair a tolokand's vision; it ignores the concealed condition from smoke.
@@ -37,7 +39,7 @@ rare, ne, large, aberration
 
 Speed 120 feet, air walk
 
-**Melee** ◆ hand +31 (reach <10 feet>); **Damage** 2d12+16 slashing plus 2d6 persistent poison
+**Melee** ◆ hand +31/+26/+21 (reach <10 feet>); **Damage** 2d12+16 slashing plus 2d6 persistent poison
 
 **Spontaneous occult Spells** (DC 37)
 

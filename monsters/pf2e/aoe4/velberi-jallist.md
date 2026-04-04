@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Athletics +26, Intimidation +27, Religion +23, Thievery +25
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** +6, **DEX** +3, **CON** +1, **INT** +0, **WIS** +5, **CHA** +3
 
 ---
@@ -27,7 +29,7 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +27 (agile, finesse, magic, versatile <S>); **Damage** 2d4+12 piercing
+**Melee** ◆ dagger +27/+23/+19 (agile, finesse, magic, versatile <S>); **Damage** 2d4+12 piercing
 
 **Prepared divine Spells** (DC 34)
 

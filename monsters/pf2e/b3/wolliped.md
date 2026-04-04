@@ -9,6 +9,8 @@ n, large, animal
 
 **Skills** Acrobatics +10, Athletics +10, Survival +9
 
+**Recall Knowledge - Animal** (Nature): DC 18
+
 **STR** +3, **DEX** +4, **CON** +4, **INT** -4, **WIS** +1, **CHA** +2
 
 ---
@@ -23,11 +25,11 @@ n, large, animal
 
 Speed 35 feet, ice stride
 
-**Melee** ◆ tusk +10; **Damage** 1d10+5 piercing
+**Melee** ◆ tusk +10/+5/+0; **Damage** 1d10+5 piercing
 
-**Melee** ◆ hoof +10; **Damage** 1d8+5 bludgeoning
+**Melee** ◆ hoof +10/+5/+0; **Damage** 1d8+5 bludgeoning
 
-**Ranged** ◆ spit +12 (range increment <30 feet>); **Damage** 1d8+2 bludgeoning
+**Ranged** ◆ spit +12/+7/+2 (range increment <30 feet>); **Damage** 1d8+2 bludgeoning
 
 **Ice Stride** A wolliped isn't impeded by terrain caused by snow or ice, nor does it need to attempt Acrobatics checks to keep from falling on slippery ice.
 

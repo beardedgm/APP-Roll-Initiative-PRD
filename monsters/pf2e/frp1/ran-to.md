@@ -11,6 +11,8 @@ unique, le, small, goblin, humanoid
 
 **Skills** Acrobatics +24, Athletics +30, Intimidation +24, Survival +23, Wrestling Lore +19
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** +6, **DEX** +4, **CON** +6, **INT** -1, **WIS** +1, **CHA** +2
 
 **Items** +2 greater striking gauntlet, +2 greater striking halfling sling staff (20 bullets), +1 resilient studded leather
@@ -29,9 +31,9 @@ unique, le, small, goblin, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ gauntlet +30 (agile, free-hand, magical); **Damage** 3d4+14 bludgeoning
+**Melee** ◆ gauntlet +30/+26/+22 (agile, free-hand, magical); **Damage** 3d4+14 bludgeoning
 
-**Ranged** ◆ halfling sling staff +28 (magical, propulsive, range increment <80 feet>, reload <1>); **Damage** 3d10+10 bludgeoning
+**Ranged** ◆ halfling sling staff +28/+23/+18 (magical, propulsive, range increment <80 feet>, reload <1>); **Damage** 3d10+10 bludgeoning
 
 **Body Slam** ◆ **Requirements** Ran-to has a creature grabbed; Ran-to throws his foe against the ground. The grabbed creature takes 8d6 bludgeoning damage and is knocked prone. The grapple ends.
 

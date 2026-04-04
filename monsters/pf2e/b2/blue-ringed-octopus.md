@@ -9,6 +9,8 @@ n, tiny, animal, aquatic
 
 **Skills** Athletics +6, Stealth +7
 
+**Recall Knowledge - Animal** (Nature): DC 14
+
 **STR** +0, **DEX** +3, **CON** +1, **INT** -4, **WIS** +3, **CHA** +0
 
 ---
@@ -23,9 +25,9 @@ n, tiny, animal, aquatic
 
 Speed swim 25 feet
 
-**Melee** ◆ beak +7 (finesse); **Damage** 1d6 piercing plus blue-ringed octopus venom plus blue-ringed octopus venom
+**Melee** ◆ beak +7/+2/-3 (finesse); **Damage** 1d6 piercing plus blue-ringed octopus venom plus blue-ringed octopus venom
 
-**Melee** ◆ arms +6; plus Grab
+**Melee** ◆ arms +6/+1/-4; plus Grab
 
 **Blue-Ringed Octopus Venom** (poison)
 

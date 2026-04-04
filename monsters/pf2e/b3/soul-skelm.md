@@ -11,6 +11,8 @@ uncommon, le, medium, fiend, humanoid, skelm
 
 **Skills** Athletics +22, Deception +21, Occultism +19, Society +19, Stealth +17
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 29
+
 **STR** +6, **DEX** +3, **CON** +5, **INT** +3, **WIS** +5, **CHA** +7
 
 **Items** +1 striking ghost touch spiked chain
@@ -29,11 +31,11 @@ uncommon, le, medium, fiend, humanoid, skelm
 
 Speed 30 feet
 
-**Melee** ◆ fist +22 (agile, evil, magical); **Damage** 2d8+12 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +22/+18/+14 (agile, evil, magical); **Damage** 2d8+12 bludgeoning plus Grab plus Grab
 
-**Melee** ◆ antler +22 (evil, magical); **Damage** 2d12+12 piercing plus Knockdown (page 305) plus Knockdown
+**Melee** ◆ antler +22/+17/+12 (evil, magical); **Damage** 2d12+12 piercing plus Knockdown (page 305) plus Knockdown
 
-**Melee** ◆ spiked chain +23 (disarm, evil, magical, trip); **Damage** 2d8+12 slashing plus Knockdown
+**Melee** ◆ spiked chain +23/+18/+13 (disarm, evil, magical, trip); **Damage** 2d8+12 slashing plus Knockdown
 
 **Innate occult Spells** (DC 29)
 

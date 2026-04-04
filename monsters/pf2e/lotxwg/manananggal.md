@@ -11,6 +11,8 @@ medium, aberration, tanggal|B3
 
 **Skills** Acrobatics +18, Deception +16, Religion +13
 
+**Recall Knowledge - Aberration** (Occultism): DC 24
+
 **STR** +5, **DEX** +5, **CON** +2, **INT** +1, **WIS** +3, **CHA** +4
 
 ---
@@ -27,9 +29,9 @@ medium, aberration, tanggal|B3
 
 Speed 30 feet
 
-**Melee** ◆ claws +18 (agile, magical); **Damage** 2d8+9 slashing plus Grab plus Grab
+**Melee** ◆ claws +18/+14/+10 (agile, magical); **Damage** 2d8+9 slashing plus Grab plus Grab
 
-**Melee** ◆ jaws +18 (magical); **Damage** 2d10+9 piercing
+**Melee** ◆ jaws +18/+13/+8 (magical); **Damage** 2d10+9 piercing
 
 **Innate occult Spells** (DC 26)
 

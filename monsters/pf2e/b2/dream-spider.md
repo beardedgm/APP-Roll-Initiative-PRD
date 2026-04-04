@@ -9,6 +9,8 @@ n, small, animal
 
 **Skills** Acrobatics +5, Athletics +2, Stealth +7
 
+**Recall Knowledge - Animal** (Nature): DC 14
+
 **STR** +0, **DEX** +3, **CON** +1, **INT** -5, **WIS** +0, **CHA** -4
 
 **Web Sense** The dream spider has imprecise tremorsense to detect the vibrations of creatures touching its web.
@@ -25,9 +27,9 @@ n, small, animal
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ bite +7 (finesse); **Damage** 1d6 plus dream spider venom plus 1d6, dream spider venom
+**Melee** ◆ bite +7/+2/-3 (finesse); **Damage** 1d6 plus dream spider venom plus 1d6, dream spider venom
 
-**Ranged** ◆ web +7 (range increment <10 feet>); plus web trap plus dream spider venom
+**Ranged** ◆ web +7/+2/-3 (range increment <10 feet>); plus web trap plus dream spider venom
 
 **Dream Spider Venom** (poison)
 

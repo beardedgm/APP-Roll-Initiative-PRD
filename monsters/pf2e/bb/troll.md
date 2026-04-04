@@ -27,8 +27,8 @@ ce, large, giant, troll
 
 Speed 30 feet
 
-**Melee** ◆ jaws +14 (reach <10 feet>); **Damage** 2d10 + 5 piercing
+**Melee** ◆ jaws +14/+9/+4 (reach <10 feet>); **Damage** 2d10 + 5 piercing
 
-**Melee** ◆ claw +14 (agile, reach <10 feet>); **Damage** 2d8 + 5 slashing
+**Melee** ◆ claw +14/+10/+6 (agile, reach <10 feet>); **Damage** 2d8 + 5 slashing
 
 **Rend** ◆ If the troll succeeds at two claw Strikes against the same creature in the same turn, they can use this ability to automatically deal claw Strike damage to that creature.

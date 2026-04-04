@@ -311,12 +311,20 @@ function renderWeaknesses(weaknesses) {
 }
 
 /**
- * Render a single attack line with action symbol and range type.
+ * Render a single attack line with action symbol, MAP notation, and range type.
+ * MAP (Multiple Attack Penalty): 2nd attack −5 (−4 if agile), 3rd attack −10 (−8 if agile).
  */
 function renderAttack(attack) {
   const isRanged = attack.range === 'Ranged' || attack.type === 'ranged';
   const type = isRanged ? '**Ranged**' : '**Melee**';
-  const mod = fmtMod(attack.attack);
+
+  // MAP calculation
+  const base = attack.attack ?? 0;
+  const isAgile = (attack.traits ?? []).some((t) => /^agile/i.test(stripPf2eTags(t)));
+  const map2 = base + (isAgile ? -4 : -5);
+  const map3 = base + (isAgile ? -8 : -10);
+  const mapStr = `${fmtMod(base)}/${fmtMod(map2)}/${fmtMod(map3)}`;
+
   const traits = attack.traits && attack.traits.length > 0
     ? ` (${attack.traits.map(stripPf2eTags).join(', ')})`
     : '';
@@ -324,7 +332,7 @@ function renderAttack(attack) {
   const effects = attack.effects && attack.effects.length > 0
     ? ` plus ${attack.effects.map(stripPf2eTags).join(', ')}`
     : '';
-  return `${type} \u25C6 ${attack.name} ${mod}${traits};${damage}${effects}`;
+  return `${type} \u25C6 ${attack.name} ${mapStr}${traits};${damage}${effects}`;
 }
 
 // ── Spellcasting ─────────────────────────────────────────────────────────────
@@ -429,6 +437,81 @@ function renderSpellcasting(spellcastingArr) {
   return blocks.join('\n\n');
 }
 
+// ── Recall Knowledge ─────────────────────────────────────────────────────────
+
+/**
+ * Standard DC-by-level table from PF2e CRB p. 503.
+ * Index = creature level + 1 (so level -1 is index 0).
+ */
+const DC_BY_LEVEL = [
+  13, // level -1
+  14, 15, 16, 18, 19, 20, 22, 23, 24, 26, // levels 0–9
+  27, 28, 30, 31, 32, 34, 35, 36, 38, 39, // levels 10–19
+  40, 42, 44, 46, 48, 50,                   // levels 20–25
+];
+
+/**
+ * Map creature trait → Recall Knowledge skill(s).
+ * Multiple traits can match; we collect all unique skills.
+ */
+const RECALL_KNOWLEDGE_SKILLS = {
+  aberration:  ['Occultism'],
+  animal:      ['Nature'],
+  astral:      ['Occultism'],
+  beast:       ['Arcana', 'Nature'],
+  celestial:   ['Religion'],
+  construct:   ['Arcana', 'Crafting'],
+  dragon:      ['Arcana'],
+  dream:       ['Occultism'],
+  elemental:   ['Arcana', 'Nature'],
+  ethereal:    ['Occultism'],
+  fey:         ['Nature'],
+  fiend:       ['Religion'],
+  fungus:      ['Nature'],
+  humanoid:    ['Society'],
+  monitor:     ['Religion'],
+  ooze:        ['Occultism'],
+  plant:       ['Nature'],
+  spirit:      ['Religion'],
+  undead:      ['Religion'],
+};
+
+/** Rarity → DC adjustment. */
+const RARITY_ADJUSTMENT = { common: 0, uncommon: 2, rare: 5, unique: 10 };
+
+/**
+ * Render the Recall Knowledge line for a creature.
+ * Returns empty string if no matching trait is found.
+ */
+function renderRecallKnowledge(creature) {
+  const traits = (creature.traits ?? []).map((t) => t.toLowerCase());
+  const level = creature.level ?? 0;
+
+  // Find matching skills from creature traits
+  const skills = new Set();
+  const matchedTraits = [];
+  for (const trait of traits) {
+    if (RECALL_KNOWLEDGE_SKILLS[trait]) {
+      RECALL_KNOWLEDGE_SKILLS[trait].forEach((s) => skills.add(s));
+      matchedTraits.push(trait);
+    }
+  }
+  if (skills.size === 0) return '';
+
+  // Calculate DC: base DC from level table + rarity adjustment
+  const dcIndex = Math.max(0, Math.min(level + 1, DC_BY_LEVEL.length - 1));
+  const baseDC = DC_BY_LEVEL[dcIndex];
+
+  // Rarity from traits (common if not specified)
+  const rarity = traits.find((t) => RARITY_ADJUSTMENT[t] !== undefined && t !== 'common') ?? 'common';
+  const dc = baseDC + (RARITY_ADJUSTMENT[rarity] ?? 0);
+
+  // Use the first matched trait for the label (capitalize)
+  const label = matchedTraits[0].charAt(0).toUpperCase() + matchedTraits[0].slice(1);
+
+  return `**Recall Knowledge - ${label}** (${[...skills].join(', ')}): DC ${dc}`;
+}
+
 // ── Main Export ──────────────────────────────────────────────────────────────
 
 /**
@@ -469,6 +552,10 @@ export function renderPf2eCreatureToMarkdown(creature) {
 
   const skillLine = renderSkills(creature.skills);
   if (skillLine) { lines.push(skillLine); lines.push(''); }
+
+  // Recall Knowledge
+  const rkLine = renderRecallKnowledge(creature);
+  if (rkLine) { lines.push(rkLine); lines.push(''); }
 
   // Ability mods
   const mods = creature.abilityMods ?? {};

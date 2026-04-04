@@ -11,6 +11,8 @@ medium, human, humanoid
 
 **Skills** Acrobatics +13, Deception +12, Intimidation +17, Occultism +17, Society +11, Stealth +13
 
+**Recall Knowledge - Humanoid** (Society): DC 23
+
 **STR** +3, **DEX** +2, **CON** +1, **INT** +5, **WIS** +5, **CHA** +3
 
 **Items** leather armor, staff
@@ -27,7 +29,7 @@ medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ staff +16 (two-handed <d8>); **Damage** 1d4+9 bludgeoning
+**Melee** ◆ staff +16/+11/+6 (two-handed <d8>); **Damage** 1d4+9 bludgeoning
 
 **Innate occult Spells** (DC 25)
 

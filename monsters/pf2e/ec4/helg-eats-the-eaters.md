@@ -11,6 +11,8 @@ unique, ce, large, aberration
 
 **Skills** Acrobatics +26, Arcana +29, Athletics +28, Deception +21, Occultism +27, Stealth +24, Survival +22
 
+**Recall Knowledge - Aberration** (Occultism): DC 44
+
 **STR** +7, **DEX** +3, **CON** +4, **INT** +6, **WIS** +3, **CHA** +0
 
 **Items** religious symbol of Bokrug, spellbook
@@ -29,9 +31,9 @@ unique, ce, large, aberration
 
 Speed 40 feet, climb 20 feet
 
-**Melee** ◆ jaws +30 (reach <15 feet>); **Damage** 3d12+13 piercing
+**Melee** ◆ jaws +30/+25/+20 (reach <15 feet>); **Damage** 3d12+13 piercing
 
-**Melee** ◆ claw +30 (agile, reach <15 feet>); **Damage** 3d8+13 slashing
+**Melee** ◆ claw +30/+26/+22 (agile, reach <15 feet>); **Damage** 3d8+13 slashing
 
 **Prepared arcane Spells** (DC 36), attack +28
 

@@ -11,6 +11,8 @@ rare, cn, medium, construct
 
 **Skills** Acrobatics +11, Crafting +5, Deception +10, Stealth +11
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 23
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** -2, **WIS** +2, **CHA** +1
 
 ---
@@ -31,8 +33,8 @@ rare, cn, medium, construct
 
 Speed 25 feet
 
-**Melee** ◆ fist +11 (agile, finesse); **Damage** 2d4+4 bludgeoning
+**Melee** ◆ fist +11/+7/+3 (agile, finesse); **Damage** 2d4+4 bludgeoning
 
-**Ranged** ◆ splatter +11 (nonlethal, range increment <20 feet>); **Damage** 1d4+4 plus splatter plus 1d4+4, splatter
+**Ranged** ◆ splatter +11/+6/+1 (nonlethal, range increment <20 feet>); **Damage** 1d4+4 plus splatter plus 1d4+4, splatter
 
 **Splatter** A living graffiti splatters into a creature's face with its splatter Strike. On a hit, the target is dazzled for 1 round or until it Interacts to remove the paint from its face.

@@ -11,6 +11,8 @@ n, medium, amphibious, elemental, water
 
 **Skills** Athletics +11, Stealth +12
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 19
+
 **STR** +4, **DEX** +4, **CON** +2, **INT** +1, **WIS** +5, **CHA** +0
 
 **Mist Cloud** (aura, conjuration, primal, water) 15 feet. The mist stalker is surrounded by mist. Creatures in the aura are concealed. If wind disperses the aura, it returns automatically at the start of the mist stalker's turn. This cloud is suppressed in water.
@@ -29,7 +31,7 @@ n, medium, amphibious, elemental, water
 
 Speed 20 feet, swim 30 feet, climb 20 feet
 
-**Melee** ◆ tentacle +14 (finesse, sweep, reach <10 feet>); **Damage** 2d8+4 bludgeoning plus Grab plus Grab
+**Melee** ◆ tentacle +14/+9/+4 (finesse, sweep, reach <10 feet>); **Damage** 2d8+4 bludgeoning plus Grab plus Grab
 
 **Constrict** ◆ 1d8+4 bludgeoning, DC 21
 

@@ -11,6 +11,8 @@ ce, large, aberration
 
 **Skills** Acrobatics +19, Athletics +24, Stealth +21, Survival +17
 
+**Recall Knowledge - Aberration** (Occultism): DC 30
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** -2, **WIS** +1, **CHA** +0
 
 ---
@@ -29,9 +31,9 @@ ce, large, aberration
 
 Speed 40 feet, climb 30 feet
 
-**Melee** ◆ jaws +26; **Damage** 3d10+12 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +26/+21/+16; **Damage** 3d10+12 piercing plus Improved Grab plus Improved Grab
 
-**Melee** ◆ leg +26 (agile, reach <10 feet>); **Damage** 3d6+12 piercing
+**Melee** ◆ leg +26/+22/+18 (agile, reach <10 feet>); **Damage** 3d6+12 piercing
 
 **Carry Off Prey** The gogiteth can move at its full Speed while it has a creature grabbed in its jaws, bringing the grabbed creature along.
 

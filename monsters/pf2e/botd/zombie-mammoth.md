@@ -9,6 +9,8 @@ ne, huge, mindless, undead, zombie
 
 **Skills** Athletics +24
 
+**Recall Knowledge - Undead** (Religion): DC 28
+
 **STR** +7, **DEX** +0, **CON** +5, **INT** -5, **WIS** +2, **CHA** -3
 
 **Slow** As zombie snake.
@@ -35,11 +37,11 @@ ne, huge, mindless, undead, zombie
 
 Speed 45 feet
 
-**Melee** ◆ tusk +24 (reach <15 feet>); **Damage** 3d10+13 piercing
+**Melee** ◆ tusk +24/+19/+14 (reach <15 feet>); **Damage** 3d10+13 piercing
 
-**Melee** ◆ trunk +24 (reach <15 feet>); **Damage** 2d10+7 bludgeoning plus
+**Melee** ◆ trunk +24/+19/+14 (reach <15 feet>); **Damage** 2d10+7 bludgeoning plus
 
-**Melee** ◆ foot +24 (reach <10 feet>); **Damage** 2d10+13 bludgeoning
+**Melee** ◆ foot +24/+19/+14 (reach <10 feet>); **Damage** 2d10+13 bludgeoning
 
 **Improved Grab**
 

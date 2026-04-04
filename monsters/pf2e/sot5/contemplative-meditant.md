@@ -11,6 +11,8 @@ rare, n, medium, aberration
 
 **Skills** Arcana +31, Deception +27
 
+**Recall Knowledge - Aberration** (Occultism): DC 39
+
 **STR** +0, **DEX** +6, **CON** +0, **INT** +8, **WIS** +6, **CHA** +4
 
 **Time** Lore +31, Diplomacy +27, Medicine +29, Nature +27, Occultism +33, Society +29
@@ -37,7 +39,7 @@ rare, n, medium, aberration
 
 Speed 5 feet, fly 25 feet
 
-**Melee** ◆ claw +27 (finesse, magical); **Damage** 3d6+4 slashing plus 4d6 mental
+**Melee** ◆ claw +27/+22/+17 (finesse, magical); **Damage** 3d6+4 slashing plus 4d6 mental
 
 **Innate occult Spells** (DC 39), attack +29
 

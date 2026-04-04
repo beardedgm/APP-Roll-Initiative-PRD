@@ -11,6 +11,8 @@ uncommon, ne, large, giant, humanoid
 
 **Skills** Athletics +14, Intimidation +10, Survival +12, Fortune-telling Lore +13
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +5, **DEX** -1, **CON** +2, **INT** +0, **WIS** +3, **CHA** -1
 
 **Items** greataxe, heavy crossbow (10 bolts), hide armor
@@ -31,8 +33,8 @@ uncommon, ne, large, giant, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ greataxe +14 (reach <10 feet>, sweep); **Damage** 1d12+9 slashing
+**Melee** ◆ greataxe +14/+9/+4 (reach <10 feet>, sweep); **Damage** 1d12+9 slashing
 
-**Ranged** ◆ heavy crossbow +8 (range increment <120 feet>, reload <2>); **Damage** 1d10+4 piercing
+**Ranged** ◆ heavy crossbow +8/+3/-2 (range increment <120 feet>, reload <2>); **Damage** 1d10+4 piercing
 
 **Swipe** ◆◆ (flourish) The cyclops makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within its melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Swipe counts as two attacks for the cyclops's multiple attack penalty.

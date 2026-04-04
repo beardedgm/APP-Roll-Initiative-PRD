@@ -11,6 +11,8 @@ ce, medium, humanoid
 
 **Skills** Acrobatics +7, Athletics +8, Crafting +8, Stealth +9
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +4, **DEX** +3, **CON** +1, **INT** -2, **WIS** +3, **CHA** +1
 
 **Items** club
@@ -29,11 +31,11 @@ ce, medium, humanoid
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ club +9; **Damage** 1d6+4 bludgeoning
+**Melee** ◆ club +9/+4/-1; **Damage** 1d6+4 bludgeoning
 
-**Melee** ◆ jaws +9 (agile); **Damage** 1d4+4 piercing
+**Melee** ◆ jaws +9/+5/+1 (agile); **Damage** 1d4+4 piercing
 
-**Ranged** ◆ club +8 (range increment <10 feet>); **Damage** 1d6+4 bludgeoning
+**Ranged** ◆ club +8/+3/-2 (range increment <10 feet>); **Damage** 1d6+4 bludgeoning
 
 **Instinctual Tinker** ◆◆ The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a Crafting check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's. **Critical Success** The target gains 4d6 HP and a +1 circumstance bonus to attack rolls for 1 minute.
 **Success** The target gains 2d6 HP.

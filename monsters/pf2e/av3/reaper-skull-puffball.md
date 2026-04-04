@@ -9,6 +9,8 @@ uncommon, n, large, fungus, mindless
 
 **Skills** Acrobatics +19, Stealth +17
 
+**Recall Knowledge - Fungus** (Nature): DC 28
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** -5, **WIS** +2, **CHA** -2
 
 **Motion Sense** The puffball senses motion through vibration and air movement.
@@ -31,7 +33,7 @@ uncommon, n, large, fungus, mindless
 
 Speed 10 feet, fly 20 feet
 
-**Melee** ◆ tendril +21 (finesse, reach <10 feet>); **Damage** 2d12+8 plus paralysis plus 2d12+8, paralysis
+**Melee** ◆ tendril +21/+16/+11 (finesse, reach <10 feet>); **Damage** 2d12+8 plus paralysis plus 2d12+8, paralysis
 
 **Spore Cloud** ◆◆ (poison) The puffball releases a 30-foot cone of spores that deals 4d8 poison damage (DC 28 basic Fortitude save) to creatures in the cone. Creatures that fail this save are also exposed to skull rot.
 

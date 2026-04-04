@@ -11,6 +11,8 @@ uncommon, ne, medium, incorporeal, spirit, undead
 
 **Skills** Acrobatics +28, Deception +31, Diplomacy +27, Intimidation +29, Stealth +28
 
+**Recall Knowledge - Spirit** (Religion): DC 36
+
 **STR** -5, **DEX** +7, **CON** +0, **INT** +1, **WIS** +6, **CHA** +8
 
 ---
@@ -31,7 +33,7 @@ uncommon, ne, medium, incorporeal, spirit, undead
 
 Speed fly 50 feet
 
-**Melee** ◆ pain touch +28 (agile, evil, finesse, magical); **Damage** 3d10+14 negative plus 2d6 evil
+**Melee** ◆ pain touch +28/+24/+20 (agile, evil, finesse, magical); **Damage** 3d10+14 negative plus 2d6 evil
 
 **Innate occult Spells** (DC 36), attack +30
 

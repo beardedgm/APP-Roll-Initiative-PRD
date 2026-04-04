@@ -11,6 +11,8 @@ uncommon, le, large, elemental, fire, genie
 
 **Skills** Arcana +14, Athletics +22, Crafting +14, Deception +19, Diplomacy +17, Intimidation +19, Society +14
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 28
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** +1, **WIS** +2, **CHA** +4
 
 **Items** breastplate, +1 striking scimitar
@@ -29,9 +31,9 @@ uncommon, le, large, elemental, fire, genie
 
 Speed 25 feet, fly 35 feet
 
-**Melee** ◆ scimitar +21 (fire, forceful +2, magical, reach <10 feet>, sweep); **Damage** 2d6+11 slashing plus 2d6 fire
+**Melee** ◆ scimitar +21/+16/+11 (fire, forceful +2, magical, reach <10 feet>, sweep); **Damage** 2d6+11 slashing plus 2d6 fire
 
-**Melee** ◆ fist +20 (agile, magical, reach <10 feet>); **Damage** 1d4+11 bludgeoning plus 2d6 fire
+**Melee** ◆ fist +20/+16/+12 (agile, magical, reach <10 feet>); **Damage** 1d4+11 bludgeoning plus 2d6 fire
 
 **Innate arcane Spells** (DC 29), attack +19
 

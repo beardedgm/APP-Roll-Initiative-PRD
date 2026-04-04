@@ -11,6 +11,8 @@ ce, small, demon, fiend
 
 **Skills** Acrobatics +12, Deception +11, Religion +10, Stealth +12
 
+**Recall Knowledge - Fiend** (Religion): DC 20
+
 **STR** +4, **DEX** +3, **CON** +4, **INT** +1, **WIS** +1, **CHA** +2
 
 **Extinguishing Aversion** Dousing a brimorak with water, either ordinary water or from a water effect, causes no physical harm to the fiend but deals 3d6 mental damage. Fully immersing the brimorak in water deals 5d6 mental damage per round.
@@ -35,9 +37,9 @@ ce, small, demon, fiend
 
 Speed 30 feet
 
-**Melee** ◆ flaming sword +15 (magical); **Damage** 2d8+4 slashing plus 1d6 evil and 1d6 fire
+**Melee** ◆ flaming sword +15/+10/+5 (magical); **Damage** 2d8+4 slashing plus 1d6 evil and 1d6 fire
 
-**Melee** ◆ hoof +15 (agile); **Damage** 2d4+4 bludgeoning plus 1d6 evil and 1d6 fire
+**Melee** ◆ hoof +15/+11/+7 (agile); **Damage** 2d4+4 bludgeoning plus 1d6 evil and 1d6 fire
 
 **Innate divine Spells** (DC 21)
 

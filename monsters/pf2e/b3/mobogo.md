@@ -11,6 +11,8 @@ ce, huge, amphibious, beast
 
 **Skills** Acrobatics +19, Athletics +23, Nature +21, Stealth +19
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 27
+
 **STR** +7, **DEX** +5, **CON** +6, **INT** -2, **WIS** +5, **CHA** +7
 
 ---
@@ -25,9 +27,9 @@ ce, huge, amphibious, beast
 
 Speed 25 feet, fly 20 feet, swim 30 feet, swamp stride
 
-**Melee** ◆ jaws +23 (reach <10 feet>); **Damage** 2d12+13 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +23/+18/+13 (reach <10 feet>); **Damage** 2d12+13 piercing plus Improved Grab plus Improved Grab
 
-**Melee** ◆ tongue +23 (agile, reach <30 feet>); **Damage** 2d6+13 bludgeoning plus tongue grab plus tongue grab
+**Melee** ◆ tongue +23/+19/+15 (agile, reach <30 feet>); **Damage** 2d6+13 bludgeoning plus tongue grab plus tongue grab
 
 **Innate primal Spells** (DC 27)
 

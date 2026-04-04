@@ -11,6 +11,8 @@ ce, medium, incorporeal, undead
 
 **Skills** Acrobatics +20, Deception +18, Intimidation +20, Religion +17, Stealth +20
 
+**Recall Knowledge - Undead** (Religion): DC 26
+
 **STR** -5, **DEX** +5, **CON** +0, **INT** +2, **WIS** +2, **CHA** +5
 
 ---
@@ -31,7 +33,7 @@ ce, medium, incorporeal, undead
 
 Speed fly 30 feet
 
-**Melee** ◆ bite +20 (agile, magical); **Damage** 1d10+11 piercing
+**Melee** ◆ bite +20/+16/+12 (agile, magical); **Damage** 1d10+11 piercing
 
 **Terrifying Laugh** ◆ (divine, emotion, enchantment, fear, mental) **Frequency** {"number":1,"unit":"minute"}; The geist unleashes soul-piercing laughter in a 20-foot emanation, lasting until the beginning of their next turn. Any creature in the area or entering it must succeed at a DC 26 Will save or be overcome with panicked laughter, becoming frightened 2 (or frightened 3 on a critical failure). A creature attempts only one save per Terrifying Laugh, and a creature that succeeds on its saving throw is temporarily immune for 24 hours.
 

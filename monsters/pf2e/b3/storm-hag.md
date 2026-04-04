@@ -11,6 +11,8 @@ ce, medium, air, electricity, hag, humanoid
 
 **Skills** Acrobatics +11, Deception +11, Intimidation +13, Occultism +11, Stealth +9, Weather Lore +13
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +4, **DEX** +2, **CON** +4, **INT** +2, **WIS** +3, **CHA** +4
 
 **Coven** A storm hag adds hydraulic torrent, lightning storm, and mariner's curse to her coven's spells (page 304).
@@ -33,11 +35,11 @@ ce, medium, air, electricity, hag, humanoid
 
 Speed 25 feet, fly 40 feet
 
-**Melee** ◆ claw +15 (agile); **Damage** 1d6+7 slashing plus 1d6 electricity
+**Melee** ◆ claw +15/+11/+7 (agile); **Damage** 1d6+7 slashing plus 1d6 electricity
 
-**Melee** ◆ jaws +15; **Damage** 1d8+7 piercing plus 1d6 electricity
+**Melee** ◆ jaws +15/+10/+5; **Damage** 1d8+7 piercing plus 1d6 electricity
 
-**Ranged** ◆ wind blast +13 (air, range <30 feet>); **Damage** 1d10+5 bludgeoning
+**Ranged** ◆ wind blast +13/+8/+3 (air, range <30 feet>); **Damage** 1d10+5 bludgeoning
 
 **Innate occult Spells** (DC 22)
 

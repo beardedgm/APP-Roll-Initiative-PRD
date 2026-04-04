@@ -11,6 +11,8 @@ lg, huge, cold, dragon
 
 **Skills** Acrobatics +21, Athletics +27, Diplomacy +25, Intimidation +27, Medicine +24, Religion +24, Society +20
 
+**Recall Knowledge - Dragon** (Arcana): DC 32
+
 **STR** +7, **DEX** +3, **CON** +4, **INT** +3, **WIS** +4, **CHA** +5
 
 **Fog Vision** The silver dragon ignores the concealed condition from fog and clouds.
@@ -35,11 +37,11 @@ lg, huge, cold, dragon
 
 Speed 50 feet, fly 140 feet, cloud walk
 
-**Melee** ◆ jaws +29 (cold, magical, reach <15 feet>); **Damage** 3d10+13 piercing plus 3d6 cold
+**Melee** ◆ jaws +29/+24/+19 (cold, magical, reach <15 feet>); **Damage** 3d10+13 piercing plus 3d6 cold
 
-**Melee** ◆ claw +29 (agile, magical, reach <10 feet>); **Damage** 3d8+13 slashing
+**Melee** ◆ claw +29/+25/+21 (agile, magical, reach <10 feet>); **Damage** 3d8+13 slashing
 
-**Melee** ◆ tail +27 (magical, reach <20 feet>); **Damage** 2d10+11 bludgeoning
+**Melee** ◆ tail +27/+22/+17 (magical, reach <20 feet>); **Damage** 2d10+11 bludgeoning
 
 **Innate arcane Spells** (DC 33)
 

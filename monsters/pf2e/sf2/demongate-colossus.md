@@ -11,6 +11,8 @@ unique, ce, gargantuan, construct
 
 **Skills** Abyss Lore +27, Arcana +25, Athletics +26, Occultism +25
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 42
+
 **STR** +8, **DEX** +5, **CON** +4, **INT** +5, **WIS** +4, **CHA** +0
 
 ---
@@ -35,9 +37,9 @@ unique, ce, gargantuan, construct
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ hammer +30 (magical, reach <15 feet>, shove); **Damage** 3d8+14 bludgeoning plus corrupted radiant blow
+**Melee** ◆ hammer +30/+25/+20 (magical, reach <15 feet>, shove); **Damage** 3d8+14 bludgeoning plus corrupted radiant blow
 
-**Melee** ◆ corrupted radiant beam +27 (magical, range <15 feet>); **Damage** 3d6 force plus 3d6 evil
+**Melee** ◆ corrupted radiant beam +27/+22/+17 (magical, range <15 feet>); **Damage** 3d6 force plus 3d6 evil
 
 **Innate occult Spells** (DC 34)
 

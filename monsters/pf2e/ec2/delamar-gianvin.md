@@ -11,6 +11,8 @@ unique, cn, medium, human, humanoid
 
 **Skills** Acrobatics +15, Deception +14, Diplomacy +14, Society +12, Stealth +17, Thievery +15, Circus Lore +10, Criminal Lore +10
 
+**Recall Knowledge - Humanoid** (Society): DC 32
+
 **STR** +1, **DEX** +5, **CON** +0, **INT** +2, **WIS** +2, **CHA** +4
 
 **Items** hand crossbow (10 bolts), leather armor, +1 rapier
@@ -33,9 +35,9 @@ unique, cn, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ rapier +17 (deadly 1d8, disarm, finesse, magical); **Damage** 1d6+5 piercing
+**Melee** ◆ rapier +17/+12/+7 (deadly 1d8, disarm, finesse, magical); **Damage** 1d6+5 piercing
 
-**Ranged** ◆ hand crossbow +16 (range increment 60 feet, reload 1); **Damage** 1d6+5 piercing
+**Ranged** ◆ hand crossbow +16/+11/+6 (range increment 60 feet, reload 1); **Damage** 1d6+5 piercing
 
 **Quick Draw** ◆ Delamar draws a weapon with an Interact action, then Strikes with the weapon he just drew.
 

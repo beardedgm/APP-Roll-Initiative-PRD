@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Acrobatics +22, Athletics +21, Deception +20, Religion +22, Stealth +26, Norgorber Lore +20
 
+**Recall Knowledge - Humanoid** (Society): DC 40
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** +0, **WIS** +5, **CHA** +2
 
 **Items** +1 striking composite shortbow (10 arrows, 3 with shadow essence), +1 striking dagger, +1 leather armor, religious symbol of Norgorber
@@ -31,9 +33,9 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +24 (agile, finesse, magic, versatile <S>); **Damage** 2d4+10 piercing plus 2d6 poison
+**Melee** ◆ dagger +24/+20/+16 (agile, finesse, magic, versatile <S>); **Damage** 2d4+10 piercing plus 2d6 poison
 
-**Ranged** ◆ composite shortbow +24 (deadly <d10>, magic, propulsive, range increment <60 feet>); **Damage** 2d6+1 piercing plus 2d6 poison and shadow essence for the first 3 arrows
+**Ranged** ◆ composite shortbow +24/+19/+14 (deadly <d10>, magic, propulsive, range increment <60 feet>); **Damage** 2d6+1 piercing plus 2d6 poison and shadow essence for the first 3 arrows
 
 **Prepared divine Spells** (DC 32), attack +26
 

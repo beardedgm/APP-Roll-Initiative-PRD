@@ -11,6 +11,8 @@ rare, ce, medium, fiend, nindoru
 
 **Skills** Athletics +8, Deception +7, Intimidation +7, Occultism +6
 
+**Recall Knowledge - Fiend** (Religion): DC 21
+
 **STR** +4, **DEX** +3, **CON** +1, **INT** +0, **WIS** +3, **CHA** +3
 
 **Items** bone club
@@ -35,11 +37,11 @@ rare, ce, medium, fiend, nindoru
 
 Speed 25 feet
 
-**Melee** ◆ bone club +10 (magical); **Damage** 1d6+6 bludgeoning
+**Melee** ◆ bone club +10/+5/+0 (magical); **Damage** 1d6+6 bludgeoning
 
-**Melee** ◆ shattered bone club +10 (magical); **Damage** 1d4+6 slashing plus 1 bleed
+**Melee** ◆ shattered bone club +10/+5/+0 (magical); **Damage** 1d4+6 slashing plus 1 bleed
 
-**Melee** ◆ bite +10 (agile); **Damage** 1d4+6 piercing
+**Melee** ◆ bite +10/+6/+2 (agile); **Damage** 1d4+6 piercing
 
 **Innate occult Spells** (DC 18), attack +10
 

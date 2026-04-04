@@ -11,6 +11,8 @@ ce, large, cold, dragon
 
 **Skills** Acrobatics +10, Arcana +7, Athletics +16, Intimidation +12, Stealth +14
 
+**Recall Knowledge - Dragon** (Arcana): DC 22
+
 **STR** +6, **DEX** +2, **CON** +4, **INT** -1, **WIS** +1, **CHA** +0
 
 **Snow Vision** Snow doesn't impair a white dragon's vision; it ignores concealment from snowfall.
@@ -35,11 +37,11 @@ ce, large, cold, dragon
 
 Speed 30 feet, fly 80 feet, ice climb 30 feet
 
-**Melee** ◆ jaws +17 (cold, reach <10 feet>); **Damage** 2d8+9 piercing plus 1d6 cold
+**Melee** ◆ jaws +17/+12/+7 (cold, reach <10 feet>); **Damage** 2d8+9 piercing plus 1d6 cold
 
-**Melee** ◆ claw +17 (agile); **Damage** 2d6+9 slashing
+**Melee** ◆ claw +17/+13/+9 (agile); **Damage** 2d6+9 slashing
 
-**Melee** ◆ tail +15 (reach <15 feet>); **Damage** 1d8+8 bludgeoning
+**Melee** ◆ tail +15/+10/+5 (reach <15 feet>); **Damage** 1d8+8 bludgeoning
 
 **Breath Weapon** ◆◆ (arcane, cold, evocation) The dragon breathes a cloud of frost that deals 7d6 cold damage in a 30-foot cone (DC 24 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

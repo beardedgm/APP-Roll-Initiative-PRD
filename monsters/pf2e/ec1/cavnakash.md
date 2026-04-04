@@ -11,6 +11,8 @@ unique, ne, medium, humanoid, xulgath
 
 **Skills** Arcana +10, Athletics +13, Intimidation +13, Religion +15, Stealth +10
 
+**Recall Knowledge - Humanoid** (Society): DC 30
+
 **STR** +3, **DEX** +0, **CON** +2, **INT** +1, **WIS** +5, **CHA** +2
 
 **Items** , wooden religious symbol, scale mail, wand of heal (2nd)
@@ -29,11 +31,11 @@ unique, ne, medium, humanoid, xulgath
 
 Speed 20 feet
 
-**Melee** ◆ maul +17 (shove, magical); **Damage** 2d12+3 bludgeoning
+**Melee** ◆ maul +17/+12/+7 (shove, magical); **Damage** 2d12+3 bludgeoning
 
-**Melee** ◆ jaws +16; **Damage** 2d8+3 piercing
+**Melee** ◆ jaws +16/+11/+6; **Damage** 2d8+3 piercing
 
-**Melee** ◆ claw +16 (agile); **Damage** 2d6+3 slashing
+**Melee** ◆ claw +16/+12/+8 (agile); **Damage** 2d6+3 slashing
 
 **Prepared divine Spells** (DC 24), attack +17
 

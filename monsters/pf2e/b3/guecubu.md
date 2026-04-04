@@ -11,6 +11,8 @@ uncommon, ce, medium, earth, undead
 
 **Skills** Acrobatics +16, Athletics +18, Intimidation +15, Stealth +16
 
+**Recall Knowledge - Undead** (Religion): DC 26
+
 **STR** +6, **DEX** +4, **CON** +3, **INT** +4, **WIS** +3, **CHA** +3
 
 ---
@@ -29,7 +31,7 @@ uncommon, ce, medium, earth, undead
 
 Speed 25 feet, burrow 15 feet, earth glide
 
-**Melee** ◆ jaws +20 (agile); **Damage** 2d8+8 piercing plus wrathful misfortune plus wrathful misfortune
+**Melee** ◆ jaws +20/+16/+12 (agile); **Damage** 2d8+8 piercing plus wrathful misfortune plus wrathful misfortune
 
 **Innate primal Spells** (DC 26)
 

@@ -11,6 +11,8 @@ ce, small, dero, humanoid
 
 **Skills** Athletics +11, Intimidation +7, Medicine +4, Stealth +10
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** +0, **WIS** -1, **CHA** +2
 
 **Items** aklys, hand crossbow (10 bolts), lethargy poison (5 doses), rope (50 feet)
@@ -33,11 +35,11 @@ ce, small, dero, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ aklys +11 (trip; page 85); **Damage** 1d6+6 bludgeoning
+**Melee** ◆ aklys +11/+6/+1 (trip; page 85); **Damage** 1d6+6 bludgeoning
 
-**Ranged** ◆ aklys +10 (ranged trip, tethered, thrown <20 feet>); **Damage** 1d6+6 bludgeoning
+**Ranged** ◆ aklys +10/+5/+0 (ranged trip, tethered, thrown <20 feet>); **Damage** 1d6+6 bludgeoning
 
-**Ranged** ◆ hand crossbow +10 (range increment <60 feet>, reload <1>); **Damage** 1d6+2 piercing plus lethargy poison plus lethargy poison
+**Ranged** ◆ hand crossbow +10/+5/+0 (range increment <60 feet>, reload <1>); **Damage** 1d6+2 piercing plus lethargy poison plus lethargy poison
 
 **Innate occult Spells** (DC 19)
 

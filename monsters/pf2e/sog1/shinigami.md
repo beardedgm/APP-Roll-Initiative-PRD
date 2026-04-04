@@ -11,6 +11,8 @@ uncommon, ln, large, monitor
 
 **Skills** Acrobatics +31, Arcana +30, Boneyard Lore +32, Diplomacy +32, Intimidation +34, Occultism +30, Religion +33, Society +30, Stealth +31
 
+**Recall Knowledge - Monitor** (Religion): DC 38
+
 **STR** +8, **DEX** +6, **CON** +7, **INT** +5, **WIS** +6, **CHA** +9
 
 **Items** , pouch of four gems
@@ -35,7 +37,7 @@ uncommon, ln, large, monitor
 
 Speed 25 feet, fly 30 feet
 
-**Melee** ◆ naginata +33 (deadly <2d8>, reach, versatile <P>); **Damage** 3d8+16 slashing plus 1d6 lawful and spirit touch
+**Melee** ◆ naginata +33/+28/+23 (deadly <2d8>, reach, versatile <P>); **Damage** 3d8+16 slashing plus 1d6 lawful and spirit touch
 
 **Innate divine Spells** (DC 38)
 

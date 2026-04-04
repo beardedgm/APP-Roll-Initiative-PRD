@@ -11,6 +11,8 @@ unique, le, medium, devil, fiend
 
 **Skills** Acrobatics +17, Deception +21, Diplomacy +19, Intimidation +19, Religion +19, Society +19, Thievery +18, Legal Lore +23
 
+**Recall Knowledge - Fiend** (Religion): DC 36
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** +6, **WIS** +4, **CHA** +6
 
 ---
@@ -35,9 +37,9 @@ unique, le, medium, devil, fiend
 
 Speed 25 feet
 
-**Melee** ◆ diabolic quill +21 (agile, evil, fatal 1d12, finesse, magical, reach <10 feet>); **Damage** 2d6+9 piercing plus 1d6 evil and infernal wound plus infernal wound
+**Melee** ◆ diabolic quill +21/+17/+13 (agile, evil, fatal 1d12, finesse, magical, reach <10 feet>); **Damage** 2d6+9 piercing plus 1d6 evil and infernal wound plus infernal wound
 
-**Melee** ◆ horn +20 (magical); **Damage** 3d10+9 piercing and infernal wound plus infernal wound
+**Melee** ◆ horn +20/+15/+10 (magical); **Damage** 3d10+9 piercing and infernal wound plus infernal wound
 
 **Innate divine Spells** (DC 30)
 

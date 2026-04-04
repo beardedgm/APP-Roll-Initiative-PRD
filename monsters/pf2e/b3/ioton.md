@@ -11,6 +11,8 @@ n, tiny, astral, incorporeal
 
 **Skills** Acrobatics +6, Stealth +6
 
+**Recall Knowledge - Astral** (Occultism): DC 14
+
 **STR** -5, **DEX** +2, **CON** +3, **INT** +0, **WIS** -1, **CHA** -3
 
 **Absorbed Language** While a creature is taking persistent damage from the ioton, the ioton gains the ability to speak and understand one of that creature's languages, selected at random.
@@ -33,7 +35,7 @@ n, tiny, astral, incorporeal
 
 Speed fly 30 feet
 
-**Melee** ◆ touch +6 (agile, magical, mental); **Damage** 1d4 persistent mental damage and leech thought plus leech thought
+**Melee** ◆ touch +6/+2/-2 (agile, magical, mental); **Damage** 1d4 persistent mental damage and leech thought plus leech thought
 
 **Innate occult Spells** (DC 14)
 

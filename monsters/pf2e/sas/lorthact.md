@@ -11,6 +11,8 @@ unique, le, medium, devil, fiend
 
 **Skills** Academia Lore +32, Acrobatics +28, Arcana +30, Deception +33, Diplomacy +31, Intimidation +31, Legal Lore +30, Occultism +30, Religion +27, Society +30, Stealth +32
 
+**Recall Knowledge - Fiend** (Religion): DC 45
+
 **STR** +6, **DEX** +6, **CON** +6, **INT** +6, **WIS** +3, **CHA** +9
 
 **Items** staff of power
@@ -35,9 +37,9 @@ unique, le, medium, devil, fiend
 
 Speed 25 feet, fly 20 feet
 
-**Melee** ◆ staff +32 (two-hand d8, versatile <P>); **Damage** 3d4+14 bludgeoning plus 2d8 mental plus thought theft
+**Melee** ◆ staff +32/+27/+22 (two-hand d8, versatile <P>); **Damage** 3d4+14 bludgeoning plus 2d8 mental plus thought theft
 
-**Melee** ◆ claw +30 (agile, magical); **Damage** 3d4+14 slashing plus 2d8 mental plus thought theft
+**Melee** ◆ claw +30/+26/+22 (agile, magical); **Damage** 3d4+14 slashing plus 2d8 mental plus thought theft
 
 **Innate arcane Spells** (DC 37), attack +29
 

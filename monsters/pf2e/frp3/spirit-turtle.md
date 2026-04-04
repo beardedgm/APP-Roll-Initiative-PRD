@@ -11,6 +11,8 @@ rare, cg, gargantuan, fey
 
 **Skills** Diplomacy +36, Medicine +40, Nature +36, Occultism +34, Survival +40, Lore +34 (all subcategories)
 
+**Recall Knowledge - Fey** (Nature): DC 47
+
 **STR** +8, **DEX** +6, **CON** +11, **INT** +6, **WIS** +10, **CHA** +7
 
 ---
@@ -31,9 +33,9 @@ rare, cg, gargantuan, fey
 
 Speed 30 feet, swim 40 feet
 
-**Melee** ◆ jaws +37 (magical, reach <20 feet>); **Damage** 4d12+14 piercing plus 2d6 energy and Improved Grab plus Improved Grab
+**Melee** ◆ jaws +37/+32/+27 (magical, reach <20 feet>); **Damage** 4d12+14 piercing plus 2d6 energy and Improved Grab plus Improved Grab
 
-**Melee** ◆ foot +37 (magical, reach <15 feet>); **Damage** 4d10+14 bludgeoning plus 2d6 energy and Improved Knockdown plus Improved Knockdown
+**Melee** ◆ foot +37/+32/+27 (magical, reach <15 feet>); **Damage** 4d10+14 bludgeoning plus 2d6 energy and Improved Knockdown plus Improved Knockdown
 
 **Innate primal Spells** (DC 44)
 

@@ -11,6 +11,8 @@ uncommon, ce, huge, aberration, dream
 
 **Skills** Acrobatics +24, Athletics +27, Crafting +22, Deception +22, Occultism +26, Religion +24, Stealth +26
 
+**Recall Knowledge - Aberration** (Occultism): DC 33
+
 **STR** +6, **DEX** +7, **CON** +5, **INT** +7, **WIS** +5, **CHA** +5
 
 **Greater Web Sense** While touching its webs, the Leng spider has precise tremorsense to detect the vibrations of creatures touching its web.
@@ -29,13 +31,13 @@ uncommon, ce, huge, aberration, dream
 
 Speed 40 feet, climb 40 feet, air walk
 
-**Melee** ◆ web war flail +27 (disarm, magical, reach <15 feet>, sweep, trip); **Damage** 3d10+14 bludgeoning
+**Melee** ◆ web war flail +27/+22/+17 (disarm, magical, reach <15 feet>, sweep, trip); **Damage** 3d10+14 bludgeoning
 
-**Melee** ◆ fangs +27 (reach <10 feet>); **Damage** 3d12+14 piercing plus
+**Melee** ◆ fangs +27/+22/+17 (reach <10 feet>); **Damage** 3d12+14 piercing plus
 
-**Melee** ◆ leg +27 (agile, reach <10 feet>); **Damage** 3d8+14 slashing
+**Melee** ◆ leg +27/+23/+19 (agile, reach <10 feet>); **Damage** 3d8+14 slashing
 
-**Ranged** ◆ web bola +28 (magical, nonlethal, ranged trip, thrown <20 feet>); **Damage** 2d6+14 bludgeoning
+**Ranged** ◆ web bola +28/+23/+18 (magical, nonlethal, ranged trip, thrown <20 feet>); **Damage** 2d6+14 bludgeoning
 
 **Innate occult Spells** (DC 33)
 

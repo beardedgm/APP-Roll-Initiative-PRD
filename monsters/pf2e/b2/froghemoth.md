@@ -9,6 +9,8 @@ uncommon, n, huge, aberration, amphibious
 
 **Skills** Acrobatics +23, Athletics +27, Stealth +27
 
+**Recall Knowledge - Aberration** (Occultism): DC 33
+
 **STR** +8, **DEX** +6, **CON** +7, **INT** -4, **WIS** +6, **CHA** +4
 
 **Otherworldly Vision** A froghemoth's alien eyes allow it to perceive creatures within 30 feet, even if they are invisible or ethereal. It can still be fooled by successful Stealth checks to Hide, but it has Perception DC 38 in such cases. It also sees through and is unaffected by illusions with the visual trait if they are within 30 feet.
@@ -29,11 +31,11 @@ uncommon, n, huge, aberration, amphibious
 
 Speed 20 feet, swim 30 feet
 
-**Melee** ◆ jaws +27 (reach <10 feet>); **Damage** 3d12+14 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +27/+22/+17 (reach <10 feet>); **Damage** 3d12+14 piercing plus Improved Grab plus Improved Grab
 
-**Melee** ◆ tentacle +27 (agile, reach <15 feet>); **Damage** 3d8+14 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tentacle +27/+23/+19 (agile, reach <15 feet>); **Damage** 3d8+14 bludgeoning plus Improved Grab plus Improved Grab
 
-**Melee** ◆ tongue +27 (agile, reach <30 feet>); **Damage** 2d10+14 piercing plus barbed tongue plus barbed tongue
+**Melee** ◆ tongue +27/+23/+19 (agile, reach <30 feet>); **Damage** 2d10+14 piercing plus barbed tongue plus barbed tongue
 
 **Aquatic Ambush** ◆
 

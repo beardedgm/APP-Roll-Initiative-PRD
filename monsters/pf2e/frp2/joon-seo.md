@@ -11,6 +11,8 @@ unique, ng, medium, humanoid, samsaran
 
 **Skills** Acrobatics +26, Deception +28, Performance +28
 
+**Recall Knowledge - Humanoid** (Society): DC 44
+
 **STR** +2, **DEX** +3, **CON** +3, **INT** +0, **WIS** +5, **CHA** +5
 
 **Items** +1 resilient studded leather, +2 greater striking whip
@@ -27,9 +29,9 @@ unique, ng, medium, humanoid, samsaran
 
 Speed 25 feet
 
-**Melee** ◆ whip +28 (disarm, finesse, magical, nonlethal, reach, trip); **Damage** 3d4+8 slashing
+**Melee** ◆ whip +28/+23/+18 (disarm, finesse, magical, nonlethal, reach, trip); **Damage** 3d4+8 slashing
 
-**Ranged** ◆ sound blast +28 (concentrate, evocation, occult, sonic); **Damage** 4d6 sonic
+**Ranged** ◆ sound blast +28/+23/+18 (concentrate, evocation, occult, sonic); **Damage** 4d6 sonic
 
 **Spontaneous occult Spells** (DC 36)
 

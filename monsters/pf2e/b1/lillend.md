@@ -11,6 +11,8 @@ cg, large, azata, celestial
 
 **Skills** Acrobatics +14, Deception +16, Diplomacy +18, Nature +14, Performance +20, Religion +14, Survival +12
 
+**Recall Knowledge - Celestial** (Religion): DC 23
+
 **STR** +4, **DEX** +3, **CON** +5, **INT** +2, **WIS** +3, **CHA** +5
 
 **Items** +1 longsword, virtuoso harp
@@ -31,9 +33,9 @@ cg, large, azata, celestial
 
 Speed 25 feet, fly 45 feet
 
-**Melee** ◆ longsword +18 (chaotic, magical, versatile <P>); **Damage** 1d8+10 slashing plus 1d6 chaotic and 1d6 good
+**Melee** ◆ longsword +18/+13/+8 (chaotic, magical, versatile <P>); **Damage** 1d8+10 slashing plus 1d6 chaotic and 1d6 good
 
-**Melee** ◆ tail +18 (agile, magical, reach <10 feet>); **Damage** 2d6+10 bludgeoning plus 1d6 chaotic, 1d6 good, and Grab plus Grab
+**Melee** ◆ tail +18/+14/+10 (agile, magical, reach <10 feet>); **Damage** 2d6+10 bludgeoning plus 1d6 chaotic, 1d6 good, and Grab plus Grab
 
 **Innate divine Spells** (DC 26)
 

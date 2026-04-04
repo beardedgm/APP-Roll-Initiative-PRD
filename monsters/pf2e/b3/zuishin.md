@@ -11,6 +11,8 @@ lg, medium, kami, spirit
 
 **Skills** Acrobatics +23, Athletics +22, Intimidation +19, Medicine +21, Nature +21, Stealth +21
 
+**Recall Knowledge - Spirit** (Religion): DC 27
+
 **STR** +6, **DEX** +7, **CON** +5, **INT** +1, **WIS** +5, **CHA** +3
 
 **Items** +1 breastplate, +1 composite longbow, +1 katana
@@ -33,9 +35,9 @@ lg, medium, kami, spirit
 
 Speed fly 25 feet
 
-**Melee** ◆ katana +23 (deadly <d8>, magical, two-hand <d10>, versatile <P>); **Damage** 2d6+9 slashing plus 1d6 good
+**Melee** ◆ katana +23/+18/+13 (deadly <d8>, magical, two-hand <d10>, versatile <P>); **Damage** 2d6+9 slashing plus 1d6 good
 
-**Ranged** ◆ composite longbow +24 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+9 piercing plus 1d6 good
+**Ranged** ◆ composite longbow +24/+19/+14 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+9 piercing plus 1d6 good
 
 **Innate divine Spells** (DC 29)
 

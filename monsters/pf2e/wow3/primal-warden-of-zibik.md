@@ -11,6 +11,8 @@ rare, medium, construct, plant
 
 **Skills** Athletics +20
 
+**Recall Knowledge - Construct** (Arcana, Crafting, Nature): DC 35
+
 **STR** +7, **DEX** +2, **CON** +6, **INT** -1, **WIS** +2, **CHA** -5
 
 ---
@@ -38,9 +40,9 @@ rare, medium, construct, plant
 
 Speed 25 feet
 
-**Melee** ◆ flourishing fist +26 (magical, range increment <30 feet>); **Damage** 3d10+13 bludgeoning plus flourishing growth
+**Melee** ◆ flourishing fist +26/+21/+16 (magical, range increment <30 feet>); **Damage** 3d10+13 bludgeoning plus flourishing growth
 
-**Ranged** ◆ rotten bark +21 (magical, range increment <30 feet>); **Damage** 3d8+13 bludgeoning plus fractal rot
+**Ranged** ◆ rotten bark +21/+16/+11 (magical, range increment <30 feet>); **Damage** 3d8+13 bludgeoning plus fractal rot
 
 **Innate primal Spells** (DC 32), attack +24
 

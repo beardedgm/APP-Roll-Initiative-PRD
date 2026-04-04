@@ -11,6 +11,8 @@ uncommon, ne, large, aberration, dream
 
 **Skills** Acrobatics +17, Athletics +13, Deception +13, Stealth +17, Thievery +15
 
+**Recall Knowledge - Aberration** (Occultism): DC 25
+
 **STR** +2, **DEX** +6, **CON** +4, **INT** +2, **WIS** +4, **CHA** +2
 
 **Tireless** Dreamscrapers never sleep or dream themselves. They gain the benefits of an 8-hour rest after 1 hour of minimal activity.
@@ -33,9 +35,9 @@ uncommon, ne, large, aberration, dream
 
 Speed 20 feet, fly 40 feet, freedom of movement
 
-**Melee** ◆ claws +17 (agile, finesse, magical, reach <5 feet>); **Damage** 2d8+8 negative and stolen dreams
+**Melee** ◆ claws +17/+13/+9 (agile, finesse, magical, reach <5 feet>); **Damage** 2d8+8 negative and stolen dreams
 
-**Ranged** ◆ dream barb +16 (incorporeal, magical, range <60 feet>); **Damage** stolen dreams
+**Ranged** ◆ dream barb +16/+11/+6 (incorporeal, magical, range <60 feet>); **Damage** stolen dreams
 
 **Innate occult Spells** (DC 25), attack +17
 

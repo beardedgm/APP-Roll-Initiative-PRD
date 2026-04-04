@@ -11,6 +11,8 @@ le, medium, asura, fiend
 
 **Skills** Acrobatics +25, Athletics +23, Deception +25, Religion +22, Stealth +21
 
+**Recall Knowledge - Fiend** (Religion): DC 30
+
 **STR** +5, **DEX** +7, **CON** +4, **INT** +2, **WIS** +4, **CHA** +5
 
 **Items** hatchet (2), +1 striking composite shortbow (2)
@@ -38,9 +40,9 @@ le, medium, asura, fiend
 
 Speed 40 feet
 
-**Melee** ◆ hatchet +23 (agile, sweep); **Damage** 1d6+8 slashing plus 4d6 mental and 1d6 evil
+**Melee** ◆ hatchet +23/+19/+15 (agile, sweep); **Damage** 1d6+8 slashing plus 4d6 mental and 1d6 evil
 
-**Ranged** ◆ composite shortbow +26 (deadly <d10>, magical, range <60 feet>); **Damage** 2d6+5 plus 4d6 mental and 1d6 evil plus 2d6+5
+**Ranged** ◆ composite shortbow +26/+21/+16 (deadly <d10>, magical, range <60 feet>); **Damage** 2d6+5 plus 4d6 mental and 1d6 evil plus 2d6+5
 
 **Innate divine Spells** (DC 32)
 

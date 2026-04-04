@@ -11,6 +11,8 @@ unique, medium, undead, unholy, vampire
 
 **Skills** Acrobatics +37, Athletics +31, Deception +35, Intimidation +32, Poison Lore +35, Society +33, Stealth +40, Thievery +38
 
+**Recall Knowledge - Undead** (Religion): DC 49
+
 **STR** +4, **DEX** +10, **CON** +5, **INT** +4, **WIS** +4, **CHA** +6
 
 **Items** cerulean scourge poison (5), +2 major striking dagger (6), high-fashion clothing with a +3 greater resilient rune, major oil of unlife (3)
@@ -37,11 +39,11 @@ unique, medium, undead, unholy, vampire
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ claws +33 (agile); **Damage** 4d8+17 slashing plus Grab
+**Melee** ◆ claws +33/+29/+25 (agile); **Damage** 4d8+17 slashing plus Grab
 
-**Melee** ◆ dagger +35 (agile, finesse, magical, versatile <S>); **Damage** 4d4+17 piercing
+**Melee** ◆ dagger +35/+31/+27 (agile, finesse, magical, versatile <S>); **Damage** 4d4+17 piercing
 
-**Ranged** ◆ dagger +35 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 4d4+17 piercing
+**Ranged** ◆ dagger +35/+31/+27 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 4d4+17 piercing
 
 **Change Shape** ◆ (concentrate, divine, polymorph) Giant bat with fangs +33 for 4d8+17 piercing.
 

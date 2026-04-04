@@ -11,6 +11,8 @@ ln, medium, aeon, monitor
 
 **Skills** Acrobatics +16, Diplomacy +15, Occultism +17, Religion +17, Axis Lore +17
 
+**Recall Knowledge - Monitor** (Religion): DC 24
+
 **STR** +5, **DEX** +4, **CON** +3, **INT** +5, **WIS** +5, **CHA** +3
 
 **Items** sterling artisan's tools, +1 striking warhammer
@@ -31,9 +33,9 @@ ln, medium, aeon, monitor
 
 Speed 25 feet
 
-**Melee** ◆ warhammer +20 (lawful, magical, shove); **Damage** 2d8+11 bludgeoning plus 1d6 lawful
+**Melee** ◆ warhammer +20/+15/+10 (lawful, magical, shove); **Damage** 2d8+11 bludgeoning plus 1d6 lawful
 
-**Melee** ◆ fist +17 (agile, lawful, magical); **Damage** 1d8+5 bludgeoning plus 1d6 lawful
+**Melee** ◆ fist +17/+13/+9 (agile, lawful, magical); **Damage** 1d8+5 bludgeoning plus 1d6 lawful
 
 **Innate divine Spells** (DC 27), attack +17
 

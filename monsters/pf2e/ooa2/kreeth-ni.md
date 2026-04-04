@@ -11,6 +11,8 @@ unique, ng, tiny, fey, sprite
 
 **Skills** Acrobatics +11, Deception +11, Diplomacy +11, Nature +10, Occultism +9, Stealth +9
 
+**Recall Knowledge - Fey** (Nature): DC 28
+
 **STR** -3, **DEX** +4, **CON** +0, **INT** +0, **WIS** +3, **CHA** +4
 
 **Items** staff, ventriloquist's ring
@@ -33,9 +35,9 @@ unique, ng, tiny, fey, sprite
 
 Speed 10 feet, fly 40 feet
 
-**Melee** ◆ staff +8; **Damage** 1d4–1 bludgeoning
+**Melee** ◆ staff +8/+3/-2; **Damage** 1d4–1 bludgeoning
 
-**Ranged** ◆ ultrasonic pulse +11 (evocation, magical, range <20 feet>); **Damage** 1d4 sonic
+**Ranged** ◆ ultrasonic pulse +11/+6/+1 (evocation, magical, range <20 feet>); **Damage** 1d4 sonic
 
 **Innate primal Spells** (DC 20)
 

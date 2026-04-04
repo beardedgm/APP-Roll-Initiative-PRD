@@ -11,6 +11,8 @@ unique, cn, medium, drow, elf, humanoid
 
 **Skills** Acrobatics +17, Nature +18, Occultism +18, Stealth +19, Survival +18
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +2, **DEX** +4, **CON** +0, **INT** +1, **WIS** +3, **CHA** +4
 
 **Items** staff, wand of manifold missiles (1st level)
@@ -33,7 +35,7 @@ unique, cn, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ staff +19 (two-hand <d8>); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ staff +19/+14/+9 (two-hand <d8>); **Damage** 1d4+4 bludgeoning
 
 **Innate divine Spells** (DC 28)
 

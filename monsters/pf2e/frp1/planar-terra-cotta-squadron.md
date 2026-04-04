@@ -11,6 +11,8 @@ rare, n, medium, construct, troop
 
 **Skills** Athletics +18, Intimidation +20
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 39
+
 **STR** +8, **DEX** +4, **CON** +8, **INT** +1, **WIS** +3, **CHA** +4
 
 ---

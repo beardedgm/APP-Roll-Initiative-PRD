@@ -11,6 +11,8 @@ uncommon, ne, medium, humanoid, urdefhan
 
 **Skills** Arcana +16, Athletics +16, Intimidation +16, Occultism +18, Religion +16
 
+**Recall Knowledge - Humanoid** (Society): DC 26
+
 **STR** +4, **DEX** +2, **CON** +4, **INT** +6, **WIS** +3, **CHA** +2
 
 **Items** +1 striking kukri
@@ -31,9 +33,9 @@ uncommon, ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** ◆ kukri +16 (agile, trip); **Damage** 2d6+8 piercing
+**Melee** ◆ kukri +16/+12/+8 (agile, trip); **Damage** 2d6+8 piercing
 
-**Melee** ◆ jaws +15; **Damage** 2d6+8 plus Wicked Bite plus 2d6+8, Wicked Bite
+**Melee** ◆ jaws +15/+10/+5; **Damage** 2d6+8 plus Wicked Bite plus 2d6+8, Wicked Bite
 
 **Innate divine Spells** (DC 26), attack +18
 

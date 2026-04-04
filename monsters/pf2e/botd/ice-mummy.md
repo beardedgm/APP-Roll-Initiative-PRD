@@ -11,6 +11,8 @@ uncommon, ne, medium, cold, mummy, undead
 
 **Skills** Deception +18, Intimidation +16, Occultism +17, Stealth +17
 
+**Recall Knowledge - Undead** (Religion): DC 26
+
 **STR** +5, **DEX** +3, **CON** +2, **INT** +5, **WIS** +4, **CHA** +6
 
 **Items** +1 striking staff
@@ -37,9 +39,9 @@ uncommon, ne, medium, cold, mummy, undead
 
 Speed 20 feet
 
-**Melee** ◆ staff +20 (magical, two-hand <d8>); **Damage** 2d4+7 bludgeoning plus 1d6 cold and cold rot
+**Melee** ◆ staff +20/+15/+10 (magical, two-hand <d8>); **Damage** 2d4+7 bludgeoning plus 1d6 cold and cold rot
 
-**Melee** ◆ fist +19 (agile, magical); **Damage** 2d6+7 bludgeoning plus 1d6 cold and cold rot
+**Melee** ◆ fist +19/+15/+11 (agile, magical); **Damage** 2d6+7 bludgeoning plus 1d6 cold and cold rot
 
 **Channel Rot** (occult, necromancy) The ice mummy can deliver cold rot through melee weapons they wield.
 

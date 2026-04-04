@@ -11,6 +11,8 @@ uncommon, n, large, astral
 
 **Skills** Athletics +25, Deception +25, Intimidation +27, Occultism +22
 
+**Recall Knowledge - Astral** (Occultism): DC 33
+
 **STR** +6, **DEX** +2, **CON** +5, **INT** +5, **WIS** +5, **CHA** +8
 
 **Thoughtsense** (divination, mental, occult) The caulborn senses all non-mindless creatures at the listed range.
@@ -33,9 +35,9 @@ uncommon, n, large, astral
 
 Speed 40 feet, fly 40 feet
 
-**Melee** ◆ fist +27 (agile, magical, versatile <P>); **Damage** 3d10+14 bludgeoning
+**Melee** ◆ fist +27/+23/+19 (agile, magical, versatile <P>); **Damage** 3d10+14 bludgeoning
 
-**Ranged** ◆ psychic shard +27 (magical, range increment <60 feet>); **Damage** 3d8+14 piercing
+**Ranged** ◆ psychic shard +27/+22/+17 (magical, range increment <60 feet>); **Damage** 3d8+14 piercing
 
 **Innate occult Spells** (DC 33)
 

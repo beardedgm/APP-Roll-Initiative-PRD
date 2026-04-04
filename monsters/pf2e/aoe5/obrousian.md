@@ -11,6 +11,8 @@ uncommon, ne, medium, undead
 
 **Skills** Athletics +26, Deception +27, Intimidation +25, Nature +24, Stealth +26
 
+**Recall Knowledge - Undead** (Religion): DC 34
+
 **STR** +6, **DEX** +4, **CON** +3, **INT** +0, **WIS** +4, **CHA** +7
 
 ---
@@ -29,7 +31,7 @@ uncommon, ne, medium, undead
 
 Speed 5 feet, swim 30 feet
 
-**Melee** ◆ claw +29 (agile, magical); **Damage** 3d8+12 slashing plus Grab plus Grab
+**Melee** ◆ claw +29/+25/+21 (agile, magical); **Damage** 3d8+12 slashing plus Grab plus Grab
 
 **Innate divine Spells** (DC 34)
 

@@ -11,6 +11,8 @@ rare, n, medium, beast
 
 **Skills** Acrobatics +32, Intimidation +28, Survival +28
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 40
+
 **STR** +4, **DEX** +8, **CON** +6, **INT** -1, **WIS** +6, **CHA** +4
 
 ---
@@ -27,9 +29,9 @@ rare, n, medium, beast
 
 Speed 40 feet, fly 40 feet, climb 20 feet
 
-**Melee** ◆ mandibles +32 (finesse); **Damage** 3d8+10 slashing plus Grab
+**Melee** ◆ mandibles +32/+27/+22 (finesse); **Damage** 3d8+10 slashing plus Grab
 
-**Melee** ◆ stinger +32 (agile, finesse); **Damage** 3d4+10 piercing plus red ant venom
+**Melee** ◆ stinger +32/+28/+24 (agile, finesse); **Damage** 3d4+10 piercing plus red ant venom
 
 **Pheromone Spray** ◆◆ (emotion, enchantment, mental) The alate ant sprays a cloud of pheromones in a 15-foot cone. Non-ant creatures in the cone must succeed at a DC 37 Will save or become confused for 1d4 rounds (1 minute on a critical failure). It can't use Pheromone Spray again for 1d4 rounds.
 

@@ -19,6 +19,6 @@
 
 ---
 
-**Melee** ◆ echoblade +23 (magical, reach <10 feet>, two-hand <d8>); **Damage** 2d4+15 bludgeoning plus 1d8 force
+**Melee** ◆ echoblade +23/+18/+13 (magical, reach <10 feet>, two-hand <d8>); **Damage** 2d4+15 bludgeoning plus 1d8 force
 
-**Ranged** ◆ echoblade +23 (magical, thrown <30 feet>); **Damage** 2d4+15 bludgeoning plus 1d8 force
+**Ranged** ◆ echoblade +23/+18/+13 (magical, thrown <30 feet>); **Damage** 2d4+15 bludgeoning plus 1d8 force

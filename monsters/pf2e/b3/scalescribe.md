@@ -11,6 +11,8 @@ n, tiny, aberration
 
 **Skills** Arcana +11, Occultism +9, Stealth +8, Library Lore +11, Scribing Lore +11
 
+**Recall Knowledge - Aberration** (Occultism): DC 18
+
 **STR** -2, **DEX** +3, **CON** +1, **INT** +4, **WIS** +4, **CHA** +0
 
 **Mage Bond** After performing a 1-hour ritual, a scalescribe can bond with one willing creature capable of Casting Spells. The scalescribe can Aid their bonded caster in Crafting a scroll, and they can make their Transcribed spell available to the caster so long as the spell is of the caster's tradition. A bonded prepared caster can prepare the spell. A bonded spontaneous caster can add the spell to their spell repertoire during their daily preparations, and it remains as long as the Transcribed scroll exists.
@@ -32,9 +34,9 @@ n, tiny, aberration
 
 Speed 20 feet
 
-**Melee** ◆ fountain pen +10 (agile, finesse, magical); **Damage** 1d6+2 piercing plus inkstain plus inkstain
+**Melee** ◆ fountain pen +10/+6/+2 (agile, finesse, magical); **Damage** 1d6+2 piercing plus inkstain plus inkstain
 
-**Ranged** ◆ morpheme glyph +10 (evocation, magical, range <40 feet>); **Damage** 3d6 force
+**Ranged** ◆ morpheme glyph +10/+5/+0 (evocation, magical, range <40 feet>); **Damage** 3d6 force
 
 **Innate arcane Spells** (DC 20)
 

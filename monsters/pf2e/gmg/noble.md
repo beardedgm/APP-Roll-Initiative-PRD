@@ -11,6 +11,8 @@ n, medium, human, humanoid
 
 **Skills** Deception +10, Diplomacy +10, Intimidation +9, Gambling Lore +8
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +2, **DEX** +3, **CON** +1, **INT** +1, **WIS** +2, **CHA** +4
 
 **Items** fashionable fine clothes, loaded dice, rapier, silver flask, signet ring
@@ -29,9 +31,9 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ rapier +12 (deadly <1d8>, disarm, finesse); **Damage** 1d6+5 piercing
+**Melee** ◆ rapier +12/+7/+2 (deadly <1d8>, disarm, finesse); **Damage** 1d6+5 piercing
 
-**Melee** ◆ fist +12 (agile, finesse, nonlethal); **Damage** 1d4+5 bludgeoning
+**Melee** ◆ fist +12/+8/+4 (agile, finesse, nonlethal); **Damage** 1d4+5 bludgeoning
 
 **Noble's Ruse** ◆ **Frequency** {"unit":"round","number":1}; The noble Feints. On a success, the noble Strikes the target.
 

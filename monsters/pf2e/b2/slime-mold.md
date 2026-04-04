@@ -9,6 +9,8 @@ n, large, fungus, mindless, ooze
 
 **Skills** Athletics +7, Stealth +6
 
+**Recall Knowledge - Fungus** (Nature, Occultism): DC 16
+
 **STR** +3, **DEX** +0, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 **Motion Sense** An amoeba swarm can sense nearby creatures through vibration and air or water movement.
@@ -25,6 +27,6 @@ n, large, fungus, mindless, ooze
 
 Speed 10 feet, climb 10 feet
 
-**Melee** ◆ pseudopod +8; **Damage** 1d8+3 bludgeoning plus slime rot plus slime rot
+**Melee** ◆ pseudopod +8/+3/-2; **Damage** 1d8+3 bludgeoning plus slime rot plus slime rot
 
 **Slime Rot** (disease)

@@ -9,6 +9,8 @@ ne, huge, mindless, skeleton, undead
 
 **Skills** Athletics +20, Intimidation +15
 
+**Recall Knowledge - Undead** (Religion): DC 23
+
 **STR** +7, **DEX** +2, **CON** +4, **INT** -5, **WIS** +2, **CHA** +2
 
 ---
@@ -27,4 +29,4 @@ ne, huge, mindless, skeleton, undead
 
 Speed 30 feet
 
-**Melee** ◆ claw +18 (agile, reach <10 feet>); **Damage** 2d6+11 slashing
+**Melee** ◆ claw +18/+14/+10 (agile, reach <10 feet>); **Damage** 2d6+11 slashing

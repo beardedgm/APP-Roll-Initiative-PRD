@@ -11,6 +11,8 @@ n, tiny, monitor, psychopomp
 
 **Skills** Acrobatics +6, Performance +6, Religion +6, Society +2, Stealth +6, Boneyard Lore +8, Library Lore +8
 
+**Recall Knowledge - Monitor** (Religion): DC 15
+
 **STR** -1, **DEX** +3, **CON** +1, **INT** +1, **WIS** +1, **CHA** +3
 
 **Lifesense** (divination, divine) A psychopomp senses the vital essence of living and undead creatures within the listed range.
@@ -29,7 +31,7 @@ n, tiny, monitor, psychopomp
 
 Speed 15 feet, fly 40 feet
 
-**Melee** ◆ beak +6 (finesse, magical); **Damage** 1d4-1 piercing plus spirit touch plus spirit touch
+**Melee** ◆ beak +6/+1/-4 (finesse, magical); **Damage** 1d4-1 piercing plus spirit touch plus spirit touch
 
 **Innate divine Spells** (DC 16)
 

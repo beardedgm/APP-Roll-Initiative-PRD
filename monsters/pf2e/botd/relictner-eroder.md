@@ -11,6 +11,8 @@ rare, le, medium, dwarf, humanoid, mortic
 
 **Skills** Athletics +25, Crafting +22, Intimidation +19, Survival +23, Thievery +20
 
+**Recall Knowledge - Humanoid** (Society): DC 35
+
 **STR** +7, **DEX** +2, **CON** +7, **INT** +4, **WIS** +5, **CHA** +1
 
 **Items** broken chain mail, broken dwarven war axe
@@ -33,9 +35,9 @@ rare, le, medium, dwarf, humanoid, mortic
 
 Speed 20 feet
 
-**Melee** ◆ eroding touch +26 (unarmed); **Damage** 3d12+10 acid
+**Melee** ◆ eroding touch +26/+21/+16 (unarmed); **Damage** 3d12+10 acid
 
-**Ranged** ◆ targeted collapse +21 (trip, versatile piercing); **Damage** 3d10+3 bludgeoning
+**Ranged** ◆ targeted collapse +21/+16/+11 (trip, versatile piercing); **Damage** 3d10+3 bludgeoning
 
 **Crumble** ◆◆ (divine, transmutation) The relictner erodes an object within 30 feet, dealing 3d10 bludgeoning damage to it, with a DC 31 basic Reflex save if the object is attended.
 

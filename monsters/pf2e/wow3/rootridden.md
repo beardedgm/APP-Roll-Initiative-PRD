@@ -11,6 +11,8 @@ uncommon, medium, undead, unholy
 
 **Skills** Acrobatics +16, Athletics +18, Intimidation +17, Nature +16, Stealth +18
 
+**Recall Knowledge - Undead** (Religion): DC 26
+
 **STR** +6, **DEX** +4, **CON** +4, **INT** +1, **WIS** +4, **CHA** +3
 
 **Rooted** A rootridden is bonded to a specific root network. If it's more than 300 feet from this network for at least 1 minute, it becomes sickened 2 until it's again within 300 feet of the root network for at least 1 minute.
@@ -33,10 +35,10 @@ uncommon, medium, undead, unholy
 
 Speed 25 feet
 
-**Melee** ◆ jaws +20; **Damage** 2d12+8 piercing
+**Melee** ◆ jaws +20/+15/+10; **Damage** 2d12+8 piercing
 
-**Melee** ◆ tendril +20 (reach <10 feet>); **Damage** 2d8+8 bludgeoning plus root rot poison
+**Melee** ◆ tendril +20/+15/+10 (reach <10 feet>); **Damage** 2d8+8 bludgeoning plus root rot poison
 
-**Ranged** ◆ spit +20 (deadly <1d10>, range increment <30 feet>); **Damage** 4d8 void
+**Ranged** ◆ spit +20/+15/+10 (deadly <1d10>, range increment <30 feet>); **Damage** 4d8 void
 
 **Root Rot Poison** (poison)

@@ -9,6 +9,8 @@ rare, n, medium, animal
 
 **Skills** Acrobatics +9, Athletics +11, Stealth +9
 
+**Recall Knowledge - Animal** (Nature): DC 23
+
 **STR** +4, **DEX** +4, **CON** +2, **INT** -4, **WIS** +2, **CHA** -2
 
 ---
@@ -23,7 +25,7 @@ rare, n, medium, animal
 
 Speed 35 feet
 
-**Melee** ◆ jaws +11; **Damage** 1d8+4 piercing plus 1d6 acid
+**Melee** ◆ jaws +11/+6/+1; **Damage** 1d8+4 piercing plus 1d6 acid
 
 **Gore Spray** ◈ (acid) **Trigger** A creature critically hits a mutant wolf while adjacent to it.; The wound causes gore to spray from a ruptured pustule. The triggering creature takes 3d6 acid damage (DC 19 basic Reflex save). This occurs even if the attack kills the wolf.
 

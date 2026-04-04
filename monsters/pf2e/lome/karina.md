@@ -11,6 +11,8 @@ ne, large, beast, fiend
 
 **Skills** Acrobatics +13, Athletics +12, Deception +12, Stealth +15
 
+**Recall Knowledge - Beast** (Arcana, Nature, Religion): DC 20
+
 **STR** +3, **DEX** +5, **CON** +3, **INT** -2, **WIS** +1, **CHA** +6
 
 **Sound Imitation** A karina who succeeds at a Deception check to Lie can mimic any voice they have heard. They have a +4 circumstance bonus to this check.
@@ -27,11 +29,11 @@ ne, large, beast, fiend
 
 Speed 10 feet, fly 40 feet
 
-**Melee** ◆ beak +15 (magical, reach <10 feet>); **Damage** 2d8+7 piercing plus grave blight plus grave blight
+**Melee** ◆ beak +15/+10/+5 (magical, reach <10 feet>); **Damage** 2d8+7 piercing plus grave blight plus grave blight
 
-**Melee** ◆ claws +13 (agile, magical); **Damage** 2d6+5 slashing plus grave blight plus grave blight
+**Melee** ◆ claws +13/+9/+5 (agile, magical); **Damage** 2d6+5 slashing plus grave blight plus grave blight
 
-**Melee** ◆ talons +15 (magical); **Damage** 1d10+5 piercing plus Grab plus Grab
+**Melee** ◆ talons +15/+10/+5 (magical); **Damage** 1d10+5 piercing plus Grab plus Grab
 
 **Grave Blight** (disease)
 

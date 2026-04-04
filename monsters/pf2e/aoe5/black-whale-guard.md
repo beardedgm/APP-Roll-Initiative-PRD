@@ -11,6 +11,8 @@ uncommon, ln, medium, human, humanoid
 
 **Skills** Athletics +23, Intimidation +24, Games Lore +17
 
+**Recall Knowledge - Humanoid** (Society): DC 32
+
 **STR** +5, **DEX** +3, **CON** +5, **INT** -1, **WIS** +0, **CHA** +4
 
 ---
@@ -27,9 +29,9 @@ uncommon, ln, medium, human, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ club +24 (thrown <10 feet>); **Damage** 1d6+11 bludgeoning
+**Melee** ◆ club +24/+19/+14 (thrown <10 feet>); **Damage** 1d6+11 bludgeoning
 
-**Melee** ◆ nightmare cudgel +25 (thrown <10 feet>); **Damage** 2d6+11 bludgeoning
+**Melee** ◆ nightmare cudgel +25/+20/+15 (thrown <10 feet>); **Damage** 2d6+11 bludgeoning
 
 **Clobber** ◆ The guard makes a club Strike. On a hit, if the target is flat-footed, the target must succeed at a DC 33 Fortitude save or be stunned|CRB|stunned 2.
 

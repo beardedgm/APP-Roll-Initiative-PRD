@@ -11,6 +11,8 @@ uncommon, cn, small, incorporeal, kami, spirit
 
 **Skills** Acrobatics +13, Stealth +15
 
+**Recall Knowledge - Spirit** (Religion): DC 24
+
 **STR** -5, **DEX** +5, **CON** +4, **INT** +2, **WIS** +4, **CHA** +0
 
 ---
@@ -33,7 +35,7 @@ uncommon, cn, small, incorporeal, kami, spirit
 
 Speed fly 30 feet
 
-**Melee** ◆ touch +15 (agile, finesse, magical); **Damage** 2d8+6 mental
+**Melee** ◆ touch +15/+11/+7 (agile, finesse, magical); **Damage** 2d8+6 mental
 
 **Innate occult Spells** (DC 24), attack +16
 

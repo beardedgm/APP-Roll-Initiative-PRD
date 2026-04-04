@@ -9,6 +9,8 @@ uncommon, n, large, construct, golem, mindless
 
 **Skills** Athletics +30
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 33
+
 **STR** +8, **DEX** -1, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -33,7 +35,7 @@ uncommon, n, large, construct, golem, mindless
 
 Speed 20 feet
 
-**Melee** ◆ fist +28 (magical, reach <10 feet>); **Damage** 3d10+12 bludgeoning
+**Melee** ◆ fist +28/+23/+18 (magical, reach <10 feet>); **Damage** 3d10+12 bludgeoning
 
 **Breath Weapon** ◆◆ (arcane, necromancy, poison) The iron golem exhales poisonous gas in a 10-foot radius centered on the corner of one of the iron golem's squares. The gas persists for 1 round. Any creature in the area (or that later enters the area) is exposed to the iron golem's poison. The golem can't use its Breath Weapon again for 1d4 rounds.
 

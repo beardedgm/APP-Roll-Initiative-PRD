@@ -9,6 +9,8 @@ rare, n, gargantuan, construct, mindless
 
 **Skills** Athletics +38
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 43
+
 **STR** +10, **DEX** +6, **CON** +9, **INT** -5, **WIS** +5, **CHA** -5
 
 **Scaling Spikes** A fleshforged dreadnought is covered in handholds and footholds that make it easy to climb. Creatures of Medium or smaller size can Climb the dreadnought, sharing one of its spaces as they do so. The DC to Climb a fleshforged dreadnought is 15, and creatures move 5 more feet on a success and 10 more feet on a critical success, to a maximum of their Speed when Climbing the construct.
@@ -31,11 +33,11 @@ rare, n, gargantuan, construct, mindless
 
 Speed 30 feet
 
-**Melee** ◆ battering ram +35 (reach <15 feet>); **Damage** 7d8+10 bludgeoning plus Improved Push 15 feet
+**Melee** ◆ battering ram +35/+30/+25 (reach <15 feet>); **Damage** 7d8+10 bludgeoning plus Improved Push 15 feet
 
-**Melee** ◆ claw +35 (agile, reach <10 feet>); **Damage** 4d8+18 slashing
+**Melee** ◆ claw +35/+31/+27 (agile, reach <10 feet>); **Damage** 4d8+18 slashing
 
-**Ranged** ◆ ballista +33 (range increment <120 feet>); **Damage** 4d12+8 piercing
+**Ranged** ◆ ballista +33/+28/+23 (range increment <120 feet>); **Damage** 4d12+8 piercing
 
 **Destructive Charge** ◆◆ The fleshforged dreadnought Strides up to twice its speed and makes a battering ram Strike against a structure or unattended object. The Strike ignores 20 points of the target's Hardness.
 

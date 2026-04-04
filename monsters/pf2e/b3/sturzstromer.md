@@ -11,6 +11,8 @@ uncommon, n, huge, aberration, earth, swarm
 
 **Skills** Athletics +37, Stealth +35
 
+**Recall Knowledge - Aberration** (Occultism): DC 41
+
 **STR** +8, **DEX** +10, **CON** +8, **INT** -1, **WIS** +6, **CHA** +2
 
 **Clutching Stones** The sturzstromer's space is terrain.

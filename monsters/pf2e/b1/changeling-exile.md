@@ -11,6 +11,8 @@ cn, medium, changeling, human, humanoid
 
 **Skills** Deception +9, Medicine +9, Nature +11, Stealth +8, Survival +9
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +4, **DEX** +1, **CON** +0, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** leather armor, staff
@@ -27,9 +29,9 @@ cn, medium, changeling, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ claws +11 (agile); **Damage** 1d4+4 slashing
+**Melee** ◆ claws +11/+7/+3 (agile); **Damage** 1d4+4 slashing
 
-**Melee** ◆ staff +11 (two-hand <d8>); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ staff +11/+6/+1 (two-hand <d8>); **Damage** 1d4+4 bludgeoning
 
 **Prepared primal Spells** (DC 21), attack +11
 

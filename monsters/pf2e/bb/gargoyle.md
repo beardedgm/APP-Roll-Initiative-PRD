@@ -9,6 +9,8 @@ ce, medium, beast, earth
 
 **Skills** Acrobatics +10, Athletics +9, Stealth +12
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 19
+
 **STR** +3, **DEX** +2, **CON** +3, **INT** -2, **WIS** +2, **CHA** -2
 
 ---
@@ -27,8 +29,8 @@ ce, medium, beast, earth
 
 Speed 25 feet, fly 40 feet
 
-**Melee** ◆ jaws +13; **Damage** 2d8 + 3 piercing
+**Melee** ◆ jaws +13/+8/+3; **Damage** 2d8 + 3 piercing
 
-**Melee** ◆ claw +13 (agile); **Damage** 2d6 + 3 slashing
+**Melee** ◆ claw +13/+9/+5 (agile); **Damage** 2d6 + 3 slashing
 
 **Statue** ◆ (concentrate) Until the next time they use an action, the gargoyle appears to be a statue. A creature must succeed at a DC 32 Perception check to figure out that the statue is really a creature.

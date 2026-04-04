@@ -11,6 +11,8 @@ uncommon, ln, large, aeon, monitor
 
 **Skills** Arcana +29, Athletics +32, Deception +25, Nature +30, Occultism +29, Religion +30, Stealth +26
 
+**Recall Knowledge - Monitor** (Religion): DC 37
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** +7, **WIS** +8, **CHA** +5
 
 **Envisioning** When a bythos conveys information, it does so wordlessly through psychic projections. This acts as telepathy with a range of 100 feet but is understandable to all creatures regardless of whether they have a language. The meaning to non-aeons can be vague and is often mysterious. A bythos can use this ability to communicate flawlessly with any other aeon on the same plane.
@@ -33,7 +35,7 @@ uncommon, ln, large, aeon, monitor
 
 Speed fly 35 feet
 
-**Melee** ◆ fist +32 (lawful, magical, reach <10 feet>); **Damage** 2d8+16 bludgeoning plus 2d8 cold and 2d8 lawful
+**Melee** ◆ fist +32/+27/+22 (lawful, magical, reach <10 feet>); **Damage** 2d8+16 bludgeoning plus 2d8 cold and 2d8 lawful
 
 **Innate divine Spells** (DC 37)
 

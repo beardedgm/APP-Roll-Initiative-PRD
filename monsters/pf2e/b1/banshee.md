@@ -11,6 +11,8 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 **Skills** Acrobatics +31, Intimidation +32, Occultism +25
 
+**Recall Knowledge - Spirit** (Religion): DC 38
+
 **STR** -5, **DEX** +6, **CON** +2, **INT** +0, **WIS** +7, **CHA** +7
 
 **Hears Heartbeats** The banshee can hear heartbeats within 60 feet (imprecise).
@@ -35,7 +37,7 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 Speed fly 60 feet
 
-**Melee** ◆ hand +32 (finesse, magical); **Damage** 4d10+14 negative plus terrifying touch plus terrifying touch
+**Melee** ◆ hand +32/+27/+22 (finesse, magical); **Damage** 4d10+14 negative plus terrifying touch plus terrifying touch
 
 **Spectral Ripple** When a banshee Strides at least 10 feet, they're concealed until the start of their next turn.
 

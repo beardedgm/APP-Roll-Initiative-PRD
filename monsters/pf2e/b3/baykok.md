@@ -11,6 +11,8 @@ ce, medium, undead
 
 **Skills** Acrobatics +17, Athletics +19, Stealth +17
 
+**Recall Knowledge - Undead** (Religion): DC 26
+
 **STR** +6, **DEX** +4, **CON** +5, **INT** +0, **WIS** +4, **CHA** +1
 
 **Items** +1 striking greatclub, +1 longbow
@@ -33,9 +35,9 @@ ce, medium, undead
 
 Speed 30 feet, fly 40 feet
 
-**Melee** ◆ greatclub +21 (backswing, magical, shove); **Damage** 2d10+9 bludgeoning
+**Melee** ◆ greatclub +21/+16/+11 (backswing, magical, shove); **Damage** 2d10+9 bludgeoning
 
-**Ranged** ◆ longbow +21 (deadly <d10>, magical, volley <30 feet>); **Damage** 1d8+6 piercing plus 1d8 mental and arrow of despair plus arrow of despair
+**Ranged** ◆ longbow +21/+16/+11 (deadly <d10>, magical, volley <30 feet>); **Damage** 1d8+6 piercing plus 1d8 mental and arrow of despair plus arrow of despair
 
 **Arrow of Despair** (emotion, enchantment, fear, incapacitation, mental, occult) A baykok creates an invisible arrow of bone as it draws its bow. A frightened creature hit by the arrow is stricken with loneliness and despair and must attempt a DC 26 Will save; if the Strike was a critical hit, the target uses the outcome one degree of success worse than the result of its save. **Critical Success** The creature is unaffected.
 **Success** The creature is slowed 1 for 1 round.

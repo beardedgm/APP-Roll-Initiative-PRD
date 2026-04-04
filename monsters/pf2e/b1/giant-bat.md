@@ -9,6 +9,8 @@ n, large, animal
 
 **Skills** Acrobatics +8, Athletics +8, Stealth +8
 
+**Recall Knowledge - Animal** (Nature): DC 16
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** -4, **WIS** +3, **CHA** -2
 
 **Echolocation** A bat can use its hearing as a precise sense at the listed range.
@@ -27,6 +29,6 @@ n, large, animal
 
 Speed 15 feet, fly 30 feet
 
-**Melee** ◆ fangs +10; **Damage** 1d10+4 slashing
+**Melee** ◆ fangs +10/+5/+0; **Damage** 1d10+4 slashing
 
-**Melee** ◆ wing +10 (agile); **Damage** 1d6+4 piercing
+**Melee** ◆ wing +10/+6/+2 (agile); **Damage** 1d6+4 piercing

@@ -11,6 +11,8 @@ uncommon, n, huge, air, dragon, elemental
 
 **Skills** Acrobatics +23, Athletics +28, Deception +26, Diplomacy +26, Intimidation +28, Nature +24, Survival +26
 
+**Recall Knowledge - Dragon** (Arcana, Nature): DC 34
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** +4, **WIS** +6, **CHA** +6
 
 **Mist Vision** Fog and mist don't impair a cloud dragon's vision; they ignore the concealed condition from fog and mist.
@@ -33,13 +35,13 @@ uncommon, n, huge, air, dragon, elemental
 
 Speed 50 feet, fly 160 feet, cloud walk
 
-**Melee** ◆ jaws +29 (electricity, magical, reach <15 feet>); **Damage** 3d10+15 piercing plus 2d12 electricity
+**Melee** ◆ jaws +29/+24/+19 (electricity, magical, reach <15 feet>); **Damage** 3d10+15 piercing plus 2d12 electricity
 
-**Melee** ◆ claw +29 (agile, magical, reach <10 feet>); **Damage** 3d10+15 slashing
+**Melee** ◆ claw +29/+25/+21 (agile, magical, reach <10 feet>); **Damage** 3d10+15 slashing
 
-**Melee** ◆ tail +27 (magical, reach <20 feet>); **Damage** 3d12+15 bludgeoning
+**Melee** ◆ tail +27/+22/+17 (magical, reach <20 feet>); **Damage** 3d12+15 bludgeoning
 
-**Melee** ◆ horn +27 (deadly <d10>, magical, reach <15 feet>); **Damage** 2d12+13 piercing
+**Melee** ◆ horn +27/+22/+17 (deadly <d10>, magical, reach <15 feet>); **Damage** 2d12+13 piercing
 
 **Innate primal Spells** (DC 36)
 

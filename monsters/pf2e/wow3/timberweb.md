@@ -9,6 +9,8 @@ large, elemental, plant, wood
 
 **Skills** Acrobatics +26, Athletics +27
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 32
+
 **STR** +7, **DEX** +6, **CON** +5, **INT** +0, **WIS** +5, **CHA** +2
 
 **Vine Sense** The timberweb has imprecise tremorsense to detect the vibrations of creatures touching its spun vines.
@@ -29,11 +31,11 @@ large, elemental, plant, wood
 
 Speed 40 feet, climb 30 feet
 
-**Melee** ◆ fangs +29; **Damage** 3d8+17 piercing plus timberweb toxin
+**Melee** ◆ fangs +29/+24/+19; **Damage** 3d8+17 piercing plus timberweb toxin
 
-**Melee** ◆ leg +29 (agile, reach <10 feet>); **Damage** 3d6+15 slashing
+**Melee** ◆ leg +29/+25/+21 (agile, reach <10 feet>); **Damage** 3d6+15 slashing
 
-**Ranged** ◆ vine +27 (range increment <30 feet>); **Damage** 3d6+12 bludgeoning plus tree tether
+**Ranged** ◆ vine +27/+22/+17 (range increment <30 feet>); **Damage** 3d6+12 bludgeoning plus tree tether
 
 **Rappel** ◆ (move) The timberweb moves straight down up to 60 feet on a spun vine. It can hang from the vine or drop off. The distance it descends doesn't count toward falling damage. A creature that successfully Strikes the vine (AC 36, Hardness 8, 30 HP) severs it, causing the timberweb to fall.
 

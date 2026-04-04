@@ -11,6 +11,8 @@ uncommon, ne, medium, human, humanoid, ooze
 
 **Skills** Acrobatics +27, Athletics +24, Stealth +27, Thievery +27
 
+**Recall Knowledge - Humanoid** (Society, Occultism): DC 33
+
 **STR** +5, **DEX** +8, **CON** +5, **INT** +0, **WIS** +3, **CHA** +0
 
 **Items** +1 striking shortsword
@@ -31,11 +33,11 @@ uncommon, ne, medium, human, humanoid, ooze
 
 Speed 30 feet, climb 30 feet, suction
 
-**Melee** ◆ shortsword +28 (agile, finesse, magical, versatile <S>); **Damage** 2d6+9 piercing plus 3d6 acid
+**Melee** ◆ shortsword +28/+24/+20 (agile, finesse, magical, versatile <S>); **Damage** 2d6+9 piercing plus 3d6 acid
 
-**Melee** ◆ pseudopod +25 (reach <10 feet>); **Damage** 2d8+9 bludgeoning plus 3d6 acid and Push plus Push
+**Melee** ◆ pseudopod +25/+20/+15 (reach <10 feet>); **Damage** 2d8+9 bludgeoning plus 3d6 acid and Push plus Push
 
-**Ranged** ◆ acid spit +27 (range increment <30 feet>); **Damage** 7d6 acid
+**Ranged** ◆ acid spit +27/+22/+17 (range increment <30 feet>); **Damage** 7d6 acid
 
 **Sneak Attack** The child of venom deals an additional 3d6 precision damage to flat-footed creatures.
 

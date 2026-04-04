@@ -9,6 +9,8 @@ n, small, beast
 
 **Skills** Acrobatics +12, Athletics +15, Stealth +16
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 22
+
 **STR** +5, **DEX** +4, **CON** +3, **INT** -3, **WIS** +3, **CHA** +1
 
 ---
@@ -25,9 +27,9 @@ n, small, beast
 
 Speed 20 feet, fly 10 feet, climb 15 feet
 
-**Melee** ◆ tongue +17 (agile, fatal <d12>, reach <10 feet>); **Damage** 2d4+8 slashing plus 1d8 persistent bleed
+**Melee** ◆ tongue +17/+13/+9 (agile, fatal <d12>, reach <10 feet>); **Damage** 2d4+8 slashing plus 1d8 persistent bleed
 
-**Melee** ◆ claw +17; **Damage** 2d10+8 slashing
+**Melee** ◆ claw +17/+12/+7; **Damage** 2d10+8 slashing
 
 **Anticoagulant** The skull peeler's razor-sharp tongue is coated in an anticoagulant substance that makes wounds it inflicts particularly hard to close. The DC of the flat check to end the persistent bleed damage from a skull peeler's tongue is 16, or 11 with appropriate assistance.
 

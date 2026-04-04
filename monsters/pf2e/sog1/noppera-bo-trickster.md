@@ -11,6 +11,8 @@ uncommon, ce, medium, aberration
 
 **Skills** Acrobatics +6, Athletics +4, Deception +8, Stealth +6
 
+**Recall Knowledge - Aberration** (Occultism): DC 17
+
 **STR** +1, **DEX** +3, **CON** +2, **INT** +1, **WIS** +0, **CHA** +3
 
 **Items** leather armor, shortbow (20 arrows), shortsword
@@ -35,9 +37,9 @@ uncommon, ce, medium, aberration
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +8 (agile, finesse, versatile <S>); **Damage** 1d6+1 piercing
+**Melee** ◆ shortsword +8/+4/+0 (agile, finesse, versatile <S>); **Damage** 1d6+1 piercing
 
-**Ranged** ◆ shortbow +8 (deadly <1d10>, range increment <60 feet>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +8/+3/-2 (deadly <1d10>, range increment <60 feet>); **Damage** 1d6 piercing
 
 **Impersonate Shape** ◆◆ (concentrate, occult, polymorph, transmutation) The noppera-bo changes into a  Small or Medium humanoid they've touched during the last 24 hours and gains the target creature's face and voice. While transformed and their face is covered, the noppera-bo gains a +2 circumstance bonus to Impersonate that creature. The noppera-bo can change back by using this ability again. As long as the noppera-bo has a face, it loses its no face ability and its listed immunities.
 

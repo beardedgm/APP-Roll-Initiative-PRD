@@ -11,6 +11,8 @@ le, medium, fiend, velstrac
 
 **Skills** Acrobatics +13, Athletics +15, Crafting +10, Intimidation +15, Religion +11, Torture Lore +12
 
+**Recall Knowledge - Fiend** (Religion): DC 22
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** +0, **WIS** +1, **CHA** +1
 
 **Painsight** (divination, divine) A velstrac automatically knows whether a creature it sees has any of the doomed, dying, and wounded conditions, as well as the value of those conditions.
@@ -35,7 +37,7 @@ le, medium, fiend, velstrac
 
 Speed 25 feet
 
-**Melee** ◆ chain +17 (disarm, evil, magical, reach <10 feet>, trip); **Damage** 2d8+7 piercing plus 1d6 persistent bleed and impaling chain plus impaling chain
+**Melee** ◆ chain +17/+12/+7 (disarm, evil, magical, reach <10 feet>, trip); **Damage** 2d8+7 piercing plus 1d6 persistent bleed and impaling chain plus impaling chain
 
 **Animate Chains** (divine, transmutation) Chains in the evangelist's vicinity sprout barbs and writhe menacingly. The evangelist can make chain Strikes against any creature that is adjacent to an unattended chain within 20 feet, in addition to those within the reach of the evangelist's chain Strike.
 

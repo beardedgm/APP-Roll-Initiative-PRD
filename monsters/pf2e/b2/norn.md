@@ -11,6 +11,8 @@ rare, ln, large, fey
 
 **Skills** Crafting +36, Deception +35, Intimidation +37, Medicine +38, Occultism +34, Performance +31, Religion +34, Lore +28 (all)
 
+**Recall Knowledge - Fey** (Nature): DC 45
+
 **STR** +7, **DEX** +6, **CON** +6, **INT** +6, **WIS** +10, **CHA** +7
 
 **Sense Fate** (fortune) A norn automatically rolls a 20 when she rolls initiative.
@@ -31,9 +33,9 @@ rare, ln, large, fey
 
 Speed 35 feet, fly 35 feet
 
-**Melee** ◆ norn shears +38 (deadly <2d12>, magical, reach <10 feet>, versatile <P>); **Damage** 4d6+15 slashing plus 5d6 negative and sever fate plus sever fate
+**Melee** ◆ norn shears +38/+33/+28 (deadly <2d12>, magical, reach <10 feet>, versatile <P>); **Damage** 4d6+15 slashing plus 5d6 negative and sever fate plus sever fate
 
-**Melee** ◆ hand of fate +38 (agile, magical, reach <10 feet>); **Damage** 4d10+15 negative plus sever fate plus sever fate
+**Melee** ◆ hand of fate +38/+34/+30 (agile, magical, reach <10 feet>); **Damage** 4d10+15 negative plus sever fate plus sever fate
 
 **Innate occult Spells** (DC 42)
 

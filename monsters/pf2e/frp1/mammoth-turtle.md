@@ -9,6 +9,8 @@ rare, n, gargantuan, animal
 
 **Skills** Athletics +28
 
+**Recall Knowledge - Animal** (Nature): DC 37
+
 **STR** +9, **DEX** +0, **CON** +5, **INT** -4, **WIS** +5, **CHA** -2
 
 **Deep Breath** The mammoth turtle can hold its breath for 4 hours.
@@ -25,7 +27,7 @@ rare, n, gargantuan, animal
 
 Speed 20 feet, swim 50 feet
 
-**Melee** ◆ jaws +29; **Damage** 3d12+14 piercing plus
+**Melee** ◆ jaws +29/+24/+19; **Damage** 3d12+14 piercing plus
 
 **Improved Grab**
 

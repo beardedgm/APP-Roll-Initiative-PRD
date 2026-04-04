@@ -11,6 +11,8 @@ uncommon, ne, large, undead
 
 **Skills** Acrobatics +19, Arcana +27, Athletics +25, Intimidation +23, Stealth +21
 
+**Recall Knowledge - Undead** (Religion): DC 33
+
 **STR** +6, **DEX** +2, **CON** +4, **INT** +5, **WIS** +3, **CHA** +4
 
 **Items** +1 striking greater staff of necromancy
@@ -33,11 +35,11 @@ uncommon, ne, large, undead
 
 Speed 35 feet
 
-**Melee** ◆ staff +26 (two-hand <d8>); **Damage** 2d4+12 bludgeoning
+**Melee** ◆ staff +26/+21/+16 (two-hand <d8>); **Damage** 2d4+12 bludgeoning
 
-**Melee** ◆ hand +25 (magical); **Damage** 4d8 negative plus paralyzing touch
+**Melee** ◆ hand +25/+20/+15 (magical); **Damage** 4d8 negative plus paralyzing touch
 
-**Ranged** ◆ rock +25 (brutal, range increment <120 feet>); **Damage** 2d6+12 bludgeoning
+**Ranged** ◆ rock +25/+20/+15 (brutal, range increment <120 feet>); **Damage** 2d6+12 bludgeoning
 
 **Prepared arcane Spells** (DC 34), attack +26
 

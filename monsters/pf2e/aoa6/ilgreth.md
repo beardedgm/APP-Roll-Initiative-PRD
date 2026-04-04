@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Arcana +35, Athletics +28, Deception +34, Intimidation +32, Occultism +35, Religion +28, Plane Of Fire Lore +39
 
+**Recall Knowledge - Humanoid** (Society): DC 50
+
 **STR** +3, **DEX** +5, **CON** +5, **INT** +10, **WIS** +5, **CHA** +6
 
 **Items** +3 major striking dagger, major staff of fire (arcane focus)
@@ -29,7 +31,7 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +35 (agile, finesse, magic, versatile <S>); **Damage** 4d4+14 piercing
+**Melee** ◆ dagger +35/+31/+27 (agile, finesse, magic, versatile <S>); **Damage** 4d4+14 piercing
 
 **Prepared arcane Spells** (DC 44), attack +36
 

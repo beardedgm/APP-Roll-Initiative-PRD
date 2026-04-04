@@ -11,6 +11,8 @@ uncommon, ne, medium, fey, undead
 
 **Skills** Acrobatics +21, Intimidation +16, Stealth +23, Survival +21
 
+**Recall Knowledge - Fey** (Nature, Religion): DC 29
+
 **STR** +3, **DEX** +7, **CON** +3, **INT** +3, **WIS** +5, **CHA** +0
 
 **Soulscent** (divination, occult) The sluagh is aware of all doomed creatures, dying creatures, and creatures that died within the last hour within the listed range.
@@ -33,7 +35,7 @@ uncommon, ne, medium, fey, undead
 
 Speed 25 feet, fly 30 feet
 
-**Melee** ◆ claw +23 (agile, magical); **Damage** 3d6+9 slashing
+**Melee** ◆ claw +23/+19/+15 (agile, magical); **Damage** 3d6+9 slashing
 
 **Innate primal Spells** (DC 26)
 

@@ -11,6 +11,8 @@ unique, ce, gargantuan, aberration, undead
 
 **Skills** Athletics +40, Intimidation +36
 
+**Recall Knowledge - Aberration** (Occultism, Religion): DC 52
+
 **STR** +11, **DEX** +9, **CON** +10, **INT** +0, **WIS** +8, **CHA** +7
 
 ---
@@ -35,7 +37,7 @@ unique, ce, gargantuan, aberration, undead
 
 Speed 40 feet, burrow 40 feet, climb 25 feet
 
-**Melee** ◆ pseudopod +38 (magical, reach <30 feet>); **Damage** 5d10+21 piercing plus Grab plus Grab
+**Melee** ◆ pseudopod +38/+33/+28 (magical, reach <30 feet>); **Damage** 5d10+21 piercing plus Grab plus Grab
 
 **Innate occult Spells** (DC 42)
 

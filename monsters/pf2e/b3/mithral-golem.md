@@ -9,6 +9,8 @@ rare, n, huge, construct, golem, mindless
 
 **Skills** Acrobatics +30, Athletics +33
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 40
+
 **STR** +9, **DEX** +6, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -35,9 +37,9 @@ rare, n, huge, construct, golem, mindless
 
 Speed 50 feet, climb 40 feet
 
-**Melee** ◆ fist +31 (agile, magical, reach <15 feet>); **Damage** 3d12+12 bludgeoning
+**Melee** ◆ fist +31/+27/+23 (agile, magical, reach <15 feet>); **Damage** 3d12+12 bludgeoning
 
-**Melee** ◆ spike +31 (deadly <2d10>, magical, reach <30 feet>); **Damage** 3d10+12 piercing
+**Melee** ◆ spike +31/+26/+21 (deadly <2d10>, magical, reach <30 feet>); **Damage** 3d10+12 piercing
 
 **Liquefy** ◆ The mithral golem becomes fully liquid and amorphous. It gains immunity to precision damage, but it takes double damage from cold and water magic (see golem antimagic). The only actions it can use while Liquefied are move actions, Spike Storm, and spike Strikes. It can resume its normal form by taking this action again.
 

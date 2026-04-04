@@ -11,6 +11,8 @@ uncommon, cn, medium, anadi, humanoid
 
 **Skills** Acrobatics +9, Athletics +10, Crafting +5, Nature +7, Stealth +11, Survival +9
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +3, **DEX** +4, **CON** +0, **INT** +0, **WIS** +2, **CHA** +1
 
 **Items** kukri, leather armor
@@ -27,9 +29,9 @@ uncommon, cn, medium, anadi, humanoid
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ fangs +12 (finesse); **Damage** 1d8+3 piercing plus anadi venom plus anadi venom
+**Melee** ◆ fangs +12/+7/+2 (finesse); **Damage** 1d8+3 piercing plus anadi venom plus anadi venom
 
-**Melee** ◆ kukri +12 (agile, finesse, trip); **Damage** 1d6+3 slashing
+**Melee** ◆ kukri +12/+8/+4 (agile, finesse, trip); **Damage** 1d6+3 slashing
 
 **Innate arcane Spells** (DC 20)
 

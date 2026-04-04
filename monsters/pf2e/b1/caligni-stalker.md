@@ -11,6 +11,8 @@ cn, medium, caligni, humanoid
 
 **Skills** Acrobatics +13, Athletics +8, Stealth +13, Thievery +11
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +2, **DEX** +5, **CON** +2, **INT** -1, **WIS** +2, **CHA** +1
 
 **Items** black smear poison (6 doses; see below), leather armor, shortsword (2)
@@ -29,7 +31,7 @@ cn, medium, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +13 (agile, finesse, versatile <S>); **Damage** 1d6+7 piercing plus black smear poison (see below) plus black smear poison (see below)
+**Melee** ◆ shortsword +13/+9/+5 (agile, finesse, versatile <S>); **Damage** 1d6+7 piercing plus black smear poison (see below) plus black smear poison (see below)
 
 **Innate occult Spells** (DC 19)
 

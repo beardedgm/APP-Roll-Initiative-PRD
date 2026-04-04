@@ -11,6 +11,8 @@ rare, ln, gargantuan, fey
 
 **Skills** Acrobatics +30, Athletics +35, Deception +31, Diplomacy +31, Intimidation +33, Occultism +30
 
+**Recall Knowledge - Fey** (Nature): DC 43
+
 **STR** +9, **DEX** +4, **CON** +8, **INT** +4, **WIS** +6, **CHA** +5
 
 **Sense Fate** (fortune) A nornhound automatically rolls a 20 when it rolls initiative.
@@ -33,11 +35,11 @@ rare, ln, gargantuan, fey
 
 Speed 40 feet, fly 40 feet
 
-**Melee** ◆ jaws +35 (magical); **Damage** 3d12+17 piercing damage plus Improved Grab
+**Melee** ◆ jaws +35/+30/+25 (magical); **Damage** 3d12+17 piercing damage plus Improved Grab
 
-**Melee** ◆ tail +35 (agile, magical, reach <15 feet>); **Damage** 3d8+17 bludgeoning plus Knockdown
+**Melee** ◆ tail +35/+31/+27 (agile, magical, reach <15 feet>); **Damage** 3d8+17 bludgeoning plus Knockdown
 
-**Ranged** ◆ temporal blast +33 (evocation, magical, range increment <120 feet>); **Damage** 6d8 force
+**Ranged** ◆ temporal blast +33/+28/+23 (evocation, magical, range increment <120 feet>); **Damage** 6d8 force
 
 **Innate occult Spells** (DC 37)
 

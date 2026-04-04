@@ -11,6 +11,8 @@ ne, huge, plant
 
 **Skills** Athletics +30, Deception +28, Stealth +30, Survival +27
 
+**Recall Knowledge - Plant** (Nature): DC 34
+
 **STR** +8, **DEX** +6, **CON** +6, **INT** -2, **WIS** +4, **CHA** +2
 
 ---
@@ -25,9 +27,9 @@ ne, huge, plant
 
 Speed 25 feet, burrow 25 feet, climb 25 feet
 
-**Melee** ◆ pummel +29 (fatal <d12>, reach <15 feet>, sweep); **Damage** 4d12+10 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ pummel +29/+24/+19 (fatal <d12>, reach <15 feet>, sweep); **Damage** 4d12+10 bludgeoning plus Improved Grab plus Improved Grab
 
-**Ranged** ◆ boulder +27 (fatal <d12>, range increment <60 feet>); **Damage** 4d10+10 bludgeoning
+**Ranged** ◆ boulder +27/+22/+17 (fatal <d12>, range increment <60 feet>); **Damage** 4d10+10 bludgeoning
 
 **Blood Leech** ◈ **Trigger** The wemmuth deals damage to a creature with Constrict.; The wemmuth heals a number of Hit Points equal to half the total damage dealt by Constrict.
 

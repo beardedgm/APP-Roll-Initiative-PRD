@@ -11,6 +11,8 @@ n, medium, monitor, psychopomp
 
 **Skills** Athletics +27, Diplomacy +27, Intimidation +29, Religion +29, Society +24, Stealth +27, Boneyard Lore +28
 
+**Recall Knowledge - Monitor** (Religion): DC 34
+
 **STR** +8, **DEX** +4, **CON** +4, **INT** +3, **WIS** +6, **CHA** +4
 
 **Items** +2 striking bo staff
@@ -35,9 +37,9 @@ n, medium, monitor, psychopomp
 
 Speed 30 feet, climb 30 feet
 
-**Melee** ◆ bo staff +31 (magical, parry, reach <10 feet>, trip); **Damage** 2d8+14 bludgeoning plus spirit touch plus spirit touch
+**Melee** ◆ bo staff +31/+26/+21 (magical, parry, reach <10 feet>, trip); **Damage** 2d8+14 bludgeoning plus spirit touch plus spirit touch
 
-**Melee** ◆ web wrappings +29 (magical, reach <10 feet>); **Damage** 3d12+14 bludgeoning plus Grab and spirit touch plus Grab, spirit touch
+**Melee** ◆ web wrappings +29/+24/+19 (magical, reach <10 feet>); **Damage** 3d12+14 bludgeoning plus Grab and spirit touch plus Grab, spirit touch
 
 **Spontaneous divine Spells** (DC 35), attack +30
 

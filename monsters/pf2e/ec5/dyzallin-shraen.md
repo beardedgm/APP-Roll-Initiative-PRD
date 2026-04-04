@@ -11,6 +11,8 @@ unique, ne, medium, mummy, undead
 
 **Skills** Acrobatics +31, Arcana +33, Deception +38, Diplomacy +34, Intimidation +36, Occultism +35, Religion +28, Society +33, Stealth +31, Shraen Lore +31
 
+**Recall Knowledge - Undead** (Religion): DC 49
+
 **STR** +2, **DEX** +6, **CON** +4, **INT** +6, **WIS** +3, **CHA** +9
 
 **Items** circlet of persuasion, +2 greater striking hand crossbow (10 bolts), scroll of heroism (9th), scroll of maze, scroll of unrelenting observation, wand of manifold missiles (7th)
@@ -39,9 +41,9 @@ unique, ne, medium, mummy, undead
 
 Speed 25 feet
 
-**Melee** ◆ fist +34 (agile, finesse); **Damage** 4d10+12 bludgeoning plus insidious mummy rot plus insidious mummy rot
+**Melee** ◆ fist +34/+30/+26 (agile, finesse); **Damage** 4d10+12 bludgeoning plus insidious mummy rot plus insidious mummy rot
 
-**Ranged** ◆ hand crossbow +36 (range increment <60 feet>, reload <1>); **Damage** 3d6+12 piercing plus insidious mummy rot plus insidious mummy rot
+**Ranged** ◆ hand crossbow +36/+31/+26 (range increment <60 feet>, reload <1>); **Damage** 3d6+12 piercing plus insidious mummy rot plus insidious mummy rot
 
 **Spontaneous occult Spells** (DC 41)
 

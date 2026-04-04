@@ -11,6 +11,8 @@ le, large, devil, fiend
 
 **Skills** Acrobatics +28, Athletics +32, Intimidation +30, Religion +28, Stealth +26, Warfare Lore +30
 
+**Recall Knowledge - Fiend** (Religion): DC 35
+
 **STR** +8, **DEX** +6, **CON** +7, **INT** +4, **WIS** +6, **CHA** +6
 
 **Items** +2 greater striking unholy spiked chain
@@ -41,11 +43,11 @@ le, large, devil, fiend
 
 Speed 25 feet, fly 50 feet
 
-**Melee** ◆ spiked chain +34 (disarm, evil, finesse, magical, reach <10 feet>, trip); **Damage** 3d8+16 slashing plus 2d6 evil and stunning chain plus stunning chain
+**Melee** ◆ spiked chain +34/+29/+24 (disarm, evil, finesse, magical, reach <10 feet>, trip); **Damage** 3d8+16 slashing plus 2d6 evil and stunning chain plus stunning chain
 
-**Melee** ◆ claw +32 (agile, magical, reach <10 feet>); **Damage** 3d10+14 slashing plus 1d6 evil
+**Melee** ◆ claw +32/+28/+24 (agile, magical, reach <10 feet>); **Damage** 3d10+14 slashing plus 1d6 evil
 
-**Melee** ◆ tail +32 (magical, reach <10 feet>); **Damage** 3d8+14 slashing plus 1d6 evil and infernal wound plus infernal wound
+**Melee** ◆ tail +32/+27/+22 (magical, reach <10 feet>); **Damage** 3d8+14 slashing plus 1d6 evil and infernal wound plus infernal wound
 
 **Innate divine Spells** (DC 36)
 

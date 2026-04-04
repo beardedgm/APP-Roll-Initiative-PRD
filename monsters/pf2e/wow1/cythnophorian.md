@@ -9,6 +9,8 @@ unique, tiny, fungus, plant
 
 **Skills** Stealth +15
 
+**Recall Knowledge - Fungus** (Nature): DC 34
+
 **STR** +4, **DEX** +3, **CON** +6, **INT** -2, **WIS** +2, **CHA** +1
 
 ---
@@ -29,7 +31,7 @@ unique, tiny, fungus, plant
 
 Speed 15 feet
 
-**Melee** ◆ tendril +18; **Damage** 2d10+10 piercing plus creeping death and Fungal Possession
+**Melee** ◆ tendril +18/+13/+8; **Damage** 2d10+10 piercing plus creeping death and Fungal Possession
 
 **Creeping Death** (contact, poison)
 

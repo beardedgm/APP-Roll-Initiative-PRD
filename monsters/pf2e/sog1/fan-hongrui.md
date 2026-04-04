@@ -11,6 +11,8 @@ unique, ce, small, undead
 
 **Skills** Acrobatics +7, Deception +8, Performance +10, Stealth +7
 
+**Recall Knowledge - Undead** (Religion): DC 26
+
 **STR** +0, **DEX** +3, **CON** +2, **INT** +0, **WIS** +2, **CHA** +4
 
 ---
@@ -35,7 +37,7 @@ unique, ce, small, undead
 
 Speed 30 feet, thicket walker
 
-**Melee** ◆ frond +9 (agile, finesse); **Damage** 1d6+2 slashing plus 1d6 persistent bleed
+**Melee** ◆ frond +9/+5/+1 (agile, finesse); **Damage** 1d6+2 slashing plus 1d6 persistent bleed
 
 **Innate occult Spells** (DC 18), attack +10
 

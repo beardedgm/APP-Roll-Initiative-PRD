@@ -11,6 +11,8 @@ unique, ce, medium, humanoid
 
 **Skills** Acrobatics +24, Athletics +23, Religion +27, Stealth +24, Survival +25
 
+**Recall Knowledge - Humanoid** (Society): DC 41
+
 **STR** +4, **DEX** +5, **CON** +5, **INT** +2, **WIS** +6, **CHA** +5
 
 **Items** bone symbol of Lamashtu, +1 striking wounding falchion, The Lost|SF2, material component pouch, +1 resilient studded leather armor
@@ -31,9 +33,9 @@ unique, ce, medium, humanoid
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ falchion +24 (forceful, magical, sweep); **Damage** 2d10+10 slashing
+**Melee** ◆ falchion +24/+19/+14 (forceful, magical, sweep); **Damage** 2d10+10 slashing
 
-**Melee** ◆ jaws +25 (agile); **Damage** 3d4+10 piercing
+**Melee** ◆ jaws +25/+21/+17 (agile); **Damage** 3d4+10 piercing
 
 **Innate divine Spells** (DC 33)
 

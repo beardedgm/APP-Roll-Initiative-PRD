@@ -11,6 +11,8 @@ uncommon, ne, medium, humanoid
 
 **Skills** Acrobatics +25, Athletics +23, Crafting +22, Deception +28, Diplomacy +26, Performance +24, Stealth +23, Survival +24
 
+**Recall Knowledge - Humanoid** (Society): DC 33
+
 **STR** +6, **DEX** +4, **CON** +5, **INT** +3, **WIS** +5, **CHA** +7
 
 ---
@@ -31,11 +33,11 @@ uncommon, ne, medium, humanoid
 
 Speed 30 feet, swim 30 feet
 
-**Melee** ◆ jaws +25; **Damage** 2d8+14 piercing plus jorogumo venom plus jorogumo venom
+**Melee** ◆ jaws +25/+20/+15; **Damage** 2d8+14 piercing plus jorogumo venom plus jorogumo venom
 
-**Melee** ◆ claw +25 (agile); **Damage** 2d6+14 slashing
+**Melee** ◆ claw +25/+21/+17 (agile); **Damage** 2d6+14 slashing
 
-**Ranged** ◆ web +23 (range increment <60 feet>); plus Web
+**Ranged** ◆ web +23/+18/+13 (range increment <60 feet>); plus Web
 
 **Innate occult Spells** (DC 34)
 

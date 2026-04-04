@@ -11,6 +11,8 @@ uncommon, ne, huge, aberration
 
 **Skills** Athletics +23, Survival +21
 
+**Recall Knowledge - Aberration** (Occultism): DC 32
+
 **STR** +7, **DEX** +2, **CON** +5, **INT** -3, **WIS** +5, **CHA** -1
 
 ---
@@ -35,9 +37,9 @@ uncommon, ne, huge, aberration
 
 Speed 40 feet
 
-**Melee** ◆ fist +26 (reach <10 feet>, sweep); **Damage** 3d12+10 bludgeoning plus Grab
+**Melee** ◆ fist +26/+21/+16 (reach <10 feet>, sweep); **Damage** 3d12+10 bludgeoning plus Grab
 
-**Ranged** ◆ rock +26 (brutal, range increment <120 feet>); **Damage** 3d6+10 bludgeoning
+**Ranged** ◆ rock +26/+21/+16 (brutal, range increment <120 feet>); **Damage** 3d6+10 bludgeoning
 
 **Lumbering Swings** ◆◆ The bhanyada behemoth Strides and makes up to four fist Strikes at any point during that movement. Each Strike must target a different creature. The attacks take the normal multiple attack penalty.
 

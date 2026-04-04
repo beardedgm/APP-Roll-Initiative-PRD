@@ -11,6 +11,8 @@ uncommon, ce, tiny, undead
 
 **Skills** Athletics +12, Occultism +8, Stealth +13
 
+**Recall Knowledge - Undead** (Religion): DC 21
+
 **STR** +4, **DEX** +5, **CON** +3, **INT** -2, **WIS** +2, **CHA** +3
 
 ---
@@ -31,9 +33,9 @@ uncommon, ce, tiny, undead
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ fangs +13 (finesse); **Damage** 1d6+6 piercing plus 1d6 persistent bleed and cynic's curse plus cynic's curse
+**Melee** ◆ fangs +13/+8/+3 (finesse); **Damage** 1d6+6 piercing plus 1d6 persistent bleed and cynic's curse plus cynic's curse
 
-**Melee** ◆ gory tendril +13 (agile, finesse); **Damage** 1d4+6 bludgeoning plus Grab
+**Melee** ◆ gory tendril +13/+9/+5 (agile, finesse); **Damage** 1d4+6 bludgeoning plus Grab
 
 **Innate occult Spells** (DC 21)
 

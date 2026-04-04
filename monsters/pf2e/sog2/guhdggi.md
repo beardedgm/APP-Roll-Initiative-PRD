@@ -11,6 +11,8 @@ rare, ce, large, fiend, nindoru|SoG2
 
 **Skills** Acrobatics +11, Athletics +13, Intimidation +11, Occultism +11, Religion +12, Stealth +11, Survival +14
 
+**Recall Knowledge - Fiend** (Religion): DC 25
+
 **STR** +4, **DEX** +2, **CON** +4, **INT** +2, **WIS** +5, **CHA** +2
 
 **Items** broken spears (2), cage
@@ -35,9 +37,9 @@ rare, ce, large, fiend, nindoru|SoG2
 
 Speed 15 feet
 
-**Melee** ◆ broken spear +14 (reach <10 feet>, magical); **Damage** 2d6+6 piercing plus 1d6 mental
+**Melee** ◆ broken spear +14/+9/+4 (reach <10 feet>, magical); **Damage** 2d6+6 piercing plus 1d6 mental
 
-**Melee** ◆ hair lash +13 (agile); **Damage** 2d6+6 slashing plus Grab plus Grab
+**Melee** ◆ hair lash +13/+9/+5 (agile); **Damage** 2d6+6 slashing plus Grab plus Grab
 
 **Innate occult Spells** (DC 22), attack +14
 

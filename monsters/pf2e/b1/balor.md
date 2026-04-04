@@ -11,6 +11,8 @@ ce, large, demon, fiend
 
 **Skills** Acrobatics +35, Athletics +37, Deception +36, Diplomacy +32, Intimidation +38, Religion +32, Society +32, Stealth +33
 
+**Recall Knowledge - Fiend** (Religion): DC 40
+
 **STR** +9, **DEX** +7, **CON** +9, **INT** +6, **WIS** +6, **CHA** +8
 
 **Items** longsword
@@ -37,9 +39,9 @@ ce, large, demon, fiend
 
 Speed 35 feet, fly 70 feet
 
-**Melee** ◆ vorpal cold iron silver longsword +40 (evil, magical, reach <10 feet>, versatile <P>); **Damage** 4d8+17 slashing plus 1d6 evil
+**Melee** ◆ vorpal cold iron silver longsword +40/+35/+30 (evil, magical, reach <10 feet>, versatile <P>); **Damage** 4d8+17 slashing plus 1d6 evil
 
-**Melee** ◆ cold iron silver flame whip +40 (disarm, evil, fire, magical, reach <20 feet>, trip); **Damage** 4d6+17 fire plus 1d6 evil, Improved Grab, and whip reposition plus Improved Grab, whip reposition
+**Melee** ◆ cold iron silver flame whip +40/+35/+30 (disarm, evil, fire, magical, reach <20 feet>, trip); **Damage** 4d6+17 fire plus 1d6 evil, Improved Grab, and whip reposition plus Improved Grab, whip reposition
 
 **Innate divine Spells** (DC 44)
 

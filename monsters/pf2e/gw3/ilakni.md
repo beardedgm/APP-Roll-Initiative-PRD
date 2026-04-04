@@ -11,6 +11,8 @@ unique, ce, medium, aberration, humanoid
 
 **Skills** Acrobatics +22, Athletics +23, Occultism +22
 
+**Recall Knowledge - Aberration** (Occultism, Society): DC 38
+
 **STR** +6, **DEX** +5, **CON** +3, **INT** +7, **WIS** +5, **CHA** +0
 
 ---
@@ -29,9 +31,9 @@ unique, ce, medium, aberration, humanoid
 
 Speed 25 feet, burrow 25 feet
 
-**Melee** ◆ tentacle +22 (agile, magical, reach <10 feet>); **Damage** 2d8+12 bludgeoning plus Grab
+**Melee** ◆ tentacle +22/+18/+14 (agile, magical, reach <10 feet>); **Damage** 2d8+12 bludgeoning plus Grab
 
-**Ranged** ◆ blackfrost ice shard +21 (evocation, occult, range <30 feet>); **Damage** 2d6+6 piercing plus 2d6 cold and blackfrost
+**Ranged** ◆ blackfrost ice shard +21/+16/+11 (evocation, occult, range <30 feet>); **Damage** 2d6+6 piercing plus 2d6 cold and blackfrost
 
 **Blackfrost Breath** ◆◆ Ilakni breathes out a 60-foot cone of black wind. All creatures in the area take 10d6 cold damage (DC 30 basic Reflex); a creature that fails the save is also exposed to blackfrost (page 76). Ilakni can't use Blackfrost Breath again for 1d4 rounds.
 

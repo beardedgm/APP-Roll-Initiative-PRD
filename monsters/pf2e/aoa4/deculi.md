@@ -11,6 +11,8 @@ ne, large, beast
 
 **Skills** Acrobatics +24, Athletics +24, Stealth +26
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 30
+
 **STR** +5, **DEX** +7, **CON** +4, **INT** -3, **WIS** +1, **CHA** +5
 
 **Infrared Vision** A deculi can detect infrared radiation as a precise sense.
@@ -29,9 +31,9 @@ ne, large, beast
 
 Speed 30 feet, fly 50 feet, climb 30 feet, walk in shadow
 
-**Melee** ◆ fangs +24; **Damage** 3d12+11 piercing
+**Melee** ◆ fangs +24/+19/+14; **Damage** 3d12+11 piercing
 
-**Melee** ◆ wing +26 (agile, finesse); **Damage** 3d8+11 bludgeoning
+**Melee** ◆ wing +26/+22/+18 (agile, finesse); **Damage** 3d8+11 bludgeoning
 
 **Innate primal Spells** (DC 32)
 

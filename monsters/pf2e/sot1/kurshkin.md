@@ -11,6 +11,8 @@ unique, ne, tiny, fey, gremlin
 
 **Skills** Arcana +8, Crafting +8, Deception +8, Nature +8, Stealth +11, Thievery +9
 
+**Recall Knowledge - Fey** (Nature): DC 28
+
 **STR** -2, **DEX** +4, **CON** +1, **INT** +1, **WIS** -1, **CHA** +3
 
 **Items** shortbow (60 arrows), shortsword
@@ -33,9 +35,9 @@ unique, ne, tiny, fey, gremlin
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +12 (agile, finesse, magical, versatile <S>); **Damage** 1d6+4 piercing
+**Melee** ◆ shortsword +12/+8/+4 (agile, finesse, magical, versatile <S>); **Damage** 1d6+4 piercing
 
-**Ranged** ◆ shortbow +12 (deadly <d10>, magical, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +12/+7/+2 (deadly <d10>, magical, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
 
 **Innate primal Spells** (DC 20)
 

@@ -11,6 +11,8 @@ unique, cn, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Acrobatics +15, Deception +15, Society +13, Stealth +17, Survival +15
 
+**Recall Knowledge - Spirit** (Religion): DC 33
+
 **STR** -5, **DEX** +2, **CON** +0, **INT** +2, **WIS** +4, **CHA** +4
 
 **Site Bound**
@@ -33,7 +35,7 @@ unique, cn, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ◆ ghostly hand +15 (agile, finesse, magical); **Damage** 2d8+8 negative
+**Melee** ◆ ghostly hand +15/+11/+7 (agile, finesse, magical); **Damage** 2d8+8 negative
 
 **Frightful Moan** ◆ (auditory, divine, emotion, enchantment, fear, mental) DC 25
 

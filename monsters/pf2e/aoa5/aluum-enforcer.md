@@ -9,6 +9,8 @@ uncommon, n, large, construct, mindless
 
 **Skills** Athletics +23
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 29
+
 **STR** +7, **DEX** +2, **CON** +5, **INT** -5, **WIS** +1, **CHA** -5
 
 ---
@@ -29,7 +31,7 @@ uncommon, n, large, construct, mindless
 
 Speed 25 feet
 
-**Melee** ◆ fist +23 (magical); **Damage** 2d10+13 bludgeoning plus paralyzing force plus paralyzing force
+**Melee** ◆ fist +23/+18/+13 (magical); **Damage** 2d10+13 bludgeoning plus paralyzing force plus paralyzing force
 
 **Aluum Antimagic** Aluum enforcers are immune to spells and magical abilities, with two exceptions. A negative spell or magical ability grants an aluum enforcer the quickened condition until the end of its next turn instead of its normal effects. A positive spell or ability makes an aluum enforcer slowed|CRB|slowed 1 until the end of its next turn instead of its normal effects.
 

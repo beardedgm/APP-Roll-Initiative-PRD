@@ -11,6 +11,8 @@ ng, large, beast
 
 **Skills** Acrobatics +11, Athletics +10
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 18
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** +3
 
 ---
@@ -27,9 +29,9 @@ ng, large, beast
 
 Speed 40 feet, fly 80 feet
 
-**Melee** ◆ hoof +10; **Damage** 1d8+5 bludgeoning
+**Melee** ◆ hoof +10/+5/+0; **Damage** 1d8+5 bludgeoning
 
-**Melee** ◆ wing +10 (agile); **Damage** 1d6+5 bludgeoning
+**Melee** ◆ wing +10/+6/+2 (agile); **Damage** 1d6+5 bludgeoning
 
 **Assisted Mount** ◆ **Requirements** The pegasus is Flying without a rider.; The pegasus Flies. At any point during the movement, it can allow a willing adjacent creature to Mount it. That creature must use a reaction to do so.
 

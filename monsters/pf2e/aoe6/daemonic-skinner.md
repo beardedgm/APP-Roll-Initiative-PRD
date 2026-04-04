@@ -11,6 +11,8 @@ unique, ce, large, daemon, fiend, human, humanoid
 
 **Skills** Acrobatics +34, Athletics +40, Intimidation +34, Religion +34, Stealth +34, Thievery +32
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 50
+
 **STR** +10, **DEX** +6, **CON** +9, **INT** +3, **WIS** +6, **CHA** +6
 
 **Items** Large +3 wounding greater striking cleaver (functions as orc neck-splitter without the orc trait)
@@ -41,9 +43,9 @@ unique, ce, large, daemon, fiend, human, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ cleaver +38 (evil, forceful, magical, necromancy, reach <10 feet>, sweep); **Damage** 4d8+20 slashing plus 2d6 evil and 1d6 persistent bleed
+**Melee** ◆ cleaver +38/+33/+28 (evil, forceful, magical, necromancy, reach <10 feet>, sweep); **Damage** 4d8+20 slashing plus 2d6 evil and 1d6 persistent bleed
 
-**Melee** ◆ blood chain +36 (disarm, evil, finesse, magical, reach <20 feet>, trip); **Damage** 4d8+20 piercing plus 2d6 evil and Grab plus Grab
+**Melee** ◆ blood chain +36/+31/+26 (disarm, evil, finesse, magical, reach <20 feet>, trip); **Damage** 4d8+20 piercing plus 2d6 evil and Grab plus Grab
 
 **Innate divine Spells** (DC 38)
 

@@ -11,6 +11,8 @@ unique, ne, large, cold, humanoid
 
 **Skills** Athletics +25, Stealth +22
 
+**Recall Knowledge - Humanoid** (Society): DC 40
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** +0, **WIS** +5, **CHA** +0
 
 ---
@@ -35,9 +37,9 @@ unique, ne, large, cold, humanoid
 
 Speed 35 feet
 
-**Melee** ◆ tentacle +26 (reach <10 feet>); **Damage** 3d6+10 bludgeoning plus invasive blackfrost
+**Melee** ◆ tentacle +26/+21/+16 (reach <10 feet>); **Damage** 3d6+10 bludgeoning plus invasive blackfrost
 
-**Melee** ◆ horns +26 (agile, cold); **Damage** 3d8+10 bludgeoning plus 1d6 cold and Knockdown
+**Melee** ◆ horns +26/+22/+18 (agile, cold); **Damage** 3d8+10 bludgeoning plus 1d6 cold and Knockdown
 
 **Innate occult Spells** (DC 32), attack +24
 

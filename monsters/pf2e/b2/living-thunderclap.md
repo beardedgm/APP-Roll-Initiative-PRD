@@ -11,6 +11,8 @@ n, medium, air, elemental
 
 **Skills** Acrobatics +12, Stealth +12
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 19
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** -3, **WIS** +1, **CHA** +0
 
 ---
@@ -25,9 +27,9 @@ n, medium, air, elemental
 
 Speed fly 50 feet, swiftness
 
-**Melee** ◆ gust +14 (agile, finesse); **Damage** 2d6+6 bludgeoning plus Push 5 feet
+**Melee** ◆ gust +14/+10/+6 (agile, finesse); **Damage** 2d6+6 bludgeoning plus Push 5 feet
 
-**Ranged** ◆ lightning bolt +14 (electricity, range increment <50 feet>); **Damage** 2d12 electricity
+**Ranged** ◆ lightning bolt +14/+9/+4 (electricity, range increment <50 feet>); **Damage** 2d12 electricity
 
 **Swiftness** The living thunderclap doesn't trigger reactions when it moves.
 

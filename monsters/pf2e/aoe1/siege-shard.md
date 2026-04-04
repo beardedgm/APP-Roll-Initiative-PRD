@@ -9,6 +9,8 @@ uncommon, n, tiny, construct
 
 **Skills** Athletics +9, Stealth +10
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 20
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** -4, **WIS** +2, **CHA** -4
 
 ---
@@ -31,7 +33,7 @@ uncommon, n, tiny, construct
 
 Speed fly 25 feet
 
-**Melee** ◆ slam +11; **Damage** 1d8+4 bludgeoning
+**Melee** ◆ slam +11/+6/+1; **Damage** 1d8+4 bludgeoning
 
 **Innate occult Spells** (DC 20), attack +12
 

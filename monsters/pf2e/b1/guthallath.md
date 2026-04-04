@@ -9,6 +9,8 @@ rare, n, gargantuan, construct
 
 **Skills** Acrobatics +25, Athletics +40
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 44
+
 **STR** +10, **DEX** +2, **CON** +8, **INT** -4, **WIS** +0, **CHA** -1
 
 ---
@@ -31,9 +33,9 @@ rare, n, gargantuan, construct
 
 Speed 40 feet, burrow 50 feet
 
-**Melee** ◆ fist +38 (deadly <3d12>, magical, reach <20 feet>); **Damage** 4d12+18 bludgeoning plus Improved Grab or Improved Push 20 feet
+**Melee** ◆ fist +38/+33/+28 (deadly <3d12>, magical, reach <20 feet>); **Damage** 4d12+18 bludgeoning plus Improved Grab or Improved Push 20 feet
 
-**Melee** ◆ foot +38 (deadly <3d12>, magical, reach <20 feet>); **Damage** 4d8+18 bludgeoning plus Improved Knockdown plus Improved Knockdown
+**Melee** ◆ foot +38/+33/+28 (deadly <3d12>, magical, reach <20 feet>); **Damage** 4d8+18 bludgeoning plus Improved Knockdown plus Improved Knockdown
 
 **Innate primal Spells** (DC 37)
 

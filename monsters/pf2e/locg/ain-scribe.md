@@ -11,6 +11,8 @@ ng, medium, elf, human, humanoid
 
 **Skills** Acrobatics +9, Arcana +7, Athletics +8, Nature +12, Stealth +11, Survival +12
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +2, **DEX** +3, **CON** +1, **INT** +1, **WIS** +4, **CHA** +0
 
 **Items** composite longbow (20 arrows), hide armor, scimitar, scroll of speak with animals
@@ -29,9 +31,9 @@ ng, medium, elf, human, humanoid
 
 Speed 40 feet
 
-**Melee** ◆ scimitar +9 (forceful, sweep); **Damage** 1d6+2 slashing
+**Melee** ◆ scimitar +9/+4/-1 (forceful, sweep); **Damage** 1d6+2 slashing
 
-**Ranged** ◆ composite longbow +10 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 feet); **Damage** 1d8+1 piercing
+**Ranged** ◆ composite longbow +10/+5/+0 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 feet); **Damage** 1d8+1 piercing
 
 **Prepared primal Spells** (DC 21), attack +11
 

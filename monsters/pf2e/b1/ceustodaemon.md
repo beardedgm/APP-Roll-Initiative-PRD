@@ -11,6 +11,8 @@ ne, large, daemon, fiend
 
 **Skills** Deception +15, Intimidation +13, Stealth +12, Survival +10
 
+**Recall Knowledge - Fiend** (Religion): DC 22
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** +0, **WIS** +2, **CHA** +3
 
 ---
@@ -27,9 +29,9 @@ ne, large, daemon, fiend
 
 Speed 25 feet
 
-**Melee** ◆ jaws +16 (evil, reach <10 feet>); **Damage** 2d10+5 piercing plus 1d6 evil and vicious wounds plus vicious wounds
+**Melee** ◆ jaws +16/+11/+6 (evil, reach <10 feet>); **Damage** 2d10+5 piercing plus 1d6 evil and vicious wounds plus vicious wounds
 
-**Melee** ◆ claw +16 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+5 slashing plus 1d6 evil and vicious wounds plus vicious wounds
+**Melee** ◆ claw +16/+12/+8 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+5 slashing plus 1d6 evil and vicious wounds plus vicious wounds
 
 **Innate divine Spells** (DC 23)
 

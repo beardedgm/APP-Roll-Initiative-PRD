@@ -9,6 +9,8 @@ n, tiny, animal
 
 **Skills** Acrobatics +5, Athletics +1, Stealth +5, Survival +3
 
+**Recall Knowledge - Animal** (Nature): DC 13
+
 **STR** -3, **DEX** +4, **CON** +0, **INT** -4, **WIS** +1, **CHA** -2
 
 ---
@@ -25,6 +27,6 @@ n, tiny, animal
 
 Speed 20 feet, swim 20 feet, climb 20 feet
 
-**Melee** ◆ fangs +8 (agile, finesse); **Damage** 1d8 - 3 piercing plus viper venom plus viper venom
+**Melee** ◆ fangs +8/+4/+0 (agile, finesse); **Damage** 1d8 - 3 piercing plus viper venom plus viper venom
 
 **Viper Venom** (poison) A target damaged by the viper's fangs must succeed at a DC 16 Fortitude save or take 1d10 poison damage.

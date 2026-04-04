@@ -11,6 +11,8 @@ le, tiny, div, fiend
 
 **Skills** Acrobatics +7, Arcana +8, Deception +6, Religion +5, Stealth +7, Lore +10 (any one)
 
+**Recall Knowledge - Fiend** (Religion): DC 15
+
 **STR** +0, **DEX** +4, **CON** +1, **INT** +3, **WIS** +2, **CHA** +3
 
 ---
@@ -29,7 +31,7 @@ le, tiny, div, fiend
 
 Speed 15 feet, fly 30 feet
 
-**Melee** ◆ bite +9 (agile, evil, finesse, magic, poison); **Damage** 1d6 piercing plus 1 evil and doru venom plus doru venom
+**Melee** ◆ bite +9/+5/+1 (agile, evil, finesse, magic, poison); **Damage** 1d6 piercing plus 1 evil and doru venom plus doru venom
 
 **Innate divine Spells** (DC 17)
 

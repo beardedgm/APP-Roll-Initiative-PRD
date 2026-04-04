@@ -11,6 +11,8 @@ ce, medium, aberration, dream
 
 **Skills** Acrobatics +15, Athletics +15, Deception +19, Occultism +18, Stealth +17, Thievery +17, Sailing Lore +20
 
+**Recall Knowledge - Aberration** (Occultism): DC 24
+
 **STR** +3, **DEX** +3, **CON** +4, **INT** +6, **WIS** +3, **CHA** +5
 
 **Items** +1 striking kukri, Leng ruby worth 30 gp (2)
@@ -35,9 +37,9 @@ ce, medium, aberration, dream
 
 Speed 30 feet
 
-**Melee** ◆ kukri +18 (agile, finesse, magical, trip); **Damage** 2d6+6 slashing plus 1d6 persistent bleed
+**Melee** ◆ kukri +18/+14/+10 (agile, finesse, magical, trip); **Damage** 2d6+6 slashing plus 1d6 persistent bleed
 
-**Melee** ◆ jaws +17 (agile, finesse); **Damage** 2d10+6 piercing plus debilitating bite plus debilitating bite
+**Melee** ◆ jaws +17/+13/+9 (agile, finesse); **Damage** 2d10+6 piercing plus debilitating bite plus debilitating bite
 
 **Innate occult Spells** (DC 27), attack +19
 

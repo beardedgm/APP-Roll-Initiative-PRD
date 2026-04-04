@@ -11,6 +11,8 @@ cg, medium, azata, celestial
 
 **Skills** Acrobatics +13, Deception +15, Diplomacy +15, Stealth +15, Games Lore +14
 
+**Recall Knowledge - Celestial** (Religion): DC 22
+
 **STR** +5, **DEX** +5, **CON** +3, **INT** +2, **WIS** +4, **CHA** +5
 
 **Items** +1 composite longbow,scimitar
@@ -29,9 +31,9 @@ cg, medium, azata, celestial
 
 Speed 30 feet, fly 80 feet
 
-**Melee** ◆ scimitar +16 (forceful, sweep); **Damage** 1d6+8 slashing plus 2d6 electricity and 1d6 good
+**Melee** ◆ scimitar +16/+11/+6 (forceful, sweep); **Damage** 1d6+8 slashing plus 2d6 electricity and 1d6 good
 
-**Ranged** ◆ composite longbow +18 (deadly <1d10>, reload <0>, volley <30 feet>); **Damage** 1d8+6 plus 1d6 electricity and 1d6 good plus 1d8+6
+**Ranged** ◆ composite longbow +18/+13/+8 (deadly <1d10>, reload <0>, volley <30 feet>); **Damage** 1d8+6 plus 1d6 electricity and 1d6 good plus 1d8+6
 
 **Innate divine Spells** (DC 24)
 

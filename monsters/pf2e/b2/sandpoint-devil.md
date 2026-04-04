@@ -11,6 +11,8 @@ unique, ne, large, beast, fiend
 
 **Skills** Acrobatics +16, Athletics +18, Intimidation +18, Stealth +18, Survival +16
 
+**Recall Knowledge - Beast** (Arcana, Nature, Religion): DC 34
+
 **STR** +6, **DEX** +4, **CON** +5, **INT** +0, **WIS** +4, **CHA** +3
 
 ---
@@ -31,9 +33,9 @@ unique, ne, large, beast, fiend
 
 Speed 35 feet, fly 50 feet
 
-**Melee** ◆ jaws +20; **Damage** 2d10+12 piercing
+**Melee** ◆ jaws +20/+15/+10; **Damage** 2d10+12 piercing
 
-**Melee** ◆ hoof +20 (agile, versatile <S>); **Damage** 2d6+12 bludgeoning
+**Melee** ◆ hoof +20/+16/+12 (agile, versatile <S>); **Damage** 2d6+12 bludgeoning
 
 **Innate occult Spells** (DC 23), attack +15
 

@@ -11,6 +11,8 @@ le, medium, fiend, velstrac
 
 **Skills** Acrobatics +19, Athletics +22, Intimidation +18, Stealth +21, Torture Lore +16
 
+**Recall Knowledge - Fiend** (Religion): DC 27
+
 **STR** +6, **DEX** +5, **CON** +6, **INT** +0, **WIS** +3, **CHA** +2
 
 **Painsight** (divination, divine) A velstrac automatically knows whether a creature it sees has any of the doomed, dying, and wounded conditions, as well as the value of those conditions.
@@ -33,7 +35,7 @@ le, medium, fiend, velstrac
 
 Speed 25 feet
 
-**Melee** ◆ barbed chain +22 (evil, magical, reach <10 feet>, trip, versatile <S>); **Damage** 2d8+9 piercing plus 1d6 evil and 2d6 persistent bleed
+**Melee** ◆ barbed chain +22/+17/+12 (evil, magical, reach <10 feet>, trip, versatile <S>); **Damage** 2d8+9 piercing plus 1d6 evil and 2d6 persistent bleed
 
 **Innate divine Spells** (DC 29)
 

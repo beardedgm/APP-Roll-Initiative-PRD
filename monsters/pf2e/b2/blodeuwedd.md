@@ -11,6 +11,8 @@ uncommon, cn, medium, fey, plant
 
 **Skills** Acrobatics +15, Diplomacy +15, Nature +13, Performance +15, Stealth +13, Survival +11
 
+**Recall Knowledge - Fey** (Nature): DC 24
+
 **STR** +4, **DEX** +5, **CON** +2, **INT** +3, **WIS** +2, **CHA** +5
 
 **Items** +1 sling
@@ -31,11 +33,11 @@ uncommon, cn, medium, fey, plant
 
 Speed 25 feet
 
-**Melee** ◆ claw +14 (agile); **Damage** 2d8+7 slashing
+**Melee** ◆ claw +14/+10/+6 (agile); **Damage** 2d8+7 slashing
 
-**Ranged** ◆ sling +17 (propulsive, range increment <50 feet>); **Damage** 2d6+4 bludgeoning
+**Ranged** ◆ sling +17/+12/+7 (propulsive, range increment <50 feet>); **Damage** 2d6+4 bludgeoning
 
-**Melee** ◆ talons +15; **Damage** 1d3+1. plus 1d3+1.
+**Melee** ◆ talons +15/+10/+5; **Damage** 1d3+1. plus 1d3+1.
 
 **Innate primal Spells** (DC 25)
 

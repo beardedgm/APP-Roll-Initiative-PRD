@@ -11,6 +11,8 @@ unique, le, medium, div, fiend
 
 **Skills** Acrobatics +15, Arcana +14, Deception +21, Diplomacy +21, Intimidation +17, Religion +14, Society +14, Stealth +17
 
+**Recall Knowledge - Fiend** (Religion): DC 34
+
 **STR** +3, **DEX** +5, **CON** +3, **INT** +3, **WIS** +4, **CHA** +7
 
 **Items** horn of fog
@@ -33,7 +35,7 @@ unique, le, medium, div, fiend
 
 Speed 25 feet, fly 35 feet
 
-**Melee** ◆ claw +18 (agile, evil, finesse, magical); **Damage** 2d8+7 slashing plus 1d6 evil and bubonic plague
+**Melee** ◆ claw +18/+14/+10 (agile, evil, finesse, magical); **Damage** 2d8+7 slashing plus 1d6 evil and bubonic plague
 
 **Innate divine Spells** (DC 26)
 

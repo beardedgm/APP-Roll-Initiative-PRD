@@ -11,6 +11,8 @@ ce, medium, demon, fiend, incorporeal
 
 **Skills** Acrobatics +15, Deception +18, Religion +13, Society +15, Stealth +17
 
+**Recall Knowledge - Fiend** (Religion): DC 23
+
 **STR** -5, **DEX** +4, **CON** +3, **INT** +2, **WIS** +2, **CHA** +5
 
 ---
@@ -31,7 +33,7 @@ ce, medium, demon, fiend, incorporeal
 
 Speed fly 30 feet
 
-**Melee** ◆ claw +13 (agile, evil, finesse, magical); **Damage** 2d8 cold plus 2d6 evil
+**Melee** ◆ claw +13/+9/+5 (agile, evil, finesse, magical); **Damage** 2d8 cold plus 2d6 evil
 
 **Innate divine Spells** (DC 26)
 

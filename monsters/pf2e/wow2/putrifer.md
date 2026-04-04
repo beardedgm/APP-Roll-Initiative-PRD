@@ -11,6 +11,8 @@ uncommon, medium, plant, undead
 
 **Skills** Athletics +19, Intimidation +15, Nature +16, Stealth +18, Survival +16
 
+**Recall Knowledge - Plant** (Nature, Religion): DC 28
+
 **STR** +6, **DEX** +5, **CON** +4, **INT** -2, **WIS** +3, **CHA** +0
 
 ---
@@ -35,9 +37,9 @@ uncommon, medium, plant, undead
 
 Speed 25 feet
 
-**Melee** ◆ rotting fist +21 (magical); **Damage** 2d8+12 bludgeoning plus 1d8 poison
+**Melee** ◆ rotting fist +21/+16/+11 (magical); **Damage** 2d8+12 bludgeoning plus 1d8 poison
 
-**Ranged** ◆ bursting seedpod +20 (range increment <30 feet>); **Damage** 2d6+6 bludgeoning plus noxious putrescence
+**Ranged** ◆ bursting seedpod +20/+15/+10 (range increment <30 feet>); **Damage** 2d6+6 bludgeoning plus noxious putrescence
 
 **Innate primal Spells** (DC 28), attack +20
 

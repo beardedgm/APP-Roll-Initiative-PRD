@@ -11,6 +11,8 @@ uncommon, n, medium, incorporeal, shadow, spirit
 
 **Skills** Deception +23, Intimidation +23, Stealth +27
 
+**Recall Knowledge - Spirit** (Religion): DC 32
+
 **STR** +4, **DEX** +7, **CON** +5, **INT** +4, **WIS** +4, **CHA** +5
 
 **Items** sandals
@@ -42,6 +44,6 @@ uncommon, n, medium, incorporeal, shadow, spirit
 
 Speed 40 feet
 
-**Melee** ◆ claw +25 (agile, finesse, magical); **Damage** 3d12+10 negative
+**Melee** ◆ claw +25/+21/+17 (agile, finesse, magical); **Damage** 3d12+10 negative
 
 **Stepping Decoy** ◆ (auditory, illusion, occult) The betobeto-san Steps. They then create two illusory decoys of sound within 15 feet of them that mimic the sounds of their ominous footsteps. These decoys act independently on the betobeto-san's initiative with 2 actions apiece. They can only Sneak or Stride, and they have a.

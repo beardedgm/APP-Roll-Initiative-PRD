@@ -11,6 +11,8 @@ rare, ne, large, beast, fiend
 
 **Skills** Acrobatics +22, Athletics +21, Deception +22, Stealth +24
 
+**Recall Knowledge - Beast** (Arcana, Nature, Religion): DC 33
+
 **STR** +4, **DEX** +7, **CON** +4, **INT** -1, **WIS** +2, **CHA** +7
 
 **Smoke Vision** Smoke doesn't impair a grave karina's vision; they ignore the concealed condition from smoke, including the ash they create with their Breath Weapon.
@@ -31,11 +33,11 @@ rare, ne, large, beast, fiend
 
 Speed 10 feet, fly 50 feet
 
-**Melee** ◆ beak +24 (magical, reach <10 feet>); **Damage** 2d10+16 piercing plus grave blight
+**Melee** ◆ beak +24/+19/+14 (magical, reach <10 feet>); **Damage** 2d10+16 piercing plus grave blight
 
-**Melee** ◆ claw +22 (agile, magical); **Damage** 2d8+13 slashing plus grave blight
+**Melee** ◆ claw +22/+18/+14 (agile, magical); **Damage** 2d8+13 slashing plus grave blight
 
-**Melee** ◆ talon +24 (magical); **Damage** 2d6+13 piercing plus Grab
+**Melee** ◆ talon +24/+19/+14 (magical); **Damage** 2d6+13 piercing plus Grab
 
 **Breath Weapon** ◆◆ (divine, evocation, fire) The grave karina breathes a cloud of burning ash in 30-foot cone that deals 9d8 fire damage (DC 30 basic Reflex save). The area becomes filled with ash for 1 round. All creatures within the cloud of ash become concealed, and all creatures outside the cloud become concealed to creatures within it. The grave karina can't use Breath Weapon again for 1d4 rounds. **Grave Blight**
 (disease); **Saving Throw** DC 27 Fortitude

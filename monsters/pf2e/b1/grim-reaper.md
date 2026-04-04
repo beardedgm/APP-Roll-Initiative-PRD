@@ -11,6 +11,8 @@ unique, ne, medium, undead
 
 **Skills** Acrobatics +43, Athletics +38, Deception +40, Intimidation +43, Religion +39, Society +36, Stealth +43
 
+**Recall Knowledge - Undead** (Religion): DC 52
+
 **STR** +8, **DEX** +10, **CON** +8, **INT** +5, **WIS** +7, **CHA** +8
 
 **Items** scythe
@@ -41,7 +43,7 @@ unique, ne, medium, undead
 
 Speed 50 feet, fly 75 feet
 
-**Melee** ◆ keen scythe +40 (agile, deadly <3d10>, magical, reach <10 feet>, trip); **Damage** 4d10+23 slashing plus death strike and energy drain plus death strike, energy drain
+**Melee** ◆ keen scythe +40/+36/+32 (agile, deadly <3d10>, magical, reach <10 feet>, trip); **Damage** 4d10+23 slashing plus death strike and energy drain plus death strike, energy drain
 
 **Innate divine Spells** (DC 47), attack +37
 

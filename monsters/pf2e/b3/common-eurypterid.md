@@ -9,6 +9,8 @@ n, medium, amphibious, animal
 
 **Skills** Athletics +4, Stealth +4
 
+**Recall Knowledge - Animal** (Nature): DC 13
+
 **STR** +2, **DEX** +0, **CON** +3, **INT** -5, **WIS** +0, **CHA** -3
 
 ---
@@ -25,8 +27,8 @@ n, medium, amphibious, animal
 
 Speed 30 feet, swim 30 feet
 
-**Melee** ◆ pincer +6; **Damage** 1d6+2 slashing plus Grab plus Grab
+**Melee** ◆ pincer +6/+1/-4; **Damage** 1d6+2 slashing plus Grab plus Grab
 
-**Melee** ◆ stinger +6; **Damage** 1d4+2 piercing plus eurypterid venom plus eurypterid venom
+**Melee** ◆ stinger +6/+1/-4; **Damage** 1d4+2 piercing plus eurypterid venom plus eurypterid venom
 
 **Eurypterid Venom** (poison)

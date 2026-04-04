@@ -9,6 +9,8 @@ n, small, animal, swarm
 
 **Skills** Acrobatics +8, Stealth +8
 
+**Recall Knowledge - Animal** (Nature): DC 16
+
 **STR** +2, **DEX** +4, **CON** +3, **INT** -5, **WIS** +0, **CHA** -4
 
 ---

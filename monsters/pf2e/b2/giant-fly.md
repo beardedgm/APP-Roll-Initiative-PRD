@@ -9,6 +9,8 @@ n, medium, animal
 
 **Skills** Acrobatics +7, Athletics +6
 
+**Recall Knowledge - Animal** (Nature): DC 15
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** -5, **WIS** +3, **CHA** -5
 
 ---
@@ -25,6 +27,6 @@ n, medium, animal
 
 Speed 20 feet, fly 40 feet, climb 20 feet
 
-**Melee** ◆ mandibles +8; **Damage** 1d6+3 piercing plus fly pox plus fly pox
+**Melee** ◆ mandibles +8/+3/-2; **Damage** 1d6+3 piercing plus fly pox plus fly pox
 
 **Fly Pox** (disease, virulent)

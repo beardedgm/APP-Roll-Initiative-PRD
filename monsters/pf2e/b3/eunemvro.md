@@ -11,6 +11,8 @@ uncommon, ln, medium, humanoid, positive
 
 **Skills** Acrobatics +14, Athletics +13, Intimidation +10, Positive Energy Plane Lore +12, Stealth +12, Undead Lore +14
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +4, **DEX** +5, **CON** +4, **INT** +3, **WIS** +2, **CHA** +3
 
 ---
@@ -33,9 +35,9 @@ uncommon, ln, medium, humanoid, positive
 
 Speed 35 feet
 
-**Melee** ◆ fist +14 (agile, magical); **Damage** 2d6+6 bludgeoning or positive
+**Melee** ◆ fist +14/+10/+6 (agile, magical); **Damage** 2d6+6 bludgeoning or positive
 
-**Melee** ◆ foot +14 (magical); **Damage** 2d8+6 bludgeoning or positive plus Knockdown (page 305) plus Knockdown
+**Melee** ◆ foot +14/+9/+4 (magical); **Damage** 2d8+6 bludgeoning or positive plus Knockdown (page 305) plus Knockdown
 
 **Innate occult Spells** (DC 20)
 

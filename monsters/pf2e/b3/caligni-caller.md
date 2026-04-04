@@ -11,6 +11,8 @@ uncommon, ce, medium, caligni, humanoid
 
 **Skills** Arcana +9, Intimidation +14, Occultism +13, Stealth +15
 
+**Recall Knowledge - Humanoid** (Society): DC 24
+
 **STR** +2, **DEX** +5, **CON** +1, **INT** +1, **WIS** +1, **CHA** +4
 
 **Items** dagger
@@ -33,7 +35,7 @@ uncommon, ce, medium, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +15 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing plus 1d6 negative
+**Melee** ◆ dagger +15/+11/+7 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing plus 1d6 negative
 
 **Innate occult Spells** (DC 24), attack +16
 

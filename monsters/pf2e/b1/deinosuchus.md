@@ -9,6 +9,8 @@ n, huge, animal
 
 **Skills** Athletics +20, Stealth +16
 
+**Recall Knowledge - Animal** (Nature): DC 26
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** -5, **WIS** +2, **CHA** -4
 
 ---
@@ -23,9 +25,9 @@ n, huge, animal
 
 Speed 30 feet, swim 40 feet
 
-**Melee** ◆ jaws +22 (reach <15 feet>); **Damage** 2d10+13 piercing plus Grab plus Grab
+**Melee** ◆ jaws +22/+17/+12 (reach <15 feet>); **Damage** 2d10+13 piercing plus Grab plus Grab
 
-**Melee** ◆ tail +20 (agile, reach <15 feet>); **Damage** 1d10+11 bludgeoning
+**Melee** ◆ tail +20/+16/+12 (agile, reach <15 feet>); **Damage** 1d10+11 bludgeoning
 
 **Aquatic Ambush** ◆ 50 feet
 

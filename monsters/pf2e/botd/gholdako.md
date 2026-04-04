@@ -11,6 +11,8 @@ rare, ne, huge, undead
 
 **Skills** Athletics +21, Intimidation +19, Religion +16, Soothsaying Lore +16
 
+**Recall Knowledge - Undead** (Religion): DC 32
+
 **STR** +7, **DEX** +3, **CON** +7, **INT** +2, **WIS** +2, **CHA** +5
 
 **Items** javelin (4)
@@ -33,11 +35,11 @@ rare, ne, huge, undead
 
 Speed 30 feet
 
-**Melee** ◆ jaws +23 (reach <10 feet>); **Damage** 3d10+10 piercing
+**Melee** ◆ jaws +23/+18/+13 (reach <10 feet>); **Damage** 3d10+10 piercing
 
-**Melee** ◆ claw +23 (agile, reach <10 feet>); **Damage** 1d10+10 slashing plus 1d6 mental and Infectious Visions
+**Melee** ◆ claw +23/+19/+15 (agile, reach <10 feet>); **Damage** 1d10+10 slashing plus 1d6 mental and Infectious Visions
 
-**Ranged** ◆ javelin +19 (range increment <30 feet>, thrown); **Damage** 3d6+10 piercing
+**Ranged** ◆ javelin +19/+14/+9 (range increment <30 feet>, thrown); **Damage** 3d6+10 piercing
 
 **Blinding** Breath 2(concentrate, divine, necromancy, negative) The gholdako exhales a 60-foot cone of noxious breath that deals 7d8 negative damage (DC 29 basic Reflex save). A creature that fails its save is also blinded until the end of its next turn (or for 1 minute on a critical failure) as a milky film coats its eyes. The gholdako can't use Blinding Breath again for 1d4 rounds.
 

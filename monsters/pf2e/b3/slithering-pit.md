@@ -9,6 +9,8 @@ rare, n, medium, mindless, ooze
 
 **Skills** Athletics +18, Stealth +10
 
+**Recall Knowledge - Ooze** (Occultism): DC 28
+
 **STR** +7, **DEX** -5, **CON** +7, **INT** -5, **WIS** +0, **CHA** -5
 
 **Transparent** A slithering pit is so clear it's difficult to spot. A successful DC 30 Perception check is required to notice a stationary slithering pit, and a creature must be Searching to attempt this check. A creature that walks into the pit's space might fall into any pit currently in effect due to Dimensional Pit.
@@ -29,7 +31,7 @@ rare, n, medium, mindless, ooze
 
 Speed 10 feet
 
-**Melee** ◆ pseudopod +18 (reach <10 feet>); **Damage** 2d8+9 bludgeoning plus Improved Grab plus Improved
+**Melee** ◆ pseudopod +18/+13/+8 (reach <10 feet>); **Damage** 2d8+9 bludgeoning plus Improved Grab plus Improved
 
 **Flurry of Pods** ◆◆ The slithering pit makes a single pseudopod Strike against each target within range it doesn't already have grabbed. These attacks count toward the slithering pit's multiple attack penalty, but the penalty doesn't increase until after all of these attacks.
 

@@ -11,6 +11,8 @@ unique, cn, large, beast
 
 **Skills** Arcana +21, Deception +25, Diplomacy +23, Fortune-telling Lore +25, Occultism +23, Performance +23, Society +21, Thievery +21
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 40
+
 **STR** +4, **DEX** +5, **CON** +5, **INT** +5, **WIS** +4, **CHA** +7
 
 **Items** harrow deck
@@ -33,7 +35,7 @@ unique, cn, large, beast
 
 Speed 30 feet, swim 30 feet, climb 30 feet
 
-**Melee** ◆ claw +22 (agile); **Damage** 3d8+10 slashing
+**Melee** ◆ claw +22/+18/+14 (agile); **Damage** 3d8+10 slashing
 
 **Innate occult Spells** (DC 32)
 

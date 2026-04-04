@@ -9,6 +9,8 @@ ce, gargantuan, darvakka, shadow, undead
 
 **Skills** Arcana +29, Athletics +35, Negative Energy Plane Lore +31, Religion +32, Shadow Plane Lore +31, Stealth +31
 
+**Recall Knowledge - Undead** (Religion): DC 38
+
 **STR** +10, **DEX** +5, **CON** +8, **INT** +5, **WIS** +6, **CHA** +6
 
 ---
@@ -35,11 +37,11 @@ ce, gargantuan, darvakka, shadow, undead
 
 Speed 25 feet, burrow 60 feet, air walk
 
-**Melee** ◆ jaws +36 (magical, reach <15 feet>); **Damage** 3d10+14 slashing plus 2d10 cold and Improved Grab
+**Melee** ◆ jaws +36/+31/+26 (magical, reach <15 feet>); **Damage** 3d10+14 slashing plus 2d10 cold and Improved Grab
 
-**Melee** ◆ claw +36 (agile, magical, reach <15 feet>); **Damage** 3d6+14 slashing plus 2d10 cold
+**Melee** ◆ claw +36/+32/+28 (agile, magical, reach <15 feet>); **Damage** 3d6+14 slashing plus 2d10 cold
 
-**Melee** ◆ stinger +36 (poison, magical, reach <20 feet>); **Damage** 3d6+14 piercing plus 2d10 cold and urveth venom
+**Melee** ◆ stinger +36/+31/+26 (poison, magical, reach <20 feet>); **Damage** 3d6+14 piercing plus 2d10 cold and urveth venom
 
 **Innate divine Spells** (DC 40)
 

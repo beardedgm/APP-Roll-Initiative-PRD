@@ -11,6 +11,8 @@ unique, ce, gargantuan, beast, fire
 
 **Skills** Athletics +41
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 50
+
 **STR** +10, **DEX** +8, **CON** +9, **INT** -4, **WIS** +7, **CHA** +6
 
 ---
@@ -41,11 +43,11 @@ unique, ce, gargantuan, beast, fire
 
 Speed 60 feet, burrow 40 feet, climb 60 feet
 
-**Melee** ◆ jaws +38 (reach <20 feet>); **Damage** 5d10+8 piercing plus 2d10 persistent fire
+**Melee** ◆ jaws +38/+33/+28 (reach <20 feet>); **Damage** 5d10+8 piercing plus 2d10 persistent fire
 
-**Melee** ◆ claw +38 (agile, reach <20 feet>); **Damage** 5d8+8 slashing plus 2d8 persistent fire
+**Melee** ◆ claw +38/+34/+30 (agile, reach <20 feet>); **Damage** 5d8+8 slashing plus 2d8 persistent fire
 
-**Ranged** ◆ lava bomb +38 (range increment <80 feet>); **Damage** 2d10+8 bludgeoning plus 2d10 persistent fire
+**Ranged** ◆ lava bomb +38/+33/+28 (range increment <80 feet>); **Damage** 2d10+8 bludgeoning plus 2d10 persistent fire
 
 **Bomb Barrage** ◆◆ Xotani makes three lava bomb Strikes. These Strikes can be made against the same creature or different creatures, as long as all targets are within 40 feet of each other.
 

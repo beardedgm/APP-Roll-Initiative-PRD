@@ -11,6 +11,8 @@ rare, ne, medium, astral, incorporeal, undead, wraith
 
 **Skills** Acrobatics +35, Arcana +31, Stealth +35
 
+**Recall Knowledge - Astral** (Occultism, Religion): DC 43
+
 **STR** -5, **DEX** +9, **CON** +5, **INT** +0, **WIS** +7, **CHA** +8
 
 ---
@@ -31,7 +33,7 @@ rare, ne, medium, astral, incorporeal, undead, wraith
 
 Speed fly 60 feet, instantaneous movement
 
-**Melee** ◆ spectral hand +35 (agile, finesse, magical); **Damage** 4d10+16 force plus dimensional shunt and drain life plus dimensional shunt, drain life
+**Melee** ◆ spectral hand +35/+31/+27 (agile, finesse, magical); **Damage** 4d10+16 force plus dimensional shunt and drain life plus dimensional shunt, drain life
 
 **Dimensional Shunt** (arcane, conjuration, teleportation) The aiudara wraith's touch displaces creatures and flings them through space. The creature must attempt a DC 40 Fortitude save. **Critical Success** The creature is unaffected and becomes temporarily immune to dimensional shunt for 1 minute.
 **Success** The creature is pushed 5 feet in a random direction.

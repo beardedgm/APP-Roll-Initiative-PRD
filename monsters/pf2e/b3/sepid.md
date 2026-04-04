@@ -11,6 +11,8 @@ le, large, div, fiend
 
 **Skills** Acrobatics +23, Arcana +20, Athletics +28, Deception +22, Intimidation +26, Religion +20, Stealth +23
 
+**Recall Knowledge - Fiend** (Religion): DC 32
+
 **STR** +8, **DEX** +5, **CON** +8, **INT** +4, **WIS** +4, **CHA** +6
 
 **Items** +2 striking falchion
@@ -35,9 +37,9 @@ le, large, div, fiend
 
 Speed 35 feet
 
-**Melee** ◆ falchion +30 (evil, forceful, magical, sweep); **Damage** 2d10+16 slashing plus 1d6 evil and 1d6 mental
+**Melee** ◆ falchion +30/+25/+20 (evil, forceful, magical, sweep); **Damage** 2d10+16 slashing plus 1d6 evil and 1d6 mental
 
-**Melee** ◆ claw +28 (agile, evil, magical); **Damage** 3d8+16 slashing plus 1d6 evil and 1d6 mental
+**Melee** ◆ claw +28/+24/+20 (agile, evil, magical); **Damage** 3d8+16 slashing plus 1d6 evil and 1d6 mental
 
 **Innate divine Spells** (DC 34)
 

@@ -11,6 +11,8 @@ uncommon, ce, medium, aberration
 
 **Skills** Deception +24, Diplomacy +22, Occultism +23, Society +19, Stealth +23
 
+**Recall Knowledge - Aberration** (Occultism): DC 30
+
 **STR** +3, **DEX** +6, **CON** +3, **INT** +6, **WIS** +5, **CHA** +7
 
 **Thoughtsense** (divination, mental, occult) The gosreg senses a creature's mental essence as a precise sense with the listed range; it cannot sense mindless creatures with thoughtsense.
@@ -33,9 +35,9 @@ uncommon, ce, medium, aberration
 
 Speed 25 feet
 
-**Melee** ◆ jaws +21 (finesse); **Damage** 2d10+7 piercing plus 1d10 mental
+**Melee** ◆ jaws +21/+16/+11 (finesse); **Damage** 2d10+7 piercing plus 1d10 mental
 
-**Melee** ◆ claw +21 (agile, finesse); **Damage** 2d8+7 slashing
+**Melee** ◆ claw +21/+17/+13 (agile, finesse); **Damage** 2d8+7 slashing
 
 **Innate occult Spells** (DC 30), attack +22
 

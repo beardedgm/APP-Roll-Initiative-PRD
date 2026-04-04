@@ -11,6 +11,8 @@ uncommon, ne, medium, humanoid
 
 **Skills** Acrobatics +5, Athletics +2, Crafting +3, Intimidation +6, Stealth +5, Gunpowder Lore +5
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +0, **DEX** +3, **CON** +2, **INT** +1, **WIS** +0, **CHA** +2
 
 **Items** lesser alchemist's fire, flintlock pistol (10 rounds; Guns & Gears 153), leather armor, lesser searing suture (page 77)
@@ -31,9 +33,9 @@ uncommon, ne, medium, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ fist +4 (agile, finesse, nonlethal, unarmed); **Damage** 1d4 bludgeoning
+**Melee** ◆ fist +4/+0/-4 (agile, finesse, nonlethal, unarmed); **Damage** 1d4 bludgeoning
 
-**Ranged** ◆ flintlock pistol +7 (concussive, fatal <d8>, range increment <40 feet>, reload <1>); **Damage** 1d4 piercing
+**Ranged** ◆ flintlock pistol +7/+2/-3 (concussive, fatal <d8>, range increment <40 feet>, reload <1>); **Damage** 1d4 piercing
 
 **Gut Shot** ◆ **Frequency** {"number":1,"unit":"round"}; **Requirements** The gunner is flanked by two or more creatures and the gunner's pistol is loaded; The gunner turns their pistol on themself and pulls the trigger, firing through their own gut to catch the foe behind them unawares. The gunner makes a flintlock pistol Strike against an adjacent creature, who becomes flat-footed against this Strike. The gunner takes 1d4 piercing damage.
 

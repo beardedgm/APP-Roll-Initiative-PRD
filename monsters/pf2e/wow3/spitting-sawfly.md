@@ -9,6 +9,8 @@ rare, medium, beast, mutant, wood
 
 **Skills** Acrobatics +22, Athletics +20
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 32
+
 **STR** +4, **DEX** +6, **CON** +5, **INT** -5, **WIS** +3, **CHA** +1
 
 **Wood Scent** A spitting sawfly can smell plants and wood as a precise scent at the listed range.
@@ -29,9 +31,9 @@ rare, medium, beast, mutant, wood
 
 Speed 20 feet, fly 40 feet, climb 20 feet
 
-**Melee** ◆ mandibles +22 (finesse, poison); **Damage** 2d12+10 piercing plus seizing venom
+**Melee** ◆ mandibles +22/+17/+12 (finesse, poison); **Damage** 2d12+10 piercing plus seizing venom
 
-**Ranged** ◆ acid spit +22 (poison, range increment <30 feet>); **Damage** 4d8 acid plus seizing venom
+**Ranged** ◆ acid spit +22/+17/+12 (poison, range increment <30 feet>); **Damage** 4d8 acid plus seizing venom
 
 **Consume Essence** ◆ (healing, manipulate, primal) **Frequency** {"number":1,"unit":"day"}; **Requirements** The spitting sawfly is adjacent to any creature with the wood trait or to a coiled conifer|WoW3; The sawfly feasts upon the targeted creature or the coiled conifer|WoW3|coiled conifer's sap, regaining 5d6 Hit Points. A targeted creature must attempt a DC 29 Fortitude save or become drained 1 (drained 2 on a critical failure).
 

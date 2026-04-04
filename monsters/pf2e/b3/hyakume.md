@@ -11,6 +11,8 @@ uncommon, ne, large, aberration
 
 **Skills** Arcana +30, Crafting +30, Deception +27, Medicine +25, Nature +25, Occultism +30, Religion +27, Society +28, Thievery +25, Bardic Lore +28
 
+**Recall Knowledge - Aberration** (Occultism): DC 36
+
 **STR** +4, **DEX** +6, **CON** +4, **INT** +9, **WIS** +6, **CHA** +4
 
 **Light Blindness**
@@ -31,7 +33,7 @@ uncommon, ne, large, aberration
 
 Speed 25 feet
 
-**Melee** ◆ fist +27 (agile, finesse, magical, reach <10 feet>); **Damage** 3d10+10 bludgeoning plus scatterbrain palm plus scatterbrain palm
+**Melee** ◆ fist +27/+23/+19 (agile, finesse, magical, reach <10 feet>); **Damage** 3d10+10 bludgeoning plus scatterbrain palm plus scatterbrain palm
 
 **Innate occult Spells** (DC 40), attack +32
 

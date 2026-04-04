@@ -9,6 +9,8 @@ n, medium, construct, mindless
 
 **Skills** Athletics +9
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 16
+
 **STR** +3, **DEX** -3, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -27,6 +29,6 @@ n, medium, construct, mindless
 
 Speed 20 feet
 
-**Melee** ◆ longsword +11 (magical, versatile <P>); **Damage** 1d8 + 4 slashing
+**Melee** ◆ longsword +11/+6/+1 (magical, versatile <P>); **Damage** 1d8 + 4 slashing
 
-**Melee** ◆ armored fist +9 (agile, magical); **Damage** 1d6 + 4 bludgeoning
+**Melee** ◆ armored fist +9/+5/+1 (agile, magical); **Damage** 1d6 + 4 bludgeoning

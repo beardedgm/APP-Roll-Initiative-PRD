@@ -11,6 +11,8 @@ ng, medium, human, humanoid
 
 **Skills** Alcohol Lore +20, Bardic Lore +16, Diplomacy +21, Occultism +16, Performance +19
 
+**Recall Knowledge - Humanoid** (Society): DC 28
+
 **STR** +5, **DEX** +1, **CON** +3, **INT** +1, **WIS** +2, **CHA** +4
 
 **Items** +1 striking composite longbow, +1 half plate, minor sturdy shield (Hardness 8, HP 64, BT 32), +1 striking warhammer, wayfinder
@@ -33,9 +35,9 @@ ng, medium, human, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ warhammer +24 (magical, shove); **Damage** 2d8+11 bludgeoning
+**Melee** ◆ warhammer +24/+19/+14 (magical, shove); **Damage** 2d8+11 bludgeoning
 
-**Ranged** ◆ composite longbow +20 (deadly 1d10, magical, range increment 100 feet, volley 30 feet); **Damage** 2d8+8 piercing
+**Ranged** ◆ composite longbow +20/+15/+10 (deadly 1d10, magical, range increment 100 feet, volley 30 feet); **Damage** 2d8+8 piercing
 
 **Spontaneous occult Spells** (DC 27)
 

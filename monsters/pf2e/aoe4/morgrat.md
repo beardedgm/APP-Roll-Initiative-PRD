@@ -11,6 +11,8 @@ unique, ce, medium, human, humanoid
 
 **Skills** Acrobatics +17, Arcana +16, Deception +20, Thievery +17
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +0, **WIS** +2, **CHA** +4
 
 ---
@@ -32,11 +34,11 @@ unique, ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +17 (agile, finesse, versatile <S>); **Damage** 1d4+6 piercing
+**Melee** ◆ dagger +17/+13/+9 (agile, finesse, versatile <S>); **Damage** 1d4+6 piercing
 
-**Melee** ◆ poisoner's staff +17 (magical, two-handed d8); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ poisoner's staff +17/+12/+7 (magical, two-handed d8); **Damage** 1d6+4 bludgeoning
 
-**Ranged** ◆ dagger +19 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
+**Ranged** ◆ dagger +19/+15/+11 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
 
 **Spontaneous primal Spells** (DC 28), attack +17
 

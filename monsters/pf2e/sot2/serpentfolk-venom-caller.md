@@ -11,6 +11,8 @@ uncommon, ne, medium, humanoid, serpentfolk
 
 **Skills** Arcana +17, Deception +15, Nature +15, Occultism +17, Society +15, Survival +15
 
+**Recall Knowledge - Humanoid** (Society): DC 25
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +6, **WIS** +4, **CHA** +2
 
 **Items** shortbow (20 arrows), sickle
@@ -29,11 +31,11 @@ uncommon, ne, medium, humanoid, serpentfolk
 
 Speed 25 feet
 
-**Melee** ◆ fangs +16 (finesse); **Damage** 2d8+4 piercing plus serpentfolk venom plus serpentfolk venom
+**Melee** ◆ fangs +16/+11/+6 (finesse); **Damage** 2d8+4 piercing plus serpentfolk venom plus serpentfolk venom
 
-**Melee** ◆ sickle +16 (agile, finesse, trip); **Damage** 1d4+4 piercing plus serpentfolk venom plus serpentfolk venom
+**Melee** ◆ sickle +16/+12/+8 (agile, finesse, trip); **Damage** 1d4+4 piercing plus serpentfolk venom plus serpentfolk venom
 
-**Ranged** ◆ shortbow +16 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing plus serpentfolk venom plus serpentfolk venom
+**Ranged** ◆ shortbow +16/+11/+6 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing plus serpentfolk venom plus serpentfolk venom
 
 **Spontaneous arcane Spells** (DC 25), attack +17
 

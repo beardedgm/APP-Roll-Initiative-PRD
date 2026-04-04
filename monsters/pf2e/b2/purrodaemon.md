@@ -11,6 +11,8 @@ ne, large, daemon, fiend
 
 **Skills** Athletics +37, Intimidation +35, Religion +30, Stealth +34, Survival +33, Warfare Lore +32
 
+**Recall Knowledge - Fiend** (Religion): DC 38
+
 **STR** +9, **DEX** +6, **CON** +7, **INT** +4, **WIS** +7, **CHA** +7
 
 **Items** +2 greater striking glaive, soul gem (2), steeped weapon (7–10)
@@ -31,9 +33,9 @@ ne, large, daemon, fiend
 
 Speed 25 feet, fly 50 feet
 
-**Melee** ◆ glaive +37 (deadly <d8>, evil, forceful, magical, reach <15 feet>); **Damage** 3d8+17 slashing plus 2d6 evil and 4d6 persistent bleed
+**Melee** ◆ glaive +37/+32/+27 (deadly <d8>, evil, forceful, magical, reach <15 feet>); **Damage** 3d8+17 slashing plus 2d6 evil and 4d6 persistent bleed
 
-**Ranged** ◆ hurled weapon +35 (deadly <1d10>, evil, magical, propulsive, range <120 feet>); **Damage** 2d10+12 piercing plus 1d6 evil and 4d6 persistent bleed
+**Ranged** ◆ hurled weapon +35/+30/+25 (deadly <1d10>, evil, magical, propulsive, range <120 feet>); **Damage** 2d10+12 piercing plus 1d6 evil and 4d6 persistent bleed
 
 **Innate divine Spells** (DC 37)
 

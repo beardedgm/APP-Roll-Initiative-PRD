@@ -9,6 +9,8 @@ n, large, animal
 
 **Skills** Acrobatics +7, Athletics +14, Intimidation +10
 
+**Recall Knowledge - Animal** (Nature): DC 19
+
 **STR** +6, **DEX** +1, **CON** +5, **INT** -4, **WIS** +3, **CHA** +0
 
 ---
@@ -23,9 +25,9 @@ n, large, animal
 
 Speed 25 feet
 
-**Melee** ◆ talon +14 (agile); **Damage** 1d10+6 piercing plus Grab plus Grab
+**Melee** ◆ talon +14/+10/+6 (agile); **Damage** 1d10+6 piercing plus Grab plus Grab
 
-**Melee** ◆ beak +14; **Damage** 1d12+6 piercing
+**Melee** ◆ beak +14/+9/+4; **Damage** 1d12+6 piercing
 
 **Bloodcurdling Screech** ◆ (auditory, emotion, fear, mental) The owlbear unleashes a loud screech that terrifies its prey. Each creature in an 80-foot emanation must attempt a DC 20 Will save. Regardless of the result, creatures are temporarily immune for 1 minute. **Critical Success** The creature is unaffected.
 **Success** The creature is frightened 1.

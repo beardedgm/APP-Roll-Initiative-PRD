@@ -11,6 +11,8 @@ ce, small, aberration, amphibious
 
 **Skills** Athletics +5, Stealth +7, Survival +5
 
+**Recall Knowledge - Aberration** (Occultism): DC 14
+
 **STR** +1, **DEX** +3, **CON** +2, **INT** -1, **WIS** +3, **CHA** +0
 
 **Items** spear
@@ -29,13 +31,13 @@ ce, small, aberration, amphibious
 
 Speed 10 feet, swim 25 feet
 
-**Melee** ◆ bite +7 (finesse); **Damage** 1d6+1 piercing
+**Melee** ◆ bite +7/+2/-3 (finesse); **Damage** 1d6+1 piercing
 
-**Melee** ◆ tentacle +7 (agile, finesse, trip); **Damage** 1d4+1 bludgeoning plus Grab plus Grab
+**Melee** ◆ tentacle +7/+3/-1 (agile, finesse, trip); **Damage** 1d4+1 bludgeoning plus Grab plus Grab
 
-**Melee** ◆ spear +5; **Damage** 1d6+1 piercing
+**Melee** ◆ spear +5/+0/-5; **Damage** 1d6+1 piercing
 
-**Ranged** ◆ spear +7 (thrown <20 feet>); **Damage** 1d6+1 piercing
+**Ranged** ◆ spear +7/+2/-3 (thrown <20 feet>); **Damage** 1d6+1 piercing
 
 **Clinging Suckers** When a grindylow Grabs a creature larger than itself, it attaches to that creature. The grabbed creature is not immobilized, but if it moves, the grindylow moves with it. If the creature is Medium or smaller, it takes a –5-foot status penalty to its Speeds while the grindylow is attached. The grindylow is flat-footed while it is attached to a creature.
 

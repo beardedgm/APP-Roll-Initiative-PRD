@@ -11,6 +11,8 @@ uncommon, cn, tiny, dragon
 
 **Skills** Acrobatics +14, Deception +10, Stealth +12, Survival +12
 
+**Recall Knowledge - Dragon** (Arcana): DC 21
+
 **STR** -1, **DEX** +4, **CON** +2, **INT** -1, **WIS** +3, **CHA** +2
 
 ---
@@ -29,9 +31,9 @@ uncommon, cn, tiny, dragon
 
 Speed 30 feet
 
-**Melee** ◆ jaws +14; **Damage** 2d6 piercing plus najra lizard venom plus najra lizard venom
+**Melee** ◆ jaws +14/+9/+4; **Damage** 2d6 piercing plus najra lizard venom plus najra lizard venom
 
-**Ranged** ◆ venomous spit +14 (agile, poison, range increment <20 feet>); **Damage** 1d4 poison plus najra lizard venom plus najra lizard venom
+**Ranged** ◆ venomous spit +14/+10/+6 (agile, poison, range increment <20 feet>); **Damage** 1d4 poison plus najra lizard venom plus najra lizard venom
 
 **Najra Lizard Venom**
 

@@ -11,6 +11,8 @@ small, fey
 
 **Skills** Acrobatics +16, Athletics +18, Deception +18, Intimidation +15, Stealth +19, Thievery +16
 
+**Recall Knowledge - Fey** (Nature): DC 24
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +2, **WIS** +3, **CHA** +4
 
 **Items** Sally Sharp-tongue (), unmemorable mantle|LOCG
@@ -31,7 +33,7 @@ small, fey
 
 Speed 40 feet
 
-**Melee** ◆ Sally Sharp-tongue +18 (agile, backstabber, deadly <d8>, finesse, magical); **Damage** 3d4+7 slashing plus 1d6 bleed
+**Melee** ◆ Sally Sharp-tongue +18/+14/+10 (agile, backstabber, deadly <d8>, finesse, magical); **Damage** 3d4+7 slashing plus 1d6 bleed
 
 **Innate primal Spells** (DC 26)
 

@@ -11,6 +11,8 @@ ng, small, elemental, fire
 
 **Skills** Acrobatics +8, Athletics +5, Stealth +8
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 16
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** -2, **WIS** +2, **CHA** +1
 
 ---
@@ -31,4 +33,4 @@ ng, small, elemental, fire
 
 Speed 30 feet
 
-**Melee** ◆ jaws +10 (agile, finesse); **Damage** 1d4+3 piercing plus 1d4 persistent fire
+**Melee** ◆ jaws +10/+6/+2 (agile, finesse); **Damage** 1d4+3 piercing plus 1d4 persistent fire

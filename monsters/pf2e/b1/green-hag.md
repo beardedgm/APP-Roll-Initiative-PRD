@@ -11,6 +11,8 @@ ce, medium, hag, humanoid
 
 **Skills** Acrobatics +9, Athletics +11, Deception +10, Nature +8, Occultism +8, Stealth +9
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +5, **DEX** +3, **CON** +3, **INT** +2, **WIS** +2, **CHA** +4
 
 **Coven** A green hag adds entangle, outcast's curse, and wall of thorns to her coven's spells.
@@ -31,7 +33,7 @@ ce, medium, hag, humanoid
 
 Speed 25 feet, swim 25 feet
 
-**Melee** ◆ claw +14 (agile, magical); **Damage** 1d10+5 slashing plus enfeebling humors plus enfeebling humors
+**Melee** ◆ claw +14/+10/+6 (agile, magical); **Damage** 1d10+5 slashing plus enfeebling humors plus enfeebling humors
 
 **Innate occult Spells** (DC 20), attack +14
 

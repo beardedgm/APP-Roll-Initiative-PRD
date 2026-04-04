@@ -11,6 +11,8 @@ rare, ce, gargantuan, undead
 
 **Skills** Athletics +33, Intimidation +31, Sailing Lore +37
 
+**Recall Knowledge - Undead** (Religion): DC 43
+
 **STR** +9, **DEX** +5, **CON** +9, **INT** +1, **WIS** +6, **CHA** +5
 
 **Skeleton Crew** (divine, evil, necromancy) The bone ship is compelled not by a single mind, but by the collective consciousness of dead sailors' souls. The ship is immune to mental effects that target only a specific number of creatures. It's still subject to mental effects that affect all creatures in an area. Any creature that tries to communicate with the ship via telepathy or read its thoughts hears the dying screams and gasps of the crew, and is targeted with a 9th-level warp mind spell (DC 41) The ship animates skeletal crew members out of its own bones, arming them with rusty old cutlasses or other armaments so they can attack anyone who comes next to the ship. These entities have appearances matching those the bound souls had in life but aren't truly individuals; anything that targets them in fact targets the bone ship they're a part of. Hundreds of black soul gems decorate the ship's exterior, each holding one soul. These gems can hold souls of creatures whose level was 16th or lower, and they have no value. If the ship is destroyed, all these gems shatter, freeing the souls within. Trawl for Bones (downtime) The bone ship spends 1 day scavenging bones from the sea and restores itself to full Hit Points.
@@ -35,11 +37,11 @@ rare, ce, gargantuan, undead
 
 Speed swim 40 feet
 
-**Melee** ◆ hull +35 (reach <20 feet>); **Damage** 3d10+17 bludgeoning plus 2d10 negative
+**Melee** ◆ hull +35/+30/+25 (reach <20 feet>); **Damage** 3d10+17 bludgeoning plus 2d10 negative
 
-**Melee** ◆ skeleton crew +35 (agile); **Damage** 3d6+17 slashing plus 2d10 negative
+**Melee** ◆ skeleton crew +35/+31/+27 (agile); **Damage** 3d6+17 slashing plus 2d10 negative
 
-**Ranged** ◆ bone cannon +35 (brutal, divine, negative, range increment <100 feet>); **Damage** 2d12+12 bludgeoning damage plus 2d10 negative
+**Ranged** ◆ bone cannon +35/+30/+25 (brutal, divine, negative, range increment <100 feet>); **Damage** 2d12+12 bludgeoning damage plus 2d10 negative
 
 **Cannonade** ◆◆ The bone ship makes four bone cannon Strikes, each targeting a different creature.
 

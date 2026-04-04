@@ -11,6 +11,8 @@ ne, small, amphibious, beast
 
 **Skills** Acrobatics +11, Athletics +9, Deception +11, Stealth +11
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 19
+
 **STR** +3, **DEX** +5, **CON** +2, **INT** +0, **WIS** +4, **CHA** +3
 
 **Canine Vulnerability** Dogs and other canines are natural enemies of kushtaka. Canine animals, including creatures transformed into a canine using animal form or a similar effect, ignore the kushtaka's resistance to physical attacks. In addition, a canine with imprecise scent can use it as a precise sense when detecting a kushtaka.
@@ -33,9 +35,9 @@ ne, small, amphibious, beast
 
 Speed 25 feet, swim 40 feet
 
-**Melee** ◆ jaws +14 (finesse); **Damage** 2d8+5 piercing plus Grab plus Grab
+**Melee** ◆ jaws +14/+9/+4 (finesse); **Damage** 2d8+5 piercing plus Grab plus Grab
 
-**Melee** ◆ claw +14 (agile, finesse); **Damage** 2d6+5 slashing
+**Melee** ◆ claw +14/+10/+6 (agile, finesse); **Damage** 2d6+5 slashing
 
 **Innate occult Spells** (DC 21), attack +13
 

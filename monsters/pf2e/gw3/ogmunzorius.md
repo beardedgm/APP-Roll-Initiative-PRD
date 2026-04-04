@@ -11,6 +11,8 @@ unique, ne, large, dream, incorporeal
 
 **Skills** Acrobatics +22, Deception +21, Intimidation +21, Occultism +23, Stealth +22
 
+**Recall Knowledge - Dream** (Occultism): DC 38
+
 **STR** -5, **DEX** +5, **CON** +4, **INT** +4, **WIS** +4, **CHA** +6
 
 ---
@@ -29,7 +31,7 @@ unique, ne, large, dream, incorporeal
 
 Speed fly 40 feet
 
-**Melee** ◆ nightmare tendril +22 (agile, finesse, reach <10 feet>); **Damage** 5d8 cold plus frozen nightmare
+**Melee** ◆ nightmare tendril +22/+18/+14 (agile, finesse, reach <10 feet>); **Damage** 5d8 cold plus frozen nightmare
 
 **Innate occult Spells** (DC 30)
 

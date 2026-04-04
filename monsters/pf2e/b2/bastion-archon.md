@@ -11,6 +11,8 @@ rare, lg, huge, archon, celestial
 
 **Skills** Athletics +38, Diplomacy +34, Intimidation +34, Religion +32
 
+**Recall Knowledge - Celestial** (Religion): DC 45
+
 **STR** +10, **DEX** +7, **CON** +10, **INT** +6, **WIS** +8, **CHA** +6
 
 ---
@@ -33,7 +35,7 @@ rare, lg, huge, archon, celestial
 
 Speed 70 feet, air walk
 
-**Melee** ◆ fist +40 (good, lawful, magical, reach <15 feet>); **Damage** 4d8+20 bludgeoning plus 2d6 good
+**Melee** ◆ fist +40/+35/+30 (good, lawful, magical, reach <15 feet>); **Damage** 4d8+20 bludgeoning plus 2d6 good
 
 **Innate divine Spells** (DC 42), attack +34
 

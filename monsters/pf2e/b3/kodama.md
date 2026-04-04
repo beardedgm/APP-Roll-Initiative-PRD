@@ -11,6 +11,8 @@ ng, small, kami, spirit
 
 **Skills** Acrobatics +11, Athletics +11, Nature +14, Stealth +13, Survival +14
 
+**Recall Knowledge - Spirit** (Religion): DC 20
+
 **STR** +2, **DEX** +4, **CON** +5, **INT** +0, **WIS** +5, **CHA** +4
 
 **Items** spiritual rope
@@ -37,7 +39,7 @@ ng, small, kami, spirit
 
 Speed 25 feet
 
-**Melee** ◆ fist +13 (agile, finesse); **Damage** 2d6+4 bludgeoning
+**Melee** ◆ fist +13/+9/+5 (agile, finesse); **Damage** 2d6+4 bludgeoning
 
 **Innate divine Spells** (DC 23)
 

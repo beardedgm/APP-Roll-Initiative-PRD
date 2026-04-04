@@ -11,6 +11,8 @@ cn, small, amphibious, beast
 
 **Skills** Acrobatics +8, Athletics +7, Medicine +9, Survival +7
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 16
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** +1, **WIS** +3, **CHA** +1
 
 ---
@@ -27,6 +29,6 @@ cn, small, amphibious, beast
 
 Speed 15 feet, swim 40 feet
 
-**Melee** ◆ claw +11 (agile); **Damage** 1d10+3 slashing
+**Melee** ◆ claw +11/+7/+3 (agile); **Damage** 1d10+3 slashing
 
 **Pull Arm** ◆ The kappa pulls one of their arms, gaining 10-foot reach with that arm. The opposing arm shrinks to little more than a hand extending from their shell. The kappa can still use their shortened hand to hold things, but they can't use that hand to wield a shield or weapon. By spending a single action to pull their opposing arm, the kappa can return their arms to their original length.

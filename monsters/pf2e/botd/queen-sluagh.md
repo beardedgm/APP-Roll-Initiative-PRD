@@ -11,6 +11,8 @@ rare, ne, huge, fey, undead
 
 **Skills** Acrobatics +29, Athletics +35, Deception +30, Intimidation +32, Stealth +29, Survival +31
 
+**Recall Knowledge - Fey** (Nature, Religion): DC 43
+
 **STR** +9, **DEX** +5, **CON** +9, **INT** +7, **WIS** +7, **CHA** +4
 
 **Soulscent** (divination, occult) As sluagh reaper.
@@ -35,11 +37,11 @@ rare, ne, huge, fey, undead
 
 Speed 30 feet, fly 80 feet
 
-**Melee** ◆ proboscis +35 (reach <20 feet>); **Damage** 3d10+17 piercing plus Improved Grab
+**Melee** ◆ proboscis +35/+30/+25 (reach <20 feet>); **Damage** 3d10+17 piercing plus Improved Grab
 
-**Melee** ◆ claw +35 (agile, magical); **Damage** 3d10+17 slashing
+**Melee** ◆ claw +35/+31/+27 (agile, magical); **Damage** 3d10+17 slashing
 
-**Ranged** ◆ negative ray +31 (magical, negative, range <100 feet>); **Damage** 7d8 negative
+**Ranged** ◆ negative ray +31/+26/+21 (magical, negative, range <100 feet>); **Damage** 7d8 negative
 
 **Innate primal Spells** (DC 41)
 

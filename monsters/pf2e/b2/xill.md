@@ -11,6 +11,8 @@ uncommon, le, medium, aberration, ethereal
 
 **Skills** Acrobatics +15, Athletics +14, Deception +12, Intimidation +14, Stealth +15, Warfare Lore +12
 
+**Recall Knowledge - Aberration** (Occultism): DC 24
+
 **STR** +4, **DEX** +5, **CON** +3, **INT** +0, **WIS** +3, **CHA** +0
 
 **Items** breastplate, +1 longbow (40 arrows), scimitar (2), steel shield (Hardness 5, HP 20, BT 10)
@@ -31,11 +33,11 @@ uncommon, le, medium, aberration, ethereal
 
 Speed 35 feet
 
-**Melee** ◆ scimitar +16 (forceful, sweep); **Damage** 2d6+7 slashing
+**Melee** ◆ scimitar +16/+11/+6 (forceful, sweep); **Damage** 2d6+7 slashing
 
-**Melee** ◆ bite +16; **Damage** 2d8+7 piercing plus xill paralysis plus xill paralysis
+**Melee** ◆ bite +16/+11/+6; **Damage** 2d8+7 piercing plus xill paralysis plus xill paralysis
 
-**Ranged** ◆ longbow +17 (deadly <1d10>, magical, range <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8 piercing
+**Ranged** ◆ longbow +17/+12/+7 (deadly <1d10>, magical, range <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8 piercing
 
 **Innate occult Spells** (DC 24)
 

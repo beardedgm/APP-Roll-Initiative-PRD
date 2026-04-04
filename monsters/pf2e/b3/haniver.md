@@ -11,6 +11,8 @@ ce, tiny, amphibious, fey, gremlin
 
 **Skills** Acrobatics +5, Deception +4, Nature +3, Stealth +5, Thievery +5
 
+**Recall Knowledge - Fey** (Nature): DC 13
+
 **STR** +1, **DEX** +3, **CON** +2, **INT** -1, **WIS** +1, **CHA** +2
 
 ---
@@ -25,7 +27,7 @@ ce, tiny, amphibious, fey, gremlin
 
 Speed 10 feet, fly 20 feet, swim 20 feet
 
-**Melee** ◆ bite +7 (agile, finesse); **Damage** 1d4+1 piercing
+**Melee** ◆ bite +7/+3/-1 (agile, finesse); **Damage** 1d4+1 piercing
 
 **Innate primal Spells** (DC 13)
 

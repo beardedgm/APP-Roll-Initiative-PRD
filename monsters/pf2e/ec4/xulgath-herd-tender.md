@@ -11,6 +11,8 @@ ce, medium, humanoid, xulgath
 
 **Skills** Acrobatics +16, Athletics +18, Intimidation +16, Nature +17, Stealth +16, Survival +17, Dinosaur Lore +11
 
+**Recall Knowledge - Humanoid** (Society): DC 24
+
 **STR** +4, **DEX** +4, **CON** +2, **INT** -1, **WIS** +3, **CHA** +2
 
 **Items** moderate alchemist's fire (4), +1 striking composite shortbow (20 arrows), hide armor, whip
@@ -31,15 +33,15 @@ ce, medium, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** ◆ whip +19 (disarm, finesse, nonlethal, reach <10 feet>, trip); **Damage** 1d4+10 slashing
+**Melee** ◆ whip +19/+14/+9 (disarm, finesse, nonlethal, reach <10 feet>, trip); **Damage** 1d4+10 slashing
 
-**Melee** ◆ jaws +19; **Damage** 2d8+10 piercing
+**Melee** ◆ jaws +19/+14/+9; **Damage** 2d8+10 piercing
 
-**Melee** ◆ claw +19 (agile); **Damage** 2d6+10 slashing
+**Melee** ◆ claw +19/+15/+11 (agile); **Damage** 2d6+10 slashing
 
-**Ranged** ◆ composite shortbow +20 (deadly <2d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 2d6+10 piercing
+**Ranged** ◆ composite shortbow +20/+15/+10 (deadly <2d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 2d6+10 piercing
 
-**Ranged** ◆ moderate alchemist's fire +20 (range increment <20 feet>, splash); **Damage** 2d8 plus 2 persistent fire damage and 2 fire splash damage plus 2d8
+**Ranged** ◆ moderate alchemist's fire +20/+15/+10 (range increment <20 feet>, splash); **Damage** 2d8 plus 2 persistent fire damage and 2 fire splash damage plus 2d8
 
 **Feral Directive** ◆◆ The xulgath attempts to Command an Animal on their mount, but instead of demanding a specific action such as Stride or Strike, the xulgath gives a general directive, such as to return to camp or to attack a small group the mount can see. The mount and the xulgath each retain 3 actions on their turns, but the mount doesn't change its general tactics until the xulgath uses Feral Directive or Command an Animal again.
 

@@ -11,6 +11,8 @@ uncommon, cn, large, cold, dragon
 
 **Skills** Acrobatics +27, Athletics +23, Intimidation +19
 
+**Recall Knowledge - Dragon** (Arcana): DC 32
+
 **STR** +5, **DEX** +7, **CON** +5, **INT** -1, **WIS** +4, **CHA** +1
 
 **Snow Vision** Snow doesn't impair a drake courser's vision. It ignores concealment from snowfall.
@@ -33,9 +35,9 @@ uncommon, cn, large, cold, dragon
 
 Speed 35 feet, fly 65 feet, swim 35 feet, ice climb 35 feet
 
-**Melee** ◆ fangs +25; **Damage** 3d12+11 piercing plus 1d6 cold
+**Melee** ◆ fangs +25/+20/+15; **Damage** 3d12+11 piercing plus 1d6 cold
 
-**Melee** ◆ tail +25 (reach <10 feet>); **Damage** 3d10+11 bludgeoning plus Knockdown plus Knockdown
+**Melee** ◆ tail +25/+20/+15 (reach <10 feet>); **Damage** 3d10+11 bludgeoning plus Knockdown plus Knockdown
 
 **Battle Dance** ◆◆ The drake courser makes two fangs Strikes and one tail Strike in any order. It can replace any of these Strikes with Demoralize or Step.
 

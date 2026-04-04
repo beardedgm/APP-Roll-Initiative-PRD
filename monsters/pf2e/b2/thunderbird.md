@@ -11,6 +11,8 @@ uncommon, n, gargantuan, air, beast, electricity
 
 **Skills** Acrobatics +22, Athletics +23, Intimidation +20, Nature +20
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 30
+
 **STR** +8, **DEX** +3, **CON** +7, **INT** +3, **WIS** +5, **CHA** +3
 
 **Stormsight** Wind, precipitation, and clouds don't impair a thunderbird's vision; it ignores the concealed condition from storms, mist, precipitation, and the like.
@@ -35,11 +37,11 @@ uncommon, n, gargantuan, air, beast, electricity
 
 Speed 25 feet, fly 80 feet
 
-**Melee** ◆ beak +24; **Damage** 2d6+12 piercing plus 3d6 electricity
+**Melee** ◆ beak +24/+19/+14; **Damage** 2d6+12 piercing plus 3d6 electricity
 
-**Melee** ◆ talon +24 (agile); **Damage** 2d8+12 slashing
+**Melee** ◆ talon +24/+20/+16 (agile); **Damage** 2d8+12 slashing
 
-**Ranged** ◆ thunderbolt +23 (range <200 feet>); **Damage** 3d6 electricity and 3d6 sonic plus thunderstrike plus thunderstrike
+**Ranged** ◆ thunderbolt +23/+18/+13 (range <200 feet>); **Damage** 3d6 electricity and 3d6 sonic plus thunderstrike plus thunderstrike
 
 **Lightning Blast** ◆◆ (evocation, primal) The thunderbird spreads their wings and blasts their foe with thunderous bolts of lightning. Each creature in a 30-foot emanation takes 6d6 electricity damage and 6d6 sonic damage (DC 30 basic Reflex save). The thunderbird can't use Lightning Blast for 1d4 rounds.
 

@@ -11,6 +11,8 @@ uncommon, le, medium, humanoid
 
 **Skills** Acrobatics +17, Crafting +15, Diplomacy +15, Legal Lore +13
 
+**Recall Knowledge - Humanoid** (Society): DC 25
+
 **STR** +4, **DEX** +5, **CON** +2, **INT** +0, **WIS** +0, **CHA** +2
 
 **Items** breastplate, clan pistol|G&G|+1 weapon potency| or clan pistol|G&G|+1 weapon potency|, longsword
@@ -27,11 +29,11 @@ uncommon, le, medium, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ longsword +17 (versatile <P>); **Damage** 1d8+7 slashing
+**Melee** ◆ longsword +17/+12/+7 (versatile <P>); **Damage** 1d8+7 slashing
 
-**Ranged** ◆ clan pistol +19 (concussive, fatal <d10>, magical, range increment <80 feet>, reload <1>); **Damage** 1d6+3 piercing
+**Ranged** ◆ clan pistol +19/+14/+9 (concussive, fatal <d10>, magical, range increment <80 feet>, reload <1>); **Damage** 1d6+3 piercing
 
-**Ranged** ◆ jezail +19 (concussive, fatal aim d12, magical, range increment <90 feet>, reload <1>); **Damage** 1d8+3 piercing
+**Ranged** ◆ jezail +19/+14/+9 (concussive, fatal aim d12, magical, range increment <90 feet>, reload <1>); **Damage** 1d8+3 piercing
 
 **Firearms Critical Specialization** When the shieldmarshal makes a critical hit with a firearm weapon, the target must succeed at a DC 25 Fortitude save or be stunned 1.
 

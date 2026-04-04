@@ -11,6 +11,8 @@ uncommon, cn, gargantuan, monitor
 
 **Skills** Athletics +33, Deception +36, Intimidation +30, Religion +31, Stealth +28, Survival +31
 
+**Recall Knowledge - Monitor** (Religion): DC 38
+
 **STR** +10, **DEX** +5, **CON** +6, **INT** +6, **WIS** +6, **CHA** +9
 
 **Thoughtsense** (divination, mental, occult) The camarach senses the presence of non-mindless creatures within 120 feet as an imprecise sense.
@@ -31,7 +33,7 @@ uncommon, cn, gargantuan, monitor
 
 Speed fly 60 feet, swim 60 feet
 
-**Melee** ◆ jaws +35 (magical, reach <20 feet>); **Damage** 3d10+18 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +35/+30/+25 (magical, reach <20 feet>); **Damage** 3d10+18 piercing plus Improved Grab plus Improved Grab
 
 **Innate occult Spells** (DC 43)
 

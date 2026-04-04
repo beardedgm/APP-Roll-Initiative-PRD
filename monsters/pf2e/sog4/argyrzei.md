@@ -11,6 +11,8 @@ rare, ce, medium, fiend, nindoru
 
 **Skills** Athletics +27, Crafting +26, Deception +24, Occultism +25, Stealth +24
 
+**Recall Knowledge - Fiend** (Religion): DC 36
+
 **STR** +8, **DEX** +5, **CON** +6, **INT** +6, **WIS** +4, **CHA** +5
 
 **Cursesense** The argyrzei can see and hear through any infected silver|SoG4|silver object it cursed, as long as the object is within 1 mile.
@@ -35,7 +37,7 @@ rare, ce, medium, fiend, nindoru
 
 Speed 25 feet
 
-**Melee** ◆ silver blade +28 (magical, silver, two-hand <d12>); **Damage** 2d8+11 slashing plus 1d6 persistent bleed and 1d6 mental
+**Melee** ◆ silver blade +28/+23/+18 (magical, silver, two-hand <d12>); **Damage** 2d8+11 slashing plus 1d6 persistent bleed and 1d6 mental
 
 **Innate occult Spells** (DC 33), attack +25
 

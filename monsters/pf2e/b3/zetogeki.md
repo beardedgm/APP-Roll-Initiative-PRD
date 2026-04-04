@@ -9,6 +9,8 @@ n, large, animal, earth
 
 **Skills** Acrobatics +12, Athletics +18, Stealth +12
 
+**Recall Knowledge - Animal** (Nature): DC 23
+
 **STR** +5, **DEX** +1, **CON** +5, **INT** -4, **WIS** +2, **CHA** -1
 
 ---
@@ -23,9 +25,9 @@ n, large, animal, earth
 
 Speed 35 feet, climb 35 feet
 
-**Melee** ◆ jaws +18 (reach <10 feet>); **Damage** 2d8+11 piercing plus Grab plus Grab
+**Melee** ◆ jaws +18/+13/+8 (reach <10 feet>); **Damage** 2d8+11 piercing plus Grab plus Grab
 
-**Melee** ◆ tail +18 (reach <15 feet>, sweep); **Damage** 2d6+11 bludgeoning
+**Melee** ◆ tail +18/+13/+8 (reach <15 feet>, sweep); **Damage** 2d6+11 bludgeoning
 
 **Mangle** ◆ **Requirements** The zetogeki has a creature grabbed in its jaws; The zetogeki mangles the grabbed creature and slams it about, dealing 3d8 bludgeoning damage (DC 26 basic Fortitude save).
 

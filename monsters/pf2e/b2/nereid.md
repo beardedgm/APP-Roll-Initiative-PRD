@@ -11,6 +11,8 @@ cn, medium, aquatic, fey, water
 
 **Skills** Athletics +12, Deception +20, Diplomacy +22, Stealth +22
 
+**Recall Knowledge - Fey** (Nature): DC 27
+
 **STR** +0, **DEX** +7, **CON** +5, **INT** +3, **WIS** +5, **CHA** +7
 
 ---
@@ -31,7 +33,7 @@ cn, medium, aquatic, fey, water
 
 Speed 25 feet, swim 50 feet
 
-**Melee** ◆ poisonous touch +23 (agile, finesse, magical); **Damage** 6d6 poison
+**Melee** ◆ poisonous touch +23/+19/+15 (agile, finesse, magical); **Damage** 6d6 poison
 
 **Innate primal Spells** (DC 29)
 

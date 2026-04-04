@@ -11,6 +11,8 @@ unique, n, medium, elf, humanoid
 
 **Skills** Arcana +23, Diplomacy +26, Occultism +25, Performance +28, Bardic Lore +23
 
+**Recall Knowledge - Humanoid** (Society): DC 41
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** +4, **WIS** +0, **CHA** +5
 
 **Items** +1 striking composite longbow (20 arrows), +1 resilient explorer's clothing
@@ -27,9 +29,9 @@ unique, n, medium, elf, humanoid
 
 Speed 25 feet
 
-**Ranged** ◆ fist +19 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+6 bludgeoning
+**Ranged** ◆ fist +19/+15/+11 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+6 bludgeoning
 
-**Ranged** ◆ composite longbow +23 (deadly <1d10>, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+11 piercing
+**Ranged** ◆ composite longbow +23/+18/+13 (deadly <1d10>, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+11 piercing
 
 **Spontaneous occult Spells** (DC 34)
 

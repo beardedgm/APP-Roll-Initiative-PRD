@@ -9,6 +9,8 @@ n, medium, animal, aquatic
 
 **Skills** Acrobatics +7, Athletics +8, Stealth +7
 
+**Recall Knowledge - Animal** (Nature): DC 16
+
 **STR** +4, **DEX** +3, **CON** +1, **INT** -4, **WIS** +2, **CHA** -3
 
 ---
@@ -29,6 +31,6 @@ n, medium, animal, aquatic
 
 Speed 25 feet, swim 15 feet
 
-**Melee** ◆ claw +10; **Damage** 1d10+4 slashing plus Grab plus Grab
+**Melee** ◆ claw +10/+5/+0; **Damage** 1d10+4 slashing plus Grab plus Grab
 
 **Constrict** ◆ 1d6+4 bludgeoning, DC 18

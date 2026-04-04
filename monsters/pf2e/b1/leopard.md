@@ -9,6 +9,8 @@ n, medium, animal
 
 **Skills** Acrobatics +8, Athletics +7, Stealth +8
 
+**Recall Knowledge - Animal** (Nature): DC 16
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** -4, **WIS** +1, **CHA** -2
 
 ---
@@ -23,9 +25,9 @@ n, medium, animal
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ jaws +10 (finesse); **Damage** 1d10+3 piercing plus Grab plus Grab
+**Melee** ◆ jaws +10/+5/+0 (finesse); **Damage** 1d10+3 piercing plus Grab plus Grab
 
-**Melee** ◆ claw +10 (agile, finesse); **Damage** 1d6+3 slashing
+**Melee** ◆ claw +10/+6/+2 (agile, finesse); **Damage** 1d6+3 slashing
 
 **Maul** ◆ The leopard makes two claw Strikes against a creature it has grabbed. Both count toward its multiple attack penalty, but the penalty increases only after both attacks are made.
 

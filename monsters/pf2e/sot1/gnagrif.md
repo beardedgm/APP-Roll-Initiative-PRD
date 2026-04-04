@@ -11,6 +11,8 @@ uncommon, ne, tiny, fey, gremlin
 
 **Skills** Acrobatics +8, Athletics +6, Intimidation +6, Stealth +8, Survival +5
 
+**Recall Knowledge - Fey** (Nature): DC 18
+
 **STR** +2, **DEX** +4, **CON** +3, **INT** -1, **WIS** -1, **CHA** +2
 
 **Items** light hammer
@@ -31,9 +33,9 @@ uncommon, ne, tiny, fey, gremlin
 
 Speed 20 feet, burrow 10 feet, climb 10 feet
 
-**Melee** ◆ light hammer +10 (agile); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ light hammer +10/+6/+2 (agile); **Damage** 1d6+4 bludgeoning
 
-**Ranged** ◆ light hammer +10 (agile, thrown <20 feet>); **Damage** 1d6+4 bludgeoning
+**Ranged** ◆ light hammer +10/+6/+2 (agile, thrown <20 feet>); **Damage** 1d6+4 bludgeoning
 
 **Innate primal Spells** (DC 16)
 

@@ -9,6 +9,8 @@ ce, medium, genie, ghul, undead
 
 **Skills** Athletics +11, Deception +14, Diplomacy +12, Intimidation +12, Stealth +12, Survival +11
 
+**Recall Knowledge - Undead** (Religion): DC 20
+
 **STR** +5, **DEX** +1, **CON** +2, **INT** +2, **WIS** +2, **CHA** +5
 
 ---
@@ -29,9 +31,9 @@ ce, medium, genie, ghul, undead
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ jaws +15 (magical); **Damage** 2d8+4 piercing plus 1d4 persistent bleed
+**Melee** ◆ jaws +15/+10/+5 (magical); **Damage** 2d8+4 piercing plus 1d4 persistent bleed
 
-**Melee** ◆ claw +15 (agile, magical); **Damage** 2d8+4 slashing plus
+**Melee** ◆ claw +15/+11/+7 (agile, magical); **Damage** 2d8+4 slashing plus
 
 **Grab**
 

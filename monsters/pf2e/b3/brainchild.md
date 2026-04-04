@@ -41,9 +41,9 @@ rare, ce, large, illusion, mental
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ illusory weapon +24 (illusion, mental, occult); **Damage** 4d6+10 mental plus urban legend plus urban legend
+**Melee** ◆ illusory weapon +24/+19/+14 (illusion, mental, occult); **Damage** 4d6+10 mental plus urban legend plus urban legend
 
-**Ranged** ◆ illusory weapon +24 (illusion, mental, occult, range <100 feet>); **Damage** 4d6+6 mental plus urban legend plus urban legend
+**Ranged** ◆ illusory weapon +24/+19/+14 (illusion, mental, occult, range <100 feet>); **Damage** 4d6+6 mental plus urban legend plus urban legend
 
 **Innate occult Spells** (DC 30)
 

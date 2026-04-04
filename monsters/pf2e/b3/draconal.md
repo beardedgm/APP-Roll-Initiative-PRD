@@ -11,6 +11,8 @@ ng, large, agathion, celestial
 
 **Skills** Arcana +38, Crafting +30, Deception +35, Diplomacy +37, Intimidation +35, Medicine +34, Nature +34, Religion +36, Society +32, Survival +32, Nirvana Lore +36
 
+**Recall Knowledge - Celestial** (Religion): DC 40
+
 **STR** +10, **DEX** +5, **CON** +8, **INT** +8, **WIS** +10, **CHA** +9
 
 ---
@@ -31,9 +33,9 @@ ng, large, agathion, celestial
 
 Speed 30 feet, fly 90 feet
 
-**Melee** ◆ jaws +38 (good, magical, reach <15 feet>); **Damage** 3d12+18 piercing plus 1d6 good plus 4d6 fire
+**Melee** ◆ jaws +38/+33/+28 (good, magical, reach <15 feet>); **Damage** 3d12+18 piercing plus 1d6 good plus 4d6 fire
 
-**Melee** ◆ claw +38 (agile, good, magical, reach <10 feet>); **Damage** 3d8+18 slashing plus 1d6 good plus 4d6 fire
+**Melee** ◆ claw +38/+34/+30 (agile, good, magical, reach <10 feet>); **Damage** 3d8+18 slashing plus 1d6 good plus 4d6 fire
 
 **Innate divine Spells** (DC 46), attack +38
 

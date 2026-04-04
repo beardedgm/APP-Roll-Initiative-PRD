@@ -9,6 +9,8 @@ uncommon, n, large, alchemical, construct, golem, mindless
 
 **Skills** Athletics +22
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 28
+
 **STR** +6, **DEX** +4, **CON** +3, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -35,9 +37,9 @@ uncommon, n, large, alchemical, construct, golem, mindless
 
 Speed 25 feet
 
-**Melee** ◆ syringe +22 (magical, reach <10 feet>); **Damage** 2d10+6 piercing plus alchemical injection plus alchemical injection
+**Melee** ◆ syringe +22/+17/+12 (magical, reach <10 feet>); **Damage** 2d10+6 piercing plus alchemical injection plus alchemical injection
 
-**Ranged** ◆ bomb +20 (magical, thrown <20 feet>); plus see Generate Bomb
+**Ranged** ◆ bomb +20/+15/+10 (magical, thrown <20 feet>); plus see Generate Bomb
 
 **Alchemical Injection** When an alchemical golem hits a creature with a syringe Strike, roll 1d6 on the alchemical chambers list to determine the additional effect of the attack. The syringe deals an additional 2d6 damage of the appropriate type (or exposes the target to the sickness effect, as appropriate).
 

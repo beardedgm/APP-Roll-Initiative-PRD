@@ -11,6 +11,8 @@ uncommon, le, gargantuan, amphibious, dragon
 
 **Skills** Acrobatics +25, Arcana +32, Athletics +30, Deception +27, Diplomacy +31, Intimidation +31, Nature +28, Occultism +34, Society +31, Stealth +29
 
+**Recall Knowledge - Dragon** (Arcana): DC 38
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** +6, **WIS** +5, **CHA** +6
 
 **Camouflage** The dragon can Hide in natural environments even if it doesn't have cover.
@@ -35,13 +37,13 @@ uncommon, le, gargantuan, amphibious, dragon
 
 Speed 50 feet, fly 200 feet, swim 50 feet, trackless step, woodland stride
 
-**Melee** ◆ jaws +33 (magical, poison, reach <20 feet>); **Damage** 3d12+15 piercing plus 4d4 poison
+**Melee** ◆ jaws +33/+28/+23 (magical, poison, reach <20 feet>); **Damage** 3d12+15 piercing plus 4d4 poison
 
-**Melee** ◆ claw +33 (agile, magical, reach <15 feet>); **Damage** 3d10+15 slashing
+**Melee** ◆ claw +33/+29/+25 (agile, magical, reach <15 feet>); **Damage** 3d10+15 slashing
 
-**Melee** ◆ tail +31 (magical, reach <25 feet>); **Damage** 3d10+13 bludgeoning
+**Melee** ◆ tail +31/+26/+21 (magical, reach <25 feet>); **Damage** 3d10+13 bludgeoning
 
-**Melee** ◆ horn +31 (magical, reach <20 feet>); **Damage** 2d10+13 piercing
+**Melee** ◆ horn +31/+26/+21 (magical, reach <20 feet>); **Damage** 2d10+13 piercing
 
 **Innate arcane Spells** (DC 39)
 

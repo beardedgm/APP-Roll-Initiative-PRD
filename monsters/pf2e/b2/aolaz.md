@@ -9,6 +9,8 @@ rare, n, gargantuan, construct
 
 **Skills** Athletics +35
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 43
+
 **STR** +9, **DEX** +4, **CON** +8, **INT** -4, **WIS** +6, **CHA** +3
 
 **Flawless Hearing** An aolaz has an incredible sense of hearing. It can hear any sound made within 1,000 feet as though it were only 5 feet away from the source of the sound, and any sound within 1 mile as though it were only 30 feet away from the source of the sound. An aolaz's hearing is a precise sense.
@@ -27,9 +29,9 @@ rare, n, gargantuan, construct
 
 Speed 50 feet, air walk, water walk
 
-**Melee** ◆ trunk +35 (magical, reach <20 feet>, sweep, trip); **Damage** 5d10+17 bludgeoning plus Grab plus Grab
+**Melee** ◆ trunk +35/+30/+25 (magical, reach <20 feet>, sweep, trip); **Damage** 5d10+17 bludgeoning plus Grab plus Grab
 
-**Melee** ◆ foot +33 (magical, reach <10 feet>); **Damage** 5d8+15 bludgeoning
+**Melee** ◆ foot +33/+28/+23 (magical, reach <10 feet>); **Damage** 5d8+15 bludgeoning
 
 **Innate arcane Spells** (DC 40)
 

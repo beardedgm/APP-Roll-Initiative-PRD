@@ -11,6 +11,8 @@ le, large, devil, fiend
 
 **Skills** Acrobatics +22, Athletics +23, Deception +25, Diplomacy +25, Intimidation +23, Religion +26, Society +25, Stealth +22, Warfare Lore +30
 
+**Recall Knowledge - Fiend** (Religion): DC 31
+
 **STR** +6, **DEX** +5, **CON** +5, **INT** +8, **WIS** +5, **CHA** +4
 
 **Items** +1 striking longspear
@@ -37,11 +39,11 @@ le, large, devil, fiend
 
 Speed 35 feet, fly 35 feet
 
-**Melee** ◆ frost longspear +28 (cold, evil, magical, reach <15 feet>); **Damage** 2d8+12 piercing plus 1d6 cold, 1d6 evil, and slowing frost plus slowing frost
+**Melee** ◆ frost longspear +28/+23/+18 (cold, evil, magical, reach <15 feet>); **Damage** 2d8+12 piercing plus 1d6 cold, 1d6 evil, and slowing frost plus slowing frost
 
-**Melee** ◆ tail +25 (agile, cold, evil, magical, reach <10 feet>); **Damage** 2d6+12 bludgeoning plus 2d6 cold, 1d6 evil, and slowing frost plus slowing frost
+**Melee** ◆ tail +25/+21/+17 (agile, cold, evil, magical, reach <10 feet>); **Damage** 2d6+12 bludgeoning plus 2d6 cold, 1d6 evil, and slowing frost plus slowing frost
 
-**Ranged** ◆ frost longspear +27 (cold, magical, thrown <20 feet>); **Damage** 2d8+12 piercing plus 1d6 cold
+**Ranged** ◆ frost longspear +27/+22/+17 (cold, magical, thrown <20 feet>); **Damage** 2d8+12 piercing plus 1d6 cold
 
 **Innate divine Spells** (DC 33)
 

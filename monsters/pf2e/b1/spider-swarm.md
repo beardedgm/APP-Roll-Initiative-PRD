@@ -9,6 +9,8 @@ n, large, animal, swarm
 
 **Skills** Acrobatics +5, Athletics +2, Stealth +5
 
+**Recall Knowledge - Animal** (Nature): DC 14
+
 **STR** -2, **DEX** +3, **CON** +0, **INT** -5, **WIS** +0, **CHA** -4
 
 **Web Sense** The spider swarm has imprecise tremorsense to detect the vibrations of creatures touching its web.

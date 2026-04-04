@@ -11,6 +11,8 @@ rare, ne, medium, undead
 
 **Skills** Athletics +25, Intimidation +24, Occultism +17, Stealth +22
 
+**Recall Knowledge - Undead** (Religion): DC 35
+
 **STR** +7, **DEX** +4, **CON** +6, **INT** -1, **WIS** +6, **CHA** +4
 
 **Items** +1 striking ranseur, platinum religious symbol of Bokrug worth 150 gp
@@ -31,9 +33,9 @@ rare, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ ranseur +26 (disarm, magical, reach); **Damage** 2d10+13 piercing plus drain life plus drain life
+**Melee** ◆ ranseur +26/+21/+16 (disarm, magical, reach); **Damage** 2d10+13 piercing plus drain life plus drain life
 
-**Melee** ◆ claw +25; **Damage** 3d6+13 bludgeoning plus drain life plus drain life
+**Melee** ◆ claw +25/+20/+15; **Damage** 3d6+13 bludgeoning plus drain life plus drain life
 
 **Innate divine Spells** (DC 29)
 

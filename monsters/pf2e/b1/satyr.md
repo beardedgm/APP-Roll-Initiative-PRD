@@ -11,6 +11,8 @@ cn, medium, fey
 
 **Skills** Athletics +8, Deception +13, Diplomacy +13, Intimidation +11, Nature +9, Performance +13, Stealth +11, Survival +8
 
+**Recall Knowledge - Fey** (Nature): DC 19
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** +1, **WIS** +2, **CHA** +5
 
 **Items** dagger, panpipes, shortbow (20 arrows), wineskin
@@ -29,11 +31,11 @@ cn, medium, fey
 
 Speed 35 feet
 
-**Melee** ◆ dagger +14 (agile, finesse, versatile <S>); **Damage** 1d4+6 piercing
+**Melee** ◆ dagger +14/+10/+6 (agile, finesse, versatile <S>); **Damage** 1d4+6 piercing
 
-**Ranged** ◆ shortbow +14 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+3 piercing
+**Ranged** ◆ shortbow +14/+9/+4 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+3 piercing
 
-**Ranged** ◆ dagger +14 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
+**Ranged** ◆ dagger +14/+10/+6 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
 
 **Innate primal Spells** (DC 21)
 

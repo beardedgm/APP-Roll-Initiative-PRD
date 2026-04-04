@@ -9,6 +9,8 @@ n, huge, animal
 
 **Skills** Athletics +17
 
+**Recall Knowledge - Animal** (Nature): DC 23
+
 **STR** +6, **DEX** +4, **CON** +6, **INT** -4, **WIS** +5, **CHA** -1
 
 **Deep Breath** The elasmosaurus can hold its breath for 2 hours.
@@ -29,9 +31,9 @@ n, huge, animal
 
 Speed 5 feet, swim 35 feet
 
-**Melee** ◆ jaws +17 (reach <15 feet>); **Damage** 2d12+10 piercing plus Grab plus Grab
+**Melee** ◆ jaws +17/+12/+7 (reach <15 feet>); **Damage** 2d12+10 piercing plus Grab plus Grab
 
-**Melee** ◆ paddle +17; **Damage** 2d6+10 bludgeoning
+**Melee** ◆ paddle +17/+12/+7; **Damage** 2d6+10 bludgeoning
 
 **Drag Below** ◆ (attack) The elasmosaurus attempts an Athletics check against a grabbed foe's Fortitude DC. If the elasmosaurus succeeds, the foe is forcibly moved 5 feet toward the elasmosaurus's body. If the elasmosaurus critically succeeds, the foe is moved 10 feet towards the elasmosaurus's body.
 

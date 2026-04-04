@@ -9,6 +9,8 @@ ne, tiny, undead
 
 **Skills** Acrobatics +7
 
+**Recall Knowledge - Undead** (Religion): DC 15
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** -3, **WIS** +3, **CHA** +0
 
 ---
@@ -27,6 +29,6 @@ ne, tiny, undead
 
 Speed 15 feet, fly 25 feet
 
-**Melee** ◆ jaws +9 (agile, finesse, reach <0 feet>); **Damage** 1d4+3 piercing plus brain rot
+**Melee** ◆ jaws +9/+5/+1 (agile, finesse, reach <0 feet>); **Damage** 1d4+3 piercing plus brain rot
 
 **Brain Rot** (disease)

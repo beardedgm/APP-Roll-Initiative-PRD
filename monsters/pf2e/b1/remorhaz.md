@@ -11,6 +11,8 @@ uncommon, n, huge, beast
 
 **Skills** Athletics +18, Stealth +13
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 25
+
 **STR** +7, **DEX** +2, **CON** +5, **INT** -3, **WIS** +1, **CHA** -2
 
 ---
@@ -29,9 +31,9 @@ uncommon, n, huge, beast
 
 Speed 35 feet, burrow 30 feet
 
-**Melee** ◆ jaws +18 (reach <15 feet>); **Damage** 2d10+9 piercing plus Grab plus Grab
+**Melee** ◆ jaws +18/+13/+8 (reach <15 feet>); **Damage** 2d10+9 piercing plus Grab plus Grab
 
-**Melee** ◆ tail +18 (fire, reach <15 feet>); **Damage** 1d10+3 bludgeoning plus 2d6 fire
+**Melee** ◆ tail +18/+13/+8 (fire, reach <15 feet>); **Damage** 1d10+3 bludgeoning plus 2d6 fire
 
 **Breath Weapon** ◆◆ (evocation, fire, primal) The remorhaz unleashes a gout of flame that deals 8d6 fire damage in a 30-foot cone (DC 26 basic Reflex save). It can't use.
 

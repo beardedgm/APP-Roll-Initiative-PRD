@@ -11,6 +11,8 @@ rare, ce, gargantuan, electricity, plant, tane
 
 **Skills** Acrobatics +33, Athletics +37, Nature +31
 
+**Recall Knowledge - Plant** (Nature): DC 44
+
 **STR** +10, **DEX** +6, **CON** +6, **INT** +2, **WIS** +6, **CHA** +6
 
 **Planar Acclimation** The sard treats the plane it is located on as its home plane.
@@ -33,13 +35,13 @@ rare, ce, gargantuan, electricity, plant, tane
 
 Speed 40 feet, climb 25 feet
 
-**Melee** ◆ trunk +37 (fatal <d12>, reach <20 feet>); **Damage** 4d6+18 bludgeoning plus 3d6 persistent electricity
+**Melee** ◆ trunk +37/+32/+27 (fatal <d12>, reach <20 feet>); **Damage** 4d6+18 bludgeoning plus 3d6 persistent electricity
 
-**Melee** ◆ branch +37 (agile, reach <20 feet>); **Damage** 4d8+18 piercing plus sard venom plus sard venom
+**Melee** ◆ branch +37/+33/+29 (agile, reach <20 feet>); **Damage** 4d8+18 piercing plus sard venom plus sard venom
 
-**Melee** ◆ root +37 (reach <10 feet>); **Damage** 4d6+18 bludgeoning plus 1d6 electricity
+**Melee** ◆ root +37/+32/+27 (reach <10 feet>); **Damage** 4d6+18 bludgeoning plus 1d6 electricity
 
-**Ranged** ◆ thorn +35 (deadly <d10>, primal, propulsive, range <180 feet>); **Damage** 4d4+16 piercing plus sard venom plus sard venom
+**Ranged** ◆ thorn +35/+30/+25 (deadly <d10>, primal, propulsive, range <180 feet>); **Damage** 4d4+16 piercing plus sard venom plus sard venom
 
 **Innate primal Spells** (DC 41)
 

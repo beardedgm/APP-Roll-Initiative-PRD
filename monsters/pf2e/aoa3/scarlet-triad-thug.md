@@ -11,6 +11,8 @@ uncommon, ce, medium, dwarf, humanoid
 
 **Skills** Acrobatics +13, Athletics +17, Intimidation +16, Survival +13, Thievery +13
 
+**Recall Knowledge - Humanoid** (Society): DC 25
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** +0, **WIS** +2, **CHA** +2
 
 **Items** chain mail, +1 flail, keys to manacles, javelin (3), average manacles (marked with the symbol of the Scarlet Triad)
@@ -31,9 +33,9 @@ uncommon, ce, medium, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ flail +18 (disarm, sweep, trip); **Damage** 2d6+10 bludgeoning
+**Melee** ◆ flail +18/+13/+8 (disarm, sweep, trip); **Damage** 2d6+10 bludgeoning
 
-**Ranged** ◆ javelin +15 (thrown <30 feet>); **Damage** 1d6+10 piercing
+**Ranged** ◆ javelin +15/+10/+5 (thrown <30 feet>); **Damage** 1d6+10 piercing
 
 **Efficient Capture** ◆◆◆ (attack, manipulate) **Requirements** The thug has manacles in hand and is next to a creature.; The thug attempts to bind the creature's wrists or ankles with the manacles. The thug must succeed at an attack roll with a +18 modifier against the target's AC.
 

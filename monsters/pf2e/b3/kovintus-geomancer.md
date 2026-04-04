@@ -11,6 +11,8 @@ n, medium, humanoid, kovintus
 
 **Skills** Athletics +8, Nature +11, Survival +9
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +3, **DEX** +3, **CON** +1, **INT** +0, **WIS** +4, **CHA** -1
 
 **Items** mace, sling (10 bullets)
@@ -31,9 +33,9 @@ n, medium, humanoid, kovintus
 
 Speed 25 feet
 
-**Melee** ◆ mace +12 (shove); **Damage** 1d6+6 bludgeoning
+**Melee** ◆ mace +12/+7/+2 (shove); **Damage** 1d6+6 bludgeoning
 
-**Ranged** ◆ sling +12 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+4 bludgeoning
+**Ranged** ◆ sling +12/+7/+2 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+4 bludgeoning
 
 **Innate primal Spells** (DC 21)
 

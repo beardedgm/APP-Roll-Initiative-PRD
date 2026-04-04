@@ -11,6 +11,8 @@ rare, ne, tiny, fiend, sahkil
 
 **Skills** Acrobatics +28, Deception +27, Intimidation +25, Religion +25, Stealth +30, Thievery +26
 
+**Recall Knowledge - Fiend** (Religion): DC 37
+
 **STR** +0, **DEX** +8, **CON** +4, **INT** +2, **WIS** +5, **CHA** +7
 
 **Ear for Secrets** A chakanaj knows when a creature within 30 feet lies unless that creature critically succeeds on its Perception check to lie to the chakanaj. This ability doesn't reveal the truth.
@@ -35,7 +37,7 @@ rare, ne, tiny, fiend, sahkil
 
 Speed 10 feet, fly 40 feet
 
-**Melee** ◆ leg +29 (agile, finesse, magical); **Damage** 3d6+14 slashing plus 2d6 evil
+**Melee** ◆ leg +29/+25/+21 (agile, finesse, magical); **Damage** 3d6+14 slashing plus 2d6 evil
 
 **Innate divine Spells** (DC 34)
 

@@ -9,6 +9,8 @@ rare, n, large, aberration, aquatic, mindless
 
 **Skills** Athletics +33
 
+**Recall Knowledge - Aberration** (Occultism): DC 43
+
 **STR** +7, **DEX** +5, **CON** +9, **INT** -5, **WIS** +0, **CHA** +0
 
 **Bloodsense** The vitalia can detect any creatures that have a heartbeat.
@@ -31,9 +33,9 @@ rare, n, large, aberration, aquatic, mindless
 
 Speed 15 feet, swim 30 feet
 
-**Melee** ◆ vein +33 (magical, reach <15 feet>); **Damage** 4d8+15 bludgeoning plus Grab plus Grab
+**Melee** ◆ vein +33/+28/+23 (magical, reach <15 feet>); **Damage** 4d8+15 bludgeoning plus Grab plus Grab
 
-**Ranged** ◆ blood squirt +33 (acid, magical, range increment <40 feet>); **Damage** 3d10 bludgeoning plus 3d10 acid
+**Ranged** ◆ blood squirt +33/+28/+23 (acid, magical, range increment <40 feet>); **Damage** 3d10 bludgeoning plus 3d10 acid
 
 **Innate occult Spells** (DC 36)
 

@@ -11,6 +11,8 @@ ln, large, aeon, monitor
 
 **Skills** Acrobatics +33, Arcana +38, Deception +34, Diplomacy +34, Occultism +38, Religion +39, Stealth +35
 
+**Recall Knowledge - Monitor** (Religion): DC 40
+
 **STR** +6, **DEX** +7, **CON** +6, **INT** +8, **WIS** +9, **CHA** +6
 
 **Envisioning** Pleromas care little for communication with other creatures, but when they do convey information, they do so wordlessly through a series of psychic projections. This acts as telepathy with a range of 100 feet but is understandable to all creatures regardless of whether they have a language, though the aeon's meaning to non-aeons can be vague and is often mysterious. An aeon can use this ability to communicate flawlessly with any other aeon on the same plane as itself.
@@ -33,9 +35,9 @@ ln, large, aeon, monitor
 
 Speed fly 40 feet, freedom of movement
 
-**Melee** ◆ energy touch +36 (agile, lawful, magical); **Damage** 5d8+18 positive or negative damage plus 1d6 lawful
+**Melee** ◆ energy touch +36/+32/+28 (agile, lawful, magical); **Damage** 5d8+18 positive or negative damage plus 1d6 lawful
 
-**Ranged** ◆ Sphere of Oblivion +37 (magical); plus see Sphere of Oblivion
+**Ranged** ◆ Sphere of Oblivion +37/+32/+27 (magical); plus see Sphere of Oblivion
 
 **Innate divine Spells** (DC 47), attack +37
 

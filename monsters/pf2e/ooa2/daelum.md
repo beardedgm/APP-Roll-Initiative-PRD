@@ -11,6 +11,8 @@ rare, n, large, construct
 
 **Skills** Athletics +11, Mining Lore +10, Survival +11
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 24
+
 **STR** +5, **DEX** +3, **CON** +5, **INT** +2, **WIS** +3, **CHA** +0
 
 **Items** pick
@@ -31,11 +33,11 @@ rare, n, large, construct
 
 Speed 25 feet
 
-**Melee** ◆ pick +13 (fatal <d10>, reach <10 feet>); **Damage** 1d6+7 piercing
+**Melee** ◆ pick +13/+8/+3 (fatal <d10>, reach <10 feet>); **Damage** 1d6+7 piercing
 
-**Melee** ◆ claw +13 (agile, reach <10 feet>); **Damage** 2d4+7 slashing
+**Melee** ◆ claw +13/+9/+5 (agile, reach <10 feet>); **Damage** 2d4+7 slashing
 
-**Melee** ◆ hoof +13; **Damage** 2d6+7 bludgeoning
+**Melee** ◆ hoof +13/+8/+3; **Damage** 2d6+7 bludgeoning
 
 **Belly Hatch** The daelum can Interact to stow or remove an item from their belly hatch, which can hold up to 10 Bulk.
 

@@ -11,6 +11,8 @@ uncommon, n, medium, human, humanoid
 
 **Skills** Acrobatics +28, Athletics +22, Deception +24, Stealth +26, Lore +22 (any one terrain)
 
+**Recall Knowledge - Humanoid** (Society): DC 33
+
 **STR** +3, **DEX** +5, **CON** +3, **INT** +1, **WIS** +2, **CHA** +3
 
 **Items** +1 resilient leather armor, +1 striking sai, +1 striking returning shuriken (5)
@@ -29,9 +31,9 @@ uncommon, n, medium, human, humanoid
 
 Speed 35 feet
 
-**Melee** ◆ sai +27 (agile, disarm, finesse, magical, monk, versatile <B>); **Damage** 2d4+9 piercing
+**Melee** ◆ sai +27/+23/+19 (agile, disarm, finesse, magical, monk, versatile <B>); **Damage** 2d4+9 piercing
 
-**Ranged** ◆ shuriken +27 (agile, magical, reload <0>, thrown <20 feet>); **Damage** 2d4+11 piercing
+**Ranged** ◆ shuriken +27/+23/+19 (agile, magical, reload <0>, thrown <20 feet>); **Damage** 2d4+11 piercing
 
 **Deadly Disarm** The agile warrior deals 2d6 precision damage to a creature on a successful Disarm attempt.
 

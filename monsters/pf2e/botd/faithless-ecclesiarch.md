@@ -11,6 +11,8 @@ uncommon, ne, medium, undead
 
 **Skills** Athletics +11, Deception +14, Intimidation +14, Nethys Lore +14, Religion +14, Stealth +13
 
+**Recall Knowledge - Undead** (Religion): DC 24
+
 **STR** +3, **DEX** +3, **CON** +2, **INT** +2, **WIS** +4, **CHA** +4
 
 **Items** defiled religious symbol of Nethys, +1 staff
@@ -33,7 +35,7 @@ uncommon, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ staff +14 (magical, two-hand <d8>); **Damage** 1d4+5 bludgeoning plus heretic's smite
+**Melee** ◆ staff +14/+9/+4 (magical, two-hand <d8>); **Damage** 1d4+5 bludgeoning plus heretic's smite
 
 **Prepared divine Spells** (DC 24), attack +16
 

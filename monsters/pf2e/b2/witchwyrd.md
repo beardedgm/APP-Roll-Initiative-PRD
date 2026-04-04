@@ -11,6 +11,8 @@ uncommon, ln, medium, humanoid
 
 **Skills** Arcana +16, Deception +15, Diplomacy +15, Intimidation +15, Desert Lore +14, Notes one or more Lore skills related to a specific plane
 
+**Recall Knowledge - Humanoid** (Society): DC 24
+
 **STR** +3, **DEX** +3, **CON** +1, **INT** +4, **WIS** +3, **CHA** +5
 
 **Items** +1 ranseur
@@ -31,9 +33,9 @@ uncommon, ln, medium, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ ranseur +16 (disarm, magical, reach <10 feet>); **Damage** 1d10+6 piercing
+**Melee** ◆ ranseur +16/+11/+6 (disarm, magical, reach <10 feet>); **Damage** 1d10+6 piercing
 
-**Melee** ◆ fist +15 (agile, nonlethal); **Damage** 1d6+6 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +15/+11/+7 (agile, nonlethal); **Damage** 1d6+6 bludgeoning plus Grab plus Grab
 
 **Innate arcane Spells** (DC 23)
 

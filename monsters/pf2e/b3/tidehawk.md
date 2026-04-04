@@ -11,6 +11,8 @@ rare, n, huge, amphibious, beast, water
 
 **Skills** Acrobatics +23, Athletics +21, Nature +24
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 35
+
 **STR** +5, **DEX** +7, **CON** +5, **INT** +4, **WIS** +6, **CHA** +4
 
 ---
@@ -29,11 +31,11 @@ rare, n, huge, amphibious, beast, water
 
 Speed 25 feet, fly 50 feet, swim 50 feet
 
-**Melee** ◆ beak +26 (finesse, magical, reach <15 feet>); **Damage** 3d12+11 piercing
+**Melee** ◆ beak +26/+21/+16 (finesse, magical, reach <15 feet>); **Damage** 3d12+11 piercing
 
-**Melee** ◆ talon +26 (agile, finesse, magical, reach <15 feet>); **Damage** 3d8+11 slashing
+**Melee** ◆ talon +26/+22/+18 (agile, finesse, magical, reach <15 feet>); **Damage** 3d8+11 slashing
 
-**Ranged** ◆ break swell +26 (range increment <30 feet>); **Damage** 3d8+11 bludgeoning plus Knockdown (page 305) plus Knockdown
+**Ranged** ◆ break swell +26/+21/+16 (range increment <30 feet>); **Damage** 3d8+11 bludgeoning plus Knockdown (page 305) plus Knockdown
 
 **Innate primal Spells** (DC 32)
 

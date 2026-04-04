@@ -11,6 +11,8 @@ rare, n, gargantuan, plant
 
 **Skills** Athletics +37, Diplomacy +35, Intimidation +35, Nature +40, Stealth +31, Forest Lore +35
 
+**Recall Knowledge - Plant** (Nature): DC 44
+
 **STR** +10, **DEX** +4, **CON** +9, **INT** +6, **WIS** +8, **CHA** +5
 
 ---
@@ -31,11 +33,11 @@ rare, n, gargantuan, plant
 
 Speed 40 feet
 
-**Melee** ◆ branch +37 (reach <15 feet>); **Damage** 4d12+18 bludgeoning and Improved Push 20 feet
+**Melee** ◆ branch +37/+32/+27 (reach <15 feet>); **Damage** 4d12+18 bludgeoning and Improved Push 20 feet
 
-**Melee** ◆ root +37 (reach <30 feet>); **Damage** 4d8+18 bludgeoning plus Trip plus Trip
+**Melee** ◆ root +37/+32/+27 (reach <30 feet>); **Damage** 4d8+18 bludgeoning plus Trip plus Trip
 
-**Melee** ◆ vine +37 (agile, reach <40 feet>); **Damage** 4d6+18 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ vine +37/+33/+29 (agile, reach <40 feet>); **Damage** 4d6+18 bludgeoning plus Improved Grab plus Improved Grab
 
 **Innate primal Spells** (DC 38)
 

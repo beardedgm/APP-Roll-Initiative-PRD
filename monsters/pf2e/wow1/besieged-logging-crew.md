@@ -11,6 +11,8 @@ gargantuan, human, humanoid, troop
 
 **Skills** Acrobatics +9, Athletics +12, Lumber Lore +10, Nature +8, Survival +10
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +3, **DEX** +2, **CON** +2, **INT** +1, **WIS** +2, **CHA** +1
 
 ---

@@ -11,6 +11,8 @@ uncommon, le, medium, undead
 
 **Skills** Athletics +28, Deception +26, Intimidation +28, Religion +24, Society +25, Warfare Lore +27
 
+**Recall Knowledge - Undead** (Religion): DC 34
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** +3, **WIS** +4, **CHA** +6
 
 **Items** +1 resilient full plate, heavy crossbow (20 bolts), war flail
@@ -37,11 +39,11 @@ uncommon, le, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ war flail +29 (disarm, electricity, magical, sweep, trip); **Damage** 3d10+14 bludgeoning plus 1d6 electricity
+**Melee** ◆ war flail +29/+24/+19 (disarm, electricity, magical, sweep, trip); **Damage** 3d10+14 bludgeoning plus 1d6 electricity
 
-**Melee** ◆ fist +29 (agile, electricity, magical); **Damage** 3d6+14 bludgeoning plus 1d6 electricity
+**Melee** ◆ fist +29/+25/+21 (agile, electricity, magical); **Damage** 3d6+14 bludgeoning plus 1d6 electricity
 
-**Ranged** ◆ heavy crossbow +25 (electricity, magical, range increment <120 feet>, reload <2>); **Damage** 3d10+6 piercing plus 1d6 electricity
+**Ranged** ◆ heavy crossbow +25/+20/+15 (electricity, magical, range increment <120 feet>, reload <2>); **Damage** 3d10+6 piercing plus 1d6 electricity
 
 **Devastating Blast** ◆◆ (arcane, electricity, evocation) The graveknight unleashes a 30-foot cone of lightning. Creatures in the area take 8d12 electricity damage (DC 34 basic Reflex save). The graveknight can use this ability once every 1d4 rounds.
 

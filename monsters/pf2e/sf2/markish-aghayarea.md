@@ -11,6 +11,8 @@ unique, ne, large, undead
 
 **Skills** Arcana +29, Athletics +28, Deception +28, Intimidation +30, Occultism +29, Society +27, Stealth +29
 
+**Recall Knowledge - Undead** (Religion): DC 44
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** +6, **WIS** +4, **CHA** +5
 
 **Items** The Beating|SF2, jewelry worth 2,000 gp, +2 greater striking shock thundering trident
@@ -35,9 +37,9 @@ unique, ne, large, undead
 
 Speed 30 feet, fly 30 feet, swim 40 feet
 
-**Melee** ◆ trident +30 (magical, thrown <20 feet>); **Damage** 3d8+15 piercing plus 1d6 electricity and 1d6 sonic
+**Melee** ◆ trident +30/+25/+20 (magical, thrown <20 feet>); **Damage** 3d8+15 piercing plus 1d6 electricity and 1d6 sonic
 
-**Melee** ◆ claw +28 (agile, reach <10 feet>); **Damage** 3d8+15 slashing plus drain life
+**Melee** ◆ claw +28/+24/+20 (agile, reach <10 feet>); **Damage** 3d8+15 slashing plus drain life
 
 **Innate arcane Spells** (DC 36), attack +29
 

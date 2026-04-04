@@ -11,6 +11,8 @@ rare, le, medium, human, humanoid
 
 **Skills** Arcana +32, Crafting +32, Deception +36, Diplomacy +32, Intimidation +32, Occultism +34, Performance +32, Religion +32, Society +34
 
+**Recall Knowledge - Humanoid** (Society): DC 43
+
 **STR** +1, **DEX** +3, **CON** +0, **INT** +6, **WIS** +4, **CHA** +6
 
 **Items** +1 resilient chain shirt, silver veil, +2 greater striking dagger
@@ -33,9 +35,9 @@ rare, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +32 (agile, finesse, versatile S); **Damage** 3d4+8 piercing
+**Melee** ◆ dagger +32/+28/+24 (agile, finesse, versatile S); **Damage** 3d4+8 piercing
 
-**Ranged** ◆ dagger +32 (agile, thrown <10 feet>, versatile S); **Damage** 3d4+8 piercing
+**Ranged** ◆ dagger +32/+28/+24 (agile, thrown <10 feet>, versatile S); **Damage** 3d4+8 piercing
 
 **Prepared divine Spells** (DC 40), attack +32
 

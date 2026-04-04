@@ -11,6 +11,8 @@ uncommon, ce, gargantuan, aberration
 
 **Skills** Acrobatics +25, Athletics +28, Deception +29, Diplomacy +27, Intimidation +29, Occultism +29
 
+**Recall Knowledge - Aberration** (Occultism): DC 36
+
 **STR** +9, **DEX** +4, **CON** +6, **INT** +8, **WIS** +6, **CHA** +8
 
 **Thoughtsense** (divination, mental, occult) The neothelid uses its mind as a precise sense at the listed range to notice all non-mindless creatures.
@@ -35,9 +37,9 @@ uncommon, ce, gargantuan, aberration
 
 Speed 30 feet, fly 50 feet
 
-**Melee** ◆ jaws +28 (reach <15 feet>); **Damage** 3d12+13 piercing plus Improved Grab
+**Melee** ◆ jaws +28/+23/+18 (reach <15 feet>); **Damage** 3d12+13 piercing plus Improved Grab
 
-**Melee** ◆ rasping tongue +28 (agile, fatal <d10>, reach <25 feet>); **Damage** 3d8+13 slashing
+**Melee** ◆ rasping tongue +28/+24/+20 (agile, fatal <d10>, reach <25 feet>); **Damage** 3d8+13 slashing
 
 **Innate occult Spells** (DC 38), attack +30
 

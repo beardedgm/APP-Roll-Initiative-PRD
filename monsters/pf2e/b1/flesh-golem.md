@@ -9,6 +9,8 @@ uncommon, n, large, construct, golem, mindless
 
 **Skills** Athletics +19
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 26
+
 **STR** +5, **DEX** -1, **CON** +3, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -35,6 +37,6 @@ uncommon, n, large, construct, golem, mindless
 
 Speed 25 feet
 
-**Melee** ◆ fist +20 (magical, reach <10 feet>); **Damage** 2d10+7 bludgeoning
+**Melee** ◆ fist +20/+15/+10 (magical, reach <10 feet>); **Damage** 2d10+7 bludgeoning
 
 **Berserk Slam** ◆ **Requirements** The flesh golem is berserk.; The flesh golem Strikes with its fist at a –1 circumstance penalty. If it hits, it deals 1d6 extra damage and knocks the target prone.

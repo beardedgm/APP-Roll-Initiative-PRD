@@ -9,6 +9,8 @@ n, huge, animal
 
 **Skills** Athletics +14, Stealth +13
 
+**Recall Knowledge - Animal** (Nature): DC 20
+
 **STR** +7, **DEX** +2, **CON** +5, **INT** -4, **WIS** +3, **CHA** +0
 
 **Aquatic Echolocation** An orca can use its hearing as a precise sense at the listed range, but only underwater.
@@ -27,7 +29,7 @@ n, huge, animal
 
 Speed swim 60 feet
 
-**Melee** ◆ jaws +13; **Damage** 2d8+9 piercing plus Grab plus Grab
+**Melee** ◆ jaws +13/+8/+3; **Damage** 2d8+9 piercing plus Grab plus Grab
 
 **Aquatic Ambush** ◆ 30 feet. An orca can travel no further than 5 feet onto land as part of an Aquatic Ambush. After it does so, it is prone until it Crawls to return to the water.
 

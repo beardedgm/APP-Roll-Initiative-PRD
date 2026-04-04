@@ -11,6 +11,8 @@ uncommon, large, plant
 
 **Skills** Athletics +17, Stealth +13
 
+**Recall Knowledge - Plant** (Nature): DC 25
+
 **STR** +6, **DEX** +1, **CON** +5, **INT** -2, **WIS** +3, **CHA** -1
 
 ---
@@ -31,7 +33,7 @@ uncommon, large, plant
 
 Speed 20 feet, swim 20 feet
 
-**Melee** ◆ vine +18 (reach <10 feet>); **Damage** 2d10+8 bludgeoning plus Grab
+**Melee** ◆ vine +18/+13/+8 (reach <10 feet>); **Damage** 2d10+8 bludgeoning plus Grab
 
 **Lightning Blast** ◆◆ **Requirements** The stormdrinker is quickened due to Absorb Shock; The stormdrinker dismisses its Absorb Shock benefits to expel lightning in a 60-foot line, dealing 8d6 electricity damage (DC 25 basic Reflex save).
 

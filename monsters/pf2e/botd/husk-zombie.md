@@ -11,6 +11,8 @@ ne, medium, undead, zombie
 
 **Skills** Athletics +8, Deception +6, Intimidation +6, Stealth +7
 
+**Recall Knowledge - Undead** (Religion): DC 16
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** -1, **WIS** +1, **CHA** +0
 
 **Items** shortsword
@@ -33,9 +35,9 @@ ne, medium, undead, zombie
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +11 (agile, versatile S); **Damage** 1d6+4 piercing
+**Melee** ◆ shortsword +11/+7/+3 (agile, versatile S); **Damage** 1d6+4 piercing
 
-**Melee** ◆ fist +11 (agile); **Damage** 1d8+4 bludgeoning
+**Melee** ◆ fist +11/+7/+3 (agile); **Damage** 1d8+4 bludgeoning
 
 **Sneak Attack** The husk zombie deals an additional 1d6 precision damage to flat-footed creatures.
 

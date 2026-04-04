@@ -11,6 +11,8 @@ n, large, beast
 
 **Skills** Athletics +24, Intimidation +23, Religion +25, Survival +23
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 30
+
 **STR** +6, **DEX** +5, **CON** +6, **INT** +3, **WIS** +7, **CHA** +3
 
 **Items** +1 resilient hide armor
@@ -29,9 +31,9 @@ n, large, beast
 
 Speed 40 feet
 
-**Melee** ◆ pincer +24 (agile); **Damage** 3d8+12 bludgeoning plus Grab plus Grab
+**Melee** ◆ pincer +24/+20/+16 (agile); **Damage** 3d8+12 bludgeoning plus Grab plus Grab
 
-**Melee** ◆ stinger +24 (reach <10 feet>); **Damage** 3d6+12 piercing plus girtablilu venom plus girtablilu venom
+**Melee** ◆ stinger +24/+19/+14 (reach <10 feet>); **Damage** 3d6+12 piercing plus girtablilu venom plus girtablilu venom
 
 **Spontaneous divine Spells** (DC 33)
 

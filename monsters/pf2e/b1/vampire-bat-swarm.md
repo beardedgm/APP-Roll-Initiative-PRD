@@ -9,6 +9,8 @@ n, large, animal, swarm
 
 **Skills** Acrobatics +7, Athletics +4, Stealth +7
 
+**Recall Knowledge - Animal** (Nature): DC 15
+
 **STR** +1, **DEX** +4, **CON** +1, **INT** -4, **WIS** +3, **CHA** -3
 
 **Echolocation** A bat swarm can use its hearing as a precise sense at the listed range.

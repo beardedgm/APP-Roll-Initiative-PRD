@@ -11,6 +11,8 @@ rare, le, medium, shadow, undead, vampire
 
 **Skills** Acrobatics +25, Arcana +23, Athletics +25, Crafting +23, Deception +26, Religion +22, Stealth +27, Thassilon Lore +24
 
+**Recall Knowledge - Undead** (Religion): DC 36
+
 **STR** +8, **DEX** +8, **CON** +5, **INT** +5, **WIS** +4, **CHA** +5
 
 **Items** +1 resilient studded leather armor, religious symbol
@@ -35,7 +37,7 @@ rare, le, medium, shadow, undead, vampire
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ claws +25 (agile, magical); **Damage** 3d8+14 slashing plus Grab
+**Melee** ◆ claws +25/+21/+17 (agile, magical); **Damage** 3d8+14 slashing plus Grab
 
 **Spontaneous divine Spells** (DC 33), attack +25
 

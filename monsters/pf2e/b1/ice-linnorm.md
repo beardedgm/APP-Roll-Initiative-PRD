@@ -11,6 +11,8 @@ uncommon, ce, gargantuan, cold, dragon
 
 **Skills** Acrobatics +28, Athletics +32
 
+**Recall Knowledge - Dragon** (Arcana): DC 38
+
 **STR** +9, **DEX** +5, **CON** +7, **INT** -3, **WIS** +6, **CHA** +7
 
 ---
@@ -33,11 +35,11 @@ uncommon, ce, gargantuan, cold, dragon
 
 Speed 35 feet, fly 100 feet, swim 40 feet, freedom of movement
 
-**Melee** ◆ jaws +34 (reach <25 feet>, magical); **Damage** 3d12+17 piercing plus ice linnorm venom plus ice linnorm venom
+**Melee** ◆ jaws +34/+29/+24 (reach <25 feet>, magical); **Damage** 3d12+17 piercing plus ice linnorm venom plus ice linnorm venom
 
-**Melee** ◆ claw +34 (reach <20 feet>, agile, magical); **Damage** 3d8+17 slashing
+**Melee** ◆ claw +34/+30/+26 (reach <20 feet>, agile, magical); **Damage** 3d8+17 slashing
 
-**Melee** ◆ tail +34 (reach <25 feet>, agile, magical); **Damage** 3d6+17 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tail +34/+30/+26 (reach <25 feet>, agile, magical); **Damage** 3d6+17 bludgeoning plus Improved Grab plus Improved Grab
 
 **Innate primal Spells** (DC 38)
 

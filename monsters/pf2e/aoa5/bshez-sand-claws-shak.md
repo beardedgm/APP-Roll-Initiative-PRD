@@ -9,6 +9,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Acrobatics +30, Athletics +30, Deception +28, Intimidation +33, Performance +33, Society +28
 
+**Recall Knowledge - Humanoid** (Society): DC 46
+
 **STR** +6, **DEX** +8, **CON** +5, **INT** +3, **WIS** +3, **CHA** +5
 
 **Items** +2 greater striking javelin, +2 greater striking thundering kukri (2), potion of flying, potion of quickness, +2 resilient scale mail
@@ -29,9 +31,9 @@ unique, ne, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ thundering kukri +35 (agile, finesse, magical, trip); **Damage** 3d6+14 slashing plus 1d6 sonic
+**Melee** ◆ thundering kukri +35/+31/+27 (agile, finesse, magical, trip); **Damage** 3d6+14 slashing plus 1d6 sonic
 
-**Ranged** ◆ javelin +35 (magical, thrown <30 feet>); **Damage** 3d6+14 piercing
+**Ranged** ◆ javelin +35/+30/+25 (magical, thrown <30 feet>); **Damage** 3d6+14 piercing
 
 **Graceful Double Slice** ◆◆ Bshez makes two Strikes, one with each kukri, using her current multiple attack penalty. If both attacks hit, combine their damage and add any applicable effects from both weapons. This counts as one attack when calculating her multiple attack penalty.
 

@@ -11,6 +11,8 @@ rare, le, medium, fire, undead
 
 **Skills** Acrobatics +23, Athletics +21, Religion +19, Stealth +23, Survival +19
 
+**Recall Knowledge - Undead** (Religion): DC 33
+
 **STR** +4, **DEX** +6, **CON** +1, **INT** +3, **WIS** +2, **CHA** -1
 
 **Items** +2 greater striking returning dagger, religious symbol of Walkena|LOGM,
@@ -35,11 +37,11 @@ rare, le, medium, fire, undead
 
 Speed 35 feet
 
-**Melee** ◆ dagger +22 (agile, finesse, magical, versatile S); **Damage** 3d4+6 piercing plus 1d6 fire
+**Melee** ◆ dagger +22/+18/+14 (agile, finesse, magical, versatile S); **Damage** 3d4+6 piercing plus 1d6 fire
 
-**Melee** ◆ fist +22 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+6 bludgeoning plus 1d6 fire
+**Melee** ◆ fist +22/+18/+14 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+6 bludgeoning plus 1d6 fire
 
-**Ranged** ◆ dagger +22 (agile, magical, thrown <10 feet>, versatile S); **Damage** 3d4+6 piercing plus 1d6 fire
+**Ranged** ◆ dagger +22/+18/+14 (agile, magical, thrown <10 feet>, versatile S); **Damage** 3d4+6 piercing plus 1d6 fire
 
 **Innate divine Spells** (DC 27), attack +19
 

@@ -9,6 +9,8 @@ ne, medium, animal
 
 **Skills** Acrobatics +10, Athletics +15, Survival +15
 
+**Recall Knowledge - Animal** (Nature): DC 22
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** -4, **WIS** +2, **CHA** -2
 
 **Bloodsense** The blood boar can precisely sense bleeding creatures within 60 feet.
@@ -29,7 +31,7 @@ ne, medium, animal
 
 Speed 40 feet
 
-**Melee** ◆ jaws +17; **Damage** 2d8+8 piercing
+**Melee** ◆ jaws +17/+12/+7; **Damage** 2d8+8 piercing
 
 **Chase Down** ◆ The blood boar Strides toward its quarry, ignoring terrain and gaining a +10-foot circumstance bonus to its Speed during the movement.
 

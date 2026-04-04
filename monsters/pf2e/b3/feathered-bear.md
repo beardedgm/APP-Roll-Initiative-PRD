@@ -11,6 +11,8 @@ n, large, beast, incorporeal, spirit
 
 **Skills** Athletics +23, Intimidation +20, Survival +16
 
+**Recall Knowledge - Beast** (Arcana, Nature, Religion): DC 27
+
 **STR** +7, **DEX** +2, **CON** +5, **INT** +0, **WIS** +2, **CHA** +3
 
 ---
@@ -31,9 +33,9 @@ n, large, beast, incorporeal, spirit
 
 Speed 35 feet
 
-**Melee** ◆ jaws +21 (magical); **Damage** 3d10+9 force
+**Melee** ◆ jaws +21/+16/+11 (magical); **Damage** 3d10+9 force
 
-**Melee** ◆ claw +21 (agile, magical); **Damage** 3d6+9 force plus Grab plus Grab
+**Melee** ◆ claw +21/+17/+13 (agile, magical); **Damage** 3d6+9 force plus Grab plus Grab
 
 **Innate primal Spells** (DC 27)
 

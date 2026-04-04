@@ -11,6 +11,8 @@ ne, tiny, daemon, fiend
 
 **Skills** Acrobatics +8, Deception +5, Religion +6, Stealth +8
 
+**Recall Knowledge - Fiend** (Religion): DC 15
+
 **STR** +0, **DEX** +3, **CON** +2, **INT** -1, **WIS** +1, **CHA** +2
 
 ---
@@ -27,7 +29,7 @@ ne, tiny, daemon, fiend
 
 Speed 5 feet, fly 40 feet
 
-**Melee** ◆ jaws +8 (agile, disease, evil, finesse, magical); **Damage** 1d8 piercing plus 1d4 evil and cacodaemonia plus cacodaemonia
+**Melee** ◆ jaws +8/+4/+0 (agile, disease, evil, finesse, magical); **Damage** 1d8 piercing plus 1d4 evil and cacodaemonia plus cacodaemonia
 
 **Innate divine Spells** (DC 17)
 

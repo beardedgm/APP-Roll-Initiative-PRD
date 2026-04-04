@@ -11,6 +11,8 @@ unique, cn, large, cold, humanoid
 
 **Skills** Athletics +28, Medicine +24, Nature +26, Stealth +24
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** +2, **WIS** +5, **CHA** +0
 
 **Items** 
@@ -37,9 +39,9 @@ unique, cn, large, cold, humanoid
 
 Speed 35 feet
 
-**Melee** ◆ greataxe +29 (cold, sweep); **Damage** 3d12+11 slashing plus 1d8 cold
+**Melee** ◆ greataxe +29/+24/+19 (cold, sweep); **Damage** 3d12+11 slashing plus 1d8 cold
 
-**Melee** ◆ horns +28 (agile, cold); **Damage** 3d10+11 piercing plus 1d8 cold and Knockdown plus Knockdown
+**Melee** ◆ horns +28/+24/+20 (agile, cold); **Damage** 3d10+11 piercing plus 1d8 cold and Knockdown plus Knockdown
 
 **Innate primal Spells** (DC 34)
 

@@ -9,6 +9,8 @@ uncommon, ce, huge, aberration, amphibious, swarm
 
 **Skills** Athletics +20
 
+**Recall Knowledge - Aberration** (Occultism): DC 29
+
 **STR** +4, **DEX** +6, **CON** +5, **INT** -4, **WIS** +1, **CHA** -2
 
 ---

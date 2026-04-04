@@ -11,6 +11,8 @@ uncommon, ln, large, fey
 
 **Skills** Deception +23, Nature +21, Occultism +18, Stealth +23
 
+**Recall Knowledge - Fey** (Nature): DC 29
+
 **STR** +6, **DEX** +5, **CON** +5, **INT** +2, **WIS** +5, **CHA** +7
 
 ---
@@ -35,9 +37,9 @@ uncommon, ln, large, fey
 
 Speed 20 feet
 
-**Melee** ◆ candle fingers +20 (fire, magical, reach <10 feet>); **Damage** 3d10+5 fire
+**Melee** ◆ candle fingers +20/+15/+10 (fire, magical, reach <10 feet>); **Damage** 3d10+5 fire
 
-**Melee** ◆ claw +22 (agile, magical, reach <10 feet>); **Damage** 2d8+9 slashing plus Grab plus Grab
+**Melee** ◆ claw +22/+18/+14 (agile, magical, reach <10 feet>); **Damage** 2d8+9 slashing plus Grab plus Grab
 
 **Innate occult Spells** (DC 29), attack +23
 

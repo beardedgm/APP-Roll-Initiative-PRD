@@ -11,6 +11,8 @@ uncommon, n, medium, human, humanoid
 
 **Skills** Acrobatics +26, Athletics +22, Stealth +24, Survival +21
 
+**Recall Knowledge - Humanoid** (Society): DC 33
+
 **STR** +3, **DEX** +5, **CON** +4, **INT** +3, **WIS** +2, **CHA** +0
 
 ---
@@ -25,9 +27,9 @@ uncommon, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ fist +24 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+7 bludgeoning
+**Melee** ◆ fist +24/+20/+16 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+7 bludgeoning
 
-**Ranged** ◆ composite longbow +27 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 3d8+7 piercing
+**Ranged** ◆ composite longbow +27/+22/+17 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 3d8+7 piercing
 
 **Pinning Shot** ◆ The archery specialist makes a longbow Strike. If the attack hits, it deals no damage and instead imparts the bow critical specialization effect. If the attack is a critical hit, the target must succeed at two separate Interact actions to pull the missile free.
 

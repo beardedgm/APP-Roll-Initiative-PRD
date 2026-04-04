@@ -11,6 +11,8 @@ unique, ne, small, halfling, humanoid
 
 **Skills** Acrobatics +19, Arcana +16, Crafting +16, Deception +22, Diplomacy +20, Intimidation +20, Occultism +16, Society +18, Stealth +21, Thievery +19
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +0, **DEX** +4, **CON** +1, **INT** +1, **WIS** +3, **CHA** +5
 
 **Items** daggers (3), slime whip|Sli, 
@@ -31,11 +33,11 @@ unique, ne, small, halfling, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ slime whip +21 (disarm, finesse, reach <10 feet>, trip); **Damage** 2d4+10 slashing
+**Melee** ◆ slime whip +21/+16/+11 (disarm, finesse, reach <10 feet>, trip); **Damage** 2d4+10 slashing
 
-**Melee** ◆ dagger +20 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+10 piercing
+**Melee** ◆ dagger +20/+16/+12 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+10 piercing
 
-**Ranged** ◆ dagger +20 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+10 piercing
+**Ranged** ◆ dagger +20/+16/+12 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+10 piercing
 
 **Spontaneous occult Spells** (DC 28), attack +21
 

@@ -9,6 +9,8 @@ n, large, animal, aquatic
 
 **Skills** Athletics +8
 
+**Recall Knowledge - Animal** (Nature): DC 15
+
 **STR** +3, **DEX** +3, **CON** +4, **INT** -4, **WIS** +1, **CHA** -1
 
 **Electrolocation** A stingray in water can use its electrolocation as an imprecise sense at the listed range to detect living creatures that are in the same body of water as itself.
@@ -25,6 +27,6 @@ n, large, animal, aquatic
 
 Speed swim 40 feet
 
-**Melee** ◆ tail +8 (agile); **Damage** 1d8+3 bludgeoning
+**Melee** ◆ tail +8/+4/+0 (agile); **Damage** 1d8+3 bludgeoning
 
 **Swift Swimmer** ◆◆ The manta ray Swims twice. It has a +10-foot circumstance bonus to its Speed during these actions.

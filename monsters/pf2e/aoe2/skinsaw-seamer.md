@@ -11,6 +11,8 @@ rare, le, medium, human, humanoid
 
 **Skills** Acrobatics +18, Athletics +17, Deception +16, Religion +17, Thievery +16, Norgorber Lore +16
 
+**Recall Knowledge - Humanoid** (Society): DC 29
+
 **STR** +3, **DEX** +4, **CON** +0, **INT** +2, **WIS** +3, **CHA** +2
 
 ---
@@ -27,11 +29,11 @@ rare, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ war razor +20 (agile, backstabber, deadly <d8>, finesse); **Damage** 1d4+7 piercing
+**Melee** ◆ war razor +20/+16/+12 (agile, backstabber, deadly <d8>, finesse); **Damage** 1d4+7 piercing
 
-**Melee** ◆ shortsword +18 (agile, finesse, magical, versatile <S>); **Damage** 2d6+7 piercing
+**Melee** ◆ shortsword +18/+14/+10 (agile, finesse, magical, versatile <S>); **Damage** 2d6+7 piercing
 
-**Ranged** ◆ dagger +20 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
+**Ranged** ◆ dagger +20/+16/+12 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
 
 **Flay** ◆ **Requirements** The Skinsaw seamer dealt damage with a melee weapon other than its war razor with their last action; The seamer makes a war razor Strike against the same creature that they just damaged. On a hit, the seamer slices a strip of flesh from the target and deals 1d6 persistent bleed damage in addition to the war razor's usual damage.
 

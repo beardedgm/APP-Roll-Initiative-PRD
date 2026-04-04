@@ -11,6 +11,8 @@ uncommon, le, medium, undead
 
 **Skills** Athletics +16, Intimidation +15, Survival +12, Warfare Lore +12
 
+**Recall Knowledge - Undead** (Religion): DC 24
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** +1, **WIS** +2, **CHA** +3
 
 **Items** +1 full plate, graveknight's shield (Hardness 8, HP 64, BT 32), shock warhammer
@@ -33,9 +35,9 @@ uncommon, le, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ warhammer +16 (electricity, magical, shove); **Damage** 2d8+7 bludgeoning plus 1d6 electricity
+**Melee** ◆ warhammer +16/+11/+6 (electricity, magical, shove); **Damage** 2d8+7 bludgeoning plus 1d6 electricity
 
-**Melee** ◆ fist +15 (agile, electricity); **Damage** 2d4+7 bludgeoning plus 1d6 electricity
+**Melee** ◆ fist +15/+11/+7 (agile, electricity); **Damage** 2d4+7 bludgeoning plus 1d6 electricity
 
 **Devastating Blast** ◆◆ (arcane, electricity, evocation) 4d12 electricity, DC 24; as graveknight.
 

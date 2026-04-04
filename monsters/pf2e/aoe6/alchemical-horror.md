@@ -9,6 +9,8 @@ ne, huge, aberration
 
 **Skills** Athletics +39
 
+**Recall Knowledge - Aberration** (Occultism): DC 42
+
 **STR** +10, **DEX** +5, **CON** +9, **INT** -3, **WIS** +0, **CHA** +0
 
 ---
@@ -27,9 +29,9 @@ ne, huge, aberration
 
 Speed 20 feet, swim 50 feet
 
-**Melee** ◆ jaws +39 (acid, magical, reach <10 feet>); **Damage** 4d8+18 bludgeoning plus 2d6 acid and Grab plus Grab
+**Melee** ◆ jaws +39/+34/+29 (acid, magical, reach <10 feet>); **Damage** 4d8+18 bludgeoning plus 2d6 acid and Grab plus Grab
 
-**Melee** ◆ pseudopod +37 (acid, magical, reach <15 feet>); **Damage** 4d10+18 bludgeoning plus 2d6 acid
+**Melee** ◆ pseudopod +37/+32/+27 (acid, magical, reach <15 feet>); **Damage** 4d10+18 bludgeoning plus 2d6 acid
 
 **Alchemical Torrent** ◆◆ (acid, evocation, primal) The alchemical horror spews a torrent of alchemical fluids in a 30-foot cone that deals 20d6 acid damage to creatures in the area (DC 43 basic Reflex save). The alchemical horror can't use this ability again for 1d4 rounds.
 

@@ -11,6 +11,8 @@ ng, large, plant
 
 **Skills** Athletics +13, Stealth +9
 
+**Recall Knowledge - Plant** (Nature): DC 19
+
 **STR** +5, **DEX** +1, **CON** +3, **INT** +1, **WIS** +3, **CHA** +1
 
 **Items** large bark shield (Hardness 3, Hit Points 20, BT 10), stone longsword
@@ -37,8 +39,8 @@ ng, large, plant
 
 Speed 25 feet
 
-**Melee** ◆ stone longsword +13 (reach <10 feet>); **Damage** 1d8+10 bludgeoning
+**Melee** ◆ stone longsword +13/+8/+3 (reach <10 feet>); **Damage** 1d8+10 bludgeoning
 
-**Melee** ◆ shield bash +13; **Damage** 1d6+10 bludgeoning
+**Melee** ◆ shield bash +13/+8/+3; **Damage** 1d6+10 bludgeoning
 
 **Shield Push** ◆◆ The arboreal warden Strides and then makes a shield bash Strike. If the attack hits, the target is pushed 10 feet.

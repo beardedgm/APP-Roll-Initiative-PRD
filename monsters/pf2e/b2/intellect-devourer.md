@@ -11,6 +11,8 @@ uncommon, ce, small, aberration
 
 **Skills** Athletics +14, Deception +20, Diplomacy +16, Occultism +17, Society +17, Stealth +18
 
+**Recall Knowledge - Aberration** (Occultism): DC 26
+
 **STR** +2, **DEX** +4, **CON** +4, **INT** +5, **WIS** +4, **CHA** +6
 
 ---
@@ -25,7 +27,7 @@ uncommon, ce, small, aberration
 
 Speed 35 feet
 
-**Melee** ◆ talon +18 (agile, finesse); **Damage** 2d10+5 slashing
+**Melee** ◆ talon +18/+14/+10 (agile, finesse); **Damage** 2d10+5 slashing
 
 **Innate occult Spells** (DC 27)
 

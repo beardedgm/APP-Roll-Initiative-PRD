@@ -11,6 +11,8 @@ rare, cn, medium, aesir, monitor
 
 **Skills** Acrobatics +34, Athletics +38, Diplomacy +34, Intimidation +34, Religion +33
 
+**Recall Knowledge - Monitor** (Religion): DC 44
+
 **STR** +10, **DEX** +7, **CON** +7, **INT** +3, **WIS** +6, **CHA** +7
 
 **Items** +2 greater resilient breastplate, +2 greater striking returning spear
@@ -37,9 +39,9 @@ rare, cn, medium, aesir, monitor
 
 Speed 25 feet, fly 60 feet
 
-**Melee** ◆ spear +38 (magical); **Damage** 3d6+17 piercing plus 2d12 electricity
+**Melee** ◆ spear +38/+33/+28 (magical); **Damage** 3d6+17 piercing plus 2d12 electricity
 
-**Ranged** ◆ spear +36 (magical, thrown <20 feet>); **Damage** 3d6+17 piercing plus 2d12 electricity
+**Ranged** ◆ spear +36/+31/+26 (magical, thrown <20 feet>); **Damage** 3d6+17 piercing plus 2d12 electricity
 
 **Innate divine Spells** (DC 38), attack +30
 

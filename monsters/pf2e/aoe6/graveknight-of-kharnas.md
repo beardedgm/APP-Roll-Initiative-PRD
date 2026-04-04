@@ -11,6 +11,8 @@ rare, ne, medium, undead
 
 **Skills** Athletics +34, Intimidation +33, Warfare Lore +28
 
+**Recall Knowledge - Undead** (Religion): DC 41
+
 **STR** +9, **DEX** +1, **CON** +7, **INT** +3, **WIS** +6, **CHA** +8
 
 **Items** +2 greater resilient breastplate, greataxe, javelins (3)
@@ -33,9 +35,9 @@ rare, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ greater flaming greataxe +33 (magical, sweep); **Damage** 3d12+19 slashing plus 1d6 fire
+**Melee** ◆ greater flaming greataxe +33/+28/+23 (magical, sweep); **Damage** 3d12+19 slashing plus 1d6 fire
 
-**Ranged** ◆ greater flaming javelin +29 (magical, thrown <30 feet>); **Damage** 3d6+19 piercing plus 1d6 fire
+**Ranged** ◆ greater flaming javelin +29/+24/+19 (magical, thrown <30 feet>); **Damage** 3d6+19 piercing plus 1d6 fire
 
 **Devastating Blast** ◆◆ (arcane, evocation, fire) The graveknight unleashes a 30-foot cone of energy. Creatures in the area take 10d12 fire damage (DC 37 basic Reflex save). The graveknight can't use this ability again for 1d4 rounds.
 

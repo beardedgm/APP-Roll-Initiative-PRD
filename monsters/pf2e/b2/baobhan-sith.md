@@ -11,6 +11,8 @@ uncommon, ce, medium, fey
 
 **Skills** Acrobatics +15, Deception +15, Nature +12, Performance +15, Stealth +15
 
+**Recall Knowledge - Fey** (Nature): DC 24
+
 **STR** +3, **DEX** +5, **CON** +2, **INT** +2, **WIS** +2, **CHA** +5
 
 ---
@@ -25,7 +27,7 @@ uncommon, ce, medium, fey
 
 Speed 25 feet
 
-**Melee** ◆ claw +17 (agile, finesse); **Damage** 2d6+6 slashing and 1d6 persistent bleed
+**Melee** ◆ claw +17/+13/+9 (agile, finesse); **Damage** 2d6+6 slashing and 1d6 persistent bleed
 
 **Innate primal Spells** (DC 24)
 

@@ -11,6 +11,8 @@ n, large, plant
 
 **Skills** Athletics +17, Intimidation +17, Nature +15, Stealth +14
 
+**Recall Knowledge - Plant** (Nature): DC 23
+
 **STR** +6, **DEX** +2, **CON** +4, **INT** +2, **WIS** +2, **CHA** +4
 
 ---
@@ -29,11 +31,11 @@ n, large, plant
 
 Speed 25 feet
 
-**Melee** ◆ branch +18 (reach <10 feet>); **Damage** 2d10+8 bludgeoning
+**Melee** ◆ branch +18/+13/+8 (reach <10 feet>); **Damage** 2d10+8 bludgeoning
 
-**Melee** ◆ root +18 (agile); **Damage** 2d6+8 bludgeoning plus Knockdown
+**Melee** ◆ root +18/+14/+10 (agile); **Damage** 2d6+8 bludgeoning plus Knockdown
 
-**Ranged** ◆ thorns +16; **Damage** 2d8+5 piercing plus 1d4 persistent bleed
+**Ranged** ◆ thorns +16/+11/+6; **Damage** 2d8+5 piercing plus 1d4 persistent bleed
 
 **Innate primal Spells** (DC 22)
 

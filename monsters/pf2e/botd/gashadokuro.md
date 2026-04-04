@@ -11,6 +11,8 @@ uncommon, ne, huge, undead
 
 **Skills** Athletics +27, Intimidation +24
 
+**Recall Knowledge - Undead** (Religion): DC 33
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** -3, **WIS** +3, **CHA** +3
 
 ---
@@ -31,9 +33,9 @@ uncommon, ne, huge, undead
 
 Speed 25 feet
 
-**Melee** ◆ jaws +27 (reach <10 feet>); **Damage** 3d12+14 piercing plus Grab
+**Melee** ◆ jaws +27/+22/+17 (reach <10 feet>); **Damage** 3d12+14 piercing plus Grab
 
-**Melee** ◆ claw +27 (agile, reach <15 feet>); **Damage** 3d8+14 slashing
+**Melee** ◆ claw +27/+23/+19 (agile, reach <15 feet>); **Damage** 3d8+14 slashing
 
 **Breath Weapon** ◆◆ (divine, necromancy) The gashadokuro breathes a spray of bone shards in a 30-foot cone. Each creature in the area takes 8d12 piercing damage (DC 34 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

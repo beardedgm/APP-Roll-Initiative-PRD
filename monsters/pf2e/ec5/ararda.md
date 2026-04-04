@@ -11,6 +11,8 @@ rare, le, large, earth, elemental, genie
 
 **Skills** Athletics +35, Deception +30, Intimidation +30, Nature +33, Survival +33, Black Desert Lore +27
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 43
+
 **STR** +9, **DEX** +6, **CON** +7, **INT** +3, **WIS** +7, **CHA** +6
 
 **Items** +2 greater striking maul
@@ -37,11 +39,11 @@ rare, le, large, earth, elemental, genie
 
 Speed 30 feet, fly 20 feet, burrow 45 feet, earth glide
 
-**Melee** ◆ maul +35 (magical, reach <10 feet>, shove); **Damage** 3d12+17 bludgeoning
+**Melee** ◆ maul +35/+30/+25 (magical, reach <10 feet>, shove); **Damage** 3d12+17 bludgeoning
 
-**Melee** ◆ sand fist +35 (agile, earth, electricity, magical, nonlethal, reach <10 feet>); **Damage** 2d8+17 bludgeoning plus 2d8 electricity and blightburn sickness (page 73) plus blightburn sickness (page 73)
+**Melee** ◆ sand fist +35/+31/+27 (agile, earth, electricity, magical, nonlethal, reach <10 feet>); **Damage** 2d8+17 bludgeoning plus 2d8 electricity and blightburn sickness (page 73) plus blightburn sickness (page 73)
 
-**Ranged** ◆ sand spear +32 (earth, electricity, magical, range increment <30 feet>); **Damage** 4d8 piercing plus 2d8 electricity and blightburn sickness (page 73) plus blightburn sickness (page 73)
+**Ranged** ◆ sand spear +32/+27/+22 (earth, electricity, magical, range increment <30 feet>); **Damage** 4d8 piercing plus 2d8 electricity and blightburn sickness (page 73) plus blightburn sickness (page 73)
 
 **Innate arcane Spells** (DC 37)
 

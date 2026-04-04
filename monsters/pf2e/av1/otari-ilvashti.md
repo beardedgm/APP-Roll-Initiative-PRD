@@ -11,6 +11,8 @@ unique, cg, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Acrobatics +18, Society +18, Stealth +20, Thievery +20
 
+**Recall Knowledge - Spirit** (Religion): DC 36
+
 **STR** -5, **DEX** +6, **CON** +0, **INT** +4, **WIS** +3, **CHA** +4
 
 **Site Bound** (area D18)
@@ -33,7 +35,7 @@ unique, cg, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ◆ ghostly hand +19 (agile, finesse, magical); **Damage** 3d6+6 negative
+**Melee** ◆ ghostly hand +19/+15/+11 (agile, finesse, magical); **Damage** 3d6+6 negative
 
 **Filth Fever** (disease)
 

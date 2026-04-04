@@ -9,6 +9,8 @@ n, small, animal, dinosaur
 
 **Skills** Acrobatics +8, Athletics +5, Stealth +6
 
+**Recall Knowledge - Animal** (Nature): DC 15
+
 **STR** +0, **DEX** +3, **CON** +2, **INT** -4, **WIS** +1, **CHA** +1
 
 ---
@@ -23,9 +25,9 @@ n, small, animal, dinosaur
 
 Speed 40 feet
 
-**Melee** ◆ jaws +8 (finesse); **Damage** 1d6+3 piercing
+**Melee** ◆ jaws +8/+3/-2 (finesse); **Damage** 1d6+3 piercing
 
-**Melee** ◆ talon +8 (agile, finesse); **Damage** 1d4+3 slashing
+**Melee** ◆ talon +8/+4/+0 (agile, finesse); **Damage** 1d4+3 slashing
 
 **Leaping Charge** ◆ The velociraptor Strides up to 10 feet, ignoring terrain as it leaps over obstacles. It then makes a Strike with its talons, gaining a +1 circumstance bonus to its attack roll.
 

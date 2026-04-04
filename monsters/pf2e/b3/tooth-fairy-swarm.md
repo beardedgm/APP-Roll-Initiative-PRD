@@ -9,6 +9,8 @@ ce, large, fey, swarm
 
 **Skills** Acrobatics +10, Stealth +10, Thievery +12
 
+**Recall Knowledge - Fey** (Nature): DC 18
+
 **STR** -2, **DEX** +3, **CON** +0, **INT** -1, **WIS** +2, **CHA** +2
 
 ---

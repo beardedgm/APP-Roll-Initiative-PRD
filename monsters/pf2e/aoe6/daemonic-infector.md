@@ -11,6 +11,8 @@ unique, ne, medium, daemon, human, humanoid
 
 **Skills** Acrobatics +39, Crafting +39, Deception +40, Diplomacy +40, Intimidation +40, Religion +42, Society +36, Stealth +37, Thievery +35, Norgorber Lore +39
 
+**Recall Knowledge - Humanoid** (Society): DC 54
+
 **STR** +6, **DEX** +9, **CON** +10, **INT** +7, **WIS** +10, **CHA** +8
 
 ---
@@ -33,7 +35,7 @@ unique, ne, medium, daemon, human, humanoid
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ claw +36 (agile, evil, finesse, magical); **Damage** 4d8+14 slashing plus 1d6 evil
+**Melee** ◆ claw +36/+32/+28 (agile, evil, finesse, magical); **Damage** 4d8+14 slashing plus 1d6 evil
 
 **Prepared divine Spells** (DC 46), attack +38
 

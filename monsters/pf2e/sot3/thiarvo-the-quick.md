@@ -11,6 +11,8 @@ unique, ce, small, halfling, humanoid
 
 **Skills** Acrobatics +19, Athletics +15, Deception +15, Diplomacy +15, Stealth +18, Survival +18, Thievery +20
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +0, **DEX** +5, **CON** +0, **INT** +4, **WIS** +3, **CHA** +2
 
 **Items** moderate alchemist's fire (4), moderate healing potion, +1 striking rod of wonder, studded leather armor, infiltrator thieves' tools
@@ -29,7 +31,7 @@ unique, ce, small, halfling, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ rod +21 (backswing, magical, nonlethal, shove); **Damage** 2d6+7 bludgeoning plus 2d8 precision
+**Melee** ◆ rod +21/+16/+11 (backswing, magical, nonlethal, shove); **Damage** 2d6+7 bludgeoning plus 2d8 precision
 
 **Fighting Rod** Thiarvo's rod of wonder is supple wood and can be used as a fighting stick (Pathfinder Lost Omens Mwangi Expanse 86). It can be enchanted with fundamental runes but not property runes, and it's currently enchanted with the +1 and striking runes.
 

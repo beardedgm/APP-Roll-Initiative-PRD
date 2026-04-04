@@ -11,6 +11,8 @@ ne, large, dragon, earth
 
 **Skills** Acrobatics +17, Athletics +18, Intimidation +13, Stealth +15, Survival +15
 
+**Recall Knowledge - Dragon** (Arcana): DC 24
+
 **STR** +6, **DEX** +3, **CON** +5, **INT** -1, **WIS** +3, **CHA** +1
 
 ---
@@ -31,9 +33,9 @@ ne, large, dragon, earth
 
 Speed 20 feet, burrow 20 feet (sand only), fly 50 feet
 
-**Melee** ◆ fangs +20; **Damage** 2d12+8 piercing plus 1d6 electricity
+**Melee** ◆ fangs +20/+15/+10; **Damage** 2d12+8 piercing plus 1d6 electricity
 
-**Melee** ◆ tail +20 (reach <10 feet>); **Damage** 2d10+8 bludgeoning plus Push 5 feet
+**Melee** ◆ tail +20/+15/+10 (reach <10 feet>); **Damage** 2d10+8 bludgeoning plus Push 5 feet
 
 **Draconic Frenzy** ◆◆ The desert drake makes two fangs Strikes and one tail Strike in any order.
 

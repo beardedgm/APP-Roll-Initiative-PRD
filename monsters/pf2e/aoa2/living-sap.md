@@ -9,6 +9,8 @@ uncommon, n, medium, mindless, ooze
 
 **Skills** Athletics +17, Stealth +10
 
+**Recall Knowledge - Ooze** (Occultism): DC 24
+
 **STR** +5, **DEX** -3, **CON** +4, **INT** -5, **WIS** -5, **CHA** -5
 
 **Motion Sense** Living sap can sense nearby motion through vibration and air movement.
@@ -31,7 +33,7 @@ uncommon, n, medium, mindless, ooze
 
 Speed 10 feet, climb 10 feet
 
-**Melee** ◆ pseudopod +17; **Damage** 2d8+8 bludgeoning plus entangling residue plus entangling residue
+**Melee** ◆ pseudopod +17/+12/+7; **Damage** 2d8+8 bludgeoning plus entangling residue plus entangling residue
 
 **Engulf** ◆◆ DC 22, 2d6 acid, Escape DC 24, Rupture 10.
 

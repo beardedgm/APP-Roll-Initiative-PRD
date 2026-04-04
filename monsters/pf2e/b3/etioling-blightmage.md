@@ -11,6 +11,8 @@ rare, cn, small, gnome, humanoid, mortic
 
 **Skills** Acrobatics +19, Deception +22, Diplomacy +22, Intimidation +22, Nature +19
 
+**Recall Knowledge - Humanoid** (Society): DC 32
+
 **STR** +3, **DEX** +5, **CON** +3, **INT** +3, **WIS** +5, **CHA** +7
 
 ---
@@ -33,7 +35,7 @@ rare, cn, small, gnome, humanoid, mortic
 
 Speed 25 feet
 
-**Melee** ◆ corrupting touch +21 (agile, finesse, magical); **Damage** 2d12+6 negative
+**Melee** ◆ corrupting touch +21/+17/+13 (agile, finesse, magical); **Damage** 2d12+6 negative
 
 **Spontaneous occult Spells** (DC 29), attack +21
 

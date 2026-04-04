@@ -9,6 +9,8 @@ n, medium, humanoid
 
 **Skills** Deception +11, Diplomacy +11, Society +8, Stealth +8
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +3, **DEX** +3, **CON** +0, **INT** +1, **WIS** +2, **CHA** +4
 
 ---
@@ -25,7 +27,7 @@ n, medium, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ claw +10 (agile); **Damage** 2d6 + 5 slashing
+**Melee** ◆ claw +10/+6/+2 (agile); **Damage** 2d6 + 5 slashing
 
 **Change Shape** ◆ (arcane, concentrate, polymorph, transmutation) The doppelganger takes on the specific appearance of any Small or Medium humanoid it has seen. This doesn't change the doppelganger's Stride speed or their attack and damage bonuses with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).
 

@@ -11,6 +11,8 @@ le, large, asura, fiend
 
 **Skills** Athletics +24, Deception +28, Religion +25, Stealth +25
 
+**Recall Knowledge - Fiend** (Religion): DC 32
+
 **STR** +8, **DEX** +3, **CON** +2, **INT** +1, **WIS** +5, **CHA** +8
 
 ---
@@ -33,11 +35,11 @@ le, large, asura, fiend
 
 Speed 50 feet
 
-**Melee** ◆ jaws +29 (reach <10 feet>); **Damage** 3d10+14 piercing plus 2d6 evil
+**Melee** ◆ jaws +29/+24/+19 (reach <10 feet>); **Damage** 3d10+14 piercing plus 2d6 evil
 
-**Melee** ◆ claw +29 (agile, reach <10 feet>); **Damage** 3d6+14 slashing plus 2d6 evil
+**Melee** ◆ claw +29/+25/+21 (agile, reach <10 feet>); **Damage** 3d6+14 slashing plus 2d6 evil
 
-**Melee** ◆ tongue +29 (reach <20 feet>); **Damage** 3d6+14 bludgeoning plus 2d6 evil plus Improved Knockdown (page 305) plus Improved Knockdown
+**Melee** ◆ tongue +29/+24/+19 (reach <20 feet>); **Damage** 3d6+14 bludgeoning plus 2d6 evil plus Improved Knockdown (page 305) plus Improved Knockdown
 
 **Innate divine Spells** (DC 34), attack +26
 

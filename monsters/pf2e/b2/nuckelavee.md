@@ -11,6 +11,8 @@ ne, large, amphibious, fey
 
 **Skills** Athletics +19, Intimidation +19, Nature +16, Stealth +18, Survival +16
 
+**Recall Knowledge - Fey** (Nature): DC 26
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** +1, **WIS** +3, **CHA** +4
 
 **Items** +1 striking bastard sword
@@ -37,11 +39,11 @@ ne, large, amphibious, fey
 
 Speed 40 feet, swim 40 feet
 
-**Melee** ◆ bastard sword +21 (magical, reach <10 feet>, two-hand <d12>); **Damage** 2d8+12 slashing plus 1d6 poison and mortasheen plus mortasheen
+**Melee** ◆ bastard sword +21/+16/+11 (magical, reach <10 feet>, two-hand <d12>); **Damage** 2d8+12 slashing plus 1d6 poison and mortasheen plus mortasheen
 
-**Melee** ◆ jaws +20 (agile); **Damage** 2d8+12 piercing plus 1d6 poison and mortasheen plus mortasheen
+**Melee** ◆ jaws +20/+16/+12 (agile); **Damage** 2d8+12 piercing plus 1d6 poison and mortasheen plus mortasheen
 
-**Melee** ◆ hoof +20; **Damage** 2d6+12 bludgeoning plus mortasheen plus mortasheen
+**Melee** ◆ hoof +20/+15/+10; **Damage** 2d6+12 bludgeoning plus mortasheen plus mortasheen
 
 **Innate primal Spells** (DC 28)
 

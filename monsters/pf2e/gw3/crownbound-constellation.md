@@ -11,6 +11,8 @@ uncommon, ln, huge, astral
 
 **Skills** Acrobatics +16, Athletics +21, Lamashtu Lore +14, Star Lore +16, Stealth +16
 
+**Recall Knowledge - Astral** (Occultism): DC 26
+
 **STR** +7, **DEX** +4, **CON** +6, **INT** +4, **WIS** +3, **CHA** +3
 
 ---
@@ -37,9 +39,9 @@ uncommon, ln, huge, astral
 
 Speed 40 feet
 
-**Melee** ◆ star greatsword +21 (magical, versatile <P>); **Damage** 2d12+10 slashing and starburst
+**Melee** ◆ star greatsword +21/+16/+11 (magical, versatile <P>); **Damage** 2d12+10 slashing and starburst
 
-**Ranged** ◆ star composite longbow +18 (deadly <d10>, magical, reload <0>, volley <30 feet>); **Damage** 2d8+7 piercing and starburst
+**Ranged** ◆ star composite longbow +18/+13/+8 (deadly <d10>, magical, reload <0>, volley <30 feet>); **Damage** 2d8+7 piercing and starburst
 
 **Dazzling Assault** ◆ (visual) Each enemy in the crownbound constellation's space takes 7d4 bludgeoning damage (DC 23 basic Reflex save). Creatures that fail this save are also dazzled until the end of their next turn.
 

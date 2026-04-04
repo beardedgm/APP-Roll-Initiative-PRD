@@ -11,6 +11,8 @@ n, medium, human, humanoid
 
 **Skills** Arcana +9, Nature +8, Religion +8, Academia Lore +11, Library Lore +13
 
+**Recall Knowledge - Humanoid** (Society): DC 13
+
 **STR** +0, **DEX** +1, **CON** +0, **INT** +4, **WIS** +3, **CHA** +1
 
 **Items** dagger, writing set
@@ -29,8 +31,8 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ book +4 (nonlethal); **Damage** 1d4 bludgeoning
+**Melee** ◆ book +4/-1/-6 (nonlethal); **Damage** 1d4 bludgeoning
 
-**Melee** ◆ fist +3 (agile, nonlethal); **Damage** 1d4 bludgeoning
+**Melee** ◆ fist +3/-1/-5 (agile, nonlethal); **Damage** 1d4 bludgeoning
 
-**Ranged** ◆ book +5 (nonlethal, thrown <10 feet>); **Damage** 1d4 bludgeoning
+**Ranged** ◆ book +5/+0/-5 (nonlethal, thrown <10 feet>); **Damage** 1d4 bludgeoning

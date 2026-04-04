@@ -11,6 +11,8 @@ ne, medium, undead, zombie
 
 **Skills** Athletics +14, Deception +9, Intimidation +9, Stealth +13
 
+**Recall Knowledge - Undead** (Religion): DC 20
+
 **STR** +5, **DEX** +4, **CON** +4, **INT** +0, **WIS** +2, **CHA** +0
 
 **Items** dagger (6), leather armor, shortsword
@@ -33,13 +35,13 @@ ne, medium, undead, zombie
 
 Speed 35 feet
 
-**Melee** ◆ shortsword +14 (agile, versatile S); **Damage** 1d6+9 piercing
+**Melee** ◆ shortsword +14/+10/+6 (agile, versatile S); **Damage** 1d6+9 piercing
 
-**Melee** ◆ dagger +14 (agile, versatile S); **Damage** 1d4+9 piercing
+**Melee** ◆ dagger +14/+10/+6 (agile, versatile S); **Damage** 1d4+9 piercing
 
-**Melee** ◆ fist +14; **Damage** 1d8+7 bludgeoning
+**Melee** ◆ fist +14/+9/+4; **Damage** 1d8+7 bludgeoning
 
-**Ranged** ◆ dagger +13 (agile, thrown <10 feet>, versatile S); **Damage** 1d4+9 piercing
+**Ranged** ◆ dagger +13/+9/+5 (agile, thrown <10 feet>, versatile S); **Damage** 1d4+9 piercing
 
 **Sneak Attack** The withered zombie deals an additional 2d6 precision damage to flat-footed creatures.
 

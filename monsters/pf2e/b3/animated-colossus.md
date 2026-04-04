@@ -9,6 +9,8 @@ n, gargantuan, construct, mindless
 
 **Skills** Athletics +33
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 34
+
 **STR** +9, **DEX** +2, **CON** +8, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -29,9 +31,9 @@ n, gargantuan, construct, mindless
 
 Speed 50 feet
 
-**Melee** ◆ fist +32 (magical, reach <30 feet>); **Damage** 3d12+17 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ fist +32/+27/+22 (magical, reach <30 feet>); **Damage** 3d12+17 bludgeoning plus Improved Grab plus Improved Grab
 
-**Melee** ◆ foot +32 (agile, magical, reach <20 feet>); **Damage** 3d8+17 bludgeoning
+**Melee** ◆ foot +32/+28/+24 (agile, magical, reach <20 feet>); **Damage** 3d8+17 bludgeoning
 
 **Colossus's Grasp** The colossus can Grab a creature using only one hand. It can move normally with a creature grabbed or restrained in its fist, carrying the creature along. If it has two creatures grabbed in this way, it can't use its fist Strike.
 

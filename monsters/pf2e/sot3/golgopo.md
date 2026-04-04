@@ -11,6 +11,8 @@ uncommon, n, small, construct
 
 **Skills** Acrobatics +16, Occultism +20
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 26
+
 **STR** +2, **DEX** +4, **CON** +5, **INT** +6, **WIS** +2, **CHA** -2
 
 **Ritual Conduit** Golgopos were created to assist with complex rituals. The golgopo can always use Occultism to attempt secondary checks during rituals, regardless of the skill normally required. If a golgopo would critically fail a secondary check, they fail instead.
@@ -35,7 +37,7 @@ uncommon, n, small, construct
 
 Speed 15 feet, climb 15 feet
 
-**Melee** ◆ fist +18 (finesse); **Damage** 2d8+5 bludgeoning
+**Melee** ◆ fist +18/+13/+8 (finesse); **Damage** 2d8+5 bludgeoning
 
 **Innate occult Spells** (DC 26)
 

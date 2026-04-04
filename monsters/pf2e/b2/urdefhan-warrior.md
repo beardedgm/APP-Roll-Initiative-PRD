@@ -11,6 +11,8 @@ ne, medium, humanoid, urdefhan
 
 **Skills** Athletics +10, Intimidation +9, Religion +7, Survival +7
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +3, **DEX** +1, **CON** +2, **INT** +0, **WIS** +2, **CHA** +2
 
 **Items** composite longbow (20 arrows), rhoka sword, studded leather
@@ -35,11 +37,11 @@ ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** ◆ rhoka sword +12 (deadly <1d8>, two-hand 1d10); **Damage** 1d8+6 slashing
+**Melee** ◆ rhoka sword +12/+7/+2 (deadly <1d8>, two-hand 1d10); **Damage** 1d8+6 slashing
 
-**Melee** ◆ jaws +12; **Damage** 1d6+6 piercing plus Wicked Bite plus Wicked Bite
+**Melee** ◆ jaws +12/+7/+2; **Damage** 1d6+6 piercing plus Wicked Bite plus Wicked Bite
 
-**Ranged** ◆ composite longbow +10 (deadly <1d10>, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 1d8+4 piercing
+**Ranged** ◆ composite longbow +10/+5/+0 (deadly <1d10>, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 1d8+4 piercing
 
 **Ravenous Attack** ◆◆ The urdefhan makes one rhoka sword Strike and one jaws Strike against a single creature. Its multiple attack penalty doesn't increase until after both attacks.
 

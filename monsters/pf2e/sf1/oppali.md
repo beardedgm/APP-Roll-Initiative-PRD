@@ -9,6 +9,8 @@ rare, n, large, plant
 
 **Skills** Acrobatics +21, Athletics +19, Stealth +21
 
+**Recall Knowledge - Plant** (Nature): DC 32
+
 **STR** +5, **DEX** +7, **CON** +3, **INT** -4, **WIS** +3, **CHA** -1
 
 **Soundsense** An oppali's sense of hearing is a precise sense to a range of 60 feet.
@@ -29,9 +31,9 @@ rare, n, large, plant
 
 Speed 20 feet
 
-**Melee** ◆ vine +23 (finesse, reach <15 feet>, trip); **Damage** 2d8+11 bludgeoning plus drain luck
+**Melee** ◆ vine +23/+18/+13 (finesse, reach <15 feet>, trip); **Damage** 2d8+11 bludgeoning plus drain luck
 
-**Ranged** ◆ staccato blast +23 (range <60 feet>, sonic); **Damage** 4d6 sonic
+**Ranged** ◆ staccato blast +23/+18/+13 (range <60 feet>, sonic); **Damage** 4d6 sonic
 
 **Drain Luck** (divination, mental, misfortune, primal) A creature other than an animal or plant hit by an oppali's vine Strike must attempt a DC 29 Fortitude saving throw twice, taking the lower result as the actual result. **Critical Success** 
 **Success** 

@@ -9,6 +9,8 @@ n, large, amphibious, animal
 
 **Skills** Athletics +18, Stealth +18, Survival +17
 
+**Recall Knowledge - Animal** (Nature): DC 24
+
 **STR** +6, **DEX** +3, **CON** +6, **INT** -4, **WIS** +2, **CHA** +0
 
 ---
@@ -27,11 +29,11 @@ n, large, amphibious, animal
 
 Speed 40 feet, swim 30 feet
 
-**Melee** ◆ jaws +20 (deadly <1d10>, poison, reach <10 feet>); **Damage** 2d12+9 piercing plus Poison Tooth plus Poison Tooth
+**Melee** ◆ jaws +20/+15/+10 (deadly <1d10>, poison, reach <10 feet>); **Damage** 2d12+9 piercing plus Poison Tooth plus Poison Tooth
 
-**Melee** ◆ claw +20 (agile); **Damage** 2d8+9 slashing
+**Melee** ◆ claw +20/+16/+12 (agile); **Damage** 2d8+9 slashing
 
-**Melee** ◆ tail +20 (reach <15 feet>); **Damage** 2d8+9 piercing
+**Melee** ◆ tail +20/+15/+10 (reach <15 feet>); **Damage** 2d8+9 piercing
 
 **Aquatic Ambush** ◆
 

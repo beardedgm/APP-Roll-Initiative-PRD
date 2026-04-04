@@ -7,6 +7,8 @@ uncommon, ne, gargantuan, construct, mindless, troop, zombie
 
 **Perception** +14; darkvision
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 28
+
 **STR** +6, **DEX** +0, **CON** +4, **INT** -5, **WIS** +2, **CHA** -2
 
 **Slow** A shambler horde is permanently slowed 1 and can't use reactions.

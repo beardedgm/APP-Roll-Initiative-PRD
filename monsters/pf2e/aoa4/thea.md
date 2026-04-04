@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Acrobatics +22, Arcana +15, Athletics +19, Deception +23, Nature +19, Stealth +24, Thievery +24
 
+**Recall Knowledge - Humanoid** (Society): DC 38
+
 **STR** +2, **DEX** +7, **CON** +3, **INT** +0, **WIS** +4, **CHA** +6
 
 **Items** +1 blowgun (20 darts), +1 resilient leather armor, lethargy poison (4 doses), manacles, purple worm venom (2 doses), +1 striking rapier, ruby and sapphire ring
@@ -27,9 +29,9 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ rapier +24 (deadly <1d8>, disarm, finesse); **Damage** 2d6+8 piercing
+**Melee** ◆ rapier +24/+19/+14 (deadly <1d8>, disarm, finesse); **Damage** 2d6+8 piercing
 
-**Ranged** ◆ blowgun +24 (agile, nonlethal, range increment <20 feet>, reload <1>); **Damage** 7 piercing plus poison
+**Ranged** ◆ blowgun +24/+20/+16 (agile, nonlethal, range increment <20 feet>, reload <1>); **Damage** 7 piercing plus poison
 
 **Prepared arcane Spells** (DC 33)
 

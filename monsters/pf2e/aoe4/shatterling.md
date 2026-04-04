@@ -9,6 +9,8 @@ uncommon, ce, small, fey
 
 **Skills** Acrobatics +28, Athletics +25, Intimidation +25, Society +20, Stealth +32, Thievery +30
 
+**Recall Knowledge - Fey** (Nature): DC 34
+
 **STR** +5, **DEX** +8, **CON** +4, **INT** +0, **WIS** +4, **CHA** +3
 
 **Mirror Senses** A shatterling can see and hear through any unbroken mirror within 100 feet.
@@ -35,9 +37,9 @@ uncommon, ce, small, fey
 
 Speed 40 feet
 
-**Melee** ◆ mirror hand +27 (agile, finesse, magical); **Damage** 3d6+11 slashing plus 2d6 persistent bleed
+**Melee** ◆ mirror hand +27/+23/+19 (agile, finesse, magical); **Damage** 3d6+11 slashing plus 2d6 persistent bleed
 
-**Ranged** ◆ mirror dart +27 (magical, range increment <30 feet>); **Damage** 3d6+11 piercing
+**Ranged** ◆ mirror dart +27/+22/+17 (magical, range increment <30 feet>); **Damage** 3d6+11 piercing
 
 **Blood-Fueled Titter** If the shatterling attempts an Intimidation check to Demoralize a target within 30 feet of a creature with persistent bleed damage, the shatterling has +4 circumstance bonus to the Intimidation check. In addition, the shatterling takes no penalty to the check for not speaking a language the target can hear, and the target isn't temporarily immune to the shatterling's attempts to Demoralize it unless the shatterling critically fails its Intimidation check.
 

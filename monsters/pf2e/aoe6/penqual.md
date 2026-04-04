@@ -11,6 +11,8 @@ uncommon, ne, huge, fiend, sahkil, swarm
 
 **Skills** Acrobatics +26, Athletics +26, Deception +31, Intimidation +31, Performance +27, Society +27
 
+**Recall Knowledge - Fiend** (Religion): DC 36
+
 **STR** +5, **DEX** +5, **CON** +8, **INT** +6, **WIS** +6, **CHA** +8
 
 **Easy to Call** The sahkil is considered 2 levels lower for the purposes of being summoned by rituals (such as planar binding), but is always free to attack or leave instead of negotiate unless the primary caster's check is a critical success.

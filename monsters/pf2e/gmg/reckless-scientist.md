@@ -11,6 +11,8 @@ ne, medium, human, humanoid
 
 **Skills** Acrobatics +12, Crafting +17, Deception +9, Medicine +10, Stealth +12, Engineering Lore +15, Underworld Lore +13
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +1, **DEX** +4, **CON** +5, **INT** +5, **WIS** +2, **CHA** -1
 
 **Items** alchemist's tools, moderate antidote, moderate antiplague, bandolier, , work coat (functions as padded armor)
@@ -33,9 +35,9 @@ ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ sickle +17 (agile, finesse, magical, trip); **Damage** 1d4+7 slashing
+**Melee** ◆ sickle +17/+13/+9 (agile, finesse, magical, trip); **Damage** 1d4+7 slashing
 
-**Ranged** ◆ alchemical bomb +16 (range increment <20 feet>, splash); plus varies by bomb
+**Ranged** ◆ alchemical bomb +16/+11/+6 (range increment <20 feet>, splash); plus varies by bomb
 
 **Quick Bomber** ◆ The reckless scientist Interacts to draw a bomb, then Strikes with it.
 

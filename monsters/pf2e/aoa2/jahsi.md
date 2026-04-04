@@ -11,6 +11,8 @@ unique, ng, medium, elf, humanoid
 
 **Skills** Athletics +14, Diplomacy +17, Nature +14, Religion +16, Survival +14
 
+**Recall Knowledge - Humanoid** (Society): DC 34
+
 **STR** +4, **DEX** +4, **CON** +1, **INT** +1, **WIS** +2, **CHA** +3
 
 **Items** +1 disrupting cold iron dagger, +1 striking silver dagger, gold jewelry (worth 20 gp), +1 longbow (20 arrows), splint mail
@@ -31,15 +33,15 @@ unique, ng, medium, elf, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ disrupting cold iron dagger +19 (agile, magical, versatile <S>); **Damage** 1d4+7 piercing plus 1d6 positive to undead
+**Melee** ◆ disrupting cold iron dagger +19/+15/+11 (agile, magical, versatile <S>); **Damage** 1d4+7 piercing plus 1d6 positive to undead
 
-**Melee** ◆ silver dagger +19 (agile, magical, versatile <S>); **Damage** 2d4+7 piercing
+**Melee** ◆ silver dagger +19/+15/+11 (agile, magical, versatile <S>); **Damage** 2d4+7 piercing
 
-**Ranged** ◆ longbow +19 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+3 piercing
+**Ranged** ◆ longbow +19/+14/+9 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+3 piercing
 
-**Ranged** ◆ disrupting cold iron dagger +19 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing plus 1d6 positive to undead
+**Ranged** ◆ disrupting cold iron dagger +19/+15/+11 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing plus 1d6 positive to undead
 
-**Ranged** ◆ silver dagger +19 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+7 piercing
+**Ranged** ◆ silver dagger +19/+15/+11 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+7 piercing
 
 **Champion Devotion Spells** (DC 25)
 

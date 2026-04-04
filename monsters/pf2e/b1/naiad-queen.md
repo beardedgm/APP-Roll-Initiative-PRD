@@ -11,6 +11,8 @@ uncommon, cg, medium, amphibious, fey, nymph, water
 
 **Skills** Acrobatics +16, Athletics +9, Diplomacy +20, Medicine +15, Nature +15, Performance +20, Stealth +14, Survival +15
 
+**Recall Knowledge - Fey** (Nature): DC 25
+
 **STR** +0, **DEX** +5, **CON** +4, **INT** +3, **WIS** +4, **CHA** +7
 
 **Tied to the Land** The queen is tied to a body of water or area with a great deal of water features.
@@ -35,7 +37,7 @@ uncommon, cg, medium, amphibious, fey, nymph, water
 
 Speed 25 feet, swim 25 feet
 
-**Melee** ◆ aqueous fist +17 (agile, finesse, magical, water); **Damage** 2d6+6 bludgeoning
+**Melee** ◆ aqueous fist +17/+13/+9 (agile, finesse, magical, water); **Damage** 2d6+6 bludgeoning
 
 **Prepared primal Spells** (DC 28), attack +18
 

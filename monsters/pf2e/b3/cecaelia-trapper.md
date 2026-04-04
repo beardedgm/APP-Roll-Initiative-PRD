@@ -11,6 +11,8 @@ cn, medium, amphibious, humanoid
 
 **Skills** Acrobatics +13, Athletics +11, Stealth +13, Survival +9
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** -1, **WIS** +2, **CHA** +0
 
 **Items** longspear, net (2)
@@ -27,9 +29,9 @@ cn, medium, amphibious, humanoid
 
 Speed 20 feet, swim 35 feet
 
-**Melee** ◆ longspear +15 (magical, reach <10 feet>); **Damage** 2d8+7 piercing
+**Melee** ◆ longspear +15/+10/+5 (magical, reach <10 feet>); **Damage** 2d8+7 piercing
 
-**Melee** ◆ tentacle +15 (agile, reach <10 feet>); **Damage** 2d4+7 bludgeoning plus Grab
+**Melee** ◆ tentacle +15/+11/+7 (agile, reach <10 feet>); **Damage** 2d4+7 bludgeoning plus Grab
 
 **Cecaelia Jet** ◆◆ (move) The cecaelia moves up to 140 feet in a straight line through the water.
 

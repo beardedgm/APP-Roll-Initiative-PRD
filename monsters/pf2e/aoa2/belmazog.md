@@ -11,6 +11,8 @@ unique, ce, medium, acid, amphibious, boggard, dragon, humanoid
 
 **Skills** Acrobatics +16, Athletics +18, Deception +19, Intimidation +21, Performance +17, Religion +18, Society +12, Survival +14
 
+**Recall Knowledge - Dragon** (Arcana, Society): DC 36
+
 **STR** +5, **DEX** +3, **CON** +3, **INT** -1, **WIS** +3, **CHA** +6
 
 ---
@@ -27,11 +29,11 @@ unique, ce, medium, acid, amphibious, boggard, dragon, humanoid
 
 Speed 40 feet, swim 40 feet
 
-**Melee** ◆ jaws +20; **Damage** 2d8+11 piercing plus 1d12 acid
+**Melee** ◆ jaws +20/+15/+10; **Damage** 2d8+11 piercing plus 1d12 acid
 
-**Melee** ◆ claw +20 (agile); **Damage** 2d8+11 slashing
+**Melee** ◆ claw +20/+16/+12 (agile); **Damage** 2d8+11 slashing
 
-**Melee** ◆ tongue +20 (reach <10 feet>); **Damage** 2d6+11 acid plus tongue grab plus tongue grab
+**Melee** ◆ tongue +20/+15/+10 (reach <10 feet>); **Damage** 2d6+11 acid plus tongue grab plus tongue grab
 
 **Prepared divine Spells** (DC 27), attack +19
 

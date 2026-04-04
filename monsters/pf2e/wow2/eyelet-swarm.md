@@ -11,6 +11,8 @@ rare, large, beast, swarm
 
 **Skills** Acrobatics +16, Stealth +18
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 28
+
 **STR** +0, **DEX** +5, **CON** +0, **INT** +2, **WIS** +4, **CHA** +2
 
 ---

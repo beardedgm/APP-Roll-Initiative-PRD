@@ -9,6 +9,8 @@ n, medium, animal
 
 **Skills** Athletics +4
 
+**Recall Knowledge - Animal** (Nature): DC 14
+
 **STR** +2, **DEX** -1, **CON** +3, **INT** -5, **WIS** +1, **CHA** -5
 
 ---
@@ -25,6 +27,6 @@ n, medium, animal
 
 Speed 10 feet
 
-**Melee** ◆ mandibles +6; **Damage** 1d8+2 piercing plus Grab plus Grab
+**Melee** ◆ mandibles +6/+1/-4; **Damage** 1d8+2 piercing plus Grab plus Grab
 
 **Gnaw Flesh** ◆ **Requirements** The giant maggot has Grabbed a creature; The giant maggot deals 1d8+2 slashing damage to the grabbed creature as it chews the creature's flesh (DC 19 basic Reflex save).

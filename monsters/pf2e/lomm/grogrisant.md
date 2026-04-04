@@ -11,6 +11,8 @@ unique, cn, huge, beast, primal
 
 **Skills** Acrobatics +28, Athletics +35, Intimidation +32, Stealth +28, Survival +28
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 45
+
 **STR** +9, **DEX** +6, **CON** +9, **INT** -2, **WIS** +5, **CHA** +5
 
 ---
@@ -31,9 +33,9 @@ unique, cn, huge, beast, primal
 
 Speed 40 feet, climb 20 feet
 
-**Melee** ◆ jaws +33; **Damage** 3d12+18 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +33/+28/+23; **Damage** 3d12+18 piercing plus Improved Grab plus Improved Grab
 
-**Melee** ◆ claw +32 (agile); **Damage** 3d10+15 slashing
+**Melee** ◆ claw +32/+28/+24 (agile); **Damage** 3d10+15 slashing
 
 **Innate primal Spells** (DC 34), attack +26
 

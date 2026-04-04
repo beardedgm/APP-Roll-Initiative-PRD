@@ -11,6 +11,8 @@ ne, small, fey
 
 **Skills** Athletics +18, Crafting +13, Deception +15, Nature +13, Stealth +16, Survival +13
 
+**Recall Knowledge - Fey** (Nature): DC 23
+
 **STR** +6, **DEX** +5, **CON** +1, **INT** +0, **WIS** +4, **CHA** +1
 
 **Items** blowgun (10 poisoned darts), +1 dagger
@@ -27,13 +29,13 @@ ne, small, fey
 
 Speed 20 feet
 
-**Melee** ◆ jaws +16; **Damage** 2d8+6 piercing
+**Melee** ◆ jaws +16/+11/+6; **Damage** 2d8+6 piercing
 
-**Melee** ◆ dagger +16 (agile, magical, versatile <S>); **Damage** 1d4+8 piercing
+**Melee** ◆ dagger +16/+12/+8 (agile, magical, versatile <S>); **Damage** 1d4+8 piercing
 
-**Ranged** ◆ blowgun +16 (agile, nonlethal, range increment <20 feet>, reload <1>); **Damage** 1 piercing plus 2d4 persistent poison
+**Ranged** ◆ blowgun +16/+12/+8 (agile, nonlethal, range increment <20 feet>, reload <1>); **Damage** 1 piercing plus 2d4 persistent poison
 
-**Ranged** ◆ dagger +16 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
+**Ranged** ◆ dagger +16/+12/+8 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
 
 **Innate primal Spells** (DC 22)
 

@@ -11,6 +11,8 @@ uncommon, ne, large, undead
 
 **Skills** Arcana +21, Deception +21, Intimidation +23, Occultism +23, Stealth +19
 
+**Recall Knowledge - Undead** (Religion): DC 30
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** +5, **WIS** +4, **CHA** +5
 
 ---
@@ -29,7 +31,7 @@ uncommon, ne, large, undead
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ claw +24 (agile, reach <10 feet>); **Damage** 2d10+13 slashing plus drain life plus drain life
+**Melee** ◆ claw +24/+20/+16 (agile, reach <10 feet>); **Damage** 2d10+13 slashing plus drain life plus drain life
 
 **Innate occult Spells** (DC 31)
 

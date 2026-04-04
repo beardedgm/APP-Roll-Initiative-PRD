@@ -11,6 +11,8 @@ unique, ce, gargantuan, beast
 
 **Skills** Acrobatics +43, Athletics +41, Stealth +35
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 52
+
 **STR** +10, **DEX** +10, **CON** +10, **INT** -3, **WIS** +8, **CHA** +6
 
 ---
@@ -41,11 +43,11 @@ unique, ce, gargantuan, beast
 
 Speed 80 feet, fly 60 feet, swim 60 feet
 
-**Melee** ◆ jaws +39 (reach <20 feet>, versatile <B>); **Damage** 4d8+18 piercing plus 2d12 sonic and many-eyed blight plus Many-Eyed Blight
+**Melee** ◆ jaws +39/+34/+29 (reach <20 feet>, versatile <B>); **Damage** 4d8+18 piercing plus 2d12 sonic and many-eyed blight plus Many-Eyed Blight
 
-**Melee** ◆ claw +39 (agile, reach <20 feet>, versatile <B>); **Damage** 4d6+18 slashing plus 2d6 acid and Improved Grab plus Improved Grab
+**Melee** ◆ claw +39/+35/+31 (agile, reach <20 feet>, versatile <B>); **Damage** 4d6+18 slashing plus 2d6 acid and Improved Grab plus Improved Grab
 
-**Ranged** ◆ Bezoar +39 (range increment <100 feet>); **Damage** 4d8+8 bludgeoning plus 2d6 acid and many-eyed blight plus Many-Eyed Blight
+**Ranged** ◆ Bezoar +39/+34/+29 (range increment <100 feet>); **Damage** 4d8+8 bludgeoning plus 2d6 acid and many-eyed blight plus Many-Eyed Blight
 
 **Disharmonic Door** (auditory, teleportation) Kothogaz disappears, then bursts as a cacophonous sound from the throat of a creature within 240 feet. Kothogaz appears within reach of the creature and makes a melee Strike against it. The Strike deals an additional 2d12 sonic damage.
 

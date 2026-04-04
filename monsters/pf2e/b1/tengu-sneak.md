@@ -11,6 +11,8 @@ cn, medium, humanoid, tengu
 
 **Skills** Acrobatics +8, Athletics +6, Deception +7, Diplomacy +5, Society +5, Stealth +8, Thievery +8
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +1, **WIS** +0, **CHA** +1
 
 **Items** rapier, shortbow, studded leather armor
@@ -27,11 +29,11 @@ cn, medium, humanoid, tengu
 
 Speed 25 feet
 
-**Melee** ◆ rapier +10 (deadly <1d8>, disarm, finesse); **Damage** 1d6+2 piercing
+**Melee** ◆ rapier +10/+5/+0 (deadly <1d8>, disarm, finesse); **Damage** 1d6+2 piercing
 
-**Melee** ◆ beak +10 (finesse); **Damage** 1d4+2 piercing
+**Melee** ◆ beak +10/+5/+0 (finesse); **Damage** 1d4+2 piercing
 
-**Ranged** ◆ shortbow +10 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +10/+5/+0 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
 
 **Sneak Attack** The tengu deals 1d6 extra precision damage to flat-footed creatures.
 

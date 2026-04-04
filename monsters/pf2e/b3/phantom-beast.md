@@ -11,6 +11,8 @@ rare, cn, medium, ethereal, incorporeal, phantom, spirit
 
 **Skills** Diplomacy +16, Intimidation +18, Occultism +14, Thievery +18
 
+**Recall Knowledge - Ethereal** (Occultism, Religion): DC 29
+
 **STR** -5, **DEX** +6, **CON** +1, **INT** +0, **WIS** +4, **CHA** +6
 
 **Walk the Ethereal Line** ◆◆ The phantom walks the thin line between the Ethereal Plane and Material Planes in order to exist on both planes simultaneously. They can shift back to solely the Ethereal Plane by using this ability again.
@@ -31,7 +33,7 @@ rare, cn, medium, ethereal, incorporeal, phantom, spirit
 
 Speed fly 35 feet
 
-**Melee** ◆ phantom horn +18 (agile, finesse, force, magical); **Damage** 2d8+8 force
+**Melee** ◆ phantom horn +18/+14/+10 (agile, finesse, force, magical); **Damage** 2d8+8 force
 
 **Innate occult Spells** (DC 28), attack +20
 

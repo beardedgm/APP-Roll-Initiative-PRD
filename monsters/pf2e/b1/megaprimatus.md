@@ -9,6 +9,8 @@ n, gargantuan, animal
 
 **Skills** Acrobatics +14, Athletics +19
 
+**Recall Knowledge - Animal** (Nature): DC 24
+
 **STR** +7, **DEX** +2, **CON** +5, **INT** -4, **WIS** +1, **CHA** +2
 
 ---
@@ -23,9 +25,9 @@ n, gargantuan, animal
 
 Speed 30 feet, climb 30 feet
 
-**Melee** ◆ fist +21 (agile, reach <20 feet>); **Damage** 2d8+10 bludgeoning
+**Melee** ◆ fist +21/+17/+13 (agile, reach <20 feet>); **Damage** 2d8+10 bludgeoning
 
-**Melee** ◆ jaws +21 (reach <10 feet>); **Damage** 2d10+10 piercing
+**Melee** ◆ jaws +21/+16/+11 (reach <10 feet>); **Damage** 2d10+10 piercing
 
 **Mangling Rend** ◆◆ A megaprimatus makes two fist Strikes against the same target. If both hit, the attack deals an additional 2d6 bludgeoning damage, the target is flat-footed, and the target takes a –20-foot status penalty to all Speeds until the end of its next turn.
 

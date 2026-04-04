@@ -11,6 +11,8 @@ ce, tiny, fey, plant
 
 **Skills** Acrobatics +11, Athletics +9, Nature +7, Stealth +11
 
+**Recall Knowledge - Fey** (Nature): DC 18
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** +1
 
 ---
@@ -25,9 +27,9 @@ ce, tiny, fey, plant
 
 Speed 25 feet
 
-**Melee** ◆ claw +11 (agile, finesse); **Damage** 1d10+4 slashing
+**Melee** ◆ claw +11/+7/+3 (agile, finesse); **Damage** 1d10+4 slashing
 
-**Ranged** ◆ splinter +11 (deadly <1d6>, range increment <30 feet>); **Damage** 1d6+4 piercing
+**Ranged** ◆ splinter +11/+6/+1 (deadly <1d6>, range increment <30 feet>); **Damage** 1d6+4 piercing
 
 **Bramble Jump** ◆◆◆ (conjuration, plant, primal, teleportation) **Requirements** The twigjack is in undergrowth; The twigjack scrambles into the undergrowth and instantly teleports to a square of undergrowth within 60 feet. This movement doesn't trigger reactions.
 

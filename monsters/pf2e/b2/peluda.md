@@ -11,6 +11,8 @@ le, large, dragon, fire
 
 **Skills** Athletics +23, Intimidation +19
 
+**Recall Knowledge - Dragon** (Arcana): DC 27
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** -2, **WIS** +5, **CHA** +3
 
 ---
@@ -31,11 +33,11 @@ le, large, dragon, fire
 
 Speed 30 feet, swim 30 feet
 
-**Melee** ◆ jaws +23 (reach <10 feet>); **Damage** 2d12+13 piercing
+**Melee** ◆ jaws +23/+18/+13 (reach <10 feet>); **Damage** 2d12+13 piercing
 
-**Melee** ◆ quill +23 (agile, reach <10 feet>); **Damage** 2d6 piercing plus peluda venom plus peluda venom
+**Melee** ◆ quill +23/+19/+15 (agile, reach <10 feet>); **Damage** 2d6 piercing plus peluda venom plus peluda venom
 
-**Melee** ◆ tail +23 (reach <15 feet>, versatile piercing); **Damage** 2d6+13 bludgeoning plus Improved Knockdown plus Improved Knockdown
+**Melee** ◆ tail +23/+18/+13 (reach <15 feet>, versatile piercing); **Damage** 2d6+13 bludgeoning plus Improved Knockdown plus Improved Knockdown
 
 **Breath Weapon** ◆◆ (evocation, fire, primal) The peluda breathes a torrent of flames that deals 7d10 fire damage in a 60-foot line (DC 29 basic Reflex save). They can't use their Breath Weapon again for 1d4 rounds.
 

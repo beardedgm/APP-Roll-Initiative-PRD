@@ -9,6 +9,8 @@ n, huge, animal, dinosaur
 
 **Skills** Athletics +12, Stealth +10
 
+**Recall Knowledge - Animal** (Nature): DC 19
+
 **STR** +6, **DEX** +2, **CON** +3, **INT** -4, **WIS** +1, **CHA** +0
 
 ---

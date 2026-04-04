@@ -11,6 +11,8 @@ uncommon, ng, large, celestial
 
 **Skills** Athletics +12, Intimidation +8, Religion +13, Meteorology Lore +11
 
+**Recall Knowledge - Celestial** (Religion): DC 21
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** +1, **WIS** +5, **CHA** +0
 
 **Anchored Soul** The cub is mystically bonded to its bonded vessel and must remain within 1 mile of it. Some might be further restricted to the location it guards.
@@ -33,7 +35,7 @@ uncommon, ng, large, celestial
 
 Speed fly 40 feet
 
-**Melee** ◆ jaws +14; **Damage** 2d6+7 bludgeoning plus Grab • Ranged 1 stone ball +13 (range increment <30 feet>), Damage 2d4+7 bludgeoning
+**Melee** ◆ jaws +14/+9/+4; **Damage** 2d6+7 bludgeoning plus Grab • Ranged 1 stone ball +13 (range increment <30 feet>), Damage 2d4+7 bludgeoning
 
 **Innate divine Spells** (DC 21)
 

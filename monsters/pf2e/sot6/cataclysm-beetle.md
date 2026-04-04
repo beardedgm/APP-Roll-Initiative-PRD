@@ -11,6 +11,8 @@ rare, n, huge, beast
 
 **Skills** Athletics +36, Intimidation +31, Survival +30
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 43
+
 **STR** +10, **DEX** +2, **CON** +9, **INT** -3, **WIS** +6, **CHA** +5
 
 ---
@@ -27,9 +29,9 @@ rare, n, huge, beast
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ mandibles +35 (reach <10 feet>); **Damage** 3d12+16 slashing plus Grab
+**Melee** ◆ mandibles +35/+30/+25 (reach <10 feet>); **Damage** 3d12+16 slashing plus Grab
 
-**Ranged** ◆ acid glob +35 (acid, brutal, range increment <120 feet>); **Damage** 2d8+16 bludgeoning plus 4d6 persistent acid
+**Ranged** ◆ acid glob +35/+30/+25 (acid, brutal, range increment <120 feet>); **Damage** 2d8+16 bludgeoning plus 4d6 persistent acid
 
 **Bombadier's Spray** ◆◆ (acid, primal) The cataclysm beetle sprays a 60-foot cone of acid from its abdomen that deals 12d10 acid damage (DC 40 basic Reflex save). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds.
 

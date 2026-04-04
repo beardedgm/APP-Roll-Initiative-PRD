@@ -9,6 +9,8 @@ rare, ne, large, swarm, undead
 
 **Skills** Acrobatics +26, Arcana +28, Occultism +28
 
+**Recall Knowledge - Undead** (Religion): DC 37
+
 **STR** -3, **DEX** +6, **CON** +4, **INT** +8, **WIS** +4, **CHA** +5
 
 ---

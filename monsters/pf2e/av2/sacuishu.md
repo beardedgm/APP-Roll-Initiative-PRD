@@ -11,6 +11,8 @@ unique, ce, small, aberration, air
 
 **Skills** Acrobatics +19, Deception +17, Intimidation +17, Religion +19, Stealth +19
 
+**Recall Knowledge - Aberration** (Occultism): DC 36
+
 **STR** -5, **DEX** +6, **CON** +0, **INT** +3, **WIS** +6, **CHA** +4
 
 ---
@@ -31,7 +33,7 @@ unique, ce, small, aberration, air
 
 Speed fly 50 feet
 
-**Melee** ◆ shock +21 (electricity, magical); **Damage** 2d8+8 electricity
+**Melee** ◆ shock +21/+16/+11 (electricity, magical); **Damage** 2d8+8 electricity
 
 **Prepared divine Spells** (DC 28), attack +20
 

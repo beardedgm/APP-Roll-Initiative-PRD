@@ -11,6 +11,8 @@ rare, ce, large, fiend, nindoru
 
 **Skills** Athletics +16
 
+**Recall Knowledge - Fiend** (Religion): DC 27
+
 **STR** +6, **DEX** +2, **CON** +5, **INT** -2, **WIS** +2, **CHA** +0
 
 **Items** broken katana
@@ -40,7 +42,7 @@ rare, ce, large, fiend, nindoru
 
 Speed 30 feet
 
-**Melee** ◆ broken katana +17 (deadly <d8>, magical, reach <15 feet>, two-hand <d10>, versatile <p>); **Damage** 2d6+8 slashing plus 1d6 mental
+**Melee** ◆ broken katana +17/+12/+7 (deadly <d8>, magical, reach <15 feet>, two-hand <d10>, versatile <p>); **Damage** 2d6+8 slashing plus 1d6 mental
 
 **Innate occult Spells** (DC 24), attack +16
 

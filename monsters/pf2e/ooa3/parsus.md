@@ -11,6 +11,8 @@ unique, ne, medium, dhampir, human, humanoid
 
 **Skills** Arcana +24, Deception +19, Geb Lore +22, Intimidation +19, Society +19, Undead Lore +22
 
+**Recall Knowledge - Humanoid** (Society): DC 37
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** +5, **WIS** +0, **CHA** +0
 
 **Items** clockwork key to clockwork bomb in area F8, corpse compass (page 76), corpsecaller round (page 76), +2 striking slide pistol (Guns & Gears 153)
@@ -27,11 +29,11 @@ unique, ne, medium, dhampir, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ claw +21 (agile); **Damage** 3d8+7 slashing
+**Melee** ◆ claw +21/+17/+13 (agile); **Damage** 3d8+7 slashing
 
-**Melee** ◆ necromechanical innovation +21; **Damage** 2d10+7 bludgeoning
+**Melee** ◆ necromechanical innovation +21/+16/+11; **Damage** 2d10+7 bludgeoning
 
-**Ranged** ◆ slide pistol +20 (capacity <5>, concussive, fatal <d10>, magical, range increment <30 feet>, reload <1>); **Damage** 2d6+3 piercing
+**Ranged** ◆ slide pistol +20/+15/+10 (capacity <5>, concussive, fatal <d10>, magical, range increment <30 feet>, reload <1>); **Damage** 2d6+3 piercing
 
 **Prepared arcane Spells** (DC 31), attack +23
 

@@ -11,6 +11,8 @@ uncommon, n, large, construct
 
 **Skills** Fortune-telling Lore +16
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 26
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** +0, **WIS** +5, **CHA** +5
 
 **Items** metal harrow deck
@@ -37,9 +39,9 @@ uncommon, n, large, construct
 
 Speed 25 feet
 
-**Melee** ◆ fist +17 (agile, magical); **Damage** 2d12+6 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +17/+13/+9 (agile, magical); **Damage** 2d12+6 bludgeoning plus Grab plus Grab
 
-**Ranged** ◆ harrow card +18 (magical, range increment <60 feet>); **Damage** 2d8+6 slashing plus harrowing misfortune plus harrowing misfortune
+**Ranged** ◆ harrow card +18/+13/+8 (magical, range increment <60 feet>); **Damage** 2d8+6 slashing plus harrowing misfortune plus harrowing misfortune
 
 **Innate arcane Spells** (DC 27)
 

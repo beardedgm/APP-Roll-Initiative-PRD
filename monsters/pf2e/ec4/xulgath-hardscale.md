@@ -11,6 +11,8 @@ ne, medium, humanoid, xulgath
 
 **Skills** Acrobatics +19, Athletics +23, Diplomacy +19, Intimidation +21, Nature +19, Stealth +19, Survival +21
 
+**Recall Knowledge - Humanoid** (Society): DC 30
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** +0, **WIS** +3, **CHA** +1
 
 **Items** +1 resilient breastplate, moderate elixir of life, javelins (3), necklace of bone and gems worth 100 gp, lesser sturdy shield (Hardness 10, HP 80, BT 40), +1 striking warhammer
@@ -39,12 +41,12 @@ ne, medium, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** ◆ warhammer +24 (deadly <2d8>, magical, shove); **Damage** 3d8+11 bludgeoning
+**Melee** ◆ warhammer +24/+19/+14 (deadly <2d8>, magical, shove); **Damage** 3d8+11 bludgeoning
 
-**Melee** ◆ jaws +23; **Damage** 3d6+11 piercing
+**Melee** ◆ jaws +23/+18/+13; **Damage** 3d6+11 piercing
 
-**Melee** ◆ claw +23 (agile); **Damage** 3d4+11 slashing
+**Melee** ◆ claw +23/+19/+15 (agile); **Damage** 3d4+11 slashing
 
-**Ranged** ◆ javelin +21 (thrown <20 feet>); **Damage** 1d6+11 piercing
+**Ranged** ◆ javelin +21/+16/+11 (thrown <20 feet>); **Damage** 1d6+11 piercing
 
 **Hammer Mastery** The hardscale deals an extra 1d8 damage with weapons with the shove trait, and weapons with the shove trait gain the deadly 2d8 trait when the hardscale uses them (both the extra weapon damage die and the deadly trait have already been included in the hardscale's warhammer Strike above).

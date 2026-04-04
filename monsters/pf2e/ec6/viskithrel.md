@@ -11,6 +11,8 @@ uncommon, ne, huge, beast
 
 **Skills** Acrobatics +25, Athletics +31, Survival +27
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 36
+
 **STR** +8, **DEX** +6, **CON** +4, **INT** -3, **WIS** +4, **CHA** -1
 
 **Ravenous Tracker** A viskithrel can detect a creature's scent up to a week after the creature has passed through or left an area, and it gains a +4 circumstance bonus to Track a creature whose scent it has detected.
@@ -35,11 +37,11 @@ uncommon, ne, huge, beast
 
 Speed 40 feet, swim 20 feet
 
-**Melee** ◆ jaws +30 (reach <15 feet>); **Damage** 3d10+14 piercing plus 1d10 acid and Grab plus Grab
+**Melee** ◆ jaws +30/+25/+20 (reach <15 feet>); **Damage** 3d10+14 piercing plus 1d10 acid and Grab plus Grab
 
-**Melee** ◆ talon +30 (agile, reach <10 feet>); **Damage** 3d10+14 slashing
+**Melee** ◆ talon +30/+26/+22 (agile, reach <10 feet>); **Damage** 3d10+14 slashing
 
-**Melee** ◆ tentacle +30 (reach <20 feet>); **Damage** 1d10+14 slashing plus 2d10 persistent bleed
+**Melee** ◆ tentacle +30/+25/+20 (reach <20 feet>); **Damage** 1d10+14 slashing plus 2d10 persistent bleed
 
 **and Grab** ◆ Melee talon +30 (agile, reach <10 feet>), Damage 3d10+14 slashing Melee 1 tentacle +30 (reach <20 feet>), Damage 1d10+14 slashing plus 2d10 persistent bleed.
 

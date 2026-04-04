@@ -11,6 +11,8 @@ ln, large, giant, humanoid
 
 **Skills** Acrobatics +21, Intimidation +15, Survival +19, Desert Lore +18
 
+**Recall Knowledge - Humanoid** (Society): DC 26
+
 **STR** +6, **DEX** +6, **CON** +5, **INT** +3, **WIS** +4, **CHA** +0
 
 ---
@@ -27,9 +29,9 @@ ln, large, giant, humanoid
 
 Speed 40 feet
 
-**Melee** ◆ scimitar +21 (forceful, magical, reach <10 feet>, sweep); **Damage** 2d6+12 slashing
+**Melee** ◆ scimitar +21/+16/+11 (forceful, magical, reach <10 feet>, sweep); **Damage** 2d6+12 slashing
 
-**Ranged** ◆ rock +19 (brutal, range increment <120 feet>); **Damage** 2d8+12 bludgeoning
+**Ranged** ◆ rock +19/+14/+9 (brutal, range increment <120 feet>); **Damage** 2d8+12 bludgeoning
 
 **Sand Spin** ◆ **Requirements** The desert giant is standing in sandy terrain; The desert giant spins around and stirs up loose sand in a 10-foot emanation. Until the beginning of the giant's next turn, creatures in the area are concealed, and other creatures are concealed to them.
 

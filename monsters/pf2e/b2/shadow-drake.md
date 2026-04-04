@@ -11,6 +11,8 @@ ce, tiny, dragon, shadow
 
 **Skills** Acrobatics +8, Stealth +8, Thievery +8
 
+**Recall Knowledge - Dragon** (Arcana): DC 16
+
 **STR** +1, **DEX** +4, **CON** +1, **INT** -1, **WIS** +0, **CHA** +2
 
 **Light Blindness**
@@ -33,9 +35,9 @@ ce, tiny, dragon, shadow
 
 Speed 15 feet, fly 60 feet
 
-**Melee** ◆ jaws +11 (finesse); **Damage** 1d10+3 piercing
+**Melee** ◆ jaws +11/+6/+1 (finesse); **Damage** 1d10+3 piercing
 
-**Melee** ◆ tail +11 (agile, finesse); **Damage** 1d8+3 bludgeoning
+**Melee** ◆ tail +11/+7/+3 (agile, finesse); **Damage** 1d8+3 bludgeoning
 
 **Draconic Frenzy** ◆◆ The shadow drake makes one bite Strike and two tail Strikes in any order.
 

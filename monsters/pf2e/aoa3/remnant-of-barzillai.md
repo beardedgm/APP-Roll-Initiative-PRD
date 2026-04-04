@@ -11,6 +11,8 @@ rare, le, medium, incorporeal, undead
 
 **Skills** Arcana +21, Deception +23, Religion +21, Society +19, Torture Lore +21
 
+**Recall Knowledge - Undead** (Religion): DC 32
+
 **STR** -5, **DEX** +3, **CON** +0, **INT** +3, **WIS** +7, **CHA** +5
 
 ---
@@ -31,6 +33,6 @@ rare, le, medium, incorporeal, undead
 
 Speed fly 25 feet
 
-**Melee** ◆ burning mace +22 (magical, fire, shove); **Damage** 2d6+8 bludgeoning plus 2d6 fire
+**Melee** ◆ burning mace +22/+17/+12 (magical, fire, shove); **Damage** 2d6+8 bludgeoning plus 2d6 fire
 
 **Create Haunt** ◆◆◆ (divine, necromancy) **Frequency** {"unit":"day","number":3}; **Requirements** The remnant of Barzillai is within Ravounel; The remnant of Barzillai stirs up and amplifies unsettled spirits in the area to create a single haunt of 6th level or lower at his present location. This haunt is permanent until it is disabled or the remnant of Barzillai is destroyed.

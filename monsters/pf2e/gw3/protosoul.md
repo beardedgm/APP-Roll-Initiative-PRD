@@ -27,9 +27,9 @@ unique, n, large, divine, necromancy, mindless
 
 Speed fly 40 feet
 
-**Melee** ◆ necromantic tendril +22 (divine, magical, necromancy, reach <10 feet>); **Damage** 3d10+11 force
+**Melee** ◆ necromantic tendril +22/+17/+12 (divine, magical, necromancy, reach <10 feet>); **Damage** 3d10+11 force
 
-**Ranged** ◆ necromantic bolt +22 (divine, magical, necromancy, range increment <30 feet>); **Damage** 2d10+11 force
+**Ranged** ◆ necromantic bolt +22/+17/+12 (divine, magical, necromancy, range increment <30 feet>); **Damage** 2d10+11 force
 
 **Innate divine Spells** (DC 30), attack +22
 

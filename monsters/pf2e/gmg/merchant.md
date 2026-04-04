@@ -11,6 +11,8 @@ n, medium, human, humanoid
 
 **Skills** Deception +10, Diplomacy +12, Performance +8, Society +8, Mercantile Lore +10
 
+**Recall Knowledge - Humanoid** (Society): DC 13
+
 **STR** +2, **DEX** +0, **CON** -1, **INT** +2, **WIS** +2, **CHA** +4
 
 **Items** crossbow (10 bolts), padded armor
@@ -31,6 +33,6 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ fist +4 (agile, nonlethal, unarmed); **Damage** 1d4+2 bludgeoning
+**Melee** ◆ fist +4/+0/-4 (agile, nonlethal, unarmed); **Damage** 1d4+2 bludgeoning
 
-**Ranged** ◆ crossbow +4 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
+**Ranged** ◆ crossbow +4/-1/-6 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing

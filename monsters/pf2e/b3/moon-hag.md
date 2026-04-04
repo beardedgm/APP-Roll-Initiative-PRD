@@ -11,6 +11,8 @@ uncommon, ce, medium, fiend, hag, humanoid
 
 **Skills** Deception +19, Intimidation +17, Occultism +19, Religion +22, Boneyard Lore +21
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 29
+
 **STR** +7, **DEX** +5, **CON** +3, **INT** +5, **WIS** +6, **CHA** +3
 
 **Coven** A moon hag adds plane shift, scrying, and spirit blast to her coven's spells.
@@ -33,7 +35,7 @@ uncommon, ce, medium, fiend, hag, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ claw +23 (agile, magical); **Damage** 2d12+10 slashing
+**Melee** ◆ claw +23/+19/+15 (agile, magical); **Damage** 2d12+10 slashing
 
 **Innate occult Spells** (DC 29)
 

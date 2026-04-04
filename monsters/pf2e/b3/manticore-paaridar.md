@@ -11,6 +11,8 @@ uncommon, le, medium, beast, humanoid, paaridar
 
 **Skills** Acrobatics +16, Athletics +19, Intimidation +11, Occultism +10, Manticore Lore +14
 
+**Recall Knowledge - Beast** (Arcana, Nature, Society): DC 25
+
 **STR** +6, **DEX** +5, **CON** +3, **INT** -1, **WIS** +5, **CHA** -2
 
 **Items** +1 handwraps of mighty blows
@@ -29,11 +31,11 @@ uncommon, le, medium, beast, humanoid, paaridar
 
 Speed 40 feet, fly 20 feet, limited flight
 
-**Melee** ◆ jaws +18 (magical); **Damage** 2d8+8 piercing
+**Melee** ◆ jaws +18/+13/+8 (magical); **Damage** 2d8+8 piercing
 
-**Melee** ◆ claw +18 (agile, magical); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +18/+14/+10 (agile, magical); **Damage** 2d6+8 slashing
 
-**Ranged** ◆ spike +16 (propulsive, range increment <40 feet>); **Damage** 1d10+5 piercing
+**Ranged** ◆ spike +16/+11/+6 (propulsive, range increment <40 feet>); **Damage** 1d10+5 piercing
 
 **Monk Ki Spells** (DC 24)
 

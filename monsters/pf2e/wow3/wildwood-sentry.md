@@ -11,6 +11,8 @@ uncommon, medium, human, humanoid
 
 **Skills** Forest Lore +16, Medicine +18, Nature +20, Stealth +20, Survival +20
 
+**Recall Knowledge - Humanoid** (Society): DC 28
+
 **STR** +4, **DEX** +4, **CON** +2, **INT** +1, **WIS** +4, **CHA** +0
 
 **Items**  (20 arrows), battle axe, dagger, leather armor
@@ -33,11 +35,11 @@ uncommon, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +21 (agile, finesse, versatile <S>); **Damage** 1d4+12 piercing
+**Melee** ◆ dagger +21/+17/+13 (agile, finesse, versatile <S>); **Damage** 1d4+12 piercing
 
-**Melee** ◆ battle axe +21 (sweep); **Damage** 1d8+12 slashing
+**Melee** ◆ battle axe +21/+16/+11 (sweep); **Damage** 1d8+12 slashing
 
-**Ranged** ◆ composite longbow +22 (deadly <1d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+11 piercing
+**Ranged** ◆ composite longbow +22/+17/+12 (deadly <1d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+11 piercing
 
 **Innate primal Spells** (DC 25), attack +17
 

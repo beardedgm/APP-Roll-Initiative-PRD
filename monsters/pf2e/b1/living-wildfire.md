@@ -11,6 +11,8 @@ n, medium, elemental, fire
 
 **Skills** Acrobatics +13
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 20
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** -2, **WIS** +3, **CHA** +0
 
 **Smoke Vision** The living wildfire ignores the concealed condition from smoke.
@@ -33,6 +35,6 @@ n, medium, elemental, fire
 
 Speed 50 feet
 
-**Melee** ◆ tendril +15 (agile, finesse, reach <10 feet>); **Damage** 2d6+6 fire plus 2d4 persistent fire
+**Melee** ◆ tendril +15/+11/+7 (agile, finesse, reach <10 feet>); **Damage** 2d6+6 fire plus 2d4 persistent fire
 
-**Ranged** ◆ fire mote +15 (range increment <60 feet>); **Damage** 2d6+3 fire
+**Ranged** ◆ fire mote +15/+10/+5 (range increment <60 feet>); **Damage** 2d6+3 fire

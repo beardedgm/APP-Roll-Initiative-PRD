@@ -11,6 +11,8 @@ uncommon, ce, large, beast, cold
 
 **Skills** Acrobatics +32, Deception +29, Intimidation +33, Nature +28, Occultism +29, Religion +28, Stealth +30, Survival +30
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 38
+
 **STR** +8, **DEX** +7, **CON** +9, **INT** +6, **WIS** +5, **CHA** +6
 
 **Heatsight** (divination, primal) Heatsight is a precise sense that sees heat signatures.
@@ -29,9 +31,9 @@ uncommon, ce, large, beast, cold
 
 Speed fly 100 feet
 
-**Melee** ◆ jaws +33 (cold, magical, reach <10 feet>); **Damage** 3d10+12 piercing plus 2d6 cold
+**Melee** ◆ jaws +33/+28/+23 (cold, magical, reach <10 feet>); **Damage** 3d10+12 piercing plus 2d6 cold
 
-**Melee** ◆ claw +33 (cold, magical, agile, reach <10 feet>); **Damage** 3d8+12 slashing plus 2d6 cold and Grab plus Grab
+**Melee** ◆ claw +33/+29/+25 (cold, magical, agile, reach <10 feet>); **Damage** 3d8+12 slashing plus 2d6 cold and Grab plus Grab
 
 **Innate primal Spells** (DC 38)
 

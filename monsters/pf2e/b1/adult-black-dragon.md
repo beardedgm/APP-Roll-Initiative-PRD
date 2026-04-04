@@ -11,6 +11,8 @@ ce, large, acid, amphibious, dragon
 
 **Skills** Acrobatics +18, Arcana +19, Athletics +24, Deception +20, Intimidation +20, Stealth +20
 
+**Recall Knowledge - Dragon** (Arcana): DC 28
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** +2, **WIS** +3, **CHA** +3
 
 ---
@@ -31,13 +33,13 @@ ce, large, acid, amphibious, dragon
 
 Speed 50 feet, fly 120 feet, swim 50 feet
 
-**Melee** ◆ jaws +25 (acid, magical, reach <10 feet>); **Damage** 2d12+13 piercing plus 2d6 acid
+**Melee** ◆ jaws +25/+20/+15 (acid, magical, reach <10 feet>); **Damage** 2d12+13 piercing plus 2d6 acid
 
-**Melee** ◆ claw +25 (agile, magical); **Damage** 2d10+13 slashing
+**Melee** ◆ claw +25/+21/+17 (agile, magical); **Damage** 2d10+13 slashing
 
-**Melee** ◆ tail +23 (magical, reach <15 feet>); **Damage** 2d12+11 bludgeoning
+**Melee** ◆ tail +23/+18/+13 (magical, reach <15 feet>); **Damage** 2d12+11 bludgeoning
 
-**Melee** ◆ horns +23 (magical, reach <10 feet>); **Damage** 1d10+11 piercing
+**Melee** ◆ horns +23/+18/+13 (magical, reach <10 feet>); **Damage** 1d10+11 piercing
 
 **Innate arcane Spells** (DC 30)
 

@@ -9,6 +9,8 @@ uncommon, n, tiny, clockwork, construct, mindless
 
 **Skills** Acrobatics +5
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 15
+
 **STR** -1, **DEX** +3, **CON** +0, **INT** -5, **WIS** +2, **CHA** +0
 
 **Record Audio** ◆ The clockwork spy records all sounds within 25 feet onto a small gemstone worth 1 gp embedded in its body. The clockwork spy can record up to 1 hour of sound on a single gemstone. Once it begins recording, it can't cease recording early, nor can it record onto a gemstone that already contains a recording. Some clockwork spies contain multiple gemstones to allow for a series of recordings. Since clockwork spies are not intelligent, they must be given simple commands regarding when to start recording sounds. A clockwork spy can differentiate between different kinds of creatures but not between specific individuals. The spy can start or stop playback of recorded sound by spending a single action. Removing a gemstone from or installing a gemstone into a clockwork spy requires a successful DC 14 Thievery check to Disable a Device; on a failure, the gemstone is undamaged, but any recorded sounds are erased and the gemstone still can't be used to make another recording.
@@ -31,4 +33,4 @@ uncommon, n, tiny, clockwork, construct, mindless
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ spherical body +7 (finesse); **Damage** 1d6-1 bludgeoning
+**Melee** ◆ spherical body +7/+2/-3 (finesse); **Damage** 1d6-1 bludgeoning

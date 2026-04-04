@@ -11,6 +11,8 @@ ne, medium, skeleton, undead
 
 **Skills** Arcana +14, Stealth +13
 
+**Recall Knowledge - Undead** (Religion): DC 20
+
 **STR** +2, **DEX** +4, **CON** +0, **INT** -1, **WIS** +2, **CHA** +0
 
 ---
@@ -29,7 +31,7 @@ ne, medium, skeleton, undead
 
 Speed 25 feet
 
-**Melee** ◆ claw +11 (agile, finesse); **Damage** 2d8+2 slashing
+**Melee** ◆ claw +11/+7/+3 (agile, finesse); **Damage** 2d8+2 slashing
 
 **Innate arcane Spells** (DC 22), attack +14
 

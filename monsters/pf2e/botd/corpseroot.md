@@ -9,6 +9,8 @@ ne, huge, undead
 
 **Skills** Athletics +24, Stealth +18
 
+**Recall Knowledge - Undead** (Religion): DC 28
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** -2, **WIS** +3, **CHA** +2
 
 **Plant** When it isn't in danger, the corpseroot spends 1 minute rooting to the earth, becoming planted in place. While the corpseroot is planted and immobile, creatures must actively Seek and succeed at a DC 36 Perception check (DC 40 in forests) to detect the corpseroot's true nature.
@@ -35,11 +37,11 @@ ne, huge, undead
 
 Speed 20 feet
 
-**Melee** ◆ branch +24 (reach <15 feet>); **Damage** 3d12+10 bludgeoning
+**Melee** ◆ branch +24/+19/+14 (reach <15 feet>); **Damage** 3d12+10 bludgeoning
 
-**Melee** ◆ root +24 (agile, reach <20 feet>, trip); **Damage** 3d8+10 bludgeoning plus
+**Melee** ◆ root +24/+20/+16 (agile, reach <20 feet>, trip); **Damage** 3d8+10 bludgeoning plus
 
-**Ranged** ◆ rotten fruit +20 (range increment <20 feet>, splash); **Damage** 3d4+7 bludgeoning plus 2d6 poison splash damage
+**Ranged** ◆ rotten fruit +20/+15/+10 (range increment <20 feet>, splash); **Damage** 3d4+7 bludgeoning plus 2d6 poison splash damage
 
 **Grab**
 

@@ -9,6 +9,8 @@ n, huge, animal
 
 **Skills** Athletics +23, Stealth +18, Survival +17
 
+**Recall Knowledge - Animal** (Nature): DC 27
+
 **STR** +7, **DEX** +4, **CON** +7, **INT** -4, **WIS** +5, **CHA** -2
 
 **Deep Breath** The behemoth hippopotamus can hold its breath for 1 hour.
@@ -25,9 +27,9 @@ n, huge, animal
 
 Speed 35 feet, swim 35 feet
 
-**Melee** ◆ jaws +23 (deadly <d12>, reach <10 feet>); **Damage** 2d12+10 piercing plus Grab plus Grab
+**Melee** ◆ jaws +23/+18/+13 (deadly <d12>, reach <10 feet>); **Damage** 2d12+10 piercing plus Grab plus Grab
 
-**Melee** ◆ foot +21; **Damage** 2d8+9 bludgeoning
+**Melee** ◆ foot +21/+16/+11; **Damage** 2d8+9 bludgeoning
 
 **Aquatic Ambush** ◆ 40 feet
 

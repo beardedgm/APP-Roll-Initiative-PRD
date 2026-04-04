@@ -9,6 +9,8 @@ rare, n, medium, construct, golem, mindless
 
 **Skills** Athletics +38
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 43
+
 **STR** +9, **DEX** +0, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -33,7 +35,7 @@ rare, n, medium, construct, golem, mindless
 
 Speed 20 feet
 
-**Melee** ◆ blade +36 (magical, reach <10 feet>); **Damage** 3d12+15 slashing plus decapitation
+**Melee** ◆ blade +36/+31/+26 (magical, reach <10 feet>); **Damage** 3d12+15 slashing plus decapitation
 
 **Breath Weapon** ◆◆ (necromancy, occult, poison) The guillotine golem emits poisonous gas in a 10-foot radius centered on the corner of one of the golem's squares. The gas persists for 1 round. Any creature in the area (or that later enters the area) is exposed to the golem's poison. The golem can't use its Breath Weapon again for 1d4 rounds.
 

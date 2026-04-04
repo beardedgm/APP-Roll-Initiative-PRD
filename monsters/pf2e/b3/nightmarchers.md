@@ -11,6 +11,8 @@ ln, gargantuan, incorporeal, spirit, troop, undead
 
 **Skills** Athletics +25, Religion +27, Warfare Lore +27
 
+**Recall Knowledge - Spirit** (Religion): DC 32
+
 **STR** -5, **DEX** +5, **CON** +4, **INT** +5, **WIS** +5, **CHA** +5
 
 **Kinsense** (detection, divination, divine) Nightmarchers can detect creatures who are their kin, whether by blood or bond, as an imprecise sense. If they focus their senses on a creature by Seeking, they learn whether they are related to that creature, and how.

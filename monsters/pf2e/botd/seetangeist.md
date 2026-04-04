@@ -9,6 +9,8 @@ uncommon, ne, huge, aquatic, mindless, swarm, undead
 
 **Skills** Athletics +22
 
+**Recall Knowledge - Undead** (Religion): DC 32
+
 **STR** +4, **DEX** +4, **CON** +7, **INT** -5, **WIS** +3, **CHA** +2
 
 ---

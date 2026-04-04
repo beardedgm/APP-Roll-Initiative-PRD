@@ -11,6 +11,8 @@ unique, medium, graveknight, undead, unholy
 
 **Skills** Arazni Lore +38, Athletics +38, Diplomacy +34, Intimidation +34, Religion +32, Society +34, Warfare Lore +34
 
+**Recall Knowledge - Undead** (Religion): DC 50
+
 **STR** +10, **DEX** +6, **CON** +10, **INT** +7, **WIS** +4, **CHA** +7
 
 **Items** +2 resilient standard-grade adamantine full plate, javelin (4), longsword, supreme sturdy shield (Hardness 20, HP 160, BT 80)
@@ -37,11 +39,11 @@ unique, medium, graveknight, undead, unholy
 
 Speed 25 feet
 
-**Melee** ◆ flaming longsword +38 (fire, magical, versatile <P>); **Damage** 6d8+18 slashing plus 2d10 fire
+**Melee** ◆ flaming longsword +38/+33/+28 (fire, magical, versatile <P>); **Damage** 6d8+18 slashing plus 2d10 fire
 
-**Melee** ◆ fist +39 (agile, finesse, fire, magical); **Damage** 5d8+18 bludgeoning plus 2d10 fire
+**Melee** ◆ fist +39/+35/+31 (agile, finesse, fire, magical); **Damage** 5d8+18 bludgeoning plus 2d10 fire
 
-**Ranged** ◆ flaming javelin +34 (fire, magical, thrown <30 feet>); **Damage** 6d6+18 piercing plus 2d10 fire
+**Ranged** ◆ flaming javelin +34/+29/+24 (fire, magical, thrown <30 feet>); **Damage** 6d6+18 piercing plus 2d10 fire
 
 **Champion Devotion Spells** (DC 39)
 

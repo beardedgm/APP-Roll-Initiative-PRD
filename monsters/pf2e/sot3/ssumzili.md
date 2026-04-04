@@ -11,6 +11,8 @@ uncommon, ce, medium, fey
 
 **Skills** Acrobatics +23, Athletics +21, Intimidation +19, Nature +17, Stealth +25, Survival +21
 
+**Recall Knowledge - Fey** (Nature): DC 32
+
 **STR** +5, **DEX** +7, **CON** +4, **INT** +3, **WIS** +5, **CHA** +3
 
 **Deluge Vision** A ssumzili ignores sensory difficulties caused by rain.
@@ -35,7 +37,7 @@ uncommon, ce, medium, fey
 
 Speed 40 feet, puddle stride
 
-**Melee** ◆ claw +24 (agile, finesse); **Damage** 3d8+7 slashing
+**Melee** ◆ claw +24/+20/+16 (agile, finesse); **Damage** 3d8+7 slashing
 
 **Innate primal Spells** (DC 29)
 

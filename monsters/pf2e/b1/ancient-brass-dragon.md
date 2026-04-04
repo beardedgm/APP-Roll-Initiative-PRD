@@ -11,6 +11,8 @@ uncommon, cg, huge, dragon, fire
 
 **Skills** Acrobatics +27, Athletics +31, Deception +27, Diplomacy +29, Society +28
 
+**Recall Knowledge - Dragon** (Arcana): DC 37
+
 **STR** +7, **DEX** +5, **CON** +6, **INT** +4, **WIS** +4, **CHA** +5
 
 ---
@@ -31,9 +33,9 @@ uncommon, cg, huge, dragon, fire
 
 Speed 50 feet, fly 150 feet, burrow 40 feet
 
-**Melee** ◆ jaws +32 (fire, magical, reach <15 feet>); **Damage** 3d10+15 piercing plus 3d6 fire and 2d6 persistent fire
+**Melee** ◆ jaws +32/+27/+22 (fire, magical, reach <15 feet>); **Damage** 3d10+15 piercing plus 3d6 fire and 2d6 persistent fire
 
-**Melee** ◆ claw +32 (agile, magical, reach <10 feet>); **Damage** 3d10+15 slashing
+**Melee** ◆ claw +32/+28/+24 (agile, magical, reach <10 feet>); **Damage** 3d10+15 slashing
 
 **Innate arcane Spells** (DC 37)
 

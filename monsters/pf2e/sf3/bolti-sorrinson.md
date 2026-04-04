@@ -11,6 +11,8 @@ unique, cn, medium, undead, water
 
 **Skills** Athletics +38, Intimidation +36
 
+**Recall Knowledge - Undead** (Religion): DC 50
+
 **STR** +8, **DEX** +4, **CON** +7, **INT** +2, **WIS** +6, **CHA** +6
 
 **Items** Icefang (+3 major striking greater frost greataxe), +2 greater resilient leather armor
@@ -35,9 +37,9 @@ unique, cn, medium, undead, water
 
 Speed 25 feet, swim 25 feet
 
-**Melee** ◆ Icefang +39 (sweep); **Damage** 4d12+16 slashing plus 1d6 cold and Grotesque Gift
+**Melee** ◆ Icefang +39/+34/+29 (sweep); **Damage** 4d12+16 slashing plus 1d6 cold and Grotesque Gift
 
-**Melee** ◆ fist +36 (agile); **Damage** 4d8+16 bludgeoning plus Grotesque Gift
+**Melee** ◆ fist +36/+32/+28 (agile); **Damage** 4d8+16 bludgeoning plus Grotesque Gift
 
 **Grotesque Gift** (olfactory) Bolti's attacks spatter his targets with rancid flesh and clotted blood. A creature damaged by one of Bolti's Strikes must succeed at a DC 39 Fortitude save or become sickened 1 (sickened 2 on a critical failure).
 

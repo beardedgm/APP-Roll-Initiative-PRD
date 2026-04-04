@@ -9,6 +9,8 @@ uncommon, ne, medium, animal, fiend
 
 **Skills** Acrobatics +6, Athletics +8, Stealth +6
 
+**Recall Knowledge - Animal** (Nature, Religion): DC 18
+
 **STR** +2, **DEX** +2, **CON** +4, **INT** -4, **WIS** +1, **CHA** -2
 
 ---
@@ -29,7 +31,7 @@ uncommon, ne, medium, animal, fiend
 
 Speed 30 feet, swim 30 feet
 
-**Melee** ◆ jaws +11; **Damage** 1d10+2 piercing plus 1d6 persistent acid damage and Grab plus Grab
+**Melee** ◆ jaws +11/+6/+1; **Damage** 1d10+2 piercing plus 1d6 persistent acid damage and Grab plus Grab
 
 **Gout of Acid** ◆◆ (acid, primal) The corrosive lizard vomits a gout of acid in a 15-foot cone. Each creature in this area takes 3d6 acid damage (DC 20 basic Reflex save). The lizard can't use Gout of Acid again for 1d4 rounds.
 

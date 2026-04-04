@@ -11,6 +11,8 @@ ln, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Occultism +17, Irori Lore +17, Temple Lore +17
 
+**Recall Knowledge - Spirit** (Religion): DC 26
+
 **STR** -5, **DEX** +4, **CON** +0, **INT** +2, **WIS** +6, **CHA** +6
 
 **Site Bound** As ghost.
@@ -33,7 +35,7 @@ ln, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 40 feet
 
-**Melee** ◆ ghostly fist +21 (agile, finesse, magical); **Damage** 2d8+12 negative
+**Melee** ◆ ghostly fist +21/+17/+13 (agile, finesse, magical); **Damage** 2d8+12 negative
 
 **Flurry of Blows** ◆ (flourish) The ghost monk makes two Strikes with their ghostly fist. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.
 

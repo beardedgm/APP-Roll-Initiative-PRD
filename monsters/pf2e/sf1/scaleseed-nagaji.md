@@ -11,6 +11,8 @@ rare, n, medium, humanoid, nagaji
 
 **Skills** Nature +17, Religion +15, Survival +15
 
+**Recall Knowledge - Humanoid** (Society): DC 28
+
 **STR** +1, **DEX** +2, **CON** +3, **INT** +1, **WIS** +4, **CHA** +2
 
 **Items** leather armor, +1 sickle
@@ -29,7 +31,7 @@ rare, n, medium, humanoid, nagaji
 
 Speed 25 feet
 
-**Melee** ◆ sickle +16 (agile, finesse, magical, trip); **Damage** 1d4+4 slashing
+**Melee** ◆ sickle +16/+12/+8 (agile, finesse, magical, trip); **Damage** 1d4+4 slashing
 
 **Prepared primal Spells** (DC 25), attack +17
 

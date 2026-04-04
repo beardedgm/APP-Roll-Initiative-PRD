@@ -11,6 +11,8 @@ n, medium, animal
 
 **Skills** Acrobatics +6, Athletics +8, Stealth +5
 
+**Recall Knowledge - Animal** (Nature): DC 16
+
 **STR** +4, **DEX** +2, **CON** +4, **INT** -4, **WIS** +0, **CHA** +0
 
 ---
@@ -25,9 +27,9 @@ n, medium, animal
 
 Speed 30 feet, climb 30 feet
 
-**Melee** ◆ tusks +11 (deadly <1d10>); **Damage** 1d8+4 piercing
+**Melee** ◆ tusks +11/+6/+1 (deadly <1d10>); **Damage** 1d8+4 piercing
 
-**Ranged** ◆ slime squirt +9 (range increment <30 feet>); plus entangling slime
+**Ranged** ◆ slime squirt +9/+4/-1 (range increment <30 feet>); plus entangling slime
 
 **Belly Grease** ◆◆◆ The slurk extrudes a slippery grease from its ventral glands to coat the floor under it and in a 5-foot emanation, turning the affected area into uneven ground for 10 minutes, after which it dries to a putrid crust. The DC to Balance across the slime is 18.
 

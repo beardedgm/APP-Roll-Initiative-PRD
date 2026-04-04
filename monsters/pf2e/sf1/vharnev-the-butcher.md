@@ -11,6 +11,8 @@ unique, ce, medium, human, humanoid, tiefling
 
 **Skills** Arcana +19, Athletics +21, Intimidation +20, Society +19, Stealth +15
 
+**Recall Knowledge - Humanoid** (Society): DC 37
+
 **STR** +5, **DEX** +1, **CON** +2, **INT** +3, **WIS** +0, **CHA** +4
 
 **Items** +2 striking wounding battle axe, +1 half plate, steel-colored bird feather token, uniila witch token
@@ -31,7 +33,7 @@ unique, ce, medium, human, humanoid, tiefling
 
 Speed 25 feet
 
-**Melee** ◆ battle axe +23 (magical, sweep); **Damage** 2d8+11 slashing plus 1d6 persistent bleed
+**Melee** ◆ battle axe +23/+18/+13 (magical, sweep); **Damage** 2d8+11 slashing plus 1d6 persistent bleed
 
 **Spontaneous arcane Spells** (DC 26), attack +18
 

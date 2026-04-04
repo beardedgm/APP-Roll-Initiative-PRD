@@ -9,6 +9,8 @@ rare, n, large, mindless, ooze
 
 **Skills** Athletics +7
 
+**Recall Knowledge - Ooze** (Occultism): DC 21
+
 **STR** +3, **DEX** -2, **CON** +2, **INT** -5, **WIS** -1, **CHA** -5
 
 **Motion Sense** A yeast ooze can sense nearby creatures through vibration and air or water movement.
@@ -31,7 +33,7 @@ rare, n, large, mindless, ooze
 
 Speed 20 feet, swim 20 feet
 
-**Melee** ◆ pseudopod +9; **Damage** 1d8+3 bludgeoning plus monstrous yeast
+**Melee** ◆ pseudopod +9/+4/-1; **Damage** 1d8+3 bludgeoning plus monstrous yeast
 
 **Monstrous Yeast** (contact, disease) Whenever a creature infected with monstrous yeast takes cold damage, they can make a new saving throw with a +2 circumstance bonus. **Failure**  **Saving Throw** DC 16 Fortitude
 **Onset** 1 round

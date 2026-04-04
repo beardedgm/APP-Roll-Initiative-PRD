@@ -11,6 +11,8 @@ ce, tiny, fey, gremlin
 
 **Skills** Crafting +5, Deception +2, Nature +4, Stealth +5, Thievery +5
 
+**Recall Knowledge - Fey** (Nature): DC 13
+
 **STR** +1, **DEX** +3, **CON** +3, **INT** +1, **WIS** +2, **CHA** -2
 
 **Items** satchel with 5 rocks
@@ -31,9 +33,9 @@ ce, tiny, fey, gremlin
 
 Speed 10 feet, fly 20 feet, climb 20 feet
 
-**Melee** ◆ bite +7 (agile, finesse); **Damage** 1d4+1 piercing
+**Melee** ◆ bite +7/+3/-1 (agile, finesse); **Damage** 1d4+1 piercing
 
-**Ranged** ◆ rock +7 (agile, range increment <20 feet>); **Damage** 1d4+1 bludgeoning
+**Ranged** ◆ rock +7/+3/-1 (agile, range increment <20 feet>); **Damage** 1d4+1 bludgeoning
 
 **Innate primal Spells** (DC 16)
 

@@ -9,6 +9,8 @@ n, medium, animal
 
 **Skills** Athletics +6, Stealth +7
 
+**Recall Knowledge - Animal** (Nature): DC 15
+
 **STR** +3, **DEX** +2, **CON** +2, **INT** -4, **WIS** +1, **CHA** -1
 
 ---
@@ -29,7 +31,7 @@ n, medium, animal
 
 Speed 40 feet
 
-**Melee** ◆ jaws +9; **Damage** 1d6+3 piercing plus goblin pox plus goblin pox
+**Melee** ◆ jaws +9/+4/-1; **Damage** 1d6+3 piercing plus goblin pox plus goblin pox
 
 **Goblin Pox** (disease)
 

@@ -11,6 +11,8 @@ uncommon, n, medium, human, humanoid
 
 **Skills** Acrobatics +26, Athletics +26, Occultism +23
 
+**Recall Knowledge - Humanoid** (Society): DC 33
+
 **STR** +5, **DEX** +4, **CON** +3, **INT** +2, **WIS** +3, **CHA** +0
 
 ---
@@ -25,11 +27,11 @@ uncommon, n, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ bo staff +27 (magical, parry, reach, trip); **Damage** 2d8+11 bludgeoning plus Knockdown plus Knockdown
+**Melee** ◆ bo staff +27/+22/+17 (magical, parry, reach, trip); **Damage** 2d8+11 bludgeoning plus Knockdown plus Knockdown
 
-**Melee** ◆ fist +27 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d6+11 bludgeoning
+**Melee** ◆ fist +27/+23/+19 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d6+11 bludgeoning
 
-**Ranged** ◆ dart +24 (agile, magical, thrown <20 feet>); **Damage** 2d6+9 bludgeoning
+**Ranged** ◆ dart +24/+20/+16 (agile, magical, thrown <20 feet>); **Damage** 2d6+9 bludgeoning
 
 **Monk Focus Spells** (DC 32), attack +25
 

@@ -11,6 +11,8 @@ rare, n, tiny, beast
 
 **Skills** Stealth +3, Survival +6
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 20
+
 **STR** -3, **DEX** +0, **CON** +3, **INT** -2, **WIS** +3, **CHA** +0
 
 **Carbuncle Empathy** The carbuncle can telepathically send mild feelings and sensations to nearby creatures. It can't use this ability to communicate in language or hinder a target, but it might convey a feeling of dread or the scent of food cooking nearby.
@@ -31,7 +33,7 @@ rare, n, tiny, beast
 
 Speed 15 feet
 
-**Melee** ◆ jaws +5 (finesse); **Damage** 1d6 piercing
+**Melee** ◆ jaws +5/+0/-5 (finesse); **Damage** 1d6 piercing
 
 **Innate primal Spells** (DC 18)
 

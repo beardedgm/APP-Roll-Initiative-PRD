@@ -9,6 +9,8 @@ uncommon, ne, huge, mindless, swarm, undead
 
 **Skills** Acrobatics +22, Survival +21
 
+**Recall Knowledge - Undead** (Religion): DC 32
+
 **STR** +0, **DEX** +4, **CON** +7, **INT** -5, **WIS** +3, **CHA** +4
 
 **Feral Trackers** A feral skull swarm gains a +2 circumstance bonus to Perception checks to Seek and to Survival checks to Track, both against any creature that has taken damage from the swarm's Feral Gnaw within the previous 24 hours.

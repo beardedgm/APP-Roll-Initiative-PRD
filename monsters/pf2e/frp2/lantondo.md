@@ -11,6 +11,8 @@ unique, ln, small, construct, wyrwood
 
 **Skills** Acrobatics +27, Deception +28, Occultism +24
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 44
+
 **STR** +2, **DEX** +5, **CON** +3, **INT** +0, **WIS** +4, **CHA** +4
 
 ---
@@ -25,9 +27,9 @@ unique, ln, small, construct, wyrwood
 
 Speed 25 feet
 
-**Melee** ◆ dagger +28 (agile, finesse, versatile <S>); **Damage** 3d4+10 piercing
+**Melee** ◆ dagger +28/+24/+20 (agile, finesse, versatile <S>); **Damage** 3d4+10 piercing
 
-**Ranged** ◆ harrow card +30 (agile, magical, thrown <20 feet>); **Damage** 3d4+10 slashing plus 3d6 force
+**Ranged** ◆ harrow card +30/+26/+22 (agile, magical, thrown <20 feet>); **Damage** 3d4+10 slashing plus 3d6 force
 
 **Spontaneous occult Spells** (DC 36)
 

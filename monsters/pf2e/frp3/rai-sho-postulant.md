@@ -11,6 +11,8 @@ rare, n, large, humanoid
 
 **Skills** Athletics +33, Stealth +28, Survival +27
 
+**Recall Knowledge - Humanoid** (Society): DC 40
+
 **STR** +9, **DEX** +5, **CON** +6, **INT** +2, **WIS** +6, **CHA** +2
 
 **Snowblind When** Hiding, the yeti is concealed by any snowfall, even if it's not thick enough to make other creatures concealed.
@@ -35,9 +37,9 @@ rare, n, large, humanoid
 
 Speed 60 feet, climb 20 feet
 
-**Melee** ◆ claw +33 (magical); **Damage** 3d10+17 slashing
+**Melee** ◆ claw +33/+28/+23 (magical); **Damage** 3d10+17 slashing
 
-**Ranged** ◆ icicle +31 (cold, magical, thrown <20 feet>); **Damage** 2d8+17 piercing plus 1d8 cold
+**Ranged** ◆ icicle +31/+26/+21 (cold, magical, thrown <20 feet>); **Damage** 2d8+17 piercing plus 1d8 cold
 
 **Innate divine Spells** (DC 37)
 

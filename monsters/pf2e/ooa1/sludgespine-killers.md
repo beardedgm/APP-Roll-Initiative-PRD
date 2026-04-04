@@ -11,6 +11,8 @@ uncommon, ce, medium, gnoll, humanoid
 
 **Skills** Athletics +5, Intimidation +4, Stealth +4, Thievery +4
 
+**Recall Knowledge - Humanoid** (Society): DC 15
+
 **STR** +0, **DEX** +1, **CON** +3, **INT** -1, **WIS** +2, **CHA** -1
 
 **Items** bola (2; Pathfinder Advanced Player's Guide 248), leather armor, sap
@@ -29,9 +31,9 @@ uncommon, ce, medium, gnoll, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ jaws +6 (unarmed); **Damage** 1d6 piercing Melee1 sap +6 (agile, nonlethal), Damage 1d6 bludgeoning
+**Melee** ◆ jaws +6/+1/-4 (unarmed); **Damage** 1d6 piercing Melee1 sap +6 (agile, nonlethal), Damage 1d6 bludgeoning
 
-**Ranged** ◆ bola +5 (nonlethal, range <20 feet>, ranged trip, thrown); **Damage** 1d6 bludgeoning
+**Ranged** ◆ bola +5/+0/-5 (nonlethal, range <20 feet>, ranged trip, thrown); **Damage** 1d6 bludgeoning
 
 **Pack Attack** A gnoll deals 1d4 extra damage to any creature that's within reach of at least two of the gnoll's allies.
 

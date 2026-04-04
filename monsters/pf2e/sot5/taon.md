@@ -11,6 +11,8 @@ unique, ce, medium, undead
 
 **Skills** Acrobatics +26, Athletics +29, Intimidation +29, Society +22, Stealth +28
 
+**Recall Knowledge - Undead** (Religion): DC 44
+
 **STR** +6, **DEX** +5, **CON** +4, **INT** +1, **WIS** +4, **CHA** +6
 
 **Items** Spellcutter|SoT5
@@ -35,11 +37,11 @@ unique, ce, medium, undead
 
 Speed 50 feet, climb 25 feet
 
-**Melee** ◆ claw +29; **Damage** 3d12+14 slashing plus Grab
+**Melee** ◆ claw +29/+24/+19; **Damage** 3d12+14 slashing plus Grab
 
-**Melee** ◆ tongue +29 (agile, reach <10 feet>); **Damage** paralysis
+**Melee** ◆ tongue +29/+25/+21 (agile, reach <10 feet>); **Damage** paralysis
 
-**Melee** ◆ Spellcutter +31 (magical, versatile <P>); **Damage** 3d8+14 slashing (cannot damage living creatures)
+**Melee** ◆ Spellcutter +31/+26/+21 (magical, versatile <P>); **Damage** 3d8+14 slashing (cannot damage living creatures)
 
 **Cruel Reactions** Taon gains an extra reaction each round that can be used only to make an Attack of Opportunity.
 

@@ -11,6 +11,8 @@ unique, ln, huge, construct, divine, mindless
 
 **Skills** Athletics +28
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 42
+
 **STR** +8, **DEX** -1, **CON** +8, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -33,9 +35,9 @@ unique, ln, huge, construct, divine, mindless
 
 Speed 30 feet
 
-**Melee** ◆ fist +28 (magical, reach <10 feet>); **Damage** 3d10+14 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +28/+23/+18 (magical, reach <10 feet>); **Damage** 3d10+14 bludgeoning plus Grab plus Grab
 
-**Melee** ◆ staff +30 (magical, parry, reach <15 feet>, trip); **Damage** 3d8+14 bludgeoning
+**Melee** ◆ staff +30/+25/+20 (magical, parry, reach <15 feet>, trip); **Damage** 3d8+14 bludgeoning
 
 **Innate divine Spells** (DC 32), attack +24
 

@@ -11,6 +11,8 @@ unique, cg, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Acrobatics +26, Diplomacy +28, Fortune-telling Lore +26, Occultism +28, Performance +26
 
+**Recall Knowledge - Spirit** (Religion): DC 42
+
 **STR** -5, **DEX** +6, **CON** +2, **INT** +4, **WIS** +5, **CHA** +6
 
 **Boundless Spirit** Unlike other ghosts, Zellara is not bound to a specific site or object. She can freely manifest wherever she likes.
@@ -37,9 +39,9 @@ unique, cg, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ◆ ghostly hand +26 (agile, finesse, magical); **Damage** 3d12+8 negative
+**Melee** ◆ ghostly hand +26/+22/+18 (agile, finesse, magical); **Damage** 3d12+8 negative
 
-**Ranged** ◆ ghostly harrow card +26 (magical, range increment <60 feet>); **Damage** 3d8+8 negative
+**Ranged** ◆ ghostly harrow card +26/+21/+16 (magical, range increment <60 feet>); **Damage** 3d8+8 negative
 
 **Innate occult Spells** (DC 34), attack +26
 

@@ -19,9 +19,9 @@
 
 ---
 
-**Melee** ◆ staff +11 (two-hand <d8>); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ staff +11/+6/+1 (two-hand <d8>); **Damage** 1d4+4 bludgeoning
 
-**Ranged** ◆ sling +9 (range increment <50 feet>, reload <1>); **Damage** 1d6+2 bludgeoning
+**Ranged** ◆ sling +9/+4/-1 (range increment <50 feet>, reload <1>); **Damage** 1d6+2 bludgeoning
 
 **Spontaneous primal Spells** (DC 18), attack +10
 

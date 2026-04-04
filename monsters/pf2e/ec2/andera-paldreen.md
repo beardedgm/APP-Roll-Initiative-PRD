@@ -11,6 +11,8 @@ unique, ln, medium, human, humanoid
 
 **Skills** Athletics +19, Diplomacy +22, Intimidation +21, Society +19, Underworld Lore +19
 
+**Recall Knowledge - Humanoid** (Society): DC 37
+
 **STR** +3, **DEX** +0, **CON** +5, **INT** +3, **WIS** +5, **CHA** +5
 
 **Criminal Lore** +19, Diplomacy +22
@@ -35,7 +37,7 @@ unique, ln, medium, human, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ +1 striking falchion +22 (forceful, sweep); **Damage** 2d10+7 slashing
+**Melee** ◆ +1 striking falchion +22/+17/+12 (forceful, sweep); **Damage** 2d10+7 slashing
 
 **Call to Halt** ◆◆ (auditory, concentrate, emotion, mental) . Andera makes an Intimidation check and compares it to the Will DC of each creature she chooses within 30 feet. Regardless of her result, the targets are temporarily immune for 10 minutes. **Critical Success** The target is paralyzed for 1 minute and becomes frightened|CRB|frightened 2.
 **Success** The target takes a –10-foot penalty to all its Speeds for 1 minute and becomes frightened|CRB|frightened 1.

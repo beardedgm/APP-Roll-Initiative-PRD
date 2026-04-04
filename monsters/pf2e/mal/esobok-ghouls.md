@@ -11,6 +11,8 @@ rare, ce, medium, ghoul, undead
 
 **Skills** Acrobatics +13, Athletics +12, Intimidation +11, Religion +6, Stealth +13, Survival +12
 
+**Recall Knowledge - Undead** (Religion): DC 25
+
 **STR** +3, **DEX** +4, **CON** +4, **INT** -3, **WIS** +3, **CHA** +2
 
 ---
@@ -27,9 +29,9 @@ rare, ce, medium, ghoul, undead
 
 Speed 30 feet
 
-**Melee** ◆ jaws +14 (magical); **Damage** 1d10+7 plus corrupted touch, ghoul fever, and paralysis
+**Melee** ◆ jaws +14/+9/+4 (magical); **Damage** 1d10+7 plus corrupted touch, ghoul fever, and paralysis
 
-**Melee** ◆ claw +14 (agile, magical); **Damage** 1d6+7 slashing plus corrupted touch and paralysis
+**Melee** ◆ claw +14/+10/+6 (agile, magical); **Damage** 1d6+7 slashing plus corrupted touch and paralysis
 
 **Innate divine Spells** (DC 22)
 

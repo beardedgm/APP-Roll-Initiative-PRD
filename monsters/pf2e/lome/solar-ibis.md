@@ -11,6 +11,8 @@ ng, medium, beast
 
 **Skills** Acrobatics +18, Athletics +14
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 23
+
 **STR** +4, **DEX** +6, **CON** +2, **INT** +0, **WIS** +3, **CHA** +3
 
 ---
@@ -29,9 +31,9 @@ ng, medium, beast
 
 Speed 10 feet, fly 60 feet
 
-**Melee** ◆ beak +18; **Damage** 2d10+11 piercing
+**Melee** ◆ beak +18/+13/+8; **Damage** 2d10+11 piercing
 
-**Melee** ◆ talon +18 (agile); **Damage** 2d8+9 slashing plus Grab plus Grab
+**Melee** ◆ talon +18/+14/+10 (agile); **Damage** 2d8+9 slashing plus Grab plus Grab
 
 **Ibis Dive** ◆◆ The solar ibis Flies up to double its fly Speed in a straight line, descends at least 10 feet, and then makes a talon Strike.
 

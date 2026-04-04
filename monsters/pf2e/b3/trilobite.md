@@ -9,6 +9,8 @@ n, tiny, animal, aquatic
 
 **Skills** Athletics +4, Stealth +5, Survival +4
 
+**Recall Knowledge - Animal** (Nature): DC 13
+
 **STR** +1, **DEX** +3, **CON** +2, **INT** -5, **WIS** +2, **CHA** +0
 
 ---
@@ -25,6 +27,6 @@ n, tiny, animal, aquatic
 
 Speed swim 25 feet
 
-**Melee** ◆ gnathobase +7 (agile, finesse); **Damage** 1d4+1 slashing
+**Melee** ◆ gnathobase +7/+3/-1 (agile, finesse); **Damage** 1d4+1 slashing
 
 **Quick Escape** ◆◆ The trilobite swims up to double its.

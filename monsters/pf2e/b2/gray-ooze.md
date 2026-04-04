@@ -9,6 +9,8 @@ n, medium, mindless, ooze
 
 **Skills** Athletics +11, Stealth +10
 
+**Recall Knowledge - Ooze** (Occultism): DC 19
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
 **Motion Sense** An amoeba swarm can sense nearby creatures through vibration and air or water movement.
@@ -29,7 +31,7 @@ n, medium, mindless, ooze
 
 Speed 10 feet, climb 10 feet
 
-**Melee** ◆ pseudopod +13 (agile); **Damage** 1d6+5 bludgeoning plus 1d6 acid and Grab plus Grab
+**Melee** ◆ pseudopod +13/+9/+5 (agile); **Damage** 1d6+5 bludgeoning plus 1d6 acid and Grab plus Grab
 
 **Constrict** ◆ 1d6 bludgeoning plus 1d6 acid, DC 21
 

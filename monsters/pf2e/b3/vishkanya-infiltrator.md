@@ -11,6 +11,8 @@ rare, n, medium, humanoid, vishkanya
 
 **Skills** Acrobatics +9, Athletics +7, Deception +11, Diplomacy +9, Society +7, Stealth +11, Thievery +9
 
+**Recall Knowledge - Humanoid** (Society): DC 23
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +0, **WIS** +1, **CHA** +2
 
 **Items** disguise kit, kukri, leather armor, shuriken (10), thieves' tools
@@ -27,9 +29,9 @@ rare, n, medium, humanoid, vishkanya
 
 Speed 25 feet
 
-**Melee** ◆ kukri +11 (agile, finesse, trip); **Damage** 1d6+4 slashing
+**Melee** ◆ kukri +11/+7/+3 (agile, finesse, trip); **Damage** 1d6+4 slashing
 
-**Ranged** ◆ shuriken +11 (agile, thrown <20 feet>); **Damage** 1d4+4 piercing
+**Ranged** ◆ shuriken +11/+7/+3 (agile, thrown <20 feet>); **Damage** 1d4+4 piercing
 
 **Envenom** ◆ **Frequency** {"unit":"day","number":1}; Using either saliva or blood, the vishkanya applies vishkanyan venom to one weapon they're holding. To use their blood, they must be injured, or they can deal themselves 1 slashing damage as part of the action.
 

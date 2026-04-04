@@ -11,6 +11,8 @@ uncommon, le, medium, earth, fey
 
 **Skills** Athletics +15, Deception +15, Nature +17, Occultism +17, Gem Lore +17
 
+**Recall Knowledge - Fey** (Nature): DC 25
+
 **STR** +4, **DEX** +4, **CON** +5, **INT** +4, **WIS** +6, **CHA** +2
 
 **Items** gemstone (worth 25 gp)
@@ -37,7 +39,7 @@ uncommon, le, medium, earth, fey
 
 Speed 25 feet
 
-**Melee** ◆ claw +17 (agile); **Damage** 2d6+10 slashing plus stone curse plus stone curse
+**Melee** ◆ claw +17/+13/+9 (agile); **Damage** 2d6+10 slashing plus stone curse plus stone curse
 
 **Innate occult Spells** (DC 25)
 

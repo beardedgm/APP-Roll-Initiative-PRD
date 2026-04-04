@@ -11,6 +11,8 @@ ce, medium, beast, fiend
 
 **Skills** Acrobatics +8, Athletics +9, Stealth +10, Survival +8
 
+**Recall Knowledge - Beast** (Arcana, Nature, Religion): DC 18
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** -2, **WIS** +3, **CHA** +1
 
 ---
@@ -25,7 +27,7 @@ ce, medium, beast, fiend
 
 Speed 40 feet, air walk
 
-**Melee** ◆ jaws +11; **Damage** 1d8+6 piercing plus 1d6 evil, Knockdown, and sinister bite plus Knockdown, sinister bite
+**Melee** ◆ jaws +11/+6/+1; **Damage** 1d8+6 piercing plus 1d6 evil, Knockdown, and sinister bite plus Knockdown, sinister bite
 
 **Innate divine Spells** (DC 20)
 

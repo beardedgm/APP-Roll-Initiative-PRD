@@ -9,6 +9,8 @@ uncommon, n, gargantuan, animal, swarm
 
 **Skills** Athletics +27
 
+**Recall Knowledge - Animal** (Nature): DC 40
+
 **STR** -1, **DEX** +9, **CON** +7, **INT** -5, **WIS** +6, **CHA** -4
 
 ---

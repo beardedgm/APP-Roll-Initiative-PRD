@@ -11,6 +11,8 @@ uncommon, ce, medium, fey
 
 **Skills** Acrobatics +10, Deception +8, Intimidation +10, Nature +8, Stealth +10
 
+**Recall Knowledge - Fey** (Nature): DC 20
+
 **STR** +1, **DEX** +4, **CON** +0, **INT** +2, **WIS** +4, **CHA** +1
 
 ---
@@ -31,6 +33,6 @@ uncommon, ce, medium, fey
 
 Speed fly 25 feet
 
-**Melee** ◆ talon +10; **Damage** 3d4+3 slashing
+**Melee** ◆ talon +10/+5/+0; **Damage** 3d4+3 slashing
 
 **Corner of the Eye** ◆◆ (illusion, mental, primal, visual) The ocluai creates a wave of disturbing illusory images in a 10-foot burst centered on a point within 60 feet. Any creature caught in this burst takes 3d6 mental damage (DC 20 basic Will save) as their peripheral vision churns with terrifying visions of worm-eaten corpses and monsters ready to pounce.

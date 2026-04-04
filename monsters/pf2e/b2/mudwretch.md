@@ -11,6 +11,8 @@ n, medium, earth, elemental, water
 
 **Skills** Athletics +8, Stealth +6
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 16
+
 **STR** +4, **DEX** +0, **CON** +3, **INT** -2, **WIS** +3, **CHA** +0
 
 **Muddy Field** (aura) 10 feet. The ground in the area is terrain for all non-mudwretch creatures.
@@ -35,7 +37,7 @@ n, medium, earth, elemental, water
 
 Speed 20 feet, swim 20 feet
 
-**Melee** ◆ fist +10 (agile); **Damage** 1d8+4 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +10/+6/+2 (agile); **Damage** 1d8+4 bludgeoning plus Grab plus Grab
 
 **Constrict** ◆ 1d8+2 bludgeoning, DC 18
 

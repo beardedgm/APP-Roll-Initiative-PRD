@@ -9,6 +9,8 @@ n, small, animal
 
 **Skills** Athletics +4, Stealth +6
 
+**Recall Knowledge - Animal** (Nature): DC 14
+
 **STR** +0, **DEX** +1, **CON** +2, **INT** -5, **WIS** +2, **CHA** -2
 
 ---
@@ -25,6 +27,6 @@ n, small, animal
 
 Speed 25 feet, burrow 10 feet
 
-**Melee** ◆ jaws +8; **Damage** 1d8 piercing
+**Melee** ◆ jaws +8/+3/-2; **Damage** 1d8 piercing
 
-**Melee** ◆ claw +8 (agile); **Damage** 1d6 slashing
+**Melee** ◆ claw +8/+4/+0 (agile); **Damage** 1d6 slashing

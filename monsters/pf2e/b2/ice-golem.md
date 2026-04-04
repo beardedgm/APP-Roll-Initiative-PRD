@@ -9,6 +9,8 @@ uncommon, n, medium, cold, construct, golem, mindless
 
 **Skills** Athletics +15
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 22
+
 **STR** +5, **DEX** +0, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -33,7 +35,7 @@ uncommon, n, medium, cold, construct, golem, mindless
 
 Speed 25 feet
 
-**Melee** ◆ fist +15 (magical, versatile <P>); **Damage** 2d6+7 bludgeoning plus 1d6 cold
+**Melee** ◆ fist +15/+10/+5 (magical, versatile <P>); **Damage** 2d6+7 bludgeoning plus 1d6 cold
 
 **Breath Weapon** ◆◆ (arcane, cold, evocation) The ice golem exhales a blast of freezing mist that deals 6d6 cold damage in a 30-foot cone (DC 22 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

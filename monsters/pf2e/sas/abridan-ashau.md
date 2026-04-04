@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Deception +22, Diplomacy +18, Medicine +20, Religion +18, Society +17
 
+**Recall Knowledge - Humanoid** (Society): DC 37
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +1, **WIS** +2, **CHA** +4
 
 **Items** +1 explorer's clothing (vestments of Pharasma), major staff of healing (6 charges; Trick DC 30), scroll of blindness (Trick DC 20), scroll of crisis of faith (Trick DC 20), 4 scrolls of heal (heightened to 5th level; Trick DC 26), scroll of flame strike (Trick DC 26), 3 scrolls of sound burst (heightened to 4th level; Trick DC 23), religious symbol of Pharasma, key ring (contains keys that unlock all doors in the cathedral)
@@ -31,7 +33,7 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ staff +16 (two-hand d8); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ staff +16/+11/+6 (two-hand d8); **Damage** 1d4+4 bludgeoning
 
 **Trick Item** ◆ (manipulate) Abridan attempts to trick his staff or a scroll by attempting a Religion check against the item's Trick DC listed above. **Success** 
 **Failure** 

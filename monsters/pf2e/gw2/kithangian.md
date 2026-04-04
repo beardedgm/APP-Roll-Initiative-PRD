@@ -11,6 +11,8 @@ uncommon, ce, large, demon, fiend
 
 **Skills** Athletics +20, Intimidation +20, Nature +21, Stealth +16
 
+**Recall Knowledge - Fiend** (Religion): DC 28
+
 **STR** +6, **DEX** +3, **CON** +5, **INT** -2, **WIS** +4, **CHA** +3
 
 ---
@@ -31,9 +33,9 @@ uncommon, ce, large, demon, fiend
 
 Speed 30 feet
 
-**Melee** ◆ pincer +21 (magical, reach <10 feet>); **Damage** 2d12+9 slashing plus Grab
+**Melee** ◆ pincer +21/+16/+11 (magical, reach <10 feet>); **Damage** 2d12+9 slashing plus Grab
 
-**Melee** ◆ stinger +21 (agile, magical, reach <10 feet>); **Damage** 2d8+9 piercing plus kithangian venom
+**Melee** ◆ stinger +21/+17/+13 (agile, magical, reach <10 feet>); **Damage** 2d8+9 piercing plus kithangian venom
 
 **Innate divine Spells** (DC 25)
 

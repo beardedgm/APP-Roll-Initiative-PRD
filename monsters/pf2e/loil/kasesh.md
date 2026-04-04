@@ -11,6 +11,8 @@ uncommon, ln, small, earth, elemental
 
 **Skills** Arcana +11, Architectural Lore +13, Nature +10, Stealth +9
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 20
+
 **STR** -1, **DEX** +2, **CON** +1, **INT** +4, **WIS** +3, **CHA** +2
 
 ---
@@ -29,7 +31,7 @@ uncommon, ln, small, earth, elemental
 
 Speed 20 feet, burrow 20 feet, earth glide
 
-**Ranged** ◆ earthen shard +9 (evocation, primal, range increment <60 feet>, versatile <B>); **Damage** 1d10+2 piercing
+**Ranged** ◆ earthen shard +9/+4/-1 (evocation, primal, range increment <60 feet>, versatile <B>); **Damage** 1d10+2 piercing
 
 **Innate primal Spells** (DC 20), attack +12
 

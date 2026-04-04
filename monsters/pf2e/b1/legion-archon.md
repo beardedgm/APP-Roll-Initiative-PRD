@@ -11,6 +11,8 @@ lg, medium, archon, celestial
 
 **Skills** Acrobatics +13, Athletics +14, Diplomacy +16, Intimidation +16, Religion +13, Survival +14
 
+**Recall Knowledge - Celestial** (Religion): DC 23
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** +1, **WIS** +2, **CHA** +5
 
 **Items** full plate
@@ -35,9 +37,9 @@ lg, medium, archon, celestial
 
 Speed 30 feet, fly 60 feet
 
-**Melee** ◆ flame of justice +18 (magical, versatile <P>); **Damage** 2d10+5 slashing plus 1d6 fire and 1d6 good
+**Melee** ◆ flame of justice +18/+13/+8 (magical, versatile <P>); **Damage** 2d10+5 slashing plus 1d6 fire and 1d6 good
 
-**Ranged** ◆ flame of justice +15 (magical, range increment <30 feet>, versatile <P>); **Damage** 2d10+5 slashing plus 1d6 fire and 1d6 good
+**Ranged** ◆ flame of justice +15/+10/+5 (magical, range increment <30 feet>, versatile <P>); **Damage** 2d10+5 slashing plus 1d6 fire and 1d6 good
 
 **Innate divine Spells** (DC 24)
 

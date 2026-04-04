@@ -9,6 +9,8 @@ n, medium, construct, mindless
 
 **Skills** Athletics +9
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 16
+
 **STR** +3, **DEX** -3, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -27,6 +29,6 @@ n, medium, construct, mindless
 
 Speed 20 feet
 
-**Melee** ◆ glaive +11 (deadly <1d8>, forceful, magical, reach <10 feet>); **Damage** 1d8+4 slashing
+**Melee** ◆ glaive +11/+6/+1 (deadly <1d8>, forceful, magical, reach <10 feet>); **Damage** 1d8+4 slashing
 
-**Melee** ◆ gauntlet +9 (agile, free-hand, magical); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ gauntlet +9/+5/+1 (agile, free-hand, magical); **Damage** 1d6+4 bludgeoning

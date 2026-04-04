@@ -11,6 +11,8 @@ n, small, human, humanoid
 
 **Skills** Acrobatics +5, Deception +4, Society +3, Stealth +5, Survival +3, Thievery +7
 
+**Recall Knowledge - Humanoid** (Society): DC 13
+
 **STR** -1, **DEX** +3, **CON** +0, **INT** +1, **WIS** +1, **CHA** +2
 
 **Items** shiv
@@ -27,11 +29,11 @@ n, small, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ shiv +5 (agile); **Damage** 1d4-1 piercing
+**Melee** ◆ shiv +5/+1/-3 (agile); **Damage** 1d4-1 piercing
 
-**Melee** ◆ fist +5 (agile, nonlethal); **Damage** 1d4-1 bludgeoning
+**Melee** ◆ fist +5/+1/-3 (agile, nonlethal); **Damage** 1d4-1 bludgeoning
 
-**Ranged** ◆ rock +5 (thrown <10 feet>); **Damage** 1d4-1 bludgeoning
+**Ranged** ◆ rock +5/+0/-5 (thrown <10 feet>); **Damage** 1d4-1 bludgeoning
 
 **Collaborative Thievery** The urchin gains a +1 circumstance bonus to Steal or Palm an Object while within 10 feet of an ally who has the pickpocket ability.
 

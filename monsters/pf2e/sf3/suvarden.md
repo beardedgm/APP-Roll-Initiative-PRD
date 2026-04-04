@@ -11,6 +11,8 @@ rare, n, large, beast
 
 **Skills** Acrobatics +16, Athletics +16, Diplomacy +17, Lore +15 (any one), Nature +15, Occultism +15, Society +13
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 28
+
 **STR** +3, **DEX** +5, **CON** +4, **INT** +2, **WIS** +4, **CHA** +6
 
 ---
@@ -31,9 +33,9 @@ rare, n, large, beast
 
 Speed 40 feet, fly 20 feet, climb 20 feet
 
-**Melee** ◆ antler +16; **Damage** 2d12+6 piercing
+**Melee** ◆ antler +16/+11/+6; **Damage** 2d12+6 piercing
 
-**Melee** ◆ hoof +16 (reach <10 feet>); **Damage** 2d8+6 bludgeoning
+**Melee** ◆ hoof +16/+11/+6 (reach <10 feet>); **Damage** 2d8+6 bludgeoning
 
 **Innate primal Spells** (DC 25)
 

@@ -11,6 +11,8 @@ uncommon, cg, tiny, beast, couatl
 
 **Skills** Acrobatics +10, Diplomacy +9, Nature +9, Religion +9
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 20
+
 **STR** +1, **DEX** +4, **CON** +0, **INT** +0, **WIS** +3, **CHA** +3
 
 ---
@@ -25,7 +27,7 @@ uncommon, cg, tiny, beast, couatl
 
 Speed 10 feet, fly 40 feet
 
-**Melee** ◆ fangs +10 (agile, finesse); **Damage** 1d4+1 piercing plus 1d4 persistent poison
+**Melee** ◆ fangs +10/+6/+2 (agile, finesse); **Damage** 1d4+1 piercing plus 1d4 persistent poison
 
 **Innate divine Spells** (DC 20)
 

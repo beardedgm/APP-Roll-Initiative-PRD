@@ -9,6 +9,8 @@ n, medium, animal
 
 **Skills** Athletics +10, Stealth +9
 
+**Recall Knowledge - Animal** (Nature): DC 16
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** -5, **WIS** +1, **CHA** -3
 
 ---
@@ -23,9 +25,9 @@ n, medium, animal
 
 Speed 15 feet, climb 15 feet
 
-**Melee** ◆ claw +10; **Damage** 1d10+6 slashing
+**Melee** ◆ claw +10/+5/+0; **Damage** 1d10+6 slashing
 
-**Ranged** ◆ filament +11 (range <60 feet>); plus sticky filament
+**Ranged** ◆ filament +11/+6/+1 (range <60 feet>); plus sticky filament
 
 **Pull Filament** ◆ The cave fisher pulls a creature grabbed by its filament toward itself, even suspending the target vertically if necessary. The cave fisher attempts an Athletics check against the creature's Fortitude DC. On a success, the cave fisher pulls the creature 15 feet closer to it (30 feet closer on a critical success).
 

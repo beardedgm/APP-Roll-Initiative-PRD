@@ -11,6 +11,8 @@ n, medium, human, humanoid
 
 **Skills** Acrobatics +13, Athletics +13, Deception +7, Society +9, Stealth +11, Thievery +13, Architecture Lore +11, Engineering Lore +11
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +4, **DEX** +4, **CON** +1, **INT** +2, **WIS** +2, **CHA** +0
 
 **Items** climbing kit, hand crossbow (20 bolts), +1 kukri
@@ -29,8 +31,8 @@ n, medium, human, humanoid
 
 Speed 25 feet, climb 15 feet
 
-**Melee** ◆ kukri +15 (agile, magical, trip); **Damage** 1d6+7 slashing
+**Melee** ◆ kukri +15/+11/+7 (agile, magical, trip); **Damage** 1d6+7 slashing
 
-**Ranged** ◆ hand crossbow +15 (range increment <60 feet>, reload <1>); **Damage** 1d6+3 piercing
+**Ranged** ◆ hand crossbow +15/+10/+5 (range increment <60 feet>, reload <1>); **Damage** 1d6+3 piercing
 
 **Trick Attack** ◆ The tomb raider musters their guile to attempt a clever attack that catches their foe unprepared. The tomb raider chooses one of their weapons. The next attack with that weapon deals an extra 2d6 precision damage. In addition, the tomb raider can Interact to draw the weapon (or to reload it if they choose the hand crossbow).

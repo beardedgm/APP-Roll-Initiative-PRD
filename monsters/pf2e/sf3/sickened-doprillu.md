@@ -11,6 +11,8 @@ ne, medium, aberration
 
 **Skills** Acrobatics +24, Athletics +28, Intimidation +20, Stealth +22
 
+**Recall Knowledge - Aberration** (Occultism): DC 32
+
 **STR** +8, **DEX** +6, **CON** +7, **INT** +1, **WIS** +4, **CHA** +2
 
 ---
@@ -35,7 +37,7 @@ ne, medium, aberration
 
 Speed 40 feet, climb 40 feet
 
-**Melee** ◆ fist +28 (agile, magical); **Damage** 3d8+16 plus 2d6 fire and Improved Grab
+**Melee** ◆ fist +28/+24/+20 (agile, magical); **Damage** 3d8+16 plus 2d6 fire and Improved Grab
 
 **Innate occult Spells** (DC 26)
 

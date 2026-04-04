@@ -9,6 +9,8 @@ rare, ne, large, dragon, earth, mutant
 
 **Skills** Acrobatics +18, Athletics +19, Intimidation +14, Stealth +16, Survival +16
 
+**Recall Knowledge - Dragon** (Arcana): DC 31
+
 **STR** +6, **DEX** +3, **CON** +5, **INT** -1, **WIS** +3, **CHA** +1
 
 ---
@@ -31,9 +33,9 @@ rare, ne, large, dragon, earth, mutant
 
 Speed 20 feet, fly 50 feet, burrow 40 feet
 
-**Melee** ◆ fangs +21; **Damage** 2d12+9 piercing plus 1d6 electricity
+**Melee** ◆ fangs +21/+16/+11; **Damage** 2d12+9 piercing plus 1d6 electricity
 
-**Melee** ◆ tail +21 (reach <10 feet>); **Damage** 2d10+9 bludgeoning plus Push 5 feet
+**Melee** ◆ tail +21/+16/+11 (reach <10 feet>); **Damage** 2d10+9 bludgeoning plus Push 5 feet
 
 **Draconic Frenzy** ◆◆ As desert drake.
 

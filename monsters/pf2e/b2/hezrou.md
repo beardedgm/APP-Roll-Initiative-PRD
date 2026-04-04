@@ -11,6 +11,8 @@ ce, large, amphibious, demon, fiend
 
 **Skills** Arcana +21, Athletics +24, Intimidation +23, Stealth +20
 
+**Recall Knowledge - Fiend** (Religion): DC 28
+
 **STR** +7, **DEX** +3, **CON** +6, **INT** +4, **WIS** +5, **CHA** +4
 
 ---
@@ -31,9 +33,9 @@ ce, large, amphibious, demon, fiend
 
 Speed 30 feet, swim 30 feet
 
-**Melee** ◆ jaws (evil, magical, reach <10 feet>) +24; **Damage** 2d12+13 piercing plus 1d6 evil and Grab plus Grab
+**Melee** ◆ jaws (evil, magical, reach <10 feet>) +24/+19/+14; **Damage** 2d12+13 piercing plus 1d6 evil and Grab plus Grab
 
-**Melee** ◆ claw (agile, evil, magical, reach <10 feet>) +24; **Damage** 2d8+13 slashing plus 1d6 evil
+**Melee** ◆ claw (agile, evil, magical, reach <10 feet>) +24/+19/+14; **Damage** 2d8+13 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 27)
 

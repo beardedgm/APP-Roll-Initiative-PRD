@@ -11,6 +11,8 @@ unique, ce, large, aberration
 
 **Skills** Acrobatics +23, Athletics +27, Religion +26, Stealth +23, Survival +24
 
+**Recall Knowledge - Aberration** (Occultism): DC 41
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** +2, **WIS** +7, **CHA** +4
 
 ---
@@ -27,9 +29,9 @@ unique, ce, large, aberration
 
 Speed 40 feet, climb 20 feet
 
-**Melee** ◆ jaws +27 (reach <15 feet>); **Damage** 3d12+14 piercing
+**Melee** ◆ jaws +27/+22/+17 (reach <15 feet>); **Damage** 3d12+14 piercing
 
-**Melee** ◆ claw +27 (agile, reach <15 feet>); **Damage** 3d8+14 slashing
+**Melee** ◆ claw +27/+23/+19 (agile, reach <15 feet>); **Damage** 3d8+14 slashing
 
 **Innate occult Spells** (DC 33), attack +27
 

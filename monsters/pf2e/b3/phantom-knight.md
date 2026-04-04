@@ -11,6 +11,8 @@ uncommon, ln, medium, ethereal, incorporeal, phantom, spirit
 
 **Skills** Intimidation +12
 
+**Recall Knowledge - Ethereal** (Occultism, Religion): DC 21
+
 **STR** -5, **DEX** +4, **CON** +0, **INT** +0, **WIS** +5, **CHA** +4
 
 **Walk the Ethereal Line** ◆◆ The phantom walks the thin line between the Ethereal and Material Planes in order to exist on both planes simultaneously. They can shift back to solely the Ethereal Plane by using this ability again.
@@ -33,6 +35,6 @@ uncommon, ln, medium, ethereal, incorporeal, phantom, spirit
 
 Speed fly 25 feet
 
-**Melee** ◆ phantom sword +14 (finesse, force, magical); **Damage** 1d8+7 force
+**Melee** ◆ phantom sword +14/+9/+4 (finesse, force, magical); **Damage** 1d8+7 force
 
-**Ranged** ◆ phantom bow +14 (deadly <d10>, force, magical, range increment <120 feet>, volley <30 feet>); **Damage** 1d8+5 force
+**Ranged** ◆ phantom bow +14/+9/+4 (deadly <d10>, force, magical, range increment <120 feet>, volley <30 feet>); **Damage** 1d8+5 force

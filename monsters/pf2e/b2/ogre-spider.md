@@ -9,6 +9,8 @@ n, huge, animal
 
 **Skills** Acrobatics +13, Athletics +13
 
+**Recall Knowledge - Animal** (Nature): DC 20
+
 **STR** +6, **DEX** +4, **CON** +4, **INT** -5, **WIS** +2, **CHA** -4
 
 **Web Sense** The ogre spider has imprecise tremorsense to detect the vibrations of creatures touching its web.
@@ -25,9 +27,9 @@ n, huge, animal
 
 Speed 30 feet, climb 30 feet
 
-**Melee** ◆ bite +15; **Damage** 2d8+8 plus ogre spider venom plus 2d8+8, ogre spider venom
+**Melee** ◆ bite +15/+10/+5; **Damage** 2d8+8 plus ogre spider venom plus 2d8+8, ogre spider venom
 
-**Ranged** ◆ web +13 (range increment <30 feet>); plus web trap
+**Ranged** ◆ web +13/+8/+3 (range increment <30 feet>); plus web trap
 
 **Eerie Flexibility** An ogre spider can fit through tight spaces as if it were a Large creature. While Squeezing, it can move at its full speed.
 

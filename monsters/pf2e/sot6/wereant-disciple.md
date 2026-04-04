@@ -11,6 +11,8 @@ rare, le, medium, beast, human, humanoid, werecreature
 
 **Skills** Acrobatics +31, Athletics +28, Stealth +29, Survival +28
 
+**Recall Knowledge - Beast** (Arcana, Nature, Society): DC 40
+
 **STR** +6, **DEX** +9, **CON** +5, **INT** +0, **WIS** +6, **CHA** +4
 
 **Hive Mind** (divination, primal) Wereants operate with a shared hive intelligence. While within telepathic range of at least one other wereant, a wereant disciple gains a +2 circumstance bonus to initiative checks, Perception checks, and saving throws against mental effects. If one wereant is aware of a combatant, all members of the hive mind within telepathic range are aware of it.
@@ -33,9 +35,9 @@ rare, le, medium, beast, human, humanoid, werecreature
 
 Speed 40 feet, fly 60 feet
 
-**Melee** ◆ mandibles +29; **Damage** 3d10+14 slashing plus curse of the wereant
+**Melee** ◆ mandibles +29/+24/+19; **Damage** 3d10+14 slashing plus curse of the wereant
 
-**Melee** ◆ carapace fist +32 (agile, finesse); **Damage** 3d8+14 bludgeoning plus staggering blow (page 87)
+**Melee** ◆ carapace fist +32/+28/+24 (agile, finesse); **Damage** 3d8+14 bludgeoning plus staggering blow (page 87)
 
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The wereant changes into their humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true wereant's natural form is their hybrid shape. In humanoid shape, they use their original humanoid size, lose their jaws and claw Strikes, and gain a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by their mandibles. In animal shape, they take the form of a Medium giant ant, gain a climb Speed of 20 feet, gain Grab on their mandibles Strike, and lose their weapon Strikes.
 

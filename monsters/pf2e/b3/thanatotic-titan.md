@@ -11,6 +11,8 @@ rare, ce, gargantuan, humanoid, titan
 
 **Skills** Athletics +45, Crafting +41, Deception +36, Intimidation +38, Religion +38, Stealth +36
 
+**Recall Knowledge - Humanoid** (Society): DC 49
+
 **STR** +10, **DEX** +4, **CON** +9, **INT** +8, **WIS** +6, **CHA** +8
 
 **Items** +2 greater resilient full plate, +3 greater striking halberd
@@ -33,11 +35,11 @@ rare, ce, gargantuan, humanoid, titan
 
 Speed 40 feet, air walk
 
-**Melee** ◆ halberd +42 (magical, reach <40 feet>, versatile <S>); **Damage** 4d10+25 piercing
+**Melee** ◆ halberd +42/+37/+32 (magical, reach <40 feet>, versatile <S>); **Damage** 4d10+25 piercing
 
-**Melee** ◆ foot +39 (agile, reach <30 feet>); **Damage** 4d8+20 bludgeoning
+**Melee** ◆ foot +39/+35/+31 (agile, reach <30 feet>); **Damage** 4d8+20 bludgeoning
 
-**Ranged** ◆ rock +39 (brutal, range increment <200 feet>); **Damage** 3d12+20 bludgeoning
+**Ranged** ◆ rock +39/+34/+29 (brutal, range increment <200 feet>); **Damage** 3d12+20 bludgeoning
 
 **Innate divine Spells** (DC 45)
 

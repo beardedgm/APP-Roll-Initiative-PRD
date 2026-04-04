@@ -11,6 +11,8 @@ uncommon, ne, medium, human, humanoid
 
 **Skills** Acrobatics +24, Crafting +18, Deception +17, Religion +18, Society +18, Stealth +22, Thievery +24, Poison Lore +18
 
+**Recall Knowledge - Humanoid** (Society): DC 30
+
 **STR** +4, **DEX** +5, **CON** +1, **INT** +3, **WIS** +3, **CHA** +0
 
 **Items** bloodseeker beak (affixed to shortsword), daggers (3), infiltrator's thieves' tools, infused reagents (6 batches), leather armor, +1 striking shortsword
@@ -31,11 +33,11 @@ uncommon, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +22 (agile, finesse, versatile <S>); **Damage** 1d4+9 piercing
+**Melee** ◆ dagger +22/+18/+14 (agile, finesse, versatile <S>); **Damage** 1d4+9 piercing
 
-**Melee** ◆ shortsword +23 (agile, finesse, magical, versatile <S>); **Damage** 2d6+9 piercing
+**Melee** ◆ shortsword +23/+19/+15 (agile, finesse, magical, versatile <S>); **Damage** 2d6+9 piercing
 
-**Ranged** ◆ dagger +22 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+9 piercing
+**Ranged** ◆ dagger +22/+18/+14 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+9 piercing
 
 **Impromptu Toxin** ◆ (alchemical, interact, poison) Cost 1 batch of infused reagents; The poisoner dribbles a few experimental chemicals over a melee weapon. Until the start of their next turn, Strikes with the weapon deal an additional 2d8 poison damage, and targets hit by Strikes with the weapon must succeed at a DC 27 Fortitude save or become enfeebled|CRB|enfeebled 1 or clumsy|CRB|clumsy 1 (the poisoner's choice) for 1d4 rounds.
 

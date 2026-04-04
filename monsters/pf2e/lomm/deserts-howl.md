@@ -11,6 +11,8 @@ unique, ce, huge, aberration
 
 **Skills** Athletics +37, Deception +31, Desert Lore +32, Intimidation +33, Occultism +30, Stealth +33, Survival +31
 
+**Recall Knowledge - Aberration** (Occultism): DC 49
+
 **STR** +10, **DEX** +9, **CON** +10, **INT** +5, **WIS** +6, **CHA** +5
 
 **Fear Scent** Desert's Howl can observe any frightened creatures within 120 feet using an incredibly accurate sense of psychic smell as a precise sense. However, its fear scent extends further if the creature was frightened by Desert's Howl. The taste of such a bouquet of fear in the air becomes irresistible and easy for Desert's Howl to detect, like a shark smelling blood in water. Desert's Howl can sense a creature frightened by its own fear effects as an imprecise sense at a distance of up to 1 mile away.
@@ -39,9 +41,9 @@ unique, ce, huge, aberration
 
 Speed 50 feet, fly 20 feet, swim 35 feet, climb 25 feet
 
-**Melee** ◆ claw +36 (agile, reach <15 feet>); **Damage** 4d10+20 slashing plus Improved Grab and nightmare fuel plus Improved Grab, Nightmare Fuel
+**Melee** ◆ claw +36/+32/+28 (agile, reach <15 feet>); **Damage** 4d10+20 slashing plus Improved Grab and nightmare fuel plus Improved Grab, Nightmare Fuel
 
-**Ranged** ◆ spit +35 (range <50 feet>); **Damage** 2d6 fire plus 2d6 mental and paralytic secretion plus Paralytic Secretion
+**Ranged** ◆ spit +35/+30/+25 (range <50 feet>); **Damage** 2d6 fire plus 2d6 mental and paralytic secretion plus Paralytic Secretion
 
 **Innate occult Spells** (DC 43)
 

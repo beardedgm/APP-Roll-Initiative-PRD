@@ -11,6 +11,8 @@ cn, medium, ganzi, human, humanoid
 
 **Skills** Acrobatics +9, Athletics +10, Deception +7, Performance +7, Stealth +9
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +3, **DEX** +4, **CON** +0, **INT** -1, **WIS** +2, **CHA** +2
 
 **Items** explorer's clothing, shuriken (20)
@@ -29,9 +31,9 @@ cn, medium, ganzi, human, humanoid
 
 Speed 35 feet
 
-**Melee** ◆ foot +11 (agile, finesse, sweep); **Damage** 1d8+5 bludgeoning
+**Melee** ◆ foot +11/+7/+3 (agile, finesse, sweep); **Damage** 1d8+5 bludgeoning
 
-**Ranged** ◆ shuriken +11 (agile, thrown <20 feet>); **Damage** 1d4+5 piercing
+**Ranged** ◆ shuriken +11/+7/+3 (agile, thrown <20 feet>); **Damage** 1d4+5 piercing
 
 **Innate divine Spells** (DC 19), attack +11
 

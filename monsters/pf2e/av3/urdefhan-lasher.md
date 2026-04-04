@@ -11,6 +11,8 @@ ne, medium, humanoid, urdefhan
 
 **Skills** Athletics +17, Intimidation +13, Religion +14, Survival +14
 
+**Recall Knowledge - Humanoid** (Society): DC 23
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** +0, **WIS** +3, **CHA** +2
 
 **Items** chain shirt, +1 striking shauth lash (page 73)
@@ -33,9 +35,9 @@ ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** ◆ shauth lash +18 (deadly <d8>, trip); **Damage** 2d8+7 slashing plus Grab and Wicked Bite plus Grab, Wicked Bite
+**Melee** ◆ shauth lash +18/+13/+8 (deadly <d8>, trip); **Damage** 2d8+7 slashing plus Grab and Wicked Bite plus Grab, Wicked Bite
 
-**Melee** ◆ jaws +17; **Damage** 2d6+7 plus Wicked Bite plus 2d6+7, Wicked Bite
+**Melee** ◆ jaws +17/+12/+7; **Damage** 2d6+7 plus Wicked Bite plus 2d6+7, Wicked Bite
 
 **Innate divine Spells** (DC 22), attack +14
 

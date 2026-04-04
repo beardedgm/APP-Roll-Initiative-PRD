@@ -11,6 +11,8 @@ uncommon, cn, small, aberration
 
 **Skills** Acrobatics +11, Athletics +12, Survival +11
 
+**Recall Knowledge - Aberration** (Occultism): DC 22
+
 **STR** +5, **DEX** +4, **CON** +2, **INT** -3, **WIS** +2, **CHA** +2
 
 ---
@@ -27,9 +29,9 @@ uncommon, cn, small, aberration
 
 Speed 30 feet
 
-**Melee** ◆ jaws +15 (deadly <1d12>); **Damage** 1d8+7 piercing plus 1d6 persistent acid
+**Melee** ◆ jaws +15/+10/+5 (deadly <1d12>); **Damage** 1d8+7 piercing plus 1d6 persistent acid
 
-**Ranged** ◆ spit +14 (range increment <30 feet>, splash); **Damage** 1d6 acid plus 1d6 persistent acid and 1d6 acid splash damage
+**Ranged** ◆ spit +14/+9/+4 (range increment <30 feet>, splash); **Damage** 1d6 acid plus 1d6 persistent acid and 1d6 acid splash damage
 
 **Bouncing Slam** ◆ The gibtas Leaps toward a Medium or smaller creature, landing in the creature's space and Shoving the creature. If the Shove fails, the gibtas bounces out of the target's square to an adjacent square of the target's choosing.
 

@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Arcana +24, Deception +19, Diplomacy +19, Elemental Lore +22, Nex Lore +22, Society +19
 
+**Recall Knowledge - Humanoid** (Society): DC 37
+
 **STR** +0, **DEX** +4, **CON** +0, **INT** +5, **WIS** +3, **CHA** +3
 
 **Items** wand of wall of stone
@@ -29,9 +31,9 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ glass spike +21 (deadly <d12>, earth, finesse, magical); **Damage** 3d10 piercing
+**Melee** ◆ glass spike +21/+16/+11 (deadly <d12>, earth, finesse, magical); **Damage** 3d10 piercing
 
-**Ranged** ◆ glass spike +21 (deadly <d12>, earth, magical, range increment <60 feet>); **Damage** 3d10 piercing
+**Ranged** ◆ glass spike +21/+16/+11 (deadly <d12>, earth, magical, range increment <60 feet>); **Damage** 3d10 piercing
 
 **Prepared arcane Spells** (DC 33), attack +25
 

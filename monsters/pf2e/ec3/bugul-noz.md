@@ -11,6 +11,8 @@ rare, cn, medium, fey
 
 **Skills** Acrobatics +21, Athletics +19, Nature +25, Survival +25, Forest Lore +22
 
+**Recall Knowledge - Fey** (Nature): DC 35
+
 **STR** +3, **DEX** +5, **CON** +4, **INT** +4, **WIS** +5, **CHA** +7
 
 ---
@@ -35,9 +37,9 @@ rare, cn, medium, fey
 
 Speed 25 feet, forest jaunt
 
-**Melee** ◆ claw +23 (magical); **Damage** 3d8+6 piercing
+**Melee** ◆ claw +23/+18/+13 (magical); **Damage** 3d8+6 piercing
 
-**Ranged** ◆ rock +25 (range increment <30 feet>); **Damage** 2d8+6 bludgeoning
+**Ranged** ◆ rock +25/+20/+15 (range increment <30 feet>); **Damage** 2d8+6 bludgeoning
 
 **Innate primal Spells** (DC 33)
 

@@ -11,6 +11,8 @@ uncommon, ce, large, aberration, seugathi
 
 **Skills** Acrobatics +15, Crafting +12, Intimidation +15, Occultism +12, Stealth +13, Survival +10
 
+**Recall Knowledge - Aberration** (Occultism): DC 24
+
 **STR** +2, **DEX** +5, **CON** +2, **INT** +2, **WIS** +4, **CHA** +5
 
 **Items** longsword
@@ -35,9 +37,9 @@ uncommon, ce, large, aberration, seugathi
 
 Speed 25 feet
 
-**Melee** ◆ bite +17 (agile, finesse); **Damage** 2d6+5 piercing plus seugathi venom plus seugathi venom
+**Melee** ◆ bite +17/+13/+9 (agile, finesse); **Damage** 2d6+5 piercing plus seugathi venom plus seugathi venom
 
-**Melee** ◆ longsword +14 (reach <10 feet>, versatile <P>); **Damage** 1d8+5 piercing
+**Melee** ◆ longsword +14/+9/+4 (reach <10 feet>, versatile <P>); **Damage** 1d8+5 piercing
 
 **Innate occult Spells** (DC 24), attack +16
 

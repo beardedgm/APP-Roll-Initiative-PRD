@@ -11,6 +11,8 @@ uncommon, ce, medium, ghoul, undead
 
 **Skills** Acrobatics +22, Athletics +20, Deception +18, Stealth +22
 
+**Recall Knowledge - Undead** (Religion): DC 29
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +0, **WIS** +3, **CHA** +2
 
 ---
@@ -27,9 +29,9 @@ uncommon, ce, medium, ghoul, undead
 
 Speed 30 feet, burrow 5 feet
 
-**Melee** ◆ jaws +22 (finesse); **Damage** 2d6+8 piercing plus 1d6 chaotic, 1d6 negative, ghoul fever, and paralysis plus ghoul fever, paralysis
+**Melee** ◆ jaws +22/+17/+12 (finesse); **Damage** 2d6+8 piercing plus 1d6 chaotic, 1d6 negative, ghoul fever, and paralysis plus ghoul fever, paralysis
 
-**Melee** ◆ claws +22 (agile, finesse); **Damage** 2d4+8 slashing plus 1d6 chaotic, 1d6 negative, and paralysis plus paralysis
+**Melee** ◆ claws +22/+18/+14 (agile, finesse); **Damage** 2d4+8 slashing plus 1d6 chaotic, 1d6 negative, and paralysis plus paralysis
 
 **Consume Flesh** ◆ (manipulate) As ghoul, but the zealdamned ghoul can consume only the flesh of corpses of evil or chaotic creatures and regains 6d6 hit points.
 

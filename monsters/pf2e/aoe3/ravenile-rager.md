@@ -11,6 +11,8 @@ rare, ne, large, humanoid, lizardfolk
 
 **Skills** Acrobatics +25, Athletics +28, Intimidation +28, Survival +23
 
+**Recall Knowledge - Humanoid** (Society): DC 37
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** -1, **WIS** +1, **CHA** +0
 
 **Items** +1 resilient studded leather
@@ -33,9 +35,9 @@ rare, ne, large, humanoid, lizardfolk
 
 Speed 20 feet, swim 10 feet
 
-**Melee** ◆ jaws +29 (reach <10 feet>); **Damage** 3d10+12 piercing
+**Melee** ◆ jaws +29/+24/+19 (reach <10 feet>); **Damage** 3d10+12 piercing
 
-**Melee** ◆ claw +29 (agile, reach <10 feet>); **Damage** 3d8+8 slashing
+**Melee** ◆ claw +29/+25/+21 (agile, reach <10 feet>); **Damage** 3d8+8 slashing
 
 **Forced Regeneration** ◆ (concentrate) **Requirements** The ravenile's regeneration is currently active; The ravenile regains 20 HP.
 

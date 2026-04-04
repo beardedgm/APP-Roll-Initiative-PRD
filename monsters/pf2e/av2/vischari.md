@@ -11,6 +11,8 @@ unique, ne, medium, humanoid, urdefhan
 
 **Skills** Acrobatics +15, Athletics +17, Intimidation +15, Medicine +13, Survival +15
 
+**Recall Knowledge - Humanoid** (Society): DC 33
+
 **STR** +6, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** +4
 
 ---
@@ -33,9 +35,9 @@ unique, ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** ◆ fist +18 (deadly <d8>); **Damage** 2d8+10 bludgeoning
+**Melee** ◆ fist +18/+13/+8 (deadly <d8>); **Damage** 2d8+10 bludgeoning
 
-**Melee** ◆ jaws +17; **Damage** 2d6+10 piercing plus wicked bite plus wicked bite
+**Melee** ◆ jaws +17/+12/+7; **Damage** 2d6+10 piercing plus wicked bite plus wicked bite
 
 **Innate divine Spells** (DC 22), attack +14
 

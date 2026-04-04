@@ -11,6 +11,8 @@ uncommon, ce, medium, humanoid, xulgath
 
 **Skills** Acrobatics +22, Crafting +22, Diplomacy +25, Intimidation +25, Religion +25, Society +22
 
+**Recall Knowledge - Humanoid** (Society): DC 32
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +4, **WIS** +7, **CHA** +5
 
 **Items** +1 striking spiked gauntlet, +1 hide armor, bone religious symbol of
@@ -29,11 +31,11 @@ uncommon, ce, medium, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** ◆ spiked gauntlet +21 (agile, free-hand, magical); **Damage** 2d4+6 piercing
+**Melee** ◆ spiked gauntlet +21/+17/+13 (agile, free-hand, magical); **Damage** 2d4+6 piercing
 
-**Melee** ◆ jaws +20; **Damage** 2d6+6 piercing
+**Melee** ◆ jaws +20/+15/+10; **Damage** 2d6+6 piercing
 
-**Melee** ◆ claw +20 (agile); **Damage** 2d4+6 slashing
+**Melee** ◆ claw +20/+16/+12 (agile); **Damage** 2d4+6 slashing
 
 **Prepared divine Spells** (DC 33), attack +27
 

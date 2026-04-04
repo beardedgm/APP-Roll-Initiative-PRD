@@ -11,6 +11,8 @@ ce, large, beast
 
 **Skills** Athletics +18, Deception +20, Diplomacy +20, Intimidation +18, Occultism +17, Stealth +16, Survival +13, Cult Lore +15
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 24
+
 **STR** +6, **DEX** +4, **CON** +3, **INT** +3, **WIS** +3, **CHA** +6
 
 **Items** +1 striking scimitar
@@ -31,7 +33,7 @@ ce, large, beast
 
 Speed 30 feet, swim 30 feet, climb 30 feet
 
-**Melee** ◆ scimitar +19 (forceful +2, sweep); **Damage** 2d6+10 slashing
+**Melee** ◆ scimitar +19/+14/+9 (forceful +2, sweep); **Damage** 2d6+10 slashing
 
 **Spontaneous occult Spells** (DC 28)
 

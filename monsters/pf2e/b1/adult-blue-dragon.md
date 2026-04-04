@@ -11,6 +11,8 @@ le, huge, dragon, electricity
 
 **Skills** Acrobatics +22, Arcana +25, Deception +26, Diplomacy +26, Intimidation +24, Society +23, Stealth +20, Survival +22
 
+**Recall Knowledge - Dragon** (Arcana): DC 31
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** +4, **WIS** +3, **CHA** +5
 
 **Sound Imitation** The dragon can mimic any sound it has heard. It must succeed at a Deception check with a +4 circumstance bonus to do so.
@@ -33,13 +35,13 @@ le, huge, dragon, electricity
 
 Speed 40 feet, fly 150 feet, burrow 20 feet
 
-**Melee** ◆ jaws +27 (electricity, magical, reach <15 feet>); **Damage** 3d8+12 piercing plus 1d12 electricity
+**Melee** ◆ jaws +27/+22/+17 (electricity, magical, reach <15 feet>); **Damage** 3d8+12 piercing plus 1d12 electricity
 
-**Melee** ◆ claw +27 (magical, agile, reach <10 feet>); **Damage** 3d8+12 slashing
+**Melee** ◆ claw +27/+23/+19 (magical, agile, reach <10 feet>); **Damage** 3d8+12 slashing
 
-**Melee** ◆ tail +25 (magical, reach <20 feet>); **Damage** 3d8+10 bludgeoning
+**Melee** ◆ tail +25/+20/+15 (magical, reach <20 feet>); **Damage** 3d8+10 bludgeoning
 
-**Melee** ◆ horns +25 (magical, reach <15 feet>); **Damage** 2d8+10 piercing
+**Melee** ◆ horns +25/+20/+15 (magical, reach <15 feet>); **Damage** 2d8+10 piercing
 
 **Innate arcane Spells** (DC 33)
 

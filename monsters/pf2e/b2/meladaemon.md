@@ -11,6 +11,8 @@ ne, large, daemon, fiend
 
 **Skills** Acrobatics +20, Deception +23, Intimidation +23, Religion +20, Stealth +23, Survival +19
 
+**Recall Knowledge - Fiend** (Religion): DC 28
+
 **STR** +7, **DEX** +5, **CON** +6, **INT** +3, **WIS** +4, **CHA** +6
 
 ---
@@ -33,9 +35,9 @@ ne, large, daemon, fiend
 
 Speed 25 feet, fly 50 feet
 
-**Melee** ◆ bite +24 (evil, magical, reach <10 feet>); **Damage** 2d12+13 plus 1d6 evil and daemonic famine plus 2d12+13, daemonic famine
+**Melee** ◆ bite +24/+19/+14 (evil, magical, reach <10 feet>); **Damage** 2d12+13 plus 1d6 evil and daemonic famine plus 2d12+13, daemonic famine
 
-**Melee** ◆ claw +24 (agile, evil, magical, reach <10 feet>); **Damage** 2d8+13 slashing plus 1d6 evil, Grab, and withering touch plus Grab, withering touch
+**Melee** ◆ claw +24/+20/+16 (agile, evil, magical, reach <10 feet>); **Damage** 2d8+13 slashing plus 1d6 evil, Grab, and withering touch plus Grab, withering touch
 
 **Innate divine Spells** (DC 31)
 

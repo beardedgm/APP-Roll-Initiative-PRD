@@ -11,6 +11,8 @@ large, celestial
 
 **Skills** Athletics +17, Diplomacy +15, Religion +15, Society +15, Stealth +13
 
+**Recall Knowledge - Celestial** (Religion): DC 23
+
 **STR** +6, **DEX** +2, **CON** +4, **INT** +2, **WIS** +6, **CHA** +4
 
 **Items** wooden pipe
@@ -29,9 +31,9 @@ large, celestial
 
 Speed 25 feet
 
-**Melee** ◆ jaws +17; **Damage** 3d6+8 piercing plus Grab plus Grab
+**Melee** ◆ jaws +17/+12/+7; **Damage** 3d6+8 piercing plus Grab plus Grab
 
-**Ranged** ◆ pipe +13 (divine, sonic, range <60 feet>); **Damage** 4d6 sonic
+**Ranged** ◆ pipe +13/+8/+3 (divine, sonic, range <60 feet>); **Damage** 4d6 sonic
 
 **Fortune's Favor** ◆◆◆ (curse, divine, incapacitation, polymorph) **Frequency** {"unit":"day","number":1}; A target creature within 30 feet must succeed at a DC 25 Will save or gain the effects of cursed metamorphosis|PC1, being polymorphed into a pig whose girth is determined by the target's wealth. After 24 hours, the target can end this effect using a Dismiss action, at which point the yeongno becomes aware that the effect has ended. A yeongno can use Fortune's Favor only if no targets are currently under its effects.
 

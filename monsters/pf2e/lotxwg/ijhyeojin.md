@@ -11,6 +11,8 @@ medium, fiend, sahkil, unholy|PC1
 
 **Skills** Acrobatics +25, Boneyard Lore +28, Deception +28, Intimidation +28, Religion +28, Stealth +25
 
+**Recall Knowledge - Fiend** (Religion): DC 32
+
 **STR** +6, **DEX** +5, **CON** +4, **INT** +4, **WIS** +8, **CHA** +8
 
 **Easy to Call** An ijhyeojin's level is considered 2 lower for the purpose of being conjured by the binding circle|PC1 ritual (and potentially other rituals, at the GM's discretion), but they're always free to attack or leave instead of negotiate unless the primary caster's check is a critical success.
@@ -33,7 +35,7 @@ medium, fiend, sahkil, unholy|PC1
 
 Speed 30 feet
 
-**Melee** ◆ claw +28 (agile); **Damage** 3d8+14 slashing plus swipe countenance plus swipe countenance
+**Melee** ◆ claw +28/+24/+20 (agile); **Damage** 3d8+14 slashing plus swipe countenance plus swipe countenance
 
 **Innate divine Spells** (DC 34)
 

@@ -11,6 +11,8 @@ uncommon, n, large, beast
 
 **Skills** Athletics +6, Stealth +4
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 17
+
 **STR** +3, **DEX** -1, **CON** +3, **INT** -3, **WIS** +1, **CHA** +0
 
 **Corpse Disguise** (exploration) The graveshell conceals its true nature over the course of a few minutes by impaling a corpse (typically humanoid) on its spiky shell before partially submerging itself in water. It has an automatic result of 22 on Deception checks and DCs to pass as a corpse floating in the water.
@@ -29,11 +31,11 @@ uncommon, n, large, beast
 
 Speed 20 feet, swim 20 feet
 
-**Melee** ◆ jaws +8; **Damage** 1d6+3 piercing
+**Melee** ◆ jaws +8/+3/-2; **Damage** 1d6+3 piercing
 
-**Melee** ◆ claw +8 (agile); **Damage** 1d4+3 slashing
+**Melee** ◆ claw +8/+4/+0 (agile); **Damage** 1d4+3 slashing
 
-**Melee** ◆ shell spikes +8; **Damage** 1d4+3 piercing
+**Melee** ◆ shell spikes +8/+3/-2; **Damage** 1d4+3 piercing
 
 **Deep Breath** The graveshell can hold its breath for 200 rounds (20 minutes).
 

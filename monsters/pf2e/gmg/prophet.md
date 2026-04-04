@@ -11,6 +11,8 @@ cn, medium, human, humanoid
 
 **Skills** Diplomacy +8, Performance +8, Religion +7, Survival +7
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +2, **DEX** +1, **CON** +0, **INT** +1, **WIS** +3, **CHA** +4
 
 **Items** flail, manifesto (functions as religious text), pouch of rocks, robes
@@ -27,11 +29,11 @@ cn, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ flail +8 (disarm, sweep, trip); **Damage** 1d6+2 bludgeoning
+**Melee** ◆ flail +8/+3/-2 (disarm, sweep, trip); **Damage** 1d6+2 bludgeoning
 
-**Melee** ◆ fist +8 (agile, nonlethal); **Damage** 1d4+2 bludgeoning
+**Melee** ◆ fist +8/+4/+0 (agile, nonlethal); **Damage** 1d4+2 bludgeoning
 
-**Ranged** ◆ rock +7 (thrown <10 feet>); **Damage** 1d4+2 bludgeoning
+**Ranged** ◆ rock +7/+2/-3 (thrown <10 feet>); **Damage** 1d4+2 bludgeoning
 
 **Spontaneous divine Spells** (DC 18), attack +10
 

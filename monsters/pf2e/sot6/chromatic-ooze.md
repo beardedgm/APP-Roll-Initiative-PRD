@@ -9,6 +9,8 @@ rare, n, large, mindless, ooze
 
 **Skills** Athletics +35
 
+**Recall Knowledge - Ooze** (Occultism): DC 43
+
 **STR** +9, **DEX** -5, **CON** +10, **INT** -5, **WIS** +0, **CHA** -5
 
 **Motion Sense** A chromatic ooze can sense nearby motion through vibration and air movement.
@@ -31,7 +33,7 @@ rare, n, large, mindless, ooze
 
 Speed 20 feet, swim 20 feet, climb 20 feet
 
-**Melee** ◆ pseudopod +35 (reach <10 feet>); **Damage** 3d10+17 bludgeoning plus chromatic slam and Improved Grab
+**Melee** ◆ pseudopod +35/+30/+25 (reach <10 feet>); **Damage** 3d10+17 bludgeoning plus chromatic slam and Improved Grab
 
 **Chromatic Slam** The ooze's pseudopod Strikes deal an additional 2d10 damage of the same type it resists from its Chromatic Shift ability, if any.
 

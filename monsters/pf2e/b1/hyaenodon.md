@@ -9,6 +9,8 @@ n, large, animal
 
 **Skills** Acrobatics +8, Athletics +12, Stealth +8
 
+**Recall Knowledge - Animal** (Nature): DC 18
+
 **STR** +5, **DEX** +3, **CON** +3, **INT** -4, **WIS** +2, **CHA** -2
 
 ---
@@ -23,7 +25,7 @@ n, large, animal
 
 Speed 40 feet
 
-**Melee** ◆ jaws +12; **Damage** 1d10+5 piercing plus Knockdown and bonecrunching bite plus Knockdown, bonecrunching bite
+**Melee** ◆ jaws +12/+7/+2; **Damage** 1d10+5 piercing plus Knockdown and bonecrunching bite plus Knockdown, bonecrunching bite
 
 **Bonecrunching Bite** A creature that is critically hit by a hyaenodon must succeed at a DC 20 Fortitude save or become wounded 1 as the creature's bones or cartilage are crushed by the beast's jaws.
 

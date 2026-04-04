@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Acrobatics +15, Athletics +14, Deception +12, Intimidation +14, Society +10, Stealth +15, Thievery +15
 
+**Recall Knowledge - Humanoid** (Society): DC 32
+
 **STR** +4, **DEX** +5, **CON** +1, **INT** +0, **WIS** +0, **CHA** +2
 
 **Items** Cooperative Blade (page 71), light hammer (4), +1 studded leather armor, thieves' tools, 110 gp
@@ -29,11 +31,11 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ longsword +17 (magical, versatile <P>); **Damage** 2d8+8 slashing
+**Melee** ◆ longsword +17/+12/+7 (magical, versatile <P>); **Damage** 2d8+8 slashing
 
-**Melee** ◆ light hammer +16 (agile); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ light hammer +16/+12/+8 (agile); **Damage** 1d6+4 bludgeoning
 
-**Ranged** ◆ light hammer +17 (agile, thrown <20 feet>); **Damage** 1d6+4 bludgeoning
+**Ranged** ◆ light hammer +17/+13/+9 (agile, thrown <20 feet>); **Damage** 1d6+4 bludgeoning
 
 **Sneak Attack** Carman deals an extra 2d6 precision damage to flat-footed creatures.
 

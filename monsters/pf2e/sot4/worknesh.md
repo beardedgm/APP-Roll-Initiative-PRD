@@ -11,6 +11,8 @@ unique, le, medium, human, humanoid
 
 **Skills** Athletics +32, Intimidation +29, Religion +26, Society +26, Stealth +27, Survival +30, Warfare Lore +30
 
+**Recall Knowledge - Humanoid** (Society): DC 45
+
 **STR** +6, **DEX** +1, **CON** +3, **INT** +2, **WIS** +4, **CHA** +3
 
 **Items** golden blade of Mzali (page 76), +2 resilient splint mail, moderate sturdy shield (Hardness 13, HP 104, BT 52)
@@ -39,9 +41,9 @@ unique, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ golden blade +32; **Damage** 3d6+16 piercing plus 2d6 fire
+**Melee** ◆ golden blade +32/+27/+22; **Damage** 3d6+16 piercing plus 2d6 fire
 
-**Ranged** ◆ golden blade +27 (thrown <20 feet>); **Damage** 3d6+16 piercing plus 2d6 fire
+**Ranged** ◆ golden blade +27/+22/+17 (thrown <20 feet>); **Damage** 3d6+16 piercing plus 2d6 fire
 
 **Spontaneous divine Spells** (DC 34), attack +26
 

@@ -11,6 +11,8 @@ n, small, elemental, fire
 
 **Skills** Acrobatics +7, Deception +7
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 15
+
 **STR** +0, **DEX** +4, **CON** +0, **INT** -2, **WIS** +0, **CHA** +2
 
 **Smoke Vision** The fire mephit ignores the concealed condition from smoke.
@@ -29,7 +31,7 @@ n, small, elemental, fire
 
 Speed 20 feet, fly 25 feet
 
-**Melee** ◆ jaws +9 (finesse); **Damage** 1d6 piercing and 1d4 fire
+**Melee** ◆ jaws +9/+4/-1 (finesse); **Damage** 1d6 piercing and 1d4 fire
 
 **Innate arcane Spells** (DC 15)
 

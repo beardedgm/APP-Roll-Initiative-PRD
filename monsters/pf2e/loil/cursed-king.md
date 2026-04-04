@@ -11,6 +11,8 @@ ce, medium, mummy, undead
 
 **Skills** Athletics +23, Intimidation +17, Stealth +17
 
+**Recall Knowledge - Undead** (Religion): DC 27
+
 **STR** +7, **DEX** +3, **CON** +4, **INT** -4, **WIS** +4, **CHA** +3
 
 ---
@@ -35,8 +37,8 @@ ce, medium, mummy, undead
 
 Speed 25 feet
 
-**Melee** ◆ jaws +23; **Damage** 2d12+13 piercing plus Grab
+**Melee** ◆ jaws +23/+18/+13; **Damage** 2d12+13 piercing plus Grab
 
-**Melee** ◆ fist +23 (agile); **Damage** 2d8+13 bludgeoning
+**Melee** ◆ fist +23/+19/+15 (agile); **Damage** 2d8+13 bludgeoning
 
 **Berserk** At the beginning of each of its turns in combat, a cursed king must attempt a DC 2 flat check. If it succeeds, the DC increases by 1. If it fails, it immediately goes berserk, becoming mindless for the rest of its turn, immune to all mental effects, and attacking the nearest creature it can reach. While it's berserk, each of its unarmed attacks gain the deadly d8 trait. At the end of a turn it failed this flat check or whenever the combat encounter ends, the DC resets to 2. Usurper's Curse (curse, necromancy, polymorph) DC 30 Will saving throw. On a failure, the creature who killed the cursed king becomes stupefied 1. On a critical failure, it becomes stupefied 2. As long as that creature remains cursed, it can't remove or decrease the value of the stupefied condition in any way. Afflicted creatures must attempt the saving throw again every 24 hours, increasing the stupefied condition by 1 on a failure or 2 on a critical failure. If the condition ever increases past stupefied 4, they transform, body and mind, into the same animal as the cursed king's head, similar to the critical failure effect of baleful polymorph.

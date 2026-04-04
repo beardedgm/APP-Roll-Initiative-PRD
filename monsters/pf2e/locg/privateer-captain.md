@@ -11,6 +11,8 @@ cg, medium, human, humanoid
 
 **Skills** Acrobatics +20, Athletics +17, Deception +21, Religion +23, Sailing Lore +19, Thievery +22
 
+**Recall Knowledge - Humanoid** (Society): DC 28
+
 **STR** +1, **DEX** +4, **CON** +3, **INT** +0, **WIS** +5, **CHA** +3
 
 **Items** +1 chain shirt, +1 crossbow (100 bolts), moderate healing potion (2), +1 striking rapier, scroll of remove fear
@@ -27,9 +29,9 @@ cg, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ rapier +21 (deadly 1d8, magical, disarm); **Damage** 2d6+5 piercing
+**Melee** ◆ rapier +21/+16/+11 (deadly 1d8, magical, disarm); **Damage** 2d6+5 piercing
 
-**Ranged** ◆ crossbow +21 (magical, range increment 120 feet, reload 1); **Damage** 1d8+5 piercing
+**Ranged** ◆ crossbow +21/+16/+11 (magical, range increment 120 feet, reload 1); **Damage** 1d8+5 piercing
 
 **Prepared divine Spells** (DC 30)
 

@@ -11,6 +11,8 @@ unique, huge, undead, unholy
 
 **Skills** Acrobatics +36, Deception +38, Intimidation +35, Religion +32, Skeletal Lore +32, Stealth +34
 
+**Recall Knowledge - Undead** (Religion): DC 49
+
 **STR** +8, **DEX** +6, **CON** +6, **INT** +7, **WIS** +8, **CHA** +7
 
 **Skeletal Lore** (divine) Onturat taps into the memories of the creatures whose bones make up his body. This gives him the Lore|PC1|Skeletal Lore skill, which he can use to Recall Knowledge|PC1 of any kind. In addition, he can speak and understand all the languages known by the creatures whose bones make up his body (typically Common|PC1 and the regional language of the skulltaker's home region). Onturat can use Lore|PC1|Skeletal Lore as the primary skill check for the collective memories|PC1 ritual, and he can cast collective memories|PC1 without secondary casters.
@@ -33,11 +35,11 @@ unique, huge, undead, unholy
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ jaws +37 (deadly <2d12>, magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 3d6 void and void drain
+**Melee** ◆ jaws +37/+32/+27 (deadly <2d12>, magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 3d6 void and void drain
 
-**Melee** ◆ claw +37 (agile, deadly <2d12>, magical, reach <15 feet>); **Damage** 3d6+16 slashing plus 3d6 void and void drain
+**Melee** ◆ claw +37/+33/+29 (agile, deadly <2d12>, magical, reach <15 feet>); **Damage** 3d6+16 slashing plus 3d6 void and void drain
 
-**Ranged** ◆ bone javelin +35 (magical, thrown <100 feet>); **Damage** 3d8+8 piercing plus 3d6 void
+**Ranged** ◆ bone javelin +35/+30/+25 (magical, thrown <100 feet>); **Damage** 3d8+8 piercing plus 3d6 void
 
 **Innate divine Spells** (DC 42)
 

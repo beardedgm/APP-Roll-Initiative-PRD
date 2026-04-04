@@ -9,6 +9,8 @@ ne, large, mindless, skeleton, undead
 
 **Skills** Acrobatics +14, Athletics +18, Stealth +16
 
+**Recall Knowledge - Undead** (Religion): DC 24
+
 **STR** +6, **DEX** +4, **CON** +4, **INT** -5, **WIS** +2, **CHA** -1
 
 ---
@@ -29,8 +31,8 @@ ne, large, mindless, skeleton, undead
 
 Speed 20 feet, fly 40 feet
 
-**Melee** ◆ fangs +20; **Damage** 2d8+12 piercing
+**Melee** ◆ fangs +20/+15/+10; **Damage** 2d8+12 piercing
 
-**Melee** ◆ tail +20 (reach <10 feet>); **Damage** 2d4+12 bludgeoning
+**Melee** ◆ tail +20/+15/+10 (reach <10 feet>); **Damage** 2d4+12 bludgeoning
 
 **Draconic Frenzy** ◆◆ The skeletal drake makes two Fangs Strikes and one Tail Strike in any order.

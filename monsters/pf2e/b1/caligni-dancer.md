@@ -11,6 +11,8 @@ cn, small, caligni, humanoid
 
 **Skills** Acrobatics +7, Performance +6, Stealth +7, Thievery +7
 
+**Recall Knowledge - Humanoid** (Society): DC 15
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** -1, **WIS** +1, **CHA** +3
 
 **Items** baton (light mace), dagger
@@ -31,11 +33,11 @@ cn, small, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ baton +9 (agile, finesse, shove); **Damage** 1d4 bludgeoning
+**Melee** ◆ baton +9/+5/+1 (agile, finesse, shove); **Damage** 1d4 bludgeoning
 
-**Melee** ◆ dagger +9 (agile, finesse, versatile <S>); **Damage** 1d4 piercing
+**Melee** ◆ dagger +9/+5/+1 (agile, finesse, versatile <S>); **Damage** 1d4 piercing
 
-**Ranged** ◆ dagger +9 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
+**Ranged** ◆ dagger +9/+5/+1 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
 
 **Innate occult Spells** (DC 16)
 

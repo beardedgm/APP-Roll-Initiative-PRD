@@ -11,6 +11,8 @@ unique, le, medium, fiend, rakshasa
 
 **Skills** Crafting +23, Deception +26, Diplomacy +22, Intimidation +22, Performance +20, Occultism +25, Stealth +22
 
+**Recall Knowledge - Fiend** (Religion): DC 40
+
 **STR** +5, **DEX** +6, **CON** +4, **INT** +5, **WIS** +3, **CHA** +4
 
 **Items** wand of vampiric exsanguination
@@ -33,9 +35,9 @@ unique, le, medium, fiend, rakshasa
 
 Speed 35 feet
 
-**Melee** ◆ fangs +23 (agile, magical); **Damage** 3d10+11 piercing
+**Melee** ◆ fangs +23/+19/+15 (agile, magical); **Damage** 3d10+11 piercing
 
-**Melee** ◆ claw +24 (agile, finesse, magical); **Damage** 3d8+11 slashing
+**Melee** ◆ claw +24/+20/+16 (agile, finesse, magical); **Damage** 3d8+11 slashing
 
 **Spontaneous occult Spells** (DC 32), attack +24
 

@@ -11,6 +11,8 @@ ne, medium, humanoid
 
 **Skills** Acrobatics +12, Athletics +11, Deception +10, Intimidation +10, Survival +8
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +4, **DEX** +5, **CON** +3, **INT** +0, **WIS** +0, **CHA** +2
 
 ---
@@ -27,9 +29,9 @@ ne, medium, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ jaws +14; **Damage** 2d8+4 piercing
+**Melee** ◆ jaws +14/+9/+4; **Damage** 2d8+4 piercing
 
-**Melee** ◆ claw +14 (agile); **Damage** 2d6+4 slashing plus Grab plus Grab
+**Melee** ◆ claw +14/+10/+6 (agile); **Damage** 2d6+4 slashing plus Grab plus Grab
 
 **Bone Drink** ◆◆ (healing, necromancy, occult) **Requirements** The tenome has a creature grabbed or restrained; The tenome makes a jaws Strike against the grabbed or restrained creature. If the Strike hits, the creature must succeed at a DC 18 Fortitude save or become drained|CRB|drained 1 (or the value of the creature's drained condition increases by 1 if it already has a drained value, to a maximum of drained|CRB|drained 4). The tenome regains 1d8 Hit Points each time it uses Bone Drink.
 

@@ -11,6 +11,8 @@ ce, medium, undead, vampire
 
 **Skills** Acrobatics +13, Athletics +15, Deception +14, Diplomacy +14, Intimidation +16, Society +14, Stealth +13
 
+**Recall Knowledge - Undead** (Religion): DC 22
+
 **STR** +5, **DEX** +3, **CON** +2, **INT** +2, **WIS** +4, **CHA** +4
 
 **Items** leather armor, +1 rapier
@@ -37,9 +39,9 @@ ce, medium, undead, vampire
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ rapier +17 (deadly <1d8>, disarm +1); **Damage** 1d6+11 piercing
+**Melee** ◆ rapier +17/+12/+7 (deadly <1d8>, disarm +1); **Damage** 1d6+11 piercing
 
-**Melee** ◆ claw +17 (agile); **Damage** 1d8+8 slashing plus Grab plus Grab
+**Melee** ◆ claw +17/+13/+9 (agile); **Damage** 1d8+8 slashing plus Grab plus Grab
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) Giant bat with fangs +15 for 1d8+9 piercing.
 

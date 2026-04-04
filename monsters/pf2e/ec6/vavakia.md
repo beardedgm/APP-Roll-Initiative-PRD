@@ -11,6 +11,8 @@ uncommon, ce, huge, demon, fiend
 
 **Skills** Athletics +35, Deception +32, Intimidation +34, Religion +30, Stealth +32
 
+**Recall Knowledge - Fiend** (Religion): DC 40
+
 **STR** +9, **DEX** +4, **CON** +6, **INT** +4, **WIS** +6, **CHA** +6
 
 **Items** breastplate, +2 greater striking ranseur
@@ -33,13 +35,13 @@ uncommon, ce, huge, demon, fiend
 
 Speed 40 feet, fly 40 feet
 
-**Melee** ◆ ranseur +36 (disarm, magical, reach <25 feet>); **Damage** 3d10+17 piercing plus 1d10 acid and Grab plus Grab
+**Melee** ◆ ranseur +36/+31/+26 (disarm, magical, reach <25 feet>); **Damage** 3d10+17 piercing plus 1d10 acid and Grab plus Grab
 
-**Melee** ◆ jaws +35 (magical, reach <15 feet>); **Damage** 3d8+17 piercing plus 2d8 persistent bleed and smoking wound plus smoking wound
+**Melee** ◆ jaws +35/+30/+25 (magical, reach <15 feet>); **Damage** 3d8+17 piercing plus 2d8 persistent bleed and smoking wound plus smoking wound
 
-**Melee** ◆ claw +35 (agile, magical, reach <15 feet>); **Damage** 3d10+17 slashing
+**Melee** ◆ claw +35/+31/+27 (agile, magical, reach <15 feet>); **Damage** 3d10+17 slashing
 
-**Melee** ◆ tail +35 (backswing, magical, reach <20 feet>); **Damage** 3d12+17 bludgeoning plus stunning tail plus stunning tail
+**Melee** ◆ tail +35/+30/+25 (backswing, magical, reach <20 feet>); **Damage** 3d12+17 bludgeoning plus stunning tail plus stunning tail
 
 **Innate divine Spells** (DC 40)
 

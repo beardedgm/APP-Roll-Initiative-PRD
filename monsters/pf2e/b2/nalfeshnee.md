@@ -11,6 +11,8 @@ ce, huge, demon, fiend
 
 **Skills** Arcana +25, Athletics +28, Deception +26, Diplomacy +24, Intimidation +28, Religion +25, Abyss Lore +25
 
+**Recall Knowledge - Fiend** (Religion): DC 32
+
 **STR** +8, **DEX** +2, **CON** +8, **INT** +5, **WIS** +5, **CHA** +4
 
 ---
@@ -31,9 +33,9 @@ ce, huge, demon, fiend
 
 Speed 30 feet, fly 40 feet
 
-**Melee** ◆ jaws +29 (magical, reach <15 feet>); **Damage** 3d12+14 piercing
+**Melee** ◆ jaws +29/+24/+19 (magical, reach <15 feet>); **Damage** 3d12+14 piercing
 
-**Melee** ◆ claw +29 (agile, magical, reach <15 feet>); **Damage** 3d8+14 slashing
+**Melee** ◆ claw +29/+25/+21 (agile, magical, reach <15 feet>); **Damage** 3d8+14 slashing
 
 **Innate divine Spells** (DC 34)
 

@@ -11,6 +11,8 @@ n, medium, human, humanoid
 
 **Skills** Diplomacy +8, Medicine +12, Society +10
 
+**Recall Knowledge - Humanoid** (Society): DC 13
+
 **STR** -1, **DEX** +1, **CON** +1, **INT** +4, **WIS** +2, **CHA** +2
 
 **Items** minor elixirs of life (2), healer's tools, medical textbook
@@ -33,6 +35,6 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ fist +5 (agile, nonlethal); **Damage** 1d4-1 bludgeoning
+**Melee** ◆ fist +5/+1/-3 (agile, nonlethal); **Damage** 1d4-1 bludgeoning
 
-**Ranged** ◆ medical textbook +5 (nonlethal, thrown <10 feet>); **Damage** 1d4-1 bludgeoning
+**Ranged** ◆ medical textbook +5/+0/-5 (nonlethal, thrown <10 feet>); **Damage** 1d4-1 bludgeoning

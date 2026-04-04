@@ -11,6 +11,8 @@ le, large, fiend, velstrac
 
 **Skills** Athletics +25, Crafting +22, Intimidation +25, Medicine +26, Religion +22, Stealth +19, Torture Lore +20
 
+**Recall Knowledge - Fiend** (Religion): DC 30
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** +2, **WIS** +6, **CHA** +5
 
 **Painsight** (divination, divine) A velstrac automatically knows whether a creature it sees has any of the doomed, dying, and wounded conditions, as well as the value of those conditions.
@@ -35,7 +37,7 @@ le, large, fiend, velstrac
 
 Speed 40 feet
 
-**Melee** ◆ claw +25 (deadly <2d10>, evil, magical, reach <10 feet>); **Damage** 3d10+13 slashing plus 2d6 persistent bleed
+**Melee** ◆ claw +25/+20/+15 (deadly <2d10>, evil, magical, reach <10 feet>); **Damage** 3d10+13 slashing plus 2d6 persistent bleed
 
 **Innate divine Spells** (DC 33)
 

@@ -11,6 +11,8 @@ unique, ce, medium, undead
 
 **Skills** Acrobatics +31, Athletics +28, Deception +33, Diplomacy +35, Occultism +28, Society +28, Stealth +31, Underworld Lore +28
 
+**Recall Knowledge - Undead** (Religion): DC 46
+
 **STR** +5, **DEX** +4, **CON** +0, **INT** +3, **WIS** +5, **CHA** +8
 
 **Items** darts (20), +2 greater striking katana, Miogimo's mask (page 77), +2 resilient studded leather
@@ -39,9 +41,9 @@ unique, ce, medium, undead
 
 Speed 30 feet
 
-**Melee** ◆ katana +32 (deadly <2d8>, disarm, magical, two-hand 3d10, versatile <P>); **Damage** 3d6+13 slashing plus 2d6 chaotic and 2d6 negative
+**Melee** ◆ katana +32/+27/+22 (deadly <2d8>, disarm, magical, two-hand 3d10, versatile <P>); **Damage** 3d6+13 slashing plus 2d6 chaotic and 2d6 negative
 
-**Ranged** ◆ dart +29 (agile, thrown <20 feet>); **Damage** 1d4+11 piercing plus 2d6 chaotic and 2d6 negative
+**Ranged** ◆ dart +29/+25/+21 (agile, thrown <20 feet>); **Damage** 1d4+11 piercing plus 2d6 chaotic and 2d6 negative
 
 **Innate occult Spells** (DC 41)
 

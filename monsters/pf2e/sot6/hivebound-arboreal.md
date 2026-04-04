@@ -11,6 +11,8 @@ rare, ne, huge, plant
 
 **Skills** Athletics +39, Intimidation +32, Nature +33, Stealth +24
 
+**Recall Knowledge - Plant** (Nature): DC 44
+
 **STR** +10, **DEX** -1, **CON** +10, **INT** +0, **WIS** +6, **CHA** +5
 
 ---
@@ -33,11 +35,11 @@ rare, ne, huge, plant
 
 Speed 25 feet, freedom of movement
 
-**Melee** ◆ branch +36 (reach <15 feet>); **Damage** 4d12+16 bludgeoning plus Improved Grab
+**Melee** ◆ branch +36/+31/+26 (reach <15 feet>); **Damage** 4d12+16 bludgeoning plus Improved Grab
 
-**Melee** ◆ root +36 (trip, reach <20 feet>); **Damage** 4d8+16 bludgeoning
+**Melee** ◆ root +36/+31/+26 (trip, reach <20 feet>); **Damage** 4d8+16 bludgeoning
 
-**Ranged** ◆ rock +36 (brutal, range increment <120 feet>); **Damage** 4d10+16 bludgeoning
+**Ranged** ◆ rock +36/+31/+26 (brutal, range increment <120 feet>); **Damage** 4d10+16 bludgeoning
 
 **Innate primal Spells** (DC 41), attack +33
 

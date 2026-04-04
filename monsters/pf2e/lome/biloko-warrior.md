@@ -11,6 +11,8 @@ ne, small, fey
 
 **Skills** Athletics +7, Crafting +7, Nature +5, Stealth +6, Survival +6
 
+**Recall Knowledge - Fey** (Nature): DC 15
+
 **STR** +3, **DEX** +2, **CON** -1, **INT** +0, **WIS** +2, **CHA** +1
 
 **Items** spear, wooden shield (Hardness 3, HP 12, BT 6)
@@ -29,11 +31,11 @@ ne, small, fey
 
 Speed 20 feet
 
-**Melee** ◆ jaws +7; **Damage** 1d8+3 piercing
+**Melee** ◆ jaws +7/+2/-3; **Damage** 1d8+3 piercing
 
-**Melee** ◆ spear +7; **Damage** 1d6+3 piercing
+**Melee** ◆ spear +7/+2/-3; **Damage** 1d6+3 piercing
 
-**Ranged** ◆ spear +6 (thrown <20 feet>); **Damage** 1d6+3 piercing
+**Ranged** ◆ spear +6/+1/-4 (thrown <20 feet>); **Damage** 1d6+3 piercing
 
 **Innate primal Spells** (DC 14)
 

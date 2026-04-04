@@ -11,6 +11,8 @@ uncommon, ne, medium, fire, undead
 
 **Skills** Athletics +25, Intimidation +21, Dragon Lore +22
 
+**Recall Knowledge - Undead** (Religion): DC 33
+
 **STR** +6, **DEX** +5, **CON** +4, **INT** +1, **WIS** +1, **CHA** +2
 
 **Items** broken greatsword
@@ -35,7 +37,7 @@ uncommon, ne, medium, fire, undead
 
 Speed 25 feet
 
-**Melee** ◆ breath-seared greatsword +27 (magical, versatile <P>); **Damage** 1d12+9 slashing plus 2d6 negative plus 3d6 fire
+**Melee** ◆ breath-seared greatsword +27/+22/+17 (magical, versatile <P>); **Damage** 1d12+9 slashing plus 2d6 negative plus 3d6 fire
 
 **Breath-Seared Sword** The dragonscarred dead's weapon is magically scorched by a dragon's breath. When wielded by the dragonscarred dead who carried it in life, the sword deals an extra 2d6 negative damage and 3d6 fire damage. In the hands of any other creature, it is merely a broken greatsword.
 

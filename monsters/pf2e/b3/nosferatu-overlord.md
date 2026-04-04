@@ -11,6 +11,8 @@ rare, ne, medium, undead, vampire
 
 **Skills** Acrobatics +29, Arcana +31, Athletics +27, Deception +25, Intimidation +27, Stealth +31
 
+**Recall Knowledge - Undead** (Religion): DC 39
+
 **STR** +6, **DEX** +8, **CON** +4, **INT** +8, **WIS** +6, **CHA** +4
 
 ---
@@ -33,7 +35,7 @@ rare, ne, medium, undead, vampire
 
 Speed 30 feet, climb 25 feet
 
-**Melee** ◆ fangs +30 (finesse); **Damage** 3d12+12 piercing plus Drink plus Drink
+**Melee** ◆ fangs +30/+25/+20 (finesse); **Damage** 3d12+12 piercing plus Drink plus Drink
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) DC 36
 

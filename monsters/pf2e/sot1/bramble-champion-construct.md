@@ -9,6 +9,8 @@ rare, n, large, construct, mindless
 
 **Skills** Athletics +9
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 23
+
 **STR** +4, **DEX** +3, **CON** +1, **INT** -5, **WIS** +1, **CHA** -5
 
 **Items** wooden maul
@@ -33,4 +35,4 @@ rare, n, large, construct, mindless
 
 Speed 20 feet
 
-**Melee** ◆ wooden maul +12 (nonlethal, reach <10 feet>, shove); **Damage** 1d12+4 bludgeoning
+**Melee** ◆ wooden maul +12/+7/+2 (nonlethal, reach <10 feet>, shove); **Damage** 1d12+4 bludgeoning

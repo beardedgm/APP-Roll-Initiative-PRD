@@ -11,6 +11,8 @@ cn, large, monitor, protean
 
 **Skills** Acrobatics +26, Athletics +30, Deception +33, Diplomacy +35, Intimidation +35, Religion +30, Stealth +28
 
+**Recall Knowledge - Monitor** (Religion): DC 36
+
 **STR** +9, **DEX** +5, **CON** +7, **INT** +5, **WIS** +7, **CHA** +7
 
 **Entropy Sense** (divination, divine, prediction) A voidworm can anticipate the most likely presence of a creature through a supernatural insight into chaotic probabilities and chance. This grants it the ability to sense creatures within the listed range. A creature under the effects of nondetection or that is otherwise shielded from divinations and predictions cannot be noticed via entropy sense.
@@ -37,11 +39,11 @@ cn, large, monitor, protean
 
 Speed 40 feet, fly 50 feet, swim 40 feet, freedom of movement
 
-**Melee** ◆ jaws +33 (chaotic, magical, reach <10 feet>); **Damage** 3d10+15 piercing plus 1d6 chaotic and warpwave strike plus warpwave strike
+**Melee** ◆ jaws +33/+28/+23 (chaotic, magical, reach <10 feet>); **Damage** 3d10+15 piercing plus 1d6 chaotic and warpwave strike plus warpwave strike
 
-**Melee** ◆ claw +33 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d10+15 slashing plus 1d6 chaotic and warpwave strike plus warpwave strike
+**Melee** ◆ claw +33/+29/+25 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d10+15 slashing plus 1d6 chaotic and warpwave strike plus warpwave strike
 
-**Melee** ◆ tail +33 (reach <15 feet>); **Damage** 2d10+15 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +33/+28/+23 (reach <15 feet>); **Damage** 2d10+15 bludgeoning plus Grab plus Grab
 
 **Innate divine Spells** (DC 42), attack +32
 

@@ -11,6 +11,8 @@ ce, medium, undead, water
 
 **Skills** Athletics +10, Stealth +8
 
+**Recall Knowledge - Undead** (Religion): DC 16
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** -1, **WIS** +1, **CHA** +1
 
 **Items** greataxe, leather armor
@@ -35,9 +37,9 @@ ce, medium, undead, water
 
 Speed 25 feet, swim 25 feet
 
-**Melee** ◆ greataxe +10 (sweep); **Damage** 1d12+4 slashing plus grotesque gift plus grotesque gift
+**Melee** ◆ greataxe +10/+5/+0 (sweep); **Damage** 1d12+4 slashing plus grotesque gift plus grotesque gift
 
-**Melee** ◆ fist +10 (agile); **Damage** 1d4+4 slashing plus grotesque gift plus grotesque gift
+**Melee** ◆ fist +10/+6/+2 (agile); **Damage** 1d4+4 slashing plus grotesque gift plus grotesque gift
 
 **Grotesque Gift** (olfactory) A draugr's attacks spatter their targets with rancid flesh and rotting seaweed. A creature damaged by a draugr's Strike must succeed at a DC 15 Fortitude save or become sickened 1 (sickened 2 on a critical failure).
 

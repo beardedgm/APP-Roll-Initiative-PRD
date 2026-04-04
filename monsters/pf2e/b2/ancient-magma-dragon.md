@@ -11,6 +11,8 @@ rare, cn, gargantuan, dragon, elemental, fire
 
 **Skills** Acrobatics +28, Athletics +36, Deception +28, Intimidation +34, Nature +28, Stealth +28, Survival +29
 
+**Recall Knowledge - Dragon** (Arcana, Nature): DC 43
+
 **STR** +8, **DEX** +4, **CON** +6, **INT** +4, **WIS** +5, **CHA** +6
 
 ---
@@ -33,13 +35,13 @@ rare, cn, gargantuan, dragon, elemental, fire
 
 Speed 50 feet, fly 200 feet, magma swim 50 feet
 
-**Melee** ◆ jaws +36 (magical, reach <20 feet>); **Damage** 3d10+16 piercing plus 4d6 fire
+**Melee** ◆ jaws +36/+31/+26 (magical, reach <20 feet>); **Damage** 3d10+16 piercing plus 4d6 fire
 
-**Melee** ◆ claw +36 (agile, magical, reach <15 feet>); **Damage** 3d10+16 slashing
+**Melee** ◆ claw +36/+32/+28 (agile, magical, reach <15 feet>); **Damage** 3d10+16 slashing
 
-**Melee** ◆ tail +34 (magical, reach <25 feet>); **Damage** 3d12+16 bludgeoning
+**Melee** ◆ tail +34/+29/+24 (magical, reach <25 feet>); **Damage** 3d12+16 bludgeoning
 
-**Melee** ◆ horns +34 (magical, reach <20 feet>); **Damage** 3d10+16 piercing
+**Melee** ◆ horns +34/+29/+24 (magical, reach <20 feet>); **Damage** 3d10+16 piercing
 
 **Innate primal Spells** (DC 40), attack +32
 

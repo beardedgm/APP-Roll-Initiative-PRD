@@ -11,6 +11,8 @@ ce, medium, human, humanoid
 
 **Skills** Athletics +12, Diplomacy +13, Intimidation +15, Religion +16, Survival +12, Demon Lore +13
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +2, **DEX** +1, **CON** +1, **INT** +1, **WIS** +4, **CHA** +3
 
 **Items** gluttonous spear|Sli, hide armor, key to cursebreaker|sli|Cursebreaker's lock, religious symbol of Angazhan|LOGM
@@ -29,9 +31,9 @@ ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ spear +17 (fatal <d10>, magical); **Damage** 3d6+4 piercing
+**Melee** ◆ spear +17/+12/+7 (fatal <d10>, magical); **Damage** 3d6+4 piercing
 
-**Ranged** ◆ spear +16 (fatal <d10>, magical, thrown <20 feet>); **Damage** 3d6+4 piercing
+**Ranged** ◆ spear +16/+11/+6 (fatal <d10>, magical, thrown <20 feet>); **Damage** 3d6+4 piercing
 
 **Prepared divine Spells** (DC 24), attack +16
 

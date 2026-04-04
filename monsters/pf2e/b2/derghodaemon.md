@@ -11,6 +11,8 @@ ne, large, daemon, fiend
 
 **Skills** Acrobatics +22, Athletics +25, Intimidation +24, Stealth +24
 
+**Recall Knowledge - Fiend** (Religion): DC 30
+
 **STR** +7, **DEX** +6, **CON** +5, **INT** +1, **WIS** +6, **CHA** +6
 
 ---
@@ -27,9 +29,9 @@ ne, large, daemon, fiend
 
 Speed 35 feet
 
-**Melee** ◆ claw +25 (deadly <1d12>, evil, magical, reach <10 feet>); **Damage** 3d8+10 slashing plus 1d6 evil
+**Melee** ◆ claw +25/+20/+15 (deadly <1d12>, evil, magical, reach <10 feet>); **Damage** 3d8+10 slashing plus 1d6 evil
 
-**Ranged** ◆ swarm spit +25 (evil, magical, range <60 feet>); **Damage** 2d6+13 piercing plus 1d6 evil
+**Ranged** ◆ swarm spit +25/+20/+15 (evil, magical, range <60 feet>); **Damage** 2d6+13 piercing plus 1d6 evil
 
 **Innate divine Spells** (DC 32)
 

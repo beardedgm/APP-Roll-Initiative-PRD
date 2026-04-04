@@ -11,6 +11,8 @@ rare, ce, medium, incorporeal, spirit, undead
 
 **Skills** Acrobatics +11, Intimidation +10, Stealth +11
 
+**Recall Knowledge - Spirit** (Religion): DC 24
+
 **STR** -5, **DEX** +3, **CON** +0, **INT** +1, **WIS** +1, **CHA** +4
 
 **Items** amulet (see sidebar for relic rules)
@@ -35,9 +37,9 @@ rare, ce, medium, incorporeal, spirit, undead
 
 Speed fly 30 feet
 
-**Melee** ◆ spectral hand +14 (agile, finesse, magical); **Damage** 2d6+3 negative
+**Melee** ◆ spectral hand +14/+10/+6 (agile, finesse, magical); **Damage** 2d6+3 negative
 
-**Ranged** ◆ deadly spark +14 (air, electricity, divine, evocation, range <20 feet>); **Damage** 1d12 electricity
+**Ranged** ◆ deadly spark +14/+9/+4 (air, electricity, divine, evocation, range <20 feet>); **Damage** 1d12 electricity
 
 **Death Gaze** ◆◆ (concentrate, divine, necromancy, negative) The spirit targets a creature it can see within 30 feet, dealing to it 4d6 negative damage (DC 20 basic Fortitude save). A creature with negative healing instead regains 4d6 HP and is then temporarily immune for 10 minutes.
 

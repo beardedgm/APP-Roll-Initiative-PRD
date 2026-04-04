@@ -9,6 +9,8 @@ unique, le, large, aberration
 
 **Skills** Acrobatics +25, Athletics +22, Crafting +25, Stealth +28, Thievery +28
 
+**Recall Knowledge - Aberration** (Occultism): DC 40
+
 **STR** +7, **DEX** +8, **CON** +5, **INT** +7, **WIS** +5, **CHA** +4
 
 **Items**  (10 sling bullets, 3 explosive ammunition, 3 freezing ammunition
@@ -35,9 +37,9 @@ unique, le, large, aberration
 
 Speed 35 feet, climb 35 feet
 
-**Melee** ◆ limb +27 (finesse, reach <15 feet>, shove); **Damage** 3d12+7 bludgeoning
+**Melee** ◆ limb +27/+22/+17 (finesse, reach <15 feet>, shove); **Damage** 3d12+7 bludgeoning
 
-**Ranged** ◆ sling +28 (propulsive, range increment <50 feet>, reload <1>); **Damage** 2d6+13 bludgeoning
+**Ranged** ◆ sling +28/+23/+18 (propulsive, range increment <50 feet>, reload <1>); **Damage** 2d6+13 bludgeoning
 
 **Addictive Exhaustion** (disease)
 

@@ -11,6 +11,8 @@ ce, medium, cold, hag, humanoid
 
 **Skills** Athletics +13, Deception +17, Diplomacy +15, Occultism +15, Survival +14
 
+**Recall Knowledge - Humanoid** (Society): DC 23
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** +4, **WIS** +3, **CHA** +6
 
 **Coven** A winter hag adds cone of cold, solid fog, and wall of ice to her coven's spells (page 304).
@@ -31,9 +33,9 @@ ce, medium, cold, hag, humanoid
 
 Speed 25 feet, ice climb 25 feet
 
-**Melee** ◆ ice staff +17 (magical, two-hand <d8>); **Damage** 2d4+7 bludgeoning plus 1d6 cold
+**Melee** ◆ ice staff +17/+12/+7 (magical, two-hand <d8>); **Damage** 2d4+7 bludgeoning plus 1d6 cold
 
-**Melee** ◆ claw +16 (agile); **Damage** 2d6+7 slashing plus 1d6 cold
+**Melee** ◆ claw +16/+12/+8 (agile); **Damage** 2d6+7 slashing plus 1d6 cold
 
 **Innate occult Spells** (DC 25), attack +17
 

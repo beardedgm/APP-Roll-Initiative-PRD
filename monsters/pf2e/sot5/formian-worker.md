@@ -31,6 +31,6 @@ ln, medium, formian
 
 Speed 30 feet, burrow 5 feet
 
-**Melee** ◆ jaws +7; **Damage** 1d4+4 slashing
+**Melee** ◆ jaws +7/+2/-3; **Damage** 1d4+4 slashing
 
 **Heavy Lifter** Formian workers excel at heavy labor. A formian worker can carry 5 additional bulk beyond the normal limits for their Strength before becoming encumbered or overburdened.

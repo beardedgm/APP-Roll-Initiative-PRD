@@ -11,6 +11,8 @@ uncommon, ce, medium, fey
 
 **Skills** Acrobatics +7, Athletics +7, Stealth +8
 
+**Recall Knowledge - Fey** (Nature): DC 17
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** -2, **WIS** +3, **CHA** +1
 
 ---
@@ -31,7 +33,7 @@ uncommon, ce, medium, fey
 
 Speed 40 feet
 
-**Melee** ◆ bite +9; **Damage** 1d4+4 piercing
+**Melee** ◆ bite +9/+4/-1; **Damage** 1d4+4 piercing
 
 **Shadow Bite** ◆ **Frequency** {"number":1,"unit":"round"}; The temagyr attempts to tear away and swallow a gobbet of shadow from a creature within reach. The creature must attempt a DC 17 Fortitude save. **Success** 
 **Failure** 

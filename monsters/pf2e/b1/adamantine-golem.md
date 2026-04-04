@@ -9,6 +9,8 @@ rare, n, huge, construct, golem, mindless
 
 **Skills** Athletics +38
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 43
+
 **STR** +9, **DEX** -1, **CON** +9, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -33,7 +35,7 @@ rare, n, huge, construct, golem, mindless
 
 Speed 30 feet
 
-**Melee** ◆ fist +35 (deadly <3d12>, magical, reach <15 feet>); **Damage** 3d10+17 bludgeoning plus destructive strike plus destructive strike
+**Melee** ◆ fist +35/+30/+25 (deadly <3d12>, magical, reach <15 feet>); **Damage** 3d10+17 bludgeoning plus destructive strike plus destructive strike
 
 **Destructive Strike** On a critical hit, the adamantine golem's fist Strike breaks the target's armor, if any, in addition to dealing damage to the target. If the target has a shield raised, the golem breaks the shield instead.
 

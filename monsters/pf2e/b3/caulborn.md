@@ -11,6 +11,8 @@ uncommon, n, medium, astral
 
 **Skills** Arcana +17, Deception +15, Intimidation +15, Nature +16, Occultism +19, Religion +14, Society +17
 
+**Recall Knowledge - Astral** (Occultism): DC 25
+
 **STR** +2, **DEX** +4, **CON** +3, **INT** +6, **WIS** +5, **CHA** +4
 
 **Collective Sense** (divination, mental, occult) Caulborn are aware of all other caulborn within 300 feet, with the effects of a status spell, and they can perceive anything within the other caulborns' thoughtsense. If two or more caulborn are within range of each others' thoughtsense, they can't be flanked.
@@ -31,9 +33,9 @@ uncommon, n, medium, astral
 
 Speed 25 feet
 
-**Melee** ◆ claw +17 (agile, finesse); **Damage** 2d10+5 slashing
+**Melee** ◆ claw +17/+13/+9 (agile, finesse); **Damage** 2d10+5 slashing
 
-**Melee** ◆ hand +17 (finesse, mental); **Damage** 2d12 mental
+**Melee** ◆ hand +17/+12/+7 (finesse, mental); **Damage** 2d12 mental
 
 **Innate occult Spells** (DC 25), attack +17
 

@@ -11,6 +11,8 @@ n, small, cold, plant
 
 **Skills** Stealth +13, Survival +10
 
+**Recall Knowledge - Plant** (Nature): DC 19
+
 **STR** +2, **DEX** +5, **CON** +2, **INT** -2, **WIS** +2, **CHA** +2
 
 ---
@@ -33,8 +35,8 @@ n, small, cold, plant
 
 Speed 20 feet, climb 20 feet
 
-**Melee** ◆ flower +13 (finesse); **Damage** 2d6+4 bludgeoning plus 1d6 cold
+**Melee** ◆ flower +13/+8/+3 (finesse); **Damage** 2d6+4 bludgeoning plus 1d6 cold
 
-**Melee** ◆ tendril +13 (agile, finesse); **Damage** 2d4+4 slashing plus 1d4 cold
+**Melee** ◆ tendril +13/+9/+5 (agile, finesse); **Damage** 2d4+4 slashing plus 1d4 cold
 
 **Seed Spray** ◆◆ (cold, evocation, primal) The calathgar expels thorny, frozen seeds in a 15-foot cone, dealing 1d6 piercing and 4d6 cold damage (DC 20 basic Reflex save). In mild cold or colder environments (Core Rulebook 518), these seeds cling to living creatures they strike, dealing 1d4 persistent cold damage. The calathgar can't use Seed Spray again for 1d4 rounds.

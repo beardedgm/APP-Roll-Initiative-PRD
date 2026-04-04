@@ -11,6 +11,8 @@ ce, small, goblin, humanoid
 
 **Skills** Acrobatics +7, Stealth +7, Fire Lore +7
 
+**Recall Knowledge - Humanoid** (Society): DC 15
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +0, **WIS** -1, **CHA** +3
 
 **Items** torch
@@ -29,7 +31,7 @@ ce, small, goblin, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ torch +7 (fire); **Damage** 1d4 bludgeoning plus 1 fire
+**Melee** ◆ torch +7/+2/-3 (fire); **Damage** 1d4 bludgeoning plus 1 fire
 
 **Spontaneous arcane Spells** (DC 16)
 

@@ -9,6 +9,8 @@ n, small, animal
 
 **Skills** Acrobatics +7, Athletics +8
 
+**Recall Knowledge - Animal** (Nature): DC 16
+
 **STR** +4, **DEX** +3, **CON** +1, **INT** -5, **WIS** +1, **CHA** +0
 
 ---
@@ -27,6 +29,6 @@ n, small, animal
 
 Speed 20 feet, fly 40 feet, burrow 10 feet
 
-**Melee** ◆ stinger +11 (deadly <d8>); **Damage** 1d6+4 piercing
+**Melee** ◆ stinger +11/+6/+1 (deadly <d8>); **Damage** 1d6+4 piercing
 
-**Melee** ◆ mandibles +11 (agile); **Damage** 1d6+4 piercing
+**Melee** ◆ mandibles +11/+7/+3 (agile); **Damage** 1d6+4 piercing

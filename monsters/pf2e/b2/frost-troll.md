@@ -33,13 +33,13 @@ uncommon, ce, large, cold, giant, troll
 
 Speed 30 feet, ice stride
 
-**Melee** ◆ jaws +13 (reach <10 feet>); **Damage** 2d8+7 piercing
+**Melee** ◆ jaws +13/+8/+3 (reach <10 feet>); **Damage** 2d8+7 piercing
 
-**Melee** ◆ hatchet +13 (agile, reach <10 feet>, sweep); **Damage** 2d6+7 slashing
+**Melee** ◆ hatchet +13/+9/+5 (agile, reach <10 feet>, sweep); **Damage** 2d6+7 slashing
 
-**Melee** ◆ claw +13 (agile, reach <10 feet>); **Damage** 2d4+7 slashing
+**Melee** ◆ claw +13/+9/+5 (agile, reach <10 feet>); **Damage** 2d4+7 slashing
 
-**Ranged** ◆ hatchet +10 (agile, sweep, thrown <10 feet>); **Damage** 2d6+7 slashing
+**Ranged** ◆ hatchet +10/+6/+2 (agile, sweep, thrown <10 feet>); **Damage** 2d6+7 slashing
 
 **Ice Stride** A frost troll isn't impeded by terrain caused by snow or ice, nor do they need to attempt Acrobatics checks to keep from falling on slippery ice.
 

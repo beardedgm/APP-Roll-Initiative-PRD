@@ -11,6 +11,8 @@ rare, cg, gargantuan, humanoid, titan
 
 **Skills** Acrobatics +36, Athletics +43, Crafting +37, Diplomacy +37, Intimidation +35, Religion +37, Survival +37
 
+**Recall Knowledge - Humanoid** (Society): DC 47
+
 **STR** +10, **DEX** +7, **CON** +8, **INT** +6, **WIS** +8, **CHA** +6
 
 **Items** +2 greater resilient breastplate, +3 greater striking greatpick
@@ -31,11 +33,11 @@ rare, cg, gargantuan, humanoid, titan
 
 Speed 40 feet, air walk
 
-**Melee** ◆ greatpick +41 (fatal <d12>, magical, reach <30 feet>); **Damage** 4d10+20 piercing
+**Melee** ◆ greatpick +41/+36/+31 (fatal <d12>, magical, reach <30 feet>); **Damage** 4d10+20 piercing
 
-**Melee** ◆ fist +38 (agile, reach <30 feet>); **Damage** 4d8+20 bludgeoning
+**Melee** ◆ fist +38/+34/+30 (agile, reach <30 feet>); **Damage** 4d8+20 bludgeoning
 
-**Ranged** ◆ rock +38 (brutal, range increment <200 feet>); **Damage** 3d12+20 bludgeoning
+**Ranged** ◆ rock +38/+33/+28 (brutal, range increment <200 feet>); **Damage** 3d12+20 bludgeoning
 
 **Innate divine Spells** (DC 44)
 

@@ -11,6 +11,8 @@ le, medium, mummy, undead
 
 **Skills** Athletics +7, Stealth +9
 
+**Recall Knowledge - Undead** (Religion): DC 16
+
 **STR** +3, **DEX** +1, **CON** -2, **INT** -2, **WIS** +4, **CHA** +2
 
 ---
@@ -31,7 +33,7 @@ le, medium, mummy, undead
 
 Speed 20 feet
 
-**Melee** ◆ fist +11; **Damage** 1d8+3 bludgeoning plus lesser mummy rot
+**Melee** ◆ fist +11/+6/+1; **Damage** 1d8+3 bludgeoning plus lesser mummy rot
 
 **Lesser Mummy Rot** (disease, divine, necromancy, negative) The damage from this disease can't be healed while a creature still has the disease. A creature killed by lesser mummy rot turns to dust and can't be resurrected except by a 7th-level resurrect ritual or similar magic; **Saving Throw** DC 16 Fortitude
 **Stage 1** carrier with no ill effect (1 minute)

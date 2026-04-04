@@ -11,6 +11,8 @@ ce, medium, incorporeal, spirit, undead
 
 **Skills** Acrobatics +14, Intimidation +14, Religion +12, Stealth +16, Boneyard Lore +12
 
+**Recall Knowledge - Spirit** (Religion): DC 22
+
 **STR** -5, **DEX** +4, **CON** +0, **INT** +2, **WIS** +2, **CHA** +4
 
 **Sense Apostate** (detection, divination, divine) An abandoned zealot can sense the presence and direction of false priests within 500 feet of them. Lead or running water blocks this sense.
@@ -38,7 +40,7 @@ ce, medium, incorporeal, spirit, undead
 
 Speed fly 40 feet
 
-**Melee** ◆ hand of despair +16 (finesse, magical); **Damage** 2d10+4 negative plus rend faith plus rend faith
+**Melee** ◆ hand of despair +16/+11/+6 (finesse, magical); **Damage** 2d10+4 negative plus rend faith plus rend faith
 
 **Innate divine Spells** (DC 24)
 

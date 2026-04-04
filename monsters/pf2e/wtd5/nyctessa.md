@@ -11,6 +11,8 @@ unique, ne, medium, dhampir, human, humanoid
 
 **Skills** Arcana +13, Crafting +13, Deception +12, Intimidation +10, Religion +11, Society +11
 
+**Recall Knowledge - Humanoid** (Society): DC 30
+
 **STR** +0, **DEX** +2, **CON** +1, **INT** +4, **WIS** +2, **CHA** +3
 
 **Items** explorer's clothing, lesser oil of unlife|APG, Nyctessa's staff|WtD5, void salts|WtD5, spellbook
@@ -31,9 +33,9 @@ unique, ne, medium, dhampir, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ Nyctessa's staff +11 (two-hand <1d8>); **Damage** 1d4 bludgeoning plus sepulchral drain plus sepulchral drain
+**Melee** ◆ Nyctessa's staff +11/+6/+1 (two-hand <1d8>); **Damage** 1d4 bludgeoning plus sepulchral drain plus sepulchral drain
 
-**Melee** ◆ fangs +11 (grapple, unarmed); **Damage** 1d6 piercing
+**Melee** ◆ fangs +11/+6/+1 (grapple, unarmed); **Damage** 1d6 piercing
 
 **Prepared arcane Spells** (DC 23), attack +15
 

@@ -11,6 +11,8 @@ unique, cg, medium, human, humanoid
 
 **Skills** Acrobatics +28, Athletics +24, Society +28, Piloting Lore +38, Ruby Phoenix Tournament Lore +38
 
+**Recall Knowledge - Humanoid** (Society): DC 44
+
 **STR** +3, **DEX** +7, **CON** +3, **INT** +5, **WIS** +0, **CHA** +3
 
 **Items** heavy crossbow
@@ -31,7 +33,7 @@ unique, cg, medium, human, humanoid
 
 Speed 25 feet
 
-**Ranged** ◆ heavy crossbow +30 (range increment <120 feet>, reload <2>); **Damage** 4d10+6 piercing
+**Ranged** ◆ heavy crossbow +30/+25/+20 (range increment <120 feet>, reload <2>); **Damage** 4d10+6 piercing
 
 **Deploy Countermeasures** ◆◆ (manipulate) **Frequency** {"unit":"hour","number":1}; **Requirements** Yoh is piloting the Solar Jian II; While the Solar Jian II is not a combat vessel, it does have a magically renewing supply of fireworks for victory parades and the like. Yoh fires them at a 20-foot burst within 60 feet. Creatures in the area take 3d6 fire damage and 3d6 sonic damage with a Fortitude save. **Critical Success** The target is unaffected.
 **Success** The target takes half damage and is dazzled for 1 round.

@@ -9,6 +9,8 @@ unique, n, large, construct
 
 **Skills** Arcana +30
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 54
+
 **STR** +10, **DEX** +8, **CON** +9, **INT** -5, **WIS** +7, **CHA** -5
 
 ---
@@ -33,9 +35,9 @@ unique, n, large, construct
 
 Speed 30 feet
 
-**Melee** ◆ jaws +41 (magical, reach <15 feet>); **Damage** 6d10+8 piercing plus 2d10 persistent bleed
+**Melee** ◆ jaws +41/+36/+31 (magical, reach <15 feet>); **Damage** 6d10+8 piercing plus 2d10 persistent bleed
 
-**Melee** ◆ claw +41 (agile, magical, reach <10 feet>); **Damage** 9d6+8 slashing
+**Melee** ◆ claw +41/+37/+33 (agile, magical, reach <10 feet>); **Damage** 9d6+8 slashing
 
 **Breath Weapon** ◆◆ The construct breathes in one of two ways, then can't use Breath Weapon again for 1d4 rounds. - 
 - 

@@ -11,6 +11,8 @@ ce, large, aberration
 
 **Skills** Acrobatics +20, Athletics +20, Stealth +20
 
+**Recall Knowledge - Aberration** (Occultism): DC 26
+
 **STR** +5, **DEX** +5, **CON** +3, **INT** -2, **WIS** +3, **CHA** +4
 
 ---
@@ -27,9 +29,9 @@ ce, large, aberration
 
 Speed 15 feet
 
-**Melee** ◆ jaws +20 (reach <10 feet>); **Damage** 2d12+11 piercing
+**Melee** ◆ jaws +20/+15/+10 (reach <10 feet>); **Damage** 2d12+11 piercing
 
-**Melee** ◆ tentacle +20 (agile, reach <20 feet>); **Damage** 2d8+11 slashing plus mind lash plus mind lash
+**Melee** ◆ tentacle +20/+16/+12 (agile, reach <20 feet>); **Damage** 2d8+11 slashing plus mind lash plus mind lash
 
 **Mind Lash** (emotion, enchantment, mental, occult) A non-evil creature hit by an irnakurse's tentacle is overwhelmed with corrupted images of a ruined life and must succeed at a DC 28 Will save or be stunned 2 (or stunned 4 on a critical failure). After attempting this save, a creature is temporarily immune to Mind Lash for 24 hours.
 

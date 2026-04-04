@@ -11,6 +11,8 @@ unique, ne, medium, amphibious, boggard, humanoid
 
 **Skills** Athletics +14, Intimidation +13, Survival +11, Swamp Lore +8
 
+**Recall Knowledge - Humanoid** (Society): DC 30
+
 **STR** +5, **DEX** +2, **CON** +3, **INT** -1, **WIS** +2, **CHA** +2
 
 **Items** breastplate, , javelins (3)
@@ -27,11 +29,11 @@ unique, ne, medium, amphibious, boggard, humanoid
 
 Speed 20 feet, swim 25 feet, swamp stride
 
-**Melee** ◆ greatclub +15 (backswing, magical, shove); **Damage** 2d10+5 bludgeoning
+**Melee** ◆ greatclub +15/+10/+5 (backswing, magical, shove); **Damage** 2d10+5 bludgeoning
 
-**Melee** ◆ tongue +14 (reach <10 feet>); plus tongue grab
+**Melee** ◆ tongue +14/+9/+4 (reach <10 feet>); plus tongue grab
 
-**Ranged** ◆ javelin +12 (thrown <20 feet>); **Damage** 1d6+5 piercing
+**Ranged** ◆ javelin +12/+7/+2 (thrown <20 feet>); **Damage** 1d6+5 piercing
 
 **Bounding Leap** ◆◆ Globblit Leaps twice; this movement doesn't provoke reactions. If he ends his movement within melee reach of at least one enemy, he can make a melee Strike against that enemy.
 

@@ -11,6 +11,8 @@ unique, ne, large, construct, ooze
 
 **Skills** Athletics +23, Dark Tapestry Lore +15, Religion +18
 
+**Recall Knowledge - Construct** (Arcana, Crafting, Occultism): DC 37
+
 **STR** +7, **DEX** +2, **CON** +5, **INT** -3, **WIS** +3, **CHA** +4
 
 **Motion** Sense Tyrroicese can sense nearby motion through vibration and air movement.
@@ -33,7 +35,7 @@ unique, ne, large, construct, ooze
 
 Speed 15 feet
 
-**Melee** ◆ pseudopod +23 (acid, magical, reach <15 feet>, versatile <P>); **Damage** 2d10+13 bludgeoning plus 1d6 acid
+**Melee** ◆ pseudopod +23/+18/+13 (acid, magical, reach <15 feet>, versatile <P>); **Damage** 2d10+13 bludgeoning plus 1d6 acid
 
 **Pseudopod Burst** ◆◆ Tyrroicese makes up to three pseudopod strikes, each against a different creature. Tyrroicese's multiple attack penalty doesn't increase until after all these attacks are made.
 

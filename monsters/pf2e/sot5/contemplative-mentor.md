@@ -11,6 +11,8 @@ rare, n, medium, aberration
 
 **Skills** Arcana +35, Deception +32
 
+**Recall Knowledge - Aberration** (Occultism): DC 43
+
 **STR** +0, **DEX** +6, **CON** +0, **INT** +9, **WIS** +5, **CHA** +6
 
 **Temporal Sense** As contemplative meditant.
@@ -35,7 +37,7 @@ rare, n, medium, aberration
 
 Speed 5 feet, fly 30 feet
 
-**Melee** ◆ claw +32 (finesse, magical); **Damage** 3d8+6 slashing plus 4d6 mental
+**Melee** ◆ claw +32/+27/+22 (finesse, magical); **Damage** 3d8+6 slashing plus 4d6 mental
 
 **Innate occult Spells** (DC 43), attack +33
 

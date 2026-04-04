@@ -11,6 +11,8 @@ rare, ln, gargantuan, humanoid, titan, water
 
 **Skills** Acrobatics +39, Arcana +43, Athletics +46, Crafting +43, Nature +41, Occultism +43, Religion +41, Society +43
 
+**Recall Knowledge - Humanoid** (Society): DC 51
+
 **STR** +11, **DEX** +8, **CON** +10, **INT** +10, **WIS** +8, **CHA** +6
 
 **Items** +3 major striking greatclub
@@ -37,11 +39,11 @@ rare, ln, gargantuan, humanoid, titan, water
 
 Speed 50 feet, swim 40 feet, air walk, water walk
 
-**Melee** ◆ greatclub +43 (backswing, magical, reach <40 feet>, shove); **Damage** 4d10+20 bludgeoning plus 2d12 cold
+**Melee** ◆ greatclub +43/+38/+33 (backswing, magical, reach <40 feet>, shove); **Damage** 4d10+20 bludgeoning plus 2d12 cold
 
-**Melee** ◆ foot +40 (agile, reach <30 feet>); **Damage** 4d8+20 bludgeoning plus 2d12 cold
+**Melee** ◆ foot +40/+36/+32 (agile, reach <30 feet>); **Damage** 4d8+20 bludgeoning plus 2d12 cold
 
-**Ranged** ◆ benthic wave +40 (brutal, magical, range <200 feet>, water); **Damage** 4d6+20 bludgeoning plus 2d12 cold
+**Ranged** ◆ benthic wave +40/+35/+30 (brutal, magical, range <200 feet>, water); **Damage** 4d6+20 bludgeoning plus 2d12 cold
 
 **Innate divine Spells** (DC 46), attack +38
 

@@ -11,6 +11,8 @@ unique, le, medium, human, humanoid
 
 **Skills** Acrobatics +25, Arcana +25, Diplomacy +24, Fortune-telling Lore +27, Intimidation +24, Occultism +27, Society +25
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** +1, **DEX** +5, **CON** +1, **INT** +5, **WIS** +2, **CHA** +4
 
 **Items** +1 glamered resilient mithral chain shirt, +2 striking darkwood staff, material component pouch, greater pendant of the occult, The Rakshasa|SF1, spellbook (contains all prepared spells plus an additional 2d6 spells of the GM's choosing)
@@ -29,7 +31,7 @@ unique, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ staff +27 (agile, finesse, magical, two-hand <d8>); **Damage** 2d6+7 bludgeoning
+**Melee** ◆ staff +27/+23/+19 (agile, finesse, magical, two-hand <d8>); **Damage** 2d6+7 bludgeoning
 
 **Prepared arcane Spells** (DC 34), attack +26
 

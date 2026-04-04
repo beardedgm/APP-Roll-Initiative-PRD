@@ -11,6 +11,8 @@ rare, ne, large, aberration
 
 **Skills** Athletics +33, Deception +34, Occultism +31, Society +31, Stealth +34
 
+**Recall Knowledge - Aberration** (Occultism): DC 43
+
 **STR** +9, **DEX** +6, **CON** +6, **INT** +5, **WIS** +3, **CHA** +6
 
 **Odorless** A myrucarx emits no smell and can't be detected by scent.
@@ -33,7 +35,7 @@ rare, ne, large, aberration
 
 Speed 30 feet, climb 30 feet, freedom of movement
 
-**Melee** ◆ jaws +34 (magical, reach <15 feet>); **Damage** 3d10+15 piercing plus Grab plus Grab
+**Melee** ◆ jaws +34/+29/+24 (magical, reach <15 feet>); **Damage** 3d10+15 piercing plus Grab plus Grab
 
 **Innate occult Spells** (DC 40), attack +32
 

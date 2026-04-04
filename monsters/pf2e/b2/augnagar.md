@@ -11,6 +11,8 @@ uncommon, ce, huge, fiend, qlippoth
 
 **Skills** Acrobatics +27, Athletics +28, Intimidation +26
 
+**Recall Knowledge - Fiend** (Religion): DC 34
+
 **STR** +8, **DEX** +5, **CON** +8, **INT** -2, **WIS** +5, **CHA** +4
 
 ---
@@ -31,9 +33,9 @@ uncommon, ce, huge, fiend, qlippoth
 
 Speed 40 feet, fly 40 feet, climb 40 feet
 
-**Melee** ◆ bite +28 (chaotic, magical, reach <10 feet>); **Damage** 3d12+14 piercing plus 4d6 persistent bleed, 1d6 chaotic, and rotting curse plus rotting curse
+**Melee** ◆ bite +28/+23/+18 (chaotic, magical, reach <10 feet>); **Damage** 3d12+14 piercing plus 4d6 persistent bleed, 1d6 chaotic, and rotting curse plus rotting curse
 
-**Melee** ◆ sting +28 (agile, chaotic, magical, finesse, reach <15 feet>); **Damage** 3d8+14 slashing plus 4d6 persistent bleed and 1d6 chaotic
+**Melee** ◆ sting +28/+24/+20 (agile, chaotic, magical, finesse, reach <15 feet>); **Damage** 3d8+14 slashing plus 4d6 persistent bleed and 1d6 chaotic
 
 **Innate occult Spells** (DC 31)
 

@@ -11,6 +11,8 @@ unique, ne, medium, fiend, hag, humanoid
 
 **Skills** Arcana +30, Deception +31, Diplomacy +29, Intimidation +27, Occultism +32
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 45
+
 **STR** +8, **DEX** +7, **CON** +9, **INT** +6, **WIS** +8, **CHA** +5
 
 **Items** greater cloak of the bat, heartstone
@@ -37,9 +39,9 @@ unique, ne, medium, fiend, hag, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ jaws +32 (magical); **Damage** 3d8+16 piercing plus 2d6 evil and Abyssal plague plus Abyssal plague
+**Melee** ◆ jaws +32/+27/+22 (magical); **Damage** 3d8+16 piercing plus 2d6 evil and Abyssal plague plus Abyssal plague
 
-**Melee** ◆ claw +32 (agile, magical); **Damage** 3d10+16 slashing plus 2d6 evil
+**Melee** ◆ claw +32/+28/+24 (agile, magical); **Damage** 3d10+16 slashing plus 2d6 evil
 
 **Innate occult Spells** (DC 41), attack +31
 

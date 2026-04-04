@@ -11,6 +11,8 @@ rare, ln, medium, human, humanoid
 
 **Skills** Athletics +33, Intimidation +33
 
+**Recall Knowledge - Humanoid** (Society): DC 41
+
 **STR** +8, **DEX** +2, **CON** +9, **INT** -4, **WIS** +3, **CHA** -4
 
 **Items** +2 greater resilient full plate, +2 greater striking longsword
@@ -34,4 +36,4 @@ rare, ln, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ longsword +33 (magical, versatile <P>); **Damage** 7d8+8 slashing
+**Melee** ◆ longsword +33/+28/+23 (magical, versatile <P>); **Damage** 7d8+8 slashing

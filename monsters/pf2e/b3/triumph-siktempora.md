@@ -35,7 +35,7 @@ rare, ln, small, siktempora, time
 
 Speed 60 feet, air walk
 
-**Melee** ◆ glorious fist +30; **Damage** 3d12+16 bludgeoning
+**Melee** ◆ glorious fist +30/+25/+20; **Damage** 3d12+16 bludgeoning
 
 **Innate occult Spells** (DC 32)
 

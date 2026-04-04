@@ -11,6 +11,8 @@ unique, ce, medium, human, humanoid, tiefling
 
 **Skills** Acrobatics +34, Deception +30, Intimidation +30, Stealth +31, Thievery +31
 
+**Recall Knowledge - Humanoid** (Society): DC 46
+
 **STR** +3, **DEX** +6, **CON** +5, **INT** +1, **WIS** +4, **CHA** +5
 
 **Items** daggers (16), , 
@@ -27,9 +29,9 @@ unique, ce, medium, human, humanoid, tiefling
 
 Speed 25 feet
 
-**Melee** ◆ war razor +33 (agile, backstabber, deadly <2d8>, finesse); **Damage** 3d4+11 slashing plus 2d10 persistent bleed
+**Melee** ◆ war razor +33/+29/+25 (agile, backstabber, deadly <2d8>, finesse); **Damage** 3d4+11 slashing plus 2d10 persistent bleed
 
-**Ranged** ◆ dagger +31 (agile, finesse, thrown <20 feet>, versatile <S>); **Damage** 1d4+11 piercing
+**Ranged** ◆ dagger +31/+27/+23 (agile, finesse, thrown <20 feet>, versatile <S>); **Damage** 1d4+11 piercing
 
 **Bloody Mayhem** ◆◆ Twisted Jack Strides three times. Once per Stride, he can attempt a war razor Strike against a creature in his reach at any point during the Stride; he must make each Strike against a different creature, but he doesn't apply his multiple attack penalty until after making all his Strikes. If any of the Strikes are a critical failure, Bloody Mayhem immediately ends.
 

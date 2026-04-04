@@ -33,7 +33,7 @@ rare, ce, large, siktempora, time
 
 Speed 35 feet, air walk
 
-**Melee** ◆ claw +26 (agile); **Damage** 3d8+13 slashing
+**Melee** ◆ claw +26/+22/+18 (agile); **Damage** 3d8+13 slashing
 
 **Innate occult Spells** (DC 29)
 

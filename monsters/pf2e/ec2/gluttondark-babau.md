@@ -11,6 +11,8 @@ ce, medium, demon, fiend
 
 **Skills** Acrobatics +14, Athletics +15, Intimidation +16, Religion +12, Stealth +18, Thievery +16
 
+**Recall Knowledge - Fiend** (Religion): DC 23
+
 **STR** +4, **DEX** +4, **CON** +4, **INT** +2, **WIS** +3, **CHA** +2
 
 **Items** +1 longspear
@@ -38,11 +40,11 @@ ce, medium, demon, fiend
 
 Speed 25 feet
 
-**Melee** ◆ longspear +19 (evil, magical, reach); **Damage** 1d6+8 piercing plus 1d6 evil
+**Melee** ◆ longspear +19/+14/+9 (evil, magical, reach); **Damage** 1d6+8 piercing plus 1d6 evil
 
-**Melee** ◆ jaws +18 (evil, magical); **Damage** 2d6+8 piercing plus 1d6 evil
+**Melee** ◆ jaws +18/+13/+8 (evil, magical); **Damage** 2d6+8 piercing plus 1d6 evil
 
-**Melee** ◆ claw +18 (agile, evil, magical); **Damage** 1d6+8 slashing plus 1d6 evil
+**Melee** ◆ claw +18/+14/+10 (agile, evil, magical); **Damage** 1d6+8 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 26)
 

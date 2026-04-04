@@ -11,6 +11,8 @@ n, medium, human, humanoid
 
 **Skills** Diplomacy +7, Intimidation +5, Academia Lore +14, One Additional Lore +14
 
+**Recall Knowledge - Humanoid** (Society): DC 13
+
 **STR** +0, **DEX** +0, **CON** -1, **INT** +4, **WIS** +2, **CHA** +3
 
 **Items** cane (functions as staff), textbook, writing set
@@ -31,4 +33,4 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ cane +4 (two-hand <d8>); **Damage** 1d4 bludgeoning
+**Melee** ◆ cane +4/-1/-6 (two-hand <d8>); **Damage** 1d4 bludgeoning

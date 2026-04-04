@@ -11,6 +11,8 @@ ce, large, aberration
 
 **Skills** Athletics +18, Stealth +15, Survival +18
 
+**Recall Knowledge - Aberration** (Occultism): DC 24
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** +3, **WIS** +6, **CHA** +3
 
 **Echolocation** A destrachan can use its hearing as a precise sense at the listed range.
@@ -29,9 +31,9 @@ ce, large, aberration
 
 Speed 25 feet
 
-**Melee** ◆ jaws +20; **Damage** 2d8+10 piercing plus 1d8 sonic
+**Melee** ◆ jaws +20/+15/+10; **Damage** 2d8+10 piercing plus 1d8 sonic
 
-**Melee** ◆ claw +20 (agile); **Damage** 2d8+10 slashing
+**Melee** ◆ claw +20/+16/+12 (agile); **Damage** 2d8+10 slashing
 
 **Destructive Harmonics** ◆◆ (auditory, evocation, occult, sonic) The destrachan emits a harsh sonic cry that deals 9d6 sonic damage (DC 26 basic Reflex save) in either a 60-foot cone or a 30-foot burst. It can't use Destructive Harmonics again for 1d4 rounds.
 

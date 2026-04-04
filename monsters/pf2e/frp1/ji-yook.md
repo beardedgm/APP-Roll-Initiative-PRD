@@ -11,6 +11,8 @@ unique, cg, medium, humanoid, kitsune
 
 **Skills** Acrobatics +21, Deception +21, Thievery +19
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +3, **WIS** +1, **CHA** +4
 
 **Items** +1 striking darts (5), +1 striking returning dart, +1 explorer's clothing, +1 striking handwraps of mighty blows, lesser smokesticks (2)
@@ -27,11 +29,11 @@ unique, cg, medium, humanoid, kitsune
 
 Speed 25 feet
 
-**Melee** ◆ claw +20 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d4+8 slashing
+**Melee** ◆ claw +20/+16/+12 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d4+8 slashing
 
-**Ranged** ◆ dart +20 (agile, magical, thrown <20 feet>); **Damage** 2d4+4 piercing
+**Ranged** ◆ dart +20/+16/+12 (agile, magical, thrown <20 feet>); **Damage** 2d4+4 piercing
 
-**Ranged** ◆ foxfire +19 (range <20 feet>); **Damage** 2d4 electricity
+**Ranged** ◆ foxfire +19/+14/+9 (range <20 feet>); **Damage** 2d4 electricity
 
 **Innate divine Spells** (DC 27)
 

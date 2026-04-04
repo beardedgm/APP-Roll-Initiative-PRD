@@ -11,6 +11,8 @@ unique, cg, medium, humanoid, tengu
 
 **Skills** Acrobatics +17, Athletics +21, Intimidation +15, Performance +15
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +4, **DEX** +2, **CON** +4, **INT** +1, **WIS** +3, **CHA** +0
 
 **Items** +1 hide armor, +1 striking tengu gale blades (2)
@@ -29,9 +31,9 @@ unique, cg, medium, humanoid, tengu
 
 Speed 25 feet
 
-**Melee** ◆ tengu gale blade +22 (agile, disarm, finesse, magical); **Damage** 2d6+10 slashing
+**Melee** ◆ tengu gale blade +22/+18/+14 (agile, disarm, finesse, magical); **Damage** 2d6+10 slashing
 
-**Melee** ◆ beak +21 (finesse, unarmed); **Damage** 1d6+10 piercing
+**Melee** ◆ beak +21/+16/+11 (finesse, unarmed); **Damage** 1d6+10 piercing
 
 **Blade Barrage** ◆◆ Takatorra makes three melee Strikes. These Strikes gain the forceful trait. If one target is hit with at least two of these Strikes, they also take 1d6 persistent bleed damage. The target is then flat-footed until they heal the persistent bleed damage.
 

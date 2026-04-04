@@ -11,6 +11,8 @@ n, huge, air, giant, humanoid
 
 **Skills** Athletics +26, Crafting +21, Diplomacy +24, Intimidation +26, Performance +21
 
+**Recall Knowledge - Humanoid** (Society): DC 28
+
 **STR** +7, **DEX** +0, **CON** +5, **INT** +1, **WIS** +3, **CHA** +1
 
 **Items** +1 striking ranseur, sack with 5 rocks
@@ -31,11 +33,11 @@ n, huge, air, giant, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ ranseur +25 (disarm, magical, reach <20 feet>); **Damage** 2d10+13 piercing
+**Melee** ◆ ranseur +25/+20/+15 (disarm, magical, reach <20 feet>); **Damage** 2d10+13 piercing
 
-**Melee** ◆ fist +24 (agile, reach <15 feet>); **Damage** 2d8+13 bludgeoning
+**Melee** ◆ fist +24/+20/+16 (agile, reach <15 feet>); **Damage** 2d8+13 bludgeoning
 
-**Ranged** ◆ rock +24 (brutal, range increment <120 feet>); **Damage** 2d10+13 bludgeoning
+**Ranged** ◆ rock +24/+19/+14 (brutal, range increment <120 feet>); **Damage** 2d10+13 bludgeoning
 
 **Innate primal Spells** (DC 30)
 

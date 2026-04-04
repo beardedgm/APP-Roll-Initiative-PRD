@@ -11,6 +11,8 @@ uncommon, cn, small, amphibious, dragon
 
 **Skills** Acrobatics +13, Athletics +14, Intimidation +14, Stealth +15, Thievery +13
 
+**Recall Knowledge - Dragon** (Arcana): DC 24
+
 **STR** +4, **DEX** +5, **CON** +2, **INT** +0, **WIS** +2, **CHA** +4
 
 ---
@@ -25,9 +27,9 @@ uncommon, cn, small, amphibious, dragon
 
 Speed 30 feet, fly 60 feet, swim 30 feet, climb 30 feet
 
-**Melee** ◆ jaws +16; **Damage** 2d10+6 piercing
+**Melee** ◆ jaws +16/+11/+6; **Damage** 2d10+6 piercing
 
-**Melee** ◆ claw +17 (agile, finesse); **Damage** 2d6+6 slashing
+**Melee** ◆ claw +17/+13/+9 (agile, finesse); **Damage** 2d6+6 slashing
 
 **Breath Weapon** ◆ (arcane, evocation) The i'iko dragon breathes a spray of jagged glass shards that deals 7d6 piercing damage in a 15-foot cone (DC 23 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.
 

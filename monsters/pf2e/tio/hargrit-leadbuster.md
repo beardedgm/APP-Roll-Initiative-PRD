@@ -9,6 +9,8 @@ unique, le, medium, dwarf, humanoid
 
 **Skills** Athletics +10, Diplomacy +12, Fiend Lore +10, Intimidation +10, Religion +10
 
+**Recall Knowledge - Humanoid** (Society): DC 29
+
 **STR** +2, **DEX** +0, **CON** +3, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** area map (showing Maunder Castle, the logging camp, logger movements, and plans of attack), +1 dagger, half plate, religious symbol of Asmodeus, scroll of magic weapon
@@ -25,9 +27,9 @@ unique, le, medium, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ dagger +14 (agile, finesse, magical, versatile <S>); **Damage** 1d4 + 4 piercing plus 1d10 fire
+**Melee** ◆ dagger +14/+10/+6 (agile, finesse, magical, versatile <S>); **Damage** 1d4 + 4 piercing plus 1d10 fire
 
-**Ranged** ◆ dagger +12 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4 + 4 piercing plus 1d10 fire
+**Ranged** ◆ dagger +12/+8/+4 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4 + 4 piercing plus 1d10 fire
 
 **Prepared divine Spells** (DC 21), attack +13
 

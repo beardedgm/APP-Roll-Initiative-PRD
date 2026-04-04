@@ -9,6 +9,8 @@ ne, small, halfling, humanoid
 
 **Skills** Deception +12, Diplomacy +12, Medicine +10, Religion +10, Stealth +8
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +2, **DEX** +3, **CON** +3, **INT** +2, **WIS** +5, **CHA** +3
 
 **Items** , scorpion whip|EC1, wooden religious symbol
@@ -25,7 +27,7 @@ ne, small, halfling, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ scorpion whip +10; **Damage** 2d4+4 piercing
+**Melee** ◆ scorpion whip +10/+5/+0; **Damage** 2d4+4 piercing
 
 **Prepared divine Spells** (DC 21), attack +13
 

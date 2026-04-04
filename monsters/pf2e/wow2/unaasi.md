@@ -11,6 +11,8 @@ unique, medium, ghoran, humanoid, plant
 
 **Skills** Acrobatics +18, Arcana +21, Deception +24, Diplomacy +24, Intimidation +24, Nature +21, Occultism +21, Performance +22, Society +21, Stealth +18, Survival +21
 
+**Recall Knowledge - Humanoid** (Society, Nature): DC 38
+
 **STR** +0, **DEX** +3, **CON** +1, **INT** +4, **WIS** +4, **CHA** +5
 
 **Items** , passage charm|WoW2, 4th-level spell scroll of sound body|PC1 (4th), 6th-level spell scroll of soothe|PC1 (6th), 4th-level spell wand of thundering echoes|LOtGB|wand of thundering echoes (4th), 1,000 gp
@@ -41,9 +43,9 @@ unique, medium, ghoran, humanoid, plant
 
 Speed 25 feet
 
-**Melee** ◆ fighting fan +22 (agile, backstabber, deadly <d6>, finesse); **Damage** 2d4+6 slashing
+**Melee** ◆ fighting fan +22/+18/+14 (agile, backstabber, deadly <d6>, finesse); **Damage** 2d4+6 slashing
 
-**Ranged** ◆ energy surge +22 (range increment <30 feet>); **Damage** 4d6+6 fire
+**Ranged** ◆ energy surge +22/+17/+12 (range increment <30 feet>); **Damage** 4d6+6 fire
 
 **Spontaneous occult Spells** (DC 32), attack +24
 

@@ -11,6 +11,8 @@ unique, ln, small, leshy, plant
 
 **Skills** Acrobatics +6, Alkenstar Lore +5, Intimidation +8, Medicine +8, Nature +8, Survival +8
 
+**Recall Knowledge - Plant** (Nature): DC 26
+
 **STR** +0, **DEX** +2, **CON** +3, **INT** +1, **WIS** +4, **CHA** +4
 
 **Items** wand of heal (1st)
@@ -31,9 +33,9 @@ unique, ln, small, leshy, plant
 
 Speed 25 feet
 
-**Melee** ◆ spine +8 (finesse, unarmed); **Damage** 1d8+3 piercing
+**Melee** ◆ spine +8/+3/-2 (finesse, unarmed); **Damage** 1d8+3 piercing
 
-**Ranged** ◆ spine +8 (range increment <20 feet>, unarmed); **Damage** 1d6+3 piercing
+**Ranged** ◆ spine +8/+3/-2 (range increment <20 feet>, unarmed); **Damage** 1d6+3 piercing
 
 **Focus primal Spells** (DC 18), attack +10
 

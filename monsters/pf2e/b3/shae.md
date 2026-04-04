@@ -37,9 +37,9 @@ n, medium, shadow
 
 Speed 25 feet, fly 35 feet, swift steps, tenebral form
 
-**Melee** ◆ dagger +13 (agile, finesse, versatile <S>); **Damage** 1d4+5 piercing and 1d6 cold
+**Melee** ◆ dagger +13/+9/+5 (agile, finesse, versatile <S>); **Damage** 1d4+5 piercing and 1d6 cold
 
-**Ranged** ◆ dagger +13 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing and 1d6 cold
+**Ranged** ◆ dagger +13/+9/+5 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing and 1d6 cold
 
 **Innate occult Spells** (DC 21)
 

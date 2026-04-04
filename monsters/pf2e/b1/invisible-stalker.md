@@ -11,6 +11,8 @@ n, medium, air, elemental
 
 **Skills** Acrobatics +16, Stealth +18, Survival +15
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 23
+
 **STR** +3, **DEX** +6, **CON** +3, **INT** -2, **WIS** +2, **CHA** +0
 
 ---
@@ -29,7 +31,7 @@ n, medium, air, elemental
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ fist +18 (agile, finesse); **Damage** 1d10+5 bludgeoning
+**Melee** ◆ fist +18/+14/+10 (agile, finesse); **Damage** 1d10+5 bludgeoning
 
 **Sneak Attack** The invisible stalker deals 2d6 extra precision damage to flat-footed creatures.
 

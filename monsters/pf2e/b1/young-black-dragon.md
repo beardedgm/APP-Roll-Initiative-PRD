@@ -11,6 +11,8 @@ ce, large, acid, amphibious, dragon
 
 **Skills** Acrobatics +14, Arcana +12, Athletics +17, Deception +15, Intimidation +15, Stealth +16
 
+**Recall Knowledge - Dragon** (Arcana): DC 23
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** +1, **WIS** +2, **CHA** +2
 
 ---
@@ -31,13 +33,13 @@ ce, large, acid, amphibious, dragon
 
 Speed 40 feet, fly 100 feet, swim 40 feet
 
-**Melee** ◆ jaws +19 (acid, reach <10 feet>); **Damage** 2d10+9 piercing plus 1d6 acid
+**Melee** ◆ jaws +19/+14/+9 (acid, reach <10 feet>); **Damage** 2d10+9 piercing plus 1d6 acid
 
-**Melee** ◆ claw +19 (agile); **Damage** 2d6+9 slashing
+**Melee** ◆ claw +19/+15/+11 (agile); **Damage** 2d6+9 slashing
 
-**Melee** ◆ tail +17 (reach <15 feet>); **Damage** 2d8+7 bludgeoning
+**Melee** ◆ tail +17/+12/+7 (reach <15 feet>); **Damage** 2d8+7 bludgeoning
 
-**Melee** ◆ horns +17 (reach <10 feet>); **Damage** 1d8+7 piercing
+**Melee** ◆ horns +17/+12/+7 (reach <10 feet>); **Damage** 1d8+7 piercing
 
 **Breath Weapon** ◆◆ (acid, arcane, evocation) The dragon breathes a spray of acid that deals 8d6 acid damage in a 60-foot line (DC 25 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

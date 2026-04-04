@@ -11,6 +11,8 @@ uncommon, ce, medium, demon, fiend
 
 **Skills** Acrobatics +31, Arcana +35, Deception +31, Occultism +33, Religion +32, Stealth +31, Thievery +31
 
+**Recall Knowledge - Fiend** (Religion): DC 40
+
 **STR** +6, **DEX** +5, **CON** +9, **INT** +7, **WIS** +6, **CHA** +5
 
 ---
@@ -37,9 +39,9 @@ uncommon, ce, medium, demon, fiend
 
 Speed 35 feet, fly 35 feet, burrow 15 feet
 
-**Melee** ◆ claw +34 (evil, magical); **Damage** 3d12+14 slashing plus 1d6 evil
+**Melee** ◆ claw +34/+29/+24 (evil, magical); **Damage** 3d12+14 slashing plus 1d6 evil
 
-**Melee** ◆ talon +34 (agile, evil, magical); **Damage** 3d8+14 slashing plus 1d6 evil
+**Melee** ◆ talon +34/+30/+26 (agile, evil, magical); **Damage** 3d8+14 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 40), attack +32
 

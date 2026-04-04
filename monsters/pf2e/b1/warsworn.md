@@ -11,6 +11,8 @@ uncommon, ne, gargantuan, undead
 
 **Skills** Athletics +33
 
+**Recall Knowledge - Undead** (Religion): DC 37
+
 **STR** +9, **DEX** +5, **CON** +7, **INT** -1, **WIS** +5, **CHA** +5
 
 ---
@@ -31,11 +33,11 @@ uncommon, ne, gargantuan, undead
 
 Speed 30 feet
 
-**Melee** ◆ corpse wave +32 (magical); **Damage** 4d12+9 bludgeoning plus energy drain plus energy drain
+**Melee** ◆ corpse wave +32/+27/+22 (magical); **Damage** 4d12+9 bludgeoning plus energy drain plus energy drain
 
-**Melee** ◆ animated weapon +30 (agile, magical, reach <100 feet>, versatile <B>, versatile <P>); **Damage** four of the weapon's damage dice +9 of the weapon's damage type
+**Melee** ◆ animated weapon +30/+26/+22 (agile, magical, reach <100 feet>, versatile <B>, versatile <P>); **Damage** four of the weapon's damage dice +9 of the weapon's damage type
 
-**Ranged** ◆ scrap ball +28 (magical, range increment <100 feet>); **Damage** 4d12+9 bludgeoning plus plummet plus plummet
+**Ranged** ◆ scrap ball +28/+23/+18 (magical, range increment <100 feet>); **Damage** 4d12+9 bludgeoning plus plummet plus plummet
 
 **Absorb** ◇ (death, divine, necromancy) **Trigger** The warsworn moves into a dying creature's space.; The warsworn absorbs the dying creature into itself, instantly killing the creature and healing the warsworn for a number of Hit Points equal to the creature's level. As long as the warsworn still exists, absorbed creatures can't be resurrected except by wish or a similarly powerful effect.
 

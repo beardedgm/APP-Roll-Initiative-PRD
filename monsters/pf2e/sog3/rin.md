@@ -11,6 +11,8 @@ unique, cn, small, ghost, incorporeal, kitsune, spirit, undead
 
 **Skills** Stealth +18, Survival +17
 
+**Recall Knowledge - Spirit** (Religion): DC 34
+
 **STR** -5, **DEX** +6, **CON** +2, **INT** +0, **WIS** +3, **CHA** +6
 
 **Mindscape Bound** Rin is bound to the Willowshore mindscape and can travel anywhere within its borders.
@@ -31,7 +33,7 @@ unique, cn, small, ghost, incorporeal, kitsune, spirit, undead
 
 Speed 30 feet
 
-**Melee** ◆ burning touch +18 (agile, finesse); **Damage** 2d8+12 fire plus foxfire curse
+**Melee** ◆ burning touch +18/+14/+10 (agile, finesse); **Damage** 2d8+12 fire plus foxfire curse
 
 **Change Shape** (divine, polymorph, transmutation, concentrate) Rin transforms into the tailless form of a specific small human. The tailless form can't be altered and resembles her fox-like humanoid form.
 

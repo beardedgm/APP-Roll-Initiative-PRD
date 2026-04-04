@@ -9,6 +9,8 @@ uncommon, n, large, animal, swarm
 
 **Skills** Acrobatics +17
 
+**Recall Knowledge - Animal** (Nature): DC 24
+
 **STR** -4, **DEX** +5, **CON** +4, **INT** -5, **WIS** +2, **CHA** -5
 
 **Bonesense** A bone skipper swarm identifies bones and creatures with a skeletal system in the listed range.

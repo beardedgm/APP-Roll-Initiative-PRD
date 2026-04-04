@@ -9,6 +9,8 @@ ln, medium, undead
 
 **Skills** Athletics +15, Intimidation +14
 
+**Recall Knowledge - Undead** (Religion): DC 22
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** +0, **WIS** +3, **CHA** +2
 
 **Sense Murderer** (divination, occult, scrying) A revenant knows the direction of their murderer (as long as both are on the same plane), but not the distance.
@@ -36,7 +38,7 @@ ln, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ claw +17 (agile); **Damage** 2d8+5 slashing plus Grab plus Grab
+**Melee** ◆ claw +17/+13/+9 (agile); **Damage** 2d8+5 slashing plus Grab plus Grab
 
 **Baleful Shriek** ◆◆ (auditory, emotion, fear, incapacitation, mental) The revenant wails horribly. Each creature within a 60-foot burst must attempt a DC 23 Will save. Regardless of the outcome of their saving throw, affected creatures are then immune to Baleful Shriek for 1 hour. The revenant's murderer never improves their degree of success due to this ability's incapacitation trait. The revenant can't use Baleful Shriek again for 1d4 rounds. **Critical Success** The creature is unaffected.
 **Success** The creature is frightened 2.

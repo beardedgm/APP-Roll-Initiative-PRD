@@ -11,6 +11,8 @@ unique, ce, small, ghoul, undead
 
 **Skills** Acrobatics +27, Crafting +25, Deception +24, Occultism +25, Performance +24, Stealth +27
 
+**Recall Knowledge - Undead** (Religion): DC 41
+
 **STR** +4, **DEX** +8, **CON** +5, **INT** +6, **WIS** -1, **CHA** +5
 
 **Items** +1 resilient leather armor
@@ -33,9 +35,9 @@ unique, ce, small, ghoul, undead
 
 Speed 25 feet, burrow 10 feet
 
-**Melee** ◆ jaws +27 (finesse); **Damage** 3d10+10 piercing plus 2d6 negative and profane paralysis and ghoul fever
+**Melee** ◆ jaws +27/+22/+17 (finesse); **Damage** 3d10+10 piercing plus 2d6 negative and profane paralysis and ghoul fever
 
-**Melee** ◆ claw +27 (agile, finesse); **Damage** 3d6+10 slashing plus 2d6 negative and profane paralysis
+**Melee** ◆ claw +27/+23/+19 (agile, finesse); **Damage** 3d6+10 slashing plus 2d6 negative and profane paralysis
 
 **Innate occult Spells** (DC 33), attack +27
 

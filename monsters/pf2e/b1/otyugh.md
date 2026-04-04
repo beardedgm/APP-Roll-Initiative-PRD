@@ -11,6 +11,8 @@ n, large, aberration
 
 **Skills** Acrobatics +8, Athletics +14, Stealth +8
 
+**Recall Knowledge - Aberration** (Occultism): DC 19
+
 **STR** +6, **DEX** +2, **CON** +4, **INT** -2, **WIS** +2, **CHA** -2
 
 ---
@@ -29,9 +31,9 @@ n, large, aberration
 
 Speed 20 feet
 
-**Melee** ◆ jaws +14; **Damage** 2d6+6 piercing plus filth fever plus filth fever
+**Melee** ◆ jaws +14/+9/+4; **Damage** 2d6+6 piercing plus filth fever plus filth fever
 
-**Melee** ◆ tentacle +14 (agile, reach <10 feet>); **Damage** 1d6+6 bludgeoning plus Grab plus Grab
+**Melee** ◆ tentacle +14/+10/+6 (agile, reach <10 feet>); **Damage** 1d6+6 bludgeoning plus Grab plus Grab
 
 **Constrict** ◆ 1d6+6 bludgeoning, DC 22
 

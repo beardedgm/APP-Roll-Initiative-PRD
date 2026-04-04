@@ -11,6 +11,8 @@ ng, medium, angel, celestial
 
 **Skills** Acrobatics +14, Diplomacy +17, Religion +18
 
+**Recall Knowledge - Celestial** (Religion): DC 24
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** +1, **WIS** +6, **CHA** +5
 
 **Items** +1 striking scimitar
@@ -33,7 +35,7 @@ ng, medium, angel, celestial
 
 Speed 30 feet, fly 40 feet
 
-**Melee** ◆ flaming scimitar +20 (fire, forceful, good, magical, sweep); **Damage** 2d6+8 slashing plus 1d6 fire and 1d6 good
+**Melee** ◆ flaming scimitar +20/+15/+10 (fire, forceful, good, magical, sweep); **Damage** 2d6+8 slashing plus 1d6 fire and 1d6 good
 
 **Innate divine Spells** (DC 26)
 

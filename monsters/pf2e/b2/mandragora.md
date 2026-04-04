@@ -11,6 +11,8 @@ ce, small, plant
 
 **Skills** Acrobatics +10, Athletics +10, Stealth +12
 
+**Recall Knowledge - Plant** (Nature): DC 19
+
 **STR** +2, **DEX** +5, **CON** +3, **INT** -1, **WIS** +2, **CHA** +0
 
 **Blood Scent** A mandragora can smell creatures with blood as an imprecise sense at a range of 30 feet, and it can smell demons, fey, and sorcerers with blood as a precise sense at a range of 30 feet.
@@ -33,9 +35,9 @@ ce, small, plant
 
 Speed 30 feet, burrow 10 feet, climb 30 feet
 
-**Melee** ◆ jaws +14 (finesse); **Damage** 2d8+4 piercing plus Grab plus Grab
+**Melee** ◆ jaws +14/+9/+4 (finesse); **Damage** 2d8+4 piercing plus Grab plus Grab
 
-**Melee** ◆ thorny vine +14 (agile, finesse, reach <10 feet>); **Damage** 2d4+4 slashing plus mandragora venom plus mandragora venom
+**Melee** ◆ thorny vine +14/+10/+6 (agile, finesse, reach <10 feet>); **Damage** 2d4+4 slashing plus mandragora venom plus mandragora venom
 
 **Blood Drain** ◆ **Requirements** The mandragora has a creature grabbed; The mandragora drains blood from the creature it has grabbed, dealing 2d6 damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a mandragora is drained 1 until it receives healing of any kind or amount.
 

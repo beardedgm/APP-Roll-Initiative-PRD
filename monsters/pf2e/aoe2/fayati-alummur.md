@@ -11,6 +11,8 @@ unique, le, medium, human, humanoid
 
 **Skills** Acrobatics +18, Deception +18, Diplomacy +16, Stealth +18, Thievery +18
 
+**Recall Knowledge - Humanoid** (Society): DC 34
+
 **STR** +1, **DEX** +6, **CON** +1, **INT** +0, **WIS** +2, **CHA** +4
 
 **Items** +1 daggers (3), moderate darkvision elixir, jade bauble talisman (affixed to main-gauche), leather armor, +1 striking main-gauche, +1 striking rapier
@@ -31,13 +33,13 @@ unique, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ rapier +20 (deadly <d8>, disarm, finesse); **Damage** 2d6+5 piercing
+**Melee** ◆ rapier +20/+15/+10 (deadly <d8>, disarm, finesse); **Damage** 2d6+5 piercing
 
-**Melee** ◆ main-gauche +20 (agile, disarm, finesse, magical, parry, versatile <S>); **Damage** 2d4+5 piercing
+**Melee** ◆ main-gauche +20/+16/+12 (agile, disarm, finesse, magical, parry, versatile <S>); **Damage** 2d4+5 piercing
 
-**Melee** ◆ dagger +20 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
+**Melee** ◆ dagger +20/+16/+12 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
 
-**Ranged** ◆ dagger +20 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
+**Ranged** ◆ dagger +20/+16/+12 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
 
 **Deepen the Wound** ◆ **Requirements** Fayati's last attack was a successful melee Strike with her rapier; Fayati makes a main-gauche Strike against the same creature that she just hit. This Strike deals an additional 4d6 precision damage.
 

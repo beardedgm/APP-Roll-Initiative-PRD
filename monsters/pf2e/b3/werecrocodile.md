@@ -11,6 +11,8 @@ ne, large, beast, human, humanoid, werecreature
 
 **Skills** Athletics +8, Intimidation +7, Stealth +5
 
+**Recall Knowledge - Beast** (Arcana, Nature, Society): DC 16
+
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +3, **CHA** +1
 
 **Items** hatchet (3), leather armor
@@ -31,13 +33,13 @@ ne, large, beast, human, humanoid, werecreature
 
 Speed 25 feet, swim 25 feet
 
-**Melee** ◆ jaws +10; **Damage** 1d10+4 piercing plus curse of the werecrocodile and Grab plus curse of the werecrocodile, Grab
+**Melee** ◆ jaws +10/+5/+0; **Damage** 1d10+4 piercing plus curse of the werecrocodile and Grab plus curse of the werecrocodile, Grab
 
-**Melee** ◆ tail +10 (agile); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ tail +10/+6/+2 (agile); **Damage** 1d6+4 bludgeoning
 
-**Melee** ◆ hatchet +10 (agile, sweep); **Damage** 1d6+4 slashing
+**Melee** ◆ hatchet +10/+6/+2 (agile, sweep); **Damage** 1d6+4 slashing
 
-**Ranged** ◆ hatchet +7 (agile, sweep, thrown <10 feet>); **Damage** 1d6+4 slashing
+**Ranged** ◆ hatchet +7/+3/-1 (agile, sweep, thrown <10 feet>); **Damage** 1d6+4 slashing
 
 **Aquatic Ambush** ◆ 30 feet
 

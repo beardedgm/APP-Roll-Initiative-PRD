@@ -11,6 +11,8 @@ uncommon, ce, medium, undead
 
 **Skills** Acrobatics +18, Athletics +19, Deception +16, Intimidation +18, Thievery +16
 
+**Recall Knowledge - Undead** (Religion): DC 26
+
 **STR** +5, **DEX** +6, **CON** +4, **INT** +3, **WIS** +2, **CHA** +4
 
 **Items** +1 striking rapier
@@ -31,7 +33,7 @@ uncommon, ce, medium, undead
 
 Speed 30 feet
 
-**Melee** ◆ rapier +20 (deadly <d8>, disarm, finesse, magical); **Damage** 2d6+8 piercing plus 1d8 precision
+**Melee** ◆ rapier +20/+15/+10 (deadly <d8>, disarm, finesse, magical); **Damage** 2d6+8 piercing plus 1d8 precision
 
 **Parry Dance** ◆ The cadaverous rake makes a melee Strike, then Steps, positioning their blade defensively. They gain a +2 circumstance bonus to AC until the end of their next turn.
 

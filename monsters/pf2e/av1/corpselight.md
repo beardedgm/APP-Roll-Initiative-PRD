@@ -11,6 +11,8 @@ rare, ce, medium, undead
 
 **Skills** Athletics +7, Intimidation +8, Stealth +8
 
+**Recall Knowledge - Undead** (Religion): DC 21
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** +1, **WIS** +1, **CHA** +2
 
 **Corpse Sense** A corpselight can sense dead bodies within range. This is a precise sense that functions through solid barriers less than 5 feet thick.
@@ -35,9 +37,9 @@ rare, ce, medium, undead
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ jaws +10; **Damage** 1d8+6 piercing
+**Melee** ◆ jaws +10/+5/+0; **Damage** 1d8+6 piercing
 
-**Melee** ◆ claw +10 (agile); **Damage** 1d6+6 slashing
+**Melee** ◆ claw +10/+6/+2 (agile); **Damage** 1d6+6 slashing
 
 **Claim Corpse** ◆ (necromancy) The corpselight merges with the corpse, causes the corpse to Stand, and regains 3d6 Hit Points.
 

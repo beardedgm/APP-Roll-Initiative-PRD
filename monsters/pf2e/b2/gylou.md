@@ -11,6 +11,8 @@ le, medium, devil, fiend
 
 **Skills** Acrobatics +27, Arcana +25, Athletics +28, Deception +30, Diplomacy +28, Religion +26, Stealth +27
 
+**Recall Knowledge - Fiend** (Religion): DC 32
+
 **STR** +4, **DEX** +7, **CON** +4, **INT** +5, **WIS** +6, **CHA** +8
 
 ---
@@ -31,9 +33,9 @@ le, medium, devil, fiend
 
 Speed 35 feet, climb 35 feet
 
-**Melee** ◆ claw +30 (agile, evil, finesse, magical); **Damage** 3d8+12 slashing plus 1d6 evil
+**Melee** ◆ claw +30/+26/+22 (agile, evil, finesse, magical); **Damage** 3d8+12 slashing plus 1d6 evil
 
-**Melee** ◆ tentacle +30 (evil, magical, reach <10 feet>); **Damage** 3d12+12 bludgeoning plus Grab plus Grab
+**Melee** ◆ tentacle +30/+25/+20 (evil, magical, reach <10 feet>); **Damage** 3d12+12 bludgeoning plus Grab plus Grab
 
 **Innate divine Spells** (DC 36), attack +28
 

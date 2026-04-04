@@ -11,6 +11,8 @@ cg, medium, elf, humanoid
 
 **Skills** Arcana +5, Occultism +5, Library Lore +5
 
+**Recall Knowledge - Humanoid** (Society): DC 13
+
 **STR** +0, **DEX** +3, **CON** -1, **INT** +3, **WIS** +0, **CHA** +2
 
 **Items** crossbow with 10 bolts, dagger
@@ -27,8 +29,8 @@ cg, medium, elf, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ dagger +2 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
+**Melee** ◆ dagger +2/-2/-6 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
 
-**Ranged** ◆ crossbow +5 (range <120 feet>, reload <1>); **Damage** 1d8 piercing
+**Ranged** ◆ crossbow +5/+0/-5 (range <120 feet>, reload <1>); **Damage** 1d8 piercing
 
 **Cantrips** (1st) mage hand, tanglefoot.

@@ -11,6 +11,8 @@ unique, cn, small, fey, sprite
 
 **Skills** Acrobatics +18, Deception +16, Nature +15, Performance +18, Stealth +21
 
+**Recall Knowledge - Fey** (Nature): DC 34
+
 **STR** +0, **DEX** +6, **CON** +1, **INT** +2, **WIS** +3, **CHA** +4
 
 **Items** +1 striking longbow (60 arrows), shortsword
@@ -33,9 +35,9 @@ unique, cn, small, fey, sprite
 
 Speed 15 feet, fly 45 feet
 
-**Melee** ◆ shortsword +18 (agile, finesse, magical, versatile <S>); **Damage** 1d6+10 piercing
+**Melee** ◆ shortsword +18/+14/+10 (agile, finesse, magical, versatile <S>); **Damage** 1d6+10 piercing
 
-**Ranged** ◆ longbow +19 (deadly <d10>, magical, range increment <100 feet>, volley <20 feet>); **Damage** 2d6+10 piercing
+**Ranged** ◆ longbow +19/+14/+9 (deadly <d10>, magical, range increment <100 feet>, volley <20 feet>); **Damage** 2d6+10 piercing
 
 **Innate primal Spells** (DC 26)
 

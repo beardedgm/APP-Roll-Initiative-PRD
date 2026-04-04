@@ -11,6 +11,8 @@ n, medium, monitor, psychopomp
 
 **Skills** Acrobatics +17, Athletics +17, Intimidation +15, Occultism +13, Religion +13, Stealth +17, Boneyard Lore +15
 
+**Recall Knowledge - Monitor** (Religion): DC 23
+
 **STR** +6, **DEX** +4, **CON** +2, **INT** +2, **WIS** +4, **CHA** +2
 
 **Items** +1 scythe
@@ -35,9 +37,9 @@ n, medium, monitor, psychopomp
 
 Speed 25 feet, fly 40 feet
 
-**Melee** ◆ scythe +18 (deadly <d10>, magical, trip); **Damage** 1d10+8 slashing plus spirit touch plus spirit touch
+**Melee** ◆ scythe +18/+13/+8 (deadly <d10>, magical, trip); **Damage** 1d10+8 slashing plus spirit touch plus spirit touch
 
-**Melee** ◆ jaws +17 (agile); **Damage** 1d6+8 slashing plus spirit touch plus spirit touch
+**Melee** ◆ jaws +17/+13/+9 (agile); **Damage** 1d6+8 slashing plus spirit touch plus spirit touch
 
 **Innate divine Spells** (DC 22)
 

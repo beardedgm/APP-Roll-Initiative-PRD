@@ -11,6 +11,8 @@ rare, ln, medium, human, humanoid, nagaji
 
 **Skills** Acrobatics +25, Arcana +25, Athletics +26
 
+**Recall Knowledge - Humanoid** (Society): DC 37
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** +3, **WIS** +1, **CHA** +5
 
 **Items** +2 greater striking handwraps of mighty blows
@@ -27,7 +29,7 @@ rare, ln, medium, human, humanoid, nagaji
 
 Speed 30 feet
 
-**Melee** ◆ fist +26 (agile, finesse, unarmed); **Damage** 3d6+10 bludgeoning
+**Melee** ◆ fist +26/+22/+18 (agile, finesse, unarmed); **Damage** 3d6+10 bludgeoning
 
 **Spontaneous arcane Spells** (DC 35), attack +27
 

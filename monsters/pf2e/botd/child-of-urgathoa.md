@@ -11,6 +11,8 @@ rare, ne, large, undead
 
 **Skills** Acrobatics +13, Deception +15, Intimidation +15, Religion +18, Stealth +13
 
+**Recall Knowledge - Undead** (Religion): DC 29
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** +2, **WIS** +6, **CHA** +5
 
 ---
@@ -31,9 +33,9 @@ rare, ne, large, undead
 
 Speed fly 40 feet
 
-**Melee** ◆ scything blade +20 (deadly <d10>, evil, magical, reach <10 feet>, trip); **Damage** 2d10+6 slashing plus 1d6 negative
+**Melee** ◆ scything blade +20/+15/+10 (deadly <d10>, evil, magical, reach <10 feet>, trip); **Damage** 2d10+6 slashing plus 1d6 negative
 
-**Melee** ◆ pallid touch +20 (agile, disease, evil, magical, reach <10 feet>); **Damage** 2d10+6 negative plus pallid plague
+**Melee** ◆ pallid touch +20/+16/+12 (agile, disease, evil, magical, reach <10 feet>); **Damage** 2d10+6 negative plus pallid plague
 
 **Innate divine Spells** (DC 26)
 

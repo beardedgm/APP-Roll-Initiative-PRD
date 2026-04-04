@@ -11,6 +11,8 @@ huge, elemental, plant, wood
 
 **Skills** Acrobatics +21, Athletics +25
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 30
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** -1, **WIS** +4, **CHA** +2
 
 ---
@@ -37,9 +39,9 @@ huge, elemental, plant, wood
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ branch +25 (reach <10 feet>); **Damage** 4d6+11 bludgeoning plus Push 10 feet
+**Melee** ◆ branch +25/+20/+15 (reach <10 feet>); **Damage** 4d6+11 bludgeoning plus Push 10 feet
 
-**Melee** ◆ fangs +25 (reach <10 feet>); **Damage** 4d6+13 piercing
+**Melee** ◆ fangs +25/+20/+15 (reach <10 feet>); **Damage** 4d6+13 piercing
 
 **Focused Assault** ◆◆ The phytohydra attacks a single target with its many heads. The phytohydra Strikes with its branches or its fangs. On a successful attack, the phytohydra deals damage from its branches or fangs Strike to the target, plus an additional 2d6 damage for every head it has beyond the first. On a failure (but not a critical failure), the phytohydra deals the damage from one branch or fangs Strike to the target creature. This Strike counts as a number of attacks equal to the number of heads the phytohydra has toward its multiple attack penalty.
 

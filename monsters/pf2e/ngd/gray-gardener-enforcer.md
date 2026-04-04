@@ -11,6 +11,8 @@ rare, ne, medium, human, humanoid, mortic
 
 **Skills** Athletics +34, Intimidation +31, Medicine +30, Society +30, Stealth +30
 
+**Recall Knowledge - Humanoid** (Society): DC 41
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** +3, **WIS** +5, **CHA** +4
 
 **Items** executioner's hood, +2 greater striking spiked chain, studded leather armor
@@ -41,9 +43,9 @@ rare, ne, medium, human, humanoid, mortic
 
 Speed 25 feet
 
-**Melee** ◆ spiked chain +35 (disarm, trip); **Damage** 3d8+13 slashing plus 2d8 bleed and Grab
+**Melee** ◆ spiked chain +35/+30/+25 (disarm, trip); **Damage** 3d8+13 slashing plus 2d8 bleed and Grab
 
-**Melee** ◆ fist +33 (agile); **Damage** 3d8+13 bludgeoning
+**Melee** ◆ fist +33/+29/+25 (agile); **Damage** 3d8+13 bludgeoning
 
 **Chain Garotte The Gray** Gardener enforcer's spiked chain Strike deals 2d8 persistent bleed damage, and they can use it to Grab up to two foes. The enforcer can still attack with their spiked chain if they Grab one creature, but not when they Grab two.
 

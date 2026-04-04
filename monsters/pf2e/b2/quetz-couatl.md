@@ -11,6 +11,8 @@ uncommon, lg, large, beast, couatl
 
 **Skills** Acrobatics +16, Arcana +19, Diplomacy +22, Nature +22, Occultism +19, Religion +22, Survival +16
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 29
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** +6, **WIS** +5, **CHA** +5
 
 ---
@@ -25,7 +27,7 @@ uncommon, lg, large, beast, couatl
 
 Speed 15 feet, fly 50 feet
 
-**Melee** ◆ jaws +23 (magical); **Damage** 2d10+13 piercing plus quetz couatl venom and Grab plus quetz couatl venom, Grab
+**Melee** ◆ jaws +23/+18/+13 (magical); **Damage** 2d10+13 piercing plus quetz couatl venom and Grab plus quetz couatl venom, Grab
 
 **Innate divine Spells** (DC 29)
 

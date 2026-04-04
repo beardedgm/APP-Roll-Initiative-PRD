@@ -11,6 +11,8 @@ rare, ln, medium, mummy, undead
 
 **Skills** Acrobatics +25, Athletics +21, Irori Lore +25, Religion +21
 
+**Recall Knowledge - Undead** (Religion): DC 32
+
 **STR** +5, **DEX** +7, **CON** +4, **INT** +0, **WIS** +5, **CHA** +3
 
 **Items** +1 striking returning shuriken
@@ -35,9 +37,9 @@ rare, ln, medium, mummy, undead
 
 Speed 30 feet
 
-**Melee** ◆ fist +23 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d10+11 bludgeoning
+**Melee** ◆ fist +23/+19/+15 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d10+11 bludgeoning
 
-**Ranged** ◆ shuriken +23 (agile, thrown <20 feet>); **Damage** 2d4+11 piercing
+**Ranged** ◆ shuriken +23/+19/+15 (agile, thrown <20 feet>); **Damage** 2d4+11 piercing
 
 **Monk Ki Spells** (DC 29)
 

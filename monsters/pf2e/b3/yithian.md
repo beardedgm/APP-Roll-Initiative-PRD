@@ -11,6 +11,8 @@ rare, ln, large, aberration
 
 **Skills** Arcana +19, Diplomacy +14, Nature +18, Occultism +21, Society +19
 
+**Recall Knowledge - Aberration** (Occultism): DC 31
+
 **STR** +4, **DEX** +1, **CON** +4, **INT** +6, **WIS** +5, **CHA** +1
 
 **Thoughtsense** (divination, mental, occult) The yithian senses all non-mindless creatures at the listed range.
@@ -27,7 +29,7 @@ rare, ln, large, aberration
 
 Speed 20 feet, climb 10 feet
 
-**Melee** ◆ pincer +19 (agile, deadly <d10>); **Damage** 2d12+7 bludgeoning
+**Melee** ◆ pincer +19/+15/+11 (agile, deadly <d10>); **Damage** 2d12+7 bludgeoning
 
 **Innate occult Spells** (DC 28), attack +20
 

@@ -11,6 +11,8 @@ n, small, leshy, plant
 
 **Skills** Acrobatics +4, Nature +4, Stealth +4
 
+**Recall Knowledge - Plant** (Nature): DC 14
+
 **STR** -1, **DEX** +2, **CON** +2, **INT** -2, **WIS** +2, **CHA** +1
 
 **Items** longspear
@@ -31,9 +33,9 @@ n, small, leshy, plant
 
 Speed 25 feet, glide
 
-**Melee** ◆ longspear +3 (reach <10 feet>); **Damage** 1d8-1 piercing
+**Melee** ◆ longspear +3/-2/-7 (reach <10 feet>); **Damage** 1d8-1 piercing
 
-**Ranged** ◆ seedpod +6 (range increment <30 feet>); **Damage** 1d6 bludgeoning plus deafening blow plus deafening blow
+**Ranged** ◆ seedpod +6/+1/-4 (range increment <30 feet>); **Damage** 1d6 bludgeoning plus deafening blow plus deafening blow
 
 **Innate primal Spells** (DC 14)
 

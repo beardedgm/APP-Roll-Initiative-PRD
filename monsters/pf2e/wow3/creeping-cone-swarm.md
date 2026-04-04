@@ -9,6 +9,8 @@ rare, large, elemental, mutant, plant, swarm, wood
 
 **Skills** Athletics +22
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 32
+
 **STR** +6, **DEX** +5, **CON** +6, **INT** -4, **WIS** +2, **CHA** -1
 
 ---

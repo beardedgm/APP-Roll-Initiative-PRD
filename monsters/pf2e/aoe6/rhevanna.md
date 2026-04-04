@@ -11,6 +11,8 @@ rare, ne, large, fiend
 
 **Skills** Acrobatics +36, Arcana +38, Athletics +42, Deception +43, Religion +38, Stealth +36, Survival +40
 
+**Recall Knowledge - Fiend** (Religion): DC 49
+
 **STR** +10, **DEX** +8, **CON** +6, **INT** +6, **WIS** +8, **CHA** +11
 
 **Items** black sapphires (4, worth 2,000 gp each), +3 greater striking spiked chain.
@@ -35,9 +37,9 @@ rare, ne, large, fiend
 
 Speed 40 feet, fly 80 feet
 
-**Melee** ◆ spiked chain +43 (disarm, evil, magical, reach <10 feet>, trip); **Damage** 3d8+18 slashing plus 3d6 evil
+**Melee** ◆ spiked chain +43/+38/+33 (disarm, evil, magical, reach <10 feet>, trip); **Damage** 3d8+18 slashing plus 3d6 evil
 
-**Melee** ◆ claw +40 (evil, magical); **Damage** 4d6+18 slashing plus 3d6 evil
+**Melee** ◆ claw +40/+35/+30 (evil, magical); **Damage** 4d6+18 slashing plus 3d6 evil
 
 **Innate divine Spells** (DC 45)
 

@@ -11,6 +11,8 @@ unique, ce, medium, caligni, humanoid
 
 **Skills** Acrobatics +18, Deception +20, Diplomacy +20, Intimidation +18, Occultism +14, Stealth +18
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +2, **DEX** +5, **CON** +1, **INT** -1, **WIS** +1, **CHA** +5
 
 **Items** dagger (3), key to area A7, leather armor, wand of magic missile (3rd level)
@@ -33,7 +35,7 @@ unique, ce, medium, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +15 (agile, finesse, versatile <S>); **Damage** 1d4+7 piercing
+**Melee** ◆ dagger +15/+11/+7 (agile, finesse, versatile <S>); **Damage** 1d4+7 piercing
 
 **Innate occult Spells** (DC 26), attack +18
 

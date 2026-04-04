@@ -9,6 +9,8 @@ uncommon, gargantuan, fey, plant, troop
 
 **Skills** Acrobatics +16, Athletics +13, Nature +11, Stealth +16
 
+**Recall Knowledge - Fey** (Nature): DC 24
+
 **STR** +3, **DEX** +5, **CON** +3, **INT** +1, **WIS** +3, **CHA** +2
 
 ---

@@ -11,6 +11,8 @@ ne, tiny, fiend, sahkil
 
 **Skills** Acrobatics +7, Intimidation +7, Stealth +7
 
+**Recall Knowledge - Fiend** (Religion): DC 15
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +1, **WIS** +2, **CHA** +2
 
 **Easy to Call** A sahkil's level is considered 2 lower for the purpose of being conjured by the planar binding ritual (and potentially other rituals, at the GM's discretion), but it is always free to attack or leave instead of negotiate unless the primary caster's check is a critical success.
@@ -29,9 +31,9 @@ ne, tiny, fiend, sahkil
 
 Speed 30 feet
 
-**Melee** ◆ jaws +9 (finesse, versatile <P>); **Damage** 1d8 slashing plus 1d4 evil and Grab plus Grab
+**Melee** ◆ jaws +9/+4/-1 (finesse, versatile <P>); **Damage** 1d8 slashing plus 1d4 evil and Grab plus Grab
 
-**Melee** ◆ claw +9 (agile, finesse); **Damage** 1d6 slashing plus 1d4 evil
+**Melee** ◆ claw +9/+5/+1 (agile, finesse); **Damage** 1d6 slashing plus 1d4 evil
 
 **Innate divine Spells** (DC 15)
 

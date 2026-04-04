@@ -11,6 +11,8 @@ unique, cn, medium, gnoll, humanoid
 
 **Skills** Acrobatics +18, Athletics +15, Intimidation +16, Stealth +18, Survival +17
 
+**Recall Knowledge - Humanoid** (Society): DC 34
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** -1, **WIS** +3, **CHA** +2
 
 **Items** hide armor, Jax (page 77; 10 rounds), scimitar sheath (empty)
@@ -27,7 +29,7 @@ unique, cn, medium, gnoll, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ jaws +15 (agile); **Damage** 1d8+7 piercing
+**Melee** ◆ jaws +15/+11/+7 (agile); **Damage** 1d8+7 piercing
 
 **Melee Jax +18** (critical fusion, finesse, forceful, magical, sweep) Damage 2d4+7 slashing
 

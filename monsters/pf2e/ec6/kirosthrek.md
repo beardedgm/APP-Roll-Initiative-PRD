@@ -11,6 +11,8 @@ unique, ne, medium, humanoid, xulgath
 
 **Skills** Arcana +36, Deception +33, Diplomacy +41, Medicine +38, Occultism +38, Stealth +37
 
+**Recall Knowledge - Humanoid** (Society): DC 50
+
 **STR** +3, **DEX** +3, **CON** +1, **INT** +4, **WIS** +4, **CHA** +7
 
 **Thoughtsense** (divination, mental, occult) Kirosthrek senses a creature's mental essence at the listed range.
@@ -33,9 +35,9 @@ unique, ne, medium, humanoid, xulgath
 
 Speed 25 feet, fly 35 feet
 
-**Melee** ◆ jaws +34 (magical); **Damage** 4d8+6 piercing plus 4d6 mental
+**Melee** ◆ jaws +34/+29/+24 (magical); **Damage** 4d8+6 piercing plus 4d6 mental
 
-**Melee** ◆ claw +34 (agile, magical); **Damage** 4d4+6 slashing plus 4d6 mental
+**Melee** ◆ claw +34/+30/+26 (agile, magical); **Damage** 4d4+6 slashing plus 4d6 mental
 
 **Spontaneous occult Spells** (DC 42)
 

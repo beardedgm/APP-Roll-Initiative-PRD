@@ -11,6 +11,8 @@ rare, ln, small, construct
 
 **Skills** Arcana +27, Deception +24, Stealth +25
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 36
+
 **STR** +1, **DEX** +6, **CON** +1, **INT** +8, **WIS** +8, **CHA** +5
 
 **Truescript** A living rune can't speak, but it can sculpt its form into complicated scripts and pictographs that can be understood by any creature with the ability to read written language. A living rune can also understand any written or spoken language.
@@ -33,7 +35,7 @@ rare, ln, small, construct
 
 Speed 25 feet
 
-**Ranged** ◆ electrical blast +25 (electricity, evocation, range increment <60 feet>); **Damage** 4d12 electricity
+**Ranged** ◆ electrical blast +25/+20/+15 (electricity, evocation, range increment <60 feet>); **Damage** 4d12 electricity
 
 **Innate arcane Spells** (DC 35), attack +27
 

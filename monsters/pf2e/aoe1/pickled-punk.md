@@ -11,6 +11,8 @@ ne, tiny, undead
 
 **Skills** Acrobatics +7, Athletics +5, Stealth +7
 
+**Recall Knowledge - Undead** (Religion): DC 15
+
 **STR** +2, **DEX** +4, **CON** +3, **INT** -3, **WIS** +0, **CHA** -3
 
 **Stealth** +7 Languages Common Str +2, Dex +4, Con +3, Int –3, Wis +0, Cha –3.

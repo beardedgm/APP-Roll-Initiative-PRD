@@ -9,6 +9,8 @@ ne, medium, mindless, undead, zombie
 
 **Skills** Athletics +5, Stealth +5
 
+**Recall Knowledge - Undead** (Religion): DC 14
+
 **STR** +3, **DEX** +1, **CON** +2, **INT** -5, **WIS** +0, **CHA** -2
 
 **Slow** A zombie snake is permanently slowed 1 and can't use reactions.
@@ -29,7 +31,7 @@ ne, medium, mindless, undead, zombie
 
 Speed 20 feet, climb 20 feet
 
-**Melee** ◆ fangs +7; **Damage** 1d6+3 piercing plus filth fever
+**Melee** ◆ fangs +7/+2/-3; **Damage** 1d6+3 piercing plus filth fever
 
 **Filth Fever** (disease) The sickened and unconscious conditions from filth fever can't end or be reduced until the disease is cured; **Saving Throw** DC 14 Fortitude
 **Stage 1** carrier with no ill effect (1d4 hours)

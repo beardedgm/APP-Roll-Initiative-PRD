@@ -11,6 +11,8 @@ uncommon, ne, small, fey
 
 **Skills** Acrobatics +10, Deception +10, Intimidation +8, Stealth +10
 
+**Recall Knowledge - Fey** (Nature): DC 20
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** -2, **WIS** +1, **CHA** +3
 
 ---
@@ -27,7 +29,7 @@ uncommon, ne, small, fey
 
 Speed 30 feet
 
-**Melee** ◆ claw +10 (agile, finesse, magical); **Damage** 1d8+3 slashing
+**Melee** ◆ claw +10/+6/+2 (agile, finesse, magical); **Damage** 1d8+3 slashing
 
 **Innate occult Spells** (DC 18)
 

@@ -11,6 +11,8 @@ rare, le, medium, aberration
 
 **Skills** Acrobatics +28, Athletics +22, Intimidation +27, Stealth +26
 
+**Recall Knowledge - Aberration** (Occultism): DC 37
+
 **STR** +4, **DEX** +8, **CON** +4, **INT** +5, **WIS** +6, **CHA** +5
 
 **Items** silver scissors (2)
@@ -33,7 +35,7 @@ rare, le, medium, aberration
 
 Speed 30 feet
 
-**Melee** ◆ silver scissors +30 (agile, backstabber, fatal <d12>, finesse); **Damage** 3d6+12 slashing
+**Melee** ◆ silver scissors +30/+26/+22 (agile, backstabber, fatal <d12>, finesse); **Damage** 3d6+12 slashing
 
 **Rend** ◆ silver scissors
 

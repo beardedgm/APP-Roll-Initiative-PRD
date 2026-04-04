@@ -11,6 +11,8 @@ ne, large, daemon, fiend
 
 **Skills** Acrobatics +31, Deception +31, Intimidation +33, Religion +29
 
+**Recall Knowledge - Fiend** (Religion): DC 36
+
 **STR** +8, **DEX** +8, **CON** +6, **INT** +3, **WIS** +4, **CHA** +6
 
 ---
@@ -33,9 +35,9 @@ ne, large, daemon, fiend
 
 Speed 25 feet, fly 35 feet
 
-**Melee** ◆ jaws +33 (evil, magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 1d6 evil and Grab
+**Melee** ◆ jaws +33/+28/+23 (evil, magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 1d6 evil and Grab
 
-**Melee** ◆ claw +33 (agile, evil, magical, reach <10 feet>); **Damage** 3d8+16 slashing plus 1d6 evil
+**Melee** ◆ claw +33/+29/+25 (agile, evil, magical, reach <10 feet>); **Damage** 3d8+16 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 38), attack +30
 

@@ -11,6 +11,8 @@ n, medium, fire, humanoid, positive
 
 **Skills** Acrobatics +20, Intimidation +18, Occultism +20, Society +18
 
+**Recall Knowledge - Humanoid** (Society): DC 26
+
 **STR** +3, **DEX** +5, **CON** +4, **INT** +5, **WIS** +6, **CHA** +3
 
 **Items** +1 striking longspear
@@ -33,11 +35,11 @@ n, medium, fire, humanoid, positive
 
 Speed 25 feet, fly 60 feet
 
-**Melee** ◆ flaming ghost touch longspear +20 (magical, reach <10 feet>); **Damage** 2d8+6 piercing plus 1d6 fire
+**Melee** ◆ flaming ghost touch longspear +20/+15/+10 (magical, reach <10 feet>); **Damage** 2d8+6 piercing plus 1d6 fire
 
-**Melee** ◆ beak +21 (finesse); **Damage** 2d12+6 piercing plus 1d6 fire
+**Melee** ◆ beak +21/+16/+11 (finesse); **Damage** 2d12+6 piercing plus 1d6 fire
 
-**Melee** ◆ talon +21 (agile, finesse); **Damage** 2d8+6 slashing plus 1d6 fire
+**Melee** ◆ talon +21/+17/+13 (agile, finesse); **Damage** 2d8+6 slashing plus 1d6 fire
 
 **Innate occult Spells** (DC 28), attack +20
 

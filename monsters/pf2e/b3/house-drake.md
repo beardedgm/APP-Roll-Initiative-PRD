@@ -11,6 +11,8 @@ cg, tiny, dragon
 
 **Skills** Acrobatics +7, Society +4, Stealth +7, Survival +6
 
+**Recall Knowledge - Dragon** (Arcana): DC 15
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +1, **WIS** +3, **CHA** +2
 
 ---
@@ -29,7 +31,7 @@ cg, tiny, dragon
 
 Speed 15 feet, fly 40 feet
 
-**Melee** ◆ jaws +9 (agile, finesse); **Damage** 1d8+1 piercing plus silver strike plus silver strike
+**Melee** ◆ jaws +9/+5/+1 (agile, finesse); **Damage** 1d8+1 piercing plus silver strike plus silver strike
 
 **Innate arcane Spells** (DC 17)
 

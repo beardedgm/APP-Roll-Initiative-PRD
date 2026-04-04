@@ -11,6 +11,8 @@ uncommon, ce, medium, human, humanoid
 
 **Skills** Athletics +18, Intimidation +15, Religion +14
 
+**Recall Knowledge - Humanoid** (Society): DC 26
+
 **STR** +4, **DEX** +3, **CON** +4, **INT** +0, **WIS** +1, **CHA** +1
 
 ---
@@ -31,11 +33,11 @@ uncommon, ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ maul +19 (magical, shove); **Damage** 1d12+6 bludgeoning plus Knockdown plus Knockdown
+**Melee** ◆ maul +19/+14/+9 (magical, shove); **Damage** 1d12+6 bludgeoning plus Knockdown plus Knockdown
 
-**Melee** ◆ dagger +18 (agile, versatile <S>); **Damage** 1d4+6 piercing
+**Melee** ◆ dagger +18/+14/+10 (agile, versatile <S>); **Damage** 1d4+6 piercing
 
-**Ranged** ◆ dagger +17 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
+**Ranged** ◆ dagger +17/+13/+9 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
 
 **Consume Poison** ◆◆ (manipulate) The poison eater uses an Interact action to draw a dose of poison and eats it, gaining strength. The poison-eater's Strikes deal two weapon dice of damage rather than one. The poison eater is affected by the consumed poison normally and, therefore, usually chooses poisons mitigated by their poison resistance and toxin-inured ability. At the end of each of their turns, the poison eater attempts a DC 17 flat check; on a success, this ability ends.
 

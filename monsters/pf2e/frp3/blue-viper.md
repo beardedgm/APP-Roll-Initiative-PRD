@@ -11,6 +11,8 @@ unique, ne, small, humanoid, ratfolk
 
 **Skills** Acrobatics +35, Athletics +29, Deception +28, Diplomacy +26, Stealth +35, Thievery +33
 
+**Recall Knowledge - Humanoid** (Society): DC 50
+
 **STR** +3, **DEX** +7, **CON** +4, **INT** +5, **WIS** +3, **CHA** +2
 
 **Items** dragon bile (applied to body), hidden cheek needles (20), +3 major striking shortsword, Greater Healing Potion
@@ -33,11 +35,11 @@ unique, ne, small, humanoid, ratfolk
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +38 (agile, finesse, versatile <S>); **Damage** 4d6+11 piercing
+**Melee** ◆ shortsword +38/+34/+30 (agile, finesse, versatile <S>); **Damage** 4d6+11 piercing
 
-**Ranged** ◆ alchemical bomb +38 (range increment <20 feet>, splash); **Damage** varies by bomb
+**Ranged** ◆ alchemical bomb +38/+33/+28 (range increment <20 feet>, splash); **Damage** varies by bomb
 
-**Ranged** ◆ hidden cheek needles +35 (concealable, range increment <10 feet>); **Damage** 9 piercing plus tears of death or black lotus extract plus tears of death or black lotus extract
+**Ranged** ◆ hidden cheek needles +35/+30/+25 (concealable, range increment <10 feet>); **Damage** 9 piercing plus tears of death or black lotus extract plus tears of death or black lotus extract
 
 **Plum Rain Deluge** ◆◆◆ (certain kill, transmutation) **Frequency** {"unit":"round","number":1}; Blue Viper accelerates the flow of time so his poisons run their course faster. He Interacts to draw a contact poison and throws it in the air, where it showers down in a 20-foot burst within 60 feet. All creatures in the burst are automatically exposed to the poison, bypassing any onset time, and each creature must attempt a saving throw against that poison. If a creature fails, the duration of any beneficial spells or effects affecting the creature are reduced by 3 rounds (or by 6 rounds on a critical failure).
 

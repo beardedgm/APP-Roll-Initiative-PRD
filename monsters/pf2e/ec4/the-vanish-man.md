@@ -11,6 +11,8 @@ unique, ne, medium, humanoid
 
 **Skills** Acrobatics +29, Athletics +33, Deception +33, Intimidation +29, Stealth +31
 
+**Recall Knowledge - Humanoid** (Society): DC 45
+
 **STR** +9, **DEX** +5, **CON** +6, **INT** +1, **WIS** +4, **CHA** +7
 
 **Items** bag of faces, cleaver
@@ -35,11 +37,11 @@ unique, ne, medium, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ cleaver +32 (deadly <d12>, forceful, sweep); **Damage** 3d12+9 slashing
+**Melee** ◆ cleaver +32/+27/+22 (deadly <d12>, forceful, sweep); **Damage** 3d12+9 slashing
 
-**Melee** ◆ fist +32 (agile, nonlethal); **Damage** 3d10+9 bludgeoning
+**Melee** ◆ fist +32/+28/+24 (agile, nonlethal); **Damage** 3d10+9 bludgeoning
 
-**Ranged** ◆ cleaver +30 (deadly <d12>, thrown <10 feet>); **Damage** 3d12+9 slashing
+**Ranged** ◆ cleaver +30/+25/+20 (deadly <d12>, thrown <10 feet>); **Damage** 3d12+9 slashing
 
 **Innate occult Spells** (DC 34)
 

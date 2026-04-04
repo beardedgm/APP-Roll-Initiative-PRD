@@ -11,6 +11,8 @@ unique, ln, medium, human, humanoid, troop
 
 **Skills** Acrobatics +27, Athletics +30, Intimidation +27
 
+**Recall Knowledge - Humanoid** (Society): DC 44
+
 **STR** +8, **DEX** +6, **CON** +6, **INT** +1, **WIS** +2, **CHA** +4
 
 ---

@@ -9,6 +9,8 @@ uncommon, n, gargantuan, amphibious, animal
 
 **Skills** Athletics +33, Stealth +20
 
+**Recall Knowledge - Animal** (Nature): DC 36
+
 **STR** +10, **DEX** -1, **CON** +8, **INT** -5, **WIS** -1, **CHA** -1
 
 ---
@@ -27,11 +29,11 @@ uncommon, n, gargantuan, amphibious, animal
 
 Speed 40 feet, burrow 40 feet, swim 60 feet
 
-**Melee** ◆ jaws +31 (deadly <2d10>, reach <15 feet>); **Damage** 3d12+16 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +31/+26/+21 (deadly <2d10>, reach <15 feet>); **Damage** 3d12+16 piercing plus Improved Grab plus Improved Grab
 
-**Melee** ◆ stinger +31 (agile, poison, reach <15 feet>); **Damage** 4d6+16 piercing plus azure worm venom plus azure worm venom
+**Melee** ◆ stinger +31/+27/+23 (agile, poison, reach <15 feet>); **Damage** 4d6+16 piercing plus azure worm venom plus azure worm venom
 
-**Melee** ◆ body +29 (reach <15 feet>); **Damage** 2d8+14 bludgeoning
+**Melee** ◆ body +29/+24/+19 (reach <15 feet>); **Damage** 2d8+14 bludgeoning
 
 **Azure Worm Venom** (poison)
 

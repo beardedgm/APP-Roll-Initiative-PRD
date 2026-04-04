@@ -11,6 +11,8 @@ cg, medium, azata, celestial
 
 **Skills** Acrobatics +27, Athletics +26, Diplomacy +26, Nature +23, Religion +23, Stealth +21, Warfare Lore +26
 
+**Recall Knowledge - Celestial** (Religion): DC 31
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** +3, **WIS** +4, **CHA** +5
 
 **Items** +1 greatsword
@@ -35,9 +37,9 @@ cg, medium, azata, celestial
 
 Speed 35 feet, fly 100 feet
 
-**Melee** ◆ holy greatsword +28 (good, magical, versatile <P>); **Damage** 2d12+13 slashing plus 1d6 good and 1d6 other (see Choose Weakness)
+**Melee** ◆ holy greatsword +28/+23/+18 (good, magical, versatile <P>); **Damage** 2d12+13 slashing plus 1d6 good and 1d6 other (see Choose Weakness)
 
-**Ranged** ◆ light ray +25 (chaotic, good, light, range <300 feet>); **Damage** 1d12 chaotic plus 1d12 good plus 2d6+6 other (see Choose Weakness)
+**Ranged** ◆ light ray +25/+20/+15 (chaotic, good, light, range <300 feet>); **Damage** 1d12 chaotic plus 1d12 good plus 2d6+6 other (see Choose Weakness)
 
 **Innate divine Spells** (DC 33)
 

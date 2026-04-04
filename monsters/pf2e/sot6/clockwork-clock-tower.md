@@ -9,6 +9,8 @@ rare, n, gargantuan, clockwork, construct, mindless
 
 **Skills** Athletics +38
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 45
+
 **STR** +10, **DEX** +6, **CON** +7, **INT** -5, **WIS** +6, **CHA** -5
 
 **Wind-Up** 1 week, DC 40 (Bestiary 3 48)
@@ -35,9 +37,9 @@ rare, n, gargantuan, clockwork, construct, mindless
 
 Speed 40 feet
 
-**Melee** ◆ fist +36 (reach <30 feet>); **Damage** 4d12+18 bludgeoning plus stutter time
+**Melee** ◆ fist +36/+31/+26 (reach <30 feet>); **Damage** 4d12+18 bludgeoning plus stutter time
 
-**Melee** ◆ foot +36 (agile, reach <20 feet>); **Damage** 4d8+18 bludgeoning
+**Melee** ◆ foot +36/+32/+28 (agile, reach <20 feet>); **Damage** 4d8+18 bludgeoning
 
 **Overclock** ◆ The clockwork clock tower loses 1 day from its winding time and becomes quickened for 3 rounds. It can use this extra action to Step, Stride, or Strike. This quickened condition ends immediately if the clock tower is damaged by orichalcum.
 

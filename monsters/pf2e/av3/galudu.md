@@ -11,6 +11,8 @@ unique, cn, medium, caligni, humanoid
 
 **Skills** Acrobatics +20, Arcana +18, Deception +22, Diplomacy +20, Stealth +20
 
+**Recall Knowledge - Humanoid** (Society): DC 38
+
 **STR** +2, **DEX** +5, **CON** +0, **INT** +1, **WIS** +3, **CHA** +5
 
 **Items** dagger, wand of continuation (stoneskin)
@@ -33,9 +35,9 @@ unique, cn, medium, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +22 (agile, finesse, versatile <S>); **Damage** 1d4+9 piercing
+**Melee** ◆ dagger +22/+18/+14 (agile, finesse, versatile <S>); **Damage** 1d4+9 piercing
 
-**Melee** ◆ dagger +22 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+9 piercing
+**Melee** ◆ dagger +22/+18/+14 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+9 piercing
 
 **Innate occult Spells** (DC 28), attack +20
 

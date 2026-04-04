@@ -11,6 +11,8 @@ unique, ne, medium, undead
 
 **Skills** Arcana +33, Crafting +31, Deception +27, Intimidation +29, Occultism +33, Religion +29
 
+**Recall Knowledge - Undead** (Religion): DC 46
+
 **STR** +0, **DEX** +5, **CON** +6, **INT** +8, **WIS** +4, **CHA** +4
 
 **Items** diadem of intellect, wand of inexhaustible cynicism|som
@@ -37,7 +39,7 @@ unique, ne, medium, undead
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ hand +32 (finesse, magical); **Damage** 5d8 negative plus paralyzing touch
+**Melee** ◆ hand +32/+27/+22 (finesse, magical); **Damage** 5d8 negative plus paralyzing touch
 
 **Prepared arcane Spells** (DC 39), attack +29
 

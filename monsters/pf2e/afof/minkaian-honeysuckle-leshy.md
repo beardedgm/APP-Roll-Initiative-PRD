@@ -11,6 +11,8 @@ unique, n, small, leshy, plant
 
 **Skills** Athletics +6, Nature +6, Stealth +8
 
+**Recall Knowledge - Plant** (Nature): DC 26
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** -1, **WIS** +2, **CHA** +0
 
 ---
@@ -29,7 +31,7 @@ unique, n, small, leshy, plant
 
 Speed 25 feet
 
-**Melee** ◆ fist +10 (agile, finesse); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ fist +10/+6/+2 (agile, finesse); **Damage** 1d6+4 bludgeoning
 
 **Innate primal Spells** (DC 16)
 

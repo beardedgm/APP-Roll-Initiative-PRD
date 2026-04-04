@@ -9,6 +9,8 @@ uncommon, large, mindless, skeleton, swarm, undead, unholy
 
 **Skills** Acrobatics +8, Athletics +7, Stealth +8
 
+**Recall Knowledge - Undead** (Religion): DC 18
+
 **STR** +4, **DEX** +4, **CON** +2, **INT** -5, **WIS** +1, **CHA** +2
 
 ---

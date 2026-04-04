@@ -11,6 +11,8 @@ unique, cn, gargantuan, spirit, troop
 
 **Skills** Acrobatics +34, Athletics +33, Deception +37, Performance +37, Society +32, Dancing Lore +34
 
+**Recall Knowledge - Spirit** (Religion): DC 49
+
 **STR** +8, **DEX** +7, **CON** +5, **INT** +5, **WIS** +5, **CHA** +6
 
 ---

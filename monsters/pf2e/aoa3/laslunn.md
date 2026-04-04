@@ -11,6 +11,8 @@ unique, ne, medium, gnoll, humanoid
 
 **Skills** Acrobatics +27, Athletics +26, Intimidation +26, Society +20, Stealth +22, Survival +22, Thievery +22, Slaver Lore +20
 
+**Recall Knowledge - Humanoid** (Society): DC 41
+
 **STR** +4, **DEX** +5, **CON** +3, **INT** +1, **WIS** +3, **CHA** +4
 
 **Items** +1 flaming striking composite longbow (40 arrows), key ring (opens locks in Summershade Quarry), +1 resilient leather armor, average manacles (3), ring of fire resistance, +1 striking scimitar
@@ -31,11 +33,11 @@ unique, ne, medium, gnoll, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ scimitar +26 (forceful, magical, sweep); **Damage** 2d6+12 slashing
+**Melee** ◆ scimitar +26/+21/+16 (forceful, magical, sweep); **Damage** 2d6+12 slashing
 
-**Melee** ◆ bite +25 (agile); **Damage** 2d6+12 piercing
+**Melee** ◆ bite +25/+21/+17 (agile); **Damage** 2d6+12 piercing
 
-**Ranged** ◆ composite longbow +27 (deadly <1d10>, magical, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+10 piercing plus 1d6 fire
+**Ranged** ◆ composite longbow +27/+22/+17 (deadly <1d10>, magical, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+10 piercing plus 1d6 fire
 
 **Archery Expertise** Laslunn doesn't take the penalty from the volley trait, and her ranged Strikes don't trigger reactions.
 

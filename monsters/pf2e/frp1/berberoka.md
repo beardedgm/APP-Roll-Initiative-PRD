@@ -11,6 +11,8 @@ uncommon, ne, huge, giant, humanoid
 
 **Skills** Athletics +31, Deception +27, Intimidation +25, Nature +26, Stealth +25, Survival +26
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +8, **DEX** +4, **CON** +6, **INT** -1, **WIS** +3, **CHA** +4
 
 **Deep Breath** A berberoka can hold their breath for 2 hours.
@@ -35,7 +37,7 @@ uncommon, ne, huge, giant, humanoid
 
 Speed 30 feet, swim 30 feet, 15 feet while waterlogged
 
-**Melee** ◆ fist +31 (reach <15 feet>); **Damage** 3d12+16 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +31/+26/+21 (reach <15 feet>); **Damage** 3d12+16 bludgeoning plus Grab plus Grab
 
 **Greater Constrict** ◆ 2d12+12 bludgeoning, DC 33
 

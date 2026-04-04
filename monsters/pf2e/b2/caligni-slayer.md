@@ -11,6 +11,8 @@ uncommon, ce, small, caligni, humanoid
 
 **Skills** Acrobatics +9, Arcana +10, Athletics +7, Occultism +10, Stealth +10
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +1, **DEX** +4, **CON** +1, **INT** +2, **WIS** +0, **CHA** +2
 
 **Items** black smear poison (2 doses; see below), kukri
@@ -34,7 +36,7 @@ uncommon, ce, small, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ kukri +11 (agile, finesse, trip); **Damage** 1d6+3 slashing plus black smear poison plus black smear poison
+**Melee** ◆ kukri +11/+7/+3 (agile, finesse, trip); **Damage** 1d6+3 slashing plus black smear poison plus black smear poison
 
 **Innate occult Spells** (DC 20), attack +12
 

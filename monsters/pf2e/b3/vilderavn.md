@@ -11,6 +11,8 @@ rare, ne, medium, fey
 
 **Skills** Acrobatics +30, Athletics +32, Deception +29, Society +24, Stealth +32, Heraldry Lore +26, Warfare Lore +26
 
+**Recall Knowledge - Fey** (Nature): DC 40
+
 **STR** +8, **DEX** +6, **CON** +5, **INT** +4, **WIS** +4, **CHA** +7
 
 ---
@@ -33,11 +35,11 @@ rare, ne, medium, fey
 
 Speed 40 feet, fly 120 feet
 
-**Melee** ◆ greatsword +34 (magical, versatile <P>); **Damage** 3d12+16 slashing plus bloodbird plus bloodbird
+**Melee** ◆ greatsword +34/+29/+24 (magical, versatile <P>); **Damage** 3d12+16 slashing plus bloodbird plus bloodbird
 
-**Melee** ◆ jaws +32 (magical); **Damage** 3d8+16 piercing plus bloodbird plus bloodbird
+**Melee** ◆ jaws +32/+27/+22 (magical); **Damage** 3d8+16 piercing plus bloodbird plus bloodbird
 
-**Melee** ◆ talon +32 (agile, magical); **Damage** 3d8+16 slashing plus bloodbird plus bloodbird
+**Melee** ◆ talon +32/+28/+24 (agile, magical); **Damage** 3d8+16 slashing plus bloodbird plus bloodbird
 
 **Innate occult Spells** (DC 37)
 

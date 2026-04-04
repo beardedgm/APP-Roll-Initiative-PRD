@@ -11,6 +11,8 @@ cg, medium, elf, humanoid
 
 **Skills** Acrobatics +7, Athletics +7, Nature +6, Stealth +7, Survival +6
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +3, **DEX** +3, **CON** +0, **INT** +1, **WIS** +2, **CHA** +0
 
 **Items** black adder venom (6), cold iron dagger, silver dagger, longbow (20 arrows), studded leather
@@ -27,11 +29,11 @@ cg, medium, elf, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ cold iron or silver dagger +11 (agile, versatile <S>); **Damage** 1d4+3 piercing
+**Melee** ◆ cold iron or silver dagger +11/+7/+3 (agile, versatile <S>); **Damage** 1d4+3 piercing
 
-**Ranged** ◆ longbow +11 (deadly <d10>, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8 piercing plus black adder venom plus black adder venom
+**Ranged** ◆ longbow +11/+6/+1 (deadly <d10>, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8 piercing plus black adder venom plus black adder venom
 
-**Ranged** ◆ cold iron or silver dagger +11 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+3 piercing
+**Ranged** ◆ cold iron or silver dagger +11/+7/+3 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+3 piercing
 
 **Innate primal Spells** (DC 16)
 

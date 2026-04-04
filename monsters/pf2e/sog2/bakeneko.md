@@ -11,6 +11,8 @@ rare, cn, small, beast
 
 **Skills** Acrobatics +10, Deception +8, Occultism +8, Stealth +10, Thievery +10
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 23
+
 **STR** +3, **DEX** +3, **CON** +4, **INT** +1, **WIS** +2, **CHA** +1
 
 ---
@@ -35,7 +37,7 @@ rare, cn, small, beast
 
 Speed fly 40 feet
 
-**Melee** ◆ claw +10 (agile); **Damage** 1d8+5 slashing
+**Melee** ◆ claw +10/+6/+2 (agile); **Damage** 1d8+5 slashing
 
 **Innate occult Spells** (DC 20)
 

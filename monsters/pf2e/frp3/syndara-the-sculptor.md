@@ -11,6 +11,8 @@ unique, le, medium, aeon, monitor
 
 **Skills** Acrobatics +41, Arcana +37, Athletics +39, Deception +34, Intimidation +39, Occultism +37, Demiplane Lore +45
 
+**Recall Knowledge - Monitor** (Religion): DC 54
+
 **STR** +10, **DEX** +11, **CON** +8, **INT** +8, **WIS** +11, **CHA** +7
 
 **Spatial Sense** Syndara instinctively knows the position of all creatures and objects within the Glass Lighthouse as a precise sense. His senses do not extend into extraplanar spaces, even if the entrance to these spaces is within the Lighthouse (such as a creature within a bag of holding (generic)).
@@ -39,11 +41,11 @@ unique, le, medium, aeon, monitor
 
 Speed 40 feet, air walk
 
-**Melee** ◆ palm +41 (agile, finesse, reach <10 feet>, unarmed); **Damage** 6d6+18 bludgeoning plus vicious impact plus vicious impact
+**Melee** ◆ palm +41/+37/+33 (agile, finesse, reach <10 feet>, unarmed); **Damage** 6d6+18 bludgeoning plus vicious impact plus vicious impact
 
-**Melee** ◆ knifehand +41 (deadly <d10>, finesse, reach <10 feet>, unarmed, versatile <P>); **Damage** 7d8+18 slashing plus vicious impact plus vicious impact
+**Melee** ◆ knifehand +41/+36/+31 (deadly <d10>, finesse, reach <10 feet>, unarmed, versatile <P>); **Damage** 7d8+18 slashing plus vicious impact plus vicious impact
 
-**Ranged** ◆ elemental gateway +39 (cold, range <120 feet>); **Damage** 4d10+19 acid, cold, electricity, fire, or sonic plus cold, electricity, fire, or sonic
+**Ranged** ◆ elemental gateway +39/+34/+29 (cold, range <120 feet>); **Damage** 4d10+19 acid, cold, electricity, fire, or sonic plus cold, electricity, fire, or sonic
 
 **Gateway Onslaught** ◆◆ (conjuration, teleportation) **Requirements** Syndara is in the Glass Lighthouse; Syndara folds the fabric of the Glass Lighthouse before opening several gateways from which dangerous elements spew forth. He teleports to his throne, regardless of distance, then makes three elemental gateway Strikes. Each Strike must target a different creature. He can't use Gateway Onslaught again for 1d4 rounds.
 

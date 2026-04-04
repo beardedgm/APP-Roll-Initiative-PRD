@@ -11,6 +11,8 @@ uncommon, ce, large, dragon
 
 **Skills** Acrobatics +15, Athletics +17
 
+**Recall Knowledge - Dragon** (Arcana): DC 25
+
 **STR** +6, **DEX** +3, **CON** +5, **INT** -4, **WIS** +4, **CHA** +5
 
 ---
@@ -31,11 +33,11 @@ uncommon, ce, large, dragon
 
 Speed 30 feet, fly 60 feet, swim 45 feet
 
-**Melee** ◆ jaws +18 (magical, reach <10 feet>); **Damage** 2d10+9 piercing plus young linnorm venom plus Young Linnorm Venom
+**Melee** ◆ jaws +18/+13/+8 (magical, reach <10 feet>); **Damage** 2d10+9 piercing plus young linnorm venom plus Young Linnorm Venom
 
-**Melee** ◆ claw +18 (agile, magical, reach <10 feet>); **Damage** 2d8+9 slashing
+**Melee** ◆ claw +18/+14/+10 (agile, magical, reach <10 feet>); **Damage** 2d8+9 slashing
 
-**Melee** ◆ tail +18 (agile, magical, reach <15 feet>); **Damage** 2d8+9 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tail +18/+14/+10 (agile, magical, reach <15 feet>); **Damage** 2d8+9 bludgeoning plus Improved Grab plus Improved Grab
 
 **Constrict** ◆ 2d8+4 bludgeoning, DC 25
 

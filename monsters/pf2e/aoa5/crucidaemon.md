@@ -11,6 +11,8 @@ ne, medium, daemon, fiend
 
 **Skills** Acrobatics +30, Arcana +26, Crafting +30, Deception +26, Intimidation +28, Stealth +30, Thievery +26
 
+**Recall Knowledge - Fiend** (Religion): DC 34
+
 **STR** +4, **DEX** +7, **CON** +7, **INT** +3, **WIS** +7, **CHA** +5
 
 ---
@@ -33,7 +35,7 @@ ne, medium, daemon, fiend
 
 Speed 50 feet, air walk
 
-**Melee** ◆ chained dagger +30 (agile, finesse, magical, reach <10 feet>, versatile <S>); **Damage** 4d4+14 piercing plus 2d6 persistent bleed
+**Melee** ◆ chained dagger +30/+26/+22 (agile, finesse, magical, reach <10 feet>, versatile <S>); **Damage** 4d4+14 piercing plus 2d6 persistent bleed
 
 **Innate divine Spells** (DC 32), attack +28
 

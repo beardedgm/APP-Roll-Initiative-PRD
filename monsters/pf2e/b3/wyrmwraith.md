@@ -11,6 +11,8 @@ rare, ce, gargantuan, dragon, incorporeal, undead, wraith
 
 **Skills** Acrobatics +30, Arcana +30, Intimidation +33, Religion +33, Stealth +33
 
+**Recall Knowledge - Dragon** (Arcana, Religion): DC 41
+
 **STR** -5, **DEX** +9, **CON** +0, **INT** +7, **WIS** +7, **CHA** +9
 
 ---
@@ -35,9 +37,9 @@ rare, ce, gargantuan, dragon, incorporeal, undead, wraith
 
 Speed 50 feet, fly 80 feet
 
-**Melee** ◆ spectral jaws +34 (reach <20 feet>); **Damage** 3d12+17 negative plus drain life plus drain life
+**Melee** ◆ spectral jaws +34/+29/+24 (reach <20 feet>); **Damage** 3d12+17 negative plus drain life plus drain life
 
-**Melee** ◆ spectral claw +34 (agile, reach <15 feet>); **Damage** 3d8+17 negative plus divine dispelling and drain life plus divine dispelling, drain life
+**Melee** ◆ spectral claw +34/+30/+26 (agile, reach <15 feet>); **Damage** 3d8+17 negative plus divine dispelling and drain life plus divine dispelling, drain life
 
 **Innate divine Spells** (DC 35)
 

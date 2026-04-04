@@ -11,6 +11,8 @@ uncommon, n, small, beast, incorporeal, spirit
 
 **Skills** Acrobatics +12, Diplomacy +13, Nature +14, Survival +12
 
+**Recall Knowledge - Beast** (Arcana, Nature, Religion): DC 22
+
 **STR** +0, **DEX** +3, **CON** +0, **INT** +2, **WIS** +5, **CHA** +2
 
 ---
@@ -31,7 +33,7 @@ uncommon, n, small, beast, incorporeal, spirit
 
 Speed 10 feet, fly 40 feet
 
-**Melee** ◆ talon +13 (agile, finesse, magical); **Damage** 2d6+3 force
+**Melee** ◆ talon +13/+9/+5 (agile, finesse, magical); **Damage** 2d6+3 force
 
 **Innate primal Spells** (DC 25)
 

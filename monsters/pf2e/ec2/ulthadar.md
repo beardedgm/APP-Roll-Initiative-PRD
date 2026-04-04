@@ -11,6 +11,8 @@ unique, ln, medium, incorporeal, spirit, undead
 
 **Skills** Arcana +16, Diplomacy +15, Religion +18, Society +16, Stealth +15, Aroden Lore +18
 
+**Recall Knowledge - Spirit** (Religion): DC 34
+
 **STR** -5, **DEX** +3, **CON** +0, **INT** +4, **WIS** +6, **CHA** +3
 
 **Items** moonstone diadem (page 74)
