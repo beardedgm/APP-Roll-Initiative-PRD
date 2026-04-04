@@ -38,7 +38,7 @@ export default function TrackerHeader() {
     <>
     <header className="dm-header">
       <div className="dm-header__left">
-        <h1><Swords size={18} /> Initiative Tracker</h1>
+        <h1><Swords size={18} /> Roll Initiative</h1>
       </div>
 
       <div className="dm-header__right">

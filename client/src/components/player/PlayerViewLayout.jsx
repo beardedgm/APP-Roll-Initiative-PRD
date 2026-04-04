@@ -17,8 +17,8 @@ export default function PlayerViewLayout({
   const updateSizing = useDynamicSizing(listRef);
 
   const footerLabel = showShareInfo
-    ? 'Initiative Tracker \u2014 Shared Player View'
-    : 'Initiative Tracker \u2014 Player View';
+    ? 'Roll Initiative \u2014 Shared Player View'
+    : 'Roll Initiative \u2014 Player View';
 
   const combatState = encounter?.state;
   const combatants = useMemo(() => encounter?.combatants || [], [encounter?.combatants]);
@@ -26,7 +26,7 @@ export default function PlayerViewLayout({
   const currentRound = encounter?.currentRound;
   const name = encounter?.name;
 
-  const headerTitle = showShareInfo && name ? name : 'Initiative Tracker';
+  const headerTitle = showShareInfo && name ? name : 'Roll Initiative';
 
   useEffect(() => {
     requestAnimationFrame(updateSizing);
@@ -37,7 +37,7 @@ export default function PlayerViewLayout({
     return (
       <div className="player-wrapper">
         <header className="player-header">
-          <h1 className="player-header__title"><Swords /> Initiative Tracker</h1>
+          <h1 className="player-header__title"><Swords /> Roll Initiative</h1>
           <span className="player-header__round" />
         </header>
         <main className="player-main">
@@ -56,7 +56,7 @@ export default function PlayerViewLayout({
     return (
       <div className="player-wrapper">
         <header className="player-header">
-          <h1 className="player-header__title"><Swords /> Initiative Tracker</h1>
+          <h1 className="player-header__title"><Swords /> Roll Initiative</h1>
           <span className="player-header__round" />
         </header>
         <main className="player-main">
@@ -80,7 +80,7 @@ export default function PlayerViewLayout({
       return (
         <div className="player-wrapper">
           <header className="player-header">
-            <h1 className="player-header__title"><Swords /> Initiative Tracker</h1>
+            <h1 className="player-header__title"><Swords /> Roll Initiative</h1>
             <span className="player-header__round" />
           </header>
           <main className="player-main">

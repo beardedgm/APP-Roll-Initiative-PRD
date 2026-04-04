@@ -1,4 +1,4 @@
-# Initiative Tracker — Launch Readiness Plan
+# Roll Initiative — Launch Readiness Plan
 
 > **For Claude:** REQUIRED SUB-SKILL: Use superpowers:executing-plans to implement this plan task-by-task.
 

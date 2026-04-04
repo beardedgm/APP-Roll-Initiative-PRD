@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: initiative-tracker
+    name: roll-initiative
     runtime: node
     plan: starter
     region: oregon
@@ -14,7 +14,7 @@ services:
       - key: APP_URL
         sync: false
       - key: APP_NAME
-        value: Initiative Tracker
+        value: Roll Initiative
       - key: SESSION_SECRET
         generateValue: true
       - key: MONGO_URI

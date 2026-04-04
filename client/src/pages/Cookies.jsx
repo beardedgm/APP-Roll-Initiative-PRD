@@ -24,7 +24,7 @@ export default function Cookies() {
           <section className="legal-section">
             <h2>2. Cookies We Use</h2>
             <p>
-              The following table describes the cookies used by Initiative Tracker:
+              The following table describes the cookies used by Roll Initiative:
             </p>
             <table style={{ width: '100%', borderCollapse: 'collapse', marginTop: '0.5rem' }}>
               <thead>
@@ -39,7 +39,7 @@ export default function Cookies() {
               <tbody>
                 <tr style={{ borderBottom: '1px solid #333' }}>
                   <td style={{ padding: '0.5rem' }}><code>connect.sid</code></td>
-                  <td style={{ padding: '0.5rem' }}>Initiative Tracker</td>
+                  <td style={{ padding: '0.5rem' }}>Roll Initiative</td>
                   <td style={{ padding: '0.5rem' }}>Maintains your authenticated login session. This cookie is set when you log in and allows you to stay signed in as you navigate the site.</td>
                   <td style={{ padding: '0.5rem' }}>Essential</td>
                   <td style={{ padding: '0.5rem' }}>24 hours</td>
