@@ -2,8 +2,8 @@ import resend from '../config/resend.js';
 import logger from '../config/logger.js';
 import User from '../models/User.js';
 
-const FROM = process.env.EMAIL_FROM || 'Initiative Tracker <noreply@example.com>';
-const APP_NAME = process.env.APP_NAME || 'Initiative Tracker';
+const FROM = process.env.EMAIL_FROM || 'Roll Initiative <noreply@example.com>';
+const APP_NAME = process.env.APP_NAME || 'Roll Initiative';
 const APP_URL = process.env.APP_URL || 'http://localhost:5173';
 
 function escapeHtml(str) {

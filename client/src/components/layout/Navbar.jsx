@@ -55,7 +55,7 @@ export default function Navbar() {
     <nav className={`site-nav${scrolled ? ' site-nav--scrolled' : ''}`}>
       <Link to="/" className="site-nav__logo">
         <span className="site-nav__logo-icon"><Swords size={18} /></span>
-        Initiative Tracker
+        Roll Initiative
       </Link>
 
       <button

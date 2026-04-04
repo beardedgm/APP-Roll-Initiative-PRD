@@ -14,7 +14,7 @@ export default function Terms() {
           <section className="legal-section">
             <h2>1. Acceptance of Terms</h2>
             <p>
-              By accessing or using Initiative Tracker (&quot;the Service&quot;), operated at{' '}
+              By accessing or using Roll Initiative (&quot;the Service&quot;), operated at{' '}
               <a href="https://roll-initiative.onrender.com">roll-initiative.onrender.com</a>, you agree to be bound by
               these Terms of Service (&quot;Terms&quot;). If you do not agree to these Terms, you must not use the Service.
             </p>
@@ -28,7 +28,7 @@ export default function Terms() {
           <section className="legal-section">
             <h2>2. Description of Service</h2>
             <p>
-              Initiative Tracker is a web-based tool for managing combat encounters in tabletop role-playing games such as
+              Roll Initiative is a web-based tool for managing combat encounters in tabletop role-playing games such as
               Dungeons &amp; Dragons. The Service provides:
             </p>
             <ul>
@@ -99,12 +99,12 @@ export default function Terms() {
           <section className="legal-section">
             <h2>7. Intellectual Property</h2>
             <p>
-              The Service, including its design, code, features, and branding, is owned by Initiative Tracker and
+              The Service, including its design, code, features, and branding, is owned by Roll Initiative and
               protected by applicable intellectual property laws. You may not copy, modify, distribute, or create
               derivative works based on the Service without our express permission.
             </p>
             <p>
-              Dungeons &amp; Dragons and related properties are trademarks of Wizards of the Coast. Initiative Tracker is
+              Dungeons &amp; Dragons and related properties are trademarks of Wizards of the Coast. Roll Initiative is
               an independent tool and is not affiliated with, endorsed by, or sponsored by Wizards of the Coast. All game
               content referenced within the Service is used under the Open Gaming License or System Reference Document
               where applicable.
@@ -140,7 +140,7 @@ export default function Terms() {
           <section className="legal-section">
             <h2>10. Limitation of Liability</h2>
             <p>
-              To the maximum extent permitted by law, Initiative Tracker and its operators shall not be liable for any
+              To the maximum extent permitted by law, Roll Initiative and its operators shall not be liable for any
               indirect, incidental, special, consequential, or punitive damages, or any loss of data, profits, or
               goodwill, arising out of or related to your use of or inability to use the Service.
             </p>
@@ -154,7 +154,7 @@ export default function Terms() {
           <section className="legal-section">
             <h2>11. Indemnification</h2>
             <p>
-              You agree to indemnify, defend, and hold harmless Initiative Tracker and its operators from and against any
+              You agree to indemnify, defend, and hold harmless Roll Initiative and its operators from and against any
               claims, liabilities, damages, losses, and expenses (including reasonable attorney&apos;s fees) arising out
               of or relating to your use of the Service, your violation of these Terms, or your violation of any rights
               of a third party.

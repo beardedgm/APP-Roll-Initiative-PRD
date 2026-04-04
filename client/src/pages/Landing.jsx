@@ -29,7 +29,7 @@ export default function Landing() {
           <span className="hero__mote hero__mote--hex hero__mote--lg hero__mote--gold" style={{ top: '50%', left: '50%', animationDelay: '-40s' }} />
         </div>
         <div className="hero__content">
-          <span className="hero__eyebrow reveal">D&amp;D 5e &amp; Pathfinder 2e Initiative Tracker</span>
+          <span className="hero__eyebrow reveal">D&amp;D 5e &amp; Pathfinder 2e Combat Tracker</span>
           <h1 className="hero__title reveal">
             Command the<br /><span className="hero__title-accent">Battlefield</span>
           </h1>

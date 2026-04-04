@@ -1,7 +1,7 @@
 {
-  "name": "initiative-tracker-server",
+  "name": "roll-initiative-server",
   "version": "1.0.0",
-  "description": "Initiative Tracker API server",
+  "description": "Roll Initiative API server",
   "main": "app.js",
   "type": "module",
   "scripts": {
