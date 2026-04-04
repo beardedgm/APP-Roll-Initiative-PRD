@@ -55,12 +55,13 @@ This file describes the architecture, conventions, and rules for this codebase. 
 │       ├── hooks/              # useCloudSync, useUserDataSync, useEncounterCloudSetup, useUserDataInit
 │       └── utils/              # monsterFormHelpers, monsterImport
 ├── shared/                     # Pure functions shared between Node.js and browser (no deps)
+│   ├── gameSystemConfig.js     # Config-driven game system definitions (5e + PF2e labels, options, dirs)
 │   ├── pf2eMarkdownRenderer.js # PF2eTools creature JSON → markdown stat block
 │   ├── pf2eSpellRenderer.js    # PF2eTools spell JSON → markdown
 │   ├── pf2eTagStripper.js      # Strip {@tag} template markup to plain text
 │   └── *.test.js               # Node.js built-in test runner tests
 ├── server/
-│   ├── config/                 # DB, session, logger, Stripe, Resend, Turnstile, Sentry
+│   ├── config/                 # DB, session, logger, Stripe, Resend, Turnstile, Sentry, pf2eSourceLabels
 │   ├── models/                 # User, Encounter, Monster, Spell, UserData, LoginAttempt, EmailToken, ProcessedEvent
 │   ├── validators/             # Zod schemas (auth, encounters, monsters, userData)
 │   ├── middleware/             # requireAuth, requireOwner, requireSubscription, requireCsrf, validate, rateLimitAuth, rateLimitGeneral, verifyTurnstile, errorHandler
@@ -72,14 +73,12 @@ This file describes the architecture, conventions, and rules for this codebase. 
 │   ├── promote-owner.js
 │   ├── convertPf2eToMarkdown.js  # PF2eTools creature JSON → markdown (batch converter)
 │   └── convertPf2eSpells.js      # PF2eTools spell JSON → markdown (batch converter)
-├── Monsters/                   # Creature markdown stat blocks (source of truth, seeded into MongoDB)
-│   ├── 5.1_srd_(2015_mm)/     # D&D 5e sources (8 folders, ~3100 files)
-│   ├── ...
-│   └── pf2e_*/                 # Pathfinder 2e sources (79 folders, ~2600 files)
+├── monsters/                   # Creature markdown stat blocks (source of truth, seeded into MongoDB)
+│   ├── 5e/                     # D&D 5e sources (8 folders, ~3100 files)
+│   └── pf2e/                   # Pathfinder 2e sources (79 folders, ~2600 files, no pf2e_ prefix)
 ├── spells/                     # Spell markdown files (source of truth, seeded into MongoDB)
-│   ├── 5.1_srd_5e/            # D&D 5e sources (4 folders, ~1540 files)
-│   ├── ...
-│   └── pf2e_*/                 # Pathfinder 2e sources (58 folders, ~2060 files)
+│   ├── 5e/                     # D&D 5e sources (4 folders, ~1540 files)
+│   └── pf2e/                   # Pathfinder 2e sources (58 folders, ~2060 files, no pf2e_ prefix)
 ├── .github/workflows/ci.yml
 ├── .env.example
 ├── render.yaml
@@ -174,6 +173,7 @@ Express serves `client/dist` as static files in production. There is no separate
 - Never send stack traces to the client in production.
 
 ### Game System Abstraction (5e + PF2e)
+- **Config-driven**: `shared/gameSystemConfig.js` defines all per-system behavior (labels, filter options, directory paths). Components read from `GAME_SYSTEMS[gameSystem]` instead of `isPf2e` ternaries. Adding a third system = one config entry, zero component changes.
 - Single `Monster` collection with `gameSystem: '5e' | 'pf2e'` discriminator field — no separate collections.
 - Single `Spell` collection with `gameSystem: '5e' | 'pf2e'` — same pattern as monsters.
 - Same API endpoints with `?gameSystem=5e` or `?gameSystem=pf2e` query param (defaults to `'5e'`).
@@ -182,20 +182,24 @@ Express serves `client/dist` as static files in production. There is no separate
 - `abilities` object stores ability scores (1-30) for 5e, ability modifiers (-5 to +10) for PF2e. The `gameSystem` field determines interpretation.
 - Stat block display comes from `rawMarkdown` — format differences are in the markdown content, not the viewer component.
 - `useUIStore.openModal(id, data)` passes `{ gameSystem }` to modals so forms know which system they're creating for.
+- **File organization**: `monsters/5e/` and `monsters/pf2e/` (system parent dirs). Same for `spells/`. PF2e subfolders have no `pf2e_` prefix (e.g., `monsters/pf2e/crb/`, not `monsters/pf2e/pf2e_crb/`).
+- **PF2e source labels**: `server/config/pf2eSourceLabels.js` maps source codes to full book names (shared by both seed scripts).
 
 ### Spell System Differences (5e vs PF2e)
 - **5e spells**: Levels 0-9 (0 = cantrip), schools (Evocation, Conjuration, etc.), class lists (Wizard, Cleric, etc.), spell slots.
-- **PF2e spells**: Ranks 1-10 (cantrip = rank 0), traditions (arcane, divine, occult, primal) instead of classes, no schools. Focus spells have no tradition. Uses action symbols (◆◆◆) for casting cost instead of "1 action".
-- The `Spell.classes` field stores class names for 5e and tradition names for PF2e.
-- The `Spell.school` field is populated for 5e, null for PF2e.
-- UI filters adapt: 5e shows "All Levels" + "All Schools", PF2e shows "All Ranks" + "All Traditions".
+- **PF2e spells**: Ranks 1-10 (cantrip = rank 0), traditions (arcane, divine, occult, primal, elemental) instead of classes, no schools. Focus spells and ritual spells are separate categories. Uses action symbols (◆◆◆) for casting cost.
+- PF2e-native fields on Spell model: `traditions`, `traits`, `actionCost`, `spellType` (spell/focus/ritual/cantrip), `rarity`.
+- PF2e cantrips identified by `cantrip` trait (not Level line) — stored as `level: 0`, `spellType: 'cantrip'`.
+- **5e filter flow**: Source → Level → School → Search.
+- **PF2e filter flow**: Source → Rank → Category (Arcane/Divine/Occult/Primal/Elemental/Focus Spells/Ritual Spells) → Search. The Category dropdown combines traditions and spell types in one filter.
 - `SpellList` remounts on system toggle via `key={gameSystem}` to reset filter state.
+- Filters are config-driven from `shared/gameSystemConfig.js` — no hardcoded `isPf2e` ternaries.
 
 ### Tracker Layout (Left/Right Panel Architecture)
 - Left panel: 4 tabs — Creatures, Spells, Characters, Encounters. Each tab has a `SystemToggle` for 5E/PF2E.
 - Right panel: Collapsible dice roller (persistent header bar) + `ContentViewer` for stat blocks and spell descriptions.
-- `ContentViewer` reads from `useUIStore.contentStack` — a navigation stack supporting push/pop for creature→spell→back navigation.
-- `CreatureList` and `SpellList` are name-only lists. All metadata (CR, level, school) is accessible via filters, not inline display.
+- `ContentViewer` reads from `useUIStore.contentStack` — a navigation stack supporting push/pop for creature→spell→back navigation. Spell names in creature stat blocks are clickable (gold dotted underline) and push onto the content stack.
+- `CreatureList` shows name + CR/Level badge + source badge. `SpellList` is name-only.
 - Both panels are resizable with drag handles; widths persist in localStorage.
 
 ### Shared Utilities (`shared/`)
@@ -219,7 +223,7 @@ Express serves `client/dist` as static files in production. There is no separate
 - App models: `Monster` (seeded 5e + PF2e creatures), `Spell` (seeded 5e + PF2e spells), `Encounter`, `UserData` (characters, custom monsters, encounter presets)
 - `Monster.gameSystem`: `'5e'` (default) or `'pf2e'` — indexes: `{ gameSystem: 1 }`, `{ gameSystem: 1, sourceKey: 1 }`
 - `Spell.gameSystem`: `'5e'` (default) or `'pf2e'` — indexes: `{ gameSystem: 1, sourceKey: 1 }`, `{ gameSystem: 1, level: 1 }`
-- `Spell` fields: name, slug, level, school (5e only), classes (5e classes / PF2e traditions), castingTime, range, components, duration, rawMarkdown
+- `Spell` fields: name, slug, level, school (5e only), classes (5e classes / PF2e traditions), castingTime, range, components, duration, traditions (PF2e), traits (PF2e), actionCost (PF2e), spellType (PF2e), rarity (PF2e), rawMarkdown
 - TTL indexes on: `LoginAttempt` (15 min), `EmailToken` (24h for verify, 1h for reset), `ProcessedEvent` (30 days)
 
 ### API Routes
@@ -262,7 +266,7 @@ These are mandatory for every code change. No exceptions.
 1. **Never push directly to `main`.** Always create a feature branch, push it, and open a PR.
 2. **Run lint before every PR.** Server: `cd server && npx eslint .` Client: `cd client && npm run lint` and `cd client && npx vite build`. All must pass with zero errors.
 3. **One PR per logical change.** Group related commits into a single PR with a clear title and description.
-4. **Re-seed after markdown changes.** If any `Monsters/` or `spells/` markdown files change, or if `shared/pf2eMarkdownRenderer.js` or `shared/pf2eSpellRenderer.js` change, re-run the converter (if PF2e) and `npm run seed:monsters` / `npm run seed:spells` against the production database.
+4. **Re-seed after markdown changes.** If any `monsters/` or `spells/` markdown files change, or if `shared/pf2eMarkdownRenderer.js` or `shared/pf2eSpellRenderer.js` change, re-run the converter (if PF2e) and `npm run seed:monsters` / `npm run seed:spells` against the production database.
 5. **Branch naming:** `feat/`, `fix/`, `style/`, `docs/` prefixes matching the change type.
 
 ---
@@ -293,6 +297,7 @@ These are non-negotiable. Do not deviate from them.
 - **Slug regex must allow dots**: Slug validation regex must be `[a-z0-9._-]` not `[a-z0-9_-]` because source keys contain dots (e.g., `5.1_srd--goblin`). Missing the dot breaks stat block fetches with 400 errors.
 - **Seeding env var**: The seed scripts use `MONGO_URI` (not `MONGODB_URI`). They read `.env` from `../.env` relative to `server/`. If running from a worktree, ensure the `.env` is in the worktree root.
 - **Zustand v5 subscribe**: The 3-argument `subscribe(selector, listener, options)` form requires `subscribeWithSelector` middleware. Without it, callbacks silently never fire. Use the 1-argument `subscribe(listener)` form with manual reference tracking instead.
+- **ContentViewer event delegation + async data**: The `useEffect` that attaches click handlers for dice and spell links must include the computed `renderedHtml` in its dependency array. When spell names load asynchronously, the HTML re-renders but the effect won't re-run unless `renderedHtml` (computed before the effect) is a dependency. Without this, dice clicks silently stop working.
 
 ---
 
