@@ -3,13 +3,37 @@ import { Swords, Monitor, Heart, Dices, BookOpen, Scroll, Check } from 'lucide-r
 import useScrollReveal from '../hooks/useScrollReveal';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import SEO from '../components/layout/SEO';
 import '../styles/marketing.css';
+
+const APP_SCHEMA = {
+  '@context': 'https://schema.org',
+  '@type': 'SoftwareApplication',
+  name: 'Roll Initiative',
+  description: 'Free online initiative tracker for D&D 5e and Pathfinder 2e with 5,700+ monsters, 3,600+ spells, dice roller, and real-time player view.',
+  url: 'https://rollinitiative.app',
+  applicationCategory: 'GameApplication',
+  operatingSystem: 'Web',
+  offers: {
+    '@type': 'AggregateOffer',
+    lowPrice: '0',
+    highPrice: '6',
+    priceCurrency: 'USD',
+    offerCount: 2,
+  },
+};
 
 export default function Landing() {
   useScrollReveal();
 
   return (
     <div className="marketing">
+      <SEO
+        title="Roll Initiative — Free D&D 5e & Pathfinder 2e Initiative Tracker"
+        description="Free online initiative tracker for D&D 5e and Pathfinder 2e. Manage combat with 5,700+ monsters, 3,600+ spells, built-in dice roller, and real-time player view. No sign-up required."
+        path="/"
+        jsonLd={APP_SCHEMA}
+      />
       <Navbar />
 
       {/* Hero */}

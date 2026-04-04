@@ -1,10 +1,16 @@
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import SEO from '../components/layout/SEO';
 import '../styles/marketing.css';
 
 export default function Cookies() {
   return (
     <>
+      <SEO
+        title="Cookie Policy | Roll Initiative"
+        description="Cookie Policy for Roll Initiative. Learn about the cookies we use for authentication, analytics, and bot protection."
+        path="/cookies"
+      />
       <Navbar />
       <main className="legal-page">
         <div className="legal-container">

@@ -3,8 +3,23 @@ import { Link } from 'react-router-dom';
 import { Menu, X } from 'lucide-react';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import SEO from '../components/layout/SEO';
 import '../styles/marketing.css';
 import '../styles/help.css';
+
+const FAQ_SCHEMA = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    { '@type': 'Question', name: 'Why can I only see 20 monsters?', acceptedAnswer: { '@type': 'Answer', text: 'You are on the free Demo tier, which includes 20 iconic creatures. Subscribe to Full Access to unlock all 5,700+ monsters from D&D 5e and Pathfinder 2e.' } },
+    { '@type': 'Question', name: 'How do I share the initiative order with my players?', acceptedAnswer: { '@type': 'Answer', text: 'For in-person games, click the monitor icon to open a player view on a second screen. For remote players, click the share icon to generate a link. Shareable links require a Full Access subscription.' } },
+    { '@type': 'Question', name: 'Does Roll Initiative work on mobile and tablet?', acceptedAnswer: { '@type': 'Answer', text: 'Yes. The tracker is fully responsive and works on phones, tablets, and desktops. The shared player view is optimized for mobile devices.' } },
+    { '@type': 'Question', name: 'Can I use the initiative tracker offline?', acceptedAnswer: { '@type': 'Answer', text: 'The tracker works locally in your browser without an internet connection. Cloud sync and shareable player view links require an internet connection.' } },
+    { '@type': 'Question', name: 'What is the difference between D&D 5E and Pathfinder 2E in Roll Initiative?', acceptedAnswer: { '@type': 'Answer', text: 'Roll Initiative supports both D&D 5th Edition and Pathfinder 2nd Edition. Toggle between them using the system switch. Creatures, spells, filters, and stat block formats automatically adapt to the selected game system.' } },
+    { '@type': 'Question', name: 'How do I import a custom monster?', acceptedAnswer: { '@type': 'Answer', text: 'Open the Creatures tab, click Import JSON, and paste your creature\'s JSON data or upload a .json file. Use the Template button to see a pre-filled example. Custom monsters require a Full Access subscription.' } },
+    { '@type': 'Question', name: 'Can I create my own homebrew creatures?', acceptedAnswer: { '@type': 'Answer', text: 'Yes. Full Access subscribers can create custom monsters using the Create Monster button (or Create Creature in PF2E). You can also import creatures via JSON for more complex stat blocks.' } },
+  ],
+};
 
 const SECTIONS = [
   { id: 'getting-started', label: 'Getting Started' },
@@ -35,6 +50,12 @@ export default function Help() {
 
   return (
     <div className="marketing">
+      <SEO
+        title="User Guide — How to Use Roll Initiative | D&D & Pathfinder Combat Tracker"
+        description="Learn how to run combat encounters, track initiative, manage 5,700+ D&D 5e and Pathfinder 2e monsters, browse 3,600+ spells, share with players, and create custom creatures in Roll Initiative."
+        path="/help"
+        jsonLd={FAQ_SCHEMA}
+      />
       <Navbar />
 
       <div className="help-page">

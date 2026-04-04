@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { useRegister } from '../api/useAuth';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import SEO from '../components/layout/SEO';
 import TurnstileWidget from '../components/ui/TurnstileWidget';
 import '../styles/marketing.css';
 
@@ -32,6 +33,7 @@ export default function Register() {
 
   return (
     <>
+      <SEO title="Create Account | Roll Initiative" description="Create a Roll Initiative account." path="/register" noindex />
       <Navbar />
       <main className="auth-page">
         <div className="auth-card">
