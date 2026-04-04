@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef, useCallback, forwardRef, useImperativeHandle } from 'react';
 import { Download, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useMonsterBrowse, useMonsterSources } from '../../api/useMonsters';
+import { useCurrentUser } from '../../api/useAuth';
 import useCombatStore from '../../store/useCombatStore';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
@@ -23,6 +24,9 @@ const CreatureList = forwardRef(function CreatureList({ gameSystem = '5e', onAdd
   const pushContent = useUIStore(s => s.pushContent);
   const selectedCreatureSlug = useUIStore(s => s.selectedCreatureSlug);
   const storeMonsters = useUserDataStore(s => s.customMonsters);
+
+  const { data: user } = useCurrentUser();
+  const hasFullAccess = user && (user.subscriptionStatus === 'active' || user.role === 'owner');
 
   const creatureConfig = GAME_SYSTEMS[gameSystem].creatures;
 
@@ -119,7 +123,7 @@ const CreatureList = forwardRef(function CreatureList({ gameSystem = '5e', onAdd
             onChange={e => handleSourceFilter(e.target.value)}
           >
             <option value="">All Sources</option>
-            {storeMonsters.filter(m => (m.gameSystem || '5e') === gameSystem).length > 0 && (
+            {hasFullAccess && storeMonsters.filter(m => (m.gameSystem || '5e') === gameSystem).length > 0 && (
               <option value="custom">
                 Custom ({storeMonsters.filter(m => (m.gameSystem || '5e') === gameSystem).length})
               </option>
@@ -143,23 +147,29 @@ const CreatureList = forwardRef(function CreatureList({ gameSystem = '5e', onAdd
         </div>
       </div>
 
-      <div className="monster-db__custom-actions">
-        <button
-          className="btn btn--sm btn--primary"
-          onClick={() => openModal('monster-form', { gameSystem })}
-        >
-          + Create {gameSystem === 'pf2e' ? 'Creature' : 'Monster'}
-        </button>
-        <button
-          className="btn btn--sm"
-          onClick={() => openModal('import-monster', { gameSystem })}
-        >
-          <Download size={14} /> Import JSON
-        </button>
-      </div>
+      {hasFullAccess && (
+        <div className="monster-db__custom-actions">
+          <button
+            className="btn btn--sm btn--primary"
+            onClick={() => openModal('monster-form', { gameSystem })}
+          >
+            + Create {gameSystem === 'pf2e' ? 'Creature' : 'Monster'}
+          </button>
+          <button
+            className="btn btn--sm"
+            onClick={() => openModal('import-monster', { gameSystem })}
+          >
+            <Download size={14} /> Import JSON
+          </button>
+        </div>
+      )}
 
       <div className="monster-db__count">
-        {isLoading ? 'Searching...' : `${total.toLocaleString()} monsters found`}
+        {isLoading
+          ? 'Searching...'
+          : hasFullAccess
+            ? `${total.toLocaleString()} monsters found`
+            : `Showing demo monsters \u2014 subscribe for 5,700+`}
       </div>
 
       <div className="monster-db__list">
