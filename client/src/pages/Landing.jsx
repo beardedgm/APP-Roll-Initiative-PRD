@@ -34,10 +34,9 @@ export default function Landing() {
             Command the<br /><span className="hero__title-accent">Battlefield</span>
           </h1>
           <p className="hero__subtitle reveal">
-            The D&amp;D encounter tracker built for speed. Manage initiative, HP,
-            and dice rolls with 5,700+ creatures and 3,600+ spells from official
-            SRDs. Works as a Pathfinder 2e encounter tracker too &mdash; share
-            the turn order with your players in real time, no login required.
+            The D&amp;D encounter tracker built for speed. Try the demo free
+            with 20 iconic monsters and 3,600+ spells &mdash; or unlock all
+            5,700+ creatures with Full Access.
           </p>
           <div className="hero__actions reveal">
             <Link to="/tracker" className="btn btn--lg btn--primary">Launch App</Link>
@@ -90,9 +89,9 @@ export default function Landing() {
             <div className="feature-card__icon"><BookOpen size={28} /></div>
             <h3 className="feature-card__title">5,700+ Monsters</h3>
             <p className="feature-card__desc">
-              Search and browse creatures from D&amp;D 5e and Pathfinder 2e SRDs.
-              Full stat blocks with clickable dice notation &mdash; or create your
-              own custom monsters.
+              Try 20 iconic creatures free. Subscribe for the full library &mdash;
+              5,700+ monsters from D&amp;D 5e and Pathfinder 2e with full stat
+              blocks and clickable dice.
             </p>
           </div>
 
@@ -130,7 +129,7 @@ export default function Landing() {
               </li>
               <li>
                 <span className="showcase__list-icon"><Check size={16} /></span>
-                5,700+ monsters and 3,600+ spells with full stat blocks
+                20 demo monsters free, 5,700+ with Full Access
               </li>
               <li>
                 <span className="showcase__list-icon"><Check size={16} /></span>
@@ -179,7 +178,10 @@ export default function Landing() {
           Whether you run D&amp;D 5e or Pathfinder 2e, your next encounter is
           seconds away. No sign-up, no download &mdash; just open and play.
         </p>
-        <Link to="/tracker" className="btn btn--lg btn--primary reveal">Launch App</Link>
+        <div className="hero__actions reveal">
+          <Link to="/tracker" className="btn btn--lg btn--primary">Launch App</Link>
+          <Link to="/pricing" className="btn btn--lg btn--ghost">See Pricing</Link>
+        </div>
       </section>
 
       <Footer />

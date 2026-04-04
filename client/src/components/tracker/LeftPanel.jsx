@@ -1,5 +1,7 @@
 import { useState, useRef, forwardRef, useImperativeHandle } from 'react';
 import useUIStore from '../../store/useUIStore';
+import { useCurrentUser } from '../../api/useAuth';
+import SubscriptionGate from '../layout/SubscriptionGate';
 import SystemToggle from './SystemToggle';
 import CreatureList from './CreatureList';
 import SpellList from './SpellList';
@@ -16,6 +18,9 @@ const TABS = [
 const LeftPanel = forwardRef(function LeftPanel({ onAddToEncounter }, ref) {
   const [activeTab, setActiveTab] = useState('creatures');
   const creatureListRef = useRef(null);
+
+  const { data: user } = useCurrentUser();
+  const hasFullAccess = user && (user.subscriptionStatus === 'active' || user.role === 'owner');
 
   const creaturesSystem = useUIStore(s => s.creaturesSystem);
   const setCreaturesSystem = useUIStore(s => s.setCreaturesSystem);
@@ -68,8 +73,12 @@ const LeftPanel = forwardRef(function LeftPanel({ onAddToEncounter }, ref) {
             <SpellList key={spellsSystem} gameSystem={spellsSystem} />
           </>
         )}
-        {activeTab === 'characters' && <CharacterLibrary />}
-        {activeTab === 'encounters' && <EncounterLibrary />}
+        {activeTab === 'characters' && (
+          hasFullAccess ? <CharacterLibrary /> : <SubscriptionGate />
+        )}
+        {activeTab === 'encounters' && (
+          hasFullAccess ? <EncounterLibrary /> : <SubscriptionGate />
+        )}
       </div>
     </div>
   );

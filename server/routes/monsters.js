@@ -1,8 +1,17 @@
 import { Router } from 'express';
 import Monster from '../models/Monster.js';
+import User from '../models/User.js';
+import { DEMO_SLUGS } from '../config/demoMonsters.js';
 import asyncHandler from '../utils/asyncHandler.js';
 
 const router = Router();
+
+async function hasFullAccess(req) {
+  if (!req.session?.userId) return false;
+  const user = await User.findById(req.session.userId).select('subscriptionStatus role').lean();
+  if (!user) return false;
+  return user.role === 'owner' || user.subscriptionStatus === 'active';
+}
 
 /** Helper: parse CR string to numeric */
 function crToNumeric(crStr) {
@@ -53,6 +62,11 @@ router.get('/api/monsters/search', asyncHandler(async (req, res) => {
     filter.isCustom = false;
   }
 
+  const fullAccess = await hasFullAccess(req);
+  if (!fullAccess) {
+    filter.slug = { $in: [...DEMO_SLUGS] };
+  }
+
   const lim = Math.min(parseInt(limit) || 20, 50);
   const sk = Math.max(parseInt(skip) || 0, 0);
 
@@ -79,7 +93,16 @@ router.get('/api/monsters/sources', asyncHandler(async (req, res) => {
     { $sort: { label: 1 } },
   ];
   const sources = await Monster.aggregate(pipeline);
-  res.json(sources.map(s => ({ key: s._id, label: s.label, count: s.count })));
+  const mapped = sources.map(s => ({ key: s._id, label: s.label, count: s.count }));
+
+  const fullAccess = await hasFullAccess(req);
+  if (!fullAccess) {
+    const demoSources = new Set([...DEMO_SLUGS].map(s => s.split('--')[0]));
+    const filtered = mapped.filter(s => demoSources.has(s.key));
+    return res.json(filtered);
+  }
+
+  res.json(mapped);
 }));
 
 /**
@@ -96,6 +119,13 @@ router.get('/api/monsters/:slug', asyncHandler(async (req, res) => {
   if (!monster) {
     return res.status(404).json({ error: 'Monster not found' });
   }
+
+  if (!await hasFullAccess(req)) {
+    if (!DEMO_SLUGS.has(monster.slug)) {
+      return res.status(403).json({ error: 'Full monster library requires a subscription' });
+    }
+  }
+
   res.json(monster);
 }));
 

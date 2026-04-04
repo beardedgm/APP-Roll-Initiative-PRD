@@ -10,7 +10,7 @@ export default function Pricing() {
   const { data: user } = useCurrentUser();
   const checkout = useCreateCheckout();
 
-  const isPremium = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
+  const isFullAccess = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
 
   function handleSubscribe() {
     if (!user) {
@@ -26,61 +26,54 @@ export default function Pricing() {
       <main className="pricing-page">
         <h1 className="pricing-page__title">Choose Your Path</h1>
         <p className="pricing-page__subtitle">
-          A complete D&amp;D encounter tracker and Pathfinder 2e initiative tracker.
-          The free tier gives you everything for local play &mdash; go premium for
-          cloud saves and shared player views.
+          Try the demo free with 20 iconic monsters. Unlock the full library,
+          cloud saves, and sharing with Full Access.
         </p>
 
         <div className="pricing-grid">
-          {/* Free Tier */}
+          {/* Demo Tier */}
           <div className="pricing-card">
-            <h2 className="pricing-card__name">Free</h2>
+            <h2 className="pricing-card__name">Demo</h2>
             <div className="pricing-card__price">
               <span className="pricing-card__amount">$0</span>
               <span className="pricing-card__period">forever</span>
             </div>
             <ul className="pricing-card__features">
-              <li>Full initiative tracker (5e &amp; PF2e)</li>
-              <li>Add unlimited combatants</li>
-              <li>Dice roller with advantage</li>
-              <li>5,700+ monsters from official SRDs</li>
-              <li>3,600+ spells with full descriptions</li>
-              <li>Full stat blocks with clickable dice</li>
-              <li>Clickable spell names in stat blocks</li>
-              <li>Custom monster creation</li>
-              <li>Character library</li>
-              <li>JSON export/import</li>
-              <li>Local encounter saves</li>
-              <li>Local player view (same device)</li>
-              <li>Undo/redo</li>
-              <li>Drag-and-drop reorder</li>
+              <li>Initiative tracker (5e &amp; PF2e)</li>
+              <li>20 demo monsters (10 D&amp;D 5e, 10 PF2e)</li>
+              <li>All 3,600+ spells with full descriptions</li>
+              <li>Built-in dice roller</li>
+              <li>Local player view</li>
+              <li>Undo/redo &amp; drag-and-drop</li>
             </ul>
             <button
               className="btn btn--outline pricing-card__cta"
               onClick={() => navigate('/tracker')}
             >
-              Launch Tracker
+              Try the Demo
             </button>
           </div>
 
-          {/* Premium Tier */}
+          {/* Full Access Tier */}
           <div className="pricing-card pricing-card--featured">
             <div className="pricing-card__badge">Most Popular</div>
-            <h2 className="pricing-card__name">Premium</h2>
+            <h2 className="pricing-card__name">Full Access</h2>
             <div className="pricing-card__price">
               <span className="pricing-card__amount">$6</span>
               <span className="pricing-card__period">/month</span>
             </div>
             <ul className="pricing-card__features">
-              <li>Everything in Free, plus:</li>
+              <li>Everything in Demo, plus:</li>
+              <li>All 5,700+ monsters from official SRDs</li>
+              <li>Custom monster creation &amp; import</li>
+              <li>Character library</li>
               <li>Cloud encounter saves</li>
               <li>Cross-device sync</li>
               <li>Shareable player view links</li>
               <li>Encounter dashboard</li>
-              <li>Auto-sync on changes</li>
               <li>Priority support</li>
             </ul>
-            {isPremium ? (
+            {isFullAccess ? (
               <button className="btn btn--primary pricing-card__cta" disabled>
                 Current Plan
               </button>
