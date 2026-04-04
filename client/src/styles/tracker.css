@@ -970,6 +970,69 @@ body.is-resizing .resize-handle::after {
   line-height: 1.55;
 }
 
+/* ── Share Link Modal ──────────────────────────────────────── */
+.share-modal__message {
+  color: var(--color-text-muted);
+  font-size: 0.88rem;
+  line-height: 1.55;
+  margin-bottom: var(--space-md);
+}
+
+.share-modal__generate {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.share-modal__generate .btn {
+  align-self: flex-start;
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+}
+
+.share-modal__active {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.share-modal__url-row {
+  display: flex;
+  gap: var(--space-xs);
+}
+
+.share-modal__url {
+  flex: 1;
+  padding: var(--space-xs) var(--space-sm);
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  color: var(--color-text);
+  font-size: 0.85rem;
+  font-family: monospace;
+}
+
+.share-modal__copy-btn {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  white-space: nowrap;
+}
+
+.share-modal__unshare-btn {
+  align-self: flex-start;
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
+.share-modal__unshare-btn:hover {
+  color: var(--color-accent-red);
+}
+
 /* ── Start Combat Modal Rows ────────────────────────────────── */
 .start-combat-rows { display: flex; flex-direction: column; gap: var(--space-sm); }
 

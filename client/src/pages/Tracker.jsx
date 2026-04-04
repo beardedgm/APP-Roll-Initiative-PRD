@@ -13,6 +13,7 @@ import RightPanel from '../components/tracker/RightPanel';
 import StartCombatModal from '../components/tracker/StartCombatModal';
 import StatBlockModal from '../components/tracker/StatBlockModal';
 import DiceToast from '../components/tracker/DiceToast';
+import ShareLinkModal from '../components/tracker/ShareLinkModal';
 import ImportMonsterModal from '../components/monsters/ImportMonsterModal';
 import MonsterFormModal from '../components/monsters/MonsterFormModal';
 import { migrateLocalStorageToStore } from '../utils/migrateLocalStorage';
@@ -213,6 +214,7 @@ export default function Tracker() {
         onAddToEncounter={handleAddMonster}
         onRollDice={handleStatBlockRoll}
       />
+      <ShareLinkModal />
       <ImportMonsterModal />
       <MonsterFormModal />
       <DiceToast />

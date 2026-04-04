@@ -1,9 +1,10 @@
 import { useState } from 'react';
-import { Swords, Undo2, Redo2, Monitor, Trash2, User, LogIn } from 'lucide-react';
+import { Swords, Undo2, Redo2, Monitor, Share2, Trash2, User, LogIn } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import useCombatStore from '../../store/useCombatStore';
 import { useShallow } from 'zustand/react/shallow';
 import { useCurrentUser } from '../../api/useAuth';
+import useUIStore from '../../store/useUIStore';
 import SyncIndicator from './SyncIndicator';
 import ProfilePanel from './ProfilePanel';
 
@@ -11,6 +12,7 @@ export default function TrackerHeader() {
   const [profileOpen, setProfileOpen] = useState(false);
   const { data: user } = useCurrentUser();
   const navigate = useNavigate();
+  const openModal = useUIStore(s => s.openModal);
 
   const {
     undoLen, redoLen,
@@ -54,6 +56,11 @@ export default function TrackerHeader() {
         <button className="btn btn--icon" onClick={handleOpenPlayerView} title="Open player view">
           <Monitor size={16} />
         </button>
+        {user && (
+          <button className="btn btn--icon" onClick={() => openModal('share-link')} title="Share player view link">
+            <Share2 size={16} />
+          </button>
+        )}
         <button className="btn btn--icon btn--icon-danger" onClick={handleReset} title="Reset encounter">
           <Trash2 size={16} />
         </button>
