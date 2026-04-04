@@ -48,19 +48,34 @@ const useUserDataStore = create(
       },
 
       // ── Custom Monsters ────────────────────────────
-      addCustomMonster: (monster) => {
+
+      /** Check if a custom monster with this name already exists (case-insensitive). */
+      findCustomMonsterByName: (name) => {
+        const trimmed = name.trim().toLowerCase();
+        return useUserDataStore.getState().customMonsters.find(
+          m => m.name.trim().toLowerCase() === trimmed
+        ) || null;
+      },
+
+      /** Add a new custom monster. If overwriteSlug is provided, replaces that monster instead. */
+      addCustomMonster: (monster, overwriteSlug) => {
         const now = new Date().toISOString();
-        const slug = monster.slug || `custom-${monster.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}-${Math.random().toString(36).slice(2, 8)}`;
+        const slug = overwriteSlug || monster.slug || `custom-${monster.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}-${Math.random().toString(36).slice(2, 8)}`;
         set(s => ({
-          customMonsters: [...s.customMonsters, {
-            ...monster,
-            slug,
-            isCustom: true,
-            sourceKey: 'custom',
-            source: 'Custom',
-            createdAt: now,
-            updatedAt: now,
-          }],
+          customMonsters: [
+            ...s.customMonsters.filter(m => m.slug !== (overwriteSlug || '')),
+            {
+              ...monster,
+              slug,
+              isCustom: true,
+              sourceKey: 'custom',
+              source: 'Custom',
+              createdAt: overwriteSlug
+                ? (s.customMonsters.find(m => m.slug === overwriteSlug)?.createdAt || now)
+                : now,
+              updatedAt: now,
+            },
+          ],
         }));
       },
 

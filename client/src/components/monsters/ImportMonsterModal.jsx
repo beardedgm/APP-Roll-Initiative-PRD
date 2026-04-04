@@ -7,6 +7,7 @@ import { parseMonsterJSON, validateMonsterData, MONSTER_JSON_TEMPLATE, PF2E_MONS
 export default function ImportMonsterModal() {
   const closeModal = useUIStore(s => s.closeModal);
   const addCustomMonster = useUserDataStore(s => s.addCustomMonster);
+  const findCustomMonsterByName = useUserDataStore(s => s.findCustomMonsterByName);
 
   const modalData = useUIStore(s => s.modalData);
   // Track user override separately; reset when modalData changes
@@ -91,7 +92,16 @@ export default function ImportMonsterModal() {
     if (!parsed) return;
     setSaving(true);
     try {
-      addCustomMonster(parsed);
+      const existing = findCustomMonsterByName(parsed.name);
+      if (existing) {
+        const overwrite = window.confirm(
+          `A custom creature named "${existing.name}" already exists. Do you want to overwrite it?`
+        );
+        if (!overwrite) { setSaving(false); return; }
+        addCustomMonster(parsed, existing.slug);
+      } else {
+        addCustomMonster(parsed);
+      }
       reset();
       closeModal();
     } catch (err) {

@@ -16,6 +16,7 @@ export default function MonsterFormModal({ editMonster: editMonsterProp }) {
   const modalData = useUIStore(s => s.modalData);
   const addCustomMonster = useUserDataStore(s => s.addCustomMonster);
   const updateCustomMonster = useUserDataStore(s => s.updateCustomMonster);
+  const findCustomMonsterByName = useUserDataStore(s => s.findCustomMonsterByName);
 
   const editMonster = editMonsterProp || editMonsterStore;
   const isEdit = !!editMonster;
@@ -81,14 +82,24 @@ export default function MonsterFormModal({ editMonster: editMonsterProp }) {
       if (isEdit && editMonster?.slug) {
         updateCustomMonster(editMonster.slug, payload);
       } else {
-        addCustomMonster(payload);
+        // Check for existing custom monster with same name
+        const existing = findCustomMonsterByName(form.name);
+        if (existing) {
+          const overwrite = window.confirm(
+            `A custom creature named "${existing.name}" already exists. Do you want to overwrite it?`
+          );
+          if (!overwrite) { setSaving(false); return; }
+          addCustomMonster(payload, existing.slug);
+        } else {
+          addCustomMonster(payload);
+        }
       }
       closeModal();
     } catch (err) {
       setError(err.message || 'Save failed');
       setSaving(false);
     }
-  }, [form, isPf2e, isEdit, editMonster, addCustomMonster, updateCustomMonster, closeModal]);
+  }, [form, isPf2e, isEdit, editMonster, addCustomMonster, updateCustomMonster, findCustomMonsterByName, closeModal]);
 
   const modalTitle = isEdit
     ? `Edit ${form.name || (isPf2e ? 'Creature' : 'Monster')}`
