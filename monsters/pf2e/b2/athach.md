@@ -11,6 +11,8 @@ ce, huge, giant, humanoid
 
 **Skills** Athletics +25, Intimidation +21
 
+**Recall Knowledge - Humanoid** (Society): DC 30
+
 **STR** +7, **DEX** +3, **CON** +7, **INT** -1, **WIS** +4, **CHA** +3
 
 ---
@@ -31,13 +33,13 @@ ce, huge, giant, humanoid
 
 Speed 40 feet
 
-**Melee** ◆ fist +25 (reach <10 feet>); **Damage** 3d12+13 bludgeoning
+**Melee** ◆ fist +25/+20/+15 (reach <10 feet>); **Damage** 3d12+13 bludgeoning
 
-**Melee** ◆ jaws +25; **Damage** 3d8+13 piercing plus athach venom plus athach venom
+**Melee** ◆ jaws +25/+20/+15; **Damage** 3d8+13 piercing plus athach venom plus athach venom
 
-**Melee** ◆ claw +25 (agile); **Damage** 3d8+13 slashing
+**Melee** ◆ claw +25/+21/+17 (agile); **Damage** 3d8+13 slashing
 
-**Ranged** ◆ rock +25 (brutal, range increment <120 feet>); **Damage** 3d8+13 bludgeoning
+**Ranged** ◆ rock +25/+20/+15 (brutal, range increment <120 feet>); **Damage** 3d8+13 bludgeoning
 
 **Athach Venom** (poison)
 

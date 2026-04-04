@@ -11,6 +11,8 @@ ne, medium, incorporeal, undead
 
 **Skills** Arcana +20, Deception +22, Nature +24, Survival +22
 
+**Recall Knowledge - Undead** (Religion): DC 28
+
 **STR** -5, **DEX** +7, **CON** +3, **INT** +5, **WIS** +5, **CHA** +7
 
 **Bound** Bhutas are bound to a natural area or feature where they died and must remain within 120 feet of that anchor. A bhuta can only leave if invited to travel with living companions, an invitation bhutas often seek to obtain via trickery. While traveling, the bhuta must remain within 120 feet of at least one of the living creatures who invited them. If all members of the group die, the bhuta must return to their bound area by midnight the same day or be destroyed.
@@ -35,9 +37,9 @@ ne, medium, incorporeal, undead
 
 Speed fly 30 feet
 
-**Melee** ◆ fangs +24 (finesse, magical); **Damage** 2d12+13 piercing plus 1d8 persistent bleed
+**Melee** ◆ fangs +24/+19/+14 (finesse, magical); **Damage** 2d12+13 piercing plus 1d8 persistent bleed
 
-**Melee** ◆ claw +24 (agile, finesse, magical); **Damage** 2d10+13 slashing
+**Melee** ◆ claw +24/+20/+16 (agile, finesse, magical); **Damage** 2d10+13 slashing
 
 **Innate primal Spells** (DC 30), attack +22
 

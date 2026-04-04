@@ -9,6 +9,8 @@ n, large, animal
 
 **Skills** Athletics +7, Intimidation +5, Survival +4
 
+**Recall Knowledge - Animal** (Nature): DC 15
+
 **STR** +4, **DEX** +3, **CON** +4, **INT** -5, **WIS** +1, **CHA** +2
 
 ---
@@ -25,6 +27,6 @@ n, large, animal
 
 Speed 30 feet
 
-**Melee** ◆ horn +7; **Damage** 1d6+4 piercing
+**Melee** ◆ horn +7/+2/-3; **Damage** 1d6+4 piercing
 
-**Melee** ◆ hoof +7 (agile); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ hoof +7/+3/-1 (agile); **Damage** 1d4+4 bludgeoning

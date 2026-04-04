@@ -9,6 +9,8 @@ ce, medium, humanoid, orc
 
 **Skills** Athletics +8, Intimidation +6, Survival +5
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +4, **DEX** +2, **CON** +1, **INT** -1, **WIS** +1, **CHA** +2
 
 **Items** hide armor, javelin (6), maul
@@ -27,10 +29,10 @@ ce, medium, humanoid, orc
 
 Speed 25 feet
 
-**Melee** ◆ maul +10 (shove); **Damage** 1d12 + 4 bludgeoning
+**Melee** ◆ maul +10/+5/+0 (shove); **Damage** 1d12 + 4 bludgeoning
 
-**Melee** ◆ fist +10 (agile, nonlethal); **Damage** 1d4 + 4 bludgeoning
+**Melee** ◆ fist +10/+6/+2 (agile, nonlethal); **Damage** 1d4 + 4 bludgeoning
 
-**Ranged** ◆ javelin +8 (thrown <30 feet>); **Damage** 1d6 + 4 piercing
+**Ranged** ◆ javelin +8/+3/-2 (thrown <30 feet>); **Damage** 1d6 + 4 piercing
 
 **Battle Cry** ◆ (concentrate, mental) Bellowing mightily, the commander gives themself and all orc allies within 60 feet who can hear them a +1 status bonus to attack rolls and damage rolls until the start of the orc commander's next turn.

@@ -11,6 +11,8 @@ n, medium, ghost, incorporeal, spirit
 
 **Skills** Arcana +40, Diplomacy +36, Occultism +40, Religion +36, Stealth +34
 
+**Recall Knowledge - Spirit** (Religion): DC 42
+
 **STR** -5, **DEX** +10, **CON** +0, **INT** +10, **WIS** +7, **CHA** +8
 
 **Site Bound**
@@ -33,7 +35,7 @@ n, medium, ghost, incorporeal, spirit
 
 Speed fly 25 feet
 
-**Melee** ◆ ghostly hand +39 (agile, finesse, magical); **Damage** 8d8+8 negative
+**Melee** ◆ ghostly hand +39/+35/+31 (agile, finesse, magical); **Damage** 8d8+8 negative
 
 **Innate arcane Spells** (DC 44), attack +39
 

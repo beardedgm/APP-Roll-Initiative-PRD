@@ -11,6 +11,8 @@ uncommon, ce, medium, humanoid, xulgath
 
 **Skills** Athletics +19, Intimidation +18, Survival +18, Cave Lore +15
 
+**Recall Knowledge - Humanoid** (Society): DC 26
+
 **STR** +5, **DEX** +2, **CON** +6, **INT** +1, **WIS** +2, **CHA** +2
 
 ---
@@ -29,11 +31,11 @@ uncommon, ce, medium, humanoid, xulgath
 
 Speed 20 feet, burrow 10 feet
 
-**Melee** ◆ digging bar +18 (fatal <d12>, forceful, versatile <B>); **Damage** 2d10+9 piercing
+**Melee** ◆ digging bar +18/+13/+8 (fatal <d12>, forceful, versatile <B>); **Damage** 2d10+9 piercing
 
-**Melee** ◆ jaws +21; **Damage** 2d8+9 piercing
+**Melee** ◆ jaws +21/+16/+11; **Damage** 2d8+9 piercing
 
-**Melee** ◆ claw +19 (agile); **Damage** 2d6+9 slashing plus Grab plus Grab
+**Melee** ◆ claw +19/+15/+11 (agile); **Damage** 2d6+9 slashing plus Grab plus Grab
 
 **Innate primal Spells** (DC 26)
 

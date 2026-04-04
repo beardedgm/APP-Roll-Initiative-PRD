@@ -11,6 +11,8 @@ cn, large, aberration
 
 **Skills** Deception +14, Religion +12, Stealth +14
 
+**Recall Knowledge - Aberration** (Occultism): DC 20
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** +2, **WIS** +3, **CHA** +1
 
 **Shadow Shift** Cloakers are concealed in dim light even to creatures with low-light vision and darkvision.
@@ -27,9 +29,9 @@ cn, large, aberration
 
 Speed 10 feet, fly 30 feet
 
-**Melee** ◆ jaws +14; **Damage** 1d10+7 piercing
+**Melee** ◆ jaws +14/+9/+4; **Damage** 1d10+7 piercing
 
-**Melee** ◆ tail +14 (agile, reach <10 feet>); **Damage** 2d6+7 slashing
+**Melee** ◆ tail +14/+10/+6 (agile, reach <10 feet>); **Damage** 2d6+7 slashing
 
 **Envelop** ◆ (attack, incapacitation) The cloaker makes an attack roll with a +14 bonus against an adjacent creature's Reflex DC. If it succeeds, it envelops the target, who is restrained. Attacks that hit an enveloping cloaker deal half their damage to the cloaker and half to the trapped victim. The cloaker can't Fly, and when it moves using its land Speed it moves the enveloped creature with it. The cloaker can make only jaws Strikes against the restrained creature but can make tail Strikes against other creatures. A creature that voluntarily puts on the cloaker becomes engulfed automatically. A cloaker can engulf only Large or smaller creatures, and no more than one creature at a time.
 

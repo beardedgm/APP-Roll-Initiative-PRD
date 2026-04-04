@@ -11,6 +11,8 @@ uncommon, large, metal, undead, unholy
 
 **Skills** Athletics +13, Intimidation +12, Mercantile Lore +12, Stealth +10
 
+**Recall Knowledge - Undead** (Religion): DC 22
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** +0, **WIS** +1, **CHA** +4
 
 ---
@@ -33,7 +35,7 @@ uncommon, large, metal, undead, unholy
 
 Speed 25 feet
 
-**Melee** ◆ fist +15 (reach <10 feet>); **Damage** 2d6+5 bludgeoning plus Grab
+**Melee** ◆ fist +15/+10/+5 (reach <10 feet>); **Damage** 2d6+5 bludgeoning plus Grab
 
 **Fetters of Debt** ◆◆ (auditory, curse, linguistic, mental, occult) **Frequency** {"number":1,"interval":10,"unit":"minute"}; The aurosrath bellows a plea for gold, remarking that their foes are overladen. Creatures in a 15-foot emanation must succeed at a DC 19 Will save or become encumbered|PC1 for 1 minute. The creature is aware that it can immediately end the condition by giving the aurosrath items or treasure worth at least 20 gp. Handing a held item to the aurosrath is a single Interact|PC1 action. If the aurosrath's hands are full, the item falls in their space, but the condition still ends.
 

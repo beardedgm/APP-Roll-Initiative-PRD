@@ -11,6 +11,8 @@ ln, tiny, aeon, inevitable, monitor
 
 **Skills** Acrobatics +9, Diplomacy +6, Stealth +9, Axis Lore +5
 
+**Recall Knowledge - Monitor** (Religion): DC 15
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** +1
 
 **Items** shortsword
@@ -33,7 +35,7 @@ ln, tiny, aeon, inevitable, monitor
 
 Speed 20 feet, fly 40 feet
 
-**Melee** ◆ shortsword +9 (agile, finesse, lawful, magical, versatile <S>); **Damage** 1d6+1 piercing plus 1d4 lawful
+**Melee** ◆ shortsword +9/+5/+1 (agile, finesse, lawful, magical, versatile <S>); **Damage** 1d6+1 piercing plus 1d4 lawful
 
 **Innate divine Spells** (DC 17)
 

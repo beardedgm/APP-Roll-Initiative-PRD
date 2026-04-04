@@ -11,6 +11,8 @@ uncommon, cn, medium, fey
 
 **Skills** Acrobatics +17, Nature +17, Survival +19
 
+**Recall Knowledge - Fey** (Nature): DC 30
+
 **STR** +3, **DEX** +6, **CON** +5, **INT** +3, **WIS** +6, **CHA** +5
 
 **Scent Curse** The imprecasia can smell the presence of curses of a level equal to or lower than their own level within 30 feet; this is an imprecise sense.
@@ -35,7 +37,7 @@ uncommon, cn, medium, fey
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ claws +23 (agile, finesse, magical); **Damage** 2d12+9 slashing plus homeland's hostility plus Homeland's Hostility
+**Melee** ◆ claws +23/+19/+15 (agile, finesse, magical); **Damage** 2d12+9 slashing plus homeland's hostility plus Homeland's Hostility
 
 **Innate primal Spells** (DC 32), attack +22
 

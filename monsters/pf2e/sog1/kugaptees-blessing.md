@@ -9,6 +9,8 @@ rare, ne, medium, mindless, undead, zombie
 
 **Skills** Athletics +9
 
+**Recall Knowledge - Undead** (Religion): DC 21
+
 **STR** +5, **DEX** -3, **CON** +4, **INT** -5, **WIS** +0, **CHA** -2
 
 **Slow** The Kugaptee's Blessing is permanently slowed 1 and can't use reactions.
@@ -29,4 +31,4 @@ rare, ne, medium, mindless, undead, zombie
 
 Speed 25 feet
 
-**Melee** ◆ fist +11 (reach <10 feet>); **Damage** 1d12+5 bludgeoning plus Improved Push 5 feet
+**Melee** ◆ fist +11/+6/+1 (reach <10 feet>); **Damage** 1d12+5 bludgeoning plus Improved Push 5 feet

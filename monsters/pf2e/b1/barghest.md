@@ -11,6 +11,8 @@ ce, medium, fiend
 
 **Skills** Acrobatics +10, Deception +12, Diplomacy +9, Intimidation +11, Stealth +10, Survival +8
 
+**Recall Knowledge - Fiend** (Religion): DC 19
+
 **STR** +5, **DEX** +2, **CON** +3, **INT** +2, **WIS** +2, **CHA** +3
 
 ---
@@ -29,9 +31,9 @@ ce, medium, fiend
 
 Speed 25 feet
 
-**Melee** ◆ jaws +13; **Damage** 2d8+5 piercing
+**Melee** ◆ jaws +13/+8/+3; **Damage** 2d8+5 piercing
 
-**Melee** ◆ claw +13 (agile); **Damage** 2d6+5 slashing
+**Melee** ◆ claw +13/+9/+5 (agile); **Damage** 2d6+5 slashing
 
 **Innate divine Spells** (DC 21)
 

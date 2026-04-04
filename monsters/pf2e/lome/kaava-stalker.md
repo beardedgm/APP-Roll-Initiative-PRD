@@ -11,6 +11,8 @@ n, small, humanoid
 
 **Skills** Acrobatics +7, Athletics +6, Intimidation +5, Stealth +9, Survival +7
 
+**Recall Knowledge - Humanoid** (Society): DC 15
+
 **STR** +3, **DEX** +4, **CON** +0, **INT** +0, **WIS** +2, **CHA** +0
 
 **Items** obsidian sickle, spear (3)
@@ -31,10 +33,10 @@ n, small, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ sickle +9 (agile, finesse, trip); **Damage** 1d4+3 slashing
+**Melee** ◆ sickle +9/+5/+1 (agile, finesse, trip); **Damage** 1d4+3 slashing
 
-**Melee** ◆ jaws +8; **Damage** 1d6+3 piercing
+**Melee** ◆ jaws +8/+3/-2; **Damage** 1d6+3 piercing
 
-**Ranged** ◆ spear +9 (thrown <20 feet>); **Damage** 1d6+3 piercing
+**Ranged** ◆ spear +9/+4/-1 (thrown <20 feet>); **Damage** 1d6+3 piercing
 
 **Skulking Attack** If a kaava stalker starts their turn hidden from or undetected by a creature, that creature is flat-footed against the kaava's attacks until the end of the turn.

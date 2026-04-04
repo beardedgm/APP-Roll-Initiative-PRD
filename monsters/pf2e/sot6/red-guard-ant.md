@@ -11,6 +11,8 @@ rare, n, large, beast
 
 **Skills** Athletics +31, Intimidation +27, Survival +27
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 39
+
 **STR** +8, **DEX** +4, **CON** +6, **INT** -2, **WIS** +6, **CHA** +4
 
 ---
@@ -27,9 +29,9 @@ rare, n, large, beast
 
 Speed 40 feet, climb 20 feet
 
-**Melee** ◆ mandibles +30; **Damage** 3d10+14 slashing plus
+**Melee** ◆ mandibles +30/+25/+20; **Damage** 3d10+14 slashing plus
 
-**Melee** ◆ stinger +30 (agile); **Damage** 3d6+14 piercing plus red ant venom
+**Melee** ◆ stinger +30/+26/+22 (agile); **Damage** 3d6+14 piercing plus red ant venom
 
 **Grab**
 

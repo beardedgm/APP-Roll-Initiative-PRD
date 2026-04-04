@@ -11,6 +11,8 @@ ce, medium, humanoid, xulgath
 
 **Skills** Acrobatics +15, Arcana +12, Athletics +13, Deception +15, Intimidation +17, Society +9, Survival +12
 
+**Recall Knowledge - Humanoid** (Society): DC 23
+
 **STR** +1, **DEX** +2, **CON** +1, **INT** +0, **WIS** +1, **CHA** +5
 
 **Items** +1 light mace
@@ -31,11 +33,11 @@ ce, medium, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** ◆ light mace +15 (agile, magical, shove); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ light mace +15/+11/+7 (agile, magical, shove); **Damage** 1d4+4 bludgeoning
 
-**Melee** ◆ jaws +14; **Damage** 1d8+2 piercing
+**Melee** ◆ jaws +14/+9/+4; **Damage** 1d8+2 piercing
 
-**Melee** ◆ claw +14 (agile); **Damage** 2d6+2 slashing
+**Melee** ◆ claw +14/+10/+6 (agile); **Damage** 2d6+2 slashing
 
 **Spontaneous arcane Spells** (DC 26), attack +18
 

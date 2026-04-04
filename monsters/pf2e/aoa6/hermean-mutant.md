@@ -9,6 +9,8 @@ rare, le, medium, aberration, mutant
 
 **Skills** Athletics +37
 
+**Recall Knowledge - Aberration** (Occultism): DC 44
+
 **STR** +10, **DEX** +0, **CON** +9, **INT** -3, **WIS** +3, **CHA** -4
 
 ---
@@ -23,7 +25,7 @@ rare, le, medium, aberration, mutant
 
 Speed 30 feet
 
-**Melee** ◆ fist +36 (agile, reach <10 feet>); **Damage** 6d8+10 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +36/+32/+28 (agile, reach <10 feet>); **Damage** 6d8+10 bludgeoning plus Grab plus Grab
 
 **Constrict** ◆ 4d8+10 bludgeoning, DC 41
 

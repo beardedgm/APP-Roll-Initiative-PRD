@@ -9,6 +9,8 @@ n, medium, mindless, ooze
 
 **Skills** Athletics +23
 
+**Recall Knowledge - Ooze** (Occultism): DC 28
+
 **STR** +6, **DEX** -5, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 **Motion Sense** A tallow ooze can sense nearby motion through vibration and air movement.
@@ -35,7 +37,7 @@ n, medium, mindless, ooze
 
 Speed 20 feet, swim 20 feet
 
-**Melee** ◆ pseudopod +23; **Damage** 2d10+10 bludgeoning plus residual grease plus residual grease
+**Melee** ◆ pseudopod +23/+18/+13; **Damage** 2d10+10 bludgeoning plus residual grease plus residual grease
 
 **Engulf** ◆◆ DC 30, 4d10 bludgeoning, Escape DC 26, Rupture 25.
 

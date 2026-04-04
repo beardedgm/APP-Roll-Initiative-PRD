@@ -9,6 +9,8 @@ uncommon, n, medium, clockwork, construct, mindless
 
 **Skills** Athletics +18, Deception +12, Stealth +20
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 28
+
 **STR** +5, **DEX** +6, **CON** +3, **INT** -5, **WIS** +2, **CHA** -5
 
 **Items** +1 striking scimitar
@@ -33,9 +35,9 @@ uncommon, n, medium, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** ◆ scimitar +21 (forceful, magical, sweep); **Damage** 2d6+11 slashing
+**Melee** ◆ scimitar +21/+16/+11 (forceful, magical, sweep); **Damage** 2d6+11 slashing
 
-**Ranged** ◆ arm gun +21 (concussive, magical, range <40 feet>, reload <1>, scatter <10 feet>); **Damage** 2d8+6 piercing
+**Ranged** ◆ arm gun +21/+16/+11 (concussive, magical, range <40 feet>, reload <1>, scatter <10 feet>); **Damage** 2d8+6 piercing
 
 **Firearms Critical Specialization** When the buccaneer makes a critical hit with a firearm, the target must succeed at a DC 28 Fortitude save or be stunned 1.
 

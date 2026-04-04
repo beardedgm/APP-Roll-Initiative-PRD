@@ -11,6 +11,8 @@ le, medium, human, humanoid, tiefling
 
 **Skills** Arcana +30, Crafting +27, Intimidation +25, Occultism +27
 
+**Recall Knowledge - Humanoid** (Society): DC 34
+
 **STR** +3, **DEX** +6, **CON** +4, **INT** +5, **WIS** +4, **CHA** +7
 
 **Items** +2 striking dagger, greater healing potion, wand of crushing despair
@@ -29,7 +31,7 @@ le, medium, human, humanoid, tiefling
 
 Speed 25 feet
 
-**Melee** ◆ dagger +30 (agile, finesse, versatile <P>); **Damage** 2d4+9 slashing
+**Melee** ◆ dagger +30/+26/+22 (agile, finesse, versatile <P>); **Damage** 2d4+9 slashing
 
 **Prepared arcane Spells** (DC 36), attack +30
 

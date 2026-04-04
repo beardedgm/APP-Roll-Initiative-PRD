@@ -11,6 +11,8 @@ rare, ne, huge, fiend
 
 **Skills** Athletics +34, Intimidation +33, Occultism +29, Religion +32, Stealth +35
 
+**Recall Knowledge - Fiend** (Religion): DC 43
+
 **STR** +8, **DEX** +7, **CON** +9, **INT** +3, **WIS** +6, **CHA** +7
 
 ---
@@ -29,11 +31,11 @@ rare, ne, huge, fiend
 
 Speed 50 feet, burrow 30 feet
 
-**Melee** ◆ claw +32 (agile, reach <10 feet>); **Damage** 3d8+16 slashing plus wasting wound plus wasting wound
+**Melee** ◆ claw +32/+28/+24 (agile, reach <10 feet>); **Damage** 3d8+16 slashing plus wasting wound plus wasting wound
 
-**Melee** ◆ foot +30 (deadly <d10>); **Damage** 4d8+12 plus stunned|CRB|stunned 1 (DC 38 Fortitude negates) plus 4d8+12, stunned|CRB|stunned 1 (DC 38 Fortitude negates)
+**Melee** ◆ foot +30/+25/+20 (deadly <d10>); **Damage** 4d8+12 plus stunned|CRB|stunned 1 (DC 38 Fortitude negates) plus 4d8+12, stunned|CRB|stunned 1 (DC 38 Fortitude negates)
 
-**Melee** ◆ jaws +32 (reach <15 feet>); **Damage** 3d12+16 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +32/+27/+22 (reach <15 feet>); **Damage** 3d12+16 piercing plus Improved Grab plus Improved Grab
 
 **Innate divine Spells** (DC 37)
 

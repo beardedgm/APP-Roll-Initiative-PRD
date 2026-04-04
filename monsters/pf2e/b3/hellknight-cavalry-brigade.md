@@ -11,6 +11,8 @@ ln, gargantuan, animal, human, humanoid, troop
 
 **Skills** Acrobatics +13, Athletics +18, Intimidation +17, Religion +12, Society +12, Hell Lore +12
 
+**Recall Knowledge - Animal** (Nature, Society): DC 24
+
 **STR** +6, **DEX** +1, **CON** +4, **INT** +2, **WIS** +2, **CHA** +3
 
 ---

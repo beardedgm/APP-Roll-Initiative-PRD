@@ -11,6 +11,8 @@ unique, ce, small, animal, mutant
 
 **Skills** Acrobatics +11, Athletics +13
 
+**Recall Knowledge - Animal** (Nature): DC 29
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** +0, **WIS** +3, **CHA** +0
 
 **Items** +1 striking light pick, studded leather armor
@@ -29,11 +31,11 @@ unique, ce, small, animal, mutant
 
 Speed 20 feet, burrow 10 feet
 
-**Melee** ◆ light pick +13 (agile, fatal <d8>, magical); **Damage** 2d4+7 piercing
+**Melee** ◆ light pick +13/+9/+5 (agile, fatal <d8>, magical); **Damage** 2d4+7 piercing
 
-**Melee** ◆ mandibles +13; **Damage** 1d6+7 slashing plus 1d6 acid
+**Melee** ◆ mandibles +13/+8/+3; **Damage** 1d6+7 slashing plus 1d6 acid
 
-**Melee** ◆ claw +13 (agile); **Damage** 1d6+7 slashing
+**Melee** ◆ claw +13/+9/+5 (agile); **Damage** 1d6+7 slashing
 
 **Innate primal Spells** (DC 19), attack +11
 

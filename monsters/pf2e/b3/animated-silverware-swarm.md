@@ -9,6 +9,8 @@ n, large, construct, mindless, swarm
 
 **Skills** Acrobatics +8
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 15
+
 **STR** +1, **DEX** +3, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
 ---

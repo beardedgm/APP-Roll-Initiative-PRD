@@ -11,6 +11,8 @@ le, medium, amphibious, humanoid, sea devil
 
 **Skills** Athletics +12, Intimidation +9, Survival +9
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +1, **CHA** +0
 
 **Items** trident
@@ -29,13 +31,13 @@ le, medium, amphibious, humanoid, sea devil
 
 Speed 25 feet, swim 35 feet
 
-**Melee** ◆ trident +14; **Damage** 1d8+8 piercing
+**Melee** ◆ trident +14/+9/+4; **Damage** 1d8+8 piercing
 
-**Melee** ◆ claw +14 (agile); **Damage** 1d6+6 slashing
+**Melee** ◆ claw +14/+10/+6 (agile); **Damage** 1d6+6 slashing
 
-**Melee** ◆ jaws +14; **Damage** 1d8+6 piercing
+**Melee** ◆ jaws +14/+9/+4; **Damage** 1d8+6 piercing
 
-**Ranged** ◆ trident +11 (thrown <20 feet>); **Damage** 1d8+8 piercing
+**Ranged** ◆ trident +11/+6/+1 (thrown <20 feet>); **Damage** 1d8+8 piercing
 
 **Blood Frenzy** ◇ (rage) As sea devil scout, 11 temporary HP.
 

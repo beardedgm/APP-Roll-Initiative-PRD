@@ -11,6 +11,8 @@ unique, gargantuan, animal
 
 **Skills** Athletics +16, Diplomacy +18, Medicine +19, Nature +21, Society +18, Soothsaying Lore +23, Survival +19
 
+**Recall Knowledge - Animal** (Nature): DC 36
+
 **STR** +4, **DEX** +0, **CON** +5, **INT** +4, **WIS** +6, **CHA** +4
 
 **Read Nature's Omens** (concentrate, primal) **Frequency** {"number":1,"unit":"day"}; **Requirements** Emorga can see a naturally occurring pattern such as ripples in a pond, a murmuration of birds wheeling across the sky, or a tangle of interwoven vines and flowers; Emorga spends 1 hour contemplating the pattern to receive a brief glimpse of possible futures, optionally posing a question about a specific person, place, or event. She attempts a DC 30 Nature or Soothsaying Lore check. **Critical Success** 
@@ -34,9 +36,9 @@ unique, gargantuan, animal
 
 Speed 10 feet, swim 20 feet
 
-**Melee** ◆ jaws +19; **Damage** 2d10+10 piercing
+**Melee** ◆ jaws +19/+14/+9; **Damage** 2d10+10 piercing
 
-**Melee** ◆ foot +19; **Damage** 2d8+10 bludgeoning
+**Melee** ◆ foot +19/+14/+9; **Damage** 2d8+10 bludgeoning
 
 **Innate primal Spells** (DC 28), attack +20
 

@@ -11,6 +11,8 @@ unique, large, amphibious, giant, humanoid, water
 
 **Skills** Acrobatics +22, Athletics +25, Intimidation +22, Nature +23, Religion +23
 
+**Recall Knowledge - Humanoid** (Society): DC 40
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** +1, **WIS** +5, **CHA** +0
 
 **Items** gorget of the primal roar, +1 leather armor,  (2)
@@ -29,11 +31,11 @@ unique, large, amphibious, giant, humanoid, water
 
 Speed 35 feet, swim 20 feet
 
-**Melee** ◆ sickle +26 (agile, finesse, magical, reach <10 feet>, trip); **Damage** 2d4+13 slashing plus 1d10 poison damage
+**Melee** ◆ sickle +26/+22/+18 (agile, finesse, magical, reach <10 feet>, trip); **Damage** 2d4+13 slashing plus 1d10 poison damage
 
-**Melee** ◆ fist +26 (agile, reach <10 feet>); **Damage** 2d10+13 bludgeoning
+**Melee** ◆ fist +26/+22/+18 (agile, reach <10 feet>); **Damage** 2d10+13 bludgeoning
 
-**Ranged** ◆ spit +26 (primal, range <60 feet>, water); **Damage** 8d6 bludgeoning
+**Ranged** ◆ spit +26/+21/+16 (primal, range <60 feet>, water); **Damage** 8d6 bludgeoning
 
 **Innate occult Spells** (DC 29)
 

@@ -11,6 +11,8 @@ cg, medium, human, humanoid
 
 **Skills** Arcana +7, Occultism +6, Farming Lore +5
 
+**Recall Knowledge - Humanoid** (Society): DC 14
+
 **STR** +0, **DEX** +4, **CON** +0, **INT** +4, **WIS** -1, **CHA** -1
 
 **Items** dagger, spellbook
@@ -27,4 +29,4 @@ cg, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +8 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
+**Melee** ◆ dagger +8/+4/+0 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing

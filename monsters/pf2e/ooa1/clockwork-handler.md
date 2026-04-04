@@ -9,6 +9,8 @@ uncommon, n, medium, clockwork, construct, mindless
 
 **Skills** Athletics +7
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 17
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** -5, **WIS** +3, **CHA** -5
 
 **Items** everburning torch, javelin (4), rope (100 feet)
@@ -37,9 +39,9 @@ uncommon, n, medium, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** ◆ fist +7 (agile, nonlethal, unarmed); **Damage** 1d4+4 bludgeoning plus Grab
+**Melee** ◆ fist +7/+3/-1 (agile, nonlethal, unarmed); **Damage** 1d4+4 bludgeoning plus Grab
 
-**Ranged** ◆ javelin +5 (thrown <30 feet>); **Damage** 1d6+4 piercing
+**Ranged** ◆ javelin +5/+0/-5 (thrown <30 feet>); **Damage** 1d6+4 piercing
 
 **Hog-tie** ◆◆ **Requirements** The clockwork handler has a creature restrained; The clockwork handler cuts a length of rope from the supply in its chassis to tie up the restrained creature. The creature is restrained until it
 

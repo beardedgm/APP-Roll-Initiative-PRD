@@ -11,6 +11,8 @@ ln, medium, aphorite, human, humanoid
 
 **Skills** Acrobatics +10, Athletics +8, Deception +10, Diplomacy +10, Intimidation +10, Engineering Lore +9
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +1, **WIS** +0, **CHA** +2
 
 **Items** breastplate, crossbow (50 bolts), outrageous hat, shortsword
@@ -29,9 +31,9 @@ ln, medium, aphorite, human, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ shortsword +14 (agile, finesse, versatile <S>); **Damage** 1d6+8 piercing
+**Melee** ◆ shortsword +14/+10/+6 (agile, finesse, versatile <S>); **Damage** 1d6+8 piercing
 
-**Ranged** ◆ crossbow +14 (range increment 60, reload <1>); **Damage** 1d8+8 piercing
+**Ranged** ◆ crossbow +14/+9/+4 (range increment 60, reload <1>); **Damage** 1d8+8 piercing
 
 **Innate divine Spells** (DC 18)
 

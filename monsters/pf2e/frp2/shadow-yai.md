@@ -11,6 +11,8 @@ ce, large, fiend, giant, humanoid, oni, shadow
 
 **Skills** Acrobatics +28, Arcana +30, Athletics +30, Deception +33, Intimidation +31, Performance +33, Stealth +30
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 35
+
 **STR** +8, **DEX** +6, **CON** +5, **INT** +6, **WIS** +6, **CHA** +9
 
 **Items** +2 greater striking glaive
@@ -29,11 +31,11 @@ ce, large, fiend, giant, humanoid, oni, shadow
 
 Speed 40 feet, fly 40 feet, Shadow Step
 
-**Melee** ◆ glaive +32 (deadly <2d8>, evil, forceful, magical, reach <15 feet>); **Damage** 3d8+14 slashing plus 2d6 sonic
+**Melee** ◆ glaive +32/+27/+22 (deadly <2d8>, evil, forceful, magical, reach <15 feet>); **Damage** 3d8+14 slashing plus 2d6 sonic
 
-**Melee** ◆ fist +28 (agile, evil, magical, reach <10 feet>); **Damage** 3d8+14 bludgeoning plus shadow touch plus shadow touch
+**Melee** ◆ fist +28/+24/+20 (agile, evil, magical, reach <10 feet>); **Damage** 3d8+14 bludgeoning plus shadow touch plus shadow touch
 
-**Ranged** ◆ sonic missile +30 (evil, sonic, magical, range increment <60 feet>); **Damage** 3d10+11 sonic plus deafened for 1 round
+**Ranged** ◆ sonic missile +30/+25/+20 (evil, sonic, magical, range increment <60 feet>); **Damage** 3d10+11 sonic plus deafened for 1 round
 
 **Innate primal Spells** (DC 37)
 

@@ -11,6 +11,8 @@ uncommon, le, huge, fiend, velstrac
 
 **Skills** Athletics +31, Deception +30, Intimidation +32, Medicine +30, Religion +30, Survival +28, Torture Lore +29
 
+**Recall Knowledge - Fiend** (Religion): DC 37
+
 **STR** +9, **DEX** +5, **CON** +6, **INT** +5, **WIS** +6, **CHA** +6
 
 **Painsight** (divination, divine) As augur|B2|augur velstrac.
@@ -33,9 +35,9 @@ uncommon, le, huge, fiend, velstrac
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ jaws +33 (evil, magical, reach <15 feet>); **Damage** 3d6+13 piercing plus 2d6 persistent bleed
+**Melee** ◆ jaws +33/+28/+23 (evil, magical, reach <15 feet>); **Damage** 3d6+13 piercing plus 2d6 persistent bleed
 
-**Melee** ◆ chain +33 (disarm, evil, magical, reach <15 feet>, trip); **Damage** 3d6+13 piercing plus 2d6 persistent bleed and Grab
+**Melee** ◆ chain +33/+28/+23 (disarm, evil, magical, reach <15 feet>, trip); **Damage** 3d6+13 piercing plus 2d6 persistent bleed and Grab
 
 **Innate divine Spells** (DC 37)
 

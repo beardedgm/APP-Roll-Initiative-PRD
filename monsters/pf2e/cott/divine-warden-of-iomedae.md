@@ -9,6 +9,8 @@ uncommon, huge, construct, divine, mindless
 
 **Skills** Intimidation +32
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 37
+
 **STR** +0, **DEX** +9, **CON** +6, **INT** -5, **WIS** +4, **CHA** -5
 
 **Items** longsword|PC1
@@ -36,7 +38,7 @@ uncommon, huge, construct, divine, mindless
 
 Speed 25 feet
 
-**Melee** ◆ greater striking longsword +33 (magical, versatile <P>); **Damage** 3d8+19 slashing
+**Melee** ◆ greater striking longsword +33/+28/+23 (magical, versatile <P>); **Damage** 3d8+19 slashing
 
 **Innate divine Spells** (DC 37), attack +29
 

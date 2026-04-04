@@ -9,6 +9,8 @@ n, medium, animal
 
 **Skills** Acrobatics +5, Athletics +7, Survival +5
 
+**Recall Knowledge - Animal** (Nature): DC 15
+
 **STR** +2, **DEX** +2, **CON** +2, **INT** -4, **WIS** +2, **CHA** -1
 
 ---

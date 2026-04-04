@@ -11,6 +11,8 @@ large, fey
 
 **Skills** Athletics +14, Intimidation +12, Warfare Lore +22
 
+**Recall Knowledge - Fey** (Nature): DC 20
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** -2, **WIS** +2, **CHA** +0
 
 **Items** greataxe, sack with 5 rocks
@@ -35,11 +37,11 @@ large, fey
 
 Speed 25 feet
 
-**Melee** ◆ greataxe +15 (reach <10 feet>, sweep); **Damage** 1d12+8 slashing
+**Melee** ◆ greataxe +15/+10/+5 (reach <10 feet>, sweep); **Damage** 1d12+8 slashing
 
-**Melee** ◆ fist +15 (agile, reach <10 feet>); **Damage** 1d8+8 bludgeoning
+**Melee** ◆ fist +15/+11/+7 (agile, reach <10 feet>); **Damage** 1d8+8 bludgeoning
 
-**Ranged** ◆ rock +13 (brutal, range increment <120 feet>); **Damage** 2d6+8 bludgeoning
+**Ranged** ◆ rock +13/+8/+3 (brutal, range increment <120 feet>); **Damage** 2d6+8 bludgeoning
 
 **Sudden Charge** ◆◆ The ohancanu strides twice. If they end their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy.
 

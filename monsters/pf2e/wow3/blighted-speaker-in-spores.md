@@ -11,6 +11,8 @@ rare, large, fungus, mutant
 
 **Skills** Acrobatics +22, Athletics +24, Intimidation +21, Nature +27, Survival +27
 
+**Recall Knowledge - Fungus** (Nature): DC 36
+
 **STR** +7, **DEX** +3, **CON** +4, **INT** -2, **WIS** +8, **CHA** +2
 
 **Shaped Tongue** The speaker in spores can speak with all plants and the creature they resemble.
@@ -41,7 +43,7 @@ rare, large, fungus, mutant
 
 Speed 40 feet, fly
 
-**Melee** ◆ tendril +28 (reach <10 feet>); **Damage** 3d10+13 bludgeoning plus 1d6 persistent poison
+**Melee** ◆ tendril +28/+23/+18 (reach <10 feet>); **Damage** 3d10+13 bludgeoning plus 1d6 persistent poison
 
 **Innate primal Spells** (DC 33)
 

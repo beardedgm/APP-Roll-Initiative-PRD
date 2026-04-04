@@ -11,6 +11,8 @@ unique, ce, medium, amphibious, boggard, humanoid
 
 **Skills** Athletics +17, Deception +16, Intimidation +18, Nature +18, Religion +18
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +4, **DEX** +0, **CON** +2, **INT** +0, **WIS** +5, **CHA** +3
 
 **Items** bag of dead dragonflies, leather armor, sickle
@@ -27,9 +29,9 @@ unique, ce, medium, amphibious, boggard, humanoid
 
 Speed 20 feet, swim 25 feet, swamp stride
 
-**Melee** ◆ sickle +20 (agile, trip); **Damage** 1d4+6 slashing
+**Melee** ◆ sickle +20/+16/+12 (agile, trip); **Damage** 1d4+6 slashing
 
-**Melee** ◆ tongue +20 (reach <10 feet>); **Damage** 1d4+6 bludgeoning and Tongue Grab
+**Melee** ◆ tongue +20/+15/+10 (reach <10 feet>); **Damage** 1d4+6 bludgeoning and Tongue Grab
 
 **Spontaneous primal Spells** (DC 28), attack +20
 

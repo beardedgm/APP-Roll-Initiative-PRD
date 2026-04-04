@@ -11,6 +11,8 @@ unique, le, small, fiend, velstrac
 
 **Skills** Acrobatics +32, Athletics +30, Crafting +31, Thievery +30, Torture Lore +29
 
+**Recall Knowledge - Fiend** (Religion): DC 45
+
 **STR** +6, **DEX** +8, **CON** +6, **INT** +5, **WIS** +3, **CHA** +0
 
 **Items** The Forge
@@ -39,7 +41,7 @@ unique, le, small, fiend, velstrac
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ tool fingers +32 (agile, evil, magical, versatile <S>); **Damage** 3d4+14 piercing plus 1d6 evil and 2d6 persistent bleed
+**Melee** ◆ tool fingers +32/+28/+24 (agile, evil, magical, versatile <S>); **Damage** 3d4+14 piercing plus 1d6 evil and 2d6 persistent bleed
 
 **Innate divine Spells** (DC 37)
 

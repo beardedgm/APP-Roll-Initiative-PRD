@@ -11,6 +11,8 @@ uncommon, le, medium, undead, wight
 
 **Skills** Acrobatics +18, Deception +18, Stealth +20
 
+**Recall Knowledge - Undead** (Religion): DC 28
+
 **STR** +4, **DEX** +5, **CON** +2, **INT** +1, **WIS** +3, **CHA** +3
 
 **Items** +1 striking dagger, leather armor
@@ -31,9 +33,9 @@ uncommon, le, medium, undead, wight
 
 Speed 25 feet
 
-**Melee** ◆ dagger +21 (agile, finesse, magical, versatile S); **Damage** 2d4+7 piercing plus drain life
+**Melee** ◆ dagger +21/+17/+13 (agile, finesse, magical, versatile S); **Damage** 2d4+7 piercing plus drain life
 
-**Melee** ◆ claw +20 (agile, finesse); **Damage** 1d8+7 slashing plus drain life
+**Melee** ◆ claw +20/+16/+12 (agile, finesse); **Damage** 1d8+7 slashing plus drain life
 
 **Drain Life** (divine, necromancy) As hunter wight, but 9 temporary Hit Points and DC 25.
 

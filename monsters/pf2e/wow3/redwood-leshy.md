@@ -11,6 +11,8 @@ uncommon, small, leshy, plant
 
 **Skills** Athletics +22, Intimidation +18, Nature +19
 
+**Recall Knowledge - Plant** (Nature): DC 29
+
 **STR** +6, **DEX** +2, **CON** +6, **INT** +3, **WIS** +5, **CHA** +4
 
 **Items** 
@@ -31,9 +33,9 @@ uncommon, small, leshy, plant
 
 Speed 25 feet
 
-**Melee** ◆ bo staff +23 (monk, parry, reach, trip); **Damage** 2d8+12 bludgeoning
+**Melee** ◆ bo staff +23/+18/+13 (monk, parry, reach, trip); **Damage** 2d8+12 bludgeoning
 
-**Melee** ◆ fist +23 (agile, finesse); **Damage** 2d6+12 bludgeoning
+**Melee** ◆ fist +23/+19/+15 (agile, finesse); **Damage** 2d6+12 bludgeoning
 
 **Innate primal Spells** (DC 28)
 

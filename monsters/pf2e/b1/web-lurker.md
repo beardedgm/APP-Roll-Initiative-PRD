@@ -11,6 +11,8 @@ ne, medium, aberration
 
 **Skills** Acrobatics +9, Athletics +9, Crafting +8, Stealth +11
 
+**Recall Knowledge - Aberration** (Occultism): DC 18
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** +1, **WIS** +3, **CHA** -1
 
 **Spider Speak** The web lurker can speak with spiders, with the same effects and limitations as speak with animals.
@@ -29,11 +31,11 @@ ne, medium, aberration
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ fangs +11 (poison); **Damage** 1d8+6 piercing plus web lurker venom plus web lurker venom
+**Melee** ◆ fangs +11/+6/+1 (poison); **Damage** 1d8+6 piercing plus web lurker venom plus web lurker venom
 
-**Melee** ◆ claw +11 (agile); **Damage** 1d8+6 slashing
+**Melee** ◆ claw +11/+7/+3 (agile); **Damage** 1d8+6 slashing
 
-**Melee** ◆ web +11; plus web trap
+**Melee** ◆ web +11/+6/+1; plus web trap
 
 **Web Lurker Venom** (poison)
 

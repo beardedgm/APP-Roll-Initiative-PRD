@@ -11,6 +11,8 @@ uncommon, n, medium, beast
 
 **Skills** Acrobatics +13, Athletics +9, Deception +11, Diplomacy +11, Stealth +13, Survival +10
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 21
+
 **STR** +3, **DEX** +5, **CON** +3, **INT** +0, **WIS** +2, **CHA** +3
 
 ---
@@ -25,9 +27,9 @@ uncommon, n, medium, beast
 
 Speed 40 feet
 
-**Melee** ◆ jaws +13 (finesse, magical); **Damage** 2d6+7 piercing
+**Melee** ◆ jaws +13/+8/+3 (finesse, magical); **Damage** 2d6+7 piercing
 
-**Melee** ◆ claw +13 (agile, finesse, magical); **Damage** 2d4+7 slashing
+**Melee** ◆ claw +13/+9/+5 (agile, finesse, magical); **Damage** 2d4+7 slashing
 
 **Jaunt** ◆ (conjuration, move, primal, teleportation) The poracha teleports up to 40 feet. It must have line of sight to the space it teleports to. It can't use Jaunt again for 1d4 rounds.
 

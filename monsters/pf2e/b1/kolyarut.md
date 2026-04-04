@@ -11,6 +11,8 @@ ln, medium, aeon, inevitable, monitor
 
 **Skills** Acrobatics +22, Athletics +27, Deception +20, Diplomacy +20, Survival +22, Axis Lore +22
 
+**Recall Knowledge - Monitor** (Religion): DC 30
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** +1, **WIS** +4, **CHA** +2
 
 **Items** +1 striking bastard sword
@@ -31,9 +33,9 @@ ln, medium, aeon, inevitable, monitor
 
 Speed 25 feet
 
-**Melee** ◆ bastard sword +26 (lawful, magical, two-hand <d12>); **Damage** 2d8+13 slashing plus 1d6 lawful
+**Melee** ◆ bastard sword +26/+21/+16 (lawful, magical, two-hand <d12>); **Damage** 2d8+13 slashing plus 1d6 lawful
 
-**Melee** ◆ fist +23 (agile, lawful, magical); **Damage** 1d10+11 bludgeoning plus 1d6 lawful
+**Melee** ◆ fist +23/+19/+15 (agile, lawful, magical); **Damage** 1d10+11 bludgeoning plus 1d6 lawful
 
 **Innate divine Spells** (DC 32)
 

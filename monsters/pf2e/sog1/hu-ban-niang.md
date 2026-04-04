@@ -11,6 +11,8 @@ unique, ln, medium, human, humanoid
 
 **Skills** Athletics +11, Crafting +11, Deception +13, Diplomacy +11, Intimidation +13, Society +11, Willowshore Lore +11
 
+**Recall Knowledge - Humanoid** (Society): DC 30
+
 **STR** +2, **DEX** +1, **CON** +1, **INT** +2, **WIS** +2, **CHA** +4
 
 **Items** , smoking pipe worth 20 gp, spider lily tattoo|SoG1
@@ -41,4 +43,4 @@ unique, ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ longsword +13 (magical, versatile <P>); **Damage** 2d8+3 slashing
+**Melee** ◆ longsword +13/+8/+3 (magical, versatile <P>); **Damage** 2d8+3 slashing

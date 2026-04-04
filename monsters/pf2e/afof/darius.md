@@ -11,6 +11,8 @@ unique, n, medium, human, humanoid
 
 **Skills** Athletics +10, Crafting +10, Deception +8, Occultism +8, Society +10
 
+**Recall Knowledge - Humanoid** (Society): DC 28
+
 **STR** +3, **DEX** +1, **CON** +2, **INT** +3, **WIS** +0, **CHA** +1
 
 **Items** key to basement, singed leather apron and clothing, moderate bestial mutagens (2), improvised wax sprayer, wax stirring stick
@@ -29,11 +31,11 @@ unique, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ jaws +12 (agile, unarmed); **Damage** 1d8+5 piercing
+**Melee** ◆ jaws +12/+8/+4 (agile, unarmed); **Damage** 1d8+5 piercing
 
-**Melee** ◆ claw +12 (unarmed); **Damage** 1d10+5 slashing
+**Melee** ◆ claw +12/+7/+2 (unarmed); **Damage** 1d10+5 slashing
 
-**Melee** ◆ wax stirring stick +10 (agile, nonlethal, unarmed); **Damage** 1d6+5 bludgeoning
+**Melee** ◆ wax stirring stick +10/+6/+2 (agile, nonlethal, unarmed); **Damage** 1d6+5 bludgeoning
 
 **Crystalline Mutation** When Darius drinks any mutagen, his teeth and fingernails grow sharp crystalline edges.
 

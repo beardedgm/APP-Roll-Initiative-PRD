@@ -11,6 +11,8 @@ rare, ne, gargantuan, humanoid, ratfolk, troop
 
 **Skills** Athletics +27, Stealth +29
 
+**Recall Knowledge - Humanoid** (Society): DC 39
+
 **STR** +6, **DEX** +8, **CON** +6, **INT** +4, **WIS** +4, **CHA** +2
 
 **Ratspeak** A hadi mob can communicate with rodents.

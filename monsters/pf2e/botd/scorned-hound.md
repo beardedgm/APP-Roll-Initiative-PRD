@@ -9,6 +9,8 @@ ne, small, undead
 
 **Skills** Acrobatics +5, Athletics +7, Stealth +5, Survival +5
 
+**Recall Knowledge - Undead** (Religion): DC 15
+
 **STR** +4, **DEX** +2, **CON** +2, **INT** -4, **WIS** +2, **CHA** -1
 
 **Sense Companion** (detection, divination, occult) As predatory rabbit.
@@ -29,6 +31,6 @@ ne, small, undead
 
 Speed 30 feet
 
-**Melee** ◆ jaws +9; **Damage** 1d6+2 piercing
+**Melee** ◆ jaws +9/+4/-1; **Damage** 1d6+2 piercing
 
 **Betray the Pack** The hound's Strikes deal 1d4 additional damage to creatures that were once its owner, companion, fellow pet, family, household, or pack.

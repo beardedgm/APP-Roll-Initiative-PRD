@@ -11,6 +11,8 @@ unique, ne, medium, fiend, hag, humanoid
 
 **Skills** Arcana +23, Deception +26, Diplomacy +24, Intimidation +24, Occultism +25, Religion +25
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 41
+
 **STR** +7, **DEX** +5, **CON** +6, **INT** +4, **WIS** +6, **CHA** +5
 
 **Items** Skarja's heartstone (page 89)
@@ -37,9 +39,9 @@ unique, ne, medium, fiend, hag, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ jaws +26 (magical); **Damage** 3d8+9 piercing plus 1d10 evil and Abyssal plague plus Abyssal plague
+**Melee** ◆ jaws +26/+21/+16 (magical); **Damage** 3d8+9 piercing plus 1d10 evil and Abyssal plague plus Abyssal plague
 
-**Melee** ◆ claw +26 (agile, magical); **Damage** 3d10+9 slashing plus 1d10 evil
+**Melee** ◆ claw +26/+22/+18 (agile, magical); **Damage** 3d10+9 slashing plus 1d10 evil
 
 **Innate occult Spells** (DC 33), attack +25
 

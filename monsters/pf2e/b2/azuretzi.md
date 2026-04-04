@@ -11,6 +11,8 @@ cn, small, monitor, protean
 
 **Skills** Acrobatics +11, Arcana +11, Athletics +9, Deception +13, Performance +13, Stealth +13, Survival +11, Thievery +13
 
+**Recall Knowledge - Monitor** (Religion): DC 20
+
 **STR** +2, **DEX** +4, **CON** +4, **INT** +4, **WIS** +2, **CHA** +4
 
 **Entropy Sense** (divination, divine, prediction) An Azuretzi can anticipate the most likely location of a creature through their supernatural insight into the forces of chaotic probabilities and chance. This grants the azuretzi the ability to sense creatures within the listed range. A creature under the effects of nondetection or that is otherwise shielded from divinations and predictions cannot be noticed via entropy sense.
@@ -35,11 +37,11 @@ cn, small, monitor, protean
 
 Speed 25 feet, fly 25 feet, swim 25 feet, freedom of movement
 
-**Melee** ◆ jaws +15 (chaotic, finesse, magical); **Damage** 2d10+4 piercing plus 1d6 chaotic
+**Melee** ◆ jaws +15/+10/+5 (chaotic, finesse, magical); **Damage** 2d10+4 piercing plus 1d6 chaotic
 
-**Melee** ◆ claw +15 (agile, chaotic, finesse, magical); **Damage** 2d8+4 slashing plus 1d6 chaotic
+**Melee** ◆ claw +15/+11/+7 (agile, chaotic, finesse, magical); **Damage** 2d8+4 slashing plus 1d6 chaotic
 
-**Melee** ◆ tail +13 (chaotic, magical, reach <15 feet>); **Damage** 2d12+4 bludgeoning plus 1d6 chaotic and Grab plus Grab
+**Melee** ◆ tail +13/+8/+3 (chaotic, magical, reach <15 feet>); **Damage** 2d12+4 bludgeoning plus 1d6 chaotic and Grab plus Grab
 
 **Innate divine Spells** (DC 22)
 

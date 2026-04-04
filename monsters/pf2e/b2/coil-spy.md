@@ -11,6 +11,8 @@ uncommon, ne, medium, humanoid, serpentfolk
 
 **Skills** Acrobatics +10, Deception +13, Diplomacy +11, Intimidation +11, Occultism +10, Society +10, Stealth +12, Thievery +12
 
+**Recall Knowledge - Humanoid** (Society): DC 21
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +4, **WIS** +2, **CHA** +5
 
 ---
@@ -25,11 +27,11 @@ uncommon, ne, medium, humanoid, serpentfolk
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +14 (agile, finesse, versatile <S>); **Damage** 1d6+5 piercing plus serpentfolk venom plus serpentfolk venom
+**Melee** ◆ shortsword +14/+10/+6 (agile, finesse, versatile <S>); **Damage** 1d6+5 piercing plus serpentfolk venom plus serpentfolk venom
 
-**Melee** ◆ fangs +14 (finesse); **Damage** 1d6+5 piercing plus serpentfolk venom plus serpentfolk venom
+**Melee** ◆ fangs +14/+9/+4 (finesse); **Damage** 1d6+5 piercing plus serpentfolk venom plus serpentfolk venom
 
-**Ranged** ◆ hand crossbow +10 (range increment <60 feet>, reload <1>); **Damage** 1d6+3 piercing plus serpentfolk venom or hunting spider venom (Core Rulebook 552) plus serpentfolk venom or hunting spider venom (Core Rulebook 552)
+**Ranged** ◆ hand crossbow +10/+5/+0 (range increment <60 feet>, reload <1>); **Damage** 1d6+3 piercing plus serpentfolk venom or hunting spider venom (Core Rulebook 552) plus serpentfolk venom or hunting spider venom (Core Rulebook 552)
 
 **Innate occult Spells** (DC 21)
 

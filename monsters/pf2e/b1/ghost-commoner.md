@@ -11,6 +11,8 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Stealth +12, Dwelling Lore +10
 
+**Recall Knowledge - Spirit** (Religion): DC 19
+
 **STR** -5, **DEX** +3, **CON** +0, **INT** +0, **WIS** +2, **CHA** +2
 
 **Site Bound**
@@ -33,6 +35,6 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ◆ ghostly hand +13 (agile, finesse, magical); **Damage** 2d6+2 negative
+**Melee** ◆ ghostly hand +13/+9/+5 (agile, finesse, magical); **Damage** 2d6+2 negative
 
 **Frightful Moan** ◆ (auditory, divine, emotion, enchantment, fear, mental) DC 21

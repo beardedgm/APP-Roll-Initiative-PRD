@@ -11,6 +11,8 @@ uncommon, cg, large, beast, couatl
 
 **Skills** Acrobatics +15, Arcana +18, Diplomacy +20, Nature +21, Occultism +18, Society +16, Stealth +17, Survival +15
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 26
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** +4, **WIS** +5, **CHA** +4
 
 **Star Child** The mix couatl is difficult to discern against starry skies. The mix couatl can Hide in the air at night without cover or being concealed.
@@ -27,7 +29,7 @@ uncommon, cg, large, beast, couatl
 
 Speed 15 feet, fly 50 feet
 
-**Melee** ◆ jaws +20 (magical); **Damage** 2d10+9 piercing plus mix couatl venom and Grab plus mix couatl venom, Grab
+**Melee** ◆ jaws +20/+15/+10 (magical); **Damage** 2d10+9 piercing plus mix couatl venom and Grab plus mix couatl venom, Grab
 
 **Innate primal Spells** (DC 26), attack +18
 

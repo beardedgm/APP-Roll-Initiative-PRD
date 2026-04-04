@@ -11,6 +11,8 @@ cg, medium, human, humanoid
 
 **Skills** Athletics +4, Diplomacy +6, Religion +4
 
+**Recall Knowledge - Humanoid** (Society): DC 13
+
 **STR** +2, **DEX** +0, **CON** +1, **INT** +0, **WIS** +2, **CHA** +2
 
 **Items** rapier, wooden shield, splint mail
@@ -27,7 +29,7 @@ cg, medium, human, humanoid
 
 Speed 15 feet
 
-**Melee** ◆ rapier +5 (deadly <1d8>, disarm, finesse); **Damage** 1d6+2 piercing
+**Melee** ◆ rapier +5/+0/-5 (deadly <1d8>, disarm, finesse); **Damage** 1d6+2 piercing
 
 **Prepared divine Spells** (DC 16)
 

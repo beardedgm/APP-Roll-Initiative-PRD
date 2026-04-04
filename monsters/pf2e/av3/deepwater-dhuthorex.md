@@ -9,6 +9,8 @@ uncommon, cn, large, aberration, aquatic
 
 **Skills** Athletics +20, Stealth +18, Survival +19
 
+**Recall Knowledge - Aberration** (Occultism): DC 28
+
 **STR** +7, **DEX** +3, **CON** +4, **INT** -4, **WIS** +4, **CHA** +0
 
 ---
@@ -27,11 +29,11 @@ uncommon, cn, large, aberration, aquatic
 
 Speed 10 feet, swim 40 feet
 
-**Melee** ◆ jaws +21 (deadly <d10>, reach <10 feet>); **Damage** 2d10+11 piercing plus Grab plus Grab
+**Melee** ◆ jaws +21/+16/+11 (deadly <d10>, reach <10 feet>); **Damage** 2d10+11 piercing plus Grab plus Grab
 
-**Melee** ◆ snout +21 (reach <10 feet>); **Damage** 2d8+11 bludgeoning plus Push plus Push
+**Melee** ◆ snout +21/+16/+11 (reach <10 feet>); **Damage** 2d8+11 bludgeoning plus Push plus Push
 
-**Melee** ◆ tentacle +19 (agile, reach <15 feet>); **Damage** 2d6+11 slashing
+**Melee** ◆ tentacle +19/+15/+11 (agile, reach <15 feet>); **Damage** 2d6+11 slashing
 
 **Aquatic Ambush** ◆
 

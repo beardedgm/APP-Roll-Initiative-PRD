@@ -11,6 +11,8 @@ n, small, humanoid
 
 **Skills** Acrobatics +5, Intimidation +4, Stealth +7, Survival +6
 
+**Recall Knowledge - Humanoid** (Society): DC 14
+
 **STR** +2, **DEX** +3, **CON** +1, **INT** +1, **WIS** +2, **CHA** +0
 
 **Items** obsidian sickle, spear
@@ -31,10 +33,10 @@ n, small, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ sickle +8 (agile, finesse, trip); **Damage** 1d4+2 slashing
+**Melee** ◆ sickle +8/+4/+0 (agile, finesse, trip); **Damage** 1d4+2 slashing
 
-**Melee** ◆ jaws +7; **Damage** 1d6+2 piercing
+**Melee** ◆ jaws +7/+2/-3; **Damage** 1d6+2 piercing
 
-**Ranged** ◆ spear +8 (thrown <20 feet>); **Damage** 1d6+2 piercing
+**Ranged** ◆ spear +8/+3/-2 (thrown <20 feet>); **Damage** 1d6+2 piercing
 
 **Woodland Stride** A kaava ignores terrain and terrain from non-magical foliage.

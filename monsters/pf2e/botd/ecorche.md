@@ -11,6 +11,8 @@ ce, medium, undead
 
 **Skills** Athletics +33, Deception +31, Intimidation +27, Stealth +28
 
+**Recall Knowledge - Undead** (Religion): DC 35
+
 **STR** +9, **DEX** +6, **CON** +7, **INT** +0, **WIS** +5, **CHA** +5
 
 ---
@@ -27,7 +29,7 @@ ce, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ claw +33 (agile); **Damage** 3d8+17 slashing
+**Melee** ◆ claw +33/+29/+25 (agile); **Damage** 3d8+17 slashing
 
 **Flaying Flurry** ◆◆ The ecorche attempts two claw Strikes against the same target. If both hit and deal damage, it attempts to pull the skin off its target. It attempts an Athletics check against the enemy's
 

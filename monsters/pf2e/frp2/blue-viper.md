@@ -11,6 +11,8 @@ unique, ne, small, humanoid, ratfolk
 
 **Skills** Acrobatics +31, Athletics +18, Deception +25, Diplomacy +23, Stealth +29, Thievery +27
 
+**Recall Knowledge - Humanoid** (Society): DC 45
+
 **STR** +0, **DEX** +5, **CON** +6, **INT** +5, **WIS** +2, **CHA** +1
 
 **Items** dragon bile (applied to body), +2 resilient explorer's clothing, +2 greater striking shortsword
@@ -31,9 +33,9 @@ unique, ne, small, humanoid, ratfolk
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +29 (agile, finesse, versatile <S>); **Damage** 3d6+8 piercing
+**Melee** ◆ shortsword +29/+25/+21 (agile, finesse, versatile <S>); **Damage** 3d6+8 piercing
 
-**Ranged** ◆ alchemical bomb +31 (range increment <20 feet>, splash); **Damage** varies by bomb
+**Ranged** ◆ alchemical bomb +31/+26/+21 (range increment <20 feet>, splash); **Damage** varies by bomb
 
 **Quick Application** ◆ Blue Viper Interacts to draw an injury poison and applies it to a weapon he is holding.
 

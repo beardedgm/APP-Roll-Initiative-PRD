@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Acrobatics +16, Assassin Lore +12, Crafting +12, Deception +16, Intimidation +14, Religion +17, Stealth +16, Thievery +14
 
+**Recall Knowledge - Humanoid** (Society): DC 33
+
 **STR** +1, **DEX** +5, **CON** +1, **INT** +1, **WIS** +4, **CHA** +3
 
 **Items** daggers (4), moderate darkvision elixir, moderate elixir of life, giant scorpion venom (2), giant wasp venom, leather armor, silver religious symbol, 
@@ -29,11 +31,11 @@ unique, ne, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ shortsword +17 (agile, finesse, versatile <S>); **Damage** 2d6+7 piercing
+**Melee** ◆ shortsword +17/+13/+9 (agile, finesse, versatile <S>); **Damage** 2d6+7 piercing
 
-**Melee** ◆ dagger +16 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
+**Melee** ◆ dagger +16/+12/+8 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
 
-**Ranged** ◆ dagger +16 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
+**Ranged** ◆ dagger +16/+12/+8 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
 
 **Prepared divine Spells** (DC 25), attack +17
 

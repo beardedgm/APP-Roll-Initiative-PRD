@@ -11,6 +11,8 @@ unique, ln, medium, humanoid, goblin
 
 **Skills** Acrobatics +22, Athletics +27, Intimidation +24, Stealth +22, Underworld Lore +20
 
+**Recall Knowledge - Humanoid** (Society): DC 40
+
 **STR** +5, **DEX** +4, **CON** +3, **INT** +0, **WIS** +3, **CHA** +0
 
 **Items** bracers of armor, +1 striking handwraps of mighty blows
@@ -27,7 +29,7 @@ unique, ln, medium, humanoid, goblin
 
 Speed 25 feet
 
-**Melee** ◆ fist +25 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d6+10 bludgeoning
+**Melee** ◆ fist +25/+21/+17 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d6+10 bludgeoning
 
 **Flurry of Blows** ◆ (flourish) Gomwai makes two Strikes with his fist. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.
 

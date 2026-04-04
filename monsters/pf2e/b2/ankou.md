@@ -11,6 +11,8 @@ le, large, fey
 
 **Skills** Acrobatics +28, Deception +25, Intimidation +27, Nature +22, Stealth +28
 
+**Recall Knowledge - Fey** (Nature): DC 32
+
 **STR** +7, **DEX** +8, **CON** +4, **INT** +2, **WIS** +2, **CHA** +5
 
 ---
@@ -25,9 +27,9 @@ le, large, fey
 
 Speed fly 75 feet
 
-**Melee** ◆ claw +29 (agile, cold iron); **Damage** 3d6+15 slashing
+**Melee** ◆ claw +29/+25/+21 (agile, cold iron); **Damage** 3d6+15 slashing
 
-**Melee** ◆ wing +29 (cold iron, reach <10 feet>); **Damage** 2d6+15 piercing plus 2d6 persistent bleed
+**Melee** ◆ wing +29/+24/+19 (cold iron, reach <10 feet>); **Damage** 2d6+15 piercing plus 2d6 persistent bleed
 
 **Innate primal Spells** (DC 34), attack +26
 

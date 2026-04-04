@@ -11,6 +11,8 @@ uncommon, ce, gargantuan, aberration, aquatic
 
 **Skills** Athletics +34, Intimidation +30, Survival +31
 
+**Recall Knowledge - Aberration** (Occultism): DC 38
+
 **STR** +9, **DEX** +5, **CON** +9, **INT** +0, **WIS** +6, **CHA** +5
 
 **Blood Scent** The lusca can smell blood in the water up to 1 mile away.
@@ -35,9 +37,9 @@ uncommon, ce, gargantuan, aberration, aquatic
 
 Speed 10 feet, swim 50 feet
 
-**Melee** ◆ jaws +35 (magical, reach <20 feet>); **Damage** 3d12+17 piercing plus Grab plus Grab
+**Melee** ◆ jaws +35/+30/+25 (magical, reach <20 feet>); **Damage** 3d12+17 piercing plus Grab plus Grab
 
-**Melee** ◆ tentacle +35 (magical, reach <40 feet>); **Damage** 3d10+17 bludgeoning plus lusca venom plus lusca venom
+**Melee** ◆ tentacle +35/+30/+25 (magical, reach <40 feet>); **Damage** 3d10+17 bludgeoning plus lusca venom plus lusca venom
 
 **Innate primal Spells** (DC 38)
 

@@ -11,6 +11,8 @@ unique, ne, medium, undead, zombie
 
 **Skills** Athletics +10, Mercantile Lore +9, Religion +13, Stealth +10
 
+**Recall Knowledge - Undead** (Religion): DC 29
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** +1, **WIS** +5, **CHA** +2
 
 **Items** bag of holding type I (contains two doses of arsenic, invisibility potion, and 136 gp), scythe
@@ -31,9 +33,9 @@ unique, ne, medium, undead, zombie
 
 Speed 25 feet
 
-**Melee** ◆ scythe +12 (deadly <d10>, trip); **Damage** 1d10+8 slashing plus whispering scythe
+**Melee** ◆ scythe +12/+7/+2 (deadly <d10>, trip); **Damage** 1d10+8 slashing plus whispering scythe
 
-**Melee** ◆ fist +12; **Damage** 1d8+8 bludgeoning
+**Melee** ◆ fist +12/+7/+2; **Damage** 1d8+8 bludgeoning
 
 **Innate divine Spells** (DC 21), attack +13
 

@@ -11,6 +11,8 @@ uncommon, le, medium, human, humanoid
 
 **Skills** Acrobatics +20, Athletics +23, Religion +18, Society +17, Stealth +18
 
+**Recall Knowledge - Humanoid** (Society): DC 29
+
 **STR** +5, **DEX** +4, **CON** +3, **INT** +1, **WIS** +2, **CHA** -1
 
 **Items** chain shirt, religious symbol of Walkena|LOGM, +1 striking returning spear, lesser sturdy shield (Hardness 10, HP 80, BT 40)
@@ -31,11 +33,11 @@ uncommon, le, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ spear +23 (magical); **Damage** 2d8+13 piercing
+**Melee** ◆ spear +23/+18/+13 (magical); **Damage** 2d8+13 piercing
 
-**Melee** ◆ fist +22 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+13 bludgeoning plus Grab
+**Melee** ◆ fist +22/+18/+14 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+13 bludgeoning plus Grab
 
-**Ranged** ◆ spear +22 (magical, thrown <20 feet>); **Damage** 2d8+13 piercing
+**Ranged** ◆ spear +22/+17/+12 (magical, thrown <20 feet>); **Damage** 2d8+13 piercing
 
 **Impaling Strike** ◆◆ **Frequency** {"number":1,"unit":"round"}; The Jackal Guard lunges forward with their spear and delivers a piercing blow. The Jackal Guard Steps and then makes a melee spear Strike. On a hit, the target also takes 1d6 persistent bleed damage.
 

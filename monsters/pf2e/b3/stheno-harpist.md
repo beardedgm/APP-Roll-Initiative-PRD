@@ -11,6 +11,8 @@ rare, n, medium, humanoid, stheno
 
 **Skills** Crafting +4, Diplomacy +7, Performance +7, Stealth +5
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +0, **DEX** +2, **CON** +3, **INT** +1, **WIS** -1, **CHA** +4
 
 **Items** harp, leather armor, rapier, shortbow
@@ -31,11 +33,11 @@ rare, n, medium, humanoid, stheno
 
 Speed 25 feet
 
-**Melee** ◆ rapier +7 (deadly <d8>, disarm, finesse); **Damage** 1d6 piercing
+**Melee** ◆ rapier +7/+2/-3 (deadly <d8>, disarm, finesse); **Damage** 1d6 piercing
 
-**Melee** ◆ snake fangs +7 (agile, finesse); **Damage** 1d4 piercing
+**Melee** ◆ snake fangs +7/+3/-1 (agile, finesse); **Damage** 1d4 piercing
 
-**Ranged** ◆ shortbow +7 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +7/+2/-3 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
 
 **Spontaneous occult Spells** (DC 17)
 

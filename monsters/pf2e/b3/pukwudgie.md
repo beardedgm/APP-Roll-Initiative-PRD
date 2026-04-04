@@ -11,6 +11,8 @@ uncommon, ne, small, fey
 
 **Skills** Crafting +15, Deception +14, Medicine +15, Nature +17, Stealth +17, Thievery +15
 
+**Recall Knowledge - Fey** (Nature): DC 25
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +4, **WIS** +6, **CHA** +3
 
 **Items** +1 hatchet, shortbow
@@ -33,11 +35,11 @@ uncommon, ne, small, fey
 
 Speed 25 feet
 
-**Melee** ◆ hatchet +17 (agile, magical, sweep); **Damage** 1d6+10 slashing plus pukwudgie poison plus pukwudgie poison
+**Melee** ◆ hatchet +17/+13/+9 (agile, magical, sweep); **Damage** 1d6+10 slashing plus pukwudgie poison plus pukwudgie poison
 
-**Ranged** ◆ hatchet +19 (magical, thrown <10 feet>); **Damage** 1d6+10 slashing plus pukwudgie poison plus pukwudgie poison
+**Ranged** ◆ hatchet +19/+14/+9 (magical, thrown <10 feet>); **Damage** 1d6+10 slashing plus pukwudgie poison plus pukwudgie poison
 
-**Ranged** ◆ shortbow +18 (deadly <d10>, range increment <60 feet>); **Damage** 1d6+6 piercing plus pukwudgie poison plus pukwudgie poison
+**Ranged** ◆ shortbow +18/+13/+8 (deadly <d10>, range increment <60 feet>); **Damage** 1d6+6 piercing plus pukwudgie poison plus pukwudgie poison
 
 **Innate primal Spells** (DC 25), attack +17
 

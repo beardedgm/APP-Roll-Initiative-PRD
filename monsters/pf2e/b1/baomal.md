@@ -11,6 +11,8 @@ cn, gargantuan, aberration, aquatic
 
 **Skills** Athletics +41, Stealth +31, Survival +37
 
+**Recall Knowledge - Aberration** (Occultism): DC 40
+
 **STR** +10, **DEX** +2, **CON** +8, **INT** -3, **WIS** +6, **CHA** +1
 
 ---
@@ -37,9 +39,9 @@ cn, gargantuan, aberration, aquatic
 
 Speed 50 feet, swim 80 feet
 
-**Melee** ◆ jaws +38 (reach <20 feet>); **Damage** 4d12+18 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +38/+33/+28 (reach <20 feet>); **Damage** 4d12+18 piercing plus Improved Grab plus Improved Grab
 
-**Ranged** ◆ tsunami jet +38 (brutal, range <500 feet>); **Damage** 4d10+18 bludgeoning plus Push 40 feet
+**Ranged** ◆ tsunami jet +38/+33/+28 (brutal, range <500 feet>); **Damage** 4d10+18 bludgeoning plus Push 40 feet
 
 **Breath of the Sea** ◆ (attack) A baomal can inhale tremendous amounts of water, drawing everything in the sea nearby closer. All creatures and objects in the water within 60 feet of the baomal (including ships) are pulled toward it. Creatures must succeed at a DC 42 Athletics check or be pulled up to 20 feet toward the baomal (40 feet on a critical failure). For ships, use the captain's Sailing Lore in place of Athletics. Unattended objects are automatically pulled.
 

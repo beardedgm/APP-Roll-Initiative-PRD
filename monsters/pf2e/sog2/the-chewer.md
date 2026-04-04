@@ -11,6 +11,8 @@ unique, le, medium, undead
 
 **Skills** Acrobatics +14, Athletics +15, Stealth +14, Monastic Lore +11
 
+**Recall Knowledge - Undead** (Religion): DC 32
+
 **STR** +5, **DEX** +4, **CON** +2, **INT** +1, **WIS** +4, **CHA** +2
 
 **Items** 
@@ -27,9 +29,9 @@ unique, le, medium, undead
 
 Speed 35 feet
 
-**Melee** ◆ fist +17 (agile, magical); **Damage** 1d6+8 bludgeoning plus 1d4 negative and sagebane plus sagebane
+**Melee** ◆ fist +17/+13/+9 (agile, magical); **Damage** 1d6+8 bludgeoning plus 1d4 negative and sagebane plus sagebane
 
-**Melee** ◆ temple sword +18 (magical, monk, trip); **Damage** 2d8+8 slashing
+**Melee** ◆ temple sword +18/+13/+8 (magical, monk, trip); **Damage** 2d8+8 slashing
 
 **Black Apoxia** (disease)
 

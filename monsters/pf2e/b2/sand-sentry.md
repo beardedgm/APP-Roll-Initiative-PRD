@@ -11,6 +11,8 @@ n, medium, earth, elemental
 
 **Skills** Acrobatics +14, Stealth +14
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 22
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** +0, **WIS** +2, **CHA** +1
 
 ---
@@ -29,7 +31,7 @@ n, medium, earth, elemental
 
 Speed 25 feet, burrow 50 feet, earth glide
 
-**Melee** ◆ fist +17; **Damage** 2d8+8 bludgeoning plus blinding sand plus blinding sand
+**Melee** ◆ fist +17/+12/+7; **Damage** 2d8+8 bludgeoning plus blinding sand plus blinding sand
 
 **Earth Glide** A living boulder can Burrow through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing.
 

@@ -11,6 +11,8 @@ ce, medium, ghoul, undead
 
 **Skills** Athletics +13, Diplomacy +11, Religion +13, Society +9, Stealth +12
 
+**Recall Knowledge - Undead** (Religion): DC 20
+
 **STR** +4, **DEX** +3, **CON** +1, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** flail
@@ -33,11 +35,11 @@ ce, medium, ghoul, undead
 
 Speed 25 feet
 
-**Melee** ◆ flail +13 (disarm, sweep, trip); **Damage** 1d6+6 bludgeoning plus 2d6 negative
+**Melee** ◆ flail +13/+8/+3 (disarm, sweep, trip); **Damage** 1d6+6 bludgeoning plus 2d6 negative
 
-**Melee** ◆ jaws +13; **Damage** 2d6+6 piercing plus ghoul fever and paralysis
+**Melee** ◆ jaws +13/+8/+3; **Damage** 2d6+6 piercing plus ghoul fever and paralysis
 
-**Melee** ◆ claw +13 (agile); **Damage** 2d4+6 slashing plus paralysis
+**Melee** ◆ claw +13/+9/+5 (agile); **Damage** 2d4+6 slashing plus paralysis
 
 **Prepared divine Spells** (DC 23), attack +13
 

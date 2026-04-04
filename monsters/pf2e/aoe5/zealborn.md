@@ -11,6 +11,8 @@ uncommon, ce, medium, undead
 
 **Skills** Athletics +25, Deception +25, Diplomacy +27, Society +19, Stealth +22
 
+**Recall Knowledge - Undead** (Religion): DC 32
+
 **STR** +5, **DEX** +4, **CON** +0, **INT** +1, **WIS** +5, **CHA** +7
 
 **Items** breastplate, +1 striking morningstar, sling with 20 bullets
@@ -35,9 +37,9 @@ uncommon, ce, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ morningstar +24 (magical, versatile <P>); **Damage** 2d6+9 bludgeoning plus 2d6 chaotic and 2d6 negative
+**Melee** ◆ morningstar +24/+19/+14 (magical, versatile <P>); **Damage** 2d6+9 bludgeoning plus 2d6 chaotic and 2d6 negative
 
-**Ranged** ◆ sling +24 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+6 bludgeoning plus 2d6 chaotic and 2d6 negative
+**Ranged** ◆ sling +24/+19/+14 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+6 bludgeoning plus 2d6 chaotic and 2d6 negative
 
 **Innate occult Spells** (DC 33)
 

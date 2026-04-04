@@ -11,6 +11,8 @@ uncommon, ne, huge, incorporeal, spirit
 
 **Skills** Stealth +22
 
+**Recall Knowledge - Spirit** (Religion): DC 29
+
 **STR** -5, **DEX** +7, **CON** +0, **INT** +3, **WIS** +7, **CHA** +3
 
 **Site Bound** A screaming sulfur becomes bound to the location where the people whose souls make up its form died. It can stray up to 1,000 feet from this site of death, or up to 100 feet from the edges of any waterway associated with its death, whichever distance is shorter.
@@ -35,6 +37,6 @@ uncommon, ne, huge, incorporeal, spirit
 
 Speed fly 40 feet
 
-**Melee** ◆ ghostly hand +21 (agile, finesse, magical, reach <15 feet>); **Damage** 2d8+15 negative damage
+**Melee** ◆ ghostly hand +21/+17/+13 (agile, finesse, magical, reach <15 feet>); **Damage** 2d8+15 negative damage
 
 **Choke** ◆◆ (divine, illusion, mental) The screaming sulfur bombards all creatures within its Agonizing Cries aura with visions of death and a feeling of suffocation. Each creature takes 4d6 mental damage (DC 26 basic Will save).

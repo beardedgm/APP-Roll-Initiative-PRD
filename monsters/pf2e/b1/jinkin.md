@@ -11,6 +11,8 @@ ce, tiny, fey, gremlin
 
 **Skills** Acrobatics +7, Crafting +5, Deception +5, Nature +5, Stealth +7, Thievery +7
 
+**Recall Knowledge - Fey** (Nature): DC 15
+
 **STR** -2, **DEX** +4, **CON** +0, **INT** +2, **WIS** +2, **CHA** +2
 
 **Items** shortsword
@@ -27,7 +29,7 @@ ce, tiny, fey, gremlin
 
 Speed 30 feet
 
-**Melee** ◆ shortsword +9 (agile, finesse, magical, versatile <S>); **Damage** 1d6 –2 piercing
+**Melee** ◆ shortsword +9/+5/+1 (agile, finesse, magical, versatile <S>); **Damage** 1d6 –2 piercing
 
 **Innate primal Spells** (DC 17)
 

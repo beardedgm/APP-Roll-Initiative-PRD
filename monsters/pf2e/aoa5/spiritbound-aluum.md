@@ -9,6 +9,8 @@ rare, n, large, construct, mindless, soulbound
 
 **Skills** Athletics +33
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 40
+
 **STR** +9, **DEX** +3, **CON** +6, **INT** -5, **WIS** +4, **CHA** -2
 
 ---
@@ -29,7 +31,7 @@ rare, n, large, construct, mindless, soulbound
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ fist +33 (magical); **Damage** 3d10+17 bludgeoning plus paralyzing force plus paralyzing force
+**Melee** ◆ fist +33/+28/+23 (magical); **Damage** 3d10+17 bludgeoning plus paralyzing force plus paralyzing force
 
 **Innate arcane Spells** (DC 38)
 

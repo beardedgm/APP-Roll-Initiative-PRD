@@ -11,6 +11,8 @@ uncommon, n, small, beast, hantu, incorporeal, spirit
 
 **Skills** Acrobatics +23, Athletics +20, Medicine +22, Stealth +19
 
+**Recall Knowledge - Beast** (Arcana, Nature, Religion): DC 30
+
 **STR** -5, **DEX** +6, **CON** +0, **INT** +0, **WIS** +5, **CHA** +7
 
 ---
@@ -31,9 +33,9 @@ uncommon, n, small, beast, hantu, incorporeal, spirit
 
 Speed fly 35 feet
 
-**Melee** ◆ claw +22 (agile, finesse, magical); **Damage** 2d6+13 slashing
+**Melee** ◆ claw +22/+18/+14 (agile, finesse, magical); **Damage** 2d6+13 slashing
 
-**Melee** ◆ beak +22 (finesse, magical); **Damage** 2d8+13 piercing
+**Melee** ◆ beak +22/+17/+12 (finesse, magical); **Damage** 2d8+13 piercing
 
 **Innate occult Spells** (DC 30), attack +22
 

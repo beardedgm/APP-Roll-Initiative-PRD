@@ -9,6 +9,8 @@ rare, n, large, construct, golem, mindless
 
 **Skills** Athletics +36
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 41
+
 **STR** +9, **DEX** -1, **CON** +9, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -33,7 +35,7 @@ rare, n, large, construct, golem, mindless
 
 Speed 30 feet
 
-**Melee** ◆ staff +33 (deadly <3d12>, magical, reach <15 feet>); **Damage** 3d10+15 bludgeoning plus destructive strike
+**Melee** ◆ staff +33/+28/+23 (deadly <3d12>, magical, reach <15 feet>); **Damage** 3d10+15 bludgeoning plus destructive strike
 
 **Destructive Strike** On a critical hit, the golem's staff Strike breaks the target's armor, if any, in addition to dealing damage to the target. If the target has a shield raised, the golem breaks the shield instead.
 

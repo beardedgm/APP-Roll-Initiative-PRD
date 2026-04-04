@@ -9,6 +9,8 @@ uncommon, n, large, amphibious, beast
 
 **Skills** Acrobatics +10, Athletics +10, Stealth +12, Survival +12
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 21
+
 **STR** +5, **DEX** +1, **CON** +4, **INT** -3, **WIS** +4, **CHA** +0
 
 ---
@@ -25,9 +27,9 @@ uncommon, n, large, amphibious, beast
 
 Speed 20 feet, swim 20 feet
 
-**Melee** ◆ pseudopod +13; **Damage** 2d4+8 bludgeoning
+**Melee** ◆ pseudopod +13/+8/+3; **Damage** 2d4+8 bludgeoning
 
-**Ranged** ◆ lob amoeba +14; **Damage** 2d4+8 bludgeoning plus lob amoeba
+**Ranged** ◆ lob amoeba +14/+9/+4; **Damage** 2d4+8 bludgeoning plus lob amoeba
 
 **Lob Amoeba** ◆ The amelekana flings a symbiotic amoeba at a target within 40 feet—this is a ranged attack that doesn't count toward the amelekana's multiple attack penalty, and its multiple attack penalty doesn't apply to this attack. **Success** 
 **Failure** 

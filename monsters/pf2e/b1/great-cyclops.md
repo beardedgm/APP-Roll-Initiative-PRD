@@ -11,6 +11,8 @@ uncommon, ce, huge, giant, humanoid, mutant
 
 **Skills** Athletics +25, Survival +22, Any One Lore +18
 
+**Recall Knowledge - Humanoid** (Society): DC 32
+
 **STR** +7, **DEX** +1, **CON** +6, **INT** -2, **WIS** +4, **CHA** -1
 
 **Items** greatclub, hide armor
@@ -33,13 +35,13 @@ uncommon, ce, huge, giant, humanoid, mutant
 
 Speed 40 feet
 
-**Melee** ◆ greatclub +25 (backswing, reach <15 feet>, shove); **Damage** 3d10+13 bludgeoning
+**Melee** ◆ greatclub +25/+20/+15 (backswing, reach <15 feet>, shove); **Damage** 3d10+13 bludgeoning
 
-**Melee** ◆ horn +25 (reach <15 feet>); **Damage** 2d10+13 piercing
+**Melee** ◆ horn +25/+20/+15 (reach <15 feet>); **Damage** 2d10+13 piercing
 
-**Melee** ◆ fist +25 (agile, reach <15 feet>); **Damage** 3d4+13 bludgeoning
+**Melee** ◆ fist +25/+21/+17 (agile, reach <15 feet>); **Damage** 3d4+13 bludgeoning
 
-**Ranged** ◆ rock +23 (brutal, range increment <120 feet>); **Damage** 4d6+7 bludgeoning
+**Ranged** ◆ rock +23/+18/+13 (brutal, range increment <120 feet>); **Damage** 4d6+7 bludgeoning
 
 **Powerful Charge** ◆◆ The great cyclops Strides twice and makes a horn Strike. If it moved at least 20 feet away from its starting position, the Strike's damage is increased to 3d10+20.
 

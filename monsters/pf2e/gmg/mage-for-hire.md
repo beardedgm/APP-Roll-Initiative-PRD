@@ -11,6 +11,8 @@ n, medium, human, humanoid
 
 **Skills** Arcana +11, Society +9, Stealth +7, Thievery +9
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +0, **DEX** +2, **CON** +1, **INT** +4, **WIS** +1, **CHA** +1
 
 **Items** invisibility potion, spellbook, staff, thieves' tools
@@ -27,7 +29,7 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ staff +7 (two-hand <d8>); **Damage** 1d4 bludgeoning
+**Melee** ◆ staff +7/+2/-3 (two-hand <d8>); **Damage** 1d4 bludgeoning
 
 **Prepared arcane Spells** (DC 20), attack +12
 

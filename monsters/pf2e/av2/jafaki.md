@@ -11,6 +11,8 @@ unique, ce, large, aberration, seugathi
 
 **Skills** Acrobatics +18, Crafting +18, Diplomacy +15, Intimidation +17, Medicine +16, Nature +16, Occultism +18, Stealth +18
 
+**Recall Knowledge - Aberration** (Occultism): DC 34
+
 **STR** +3, **DEX** +6, **CON** +4, **INT** +4, **WIS** +4, **CHA** +3
 
 **Items** +1 striking rapier, wand of gentle repose, wand of 2nd-level magic missile, expanded alchemist's tools, keys to areas B11 and C7
@@ -37,13 +39,13 @@ unique, ce, large, aberration, seugathi
 
 Speed 25 feet
 
-**Melee** ◆ bite +18 (agile, finesse); **Damage** 2d6+5 piercing plus seugathi venom plus seugathi venom
+**Melee** ◆ bite +18/+14/+10 (agile, finesse); **Damage** 2d6+5 piercing plus seugathi venom plus seugathi venom
 
-**Melee** ◆ rapier +19 (deadly <1d8>, disarm, finesse, reach <10 feet>); **Damage** 2d6+5 piercing plus wyvern poison plus wyvern poison
+**Melee** ◆ rapier +19/+14/+9 (deadly <1d8>, disarm, finesse, reach <10 feet>); **Damage** 2d6+5 piercing plus wyvern poison plus wyvern poison
 
-**Ranged** ◆ acid flask +19 (bomb, range increment <20 feet>, splash); **Damage** 5 acid plus 2d6+2 persistent acid and 6 acid splash
+**Ranged** ◆ acid flask +19/+14/+9 (bomb, range increment <20 feet>, splash); **Damage** 5 acid plus 2d6+2 persistent acid and 6 acid splash
 
-**Ranged** ◆ bottled lightning +19 (bomb, range increment <20 feet>, splash); **Damage** 2d6+2 electricity plus 6 electricity splash
+**Ranged** ◆ bottled lightning +19/+14/+9 (bomb, range increment <20 feet>, splash); **Damage** 2d6+2 electricity plus 6 electricity splash
 
 **Innate occult Spells** (DC 26), attack +18
 

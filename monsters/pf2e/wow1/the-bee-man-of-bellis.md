@@ -11,6 +11,8 @@ unique, medium, aberration, animal, swarm
 
 **Skills** Acrobatics +23, Intimidate +20, Stealth +20, Survival +12
 
+**Recall Knowledge - Aberration** (Occultism, Nature): DC 36
+
 **STR** +3, **DEX** +7, **CON** +6, **INT** +4, **WIS** +4, **CHA** +6
 
 **Apian Emissaries** The Bee-Man can use bees to duplicate the effects of vigilant eye|CRB or message|PC1 at will, with a maximum range of 13 miles. A successful DC 20 Perception check identifies the presence of the bees acting as the sensors for these spells, but a DC 24 (expert) Nature check is required to realize they are behaving under outside influence.
@@ -37,7 +39,7 @@ unique, medium, aberration, animal, swarm
 
 Speed 25 feet, fly 50 feet
 
-**Melee** ◆ slam +19; **Damage** 2d6+9 piercing plus apitoxin
+**Melee** ◆ slam +19/+14/+9; **Damage** 2d6+9 piercing plus apitoxin
 
 **Innate primal Spells** (DC 25), attack +17
 

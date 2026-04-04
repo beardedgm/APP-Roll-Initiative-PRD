@@ -11,6 +11,8 @@ ne, medium, human, humanoid
 
 **Skills** Arcana +13, Deception +15, Diplomacy +15, Intimidation +15, Occultism +15, Performance +17, Religion +11, Society +17, Stealth +9, Thievery +9, Underworld Lore +17
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +0, **DEX** +3, **CON** +0, **INT** +4, **WIS** +2, **CHA** +4
 
 **Items** chain shirt, disguise kit, hand crossbow (10 bolts), shortsword
@@ -29,9 +31,9 @@ ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +13 (agile, finesse, versatile <S>); **Damage** 1d6+6 slashing
+**Melee** ◆ shortsword +13/+9/+5 (agile, finesse, versatile <S>); **Damage** 1d6+6 slashing
 
-**Ranged** ◆ hand crossbow +13 (range increment <60 feet>, reload <1>); **Damage** 1d6+3 piercing
+**Ranged** ◆ hand crossbow +13/+8/+3 (range increment <60 feet>, reload <1>); **Damage** 1d6+3 piercing
 
 **Spontaneous occult Spells** (DC 22), attack +14
 

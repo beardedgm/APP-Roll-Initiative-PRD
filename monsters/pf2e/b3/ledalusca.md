@@ -11,6 +11,8 @@ n, medium, cold, elemental, water
 
 **Skills** Acrobatics +7, Athletics +8, Deception +5, Stealth +9, Thievery +7
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 16
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** +0, **WIS** +2, **CHA** +1
 
 **Recall Reflection** (illusion, primal) A ledalusca can recall and replay any reflection ever cast on its surface, although it must still Seek to consciously notice fine or significant details.
@@ -33,11 +35,11 @@ n, medium, cold, elemental, water
 
 Speed 25 feet, swim 30 feet
 
-**Melee** ◆ wave +10; **Damage** 1d6+4 bludgeoning plus Push 5 feet
+**Melee** ◆ wave +10/+5/+0; **Damage** 1d6+4 bludgeoning plus Push 5 feet
 
-**Ranged** ◆ ice shard +9 (deadly <d6>, thrown <20 feet>); **Damage** 1d6+4 piercing plus 1d4 cold
+**Ranged** ◆ ice shard +9/+4/-1 (deadly <d6>, thrown <20 feet>); **Damage** 1d6+4 piercing plus 1d4 cold
 
-**Melee** ◆ ice shell +10; **Damage** 1d6+4 physical plus 1d4 cold
+**Melee** ◆ ice shell +10/+5/+0; **Damage** 1d6+4 physical plus 1d4 cold
 
 **Freeze Shell** ◆ (cold, manipulate) The ledalusca freezes their surface into a translucent, faintly colored ice sculpture matching the mirror image of a Medium creature or object they have seen before. While in this form, instead of a wave, they have the following Strike: Melee 1 ice shell +10, Damage 1d6+4 physical plus 1d4 cold The physical damage is a type that matches the new shape of the ledalusca's frozen shell. The ledalusca can revert to their liquid form by taking this action again.
 

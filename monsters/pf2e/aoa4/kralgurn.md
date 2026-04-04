@@ -11,6 +11,8 @@ unique, le, medium, duergar, dwarf, humanoid
 
 **Skills** Athletics +28, Intimidation +28, Occultism +25
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** +8, **DEX** +4, **CON** +4, **INT** +0, **WIS** +4, **CHA** +3
 
 **Items** +1 striking composite longbow (50 arrows), manacles, +1 resilient scale mail, scroll of discern location, +2 striking corrosive whip, 50 gp
@@ -31,9 +33,9 @@ unique, le, medium, duergar, dwarf, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ corrosive whip +31 (disarm, magical, nonlethal, reach, trip); **Damage** 2d4+16 slashing plus 1d6 acid
+**Melee** ◆ corrosive whip +31/+26/+21 (disarm, magical, nonlethal, reach, trip); **Damage** 2d4+16 slashing plus 1d6 acid
 
-**Ranged** ◆ composite longbow +27 (deadly <1d10>, magical, range increment <60 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+12 piercing
+**Ranged** ◆ composite longbow +27/+22/+17 (deadly <1d10>, magical, range increment <60 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+12 piercing
 
 **Innate occult Spells** (DC 34)
 

@@ -11,6 +11,8 @@ rare, n, small, construct, wyrwood
 
 **Skills** Acrobatics +7, Arcana +5, Deception +7, Society +5, Stealth +7
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 20
+
 **STR** +0, **DEX** +4, **CON** +0, **INT** +2, **WIS** +1, **CHA** +2
 
 **Items** buckler (Hardness 3, HP 6, BT 3), shortsword
@@ -33,6 +35,6 @@ rare, n, small, construct, wyrwood
 
 Speed 20 feet
 
-**Melee** ◆ shortsword +9 (agile, finesse, versatile <S>); **Damage** 1d6 piercing
+**Melee** ◆ shortsword +9/+5/+1 (agile, finesse, versatile <S>); **Damage** 1d6 piercing
 
 **Sneak Attack** The wyrwood deals an additional 1d6 precision damage to flat-footed creatures.

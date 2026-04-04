@@ -11,6 +11,8 @@ rare, n, medium, construct
 
 **Skills** Athletics +23, Intimidation +23
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 33
+
 **STR** +7, **DEX** +5, **CON** +7, **INT** +2, **WIS** +3, **CHA** +4
 
 ---
@@ -33,9 +35,9 @@ rare, n, medium, construct
 
 Speed 25 feet
 
-**Melee** ◆ longsword +24 (versatile <P>); **Damage** 3d8+15 slashing
+**Melee** ◆ longsword +24/+19/+14 (versatile <P>); **Damage** 3d8+15 slashing
 
-**Ranged** ◆ composite shortbow +23 (deadly <d10>, propulsive, range increment <60 feet>); **Damage** 3d6+13 piercing
+**Ranged** ◆ composite shortbow +23/+18/+13 (deadly <d10>, propulsive, range increment <60 feet>); **Damage** 3d6+13 piercing
 
 **Planar Step** ◆ (conjuration, teleportation) The planar terra-cotta soldier momentarily moves beneath the.
 

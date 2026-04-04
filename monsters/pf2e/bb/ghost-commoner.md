@@ -9,6 +9,8 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Stealth +12
 
+**Recall Knowledge - Spirit** (Religion): DC 19
+
 **STR** -5, **DEX** +3, **CON** +0, **INT** +0, **WIS** +2, **CHA** +2
 
 **Site Bound** A ghost can stray no more than 120 feet from where it was killed or the place it haunts. Some are bound to items or creatures that were special to them rather than a location.
@@ -33,6 +35,6 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ◆ ghostly hand +13 (agile, finesse, magical); **Damage** 2d6 + 2 negative
+**Melee** ◆ ghostly hand +13/+9/+5 (agile, finesse, magical); **Damage** 2d6 + 2 negative
 
 **Frightful Moan** ◆ (divine, enchantment, fear, mental) Each living creature within 30 feet who hears the ghost must attempt a DC 21 Will save. On a failure, a creature gains the frightened 2 condition (or frightened 3 on a critical failure). On a success, a creature can't be affected by this ghost's Frightful Moan for 1 minute.

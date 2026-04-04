@@ -9,6 +9,8 @@ unique, n, medium, construct, golem, mindless
 
 **Skills** Athletics +23, Kibwe Lore +12
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 36
+
 **STR** +6, **DEX** +0, **CON** +4, **INT** -5, **WIS** +3, **CHA** -5
 
 ---
@@ -31,7 +33,7 @@ unique, n, medium, construct, golem, mindless
 
 Speed 20 feet
 
-**Melee** ◆ fist +21 (magical, reach <10 feet>); **Damage** 2d10+10 bludgeoning
+**Melee** ◆ fist +21/+16/+11 (magical, reach <10 feet>); **Damage** 2d10+10 bludgeoning
 
 **Impose Paralysis** ◈ (incapacitation) **Trigger** Cursebreaker hits a slowed creature; The creature must succeed at a DC 27 Fortitude save or become paralyzed for 1 round.
 

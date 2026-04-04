@@ -9,6 +9,8 @@ rare, ne, medium, undead
 
 **Skills** Athletics +26
 
+**Recall Knowledge - Undead** (Religion): DC 33
+
 **STR** +8, **DEX** -1, **CON** +7, **INT** -5, **WIS** +0, **CHA** -2
 
 **Slow** A sodden sentinel is permanently slowed|CRB|slowed 1 and can't use reactions.
@@ -31,7 +33,7 @@ rare, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ fist +24; **Damage** 2d12+16 bludgeoning plus
+**Melee** ◆ fist +24/+19/+14; **Damage** 2d12+16 bludgeoning plus
 
 **Improved Knockdown**
 

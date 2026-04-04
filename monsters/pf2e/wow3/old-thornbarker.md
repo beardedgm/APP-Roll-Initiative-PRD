@@ -11,6 +11,8 @@ unique, huge, plant, wood
 
 **Skills** Athletics +23, Deception +22, Cradle Of Knot Lore +28, Intimidation +22, Nature +25, Stealth +19
 
+**Recall Knowledge - Plant** (Nature): DC 40
+
 **STR** +7, **DEX** +0, **CON** +5, **INT** +4, **WIS** +5, **CHA** +7
 
 ---
@@ -33,9 +35,9 @@ unique, huge, plant, wood
 
 Speed 25 feet
 
-**Melee** ◆ branch +25 (reach <15 feet>); **Damage** 3d10+10 bludgeoning plus Improved Knockdown (Monster Core 359)
+**Melee** ◆ branch +25/+20/+15 (reach <15 feet>); **Damage** 3d10+10 bludgeoning plus Improved Knockdown (Monster Core 359)
 
-**Ranged** ◆ scamp +22 (splash, thrown <60 feet>); **Damage** 4d6+10 piercing plus 4 persistent piercing damage and 4 poison splash damage
+**Ranged** ◆ scamp +22/+17/+12 (splash, thrown <60 feet>); **Damage** 4d6+10 piercing plus 4 persistent piercing damage and 4 poison splash damage
 
 **Innate primal Spells** (DC 32), attack +24
 

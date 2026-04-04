@@ -11,6 +11,8 @@ uncommon, ce, small, fey
 
 **Skills** Athletics +22, Crafting +16, Intimidation +19, Stealth +19, Survival +21
 
+**Recall Knowledge - Fey** (Nature): DC 29
+
 **STR** +6, **DEX** +5, **CON** +3, **INT** +0, **WIS** +3, **CHA** +1
 
 **Items** leather armor, +1 striking maul, spear (3)
@@ -29,11 +31,11 @@ uncommon, ce, small, fey
 
 Speed 20 feet
 
-**Melee** ◆ maul +23 (magical, shove); **Damage** 2d12+12 bludgeoning
+**Melee** ◆ maul +23/+18/+13 (magical, shove); **Damage** 2d12+12 bludgeoning
 
-**Melee** ◆ jaws +22; **Damage** 2d8+12 piercing
+**Melee** ◆ jaws +22/+17/+12; **Damage** 2d8+12 piercing
 
-**Ranged** ◆ spear +22 (thrown <20 feet>); **Damage** 1d6+12 piercing
+**Ranged** ◆ spear +22/+17/+12 (thrown <20 feet>); **Damage** 1d6+12 piercing
 
 **Innate primal Spells** (DC 26)
 

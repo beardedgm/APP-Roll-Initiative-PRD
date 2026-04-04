@@ -9,6 +9,8 @@ n, small, animal
 
 **Skills** Athletics +2, Stealth +5, Survival +5
 
+**Recall Knowledge - Animal** (Nature): DC 14
+
 **STR** +0, **DEX** +3, **CON** +1, **INT** -4, **WIS** +1, **CHA** -2
 
 **Deep Breath** The sea snake can hold its breath for about an hour.
@@ -27,6 +29,6 @@ n, small, animal
 
 Speed 15 feet, swim 25 feet
 
-**Melee** ◆ fangs +7 (agile, finesse); **Damage** 1d8 piercing plus sea snake venom plus sea snake venom
+**Melee** ◆ fangs +7/+3/-1 (agile, finesse); **Damage** 1d8 piercing plus sea snake venom plus sea snake venom
 
 **Sea Snake Venom** (poison)

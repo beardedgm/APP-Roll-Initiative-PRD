@@ -11,6 +11,8 @@ cn, medium, cold, humanoid
 
 **Skills** Acrobatics +20, Athletics +21, Stealth +20, Survival +18
 
+**Recall Knowledge - Humanoid** (Society): DC 27
+
 **STR** +5, **DEX** +6, **CON** +4, **INT** +0, **WIS** +4, **CHA** +0
 
 **Items** +1 striking spear (2)
@@ -35,11 +37,11 @@ cn, medium, cold, humanoid
 
 Speed 40 feet
 
-**Melee** ◆ spear +20 (magical); **Damage** 2d6+9 piercing plus 1d6 cold
+**Melee** ◆ spear +20/+15/+10 (magical); **Damage** 2d6+9 piercing plus 1d6 cold
 
-**Melee** ◆ jaws +19; **Damage** 2d8+9 slashing plus 1d6 cold
+**Melee** ◆ jaws +19/+14/+9; **Damage** 2d8+9 slashing plus 1d6 cold
 
-**Ranged** ◆ spear +21 (magical, thrown <20 feet>); **Damage** 2d6+9 piercing plus 1d6 cold
+**Ranged** ◆ spear +21/+16/+11 (magical, thrown <20 feet>); **Damage** 2d6+9 piercing plus 1d6 cold
 
 **Frozen Weapons** (evocation) Weapons wielded by an adlet gain the effect of the frost property rune.
 

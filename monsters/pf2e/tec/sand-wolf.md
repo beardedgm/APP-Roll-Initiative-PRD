@@ -11,6 +11,8 @@ uncommon, n, large, air, beast, earth
 
 **Skills** Athletics +12, Performance +13, Stealth +11, Survival +12
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 22
+
 **STR** +5, **DEX** +4, **CON** +2, **INT** -2, **WIS** +2, **CHA** +3
 
 ---
@@ -31,9 +33,9 @@ uncommon, n, large, air, beast, earth
 
 Speed 30 feet, fly 20 feet, burrow 20 feet
 
-**Melee** ◆ jaws +14; **Damage** 2d6+5 piercing plus Grab
+**Melee** ◆ jaws +14/+9/+4; **Damage** 2d6+5 piercing plus Grab
 
-**Ranged** ◆ sand blast +12 (range 30 feet); **Damage** 2d10 slashing
+**Ranged** ◆ sand blast +12/+7/+2 (range 30 feet); **Damage** 2d10 slashing
 
 **Choking Sands** ◆◆ (air, earth, primal) The sand wolf discorporates into a cloud of whirling sand. It can Stride, moving freely through occupied spaces. Any creatures within those spaces take 2d10 damage and must attempt a DC 19 Reflex save. **Critical Success** 
 **Success** 

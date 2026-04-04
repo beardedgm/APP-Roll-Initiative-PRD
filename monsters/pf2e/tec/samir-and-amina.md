@@ -11,6 +11,8 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 **Skills** Deception +14, Diplomacy +14, Occultism +13, Performance +16, Theater Lore +11
 
+**Recall Knowledge - Spirit** (Religion): DC 22
+
 **STR** -5, **DEX** +4, **CON** +2, **INT** +0, **WIS** +3, **CHA** +5
 
 **Thespian Aura** (aura, emotion, mental, occult) 30 feet. The muse phantom inspires a supernaturally extreme emotional response—either with biting comedy or bitter drama. Each creature that begins its turn in the aura must attempt a DC 20 Will save; on a failure, the creature is affected as long as it remains within the aura. If the muse phantom is emitting a comedic aura, affected creatures become clumsy 1; if it is emitting a dramatic aura, affected creatures instead become stupefied 1. The muse phantom can change its aura from comedic to dramatic or vice versa, or cease or activate this aura, by spending a single action, which has the concentrate trait. A creature possessed by a muse phantom is immune to this aura.
@@ -31,9 +33,9 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ◆ phantom hand +13 (agile, finesse, magical); **Damage** 2d6+5 negative
+**Melee** ◆ phantom hand +13/+9/+5 (agile, finesse, magical); **Damage** 2d6+5 negative
 
-**Ranged** ◆ resonating note +15 (magical, range 60 feet, sonic); **Damage** 2d4+5 sonic
+**Ranged** ◆ resonating note +15/+10/+5 (magical, range 60 feet, sonic); **Damage** 2d4+5 sonic
 
 **Spontaneous occult Spells** (DC 22), attack +14
 

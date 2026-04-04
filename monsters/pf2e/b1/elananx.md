@@ -11,6 +11,8 @@ ne, medium, fey, fire
 
 **Skills** Acrobatics +14, Athletics +14, Survival +14
 
+**Recall Knowledge - Fey** (Nature): DC 22
+
 **STR** +4, **DEX** +4, **CON** +2, **INT** -3, **WIS** +2, **CHA** -2
 
 ---
@@ -31,9 +33,9 @@ ne, medium, fey, fire
 
 Speed 30 feet
 
-**Melee** ◆ jaws +16 (magical); **Damage** 2d6+8 piercing and 1d6 fire
+**Melee** ◆ jaws +16/+11/+6 (magical); **Damage** 2d6+8 piercing and 1d6 fire
 
-**Melee** ◆ claw +16 (agile); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +16/+12/+8 (agile); **Damage** 2d6+8 slashing
 
 **Pack Attack** The elananx's Strikes deal an extra 1d6 damage to creatures within the reach of at least two of its allies.
 

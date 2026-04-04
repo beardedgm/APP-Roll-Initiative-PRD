@@ -11,6 +11,8 @@ uncommon, cn, medium, beast
 
 **Skills** Stealth +17, Survival +17
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 25
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +0, **WIS** +4, **CHA** +0
 
 **Echolocation** A shimmerthief can use their hearing as a precise sense at the listed range.
@@ -33,9 +35,9 @@ uncommon, cn, medium, beast
 
 Speed 25 feet
 
-**Melee** ◆ jaws +17; **Damage** 2d8+10 piercing
+**Melee** ◆ jaws +17/+12/+7; **Damage** 2d8+10 piercing
 
-**Melee** ◆ claw +17 (agile); **Damage** 2d6+10 slashing
+**Melee** ◆ claw +17/+13/+9 (agile); **Damage** 2d6+10 slashing
 
 **Innate primal Spells** (DC 25), attack +17
 

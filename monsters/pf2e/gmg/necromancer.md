@@ -11,6 +11,8 @@ ne, medium, human, humanoid
 
 **Skills** Arcana +13, Crafting +11, Intimidation +8, Religion +10
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** +4, **WIS** +3, **CHA** -1
 
 **Items** light mace, hooded robe, scroll of spectral hand, spellbook (Abominable Missives of the Atrophied)
@@ -29,7 +31,7 @@ ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ light mace +12 (agile, finesse, shove); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ light mace +12/+8/+4 (agile, finesse, shove); **Damage** 1d4+4 bludgeoning
 
 **Wizard Prepared Spells** (DC 21), attack +13
 

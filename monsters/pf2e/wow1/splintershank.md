@@ -11,6 +11,8 @@ tiny, fey, plant
 
 **Skills** Acrobatics +15, Athletics +13, Nature +11, Religion +13, Stealth +15
 
+**Recall Knowledge - Fey** (Nature): DC 22
+
 **STR** +3, **DEX** +5, **CON** +3, **INT** +1, **WIS** +3, **CHA** +2
 
 **Items** wand of hawthorn|TV
@@ -29,9 +31,9 @@ tiny, fey, plant
 
 Speed 25 feet
 
-**Melee** ◆ claw +15 (agile, finesse); **Damage** 2d6+7 slashing
+**Melee** ◆ claw +15/+11/+7 (agile, finesse); **Damage** 2d6+7 slashing
 
-**Ranged** ◆ splinter +15 (deadly <d6>, range increment <30 feet>); **Damage** 2d6+5 piercing
+**Ranged** ◆ splinter +15/+10/+5 (deadly <d6>, range increment <30 feet>); **Damage** 2d6+5 piercing
 
 **Prepared primal Spells** (DC 24), attack +16
 

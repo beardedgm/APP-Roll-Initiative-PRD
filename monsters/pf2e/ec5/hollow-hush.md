@@ -11,6 +11,8 @@ unique, ce, large, aberration
 
 **Skills** Athletics +32, Deception +35, Intimidation +35, Medicine +33, Occultism +31, Stealth +31
 
+**Recall Knowledge - Aberration** (Occultism): DC 48
+
 **STR** +6, **DEX** +5, **CON** +4, **INT** +5, **WIS** +7, **CHA** +9
 
 ---
@@ -27,7 +29,7 @@ unique, ce, large, aberration
 
 Speed 40 feet, air walk
 
-**Melee** ◆ claw +35 (agile, magical, reach <10 feet>); **Damage** 3d10+14 slashing
+**Melee** ◆ claw +35/+31/+27 (agile, magical, reach <10 feet>); **Damage** 3d10+14 slashing
 
 **Innate occult Spells** (DC 42)
 

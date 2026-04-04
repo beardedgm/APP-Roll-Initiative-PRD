@@ -11,6 +11,8 @@ unique, ne, medium, construct
 
 **Skills** Acrobatics +35, Athletics +35, Deception +38, Diplomacy +38, Occultism +33
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 50
+
 **STR** +7, **DEX** +7, **CON** +7, **INT** +2, **WIS** +3, **CHA** +10
 
 **Items** harrow deck (53 cards; function as darts)
@@ -37,9 +39,9 @@ unique, ne, medium, construct
 
 Speed 25 feet, fly 40 feet
 
-**Melee** ◆ claws +37 (magical, versatile <P>); **Damage** 4d12+15 slashing
+**Melee** ◆ claws +37/+32/+27 (magical, versatile <P>); **Damage** 4d12+15 slashing
 
-**Ranged** ◆ harrow card +37 (agile, magical, range increment <20 feet>, thrown); **Damage** 4d6+15 piercing
+**Ranged** ◆ harrow card +37/+33/+29 (agile, magical, range increment <20 feet>, thrown); **Damage** 4d6+15 piercing
 
 **Innate occult Spells** (DC 42), attack +34
 

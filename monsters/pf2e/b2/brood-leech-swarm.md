@@ -9,6 +9,8 @@ n, large, amphibious, animal, swarm
 
 **Skills** Athletics +8, Stealth +11
 
+**Recall Knowledge - Animal** (Nature): DC 19
+
 **STR** +0, **DEX** +3, **CON** +4, **INT** -5, **WIS** +1, **CHA** -5
 
 ---

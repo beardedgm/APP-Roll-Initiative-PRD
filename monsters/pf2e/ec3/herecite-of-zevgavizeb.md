@@ -11,6 +11,8 @@ uncommon, ce, medium, undead
 
 **Skills** Athletics +20, Intimidation +23, Religion +22, Zevgavizeb Lore +19
 
+**Recall Knowledge - Undead** (Religion): DC 29
+
 **STR** +6, **DEX** +4, **CON** +5, **INT** +1, **WIS** +4, **CHA** +7
 
 **Items** +1 striking spiked gauntlet
@@ -35,7 +37,7 @@ uncommon, ce, medium, undead
 
 Speed 30 feet
 
-**Melee** ◆ unholy spiked gauntlet +22 (agile, free-hand); **Damage** 2d4+10 piercing plus 1d6 evil
+**Melee** ◆ unholy spiked gauntlet +22/+18/+14 (agile, free-hand); **Damage** 2d4+10 piercing plus 1d6 evil
 
 **Innate divine Spells** (DC 28)
 

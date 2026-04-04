@@ -11,6 +11,8 @@ rare, ce, huge, aberration, fiend
 
 **Skills** Acrobatics +30, Athletics +32, Deception +29, Stealth +32, Survival +28
 
+**Recall Knowledge - Aberration** (Occultism, Religion): DC 41
+
 **STR** +9, **DEX** +7, **CON** +6, **INT** -1, **WIS** +5, **CHA** +6
 
 ---
@@ -33,11 +35,11 @@ rare, ce, huge, aberration, fiend
 
 Speed 20 feet, fly 60 feet
 
-**Melee** ◆ jaws +34 (chaotic, evil, magical, reach <15 feet>); **Damage** 3d12+17 piercing plus paralytic spittle plus paralytic spittle
+**Melee** ◆ jaws +34/+29/+24 (chaotic, evil, magical, reach <15 feet>); **Damage** 3d12+17 piercing plus paralytic spittle plus paralytic spittle
 
-**Melee** ◆ claw +32 (agile, chaotic, evil, magical, reach <15 feet>); **Damage** 3d10+15 slashing
+**Melee** ◆ claw +32/+28/+24 (agile, chaotic, evil, magical, reach <15 feet>); **Damage** 3d10+15 slashing
 
-**Ranged** ◆ spittle +30 (range <60 feet>); **Damage** 6d6 acid and paralytic saliva plus paralytic saliva
+**Ranged** ◆ spittle +30/+25/+20 (range <60 feet>); **Damage** 6d6 acid and paralytic saliva plus paralytic saliva
 
 **Innate divine Spells** (DC 35)
 

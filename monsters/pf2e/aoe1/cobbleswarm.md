@@ -9,6 +9,8 @@ n, large, aberration, earth, swarm
 
 **Skills** Athletics +10, Stealth +13
 
+**Recall Knowledge - Aberration** (Occultism): DC 16
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** -3, **WIS** +3, **CHA** +0
 
 **Clutching Cobbles** The cobbleswarm's space is terrain.

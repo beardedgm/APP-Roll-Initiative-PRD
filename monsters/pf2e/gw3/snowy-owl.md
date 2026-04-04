@@ -11,6 +11,8 @@ unique, n, medium, human, humanoid
 
 **Skills** Astronomy Lore +15, Fortune-telling Lore +15, Medicine +16, Nature +16, Occultism +15, Religion +14, Survival +16
 
+**Recall Knowledge - Humanoid** (Society): DC 33
+
 **STR** +0, **DEX** +1, **CON** +2, **INT** +1, **WIS** +5, **CHA** +4
 
 **Items** hide clothing
@@ -31,7 +33,7 @@ unique, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ fist +12 (agile, finesse, nonlethal, unarmed); **Damage** 1d4 bludgeoning
+**Melee** ◆ fist +12/+8/+4 (agile, finesse, nonlethal, unarmed); **Damage** 1d4 bludgeoning
 
 **Prepared occult Spells** (DC 18), attack +12
 

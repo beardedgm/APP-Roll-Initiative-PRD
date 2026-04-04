@@ -11,6 +11,8 @@ ne, medium, fey, fire
 
 **Skills** Acrobatics +25, Athletics +25, Deception +30, Intimidation +30, Nature +30, Stealth +27, Survival +27
 
+**Recall Knowledge - Fey** (Nature): DC 34
+
 **STR** +6, **DEX** +4, **CON** +8, **INT** +4, **WIS** +6, **CHA** +8
 
 ---
@@ -38,9 +40,9 @@ ne, medium, fey, fire
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ claw +29; **Damage** 3d6+14 slashing plus 3d6 fire and 1d6 persistent fire
+**Melee** ◆ claw +29/+24/+19; **Damage** 3d6+14 slashing plus 3d6 fire and 1d6 persistent fire
 
-**Ranged** ◆ flame jet +29 (fire, range increment <40 feet>); **Damage** 6d6 fire plus 2d6 persistent fire
+**Ranged** ◆ flame jet +29/+24/+19 (fire, range increment <40 feet>); **Damage** 6d6 fire plus 2d6 persistent fire
 
 **Innate primal Spells** (DC 36), attack +28
 

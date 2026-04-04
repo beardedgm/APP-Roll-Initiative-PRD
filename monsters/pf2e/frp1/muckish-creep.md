@@ -11,6 +11,8 @@ ne, medium, aberration
 
 **Skills** Acrobatics +15, Athletics +18, Stealth +17
 
+**Recall Knowledge - Aberration** (Occultism): DC 24
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** +0, **WIS** +0, **CHA** +1
 
 ---
@@ -31,9 +33,9 @@ ne, medium, aberration
 
 Speed 25 feet
 
-**Melee** ◆ fist +18; **Damage** 2d10+10 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +18/+13/+8; **Damage** 2d10+10 bludgeoning plus Grab plus Grab
 
-**Ranged** ◆ mud ball +18 (thrown <30 feet>); **Damage** 2d6+10 bludgeoning plus blinding mud plus blinding mud
+**Ranged** ◆ mud ball +18/+13/+8 (thrown <30 feet>); **Damage** 2d6+10 bludgeoning plus blinding mud plus blinding mud
 
 **Blinding Mud** When a muckish creep hits a creature with a mud ball Strike, that creature becomes dazzled (or blinded on a critical hit) The creature can use an Interact action to wipe away the mud and remove the dazzled or blinded condition.
 

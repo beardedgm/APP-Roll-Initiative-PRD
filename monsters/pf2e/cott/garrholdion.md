@@ -9,6 +9,8 @@ rare, huge, construct, incorporeal, mindless
 
 **Skills** Acrobatics +36, Athletics +38, Faction Lore +41
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 45
+
 **STR** +10, **DEX** +6, **CON** +7, **INT** -5, **WIS** +5, **CHA** -2
 
 **Items** +3 major striking longsword, supreme reinforcing steel shield (Hardness 12, HP 128, BT 64)
@@ -41,9 +43,9 @@ rare, huge, construct, incorporeal, mindless
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ longsword +38 (magical, versatile <P>); **Damage** 4d8+18 slashing
+**Melee** ◆ longsword +38/+33/+28 (magical, versatile <P>); **Damage** 4d8+18 slashing
 
-**Ranged** ◆ belief ray +34 (magical, range 60 feet, spirit); **Damage** 8d6 spirit plus seed of doubt
+**Ranged** ◆ belief ray +34/+29/+24 (magical, range 60 feet, spirit); **Damage** 8d6 spirit plus seed of doubt
 
 **Innate occult Spells** (DC 39)
 

@@ -11,6 +11,8 @@ unique, ce, medium, skeleton, undead
 
 **Skills** Acrobatics +11, Athletics +12, Crafting +11, Intimidation +11, Stealth +13
 
+**Recall Knowledge - Undead** (Religion): DC 30
+
 **STR** +5, **DEX** +4, **CON** +2, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** hammer, hand drill, leather carpenter's apron (functions as leather armor), key ring (contains keys to all non-secret doors on the ground floor)
@@ -31,7 +33,7 @@ unique, ce, medium, skeleton, undead
 
 Speed 25 feet
 
-**Melee** ◆ hand drill +14; **Damage** 1d6+7 piercing plus 2d6 negative
+**Melee** ◆ hand drill +14/+9/+4; **Damage** 1d6+7 piercing plus 2d6 negative
 
 **Drill Deeper** ◆ (manipulate) **Requirements** Nils Kelveken hit a creature with a hand drill Strike with his previous action; Nils grabs the drill and twists, drilling deeper into the victim. He automatically deals 1d8 piercing damage, and the creature being drilled into must succeed at a DC 22 Fortitude save to avoid taking an additional 1d6 persistent bleed damage (2d6 on a critical failure).
 

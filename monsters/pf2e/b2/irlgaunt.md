@@ -11,6 +11,8 @@ ne, large, aberration, earth
 
 **Skills** Acrobatics +25, Athletics +26, Deception +23, Stealth +27, Survival +22
 
+**Recall Knowledge - Aberration** (Occultism): DC 31
+
 **STR** +7, **DEX** +8, **CON** +5, **INT** +4, **WIS** +5, **CHA** +4
 
 ---
@@ -27,9 +29,9 @@ ne, large, aberration, earth
 
 Speed 30 feet, climb 30 feet, stone step
 
-**Melee** ◆ jaws +26; **Damage** 3d8+13 piercing plus 2d6 acid
+**Melee** ◆ jaws +26/+21/+16; **Damage** 3d8+13 piercing plus 2d6 acid
 
-**Melee** ◆ legs +26 (agile); **Damage** 3d10+13 bludgeoning
+**Melee** ◆ legs +26/+22/+18 (agile); **Damage** 3d10+13 bludgeoning
 
 **Innate primal Spells** (DC 31)
 

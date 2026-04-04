@@ -11,6 +11,8 @@ ce, large, dragon, fire
 
 **Skills** Acrobatics +10, Athletics +12, Stealth +9, Survival +10
 
+**Recall Knowledge - Dragon** (Arcana): DC 20
+
 **STR** +5, **DEX** +1, **CON** +3, **INT** -1, **WIS** +3, **CHA** +0
 
 **Smoke Vision** Smoke doesn't impair a flame drake's vision; it ignores concealment from smoke.
@@ -33,9 +35,9 @@ ce, large, dragon, fire
 
 Speed 20 feet, fly 50 feet
 
-**Melee** ◆ fangs +14; **Damage** 2d8+5 piercing plus 1d6 fire
+**Melee** ◆ fangs +14/+9/+4; **Damage** 2d8+5 piercing plus 1d6 fire
 
-**Melee** ◆ tail +14 (reach <10 feet>); **Damage** 2d6+5 bludgeoning
+**Melee** ◆ tail +14/+9/+4 (reach <10 feet>); **Damage** 2d6+5 bludgeoning
 
 **Draconic Frenzy** ◆◆ The flame drake makes two fangs Strikes and one tail Strike in any order.
 

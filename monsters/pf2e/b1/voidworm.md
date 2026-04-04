@@ -11,6 +11,8 @@ cn, tiny, monitor, protean
 
 **Skills** Acrobatics +7, Deception +6, Religion +4, Stealth +7
 
+**Recall Knowledge - Monitor** (Religion): DC 15
+
 **STR** -1, **DEX** +4, **CON** +0, **INT** -1, **WIS** -1, **CHA** +1
 
 **Entropy Sense** (divination, divine, prediction) A voidworm can anticipate the most likely presence of a creature through a supernatural insight into chaotic probabilities and chance. This grants it the ability to sense creatures within the listed range. A creature under the effects of nondetection or that is otherwise shielded from divinations and predictions cannot be noticed via entropy sense.
@@ -31,9 +33,9 @@ cn, tiny, monitor, protean
 
 Speed 20 feet, fly 40 feet, freedom of movement
 
-**Melee** ◆ jaws +9 (chaotic, finesse, magical); **Damage** 1d8-1 piercing plus 1d4 chaotic
+**Melee** ◆ jaws +9/+4/-1 (chaotic, finesse, magical); **Damage** 1d8-1 piercing plus 1d4 chaotic
 
-**Melee** ◆ tail +9 (chaotic, finesse, magical); **Damage** 1d4-1 slashing plus 1d4 chaotic and confounding lash plus confounding lash
+**Melee** ◆ tail +9/+4/-1 (chaotic, finesse, magical); **Damage** 1d4-1 slashing plus 1d4 chaotic and confounding lash plus confounding lash
 
 **Innate divine Spells** (DC 16)
 

@@ -11,6 +11,8 @@ rare, medium, ghost, incorporeal, spirit, undead, unholy, wood
 
 **Skills** Acrobatics +23, Nature +19, Stealth +21
 
+**Recall Knowledge - Spirit** (Religion): DC 33
+
 **STR** -5, **DEX** +6, **CON** +3, **INT** +2, **WIS** +4, **CHA** +6
 
 ---
@@ -29,7 +31,7 @@ rare, medium, ghost, incorporeal, spirit, undead, unholy, wood
 
 Speed fly 25 feet
 
-**Melee** ◆ ghostly hand +23 (agile, finesse, magical); **Damage** 2d10+13 void plus phantom blight
+**Melee** ◆ ghostly hand +23/+19/+15 (agile, finesse, magical); **Damage** 2d10+13 void plus phantom blight
 
 **Corrupting Gaze** ◆◆ The ghost stares at a creature it can see within 30 feet. The target takes 6d6 void damage with a DC 30 basic Will save. A creature that fails its save is also stupefied 1 for 1 minute. **Phantom Blight**
 (mental, poison); **Saving Throw** DC 30 Fortitude

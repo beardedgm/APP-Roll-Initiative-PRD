@@ -11,6 +11,8 @@ ce, medium, drow, elf, humanoid
 
 **Skills** Deception +8, Intimidation +8, Religion +9, Society +5, Stealth +7
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +1, **DEX** +2, **CON** +1, **INT** +0, **WIS** +4, **CHA** +1
 
 **Items** chain mail, hand crossbow (10 bolts), steel shield (Hardness 5, HP 20, BT 10), lethargy poison (4 doses), rapier, religious symbol
@@ -33,9 +35,9 @@ ce, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ rapier +9 (deadly <1d8>, disarm, finesse); **Damage** 1d6+2 piercing
+**Melee** ◆ rapier +9/+4/-1 (deadly <1d8>, disarm, finesse); **Damage** 1d6+2 piercing
 
-**Ranged** ◆ hand crossbow +9 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing plus lethargy poison plus lethargy poison
+**Ranged** ◆ hand crossbow +9/+4/-1 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing plus lethargy poison plus lethargy poison
 
 **Prepared divine Spells** (DC 21)
 

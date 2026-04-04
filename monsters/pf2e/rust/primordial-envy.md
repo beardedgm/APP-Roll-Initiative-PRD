@@ -9,6 +9,8 @@ rare, n, large, ooze
 
 **Skills** Athletics +9
 
+**Recall Knowledge - Ooze** (Occultism): DC 23
+
 **STR** +2, **DEX** -4, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 **Magic Sense** A primordial envy can detect magical auras, items, and spellcasters within 30 feet.
@@ -31,7 +33,7 @@ rare, n, large, ooze
 
 Speed 15 feet
 
-**Melee** ◆ pseudopod +9 (reach <10 feet>, magical); **Damage** 1d10+4 bludgeoning plus 1d6 mental and Grab plus Grab
+**Melee** ◆ pseudopod +9/+4/-1 (reach <10 feet>, magical); **Damage** 1d10+4 bludgeoning plus 1d6 mental and Grab plus Grab
 
 **Spell Drain** ◆ (abjuration, arcane) The primordial envy attempts to drain magic from a spellcasting creature that it has grabbed or restrained. The spellcasting creature must attempt a DC 20 Will save. **Critical Success** The creature is unaffected and is temporarily immune to Spell Drain for 24 hours.
 **Success** The creature takes 1d6 mental damage.

@@ -11,6 +11,8 @@ lg, medium, archon, celestial
 
 **Skills** Athletics +12, Intimidation +10, Religion +9, Stealth +10
 
+**Recall Knowledge - Celestial** (Religion): DC 19
+
 **STR** +4, **DEX** +2, **CON** +4, **INT** +0, **WIS** +3, **CHA** +2
 
 **Items** greatsword, full plate
@@ -31,9 +33,9 @@ lg, medium, archon, celestial
 
 Speed 35 feet
 
-**Melee** ◆ greatsword +14 (good, magical, versatile <P>); **Damage** 1d12+6 slashing plus 1d6 good
+**Melee** ◆ greatsword +14/+9/+4 (good, magical, versatile <P>); **Damage** 1d12+6 slashing plus 1d6 good
 
-**Melee** ◆ jaws +14 (agile, good, magical); **Damage** 1d6+6 piercing plus 1d6 good
+**Melee** ◆ jaws +14/+10/+6 (agile, good, magical); **Damage** 1d6+6 piercing plus 1d6 good
 
 **Innate divine Spells** (DC 19)
 

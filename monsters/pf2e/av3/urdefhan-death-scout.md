@@ -11,6 +11,8 @@ ne, medium, humanoid, urdefhan
 
 **Skills** Acrobatics +14, Athletics +12, Intimidation +11, Stealth +14, Thievery +14
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +2, **DEX** +4, **CON** +3, **INT** +0, **WIS** +3, **CHA** +1
 
 ---
@@ -29,11 +31,11 @@ ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** ◆ shauth blade +17 (agile, deadly <d6>, finesse); **Damage** 1d6+4 slashing plus 1d6 persistent bleed and Wicked Bite plus Wicked Bite
+**Melee** ◆ shauth blade +17/+13/+9 (agile, deadly <d6>, finesse); **Damage** 1d6+4 slashing plus 1d6 persistent bleed and Wicked Bite plus Wicked Bite
 
-**Melee** ◆ jaws +16; **Damage** 2d6+4 piercing plus Wicked Bite plus Wicked Bite
+**Melee** ◆ jaws +16/+11/+6; **Damage** 2d6+4 piercing plus Wicked Bite plus Wicked Bite
 
-**Ranged** ◆ necrotic bomb +16 (range increment <20 feet>, splash); **Damage** 2d6 negative plus 2 negative splash damage (and sickened|CRB|sickened 2 on a critical hit)
+**Ranged** ◆ necrotic bomb +16/+11/+6 (range increment <20 feet>, splash); **Damage** 2d6 negative plus 2 negative splash damage (and sickened|CRB|sickened 2 on a critical hit)
 
 **Innate divine Spells** (DC 21), attack +13
 

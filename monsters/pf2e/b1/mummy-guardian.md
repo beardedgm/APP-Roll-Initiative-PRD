@@ -11,6 +11,8 @@ le, medium, mummy, undead
 
 **Skills** Athletics +15, Stealth +11
 
+**Recall Knowledge - Undead** (Religion): DC 22
+
 **STR** +4, **DEX** +0, **CON** +2, **INT** -2, **WIS** +4, **CHA** +2
 
 ---
@@ -31,6 +33,6 @@ le, medium, mummy, undead
 
 Speed 20 feet
 
-**Melee** ◆ fist +16; **Damage** 2d6+7 bludgeoning plus mummy rot plus mummy rot
+**Melee** ◆ fist +16/+11/+6; **Damage** 2d6+7 bludgeoning plus mummy rot plus mummy rot
 
 **Mummy Rot** (curse, disease, divine, necromancy, negative)

@@ -11,6 +11,8 @@ uncommon, medium, daemon, fiend, unholy
 
 **Skills** Deception +18, Diplomacy +16, Intimidation +16, Legal Lore +18, Society +18, Stealth +16
 
+**Recall Knowledge - Fiend** (Religion): DC 26
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** +6, **WIS** +2, **CHA** +4
 
 **Items** gavel (as +1 striking light mace)
@@ -37,9 +39,9 @@ uncommon, medium, daemon, fiend, unholy
 
 Speed 25 feet
 
-**Melee** ◆ gavel +18 (finesse, magical); **Damage** 2d4+8 bludgeoning
+**Melee** ◆ gavel +18/+13/+8 (finesse, magical); **Damage** 2d4+8 bludgeoning
 
-**Melee** ◆ claw +18 (agile, finesse); **Damage** 2d8+8 slashing
+**Melee** ◆ claw +18/+14/+10 (agile, finesse); **Damage** 2d8+8 slashing
 
 **Innate divine Spells** (DC 26), attack +18
 

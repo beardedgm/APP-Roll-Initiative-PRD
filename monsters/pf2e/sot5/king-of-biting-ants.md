@@ -11,6 +11,8 @@ unique, le, medium, aberration, swarm
 
 **Skills** Acrobatics +36, Arcana +34, Crafting +34, Deception +38, Intimidation +38, Occultism +34, Society +32, Stealth +36
 
+**Recall Knowledge - Aberration** (Occultism): DC 49
+
 **STR** +5, **DEX** +9, **CON** +6, **INT** +5, **WIS** +5, **CHA** +9
 
 **Items** wand of manifold missiles (7th)
@@ -37,7 +39,7 @@ unique, le, medium, aberration, swarm
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ tendril +34 (reach <10 feet>); **Damage** 4d10+15 persistent piercing damage plus swarming bites
+**Melee** ◆ tendril +34/+29/+24 (reach <10 feet>); **Damage** 4d10+15 persistent piercing damage plus swarming bites
 
 **Spontaneous occult Spells** (DC 44), attack +34
 

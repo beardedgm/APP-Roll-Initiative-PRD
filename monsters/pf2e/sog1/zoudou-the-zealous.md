@@ -11,6 +11,8 @@ unique, ce, medium, aberration
 
 **Skills** Acrobatics +9, Deception +11, Diplomacy +9, Occultism +10, Religion +9, Society +8
 
+**Recall Knowledge - Aberration** (Occultism): DC 28
+
 **STR** +2, **DEX** +4, **CON** +3, **INT** +3, **WIS** +2, **CHA** +4
 
 **Items** Fiend's Hunger|SoG1, tattered ledger, twisted knot of wood (religious symbol of Kugaptee)
@@ -39,7 +41,7 @@ unique, ce, medium, aberration
 
 Speed 25 feet
 
-**Melee** ◆ Fiend's Hunger +9 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
+**Melee** ◆ Fiend's Hunger +9/+5/+1 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
 
 **Prepared divine Spells** (DC 21)
 

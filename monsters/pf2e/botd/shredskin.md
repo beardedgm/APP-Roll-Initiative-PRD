@@ -11,6 +11,8 @@ ne, small, undead
 
 **Skills** Acrobatics +10, Athletics +8, Deception +8, Stealth +8
 
+**Recall Knowledge - Undead** (Religion): DC 16
+
 **STR** +2, **DEX** +4, **CON** +0, **INT** -1, **WIS** +0, **CHA** +2
 
 ---
@@ -27,9 +29,9 @@ ne, small, undead
 
 Speed fly 30 feet
 
-**Melee** ◆ claw +10 (agile, finesse, reach <0 feet>); **Damage** 1d6+4 slashing plus Grab
+**Melee** ◆ claw +10/+6/+2 (agile, finesse, reach <0 feet>); **Damage** 1d6+4 slashing plus Grab
 
-**Melee** ◆ jaws +11 (finesse, reach <0 feet>); **Damage** 1d8+4 piercing
+**Melee** ◆ jaws +11/+6/+1 (finesse, reach <0 feet>); **Damage** 1d8+4 piercing
 
 **Compression** When a shredskin successfully Squeezes, it moves through the tight space at full speed. Narrow confines are not terrain for a shredskin.
 

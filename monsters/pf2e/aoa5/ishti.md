@@ -9,6 +9,8 @@ unique, ce, large, beast
 
 **Skills** Athletics +33, Crafting +31, Deception +32, Intimidation +30, Occultism +29, Stealth +33
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 48
+
 **STR** +9, **DEX** +7, **CON** +3, **INT** +3, **WIS** +3, **CHA** +6
 
 **Items** +2 corrosive greater striking dagger, nightmare salt|TV|nightmare salt poison (2), oblivion essence|AoA5|oblivion essence poison, weeping midnight|AoA5|weeping midnight poison (3)
@@ -29,7 +31,7 @@ unique, ce, large, beast
 
 Speed 40 feet, fly 40 feet, swim 40 feet, climb 40 feet
 
-**Melee** ◆ corrosive dagger +37 (agile, magical, versatile <S>); **Damage** 3d4+17 piercing plus 1d6 acid
+**Melee** ◆ corrosive dagger +37/+33/+29 (agile, magical, versatile <S>); **Damage** 3d4+17 piercing plus 1d6 acid
 
 **Innate occult Spells** (DC 40)
 

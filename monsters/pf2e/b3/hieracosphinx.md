@@ -11,6 +11,8 @@ ce, large, beast
 
 **Skills** Acrobatics +11, Athletics +13, Intimidation +9, Survival +12
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 20
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** -2, **WIS** +3, **CHA** +0
 
 ---
@@ -29,9 +31,9 @@ ce, large, beast
 
 Speed 30 feet, fly 60 feet
 
-**Melee** ◆ beak +15; **Damage** 2d10+4 slashing
+**Melee** ◆ beak +15/+10/+5; **Damage** 2d10+4 slashing
 
-**Melee** ◆ claw +15 (agile); **Damage** 2d8+4 slashing
+**Melee** ◆ claw +15/+11/+7 (agile); **Damage** 2d8+4 slashing
 
 **Pounce** ◆ The hieracosphinx Strides and makes a Strike at the end of that movement. If they began this action hidden, they remain hidden until after the attack.
 

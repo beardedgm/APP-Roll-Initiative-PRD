@@ -11,6 +11,8 @@ uncommon, ne, large, aberration, swarm
 
 **Skills** Acrobatics +22, Stealth +22, Survival +18
 
+**Recall Knowledge - Aberration** (Occultism): DC 30
+
 **STR** +4, **DEX** +5, **CON** +6, **INT** -1, **WIS** +3, **CHA** +0
 
 ---

@@ -11,6 +11,8 @@ uncommon, ce, medium, humanoid, morlock
 
 **Skills** Acrobatics +8, Athletics +9, Crafting +10, Stealth +10
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** +1, **WIS** +3, **CHA** +0
 
 **Items** projectile launcher (5 handfuls of junk), warhammer
@@ -29,11 +31,11 @@ uncommon, ce, medium, humanoid, morlock
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ warhammer +11 (shove); **Damage** 1d8+6 bludgeoning
+**Melee** ◆ warhammer +11/+6/+1 (shove); **Damage** 1d8+6 bludgeoning
 
-**Melee** ◆ jaws +11 (agile); **Damage** 1d4+6 piercing
+**Melee** ◆ jaws +11/+7/+3 (agile); **Damage** 1d4+6 piercing
 
-**Ranged** ◆ projectile launcher +10 (deadly <d8>, range increment <50 feet>, versatile <P>); **Damage** 1d6+6 bludgeoning
+**Ranged** ◆ projectile launcher +10/+5/+0 (deadly <d8>, range increment <50 feet>, versatile <P>); **Damage** 1d6+6 bludgeoning
 
 **Improvised Projectile** ◆ The morlock engineer quickly crafts an improvised projectile from objects it carries or that are readily accessible in adjacent squares. Where unusual materials are available, an improvised projectile might deal damage other than bludgeoning or piercing—for example, a morlock engineer by a campfire could build a projectile that deals fire damage.
 

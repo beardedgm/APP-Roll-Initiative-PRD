@@ -11,6 +11,8 @@ ne, medium, aberration
 
 **Skills** Athletics +21, Stealth +16
 
+**Recall Knowledge - Aberration** (Occultism): DC 24
+
 **STR** +7, **DEX** +4, **CON** +6, **INT** +3, **WIS** +4, **CHA** +3
 
 ---
@@ -31,8 +33,8 @@ ne, medium, aberration
 
 Speed 30 feet
 
-**Melee** ◆ fist +20 (agile); **Damage** 2d10+8 bludgeoning
+**Melee** ◆ fist +20/+16/+12 (agile); **Damage** 2d10+8 bludgeoning
 
-**Melee** ◆ jaws +20; **Damage** 2d8+8 piercing plus Grab plus Grab
+**Melee** ◆ jaws +20/+15/+10; **Damage** 2d8+8 piercing plus Grab plus Grab
 
 **Pounce** ◆ The k'nonna Strides and makes a Strike at the end of that movement. If the k'nonna began this action hidden, they remain hidden until after this ability's Strike.

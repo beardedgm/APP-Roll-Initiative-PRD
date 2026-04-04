@@ -11,6 +11,8 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Arcana +22, Intimidation +22, Stealth +21
 
+**Recall Knowledge - Spirit** (Religion): DC 27
+
 **STR** -5, **DEX** +3, **CON** +0, **INT** +6, **WIS** +3, **CHA** +6
 
 **Site Bound**
@@ -33,7 +35,7 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ◆ ghostly hand +21 (agile, finesse, magical); **Damage** 2d8+12 negative
+**Melee** ◆ ghostly hand +21/+17/+13 (agile, finesse, magical); **Damage** 2d8+12 negative
 
 **Innate arcane Spells** (DC 29), attack +23
 

@@ -11,6 +11,8 @@ uncommon, ce, large, fiend
 
 **Skills** Athletics +25, Intimidation +22, Stealth +23, Survival +25
 
+**Recall Knowledge - Fiend** (Religion): DC 32
+
 **STR** +7, **DEX** +5, **CON** +6, **INT** +0, **WIS** +5, **CHA** +4
 
 **Survival** +25 Str +7, Dex +5, Con +6, Int +0, Wis +5
@@ -37,11 +39,11 @@ uncommon, ce, large, fiend
 
 Speed 40 feet, swim 30 feet
 
-**Melee** ◆ jaws +25 (chaotic, evil, magical); **Damage** 3d10+13 piercing
+**Melee** ◆ jaws +25/+20/+15 (chaotic, evil, magical); **Damage** 3d10+13 piercing
 
-**Melee** ◆ claw +27 (agile, chaotic, evil, magical, reach <10 feet>); **Damage** 2d8+13 slashing plus Grab plus Grab
+**Melee** ◆ claw +27/+23/+19 (agile, chaotic, evil, magical, reach <10 feet>); **Damage** 2d8+13 slashing plus Grab plus Grab
 
-**Melee** ◆ tail +25 (chaotic, evil, magical, reach <15 feet>, versatile <P>); **Damage** 3d6+13 bludgeoning plus Knockdown plus Knockdown
+**Melee** ◆ tail +25/+20/+15 (chaotic, evil, magical, reach <15 feet>, versatile <P>); **Damage** 3d6+13 bludgeoning plus Knockdown plus Knockdown
 
 **Innate divine Spells** (DC 28)
 

@@ -11,6 +11,8 @@ rare, le, medium, beast, human, humanoid, werecreature
 
 **Skills** Athletics +37, Intimidation +33, Society +27
 
+**Recall Knowledge - Beast** (Arcana, Nature, Society): DC 44
+
 **STR** +10, **DEX** +5, **CON** +5, **INT** +0, **WIS** +5, **CHA** +6
 
 **Items** +2 greater striking khopesh (Pathfinder Lost Omens Gods & Magic 120), major sturdy shield (Hardness 17, HP 136, BT 68)
@@ -37,9 +39,9 @@ rare, le, medium, beast, human, humanoid, werecreature
 
 Speed 40 feet
 
-**Melee** ◆ mandibles +36; **Damage** 3d10+20 slashing plus Knockdown and curse of the wereant
+**Melee** ◆ mandibles +36/+31/+26; **Damage** 3d10+20 slashing plus Knockdown and curse of the wereant
 
-**Melee** ◆ khopesh +38 (magical, trip); **Damage** 3d8+20 slashing
+**Melee** ◆ khopesh +38/+33/+28 (magical, trip); **Damage** 3d8+20 slashing
 
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) As wereant disciple.
 

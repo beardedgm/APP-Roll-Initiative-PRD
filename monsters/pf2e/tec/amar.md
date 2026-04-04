@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Deception +13, Diplomacy +15, Medicine +11, Occultism +15, Performance +16, Society +13, Stealth +13
 
+**Recall Knowledge - Humanoid** (Society): DC 32
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +4, **WIS** +2, **CHA** +5
 
 **Items** leather armor, lute, 
@@ -27,7 +29,7 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ rapier +16 (deadly d8, disarm, finesse); **Damage** 2d6+8 piercing
+**Melee** ◆ rapier +16/+11/+6 (deadly d8, disarm, finesse); **Damage** 2d6+8 piercing
 
 **Spontaneous occult Spells** (DC 24), attack +16
 

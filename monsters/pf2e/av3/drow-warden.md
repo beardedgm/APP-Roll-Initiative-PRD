@@ -11,6 +11,8 @@ uncommon, cn, medium, drow, elf, humanoid
 
 **Skills** Athletics +12, Intimidation +8, Stealth +9, Survival +11
 
+**Recall Knowledge - Humanoid** (Society): DC 21
+
 **STR** +4, **DEX** +3, **CON** +1, **INT** +0, **WIS** +3, **CHA** +0
 
 **Items** chainmail, elven curve blade, hand crossbow (10 bolts), lethargy poison (3)
@@ -31,9 +33,9 @@ uncommon, cn, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ elven curve blade +14 (forceful); **Damage** 1d8+6 slashing plus hampering slash plus hampering slash
+**Melee** ◆ elven curve blade +14/+9/+4 (forceful); **Damage** 1d8+6 slashing plus hampering slash plus hampering slash
 
-**Ranged** ◆ hand crossbow +13 (range increment <60 feet>, reload <1>); **Damage** 1d6+2 piercing plus lethargy poison plus lethargy poison
+**Ranged** ◆ hand crossbow +13/+8/+3 (range increment <60 feet>, reload <1>); **Damage** 1d6+2 piercing plus lethargy poison plus lethargy poison
 
 **Innate divine Spells** (DC 19)
 

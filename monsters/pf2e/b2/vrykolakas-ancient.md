@@ -11,6 +11,8 @@ uncommon, ne, medium, undead, vampire
 
 **Skills** Acrobatics +24, Athletics +29, Deception +27, Intimidation +27, Religion +19, Stealth +26, Survival +23
 
+**Recall Knowledge - Undead** (Religion): DC 33
+
 **STR** +8, **DEX** +5, **CON** +4, **INT** +0, **WIS** +4, **CHA** +8
 
 **Children of the Night** (divine, enchantment, mental)
@@ -37,9 +39,9 @@ uncommon, ne, medium, undead, vampire
 
 Speed 40 feet, climb 20 feet
 
-**Melee** ◆ fangs +27; **Damage** 3d10+17 piercing plus Drink Blood plus Drink Blood
+**Melee** ◆ fangs +27/+22/+17; **Damage** 3d10+17 piercing plus Drink Blood plus Drink Blood
 
-**Melee** ◆ claw +27 (agile); **Damage** 3d6+17 slashing
+**Melee** ◆ claw +27/+23/+19 (agile); **Damage** 3d6+17 slashing
 
 **Innate divine Spells** (DC 33)
 

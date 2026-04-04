@@ -11,6 +11,8 @@ uncommon, ce, medium, humanoid
 
 **Skills** Acrobatics +24, Athletics +26, Deception +29, Intimidation +29, Occultism +22, Stealth +26, Lore +24 (its home settlement or country)
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +7, **DEX** +5, **CON** +5, **INT** +3, **WIS** +4, **CHA** +6
 
 ---
@@ -29,9 +31,9 @@ uncommon, ce, medium, humanoid
 
 Speed 30 feet, fly 80 feet, climb 30 feet
 
-**Melee** ◆ jaws +30; **Damage** 3d10+15 piercing plus 1d10 mental and shameful loathing plus shameful loathing
+**Melee** ◆ jaws +30/+25/+20; **Damage** 3d10+15 piercing plus 1d10 mental and shameful loathing plus shameful loathing
 
-**Melee** ◆ talon +30 (agile); **Damage** 3d10+15 slashing plus Grab plus Grab
+**Melee** ◆ talon +30/+26/+22 (agile); **Damage** 3d10+15 slashing plus Grab plus Grab
 
 **Innate occult Spells** (DC 36), attack +28
 

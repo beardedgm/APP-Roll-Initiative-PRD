@@ -11,6 +11,8 @@ uncommon, le, medium, human, humanoid
 
 **Skills** Athletics +3, Intimidation +4, Society +1
 
+**Recall Knowledge - Humanoid** (Society): DC 15
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** +0, **WIS** +0, **CHA** +1
 
 **Items** club
@@ -27,6 +29,6 @@ uncommon, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ club +4; **Damage** 1d4+2 bludgeoning
+**Melee** ◆ club +4/-1/-6; **Damage** 1d4+2 bludgeoning
 
-**Ranged** ◆ club +4 (thrown <10 feet>); **Damage** 1d4 bludgeoning
+**Ranged** ◆ club +4/-1/-6 (thrown <10 feet>); **Damage** 1d4 bludgeoning

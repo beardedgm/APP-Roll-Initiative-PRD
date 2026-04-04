@@ -11,6 +11,8 @@ n, medium, aquatic, humanoid, merfolk
 
 **Skills** Athletics +7, Deception +6, Nature +8, Religion +8
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +3, **DEX** +2, **CON** +1, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** dagger
@@ -27,9 +29,9 @@ n, medium, aquatic, humanoid, merfolk
 
 Speed 5 feet, swim 30 feet
 
-**Melee** ◆ dagger +9 (agile, versatile <S>); **Damage** 1d4+3 piercing
+**Melee** ◆ dagger +9/+5/+1 (agile, versatile <S>); **Damage** 1d4+3 piercing
 
-**Ranged** ◆ dagger +9 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+3 piercing
+**Ranged** ◆ dagger +9/+5/+1 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+3 piercing
 
 **Prepared primal Spells** (DC 18), attack +10
 

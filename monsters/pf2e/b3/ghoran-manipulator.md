@@ -11,6 +11,8 @@ rare, n, medium, ghoran, humanoid, plant
 
 **Skills** Deception +11, Diplomacy +9, Nature +9, Performance +11, Stealth +6
 
+**Recall Knowledge - Humanoid** (Society, Nature): DC 23
+
 **STR** +0, **DEX** +1, **CON** +3, **INT** +0, **WIS** +2, **CHA** +4
 
 **Items** shortbow (20 arrows), spear
@@ -36,11 +38,11 @@ rare, n, medium, ghoran, humanoid, plant
 
 Speed 25 feet
 
-**Melee** ◆ spear +7; **Damage** 1d6+2 piercing
+**Melee** ◆ spear +7/+2/-3; **Damage** 1d6+2 piercing
 
-**Ranged** ◆ spear +8 (thrown <20 feet>); **Damage** 1d6+2 piercing
+**Ranged** ◆ spear +8/+3/-2 (thrown <20 feet>); **Damage** 1d6+2 piercing
 
-**Ranged** ◆ shortbow +8 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+2 piercing
+**Ranged** ◆ shortbow +8/+3/-2 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+2 piercing
 
 **Spontaneous occult Spells** (DC 20)
 

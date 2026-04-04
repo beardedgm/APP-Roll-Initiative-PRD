@@ -9,6 +9,8 @@ ce, medium, humanoid, orc
 
 **Skills** Athletics +7, Intimidation +4, Survival +4
 
+**Recall Knowledge - Humanoid** (Society): DC 15
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** -1, **WIS** +1, **CHA** +0
 
 **Items** battle axe, breastplate, javelin (4)
@@ -27,8 +29,8 @@ ce, medium, humanoid, orc
 
 Speed 25 feet
 
-**Melee** ◆ battle axe +7 (sweep); **Damage** 1d8 + 4 slashing
+**Melee** ◆ battle axe +7/+2/-3 (sweep); **Damage** 1d8 + 4 slashing
 
-**Melee** ◆ fist +7 (agile, nonlethal); **Damage** 1d4 + 4 bludgeoning
+**Melee** ◆ fist +7/+3/-1 (agile, nonlethal); **Damage** 1d4 + 4 bludgeoning
 
-**Ranged** ◆ javelin +5 (thrown <30 feet>); **Damage** 1d6 + 4 piercing
+**Ranged** ◆ javelin +5/+0/-5 (thrown <30 feet>); **Damage** 1d6 + 4 piercing

@@ -11,6 +11,8 @@ uncommon, ce, medium, aberration
 
 **Skills** Acrobatics +3, Athletics +5, Deception +4, Intimidation +4
 
+**Recall Knowledge - Aberration** (Occultism): DC 16
+
 **STR** +1, **DEX** +2, **CON** +2, **INT** +1, **WIS** +0, **CHA** +2
 
 **Items** leather armor, spear
@@ -35,8 +37,8 @@ uncommon, ce, medium, aberration
 
 Speed 25 feet
 
-**Melee** ◆ spear +7; **Damage** 1d6+1 piercing
+**Melee** ◆ spear +7/+2/-3; **Damage** 1d6+1 piercing
 
-**Ranged** ◆ spear +5 (thrown <20 feet>); **Damage** 1d6+1 piercing
+**Ranged** ◆ spear +5/+0/-5 (thrown <20 feet>); **Damage** 1d6+1 piercing
 
 **Impersonate Shape** ◆◆ (concentrate, occult, polymorph, transmutation) The noppera-bo grunt changes into a faceless version of a Small or Medium humanoid they've touched during the last 24 hours. While transformed and their face is covered, the grunt gains a +2 circumstance bonus to Impersonate that creature. The noppera-bo grunt can change back by using this ability again.

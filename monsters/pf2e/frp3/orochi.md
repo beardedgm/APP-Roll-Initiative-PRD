@@ -11,6 +11,8 @@ rare, ce, gargantuan, amphibious, beast
 
 **Skills** Acrobatics +30, Athletics +36, Intimidation +31, Survival +29
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 43
+
 **STR** +10, **DEX** +6, **CON** +10, **INT** +5, **WIS** +4, **CHA** +6
 
 ---
@@ -39,11 +41,11 @@ rare, ce, gargantuan, amphibious, beast
 
 Speed 30 feet, swim 60 feet
 
-**Melee** ◆ jaws +35 (reach <40 feet>); **Damage** 3d12+18 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +35/+30/+25 (reach <40 feet>); **Damage** 3d12+18 piercing plus Improved Grab plus Improved Grab
 
-**Melee** ◆ tail +35 (agile, magical, reach <50 feet>); **Damage** 3d10+18 bludgeoning plus Improved Knockdown plus Improved Knockdown
+**Melee** ◆ tail +35/+31/+27 (agile, magical, reach <50 feet>); **Damage** 3d10+18 bludgeoning plus Improved Knockdown plus Improved Knockdown
 
-**Ranged** ◆ rock +34 (brutal, range increment <100 feet>); **Damage** 3d8+18 bludgeoning
+**Ranged** ◆ rock +34/+29/+24 (brutal, range increment <100 feet>); **Damage** 3d8+18 bludgeoning
 
 **Orochi Flurry** ◆◆ The orochi makes a number of jaws Strikes equal to the number of their remaining heads, each against a different target. The orochi's multiple attack penalty doesn't increase until after the orochi makes all of their attacks.
 

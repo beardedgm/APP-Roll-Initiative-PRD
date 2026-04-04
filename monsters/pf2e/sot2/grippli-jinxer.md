@@ -11,6 +11,8 @@ ne, small, grippli, humanoid
 
 **Skills** Acrobatics +14, Athletics +12, Intimidation +12, Nature +14, Occultism +10, Stealth +14
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +4, **CHA** +0
 
 **Items** dart (8), staff
@@ -32,9 +34,9 @@ ne, small, grippli, humanoid
 
 Speed 25 feet, climb 20 feet, jungle stride
 
-**Melee** ◆ staff +14 (two-hand <d8>); **Damage** 1d4+6 bludgeoning plus baneback poison plus baneback poison
+**Melee** ◆ staff +14/+9/+4 (two-hand <d8>); **Damage** 1d4+6 bludgeoning plus baneback poison plus baneback poison
 
-**Ranged** ◆ dart +16 (agile, thrown <20 feet>); **Damage** 1d4+6 piercing plus baneback poison plus baneback poison
+**Ranged** ◆ dart +16/+12/+8 (agile, thrown <20 feet>); **Damage** 1d4+6 piercing plus baneback poison plus baneback poison
 
 **Spontaneous occult Spells** (DC 24), attack +16
 

@@ -11,6 +11,8 @@ ln, medium, human, humanoid
 
 **Skills** Deception +8, Diplomacy +12, Intimidation +12, Society +14, Legal Lore +16
 
+**Recall Knowledge - Humanoid** (Society): DC 13
+
 **STR** +0, **DEX** -1, **CON** +1, **INT** +4, **WIS** +4, **CHA** +2
 
 **Items** books (law and rhetoric; worth 3 gp), gavel, judge's robes
@@ -29,8 +31,8 @@ ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ gavel +4; **Damage** 1d4 bludgeoning
+**Melee** ◆ gavel +4/-1/-6; **Damage** 1d4 bludgeoning
 
-**Melee** ◆ fist +4 (agile, nonlethal); **Damage** 1d4 bludgeoning
+**Melee** ◆ fist +4/+0/-4 (agile, nonlethal); **Damage** 1d4 bludgeoning
 
-**Ranged** ◆ gavel +3 (thrown <10 feet>); **Damage** 1d4 bludgeoning
+**Ranged** ◆ gavel +3/-2/-7 (thrown <10 feet>); **Damage** 1d4 bludgeoning

@@ -11,6 +11,8 @@ uncommon, ce, medium, fiend, qlippoth
 
 **Skills** Acrobatics +21, Athletics +21, Intimidation +19, Occultism +16, Stealth +21
 
+**Recall Knowledge - Fiend** (Religion): DC 29
+
 **STR** +7, **DEX** +5, **CON** +6, **INT** +0, **WIS** +5, **CHA** +3
 
 ---
@@ -33,9 +35,9 @@ uncommon, ce, medium, fiend, qlippoth
 
 Speed 5 feet, fly 25 feet
 
-**Melee** ◆ jaws +23 (chaotic, magical); **Damage** 2d6+13 piercing plus 2d6 acid, 1d6 chaotic, and Grab plus Grab
+**Melee** ◆ jaws +23/+18/+13 (chaotic, magical); **Damage** 2d6+13 piercing plus 2d6 acid, 1d6 chaotic, and Grab plus Grab
 
-**Melee** ◆ tentacle mouth +23 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d6+13 piercing plus 1d6 acid, 1d6 chaotic, and Grab plus Grab
+**Melee** ◆ tentacle mouth +23/+19/+15 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d6+13 piercing plus 1d6 acid, 1d6 chaotic, and Grab plus Grab
 
 **Innate occult Spells** (DC 26), attack +20
 

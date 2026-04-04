@@ -35,7 +35,7 @@ rare, ng, medium, siktempora, time
 
 Speed 50 feet, air walk
 
-**Ranged** ◆ emotional bolt +31 (agile, range increment <80 feet>); **Damage** 3d10+10 piercing plus 1d10 mental and heartsong plus heartsong
+**Ranged** ◆ emotional bolt +31/+27/+23 (agile, range increment <80 feet>); **Damage** 3d10+10 piercing plus 1d10 mental and heartsong plus heartsong
 
 **Innate occult Spells** (DC 37)
 

@@ -11,6 +11,8 @@ rare, ln, medium, human, humanoid
 
 **Skills** Intimidation +5, Nature +6
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +2, **DEX** +4, **CON** +0, **INT** -2, **WIS** +4, **CHA** +0
 
 **Items** dagger, leather armor, staff
@@ -27,13 +29,13 @@ rare, ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ staff +6 (two-hand d8); **Damage** 1d4+2 bludgeoning
+**Melee** ◆ staff +6/+1/-4 (two-hand d8); **Damage** 1d4+2 bludgeoning
 
-**Melee** ◆ dagger +6 (agile, finesse, versatile S); **Damage** 1d4+2 piercing
+**Melee** ◆ dagger +6/+2/-2 (agile, finesse, versatile S); **Damage** 1d4+2 piercing
 
-**Ranged** ◆ dagger +6 (agile, finesse, thrown 10 feet, versatile S); **Damage** 1d4+2 piercing
+**Ranged** ◆ dagger +6/+2/-2 (agile, finesse, thrown 10 feet, versatile S); **Damage** 1d4+2 piercing
 
-**Melee** ◆ claw +7 (agile, finesse); **Damage** 1d6+2 slashing
+**Melee** ◆ claw +7/+3/-1 (agile, finesse); **Damage** 1d6+2 slashing
 
 **Druid Prepared Spells** (DC 16), attack +8
 

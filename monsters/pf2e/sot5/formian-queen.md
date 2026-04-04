@@ -29,7 +29,7 @@ uncommon, ln, large, formian
 
 Speed 10 feet
 
-**Melee** ◆ claw +33 (agile, magic, reach <15 feet>); **Damage** 3d12+12 slashing
+**Melee** ◆ claw +33/+29/+25 (agile, magic, reach <15 feet>); **Damage** 3d12+12 slashing
 
 **Innate primal Spells** (DC 38), attack +30
 

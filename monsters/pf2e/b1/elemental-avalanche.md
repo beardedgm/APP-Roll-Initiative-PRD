@@ -11,6 +11,8 @@ n, huge, earth, elemental
 
 **Skills** Athletics +24, Stealth +14
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 28
+
 **STR** +7, **DEX** -1, **CON** +8, **INT** +0, **WIS** +3, **CHA** -1
 
 **Earthbound** When not touching solid ground, the elemental avalanche is slowed 1, can't use reactions, and can't Trample.
@@ -33,9 +35,9 @@ n, huge, earth, elemental
 
 Speed 25 feet, burrow 25 feet, earth glide
 
-**Melee** ◆ fist +24 (reach <20 feet>); **Damage** 2d12+11 bludgeoning
+**Melee** ◆ fist +24/+19/+14 (reach <20 feet>); **Damage** 2d12+11 bludgeoning
 
-**Ranged** ◆ rock +24 (brutal, range increment <80 feet>); **Damage** 2d12+7 bludgeoning
+**Ranged** ◆ rock +24/+19/+14 (brutal, range increment <80 feet>); **Damage** 2d12+7 bludgeoning
 
 **Earth Glide** The elemental avalanche can Burrow through any earthen matter, including rock. When it does so, the elemental avalanche moves at its full burrow Speed, leaving no tunnels or signs of its passing.
 

@@ -11,6 +11,8 @@ rare, cg, medium, humanoid, ratajin
 
 **Skills** Acrobatics +7, Arcana +7, Crafting +7, Deception +8, Diplomacy +6, Occultism +7, Society +9, Stealth +7
 
+**Recall Knowledge - Humanoid** (Society): DC 21
+
 **STR** +1, **DEX** +3, **CON** +0, **INT** +3, **WIS** +1, **CHA** +2
 
 **Items** leather armor, rapier
@@ -29,6 +31,6 @@ rare, cg, medium, humanoid, ratajin
 
 Speed 25 feet
 
-**Melee** ◆ rapier +11 (deadly <d8>, disarm, finesse); **Damage** 1d6+4 piercing
+**Melee** ◆ rapier +11/+6/+1 (deadly <d8>, disarm, finesse); **Damage** 1d6+4 piercing
 
-**Ranged** ◆ shortbow +11 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+3 piercing
+**Ranged** ◆ shortbow +11/+6/+1 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+3 piercing

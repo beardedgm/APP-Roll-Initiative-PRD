@@ -11,6 +11,8 @@ unique, ln, small, gnome, humanoid
 
 **Skills** Acrobatics +26, Nature +25, Stealth +26, Survival +25
 
+**Recall Knowledge - Humanoid** (Society): DC 41
+
 **STR** +3, **DEX** +5, **CON** +5, **INT** +0, **WIS** +4, **CHA** +0
 
 **Path** #166: Despair on Danger Island 76)
@@ -31,9 +33,9 @@ unique, ln, small, gnome, humanoid
 
 Speed 25 feet, swim 20 feet, climb 20 feet
 
-**Melee** ◆ hook sword +26 (disarm, parry, trip, twin); **Damage** 2d6+11 slashing
+**Melee** ◆ hook sword +26/+21/+16 (disarm, parry, trip, twin); **Damage** 2d6+11 slashing
 
-**Ranged** ◆ composite shortbow +28 (deadly <2d10>, magical, range increment <60 feet>, reload <0>); **Damage** 3d6+11 piercing
+**Ranged** ◆ composite shortbow +28/+23/+18 (deadly <2d10>, magical, range increment <60 feet>, reload <0>); **Damage** 3d6+11 piercing
 
 **Camouflage** While in natural terrain, Surjit can Sneak even while observed.
 

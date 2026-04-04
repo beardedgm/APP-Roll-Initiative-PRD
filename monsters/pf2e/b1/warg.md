@@ -11,6 +11,8 @@ ne, medium, beast
 
 **Skills** Acrobatics +7, Athletics +8, Deception +6, Intimidation +6, Stealth +7, Survival +8
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 16
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** -1, **WIS** +2, **CHA** +2
 
 ---
@@ -27,7 +29,7 @@ ne, medium, beast
 
 Speed 40 feet
 
-**Melee** ◆ jaws +11; **Damage** 1d8+4 piercing plus Grab plus Grab
+**Melee** ◆ jaws +11/+6/+1; **Damage** 1d8+4 piercing plus Grab plus Grab
 
 **Pack Attack** The warg's Strikes deal 1d4 extra damage to creatures within the reach of at least two of the warg's allies.
 

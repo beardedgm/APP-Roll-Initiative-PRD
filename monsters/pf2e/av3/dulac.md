@@ -11,6 +11,8 @@ unique, n, medium, caligni, humanoid
 
 **Skills** Acrobatics +18, Athletics +19, Intimidation +18, Occultism +16, Religion +18, Stealth +18
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +4, **DEX** +3, **CON** +0, **INT** +1, **WIS** +3, **CHA** +5
 
 **Items** chain shirt, +1 striking war flail
@@ -35,7 +37,7 @@ unique, n, medium, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ war flail +21 (disarm, sweep, trip); **Damage** 2d10+8 bludgeoning
+**Melee** ◆ war flail +21/+16/+11 (disarm, sweep, trip); **Damage** 2d10+8 bludgeoning
 
 **Innate occult Spells** (DC 28), attack +20
 

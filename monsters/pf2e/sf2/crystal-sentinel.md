@@ -9,6 +9,8 @@ rare, n, large, construct, golem, mindless
 
 **Skills** Acrobatics +23, Athletics +27, Stealth +23
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 36
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -33,7 +35,7 @@ rare, n, large, construct, golem, mindless
 
 Speed 25 feet
 
-**Melee** ◆ bladed limb +27 (agile, magical, versatile <P>); **Damage** 3d6+14 slashing plus 1d6 bleed
+**Melee** ◆ bladed limb +27/+23/+19 (agile, magical, versatile <P>); **Damage** 3d6+14 slashing plus 1d6 bleed
 
 **Dazzling Brilliance** (evocation, light, visual) The crystal sentinel creates waves of scintillating luminosity that cast bright light in a 120-foot emanation (and dim light for the next 120 feet). The light lasts until the start of the crystal sentinel's next turn, after which the crystal sentinel can't use Dazzling Brilliance for 1d4 rounds. A creature caught within the bright light or that enters the bright light must attempt a DC 33 Will save. **Success** 
 **Failure** 

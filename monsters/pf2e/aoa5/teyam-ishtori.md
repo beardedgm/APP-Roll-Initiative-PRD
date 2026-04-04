@@ -11,6 +11,8 @@ unique, ne, tiny, undead
 
 **Skills** Acrobatics +31, Arcana +38, Deception +33, Occultism +35, Religion +31, Stealth +33
 
+**Recall Knowledge - Undead** (Religion): DC 49
+
 **STR** -3, **DEX** +6, **CON** +0, **INT** +8, **WIS** -2, **CHA** +6
 
 **Items** demilich eye gem|B1 (2)
@@ -39,7 +41,7 @@ unique, ne, tiny, undead
 
 Speed fly 30 feet
 
-**Melee** ◆ jaws +36 (reach <0 feet>, finesse, magical); **Damage** 1d4+3 piercing plus 8d6 negative
+**Melee** ◆ jaws +36/+31/+26 (reach <0 feet>, finesse, magical); **Damage** 1d4+3 piercing plus 8d6 negative
 
 **Innate arcane Spells** (DC 43), attack +37
 

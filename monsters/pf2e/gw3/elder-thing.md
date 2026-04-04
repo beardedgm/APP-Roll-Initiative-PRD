@@ -11,6 +11,8 @@ rare, ln, medium, aberration, amphibious
 
 **Skills** Acrobatics +11, Astronomy Lore +14, Arcana +14, Athletics +13, Crafting +12, Medicine +12, Occultism +14, Survival +12, Thievery +11
 
+**Recall Knowledge - Aberration** (Occultism): DC 25
+
 **STR** +4, **DEX** +2, **CON** +4, **INT** +5, **WIS** +3, **CHA** +3
 
 ---
@@ -31,7 +33,7 @@ rare, ln, medium, aberration, amphibious
 
 Speed 25 feet, fly 20 feet, swim 30 feet
 
-**Melee** ◆ tentacle +13 (agile); **Damage** 2d6+6 bludgeoning plus Grab
+**Melee** ◆ tentacle +13/+9/+5 (agile); **Damage** 2d6+6 bludgeoning plus Grab
 
 **Constrict** ◆ 2d6+6 bludgeoning, DC 22
 

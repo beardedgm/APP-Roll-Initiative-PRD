@@ -9,6 +9,8 @@ rare, ce, large, animal, fire
 
 **Skills** Athletics +34, Stealth +31, Survival +29
 
+**Recall Knowledge - Animal** (Nature): DC 41
+
 **STR** +9, **DEX** +6, **CON** +8, **INT** -5, **WIS** +4, **CHA** +5
 
 **Frightful Presence** (aura, emotion, fear, mental) 60 feet, DC 36
@@ -35,9 +37,9 @@ rare, ce, large, animal, fire
 
 Speed 40 feet, burrow 40 feet, climb 40 feet
 
-**Melee** ◆ jaws +30 (reach <10 feet>); **Damage** 4d8+9 piercing plus 2d8 persistent fire and Grab plus Grab
+**Melee** ◆ jaws +30/+25/+20 (reach <10 feet>); **Damage** 4d8+9 piercing plus 2d8 persistent fire and Grab plus Grab
 
-**Melee** ◆ claw +30 (agile, reach <10 feet>); **Damage** 4d6+9 slashing plus 2d8 persistent fire
+**Melee** ◆ claw +30/+26/+22 (agile, reach <10 feet>); **Damage** 4d6+9 slashing plus 2d8 persistent fire
 
 **Breath Weapon** ◆◆ (arcane, evocation, fire) The Xotanispawn sprays a 60-foot cone of magma that deals 10d10 fire damage and 2d6 persistent fire damage to all creatures in the area (DC 39 basic Reflex save). The Xotanispawn can't use its Breath Weapon again for 1d4 rounds.
 

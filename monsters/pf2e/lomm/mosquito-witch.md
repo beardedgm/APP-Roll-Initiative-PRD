@@ -11,6 +11,8 @@ unique, cn, medium, fey
 
 **Skills** Acrobatics +18, Diplomacy +18, Intimidation +20, Medicine +19, Nature +21, Occultism +15, Stealth +22, Survival +21
 
+**Recall Knowledge - Fey** (Nature): DC 37
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +3, **WIS** +7, **CHA** +4
 
 **Swarmsense** The Mosquito Witch receives constant updates from nearby insects and can use her touch as an imprecise sense at the listed range as long as there are insects around to guide her.
@@ -33,9 +35,9 @@ unique, cn, medium, fey
 
 Speed 30 feet, fly 25 feet, climb 30 feet
 
-**Melee** ◆ bite +23 (agile, finesse); **Damage** 2d12+8 piercing plus 1d8 persistent bleed damage
+**Melee** ◆ bite +23/+19/+15 (agile, finesse); **Damage** 2d12+8 piercing plus 1d8 persistent bleed damage
 
-**Ranged** ◆ swarm strike +23 (range increment <30 feet>); **Damage** 2d10+6 piercing plus dipteric dread plus dipteric dread
+**Ranged** ◆ swarm strike +23/+18/+13 (range increment <30 feet>); **Damage** 2d10+6 piercing plus dipteric dread plus dipteric dread
 
 **Innate primal Spells** (DC 29)
 

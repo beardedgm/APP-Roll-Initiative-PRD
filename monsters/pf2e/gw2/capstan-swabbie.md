@@ -9,6 +9,8 @@ uncommon, n, large, construct, mindless
 
 **Skills** Athletics +17
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 25
+
 **STR** +6, **DEX** +2, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 **Items** anchor
@@ -31,11 +33,11 @@ uncommon, n, large, construct, mindless
 
 Speed 20 feet
 
-**Melee** ◆ anchor +18 (reach <10 feet>); **Damage** 2d8+9 bludgeoning
+**Melee** ◆ anchor +18/+13/+8 (reach <10 feet>); **Damage** 2d8+9 bludgeoning
 
-**Melee** ◆ rope +18 (disarm, reach <10 feet>); **Damage** 2d6+9 slashing plus Knockdown
+**Melee** ◆ rope +18/+13/+8 (disarm, reach <10 feet>); **Damage** 2d6+9 slashing plus Knockdown
 
-**Ranged** ◆ anchor +14 (thrown <30 feet>, tethered); **Damage** 2d8+9 bludgeoning
+**Ranged** ◆ anchor +14/+9/+4 (thrown <30 feet>, tethered); **Damage** 2d8+9 bludgeoning
 
 **Jury-Rig** ◆ (manipulate) The capstan swabbie uses built-in tools to quickly patch itself up. The swabbie gains 10 temporary Hit Points. The swabbie can also use this section on an adjacent section of a ship. The temporary Hit Points last for 1 minute. The target is then temporarily immune for 1 hour.
 

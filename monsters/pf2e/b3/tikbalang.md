@@ -11,6 +11,8 @@ uncommon, cn, large, beast
 
 **Skills** Athletics +20, Deception +21, Nature +14, Stealth +17, Survival +16
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 28
+
 **STR** +5, **DEX** +4, **CON** +4, **INT** -1, **WIS** +3, **CHA** +6
 
 ---
@@ -29,9 +31,9 @@ uncommon, cn, large, beast
 
 Speed 30 feet
 
-**Melee** ◆ fist +20 (agile); **Damage** 2d6+8 bludgeoning
+**Melee** ◆ fist +20/+16/+12 (agile); **Damage** 2d6+8 bludgeoning
 
-**Melee** ◆ hoof +20 (reach <10 feet>); **Damage** 2d10+8 bludgeoning
+**Melee** ◆ hoof +20/+15/+10 (reach <10 feet>); **Damage** 2d10+8 bludgeoning
 
 **Innate occult Spells** (DC 29)
 

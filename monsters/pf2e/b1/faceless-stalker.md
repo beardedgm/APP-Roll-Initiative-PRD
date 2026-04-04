@@ -11,6 +11,8 @@ ce, medium, aberration
 
 **Skills** Acrobatics +12, Athletics +12, Deception +13, Stealth +13, Thievery +9
 
+**Recall Knowledge - Aberration** (Occultism): DC 19
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** +0, **WIS** +2, **CHA** +3
 
 **Items** longsword, studded leather
@@ -27,9 +29,9 @@ ce, medium, aberration
 
 Speed 25 feet
 
-**Melee** ◆ longsword +14 (versatile <P>); **Damage** 1d8+6 slashing
+**Melee** ◆ longsword +14/+9/+4 (versatile <P>); **Damage** 1d8+6 slashing
 
-**Melee** ◆ claw +12 (agile); **Damage** 2d6+6 slashing plus Grab plus Grab
+**Melee** ◆ claw +12/+8/+4 (agile); **Damage** 2d6+6 slashing plus Grab plus Grab
 
 **Innate occult Spells** (DC 19)
 

@@ -9,6 +9,8 @@ rare, n, large, mindless, ooze
 
 **Skills** Athletics +22
 
+**Recall Knowledge - Ooze** (Occultism): DC 32
+
 **STR** +7, **DEX** -5, **CON** +7, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -33,8 +35,8 @@ rare, n, large, mindless, ooze
 
 Speed 20 feet, climb 20 feet
 
-**Melee** ◆ pseudopod +23 (reach <10 feet>); **Damage** 3d10+10 bludgeoning
+**Melee** ◆ pseudopod +23/+18/+13 (reach <10 feet>); **Damage** 3d10+10 bludgeoning
 
-**Ranged** ◆ blast +21 (fire, range increment <40 feet>); **Damage** 3d8+3 fire; this can't cause other pyronite oozes to split
+**Ranged** ◆ blast +21/+16/+11 (fire, range increment <40 feet>); **Damage** 3d8+3 fire; this can't cause other pyronite oozes to split
 
 **Exploding Split** ◆◆ **Requirements** The pyronite ooze is Large; The pyronite ooze explodes in a violent conflagration, dealing 3d6 fire and 3d6 bludgeoning damage to all creatures in a 30-foot radius (DC 29 basic Reflex save). This explosion can't cause other pyronite oozes to split. After exploding, the ooze splits into two Medium pyronite oozes (see above), but this splitting doesn't deal additional damage.

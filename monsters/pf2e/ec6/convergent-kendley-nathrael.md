@@ -11,6 +11,8 @@ unique, ln, medium, elf, human, humanoid
 
 **Skills** Athletics +32, Diplomacy +35, Intimidation +33, Survival +30
 
+**Recall Knowledge - Humanoid** (Society): DC 49
+
 **STR** +5, **DEX** +0, **CON** +4, **INT** +3, **WIS** +3, **CHA** +6
 
 **Items** +2 greater striking bastard sword, +2 greater resilient chain mail, +2 greater striking composite longbow (20 arrows), key to strongbox in area A10
@@ -33,9 +35,9 @@ unique, ln, medium, elf, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ bastard sword +34 (magical, two-hand <d12>); **Damage** 3d8+11 slashing plus convergent tactics plus convergent tactics
+**Melee** ◆ bastard sword +34/+29/+24 (magical, two-hand <d12>); **Damage** 3d8+11 slashing plus convergent tactics plus convergent tactics
 
-**Melee** ◆ composite longbow +29 (deadly <2d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 3d8+11 piercing plus convergent tactics plus convergent tactics
+**Melee** ◆ composite longbow +29/+24/+19 (deadly <2d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 3d8+11 piercing plus convergent tactics plus convergent tactics
 
 **Innate divine Spells** (DC 39), attack +31
 

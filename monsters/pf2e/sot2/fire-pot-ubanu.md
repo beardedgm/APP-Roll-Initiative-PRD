@@ -11,6 +11,8 @@ unique, cn, medium, human, humanoid
 
 **Skills** Arcana +16, Crafting +20, Intimidation +16, Nature +15, Weapons Lore +16
 
+**Recall Knowledge - Humanoid** (Society): DC 34
+
 **STR** +1, **DEX** +3, **CON** +1, **INT** +4, **WIS** +1, **CHA** +4
 
 **Items** smock (as padded armor), fulminating spear (page 76)
@@ -31,11 +33,11 @@ unique, cn, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ spear +17 (magical); **Damage** 2d6+3 piercing
+**Melee** ◆ spear +17/+12/+7 (magical); **Damage** 2d6+3 piercing
 
-**Ranged** ◆ alchemist's fire +19 (range increment <20 feet>, splash); **Damage** 2d8+2 fire plus 4 persistent fire plus 6 fire splash
+**Ranged** ◆ alchemist's fire +19/+14/+9 (range increment <20 feet>, splash); **Damage** 2d8+2 fire plus 4 persistent fire plus 6 fire splash
 
-**Ranged** ◆ spear +19 (magical, range increment <20 feet>); **Damage** 2d6+3 piercing
+**Ranged** ◆ spear +19/+14/+9 (magical, range increment <20 feet>); **Damage** 2d6+3 piercing
 
 **Spontaneous primal Spells** (DC 26), attack +18
 

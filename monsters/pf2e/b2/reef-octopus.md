@@ -9,6 +9,8 @@ n, small, animal, aquatic
 
 **Skills** Athletics +6, Stealth +9
 
+**Recall Knowledge - Animal** (Nature): DC 15
+
 **STR** +1, **DEX** +4, **CON** +1, **INT** -4, **WIS** +1, **CHA** +0
 
 ---
@@ -23,9 +25,9 @@ n, small, animal, aquatic
 
 Speed 10 feet, swim 30 feet
 
-**Melee** ◆ beak +9 (finesse); **Damage** 1d10+1 piercing plus reef octopus venom plus reef octopus venom
+**Melee** ◆ beak +9/+4/-1 (finesse); **Damage** 1d10+1 piercing plus reef octopus venom plus reef octopus venom
 
-**Melee** ◆ arm +9 (agile, finesse); **Damage** 1d6+1 bludgeoning plus Grab plus Grab
+**Melee** ◆ arm +9/+5/+1 (agile, finesse); **Damage** 1d6+1 bludgeoning plus Grab plus Grab
 
 **Camouflage** The blue-ringed octopus can change the color of its skin to Hide even if it doesn't have cover.
 

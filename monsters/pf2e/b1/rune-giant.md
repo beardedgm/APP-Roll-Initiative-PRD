@@ -11,6 +11,8 @@ uncommon, le, gargantuan, evil, giant, humanoid
 
 **Skills** Arcana +28, Athletics +32, Crafting +28, Intimidation +28, Society +27
 
+**Recall Knowledge - Humanoid** (Society): DC 37
+
 **STR** +9, **DEX** +2, **CON** +7, **INT** +2, **WIS** +6, **CHA** +4
 
 **Items** +2 greater striking greatsword, +1 striking longspear, +1 splint mail
@@ -33,13 +35,13 @@ uncommon, le, gargantuan, evil, giant, humanoid
 
 Speed 45 feet, air walk
 
-**Melee** ◆ greatsword +33 (magical, reach <20 feet>, versatile <P>); **Damage** 3d12+17 slashing
+**Melee** ◆ greatsword +33/+28/+23 (magical, reach <20 feet>, versatile <P>); **Damage** 3d12+17 slashing
 
-**Melee** ◆ longspear +32 (magical, reach <25 feet>); **Damage** 2d8+17 piercing
+**Melee** ◆ longspear +32/+27/+22 (magical, reach <25 feet>); **Damage** 2d8+17 piercing
 
-**Melee** ◆ fist +31 (agile, reach <20 feet>); **Damage** 3d8+17 bludgeoning
+**Melee** ◆ fist +31/+27/+23 (agile, reach <20 feet>); **Damage** 3d8+17 bludgeoning
 
-**Ranged** ◆ rock +31 (brutal, range increment <120 feet>); **Damage** 2d12+17 bludgeoning
+**Ranged** ◆ rock +31/+26/+21 (brutal, range increment <120 feet>); **Damage** 2d12+17 bludgeoning
 
 **Innate arcane Spells** (DC 35)
 

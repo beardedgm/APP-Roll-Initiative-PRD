@@ -11,6 +11,8 @@ n, small, beast, incorporeal, spirit
 
 **Skills** Acrobatics +6, Deception +6, Stealth +8, Survival +5
 
+**Recall Knowledge - Beast** (Arcana, Nature, Religion): DC 15
+
 **STR** +1, **DEX** +3, **CON** +0, **INT** +2, **WIS** +2, **CHA** +1
 
 ---
@@ -27,9 +29,9 @@ n, small, beast, incorporeal, spirit
 
 Speed 40 feet
 
-**Melee** ◆ horn +6 (finesse, magical); **Damage** 1d8+1 force
+**Melee** ◆ horn +6/+1/-4 (finesse, magical); **Damage** 1d8+1 force
 
-**Melee** ◆ jaws +6 (agile, finesse, magical); **Damage** 1d4+1 force
+**Melee** ◆ jaws +6/+2/-2 (agile, finesse, magical); **Damage** 1d4+1 force
 
 **Innate primal Spells** (DC 17)
 

@@ -11,6 +11,8 @@ cg, tiny, fey, sprite
 
 **Skills** Acrobatics +9, Deception +10, Diplomacy +8, Nature +6, Stealth +11
 
+**Recall Knowledge - Fey** (Nature): DC 18
+
 **STR** -1, **DEX** +4, **CON** +1, **INT** +3, **WIS** +1, **CHA** +3
 
 ---
@@ -25,9 +27,9 @@ cg, tiny, fey, sprite
 
 Speed 15 feet, fly 40 feet
 
-**Melee** ◆ jaws +11 (agile, finesse, magical); **Damage** 1d8+3 bludgeoning damage
+**Melee** ◆ jaws +11/+7/+3 (agile, finesse, magical); **Damage** 1d8+3 bludgeoning damage
 
-**Ranged** ◆ euphoric spark +7 (enchantment, magical, range <20 feet>); **Damage** 2d4+3 mental
+**Ranged** ◆ euphoric spark +7/+2/-3 (enchantment, magical, range <20 feet>); **Damage** 2d4+3 mental
 
 **Innate primal Spells** (DC 20)
 

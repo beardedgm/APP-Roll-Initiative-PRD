@@ -11,6 +11,8 @@ uncommon, ln, gargantuan, incorporeal, spirit, troop, undead
 
 **Skills** Acrobatics +38, Stealth +38, Warfare Lore +35
 
+**Recall Knowledge - Spirit** (Religion): DC 42
+
 **STR** -5, **DEX** +10, **CON** +10, **INT** +7, **WIS** +7, **CHA** +6
 
 **Battlefield Bound** Without a call to war, a last guard can stray only a short distance from the location they failed to defend, typically 120 feet. Some last guards are instead bound to a province, kingdom, or nation, rather than a specific location.

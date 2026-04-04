@@ -11,6 +11,8 @@ unique, ne, medium, skeleton, undead
 
 **Skills** Athletics +10, Crafting +9, Intimidation +11, Occultism +11, Religion +13, Stealth +10
 
+**Recall Knowledge - Undead** (Religion): DC 29
+
 **STR** +2, **DEX** +4, **CON** +0, **INT** +3, **WIS** +5, **CHA** +3
 
 **Items** rusted (broken) chain mail
@@ -33,7 +35,7 @@ unique, ne, medium, skeleton, undead
 
 Speed 25 feet
 
-**Melee** ◆ claw +12 (agile, finesse); **Damage** 2d6+4 slashing
+**Melee** ◆ claw +12/+8/+4 (agile, finesse); **Damage** 2d6+4 slashing
 
 **Spontaneous divine Spells** (DC 21), attack +13
 

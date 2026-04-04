@@ -9,6 +9,8 @@ huge, beast
 
 **Skills** Athletics +22, Intimidation +19, Stealth +15
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 27
+
 **STR** +7, **DEX** +2, **CON** +5, **INT** +1, **WIS** +3, **CHA** +2
 
 ---
@@ -29,13 +31,13 @@ huge, beast
 
 Speed 40 feet, swim 30 feet, climb 30 feet, canal walker
 
-**Melee** ◆ jaws +23; **Damage** 2d4+13 piercing
+**Melee** ◆ jaws +23/+18/+13; **Damage** 2d4+13 piercing
 
-**Melee** ◆ claw +21 (reach <10 feet>); **Damage** 2d8+13 slashing
+**Melee** ◆ claw +21/+16/+11 (reach <10 feet>); **Damage** 2d8+13 slashing
 
-**Melee** ◆ tail +21 (reach <15 feet>); **Damage** 2d6+13 bludgeoning
+**Melee** ◆ tail +21/+16/+11 (reach <15 feet>); **Damage** 2d6+13 bludgeoning
 
-**Ranged** ◆ spit +17 (range increment <60 feet>); **Damage** 2d12+6 acid plus vorvorak bile
+**Ranged** ◆ spit +17/+12/+7 (range increment <60 feet>); **Damage** 2d12+6 acid plus vorvorak bile
 
 **Innate primal Spells** (DC 26)
 

@@ -11,6 +11,8 @@ unique, ce, medium, amphibious, boggard, humanoid
 
 **Skills** Athletics +8, Intimidation +8, Nature +11, Religion +9, Survival +9
 
+**Recall Knowledge - Humanoid** (Society): DC 28
+
 **STR** +3, **DEX** +0, **CON** +2, **INT** +0, **WIS** +4, **CHA** +3
 
 **Items** studded leather armor, 
@@ -27,9 +29,9 @@ unique, ce, medium, amphibious, boggard, humanoid
 
 Speed 20 feet, swim 25 feet, swamp stride
 
-**Melee** ◆ whip +10 (disarm, finesse, magical, nonlethal, reach, trip); **Damage** 1d4+6 slashing
+**Melee** ◆ whip +10/+5/+0 (disarm, finesse, magical, nonlethal, reach, trip); **Damage** 1d4+6 slashing
 
-**Melee** ◆ tongue +10 (reach <10 feet>); plus tongue grab
+**Melee** ◆ tongue +10/+5/+0 (reach <10 feet>); plus tongue grab
 
 **Prepared primal Spells** (DC 21), attack +11
 

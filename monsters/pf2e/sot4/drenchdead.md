@@ -11,6 +11,8 @@ uncommon, ne, medium, undead, water
 
 **Skills** Acrobatics +21, Athletics +25, Stealth +23, Survival +19
 
+**Recall Knowledge - Undead** (Religion): DC 32
+
 **STR** +7, **DEX** +3, **CON** +4, **INT** +0, **WIS** +1, **CHA** +3
 
 ---
@@ -29,9 +31,9 @@ uncommon, ne, medium, undead, water
 
 Speed 20 feet, swim 35 feet
 
-**Melee** ◆ claw +26 (agile); **Damage** 3d6+13 slashing plus Grab
+**Melee** ◆ claw +26/+22/+18 (agile); **Damage** 3d6+13 slashing plus Grab
 
-**Melee** ◆ jaws +26; **Damage** 3d10+13 piercing
+**Melee** ◆ jaws +26/+21/+16; **Damage** 3d10+13 piercing
 
 **Aquatic Camouflage** When fully submerged in water, the drenchdead can Hide from other creatures even if it doesn't have cover against them and isn't concealed from them.
 

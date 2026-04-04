@@ -11,6 +11,8 @@ ce, large, humanoid, xulgath
 
 **Skills** Athletics +15, Intimidation +11
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +6, **DEX** +1, **CON** +4, **INT** +0, **WIS** +2, **CHA** +0
 
 **Items** maul
@@ -29,11 +31,11 @@ ce, large, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** ◆ maul +15 (shove); **Damage** 1d12+10 bludgeoning
+**Melee** ◆ maul +15/+10/+5 (shove); **Damage** 1d12+10 bludgeoning
 
-**Melee** ◆ jaws +15; **Damage** 2d8+8 piercing
+**Melee** ◆ jaws +15/+10/+5; **Damage** 2d8+8 piercing
 
-**Melee** ◆ claw +15 (agile); **Damage** 2d4+8 slashing plus
+**Melee** ◆ claw +15/+11/+7 (agile); **Damage** 2d4+8 slashing plus
 
 **Grab**
 

@@ -11,6 +11,8 @@ ce, large, demon, fiend
 
 **Skills** Acrobatics +33, Deception +30, Diplomacy +30, Intimidation +32, Religion +29, Stealth +29, Warfare Lore +31
 
+**Recall Knowledge - Fiend** (Religion): DC 36
+
 **STR** +8, **DEX** +6, **CON** +6, **INT** +4, **WIS** +4, **CHA** +7
 
 **Items** longsword (6)
@@ -33,9 +35,9 @@ ce, large, demon, fiend
 
 Speed 40 feet, fly 40 feet
 
-**Melee** ◆ cold iron silver longsword +35 (evil, magical, reach <10 feet>, versatile <P>); **Damage** 3d8+16 slashing plus 1d6 evil
+**Melee** ◆ cold iron silver longsword +35/+30/+25 (evil, magical, reach <10 feet>, versatile <P>); **Damage** 3d8+16 slashing plus 1d6 evil
 
-**Melee** ◆ tail +33 (evil, magical, reach <10 feet>); **Damage** 3d12+16 bludgeoning plus 1d6 evil and Grab plus Grab
+**Melee** ◆ tail +33/+28/+23 (evil, magical, reach <10 feet>); **Damage** 3d12+16 bludgeoning plus 1d6 evil and Grab plus Grab
 
 **Innate divine Spells** (DC 38)
 

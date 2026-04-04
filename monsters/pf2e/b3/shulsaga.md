@@ -11,6 +11,8 @@ uncommon, n, medium, astral
 
 **Skills** Acrobatics +11, Occultism +8, Stealth +9, Survival +8
 
+**Recall Knowledge - Astral** (Occultism): DC 20
+
 **STR** +2, **DEX** +4, **CON** +0, **INT** +1, **WIS** +3, **CHA** +1
 
 **Items** composite longbow (20 arrows), halberd
@@ -31,9 +33,9 @@ uncommon, n, medium, astral
 
 Speed 25 feet, fly 30 feet
 
-**Melee** ◆ halberd +9 (reach <10 feet>, versatile <S>); **Damage** 1d10+4 piercing
+**Melee** ◆ halberd +9/+4/-1 (reach <10 feet>, versatile <S>); **Damage** 1d10+4 piercing
 
-**Ranged** ◆ composite longbow +11 (deadly <d10>, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 1d8+3 piercing
+**Ranged** ◆ composite longbow +11/+6/+1 (deadly <d10>, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 1d8+3 piercing
 
 **Innate occult Spells** (DC 18), attack +10
 

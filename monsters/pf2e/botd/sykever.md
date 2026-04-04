@@ -9,6 +9,8 @@ ce, huge, darvakka, shadow, undead
 
 **Skills** Arcana +27, Athletics +29, Intimidation +28, Negative Energy Plane Lore +27, Religion +27, Shadow Plane Lore +27, Stealth +27, Warfare Lore +27
 
+**Recall Knowledge - Undead** (Religion): DC 34
+
 **STR** +8, **DEX** +4, **CON** +6, **INT** +6, **WIS** +6, **CHA** +7
 
 ---
@@ -33,9 +35,9 @@ ce, huge, darvakka, shadow, undead
 
 Speed 40 feet, air walk
 
-**Melee** ◆ horn +31 (magical, reach <10 feet>); **Damage** 3d8+12 bludgeoning plus 1d10 cold and 2d8 persistent bleed
+**Melee** ◆ horn +31/+26/+21 (magical, reach <10 feet>); **Damage** 3d8+12 bludgeoning plus 1d10 cold and 2d8 persistent bleed
 
-**Melee** ◆ arm spike +31 (agile, magical, reach <10 feet>); **Damage** 3d8+12 piercing plus 1d10 cold
+**Melee** ◆ arm spike +31/+27/+23 (agile, magical, reach <10 feet>); **Damage** 3d8+12 piercing plus 1d10 cold
 
 **Innate divine Spells** (DC 36)
 

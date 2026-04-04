@@ -11,6 +11,8 @@ ce, medium, demon, fiend
 
 **Skills** Athletics +12, Intimidation +8
 
+**Recall Knowledge - Fiend** (Religion): DC 19
+
 **STR** +4, **DEX** +1, **CON** +3, **INT** -2, **WIS** +2, **CHA** +0
 
 ---
@@ -29,11 +31,11 @@ ce, medium, demon, fiend
 
 Speed 25 feet
 
-**Melee** ◆ claw +14 (agile); **Damage** 2d6+4 slashing
+**Melee** ◆ claw +14/+10/+6 (agile); **Damage** 2d6+4 slashing
 
-**Melee** ◆ jaws +14; **Damage** 3d6+4 piercing plus mutilating bite plus mutilating bite
+**Melee** ◆ jaws +14/+9/+4; **Damage** 3d6+4 piercing plus mutilating bite plus mutilating bite
 
-**Ranged** ◆ hurled debris +11 (range increment <20 feet>); **Damage** 2d6+4 bludgeoning
+**Ranged** ◆ hurled debris +11/+6/+1 (range increment <20 feet>); **Damage** 2d6+4 bludgeoning
 
 **Innate divine Spells** (DC 20)
 

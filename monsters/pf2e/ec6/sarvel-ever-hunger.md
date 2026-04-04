@@ -11,6 +11,8 @@ unique, ce, large, fiend, humanoid, xulgath
 
 **Skills** Arcana +38, Athletics +41, Intimidation +40, Survival +40, Zevgavizeb Lore +40
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 54
+
 **STR** +9, **DEX** +2, **CON** +6, **INT** +2, **WIS** +6, **CHA** +4
 
 ---
@@ -35,11 +37,11 @@ unique, ce, large, fiend, humanoid, xulgath
 
 Speed 30 feet, air walk, freedom of movement
 
-**Melee** ◆ spiked gauntlet +41 (agile, magical); **Damage** 4d8+19 piercing plus 1d6 evil
+**Melee** ◆ spiked gauntlet +41/+37/+33 (agile, magical); **Damage** 4d8+19 piercing plus 1d6 evil
 
-**Melee** ◆ tentacle +41 (agile, magical, reach <20 feet>); **Damage** 4d8+19 slashing plus Grab plus Grab
+**Melee** ◆ tentacle +41/+37/+33 (agile, magical, reach <20 feet>); **Damage** 4d8+19 slashing plus Grab plus Grab
 
-**Melee** ◆ jaws +41 (magical); **Damage** 4d12+19 piercing
+**Melee** ◆ jaws +41/+36/+31 (magical); **Damage** 4d12+19 piercing
 
 **Prepared divine Spells** (DC 45), attack +37
 

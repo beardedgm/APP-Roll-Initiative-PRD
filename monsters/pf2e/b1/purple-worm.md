@@ -9,6 +9,8 @@ n, gargantuan, animal
 
 **Skills** Athletics +30
 
+**Recall Knowledge - Animal** (Nature): DC 31
+
 **STR** +9, **DEX** -1, **CON** +7, **INT** -5, **WIS** -1, **CHA** -1
 
 ---
@@ -27,13 +29,13 @@ n, gargantuan, animal
 
 Speed 40 feet, burrow 40 feet, swim 20 feet
 
-**Melee** ◆ jaws +28 (deadly <2d10>, reach <15 feet>); **Damage** 3d10+15 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +28/+23/+18 (deadly <2d10>, reach <15 feet>); **Damage** 3d10+15 piercing plus Improved Grab plus Improved Grab
 
-**Melee** ◆ stinger +28 (agile, poison, reach <15 feet>); **Damage** 2d12+15 piercing plus purple worm venom plus purple worm venom
+**Melee** ◆ stinger +28/+24/+20 (agile, poison, reach <15 feet>); **Damage** 2d12+15 piercing plus purple worm venom plus purple worm venom
 
-**Melee** ◆ body +26 (reach <15 feet>); **Damage** 1d10+13 bludgeoning
+**Melee** ◆ body +26/+21/+16 (reach <15 feet>); **Damage** 1d10+13 bludgeoning
 
-**Ranged** ◆ regurgitate +26 (brutal, range increment <60 feet>); plus varies (see ability)
+**Ranged** ◆ regurgitate +26/+21/+16 (brutal, range increment <60 feet>); plus varies (see ability)
 
 **Fast Swallow** ◈ **Trigger** The purple worm Grabs a creature.; The worm uses Swallow Whole.
 

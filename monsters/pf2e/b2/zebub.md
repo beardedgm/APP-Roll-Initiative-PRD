@@ -11,6 +11,8 @@ le, small, devil, fiend
 
 **Skills** Acrobatics +10, Arcana +7, Deception +8, Religion +9, Stealth +10
 
+**Recall Knowledge - Fiend** (Religion): DC 18
+
 **STR** +1, **DEX** +4, **CON** +1, **INT** +0, **WIS** +3, **CHA** +1
 
 ---
@@ -31,7 +33,7 @@ le, small, devil, fiend
 
 Speed 15 feet, fly 50 feet
 
-**Melee** ◆ mandibles +12 (evil, finesse, magical); **Damage** 1d10+3 piercing plus 1d6 evil and Cocytan filth plus Cocytan filth
+**Melee** ◆ mandibles +12/+7/+2 (evil, finesse, magical); **Damage** 1d10+3 piercing plus 1d6 evil and Cocytan filth plus Cocytan filth
 
 **Innate divine Spells** (DC 17)
 

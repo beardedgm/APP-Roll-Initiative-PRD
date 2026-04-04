@@ -19,4 +19,4 @@
 
 Speed 25 feet, fly 20 feet
 
-**Melee** ◆ fist +7; **Damage** 1d8+2 bludgeoning
+**Melee** ◆ fist +7/+2/-3; **Damage** 1d8+2 bludgeoning

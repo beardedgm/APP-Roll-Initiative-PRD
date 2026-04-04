@@ -11,6 +11,8 @@ human, humanoid
 
 **Skills** Athletics +12, Forest Lore +12, Nature +10, Survival +10
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +4, **DEX** +2, **CON** +4, **INT** +1, **WIS** +0, **CHA** +1
 
 **Items** climbing kit, hatchet, padded armor
@@ -31,9 +33,9 @@ human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ fist +14 (agile, nonlethal); **Damage** 1d4+8 bludgeoning
+**Melee** ◆ fist +14/+10/+6 (agile, nonlethal); **Damage** 1d4+8 bludgeoning
 
-**Melee** ◆ bite +14; **Damage** 1d6+8 piercing
+**Melee** ◆ bite +14/+9/+4; **Damage** 1d6+8 piercing
 
 **Vitriol** As hateful hodag|WoW1; DC 19
 

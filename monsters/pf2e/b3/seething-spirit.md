@@ -11,6 +11,8 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 **Skills** Acrobatics +21, Deception +20, Intimidation +24, Stealth +21
 
+**Recall Knowledge - Spirit** (Religion): DC 30
+
 **STR** -5, **DEX** +6, **CON** +0, **INT** +2, **WIS** -2, **CHA** +7
 
 **Taste Anger** (detection, divination, occult) The spirit can taste anger and hatred from creatures experiencing those emotions within 1 mile (imprecise).
@@ -37,7 +39,7 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 Speed fly 40 feet
 
-**Melee** ◆ ephemeral claw +22 (evocation, occult); **Damage** 3d12+7 slashing
+**Melee** ◆ ephemeral claw +22/+17/+12 (evocation, occult); **Damage** 3d12+7 slashing
 
 **Innate occult Spells** (DC 32)
 

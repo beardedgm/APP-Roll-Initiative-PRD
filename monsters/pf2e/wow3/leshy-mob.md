@@ -11,6 +11,8 @@ gargantuan, leshy, plant, troop
 
 **Skills** Acrobatics +19, Athletics +22, Nature +22, Stealth +19
 
+**Recall Knowledge - Plant** (Nature): DC 28
+
 **STR** +5, **DEX** +4, **CON** +7, **INT** +3, **WIS** +5, **CHA** +6
 
 ---

@@ -11,6 +11,8 @@ uncommon, cn, tiny, fey
 
 **Skills** Acrobatics +15, Deception +15, Stealth +15
 
+**Recall Knowledge - Fey** (Nature): DC 24
+
 **STR** +0, **DEX** +5, **CON** +2, **INT** +3, **WIS** +2, **CHA** +5
 
 ---
@@ -31,9 +33,9 @@ uncommon, cn, tiny, fey
 
 Speed 35 feet
 
-**Melee** ◆ jaws +12; **Damage** 2d12+3 piercing
+**Melee** ◆ jaws +12/+7/+2; **Damage** 2d12+3 piercing
 
-**Melee** ◆ claw +15 (agile, finesse); **Damage** 2d6+5 slashing plus cat sith's mark plus cat sith's mark
+**Melee** ◆ claw +15/+11/+7 (agile, finesse); **Damage** 2d6+5 slashing plus cat sith's mark plus cat sith's mark
 
 **Innate occult Spells** (DC 23)
 

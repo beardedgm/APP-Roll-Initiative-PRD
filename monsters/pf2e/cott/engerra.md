@@ -11,6 +11,8 @@ uncommon, tiny, agathion, celestial, holy
 
 **Skills** Arcana +16, Diplomacy +16, Performance +18, Religion +17, Society +20
 
+**Recall Knowledge - Celestial** (Religion): DC 28
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** +6, **WIS** +4, **CHA** +5
 
 **Firefly's Remembrance** Engerras embody the ethos of honoring the dead. When the engerra Recall Knowledge|PC1|Recalls Knowledge about a creature whose final words it has heard spoken aloud, it uses the outcome one degree of success better than the result of its roll.
@@ -29,7 +31,7 @@ uncommon, tiny, agathion, celestial, holy
 
 Speed 25 feet, fly 30 feet
 
-**Melee** ◆ swarming bite +19 (agile, finesse); **Damage** 3d6+10 piercing
+**Melee** ◆ swarming bite +19/+15/+11 (agile, finesse); **Damage** 3d6+10 piercing
 
 **Innate divine Spells** (DC 26), attack +18
 

@@ -11,6 +11,8 @@ uncommon, ce, medium, humanoid, xulgath
 
 **Skills** Acrobatics +16, Athletics +14, Stealth +16, Survival +15
 
+**Recall Knowledge - Humanoid** (Society): DC 24
+
 **STR** +4, **DEX** +4, **CON** +1, **INT** +0, **WIS** +3, **CHA** +0
 
 **Items** javelins (6), scimitar, studded leather armor
@@ -29,13 +31,13 @@ uncommon, ce, medium, humanoid, xulgath
 
 Speed 30 feet, light step
 
-**Melee** ◆ scimitar +16 (forceful, sweep); **Damage** 1d6+4 slashing
+**Melee** ◆ scimitar +16/+11/+6 (forceful, sweep); **Damage** 1d6+4 slashing
 
-**Melee** ◆ jaws +16; **Damage** 1d6+4 piercing
+**Melee** ◆ jaws +16/+11/+6; **Damage** 1d6+4 piercing
 
-**Melee** ◆ claw +16 (agile, finesse); **Damage** 1d4+4 slashing
+**Melee** ◆ claw +16/+12/+8 (agile, finesse); **Damage** 1d4+4 slashing
 
-**Ranged** ◆ javelin +16 (thrown <60 feet>); **Damage** 1d6+4 piercing damage
+**Ranged** ◆ javelin +16/+11/+6 (thrown <60 feet>); **Damage** 1d6+4 piercing damage
 
 **Light Step** When a skirmisher Strides or Steps, they ignore terrain and treat terrain as terrain.
 

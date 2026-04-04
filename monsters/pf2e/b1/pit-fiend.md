@@ -11,6 +11,8 @@ le, large, devil, fiend
 
 **Skills** Acrobatics +34, Arcana +32, Athletics +33, Deception +39, Diplomacy +34, Intimidation +39, Religion +37, Society +36, Stealth +34
 
+**Recall Knowledge - Fiend** (Religion): DC 40
+
 **STR** +9, **DEX** +8, **CON** +9, **INT** +8, **WIS** +9, **CHA** +8
 
 ---
@@ -37,13 +39,13 @@ le, large, devil, fiend
 
 Speed 35 feet, fly 50 feet
 
-**Melee** ◆ jaws +40 (evil, magical, poison, reach <10 feet>); **Damage** 4d10+17 piercing plus 2d6 evil and pit fiend venom plus pit fiend venom
+**Melee** ◆ jaws +40/+35/+30 (evil, magical, poison, reach <10 feet>); **Damage** 4d10+17 piercing plus 2d6 evil and pit fiend venom plus pit fiend venom
 
-**Melee** ◆ claw +38 (agile, evil, magical, reach <10 feet>); **Damage** 4d6+17 slashing plus 2d6 evil
+**Melee** ◆ claw +38/+34/+30 (agile, evil, magical, reach <10 feet>); **Damage** 4d6+17 slashing plus 2d6 evil
 
-**Melee** ◆ tail +36 (evil, magical, reach <10 feet>); **Damage** 4d10+17 bludgeoning plus 2d6 evil and Improved Grab plus Improved Grab
+**Melee** ◆ tail +36/+31/+26 (evil, magical, reach <10 feet>); **Damage** 4d10+17 bludgeoning plus 2d6 evil and Improved Grab plus Improved Grab
 
-**Melee** ◆ wing +36 (evil, magical, reach <15 feet>); **Damage** 4d6+17 slashing plus 2d6 evil
+**Melee** ◆ wing +36/+31/+26 (evil, magical, reach <15 feet>); **Damage** 4d6+17 slashing plus 2d6 evil
 
 **Innate divine Spells** (DC 42)
 

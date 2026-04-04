@@ -11,6 +11,8 @@ unique, ne, large, giant, humanoid
 
 **Skills** Athletics +22, Crafting +22, Fortune-telling Lore +22, Ghol-gan Lore +24, Intimidation +22, Occultism +22, Religion +21, Survival +19
 
+**Recall Knowledge - Humanoid** (Society): DC 38
+
 **STR** +7, **DEX** +0, **CON** +2, **INT** +7, **WIS** +2, **CHA** +5
 
 **Items** +2 striking greatclub, average manacles (4)
@@ -31,7 +33,7 @@ unique, ne, large, giant, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ greatclub +24 (backswing, magical, shove); **Damage** 2d10+9 bludgeoning
+**Melee** ◆ greatclub +24/+19/+14 (backswing, magical, shove); **Damage** 2d10+9 bludgeoning
 
 **Spontaneous divine Spells** (DC 30), attack +22
 

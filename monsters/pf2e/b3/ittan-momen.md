@@ -31,7 +31,7 @@ n, medium, kami
 
 Speed fly 30 feet
 
-**Melee** ◆ body +10 (finesse); **Damage** 1d8+2 bludgeoning plus Grab plus Grab
+**Melee** ◆ body +10/+5/+0 (finesse); **Damage** 1d8+2 bludgeoning plus Grab plus Grab
 
 **Constrict** ◆ Damage 1d8 bludgeoning, DC 18
 

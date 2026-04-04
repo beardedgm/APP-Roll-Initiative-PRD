@@ -9,6 +9,8 @@ rare, n, huge, beast
 
 **Skills** Athletics +25, Survival +22
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 35
+
 **STR** +7, **DEX** +4, **CON** +6, **INT** -3, **WIS** +4, **CHA** +1
 
 ---
@@ -23,9 +25,9 @@ rare, n, huge, beast
 
 Speed 40 feet, burrow 20 feet, unstoppable burrow
 
-**Melee** ◆ adamantine claw +25 (agile, reach <15 feet>); **Damage** 3d8+10 slashing
+**Melee** ◆ adamantine claw +25/+21/+17 (agile, reach <15 feet>); **Damage** 3d8+10 slashing
 
-**Melee** ◆ adamantine fangs +25 (reach <15 feet>); **Damage** 3d10+10 piercing plus shuln saliva plus shuln saliva
+**Melee** ◆ adamantine fangs +25/+20/+15 (reach <15 feet>); **Damage** 3d10+10 piercing plus shuln saliva plus shuln saliva
 
 **Armor-Rending** Any time the shuln scores a critical hit with a melee Strike, it also deals the same amount of damage to the target's armor, bypassing any Hardness lower than 10, like adamantine.
 

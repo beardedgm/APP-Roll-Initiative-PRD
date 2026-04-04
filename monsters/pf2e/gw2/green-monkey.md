@@ -11,6 +11,8 @@ uncommon, n, tiny, beast, incorporeal, spirit
 
 **Skills** Acrobatics +13, Stealth +10, Survival +9, Thievery +10
 
+**Recall Knowledge - Beast** (Arcana, Nature, Religion): DC 20
+
 **STR** +0, **DEX** +4, **CON** +0, **INT** +2, **WIS** +2, **CHA** +2
 
 ---
@@ -33,7 +35,7 @@ uncommon, n, tiny, beast, incorporeal, spirit
 
 Speed 30 feet, climb 30 feet
 
-**Melee** ◆ jaws +12 (agile, finesse, magical); **Damage** 1d8+6 force
+**Melee** ◆ jaws +12/+8/+4 (agile, finesse, magical); **Damage** 1d8+6 force
 
 **Innate primal Spells** (DC 20)
 

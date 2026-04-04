@@ -11,6 +11,8 @@ rare, ne, medium, beast
 
 **Skills** Arcana +25, Athletics +17, Intimidation +19, Stealth +20
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 32
+
 **STR** +3, **DEX** +6, **CON** +6, **INT** +7, **WIS** +3, **CHA** +3
 
 **Items** scroll of dimensional anchor, scroll of fly
@@ -29,7 +31,7 @@ rare, ne, medium, beast
 
 Speed 40 feet, climb 20 feet
 
-**Melee** ◆ blade-leg +22 (finesse, magical); **Damage** 1d10+9 slashing damage plus 1d10 negative damage and tattered soul plus tattered soul
+**Melee** ◆ blade-leg +22/+17/+12 (finesse, magical); **Damage** 1d10+9 slashing damage plus 1d10 negative damage and tattered soul plus tattered soul
 
 **Prepared arcane Spells** (DC 29), attack +21
 

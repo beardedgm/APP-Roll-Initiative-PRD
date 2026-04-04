@@ -11,6 +11,8 @@ ng, tiny, angel, celestial
 
 **Skills** Acrobatics +6, Diplomacy +6, Religion +6, Stealth +6
 
+**Recall Knowledge - Celestial** (Religion): DC 15
+
 **STR** -1, **DEX** +1, **CON** +2, **INT** -1, **WIS** +1, **CHA** +1
 
 ---
@@ -31,7 +33,7 @@ ng, tiny, angel, celestial
 
 Speed fly 40 feet
 
-**Melee** ◆ headbutt +6 (agile, finesse, good, magical); **Damage** 1d6-1 bludgeoning plus 1d4 good
+**Melee** ◆ headbutt +6/+2/-2 (agile, finesse, good, magical); **Damage** 1d6-1 bludgeoning plus 1d4 good
 
 **Innate divine Spells** (DC 16)
 

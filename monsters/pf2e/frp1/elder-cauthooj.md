@@ -11,6 +11,8 @@ rare, n, medium, beast
 
 **Skills** Athletics +27, Stealth +28
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 37
+
 **STR** +6, **DEX** +4, **CON** +7, **INT** -3, **WIS** +3, **CHA** +0
 
 **Thoughtsense** (divination, mental, occult) As cauthooj.
@@ -31,7 +33,7 @@ rare, n, medium, beast
 
 Speed 40 feet
 
-**Melee** ◆ beak +29 (agile, deadly <d12>, reach <10 feet>); **Damage** 2d12+15 piercing
+**Melee** ◆ beak +29/+25/+21 (agile, deadly <d12>, reach <10 feet>); **Damage** 2d12+15 piercing
 
 **Staccato Strike** ◆ (mental, primal, sonic) As cauthooj.
 

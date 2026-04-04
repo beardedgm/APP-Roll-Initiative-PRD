@@ -11,6 +11,8 @@ uncommon, small, fey
 
 **Skills** Acrobatics +8, Athletics +6, Diplomacy +10, Performance +10, Stealth +11
 
+**Recall Knowledge - Fey** (Nature): DC 20
+
 **STR** +0, **DEX** +3, **CON** +2, **INT** +1, **WIS** +2, **CHA** +4
 
 **Items** shears
@@ -31,7 +33,7 @@ uncommon, small, fey
 
 Speed 25 feet
 
-**Melee** ◆ shears +11 (finesse, forceful, magical); **Damage** 1d8+4 slashing
+**Melee** ◆ shears +11/+6/+1 (finesse, forceful, magical); **Damage** 1d8+4 slashing
 
 **Innate primal Spells** (DC 20), attack +12
 

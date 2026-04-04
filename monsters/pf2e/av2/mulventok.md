@@ -11,6 +11,8 @@ uncommon, n, medium, aberration
 
 **Skills** Athletics +17, Intimidation +17, Survival +15, Purpose Lore +15
 
+**Recall Knowledge - Aberration** (Occultism): DC 25
+
 **STR** +6, **DEX** +0, **CON** +4, **INT** +2, **WIS** +4, **CHA** +6
 
 **War Leader** (emotion, mental) A mulventok's fervor inspires its allies. Allies within 30 feet that can see or hear the mulventok gain a +1 status bonus to attack rolls and skill checks as long as their actions don't impede the mulventok's imprinted purpose. Items +1 tamchal chakram (page 73), steel shield (Hardness 5, HP 20, BT 10)
@@ -33,11 +35,11 @@ uncommon, n, medium, aberration
 
 Speed 25 feet
 
-**Melee** ◆ tamchal chakram +18 (agile, deadly <1d6>, finesse, magical); **Damage** 1d6+8 slashing plus 1d6 mental
+**Melee** ◆ tamchal chakram +18/+14/+10 (agile, deadly <1d6>, finesse, magical); **Damage** 1d6+8 slashing plus 1d6 mental
 
-**Melee** ◆ fist +17; **Damage** 2d8+8 bludgeoning
+**Melee** ◆ fist +17/+12/+7; **Damage** 2d8+8 bludgeoning
 
-**Ranged** ◆ tamchal chakram +13 (agile, deadly <1d6>, magical, thrown <20 feet>); **Damage** 1d6+8 slashing plus 1d6 mental
+**Ranged** ◆ tamchal chakram +13/+9/+5 (agile, deadly <1d6>, magical, thrown <20 feet>); **Damage** 1d6+8 slashing plus 1d6 mental
 
 **Fervent Command** ◆ (auditory, mental) The mulventok shouts an order to one of its allies within 30 feet. That ally immediately takes a Raise a Shield or Step action. A creature can benefit from Fervent Command only once per round.
 

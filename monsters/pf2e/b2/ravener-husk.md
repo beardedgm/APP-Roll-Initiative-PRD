@@ -9,6 +9,8 @@ rare, ce, gargantuan, dragon, undead
 
 **Skills** Acrobatics +22, Athletics +28
 
+**Recall Knowledge - Dragon** (Arcana, Religion): DC 37
+
 **STR** +8, **DEX** +0, **CON** +6, **INT** -5, **WIS** +4, **CHA** +4
 
 ---
@@ -31,9 +33,9 @@ rare, ce, gargantuan, dragon, undead
 
 Speed 60 feet, fly 180 feet
 
-**Melee** ◆ jaws +30 (magical, reach <15 feet>); **Damage** 3d8+16 piercing plus 2d6 negative
+**Melee** ◆ jaws +30/+25/+20 (magical, reach <15 feet>); **Damage** 3d8+16 piercing plus 2d6 negative
 
-**Melee** ◆ claw +30 (agile, magical, reach <10 feet>); **Damage** 3d4+16 slashing plus 2d6 negative
+**Melee** ◆ claw +30/+26/+22 (agile, magical, reach <10 feet>); **Damage** 3d4+16 slashing plus 2d6 negative
 
 **Breath Weapon** ◆◆ (divine, evocation, negative) The ravener husk breathes a torrent of negative energy that deals 16d6 negative damage in a 40-foot cone (DC 34 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.
 

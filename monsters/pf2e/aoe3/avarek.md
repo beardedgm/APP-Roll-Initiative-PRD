@@ -11,6 +11,8 @@ uncommon, ne, small, amphibious, fey
 
 **Skills** Acrobatics +17, Athletics +14, Deception +17, Nature +16, Stealth +19, Survival +16, Thievery +19, Sailing Lore +15
 
+**Recall Knowledge - Fey** (Nature): DC 26
+
 **STR** +2, **DEX** +5, **CON** +4, **INT** +3, **WIS** +4, **CHA** +3
 
 **Items** +1 striking dagger
@@ -29,11 +31,11 @@ uncommon, ne, small, amphibious, fey
 
 Speed 20 feet, swim 50 feet, climb 20 feet
 
-**Melee** ◆ dagger +20 (agile, finesse, magical, versatile <S>); **Damage** 2d4+4 piercing
+**Melee** ◆ dagger +20/+16/+12 (agile, finesse, magical, versatile <S>); **Damage** 2d4+4 piercing
 
-**Melee** ◆ spine +16; **Damage** 2d6+4 piercing plus 1d6 persistent bleed
+**Melee** ◆ spine +16/+11/+6; **Damage** 2d6+4 piercing plus 1d6 persistent bleed
 
-**Ranged** ◆ dagger +20 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+4 piercing
+**Ranged** ◆ dagger +20/+16/+12 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+4 piercing
 
 **Innate primal Spells** (DC 30), attack +22
 

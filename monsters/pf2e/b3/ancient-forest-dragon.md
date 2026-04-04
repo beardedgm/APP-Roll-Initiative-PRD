@@ -11,6 +11,8 @@ rare, ce, gargantuan, dragon, plant
 
 **Skills** Acrobatics +31, Athletics +37, Deception +31, Intimidation +33, Nature +36, Stealth +29, Survival +35
 
+**Recall Knowledge - Dragon** (Arcana, Nature): DC 44
+
 **STR** +9, **DEX** +4, **CON** +7, **INT** +5, **WIS** +8, **CHA** +6
 
 ---
@@ -31,11 +33,11 @@ rare, ce, gargantuan, dragon, plant
 
 Speed 40 feet, fly 160 feet, woodland stride
 
-**Melee** ◆ jaws +36 (magical, reach <20 feet>); **Damage** 4d10+17 piercing plus 3d6 poison and lignifying bite plus lignifying bite
+**Melee** ◆ jaws +36/+31/+26 (magical, reach <20 feet>); **Damage** 4d10+17 piercing plus 3d6 poison and lignifying bite plus lignifying bite
 
-**Melee** ◆ claw +36 (agile, magical, reach <15 feet>); **Damage** 4d8+17 slashing plus Grab plus Grab
+**Melee** ◆ claw +36/+32/+28 (agile, magical, reach <15 feet>); **Damage** 4d8+17 slashing plus Grab plus Grab
 
-**Melee** ◆ tail +36 (magical, reach <30 feet>); **Damage** 4d8+17 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +36/+31/+26 (magical, reach <30 feet>); **Damage** 4d8+17 bludgeoning plus Grab plus Grab
 
 **Innate primal Spells** (DC 41), attack +35
 

@@ -9,6 +9,8 @@ unique, ne, medium, aberration, time
 
 **Skills** Athletics +26, Deception +24, Intimidation +28, Occultism +25, Stealth +25
 
+**Recall Knowledge - Aberration** (Occultism): DC 42
+
 **STR** +8, **DEX** +7, **CON** +7, **INT** +5, **WIS** +4, **CHA** +4
 
 **Disgusted by Food** The morrowkin eats dreams and potential, not food. A creature that spends an action to brandish food at the morrowkin automatically makes the creature sickened 1 (or increases its sickened value by 1, to a maximum of sickened 6), decreasing the morrowkin's AC, attack rolls, saves, skills, and ability DCs accordingly, as normal for the sickened condition. The morrowkin can't retch to reduce its sickened condition.
@@ -27,7 +29,7 @@ unique, ne, medium, aberration, time
 
 Speed 35 feet
 
-**Melee** ◆ claw +29 (agile, finesse, reach 10); **Damage** 3d8+14 slashing plus drain potential
+**Melee** ◆ claw +29/+25/+21 (agile, finesse, reach 10); **Damage** 3d8+14 slashing plus drain potential
 
 **Drain Potential** (misfortune, negative) The morrowkin tries to drain the motivation from its target, who must attempt a DC 31 Fortitude save. If the target fails, it is doomed 1 (doomed 2 on a critical failure) and must roll twice and use the worse result on all checks for 1 minute. Creatures wearing a hope talisman are unaffected.
 

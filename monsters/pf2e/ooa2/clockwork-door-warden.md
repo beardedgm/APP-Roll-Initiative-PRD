@@ -9,6 +9,8 @@ rare, n, medium, clockwork, construct, mindless
 
 **Skills** Athletics +10
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 24
+
 **STR** +4, **DEX** +2, **CON** +2, **INT** -5, **WIS** +4, **CHA** -5
 
 **Items** repeating hand crossbow (Guns & Gears 63, 5 bolts)
@@ -33,9 +35,9 @@ rare, n, medium, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** ◆ fist +14 (reach <10 feet>); **Damage** 2d6+7 bludgeoning plus Push
+**Melee** ◆ fist +14/+9/+4 (reach <10 feet>); **Damage** 2d6+7 bludgeoning plus Push
 
-**Ranged** ◆ repeating hand crossbow +12 (range <60 feet>, reload <0>, repeating); **Damage** 1d6+3 piercing
+**Ranged** ◆ repeating hand crossbow +12/+7/+2 (range <60 feet>, reload <0>, repeating); **Damage** 1d6+3 piercing
 
 **Brace Door** ◆ The door warden holds shut an adjacent door. This ends the door warden's turn. Until the start of its next turn, as long as it remains functional and in the same square, other creatures trying to get through must succeed at a DC 21 Athletics check to Force Open the door.
 

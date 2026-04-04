@@ -11,6 +11,8 @@ unique, ce, medium, demon, fiend
 
 **Skills** Abyss Lore +25, Acrobatics +25, Deception +30, Diplomacy +28, Intimidation +28, Religion +25, Stealth +25, Thievery +25
 
+**Recall Knowledge - Fiend** (Religion): DC 42
+
 **STR** +4, **DEX** +5, **CON** +4, **INT** +5, **WIS** +5, **CHA** +8
 
 **Items** The Demon's Lantern, +2 striking hand crossbow (10 bolts, all poisoned with shadow essence), bejeweled belt worth 3,000 gp
@@ -31,9 +33,9 @@ unique, ce, medium, demon, fiend
 
 Speed 25 feet, fly 35 feet
 
-**Melee** ◆ claw +27 (agile, evil, finesse, magical); **Damage** 3d8+10 slashing plus 1d6 evil
+**Melee** ◆ claw +27/+23/+19 (agile, evil, finesse, magical); **Damage** 3d8+10 slashing plus 1d6 evil
 
-**Ranged** ◆ hand crossbow +28 (magical); **Damage** 2d6 piercing plus shadow essence
+**Ranged** ◆ hand crossbow +28/+23/+18 (magical); **Damage** 2d6 piercing plus shadow essence
 
 **Innate divine Spells** (DC 34)
 

@@ -11,6 +11,8 @@ uncommon, ln, medium, incorporeal, spirit, undead
 
 **Skills** Acrobatics +19, Athletics +21, Diplomacy +18, Gladiatorial Lore +15, Intimidation +20, Performance +20
 
+**Recall Knowledge - Spirit** (Religion): DC 28
+
 **STR** -5, **DEX** +6, **CON** +4, **INT** +0, **WIS** +2, **CHA** +5
 
 ---
@@ -31,7 +33,7 @@ uncommon, ln, medium, incorporeal, spirit, undead
 
 Speed fly 60 feet
 
-**Melee** ◆ ghostly hand +21 (agile, finesse, magical, nonlethal); **Damage** 2d10+12 negative plus Improved Grab
+**Melee** ◆ ghostly hand +21/+17/+13 (agile, finesse, magical, nonlethal); **Damage** 2d10+12 negative plus Improved Grab
 
 **Ghostly Grasp** A grappling spirit can Grapple corporeal creatures despite being incorporeal. The grappling spirit uses their Athletics check to Grapple as normal but can't use Athletics for other actions that require corporeal contact, like Force Open or Trip.
 

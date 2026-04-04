@@ -11,6 +11,8 @@ unique, ne, medium, fetchling, humanoid, shadow
 
 **Skills** Acrobatics +10, Arcana +12, Crafting +12, Medicine +10, Nature +8, Occultism +12, Stealth +10
 
+**Recall Knowledge - Humanoid** (Society): DC 29
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +4, **WIS** +3, **CHA** -2
 
 **Items** dagger, greater stalk goggles, padded armor, ring with Nethys mask sigil (bonded item worth 4 gp), spellbook
@@ -33,9 +35,9 @@ unique, ne, medium, fetchling, humanoid, shadow
 
 Speed during this Stride. The DC from shadow blending increases to 11 during this Stride, and the Looksee Man remains concealed by dim light until the end of the movement, even if he leaves dim light during the Stride.
 
-**Melee** ◆ dagger +12 (agile, finesse, versatile S); **Damage** 1d4 piercing
+**Melee** ◆ dagger +12/+8/+4 (agile, finesse, versatile S); **Damage** 1d4 piercing
 
-**Ranged** ◆ dagger +12 (agile, finesse, thrown 10 feet, versatile S); **Damage** 1d4 piercing
+**Ranged** ◆ dagger +12/+8/+4 (agile, finesse, thrown 10 feet, versatile S); **Damage** 1d4 piercing
 
 **Wizard Prepared Spells** (DC 21), attack +14
 

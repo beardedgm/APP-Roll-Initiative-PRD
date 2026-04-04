@@ -11,6 +11,8 @@ le, medium, incorporeal, undead
 
 **Skills** Acrobatics +17, Intimidation +15, Stealth +17
 
+**Recall Knowledge - Undead** (Religion): DC 23
+
 **STR** -5, **DEX** +6, **CON** +4, **INT** +0, **WIS** +4, **CHA** +4
 
 ---
@@ -35,7 +37,7 @@ le, medium, incorporeal, undead
 
 Speed fly 40 feet
 
-**Melee** ◆ vile touch +18 (finesse); **Damage** 6d6 negative plus spectral corruption plus spectral corruption
+**Melee** ◆ vile touch +18/+13/+8 (finesse); **Damage** 6d6 negative plus spectral corruption plus spectral corruption
 
 **Spectral Corruption** (curse, divine, enchantment, incapacitation, mental) When the specter damages a living creature with its vile touch Strike, the specter gains 5 temporary Hit Points and the target creature must attempt a DC 25 Will save to avoid becoming corrupted. **Critical Success** The creature is unaffected and is temporarily immune to spectral corruption for 1 minute.
 **Success** The creature is stupefied 2 for 1 hour.

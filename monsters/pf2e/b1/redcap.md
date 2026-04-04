@@ -11,6 +11,8 @@ ce, small, fey
 
 **Skills** Acrobatics +13, Athletics +15, Deception +11, Intimidation +13, Nature +10, Stealth +13
 
+**Recall Knowledge - Fey** (Nature): DC 20
+
 **STR** +4, **DEX** +4, **CON** +2, **INT** +1, **WIS** +1, **CHA** +2
 
 **Items** iron boots, red cap, scythe
@@ -35,9 +37,9 @@ ce, small, fey
 
 Speed 50 feet
 
-**Melee** ◆ scythe +15 (deadly <1d10>, trip); **Damage** 1d10+10 slashing
+**Melee** ◆ scythe +15/+10/+5 (deadly <1d10>, trip); **Damage** 1d10+10 slashing
 
-**Melee** ◆ boot +13 (agile, versatile <B>); **Damage** 1d6+8 piercing
+**Melee** ◆ boot +13/+9/+5 (agile, versatile <B>); **Damage** 1d6+8 piercing
 
 **Blood Soak** ◆ (manipulate) The redcap dips its cap in the blood of a slain foe. The foe must have died in the last minute, and the redcap must have helped kill it. The redcap gains a +4 status bonus to damage rolls for 1 minute.
 

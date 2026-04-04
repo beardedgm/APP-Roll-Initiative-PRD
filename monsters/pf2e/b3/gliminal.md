@@ -11,6 +11,8 @@ rare, n, medium, incorporeal, positive, spirit
 
 **Skills** Acrobatics +19, Arcana +15, Medicine +18, Religion +16, Positive Energy Plane Lore +19
 
+**Recall Knowledge - Spirit** (Religion): DC 31
+
 **STR** -5, **DEX** +6, **CON** +4, **INT** +2, **WIS** +3, **CHA** +5
 
 ---
@@ -35,9 +37,9 @@ rare, n, medium, incorporeal, positive, spirit
 
 Speed fly 60 feet
 
-**Melee** ◆ scintillating claw +19 (agile, finesse, magical); **Damage** 3d8+7 positive
+**Melee** ◆ scintillating claw +19/+15/+11 (agile, finesse, magical); **Damage** 3d8+7 positive
 
-**Ranged** ◆ radiant ray +19 (light, magical, positive); **Damage** 4d8 positive
+**Ranged** ◆ radiant ray +19/+14/+9 (light, magical, positive); **Damage** 4d8 positive
 
 **Innate primal Spells** (DC 28), attack +20
 

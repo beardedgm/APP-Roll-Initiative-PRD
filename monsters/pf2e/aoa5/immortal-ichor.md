@@ -11,6 +11,8 @@ rare, ne, medium, ooze
 
 **Skills** Arcana +30, Religion +29, Ancient History Lore +30
 
+**Recall Knowledge - Ooze** (Occultism): DC 39
+
 **STR** +6, **DEX** +3, **CON** +9, **INT** +7, **WIS** +6, **CHA** +6
 
 ---
@@ -31,7 +33,7 @@ rare, ne, medium, ooze
 
 Speed 20 feet, fly 20 feet
 
-**Melee** ◆ pseudopod +27; **Damage** 3d8+12 bludgeoning plus mental erosion plus mental erosion
+**Melee** ◆ pseudopod +27/+22/+17; **Damage** 3d8+12 bludgeoning plus mental erosion plus mental erosion
 
 **Innate divine Spells** (DC 37), attack +31
 

@@ -11,6 +11,8 @@ rare, ce, gargantuan, demon, fiend, troop
 
 **Skills** Athletics +25, Intimidation +25
 
+**Recall Knowledge - Fiend** (Religion): DC 36
+
 **STR** +6, **DEX** +4, **CON** +5, **INT** +0, **WIS** +4, **CHA** +4
 
 ---

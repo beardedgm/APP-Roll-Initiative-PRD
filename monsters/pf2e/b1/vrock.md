@@ -11,6 +11,8 @@ ce, large, demon, fiend
 
 **Skills** Acrobatics +18, Intimidation +18, Performance +18, Religion +18, Stealth +18, Survival +16
 
+**Recall Knowledge - Fiend** (Religion): DC 26
+
 **STR** +6, **DEX** +3, **CON** +5, **INT** +2, **WIS** +3, **CHA** +3
 
 ---
@@ -33,11 +35,11 @@ ce, large, demon, fiend
 
 Speed 25 feet, fly 35 feet
 
-**Melee** ◆ beak +21 (evil, magical, reach <10 feet>); **Damage** 3d8+9 piercing plus 1d6 evil
+**Melee** ◆ beak +21/+16/+11 (evil, magical, reach <10 feet>); **Damage** 3d8+9 piercing plus 1d6 evil
 
-**Melee** ◆ claw +21 (agile, evil, magical, reach <10 feet>); **Damage** 3d6+9 slashing plus 1d6 evil
+**Melee** ◆ claw +21/+17/+13 (agile, evil, magical, reach <10 feet>); **Damage** 3d6+9 slashing plus 1d6 evil
 
-**Melee** ◆ talon +19 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+8 slashing plus 1d6 evil
+**Melee** ◆ talon +19/+15/+11 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+8 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 26)
 

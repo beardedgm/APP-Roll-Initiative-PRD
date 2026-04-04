@@ -9,6 +9,8 @@ rare, n, tiny, clockwork, construct, mindless
 
 **Skills** Acrobatics +7
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 20
+
 **STR** +0, **DEX** +4, **CON** +0, **INT** -5, **WIS** +3, **CHA** +0
 
 **Wind-Up** 24 hours, DC 17, standby
@@ -33,4 +35,4 @@ rare, n, tiny, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** ◆ sharpened gear +7 (finesse); **Damage** 1d6-1 slashing plus bleeding gash
+**Melee** ◆ sharpened gear +7/+2/-3 (finesse); **Damage** 1d6-1 slashing plus bleeding gash

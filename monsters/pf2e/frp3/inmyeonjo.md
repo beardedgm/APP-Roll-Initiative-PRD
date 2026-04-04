@@ -11,6 +11,8 @@ rare, ln, huge, air, beast
 
 **Skills** Acrobatics +30, Athletics +28, Diplomacy +32, Medicine +32, Nature +32, Occultism +27
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 40
+
 **STR** +6, **DEX** +9, **CON** +7, **INT** +7, **WIS** +9, **CHA** +5
 
 **Blurred Countenance** Creatures farther than 60 feet from an inmyeonjo see it only as the generic form of a huge bird. An inmyeonjo has concealment against attacks originating farther than 60 feet away.
@@ -36,9 +38,9 @@ rare, ln, huge, air, beast
 
 Speed 40 feet, fly 100 feet
 
-**Melee** ◆ talon +30 (agile, finesse, reach <15 feet>); **Damage** 3d10+18 bludgeoning
+**Melee** ◆ talon +30/+26/+22 (agile, finesse, reach <15 feet>); **Damage** 3d10+18 bludgeoning
 
-**Melee** ◆ tail +30 (agile, finesse, reach <25 feet>); **Damage** 3d8+18 bludgeoning
+**Melee** ◆ tail +30/+26/+22 (agile, finesse, reach <25 feet>); **Damage** 3d8+18 bludgeoning
 
 **Spontaneous occult Spells** (DC 34), attack +26
 

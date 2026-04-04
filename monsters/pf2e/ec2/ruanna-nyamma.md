@@ -11,6 +11,8 @@ unique, ce, medium, elf, human, humanoid
 
 **Skills** Acrobatics +11, Deception +11, Diplomacy +11, Occultism +6, Performance +14, Society +6, Stealth +11
 
+**Recall Knowledge - Humanoid** (Society): DC 29
+
 **STR** +1, **DEX** +3, **CON** +0, **INT** +0, **WIS** +1, **CHA** +4
 
 **Items** kukri, leather armor, persona mask, shortbow (20 arrows)
@@ -27,9 +29,9 @@ unique, ce, medium, elf, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ kukri +11 (agile, finesse, trip); **Damage** 1d6+3 slashing
+**Melee** ◆ kukri +11/+7/+3 (agile, finesse, trip); **Damage** 1d6+3 slashing
 
-**Ranged** ◆ shortbow +11 (deadly d10, range increment 60 feet, reload 0); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +11/+6/+1 (deadly d10, range increment 60 feet, reload 0); **Damage** 1d6 piercing
 
 **Spontaneous occult Spells** (DC 19), attack +12
 

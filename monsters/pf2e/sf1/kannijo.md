@@ -11,6 +11,8 @@ unique, ne, medium, undead, vampire
 
 **Skills** Acrobatics +23, Athletics +23, Deception +25, Intimidation +25, Nature +23, Occultism +25, Stealth +25
 
+**Recall Knowledge - Undead** (Religion): DC 41
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +4, **WIS** +4, **CHA** +6
 
 **Items** The Snakebite
@@ -39,7 +41,7 @@ unique, ne, medium, undead, vampire
 
 Speed 15 feet, swim 15 feet, rigor mortis
 
-**Melee** ◆ fangs +26 (agile, finesse); **Damage** 3d10+10 piercing plus Grab and spirit naga venom
+**Melee** ◆ fangs +26/+22/+18 (agile, finesse); **Damage** 3d10+10 piercing plus Grab and spirit naga venom
 
 **Spontaneous occult Spells** (DC 33), attack +25
 

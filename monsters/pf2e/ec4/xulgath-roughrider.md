@@ -11,6 +11,8 @@ ce, medium, humanoid, xulgath
 
 **Skills** Acrobatics +21, Athletics +22, Intimidation +18, Nature +21, Survival +19, Dinosaur Lore +16
 
+**Recall Knowledge - Humanoid** (Society): DC 28
+
 **STR** +5, **DEX** +4, **CON** +3, **INT** -1, **WIS** +4, **CHA** +1
 
 **Items** +1 striking halberd, hide armor, javelins (6)
@@ -31,13 +33,13 @@ ce, medium, humanoid, xulgath
 
 Speed 30 feet
 
-**Melee** ◆ halberd +24 (magical, reach, versatile <S>); **Damage** 2d10+11 piercing
+**Melee** ◆ halberd +24/+19/+14 (magical, reach, versatile <S>); **Damage** 2d10+11 piercing
 
-**Melee** ◆ jaws +23; **Damage** 2d8+11 piercing
+**Melee** ◆ jaws +23/+18/+13; **Damage** 2d8+11 piercing
 
-**Melee** ◆ claw +23 (agile); **Damage** 2d6+11 slashing
+**Melee** ◆ claw +23/+19/+15 (agile); **Damage** 2d6+11 slashing
 
-**Ranged** ◆ javelin +22 (thrown <30 feet>); **Damage** 1d6+11 piercing
+**Ranged** ◆ javelin +22/+17/+12 (thrown <30 feet>); **Damage** 1d6+11 piercing
 
 **Feral Directive** ◆◆ As xulgath herd-tender (page 10).
 

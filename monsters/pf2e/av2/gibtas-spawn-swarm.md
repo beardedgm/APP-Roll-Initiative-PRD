@@ -9,6 +9,8 @@ uncommon, cn, large, aberration, swarm
 
 **Skills** Acrobatics +15, Survival +12
 
+**Recall Knowledge - Aberration** (Occultism): DC 24
+
 **STR** -4, **DEX** +5, **CON** +4, **INT** -4, **WIS** +2, **CHA** +2
 
 ---

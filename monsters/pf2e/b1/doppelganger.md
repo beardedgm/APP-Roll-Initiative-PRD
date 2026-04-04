@@ -11,6 +11,8 @@ uncommon, n, medium, humanoid
 
 **Skills** Deception +11, Diplomacy +11, Society +8, Stealth +8
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +3, **DEX** +3, **CON** +0, **INT** +1, **WIS** +2, **CHA** +4
 
 ---
@@ -27,7 +29,7 @@ uncommon, n, medium, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ claw +10 (agile); **Damage** 2d6+5 slashing
+**Melee** ◆ claw +10/+6/+2 (agile); **Damage** 2d6+5 slashing
 
 **Innate arcane Spells** (DC 21)
 

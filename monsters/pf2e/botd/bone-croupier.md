@@ -11,6 +11,8 @@ uncommon, ne, medium, undead
 
 **Skills** Acrobatics +14, Deception +14, Diplomacy +14, Games Lore +12, Stealth +14, Thievery +14
 
+**Recall Knowledge - Undead** (Religion): DC 22
+
 **STR** +2, **DEX** +5, **CON** +2, **INT** +1, **WIS** +2, **CHA** +5
 
 ---
@@ -29,7 +31,7 @@ uncommon, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ claw +14 (agile, finesse); **Damage** 2d8+5 slashing
+**Melee** ◆ claw +14/+10/+6 (agile, finesse); **Damage** 2d8+5 slashing
 
 **Innate occult Spells** (DC 22)
 

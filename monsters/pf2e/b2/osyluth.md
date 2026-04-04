@@ -11,6 +11,8 @@ le, large, devil, fiend
 
 **Skills** Arcana +18, Deception +19, Intimidation +21, Religion +17, Stealth +20
 
+**Recall Knowledge - Fiend** (Religion): DC 26
+
 **STR** +5, **DEX** +5, **CON** +4, **INT** +3, **WIS** +4, **CHA** +4
 
 ---
@@ -31,13 +33,13 @@ le, large, devil, fiend
 
 Speed 35 feet, fly 30 feet
 
-**Melee** ◆ jaws +21 (evil, magical); **Damage** 2d10+11 piercing plus 1d6 evil
+**Melee** ◆ jaws +21/+16/+11 (evil, magical); **Damage** 2d10+11 piercing plus 1d6 evil
 
-**Melee** ◆ claw +21 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+11 slashing plus 1d6 evil
+**Melee** ◆ claw +21/+17/+13 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+11 slashing plus 1d6 evil
 
-**Melee** ◆ stinger +21 (evil, magical, reach <15 feet>); **Damage** 1d10+11 piercing plus 1d6 evil and osyluth venom plus osyluth venom
+**Melee** ◆ stinger +21/+16/+11 (evil, magical, reach <15 feet>); **Damage** 1d10+11 piercing plus 1d6 evil and osyluth venom plus osyluth venom
 
-**Ranged** ◆ bone shard +21 (evil, magical, range increment <30 feet>); **Damage** 2d6+8 piercing
+**Ranged** ◆ bone shard +21/+16/+11 (evil, magical, range increment <30 feet>); **Damage** 2d6+8 piercing
 
 **Innate divine Spells** (DC 25)
 

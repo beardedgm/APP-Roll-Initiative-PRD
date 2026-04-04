@@ -11,6 +11,8 @@ le, small, fiend, rakshasa
 
 **Skills** Acrobatics +13, Deception +14, Stealth +13, Thievery +13
 
+**Recall Knowledge - Fiend** (Religion): DC 20
+
 **STR** +1, **DEX** +4, **CON** +3, **INT** +1, **WIS** +1, **CHA** +3
 
 ---
@@ -29,9 +31,9 @@ le, small, fiend, rakshasa
 
 Speed 25 feet, climb 20 feet
 
-**Melee** ◆ fangs +15 (finesse, magical); **Damage** 2d6+4 piercing plus 1d6 persistent bleed
+**Melee** ◆ fangs +15/+10/+5 (finesse, magical); **Damage** 2d6+4 piercing plus 1d6 persistent bleed
 
-**Melee** ◆ claw +15 (agile, finesse, magical); **Damage** 2d4+4 slashing
+**Melee** ◆ claw +15/+11/+7 (agile, finesse, magical); **Damage** 2d4+4 slashing
 
 **Spontaneous occult Spells** (DC 22), attack +15
 

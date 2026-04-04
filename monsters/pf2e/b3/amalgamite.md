@@ -11,6 +11,8 @@ rare, uncommon, ne, medium, aberration
 
 **Skills** Arcana +27, Athletics +22, Occultism +27, Lore +27 (any one subcategory)
 
+**Recall Knowledge - Aberration** (Occultism): DC 36
+
 **STR** +5, **DEX** +6, **CON** +4, **INT** +8, **WIS** +6, **CHA** -1
 
 ---
@@ -35,9 +37,9 @@ rare, uncommon, ne, medium, aberration
 
 Speed 25 feet
 
-**Melee** ◆ limb +24; **Damage** 3d10+11 bludgeoning
+**Melee** ◆ limb +24/+19/+14; **Damage** 3d10+11 bludgeoning
 
-**Ranged** ◆ warping ray +27 (deadly <2d8>, magical, range <100 feet>); **Damage** 3d8+8 force
+**Ranged** ◆ warping ray +27/+22/+17 (deadly <2d8>, magical, range <100 feet>); **Damage** 3d8+8 force
 
 **Innate occult Spells** (DC 33)
 

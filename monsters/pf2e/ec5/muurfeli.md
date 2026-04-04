@@ -11,6 +11,8 @@ rare, cn, large, air, elemental, genie
 
 **Skills** Acrobatics +33, Arcana +27, Athletics +31, Deception +28, Stealth +31
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 40
+
 **STR** +7, **DEX** +9, **CON** +5, **INT** +5, **WIS** +3, **CHA** +6
 
 **Items** +2 greater striking scimitar
@@ -36,11 +38,11 @@ rare, cn, large, air, elemental, genie
 
 Speed 35 feet, fly 50 feet
 
-**Melee** ◆ fist +29 (agile, finesse, magical, nonlethal, reach <10 feet>); **Damage** 3d10+15 bludgeoning plus 2d6 poison
+**Melee** ◆ fist +29/+25/+21 (agile, finesse, magical, nonlethal, reach <10 feet>); **Damage** 3d10+15 bludgeoning plus 2d6 poison
 
-**Melee** ◆ scimitar +31 (forceful, magical, reach <10 feet>, sweep); **Damage** 3d6+17 slashing plus 2d6 poison
+**Melee** ◆ scimitar +31/+26/+21 (forceful, magical, reach <10 feet>, sweep); **Damage** 3d6+17 slashing plus 2d6 poison
 
-**Ranged** ◆ fetid winds +31 (air, evocation, magical, poison, range increment <20 feet>); **Damage** 2d8+7 bludgeoning plus 2d8+5 poison
+**Ranged** ◆ fetid winds +31/+26/+21 (air, evocation, magical, poison, range increment <20 feet>); **Damage** 2d8+7 bludgeoning plus 2d8+5 poison
 
 **Innate arcane Spells** (DC 36)
 

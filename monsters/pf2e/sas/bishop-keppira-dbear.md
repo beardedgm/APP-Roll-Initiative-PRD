@@ -11,6 +11,8 @@ unique, le, medium, shadow, undead, vampire
 
 **Skills** Acrobatics +22, Athletics +23, Deception +22, Stealth +22
 
+**Recall Knowledge - Undead** (Religion): DC 38
+
 **STR** +6, **DEX** +7, **CON** +5, **INT** +3, **WIS** +5, **CHA** +5
 
 ---
@@ -31,7 +33,7 @@ unique, le, medium, shadow, undead, vampire
 
 Speed 25 feet
 
-**Melee** ◆ claw +22 (agile, magical); **Damage** 2d8+8 slashing plus Grab
+**Melee** ◆ claw +22/+18/+14 (agile, magical); **Damage** 2d8+8 slashing plus Grab
 
 **Innate divine Spells** (DC 27)
 

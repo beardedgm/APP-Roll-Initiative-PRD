@@ -11,6 +11,8 @@ rare, ng, medium, humanoid, shabti
 
 **Skills** Arcana +8, Athletics +12, Diplomacy +10, Medicine +12, Religion +10
 
+**Recall Knowledge - Humanoid** (Society): DC 24
+
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +0, **CHA** +3
 
 **Items** dagger, scale mail, staff
@@ -38,11 +40,11 @@ rare, ng, medium, humanoid, shabti
 
 Speed 25 feet
 
-**Melee** ◆ disrupting staff +14 (two-hand <d8>); **Damage** 1d4+7 bludgeoning
+**Melee** ◆ disrupting staff +14/+9/+4 (two-hand <d8>); **Damage** 1d4+7 bludgeoning
 
-**Melee** ◆ dagger +14 (agile, finesse, versatile <S>); **Damage** 1d4+7 piercing
+**Melee** ◆ dagger +14/+10/+6 (agile, finesse, versatile <S>); **Damage** 1d4+7 piercing
 
-**Ranged** ◆ dagger +11 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
+**Ranged** ◆ dagger +11/+7/+3 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
 
 **Innate divine Spells** (DC 19)
 

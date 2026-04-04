@@ -11,6 +11,8 @@ rare, n, small, aberration
 
 **Skills** Stealth +11
 
+**Recall Knowledge - Aberration** (Occultism): DC 23
+
 **STR** +1, **DEX** +3, **CON** +3, **INT** -2, **WIS** +2, **CHA** +5
 
 ---
@@ -29,7 +31,7 @@ rare, n, small, aberration
 
 Speed 20 feet, climb 10 feet
 
-**Melee** ◆ eye stalk +8 (agile); **Damage** 2d4+2 bludgeoning
+**Melee** ◆ eye stalk +8/+4/+0 (agile); **Damage** 2d4+2 bludgeoning
 
 **Beguiling Gaze** ◆◆◆ (occult, visual) The zuipnyrn attempts to charm a creature within 30 feet that is currently fascinated by the zuipnyrn. The target must attempt a DC 22 Will save. Whether it succeeds or fails the save, the target is temporarily immune for 1 hour. **Critical Success** The creature is unaffected and is no longer fascinated.
 **Success** The creature is unaffected.

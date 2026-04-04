@@ -9,6 +9,8 @@ unique, n, huge, clockwork, construct, mindless
 
 **Skills** Athletics +25
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 40
+
 **STR** +8, **DEX** +0, **CON** +5, **INT** -5, **WIS** +3, **CHA** -5
 
 **Wind-Up** 24 hours, DC 29, standby
@@ -35,11 +37,11 @@ unique, n, huge, clockwork, construct, mindless
 
 Speed 45 feet
 
-**Melee** ◆ tusk +21 (reach <15 feet>); **Damage** 3d8+15 piercing
+**Melee** ◆ tusk +21/+16/+11 (reach <15 feet>); **Damage** 3d8+15 piercing
 
-**Melee** ◆ trunk +21 (reach <15 feet>); **Damage** grabbing trunk
+**Melee** ◆ trunk +21/+16/+11 (reach <15 feet>); **Damage** grabbing trunk
 
-**Melee** ◆ foot +21 (reach <10 feet>); **Damage** 3d10+15 bludgeoning
+**Melee** ◆ foot +21/+16/+11 (reach <10 feet>); **Damage** 3d10+15 bludgeoning
 
 **Dual Tusks** ◆ The glass elephant makes two tusk Strikes, each against a different creature. This counts as one attack for the elephant's multiple attack penalty, and the penalty doesn't increase until after both attacks.
 

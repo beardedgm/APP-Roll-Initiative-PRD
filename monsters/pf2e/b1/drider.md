@@ -11,6 +11,8 @@ ce, large, aberration
 
 **Skills** Arcana +14, Athletics +12, Intimidation +14, Religion +13, Stealth +15
 
+**Recall Knowledge - Aberration** (Occultism): DC 22
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** +2, **WIS** +3, **CHA** +4
 
 **Items** +1 composite longbow (20 arrows), glaive
@@ -27,13 +29,13 @@ ce, large, aberration
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ glaive +16 (deadly <1d8>, forceful, reach <10 feet>); **Damage** 1d8+10 slashing
+**Melee** ◆ glaive +16/+11/+6 (deadly <1d8>, forceful, reach <10 feet>); **Damage** 1d8+10 slashing
 
-**Melee** ◆ fangs +16; **Damage** 1d6+10 piercing plus drider venom plus drider venom
+**Melee** ◆ fangs +16/+11/+6; **Damage** 1d6+10 piercing plus drider venom plus drider venom
 
-**Ranged** ◆ composite longbow +16 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <50 feet>); **Damage** 1d8+8 piercing
+**Ranged** ◆ composite longbow +16/+11/+6 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <50 feet>); **Damage** 1d8+8 piercing
 
-**Ranged** ◆ web +15 (range increment <30 feet>); plus web trap
+**Ranged** ◆ web +15/+10/+5 (range increment <30 feet>); plus web trap
 
 **Innate arcane Spells** (DC 20)
 

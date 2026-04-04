@@ -31,8 +31,8 @@ ne, medium, kami
 
 Speed fly 20 feet
 
-**Melee** ◆ tendril +16 (finesse, reach <15 feet>); **Damage** 2d8 negative plus 2d6 fire plus Grab
+**Melee** ◆ tendril +16/+11/+6 (finesse, reach <15 feet>); **Damage** 2d8 negative plus 2d6 fire plus Grab
 
-**Ranged** ◆ flame +16 (range increment <30 feet>); **Damage** 2d4 negative plus 2d6 fire
+**Ranged** ◆ flame +16/+11/+6 (range increment <30 feet>); **Damage** 2d4 negative plus 2d6 fire
 
 **Constrict** ◆ 2d8 negative plus 1d6 fire, DC 26

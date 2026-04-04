@@ -11,6 +11,8 @@ unique, ce, medium, fiend, illusion, mental
 
 **Skills** Arcana +24, Deception +27, Intimidation +27, Religion +23, Society +24, Stealth +25, Willowshore Lore +24
 
+**Recall Knowledge - Fiend** (Religion): DC 41
+
 **STR** +7, **DEX** +6, **CON** +5, **INT** +5, **WIS** +4, **CHA** +8
 
 **Universal Language** Anything spoken by Heh Shan-Bao is perceived by the listener in its native language.
@@ -47,7 +49,7 @@ unique, ce, medium, fiend, illusion, mental
 
 Speed 20 feet, fly 20 feet
 
-**Melee** ◆ illusory claws +26 (illusion, mental, occult, reach <10 feet>); **Damage** 4d8+10 mental plus 1d6 slashing
+**Melee** ◆ illusory claws +26/+21/+16 (illusion, mental, occult, reach <10 feet>); **Damage** 4d8+10 mental plus 1d6 slashing
 
 **Innate occult Spells** (DC 33), attack +25
 

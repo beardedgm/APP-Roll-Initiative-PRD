@@ -11,6 +11,8 @@ ce, large, aberration
 
 **Skills** Deception +30, Intimidation +30, Occultism +27
 
+**Recall Knowledge - Aberration** (Occultism): DC 34
+
 **STR** +6, **DEX** +5, **CON** +4, **INT** +5, **WIS** +6, **CHA** +8
 
 ---
@@ -25,7 +27,7 @@ ce, large, aberration
 
 Speed 40 feet, air walk
 
-**Melee** ◆ claw +30 (agile, magical, reach <10 feet>); **Damage** 3d8+12 slashing
+**Melee** ◆ claw +30/+26/+22 (agile, magical, reach <10 feet>); **Damage** 3d8+12 slashing
 
 **Innate occult Spells** (DC 39)
 

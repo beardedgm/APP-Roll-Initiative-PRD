@@ -11,6 +11,8 @@ ce, large, aberration
 
 **Skills** Acrobatics +19, Athletics +23, Stealth +19, Survival +17
 
+**Recall Knowledge - Aberration** (Occultism): DC 27
+
 **STR** +7, **DEX** +3, **CON** +6, **INT** +0, **WIS** +3, **CHA** +0
 
 ---
@@ -27,9 +29,9 @@ ce, large, aberration
 
 Speed 40 feet, climb 20 feet
 
-**Melee** ◆ jaws +23 (reach <15 feet>); **Damage** 2d12+13 piercing
+**Melee** ◆ jaws +23/+18/+13 (reach <15 feet>); **Damage** 2d12+13 piercing
 
-**Melee** ◆ claw +23 (agile, reach <15 feet>); **Damage** 2d8+13 slashing
+**Melee** ◆ claw +23/+19/+15 (agile, reach <15 feet>); **Damage** 2d8+13 slashing
 
 **Eerie Flexibility** Despite its size, the gug's multiple joints allow it to fit through tight spaces as if it were a Medium creature. While Squeezing, it can move at its full Speed.
 

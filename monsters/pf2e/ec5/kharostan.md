@@ -11,6 +11,8 @@ unique, ne, large, fiend, humanoid, urdefhan
 
 **Skills** Acrobatics +28, Athletics +31, Crafting +25, Intimidate +28, Religion +27, Stealth +28, Survival +29, Black Desert Lore +25
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 45
+
 **STR** +6, **DEX** +6, **CON** +4, **INT** +1, **WIS** +3, **CHA** +4
 
 **Items** +1 striking composite longbow (40 arrows), +2 greater striking rhoka sword (page 83), studded leather armor
@@ -35,11 +37,11 @@ unique, ne, large, fiend, humanoid, urdefhan
 
 Speed 30 feet, climb 30 feet
 
-**Melee** ◆ rhoka sword +32 (fatal <d10>, magical, reach <10 feet>, two-hand <d12>); **Damage** 3d8+12 slashing
+**Melee** ◆ rhoka sword +32/+27/+22 (fatal <d10>, magical, reach <10 feet>, two-hand <d12>); **Damage** 3d8+12 slashing
 
-**Melee** ◆ jaws +31; **Damage** 3d8+12 piercing plus wicked bite plus wicked bite
+**Melee** ◆ jaws +31/+26/+21; **Damage** 3d8+12 piercing plus wicked bite plus wicked bite
 
-**Ranged** ◆ composite longbow +32 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+9 piercing
+**Ranged** ◆ composite longbow +32/+27/+22 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+9 piercing
 
 **Innate divine Spells** (DC 37)
 

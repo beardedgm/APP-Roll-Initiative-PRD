@@ -11,6 +11,8 @@ n, medium, human, humanoid
 
 **Skills** Acrobatics +6, Diplomacy +4, Thievery +5
 
+**Recall Knowledge - Humanoid** (Society): DC 13
+
 **STR** +1, **DEX** +4, **CON** +0, **INT** +0, **WIS** +1, **CHA** +2
 
 **Items** pewter mug, serving tray
@@ -29,6 +31,6 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ fist +6 (agile, nonlethal); **Damage** 1d4+1 bludgeoning
+**Melee** ◆ fist +6/+2/-2 (agile, nonlethal); **Damage** 1d4+1 bludgeoning
 
-**Ranged** ◆ pewter mug +6 (thrown <10 feet>); **Damage** 1d4+1 bludgeoning
+**Ranged** ◆ pewter mug +6/+1/-4 (thrown <10 feet>); **Damage** 1d4+1 bludgeoning

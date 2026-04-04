@@ -9,6 +9,8 @@ rare, n, large, clockwork, construct, mindless
 
 **Skills** Acrobatics +16, Athletics +18
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 29
+
 **STR** +6, **DEX** +4, **CON** +4, **INT** -5, **WIS** +3, **CHA** -5
 
 **Wind-Up** 24 hours, DC 24, standby
@@ -33,6 +35,6 @@ rare, n, large, clockwork, construct, mindless
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ claw +20; **Damage** 2d12+9 slashing
+**Melee** ◆ claw +20/+15/+10; **Damage** 2d12+9 slashing
 
 **Pounce** ◆ **Frequency** {"number":1,"unit":"round"}; The sphinx Strides and makes a Strike at the end of that movement. If the sphinx began this action hidden, it remains hidden until after the attack.

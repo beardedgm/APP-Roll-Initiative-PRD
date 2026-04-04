@@ -11,6 +11,8 @@ n, small, leshy, plant
 
 **Skills** Acrobatics +6, Diplomacy +8, Nature +5, Stealth +7
 
+**Recall Knowledge - Plant** (Nature): DC 15
+
 **STR** +0, **DEX** +3, **CON** +1, **INT** +0, **WIS** +2, **CHA** +3
 
 ---
@@ -31,9 +33,9 @@ n, small, leshy, plant
 
 Speed 25 feet
 
-**Melee** ◆ tendril +6 (agile, finesse); **Damage** 1d8 bludgeoning
+**Melee** ◆ tendril +6/+2/-2 (agile, finesse); **Damage** 1d8 bludgeoning
 
-**Ranged** ◆ seed +6 (range increment <20 feet>); **Damage** 1d6 bludgeoning
+**Ranged** ◆ seed +6/+1/-4 (range increment <20 feet>); **Damage** 1d6 bludgeoning
 
 **Innate primal Spells** (DC 17)
 

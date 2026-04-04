@@ -9,6 +9,8 @@ n, large, fungus, mindless, swarm
 
 **Skills** Athletics +12, Stealth +13
 
+**Recall Knowledge - Fungus** (Nature): DC 20
+
 **STR** +3, **DEX** +4, **CON** +5, **INT** -5, **WIS** +1, **CHA** -3
 
 ---

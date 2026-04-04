@@ -11,6 +11,8 @@ unique, ng, medium, catfolk, humanoid
 
 **Skills** Acrobatics +28, Diplomacy +28, Nature +24, Occultism +25, Performance +28
 
+**Recall Knowledge - Humanoid** (Society): DC 44
+
 **STR** +2, **DEX** +5, **CON** +3, **INT** +2, **WIS** +1, **CHA** +5
 
 **Items** +2 striking corrosive composite longbow with 20 arrows, +2 striking handwraps of mighty blows, +1 resilient leather armor, morin khurr
@@ -29,9 +31,9 @@ unique, ng, medium, catfolk, humanoid
 
 Speed 25 feet, climb 10 feet
 
-**Melee** ◆ claw +30 (agile, finesse, magical); **Damage** 2d6+10 slashing
+**Melee** ◆ claw +30/+26/+22 (agile, finesse, magical); **Damage** 2d6+10 slashing
 
-**Ranged** ◆ composite longbow +30 (deadly <d10>, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+10 piercing plus 1d6 acid
+**Ranged** ◆ composite longbow +30/+25/+20 (deadly <d10>, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+10 piercing plus 1d6 acid
 
 **Spontaneous occult Spells** (DC 34)
 

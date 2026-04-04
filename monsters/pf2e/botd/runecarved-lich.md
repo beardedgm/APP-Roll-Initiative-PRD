@@ -11,6 +11,8 @@ rare, ne, medium, undead
 
 **Skills** Arcana +34, Crafting +38, Deception +35, Diplomacy +35, Intimidation +37, Occultism +36, Religion +34, Stealth +33
 
+**Recall Knowledge - Undead** (Religion): DC 44
+
 **STR** +5, **DEX** +6, **CON** +4, **INT** +7, **WIS** +7, **CHA** +10
 
 **Items** +2 greater striking grievous battle axe, wand of manifold missiles (7th), wand of wall of force
@@ -39,9 +41,9 @@ rare, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ battle axe +34 (magical, sweep); **Damage** 3d8+13 slashing plus 3d8 negative
+**Melee** ◆ battle axe +34/+29/+24 (magical, sweep); **Damage** 3d8+13 slashing plus 3d8 negative
 
-**Melee** ◆ hand +31 (finesse, magical); **Damage** 6d8 negative
+**Melee** ◆ hand +31/+26/+21 (finesse, magical); **Damage** 6d8 negative
 
 **Spontaneous occult Spells** (DC 45), attack +37
 

@@ -11,6 +11,8 @@ ce, medium, astral
 
 **Skills** Arcana +18, Deception +23, Diplomacy +21, Intimidation +21, Occultism +18
 
+**Recall Knowledge - Astral** (Occultism): DC 30
+
 **STR** +2, **DEX** +5, **CON** +6, **INT** +2, **WIS** +5, **CHA** +7
 
 **Radiance Dependence** The shining child is flat-footed while in areas of darkness.
@@ -33,9 +35,9 @@ ce, medium, astral
 
 Speed 30 feet, fly 50 feet
 
-**Melee** ◆ fist +25 (agile, finesse, magical); **Damage** 3d4+5 bludgeoning plus 4d6 fire and 2d4 persistent fire
+**Melee** ◆ fist +25/+21/+17 (agile, finesse, magical); **Damage** 3d4+5 bludgeoning plus 4d6 fire and 2d4 persistent fire
 
-**Melee** ◆ fire ray +25 (arcane, evocation, magical, range <100 feet>); **Damage** 3d10+3 fire, plus 2d10 positive damage if the target is undead
+**Melee** ◆ fire ray +25/+20/+15 (arcane, evocation, magical, range <100 feet>); **Damage** 3d10+3 fire, plus 2d10 positive damage if the target is undead
 
 **Innate occult Spells** (DC 33)
 

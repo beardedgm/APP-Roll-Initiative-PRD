@@ -11,6 +11,8 @@ unique, ne, small, halfling, humanoid
 
 **Skills** Diplomacy +8, Nature +11, Religion +9, Stealth +8, Survival +11
 
+**Recall Knowledge - Humanoid** (Society): DC 28
+
 **STR** -1, **DEX** +3, **CON** +1, **INT** +1, **WIS** +4, **CHA** +1
 
 **Stealth** +8, Survival +11 Str –1, Dex +3, Con +1, Int +1, Wis +4
@@ -29,9 +31,9 @@ unique, ne, small, halfling, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ sickle +9 (agile, finesse, magical, trip); **Damage** 1d4+3 slashing
+**Melee** ◆ sickle +9/+5/+1 (agile, finesse, magical, trip); **Damage** 1d4+3 slashing
 
-**Melee** ◆ staff +5 (two-hand <d8>); **Damage** 1d4-1 bludgeoning
+**Melee** ◆ staff +5/+0/-5 (two-hand <d8>); **Damage** 1d4-1 bludgeoning
 
 **Innate primal Spells** (DC 19)
 

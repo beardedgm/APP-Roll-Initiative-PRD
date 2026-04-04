@@ -9,6 +9,8 @@ medium, construct, mindless
 
 **Skills** Acrobatics +10, Athletics +10
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 16
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -27,6 +29,6 @@ medium, construct, mindless
 
 Speed 30 feet, climb 15 feet
 
-**Melee** ◆ fist +10 (magical, reach <10 feet>); **Damage** 1d8+4 bludgeoning plus Knockdown plus Knockdown
+**Melee** ◆ fist +10/+5/+0 (magical, reach <10 feet>); **Damage** 1d8+4 bludgeoning plus Knockdown plus Knockdown
 
 **Spring Forward** ◆◆ The animated bamboo figure jumps up to 30 feet and makes two fist Strikes against different targets. It can use Knockdown following this activity, attempting to Trip each creature struck.

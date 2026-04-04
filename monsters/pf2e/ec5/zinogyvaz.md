@@ -11,6 +11,8 @@ unique, ce, large, undead, vampire
 
 **Skills** Acrobatics +28, Athletics +26, Deception +28, Intimidation +28, Religion +33, Society +26, Stealth +28
 
+**Recall Knowledge - Undead** (Religion): DC 45
+
 **STR** +5, **DEX** +7, **CON** +4, **INT** +2, **WIS** +7, **CHA** +6
 
 **Items** bracers of armor II, +2 greater striking composite shortbow (20 arrows), religious symbol of Urgathoa
@@ -37,11 +39,11 @@ unique, ce, large, undead, vampire
 
 Speed 30 feet, climb 30 feet
 
-**Melee** ◆ fangs +32; **Damage** 4d6+15 piercing plus Grab and vampire drider venom plus Grab, vampire drider venom
+**Melee** ◆ fangs +32/+27/+22; **Damage** 4d6+15 piercing plus Grab and vampire drider venom plus Grab, vampire drider venom
 
-**Ranged** ◆ composite shortbow +0 (deadly <d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 3d6+13 piercing
+**Ranged** ◆ composite shortbow +0/-5/-10 (deadly <d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 3d6+13 piercing
 
-**Ranged** ◆ web +32 (range increment <30 feet>); plus web trap
+**Ranged** ◆ web +32/+27/+22 (range increment <30 feet>); plus web trap
 
 **Prepared divine Spells** (DC 37), attack +29
 

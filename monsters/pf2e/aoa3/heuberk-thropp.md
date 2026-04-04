@@ -11,6 +11,8 @@ unique, le, medium, human, humanoid
 
 **Skills** Athletics +16, Deception +21, Diplomacy +15, Intimidation +19, Society +16, Thievery +16, Mercantile Lore +16
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +3, **DEX** +2, **CON** +3, **INT** +1, **WIS** +1, **CHA** +4
 
 **Items** dagger (3), keys to manacles, leather armor, +1 striking, mace, average manacles (marked with the symbol of the Scarlet Triad), spellbook, infiltrator's thieves tools
@@ -29,11 +31,11 @@ unique, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ mace +19 (shove); **Damage** 2d6+9 bludgeoning
+**Melee** ◆ mace +19/+14/+9 (shove); **Damage** 2d6+9 bludgeoning
 
-**Melee** ◆ dagger +18 (agile, versatile <S>); **Damage** 1d4+9 piercing
+**Melee** ◆ dagger +18/+14/+10 (agile, versatile <S>); **Damage** 1d4+9 piercing
 
-**Ranged** ◆ dagger +17 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+9 piercing
+**Ranged** ◆ dagger +17/+13/+9 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+9 piercing
 
 **Prepared occult Spells** (DC 27), attack +19
 

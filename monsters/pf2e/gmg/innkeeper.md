@@ -11,6 +11,8 @@ n, medium, human, humanoid
 
 **Skills** Deception +6, Diplomacy +8, Society +7, Accounting Lore +5, Cooking Lore +5
 
+**Recall Knowledge - Humanoid** (Society): DC 15
+
 **STR** +2, **DEX** +0, **CON** +1, **INT** +2, **WIS** +2, **CHA** +3
 
 **Items** broom (functions as staff), innkeeper's apron (functions as leather armor), ledger
@@ -29,10 +31,10 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ broom +7 (two-hand <d8>); **Damage** 1d4+2 bludgeoning
+**Melee** ◆ broom +7/+2/-3 (two-hand <d8>); **Damage** 1d4+2 bludgeoning
 
-**Melee** ◆ fist +7 (agile, nonlethal); **Damage** 1d4+2 bludgeoning
+**Melee** ◆ fist +7/+3/-1 (agile, nonlethal); **Damage** 1d4+2 bludgeoning
 
-**Ranged** ◆ ledger +5 (nonlethal, thrown <10 feet>); **Damage** 1d4+2 bludgeoning
+**Ranged** ◆ ledger +5/+0/-5 (nonlethal, thrown <10 feet>); **Damage** 1d4+2 bludgeoning
 
 **Home Turf** An innkeeper gains a +2 circumstance bonus to attack rolls, damage rolls, and AC within their inn.

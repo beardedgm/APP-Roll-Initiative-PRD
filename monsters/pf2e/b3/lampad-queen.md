@@ -11,6 +11,8 @@ uncommon, cn, medium, earth, fey, nymph
 
 **Skills** Acrobatics +27, Athletics +28, Deception +31, Diplomacy +33, Intimidation +33, Nature +27, Occultism +27, Performance +29, Society +25, Stealth +27
 
+**Recall Knowledge - Fey** (Nature): DC 36
+
 **STR** +3, **DEX** +8, **CON** +7, **INT** +4, **WIS** +4, **CHA** +8
 
 **Cavern Empathy** The lampad queen can use Diplomacy to Make an Impression on and make very simple Requests of subterranean animals, plants, and fungi, as well as stones.
@@ -33,9 +35,9 @@ uncommon, cn, medium, earth, fey, nymph
 
 Speed 30 feet, climb 30 feet
 
-**Melee** ◆ earthen fist +29 (agile, finesse); **Damage** 3d10+9 bludgeoning plus 1d6 mental
+**Melee** ◆ earthen fist +29/+25/+21 (agile, finesse); **Damage** 3d10+9 bludgeoning plus 1d6 mental
 
-**Ranged** ◆ light wisp +29 (magical, range increment <60 feet>); **Damage** 2d8+9 mental plus 2d6 fire and 2d6 positive
+**Ranged** ◆ light wisp +29/+24/+19 (magical, range increment <60 feet>); **Damage** 2d8+9 mental plus 2d6 fire and 2d6 positive
 
 **Prepared primal Spells** (DC 38)
 

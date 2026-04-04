@@ -11,6 +11,8 @@ le, medium, devil, fiend
 
 **Skills** Acrobatics +11, Athletics +13, Intimidation +10, Religion +11, Stealth +11
 
+**Recall Knowledge - Fiend** (Religion): DC 20
+
 **STR** +4, **DEX** +2, **CON** +4, **INT** -2, **WIS** +2, **CHA** +1
 
 **Items** glaive
@@ -35,11 +37,11 @@ le, medium, devil, fiend
 
 Speed 35 feet
 
-**Melee** ◆ glaive +15 (deadly <1d8>, evil, forceful, magical, reach <10 feet>); **Damage** 1d8+7 slashing plus 2d6 evil and infernal wound plus infernal wound
+**Melee** ◆ glaive +15/+10/+5 (deadly <1d8>, evil, forceful, magical, reach <10 feet>); **Damage** 1d8+7 slashing plus 2d6 evil and infernal wound plus infernal wound
 
-**Melee** ◆ claw +15 (agile, evil, magical); **Damage** 2d6+7 slashing plus 1d6 evil
+**Melee** ◆ claw +15/+11/+7 (agile, evil, magical); **Damage** 2d6+7 slashing plus 1d6 evil
 
-**Melee** ◆ beard +15 (magical); **Damage** 1d6+7 piercing plus Avernal fever plus Avernal fever
+**Melee** ◆ beard +15/+10/+5 (magical); **Damage** 1d6+7 piercing plus Avernal fever plus Avernal fever
 
 **Innate divine Spells** (DC 19)
 

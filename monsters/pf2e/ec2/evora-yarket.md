@@ -11,6 +11,8 @@ unique, n, medium, human, humanoid, orc
 
 **Skills** Acrobatics +11, Athletics +19, Intimidation +10, Nature +13, Performance +10, Survival +13
 
+**Recall Knowledge - Humanoid** (Society): DC 33
+
 **STR** +5, **DEX** +0, **CON** +3, **INT** +1, **WIS** +2, **CHA** -1
 
 **Items** bullhook (page 73)

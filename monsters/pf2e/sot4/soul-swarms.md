@@ -11,6 +11,8 @@ rare, ne, gargantuan, ghost, incorporeal, spirit, troop, undead
 
 **Skills** Religion +26, Stealth +24
 
+**Recall Knowledge - Spirit** (Religion): DC 36
+
 **STR** -5, **DEX** +5, **CON** +3, **INT** +2, **WIS** +5, **CHA** +4
 
 ---

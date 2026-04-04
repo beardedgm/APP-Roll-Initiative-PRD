@@ -11,6 +11,8 @@ unique, ce, gargantuan, beast
 
 **Skills** Acrobatics +47, Athletics +50
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 60
+
 **STR** +12, **DEX** +9, **CON** +12, **INT** -3, **WIS** +9, **CHA** +7
 
 ---
@@ -41,15 +43,15 @@ unique, ce, gargantuan, beast
 
 Speed 50 feet, swim 50 feet
 
-**Melee** ◆ jaws +45 (chaotic, evil, magical, reach <20 feet>); **Damage** 5d12+20 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +45/+40/+35 (chaotic, evil, magical, reach <20 feet>); **Damage** 5d12+20 piercing plus Improved Grab plus Improved Grab
 
-**Melee** ◆ claw +45 (agile, chaotic, evil, magical, reach <15 feet>); **Damage** 5d10+20 slashing
+**Melee** ◆ claw +45/+41/+37 (agile, chaotic, evil, magical, reach <15 feet>); **Damage** 5d10+20 slashing
 
-**Melee** ◆ tail +45 (chaotic, evil, magical, reach <30 feet>); **Damage** 4d12+20 bludgeoning
+**Melee** ◆ tail +45/+40/+35 (chaotic, evil, magical, reach <30 feet>); **Damage** 4d12+20 bludgeoning
 
-**Melee** ◆ horn +45 (chaotic, evil, magical, reach <15 feet>); **Damage** 4d10+20 piercing
+**Melee** ◆ horn +45/+40/+35 (chaotic, evil, magical, reach <15 feet>); **Damage** 4d10+20 piercing
 
-**Ranged** ◆ spine +45 (brutal, chaotic, evil, magical, range increment <120 feet>); **Damage** 3d10+20 piercing
+**Ranged** ◆ spine +45/+40/+35 (brutal, chaotic, evil, magical, range increment <120 feet>); **Damage** 3d10+20 piercing
 
 **Destructive Frenzy** ◆◆◆ Tarrasque makes a jaws Strike, two claw Strikes, two horn Strikes, and one tail Strike in any order.
 

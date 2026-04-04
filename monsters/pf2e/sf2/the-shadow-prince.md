@@ -35,7 +35,7 @@ rare, ce, large, illusion, mental
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ illusory weapon +24 (illusion, mental, occult); **Damage** 4d6+10 mental plus 1d6 persistent bleed
+**Melee** ◆ illusory weapon +24/+19/+14 (illusion, mental, occult); **Damage** 4d6+10 mental plus 1d6 persistent bleed
 
 **Innate occult Spells** (DC 30)
 

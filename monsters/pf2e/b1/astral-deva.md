@@ -11,6 +11,8 @@ ng, medium, angel, celestial
 
 **Skills** Acrobatics +24, Diplomacy +26, Intimidation +28, Religion +24
 
+**Recall Knowledge - Celestial** (Religion): DC 32
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** +4, **WIS** +4, **CHA** +6
 
 **Items** +2 striking warhammer
@@ -33,7 +35,7 @@ ng, medium, angel, celestial
 
 Speed 40 feet, fly 75 feet
 
-**Melee** ◆ holy warhammer +30 (good, magical, shove); **Damage** 2d8+22 bludgeoning plus 1d6 good
+**Melee** ◆ holy warhammer +30/+25/+20 (good, magical, shove); **Damage** 2d8+22 bludgeoning plus 1d6 good
 
 **Innate divine Spells** (DC 36), attack +28
 

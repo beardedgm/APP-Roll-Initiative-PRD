@@ -9,6 +9,8 @@ unique, n, medium, animal
 
 **Skills** Acrobatics +9, Athletics +11, Stealth +11, Survival +9
 
+**Recall Knowledge - Animal** (Nature): DC 29
+
 **STR** +5, **DEX** +3, **CON** +2, **INT** -4, **WIS** +3, **CHA** +0
 
 ---
@@ -23,7 +25,7 @@ unique, n, medium, animal
 
 Speed 35 feet
 
-**Melee** ◆ jaws +13; **Damage** 2d6+7 piercing plus
+**Melee** ◆ jaws +13/+8/+3; **Damage** 2d6+7 piercing plus
 
 **Knockdown**
 

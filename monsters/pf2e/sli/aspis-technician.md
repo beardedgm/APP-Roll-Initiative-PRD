@@ -11,6 +11,8 @@ ce, small, gnome, humanoid
 
 **Skills** Acrobatics +15, Arcana +15, Crafting +17, Stealth +15, Thievery +15
 
+**Recall Knowledge - Humanoid** (Society): DC 23
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +4, **WIS** +2, **CHA** +0
 
 **Items** expanded alchemist's tools, lesser bomber's eye elixir, bronze Aspis Consortium badge, moderate cheetah's elixir, hunting spider venom (2), , studded leather armor
@@ -29,11 +31,11 @@ ce, small, gnome, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ rapier +18 (deadly <d8>, disarm, finesse); **Damage** 2d6+8 piercing plus hunting spider venom plus hunting spider venom
+**Melee** ◆ rapier +18/+13/+8 (deadly <d8>, disarm, finesse); **Damage** 2d6+8 piercing plus hunting spider venom plus hunting spider venom
 
-**Ranged** ◆ acid flask +18 (range increment <20 feet>, splash); **Damage** 5 acid damage plus 2d6+2 persistent acid and 4 acid splash
+**Ranged** ◆ acid flask +18/+13/+8 (range increment <20 feet>, splash); **Damage** 5 acid damage plus 2d6+2 persistent acid and 4 acid splash
 
-**Ranged** ◆ alchemist's fire +18 (range increment <20 feet>, splash); **Damage** 2d8+2 fire plus 4 persistent fire and 4 fire splash
+**Ranged** ◆ alchemist's fire +18/+13/+8 (range increment <20 feet>, splash); **Damage** 2d8+2 fire plus 4 persistent fire and 4 fire splash
 
 **Hunting Spider Venom** (poison)
 

@@ -11,6 +11,8 @@ unique, ln, medium, ethereal, phantom, spirit
 
 **Skills** Acrobatics +35, Athletics +37, Performance +36, Religion +31, Warfare Lore +38
 
+**Recall Knowledge - Ethereal** (Occultism, Religion): DC 48
+
 **STR** +9, **DEX** +9, **CON** +5, **INT** +5, **WIS** +6, **CHA** +5
 
 **Items** wind and fire wheels (2; Pathfinder #166: Despair on Danger Island 76), hook swords (2; Pathfinder #166: Despair on Danger Island 76)
@@ -35,13 +37,13 @@ unique, ln, medium, ethereal, phantom, spirit
 
 Speed 40 feet
 
-**Melee** ◆ hook sword +35 (disarm, magical, parry, trip, twin); **Damage** 6d6+20 slashing
+**Melee** ◆ hook sword +35/+30/+25 (disarm, magical, parry, trip, twin); **Damage** 6d6+20 slashing
 
-**Melee** ◆ linked hook swords +35 (magical, reach <10 feet>, sweep); **Damage** 6d6+20 slashing
+**Melee** ◆ linked hook swords +35/+30/+25 (magical, reach <10 feet>, sweep); **Damage** 6d6+20 slashing
 
-**Melee** ◆ wind and fire wheels +35 (agile, disarm, finesse, magical, parry, thrown <20 feet>, twin, versatile <P>); **Damage** 3d6+15 slashing plus 3d6 fire
+**Melee** ◆ wind and fire wheels +35/+31/+27 (agile, disarm, finesse, magical, parry, thrown <20 feet>, twin, versatile <P>); **Damage** 3d6+15 slashing plus 3d6 fire
 
-**Ranged** ◆ vacuum slash +35 (air, divine, range <60 feet>); **Damage** 6d6+10 slashing
+**Ranged** ◆ vacuum slash +35/+30/+25 (air, divine, range <60 feet>); **Damage** 6d6+10 slashing
 
 **Innate divine Spells** (DC 40)
 

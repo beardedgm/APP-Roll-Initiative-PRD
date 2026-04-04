@@ -11,6 +11,8 @@ unique, ce, medium, human, humanoid
 
 **Skills** Arcana +22, Athletics +15, Deception +21, Intimidation +19, Religion +15, Thievery +19, Shadow Plane Lore +26
 
+**Recall Knowledge - Humanoid** (Society): DC 38
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +5, **WIS** +2, **CHA** +4
 
 **Items** dagger, +1 explorer's clothing, The Extraplanar Registry (his arcane focus; see page 45 for more on this book), keys to each dormitory door and slave manacles, good manacles (marked with the symbol of the Scarlet Triad), +1 striking morningstar
@@ -27,11 +29,11 @@ unique, ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ morningstar +20 (versatile <P>); **Damage** 2d6+8 bludgeoning
+**Melee** ◆ morningstar +20/+15/+10 (versatile <P>); **Damage** 2d6+8 bludgeoning
 
-**Melee** ◆ dagger +21 (agile, finesse, versatile <S>); **Damage** 1d4+8 piercing
+**Melee** ◆ dagger +21/+17/+13 (agile, finesse, versatile <S>); **Damage** 1d4+8 piercing
 
-**Ranged** ◆ dagger +21 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
+**Ranged** ◆ dagger +21/+17/+13 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
 
 **Prepared arcane Spells** (DC 32), attack +22
 

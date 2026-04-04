@@ -11,6 +11,8 @@ ne, medium, undead
 
 **Skills** Intimidation +9, Occultism +8, Religion +11, Stealth +7
 
+**Recall Knowledge - Undead** (Religion): DC 18
+
 **STR** +1, **DEX** +2, **CON** +0, **INT** +1, **WIS** +4, **CHA** +2
 
 **Items** scythe, religious symbol of Urgathoa
@@ -33,7 +35,7 @@ ne, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ scythe +10 (deadly <d10>, trip); **Damage** 1d10+4 slashing
+**Melee** ◆ scythe +10/+5/+0 (deadly <d10>, trip); **Damage** 1d10+4 slashing
 
 **Prepared divine Spells** (DC 19), attack +11
 

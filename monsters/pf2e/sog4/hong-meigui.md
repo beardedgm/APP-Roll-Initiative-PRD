@@ -11,6 +11,8 @@ unique, ce, medium, undead, vampire
 
 **Skills** Acrobatics +25, Athletics +23, Intimidation +22, Nature +22, Religion +24
 
+**Recall Knowledge - Undead** (Religion): DC 37
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** +3, **WIS** +6, **CHA** +4
 
 **Items** , key to chest
@@ -35,9 +37,9 @@ unique, ce, medium, undead, vampire
 
 Speed 20 feet, rigor mortis|BotD
 
-**Melee** ◆ urumi +23 (deadly <d10>, magical, sweep); **Damage** 2d6+11 slashing plus 1d6 electricity and 1d6 fire
+**Melee** ◆ urumi +23/+18/+13 (deadly <d10>, magical, sweep); **Damage** 2d6+11 slashing plus 1d6 electricity and 1d6 fire
 
-**Melee** ◆ claw +21 (agile); **Damage** 2d10+11 piercing plus Grab plus Grab
+**Melee** ◆ claw +21/+17/+13 (agile); **Damage** 2d10+11 piercing plus Grab plus Grab
 
 **Innate occult Spells** (DC 29), attack +21
 

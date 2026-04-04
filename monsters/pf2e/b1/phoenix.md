@@ -11,6 +11,8 @@ rare, ng, gargantuan, beast, fire
 
 **Skills** Acrobatics +30, Athletics +27, Diplomacy +31, Intimidation +27, Nature +25
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 39
+
 **STR** +6, **DEX** +7, **CON** +5, **INT** +7, **WIS** +6, **CHA** +6
 
 ---
@@ -33,11 +35,11 @@ rare, ng, gargantuan, beast, fire
 
 Speed 25 feet, fly 70 feet
 
-**Melee** ◆ beak +30 (finesse, fire, magical, reach <20 feet>); **Damage** 1d12+9 piercing plus 3d8 fire and 2d10 persistent fire
+**Melee** ◆ beak +30/+25/+20 (finesse, fire, magical, reach <20 feet>); **Damage** 1d12+9 piercing plus 3d8 fire and 2d10 persistent fire
 
-**Melee** ◆ talon +30 (agile, finesse, fire, magical, reach <20 feet>); **Damage** 1d6+6 piercing plus 3d8 fire and 2d10 persistent fire
+**Melee** ◆ talon +30/+26/+22 (agile, finesse, fire, magical, reach <20 feet>); **Damage** 1d6+6 piercing plus 3d8 fire and 2d10 persistent fire
 
-**Ranged** ◆ flame jet +30 (fire, range increment <40 feet>); **Damage** 6d6 fire plus 2d10 persistent fire
+**Ranged** ◆ flame jet +30/+25/+20 (fire, range increment <40 feet>); **Damage** 6d6 fire plus 2d10 persistent fire
 
 **Innate primal Spells** (DC 39)
 

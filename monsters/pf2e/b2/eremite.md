@@ -11,6 +11,8 @@ le, medium, fiend, velstrac
 
 **Skills** Athletics +35, Deception +38, Diplomacy +36, Intimidation +40, Medicine +36, Religion +34, Stealth +36, Torture Lore +36
 
+**Recall Knowledge - Fiend** (Religion): DC 40
+
 **STR** +9, **DEX** +6, **CON** +7, **INT** +6, **WIS** +6, **CHA** +10
 
 **Painsight** (divination, divine) A velstrac automatically knows whether a creature it sees has any of the doomed, dying, and wounded conditions, as well as the value of those conditions.
@@ -33,9 +35,9 @@ le, medium, fiend, velstrac
 
 Speed 30 feet, fly 50 feet
 
-**Melee** ◆ jaws +39 (evil, magical); **Damage** 4d8+19 piercing plus 2d6 persistent bleed and exquisite pain plus exquisite pain
+**Melee** ◆ jaws +39/+34/+29 (evil, magical); **Damage** 4d8+19 piercing plus 2d6 persistent bleed and exquisite pain plus exquisite pain
 
-**Melee** ◆ claw +39 (agile, evil, magical); **Damage** 3d6+19 slashing plus 2d6 persistent bleed, exquisite pain, and Improved Grab plus exquisite pain, Improved Grab
+**Melee** ◆ claw +39/+35/+31 (agile, evil, magical); **Damage** 3d6+19 slashing plus 2d6 persistent bleed, exquisite pain, and Improved Grab plus exquisite pain, Improved Grab
 
 **Innate divine Spells** (DC 42)
 

@@ -11,6 +11,8 @@ cg, medium, celestial, fire
 
 **Skills** Acrobatics +27, Arcana +23, Athletics +25, Diplomacy +28, Performance +28, Religion +24
 
+**Recall Knowledge - Celestial** (Religion): DC 32
+
 **STR** +7, **DEX** +7, **CON** +4, **INT** +5, **WIS** +4, **CHA** +8
 
 **Smoke Vision** A peri can see through smoke with ease, and they ignore the concealed condition from smoke.
@@ -33,11 +35,11 @@ cg, medium, celestial, fire
 
 Speed 0 feet
 
-**Melee** ◆ scimitar +29 (forceful, good, magical, sweep); **Damage** 3d6+13 slashing plus 2d6 fire
+**Melee** ◆ scimitar +29/+24/+19 (forceful, good, magical, sweep); **Damage** 3d6+13 slashing plus 2d6 fire
 
-**Melee** ◆ burning wings +29 (agile, finesse, fire, good, magical, reach <10 feet>); **Damage** 3d10+13 fire
+**Melee** ◆ burning wings +29/+25/+21 (agile, finesse, fire, good, magical, reach <10 feet>); **Damage** 3d10+13 fire
 
-**Ranged** ◆ flame ray +29 (fire, good, magical, range <60 feet>); **Damage** 8d6 fire
+**Ranged** ◆ flame ray +29/+24/+19 (fire, good, magical, range <60 feet>); **Damage** 8d6 fire
 
 **Innate divine Spells** (DC 34), attack +26
 

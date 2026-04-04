@@ -11,6 +11,8 @@ unique, ng, medium, human, humanoid
 
 **Skills** Arcana +34, Diplomacy +30, Nature +30, Society +30, Stealth +32, Academia Lore +32
 
+**Recall Knowledge - Humanoid** (Society): DC 46
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +6, **WIS** +4, **CHA** +4
 
 **Items** bracers of armor III, +2 greater striking staff
@@ -31,7 +33,7 @@ unique, ng, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ staff +28 (magical, two-handed 3d8); **Damage** 3d4+6 bludgeoning
+**Melee** ◆ staff +28/+23/+18 (magical, two-handed 3d8); **Damage** 3d4+6 bludgeoning
 
 **Prepared arcane Spells** (DC 41), attack +33
 

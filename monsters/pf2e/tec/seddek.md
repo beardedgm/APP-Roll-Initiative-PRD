@@ -11,6 +11,8 @@ unique, ne, medium, elemental, genie
 
 **Skills** Acrobatics +11, Arcana +13, Crafting +11, Deception +14, Survival +15
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 34
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** +1, **WIS** +1, **CHA** +5
 
 **Items** murderer's knot, composite shortbow (20 arrows), 
@@ -31,11 +33,11 @@ unique, ne, medium, elemental, genie
 
 Speed 20 feet, fly 15 feet
 
-**Melee** ◆ scimitar +17 (forceful <+1>, sweep); **Damage** 2d6+12 slashing
+**Melee** ◆ scimitar +17/+12/+7 (forceful <+1>, sweep); **Damage** 2d6+12 slashing
 
-**Melee** ◆ fist +16 (agile, magical, nonlethal); **Damage** 1d4+12 bludgeoning
+**Melee** ◆ fist +16/+12/+8 (agile, magical, nonlethal); **Damage** 1d4+12 bludgeoning
 
-**Ranged** ◆ composite shortbow +15 (deadly <d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+7 piercing
+**Ranged** ◆ composite shortbow +15/+10/+5 (deadly <d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+7 piercing
 
 **Innate arcane Spells** (DC 24)
 

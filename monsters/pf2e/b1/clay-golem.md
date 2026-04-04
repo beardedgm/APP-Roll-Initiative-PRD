@@ -9,6 +9,8 @@ uncommon, n, large, construct, golem, mindless
 
 **Skills** Athletics +24
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 29
+
 **STR** +6, **DEX** -1, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -35,7 +37,7 @@ uncommon, n, large, construct, golem, mindless
 
 Speed 20 feet
 
-**Melee** ◆ fist +24 (magical, reach <10 feet>); **Damage** 2d10+12 bludgeoning plus cursed wound plus cursed wound
+**Melee** ◆ fist +24/+19/+14 (magical, reach <10 feet>); **Damage** 2d10+12 bludgeoning plus cursed wound plus cursed wound
 
 **Berserk Slam** ◆ **Requirements** The golem is berserk.; The clay golem Strikes with its fist at a –1 circumstance penalty. If its Strike hits, the clay golem deals an additional 1d8 damage and knocks the target prone.
 

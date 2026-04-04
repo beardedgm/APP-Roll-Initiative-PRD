@@ -11,6 +11,8 @@ unique, ce, medium, undead
 
 **Skills** Acrobatics +13, Athletics +17, Deception +15, Diplomacy +17, Intimidation +17, Occultism +13, Religion +15, Sangpotshi Lore +15, Society +13
 
+**Recall Knowledge - Undead** (Religion): DC 33
+
 **STR** +4, **DEX** +2, **CON** +0, **INT** +2, **WIS** +4, **CHA** +6
 
 **Items** 
@@ -35,7 +37,7 @@ unique, ce, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +10 (agile, finesse, magical, versatile <s>); **Damage** 2d6+6 piercing plus 1d6 persistent bleed
+**Melee** ◆ shortsword +10/+6/+2 (agile, finesse, magical, versatile <s>); **Damage** 2d6+6 piercing plus 1d6 persistent bleed
 
 **Spontaneous divine Spells** (DC 25), attack +17
 

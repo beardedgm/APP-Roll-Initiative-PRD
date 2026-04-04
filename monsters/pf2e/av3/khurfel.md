@@ -11,6 +11,8 @@ unique, ce, medium, humanoid, urdefhan
 
 **Skills** Athletics +22, Intimidation +19, Survival +20
 
+**Recall Knowledge - Humanoid** (Society): DC 37
+
 **STR** +5, **DEX** +4, **CON** +3, **INT** +0, **WIS** +5, **CHA** +4
 
 ---
@@ -33,11 +35,11 @@ unique, ce, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** ◆ rhoka sword +24 (deadly <2d8>, magical, two-hand 2d10); **Damage** 2d8+11 slashing
+**Melee** ◆ rhoka sword +24/+19/+14 (deadly <2d8>, magical, two-hand 2d10); **Damage** 2d8+11 slashing
 
-**Melee** ◆ jaws +23; **Damage** 2d8+11 piercing plus wicked bite plus wicked bite
+**Melee** ◆ jaws +23/+18/+13; **Damage** 2d8+11 piercing plus wicked bite plus wicked bite
 
-**Ranged** ◆ heavy crossbow +22 (range increment <120 feet>, reload <2>); **Damage** 1d10 piercing
+**Ranged** ◆ heavy crossbow +22/+17/+12 (range increment <120 feet>, reload <2>); **Damage** 1d10 piercing
 
 **Innate divine Spells** (DC 28), attack +20
 

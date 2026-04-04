@@ -11,6 +11,8 @@ ne, medium, humanoid, urdefhan
 
 **Skills** Crafting +24, Intimidation +26, Religion +29, Stealth +25, Survival +27, Daemon Lore +24
 
+**Recall Knowledge - Humanoid** (Society): DC 32
+
 **STR** +4, **DEX** +5, **CON** +3, **INT** +4, **WIS** +7, **CHA** +6
 
 **Items** +2 striking rhoka sword
@@ -33,9 +35,9 @@ ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** ◆ rhoka sword +26 (fatal <d10>, magical, two-hand <d12>); **Damage** 2d8+10 slashing
+**Melee** ◆ rhoka sword +26/+21/+16 (fatal <d10>, magical, two-hand <d12>); **Damage** 2d8+10 slashing
 
-**Melee** ◆ jaws +26 (agile); **Damage** 4d6+10 piercing plus wicked bite plus wicked bite
+**Melee** ◆ jaws +26/+22/+18 (agile); **Damage** 4d6+10 piercing plus wicked bite plus wicked bite
 
 **Innate divine Spells** (DC 35), attack +29
 

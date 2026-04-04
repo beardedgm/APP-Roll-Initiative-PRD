@@ -11,6 +11,8 @@ uncommon, ne, medium, undead
 
 **Skills** Acrobatics +25, Athletics +20, Stealth +25, Survival +23
 
+**Recall Knowledge - Undead** (Religion): DC 32
+
 **STR** +2, **DEX** +7, **CON** +5, **INT** +2, **WIS** +5, **CHA** +6
 
 ---
@@ -29,7 +31,7 @@ uncommon, ne, medium, undead
 
 Speed 35 feet, climb 35 feet, flicker, spider climb, water walk
 
-**Melee** ◆ claw +25 (agile, finesse); **Damage** 3d8+8 slashing plus 2d6 mental
+**Melee** ◆ claw +25/+21/+17 (agile, finesse); **Damage** 3d8+8 slashing plus 2d6 mental
 
 **Innate occult Spells** (DC 32)
 

@@ -11,6 +11,8 @@ uncommon, ne, medium, human, humanoid
 
 **Skills** Athletics +10, Deception +9, Intimidation +9, Religion +5, Stealth +9
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** +2, **WIS** +3, **CHA** +3
 
 **Items** leather armor, religious symbol of Ahriman|B3, scimitar, whip
@@ -29,6 +31,6 @@ uncommon, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ scimitar +11; **Damage** 1d6+6 slashing
+**Melee** ◆ scimitar +11/+6/+1; **Damage** 1d6+6 slashing
 
-**Melee** ◆ whip +11 (disarm, finesse, nonlethal, reach <10 feet>, trip); **Damage** 1d4+6 slashing
+**Melee** ◆ whip +11/+6/+1 (disarm, finesse, nonlethal, reach <10 feet>, trip); **Damage** 1d4+6 slashing

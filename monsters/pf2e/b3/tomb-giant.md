@@ -11,6 +11,8 @@ ne, large, giant, humanoid
 
 **Skills** Athletics +25, Medicine +25, Religion +25, Stealth +21
 
+**Recall Knowledge - Humanoid** (Society): DC 30
+
 **STR** +7, **DEX** +3, **CON** +6, **INT** +3, **WIS** +7, **CHA** +4
 
 **Items** +1 striking scythe, black onyx gems worth 300 gp
@@ -31,11 +33,11 @@ ne, large, giant, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ scythe +27 (deadly <d10>, magical, reach <10 feet>, trip); **Damage** 2d10+13 slashing
+**Melee** ◆ scythe +27/+22/+17 (deadly <d10>, magical, reach <10 feet>, trip); **Damage** 2d10+13 slashing
 
-**Melee** ◆ claw +26 (agile, reach <10 feet>); **Damage** 3d6+13 slashing plus dooming touch plus dooming touch
+**Melee** ◆ claw +26/+22/+18 (agile, reach <10 feet>); **Damage** 3d6+13 slashing plus dooming touch plus dooming touch
 
-**Ranged** ◆ rock +24 (brutal, range increment <120 feet>); **Damage** 3d8+13 bludgeoning
+**Ranged** ◆ rock +24/+19/+14 (brutal, range increment <120 feet>); **Damage** 3d8+13 bludgeoning
 
 **Innate divine Spells** (DC 32)
 

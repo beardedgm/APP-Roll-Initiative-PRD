@@ -9,6 +9,8 @@ n, large, mindless, ooze
 
 **Skills** Athletics +13
 
+**Recall Knowledge - Ooze** (Occultism): DC 20
+
 **STR** +4, **DEX** -5, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
 **Motion Sense** A sewer ooze can sense nearby motion through vibration and air movement.
@@ -29,7 +31,7 @@ n, large, mindless, ooze
 
 Speed 15 feet, climb 10 feet
 
-**Melee** ◆ pseudopod +15; **Damage** 1d8+7 bludgeoning plus 2d4 acid and Grab plus Grab
+**Melee** ◆ pseudopod +15/+10/+5; **Damage** 1d8+7 bludgeoning plus 2d4 acid and Grab plus Grab
 
 **Constrict** ◆ 1d8+3 bludgeoning plus 1d4 acid, DC 23
 

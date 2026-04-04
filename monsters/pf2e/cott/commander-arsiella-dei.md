@@ -11,6 +11,8 @@ unique, medium, aiuvarin, elf, human, humanoid
 
 **Skills** Acrobatics +18, Athletics +16, Diplomacy +16, Intimidation +16, Iomedae Lore +18, Nature +18, Religion +16, Stealth +18, Survival +20
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +3, **DEX** +5, **CON** +4, **INT** +4, **WIS** +6, **CHA** +4
 
 **Items** breastplate, composite shortbow (20 arrows), Irgal's Axe (+1 striking vitalizing battle axe), +1 leather armor, religious symbol of Iomedae
@@ -31,9 +33,9 @@ unique, medium, aiuvarin, elf, human, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ battle axe +22 (magical, sweep); **Damage** 2d8+11 slashing
+**Melee** ◆ battle axe +22/+17/+12 (magical, sweep); **Damage** 2d8+11 slashing
 
-**Ranged** ◆ composite shortbow +21 (deadly <d10>, propulsive, range increment <60 feet>); **Damage** 1d6+10 piercing
+**Ranged** ◆ composite shortbow +21/+16/+11 (deadly <d10>, propulsive, range increment <60 feet>); **Damage** 1d6+10 piercing
 
 **Ranger Warden Spells** (DC 28)
 

@@ -9,6 +9,8 @@ n, large, mindless, ooze
 
 **Skills** Athletics +28
 
+**Recall Knowledge - Ooze** (Occultism): DC 32
+
 **STR** +8, **DEX** +3, **CON** +6, **INT** -5, **WIS** +2, **CHA** -5
 
 **Motion Sense** A gunpowder ooze can sense nearby creatures through vibration and air or water movement.
@@ -33,8 +35,8 @@ n, large, mindless, ooze
 
 Speed 20 feet, climb 20 feet
 
-**Melee** ◆ pseudopod +29 (reach <10 feet>); **Damage** 3d12+14 bludgeoning plus gunpowder residue
+**Melee** ◆ pseudopod +29/+24/+19 (reach <10 feet>); **Damage** 3d12+14 bludgeoning plus gunpowder residue
 
-**Ranged** ◆ blast +26 (propulsive, range increment <60 feet>); **Damage** 3d8+10 bludgeoning plus 3d6 fire and gunpowder residue
+**Ranged** ◆ blast +26/+21/+16 (propulsive, range increment <60 feet>); **Damage** 3d8+10 bludgeoning plus 3d6 fire and gunpowder residue
 
 **Gunpowder Residue** (fire) A creature hit by the gunpowder ooze's pseudopod or blast is coated in explosive material unless it succeeds at a DC 34 Reflex save. If a creature makes an attack with a firearm, takes fire damage, or uses an action, activity, or item with the fire trait while coated with the residue, the residue explodes, dealing 7d6 damage to the creature and all adjacent creatures (DC 34 basic Reflex save). The residue remains active for 24 hours, until it's ignited, or until it's scrubbed off (an activity that takes at least 10 minutes and requires soap and water). A creature can only be coated with one layer of gunpowder residue at a time.

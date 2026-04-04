@@ -9,6 +9,8 @@ uncommon, n, large, mindless, ooze
 
 **Skills** Thievery +17
 
+**Recall Knowledge - Ooze** (Occultism): DC 24
+
 **STR** +4, **DEX** +2, **CON** +7, **INT** -5, **WIS** +0, **CHA** -5
 
 **Motion Sense** A vaultbreaker ooze can sense nearby motion through vibration and air movement.
@@ -33,7 +35,7 @@ uncommon, n, large, mindless, ooze
 
 Speed 20 feet, climb 10 feet
 
-**Melee** ◆ pseudopod +17; **Damage** 1d8+8 bludgeoning plus 2d6 acid
+**Melee** ◆ pseudopod +17/+12/+7; **Damage** 1d8+8 bludgeoning plus 2d6 acid
 
 **Engulf** ◆◆ DC 23, 2d8+9 acid, Escape DC 23, Rupture 14 (19 when using Metallify)
 

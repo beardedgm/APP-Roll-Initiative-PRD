@@ -9,6 +9,8 @@ ce, medium, drow, elf, humanoid
 
 **Skills** Acrobatics +8, Deception +7, Society +4, Stealth +10, Thievery +8
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +0, **CHA** +1
 
 **Items** hand crossbow (10 bolts), shortsword, leather armor
@@ -29,9 +31,9 @@ ce, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ shortsword +10 (agile, finesse, versatile <S>); **Damage** 1d6 + 4 piercing
+**Melee** ◆ shortsword +10/+6/+2 (agile, finesse, versatile <S>); **Damage** 1d6 + 4 piercing
 
-**Ranged** ◆ hand crossbow +10 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing
+**Ranged** ◆ hand crossbow +10/+5/+0 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing
 
 **Quick Draw** ◆ The drow sneak draws a weapon using the Interact action, then Strikes with that weapon.
 

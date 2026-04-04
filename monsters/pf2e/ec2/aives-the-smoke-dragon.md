@@ -11,6 +11,8 @@ unique, cn, medium, humanoid, tiefling
 
 **Skills** Acrobatics +10, Athletics +8, Deception +8, Performance +8, Stealth +10, Thievery +12
 
+**Recall Knowledge - Humanoid** (Society): DC 29
+
 **STR** +2, **DEX** +4, **CON** +0, **INT** +1, **WIS** +0, **CHA** +2
 
 **Items** dagger (4), leather armor, thieves' tools
@@ -31,9 +33,9 @@ unique, cn, medium, humanoid, tiefling
 
 Speed 25 feet
 
-**Melee** ◆ dagger +13 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing plus Smoke Exhalation
+**Melee** ◆ dagger +13/+9/+5 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing plus Smoke Exhalation
 
-**Ranged** ◆ dagger +13 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing plus Smoke Exhalation
+**Ranged** ◆ dagger +13/+9/+5 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing plus Smoke Exhalation
 
 **Innate divine Spells** (DC 18)
 

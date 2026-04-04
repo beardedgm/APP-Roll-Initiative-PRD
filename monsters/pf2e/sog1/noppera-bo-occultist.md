@@ -11,6 +11,8 @@ uncommon, ce, medium, aberration
 
 **Skills** Acrobatics +7, Athletics +5, Crafting +7, Deception +9, Occultism +7, Stealth +7
 
+**Recall Knowledge - Aberration** (Occultism): DC 18
+
 **STR** +1, **DEX** +3, **CON** +2, **INT** +3, **WIS** +0, **CHA** +3
 
 **Items** staff
@@ -35,7 +37,7 @@ uncommon, ce, medium, aberration
 
 Speed 25 feet
 
-**Melee** ◆ staff +7 (two-hand <d8>); **Damage** 1d4+3 bludgeoning
+**Melee** ◆ staff +7/+2/-3 (two-hand <d8>); **Damage** 1d4+3 bludgeoning
 
 **Innate occult Spells** (DC 18), attack +9
 

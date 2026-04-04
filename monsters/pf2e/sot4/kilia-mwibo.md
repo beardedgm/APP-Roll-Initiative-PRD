@@ -11,6 +11,8 @@ uncommon, n, huge, plant
 
 **Skills** Athletics +30, Deception +25, Stealth +28
 
+**Recall Knowledge - Plant** (Nature): DC 36
+
 **STR** +7, **DEX** +5, **CON** +3, **INT** -2, **WIS** +5, **CHA** +0
 
 **Emotion Sense** A kilia mwibo can sense nearby negative emotions. This is a precise sense against creatures who are under powerful emotion effects like rage, those who are frightened, or, at the GM's discretion, those who are in the grips of hatred, sadness, or other overwhelming negative emotions. Against all other creatures that possess emotions, this is an imprecise sense. A creature that has no emotions is effectively invisible to a kilia mwibo. A creature that knows about emotion sense can take precautions to Hide and Sneak from a kilia mwibo, in this case by suppressing feelings of negativity. You can find more details on hiding from special senses on page 465 of the Core Rulebook.
@@ -40,11 +42,11 @@ uncommon, n, huge, plant
 
 Speed 25 feet
 
-**Melee** ◆ frond +30 (deadly <d12>, reach <15 feet>, sweep, versatile <P>); **Damage** 3d10+15 slashing plus 1d6 bleed and Improved Grab
+**Melee** ◆ frond +30/+25/+20 (deadly <d12>, reach <15 feet>, sweep, versatile <P>); **Damage** 3d10+15 slashing plus 1d6 bleed and Improved Grab
 
-**Melee** ◆ root +28 (reach <20 feet>, sweep, trip); **Damage** 3d8+15 bludgeoning
+**Melee** ◆ root +28/+23/+18 (reach <20 feet>, sweep, trip); **Damage** 3d8+15 bludgeoning
 
-**Ranged** ◆ thorn +28 (deadly <d12>, range increment <60 feet>); **Damage** 3d6+15 piercing
+**Ranged** ◆ thorn +28/+23/+18 (deadly <d12>, range increment <60 feet>); **Damage** 3d6+15 piercing
 
 **Constrict** ◆ 2d12+15, DC 36
 

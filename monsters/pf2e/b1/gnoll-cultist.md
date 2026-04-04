@@ -11,6 +11,8 @@ ce, medium, gnoll, humanoid
 
 **Skills** Intimidation +7, Medicine +7, Religion +10, Stealth +7, Survival +8
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +2, **DEX** +2, **CON** +0, **INT** +0, **WIS** +3, **CHA** +2
 
 **Items** falchion, hide armor, wooden religious symbol
@@ -27,9 +29,9 @@ ce, medium, gnoll, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ falchion +10 (forceful, sweep); **Damage** 1d10+3 slashing
+**Melee** ◆ falchion +10/+5/+0 (forceful, sweep); **Damage** 1d10+3 slashing
 
-**Melee** ◆ jaws +10 (agile); **Damage** 1d6+3 piercing
+**Melee** ◆ jaws +10/+6/+2 (agile); **Damage** 1d6+3 piercing
 
 **Pack Attack** A gnoll hunter deals 1d4 extra damage to any creature that's within reach of at least two of the gnoll hunter's allies.
 

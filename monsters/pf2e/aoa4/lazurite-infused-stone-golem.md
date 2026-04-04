@@ -9,6 +9,8 @@ rare, n, large, construct, golem, mindless
 
 **Skills** Athletics +28
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 35
+
 **STR** +8, **DEX** -1, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -33,7 +35,7 @@ rare, n, large, construct, golem, mindless
 
 Speed 20 feet
 
-**Melee** ◆ fist +26 (magical, reach <10 feet>); **Damage** 2d10+11 bludgeoning plus 2d6 negative
+**Melee** ◆ fist +26/+21/+16 (magical, reach <10 feet>); **Damage** 2d10+11 bludgeoning plus 2d6 negative
 
 **Inexorable March** ◆ The golem Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can bar the way by succeeding at a DC 36 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise, it takes damage equal to that dealt by the golem's fist Strike.
 

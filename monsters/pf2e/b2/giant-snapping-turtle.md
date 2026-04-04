@@ -9,6 +9,8 @@ n, gargantuan, animal
 
 **Skills** Athletics +20
 
+**Recall Knowledge - Animal** (Nature): DC 26
+
 **STR** +7, **DEX** +0, **CON** +4, **INT** -4, **WIS** +4, **CHA** -2
 
 **Deep Breath** The giant snapping turtle can hold its breath for 2 hours.
@@ -25,7 +27,7 @@ n, gargantuan, animal
 
 Speed 20 feet, swim 40 feet
 
-**Melee** ◆ jaws +22; **Damage** 2d12+10 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +22/+17/+12; **Damage** 2d12+10 piercing plus Improved Grab plus Improved Grab
 
 **Capsize** ◆ (attack, move) The turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The turtle must succeed at a DC 35 Athletics check (reduced by 5 for each size smaller the vessel is than the turtle) or the pilot's Sailing Lore DC, whichever is higher.
 

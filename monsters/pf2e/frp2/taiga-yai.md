@@ -11,6 +11,8 @@ ne, huge, fiend, giant, humanoid, oni
 
 **Skills** Acrobatics +29, Arcana +26, Athletics +27, Deception +27, Intimidation +27, Nature +30, Survival +32
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 34
+
 **STR** +6, **DEX** +8, **CON** +8, **INT** +5, **WIS** +7, **CHA** +6
 
 **Items** +2 greater striking shortbow (20 arrows)
@@ -31,11 +33,11 @@ ne, huge, fiend, giant, humanoid, oni
 
 Speed 40 feet, fly 40 feet
 
-**Melee** ◆ fist +27 (agile, evil, magical, reach <15 feet>); **Damage** 3d8+12 bludgeoning plus 2d6 acid
+**Melee** ◆ fist +27/+23/+19 (agile, evil, magical, reach <15 feet>); **Damage** 3d8+12 bludgeoning plus 2d6 acid
 
-**Ranged** ◆ acid missile +29 (acid, evil, magical, range increment <60 feet>, reload <0>); **Damage** 3d8+10 acid plus flat-footed for 1 round
+**Ranged** ◆ acid missile +29/+24/+19 (acid, evil, magical, range increment <60 feet>, reload <0>); **Damage** 3d8+10 acid plus flat-footed for 1 round
 
-**Ranged** ◆ shortbow +31 (deadly <2d10>, range increment <60 feet>); **Damage** 3d6 piercing
+**Ranged** ◆ shortbow +31/+26/+21 (deadly <2d10>, range increment <60 feet>); **Damage** 3d6 piercing
 
 **Innate primal Spells** (DC 34)
 

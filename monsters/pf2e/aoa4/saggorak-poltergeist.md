@@ -11,6 +11,8 @@ rare, le, medium, incorporeal, spirit, undead
 
 **Skills** Acrobatics +25, Intimidation +24, Stealth +25
 
+**Recall Knowledge - Spirit** (Religion): DC 35
+
 **STR** -5, **DEX** +7, **CON** +2, **INT** -1, **WIS** +4, **CHA** +5
 
 **Site Bound** The Saggorak poltergeists cannot travel more than 120 feet from area F2.
@@ -37,7 +39,7 @@ rare, le, medium, incorporeal, spirit, undead
 
 Speed fly 30 feet
 
-**Ranged** ◆ telekinetic object +27 (evocation, magical, occult, range increment <60 feet>); **Damage** 4d12 bludgeoning, piercing, or slashing (depending on object) plus piercing, or slashing (depending on object)
+**Ranged** ◆ telekinetic object +27/+22/+17 (evocation, magical, occult, range increment <60 feet>); **Damage** 4d12 bludgeoning, piercing, or slashing (depending on object) plus piercing, or slashing (depending on object)
 
 **Innate occult Spells** (DC 33), attack +27
 

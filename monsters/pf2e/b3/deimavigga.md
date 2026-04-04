@@ -11,6 +11,8 @@ le, medium, devil, fiend
 
 **Skills** Acrobatics +29, Deception +34, Diplomacy +36, Intimidation +30, Religion +30, Society +27, Stealth +33
 
+**Recall Knowledge - Fiend** (Religion): DC 36
+
 **STR** +7, **DEX** +8, **CON** +6, **INT** +4, **WIS** +7, **CHA** +9
 
 **Items** +2 resilient glamered full plate
@@ -38,7 +40,7 @@ le, medium, devil, fiend
 
 Speed 30 feet, fly 40 feet
 
-**Melee** ◆ claw +33 (agile, evil, finesse, magical); **Damage** 3d8+15 slashing plus 1d6 evil
+**Melee** ◆ claw +33/+29/+25 (agile, evil, finesse, magical); **Damage** 3d8+15 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 42), attack +34
 

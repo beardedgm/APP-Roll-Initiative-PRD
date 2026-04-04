@@ -11,6 +11,8 @@ unique, cn, medium, fey
 
 **Skills** Acrobatics +34, Athletics +34, Deception +36, Diplomacy +38, Intimidation +36, Nature +34
 
+**Recall Knowledge - Fey** (Nature): DC 50
+
 **STR** +6, **DEX** +6, **CON** +5, **INT** +4, **WIS** +6, **CHA** +8
 
 ---
@@ -27,9 +29,9 @@ unique, cn, medium, fey
 
 Speed 30 feet
 
-**Melee** ◆ fist +36 (magical, versatile <S>); **Damage** 4d10+14 bludgeoning plus 2d8 mental
+**Melee** ◆ fist +36/+31/+26 (magical, versatile <S>); **Damage** 4d10+14 bludgeoning plus 2d8 mental
 
-**Melee** ◆ tail +36 (agile, magical, backswing); **Damage** 4d6+14 bludgeoning plus 2d10 mental and Befuddling Lash
+**Melee** ◆ tail +36/+32/+28 (agile, magical, backswing); **Damage** 4d6+14 bludgeoning plus 2d10 mental and Befuddling Lash
 
 **Innate primal Spells** (DC 42), attack +34
 

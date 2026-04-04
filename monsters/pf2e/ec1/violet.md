@@ -9,6 +9,8 @@ unique, n, small, animal
 
 **Skills** Acrobatics +5, Athletics +6, Survival +5
 
+**Recall Knowledge - Animal** (Nature): DC 25
+
 **STR** +3, **DEX** +2, **CON** +3, **INT** -4, **WIS** +1, **CHA** -2
 
 ---
@@ -25,9 +27,9 @@ unique, n, small, animal
 
 Speed 30 feet
 
-**Melee** ◆ horns +8; **Damage** 1d6+3 bludgeoning
+**Melee** ◆ horns +8/+3/-2; **Damage** 1d6+3 bludgeoning
 
-**Melee** ◆ jaws +8; **Damage** 1d4+3 piercing
+**Melee** ◆ jaws +8/+3/-2; **Damage** 1d4+3 piercing
 
 **Ram** ◆◆ Violet Strides twice and then makes a horns Strike. As long as he moved at least 20 feet, he gains a +2 circumstance bonus to his attack roll.
 

@@ -11,6 +11,8 @@ cg, medium, human, humanoid, sylph
 
 **Skills** Acrobatics +7, Deception +6, Diplomacy +6, Society +4, Stealth +7, Thievery +7
 
+**Recall Knowledge - Humanoid** (Society): DC 15
+
 **STR** +0, **DEX** +4, **CON** +1, **INT** +1, **WIS** +0, **CHA** +3
 
 **Items** leather armor, starknife
@@ -29,9 +31,9 @@ cg, medium, human, humanoid, sylph
 
 Speed 25 feet
 
-**Melee** ◆ starknife +9 (agile, deadly <d6>, finesse, versatile <S>); **Damage** 1d4+4 plus 1d4+4
+**Melee** ◆ starknife +9/+5/+1 (agile, deadly <d6>, finesse, versatile <S>); **Damage** 1d4+4 plus 1d4+4
 
-**Ranged** ◆ starknife +9 (agile, deadly <d6>, thrown <30 feet>, versatile <S>); **Damage** 1d4+1 plus 1d4+1
+**Ranged** ◆ starknife +9/+5/+1 (agile, deadly <d6>, thrown <30 feet>, versatile <S>); **Damage** 1d4+1 plus 1d4+1
 
 **Sneak Attack** The sylph sneak's Strikes deal 1d6 extra precision damage to flat-footed creatures.
 

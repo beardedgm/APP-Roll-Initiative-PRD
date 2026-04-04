@@ -9,6 +9,8 @@ n, large, mindless, plant
 
 **Skills** Athletics +9
 
+**Recall Knowledge - Plant** (Nature): DC 16
+
 **STR** +5, **DEX** -3, **CON** +4, **INT** -5, **WIS** +0, **CHA** -2
 
 **Slow** A yellow musk thrall is permanently slowed 1 and can't use reactions.
@@ -31,7 +33,7 @@ n, large, mindless, plant
 
 Speed 25 feet
 
-**Melee** ◆ fist +11 (reach <10 feet>); **Damage** 1d12+5 bludgeoning plus Improved Push 5 feet
+**Melee** ◆ fist +11/+6/+1 (reach <10 feet>); **Damage** 1d12+5 bludgeoning plus Improved Push 5 feet
 
 **Limb Extension** ◇ **Trigger** The yellow musk thrall is reduced to 15 HP or fewer; Creeper tendrils tear through the brute's limbs, causing its forearms to tear loose. The brute's melee reach increases by 5 feet.
 

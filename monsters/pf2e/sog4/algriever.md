@@ -11,6 +11,8 @@ uncommon, n, medium, beast, spirit
 
 **Skills** Intimidation +17, Religion +17, Stealth +19, Survival +19
 
+**Recall Knowledge - Beast** (Arcana, Nature, Religion): DC 28
+
 **STR** +4, **DEX** +4, **CON** +4, **INT** +0, **WIS** +6, **CHA** +2
 
 ---
@@ -29,9 +31,9 @@ uncommon, n, medium, beast, spirit
 
 Speed 30 feet, climb 30 feet
 
-**Melee** ◆ fangs +19 (agile, magical); **Damage** 2d12+7 piercing plus algriever venom plus Algriever Venom
+**Melee** ◆ fangs +19/+15/+11 (agile, magical); **Damage** 2d12+7 piercing plus algriever venom plus Algriever Venom
 
-**Ranged** ◆ web +19 (range increment <30 feet>); **Damage** web trap plus Web Trap
+**Ranged** ◆ web +19/+14/+9 (range increment <30 feet>); **Damage** web trap plus Web Trap
 
 **Innate divine Spells** (DC 25), attack +20
 

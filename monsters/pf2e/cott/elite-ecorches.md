@@ -11,6 +11,8 @@ medium, undead, unholy
 
 **Skills** Athletics +35, Deception +33, Intimidation +29, Stealth +30
 
+**Recall Knowledge - Undead** (Religion): DC 36
+
 **STR** +9, **DEX** +6, **CON** +7, **INT** +0, **WIS** +5, **CHA** +5
 
 ---
@@ -36,4 +38,4 @@ medium, undead, unholy
 
 Speed 25 feet
 
-**Melee** ◆ claw +35 (agile); **Damage** 3d8+19 slashing
+**Melee** ◆ claw +35/+31/+27 (agile); **Damage** 3d8+19 slashing

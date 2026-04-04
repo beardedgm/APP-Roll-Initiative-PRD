@@ -11,6 +11,8 @@ ne, small, plant
 
 **Skills** Acrobatics +8, Intimidation +6, Stealth +8, Survival +6
 
+**Recall Knowledge - Plant** (Nature): DC 16
+
 **STR** +2, **DEX** +4, **CON** +3, **INT** -2, **WIS** +2, **CHA** +0
 
 ---
@@ -31,9 +33,9 @@ ne, small, plant
 
 Speed 20 feet, climb 10 feet
 
-**Melee** ◆ vine +11 (agile, finesse); **Damage** 1d8+2 bludgeoning
+**Melee** ◆ vine +11/+7/+3 (agile, finesse); **Damage** 1d8+2 bludgeoning
 
-**Ranged** ◆ seedpod +11 (range increment <30 feet>); **Damage** 2d4+2 bludgeoning
+**Ranged** ◆ seedpod +11/+6/+1 (range increment <30 feet>); **Damage** 2d4+2 bludgeoning
 
 **Waving Weed** ◆ The stinkweed shambler Strides up to half its Speed. This movement doesn't provoke reactions.
 

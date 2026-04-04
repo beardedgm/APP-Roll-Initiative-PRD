@@ -11,6 +11,8 @@ uncommon, ne, gargantuan, daemon, fiend
 
 **Skills** Acrobatics +33, Athletics +39, Deception +34, Intimidation +36, Religion +32, Warfare Lore +36
 
+**Recall Knowledge - Fiend** (Religion): DC 41
+
 **STR** +10, **DEX** +4, **CON** +8, **INT** +4, **WIS** +5, **CHA** +7
 
 **Items** +3 major striking halberd
@@ -37,9 +39,9 @@ uncommon, ne, gargantuan, daemon, fiend
 
 Speed 25 feet, fly 50 feet
 
-**Melee** ◆ halberd +36 (evil, magical, reach, versatile <S>); **Damage** 4d10+18 slashing plus 1d6 evil
+**Melee** ◆ halberd +36/+31/+26 (evil, magical, reach, versatile <S>); **Damage** 4d10+18 slashing plus 1d6 evil
 
-**Melee** ◆ jaws +36 (evil, magical, reach <15 feet>); **Damage** 4d6+18 piercing plus 1d6 evil and Grab
+**Melee** ◆ jaws +36/+31/+26 (evil, magical, reach <15 feet>); **Damage** 4d6+18 piercing plus 1d6 evil and Grab
 
 **Innate divine Spells** (DC 38), attack +30
 

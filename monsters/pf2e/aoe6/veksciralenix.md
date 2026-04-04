@@ -11,6 +11,8 @@ unique, n, gargantuan, dragon, time
 
 **Skills** Acrobatics +33, Arcana +35, Athletics +38, Deception +34, Diplomacy +36, Occultism +38, Society +34
 
+**Recall Knowledge - Dragon** (Arcana): DC 50
+
 **STR** +10, **DEX** +5, **CON** +7, **INT** +6, **WIS** +8, **CHA** +6
 
 ---
@@ -36,13 +38,13 @@ unique, n, gargantuan, dragon, time
 
 Speed 60 feet, fly 200 feet
 
-**Melee** ◆ jaws +38 (electricity, magical, reach <20 feet>); **Damage** 4d10+18 piercing plus 4d6 electricity
+**Melee** ◆ jaws +38/+33/+28 (electricity, magical, reach <20 feet>); **Damage** 4d10+18 piercing plus 4d6 electricity
 
-**Melee** ◆ claw +38 (agile, magical, reach <15 feet>); **Damage** 4d10+18 slashing
+**Melee** ◆ claw +38/+34/+30 (agile, magical, reach <15 feet>); **Damage** 4d10+18 slashing
 
-**Melee** ◆ tail +36 (magical, reach <25 feet>); **Damage** 4d12+18 slashing
+**Melee** ◆ tail +36/+31/+26 (magical, reach <25 feet>); **Damage** 4d12+18 slashing
 
-**Melee** ◆ wing +36 (agile, magical reach <20 feet>); **Damage** 3d10+18 slashing
+**Melee** ◆ wing +36/+32/+28 (agile, magical reach <20 feet>); **Damage** 3d10+18 slashing
 
 **Innate occult Spells** (DC 42)
 

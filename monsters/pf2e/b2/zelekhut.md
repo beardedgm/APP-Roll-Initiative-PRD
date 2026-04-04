@@ -11,6 +11,8 @@ ln, large, aeon, inevitable, monitor
 
 **Skills** Acrobatics +18, Athletics +21, Diplomacy +16, Survival +21, Axis Lore +15
 
+**Recall Knowledge - Monitor** (Religion): DC 26
+
 **STR** +6, **DEX** +5, **CON** +4, **INT** +0, **WIS** +3, **CHA** +3
 
 **Truespeech** A zelekhut can speak with and understand any creature with a language.
@@ -33,7 +35,7 @@ ln, large, aeon, inevitable, monitor
 
 Speed 40 feet, fly 40 feet
 
-**Melee** ◆ chain +21 (lawful, magical, reach <10 feet>); **Damage** 2d10+6 slashing plus 2d6 electricity and 1d6 lawful plus Knockdown plus Knockdown
+**Melee** ◆ chain +21/+16/+11 (lawful, magical, reach <10 feet>); **Damage** 2d10+6 slashing plus 2d6 electricity and 1d6 lawful plus Knockdown plus Knockdown
 
 **Innate divine Spells** (DC 28)
 

@@ -35,12 +35,12 @@ uncommon, ce, large, giant, troll
 
 Speed 30 feet
 
-**Melee** ◆ jaws +18 (reach <10 feet>); **Damage** 2d12+8 piercing
+**Melee** ◆ jaws +18/+13/+8 (reach <10 feet>); **Damage** 2d12+8 piercing
 
-**Melee** ◆ claw +18 (agile, reach <10 feet>); **Damage** 2d8+8 slashing
+**Melee** ◆ claw +18/+14/+10 (agile, reach <10 feet>); **Damage** 2d8+8 slashing
 
-**Melee** ◆ club +18 (reach <10 feet>); **Damage** 2d6+8 bludgeoning
+**Melee** ◆ club +18/+13/+8 (reach <10 feet>); **Damage** 2d6+8 bludgeoning
 
-**Ranged** ◆ club +13 (thrown <10 feet>); **Damage** 2d6+8 bludgeoning
+**Ranged** ◆ club +13/+8/+3 (thrown <10 feet>); **Damage** 2d6+8 bludgeoning
 
 **Reactive Chomp** ◆ **Requirements** One of the troll's heads hit the same enemy with two consecutive claw Strikes in the same round; The other head uses their reaction to make a jaws Strike against the creature that was hit.

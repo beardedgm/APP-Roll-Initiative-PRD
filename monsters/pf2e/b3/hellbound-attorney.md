@@ -11,6 +11,8 @@ uncommon, le, medium, devil, fiend, human, humanoid
 
 **Skills** Acrobatics +10, Deception +11, Diplomacy +11, Intimidation +11, Society +12, Legal Lore +14
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 21
+
 **STR** +1, **DEX** +2, **CON** +0, **INT** +4, **WIS** +1, **CHA** +3
 
 **Items** elegant cane (as mace), legal ledgers
@@ -33,7 +35,7 @@ uncommon, le, medium, devil, fiend, human, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ elegant cane +12 (agile, finesse, shove); **Damage** 1d4+3 bludgeoning
+**Melee** ◆ elegant cane +12/+8/+4 (agile, finesse, shove); **Damage** 1d4+3 bludgeoning
 
 **Innate divine Spells** (DC 21)
 

@@ -11,6 +11,8 @@ n, large, plant
 
 **Skills** Athletics +16, Stealth +12
 
+**Recall Knowledge - Plant** (Nature): DC 22
+
 **STR** +6, **DEX** +1, **CON** +5, **INT** -2, **WIS** +2, **CHA** -1
 
 **Mound** When it's not in danger, the shambler spends 1 minute settling into a pile that looks like a lump of loose vegetation. While it is in this form, creatures must actively Seek and succeed at a DC 22 Perception check (DC 28 in forests or swamps) to detect the shambler's true nature.
@@ -35,6 +37,6 @@ n, large, plant
 
 Speed 20 feet, swim 20 feet
 
-**Melee** ◆ vine +17 (reach <10 feet>); **Damage** 2d8+8 bludgeoning plus Grab plus Grab
+**Melee** ◆ vine +17/+12/+7 (reach <10 feet>); **Damage** 2d8+8 bludgeoning plus Grab plus Grab
 
 **Vine Lash** ◆◆ The shambler makes a vine Strike against each creature within reach. Its multiple attack penalty increases only after all the attacks.

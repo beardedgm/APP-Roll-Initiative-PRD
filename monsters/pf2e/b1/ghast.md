@@ -11,6 +11,8 @@ ce, medium, ghoul, undead
 
 **Skills** Acrobatics +10, Athletics +7, Stealth +10, Survival +8
 
+**Recall Knowledge - Undead** (Religion): DC 16
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** +1, **WIS** +2, **CHA** +3
 
 ---
@@ -29,9 +31,9 @@ ce, medium, ghoul, undead
 
 Speed 30 feet, burrow 5 feet
 
-**Melee** ◆ jaws +11 (finesse); **Damage** 1d6+5 piercing plus ghast fever and paralysis plus ghast fever, paralysis
+**Melee** ◆ jaws +11/+6/+1 (finesse); **Damage** 1d6+5 piercing plus ghast fever and paralysis plus ghast fever, paralysis
 
-**Melee** ◆ claw +11 (agile, finesse); **Damage** 1d4+5 slashing plus paralysis plus paralysis
+**Melee** ◆ claw +11/+7/+3 (agile, finesse); **Damage** 1d4+5 slashing plus paralysis plus paralysis
 
 **Consume Flesh** ◆ (manipulate) **Requirements** The ghast is adjacent to the corpse of a creature that died within the last hour.; The ghast regains 3d6 Hit Points. It can regain Hit Points from any given corpse only once.
 

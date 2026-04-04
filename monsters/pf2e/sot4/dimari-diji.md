@@ -11,6 +11,8 @@ unique, n, gargantuan, plant
 
 **Skills** Arcana +42, Athletics +43, Diplomacy +41, Mwangi Expanse Lore +50, Nature +50, Stealth +36
 
+**Recall Knowledge - Plant** (Nature): DC 60
+
 **STR** +12, **DEX** -1, **CON** +7, **INT** +7, **WIS** +12, **CHA** +10
 
 **Fungus Sight** (divination, primal) Dimari-Diji produces small clumps of fungus that he can use to see beyond his normal sight. He can use a single action, which has the concentrate trait, to project his senses into an intact fungus clump on the Material Plane or to end this projection. Dimari-Diji loses all sensory information from his own body while projecting his senses into fungus.
@@ -39,9 +41,9 @@ unique, n, gargantuan, plant
 
 Speed 40 feet, freedom of movement
 
-**Melee** ◆ branch +44 (magical, reach <20 feet>); **Damage** 5d10+20 bludgeoning plus Improved Knockdown
+**Melee** ◆ branch +44/+39/+34 (magical, reach <20 feet>); **Damage** 5d10+20 bludgeoning plus Improved Knockdown
 
-**Ranged** ◆ mental blast +44 (magical, mental, range increment <120 feet>); **Damage** 5d6+20 mental plus
+**Ranged** ◆ mental blast +44/+39/+34 (magical, mental, range increment <120 feet>); **Damage** 5d6+20 mental plus
 
 **Innate primal Spells** (DC 49), attack +41
 

@@ -9,6 +9,8 @@ uncommon, n, gargantuan, beast
 
 **Skills** Athletics +37
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 41
+
 **STR** +10, **DEX** +4, **CON** +6, **INT** -4, **WIS** +5, **CHA** -1
 
 ---
@@ -29,9 +31,9 @@ uncommon, n, gargantuan, beast
 
 Speed 30 feet, burrow 40 feet
 
-**Melee** ◆ jaws +37 (deadly <3d10>, reach <20 feet>); **Damage** 4d12+18 piercing and Improved Grab
+**Melee** ◆ jaws +37/+32/+27 (deadly <3d10>, reach <20 feet>); **Damage** 4d12+18 piercing and Improved Grab
 
-**Melee** ◆ body +33; **Damage** 4d8+18 bludgeoning
+**Melee** ◆ body +33/+28/+23; **Damage** 4d8+18 bludgeoning
 
 **Fast Swallow** ◈ **Trigger** The gluttonworm Grabs a creature, or a creature fails a Reflex save against a Gulping Charge; The gluttonworm uses Swallow Whole.
 

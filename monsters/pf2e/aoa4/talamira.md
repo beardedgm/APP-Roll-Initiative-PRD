@@ -11,6 +11,8 @@ unique, cn, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Acrobatics +27, Arcana +27, Nature +27, Aiudara Lore +30
 
+**Recall Knowledge - Spirit** (Religion): DC 41
+
 **STR** -5, **DEX** +4, **CON** +0, **INT** +6, **WIS** +5, **CHA** +4
 
 **Site Bound** Jewelgate way station
@@ -33,7 +35,7 @@ unique, cn, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 30 feet
 
-**Melee** ◆ ghostly hand +27 (agile, finesse, magical); **Damage** 3d10+12 negative
+**Melee** ◆ ghostly hand +27/+23/+19 (agile, finesse, magical); **Damage** 3d10+12 negative
 
 **Innate arcane Spells** (DC 33), attack +27
 

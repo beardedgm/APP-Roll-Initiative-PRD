@@ -11,6 +11,8 @@ rare, ce, medium, humanoid, xulgath
 
 **Skills** Acrobatics +25, Arcana +27, Deception +29, Diplomacy +27, Occultism +31, Society +27, Xulgath Lore +31
 
+**Recall Knowledge - Humanoid** (Society): DC 39
+
 **STR** +4, **DEX** +6, **CON** +4, **INT** +8, **WIS** +5, **CHA** +6
 
 **Items** +2 resilient leather armor, +2 striking spear
@@ -33,13 +35,13 @@ rare, ce, medium, humanoid, xulgath
 
 Speed 25 feet, fly 35 feet
 
-**Melee** ◆ spear +30 (magical); **Damage** 2d6+10 piercing
+**Melee** ◆ spear +30/+25/+20 (magical); **Damage** 2d6+10 piercing
 
-**Melee** ◆ jaws +28; **Damage** 3d8+10 piercing
+**Melee** ◆ jaws +28/+23/+18; **Damage** 3d8+10 piercing
 
-**Melee** ◆ claw +28 (agile, finesse); **Damage** 3d4+10 slashing
+**Melee** ◆ claw +28/+24/+20 (agile, finesse); **Damage** 3d4+10 slashing
 
-**Ranged** ◆ spear +30 (magical, thrown <20 feet>); **Damage** 2d6+10 piercing
+**Ranged** ◆ spear +30/+25/+20 (magical, thrown <20 feet>); **Damage** 2d6+10 piercing
 
 **Spontaneous occult Spells** (DC 36)
 

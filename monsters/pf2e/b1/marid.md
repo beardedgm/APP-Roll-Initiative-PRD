@@ -11,6 +11,8 @@ uncommon, cn, large, elemental, genie, water
 
 **Skills** Athletics +20, Crafting +16, Diplomacy +19, Nature +18, Performance +16, Society +14, Stealth +18
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 28
+
 **STR** +5, **DEX** +5, **CON** +4, **INT** +1, **WIS** +3, **CHA** +3
 
 **Items** +1 striking trident
@@ -31,11 +33,11 @@ uncommon, cn, large, elemental, genie, water
 
 Speed 20 feet, swim 40 feet
 
-**Melee** ◆ trident +21 (magical, reach <10 feet>); **Damage** 2d8+11 piercing
+**Melee** ◆ trident +21/+16/+11 (magical, reach <10 feet>); **Damage** 2d8+11 piercing
 
-**Melee** ◆ fist +20 (agile, magical, nonlethal, reach <10 feet>); **Damage** 1d4+11 bludgeoning
+**Melee** ◆ fist +20/+16/+12 (agile, magical, nonlethal, reach <10 feet>); **Damage** 1d4+11 bludgeoning
 
-**Ranged** ◆ trident +21 (magical, thrown <20 feet>); **Damage** 2d8+11 piercing
+**Ranged** ◆ trident +21/+16/+11 (magical, thrown <20 feet>); **Damage** 2d8+11 piercing
 
 **Innate arcane Spells** (DC 28)
 

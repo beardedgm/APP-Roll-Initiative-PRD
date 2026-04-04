@@ -11,6 +11,8 @@ uncommon, ln, large, construct
 
 **Skills** Athletics +13, Intimidation +11
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 22
+
 **STR** +6, **DEX** +0, **CON** +3, **INT** -1, **WIS** +1, **CHA** +2
 
 **Items** longsword, steel shield (Hardness 5, HP 20, BT 10) with shield boss
@@ -37,11 +39,11 @@ uncommon, ln, large, construct
 
 Speed 20 feet
 
-**Melee** ◆ longsword +15 (reach <10 feet>, versatile <P>); **Damage** 1d8+9 slashing
+**Melee** ◆ longsword +15/+10/+5 (reach <10 feet>, versatile <P>); **Damage** 1d8+9 slashing
 
-**Melee** ◆ shield boss +15; **Damage** 1d6+9 bludgeoning
+**Melee** ◆ shield boss +15/+10/+5; **Damage** 1d6+9 bludgeoning
 
-**Melee** ◆ door +13; **Damage** 1d4+8 bludgeoning
+**Melee** ◆ door +13/+8/+3; **Damage** 1d4+8 bludgeoning
 
 **Innate arcane Spells** (DC 19)
 

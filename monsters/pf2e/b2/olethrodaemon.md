@@ -11,6 +11,8 @@ ne, gargantuan, daemon, fiend
 
 **Skills** Athletics +40, Intimidation +38, Religion +34
 
+**Recall Knowledge - Fiend** (Religion): DC 40
+
 **STR** +10, **DEX** +6, **CON** +7, **INT** +2, **WIS** +6, **CHA** +8
 
 **Items** soul gem (4)
@@ -33,9 +35,9 @@ ne, gargantuan, daemon, fiend
 
 Speed 35 feet, fly 40 feet, burrow 35 feet
 
-**Melee** ◆ jaws +38 (evil, magical, reach <10 feet>); **Damage** 4d12+17 piercing plus 1d6 evil and Grab plus Grab
+**Melee** ◆ jaws +38/+33/+28 (evil, magical, reach <10 feet>); **Damage** 4d12+17 piercing plus 1d6 evil and Grab plus Grab
 
-**Melee** ◆ claw +38 (agile, evil, magical, reach <15 feet>); **Damage** 4d8+17 slashing plus 1d6 evil and Grab plus Grab
+**Melee** ◆ claw +38/+34/+30 (agile, evil, magical, reach <15 feet>); **Damage** 4d8+17 slashing plus 1d6 evil and Grab plus Grab
 
 **Innate divine Spells** (DC 42), attack +34
 

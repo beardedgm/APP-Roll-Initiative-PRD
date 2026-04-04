@@ -11,6 +11,8 @@ rare, ce, large, aberration
 
 **Skills** Athletics +22, Deception +19, Intimidation +23, Stealth +21, Survival +19
 
+**Recall Knowledge - Aberration** (Occultism): DC 33
+
 **STR** +7, **DEX** +6, **CON** +7, **INT** +3, **WIS** +4, **CHA** +3
 
 **Fear Scent** Howling spawn can sense frightened creatures within 60 feet, using an incredibly accurate sense of psychic smell as a precise sense.
@@ -37,9 +39,9 @@ rare, ce, large, aberration
 
 Speed 35 feet, fly 15 feet, swim 30 feet, climb 20 feet
 
-**Melee** ◆ claw +24 (agile, reach <10 feet>); **Damage** 2d10+13 slashing plus Grab plus Grab
+**Melee** ◆ claw +24/+20/+16 (agile, reach <10 feet>); **Damage** 2d10+13 slashing plus Grab plus Grab
 
-**Ranged** ◆ spit +23 (range <30 feet>); **Damage** 1d6 fire plus 1d6 mental and paralytic secretion plus Paralytic Secretion
+**Ranged** ◆ spit +23/+18/+13 (range <30 feet>); **Damage** 1d6 fire plus 1d6 mental and paralytic secretion plus Paralytic Secretion
 
 **Innate occult Spells** (DC 27)
 

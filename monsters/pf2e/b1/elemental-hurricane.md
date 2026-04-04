@@ -11,6 +11,8 @@ n, huge, air, elemental
 
 **Skills** Acrobatics +24, Stealth +22
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 28
+
 **STR** +6, **DEX** +7, **CON** +4, **INT** +0, **WIS** +3, **CHA** +0
 
 ---
@@ -31,9 +33,9 @@ n, huge, air, elemental
 
 Speed fly 100 feet, swiftness
 
-**Melee** ◆ gust +24 (finesse, reach <20 feet>); **Damage** 2d10+12 bludgeoning plus Push 10 feet
+**Melee** ◆ gust +24/+19/+14 (finesse, reach <20 feet>); **Damage** 2d10+12 bludgeoning plus Push 10 feet
 
-**Ranged** ◆ lightning lash +24 (range increment <75 feet>); **Damage** 2d12+6 electricity
+**Ranged** ◆ lightning lash +24/+19/+14 (range increment <75 feet>); **Damage** 2d12+6 electricity
 
 **Breath Weapon** ◆◆ (air) The elemental breathes a 30-foot cone of air. Creatures in the cone must succeed at a DC 29 Fortitude save or be knocked away from the elemental. A creature knocked into a solid object stops moving and takes 10d6 bludgeoning damage. The elemental hurricane can't use Breath Weapon again for 1d4 rounds. **Critical Success** The creature is unaffected.
 **Success** The creature is Pushed 20 feet.

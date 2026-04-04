@@ -11,6 +11,8 @@ unique, lg, medium, human, humanoid
 
 **Skills** Acrobatics +21, Athletics +20, Diplomacy +18, Medicine +16
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** +0, **WIS** +1, **CHA** +3
 
 **Items** +1 explorer's clothing, +1 striking handwraps of mighty blows
@@ -29,7 +31,7 @@ unique, lg, medium, human, humanoid
 
 Speed 40 feet
 
-**Melee** ◆ fist +20 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d8+9 bludgeoning
+**Melee** ◆ fist +20/+16/+12 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d8+9 bludgeoning
 
 **Focus Spells** (DC 24)
 

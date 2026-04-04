@@ -11,6 +11,8 @@ unique, medium, ghost, incorporeal, spirit, undead, unholy, wood
 
 **Skills** Acrobatics +22, Nature +26, Plane Of Wood Lore +25, Stealth +22
 
+**Recall Knowledge - Spirit** (Religion): DC 41
+
 **STR** -5, **DEX** +5, **CON** +5, **INT** +2, **WIS** +7, **CHA** +6
 
 ---
@@ -29,7 +31,7 @@ unique, medium, ghost, incorporeal, spirit, undead, unholy, wood
 
 Speed fly 25 feet
 
-**Melee** ◆ ghostly hand +25 (agile, finesse, magical); **Damage** 2d10+13 void
+**Melee** ◆ ghostly hand +25/+21/+17 (agile, finesse, magical); **Damage** 2d10+13 void
 
 **Innate primal Spells** (DC 33), attack +25
 

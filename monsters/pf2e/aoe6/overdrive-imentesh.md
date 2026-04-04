@@ -11,6 +11,8 @@ rare, cn, large, monitor, protean
 
 **Skills** Acrobatics +28, Athletics +30, Deception +32, Diplomacy +30, Performance +32, Stealth +32, Thievery +28
 
+**Recall Knowledge - Monitor** (Religion): DC 41
+
 **STR** +9, **DEX** +6, **CON** +6, **INT** +9, **WIS** +5, **CHA** +6
 
 **Entropy Sense** (divination, divine, prediction) As hegessik (page 80).
@@ -33,11 +35,11 @@ rare, cn, large, monitor, protean
 
 Speed 25 feet, fly 25 feet, swim 25 feet, freedom of movement
 
-**Melee** ◆ jaws +33 (chaotic, magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 1d6 chaotic and warpwave strike plus warpwave strike
+**Melee** ◆ jaws +33/+28/+23 (chaotic, magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 1d6 chaotic and warpwave strike plus warpwave strike
 
-**Melee** ◆ claw +33 (agile, chaotic, magical, reach <10 feet>); **Damage** 3d6+16 slashing plus 1d6 chaotic
+**Melee** ◆ claw +33/+29/+25 (agile, chaotic, magical, reach <10 feet>); **Damage** 3d6+16 slashing plus 1d6 chaotic
 
-**Melee** ◆ tail +33 (chaotic, magical, reach <15 feet>); **Damage** 3d10+16 bludgeoning plus 1d6 chaotic and Grab plus Grab
+**Melee** ◆ tail +33/+28/+23 (chaotic, magical, reach <15 feet>); **Damage** 3d10+16 bludgeoning plus 1d6 chaotic and Grab plus Grab
 
 **Innate divine Spells** (DC 38)
 

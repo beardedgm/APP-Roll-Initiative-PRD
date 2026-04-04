@@ -9,6 +9,8 @@ n, large, animal, aquatic, mindless, swarm
 
 **Skills** Acrobatics +15
 
+**Recall Knowledge - Animal** (Nature): DC 22
+
 **STR** -4, **DEX** +5, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
 ---

@@ -11,6 +11,8 @@ uncommon, lg, medium, beast
 
 **Skills** Acrobatics +8, Stealth +8, Survival +8
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 18
+
 **STR** +1, **DEX** +3, **CON** +2, **INT** +1, **WIS** +4, **CHA** +2
 
 ---
@@ -25,7 +27,7 @@ uncommon, lg, medium, beast
 
 Speed 35 feet
 
-**Melee** ◆ jaws (agile, finesse) +11; **Damage** 1d6+3 piercing
+**Melee** ◆ jaws (agile, finesse) +11/+6/+1; **Damage** 1d6+3 piercing
 
 **Innate occult Spells** (DC 18)
 

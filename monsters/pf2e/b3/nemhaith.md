@@ -11,6 +11,8 @@ uncommon, ne, medium, incorporeal, spirit, undead
 
 **Skills** Deception +27, Diplomacy +27, Intimidation +29, Religion +31, Stealth +29, Dwelling Lore +25
 
+**Recall Knowledge - Spirit** (Religion): DC 36
+
 **STR** -5, **DEX** +6, **CON** +0, **INT** +4, **WIS** +8, **CHA** +6
 
 **Site Bound** The nemhaith is bound to a place or large stationary object and can't venture more than 500 feet from this focus.
@@ -35,9 +37,9 @@ uncommon, ne, medium, incorporeal, spirit, undead
 
 Speed fly 40 feet
 
-**Melee** ◆ spirit tendril +29 (agile, finesse, magical); **Damage** 3d10+14 negative plus drain life plus drain life
+**Melee** ◆ spirit tendril +29/+25/+21 (agile, finesse, magical); **Damage** 3d10+14 negative plus drain life plus drain life
 
-**Ranged** ◆ spirit dart +29 (agile, magical, range <100 feet>); **Damage** 3d8+14 negative plus drain life plus drain life
+**Ranged** ◆ spirit dart +29/+25/+21 (agile, magical, range <100 feet>); **Damage** 3d8+14 negative plus drain life plus drain life
 
 **Innate divine Spells** (DC 36), attack +28
 

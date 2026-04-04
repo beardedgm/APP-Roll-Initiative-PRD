@@ -9,6 +9,8 @@ n, large, plant
 
 **Skills** Athletics +23, Stealth +20
 
+**Recall Knowledge - Plant** (Nature): DC 27
+
 **STR** +5, **DEX** +6, **CON** +6, **INT** -4, **WIS** +2, **CHA** +0
 
 ---
@@ -31,9 +33,9 @@ n, large, plant
 
 Speed 25 feet
 
-**Melee** ◆ vines +21 (agile); **Damage** 2d6+9 slashing
+**Melee** ◆ vines +21/+17/+13 (agile); **Damage** 2d6+9 slashing
 
-**Melee** ◆ head +23 (reach <10 feet>, sweep); **Damage** 3d10+9 bludgeoning
+**Melee** ◆ head +23/+18/+13 (reach <10 feet>, sweep); **Damage** 3d10+9 bludgeoning
 
 **Black Seed Cloud** ◆◆ The counteflora releases a cloud of black seedpods in a 15-foot-radius emanation. Non-counteflora creatures in the area must succeed at a Fortitude save or breathe in the toxic seeds. (Against plants and fungi, the seeds burrow into the creatures' flesh rather than infiltrate their lungs.)
 

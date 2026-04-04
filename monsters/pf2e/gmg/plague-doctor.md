@@ -11,6 +11,8 @@ n, medium, human, humanoid
 
 **Skills** Intimidation +9, Medicine +13, Religion +13, Plague Lore +13
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +0, **DEX** +1, **CON** +4, **INT** +2, **WIS** +4, **CHA** +2
 
 **Items** crossbow (10 bolts), healer's tools, minor potion of healing (4), staff, studded leather
@@ -27,9 +29,9 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ staff +9 (two-hand <d8>); **Damage** 1d4 bludgeoning
+**Melee** ◆ staff +9/+4/-1 (two-hand <d8>); **Damage** 1d4 bludgeoning
 
-**Ranged** ◆ crossbow +10 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
+**Ranged** ◆ crossbow +10/+5/+0 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
 
 **Prepared divine Spells** (DC 23)
 

@@ -11,6 +11,8 @@ unique, ce, huge, demon, fiend
 
 **Skills** Athletics +33, Deception +30, Intimidation +30, Religion +28, Stealth +28
 
+**Recall Knowledge - Fiend** (Religion): DC 46
+
 **STR** +8, **DEX** +3, **CON** +5, **INT** +3, **WIS** +5, **CHA** +5
 
 ---
@@ -33,11 +35,11 @@ unique, ce, huge, demon, fiend
 
 Speed 40 feet, fly 40 feet
 
-**Melee** ◆ jaws +33 (magical, reach <15 feet>); **Damage** 3d6+14 piercing plus 1d6 evil, 2d8 persistent bleed, and smoking wound
+**Melee** ◆ jaws +33/+28/+23 (magical, reach <15 feet>); **Damage** 3d6+14 piercing plus 1d6 evil, 2d8 persistent bleed, and smoking wound
 
-**Melee** ◆ claw +33 (agile, magical, reach <15 feet>); **Damage** 3d10+14 slashing plus 1d6 evil
+**Melee** ◆ claw +33/+29/+25 (agile, magical, reach <15 feet>); **Damage** 3d10+14 slashing plus 1d6 evil
 
-**Melee** ◆ tail +33 (backswing, magical, reach <20 feet>); **Damage** 3d12+14 bludgeoning plus 1d6 evil and stunning tail
+**Melee** ◆ tail +33/+28/+23 (backswing, magical, reach <20 feet>); **Damage** 3d12+14 bludgeoning plus 1d6 evil and stunning tail
 
 **Innate divine Spells** (DC 38)
 

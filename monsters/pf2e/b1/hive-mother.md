@@ -9,6 +9,8 @@ uncommon, n, huge, animal
 
 **Skills** Acrobatics +13, Athletics +20, Stealth +11, Survival +16
 
+**Recall Knowledge - Animal** (Nature): DC 26
+
 **STR** +6, **DEX** +1, **CON** +4, **INT** -4, **WIS** +2, **CHA** -2
 
 ---
@@ -25,9 +27,9 @@ uncommon, n, huge, animal
 
 Speed 25 feet, burrow 20 feet
 
-**Melee** ◆ mandibles +20 (acid); **Damage** 2d8+6 piercing plus 2d6 acid
+**Melee** ◆ mandibles +20/+15/+10 (acid); **Damage** 2d8+6 piercing plus 2d6 acid
 
-**Ranged** ◆ acid spit +17 (acid, range <30 feet>); **Damage** 5d6 acid
+**Ranged** ◆ acid spit +17/+12/+7 (acid, range <30 feet>); **Damage** 5d6 acid
 
 **Armor-Rending Bite** ◆◆ The hive mother makes a mandibles Strike; if the Strike hits, the target's armor takes the damage and the acid damage bypasses the armor's Hardness.
 

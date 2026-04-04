@@ -11,6 +11,8 @@ uncommon, gargantuan, aquatic, beast, cold, unholy
 
 **Skills** Acrobatics +25, Athletics +29, Intimidation +22, Survival +25
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 34
+
 **STR** +8, **DEX** +4, **CON** +7, **INT** +1, **WIS** +5, **CHA** +4
 
 ---
@@ -31,9 +33,9 @@ uncommon, gargantuan, aquatic, beast, cold, unholy
 
 Speed swim 40 feet
 
-**Melee** ◆ jaws +28 (reach <15 feet>); **Damage** 3d12+14 piercing plus Grab and heart of darkness plus Grab, heart of darkness
+**Melee** ◆ jaws +28/+23/+18 (reach <15 feet>); **Damage** 3d12+14 piercing plus Grab and heart of darkness plus Grab, heart of darkness
 
-**Melee** ◆ tail +28 (reach <20 feet>, sweep); **Damage** 3d12+14 bludgeoning
+**Melee** ◆ tail +28/+23/+18 (reach <20 feet>, sweep); **Damage** 3d12+14 bludgeoning
 
 **Innate primal Spells** (DC 32)
 

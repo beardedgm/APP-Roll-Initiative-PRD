@@ -11,6 +11,8 @@ unique, n, medium, human, humanoid
 
 **Skills** Arcana +20, Deception +23, Diplomacy +21, Intimidation +23, Society +20
 
+**Recall Knowledge - Humanoid** (Society): DC 40
+
 **STR** +0, **DEX** +4, **CON** +3, **INT** +2, **WIS** +3, **CHA** +5
 
 **Items** major mentalist's staff, scroll of false life, Sheriff Banyan's map of the sea caves
@@ -29,7 +31,7 @@ unique, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ staff +24 (magical, two-hand <d8>); **Damage** 1d4+6 bludgeoning
+**Melee** ◆ staff +24/+19/+14 (magical, two-hand <d8>); **Damage** 1d4+6 bludgeoning
 
 **Spontaneous arcane Spells** (DC 32), attack +24
 

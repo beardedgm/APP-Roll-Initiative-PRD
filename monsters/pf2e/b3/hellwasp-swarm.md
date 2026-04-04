@@ -11,6 +11,8 @@ le, large, fiend, swarm
 
 **Skills** Acrobatics +18, Stealth +18
 
+**Recall Knowledge - Fiend** (Religion): DC 24
+
 **STR** +0, **DEX** +4, **CON** +6, **INT** -3, **WIS** +2, **CHA** -2
 
 ---

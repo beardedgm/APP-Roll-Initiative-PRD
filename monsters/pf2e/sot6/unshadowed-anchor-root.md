@@ -11,6 +11,8 @@ unique, ce, small, gnoll, humanoid
 
 **Skills** Academia Lore +31, Deception +35, Nature +35, Occultism +35, Religion +31, Stealth +31, Survival +33
 
+**Recall Knowledge - Humanoid** (Society): DC 48
+
 **STR** +2, **DEX** +3, **CON** +4, **INT** +5, **WIS** +5, **CHA** -1
 
 ---
@@ -31,7 +33,7 @@ unique, ce, small, gnoll, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ bite +28; **Damage** 3d6+5 piercing
+**Melee** ◆ bite +28/+23/+18; **Damage** 3d6+5 piercing
 
 **Prepared primal Spells** (DC 40), attack +32
 

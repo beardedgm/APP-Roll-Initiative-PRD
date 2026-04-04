@@ -9,6 +9,8 @@ uncommon, n, medium, mindless, plant
 
 **Skills** Athletics +12, Stealth +12
 
+**Recall Knowledge - Plant** (Nature): DC 21
+
 **STR** +5, **DEX** +0, **CON** +3, **INT** -5, **WIS** +4, **CHA** +1
 
 **Camouflage** The glimmervine can Hide in natural environments even if it doesn't have cover.
@@ -27,7 +29,7 @@ uncommon, n, medium, mindless, plant
 
 Speed 10 feet
 
-**Melee** ◆ vine +14 (reach <10 feet>); **Damage** 2d6+8 bludgeoning plus Grab
+**Melee** ◆ vine +14/+9/+4 (reach <10 feet>); **Damage** 2d6+8 bludgeoning plus Grab
 
 **Constrict** ◆ 2d6+4 bludgeoning, DC 21
 

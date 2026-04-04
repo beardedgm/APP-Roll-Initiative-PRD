@@ -11,6 +11,8 @@ uncommon, ce, tiny, fiend, qlippoth
 
 **Skills** Acrobatics +6, Occultism +7, Stealth +6
 
+**Recall Knowledge - Fiend** (Religion): DC 17
+
 **STR** +1, **DEX** +3, **CON** +4, **INT** +2, **WIS** +2, **CHA** +1
 
 ---
@@ -29,7 +31,7 @@ uncommon, ce, tiny, fiend, qlippoth
 
 Speed 30 feet, fly 40 feet
 
-**Melee** ◆ bite +8 (agile, chaotic, finesse, magical); **Damage** 1d10+1 piercing plus 1d4 chaotic and tangle spores plus tangle spores
+**Melee** ◆ bite +8/+4/+0 (agile, chaotic, finesse, magical); **Damage** 1d10+1 piercing plus 1d4 chaotic and tangle spores plus tangle spores
 
 **Innate occult Spells** (DC 17)
 

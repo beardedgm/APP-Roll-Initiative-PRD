@@ -11,6 +11,8 @@ cg, huge, amphibious, giant, humanoid
 
 **Skills** Acrobatics +20, Athletics +27, Crafting +24, Intimidation +24
 
+**Recall Knowledge - Humanoid** (Society): DC 31
+
 **STR** +8, **DEX** +1, **CON** +6, **INT** +3, **WIS** +5, **CHA** +2
 
 **Items** +1 striking greatsword, sack with 5 rocks
@@ -31,11 +33,11 @@ cg, huge, amphibious, giant, humanoid
 
 Speed 35 feet, swim 30 feet
 
-**Melee** ◆ greatsword +28 (magical, reach <15 feet>, versatile <P>); **Damage** 2d12+16 slashing plus 1d6 electricity
+**Melee** ◆ greatsword +28/+23/+18 (magical, reach <15 feet>, versatile <P>); **Damage** 2d12+16 slashing plus 1d6 electricity
 
-**Melee** ◆ fist +27 (agile, reach <15 feet>); **Damage** 2d8+16 bludgeoning plus 1d6 electricity
+**Melee** ◆ fist +27/+23/+19 (agile, reach <15 feet>); **Damage** 2d8+16 bludgeoning plus 1d6 electricity
 
-**Ranged** ◆ rock +37 (brutal, range increment <120 feet>); **Damage** 2d10+16 bludgeoning
+**Ranged** ◆ rock +37/+32/+27 (brutal, range increment <120 feet>); **Damage** 2d10+16 bludgeoning
 
 **Innate arcane Spells** (DC 33)
 

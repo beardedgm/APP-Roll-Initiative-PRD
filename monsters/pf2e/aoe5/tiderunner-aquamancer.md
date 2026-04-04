@@ -11,6 +11,8 @@ uncommon, n, medium, amphibious, azarketi, humanoid
 
 **Skills** Arcana +26, Diplomacy +19, Medicine +23, Aquatic Lore +26, Warfare Lore +26
 
+**Recall Knowledge - Humanoid** (Society): DC 33
+
 **STR** +0, **DEX** +5, **CON** +3, **INT** +5, **WIS** +4, **CHA** +0
 
 **Items** +2 striking spear
@@ -29,9 +31,9 @@ uncommon, n, medium, amphibious, azarketi, humanoid
 
 Speed 25 feet, swim 30 feet
 
-**Melee** ◆ spear +21 (magical, thrown <20 feet>); **Damage** 2d6+3 piercing
+**Melee** ◆ spear +21/+16/+11 (magical, thrown <20 feet>); **Damage** 2d6+3 piercing
 
-**Ranged** ◆ spear +24 (magical, thrown <20 feet>); **Damage** 2d6+3 piercing
+**Ranged** ◆ spear +24/+19/+14 (magical, thrown <20 feet>); **Damage** 2d6+3 piercing
 
 **Prepared arcane Spells** (DC 34), attack +26
 

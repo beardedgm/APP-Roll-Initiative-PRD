@@ -11,6 +11,8 @@ rare, le, medium, beast, human, humanoid, werecreature
 
 **Skills** Acrobatics +33, Athletics +30, Intimidation +30, Society +25, Stealth +32, Survival +30, Thievery +30
 
+**Recall Knowledge - Beast** (Arcana, Nature, Society): DC 41
+
 **STR** +6, **DEX** +9, **CON** +3, **INT** +0, **WIS** +6, **CHA** +5
 
 **Items** +2 greater striking kukri (2)
@@ -35,9 +37,9 @@ rare, le, medium, beast, human, humanoid, werecreature
 
 Speed 40 feet
 
-**Melee** ◆ mandibles +31; **Damage** 3d10+12 slashing plus 2d6 persistent poison and curse of the wereant
+**Melee** ◆ mandibles +31/+26/+21; **Damage** 3d10+12 slashing plus 2d6 persistent poison and curse of the wereant
 
-**Melee** ◆ kukri +33 (agile, finesse, magical, trip); **Damage** 3d6+12 slashing plus 2d6 persistent poison
+**Melee** ◆ kukri +33/+29/+25 (agile, finesse, magical, trip); **Damage** 3d6+12 slashing plus 2d6 persistent poison
 
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) As wereant disciple.
 

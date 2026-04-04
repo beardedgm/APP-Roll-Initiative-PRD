@@ -9,6 +9,8 @@ n, large, animal, aquatic, mindless
 
 **Skills** Acrobatics +15, Athletics +17, Stealth +15
 
+**Recall Knowledge - Animal** (Nature): DC 23
+
 **STR** +6, **DEX** +4, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -27,7 +29,7 @@ n, large, animal, aquatic, mindless
 
 Speed swim 20 feet
 
-**Melee** ◆ tentacle +18 (agile, reach <20 feet>); **Damage** 2d8+8 bludgeoning plus jellyfish venom plus jellyfish venom
+**Melee** ◆ tentacle +18/+14/+10 (agile, reach <20 feet>); **Damage** 2d8+8 bludgeoning plus jellyfish venom plus jellyfish venom
 
 **Jellyfish Venom** (poison)
 

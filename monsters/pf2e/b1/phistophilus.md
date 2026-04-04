@@ -11,6 +11,8 @@ le, medium, devil, fiend
 
 **Skills** Arcana +19, Deception +23, Diplomacy +21, Intimidation +21, Religion +19, Society +19, Stealth +18, Legal Lore +25
 
+**Recall Knowledge - Fiend** (Religion): DC 27
+
 **STR** +3, **DEX** +4, **CON** +4, **INT** +7, **WIS** +5, **CHA** +5
 
 ---
@@ -33,9 +35,9 @@ le, medium, devil, fiend
 
 Speed 25 feet
 
-**Melee** ◆ binding contract +23 (agile, disarm, evil, magical, reach <10 feet>, trip); **Damage** 3d6+11 slashing plus 1d6 evil, Grab, and infernal wound plus Grab, infernal wound
+**Melee** ◆ binding contract +23/+19/+15 (agile, disarm, evil, magical, reach <10 feet>, trip); **Damage** 3d6+11 slashing plus 1d6 evil, Grab, and infernal wound plus Grab, infernal wound
 
-**Melee** ◆ horn +21 (magical); **Damage** 3d10+11 piercing and infernal wound plus infernal wound
+**Melee** ◆ horn +21/+16/+11 (magical); **Damage** 3d10+11 piercing and infernal wound plus infernal wound
 
 **Innate divine Spells** (DC 31)
 

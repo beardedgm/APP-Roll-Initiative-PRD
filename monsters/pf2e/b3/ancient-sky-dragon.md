@@ -11,6 +11,8 @@ rare, lg, gargantuan, dragon, electricity
 
 **Skills** Acrobatics +28, Athletics +35, Deception +28, Intimidation +32, Religion +34, Society +26, Stealth +28, Survival +28
 
+**Recall Knowledge - Dragon** (Arcana): DC 43
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** +4, **WIS** +6, **CHA** +6
 
 **Mist Vision** Fog and mist don't impair a sky dragon's vision; they ignore the concealed condition from fog and mist.
@@ -31,11 +33,11 @@ rare, lg, gargantuan, dragon, electricity
 
 Speed 60 feet, fly 160 feet
 
-**Melee** ◆ jaws +36 (magical, reach <20 feet>); **Damage** 3d10+16 piercing plus 1d12 electricity
+**Melee** ◆ jaws +36/+31/+26 (magical, reach <20 feet>); **Damage** 3d10+16 piercing plus 1d12 electricity
 
-**Melee** ◆ claw +36 (agile, magical, reach <15 feet>); **Damage** 3d10+16 slashing plus Grab plus Grab
+**Melee** ◆ claw +36/+32/+28 (agile, magical, reach <15 feet>); **Damage** 3d10+16 slashing plus Grab plus Grab
 
-**Melee** ◆ tail +36 (magical, reach <30 feet>); **Damage** 3d10+16 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +36/+31/+26 (magical, reach <30 feet>); **Damage** 3d10+16 bludgeoning plus Grab plus Grab
 
 **Innate divine Spells** (DC 42)
 

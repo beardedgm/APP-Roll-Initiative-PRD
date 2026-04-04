@@ -11,6 +11,8 @@ ln, medium, human, humanoid
 
 **Skills** Arcana +26, Athletics +26, Stealth +23
 
+**Recall Knowledge - Humanoid** (Society): DC 31
+
 **STR** +5, **DEX** +2, **CON** +3, **INT** +5, **WIS** +2, **CHA** +0
 
 **Items** high-grade black dragonhide buckler (Hardness 5, HP 20, BT 10, immune to acid), +1 resilient chain shirt, signal horn, +1 striking spear
@@ -31,9 +33,9 @@ ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ spear +27 (magical); **Damage** 2d6+9 piercing
+**Melee** ◆ spear +27/+22/+17 (magical); **Damage** 2d6+9 piercing
 
-**Ranged** ◆ spear +24 (magical, thrown <20 feet>); **Damage** 2d6+9 piercing
+**Ranged** ◆ spear +24/+19/+14 (magical, thrown <20 feet>); **Damage** 2d6+9 piercing
 
 **Prepared arcane Spells** (DC 33), attack +25
 

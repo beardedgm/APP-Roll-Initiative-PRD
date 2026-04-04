@@ -11,6 +11,8 @@ n, medium, monitor, psychopomp
 
 **Skills** Acrobatics +8, Athletics +10, Intimidation +9, Religion +4, Stealth +8, Survival +10
 
+**Recall Knowledge - Monitor** (Religion): DC 18
+
 **STR** +3, **DEX** +3, **CON** +4, **INT** -3, **WIS** +3, **CHA** +2
 
 ---
@@ -27,9 +29,9 @@ n, medium, monitor, psychopomp
 
 Speed 30 feet
 
-**Melee** ◆ jaws +12 (magical); **Damage** 1d10+3 piercing plus Grab and spirit touch plus Grab, spirit touch
+**Melee** ◆ jaws +12/+7/+2 (magical); **Damage** 1d10+3 piercing plus Grab and spirit touch plus Grab, spirit touch
 
-**Melee** ◆ claw +12 (agile, magical); **Damage** 1d6+3 slashing plus spirit touch plus spirit touch
+**Melee** ◆ claw +12/+8/+4 (agile, magical); **Damage** 1d6+3 slashing plus spirit touch plus spirit touch
 
 **Innate divine Spells** (DC 17)
 

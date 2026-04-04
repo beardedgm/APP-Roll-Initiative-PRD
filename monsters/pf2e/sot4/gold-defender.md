@@ -9,6 +9,8 @@ rare, n, huge, construct, golem, mindless
 
 **Skills** Athletics +30
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 36
+
 **STR** +8, **DEX** -1, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -35,7 +37,7 @@ rare, n, huge, construct, golem, mindless
 
 Speed 20 feet
 
-**Melee** ◆ fist +28 (magical, reach <10 feet>); **Damage** 3d10+12 bludgeoning
+**Melee** ◆ fist +28/+23/+18 (magical, reach <10 feet>); **Damage** 3d10+12 bludgeoning
 
 **Inexorable March** ◆ The gold defender Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 37 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise, it is damaged as if hit by the defender's fist Strike.
 

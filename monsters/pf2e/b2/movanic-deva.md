@@ -11,6 +11,8 @@ ng, medium, angel, celestial
 
 **Skills** Athletics +20, Diplomacy +22, Intimidation +22, Nature +22, Religion +19, Stealth +17, Survival +17
 
+**Recall Knowledge - Celestial** (Religion): DC 27
+
 **STR** +6, **DEX** +4, **CON** +4, **INT** +4, **WIS** +5, **CHA** +5
 
 **Items** +1 striking bastard sword
@@ -33,7 +35,7 @@ ng, medium, angel, celestial
 
 Speed 30 feet, fly 40 feet
 
-**Melee** ◆ flaming bastard sword +23 (good, magical, two-hand <d12>); **Damage** 2d8+9 slashing plus 1d6 fire and 1d6 good
+**Melee** ◆ flaming bastard sword +23/+18/+13 (good, magical, two-hand <d12>); **Damage** 2d8+9 slashing plus 1d6 fire and 1d6 good
 
 **Innate divine Spells** (DC 29)
 

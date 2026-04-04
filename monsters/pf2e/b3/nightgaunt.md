@@ -11,6 +11,8 @@ uncommon, cn, medium, aberration, dream
 
 **Skills** Acrobatics +11, Athletics +13, Stealth +11
 
+**Recall Knowledge - Aberration** (Occultism): DC 21
+
 **STR** +5, **DEX** +3, **CON** +2, **INT** -2, **WIS** +2, **CHA** +0
 
 **Thoughtsense** (divination, mental, occult) A nightgaunt senses all non-mindless creatures at the listed range.
@@ -33,9 +35,9 @@ uncommon, cn, medium, aberration, dream
 
 Speed 25 feet, fly 30 feet
 
-**Melee** ◆ claw +13 (agile); **Damage** 2d6+7 plus Grab plus 2d6+7, Grab
+**Melee** ◆ claw +13/+9/+5 (agile); **Damage** 2d6+7 plus Grab plus 2d6+7, Grab
 
-**Melee** ◆ tail +13 (agile, reach <10 feet>); plus tickle
+**Melee** ◆ tail +13/+9/+5 (agile, reach <10 feet>); plus tickle
 
 **Clutches** A nightgaunt can Fly at full Speed while it has a Medium or smaller creature grabbed or restrained in its claws, carrying that creature along with it.
 

@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Diplomacy +7, Nature +9, Survival +9, Gozreh Lore +8
 
+**Recall Knowledge - Humanoid** (Society): DC 28
+
 **STR** +1, **DEX** +0, **CON** +1, **INT** +1, **WIS** +4, **CHA** +2
 
 **Items** leather armor, gray robes, trident, wooden religious symbol of Gozreh defaced with demonic runes
@@ -31,7 +33,7 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ trident +10 (fatal <d10>, thrown <20 feet>); **Damage** 2d8+1 piercing
+**Melee** ◆ trident +10/+5/+0 (fatal <d10>, thrown <20 feet>); **Damage** 2d8+1 piercing
 
 **Prepared primal Spells** (DC 20), attack +12
 

@@ -11,6 +11,8 @@ unique, ne, medium, amphibious, hag, humanoid
 
 **Skills** Athletics +18, Deception +18, Intimidation +18, Occultism +20, Stealth +16
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** +6, **WIS** +5, **CHA** +5
 
 **Items** Devil's Trident|LOMM, skinned cloak
@@ -43,13 +45,13 @@ unique, ne, medium, amphibious, hag, humanoid
 
 Speed 30 feet, swim 30 feet
 
-**Melee** ◆ jaws +21; **Damage** 2d12+7 piercing
+**Melee** ◆ jaws +21/+16/+11; **Damage** 2d12+7 piercing
 
-**Melee** ◆ claw +21 (agile); **Damage** 2d8+7 slashing plus Grab plus Grab
+**Melee** ◆ claw +21/+17/+13 (agile); **Damage** 2d8+7 slashing plus Grab plus Grab
 
-**Melee** ◆ {@item Devil's Trident|LOMM} +21; **Damage** 2d8+7 piercing plus sewer haze plus Sewer Haze
+**Melee** ◆ {@item Devil's Trident|LOMM} +21/+16/+11; **Damage** 2d8+7 piercing plus sewer haze plus Sewer Haze
 
-**Ranged** ◆ {@item Devil's Trident|LOMM} +21 (thrown <20 feet>); **Damage** 2d8+7 piercing plus sewer haze plus Sewer Haze
+**Ranged** ◆ {@item Devil's Trident|LOMM} +21/+16/+11 (thrown <20 feet>); **Damage** 2d8+7 piercing plus sewer haze plus Sewer Haze
 
 **Innate occult Spells** (DC 28), attack +20
 

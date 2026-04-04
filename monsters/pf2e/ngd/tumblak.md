@@ -11,6 +11,8 @@ rare, ne, medium, fiend, incorporeal, sahkil
 
 **Skills** Athletics +35, Deception +31, Grave Lore +28, Intimidation +35, Religion +29, Stealth +31
 
+**Recall Knowledge - Fiend** (Religion): DC 43
+
 **STR** +9, **DEX** +5, **CON** +6, **INT** +2, **WIS** +5, **CHA** +9
 
 **Easy to Call** As chakanaj.
@@ -39,7 +41,7 @@ rare, ne, medium, fiend, incorporeal, sahkil
 
 Speed fly 40 feet
 
-**Melee** ◆ fist +35 (magical, reach <10 feet>); **Damage** 3d12+17 bludgeoning plus 2d6 evil and Entombing Echoes
+**Melee** ◆ fist +35/+30/+25 (magical, reach <10 feet>); **Damage** 3d12+17 bludgeoning plus 2d6 evil and Entombing Echoes
 
 **Innate divine Spells** (DC 40)
 

@@ -11,6 +11,8 @@ unique, ln, medium, human, humanoid
 
 **Skills** Arcana +19, Crafting +17, Deception +17, Diplomacy +19, Intimidation +17, Religion +13, Society +19, Willowshore Lore +19
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +3, **DEX** +2, **CON** +1, **INT** +4, **WIS** +0, **CHA** +4
 
 **Items** greater choker of elocution (grants Celestial, Draconic, and Nagaji), , , ritual notes and journals held within a glove of storing
@@ -29,7 +31,7 @@ unique, ln, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ longsword +17 (magical, versatile <P>); **Damage** 2d8+5 slashing
+**Melee** ◆ longsword +17/+12/+7 (magical, versatile <P>); **Damage** 2d8+5 slashing
 
 **Esoteric Lore** Heh Shan-Bao can attempt to Recall Knowledge on any topic with a +15 modifier.
 

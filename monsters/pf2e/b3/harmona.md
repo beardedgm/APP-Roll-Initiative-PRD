@@ -11,6 +11,8 @@ uncommon, cn, tiny, fey
 
 **Skills** Acrobatics +23, Arcana +20, Diplomacy +22, Nature +24, Performance +22, Stealth +23
 
+**Recall Knowledge - Fey** (Nature): DC 30
+
 **STR** +0, **DEX** +6, **CON** +3, **INT** +5, **WIS** +7, **CHA** +5
 
 ---
@@ -31,7 +33,7 @@ uncommon, cn, tiny, fey
 
 Speed 10 feet, fly 60 feet
 
-**Melee** ◆ beak +23 (finesse, magical); **Damage** 2d6+6 piercing plus 2d6 sonic
+**Melee** ◆ beak +23/+18/+13 (finesse, magical); **Damage** 2d6+6 piercing plus 2d6 sonic
 
 **Innate primal Spells** (DC 30)
 

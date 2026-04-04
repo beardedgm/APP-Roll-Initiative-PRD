@@ -11,6 +11,8 @@ ne, medium, human, humanoid
 
 **Skills** Athletics +9, Deception +10, Intimidation +10, Religion +10, Society +7
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +4, **DEX** +1, **CON** +1, **INT** +0, **WIS** +3, **CHA** +2
 
 **Items** composite shortbow (20 arrows), half plate, mace, steel shield (Hardness 5, HP 20, BT 10)
@@ -31,9 +33,9 @@ ne, medium, human, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ mace +12 (shove); **Damage** 1d8+4 bludgeoning
+**Melee** ◆ mace +12/+7/+2 (shove); **Damage** 1d8+4 bludgeoning
 
-**Ranged** ◆ composite shortbow +9 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+2 piercing
+**Ranged** ◆ composite shortbow +9/+4/-1 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+2 piercing
 
 **Prepared divine Spells** (DC 19), attack +11
 

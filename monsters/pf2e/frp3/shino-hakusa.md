@@ -11,6 +11,8 @@ unique, le, medium, human, humanoid
 
 **Skills** Acrobatics +38, Athletics +35, Deception +33, Medicine +35, Occultism +35, Thievery +33
 
+**Recall Knowledge - Humanoid** (Society): DC 50
+
 **STR** +6, **DEX** +7, **CON** +4, **INT** +2, **WIS** +3, **CHA** +1
 
 **Items** +3 major striking greater shock handwraps of mighty blows, potion of flying, potion of haste
@@ -29,11 +31,11 @@ unique, le, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ fingers +38 (agile, finesse, magical, unarmed); **Damage** 4d6+14 piercing plus ki absorption plus ki absorption
+**Melee** ◆ fingers +38/+34/+30 (agile, finesse, magical, unarmed); **Damage** 4d6+14 piercing plus ki absorption plus ki absorption
 
-**Melee** ◆ palm +37 (forceful, magical, shove, unarmed); **Damage** 6d6+14 bludgeoning plus ki absorption plus ki absorption
+**Melee** ◆ palm +37/+32/+27 (forceful, magical, shove, unarmed); **Damage** 6d6+14 bludgeoning plus ki absorption plus ki absorption
 
-**Ranged** ◆ vitality blast +38 (magical, negative, range <60 feet>, unarmed, versatile <positive>); **Damage** 4d8+8 negative
+**Ranged** ◆ vitality blast +38/+33/+28 (magical, negative, range <60 feet>, unarmed, versatile <positive>); **Damage** 4d8+8 negative
 
 **Ki Absorption** (necromancy) Hakusa absorbs vitality with each blow. She gains fast healing 10 for 1 round whenever she successfully Strikes with a melee unarmed attack.
 

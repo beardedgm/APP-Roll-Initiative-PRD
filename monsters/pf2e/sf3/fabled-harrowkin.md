@@ -11,6 +11,8 @@ rare, n, medium, construct
 
 **Skills** Acrobatics +30, Athletics +32, Diplomacy +32, Occultism +29
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 41
+
 **STR** +7, **DEX** +5, **CON** +7, **INT** +2, **WIS** +4, **CHA** +9
 
 **Items** +2 greater striking greatsword, harrow deck (53 cards; function as darts when thrown by a harrowkin)
@@ -37,9 +39,9 @@ rare, n, medium, construct
 
 Speed 25 feet, fly 40 feet
 
-**Melee** ◆ greatsword +32 (magical, versatile <P>); **Damage** 3d12+15 slashing
+**Melee** ◆ greatsword +32/+27/+22 (magical, versatile <P>); **Damage** 3d12+15 slashing
 
-**Ranged** ◆ harrow card +30 (agile, magical, range increment <20 feet>, thrown); **Damage** 3d6+15 piercing
+**Ranged** ◆ harrow card +30/+26/+22 (agile, magical, range increment <20 feet>, thrown); **Damage** 3d6+15 piercing
 
 **Innate occult Spells** (DC 35), attack +27
 

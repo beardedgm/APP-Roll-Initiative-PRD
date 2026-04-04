@@ -9,6 +9,8 @@ n, large, animal
 
 **Skills** Acrobatics +10, Athletics +7
 
+**Recall Knowledge - Animal** (Nature): DC 16
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** -4, **WIS** +2, **CHA** -1
 
 ---
@@ -23,6 +25,6 @@ n, large, animal
 
 Speed 10 feet, fly 40 feet
 
-**Melee** ◆ beak +10; **Damage** 1d10+3 piercing
+**Melee** ◆ beak +10/+5/+0; **Damage** 1d10+3 piercing
 
 **Swoop** ◆◆ The pteranodon Flies up to its Speed and makes one beak Strike at any point during that movement.

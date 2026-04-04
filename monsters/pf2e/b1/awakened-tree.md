@@ -11,6 +11,8 @@ n, huge, plant
 
 **Skills** Athletics +14, Stealth +9
 
+**Recall Knowledge - Plant** (Nature): DC 22
+
 **STR** +6, **DEX** -1, **CON** +6, **INT** -5, **WIS** +3, **CHA** +0
 
 ---
@@ -31,6 +33,6 @@ n, huge, plant
 
 Speed 20 feet
 
-**Melee** ◆ branch +16 (reach <15 feet>); **Damage** 2d8+6 bludgeoning
+**Melee** ◆ branch +16/+11/+6 (reach <15 feet>); **Damage** 2d8+6 bludgeoning
 
-**Melee** ◆ root +16 (trip); **Damage** 2d6+6 bludgeoning
+**Melee** ◆ root +16/+11/+6 (trip); **Damage** 2d6+6 bludgeoning

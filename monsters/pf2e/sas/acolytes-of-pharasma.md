@@ -11,6 +11,8 @@ uncommon, n, medium, human, humanoid, n
 
 **Skills** Crafting +5, Diplomacy +4, Occultism +5, Religion +7, Society +5
 
+**Recall Knowledge - Humanoid** (Society): DC 17
+
 **STR** +1, **DEX** +2, **CON** -1, **INT** +2, **WIS** +4, **CHA** +1
 
 **Items** dagger, religious symbol of Pharasma
@@ -27,9 +29,9 @@ uncommon, n, medium, human, humanoid, n
 
 Speed 25 feet
 
-**Melee** ◆ dagger +4 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
+**Melee** ◆ dagger +4/+0/-4 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
 
-**Ranged** ◆ dagger +4 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
+**Ranged** ◆ dagger +4/+0/-4 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
 
 **Prepared divine Spells** (DC 17), attack +9
 

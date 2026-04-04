@@ -9,6 +9,8 @@ n, medium, animal
 
 **Skills** Acrobatics +7, Athletics +7
 
+**Recall Knowledge - Animal** (Nature): DC 15
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** -4, **WIS** +2, **CHA** +0
 
 ---
@@ -25,6 +27,6 @@ n, medium, animal
 
 Speed 35 feet
 
-**Melee** ◆ hoof +7; **Damage** 1d4+4 bludgeoning
+**Melee** ◆ hoof +7/+2/-3; **Damage** 1d4+4 bludgeoning
 
 **Gallop** ◆◆ The riding pony Strides twice. It has a +10-foot circumstance bonus to its Speed during these Strides.

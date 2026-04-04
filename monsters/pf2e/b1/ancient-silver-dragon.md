@@ -11,6 +11,8 @@ uncommon, lg, gargantuan, cold, dragon
 
 **Skills** Acrobatics +27, Athletics +38, Diplomacy +34, Intimidation +37, Medicine +33, Religion +32, Society +30
 
+**Recall Knowledge - Dragon** (Arcana): DC 41
+
 **STR** +9, **DEX** +4, **CON** +5, **INT** +5, **WIS** +5, **CHA** +7
 
 **Fog Vision** The silver dragon ignores the concealed condition from fog and clouds.
@@ -39,11 +41,11 @@ uncommon, lg, gargantuan, cold, dragon
 
 Speed 60 feet, fly 180 feet, cloud walk
 
-**Melee** ◆ jaws +37 (cold, magical, reach <20 feet>); **Damage** 4d10+17 piercing plus 4d6 cold
+**Melee** ◆ jaws +37/+32/+27 (cold, magical, reach <20 feet>); **Damage** 4d10+17 piercing plus 4d6 cold
 
-**Melee** ◆ claw +37 (agile, magical, reach <15 feet>); **Damage** 4d8+17 slashing
+**Melee** ◆ claw +37/+33/+29 (agile, magical, reach <15 feet>); **Damage** 4d8+17 slashing
 
-**Melee** ◆ tail +35 (magical, reach <25 feet>); **Damage** 3d10+15 bludgeoning
+**Melee** ◆ tail +35/+30/+25 (magical, reach <25 feet>); **Damage** 3d10+15 bludgeoning
 
 **Innate arcane Spells** (DC 40)
 

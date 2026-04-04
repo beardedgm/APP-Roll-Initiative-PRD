@@ -11,6 +11,8 @@ unique, le, medium, human, humanoid
 
 **Skills** Acrobatics +32, Athletics +30, Deception +26, Medicine +28, Occultism +24, Stealth +28, Thievery +28
 
+**Recall Knowledge - Humanoid** (Society): DC 45
+
 **STR** +6, **DEX** +6, **CON** +4, **INT** +1, **WIS** +2, **CHA** +0
 
 **Items** +2 greater striking greater shock handwraps of mighty blows, potion of flying, potion of haste, +2 greater striking returning shuriken
@@ -29,9 +31,9 @@ unique, le, medium, human, humanoid
 
 Speed 40 feet
 
-**Melee** ◆ fist +32 (agile, finesse, nonlethal, unarmed); **Damage** 3d6+14 bludgeoning plus 1d6 electricity
+**Melee** ◆ fist +32/+28/+24 (agile, finesse, nonlethal, unarmed); **Damage** 3d6+14 bludgeoning plus 1d6 electricity
 
-**Ranged** ◆ shuriken +32 (agile, reload <0>, thrown <20 feet>); **Damage** 3d4+14 piercing
+**Ranged** ◆ shuriken +32/+28/+24 (agile, reload <0>, thrown <20 feet>); **Damage** 3d4+14 piercing
 
 **Disorienting Tumble** Hakusa constantly leaps around and over her foes in combat. When she successfully Tumbles Through a creature's space, that creature becomes flat-footed until the end of Hakusa's turn.
 

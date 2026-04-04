@@ -9,6 +9,8 @@ ce, large, undead
 
 **Skills** Acrobatics +13, Athletics +13, Intimidation +11
 
+**Recall Knowledge - Undead** (Religion): DC 20
+
 **STR** +6, **DEX** +4, **CON** +2, **INT** +1, **WIS** +6, **CHA** +2
 
 **Echolocation** A skaveling can use its hearing as a precise sense at the listed range.
@@ -25,9 +27,9 @@ ce, large, undead
 
 Speed 15 feet, fly 30 feet
 
-**Melee** ◆ fangs +15; **Damage** 2d8+8 plus ghoul fever and paralysis plus ghoul fever, paralysis
+**Melee** ◆ fangs +15/+10/+5; **Damage** 2d8+8 plus ghoul fever and paralysis plus ghoul fever, paralysis
 
-**Melee** ◆ wing +15 (agile); **Damage** 2d4+8 plus skrik nettle venom
+**Melee** ◆ wing +15/+11/+7 (agile); **Damage** 2d4+8 plus skrik nettle venom
 
 **Bone-Chilling Screech** ◆◆ (auditory, emotion, fear, mental, necromancy, occult) The skaveling unleashes a horrifying screech that chills the very bones of those close enough to feel it. The screech can be heard for miles, but each creature in a 20-foot emanation must also attempt a DC 22 Will save. The skaveling can't use Bone-Chilling Screech again for 1d4 rounds. **Critical Success** The creature is unaffected and is temporarily immune to Bone-
 

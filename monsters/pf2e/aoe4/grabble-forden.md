@@ -11,6 +11,8 @@ unique, ne, medium, dwarf, humanoid
 
 **Skills** Acrobatics +22, Arcana +26, Crafting +26, Nature +23, Poison Lore +28
 
+**Recall Knowledge - Humanoid** (Society): DC 41
+
 **STR** +1, **DEX** +3, **CON** +4, **INT** +5, **WIS** +4, **CHA** +0
 
 **Items** +2 striking dagger, major poisoner's staff (arcane focus)
@@ -27,11 +29,11 @@ unique, ne, medium, dwarf, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +22 (agile, finesse, magical, versatile <S>); **Damage** 2d4+9 piercing
+**Melee** ◆ dagger +22/+18/+14 (agile, finesse, magical, versatile <S>); **Damage** 2d4+9 piercing
 
-**Melee** ◆ staff +20 (magical, two-handed d8); **Damage** 1d4+9 bludgeoning
+**Melee** ◆ staff +20/+15/+10 (magical, two-handed d8); **Damage** 1d4+9 bludgeoning
 
-**Ranged** ◆ dagger +22 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+9 piercing
+**Ranged** ◆ dagger +22/+18/+14 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 2d4+9 piercing
 
 **Prepared arcane Spells** (DC 33), attack +27
 

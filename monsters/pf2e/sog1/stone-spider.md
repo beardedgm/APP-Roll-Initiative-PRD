@@ -11,6 +11,8 @@ rare, ng, large, celestial
 
 **Skills** Acrobatics +12, Athletics +13, Intimidation +9, Religion +14, Settlement Lore +12 (regarding their home settlement), Society +10
 
+**Recall Knowledge - Celestial** (Religion): DC 25
+
 **STR** +4, **DEX** +5, **CON** +3, **INT** +1, **WIS** +5, **CHA** +0
 
 **Anchored Soul** The stone spider is bonded to a specific settlement and must remain within 10 miles of the settlement's border.
@@ -33,7 +35,7 @@ rare, ng, large, celestial
 
 Speed fly 40 feet
 
-**Ranged** ◆ spirit web +14 (range increment <30 feet>); **Damage** spirit web trap plus spirit web trap
+**Ranged** ◆ spirit web +14/+9/+4 (range increment <30 feet>); **Damage** spirit web trap plus spirit web trap
 
 **Innate divine Spells** (DC 21)
 

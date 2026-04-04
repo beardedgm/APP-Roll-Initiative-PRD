@@ -11,6 +11,8 @@ ne, medium, div, fiend
 
 **Skills** Acrobatics +14, Arcana +13, Deception +20, Diplomacy +20, Intimidation +16, Religion +13, Society +13, Stealth +16
 
+**Recall Knowledge - Fiend** (Religion): DC 23
+
 **STR** +3, **DEX** +5, **CON** +3, **INT** +2, **WIS** +4, **CHA** +7
 
 **Items** poisoned darts (10)
@@ -31,9 +33,9 @@ ne, medium, div, fiend
 
 Speed 25 feet, fly 35 feet
 
-**Melee** ◆ claw +16 (agile, evil, finesse, magical); **Damage** 2d8+6 slashing plus 1d6 evil and bubonic plague
+**Melee** ◆ claw +16/+12/+8 (agile, evil, finesse, magical); **Damage** 2d8+6 slashing plus 1d6 evil and bubonic plague
 
-**Ranged** ◆ poisoned dart +16 (agile, thrown <20 feet>); **Damage** 1d4+6 piercing plus 1d8 poison
+**Ranged** ◆ poisoned dart +16/+12/+8 (agile, thrown <20 feet>); **Damage** 1d4+6 piercing plus 1d8 poison
 
 **Innate divine Spells** (DC 25)
 

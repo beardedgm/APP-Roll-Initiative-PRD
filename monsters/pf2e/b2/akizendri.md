@@ -11,6 +11,8 @@ cn, small, monitor, protean
 
 **Skills** Acrobatics +9, Deception +10, Occultism +11, Society +10, Stealth +9, Thievery +9
 
+**Recall Knowledge - Monitor** (Religion): DC 18
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** +4, **WIS** +3, **CHA** +1
 
 **Entropy Sense** (divination, divine, prediction) An akizendri can anticipate the most likely location of a creature through their supernatural insight into the forces of chaotic probabilities and chance. This grants the akizendri the ability to sense creatures within the listed range. A creature under the effects of nondetection or that is otherwise shielded from divinations and predictions cannot be noticed via entropy sense.
@@ -33,9 +35,9 @@ cn, small, monitor, protean
 
 Speed 25 feet, fly 25 feet, swim 25 feet, freedom of movement
 
-**Melee** ◆ jaws +12 (chaotic, finesse, magical); **Damage** 2d8+3 piercing plus 1d4 chaotic and garbled thoughts plus garbled thoughts
+**Melee** ◆ jaws +12/+7/+2 (chaotic, finesse, magical); **Damage** 2d8+3 piercing plus 1d4 chaotic and garbled thoughts plus garbled thoughts
 
-**Melee** ◆ tail +12 (chaotic, finesse, magical); **Damage** 2d6+3 bludgeoning plus 1d4 chaotic and Grab plus Grab
+**Melee** ◆ tail +12/+7/+2 (chaotic, finesse, magical); **Damage** 2d6+3 bludgeoning plus 1d4 chaotic and Grab plus Grab
 
 **Innate divine Spells** (DC 20), attack +12
 

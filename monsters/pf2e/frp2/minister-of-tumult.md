@@ -11,6 +11,8 @@ le, medium, undead, vampire
 
 **Skills** Acrobatics +24, Athletics +29, Diplomacy +24, Intimidation +24, Society +20, Stealth +24, Martial Arts Lore +22
 
+**Recall Knowledge - Undead** (Religion): DC 32
+
 **STR** +7, **DEX** +4, **CON** +6, **INT** +4, **WIS** +8, **CHA** +4
 
 ---
@@ -33,7 +35,7 @@ le, medium, undead, vampire
 
 Speed 30 feet, rigor mortis
 
-**Melee** ◆ claw +29 (agile, finesse); **Damage** 3d10+13 piercing plus Grab
+**Melee** ◆ claw +29/+25/+21 (agile, finesse); **Damage** 3d10+13 piercing plus Grab
 
 **Monk Focus Spells** (DC 34)
 

@@ -11,6 +11,8 @@ uncommon, ne, huge, aberration
 
 **Skills** Athletics +37
 
+**Recall Knowledge - Aberration** (Occultism): DC 40
+
 **STR** +9, **DEX** +6, **CON** +8, **INT** -1, **WIS** +0, **CHA** +4
 
 **Smoke Vision** The deghuun ignores the concealed condition from smoke or smog, including from Sulfurous Plume.
@@ -35,9 +37,9 @@ uncommon, ne, huge, aberration
 
 Speed 40 feet, climb 40 feet
 
-**Melee** ◆ tentacle +35 (agile, reach 20 feet); **Damage** 3d10+17 bludgeoning plus Grab
+**Melee** ◆ tentacle +35/+31/+27 (agile, reach 20 feet); **Damage** 3d10+17 bludgeoning plus Grab
 
-**Ranged** ◆ lava ball +34 (brutal, range increment 60 feet); **Damage** 4d6+17 bludgeoning plus 3d6 fire
+**Ranged** ◆ lava ball +34/+29/+24 (brutal, range increment 60 feet); **Damage** 4d6+17 bludgeoning plus 3d6 fire
 
 **Innate divine Spells** (DC 38)
 

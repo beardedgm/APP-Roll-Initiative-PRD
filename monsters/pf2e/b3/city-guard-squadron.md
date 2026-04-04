@@ -11,6 +11,8 @@ ln, gargantuan, human, humanoid, troop
 
 **Skills** Athletics +14, Intimidation +11, Settlement Lore +9
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +5, **DEX** +0, **CON** +3, **INT** +0, **WIS** +2, **CHA** +2
 
 **Seek Quarry** City guards can spend 1 minute to designate a single creature for whom they have a physical description as their quarry. They gain a +2 circumstance bonus to Perception against their quarry.

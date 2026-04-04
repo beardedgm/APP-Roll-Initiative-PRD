@@ -11,6 +11,8 @@ rare, ng, gargantuan, beast
 
 **Skills** Acrobatics +27, Arcana +28, Athletics +32, Diplomacy +34, Medicine +35, Performance +28, Religion +35, Survival +32
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 43
+
 **STR** +8, **DEX** +3, **CON** +6, **INT** +3, **WIS** +6, **CHA** +5
 
 ---
@@ -31,13 +33,13 @@ rare, ng, gargantuan, beast
 
 Speed 40 feet, fly 90 feet
 
-**Melee** ◆ jaws +34 (magical, reach 20 feet); **Damage** 4d12+12 piercing
+**Melee** ◆ jaws +34/+29/+24 (magical, reach 20 feet); **Damage** 4d12+12 piercing
 
-**Melee** ◆ claw +34 (agile, magical, reach 15 feet); **Damage** 4d8+12 slashing
+**Melee** ◆ claw +34/+30/+26 (agile, magical, reach 15 feet); **Damage** 4d8+12 slashing
 
-**Melee** ◆ tail +34 (magical, reach 20 feet); **Damage** 4d8+10 slashing plus banishing swipe
+**Melee** ◆ tail +34/+29/+24 (magical, reach 20 feet); **Damage** 4d8+10 slashing plus banishing swipe
 
-**Ranged** ◆ glaring ray +34 (magical, range 100 feet); **Damage** 10d6 fire
+**Ranged** ◆ glaring ray +34/+29/+24 (magical, range 100 feet); **Damage** 10d6 fire
 
 **Innate divine Spells** (DC 42)
 

@@ -35,7 +35,7 @@ rare, ne, medium, siktempora, time
 
 Speed 80 feet, air walk
 
-**Melee** ◆ loathing garotte +35 (cold, reach <10 feet>); **Damage** 3d10+17 cold plus Improved Grab plus Improved Grab
+**Melee** ◆ loathing garotte +35/+30/+25 (cold, reach <10 feet>); **Damage** 3d10+17 cold plus Improved Grab plus Improved Grab
 
 **Innate occult Spells** (DC 40)
 

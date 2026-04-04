@@ -9,6 +9,8 @@ rare, n, gargantuan, beast
 
 **Skills** Acrobatics +36, Athletics +42
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 47
+
 **STR** +10, **DEX** +6, **CON** +10, **INT** -5, **WIS** +5, **CHA** -1
 
 ---
@@ -25,9 +27,9 @@ rare, n, gargantuan, beast
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ mandible +39 (magical, reach <20 feet>); **Damage** 4d12+20 piercing plus Improved Grab
+**Melee** ◆ mandible +39/+34/+29 (magical, reach <20 feet>); **Damage** 4d12+20 piercing plus Improved Grab
 
-**Melee** ◆ foot +37 (magical, reach <15 feet>); **Damage** 4d8+20 bludgeoning
+**Melee** ◆ foot +37/+32/+27 (magical, reach <15 feet>); **Damage** 4d8+20 bludgeoning
 
 **Constrict** ◆ 4d6+20 bludgeoning, DC 44
 

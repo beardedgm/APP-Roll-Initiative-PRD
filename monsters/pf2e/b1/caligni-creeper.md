@@ -11,6 +11,8 @@ cn, small, caligni, humanoid
 
 **Skills** Acrobatics +8, Athletics +4, Stealth +10, Thievery +8
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +0, **DEX** +4, **CON** +3, **INT** -1, **WIS** +2, **CHA** +1
 
 **Items** black smear poison (3 doses; see page 50), dagger
@@ -29,9 +31,9 @@ cn, small, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +10 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing plus black smear poison (see below) plus black smear poison (see below)
+**Melee** ◆ dagger +10/+6/+2 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing plus black smear poison (see below) plus black smear poison (see below)
 
-**Ranged** ◆ dagger +10 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing plus black smear poison (see below) plus black smear poison (see below)
+**Ranged** ◆ dagger +10/+6/+2 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing plus black smear poison (see below) plus black smear poison (see below)
 
 **Innate occult Spells** (DC 15)
 

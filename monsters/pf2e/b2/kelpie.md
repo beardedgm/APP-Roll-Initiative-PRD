@@ -11,6 +11,8 @@ ne, large, amphibious, fey
 
 **Skills** Athletics +11, Deception +14, Stealth +10
 
+**Recall Knowledge - Fey** (Nature): DC 19
+
 **STR** +5, **DEX** +2, **CON** +3, **INT** -1, **WIS** +3, **CHA** +4
 
 ---
@@ -27,7 +29,7 @@ ne, large, amphibious, fey
 
 Speed 35 feet, swim 35 feet
 
-**Melee** ◆ jaws +13; **Damage** 2d6+7 bludgeoning plus Grab plus Grab
+**Melee** ◆ jaws +13/+8/+3; **Damage** 2d6+7 bludgeoning plus Grab plus Grab
 
 **Captivating Lure** ◆◆ (concentrate, emotion, enchantment, incapacitation, mental, primal) The kelpie instills an overwhelming attraction to itself within the mind of a single creature within 60 feet. The target perceives the kelpie as a desirable person (if the kelpie is in humanoid form) or a valuable steed (if the kelpie is in equine form) and must attempt a DC 23 Will saving throw. **Critical Success** The creature is unaffected and is temporarily immune to Captivating Lure for 24 hours.
 **Success** The creature is stupefied 1 for 1 round and is then temporarily immune to Captivating Lure for 24 hours.

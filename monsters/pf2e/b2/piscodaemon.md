@@ -11,6 +11,8 @@ ne, medium, amphibious, daemon, fiend
 
 **Skills** Athletics +22, Intimidation +19, Medicine +17, Stealth +22, Survival +19
 
+**Recall Knowledge - Fiend** (Religion): DC 27
+
 **STR** +6, **DEX** +4, **CON** +6, **INT** +2, **WIS** +3, **CHA** +3
 
 ---
@@ -33,9 +35,9 @@ ne, medium, amphibious, daemon, fiend
 
 Speed 25 feet, swim 40 feet
 
-**Melee** ◆ claw +23 (evil, magical); **Damage** 2d10+12 slashing plus 1d6 evil and Grab plus Grab
+**Melee** ◆ claw +23/+18/+13 (evil, magical); **Damage** 2d10+12 slashing plus 1d6 evil and Grab plus Grab
 
-**Melee** ◆ tentacle +23 (agile, evil, magical); **Damage** 2d6+12 bludgeoning plus 1d6 evil and piscovenom plus piscovenom
+**Melee** ◆ tentacle +23/+19/+15 (agile, evil, magical); **Damage** 2d6+12 bludgeoning plus 1d6 evil and piscovenom plus piscovenom
 
 **Innate divine Spells** (DC 29)
 

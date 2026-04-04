@@ -11,6 +11,8 @@ rare, ce, large, aberration
 
 **Skills** Acrobatics +35, Athletics +37, Intimidation +38, Occultism +34
 
+**Recall Knowledge - Aberration** (Occultism): DC 43
+
 **STR** +9, **DEX** +6, **CON** +7, **INT** +4, **WIS** +6, **CHA** +8
 
 ---
@@ -36,7 +38,7 @@ rare, ce, large, aberration
 
 Speed 50 feet, air walk
 
-**Melee** ◆ fist +33 (agile, finesse, magical, reach <10 feet>); **Damage** 4d8+12 bludgeoning plus 1d6 negative
+**Melee** ◆ fist +33/+29/+25 (agile, finesse, magical, reach <10 feet>); **Damage** 4d8+12 bludgeoning plus 1d6 negative
 
 **Innate occult Spells** (DC 40), attack +35
 

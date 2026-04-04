@@ -11,6 +11,8 @@ unique, lg, large, air, fire, phantom, spirit
 
 **Skills** Acrobatics +35, Diplomacy +37, Nature +30, Stealth +35
 
+**Recall Knowledge - Spirit** (Religion): DC 48
+
 **STR** +7, **DEX** +9, **CON** +5, **INT** +5, **WIS** +6, **CHA** +9
 
 ---
@@ -33,9 +35,9 @@ unique, lg, large, air, fire, phantom, spirit
 
 Speed 60 feet
 
-**Melee** ◆ phantom hoof +35 (force, magical); **Damage** 4d10+15 force
+**Melee** ◆ phantom hoof +35/+30/+25 (force, magical); **Damage** 4d10+15 force
 
-**Melee** ◆ phantom horn +35 (agile, force, magical); **Damage** 4d8+15 force
+**Melee** ◆ phantom horn +35/+31/+27 (agile, force, magical); **Damage** 4d8+15 force
 
 **Innate divine Spells** (DC 41)
 

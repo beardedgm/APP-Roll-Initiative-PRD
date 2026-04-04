@@ -11,6 +11,8 @@ unique, cn, medium, elf, humanoid
 
 **Skills** Acrobatics +17, Arcana +18, Deception +22, Diplomacy +21, Intimidation +18, Occultism +16, Society +20, Stealth +19, Thievery +22, Kintargo Lore +16
 
+**Recall Knowledge - Humanoid** (Society): DC 37
+
 **STR** +0, **DEX** +5, **CON** +1, **INT** +4, **WIS** +3, **CHA** +4
 
 **Items** +1 hand crossbow (20 bolts), +1 leather armor, +1 striking rapier, infiltrator thieves' tools
@@ -31,9 +33,9 @@ unique, cn, medium, elf, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ rapier +22 (deadly <1d8>, disarm, magical, finesse); **Damage** 2d6+11 piercing
+**Melee** ◆ rapier +22/+17/+12 (deadly <1d8>, disarm, magical, finesse); **Damage** 2d6+11 piercing
 
-**Ranged** ◆ hand crossbow +22 (magical); **Damage** 1d6+6 piercing
+**Ranged** ◆ hand crossbow +22/+17/+12 (magical); **Damage** 1d6+6 piercing
 
 **Spontaneous occult Spells** (DC 29), attack +23
 

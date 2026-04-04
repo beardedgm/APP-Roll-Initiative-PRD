@@ -11,6 +11,8 @@ unique, lg, medium, human, humanoid
 
 **Skills** Acrobatics +16, Athletics +17, Society +13, Stealth +16
 
+**Recall Knowledge - Humanoid** (Society): DC 33
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** +0, **WIS** +3, **CHA** +1
 
 **Items** Foreign Guard uniform, handcuffs (2; Pathfinder Adventure Path #157 77), victor's medallion from the Challenge of Sky and Heaven
@@ -29,9 +31,9 @@ unique, lg, medium, human, humanoid
 
 Speed 35 feet
 
-**Melee** ◆ skyward slash +17 (nonlethal, unarmed, versatile <P>); **Damage** 2d10+4 slashing
+**Melee** ◆ skyward slash +17/+12/+7 (nonlethal, unarmed, versatile <P>); **Damage** 2d10+4 slashing
 
-**Melee** ◆ fist +17 (agile, finesse, nonlethal, unarmed); **Damage** 2d6+4 bludgeoning
+**Melee** ◆ fist +17/+13/+9 (agile, finesse, nonlethal, unarmed); **Damage** 2d6+4 bludgeoning
 
 **Flurry of Blows** ◆ (flourish) Shristi makes two unarmed Strikes. If both hit the same creature, combine their damage for the purposes of resistances and weaknesses. He applies his multiple attack penalty to the Strikes normally. As it has the flourish trait, Shristi can use Flurry of Blows only once per turn.
 

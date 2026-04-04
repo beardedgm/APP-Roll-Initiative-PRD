@@ -11,6 +11,8 @@ rare, ne, medium, elf, humanoid, mortic
 
 **Skills** Acrobatics +8, Athletics +7, Intimidation +5, Medicine +5, Stealth +8, Survival +5
 
+**Recall Knowledge - Humanoid** (Society): DC 21
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** +2, **WIS** +1, **CHA** +1
 
 **Items** composite shortbow (20 arrows), elven curve blade
@@ -31,11 +33,11 @@ rare, ne, medium, elf, humanoid, mortic
 
 Speed 30 feet
 
-**Melee** ◆ jaws +10 (finesse); **Damage** 1d6+5 piercing plus paralysis plus paralysis
+**Melee** ◆ jaws +10/+5/+0 (finesse); **Damage** 1d6+5 piercing plus paralysis plus paralysis
 
-**Melee** ◆ elven curve blade +10 (finesse, forceful); **Damage** 1d8+5 slashing
+**Melee** ◆ elven curve blade +10/+5/+0 (finesse, forceful); **Damage** 1d8+5 slashing
 
-**Ranged** ◆ composite shortbow +10 (deadly <d10>, propulsive, range increment <60 feet>); **Damage** 1d6+3 piercing
+**Ranged** ◆ composite shortbow +10/+5/+0 (deadly <d10>, propulsive, range increment <60 feet>); **Damage** 1d6+3 piercing
 
 **Death Gasp** ◆ (divine, necromancy) The angheuvore draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The angheuvore gains the undead trait and becomes immune to bleed, death effects, disease, paralyzed, poison, and sleep. Any such effects the angheuvore is currently suffering from are suspended, but take effect again once they take a breath.
 

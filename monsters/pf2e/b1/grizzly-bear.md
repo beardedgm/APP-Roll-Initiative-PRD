@@ -9,6 +9,8 @@ n, large, animal
 
 **Skills** Athletics +11, Survival +8
 
+**Recall Knowledge - Animal** (Nature): DC 18
+
 **STR** +4, **DEX** +1, **CON** +5, **INT** -4, **WIS** +1, **CHA** -2
 
 ---
@@ -23,9 +25,9 @@ n, large, animal
 
 Speed 35 feet
 
-**Melee** ◆ jaws +11; **Damage** 2d8+4 piercing
+**Melee** ◆ jaws +11/+6/+1; **Damage** 2d8+4 piercing
 
-**Melee** ◆ claw +11 (agile); **Damage** 1d10+4 slashing plus Grab plus Grab
+**Melee** ◆ claw +11/+7/+3 (agile); **Damage** 1d10+4 slashing plus Grab plus Grab
 
 **Mauler** The grizzly bear gains a +2 circumstance bonus to damage rolls against creatures it has grabbed.
 

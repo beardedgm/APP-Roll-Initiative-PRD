@@ -11,6 +11,8 @@ le, medium, div, fiend
 
 **Skills** Arcana +9, Athletics +8, Deception +12, Intimidation +12, Religion +10, Stealth +10
 
+**Recall Knowledge - Fiend** (Religion): DC 19
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** +1, **WIS** +2, **CHA** +4
 
 ---
@@ -31,7 +33,7 @@ le, medium, div, fiend
 
 Speed 25 feet
 
-**Melee** ◆ claw +14 (agile, evil, finesse, magical); **Damage** 1d6+5 slashing plus 1d6 evil
+**Melee** ◆ claw +14/+10/+6 (agile, evil, finesse, magical); **Damage** 1d6+5 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 21)
 

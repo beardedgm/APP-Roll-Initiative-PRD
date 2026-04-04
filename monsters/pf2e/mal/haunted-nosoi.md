@@ -9,6 +9,8 @@ unique, n, tiny, monitor, psychopomp, undead
 
 **Skills** Acrobatics +8
 
+**Recall Knowledge - Monitor** (Religion): DC 26
+
 **STR** -1, **DEX** +3, **CON** +1, **INT** -3, **WIS** +2, **CHA** +3
 
 **Lifesense** (divination, divine) A psychopomp senses the vital essence of living and undead creatures within the listed range.
@@ -35,4 +37,4 @@ unique, n, tiny, monitor, psychopomp, undead
 
 Speed 15 feet, fly 40 feet
 
-**Melee** ◆ beak +8 (finesse, magical); **Damage** 1d4+1 piercing
+**Melee** ◆ beak +8/+3/-2 (finesse, magical); **Damage** 1d4+1 piercing

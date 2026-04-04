@@ -11,6 +11,8 @@ unique, ln, medium, human, humanoid
 
 **Skills** Acrobatics +37, Arcana +36, Deception +36, Diplomacy +38, Intimidation +36, Occultism +38, Performance +36, Religion +32, Society +38, Stealth +35, Thievery +35, Goka Lore +38, Legal Lore +38, Underworld Lore +36
 
+**Recall Knowledge - Humanoid** (Society): DC 50
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +7, **WIS** +3, **CHA** +5
 
 **Items** +3 major striking butterfly sword, greater hat of disguise, +2 greater resilient aristocrat's clothing
@@ -27,7 +29,7 @@ unique, ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ butterfly sword +35 (agile, disarm, finesse, magical, parry, twin); **Damage** 4d4+13 slashing
+**Melee** ◆ butterfly sword +35/+31/+27 (agile, disarm, finesse, magical, parry, twin); **Damage** 4d4+13 slashing
 
 **Debilitating Strike** ◇ **Trigger** Nai Yan Fei hits a flat-footed creature and deals damage; Nai Yan Fei applies one of the following debilitations, which lasts until the end of her next turn. - Debilitation The target takes a –10-foot status penalty to its Speeds.
 - Debilitation The target becomes enfeebled|CRB|enfeebled 1.

@@ -11,6 +11,8 @@ n, huge, air, elemental
 
 **Skills** Acrobatics +22, Performance +22, Stealth +22
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 27
+
 **STR** +4, **DEX** +6, **CON** +2, **INT** +2, **WIS** +5, **CHA** +6
 
 ---
@@ -31,9 +33,9 @@ n, huge, air, elemental
 
 Speed fly 100 feet, swiftness
 
-**Melee** ◆ wind gust +23 (agile, finesse); **Damage** 2d10+10 bludgeoning plus Push plus Push
+**Melee** ◆ wind gust +23/+19/+15 (agile, finesse); **Damage** 2d10+10 bludgeoning plus Push plus Push
 
-**Ranged** ◆ solid refrain +23 (range increment <70 feet>); **Damage** 2d8+10 sonic
+**Ranged** ◆ solid refrain +23/+18/+13 (range increment <70 feet>); **Damage** 2d8+10 sonic
 
 **Mesmerizing Melody** ◆ (auditory, concentrate, enchantment, mental, primal) The melody on the wind sings in a sonorous chorus. Any creature in a 30-foot emanation must attempt a DC 30 Will save to resist becoming fascinated by the melody on the wind. A creature that succeeds at its save is temporarily immune for 24 hours. **Critical Success** The creature is unaffected.
 **Success** The creature is fascinated for 1 round.

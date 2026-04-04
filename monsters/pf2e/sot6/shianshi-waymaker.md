@@ -11,6 +11,8 @@ unique, le, large, humanoid, negative
 
 **Skills** Arcana +35, Athletics +34, Intimidation +32, Occultism +31, Stealth +38, Survival +31
 
+**Recall Knowledge - Humanoid** (Society): DC 48
+
 **STR** +8, **DEX** +8, **CON** +3, **INT** +9, **WIS** +5, **CHA** +4
 
 **Items** +3 greater striking orichalcum greatsword
@@ -31,9 +33,9 @@ unique, le, large, humanoid, negative
 
 Speed 50 feet
 
-**Melee** ◆ greatsword +36 (death, magical, versatile <P>); **Damage** 3d12+14 slashing plus huntblade brutality
+**Melee** ◆ greatsword +36/+31/+26 (death, magical, versatile <P>); **Damage** 3d12+14 slashing plus huntblade brutality
 
-**Melee** ◆ shadow whip +36 (agile, death, disarm, finesse, magical, reach <10 feet>, trip); **Damage** 3d4+14 bludgeoning plus Improved Grab
+**Melee** ◆ shadow whip +36/+32/+28 (agile, death, disarm, finesse, magical, reach <10 feet>, trip); **Damage** 3d4+14 bludgeoning plus Improved Grab
 
 **Prepared arcane Spells** (DC 40), attack +32
 

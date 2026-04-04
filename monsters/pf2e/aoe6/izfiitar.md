@@ -11,6 +11,8 @@ uncommon, cn, medium, monitor, protean
 
 **Skills** Acrobatics +38, Arcana +35, Athletics +35, Deception +37, Diplomacy +37, Occultism +36, Religion +38, Society +35, Stealth +38, Maelstrom Lore +37
 
+**Recall Knowledge - Monitor** (Religion): DC 42
+
 **STR** +9, **DEX** +10, **CON** +9, **INT** +7, **WIS** +8, **CHA** +9
 
 **Entropy Sense** (divination, divine, prediction) A hegessik can anticipate the most likely location of a creature through their supernatural insight into the forces of chaotic probabilities and chance. This grants the hegessik the ability to sense creatures within the listed range. The hegessik's entropy sense doesn't detect creatures under the effects of nondetection or that are otherwise shielded from divinations and predictions.
@@ -37,11 +39,11 @@ uncommon, cn, medium, monitor, protean
 
 Speed 40 feet, fly 50 feet, swim 40 feet, freedom of movement
 
-**Melee** ◆ jaws +38 (chaotic, finesse, magical); **Damage** 4d8+17 piercing plus 2d6 chaotic and greater warpwave strike plus greater warpwave strike
+**Melee** ◆ jaws +38/+33/+28 (chaotic, finesse, magical); **Damage** 4d8+17 piercing plus 2d6 chaotic and greater warpwave strike plus greater warpwave strike
 
-**Melee** ◆ claw +38 (agile, chaotic, finesse, magical); **Damage** 4d6+17 slashing plus 2d6 chaotic and greater warpwave strike plus greater warpwave strike
+**Melee** ◆ claw +38/+34/+30 (agile, chaotic, finesse, magical); **Damage** 4d6+17 slashing plus 2d6 chaotic and greater warpwave strike plus greater warpwave strike
 
-**Melee** ◆ tail +38 (chaotic, magical, reach <10 feet>); **Damage** 4d10+17 bludgeoning plus 2d6 chaotic and Improved Grab plus Improved Grab
+**Melee** ◆ tail +38/+33/+28 (chaotic, magical, reach <10 feet>); **Damage** 4d10+17 bludgeoning plus 2d6 chaotic and Improved Grab plus Improved Grab
 
 **Innate divine Spells** (DC 47)
 

@@ -11,6 +11,8 @@ le, large, amphibious, devil, fiend
 
 **Skills** Arcana +14, Athletics +18, Deception +15, Diplomacy +15, Intimidation +17, Stealth +15
 
+**Recall Knowledge - Fiend** (Religion): DC 24
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** +2, **WIS** +4, **CHA** +3
 
 ---
@@ -37,9 +39,9 @@ le, large, amphibious, devil, fiend
 
 Speed 25 feet, fly 25 feet, swim 30 feet
 
-**Melee** ◆ fangs +20 (evil, magical); **Damage** 2d12+9 piercing plus 1d6 evil
+**Melee** ◆ fangs +20/+15/+10 (evil, magical); **Damage** 2d12+9 piercing plus 1d6 evil
 
-**Melee** ◆ tentacle arm +20 (agile, evil, magical); **Damage** 2d8+9 bludgeoning plus 1d6 evil and sarglagon venom plus sarglagon venom
+**Melee** ◆ tentacle arm +20/+16/+12 (agile, evil, magical); **Damage** 2d8+9 bludgeoning plus 1d6 evil and sarglagon venom plus sarglagon venom
 
 **Innate divine Spells** (DC 23), attack +18
 

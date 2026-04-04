@@ -11,6 +11,8 @@ ng, tiny, agathion, celestial
 
 **Skills** Acrobatics +7, Arcana +3, Medicine +6, Nirvana Lore +3, Stealth +7
 
+**Recall Knowledge - Celestial** (Religion): DC 15
+
 **STR** -2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +3, **CHA** +2
 
 **Cat's Curiosity** A silvanshee's core value is curiosity. This enables them to seek out new experiences and information beyond their current understanding. A silvanshee can use trained skill actions for all skills, even if they're untrained.
@@ -27,9 +29,9 @@ ng, tiny, agathion, celestial
 
 Speed 25 feet, fly 40 feet
 
-**Melee** ◆ jaws +9 (finesse, good, magical); **Damage** 1d6 –2 piercing plus 1d4 good
+**Melee** ◆ jaws +9/+4/-1 (finesse, good, magical); **Damage** 1d6 –2 piercing plus 1d4 good
 
-**Melee** ◆ claw +9 (agile, finesse, good, magical); **Damage** 1d4 –2 slashing plus 1d4 good
+**Melee** ◆ claw +9/+5/+1 (agile, finesse, good, magical); **Damage** 1d4 –2 slashing plus 1d4 good
 
 **Innate divine Spells** (DC 16)
 

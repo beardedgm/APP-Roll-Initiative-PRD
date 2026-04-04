@@ -11,6 +11,8 @@ ne, medium, human, humanoid
 
 **Skills** Acrobatics +8, Deception +11, Diplomacy +9, Occultism +7, Society +7, Stealth +8, Thievery +8, Underworld Lore +9
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +0, **DEX** +3, **CON** +0, **INT** +2, **WIS** +1, **CHA** +4
 
 **Items** disguise kit, lute, sap, shortsword, thieves' tools
@@ -29,9 +31,9 @@ ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +10 (agile, versatile <S>); **Damage** 1d6+2 piercing
+**Melee** ◆ shortsword +10/+6/+2 (agile, versatile <S>); **Damage** 1d6+2 piercing
 
-**Melee** ◆ sap +7 (agile, nonlethal); **Damage** 1d6+2 bludgeoning
+**Melee** ◆ sap +7/+3/-1 (agile, nonlethal); **Damage** 1d6+2 bludgeoning
 
 **Spontaneous occult Spells** (DC 20), attack +10
 

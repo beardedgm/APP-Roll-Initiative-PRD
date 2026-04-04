@@ -11,6 +11,8 @@ n, tiny, earth, elemental
 
 **Skills** Athletics +6, Dungeon Lore +4, Plane Of Earth Lore +4
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 14
+
 **STR** +2, **DEX** +1, **CON** +3, **INT** +0, **WIS** +2, **CHA** +0
 
 ---
@@ -33,6 +35,6 @@ n, tiny, earth, elemental
 
 Speed 20 feet, burrow 20 feet
 
-**Melee** ◆ tendril +6 (reach <10 feet>); **Damage** 1d4+2 bludgeoning
+**Melee** ◆ tendril +6/+1/-4 (reach <10 feet>); **Damage** 1d4+2 bludgeoning
 
 **In Concert** When an earth wisp rolls a critical failure on a check to Aid, they get a failure instead, and when they roll a success, they get a critical success instead.

@@ -11,6 +11,8 @@ uncommon, ne, medium, dwarf, humanoid
 
 **Skills** Athletics +17, Crafting +12, Intimidation +15, Stealth +12, Society +15
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +4, **DEX** +4, **CON** +2, **INT** +2, **WIS** +0, **CHA** +0
 
 **Items** breastplate, club, dwarven scattergun (Guns & Gears 153)
@@ -29,11 +31,11 @@ uncommon, ne, medium, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ club +15; **Damage** 1d6+6 bludgeoning
+**Melee** ◆ club +15/+10/+5; **Damage** 1d6+6 bludgeoning
 
-**Ranged** ◆ club +15 (thrown <10 feet>); **Damage** 1d6+6 bludgeoning
+**Ranged** ◆ club +15/+10/+5 (thrown <10 feet>); **Damage** 1d6+6 bludgeoning
 
-**Ranged** ◆ dwarven scattergun +15 (concussive, dwarf, kickback, scatter <10 feet>, range increment <50 feet>, reload <2>); **Damage** 1d8 piercing
+**Ranged** ◆ dwarven scattergun +15/+10/+5 (concussive, dwarf, kickback, scatter <10 feet>, range increment <50 feet>, reload <2>); **Damage** 1d8 piercing
 
 **Bully Effect** The Leadsmith's melee and ranged Strikes deal an additional 2d6 bludgeoning damage to creatures that were Shoved within the past round.
 

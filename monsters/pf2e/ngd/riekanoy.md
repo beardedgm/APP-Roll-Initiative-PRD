@@ -11,6 +11,8 @@ rare, ne, medium, amphibious, fey, water
 
 **Skills** Acrobatics +35, Athletics +31, Deception +35, Nature +33, Performance +37, Stealth +35, Survival +33
 
+**Recall Knowledge - Fey** (Nature): DC 44
+
 **STR** +6, **DEX** +10, **CON** +2, **INT** +3, **WIS** +6, **CHA** +10
 
 **Sinuous Initiative** A riekanoy's swaying motions propel it into the fray with grace. While a riekanoy can act and isn't immobilized, it can roll Performance for initiative.
@@ -31,7 +33,7 @@ rare, ne, medium, amphibious, fey, water
 
 Speed 25 feet, swim 50 feet, water walk
 
-**Melee** ◆ hair +24 (agile, finesse, reach <15 feet>); **Damage** 4d10+12 bludgeoning plus Improved Grab
+**Melee** ◆ hair +24/+20/+16 (agile, finesse, reach <15 feet>); **Damage** 4d10+12 bludgeoning plus Improved Grab
 
 **Innate primal Spells** (DC 41), attack +33
 

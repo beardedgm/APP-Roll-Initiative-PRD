@@ -11,6 +11,8 @@ ne, medium, daemon, fiend
 
 **Skills** Arcana +22, Deception +26, Intimidation +26, Religion +22, Styx Lore +24
 
+**Recall Knowledge - Fiend** (Religion): DC 31
+
 **STR** +6, **DEX** +6, **CON** +4, **INT** +3, **WIS** +5, **CHA** +7
 
 **Items** +1 striking bo staff, soul gem (2)
@@ -33,9 +35,9 @@ ne, medium, daemon, fiend
 
 Speed 25 feet, air walk
 
-**Melee** ◆ bo staff +28 (evil, magical, parry, reach <10 feet>, trip); **Damage** 3d8+14 bludgeoning plus 1d6 negative, 1d6 evil, and draining strike plus draining strike
+**Melee** ◆ bo staff +28/+23/+18 (evil, magical, parry, reach <10 feet>, trip); **Damage** 3d8+14 bludgeoning plus 1d6 negative, 1d6 evil, and draining strike plus draining strike
 
-**Melee** ◆ claw +27 (agile, evil, finesse, magical); **Damage** 3d6+14 slashing plus 1d6 evil and draining strike plus draining strike
+**Melee** ◆ claw +27/+23/+19 (agile, evil, finesse, magical); **Damage** 3d6+14 slashing plus 1d6 evil and draining strike plus draining strike
 
 **Innate divine Spells** (DC 34)
 

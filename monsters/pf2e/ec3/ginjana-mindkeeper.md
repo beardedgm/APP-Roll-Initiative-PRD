@@ -11,6 +11,8 @@ unique, ce, small, dero, humanoid
 
 **Skills** Acrobatics +24, Athletics +20, Intimidation +19, Medicine +20, Stealth +26, Thievery +24, Anatomy Lore +24
 
+**Recall Knowledge - Humanoid** (Society): DC 38
+
 **STR** +3, **DEX** +7, **CON** +3, **INT** +5, **WIS** +3, **CHA** +2
 
 **Items** expanded healer's tools, +2 striking heavy crossbow (18 bolts and 2 bolts coated with shadow essence), +2 resilient leather armor, +1 striking shortsword
@@ -37,9 +39,9 @@ unique, ce, small, dero, humanoid
 
 Speed 20 feet, light step, mobility
 
-**Melee** ◆ shortsword +24 (agile, finesse, magical, versatile <S>); **Damage** 2d6+13 piercing
+**Melee** ◆ shortsword +24/+20/+16 (agile, finesse, magical, versatile <S>); **Damage** 2d6+13 piercing
 
-**Ranged** ◆ heavy crossbow +25 (magical, range increment <120 feet>, reload <2>); **Damage** 2d10+13 piercing plus shadow essence plus shadow essence
+**Ranged** ◆ heavy crossbow +25/+20/+15 (magical, range increment <120 feet>, reload <2>); **Damage** 2d10+13 piercing plus shadow essence plus shadow essence
 
 **Innate divine Spells** (DC 30), attack +24
 

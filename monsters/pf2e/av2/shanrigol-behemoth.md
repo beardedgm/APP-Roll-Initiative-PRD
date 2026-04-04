@@ -9,6 +9,8 @@ uncommon, n, gargantuan, aberration, undead
 
 **Skills** Athletics +20, Stealth +16
 
+**Recall Knowledge - Aberration** (Occultism, Religion): DC 28
+
 **STR** +7, **DEX** +4, **CON** +3, **INT** -4, **WIS** +3, **CHA** -5
 
 ---
@@ -31,11 +33,11 @@ uncommon, n, gargantuan, aberration, undead
 
 Speed 30 feet, swim 20 feet, climb 20 feet
 
-**Melee** ◆ fleshy slap +21 (forceful, reach <15 feet>); **Damage** 2d10+11 bludgeoning plus Grab plus Grab
+**Melee** ◆ fleshy slap +21/+16/+11 (forceful, reach <15 feet>); **Damage** 2d10+11 bludgeoning plus Grab plus Grab
 
-**Ranged** ◆ bone shard +18 (agile, range increment <30 feet>, versatile <P>); **Damage** 1d12+11 bludgeoning
+**Ranged** ◆ bone shard +18/+14/+10 (agile, range increment <30 feet>, versatile <P>); **Damage** 1d12+11 bludgeoning
 
-**Ranged** ◆ web +18 (range increment <30 feet>); plus web trap
+**Ranged** ◆ web +18/+13/+8 (range increment <30 feet>); plus web trap
 
 **Sapping Squeeze** ◆ **Requirements** The shanrigol has a creature grabbed; As shanrigol heap, but 1d10+11 bludgeoning and 1d6 persistent bleed, DC 25.
 

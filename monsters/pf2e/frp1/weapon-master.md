@@ -11,6 +11,8 @@ uncommon, n, medium, human, humanoid
 
 **Skills** Acrobatics +23, Athletics +26, Intimidation +22, Survival +24, Warfare Lore +23
 
+**Recall Knowledge - Humanoid** (Society): DC 33
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** +2, **WIS** +3, **CHA** +1
 
 **Items** +2 greater striking katana, +1 striking sling, +1 resilient studded leather
@@ -29,9 +31,9 @@ uncommon, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ katana +28 (deadly <d8>, magical, two-hand <d10>, versatile <P>); **Damage** 3d6+11 slashing
+**Melee** ◆ katana +28/+23/+18 (deadly <d8>, magical, two-hand <d10>, versatile <P>); **Damage** 3d6+11 slashing
 
-**Ranged** ◆ sling +22 (magical, propulsive, range increment <50 feet>, reload <1>); **Damage** 2d6+11 bludgeoning
+**Ranged** ◆ sling +22/+17/+12 (magical, propulsive, range increment <50 feet>, reload <1>); **Damage** 2d6+11 bludgeoning
 
 **Dueling Expertise** The weapon master deals an extra 2d10 damage to creatures that are not adjacent to any allies or other foes.
 

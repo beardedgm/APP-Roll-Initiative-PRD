@@ -9,6 +9,8 @@ uncommon, ne, huge, incorporeal, spirit, undead
 
 **Skills** Acrobatics +28, Driving Lore +25, Intimidation +25, Society +21, Survival +22
 
+**Recall Knowledge - Spirit** (Religion): DC 34
+
 **STR** -5, **DEX** +8, **CON** +2, **INT** +3, **WIS** +4, **CHA** +5
 
 ---
@@ -31,7 +33,7 @@ uncommon, ne, huge, incorporeal, spirit, undead
 
 Speed 60 feet, fly 60 feet, soulbound gallop
 
-**Melee** ◆ incorporeal wheel +30 (agile, magical); **Damage** 3d12+8 negative
+**Melee** ◆ incorporeal wheel +30/+26/+22 (agile, magical); **Damage** 3d12+8 negative
 
 **Innate divine Spells** (DC 34)
 

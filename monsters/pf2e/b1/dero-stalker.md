@@ -11,6 +11,8 @@ ce, small, dero, humanoid
 
 **Skills** Acrobatics +8, Medicine +3, Stealth +8, Thievery +8
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +2, **DEX** +4, **CON** +3, **INT** +0, **WIS** -1, **CHA** +1
 
 **Items** aklys, giant centipede venom (4 doses), hand crossbow (20 bolts
@@ -33,11 +35,11 @@ ce, small, dero, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ aklys +8 (trip); **Damage** 1d6+2 bludgeoning
+**Melee** ◆ aklys +8/+3/-2 (trip); **Damage** 1d6+2 bludgeoning
 
-**Ranged** ◆ aklys +10 (ranged trip, tethered, thrown <20 feet>; page 85); **Damage** 1d6+2 bludgeoning
+**Ranged** ◆ aklys +10/+5/+0 (ranged trip, tethered, thrown <20 feet>; page 85); **Damage** 1d6+2 bludgeoning
 
-**Ranged** ◆ hand crossbow +10 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing plus giant centipede venom plus giant centipede venom
+**Ranged** ◆ hand crossbow +10/+5/+0 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing plus giant centipede venom plus giant centipede venom
 
 **Innate occult Spells** (DC 17)
 

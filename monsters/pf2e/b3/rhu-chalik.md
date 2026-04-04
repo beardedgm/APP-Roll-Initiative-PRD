@@ -11,6 +11,8 @@ uncommon, ce, small, aberration
 
 **Skills** Athletics +13, Deception +13, Diplomacy +13, Intimidation +13, Stealth +15
 
+**Recall Knowledge - Aberration** (Occultism): DC 24
+
 **STR** +3, **DEX** +3, **CON** +4, **INT** +2, **WIS** +5, **CHA** +3
 
 ---
@@ -27,7 +29,7 @@ uncommon, ce, small, aberration
 
 Speed 5 feet, fly 35 feet
 
-**Melee** ◆ tendril +15 (agile); **Damage** 2d4+6 bludgeoning plus 1d6 mental and excruciating enzyme plus excruciating enzyme
+**Melee** ◆ tendril +15/+11/+7 (agile); **Damage** 2d4+6 bludgeoning plus 1d6 mental and excruciating enzyme plus excruciating enzyme
 
 **Innate occult Spells** (DC 23)
 

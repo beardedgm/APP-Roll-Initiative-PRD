@@ -11,6 +11,8 @@ unique, cn, medium, drow, elf, humanoid
 
 **Skills** Acrobatics +22, Athletics +20, Deception +22, Diplomacy +20, Intimidation +22, Stealth +20, Survival +19
 
+**Recall Knowledge - Humanoid** (Society): DC 38
+
 **STR** +3, **DEX** +5, **CON** +0, **INT** +1, **WIS** +2, **CHA** +5
 
 **Diplomacy** +20, Intimidation +22, Stealth +20
@@ -41,9 +43,9 @@ unique, cn, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ kukri +24 (agile, finesse, trip); **Damage** 2d6+9 slashing
+**Melee** ◆ kukri +24/+20/+16 (agile, finesse, trip); **Damage** 2d6+9 slashing
 
-**Ranged** ◆ repeating hand crossbow +24 (range increment <60 feet>, reload <0>, repeating); **Damage** 2d6+9 piercing plus stupor poison plus stupor poison
+**Ranged** ◆ repeating hand crossbow +24/+19/+14 (range increment <60 feet>, reload <0>, repeating); **Damage** 2d6+9 piercing plus stupor poison plus stupor poison
 
 **Innate divine Spells** (DC 28)
 

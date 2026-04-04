@@ -11,6 +11,8 @@ uncommon, le, large, aberration
 
 **Skills** Acrobatics +17, Arcana +16, Athletics +13, Deception +16, Intimidation +16, Stealth +19
 
+**Recall Knowledge - Aberration** (Occultism): DC 25
+
 **STR** +2, **DEX** +6, **CON** +4, **INT** +3, **WIS** +2, **CHA** +3
 
 ---
@@ -27,7 +29,7 @@ uncommon, le, large, aberration
 
 Speed 30 feet
 
-**Melee** ◆ fangs +19 (agile, finesse); **Damage** 2d8+5 piercing plus dark naga venom plus dark naga venom
+**Melee** ◆ fangs +19/+15/+11 (agile, finesse); **Damage** 2d8+5 piercing plus dark naga venom plus dark naga venom
 
 **Spontaneous arcane Spells** (DC 26), attack +18
 

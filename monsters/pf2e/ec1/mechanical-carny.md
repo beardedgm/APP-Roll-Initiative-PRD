@@ -11,6 +11,8 @@ n, medium, construct, mindless
 
 **Skills** Acrobatics +7, Athletics +9, Performance +6
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 16
+
 **STR** +3, **DEX** +1, **CON** +0, **INT** -5, **WIS** +0, **CHA** +2
 
 ---
@@ -33,6 +35,6 @@ n, medium, construct, mindless
 
 Speed 25 feet
 
-**Melee** ◆ spring-loaded fist +11 (nonlethal, reach <10 feet>); **Damage** 2d4+4 bludgeoning
+**Melee** ◆ spring-loaded fist +11/+6/+1 (nonlethal, reach <10 feet>); **Damage** 2d4+4 bludgeoning
 
-**Melee** ◆ headbutt +11; **Damage** 2d4+4 bludgeoning
+**Melee** ◆ headbutt +11/+6/+1; **Damage** 2d4+4 bludgeoning

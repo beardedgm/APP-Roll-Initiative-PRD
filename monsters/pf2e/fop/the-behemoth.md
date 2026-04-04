@@ -11,6 +11,8 @@ unique, n, large, construct
 
 **Skills** Athletics +12, Intimidation +7
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 28
+
 **STR** +5, **DEX** +1, **CON** +4, **INT** +0, **WIS** +0, **CHA** -2
 
 **Empathy Link** (arcane, divination, mental) The behemoth can't speak, but its mind is linked to its creator. It can share basic emotional information with its creator, such as fear, happiness, or anger. If the behemoth is destroyed, its master automatically knows this. The range of this link is 1,500 feet.
@@ -29,7 +31,7 @@ unique, n, large, construct
 
 Speed 20 feet
 
-**Melee** ◆ fist +12 (reach <10 feet>); **Damage** 2d6+5 bludgeoning
+**Melee** ◆ fist +12/+7/+2 (reach <10 feet>); **Damage** 2d6+5 bludgeoning
 
 **Attack of Opportunity** ◈
 

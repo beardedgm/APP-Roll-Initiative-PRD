@@ -9,6 +9,8 @@ rare, large, animal
 
 **Skills** Athletics +21, Stealth +18, Survival +19
 
+**Recall Knowledge - Animal** (Nature): DC 32
+
 **STR** +7, **DEX** +4, **CON** +6, **INT** -4, **WIS** +3, **CHA** -2
 
 **Bloodsense** An aoyin can detect exposed blood as a precise sense at the listed range, including from creatures taking persistent bleed damage.
@@ -27,9 +29,9 @@ rare, large, animal
 
 Speed 40 feet, mountain stride
 
-**Melee** ◆ horn +21 (deadly <d12>, reach <10 feet>); **Damage** 2d12+7 piercing plus 2d6 persistent bleed
+**Melee** ◆ horn +21/+16/+11 (deadly <d12>, reach <10 feet>); **Damage** 2d12+7 piercing plus 2d6 persistent bleed
 
-**Melee** ◆ hoof +21 (agile, reach <10 feet>); **Damage** 2d8+7 bludgeoning
+**Melee** ◆ hoof +21/+17/+13 (agile, reach <10 feet>); **Damage** 2d8+7 bludgeoning
 
 **Horn Toss** ◆◆ The aoyin Strides and makes a horn Strike. If the Strike hits, the target is flung 20 feet in a direction of the aoyin's choice.
 

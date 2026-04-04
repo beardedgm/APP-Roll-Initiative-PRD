@@ -11,6 +11,8 @@ uncommon, cn, small, fey
 
 **Skills** Acrobatics +11, Crafting +11, Deception +13, Performance +13, Stealth +11
 
+**Recall Knowledge - Fey** (Nature): DC 21
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** +1, **WIS** +2, **CHA** +5
 
 **Items** club, pouch with 5 rocks
@@ -31,11 +33,11 @@ uncommon, cn, small, fey
 
 Speed 25 feet
 
-**Melee** ◆ club +14; **Damage** 2d6+7 bludgeoning
+**Melee** ◆ club +14/+9/+4; **Damage** 2d6+7 bludgeoning
 
-**Ranged** ◆ rock +14 (brutal, range increment <20 feet>); **Damage** 1d6+7 bludgeoning
+**Ranged** ◆ rock +14/+9/+4 (brutal, range increment <20 feet>); **Damage** 1d6+7 bludgeoning
 
-**Ranged** ◆ club +14 (thrown <10 feet>); **Damage** 2d6+7 bludgeoning
+**Ranged** ◆ club +14/+9/+4 (thrown <10 feet>); **Damage** 2d6+7 bludgeoning
 
 **Innate primal Spells** (DC 21)
 

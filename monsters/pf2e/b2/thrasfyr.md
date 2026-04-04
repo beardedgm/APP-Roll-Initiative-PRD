@@ -11,6 +11,8 @@ rare, ce, huge, beast, fire, tane
 
 **Skills** Athletics +34, Intimidation +31
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 41
+
 **STR** +9, **DEX** +5, **CON** +9, **INT** -3, **WIS** +6, **CHA** +6
 
 **Planar Acclimation** The thrasfyr always treats the plane it is located on as its home plane.
@@ -31,4 +33,4 @@ rare, ce, huge, beast, fire, tane
 
 Speed 40 feet, climb 40 feet, air walk
 
-**Melee** ◆ chain +34 (magical, reach <15 feet>); **Damage** 3d10+17 bludgeoning plus Improved plus Improved
+**Melee** ◆ chain +34/+29/+24 (magical, reach <15 feet>); **Damage** 3d10+17 bludgeoning plus Improved plus Improved

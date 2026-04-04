@@ -11,6 +11,8 @@ unique, ne, medium, humanoid, mutant, serpentfolk
 
 **Skills** Arcana +18, Deception +21, Diplomacy +19, Intimidation +19, Occultism +18, Society +18, Stealth +18
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** +5, **WIS** +4, **CHA** +6
 
 **Items** bracers of armor type I, choker of elocution (imparts Xanmba, a regional language spoken by many in Nantambu)
@@ -29,9 +31,9 @@ unique, ne, medium, humanoid, mutant, serpentfolk
 
 Speed 25 feet
 
-**Melee** ◆ fangs +19; **Damage** 2d8+8 piercing plus serpentfolk venom plus serpentfolk venom
+**Melee** ◆ fangs +19/+14/+9; **Damage** 2d8+8 piercing plus serpentfolk venom plus serpentfolk venom
 
-**Melee** ◆ morphic weapon +20 (magical, reach <10 feet>, sweep, versatile <P>); **Damage** 3d10+8 slashing
+**Melee** ◆ morphic weapon +20/+15/+10 (magical, reach <10 feet>, sweep, versatile <P>); **Damage** 3d10+8 slashing
 
 **Prepared arcane Spells** (DC 28), attack +20
 

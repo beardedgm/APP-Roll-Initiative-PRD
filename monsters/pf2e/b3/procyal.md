@@ -11,6 +11,8 @@ ng, medium, agathion, celestial
 
 **Skills** Acrobatics +14, Deception +18, Diplomacy +16, Medicine +16, Nature +16, Nirvana Lore +15, Society +17, Stealth +16, Survival +16, Thievery +14
 
+**Recall Knowledge - Celestial** (Religion): DC 24
+
 **STR** +4, **DEX** +4, **CON** +6, **INT** +5, **WIS** +6, **CHA** +4
 
 **Items** +1 striking shortsword
@@ -27,9 +29,9 @@ ng, medium, agathion, celestial
 
 Speed 25 feet
 
-**Melee** ◆ claw +18 (agile, good, magical); **Damage** 2d8+10 plus 1d6 good plus 2d8+10
+**Melee** ◆ claw +18/+14/+10 (agile, good, magical); **Damage** 2d8+10 plus 1d6 good plus 2d8+10
 
-**Melee** ◆ shortsword +19 (agile, finesse, good, magical, versatile <S>); **Damage** 2d6+10 plus 1d6 good plus 2d6+10
+**Melee** ◆ shortsword +19/+15/+11 (agile, finesse, good, magical, versatile <S>); **Damage** 2d6+10 plus 1d6 good plus 2d6+10
 
 **Innate divine Spells** (DC 26), attack +18
 

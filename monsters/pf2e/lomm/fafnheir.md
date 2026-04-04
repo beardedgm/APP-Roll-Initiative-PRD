@@ -11,6 +11,8 @@ unique, ce, gargantuan, dragon
 
 **Skills** Acrobatics +40, Arcana +35, Athletics +48, First World Lore +40, Intimidation +45, Nature +35, Saga Lands Lore +35, Stealth +40, Survival +40
 
+**Recall Knowledge - Dragon** (Arcana): DC 58
+
 **STR** +12, **DEX** +9, **CON** +12, **INT** +4, **WIS** +9, **CHA** +9
 
 ---
@@ -41,13 +43,13 @@ unique, ce, gargantuan, dragon
 
 Speed 50 feet, fly 160 feet, burrow 25 feet, swim 80 feet, freedom of movement
 
-**Melee** ◆ jaws +44 (magical, reach <25 feet>); **Damage** 4d12+26 piercing plus boiling blood plus Boiling Blood
+**Melee** ◆ jaws +44/+39/+34 (magical, reach <25 feet>); **Damage** 4d12+26 piercing plus boiling blood plus Boiling Blood
 
-**Melee** ◆ claw +44 (agile, magical, reach <25 feet>); **Damage** 4d10+22 slashing
+**Melee** ◆ claw +44/+40/+36 (agile, magical, reach <25 feet>); **Damage** 4d10+22 slashing
 
-**Melee** ◆ horns +44 (deadly <d12>, magical, reach <25 feet>); **Damage** 4d12+26 bludgeoning
+**Melee** ◆ horns +44/+39/+34 (deadly <d12>, magical, reach <25 feet>); **Damage** 4d12+26 bludgeoning
 
-**Melee** ◆ tail +44 (agile, magical, reach <30 feet>); **Damage** 4d10+22 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tail +44/+40/+36 (agile, magical, reach <30 feet>); **Damage** 4d10+22 bludgeoning plus Improved Grab plus Improved Grab
 
 **Innate primal Spells** (DC 45)
 

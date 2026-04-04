@@ -9,6 +9,8 @@ rare, ng, large, animal
 
 **Skills** Acrobatics +17, Athletics +15, Survival +16
 
+**Recall Knowledge - Animal** (Nature): DC 28
+
 **STR** +2, **DEX** +6, **CON** +4, **INT** -4, **WIS** +3, **CHA** -1
 
 **Nimble Grazer** Inclines and rocky areas are not terrain for an Elysian sheep.
@@ -29,8 +31,8 @@ rare, ng, large, animal
 
 Speed 40 feet
 
-**Melee** ◆ horn +16; **Damage** 2d8+5 plus 1d6 good plus 2d8+5
+**Melee** ◆ horn +16/+11/+6; **Damage** 2d8+5 plus 1d6 good plus 2d8+5
 
-**Melee** ◆ hoof +16; **Damage** 2d6+5 plus 1d6 good plus 2d6+5
+**Melee** ◆ hoof +16/+11/+6; **Damage** 2d6+5 plus 1d6 good plus 2d6+5
 
 **Trample** ◆◆◆ Medium or smaller, hoof, DC 24

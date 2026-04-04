@@ -11,6 +11,8 @@ uncommon, ce, medium, fiend
 
 **Skills** Athletics +19, Crafting +11, Intimidation +15, Religion +11, Survival +17
 
+**Recall Knowledge - Fiend** (Religion): DC 25
+
 **STR** +6, **DEX** +2, **CON** +4, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** javelins (3), longspear, trophies (animal, beast, and humanoid)
@@ -33,11 +35,11 @@ uncommon, ce, medium, fiend
 
 Speed 30 feet, freedom of movement
 
-**Melee** ◆ jaws +18; **Damage** 2d10+8 piercing
+**Melee** ◆ jaws +18/+13/+8; **Damage** 2d10+8 piercing
 
-**Melee** ◆ longspear +18 (reach <10 feet>); **Damage** 1d8+8 piercing plus wicked trophies plus wicked trophies
+**Melee** ◆ longspear +18/+13/+8 (reach <10 feet>); **Damage** 1d8+8 piercing plus wicked trophies plus wicked trophies
 
-**Ranged** ◆ javelin +14 (thrown <30 feet>); **Damage** 1d6+8 piercing plus Wicked plus Wicked
+**Ranged** ◆ javelin +14/+9/+4 (thrown <30 feet>); **Damage** 1d6+8 piercing plus Wicked plus Wicked
 
 **Innate divine Spells** (DC 23)
 

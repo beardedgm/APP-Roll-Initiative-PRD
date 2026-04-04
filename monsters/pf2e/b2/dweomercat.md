@@ -11,6 +11,8 @@ uncommon, cn, medium, beast
 
 **Skills** Acrobatics +17, Arcana +16, Nature +15, Stealth +17, Survival +15
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 25
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** +3, **WIS** +4, **CHA** +5
 
 ---
@@ -43,9 +45,9 @@ uncommon, cn, medium, beast
 
 Speed 35 feet
 
-**Melee** ◆ jaws +17 (magical); **Damage** 2d10+7 piercing plus Grab plus Grab
+**Melee** ◆ jaws +17/+12/+7 (magical); **Damage** 2d10+7 piercing plus Grab plus Grab
 
-**Melee** ◆ claw +17 (agile, magical); **Damage** 2d8+7 slashing
+**Melee** ◆ claw +17/+13/+9 (agile, magical); **Damage** 2d8+7 slashing
 
 **Innate arcane Spells** (DC 26)
 

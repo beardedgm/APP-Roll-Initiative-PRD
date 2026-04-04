@@ -11,6 +11,8 @@ rare, le, medium, human, humanoid
 
 **Skills** Acrobatics +27, Deception +31, Diplomacy +29, Intimidation +31, Occultism +28, Society +28, Stealth +27
 
+**Recall Knowledge - Humanoid** (Society): DC 40
+
 **STR** +2, **DEX** +5, **CON** +1, **INT** +4, **WIS** +2, **CHA** +5
 
 **Items** +1 resilient glamered breastplate, ceramic mask, +2 striking dagger (2), +2 greater striking sword cane (Advanced Player's Guide 248)
@@ -31,11 +33,11 @@ rare, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ sword cane +32 (agile, concealable, finesse); **Damage** 3d6+8 piercing
+**Melee** ◆ sword cane +32/+28/+24 (agile, concealable, finesse); **Damage** 3d6+8 piercing
 
-**Melee** ◆ dagger +32 (agile, finesse, versatile S); **Damage** 2d4+8 piercing
+**Melee** ◆ dagger +32/+28/+24 (agile, finesse, versatile S); **Damage** 2d4+8 piercing
 
-**Ranged** ◆ dagger +32 (agile, thrown <10 feet>, versatile S); **Damage** 2d4+8 piercing
+**Ranged** ◆ dagger +32/+28/+24 (agile, thrown <10 feet>, versatile S); **Damage** 2d4+8 piercing
 
 **Quick Draw** ◆ The director general Interacts to draw a weapon, and then Strikes with that weapon.
 

@@ -11,6 +11,8 @@ unique, ce, huge, amphibious, demon, fiend
 
 **Skills** Acrobatics +40, Arcana +38, Athletics +45, Intimidation +46, Nature +49, Occultism +38, Religion +45, Stealth +40
 
+**Recall Knowledge - Fiend** (Religion): DC 60
+
 **STR** +12, **DEX** +9, **CON** +11, **INT** +7, **WIS** +8, **CHA** +8
 
 **Items** Blackaxe|B1
@@ -37,9 +39,9 @@ unique, ce, huge, amphibious, demon, fiend
 
 Speed 60 feet, fly 60 feet, swim 40 feet, freedom of movement
 
-**Melee** ◆ Blackaxe +47 (acid, chaotic, evil, magical, reach <15 feet>, sweep); **Damage** 4d12+15 slashing plus 1d6 acid, 1d6 chaotic, and 1d6 evil, and 2d6 slashing vs. plants
+**Melee** ◆ Blackaxe +47/+42/+37 (acid, chaotic, evil, magical, reach <15 feet>, sweep); **Damage** 4d12+15 slashing plus 1d6 acid, 1d6 chaotic, and 1d6 evil, and 2d6 slashing vs. plants
 
-**Melee** ◆ jaws +45 (agile, chaotic, evil, magical, reach <15 feet>); **Damage** 4d10+18 slashing plus 2d6 chaotic and 2d6 evil
+**Melee** ◆ jaws +45/+41/+37 (agile, chaotic, evil, magical, reach <15 feet>); **Damage** 4d10+18 slashing plus 2d6 chaotic and 2d6 evil
 
 **Innate primal Spells** (DC 49), attack +43
 

@@ -11,6 +11,8 @@ uncommon, medium, incorporeal, undead, unholy, wraith
 
 **Skills** Acrobatics +19, Intimidation +21, Stealth +19
 
+**Recall Knowledge - Undead** (Religion): DC 28
+
 **STR** -5, **DEX** +6, **CON** +3, **INT** +3, **WIS** +4, **CHA** +6
 
 ---
@@ -31,7 +33,7 @@ uncommon, medium, incorporeal, undead, unholy, wraith
 
 Speed fly 40 feet
 
-**Melee** ◆ caustic touch +21 (acid, finesse, reach <10 feet>, void); **Damage** 2d8 void plus 1d8 acid plus drain life
+**Melee** ◆ caustic touch +21/+16/+11 (acid, finesse, reach <10 feet>, void); **Damage** 2d8 void plus 1d8 acid plus drain life
 
 **Dissolve From the Inside** ◆◆ The caustic wraith reaches into the body of a creature within 10 feet, melting its organs and inflicting pain. The target takes 4d8 acid damage with a DC 28 basic Fortitude save. On a critical failure, the creature is also sickened 2.
 

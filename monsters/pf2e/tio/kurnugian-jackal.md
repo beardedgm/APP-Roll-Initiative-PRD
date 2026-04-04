@@ -11,6 +11,8 @@ uncommon, ce, medium, beast
 
 **Skills** Athletics +18, Diplomacy +11, Intimidation +13, Occultism +11, Religion +13, Stealth +18
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 24
+
 **STR** +4, **DEX** +5, **CON** +4, **INT** +1, **WIS** +3, **CHA** +0
 
 ---
@@ -29,7 +31,7 @@ uncommon, ce, medium, beast
 
 Speed 35 feet
 
-**Melee** ◆ jaws +15 (agile); **Damage** 2d6 + 5 piercing plus Knockdown plus knockdown
+**Melee** ◆ jaws +15/+11/+7 (agile); **Damage** 2d6 + 5 piercing plus Knockdown plus knockdown
 
 **Innate divine Spells** (DC 21)
 

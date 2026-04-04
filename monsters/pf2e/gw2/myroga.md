@@ -11,6 +11,8 @@ rare, ne, large, dragon
 
 **Skills** Acrobatics +15, Athletics +14, Intimidation +15, Occultism +14
 
+**Recall Knowledge - Dragon** (Arcana): DC 27
+
 **STR** +4, **DEX** +3, **CON** +4, **INT** +2, **WIS** +2, **CHA** +5
 
 **Ley Line Sense** The myroga can sense the presence, direction, and strength of any ley line within 1 mile.
@@ -33,9 +35,9 @@ rare, ne, large, dragon
 
 Speed 20 feet, fly 50 feet, Damage 2d8+7 piercing
 
-**Melee** ◆ tail +16 (reach <15 feet>); **Damage** 2d6+7 bludgeoning
+**Melee** ◆ tail +16/+11/+6 (reach <15 feet>); **Damage** 2d6+7 bludgeoning
 
-**Melee** ◆ talon +16 (agile); **Damage** 2d6+7 slashing
+**Melee** ◆ talon +16/+12/+8 (agile); **Damage** 2d6+7 slashing
 
 **Innate occult Spells** (DC 23)
 

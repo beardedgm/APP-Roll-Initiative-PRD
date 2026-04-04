@@ -11,6 +11,8 @@ cn, small, aberration, aquatic
 
 **Skills** Acrobatics +7, Athletics +4
 
+**Recall Knowledge - Aberration** (Occultism): DC 15
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** -3, **WIS** +1, **CHA** +1
 
 ---
@@ -27,7 +29,7 @@ cn, small, aberration, aquatic
 
 Speed 5 feet, swim 30 feet
 
-**Melee** ◆ claw +9 (finesse); **Damage** 1d6+1 slashing plus reefclaw venom and Grab plus reefclaw venom, Grab
+**Melee** ◆ claw +9/+4/-1 (finesse); **Damage** 1d6+1 slashing plus reefclaw venom and Grab plus reefclaw venom, Grab
 
 **Constrict** ◆ 1d6 bludgeoning, DC 17
 

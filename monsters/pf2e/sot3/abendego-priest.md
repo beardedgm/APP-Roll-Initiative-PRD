@@ -11,6 +11,8 @@ ne, medium, human, humanoid
 
 **Skills** Athletics +21, Deception +21, Intimidation +19, Religion +22, Thievery +20
 
+**Recall Knowledge - Humanoid** (Society): DC 28
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** +0, **WIS** +5, **CHA** +2
 
 **Items** dagger, religious symbol of Norgorber, shadow essence (2 doses), +2 striking shortsword, studded leather armor
@@ -29,11 +31,11 @@ ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +24 (agile, magical, versatile S); **Damage** 2d6+8 piercing
+**Melee** ◆ shortsword +24/+20/+16 (agile, magical, versatile S); **Damage** 2d6+8 piercing
 
-**Melee** ◆ dagger +22 (agile, versatile S); **Damage** 1d4+8 piercing
+**Melee** ◆ dagger +22/+18/+14 (agile, versatile S); **Damage** 1d4+8 piercing
 
-**Ranged** ◆ dagger +22 (agile, thrown <10 feet>, versatile S); **Damage** 1d4+8 piercing
+**Ranged** ◆ dagger +22/+18/+14 (agile, thrown <10 feet>, versatile S); **Damage** 1d4+8 piercing
 
 **Prepared divine Spells** (DC 30), attack +22
 

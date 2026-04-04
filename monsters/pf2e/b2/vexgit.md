@@ -11,6 +11,8 @@ le, tiny, fey, gremlin
 
 **Skills** Acrobatics +7, Athletics +6, Crafting +6, Nature +6, Stealth +5, Thievery +7
 
+**Recall Knowledge - Fey** (Nature): DC 15
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +1, **WIS** +1, **CHA** +0
 
 **Items** maul
@@ -29,4 +31,4 @@ le, tiny, fey, gremlin
 
 Speed 20 feet, climb 20 feet
 
-**Melee** ◆ maul +8 (shove); **Damage** 1d12+1 bludgeoning plus
+**Melee** ◆ maul +8/+3/-2 (shove); **Damage** 1d12+1 bludgeoning plus

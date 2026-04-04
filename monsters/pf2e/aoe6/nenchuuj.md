@@ -11,6 +11,8 @@ uncommon, ne, medium, fiend, sahkil
 
 **Skills** Acrobatics +33, Arcana +39, Deception +33, Intimidation +37, Occultism +37, Stealth +33, Dream Lore +33
 
+**Recall Knowledge - Fiend** (Religion): DC 41
+
 **STR** +5, **DEX** +8, **CON** +6, **INT** +10, **WIS** +6, **CHA** +8
 
 ---
@@ -33,9 +35,9 @@ uncommon, ne, medium, fiend, sahkil
 
 Speed 50 feet, air walk
 
-**Melee** ◆ fist +35 (agile, finesse, magical); **Damage** 4d8+13 bludgeoning plus 5d6 evil
+**Melee** ◆ fist +35/+31/+27 (agile, finesse, magical); **Damage** 4d8+13 bludgeoning plus 5d6 evil
 
-**Ranged** ◆ mindtwisting utterance +36 (auditory, magical, mental, range <100 feet>); **Damage** 4d12 mental plus 5d6 evil
+**Ranged** ◆ mindtwisting utterance +36/+31/+26 (auditory, magical, mental, range <100 feet>); **Damage** 4d12 mental plus 5d6 evil
 
 **Innate divine Spells** (DC 41)
 

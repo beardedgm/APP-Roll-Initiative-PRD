@@ -11,6 +11,8 @@ uncommon, ce, medium, undead
 
 **Skills** Acrobatics +13, Arcana +17, Athletics +17, Occultism +17
 
+**Recall Knowledge - Undead** (Religion): DC 25
+
 **STR** +6, **DEX** +2, **CON** +1, **INT** +4, **WIS** +4, **CHA** +2
 
 **Magic Sense** (arcane) The spellscar fext detects the source and school of each source of magic within 30 feet as an imprecise sense.
@@ -33,6 +35,6 @@ uncommon, ce, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ fist +18 (agile); **Damage** 2d8+8 bludgeoning
+**Melee** ◆ fist +18/+14/+10 (agile); **Damage** 2d8+8 bludgeoning
 
 **Grasp Power** ◆ (abjuration, arcane) **Requirements** The spellscar fext's last action was a successful fist Strike; The spellscar fext attempts a counteract check against a single spell affecting the creature (counteract level 4, counteract modifier +17). If the check is successful, the creature also takes 6d6 mental damage (DC 25 basic Will save).

@@ -11,6 +11,8 @@ rare, ne, medium, undead
 
 **Skills** Athletics +28, Acrobatics +24, Crafting +26, Intimidation +24, Nature +33, Religion +29, Stealth +26, Survival +31
 
+**Recall Knowledge - Undead** (Religion): DC 40
+
 **STR** +6, **DEX** +4, **CON** +6, **INT** +4, **WIS** +9, **CHA** +2
 
 **Items** scroll of true seeing, staff of nature's vengeance|APG
@@ -33,7 +35,7 @@ rare, ne, medium, undead
 
 Speed 25 feet, burrow 25 feet, earth glide
 
-**Melee** ◆ stone antler +28 (magical); **Damage** 5d6+12 bludgeoning plus stony shards
+**Melee** ◆ stone antler +28/+23/+18 (magical); **Damage** 5d6+12 bludgeoning plus stony shards
 
 **Prepared primal Spells** (DC 41), attack +33
 

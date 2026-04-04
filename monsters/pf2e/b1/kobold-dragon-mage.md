@@ -11,6 +11,8 @@ le, small, humanoid, kobold
 
 **Skills** Arcana +6, Deception +8, Diplomacy +8, Intimidation +8, Stealth +7, Dragon Lore +10
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** -1, **DEX** +3, **CON** +0, **INT** +2, **WIS** +1, **CHA** +4
 
 **Items** staff
@@ -31,9 +33,9 @@ le, small, humanoid, kobold
 
 Speed 25 feet
 
-**Melee** ◆ claw +7 (agile, finesse); **Damage** 1d6-1 slashing
+**Melee** ◆ claw +7/+3/-1 (agile, finesse); **Damage** 1d6-1 slashing
 
-**Melee** ◆ staff +3 (two-hand <d8>); **Damage** 1d4-1 bludgeoning
+**Melee** ◆ staff +3/-2/-7 (two-hand <d8>); **Damage** 1d4-1 bludgeoning
 
 **Spontaneous arcane Spells** (DC 20)
 

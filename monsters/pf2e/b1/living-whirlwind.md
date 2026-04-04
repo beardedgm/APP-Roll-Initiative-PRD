@@ -11,6 +11,8 @@ n, medium, air, elemental
 
 **Skills** Acrobatics +16, Stealth +14
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 20
+
 **STR** +3, **DEX** +5, **CON** +2, **INT** -2, **WIS** +1, **CHA** +0
 
 ---
@@ -29,6 +31,6 @@ n, medium, air, elemental
 
 Speed fly 50 feet, swiftness
 
-**Melee** ◆ gust +14 (finesse, reach <10 feet>); **Damage** 2d6+7 bludgeoning plus Push 5 feet
+**Melee** ◆ gust +14/+9/+4 (finesse, reach <10 feet>); **Damage** 2d6+7 bludgeoning plus Push 5 feet
 
 **Swiftness** The living whirlwind's movement doesn't trigger reactions.

@@ -11,6 +11,8 @@ unique, ng, medium, humanoid, nagaji
 
 **Skills** Acrobatics +18, Arcana +19, Diplomacy +19, Intimidation +19, Occultism +17
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +1, **DEX** +3, **CON** +4, **INT** +2, **WIS** +0, **CHA** +4
 
 **Items** +1 striking bo staff, +1 explorer's clothing
@@ -29,9 +31,9 @@ unique, ng, medium, humanoid, nagaji
 
 Speed 25 feet
 
-**Melee** ◆ bo staff +17 (magical, parry, reach, trip); **Damage** 2d8+5 bludgeoning
+**Melee** ◆ bo staff +17/+12/+7 (magical, parry, reach, trip); **Damage** 2d8+5 bludgeoning
 
-**Ranged** ◆ venom +18 (range <10 feet>); plus nagaji venom
+**Ranged** ◆ venom +18/+13/+8 (range <10 feet>); plus nagaji venom
 
 **Spontaneous arcane Spells** (DC 27), attack +20
 

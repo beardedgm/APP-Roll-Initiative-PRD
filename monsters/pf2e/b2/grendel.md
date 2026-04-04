@@ -11,6 +11,8 @@ unique, ce, large, humanoid
 
 **Skills** Acrobatics +34, Athletics +39, Intimidation +34, Stealth +34, Survival +33
 
+**Recall Knowledge - Humanoid** (Society): DC 49
+
 **STR** +10, **DEX** +5, **CON** +7, **INT** +0, **WIS** +6, **CHA** +5
 
 **Keen Hearing** Grendel's hearing is a precise sense to a range of 120 feet.
@@ -37,11 +39,11 @@ unique, ce, large, humanoid
 
 Speed 40 feet
 
-**Melee** ◆ fist +37 (agile, magical, reach <10 feet>); **Damage** 4d8+18 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ fist +37/+33/+29 (agile, magical, reach <10 feet>); **Damage** 4d8+18 bludgeoning plus Improved Grab plus Improved Grab
 
-**Melee** ◆ jaws +37 (magical, reach <10 feet>, versatile <B>); **Damage** 4d10+18 piercing
+**Melee** ◆ jaws +37/+32/+27 (magical, reach <10 feet>, versatile <B>); **Damage** 4d10+18 piercing
 
-**Ranged** ◆ rock +37 (brutal, range increment <150 feet>); **Damage** 2d12+18 bludgeoning
+**Ranged** ◆ rock +37/+32/+27 (brutal, range increment <150 feet>); **Damage** 2d12+18 bludgeoning
 
 **Hands of the Murderer** Grendel's fist Strikes deal 18 bludgeoning damage on a failure (but no damage on a critical failure).
 

@@ -11,6 +11,8 @@ uncommon, le, medium, fiend, velstrac
 
 **Skills** Acrobatics +31, Athletics +35, Crafting +29, Deception +32, Intimidation +34, Medicine +32, Religion +30, Stealth +31, Survival +30, Torture Lore +31
 
+**Recall Knowledge - Fiend** (Religion): DC 40
+
 **STR** +9, **DEX** +6, **CON** +6, **INT** +5, **WIS** +6, **CHA** +6
 
 **Items** +2 greater striking war flail, +2 greater resilient full plate, 6 manacles
@@ -39,9 +41,9 @@ uncommon, le, medium, fiend, velstrac
 
 Speed 25 feet
 
-**Melee** ◆ war flail +35 (disarm, sweep, trip); **Damage** 3d10+17 bludgeoning plus 2d6 persistent bleed
+**Melee** ◆ war flail +35/+30/+25 (disarm, sweep, trip); **Damage** 3d10+17 bludgeoning plus 2d6 persistent bleed
 
-**Ranged** ◆ animated manacles +32 (magic, range increment <20 feet>); **Damage** 3d8+8 piercing plus 2d6 persistent bleed
+**Ranged** ◆ animated manacles +32/+27/+22 (magic, range increment <20 feet>); **Damage** 3d8+8 piercing plus 2d6 persistent bleed
 
 **Innate divine Spells** (DC 40)
 

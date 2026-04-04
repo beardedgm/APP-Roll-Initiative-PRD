@@ -11,6 +11,8 @@ le, medium, humanoid, skelm
 
 **Skills** Athletics +12, Deception +14, Intimidation +14, Occultism +11, Religion +11, Stealth +12, Thievery +12
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** +4, **WIS** +2, **CHA** +5
 
 **Items** silver religious symbol
@@ -31,9 +33,9 @@ le, medium, humanoid, skelm
 
 Speed 25 feet
 
-**Melee** ◆ fist +15 (agile, magical); **Damage** 2d4+7 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +15/+11/+7 (agile, magical); **Damage** 2d4+7 bludgeoning plus Grab plus Grab
 
-**Melee** ◆ antler +15 (magical); **Damage** 2d8+7 piercing plus Knockdown (page 305) plus Knockdown
+**Melee** ◆ antler +15/+10/+5 (magical); **Damage** 2d8+7 piercing plus Knockdown (page 305) plus Knockdown
 
 **Innate occult Spells** (DC 22)
 

@@ -9,6 +9,8 @@ n, gargantuan, animal, dinosaur
 
 **Skills** Acrobatics +15, Athletics +24
 
+**Recall Knowledge - Animal** (Nature): DC 27
+
 **STR** +8, **DEX** +1, **CON** +5, **INT** -4, **WIS** +3, **CHA** +0
 
 ---
@@ -23,9 +25,9 @@ n, gargantuan, animal, dinosaur
 
 Speed 40 feet
 
-**Melee** ◆ jaws +22 (deadly <1d12>, reach <20 feet>); **Damage** 2d12+12 piercing plus Grab plus Grab
+**Melee** ◆ jaws +22/+17/+12 (deadly <1d12>, reach <20 feet>); **Damage** 2d12+12 piercing plus Grab plus Grab
 
-**Melee** ◆ foot +22 (reach <15 feet>); **Damage** 2d10+12 bludgeoning
+**Melee** ◆ foot +22/+17/+12 (reach <15 feet>); **Damage** 2d10+12 bludgeoning
 
 **Fling** ◆ **Requirements** A creature is Grabbed in the tyrannosaurus's jaws.; The tyrannosaurus flings the creature into the air up to 10 feet up from its mouth and 20 feet away. The creature falls 25 feet (assuming the tyrannosaurus flings it as high as it can) and takes falling damage accordingly. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed on can attempt a DC 23 basic Reflex save.
 

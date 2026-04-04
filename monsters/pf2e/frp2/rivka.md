@@ -11,6 +11,8 @@ rare, ne, medium, aberration
 
 **Skills** Acrobatics +26, Athletics +22, Deception +27, Stealth +26, Survival +19
 
+**Recall Knowledge - Aberration** (Occultism): DC 36
+
 **STR** +5, **DEX** +7, **CON** +5, **INT** +0, **WIS** +0, **CHA** +8
 
 **Kaiju Blood** Each rivka gains resistances and offensive powers by feasting on the primordial blood of a kaiju. The type of damage the rivka resists and the type of damage dealt by its Kaiju Ray depend on the kaiju it last fed upon. Some of the most typical rivkas include those that feed on Cimurlian (cold), Kujiba (negative), Igroon (acid), Mogaru (fire), or Yorak (electricity).
@@ -27,7 +29,7 @@ rare, ne, medium, aberration
 
 Speed 30 feet
 
-**Melee** ◆ claw +26 (agile, finesse); **Damage** 3d6+11 slashing
+**Melee** ◆ claw +26/+22/+18 (agile, finesse); **Damage** 3d6+11 slashing
 
 **Innate primal Spells** (DC 33)
 

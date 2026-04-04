@@ -9,6 +9,8 @@ n, huge, animal
 
 **Skills** Acrobatics +16, Athletics +21
 
+**Recall Knowledge - Animal** (Nature): DC 24
+
 **STR** +7, **DEX** +2, **CON** +6, **INT** -4, **WIS** +2, **CHA** -2
 
 ---
@@ -23,9 +25,9 @@ n, huge, animal
 
 Speed 40 feet, burrow 30 feet, powerful jumper
 
-**Melee** ◆ jaws +21; **Damage** 2d10+10 piercing
+**Melee** ◆ jaws +21/+16/+11; **Damage** 2d10+10 piercing
 
-**Melee** ◆ claw +21 (agile); **Damage** 2d8+10 slashing
+**Melee** ◆ claw +21/+17/+13 (agile); **Damage** 2d8+10 slashing
 
 **Favored Prey** A bulette gains a +1 circumstance bonus to attack and damage rolls with its jaws against a specific type of creature designated as its favorite food. Unless otherwise stated, a bulette's favored prey is halflings. Elves are never a favored prey for bulettes.
 

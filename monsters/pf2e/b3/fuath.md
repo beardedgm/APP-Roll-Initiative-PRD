@@ -11,6 +11,8 @@ ce, tiny, aquatic, fey, gremlin
 
 **Skills** Acrobatics +7, Deception +4, Nature +6, Stealth +7, Thievery +7, Sailing Lore +6
 
+**Recall Knowledge - Fey** (Nature): DC 15
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +1, **WIS** +3, **CHA** -1
 
 **Items** darts (6)
@@ -31,9 +33,9 @@ ce, tiny, aquatic, fey, gremlin
 
 Speed 20 feet, swim 30 feet
 
-**Melee** ◆ claw +9 (agile, finesse); **Damage** 1d6+1 slashing
+**Melee** ◆ claw +9/+5/+1 (agile, finesse); **Damage** 1d6+1 slashing
 
-**Ranged** ◆ dart +9 (agile, range increment <20 feet>); **Damage** 1d4+1 piercing
+**Ranged** ◆ dart +9/+5/+1 (agile, range increment <20 feet>); **Damage** 1d4+1 piercing
 
 **Innate primal Spells** (DC 17)
 

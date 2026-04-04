@@ -9,6 +9,8 @@ ne, small, animal, undead
 
 **Skills** Acrobatics +11, Athletics +10
 
+**Recall Knowledge - Animal** (Nature, Religion): DC 18
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** -4, **WIS** +1, **CHA** -1
 
 ---

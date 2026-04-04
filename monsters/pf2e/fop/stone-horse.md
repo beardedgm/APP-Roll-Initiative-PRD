@@ -9,6 +9,8 @@ unique, n, large, animal
 
 **Skills** Acrobatics +5, Athletics +10
 
+**Recall Knowledge - Animal** (Nature): DC 26
+
 **STR** +4, **DEX** +1, **CON** +5, **INT** -4, **WIS** +2, **CHA** -1
 
 ---
@@ -23,6 +25,6 @@ unique, n, large, animal
 
 Speed 30 feet
 
-**Melee** ◆ hoof +10; **Damage** 1d8+4 bludgeoning
+**Melee** ◆ hoof +10/+5/+0; **Damage** 1d8+4 bludgeoning
 
 **Shattering Hooves** The hooves of the stone horse are as hard as iron; if the horse makes a Hoof Strike and gets a critical hit, the target's armor is damaged as well, the attack dealing as much damage to the armor as it dealt to the target (Hardness applies as normal). If the target uses shield block against the stone horse's critical hit with a hoof attack, treat the shield's Hardness as 5 points lower (minimum 0).

@@ -11,6 +11,8 @@ n, large, earth, elemental
 
 **Skills** Athletics +21, Stealth +12
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 26
+
 **STR** +6, **DEX** -1, **CON** +7, **INT** -1, **WIS** +3, **CHA** -1
 
 **Earthbound** When not touching solid ground, a stone mauler is slowed 1 and can't use reactions.
@@ -33,8 +35,8 @@ n, large, earth, elemental
 
 Speed 35 feet, burrow 35 feet, earth glide
 
-**Melee** ◆ fist +21 (reach <10 feet>); **Damage** 2d10+10 bludgeoning plus Push 10 feet
+**Melee** ◆ fist +21/+16/+11 (reach <10 feet>); **Damage** 2d10+10 bludgeoning plus Push 10 feet
 
-**Ranged** ◆ rock +21 (brutal, range increment <80 feet>); **Damage** 2d12+6 bludgeoning
+**Ranged** ◆ rock +21/+16/+11 (brutal, range increment <80 feet>); **Damage** 2d12+6 bludgeoning
 
 **Earth Glide** The stone mauler can Burrow through any earthen matter, including rock. When it does so, the stone mauler moves at its full burrow Speed, leaving no tunnels or signs of its passing.

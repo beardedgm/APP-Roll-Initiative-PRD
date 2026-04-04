@@ -11,6 +11,8 @@ uncommon, ne, small, incorporeal, spirit, undead
 
 **Skills** Acrobatics +16, Intimidation +16, Nature +18, Stealth +18, Woodland Lore +21 (applies only to the woodland the waldgeist is bonded to)
 
+**Recall Knowledge - Spirit** (Religion): DC 26
+
 **STR** -5, **DEX** +6, **CON** +3, **INT** +3, **WIS** +6, **CHA** +4
 
 ---
@@ -33,9 +35,9 @@ uncommon, ne, small, incorporeal, spirit, undead
 
 Speed fly 30 feet
 
-**Melee** ◆ lignifying hand +18 (finesse, magical); **Damage** 2d8+7 negative plus lignify
+**Melee** ◆ lignifying hand +18/+13/+8 (finesse, magical); **Damage** 2d8+7 negative plus lignify
 
-**Melee** ◆ branch +20 (reach <15 feet>); **Damage** 2d12+9 bludgeoning. While a waldgeist possesses a tree, any damage that would be dealt to the waldgeist is instead dealt to the tree. The tree has 60 Hit Points. When the tree is reduced to 0 Hit Points, the waldgeist is immediately ejected, and the tree is destroyed.
+**Melee** ◆ branch +20/+15/+10 (reach <15 feet>); **Damage** 2d12+9 bludgeoning. While a waldgeist possesses a tree, any damage that would be dealt to the waldgeist is instead dealt to the tree. The tree has 60 Hit Points. When the tree is reduced to 0 Hit Points, the waldgeist is immediately ejected, and the tree is destroyed.
 
 **Innate primal Spells** (DC 24), attack +16
 

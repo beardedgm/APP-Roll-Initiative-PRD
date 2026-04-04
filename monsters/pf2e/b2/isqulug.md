@@ -11,6 +11,8 @@ uncommon, ne, medium, aberration, amphibious
 
 **Skills** Acrobatics +22, Athletics +24, Nature +22, Survival +22
 
+**Recall Knowledge - Aberration** (Occultism): DC 30
+
 **STR** +7, **DEX** +5, **CON** +7, **INT** +3, **WIS** +7, **CHA** +5
 
 **Host Scent** An isqulug can precisely sense any creature infected with isqulugia within 30 feet, and knows the current stage of the disease.
@@ -31,7 +33,7 @@ uncommon, ne, medium, aberration, amphibious
 
 Speed 25 feet, swim 25 feet, swamp stride
 
-**Melee** ◆ tentacle +22 (agile, reach <10 feet>); **Damage** 2d12+11 bludgeoning plus isqulugia plus isqulugia
+**Melee** ◆ tentacle +22/+18/+14 (agile, reach <10 feet>); **Damage** 2d12+11 bludgeoning plus isqulugia plus isqulugia
 
 **Innate primal Spells** (DC 30), attack +22
 

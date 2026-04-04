@@ -11,6 +11,8 @@ uncommon, ne, gargantuan, electricity, undead
 
 **Skills** Acrobatics +33, Arcana +37, Athletics +33, Nature +37, Occultism +37, Religion +40
 
+**Recall Knowledge - Undead** (Religion): DC 41
+
 **STR** +10, **DEX** +8, **CON** +6, **INT** +5, **WIS** +7, **CHA** +8
 
 ---
@@ -33,9 +35,9 @@ uncommon, ne, gargantuan, electricity, undead
 
 Speed 50 feet, fly 60 feet
 
-**Melee** ◆ claw +34 (agile, magical, reach <20 feet>); **Damage** 4d12+10 slashing plus 3d8 electricity and drain life plus drain life
+**Melee** ◆ claw +34/+30/+26 (agile, magical, reach <20 feet>); **Damage** 4d12+10 slashing plus 3d8 electricity and drain life plus drain life
 
-**Ranged** ◆ eye beam +34 (range <100 feet>); **Damage** 4d12 electricity plus 10d6 force
+**Ranged** ◆ eye beam +34/+29/+24 (range <100 feet>); **Damage** 4d12 electricity plus 10d6 force
 
 **Innate occult Spells** (DC 38)
 

@@ -11,6 +11,8 @@ uncommon, ce, small, dero, humanoid
 
 **Skills** Crafting +12, Medicine +8, Occultism +12, Stealth +11
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +3, **WIS** -1, **CHA** +5
 
 **Items** aklys|b1
@@ -33,9 +35,9 @@ uncommon, ce, small, dero, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ aklys +10 (trip); **Damage** 1d6+3 bludgeoning
+**Melee** ◆ aklys +10/+5/+0 (trip); **Damage** 1d6+3 bludgeoning
 
-**Ranged** ◆ aklys +13 (ranged trip, tethered, thrown <20 feet>); **Damage** 1d6+3 bludgeoning
+**Ranged** ◆ aklys +13/+8/+3 (ranged trip, tethered, thrown <20 feet>); **Damage** 1d6+3 bludgeoning
 
 **Innate occult Spells** (DC 24)
 

@@ -11,6 +11,8 @@ uncommon, ce, large, aberration, seugathi
 
 **Skills** Acrobatics +19, Arcana +19, Crafting +19, Deception +20, Intimidation +18, Nature +17, Occultism +19, Stealth +19
 
+**Recall Knowledge - Aberration** (Occultism): DC 28
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +4, **WIS** +2, **CHA** +5
 
 **Items** +1 battle axe
@@ -35,9 +37,9 @@ uncommon, ce, large, aberration, seugathi
 
 Speed 25 feet
 
-**Melee** ◆ bite +19 (agile, finesse); **Damage** 2d6+8 piercing plus 1d10 chaotic plus seugathi venom plus seugathi venom
+**Melee** ◆ bite +19/+15/+11 (agile, finesse); **Damage** 2d6+8 piercing plus 1d10 chaotic plus seugathi venom plus seugathi venom
 
-**Melee** ◆ battle axe +18 (magical, sweep, reach <10 feet>); **Damage** 1d8+8 bludgeoning plus 1d10 chaotic
+**Melee** ◆ battle axe +18/+13/+8 (magical, sweep, reach <10 feet>); **Damage** 1d8+8 bludgeoning plus 1d10 chaotic
 
 **Innate occult Spells** (DC 28), attack +20
 

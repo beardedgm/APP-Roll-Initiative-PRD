@@ -11,6 +11,8 @@ rare, ne, large, incorporeal, spirit, undead
 
 **Skills** Acrobatics +14, Intimidation +14, Nature +16, Stealth +16
 
+**Recall Knowledge - Spirit** (Religion): DC 28
+
 **STR** -5, **DEX** +5, **CON** +3, **INT** +2, **WIS** +5, **CHA** +3
 
 ---
@@ -31,7 +33,7 @@ rare, ne, large, incorporeal, spirit, undead
 
 Speed fly 30 feet
 
-**Melee** ◆ lignifying root +16; **Damage** 2d8+5 negative plus lignify plus lignify
+**Melee** ◆ lignifying root +16/+11/+6; **Damage** 2d8+5 negative plus lignify plus lignify
 
 **Innate primal Spells** (DC 22), attack +14
 

@@ -11,6 +11,8 @@ uncommon, ne, medium, humanoid, serpentfolk
 
 **Skills** Arcana +15, Deception +18, Intimidation +16, Occultism +17, Religion +19, Society +15, Stealth +13
 
+**Recall Knowledge - Humanoid** (Society): DC 26
+
 **STR** +3, **DEX** +3, **CON** +2, **INT** +5, **WIS** +5, **CHA** +6
 
 **Items** invisibility potion, religious symbol of Ydersius, +1 striking staff
@@ -27,9 +29,9 @@ uncommon, ne, medium, humanoid, serpentfolk
 
 Speed 25 feet
 
-**Melee** ◆ staff +18 (magical, two-hand <d8>); **Damage** 2d4+9 bludgeoning
+**Melee** ◆ staff +18/+13/+8 (magical, two-hand <d8>); **Damage** 2d4+9 bludgeoning
 
-**Melee** ◆ fangs +17 (finesse); **Damage** 2d6+9 piercing plus serpentfolk venom plus serpentfolk venom
+**Melee** ◆ fangs +17/+12/+7 (finesse); **Damage** 2d6+9 piercing plus serpentfolk venom plus serpentfolk venom
 
 **Spontaneous divine Spells** (DC 28), attack +20
 

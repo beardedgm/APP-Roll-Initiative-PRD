@@ -11,6 +11,8 @@ ce, medium, amphibious, hag, humanoid
 
 **Skills** Acrobatics +8, Athletics +11, Deception +10, Occultism +8, Stealth +8
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +4, **DEX** +3, **CON** +4, **INT** +1, **WIS** +3, **CHA** +3
 
 **Coven** A sea hag adds acid arrow, mariner's curse, and water walk to her coven's spells.
@@ -29,7 +31,7 @@ ce, medium, amphibious, hag, humanoid
 
 Speed 25 feet, swim 35 feet
 
-**Melee** ◆ claw +12 (agile, magical); **Damage** 1d10+4 slashing
+**Melee** ◆ claw +12/+8/+4 (agile, magical); **Damage** 1d10+4 slashing
 
 **Dread Gaze** ◆◆ (curse, emotion, fear, mental, occult) The hag gazes upon a creature, afflicting it with intense distress and a gnawing sense of impending doom, with a result depending on its Will save (DC 20). The target does not need to be able to see the sea hag. **Critical Success** No effect.
 **Success** Frightened 1.

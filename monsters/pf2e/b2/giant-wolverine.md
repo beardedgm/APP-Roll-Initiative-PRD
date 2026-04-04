@@ -9,6 +9,8 @@ n, large, animal
 
 **Skills** Athletics +12, Stealth +11
 
+**Recall Knowledge - Animal** (Nature): DC 19
+
 **STR** +6, **DEX** +3, **CON** +3, **INT** -4, **WIS** +3, **CHA** +0
 
 ---
@@ -23,9 +25,9 @@ n, large, animal
 
 Speed 25 feet, climb 10 feet
 
-**Melee** ◆ jaws +12; **Damage** 2d6+8 piercing plus Grab plus Grab
+**Melee** ◆ jaws +12/+7/+2; **Damage** 2d6+8 piercing plus Grab plus Grab
 
-**Melee** ◆ claw +12 (agile); **Damage** 2d4+8 slashing
+**Melee** ◆ claw +12/+8/+4 (agile); **Damage** 2d4+8 slashing
 
 **Gnaw** ◆ **Requirements** The wolverine has a creature grabbed from its jaws Strike; The wolverine chews violently on the creature, dealing 2d6 piercing damage (DC 21 basic Fortitude save). A creature that fails its save also takes 2d6 persistent bleed damage.
 

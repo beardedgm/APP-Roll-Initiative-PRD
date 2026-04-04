@@ -9,6 +9,8 @@ uncommon, large, mindless, undead, unholy
 
 **Skills** Athletics +32, Survival +30
 
+**Recall Knowledge - Undead** (Religion): DC 37
+
 **STR** +9, **DEX** +7, **CON** +6, **INT** -5, **WIS** +5, **CHA** -2
 
 **Willsense** (divine, mental) The moldering steed senses all living creatures within the listed range that have a Wisdom of +1 or higher.
@@ -33,9 +35,9 @@ uncommon, large, mindless, undead, unholy
 
 Speed 40 feet
 
-**Melee** ◆ hoof +31; **Damage** 3d10+13 bludgeoning
+**Melee** ◆ hoof +31/+26/+21; **Damage** 3d10+13 bludgeoning
 
-**Melee** ◆ jaws +31; **Damage** 3d8+13 piercing plus siphon will
+**Melee** ◆ jaws +31/+26/+21; **Damage** 3d8+13 piercing plus siphon will
 
 **Gallop** ◆◆ The moldering steed Stride|PC1|Strides twice. It has a +10-foot circumstance bonus to its Speed during these Stride|PC1|Strides.
 

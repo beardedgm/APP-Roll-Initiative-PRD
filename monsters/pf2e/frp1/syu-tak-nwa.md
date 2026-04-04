@@ -11,6 +11,8 @@ unique, n, medium, human, humanoid
 
 **Skills** Acrobatics +26, Arcana +25, Deception +27, Medicine +23, Nature +23, Occultism +29, Society +27, Thievery +24
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** +0, **DEX** +4, **CON** +1, **INT** +5, **WIS** +3, **CHA** +5
 
 **Items** +2 greater striking jian (as shortsword)
@@ -27,9 +29,9 @@ unique, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ hair +26 (agile, disarm, finesse, grapple, reach <10 feet>, trip, unarmed); **Damage** 3d6+6 bludgeoning
+**Melee** ◆ hair +26/+22/+18 (agile, disarm, finesse, grapple, reach <10 feet>, trip, unarmed); **Damage** 3d6+6 bludgeoning
 
-**Melee** ◆ jian +24 (agile, finesse, magical, versatile <S>); **Damage** 3d6+10 piercing
+**Melee** ◆ jian +24/+20/+16 (agile, finesse, magical, versatile <S>); **Damage** 3d6+10 piercing
 
 **Prepared occult Spells** (DC 35), attack +27
 

@@ -9,6 +9,8 @@ rare, n, gargantuan, construct, mindless, troop
 
 **Skills** Athletics +30
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 36
+
 **STR** +7, **DEX** +2, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
 ---

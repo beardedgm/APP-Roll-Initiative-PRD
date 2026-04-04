@@ -11,6 +11,8 @@ rare, ng, large, beast, couatl
 
 **Skills** Acrobatics +21, Arcana +23, Diplomacy +26, Intimidation +26, Nature +23, Occultism +23, Society +21, Stealth +21, Survival +21
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 35
+
 **STR** +7, **DEX** +3, **CON** +4, **INT** +5, **WIS** +5, **CHA** +6
 
 **Thoughtsense** (divination, mental, occult) The xiuh couatl senses all non-mindless creatures at the listed range.
@@ -29,7 +31,7 @@ rare, ng, large, beast, couatl
 
 Speed 20 feet, fly 60 feet
 
-**Melee** ◆ jaws +25 (magical); **Damage** 2d10+10 piercing plus 2d8 fire, xiuh couatl venom, and Grab plus xiuh couatl venom, Grab
+**Melee** ◆ jaws +25/+20/+15 (magical); **Damage** 2d10+10 piercing plus 2d8 fire, xiuh couatl venom, and Grab plus xiuh couatl venom, Grab
 
 **Innate occult Spells** (DC 32), attack +24
 

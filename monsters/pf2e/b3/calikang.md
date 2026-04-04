@@ -11,6 +11,8 @@ uncommon, ln, large, humanoid
 
 **Skills** Athletics +25, Intimidation +24
 
+**Recall Knowledge - Humanoid** (Society): DC 32
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** -2, **WIS** +2, **CHA** +4
 
 **Items** +1 striking longsword (2)
@@ -33,9 +35,9 @@ uncommon, ln, large, humanoid
 
 Speed 35 feet
 
-**Melee** ◆ longsword +28 (magical, reach <10 feet>, versatile <P>); **Damage** 2d8+15 slashing
+**Melee** ◆ longsword +28/+23/+18 (magical, reach <10 feet>, versatile <P>); **Damage** 2d8+15 slashing
 
-**Melee** ◆ fist +25 (agile, nonlethal, reach <10 feet>); **Damage** 3d8+13 bludgeoning
+**Melee** ◆ fist +25/+21/+17 (agile, nonlethal, reach <10 feet>); **Damage** 3d8+13 bludgeoning
 
 **Innate arcane Spells** (DC 28)
 

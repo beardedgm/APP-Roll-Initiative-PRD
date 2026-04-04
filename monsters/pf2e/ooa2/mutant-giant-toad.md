@@ -9,6 +9,8 @@ rare, n, large, animal, mutant
 
 **Skills** Athletics +10, Stealth +7
 
+**Recall Knowledge - Animal** (Nature): DC 23
+
 **STR** +5, **DEX** +3, **CON** +3, **INT** -4, **WIS** +3, **CHA** -2
 
 ---
@@ -27,9 +29,9 @@ rare, n, large, animal, mutant
 
 Speed 25 feet
 
-**Melee** ◆ jaws +12; **Damage** 1d8+7 piercing plus Grab
+**Melee** ◆ jaws +12/+7/+2; **Damage** 1d8+7 piercing plus Grab
 
-**Melee** ◆ tongue +12 (reach <10 feet>); **Damage** tongue grab
+**Melee** ◆ tongue +12/+7/+2 (reach <10 feet>); **Damage** tongue grab
 
 **Giant Toad Poison** (poison) As giant toad, but DC 20.
 

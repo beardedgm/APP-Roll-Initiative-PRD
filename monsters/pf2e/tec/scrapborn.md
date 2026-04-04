@@ -11,6 +11,8 @@ rare, ne, medium, aberration, aquatic
 
 **Skills** Athletics +12, Intimidation +12, Stealth +11
 
+**Recall Knowledge - Aberration** (Occultism): DC 25
+
 **STR** +5, **DEX** +4, **CON** +3, **INT** +0, **WIS** +1, **CHA** -2
 
 ---
@@ -31,9 +33,9 @@ rare, ne, medium, aberration, aquatic
 
 Speed 25 feet, swim 30 feet
 
-**Melee** ◆ claw +14; **Damage** 2d8+5 piercing
+**Melee** ◆ claw +14/+9/+4; **Damage** 2d8+5 piercing
 
-**Ranged** ◆ thrown scrap +13; **Damage** 2d8+2 bludgeoning
+**Ranged** ◆ thrown scrap +13/+8/+3; **Damage** 2d8+2 bludgeoning
 
 **Rebuild Armor** ◆ **Requirements** The scrapborn's previous action was a successful claw Strike against a target wearing armor and that armor is not broken; The scrapborn pulls and rips at the target's armor. The target must attempt a DC 20 Reflex save. **Critical Success** 
 **Success** 

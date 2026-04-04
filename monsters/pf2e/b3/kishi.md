@@ -11,6 +11,8 @@ ne, medium, fey
 
 **Skills** Athletics +18, Deception +20, Diplomacy +19, Society +15, Stealth +18
 
+**Recall Knowledge - Fey** (Nature): DC 24
+
 **STR** +6, **DEX** +4, **CON** +1, **INT** +1, **WIS** +2, **CHA** +5
 
 ---
@@ -29,9 +31,9 @@ ne, medium, fey
 
 Speed 25 feet
 
-**Melee** ◆ jaws +20; **Damage** 2d10+9 piercing plus Grab plus Grab
+**Melee** ◆ jaws +20/+15/+10; **Damage** 2d10+9 piercing plus Grab plus Grab
 
-**Melee** ◆ claw +20 (agile); **Damage** 2d8+9 slashing
+**Melee** ◆ claw +20/+16/+12 (agile); **Damage** 2d8+9 slashing
 
 **Innate arcane Spells** (DC 27)
 

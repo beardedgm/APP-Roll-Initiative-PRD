@@ -11,6 +11,8 @@ rare, le, medium, duergar, dwarf, humanoid
 
 **Skills** Acrobatics +25, Athletics +23, Intimidation +22, Society +21, Stealth +27, Survival +26
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +4, **DEX** +8, **CON** +3, **INT** +2, **WIS** +5, **CHA** +3
 
 **Items** +2 striking composite longbow (100 arrows), +1 striking hatchet (2), key to the Temple of All Gods, +1 resilient studded leather
@@ -31,9 +33,9 @@ rare, le, medium, duergar, dwarf, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ hatchet +28 (agile, finesse, magical, versatile <S>); **Damage** 2d6+10 slashing
+**Melee** ◆ hatchet +28/+24/+20 (agile, finesse, magical, versatile <S>); **Damage** 2d6+10 slashing
 
-**Ranged** ◆ composite longbow +29 (deadly <1d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+8 piercing
+**Ranged** ◆ composite longbow +29/+24/+19 (deadly <1d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+8 piercing
 
 **Innate occult Spells** (DC 33)
 

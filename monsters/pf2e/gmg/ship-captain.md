@@ -11,6 +11,8 @@ ln, medium, human, humanoid
 
 **Skills** Acrobatics +10, Athletics +12, Diplomacy +11, Intimidation +13, Survival +10, Sailing Lore +17
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +4, **DEX** +2, **CON** +0, **INT** +1, **WIS** +2, **CHA** +3
 
 **Items** dagger, hand crossbow (10 bolts), leather armor, +1 rapier
@@ -29,11 +31,11 @@ ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ rapier +17 (deadly <1d8>, disarm, magical); **Damage** 1d6+10 piercing
+**Melee** ◆ rapier +17/+12/+7 (deadly <1d8>, disarm, magical); **Damage** 1d6+10 piercing
 
-**Melee** ◆ main-gauche +16 (agile, disarm, parry, versatile <S>); **Damage** 1d4+10 piercing
+**Melee** ◆ main-gauche +16/+12/+8 (agile, disarm, parry, versatile <S>); **Damage** 1d4+10 piercing
 
-**Ranged** ◆ hand crossbow +14 (range increment <60 feet>, reload <1>); **Damage** 1d6+6 piercing
+**Ranged** ◆ hand crossbow +14/+9/+4 (range increment <60 feet>, reload <1>); **Damage** 1d6+6 piercing
 
 **Dual Disarm** ◆◆ The captain makes two Strikes, one with their rapier and one with their main-gauche (in either order). If both Strikes hit, the ship captain can attempt to Disarm the target. Their multiple attack penalty increases only after all the attacks are made.
 

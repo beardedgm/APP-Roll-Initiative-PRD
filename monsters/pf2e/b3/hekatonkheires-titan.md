@@ -11,6 +11,8 @@ rare, ce, gargantuan, aberration, titan
 
 **Skills** Acrobatics +42, Athletics +48, Intimidation +45, Occultism +41, Survival +39
 
+**Recall Knowledge - Aberration** (Occultism): DC 53
+
 **STR** +12, **DEX** +10, **CON** +12, **INT** +7, **WIS** +7, **CHA** +9
 
 ---
@@ -31,9 +33,9 @@ rare, ce, gargantuan, aberration, titan
 
 Speed 60 feet, air walk, freedom of movement
 
-**Melee** ◆ void weapon +45 (magical, reach <50 feet>, versatile <P>, versatile <S>); **Damage** 4d12+18 bludgeoning plus 2d12 force
+**Melee** ◆ void weapon +45/+40/+35 (magical, reach <50 feet>, versatile <P>, versatile <S>); **Damage** 4d12+18 bludgeoning plus 2d12 force
 
-**Ranged** ◆ void weapon +43 (magical, thrown <200 feet>, versatile <P>, versatile <S>); **Damage** 4d12+18 bludgeoning plus 2d12 force
+**Ranged** ◆ void weapon +43/+38/+33 (magical, thrown <200 feet>, versatile <P>, versatile <S>); **Damage** 4d12+18 bludgeoning plus 2d12 force
 
 **Innate occult Spells** (DC 48)
 

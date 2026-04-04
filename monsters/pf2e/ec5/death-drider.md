@@ -11,6 +11,8 @@ uncommon, ce, large, undead
 
 **Skills** Acrobatics +30, Athletics +28, Intimidation +24, Stealth +30
 
+**Recall Knowledge - Undead** (Religion): DC 33
+
 **STR** +6, **DEX** +8, **CON** +4, **INT** -1, **WIS** +5, **CHA** +4
 
 ---
@@ -29,9 +31,9 @@ uncommon, ce, large, undead
 
 Speed 30 feet, climb 30 feet
 
-**Melee** ◆ fangs +27; **Damage** 4d6+13 piercing plus death drider venom plus death drider venom
+**Melee** ◆ fangs +27/+22/+17; **Damage** 4d6+13 piercing plus death drider venom plus death drider venom
 
-**Ranged** ◆ web +27 (range increment <30 feet>); plus hungering web
+**Ranged** ◆ web +27/+22/+17 (range increment <30 feet>); plus hungering web
 
 **Death Drider Venom** (poison)
 

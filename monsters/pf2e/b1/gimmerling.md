@@ -11,6 +11,8 @@ uncommon, le, small, fey
 
 **Skills** Crafting +23, Deception +25, Nature +21, Stealth +25, Thievery +25
 
+**Recall Knowledge - Fey** (Nature): DC 32
+
 **STR** +4, **DEX** +7, **CON** +4, **INT** +5, **WIS** +3, **CHA** +4
 
 **Items** +1 striking hand crossbow (20 bolts
@@ -38,11 +40,11 @@ uncommon, le, small, fey
 
 Speed 30 feet, trickster's step
 
-**Melee** ◆ claw +26 (agile, finesse); **Damage** 2d8+7 slashing plus Disarm plus Disarm
+**Melee** ◆ claw +26/+22/+18 (agile, finesse); **Damage** 2d8+7 slashing plus Disarm plus Disarm
 
-**Melee** ◆ jaws +26 (finesse); **Damage** 3d8+7 piercing plus 2d6 poison
+**Melee** ◆ jaws +26/+21/+16 (finesse); **Damage** 3d8+7 piercing plus 2d6 poison
 
-**Ranged** ◆ hand crossbow +28 (range increment <60 feet>, reload <1>); **Damage** 2d6+3 piercing plus 2d6 poison
+**Ranged** ◆ hand crossbow +28/+23/+18 (range increment <60 feet>, reload <1>); **Damage** 2d6+3 piercing plus 2d6 poison
 
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The gimmerling changes into its natural form or that of any humanoid. In humanoid form, it loses its treacherous aura, and its equipment appears to be trinkets or toys. As a humanoid that lacks claws or fangs, it loses the matching Strike. If it loses its claw Strike, it gains a fist Strike that is identical except that it deals bludgeoning damage.
 

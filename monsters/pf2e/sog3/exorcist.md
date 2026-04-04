@@ -11,6 +11,8 @@ rare, ln, medium, human, humanoid
 
 **Skills** Diplomacy +14, Intimidation +16, Medicine +16, Occultism +15, Religion +18
 
+**Recall Knowledge - Humanoid** (Society): DC 29
+
 **STR** +2, **DEX** +2, **CON** +3, **INT** +1, **WIS** +4, **CHA** +2
 
 **Items** hide armor, key (opens all gates except Earth gate), , torch
@@ -27,9 +29,9 @@ rare, ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ spear +17 (magical, reach); **Damage** 2d6+5 piercing
+**Melee** ◆ spear +17/+12/+7 (magical, reach); **Damage** 2d6+5 piercing
 
-**Melee** ◆ torch +16 (agile, finesse, shove); **Damage** 1d4+5 bludgeoning plus 1d6 fire
+**Melee** ◆ torch +16/+12/+8 (agile, finesse, shove); **Damage** 1d4+5 bludgeoning plus 1d6 fire
 
 **prepared divine Spells** (DC 26), attack +18
 

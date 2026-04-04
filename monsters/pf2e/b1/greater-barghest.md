@@ -11,6 +11,8 @@ uncommon, ce, large, fiend, mutant
 
 **Skills** Acrobatics +15, Deception +18, Diplomacy +14, Intimidation +16, Stealth +15, Survival +14
 
+**Recall Knowledge - Fiend** (Religion): DC 25
+
 **STR** +6, **DEX** +2, **CON** +4, **INT** +3, **WIS** +3, **CHA** +5
 
 ---
@@ -31,9 +33,9 @@ uncommon, ce, large, fiend, mutant
 
 Speed 35 feet
 
-**Melee** ◆ jaws +17; **Damage** 2d10+6 piercing
+**Melee** ◆ jaws +17/+12/+7; **Damage** 2d10+6 piercing
 
-**Melee** ◆ claw +17 (agile); **Damage** 2d8+6 slashing
+**Melee** ◆ claw +17/+13/+9 (agile); **Damage** 2d8+6 slashing
 
 **Innate divine Spells** (DC 25)
 

@@ -9,6 +9,8 @@ n, large, animal
 
 **Skills** Athletics +10, Stealth +10
 
+**Recall Knowledge - Animal** (Nature): DC 18
+
 **STR** +5, **DEX** +3, **CON** +1, **INT** -4, **WIS** +3, **CHA** -2
 
 **Camouflage** The giant chameleon can change its coloration to match its surroundings. It doesn't need cover to attempt to Hide with a Stealth check.

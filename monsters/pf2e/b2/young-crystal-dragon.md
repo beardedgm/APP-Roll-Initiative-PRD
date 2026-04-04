@@ -11,6 +11,8 @@ uncommon, ng, large, dragon, earth, elemental
 
 **Skills** Acrobatics +14, Athletics +16, Deception +15, Intimidation +15, Nature +15, Stealth +18, Survival +15
 
+**Recall Knowledge - Dragon** (Arcana, Nature): DC 25
+
 **STR** +5, **DEX** +1, **CON** +3, **INT** +1, **WIS** +2, **CHA** +4
 
 ---
@@ -33,11 +35,11 @@ uncommon, ng, large, dragon, earth, elemental
 
 Speed 40 feet, fly 100 feet, burrow 30 feet
 
-**Melee** ◆ jaws +18 (sonic, reach <10 feet>); **Damage** 2d8+8 slashing plus 2d6 piercing
+**Melee** ◆ jaws +18/+13/+8 (sonic, reach <10 feet>); **Damage** 2d8+8 slashing plus 2d6 piercing
 
-**Melee** ◆ claw +18 (agile); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +18/+14/+10 (agile); **Damage** 2d6+8 slashing
 
-**Melee** ◆ tail +16 (reach <15 feet>); **Damage** 1d10+8 slashing
+**Melee** ◆ tail +16/+11/+6 (reach <15 feet>); **Damage** 1d10+8 slashing
 
 **Innate primal Spells** (DC 25)
 

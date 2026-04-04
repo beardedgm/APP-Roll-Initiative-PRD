@@ -11,6 +11,8 @@ rare, ne, medium, humanoid, xulgath
 
 **Skills** Acrobatics +25, Athletics +21, Intimidation +16, Stealth +19, Survival +16
 
+**Recall Knowledge - Humanoid** (Society): DC 32
+
 **STR** +7, **DEX** +5, **CON** +3, **INT** +0, **WIS** +2, **CHA** +0
 
 ---
@@ -29,9 +31,9 @@ rare, ne, medium, humanoid, xulgath
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ jaws +22; **Damage** 1d6+13 piercing
+**Melee** ◆ jaws +22/+17/+12; **Damage** 1d6+13 piercing
 
-**Melee** ◆ claw +22 (agile); **Damage** 2d8+13 slashing
+**Melee** ◆ claw +22/+18/+14 (agile); **Damage** 2d8+13 slashing
 
 **Quick Catch** The hooklimb always critically succeeds at checks to Grab a Ledge.
 

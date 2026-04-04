@@ -11,6 +11,8 @@ lg, medium, archon, celestial
 
 **Skills** Acrobatics +25, Diplomacy +29, Intimidation +28, Nature +23, Performance +31, Religion +23, Stealth +25
 
+**Recall Knowledge - Celestial** (Religion): DC 32
+
 **STR** +7, **DEX** +5, **CON** +5, **INT** +3, **WIS** +6, **CHA** +8
 
 **Items** +2 striking bastard sword, +1 resilient full plate, virtuoso trumpet
@@ -33,7 +35,7 @@ lg, medium, archon, celestial
 
 Speed 35 feet, fly 60 feet
 
-**Melee** ◆ bastard sword +29 (good, magical, versatile <P>); **Damage** 2d12+13 slashing plus 2d6 sonic and 1d6 good
+**Melee** ◆ bastard sword +29/+24/+19 (good, magical, versatile <P>); **Damage** 2d12+13 slashing plus 2d6 sonic and 1d6 good
 
 **Innate divine Spells** (DC 34)
 

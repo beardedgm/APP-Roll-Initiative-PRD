@@ -11,6 +11,8 @@ unique, le, shadow, undead, vampire
 
 **Skills** Acrobatics +27, Arcana +29, Athletics +25, Deception +27, Occultism +27, Society +25, Stealth +29, Thassilon Lore +29
 
+**Recall Knowledge - Undead** (Religion): DC 44
+
 **STR** +6, **DEX** +8, **CON** +4, **INT** +8, **WIS** +4, **CHA** +6
 
 **Items** bracers of armor type II, ring of wizardry type IV
@@ -37,7 +39,7 @@ unique, le, shadow, undead, vampire
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ claw +29 (agile, magic); **Damage** 3d10+12 slashing plus Grab
+**Melee** ◆ claw +29/+25/+21 (agile, magic); **Damage** 3d10+12 slashing plus Grab
 
 **Wizard Spells Prepared** (DC 36), attack +28
 

@@ -11,6 +11,8 @@ rare, le, huge, divine, humanoid
 
 **Skills** Acrobatics +29, Athletics +34, Intimidation +33, Religion +28, Walkena Lore +33
 
+**Recall Knowledge - Humanoid** (Society): DC 41
+
 **STR** +9, **DEX** +4, **CON** +8, **INT** +2, **WIS** +3, **CHA** +8
 
 **Items** spear
@@ -43,11 +45,11 @@ rare, le, huge, divine, humanoid
 
 Speed 60 feet, air walk
 
-**Melee** ◆ holy spear +33 (magical, reach <20 feet>, versatile fire); **Damage** 3d12+19 piercing
+**Melee** ◆ holy spear +33/+28/+23 (magical, reach <20 feet>, versatile fire); **Damage** 3d12+19 piercing
 
-**Melee** ◆ fist +33 (agile, finesse, unarmed, versatile fire); **Damage** 3d6+19 bludgeoning plus Improved Grab
+**Melee** ◆ fist +33/+29/+25 (agile, finesse, unarmed, versatile fire); **Damage** 3d6+19 bludgeoning plus Improved Grab
 
-**Ranged** ◆ sunfire +31 (fire, magical, range increment <120 feet>); **Damage** 3d8+18 fire
+**Ranged** ◆ sunfire +31/+26/+21 (fire, magical, range increment <120 feet>); **Damage** 3d8+18 fire
 
 **Innate divine Spells** (DC 36), attack +28
 

@@ -11,6 +11,8 @@ unique, le, gargantuan, aeon, monitor
 
 **Skills** Acrobatics +45, Athletics +48, Intimidation +45, Demiplane Lore +48
 
+**Recall Knowledge - Monitor** (Religion): DC 58
+
 **STR** +12, **DEX** +9, **CON** +10, **INT** +8, **WIS** +8, **CHA** +7
 
 **Spatial Sense** Syndara instinctively knows the position of all creatures and objects within the Glass Lighthouse as a precise sense. His senses do not extend into extraplanar spaces (such as a bag of holding (generic)), even if the entrance to these spaces is within the Lighthouse.
@@ -43,11 +45,11 @@ unique, le, gargantuan, aeon, monitor
 
 Speed 60 feet, fly 60 feet
 
-**Melee** ◆ spatial pincers +43 (magical, reach <15 feet>, versatile <S>); **Damage** 7d10+18 piercing
+**Melee** ◆ spatial pincers +43/+38/+33 (magical, reach <15 feet>, versatile <S>); **Damage** 7d10+18 piercing
 
-**Melee** ◆ tentacle +43 (agile, magical, reach <20 feet>); **Damage** 7d8+20 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tentacle +43/+39/+35 (agile, magical, reach <20 feet>); **Damage** 7d8+20 bludgeoning plus Improved Grab plus Improved Grab
 
-**Ranged** ◆ warpspines +43 (agile, brutal, magical, propulsive, range increment <120 feet>, splash 4d6 piercing); **Damage** 4d6+12 piercing
+**Ranged** ◆ warpspines +43/+39/+35 (agile, brutal, magical, propulsive, range increment <120 feet>, splash 4d6 piercing); **Damage** 4d6+12 piercing
 
 **Dimensional Flurry** ◆◆◆ Syndara makes six Strikes. Any creature struck must succeed at a DC 46 Will save or be teleported to a location of Syndara's choice within 60 feet of him when the flurry is complete. The teleportation has the conjuration, divine, and teleportation traits.
 

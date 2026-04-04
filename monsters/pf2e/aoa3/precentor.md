@@ -11,6 +11,8 @@ uncommon, le, medium, fiend, velstrac
 
 **Skills** Acrobatics +27, Athletics +28, Deception +32, Diplomacy +34, Performance +34, Religion +30, Stealth +29, Torture Lore +26
 
+**Recall Knowledge - Fiend** (Religion): DC 37
+
 **STR** +6, **DEX** +7, **CON** +3, **INT** +6, **WIS** +6, **CHA** +8
 
 **Painsight** (divination, divine) A velstrac automatically knows whether a creature it sees has any of the doomed, dying, and wounded conditions, as well as the value of those conditions.
@@ -33,7 +35,7 @@ uncommon, le, medium, fiend, velstrac
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ claw +31 (agile, finesse, reach <10 feet>); **Damage** 4d10+6 slashing plus 1d6 persistent bleed
+**Melee** ◆ claw +31/+27/+23 (agile, finesse, reach <10 feet>); **Damage** 4d10+6 slashing plus 1d6 persistent bleed
 
 **Innate divine Spells** (DC 38)
 

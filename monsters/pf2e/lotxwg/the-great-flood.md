@@ -11,6 +11,8 @@ unique, gargantuan, amphibious, beast
 
 **Skills** Athletics +38, Deception +33, Diplomacy +33, Intimidation +38, Nature +31, Performance +29, Society +33
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 50
+
 **STR** +10, **DEX** +8, **CON** +9, **INT** +7, **WIS** +5, **CHA** +5
 
 **Leading Head** During each of the Great Flood's appearances, one head takes the lead once combat begins, chosen by the GM when initiative is rolled. Whichever head is in the lead grants a different action the Great Flood can use during its first turn each round (see Coordinated Actions). 
@@ -41,11 +43,11 @@ unique, gargantuan, amphibious, beast
 
 Speed 40 feet, swim 80 feet
 
-**Melee** ◆ jaws +40 (reach <15 feet>); **Damage** 4d8+20 piercing
+**Melee** ◆ jaws +40/+35/+30 (reach <15 feet>); **Damage** 4d8+20 piercing
 
-**Melee** ◆ tail +40 (agile, reach <15 feet>); **Damage** 4d6+20 bludgeoning
+**Melee** ◆ tail +40/+36/+32 (agile, reach <15 feet>); **Damage** 4d6+20 bludgeoning
 
-**Ranged** ◆ breath +39 (range <180 feet>); **Damage** 4d12 poison plus flood breath plus flood breath
+**Ranged** ◆ breath +39/+34/+29 (range <180 feet>); **Damage** 4d12 poison plus flood breath plus flood breath
 
 **Flood Breath** (disease, poison)
 

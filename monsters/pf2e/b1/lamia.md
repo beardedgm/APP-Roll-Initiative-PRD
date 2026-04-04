@@ -11,6 +11,8 @@ ce, large, beast
 
 **Skills** Deception +15, Diplomacy +11, Intimidation +13, Stealth +15, Survival +11, Cult Lore +11
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 22
+
 **STR** +5, **DEX** +3, **CON** +2, **INT** +1, **WIS** +3, **CHA** +3
 
 **Items** javelin (2), +1 spear
@@ -27,13 +29,13 @@ ce, large, beast
 
 Speed 40 feet
 
-**Melee** ◆ spear +17; **Damage** 1d6+8 piercing
+**Melee** ◆ spear +17/+12/+7; **Damage** 1d6+8 piercing
 
-**Melee** ◆ claw +17 (agile); **Damage** 1d6+8 slashing plus Grab plus Grab
+**Melee** ◆ claw +17/+13/+9 (agile); **Damage** 1d6+8 slashing plus Grab plus Grab
 
-**Ranged** ◆ spear +14 (thrown <20 feet>, versatile <S>); **Damage** 1d4+8 piercing
+**Ranged** ◆ spear +14/+9/+4 (thrown <20 feet>, versatile <S>); **Damage** 1d4+8 piercing
 
-**Ranged** ◆ javelin +15 (thrown <30 feet>); **Damage** 1d6+8 piercing
+**Ranged** ◆ javelin +15/+10/+5 (thrown <30 feet>); **Damage** 1d6+8 piercing
 
 **Innate occult Spells** (DC 25)
 

@@ -11,6 +11,8 @@ uncommon, ne, gargantuan, aberration, aquatic
 
 **Skills** Athletics +36, Deception +40, Occultism +43, Stealth +40, Survival +36
 
+**Recall Knowledge - Aberration** (Occultism): DC 44
+
 **STR** +6, **DEX** +10, **CON** +7, **INT** +10, **WIS** +6, **CHA** +7
 
 ---
@@ -25,9 +27,9 @@ uncommon, ne, gargantuan, aberration, aquatic
 
 Speed 10 feet, swim 80 feet
 
-**Melee** ◆ jaws +39 (agile, deadly <3d10>, finesse, reach <15 feet>); **Damage** 4d12+18 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +39/+35/+31 (agile, deadly <3d10>, finesse, reach <15 feet>); **Damage** 4d12+18 piercing plus Improved Grab plus Improved Grab
 
-**Melee** ◆ lure +37 (agile, finesse, magical, reach <40 feet>); **Damage** 4d6+18 bludgeoning plus 2d6 mental and beguiling lure plus beguiling lure
+**Melee** ◆ lure +37/+33/+29 (agile, finesse, magical, reach <40 feet>); **Damage** 4d6+18 bludgeoning plus 2d6 mental and beguiling lure plus beguiling lure
 
 **Innate occult Spells** (DC 41)
 

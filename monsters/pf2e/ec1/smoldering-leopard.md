@@ -9,6 +9,8 @@ uncommon, ne, medium, animal, fiend
 
 **Skills** Acrobatics +11, Athletics +10, Stealth +11
 
+**Recall Knowledge - Animal** (Nature, Religion): DC 20
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** -4, **WIS** +1, **CHA** -2
 
 ---
@@ -29,9 +31,9 @@ uncommon, ne, medium, animal, fiend
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ jaws +12 (finesse); **Damage** 1d10+3 piercing plus 1d4 fire and Grab plus Grab
+**Melee** ◆ jaws +12/+7/+2 (finesse); **Damage** 1d10+3 piercing plus 1d4 fire and Grab plus Grab
 
-**Melee** ◆ claw +12 (agile, finesse); **Damage** 1d6+3 slashing plus 1d4 fire
+**Melee** ◆ claw +12/+8/+4 (agile, finesse); **Damage** 1d6+3 slashing plus 1d4 fire
 
 **Pounce** ◆ The smoldering leopard Strides and makes a Strike at the end of that movement. If the leopard began this action hidden, it remains hidden until after making this ability's Strike.
 

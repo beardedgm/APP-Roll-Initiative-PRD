@@ -11,6 +11,8 @@ rare, n, huge, aquatic, beast, water
 
 **Skills** Athletics +22, Stealth +23
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 32
+
 **STR** +8, **DEX** +5, **CON** +5, **INT** -3, **WIS** +5, **CHA** +0
 
 **Slow Metabolism** A water orm can go for 10 years without feeding. Beyond this limit, the water orm's hunger causes it to become slowed 1, but doesn't otherwise impact its lifespan. A water orm that's slowed as a result of starvation can remove this condition by using Swallow Whole to gulp down a meal.
@@ -29,9 +31,9 @@ rare, n, huge, aquatic, beast, water
 
 Speed 20 feet, swim 50 feet
 
-**Melee** ◆ jaws +24 (reach <15 feet>); **Damage** 2d10+11 piercing plus Grab plus Grab
+**Melee** ◆ jaws +24/+19/+14 (reach <15 feet>); **Damage** 2d10+11 piercing plus Grab plus Grab
 
-**Melee** ◆ tail +24 (agile, reach <15 feet>); **Damage** 2d6+11 bludgeoning
+**Melee** ◆ tail +24/+20/+16 (agile, reach <15 feet>); **Damage** 2d6+11 bludgeoning
 
 **Swallow Whole** ◆ (attack) Large, 2d8+8 bludgeoning, Rupture 22.
 

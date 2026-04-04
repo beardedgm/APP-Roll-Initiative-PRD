@@ -9,6 +9,8 @@ uncommon, n, medium, clockwork, construct, mindless
 
 **Skills** Athletics +9, Brewing Lore +8
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 20
+
 **STR** +4, **DEX** +3, **CON** +1, **INT** -5, **WIS** +3, **CHA** +1
 
 **Items** artisan's tools (brewing)
@@ -37,7 +39,7 @@ uncommon, n, medium, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** ◆ leg +9 (agile, unarmed); **Damage** 2d4+4 bludgeoning plus Grab
+**Melee** ◆ leg +9/+5/+1 (agile, unarmed); **Damage** 2d4+4 bludgeoning plus Grab
 
 **Bottoms Up** ◆ **Requirements** The clockwork brewer has a creature grappled; The clockwork brewer forcefeeds the grappled creature 1 serving of whatever liquid is in the clockwork brewer's tank (typically beer such as Smokeside Sour; see sidebar). The creature is exposed to the liquid's effects, and it can't breathe or speak until the start of its turn.
 

@@ -11,6 +11,8 @@ ne, medium, humanoid, urdefhan
 
 **Skills** Acrobatics +24, Nature +23, Religion +21, Stealth +26, Survival +25
 
+**Recall Knowledge - Humanoid** (Society): DC 30
+
 **STR** +4, **DEX** +6, **CON** +4, **INT** +2, **WIS** +5, **CHA** +1
 
 **Items** +1 striking composite longbow with 50 arrows, +1 striking rhoka sword
@@ -33,11 +35,11 @@ ne, medium, humanoid, urdefhan
 
 Speed 30 feet
 
-**Melee** ◆ rhoka sword +24 (fatal <d10>, magical, two-hand <d12>); **Damage** 2d8+10 slashing
+**Melee** ◆ rhoka sword +24/+19/+14 (fatal <d10>, magical, two-hand <d12>); **Damage** 2d8+10 slashing
 
-**Melee** ◆ jaws +22 (agile); **Damage** 3d6+10 piercing plus wicked bite plus wicked bite
+**Melee** ◆ jaws +22/+18/+14 (agile); **Damage** 3d6+10 piercing plus wicked bite plus wicked bite
 
-**Ranged** ◆ composite longbow +26 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+4 piercing
+**Ranged** ◆ composite longbow +26/+21/+16 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+4 piercing
 
 **Innate divine Spells** (DC 29), attack +23
 

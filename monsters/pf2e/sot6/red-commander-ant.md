@@ -11,6 +11,8 @@ rare, n, huge, beast
 
 **Skills** Athletics +30, Diplomacy +32, Intimidation +32, Nature +29, Survival +29
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 41
+
 **STR** +9, **DEX** +5, **CON** +6, **INT** +0, **WIS** +6, **CHA** +9
 
 ---
@@ -27,9 +29,9 @@ rare, n, huge, beast
 
 Speed 40 feet, climb 20 feet
 
-**Melee** ◆ mandibles +33 (reach <10 feet>); **Damage** 3d10+17 slashing plus Improved Grab
+**Melee** ◆ mandibles +33/+28/+23 (reach <10 feet>); **Damage** 3d10+17 slashing plus Improved Grab
 
-**Melee** ◆ stinger +33 (agile, reach <10 feet>); **Damage** 3d6+17 piercing plus red ant venom
+**Melee** ◆ stinger +33/+29/+25 (agile, reach <10 feet>); **Damage** 3d6+17 piercing plus red ant venom
 
 **Constrict** ◆ 5d10, DC 38. Before using Constrict, the ant can choose to smash one creature that it has Grabbed or restrained against the ground. That creature uses the result one degree of success worse than its Fortitude save result against Constrict, but it is then no longer grabbed or restrained by the ant.
 

@@ -9,6 +9,8 @@ ne, large, mindless, skeleton, undead
 
 **Skills** Athletics +12, Intimidation +9
 
+**Recall Knowledge - Undead** (Religion): DC 18
+
 **STR** +5, **DEX** +1, **CON** +3, **INT** -5, **WIS** +0, **CHA** +2
 
 **Items** greatsword, half plate armor
@@ -29,9 +31,9 @@ ne, large, mindless, skeleton, undead
 
 Speed 30 feet
 
-**Melee** ◆ greatsword +12 (reach <10 feet>, versatile <S>); **Damage** 1d12 + 7 slashing
+**Melee** ◆ greatsword +12/+7/+2 (reach <10 feet>, versatile <S>); **Damage** 1d12 + 7 slashing
 
-**Melee** ◆ horns +12 (agile); **Damage** 1d10 + 5 piercing
+**Melee** ◆ horns +12/+8/+4 (agile); **Damage** 1d10 + 5 piercing
 
 **Broad Swipe** ◆◆ The skeletal giant makes two Strikes with its greatsword against two adjacent foes, both of whom are within its reach. The second attack uses the same multiple attack penalty as the first, but attacks it makes after this take a –10 multiple attack penalty (or a –8 multiple attack penalty for its horns).
 

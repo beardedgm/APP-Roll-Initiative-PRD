@@ -11,6 +11,8 @@ unique, cn, medium, ganzi, humanoid
 
 **Skills** Acrobatics +28, Arcana +34, Deception +35, Diplomacy +33, Occultism +32, Society +32, Stealth +30, Maelstrom Lore +34
 
+**Recall Knowledge - Humanoid** (Society): DC 48
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +6, **WIS** +1, **CHA** +7
 
 **Items** lavender and green ellipsoid aeon stone, brooch of shielding, +2 anarchic greater striking warpglass dagger (page 74), dragon-shaped hookah, ring of spell turning, rod of wonder, spellbook
@@ -35,7 +37,7 @@ unique, cn, medium, ganzi, humanoid
 
 Speed 30 feet, freedom of movement
 
-**Melee** ◆ dagger +30 (agile, chaotic, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 3d4+12 piercing plus 1d6 chaotic (plus warpwave on critical hit)
+**Melee** ◆ dagger +30/+26/+22 (agile, chaotic, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 3d4+12 piercing plus 1d6 chaotic (plus warpwave on critical hit)
 
 **Spontaneous arcane Spells** (DC 39), attack +33
 

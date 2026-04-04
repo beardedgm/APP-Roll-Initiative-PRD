@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Arcana +31, Deception +41, Diplomacy +37, Fortune-telling Lore +33, Intimidation +35, Occultism +33, Performance +31, Society +31
 
+**Recall Knowledge - Humanoid** (Society): DC 50
+
 **STR** +0, **DEX** +5, **CON** +2, **INT** +3, **WIS** +5, **CHA** +9
 
 **Items** bracers of armor type III, circlet of persuasion, Deck of Destiny
@@ -29,7 +31,7 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ fist +31 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+8 bludgeoning
+**Melee** ◆ fist +31/+27/+23 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+8 bludgeoning
 
 **Spontaneous occult Spells** (DC 42), attack +34
 

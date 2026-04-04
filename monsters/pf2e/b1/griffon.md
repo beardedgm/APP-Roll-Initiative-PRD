@@ -9,6 +9,8 @@ n, large, animal
 
 **Skills** Acrobatics +11, Athletics +12, Survival +9
 
+**Recall Knowledge - Animal** (Nature): DC 19
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** -4, **WIS** +1, **CHA** -1
 
 ---
@@ -23,11 +25,11 @@ n, large, animal
 
 Speed 25 feet, fly 60 feet
 
-**Melee** ◆ beak +14 (deadly <1d10>); **Damage** 2d8+4 piercing
+**Melee** ◆ beak +14/+9/+4 (deadly <1d10>); **Damage** 2d8+4 piercing
 
-**Melee** ◆ talon +14 (agile); **Damage** 2d6+4 piercing
+**Melee** ◆ talon +14/+10/+6 (agile); **Damage** 2d6+4 piercing
 
-**Melee** ◆ wing +14 (reach <10 feet>); **Damage** 2d6+4 bludgeoning
+**Melee** ◆ wing +14/+9/+4 (reach <10 feet>); **Damage** 2d6+4 bludgeoning
 
 **Flying Strafe** ◆◆ The griffon Flies up to its fly Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. The attacks take the normal multiple attack penalty.
 

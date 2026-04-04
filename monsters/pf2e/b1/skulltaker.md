@@ -11,6 +11,8 @@ uncommon, ne, huge, undead
 
 **Skills** Acrobatics +34, Intimidation +35, Religion +30, Stealth +32, Skeletal Lore +30
 
+**Recall Knowledge - Undead** (Religion): DC 40
+
 **STR** +8, **DEX** +6, **CON** +6, **INT** +2, **WIS** +8, **CHA** +7
 
 **Skeletal Lore** (divination, divine) A skulltaker taps into the memories of the creatures whose bones make up its body. This gives it the Skeletal Lore skill, which it can use to Recall Knowledge of any kind. In addition, it can speak and understand all the languages known by the creatures whose bones make up its body (typically including Common and the regional language of the skulltaker's home region). The skulltaker can use Skeletal Lore as the primary skill check for the legend lore ritual (Core Rulebook 413), and it can cast legend lore without secondary casters.
@@ -33,11 +35,11 @@ uncommon, ne, huge, undead
 
 Speed 30 feet, fly 60 feet
 
-**Melee** ◆ jaws +35 (deadly <2d12>, magical, reach <10 feet>); **Damage** 3d10+14 piercing plus 3d6 negative and energy drain plus energy drain
+**Melee** ◆ jaws +35/+30/+25 (deadly <2d12>, magical, reach <10 feet>); **Damage** 3d10+14 piercing plus 3d6 negative and energy drain plus energy drain
 
-**Melee** ◆ claw +35 (agile, deadly <2d12>, magical, reach <15 feet>); **Damage** 3d6+14 slashing plus 3d6 negative and energy drain plus energy drain
+**Melee** ◆ claw +35/+31/+27 (agile, deadly <2d12>, magical, reach <15 feet>); **Damage** 3d6+14 slashing plus 3d6 negative and energy drain plus energy drain
 
-**Ranged** ◆ bone javelin +33 (magical, thrown <100 feet>); **Damage** 3d8+6 piercing plus 3d6 negative
+**Ranged** ◆ bone javelin +33/+28/+23 (magical, thrown <100 feet>); **Damage** 3d8+6 piercing plus 3d6 negative
 
 **Innate divine Spells** (DC 40)
 

@@ -7,6 +7,8 @@ ne, gargantuan, mindless, troop, undead, zombie
 
 **Perception** +7; darkvision
 
+**Recall Knowledge - Undead** (Religion): DC 19
+
 **STR** +5, **DEX** +0, **CON** +3, **INT** -5, **WIS** +1, **CHA** -2
 
 **Slow** A shambler troop is permanently slowed 1 and can't use reactions.

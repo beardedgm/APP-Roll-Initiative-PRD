@@ -11,6 +11,8 @@ unique, ce, medium, fey
 
 **Skills** Arcana +10, First World Lore +10, Intimidation +12, Occultism +12, Stealth +12, Survival +8
 
+**Recall Knowledge - Fey** (Nature): DC 29
+
 **STR** +3, **DEX** +5, **CON** +2, **INT** +2, **WIS** +3, **CHA** +4
 
 **Items** Shadewither Key (page 79)
@@ -33,7 +35,7 @@ unique, ce, medium, fey
 
 Speed 30 feet
 
-**Melee** ◆ claw +14; **Damage** 1d6+1 slashing plus shadowfeed
+**Melee** ◆ claw +14/+9/+4; **Damage** 1d6+1 slashing plus shadowfeed
 
 **Innate primal Spells** (DC 21)
 

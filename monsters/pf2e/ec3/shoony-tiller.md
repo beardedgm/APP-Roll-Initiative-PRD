@@ -11,6 +11,8 @@ rare, ng, small, humanoid, shoony
 
 **Skills** Athletics +7, Crafting +1, Diplomacy +4, Survival +4, Farming Lore +3
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +3, **DEX** +1, **CON** +1, **INT** -1, **WIS** +2, **CHA** +2
 
 **Items** hoe
@@ -27,8 +29,8 @@ rare, ng, small, humanoid, shoony
 
 Speed 25 feet
 
-**Melee** ◆ hoe +6; **Damage** 1d4+3 bludgeoning
+**Melee** ◆ hoe +6/+1/-4; **Damage** 1d4+3 bludgeoning
 
-**Ranged** ◆ dirt clod +4 (range increment <10 feet>, thrown); **Damage** 1 nonlethal
+**Ranged** ◆ dirt clod +4/-1/-6 (range increment <10 feet>, thrown); **Damage** 1 nonlethal
 
 **Dig Quickly** ◆◆ (manipulate) Page 72.

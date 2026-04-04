@@ -11,6 +11,8 @@ rare, ne, gargantuan, aberration
 
 **Skills** Arcana +37, Athletics +39, Deception +41, Diplomacy +39, Intimidation +41, Occultism +39, Religion +35, Society +41
 
+**Recall Knowledge - Aberration** (Occultism): DC 47
+
 **STR** +10, **DEX** +5, **CON** +7, **INT** +10, **WIS** +6, **CHA** +10
 
 **Dwarven, Elven, Halfling, Infernal, Undercommon** telepathy 200 feet
@@ -42,7 +44,7 @@ rare, ne, gargantuan, aberration
 
 Speed 40 feet, burrow 30 feet, air walk
 
-**Melee** ◆ jaws +39 (acid, magical, reach <20 feet>); **Damage** 4d10+18 piercing plus 2d6 acid and Improved Grab
+**Melee** ◆ jaws +39/+34/+29 (acid, magical, reach <20 feet>); **Damage** 4d10+18 piercing plus 2d6 acid and Improved Grab
 
 **Spontaneous occult Spells** (DC 48), attack +38
 

@@ -11,6 +11,8 @@ ce, large, giant, humanoid
 
 **Skills** Athletics +16, Intimidation +10
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +6, **DEX** -1, **CON** +4, **INT** -2, **WIS** +2, **CHA** +0
 
 **Items** flail (2)
@@ -31,6 +33,6 @@ ce, large, giant, humanoid
 
 Speed 35 feet
 
-**Melee** ◆ flail +16 (disarm, reach <10 feet>, sweep, trip); **Damage** 2d6+10 bludgeoning
+**Melee** ◆ flail +16/+11/+6 (disarm, reach <10 feet>, sweep, trip); **Damage** 2d6+10 bludgeoning
 
-**Melee** ◆ fist +16 (agile, reach <10 feet>); **Damage** 1d6+10 bludgeoning
+**Melee** ◆ fist +16/+12/+8 (agile, reach <10 feet>); **Damage** 1d6+10 bludgeoning

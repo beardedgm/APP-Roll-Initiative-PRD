@@ -11,6 +11,8 @@ ln, medium, human, humanoid
 
 **Skills** Athletics +7, Intimidation +5, Legal Lore +3
 
+**Recall Knowledge - Humanoid** (Society): DC 15
+
 **STR** +4, **DEX** +2, **CON** +2, **INT** +0, **WIS** +2, **CHA** -1
 
 **Items** crossbow (10 bolts), club, dagger, sap, scale mail, signal whistle
@@ -29,10 +31,10 @@ ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ club +9; **Damage** 1d6+4 bludgeoning
+**Melee** ◆ club +9/+4/-1; **Damage** 1d6+4 bludgeoning
 
-**Melee** ◆ sap +9 (agile, nonlethal); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ sap +9/+5/+1 (agile, nonlethal); **Damage** 1d6+4 bludgeoning
 
-**Ranged** ◆ crossbow +7 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
+**Ranged** ◆ crossbow +7/+2/-3 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
 
-**Ranged** ◆ club +7 (thrown <10 feet>); **Damage** 1d6+4 bludgeoning
+**Ranged** ◆ club +7/+2/-3 (thrown <10 feet>); **Damage** 1d6+4 bludgeoning

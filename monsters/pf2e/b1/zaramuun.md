@@ -11,6 +11,8 @@ ce, large, earth, elemental
 
 **Skills** Athletics +31, Religion +26, Stealth +27
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 35
+
 **STR** +9, **DEX** +5, **CON** +6, **INT** +0, **WIS** +5, **CHA** -1
 
 ---
@@ -29,9 +31,9 @@ ce, large, earth, elemental
 
 Speed 35 feet, burrow 35 feet, sand glide
 
-**Melee** ◆ fist +33; **Damage** 4d12+13 bludgeoning
+**Melee** ◆ fist +33/+28/+23; **Damage** 4d12+13 bludgeoning
 
-**Ranged** ◆ rock or metal debris +29 (range increment <120 feet>); **Damage** 4d8+13 bludgeoning
+**Ranged** ◆ rock or metal debris +29/+24/+19 (range increment <120 feet>); **Damage** 4d8+13 bludgeoning
 
 **Innate divine Spells** (DC 37), attack +31
 

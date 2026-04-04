@@ -11,6 +11,8 @@ uncommon, n, small, elemental, fire, water
 
 **Skills** Acrobatics +7, Intimidation +6
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 17
+
 **STR** +1, **DEX** +2, **CON** +4, **INT** -2, **WIS** +0, **CHA** +0
 
 **Steam Vision** The steam mephit ignores the concealed condition from mist and steam.
@@ -31,7 +33,7 @@ uncommon, n, small, elemental, fire, water
 
 Speed 20 feet, fly 25 feet, swim 25 feet
 
-**Melee** ◆ claw +7 (agile, finesse); **Damage** 1d6+1 slashing
+**Melee** ◆ claw +7/+3/-1 (agile, finesse); **Damage** 1d6+1 slashing
 
 **Innate arcane Spells** (DC 17)
 

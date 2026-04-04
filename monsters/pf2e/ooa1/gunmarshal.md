@@ -11,6 +11,8 @@ uncommon, ln, medium, humanoid
 
 **Skills** Acrobatics +6, Athletics +9, Intimidation +7
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** +0, **WIS** +0, **CHA** +1
 
 **Items** flintlock musket (10 rounds; Guns & Gears 153), leather armor, shortsword
@@ -27,9 +29,9 @@ uncommon, ln, medium, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +11 (agile, finesse, versatile S); **Damage** 1d6+4 piercing
+**Melee** ◆ shortsword +11/+7/+3 (agile, finesse, versatile S); **Damage** 1d6+4 piercing
 
-**Ranged** ◆ flintlock musket +11 (concussive, fatal <d10>, range increment <70 feet>, reload <1>); **Damage** 1d6+4 piercing
+**Ranged** ◆ flintlock musket +11/+6/+1 (concussive, fatal <d10>, range increment <70 feet>, reload <1>); **Damage** 1d6+4 piercing
 
 **Firearms Critical Specialization** When the gunmarshal makes a critical hit with a firearm, the target must succeed at a DC 18 Fortitude save or be stunned 1.
 

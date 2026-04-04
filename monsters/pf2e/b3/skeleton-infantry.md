@@ -9,6 +9,8 @@ ne, gargantuan, mindless, skeleton, troop, undead
 
 **Skills** Athletics +18
 
+**Recall Knowledge - Undead** (Religion): DC 28
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** -5, **WIS** +2, **CHA** +0
 
 ---

@@ -11,6 +11,8 @@ uncommon, ce, large, fiend, qlippoth
 
 **Skills** Acrobatics +32, Athletics +35, Occultism +33, Stealth +32
 
+**Recall Knowledge - Fiend** (Religion): DC 40
+
 **STR** +9, **DEX** +6, **CON** +6, **INT** +5, **WIS** +6, **CHA** +9
 
 ---
@@ -29,9 +31,9 @@ uncommon, ce, large, fiend, qlippoth
 
 Speed 30 feet, fly 50 feet, climb 30 feet, freedom of movement
 
-**Melee** ◆ stinger +35 (reach <10 feet>); **Damage** 3d12+17 piercing plus 3d6 mental, 1d6 chaotic, and thulgant venom plus thulgant venom
+**Melee** ◆ stinger +35/+30/+25 (reach <10 feet>); **Damage** 3d12+17 piercing plus 3d6 mental, 1d6 chaotic, and thulgant venom plus thulgant venom
 
-**Melee** ◆ tentacle +35 (agile, reach <10 feet>); **Damage** 3d8+17 bludgeoning plus 2d6 acid, 1d6 chaotic, and Grab plus Grab
+**Melee** ◆ tentacle +35/+31/+27 (agile, reach <10 feet>); **Damage** 3d8+17 bludgeoning plus 2d6 acid, 1d6 chaotic, and Grab plus Grab
 
 **Innate occult Spells** (DC 40)
 

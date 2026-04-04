@@ -11,6 +11,8 @@ cg, large, dragon, earth
 
 **Skills** Acrobatics +17, Athletics +17, Crafting +14, Deception +15, Performance +16, Society +16, Stealth +17
 
+**Recall Knowledge - Dragon** (Arcana): DC 24
+
 **STR** +5, **DEX** +3, **CON** +2, **INT** +2, **WIS** +2, **CHA** +3
 
 ---
@@ -31,11 +33,11 @@ cg, large, dragon, earth
 
 Speed 30 feet, fly 120 feet, climb stone 30 feet
 
-**Melee** ◆ jaws +20 (acid, reach <10 feet>); **Damage** 2d8+8 piercing plus 1d8 acid
+**Melee** ◆ jaws +20/+15/+10 (acid, reach <10 feet>); **Damage** 2d8+8 piercing plus 1d8 acid
 
-**Melee** ◆ claw +20 (agile); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +20/+16/+12 (agile); **Damage** 2d6+8 slashing
 
-**Melee** ◆ tail +18 (reach <15 feet>); **Damage** 1d8+7 bludgeoning
+**Melee** ◆ tail +18/+13/+8 (reach <15 feet>); **Damage** 1d8+7 bludgeoning
 
 **Innate arcane Spells** (DC 27)
 

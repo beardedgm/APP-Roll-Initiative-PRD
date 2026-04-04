@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Deception +20, Diplomacy +18, Ludovica Lore +16, Nature +18, Religion +18, Society +16
 
+**Recall Knowledge - Humanoid** (Society): DC 34
+
 **STR** +1, **DEX** +3, **CON** +0, **INT** +2, **WIS** +4, **CHA** +4
 
 **Items** ceremonial robes, crystal flower crown, +1 striking dagger
@@ -29,9 +31,9 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +18 (agile, finesse, magical, versatile S); **Damage** 2d4+7 piercing plus 1d6 mental and 1d6 persistent bleed
+**Melee** ◆ dagger +18/+14/+10 (agile, finesse, magical, versatile S); **Damage** 2d4+7 piercing plus 1d6 mental and 1d6 persistent bleed
 
-**Ranged** ◆ dagger +18 (agile, magical, thrown, versatile S); **Damage** 2d4+7 piercing plus 1d6 mental and 1d6 persistent bleed
+**Ranged** ◆ dagger +18/+14/+10 (agile, magical, thrown, versatile S); **Damage** 2d4+7 piercing plus 1d6 mental and 1d6 persistent bleed
 
 **Prepared primal Spells** (DC 26), attack +18
 

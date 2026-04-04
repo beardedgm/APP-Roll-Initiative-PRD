@@ -11,6 +11,8 @@ uncommon, ln, medium, fey, light, nymph
 
 **Skills** Acrobatics +32, Arcana +30, Athletics +28, Deception +37, Diplomacy +39, Intimidation +37, Nature +32, Performance +35, Society +30, Stealth +32
 
+**Recall Knowledge - Fey** (Nature): DC 41
+
 **STR** +5, **DEX** +9, **CON** +6, **INT** +7, **WIS** +7, **CHA** +10
 
 **Tied to the Land** A hesperid queen is intrinsically tied to a specific underground region, usually an isolated region such as an island or island chain, a remote coast, or a secluded valley. As long as the queen is healthy, the environment is exceptionally resilient, allowing the hesperid queen to automatically attempt to counteract spells and rituals that would harm the environment, such as blight, with a +37 counteract modifier and a counteract level of 10. When the hesperid queen becomes physically or psychologically unhealthy, however, their warded region eventually becomes twisted or unhealthy as well. In that case, restoring the hesperid queen swiftly heals the entire region.
@@ -31,9 +33,9 @@ uncommon, ln, medium, fey, light, nymph
 
 Speed 30 feet, fly 90 feet
 
-**Melee** ◆ sunset ribbon +36 (agile, finesse); **Damage** 4d10+13 slashing plus 1d6 fire and 1d6 positive
+**Melee** ◆ sunset ribbon +36/+32/+28 (agile, finesse); **Damage** 4d10+13 slashing plus 1d6 fire and 1d6 positive
 
-**Ranged** ◆ sunset ray +36 (magical, range increment <120 feet>); **Damage** 4d12+13 fire plus 1d6 positive
+**Ranged** ◆ sunset ray +36/+31/+26 (magical, range increment <120 feet>); **Damage** 4d12+13 fire plus 1d6 positive
 
 **Prepared primal Spells** (DC 44)
 

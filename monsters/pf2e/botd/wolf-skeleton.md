@@ -9,6 +9,8 @@ ne, medium, mindless, skeleton, undead
 
 **Skills** Acrobatics +6, Athletics +4, Stealth +6
 
+**Recall Knowledge - Undead** (Religion): DC 14
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** -5, **WIS** +2, **CHA** +0
 
 ---
@@ -27,6 +29,6 @@ ne, medium, mindless, skeleton, undead
 
 Speed 35 feet
 
-**Melee** ◆ jaws +8; **Damage** 1d4+2 piercing plus Knockdown
+**Melee** ◆ jaws +8/+3/-2; **Damage** 1d4+2 piercing plus Knockdown
 
 **Surge of Speed** ◆◆ The wolf skeleton Strides three times, but it's flat-footed until the start of its next turn.

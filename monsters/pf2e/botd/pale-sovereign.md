@@ -11,6 +11,8 @@ rare, ln, medium, undead
 
 **Skills** Deception +31, Diplomacy +31, Intimidation +33, Occultism +28, Society +28
 
+**Recall Knowledge - Undead** (Religion): DC 40
+
 **STR** +4, **DEX** +8, **CON** +4, **INT** +6, **WIS** +6, **CHA** +9
 
 **Demesne Confinement** (curse, necromancy, occult) A pale sovereign is tied to their demesne, a territory of a 5-mile radius surrounding their home estate. They can't leave their demesne of their own accord. A pale sovereign taken from their demesne can't use any of their innate spells or rituals and gradually withers over the course of a week, turning to dust if they don't return before 7 days have passed.
@@ -33,7 +35,7 @@ rare, ln, medium, undead
 
 Speed 25 feet, air walk
 
-**Melee** ◆ rosebriar lash +28 (finesse, magical, reach <10 feet>, versatile <P>); **Damage** 4d8+8 slashing plus 2d6 persistent bleed
+**Melee** ◆ rosebriar lash +28/+23/+18 (finesse, magical, reach <10 feet>, versatile <P>); **Damage** 4d8+8 slashing plus 2d6 persistent bleed
 
 **Innate occult Spells** (DC 41)
 

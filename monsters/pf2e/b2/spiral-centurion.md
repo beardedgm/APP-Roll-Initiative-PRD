@@ -9,6 +9,8 @@ n, medium, construct, mindless
 
 **Skills** Acrobatics +23, Athletics +23
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 28
+
 **STR** +6, **DEX** +6, **CON** +5, **INT** -5, **WIS** +2, **CHA** -5
 
 ---
@@ -27,7 +29,7 @@ n, medium, construct, mindless
 
 Speed 40 feet
 
-**Melee** ◆ blade +23 (agile, sweep); **Damage** 2d12+12 slashing
+**Melee** ◆ blade +23/+19/+15 (agile, sweep); **Damage** 2d12+12 slashing
 
 **Hurl Blade** ◆◆ The spiral centurion hurls one of its blades with an angled spin to ensure a swooping flight path. The blade deals 6d6 slashing damage to each creature in a 40-foot line (DC 30 basic Reflex save). At the start of the spiral centurion's next turn, the blade swoops around and returns along the same flight path, again dealing 6d6 slashing damage (DC 30 basic Reflex save) to each creature along the same line.
 

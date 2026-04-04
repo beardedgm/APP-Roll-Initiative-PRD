@@ -11,6 +11,8 @@ le, large, humanoid, negative
 
 **Skills** Athletics +32, Intimidation +30, Stealth +35, Survival +29
 
+**Recall Knowledge - Humanoid** (Society): DC 35
+
 **STR** +8, **DEX** +9, **CON** +3, **INT** +6, **WIS** +5, **CHA** +4
 
 ---
@@ -31,11 +33,11 @@ le, large, humanoid, negative
 
 Speed 50 feet
 
-**Melee** ◆ sumbreiva huntblade +33 (agile, death, finesse, magical, versatile <S>); **Damage** 3d8+16 piercing plus huntblade brutality plus huntblade brutality
+**Melee** ◆ sumbreiva huntblade +33/+29/+25 (agile, death, finesse, magical, versatile <S>); **Damage** 3d8+16 piercing plus huntblade brutality plus huntblade brutality
 
-**Melee** ◆ shadow whip +33 (agile, death, disarm, finesse, magical, reach <10 feet>, trip); **Damage** 3d4+16 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ shadow whip +33/+29/+25 (agile, death, disarm, finesse, magical, reach <10 feet>, trip); **Damage** 3d4+16 bludgeoning plus Improved Grab plus Improved Grab
 
-**Ranged** ◆ sumbreiva huntblade +33 (agile, death, magical, thrown <30 feet>, versatile <S>); **Damage** 3d8+16 piercing plus huntblade brutality plus huntblade brutality
+**Ranged** ◆ sumbreiva huntblade +33/+29/+25 (agile, death, magical, thrown <30 feet>, versatile <S>); **Damage** 3d8+16 piercing plus huntblade brutality plus huntblade brutality
 
 **Innate arcane Spells** (DC 36)
 

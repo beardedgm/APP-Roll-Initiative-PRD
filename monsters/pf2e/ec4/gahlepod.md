@@ -11,6 +11,8 @@ ce, small, amphibious, fey
 
 **Skills** Acrobatics +17, Survival +14
 
+**Recall Knowledge - Fey** (Nature): DC 23
+
 **STR** +4, **DEX** +6, **CON** +4, **INT** -4, **WIS** +1, **CHA** +0
 
 ---
@@ -29,4 +31,4 @@ ce, small, amphibious, fey
 
 Speed 10 feet, swim 35 feet
 
-**Melee** ◆ jaws +17; **Damage** 2d8+7 piercing
+**Melee** ◆ jaws +17/+12/+7; **Damage** 2d8+7 piercing

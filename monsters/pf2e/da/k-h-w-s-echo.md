@@ -11,6 +11,8 @@ unique, ln, medium, human, humanoid
 
 **Skills** Acrobatics +28, Arcana +25, Athletics +25, Esoteric Lore +30, Nature +25, Occultism +25, Religion +25
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** +4, **DEX** +5, **CON** +4, **INT** +5, **WIS** +5, **CHA** +8
 
 ---
@@ -29,9 +31,9 @@ unique, ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ rope dart +29 (disarm, finesse, magical, sweep, tethered, trip); **Damage** 4d4+13 piercing plus 2d6 mental
+**Melee** ◆ rope dart +29/+24/+19 (disarm, finesse, magical, sweep, tethered, trip); **Damage** 4d4+13 piercing plus 2d6 mental
 
-**Ranged** ◆ rope dart +29 (disarm, finesse, magical, sweep, tethered, thrown <80 feet>, trip); **Damage** 4d4+13 piercing plus 2d6 mental
+**Ranged** ◆ rope dart +29/+24/+19 (disarm, finesse, magical, sweep, tethered, thrown <80 feet>, trip); **Damage** 4d4+13 piercing plus 2d6 mental
 
 **Astral Spindle Implement** The Echo carries a drop spindle that constantly spins red astral thread, which is both his thaumaturgic implement and weapon. If his rope dart is lost or broken, he can re-form it with an Interact action. If he critically succeeds at a rope dart Strike, overwhelming thoughts and figments flow down the thread into the target's mind. The target becomes confused for 1 round.
 

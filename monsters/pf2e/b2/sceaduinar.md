@@ -11,6 +11,8 @@ rare, ne, medium, aberration, negative
 
 **Skills** Acrobatics +17, Athletics +13, Intimidation +13, Occultism +15, Stealth +17
 
+**Recall Knowledge - Aberration** (Occultism): DC 28
+
 **STR** +2, **DEX** +6, **CON** +4, **INT** +2, **WIS** +4, **CHA** +0
 
 ---
@@ -35,9 +37,9 @@ rare, ne, medium, aberration, negative
 
 Speed 30 feet, fly 60 feet
 
-**Melee** ◆ jaws +18 (agile, finesse, magical); **Damage** 2d6+4 piercing plus 2d6 negative and drain life plus drain life
+**Melee** ◆ jaws +18/+14/+10 (agile, finesse, magical); **Damage** 2d6+4 piercing plus 2d6 negative and drain life plus drain life
 
-**Melee** ◆ wing +18 (agile, finesse, magical, reach <10 feet>); **Damage** 2d6+4 slashing plus 2d6 negative
+**Melee** ◆ wing +18/+14/+10 (agile, finesse, magical, reach <10 feet>); **Damage** 2d6+4 slashing plus 2d6 negative
 
 **Innate occult Spells** (DC 25)
 

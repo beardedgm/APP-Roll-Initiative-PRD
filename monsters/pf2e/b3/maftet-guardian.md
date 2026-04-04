@@ -11,6 +11,8 @@ n, medium, humanoid
 
 **Skills** Acrobatics +13, Arcana +13, Athletics +15, Stealth +13, Ruins Lore +15 (applies only to their home ruins)
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +5, **DEX** +3, **CON** +4, **INT** +3, **WIS** +2, **CHA** +0
 
 **Items** scimitar (2)
@@ -29,7 +31,7 @@ n, medium, humanoid
 
 Speed 30 feet, fly 40 feet
 
-**Melee** ◆ scimitar +17 (forceful, magical, sweep); **Damage** 2d6+8 slashing
+**Melee** ◆ scimitar +17/+12/+7 (forceful, magical, sweep); **Damage** 2d6+8 slashing
 
 **Innate arcane Spells** (DC 23)
 

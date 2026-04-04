@@ -11,6 +11,8 @@ ce, medium, undead
 
 **Skills** Acrobatics +31, Intimidation +27, Religion +24, Stealth +27
 
+**Recall Knowledge - Undead** (Religion): DC 34
+
 **STR** +4, **DEX** +8, **CON** +4, **INT** +2, **WIS** +3, **CHA** +6
 
 **Items** +2 greater resilient standard-grade elven chain, hand crossbow (10 bolts), main-gauche, purple worm venom (2), rapier
@@ -35,13 +37,13 @@ ce, medium, undead
 
 Speed 30 feet
 
-**Melee** ◆ greater frost rapier +31 (cold, deadly <2d8>, disarm, finesse, magical); **Damage** 3d6+14 piercing plus 1d6 cold
+**Melee** ◆ greater frost rapier +31/+26/+21 (cold, deadly <2d8>, disarm, finesse, magical); **Damage** 3d6+14 piercing plus 1d6 cold
 
-**Melee** ◆ greater frost main-gauche +31 (agile, cold, disarm, finesse, magical, parry, versatile <S>); **Damage** 3d4+14 piercing plus 1d6 cold
+**Melee** ◆ greater frost main-gauche +31/+27/+23 (agile, cold, disarm, finesse, magical, parry, versatile <S>); **Damage** 3d4+14 piercing plus 1d6 cold
 
-**Melee** ◆ fist +29 (agile, cold); **Damage** 3d6+10 piercing plus 1d6 cold
+**Melee** ◆ fist +29/+25/+21 (agile, cold); **Damage** 3d6+10 piercing plus 1d6 cold
 
-**Ranged** ◆ greater frost hand crossbow +31 (cold, magical, range increment <60 feet>, reload <1>); **Damage** 3d6+14 piercing plus 1d6 cold and purple worm venom plus purple worm venom
+**Ranged** ◆ greater frost hand crossbow +31/+26/+21 (cold, magical, range increment <60 feet>, reload <1>); **Damage** 3d6+14 piercing plus 1d6 cold and purple worm venom plus purple worm venom
 
 **Innate divine Spells** (DC 36)
 

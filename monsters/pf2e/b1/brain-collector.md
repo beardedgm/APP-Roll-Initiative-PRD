@@ -11,6 +11,8 @@ uncommon, ce, large, aberration
 
 **Skills** Acrobatics +17, Arcana +18, Athletics +16, Occultism +21, Stealth +17, Lore +18 (all subcategories)
 
+**Recall Knowledge - Aberration** (Occultism): DC 26
+
 **STR** +6, **DEX** +3, **CON** +5, **INT** +4, **WIS** +4, **CHA** +3
 
 ---
@@ -33,9 +35,9 @@ uncommon, ce, large, aberration
 
 Speed 25 feet, fly 30 feet
 
-**Melee** ◆ jaws +20; **Damage** 2d12+6 piercing plus brain collector venom plus brain collector venom
+**Melee** ◆ jaws +20/+15/+10; **Damage** 2d12+6 piercing plus brain collector venom plus brain collector venom
 
-**Melee** ◆ claw +20 (agile); **Damage** 2d8+6 slashing
+**Melee** ◆ claw +20/+16/+12 (agile); **Damage** 2d8+6 slashing
 
 **Spontaneous occult Spells** (DC 26), attack +18
 

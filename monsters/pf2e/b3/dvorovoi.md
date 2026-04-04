@@ -11,6 +11,8 @@ cn, small, fey
 
 **Skills** Crafting +8, Nature +9, Stealth +9, Household Lore +11
 
+**Recall Knowledge - Fey** (Nature): DC 18
+
 **STR** +3, **DEX** +2, **CON** +1, **INT** -1, **WIS** +0, **CHA** +1
 
 **Items** pitchfork
@@ -33,7 +35,7 @@ cn, small, fey
 
 Speed 30 feet
 
-**Melee** ◆ pitchfork +12; **Damage** 1d8+6 piercing
+**Melee** ◆ pitchfork +12/+7/+2; **Damage** 1d8+6 piercing
 
 **Innate primal Spells** (DC 18)
 

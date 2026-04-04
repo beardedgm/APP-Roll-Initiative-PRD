@@ -9,6 +9,8 @@ rare, n, medium, acid, mindless, ooze
 
 **Skills** Athletics +35, Stealth +30
 
+**Recall Knowledge - Ooze** (Occultism): DC 40
+
 **STR** +5, **DEX** +9, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
 **Motion Sense** A crawling slurry can sense nearby motion through vibration and air movement.
@@ -29,7 +31,7 @@ rare, n, medium, acid, mindless, ooze
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ pseudopod +32; **Damage** 3d10+11 bludgeoning plus 2d8 acid and Grab
+**Melee** ◆ pseudopod +32/+27/+22; **Damage** 3d10+11 bludgeoning plus 2d8 acid and Grab
 
 **Constrict** ◆ 2d10+3 bludgeoning plus 2d8 acid, DC 37
 

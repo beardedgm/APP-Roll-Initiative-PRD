@@ -11,6 +11,8 @@ uncommon, ce, large, dragon, plant
 
 **Skills** Acrobatics +18, Athletics +21, Deception +17, Intimidation +19, Nature +22, Stealth +18, Survival +16
 
+**Recall Knowledge - Dragon** (Arcana, Nature): DC 29
+
 **STR** +6, **DEX** +2, **CON** +5, **INT** +2, **WIS** +4, **CHA** +3
 
 ---
@@ -33,11 +35,11 @@ uncommon, ce, large, dragon, plant
 
 Speed 40 feet, fly 100 feet, woodland stride
 
-**Melee** ◆ jaws +23 (reach <10 feet>); **Damage** 2d10+12 piercing plus 1d6 poison
+**Melee** ◆ jaws +23/+18/+13 (reach <10 feet>); **Damage** 2d10+12 piercing plus 1d6 poison
 
-**Melee** ◆ claw +23 (agile); **Damage** 2d8+12 slashing plus Grab plus Grab
+**Melee** ◆ claw +23/+19/+15 (agile); **Damage** 2d8+12 slashing plus Grab plus Grab
 
-**Melee** ◆ tail +23 (reach <20 feet>); **Damage** 2d8+12 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +23/+18/+13 (reach <20 feet>); **Damage** 2d8+12 bludgeoning plus Grab plus Grab
 
 **Innate primal Spells** (DC 29)
 

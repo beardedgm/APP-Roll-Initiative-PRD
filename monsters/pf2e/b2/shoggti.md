@@ -11,6 +11,8 @@ uncommon, ce, large, amphibious, fiend, qlippoth
 
 **Skills** Acrobatics +17, Intimidation +17, Occultism +15, Stealth +15
 
+**Recall Knowledge - Fiend** (Religion): DC 25
+
 **STR** +6, **DEX** +4, **CON** +2, **INT** +4, **WIS** +2, **CHA** +6
 
 ---
@@ -29,9 +31,9 @@ uncommon, ce, large, amphibious, fiend, qlippoth
 
 Speed 25 feet, swim 25 feet
 
-**Melee** ◆ bite +18 (chaotic, magical, reach <10 feet>); **Damage** 2d12+8 piercing plus 1d6 chaotic
+**Melee** ◆ bite +18/+13/+8 (chaotic, magical, reach <10 feet>); **Damage** 2d12+8 piercing plus 1d6 chaotic
 
-**Melee** ◆ pincer +18 (agile, chaotic, magical, reach <10 feet>, versatile <B>); **Damage** 2d8+8 slashing plus 1d6 chaotic and Grab plus Grab
+**Melee** ◆ pincer +18/+14/+10 (agile, chaotic, magical, reach <10 feet>, versatile <B>); **Damage** 2d8+8 slashing plus 1d6 chaotic and Grab plus Grab
 
 **Innate occult Spells** (DC 23)
 

@@ -9,6 +9,8 @@ ce, medium, incorporeal, undead
 
 **Skills** Acrobatics +10, Stealth +14
 
+**Recall Knowledge - Undead** (Religion): DC 19
+
 **STR** -5, **DEX** +4, **CON** +0, **INT** -2, **WIS** +2, **CHA** +3
 
 ---
@@ -33,7 +35,7 @@ ce, medium, incorporeal, undead
 
 Speed fly 30 feet
 
-**Melee** ◆ shadow hand +15 (finesse, magical); **Damage** 2d6 + 3 negative
+**Melee** ◆ shadow hand +15/+10/+5 (finesse, magical); **Damage** 2d6 + 3 negative
 
 **Slink in Shadows** The shadow can Hide or end its Sneak in a creature's or object's shadow.
 

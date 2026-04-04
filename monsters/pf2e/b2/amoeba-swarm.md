@@ -9,6 +9,8 @@ n, large, amphibious, mindless, ooze, swarm
 
 **Skills** Stealth +1
 
+**Recall Knowledge - Ooze** (Occultism): DC 15
+
 **STR** +0, **DEX** -2, **CON** +3, **INT** -5, **WIS** +0, **CHA** -5
 
 **Motion Sense** An amoeba swarm can sense nearby creatures through vibration and air or water movement.

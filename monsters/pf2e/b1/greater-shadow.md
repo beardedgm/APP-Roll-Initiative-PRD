@@ -11,6 +11,8 @@ ce, medium, incorporeal, undead
 
 **Skills** Acrobatics +16, Stealth +20
 
+**Recall Knowledge - Undead** (Religion): DC 23
+
 **STR** -5, **DEX** +5, **CON** +0, **INT** +0, **WIS** +2, **CHA** +4
 
 ---
@@ -33,7 +35,7 @@ ce, medium, incorporeal, undead
 
 Speed fly 30 feet
 
-**Melee** ◆ shadow hand +18 (finesse, magical); **Damage** 2d10+6 negative
+**Melee** ◆ shadow hand +18/+13/+8 (finesse, magical); **Damage** 2d10+6 negative
 
 **Innate divine Spells** (DC 25)
 

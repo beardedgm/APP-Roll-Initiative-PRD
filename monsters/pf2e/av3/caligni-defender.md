@@ -11,6 +11,8 @@ rare, cn, medium, caligni, humanoid
 
 **Skills** Acrobatics +17, Athletics +18, Intimidation +16, Stealth +17, Survival +16
 
+**Recall Knowledge - Humanoid** (Society): DC 29
+
 **STR** +4, **DEX** +5, **CON** +1, **INT** -1, **WIS** +2, **CHA** +2
 
 **Items** black smear poison (2 doses; Pathfinder Bestiary 51), chainmail, shortbow (20 arrows)
@@ -35,9 +37,9 @@ rare, cn, medium, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +19 (agile, finesse, versatile <S>); **Damage** 1d6+8 piercing plus black smear poison plus black smear poison
+**Melee** ◆ shortsword +19/+15/+11 (agile, finesse, versatile <S>); **Damage** 1d6+8 piercing plus black smear poison plus black smear poison
 
-**Ranged** ◆ shortbow +19 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+8 piercing plus black smear poison plus black smear poison
+**Ranged** ◆ shortbow +19/+14/+9 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+8 piercing plus black smear poison plus black smear poison
 
 **Innate occult Spells** (DC 24)
 

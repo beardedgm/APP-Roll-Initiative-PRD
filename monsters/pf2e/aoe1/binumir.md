@@ -11,6 +11,8 @@ le, medium, incorporeal, spirit, undead
 
 **Skills** Society +10
 
+**Recall Knowledge - Spirit** (Religion): DC 18
+
 **STR** -4, **DEX** +4, **CON** +3, **INT** +0, **WIS** +1, **CHA** +0
 
 ---
@@ -31,7 +33,7 @@ le, medium, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ◆ ghostly hand +12 (agile, finesse, magical); **Damage** 1d8+4 negative
+**Melee** ◆ ghostly hand +12/+8/+4 (agile, finesse, magical); **Damage** 1d8+4 negative
 
 **Agonizing Wail** ◆◆ (auditory, concentrate) The binumir unleashes a distressing cry that fills others with wrenching sadness. Creatures within 30 feet must attempt a DC 17 Will save. **Critical Success** The target is unaffected and is temporarily immune to Agonizing Wail for 1 minute.
 **Success** The target can't use reactions for 1 round.

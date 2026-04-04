@@ -11,6 +11,8 @@ uncommon, cn, tiny, anugobu, humanoid
 
 **Skills** Acrobatics +10, Athletics +6, Crafting +13, Diplomacy +8, Stealth +10, Survival +7
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** -1, **DEX** +3, **CON** +1, **INT** +4, **WIS** +0, **CHA** +3
 
 **Items** artisan's tools
@@ -27,13 +29,13 @@ uncommon, cn, tiny, anugobu, humanoid
 
 Speed 20 feet, stone step
 
-**Melee** ◆ hammer +8 (agile); **Damage** 1d8+2 bludgeoning
+**Melee** ◆ hammer +8/+4/+0 (agile); **Damage** 1d8+2 bludgeoning
 
-**Melee** ◆ chisel +8 (agile, parry, versatile <B>); **Damage** 1d6+2 piercing
+**Melee** ◆ chisel +8/+4/+0 (agile, parry, versatile <B>); **Damage** 1d6+2 piercing
 
-**Melee** ◆ foot +10 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ foot +10/+6/+2 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+4 bludgeoning
 
-**Ranged** ◆ hammer +12 (agile, thrown <20 feet>); **Damage** 1d8+2 bludgeoning
+**Ranged** ◆ hammer +12/+8/+4 (agile, thrown <20 feet>); **Damage** 1d8+2 bludgeoning
 
 **Innate occult Spells** (DC 20), attack +12
 

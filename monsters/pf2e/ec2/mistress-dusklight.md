@@ -11,6 +11,8 @@ unique, ce, medium, catfolk, humanoid
 
 **Skills** Acrobatics +21, Arcana +19, Deception +24, Diplomacy +22, Intimidation +24, Occultism +19, Performance +26, Society +19, Stealth +21, Thievery +21, Circus Lore +19
 
+**Recall Knowledge - Humanoid** (Society): DC 38
+
 **STR** +0, **DEX** +5, **CON** +1, **INT** +3, **WIS** +2, **CHA** +7
 
 **Items** daggers (3), religious symbol of Aroden, religious symbol of Zevgavizeb, studded leather, wand of magic mouth, wand of ray of enfeeblement, whip of compliance (page 75)
@@ -29,9 +31,9 @@ unique, ce, medium, catfolk, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ whip of compliance +23 (finesse, reach <10 feet>, trip); **Damage** 2d4+12 slashing
+**Melee** ◆ whip of compliance +23/+18/+13 (finesse, reach <10 feet>, trip); **Damage** 2d4+12 slashing
 
-**Melee** ◆ dagger +22 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
+**Melee** ◆ dagger +22/+18/+14 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
 
 **Spontaneous occult Spells** (DC 30), attack +24
 

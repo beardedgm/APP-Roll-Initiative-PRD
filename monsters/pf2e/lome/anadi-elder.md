@@ -11,6 +11,8 @@ uncommon, cg, medium, anadi, humanoid
 
 **Skills** Athletics +15, Crafting +13, Deception +13, Diplomacy +11, Nature +15, Society +11, Survival +13
 
+**Recall Knowledge - Humanoid** (Society): DC 24
+
 **STR** +2, **DEX** +4, **CON** +0, **INT** +1, **WIS** +4, **CHA** +2
 
 **Items** composite longbow (20 arrows), hide armor, shortsword
@@ -27,11 +29,11 @@ uncommon, cg, medium, anadi, humanoid
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ shortsword +15 (agile, finesse, versatile <S>); **Damage** 2d6+6 piercing
+**Melee** ◆ shortsword +15/+11/+7 (agile, finesse, versatile <S>); **Damage** 2d6+6 piercing
 
-**Melee** ◆ fangs +16 (finesse); **Damage** 2d6+6 piercing plus anadi venom plus anadi venom
+**Melee** ◆ fangs +16/+11/+6 (finesse); **Damage** 2d6+6 piercing plus anadi venom plus anadi venom
 
-**Ranged** ◆ composite longbow +16 (deadly <d10>, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+1 piercing
+**Ranged** ◆ composite longbow +16/+11/+6 (deadly <d10>, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+1 piercing
 
 **Innate arcane Spells** (DC 24), attack +16
 

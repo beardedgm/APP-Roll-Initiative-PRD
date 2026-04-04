@@ -9,6 +9,8 @@ ne, medium, undead
 
 **Skills** Athletics +24, Stealth +19
 
+**Recall Knowledge - Undead** (Religion): DC 28
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** -2, **WIS** +6, **CHA** +3
 
 ---
@@ -33,9 +35,9 @@ ne, medium, undead
 
 Speed 30 feet
 
-**Melee** ◆ jaws +24 (deadly <d10>, magical); **Damage** 3d8+13 piercing plus Grab
+**Melee** ◆ jaws +24/+19/+14 (deadly <d10>, magical); **Damage** 3d8+13 piercing plus Grab
 
-**Melee** ◆ claw +24 (agile, magical); **Damage** 2d8+13 slashing plus Grab
+**Melee** ◆ claw +24/+20/+16 (agile, magical); **Damage** 2d8+13 slashing plus Grab
 
 **Agonized Howl** ◆◆ (auditory, enchantment, mental, occult) The unrisen howls in pain at its cursed existence. Creatures within a 30-foot emanation take 9d8 mental damage (DC 30 basic Will save). The unrisen can't use Agonized Howl again for 1d4 rounds.
 

@@ -11,6 +11,8 @@ ng, small, agathion, celestial
 
 **Skills** Acrobatics +12, Arcana +15, Deception +14, Medicine +11, Performance +16, Religion +13, Society +13, Stealth +12, Nirvana Lore +15
 
+**Recall Knowledge - Celestial** (Religion): DC 22
+
 **STR** +2, **DEX** +4, **CON** +4, **INT** +5, **WIS** +3, **CHA** +6
 
 **Items** handheld instrument
@@ -27,9 +29,9 @@ ng, small, agathion, celestial
 
 Speed 30 feet
 
-**Melee** ◆ jaws +15 (finesse, good, magical); **Damage** 2d10+4 piercing plus 1d6 good
+**Melee** ◆ jaws +15/+10/+5 (finesse, good, magical); **Damage** 2d10+4 piercing plus 1d6 good
 
-**Melee** ◆ claw +15 (agile, finesse, good, magical); **Damage** 2d6+4 slashing plus 1d6 good
+**Melee** ◆ claw +15/+11/+7 (agile, finesse, good, magical); **Damage** 2d6+4 slashing plus 1d6 good
 
 **Innate divine Spells** (DC 24)
 

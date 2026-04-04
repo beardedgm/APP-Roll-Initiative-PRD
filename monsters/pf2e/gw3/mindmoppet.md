@@ -11,6 +11,8 @@ uncommon, ln, tiny, ooze
 
 **Skills** Acrobatics +13, Crafting +14, Deception +11, Intimidation +11, Medicine +10, Occultism +14, Society +14, Stealth +13, Thievery +13
 
+**Recall Knowledge - Ooze** (Occultism): DC 22
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +5, **WIS** +3, **CHA** +2
 
 **Items** shell (porcelain doll)
@@ -43,7 +45,7 @@ uncommon, ln, tiny, ooze
 
 Speed fly 40 feet
 
-**Ranged** ◆ telekinetic slam +15 (evocation, force, occult, range increment <20 feet>); **Damage** 2d12 force plus Improved Push
+**Ranged** ◆ telekinetic slam +15/+10/+5 (evocation, force, occult, range increment <20 feet>); **Damage** 2d12 force plus Improved Push
 
 **Innate occult Spells** (DC 22), attack +14
 

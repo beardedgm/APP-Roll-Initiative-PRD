@@ -11,6 +11,8 @@ ne, medium, human, humanoid
 
 **Skills** Acrobatics +10, Crafting +13, Deception +13, Diplomacy +11, Intimidation +11, Society +11, Stealth +10, Thievery +10, Accounting Lore +13
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +0, **DEX** +3, **CON** +0, **INT** +4, **WIS** +2, **CHA** +4
 
 **Items** dagger (10), lesser darkvision elixir, disguise kit, bird feather token, lesser smokestick (2), shortsword, thieves' tools
@@ -29,11 +31,11 @@ ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ shortsword +12 (agile, finesse, versatile <S>); **Damage** 1d6+5 piercing
+**Melee** ◆ shortsword +12/+8/+4 (agile, finesse, versatile <S>); **Damage** 1d6+5 piercing
 
-**Melee** ◆ dagger +12 (agile, finesse, versatile <S>); **Damage** 1d4+5 piercing
+**Melee** ◆ dagger +12/+8/+4 (agile, finesse, versatile <S>); **Damage** 1d4+5 piercing
 
-**Ranged** ◆ dagger +12 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
+**Ranged** ◆ dagger +12/+8/+4 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
 
 **Quick Rummage** ◆ The fence always has a few items close at hand. The fence Interacts to draw a weapon or item that takes a single action to activate, and then Strikes with the weapon or Activates the Item.
 

@@ -11,6 +11,8 @@ unique, ce, medium, beast, beastkin, human, humanoid
 
 **Skills** Arcana +33, Athletics +36, Deception +33, Intimidation +36, Occultism +33, Performance +33, Religion +32, Society +30
 
+**Recall Knowledge - Beast** (Arcana, Nature, Society): DC 49
+
 **STR** +9, **DEX** +5, **CON** +6, **INT** +3, **WIS** +5, **CHA** +6
 
 **Items** +2 greater resilient full plate, +2 greater striking wounding morningstar, +2 greater striking gloom blade, The Cyclone|SF2, The Keep|SF2, The Waxworks|SF2
@@ -31,11 +33,11 @@ unique, ce, medium, beast, beastkin, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ morningstar +36 (magical, versatile <P>); **Damage** 3d6+15 bludgeoning plus 1d6 persistent bleed
+**Melee** ◆ morningstar +36/+31/+26 (magical, versatile <P>); **Damage** 3d6+15 bludgeoning plus 1d6 persistent bleed
 
-**Melee** ◆ gloom blade +36 (agile, finesse, magical, versatile <S>); **Damage** 3d6+13 piercing
+**Melee** ◆ gloom blade +36/+32/+28 (agile, finesse, magical, versatile <S>); **Damage** 3d6+13 piercing
 
-**Melee** ◆ jaws +33 (agile, finesse); **Damage** 3d6+13 piercing
+**Melee** ◆ jaws +33/+29/+25 (agile, finesse); **Damage** 3d6+13 piercing
 
 **Innate occult Spells** (DC 38), attack +30
 

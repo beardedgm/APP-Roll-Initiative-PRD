@@ -11,6 +11,8 @@ ce, large, dragon, fire
 
 **Skills** Acrobatics +15, Arcana +17, Athletics +22, Deception +19, Diplomacy +19, Intimidation +21, Stealth +17
 
+**Recall Knowledge - Dragon** (Arcana): DC 27
+
 **STR** +6, **DEX** +1, **CON** +4, **INT** +1, **WIS** +2, **CHA** +3
 
 **Smoke Vision** Smoke doesn't impair a red dragon's vision; it ignores the concealed condition from smoke.
@@ -35,13 +37,13 @@ ce, large, dragon, fire
 
 Speed 40 feet, fly 120 feet
 
-**Melee** ◆ jaws +23 (fire, reach <10 feet>); **Damage** 2d12+12 piercing plus 2d6 fire
+**Melee** ◆ jaws +23/+18/+13 (fire, reach <10 feet>); **Damage** 2d12+12 piercing plus 2d6 fire
 
-**Melee** ◆ claw +23 (agile); **Damage** 2d10+12 slashing
+**Melee** ◆ claw +23/+19/+15 (agile); **Damage** 2d10+12 slashing
 
-**Melee** ◆ tail +21 (reach <15 feet>); **Damage** 2d12+10 slashing
+**Melee** ◆ tail +21/+16/+11 (reach <15 feet>); **Damage** 2d12+10 slashing
 
-**Melee** ◆ wing +21 (agile, reach <10 feet>); **Damage** 1d10+10 slashing
+**Melee** ◆ wing +21/+17/+13 (agile, reach <10 feet>); **Damage** 1d10+10 slashing
 
 **Innate arcane Spells** (DC 27)
 

@@ -11,6 +11,8 @@ n, large, monitor, psychopomp, swarm
 
 **Skills** Acrobatics +22, Boneyard Lore +21, Occultism +21, Religion +20, Stealth +22
 
+**Recall Knowledge - Monitor** (Religion): DC 28
+
 **STR** -1, **DEX** +7, **CON** +5, **INT** +2, **WIS** +5, **CHA** +3
 
 **See Magic** An algea can see magic auras on creatures or objects that it can observe it can't see magic auras on creatures or objects that are hidden from its view. It learns the schools of magic for all spells affecting creatures.

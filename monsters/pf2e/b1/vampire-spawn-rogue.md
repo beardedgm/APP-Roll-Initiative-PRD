@@ -11,6 +11,8 @@ ce, medium, undead, vampire
 
 **Skills** Acrobatics +11, Athletics +9, Intimidation +8, Society +5, Stealth +12
 
+**Recall Knowledge - Undead** (Religion): DC 19
+
 **STR** +3, **DEX** +5, **CON** +1, **INT** -1, **WIS** +3, **CHA** +2
 
 ---
@@ -29,7 +31,7 @@ ce, medium, undead, vampire
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ claw +14 (agile); **Damage** 1d8+6 slashing plus Grab plus Grab
+**Melee** ◆ claw +14/+10/+6 (agile); **Damage** 1d8+6 slashing plus Grab plus Grab
 
 **Drink Blood** ◆ (divine, necromancy) When Drinking Blood, the spawn regains 5 HP.
 

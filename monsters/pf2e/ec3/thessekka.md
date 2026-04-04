@@ -11,6 +11,8 @@ unique, ce, medium, humanoid, xulgath
 
 **Skills** Arcana +24, Athletics +28, Crafting +28, Intimidation +23, Medicine +24, Nature +22, Survival +22
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** +6, **DEX** +1, **CON** +4, **INT** +4, **WIS** +2, **CHA** +1
 
 **Items** greater alchemist goggles, expert alchemist's tools, formula book, infused reagents (8), ring of stoneshifting
@@ -33,11 +35,11 @@ unique, ce, medium, humanoid, xulgath
 
 Speed 20 feet, burrow 10 feet
 
-**Melee** ◆ jaws +28; **Damage** 3d8+12 piercing
+**Melee** ◆ jaws +28/+23/+18; **Damage** 3d8+12 piercing
 
-**Melee** ◆ claw +28 (agile); **Damage** 3d6+12 slashing plus Grab plus Grab
+**Melee** ◆ claw +28/+24/+20 (agile); **Damage** 3d6+12 slashing plus Grab plus Grab
 
-**Ranged** ◆ alchemical bomb +27 (range increment <30 feet>, splash); **Damage** varies by bomb
+**Ranged** ◆ alchemical bomb +27/+22/+17 (range increment <30 feet>, splash); **Damage** varies by bomb
 
 **Innate primal Spells** (DC 34)
 

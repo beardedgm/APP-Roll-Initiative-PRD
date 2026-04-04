@@ -9,6 +9,8 @@ large, animal, swarm
 
 **Skills** Stealth +16
 
+**Recall Knowledge - Animal** (Nature): DC 22
+
 **STR** -2, **DEX** +4, **CON** +1, **INT** -5, **WIS** +2, **CHA** -4
 
 **Floral Camouflage** When Hiding, the orchid mantis swarm is concealed by any amount of leaves or petals, even if they aren't thick enough to make other creatures concealed.

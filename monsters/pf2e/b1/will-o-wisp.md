@@ -11,6 +11,8 @@ ce, small, aberration, air
 
 **Skills** Acrobatics +18, Deception +12, Intimidation +12, Stealth +16
 
+**Recall Knowledge - Aberration** (Occultism): DC 22
+
 **STR** -5, **DEX** +6, **CON** +0, **INT** +2, **WIS** +4, **CHA** +2
 
 ---
@@ -31,7 +33,7 @@ ce, small, aberration, air
 
 Speed fly 50 feet
 
-**Melee** ◆ shock +17 (electricity, magical); **Damage** 2d8+4 electricity
+**Melee** ◆ shock +17/+12/+7 (electricity, magical); **Damage** 2d8+4 electricity
 
 **Feed on Fear** ◆ (concentrate) **Requirements** An enemy is under a fear effect or dying within 15 feet of the will-o'-wisp.; The will-o'-wisp feeds on the creature's terror. It regains 2d4 Hit Points, and if it has Gone Dark, its glow reignites. A will-o'-wisp can take this action only once per round.
 

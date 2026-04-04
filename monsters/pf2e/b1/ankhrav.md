@@ -9,6 +9,8 @@ n, large, animal
 
 **Skills** Acrobatics +6, Athletics +11, Stealth +8
 
+**Recall Knowledge - Animal** (Nature): DC 18
+
 **STR** +4, **DEX** +1, **CON** +3, **INT** -4, **WIS** +0, **CHA** -2
 
 ---
@@ -23,9 +25,9 @@ n, large, animal
 
 Speed 25 feet, burrow 20 feet
 
-**Melee** ◆ mandibles +13 (acid); **Damage** 1d8+4 piercing plus 1d6 acid
+**Melee** ◆ mandibles +13/+8/+3 (acid); **Damage** 1d8+4 piercing plus 1d6 acid
 
-**Ranged** ◆ acid spit +10 (acid, range <30 feet>); **Damage** 3d6 acid
+**Ranged** ◆ acid spit +10/+5/+0 (acid, range <30 feet>); **Damage** 3d6 acid
 
 **Armor-Rending Bite** ◆◆ The ankhrav makes a mandibles Strike; if the Strike hits, the target's armor takes the damage and the acid damage bypasses the armor's Hardness.
 

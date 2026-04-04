@@ -11,6 +11,8 @@ uncommon, ce, gargantuan, dragon, fire
 
 **Skills** Acrobatics +35, Athletics +40, Stealth +37
 
+**Recall Knowledge - Dragon** (Arcana): DC 44
+
 **STR** +11, **DEX** +8, **CON** +9, **INT** -1, **WIS** +8, **CHA** +9
 
 ---
@@ -35,11 +37,11 @@ uncommon, ce, gargantuan, dragon, fire
 
 Speed 35 feet, fly 100 feet, swim 60 feet, climb 35 feet, freedom of movement
 
-**Melee** ◆ jaws +40 (reach <30 feet>, magical); **Damage** 4d12+19 piercing plus tor linnorm venom plus tor linnorm venom
+**Melee** ◆ jaws +40/+35/+30 (reach <30 feet>, magical); **Damage** 4d12+19 piercing plus tor linnorm venom plus tor linnorm venom
 
-**Melee** ◆ claw +40 (reach <30 feet>, agile, magical); **Damage** 4d8+19 slashing
+**Melee** ◆ claw +40/+36/+32 (reach <30 feet>, agile, magical); **Damage** 4d8+19 slashing
 
-**Melee** ◆ tail +40 (reach <30 feet>, agile, magical); **Damage** 4d6+19 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tail +40/+36/+32 (reach <30 feet>, agile, magical); **Damage** 4d6+19 bludgeoning plus Improved Grab plus Improved Grab
 
 **Innate primal Spells** (DC 44)
 

@@ -11,6 +11,8 @@ cg, medium, azata, celestial
 
 **Skills** Athletics +34, Deception +36, Diplomacy +38, Intimidation +36, Medicine +36, Nature +34, Survival +38, Elysium Lore +36
 
+**Recall Knowledge - Celestial** (Religion): DC 40
+
 **STR** +8, **DEX** +6, **CON** +8, **INT** +6, **WIS** +10, **CHA** +8
 
 **Items** +3 greater striking sickle
@@ -29,9 +31,9 @@ cg, medium, azata, celestial
 
 Speed 40 feet, fly 40 feet
 
-**Melee** ◆ sickle +39 (agile, finesse, trip); **Damage** 3d4+16 slashing plus 4d6 cold and 1d6 good
+**Melee** ◆ sickle +39/+35/+31 (agile, finesse, trip); **Damage** 3d4+16 slashing plus 4d6 cold and 1d6 good
 
-**Melee** ◆ vine +39 (reach <20 feet>); **Damage** 4d12+16 bludgeoning plus 1d6 good and Improved Grab plus Improved Grab
+**Melee** ◆ vine +39/+34/+29 (reach <20 feet>); **Damage** 4d12+16 bludgeoning plus 1d6 good and Improved Grab plus Improved Grab
 
 **Innate divine Spells** (DC 42), attack +32
 

@@ -11,6 +11,8 @@ rare, ne, large, aberration, astral
 
 **Skills** Arcana +38, Deception +38, Stealth +34, Thievery +32, Portal Lore +41
 
+**Recall Knowledge - Aberration** (Occultism): DC 45
+
 **STR** +6, **DEX** +7, **CON** +6, **INT** +7, **WIS** +8, **CHA** +5
 
 ---
@@ -34,9 +36,9 @@ rare, ne, large, aberration, astral
 
 Speed 30 feet, climb 30 feet
 
-**Melee** ◆ fangs +38 (reach <10 feet>); **Damage** 4d10+8 piercing plus 3d10 acid
+**Melee** ◆ fangs +38/+33/+28 (reach <10 feet>); **Damage** 4d10+8 piercing plus 3d10 acid
 
-**Ranged** ◆ web +38 (range increment <60 feet>); **Damage** 6d6+8 acid plus dimensional tether plus dimensional tether
+**Ranged** ◆ web +38/+33/+28 (range increment <60 feet>); **Damage** 6d6+8 acid plus dimensional tether plus dimensional tether
 
 **Innate arcane Spells** (DC 35)
 

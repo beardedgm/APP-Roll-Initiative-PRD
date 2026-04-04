@@ -11,6 +11,8 @@ n, medium, aberration, shadow
 
 **Skills** Arcana +8, Athletics +6, Occultism +10, Stealth +10, Survival +8
 
+**Recall Knowledge - Aberration** (Occultism): DC 18
+
 **STR** +1, **DEX** +3, **CON** +1, **INT** +1, **WIS** +3, **CHA** +4
 
 ---
@@ -27,7 +29,7 @@ n, medium, aberration, shadow
 
 Speed 25 feet
 
-**Melee** ◆ claw +12 (agile, finesse); **Damage** 1d10+4 piercing
+**Melee** ◆ claw +12/+8/+4 (agile, finesse); **Damage** 1d10+4 piercing
 
 **Innate occult Spells** (DC 19)
 

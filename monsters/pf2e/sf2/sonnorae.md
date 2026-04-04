@@ -11,6 +11,8 @@ unique, le, medium, fiend, velstrac
 
 **Skills** Acrobatics +32, Athletics +31, Deception +36, Diplomacy +34, Intimidation +36, Performance +34, Religion +31, Stealth +34, Torture Lore +32
 
+**Recall Knowledge - Fiend** (Religion): DC 48
+
 **STR** +7, **DEX** +8, **CON** +5, **INT** +6, **WIS** +7, **CHA** +8
 
 **Items** Lens of the Outreaching Eye, The Tyrant|SF2
@@ -37,7 +39,7 @@ unique, le, medium, fiend, velstrac
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ claw +34 (agile, finesse, reach <10 feet>); **Damage** 3d6+15 slashing plus 2d6 persistent bleed
+**Melee** ◆ claw +34/+30/+26 (agile, finesse, reach <10 feet>); **Damage** 3d6+15 slashing plus 2d6 persistent bleed
 
 **Innate divine Spells** (DC 40), attack +32
 

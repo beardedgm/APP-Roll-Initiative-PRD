@@ -11,6 +11,8 @@ unique, le, medium, incorporeal, spirit, undead
 
 **Skills** Acrobatics +29, Intimidation +30, Stealth +29
 
+**Recall Knowledge - Spirit** (Religion): DC 42
+
 **STR** -5, **DEX** +8, **CON** +2, **INT** -1, **WIS** +4, **CHA** +7
 
 **Site Bound** The poltergeist is tied to its watchtower.
@@ -35,7 +37,7 @@ unique, le, medium, incorporeal, spirit, undead
 
 Speed fly 20 feet
 
-**Ranged** ◆ telekinetic object +27 (evocation, magical, occult, range increment <60 feet>); **Damage** 3d12+10 bludgeoning, piercing, or slashing (depending on object) plus piercing, or slashing (depending on object)
+**Ranged** ◆ telekinetic object +27/+22/+17 (evocation, magical, occult, range increment <60 feet>); **Damage** 3d12+10 bludgeoning, piercing, or slashing (depending on object) plus piercing, or slashing (depending on object)
 
 **Innate occult Spells** (DC 35), attack +25
 

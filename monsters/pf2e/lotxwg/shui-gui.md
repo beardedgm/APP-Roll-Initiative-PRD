@@ -11,6 +11,8 @@ uncommon, medium, aquatic, ghost, incorporeal, spirit, undead, water
 
 **Skills** Athletics +13, Deception +13, Diplomacy +11, Ghost Lore +15, Religion +12, Stealth +16
 
+**Recall Knowledge - Spirit** (Religion): DC 22
+
 **STR** +0, **DEX** +5, **CON** +0, **INT** +4, **WIS** +3, **CHA** +4
 
 **Water-Bound Curse** The shui gui is bound to the body of water in which it died. It's unable to move further than 120 feet from the edge of the water.
@@ -37,7 +39,7 @@ uncommon, medium, aquatic, ghost, incorporeal, spirit, undead, water
 
 Speed 10 feet, swim 40 feet
 
-**Melee** ◆ ghostly hand +17 (agile, finesse, magical); **Damage** 2d6+4 void plus Grab plus Grab
+**Melee** ◆ ghostly hand +17/+13/+9 (agile, finesse, magical); **Damage** 2d6+4 void plus Grab plus Grab
 
 **Drag Under** ◆ The shui gui Swims at half Speed, along with any creature it has grabbed.
 

@@ -9,6 +9,8 @@ uncommon, huge, fungus, mindless, mutant
 
 **Skills** Athletics +25, Stealth +23
 
+**Recall Knowledge - Fungus** (Nature): DC 30
+
 **STR** +7, **DEX** +5, **CON** +5, **INT** -5, **WIS** +3, **CHA** -2
 
 ---
@@ -31,7 +33,7 @@ uncommon, huge, fungus, mindless, mutant
 
 Speed 25 feet
 
-**Melee** ◆ stalk +25 (reach <15 feet>); **Damage** 2d8+9 piercing plus 2d6 acid and Improved Grab
+**Melee** ◆ stalk +25/+20/+15 (reach <15 feet>); **Damage** 2d8+9 piercing plus 2d6 acid and Improved Grab
 
 **Focused Assault** ◆◆ The reborn devotee attacks a single target with four stalks, making one stalk Strike. On a success, the reborn devotee deals the damage from one stalk Strike plus an additional 1d8 damage for every stalk beyond the first. On a failure, the reborn devotee deals the damage from one stalk Strike, but it can't use Improved Grab. It deals no damage on a critical failure. This counts toward the reborn devotee's multiple attack penalty as a number of attacks equal to the number of stalks the devotee has.
 

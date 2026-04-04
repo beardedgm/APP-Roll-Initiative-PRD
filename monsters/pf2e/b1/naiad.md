@@ -11,6 +11,8 @@ cg, medium, amphibious, fey, nymph, water
 
 **Skills** Acrobatics +6, Athletics +3, Diplomacy +7, Nature +6, Stealth +6, Survival +4
 
+**Recall Knowledge - Fey** (Nature): DC 15
+
 **STR** +0, **DEX** +3, **CON** +0, **INT** +1, **WIS** +1, **CHA** +4
 
 **Wild Empathy** The naiad can use Diplomacy to Make an Impression on and make very simple Requests of animals.
@@ -33,7 +35,7 @@ cg, medium, amphibious, fey, nymph, water
 
 Speed 25 feet, swim 25 feet
 
-**Melee** ◆ aqueous fist +8 (agile, finesse, magical, water); **Damage** 1d6 bludgeoning
+**Melee** ◆ aqueous fist +8/+4/+0 (agile, finesse, magical, water); **Damage** 1d6 bludgeoning
 
 **Innate primal Spells** (DC 17)
 

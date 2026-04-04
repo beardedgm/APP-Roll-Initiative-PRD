@@ -9,6 +9,8 @@ unique, huge, mindless, skeleton, undead, unholy
 
 **Skills** Acrobatics +37, Athletics +40, Stealth +33
 
+**Recall Knowledge - Undead** (Religion): DC 49
+
 **STR** +10, **DEX** +6, **CON** +6, **INT** -5, **WIS** +5, **CHA** -1
 
 ---
@@ -27,9 +29,9 @@ unique, huge, mindless, skeleton, undead, unholy
 
 Speed 20 feet, swim 60 feet
 
-**Melee** ◆ jaws +36 (deadly 3d12, reach 15 feet); **Damage** 4d12+28 piercing plus Grab
+**Melee** ◆ jaws +36/+31/+26 (deadly 3d12, reach 15 feet); **Damage** 4d12+28 piercing plus Grab
 
-**Melee** ◆ tail +36 (agile, reach <20 feet>); **Damage** 4d10+20 bludgeoning
+**Melee** ◆ tail +36/+32/+28 (agile, reach <20 feet>); **Damage** 4d10+20 bludgeoning
 
 **Breach** ◆◆ The ossuary warden Leaps and makes a Strike|PC1 at any point along its movement.
 

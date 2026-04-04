@@ -11,6 +11,8 @@ unique, ne, medium, daemon, human, humanoid
 
 **Skills** Acrobatics +45, Athletics +38, Deception +46, Diplomacy +42, Intimidation +40, Religion +39, Society +41, Stealth +45, Thievery +45
 
+**Recall Knowledge - Humanoid** (Society): DC 56
+
 **STR** +7, **DEX** +10, **CON** +8, **INT** +8, **WIS** +8, **CHA** +9
 
 **Items** Cane of the Maelstrom, +3 glamered major resilient chain shirt, +3 speed wounding major striking dagger, elixir of rejuvenation, tears of death, whisper of the first lie
@@ -37,9 +39,9 @@ unique, ne, medium, daemon, human, humanoid
 
 Speed 40 feet, freedom of movement, spider climb
 
-**Melee** ◆ dagger +41 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 4d4+22 piercing plus 1d6 persistent bleed damage and tears of death plus tears of death
+**Melee** ◆ dagger +41/+37/+33 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 4d4+22 piercing plus 1d6 persistent bleed damage and tears of death plus tears of death
 
-**Melee** ◆ Cane of the Maelstrom +40 (magical, thrown <10 feet>); **Damage** 3d6+22 bludgeoning plus warpwave plus warpwave
+**Melee** ◆ Cane of the Maelstrom +40/+35/+30 (magical, thrown <10 feet>); **Damage** 3d6+22 bludgeoning plus warpwave plus warpwave
 
 **Innate divine Spells** (DC 47), attack +37
 

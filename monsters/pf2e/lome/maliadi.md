@@ -11,6 +11,8 @@ uncommon, le, gargantuan, beast
 
 **Skills** Athletics +36, Deception +28, Intimidation +28, Nature +29, Survival +29
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 38
+
 **STR** +9, **DEX** +3, **CON** +9, **INT** +1, **WIS** +6, **CHA** +3
 
 **Deep Breath** The maliadi can hold its breath for 1 day.
@@ -33,9 +35,9 @@ uncommon, le, gargantuan, beast
 
 Speed 30 feet, swim 20 feet, freedom of movement
 
-**Melee** ◆ jaws +35 (deadly <d12>, magical, reach <20 feet>); **Damage** 3d12+19 piercing plus
+**Melee** ◆ jaws +35/+30/+25 (deadly <d12>, magical, reach <20 feet>); **Damage** 3d12+19 piercing plus
 
-**Melee** ◆ foot +35 (agile, magical, reach <20 feet>); **Damage** 3d10+17 bludgeoning
+**Melee** ◆ foot +35/+31/+27 (agile, magical, reach <20 feet>); **Damage** 3d10+17 bludgeoning
 
 **Innate primal Spells** (DC 38), attack +30
 

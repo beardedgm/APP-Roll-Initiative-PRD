@@ -11,6 +11,8 @@ unique, ce, medium, human, humanoid
 
 **Skills** Academia Lore +37, Crafting +37, Deception +33, Diplomacy +33, Medicine +35, Nature +33, Stealth +31, Survival +33
 
+**Recall Knowledge - Humanoid** (Society): DC 49
+
 **STR** +1, **DEX** +3, **CON** +4, **INT** +6, **WIS** +3, **CHA** +4
 
 **Items** +3 major striking major staff of nature's vengeance (Advanced Player's Guide 263)
@@ -33,7 +35,7 @@ unique, ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ staff +30 (two-hand <d8>); **Damage** 4d6+20 bludgeoning
+**Melee** ◆ staff +30/+25/+20 (two-hand <d8>); **Damage** 4d6+20 bludgeoning
 
 **Prepared primal Spells** (DC 41), attack +33
 

@@ -9,6 +9,8 @@ n, gargantuan, animal, dinosaur
 
 **Skills** Acrobatics +19, Athletics +23
 
+**Recall Knowledge - Animal** (Nature): DC 28
+
 **STR** +8, **DEX** +4, **CON** +6, **INT** -4, **WIS** +2, **CHA** +1
 
 **Deep Breath** A spinosaurus can hold its breath for 2 hours.
@@ -25,9 +27,9 @@ n, gargantuan, animal, dinosaur
 
 Speed 40 feet, swim 30 feet
 
-**Melee** ◆ bite +23 (deadly <d12>, reach <20 feet>); **Damage** 2d12+14 piercing plus Grab plus Grab
+**Melee** ◆ bite +23/+18/+13 (deadly <d12>, reach <20 feet>); **Damage** 2d12+14 piercing plus Grab plus Grab
 
-**Melee** ◆ claw +23 (agile, reach <15 feet>); **Damage** 2d8+14 slashing
+**Melee** ◆ claw +23/+19/+15 (agile, reach <15 feet>); **Damage** 2d8+14 slashing
 
 **Rip and Tear** ◆ **Requirements** The spinosaurus has a creature grabbed in its jaws; The spinosaurus reaches up and slashes with its claws at the creature it has grabbed, dealing 4d8 slashing damage (DC 30 basic Reflex save) and 1d6 persistent bleed damage.
 

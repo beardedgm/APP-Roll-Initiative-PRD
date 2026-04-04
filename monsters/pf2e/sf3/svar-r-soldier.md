@@ -11,6 +11,8 @@ rare, cn, medium, aesir, monitor
 
 **Skills** Athletics +32, Crafting +25, Intimidation +29
 
+**Recall Knowledge - Monitor** (Religion): DC 40
+
 **STR** +8, **DEX** +5, **CON** +7, **INT** +1, **WIS** +3, **CHA** +5
 
 **Items** +2 greater striking returning dagger, +2 greater striking longsword, greater sturdy shield (Hardness 15, HP 120, BT 60)
@@ -33,11 +35,11 @@ rare, cn, medium, aesir, monitor
 
 Speed 40 feet, fly 30 feet
 
-**Melee** ◆ longsword +34 (magical, versatile <P>); **Damage** 3d8+16 slashing plus 2d6 mental
+**Melee** ◆ longsword +34/+29/+24 (magical, versatile <P>); **Damage** 3d8+16 slashing plus 2d6 mental
 
-**Melee** ◆ fist +32 (agile); **Damage** 3d6+16 bludgeoning
+**Melee** ◆ fist +32/+28/+24 (agile); **Damage** 3d6+16 bludgeoning
 
-**Ranged** ◆ dagger +31 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 3d4+16 piercing
+**Ranged** ◆ dagger +31/+27/+23 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 3d4+16 piercing
 
 **Champion Devotion Spells** (DC 34)
 

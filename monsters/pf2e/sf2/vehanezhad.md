@@ -11,6 +11,8 @@ unique, le, gargantuan, dragon, earth, elemental
 
 **Skills** Acrobatics +32, Arcana +32, Deception +34, Diplomacy +34, Intimidation +34, Society +32, Stealth +32, Survival +30
 
+**Recall Knowledge - Dragon** (Arcana, Nature): DC 48
+
 **STR** +9, **DEX** +6, **CON** +7, **INT** +6, **WIS** +6, **CHA** +8
 
 ---
@@ -37,11 +39,11 @@ unique, le, gargantuan, dragon, earth, elemental
 
 Speed 60 feet, fly 140 feet, burrow 40 feet
 
-**Melee** ◆ jaws +35 (magical, reach <20 feet>); **Damage** 3d8+17 slashing plus 4d6 piercing plus crystal corruption
+**Melee** ◆ jaws +35/+30/+25 (magical, reach <20 feet>); **Damage** 3d8+17 slashing plus 4d6 piercing plus crystal corruption
 
-**Melee** ◆ claw +35 (agile, magical, reach <15 feet>); **Damage** 3d10+17 slashing plus crystal corruption
+**Melee** ◆ claw +35/+31/+27 (agile, magical, reach <15 feet>); **Damage** 3d10+17 slashing plus crystal corruption
 
-**Melee** ◆ tail +33 (magical, reach <25 feet>); **Damage** 2d12+17 bludgeoning plus crystal corruption
+**Melee** ◆ tail +33/+28/+23 (magical, reach <25 feet>); **Damage** 2d12+17 bludgeoning plus crystal corruption
 
 **Innate arcane Spells** (DC 43)
 

@@ -33,11 +33,11 @@ uncommon, ce, large, earth, giant, troll
 
 Speed 25 feet, burrow 20 feet, climb 20 feet
 
-**Melee** ◆ jaws +16 (reach <10 feet>); **Damage** 2d10+8 piercing
+**Melee** ◆ jaws +16/+11/+6 (reach <10 feet>); **Damage** 2d10+8 piercing
 
-**Melee** ◆ claw +16 (agile, reach <10 feet>); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +16/+12/+8 (agile, reach <10 feet>); **Damage** 2d6+8 slashing
 
-**Ranged** ◆ rock +16 (brutal, range increment <120 feet>); **Damage** 1d12+8 bludgeoning
+**Ranged** ◆ rock +16/+11/+6 (brutal, range increment <120 feet>); **Damage** 1d12+8 bludgeoning
 
 **Rend** ◆ (claw)
 

@@ -11,6 +11,8 @@ medium, undead, unholy
 
 **Skills** Athletics +8, Stealth +11
 
+**Recall Knowledge - Undead** (Religion): DC 16
+
 **STR** +3, **DEX** +1, **CON** +3, **INT** +2, **WIS** +1, **CHA** +0
 
 ---
@@ -29,7 +31,7 @@ medium, undead, unholy
 
 Speed 25 feet, Wall Glide
 
-**Melee** ◆ claw +9 (agile); **Damage** 1d8+3 slashing plus Grab
+**Melee** ◆ claw +9/+5/+1 (agile); **Damage** 1d8+3 slashing plus Grab
 
 **Sneak Attack** A walcofinde deals an additional 1d6 precision damage to offguard|PC1 creatures.
 

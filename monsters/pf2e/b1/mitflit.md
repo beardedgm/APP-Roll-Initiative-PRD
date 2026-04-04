@@ -11,6 +11,8 @@ le, small, fey, gremlin
 
 **Skills** Acrobatics +5, Diplomacy +1, Nature +3, Stealth +5, Thievery +5
 
+**Recall Knowledge - Fey** (Nature): DC 13
+
 **STR** -1, **DEX** +3, **CON** +0, **INT** -1, **WIS** +1, **CHA** -1
 
 **Items** dart (10), shortsword
@@ -33,9 +35,9 @@ le, small, fey, gremlin
 
 Speed 20 feet, climb 20 feet
 
-**Melee** ◆ shortsword +8 (agile, finesse, versatile <S>); **Damage** 1d6-1 piercing
+**Melee** ◆ shortsword +8/+4/+0 (agile, finesse, versatile <S>); **Damage** 1d6-1 piercing
 
-**Ranged** ◆ dart +8 (agile, range increment <20 feet>, thrown); **Damage** 1d4-1 piercing
+**Ranged** ◆ dart +8/+4/+0 (agile, range increment <20 feet>, thrown); **Damage** 1d4-1 piercing
 
 **Innate primal Spells** (DC 16)
 

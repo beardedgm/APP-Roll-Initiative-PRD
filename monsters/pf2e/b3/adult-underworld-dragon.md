@@ -11,6 +11,8 @@ uncommon, le, huge, dragon, fire
 
 **Skills** Acrobatics +18, Arcana +21, Athletics +24, Crafting +22, Deception +19, Intimidation +21, Nature +20, Stealth +22, Survival +20
 
+**Recall Knowledge - Dragon** (Arcana): DC 30
+
 **STR** +7, **DEX** +3, **CON** +4, **INT** +5, **WIS** +3, **CHA** +2
 
 **Smoke Vision** Smoke doesn't impair an underworld dragon's vision; they ignore the concealed condition from smoke.
@@ -33,11 +35,11 @@ uncommon, le, huge, dragon, fire
 
 Speed 40 feet, fly 80 feet, burrow 40 feet
 
-**Melee** ◆ jaws +24 (magical, reach <10 feet>); **Damage** 2d8+13 piercing plus 2d6 fire
+**Melee** ◆ jaws +24/+19/+14 (magical, reach <10 feet>); **Damage** 2d8+13 piercing plus 2d6 fire
 
-**Melee** ◆ claw +24 (agile, magical); **Damage** 2d8+13 slashing plus adamantine claws and Grab plus adamantine claws and
+**Melee** ◆ claw +24/+20/+16 (agile, magical); **Damage** 2d8+13 slashing plus adamantine claws and Grab plus adamantine claws and
 
-**Melee** ◆ tail +24 (magical, reach <20 feet>); **Damage** 2d8+13 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +24/+19/+14 (magical, reach <20 feet>); **Damage** 2d8+13 bludgeoning plus Grab plus Grab
 
 **Innate arcane Spells** (DC 30), attack +24
 

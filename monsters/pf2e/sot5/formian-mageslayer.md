@@ -37,8 +37,8 @@ rare, ln, medium, formian, mutant
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ claw +32 (agile, finesse); **Damage** 3d10+13 slashing plus 3d6 persistent mental damage and stupefying touch
+**Melee** ◆ claw +32/+28/+24 (agile, finesse); **Damage** 3d10+13 slashing plus 3d6 persistent mental damage and stupefying touch
 
-**Ranged** ◆ acid spit +32 (range <60 feet>); **Damage** 3d6+8 acid plus 3d6 persistent acid damage
+**Ranged** ◆ acid spit +32/+27/+22 (range <60 feet>); **Damage** 3d6+8 acid plus 3d6 persistent acid damage
 
 **Stupefying Touch** (abjuration, curse, primal) A creature damaged by a mageslayer's claw Strike must succeed at a DC 37 Will save. The creature becomes stupefied 2 for 1 round on a failure. On a critical failure, the creature is stupefied 2 for 1 hour.

@@ -11,6 +11,8 @@ unique, ce, gargantuan, dragon, fire
 
 **Skills** Acrobatics +37, Arcana +42, Athletics +42, Deception +42, Diplomacy +37, Intimidation +45, Stealth +35
 
+**Recall Knowledge - Dragon** (Arcana): DC 54
+
 **STR** +10, **DEX** +5, **CON** +9, **INT** +5, **WIS** +6, **CHA** +7
 
 **Smoke Vision** Smoke doesn't impair a red dragon's vision; it ignores the concealed condition from smoke.
@@ -41,13 +43,13 @@ unique, ce, gargantuan, dragon, fire
 
 Speed 60 feet, fly 240 feet
 
-**Melee** ◆ jaws +42 (fire, magical, reach <20 feet>); **Damage** 4d10+22 piercing plus 3d6 fire
+**Melee** ◆ jaws +42/+37/+32 (fire, magical, reach <20 feet>); **Damage** 4d10+22 piercing plus 3d6 fire
 
-**Melee** ◆ claw +42 (agile, magical, reach <15 feet>); **Damage** 4d8+22 slashing
+**Melee** ◆ claw +42/+38/+34 (agile, magical, reach <15 feet>); **Damage** 4d8+22 slashing
 
-**Melee** ◆ tail +40 (magical, reach <25 feet>); **Damage** 4d10+17 slashing
+**Melee** ◆ tail +40/+35/+30 (magical, reach <25 feet>); **Damage** 4d10+17 slashing
 
-**Melee** ◆ wing +40 (agile, magical, reach <20 feet>); **Damage** 3d8+17 slashing
+**Melee** ◆ wing +40/+36/+32 (agile, magical, reach <20 feet>); **Damage** 3d8+17 slashing
 
 **Innate arcane Spells** (DC 46)
 

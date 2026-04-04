@@ -11,6 +11,8 @@ uncommon, n, medium, humanoid, samsaran
 
 **Skills** Medicine +6, Occultism +6, Religion +7, Society +4
 
+**Recall Knowledge - Humanoid** (Society): DC 17
+
 **STR** +0, **DEX** +2, **CON** +0, **INT** +1, **WIS** +4, **CHA** +2
 
 **Items** spear, sling (10 bullets)
@@ -33,9 +35,9 @@ uncommon, n, medium, humanoid, samsaran
 
 Speed 25 feet
 
-**Melee** ◆ spear +5; **Damage** 1d6+2 piercing
+**Melee** ◆ spear +5/+0/-5; **Damage** 1d6+2 piercing
 
-**Ranged** ◆ sling +7 (range increment <50 feet>, reload <1>); **Damage** 1d4+2 bludgeoning
+**Ranged** ◆ sling +7/+2/-3 (range increment <50 feet>, reload <1>); **Damage** 1d4+2 bludgeoning
 
 **Prepared divine Spells** (DC 17)
 

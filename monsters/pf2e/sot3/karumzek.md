@@ -11,6 +11,8 @@ uncommon, ne, medium, aberration
 
 **Skills** Acrobatics +10, Crafting +12, Nature +8, Religion +10, Stealth +12
 
+**Recall Knowledge - Aberration** (Occultism): DC 21
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** -1, **WIS** +2, **CHA** +0
 
 **Poison Sense** A karumzek senses any poisoned creature. It can spend an action with the concentrate trait to determine the poison's type and current stage.
@@ -31,7 +33,7 @@ uncommon, ne, medium, aberration
 
 Speed 40 feet, climb 30 feet
 
-**Melee** ◆ bite +12; **Damage** 2d6+4 piercing plus karumzek venom
+**Melee** ◆ bite +12/+7/+2; **Damage** 2d6+4 piercing plus karumzek venom
 
 **Innate occult Spells** (DC 21)
 

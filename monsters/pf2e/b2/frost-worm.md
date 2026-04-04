@@ -9,6 +9,8 @@ n, huge, animal, cold
 
 **Skills** Athletics +25, Stealth +20
 
+**Recall Knowledge - Animal** (Nature): DC 30
+
 **STR** +7, **DEX** +4, **CON** +6, **INT** -4, **WIS** +4, **CHA** +0
 
 ---
@@ -33,7 +35,7 @@ n, huge, animal, cold
 
 Speed 25 feet, burrow 10 feet
 
-**Melee** ◆ jaws +25; **Damage** 3d8+10 piercing plus 2d6 persistent cold
+**Melee** ◆ jaws +25/+20/+15; **Damage** 3d8+10 piercing plus 2d6 persistent cold
 
 **Breath Weapon** ◆◆ (cold, evocation, primal) The frost worm exhales a blast of frost, dealing 13d6 cold damage to creatures in a 50-foot cone (DC 32 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

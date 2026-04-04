@@ -11,6 +11,8 @@ unique, ce, small, halfling, humanoid
 
 **Skills** Acrobatics +32, Crafting +26, Deception +29, Intimidation +29, Occultism +28, Stealth +32, Thievery +32, Harrow Lore +28
 
+**Recall Knowledge - Humanoid** (Society): DC 46
+
 **STR** +1, **DEX** +7, **CON** +2, **INT** +1, **WIS** +5, **CHA** +4
 
 **Items** blade of the Rabbit Prince, hardened harrow deck, tin crown
@@ -35,9 +37,9 @@ unique, ce, small, halfling, humanoid
 
 Speed 25 feet, freedom of movement, quick movements
 
-**Melee** ◆ blade of the Rabbit Prince +34 (agile, finesse, magical, versatile <S>); **Damage** 3d6+13 piercing plus 2d10 persistent bleed
+**Melee** ◆ blade of the Rabbit Prince +34/+30/+26 (agile, finesse, magical, versatile <S>); **Damage** 3d6+13 piercing plus 2d10 persistent bleed
 
-**Ranged** ◆ harrow card +34 (agile, deadly <1d10>, magical, thrown <20 feet>); **Damage** 3d4+13 piercing plus 2d10 persistent bleed
+**Ranged** ◆ harrow card +34/+30/+26 (agile, deadly <1d10>, magical, thrown <20 feet>); **Damage** 3d4+13 piercing plus 2d10 persistent bleed
 
 **Innate occult Spells** (DC 38)
 

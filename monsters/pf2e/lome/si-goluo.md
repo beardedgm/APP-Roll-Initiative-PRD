@@ -11,6 +11,8 @@ unique, ng, huge, beast, incorporeal, spirit
 
 **Skills** Athletics +31, Diplomacy +28, Nature +31, Survival +28
 
+**Recall Knowledge - Beast** (Arcana, Nature, Religion): DC 42
+
 **STR** +9, **DEX** +5, **CON** +8, **INT** +1, **WIS** +8, **CHA** +4
 
 ---
@@ -33,7 +35,7 @@ unique, ng, huge, beast, incorporeal, spirit
 
 Speed 40 feet
 
-**Melee** ◆ horn +31 (reach <10 feet>); **Damage** 2d10+16 piercing damage plus 1d12 force damage
+**Melee** ◆ horn +31/+26/+21 (reach <10 feet>); **Damage** 2d10+16 piercing damage plus 1d12 force damage
 
 **Innate primal Spells** (DC 34)
 

@@ -9,6 +9,8 @@ unique, ne, medium, dwarf, humanoid
 
 **Skills** Acrobatics +8, Society +5, Stealth +8, Survival +6, Thievery +8
 
+**Recall Knowledge - Humanoid** (Society): DC 26
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +1, **WIS** +2, **CHA** +0
 
 **Items** hand crossbow (10 bolts), leather armor, rapier
@@ -27,9 +29,9 @@ unique, ne, medium, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ rapier +11 (deadly <d8>, finesse); **Damage** 1d6+4 piercing
+**Melee** ◆ rapier +11/+6/+1 (deadly <d8>, finesse); **Damage** 1d6+4 piercing
 
-**Ranged** ◆ hand crossbow +11 (range increment <60 feet>, reload <1>); **Damage** 1d6+2 piercing
+**Ranged** ◆ hand crossbow +11/+6/+1 (range increment <60 feet>, reload <1>); **Damage** 1d6+2 piercing
 
 **Sneak Attack** Omblin deals an extra 1d6 to creatures that have the flat-footed condition.
 

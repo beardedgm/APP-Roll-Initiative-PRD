@@ -11,6 +11,8 @@ unique, ln, small, humanoid, ratfolk
 
 **Skills** Acrobatics +11, Diplomacy +12, Intimidation +12, Performance +12, Society +9, Stealth +11
 
+**Recall Knowledge - Humanoid** (Society): DC 29
+
 **STR** +1, **DEX** +3, **CON** +0, **INT** +1, **WIS** +2, **CHA** +4
 
 **Items** studded leather armor
@@ -29,7 +31,7 @@ unique, ln, small, humanoid, ratfolk
 
 Speed 25 feet
 
-**Melee** ◆ fangs +13 (agile, finesse); **Damage** 1d4+1 piercing
+**Melee** ◆ fangs +13/+9/+5 (agile, finesse); **Damage** 1d4+1 piercing
 
 **Spontaneous occult Spells** (DC 21), attack +13
 

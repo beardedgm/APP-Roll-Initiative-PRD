@@ -11,6 +11,8 @@ unique, ce, medium, amphibious, hag, humanoid
 
 **Skills** Acrobatics +28, Athletics +31, Deception +27, Occultism +29, Stealth +29
 
+**Recall Knowledge - Humanoid** (Society): DC 45
+
 **STR** +9, **DEX** +6, **CON** +9, **INT** +5, **WIS** +6, **CHA** +5
 
 **Planar Coven** As Myrna Rath.
@@ -31,7 +33,7 @@ unique, ce, medium, amphibious, hag, humanoid
 
 Speed 25 feet, swim 35 feet
 
-**Melee** ◆ claw +31 (agile, magical); **Damage** 3d12+13 slashing
+**Melee** ◆ claw +31/+27/+23 (agile, magical); **Damage** 3d12+13 slashing
 
 **Dread Gaze** ◆◆ As sea hag, but DC 37.
 

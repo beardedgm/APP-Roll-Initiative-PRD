@@ -11,6 +11,8 @@ rare, ln, medium, human, humanoid
 
 **Skills** Acrobatics +29, Athletics +32, Survival +28
 
+**Recall Knowledge - Humanoid** (Society): DC 40
+
 **STR** +6, **DEX** +5, **CON** +9, **INT** +2, **WIS** +4, **CHA** +2
 
 **Convergent Link** Creatures with this ability can communicate with each other by manifesting an aura of wispy Utopian runes. This has the effects of telepathy with a range of 300 feet, but requires line of sight.
@@ -33,9 +35,9 @@ rare, ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ bastard sword +31 (magical, two-hand <d12>); **Damage** 2d8+12 slashing plus convergent tactics plus convergent tactics
+**Melee** ◆ bastard sword +31/+26/+21 (magical, two-hand <d12>); **Damage** 2d8+12 slashing plus convergent tactics plus convergent tactics
 
-**Ranged** ◆ longbow +29 (deadly <1d10>, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+9 piercing plus convergent tactics plus convergent tactics
+**Ranged** ◆ longbow +29/+24/+19 (deadly <1d10>, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+9 piercing plus convergent tactics plus convergent tactics
 
 **Convergent Tactics** The convergent soldier's attacks deal an extra 4d8 damage to creatures within reach of one of their allies with convergent tactics.
 

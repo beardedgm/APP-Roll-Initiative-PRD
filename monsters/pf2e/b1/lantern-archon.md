@@ -11,6 +11,8 @@ lg, small, archon, celestial
 
 **Skills** Acrobatics +8, Diplomacy +6, Religion +6
 
+**Recall Knowledge - Celestial** (Religion): DC 15
+
 **STR** -5, **DEX** +3, **CON** +1, **INT** -1, **WIS** +1, **CHA** +1
 
 ---
@@ -31,7 +33,7 @@ lg, small, archon, celestial
 
 Speed fly 40 feet
 
-**Ranged** ◆ light ray +8 (agile, good, fire, magical, range <30 feet>); **Damage** 1d4 fire plus 1d4 good
+**Ranged** ◆ light ray +8/+4/+0 (agile, good, fire, magical, range <30 feet>); **Damage** 1d4 fire plus 1d4 good
 
 **Innate divine Spells** (DC 17)
 

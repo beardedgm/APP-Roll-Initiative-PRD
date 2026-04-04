@@ -9,6 +9,8 @@ uncommon, n, large, animal
 
 **Skills** Athletics +17, Stealth +15, Survival +15
 
+**Recall Knowledge - Animal** (Nature): DC 25
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** -4, **WIS** +3, **CHA** +0
 
 ---
@@ -23,13 +25,13 @@ uncommon, n, large, animal
 
 Speed 25 feet, climb 15 feet
 
-**Melee** ◆ jaws +18 (reach <10 feet>); **Damage** 2d10+9 piercing plus Grab plus Grab
+**Melee** ◆ jaws +18/+13/+8 (reach <10 feet>); **Damage** 2d10+9 piercing plus Grab plus Grab
 
-**Melee** ◆ claw +18 (agile); **Damage** 2d6+9 slashing
+**Melee** ◆ claw +18/+14/+10 (agile); **Damage** 2d6+9 slashing
 
-**Melee** ◆ tail +16 (reach <15 feet>); **Damage** 2d8+6 piercing plus Tail Impalement plus Tail Impalement
+**Melee** ◆ tail +16/+11/+6 (reach <15 feet>); **Damage** 2d8+6 piercing plus Tail Impalement plus Tail Impalement
 
-**Ranged** ◆ spit +16 (range <30 feet>); **Damage** Blinding Spittle plus Blinding Spittle
+**Ranged** ◆ spit +16/+11/+6 (range <30 feet>); **Damage** Blinding Spittle plus Blinding Spittle
 
 **Blinding Spittle** A creature hit by a pagulin's spit must attempt a DC 22 Fortitude save. **Critical Success** The creature is unaffected.
 **Success** The creature is dazzled for 1 round. It can use an Interact action to wipe away the spittle and remove the dazzled condition.

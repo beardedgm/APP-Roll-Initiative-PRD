@@ -9,6 +9,8 @@ n, small, earth, elemental
 
 **Skills** Athletics +8, Stealth +5
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 16
+
 **STR** +4, **DEX** -1, **CON** +4, **INT** -4, **WIS** +2, **CHA** -1
 
 ---
@@ -23,7 +25,7 @@ n, small, earth, elemental
 
 Speed 20 feet, burrow 20 feet, earth glide
 
-**Melee** ◆ jaws +10; **Damage** 1d8+6 piercing
+**Melee** ◆ jaws +10/+5/+0; **Damage** 1d8+6 piercing
 
 **Earth Glide** A living boulder can Burrow through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing.
 

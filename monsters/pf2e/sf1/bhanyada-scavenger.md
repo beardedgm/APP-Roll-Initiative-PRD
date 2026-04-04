@@ -11,6 +11,8 @@ uncommon, ne, small, aberration
 
 **Skills** Athletics +17, Stealth +18, Survival +17
 
+**Recall Knowledge - Aberration** (Occultism): DC 26
+
 **STR** +5, **DEX** +4, **CON** +3, **INT** -3, **WIS** +3, **CHA** -1
 
 ---
@@ -33,7 +35,7 @@ uncommon, ne, small, aberration
 
 Speed 25 feet, climb 25 feet
 
-**Melee** ◆ jaws +19 (agile, versatile <P>); **Damage** 2d10+8 bludgeoning
+**Melee** ◆ jaws +19/+15/+11 (agile, versatile <P>); **Damage** 2d10+8 bludgeoning
 
 **Change Posture** ◆ The bhanyada changes between a bipedal and quadrupedal stance. In its bipedal stance, the bhanyada can't use Sudden Charge. In its quadrupedal stance, it loses its climb Speed.
 

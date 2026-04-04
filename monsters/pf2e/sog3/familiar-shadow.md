@@ -11,6 +11,8 @@ ce, medium, incorporeal, undead
 
 **Skills** Acrobatics +10, Stealth +14
 
+**Recall Knowledge - Undead** (Religion): DC 19
+
 **STR** -5, **DEX** +4, **CON** +0, **INT** -2, **WIS** +2, **CHA** +3
 
 ---
@@ -35,7 +37,7 @@ ce, medium, incorporeal, undead
 
 Speed fly 30 feet
 
-**Melee** ◆ shadow hand +15 (finesse, magical); **Damage** 2d6+3 negative
+**Melee** ◆ shadow hand +15/+10/+5 (finesse, magical); **Damage** 2d6+3 negative
 
 **Shadow Spawn** When a creature's shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably clumsy 2. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.
 

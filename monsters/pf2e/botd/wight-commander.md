@@ -11,6 +11,8 @@ rare, le, medium, undead, wight
 
 **Skills** Athletics +24, Intimidation +25, Warfare Lore +25
 
+**Recall Knowledge - Undead** (Religion): DC 35
+
 **STR** +6, **DEX** +3, **CON** +4, **INT** +5, **WIS** +3, **CHA** +3
 
 **Items** full plate, +1 striking longsword, standard-grade adamantine shield (Hardness 10, HP 40, BT 20)
@@ -35,9 +37,9 @@ rare, le, medium, undead, wight
 
 Speed 25 feet
 
-**Melee** ◆ longsword +27 (magical, versatile <P>); **Damage** 2d8+14 slashing plus drain life
+**Melee** ◆ longsword +27/+22/+17 (magical, versatile <P>); **Damage** 2d8+14 slashing plus drain life
 
-**Melee** ◆ claw +26 (agile); **Damage** 2d8+14 slashing plus drain life
+**Melee** ◆ claw +26/+22/+18 (agile); **Damage** 2d8+14 slashing plus drain life
 
 **Innate divine Spells** (DC 29)
 

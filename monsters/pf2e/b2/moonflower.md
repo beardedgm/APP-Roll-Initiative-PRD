@@ -11,6 +11,8 @@ uncommon, n, huge, plant
 
 **Skills** Athletics +19, Stealth +14
 
+**Recall Knowledge - Plant** (Nature): DC 26
+
 **STR** +7, **DEX** +0, **CON** +4, **INT** -2, **WIS** +4, **CHA** +3
 
 ---
@@ -29,9 +31,9 @@ uncommon, n, huge, plant
 
 Speed 20 feet
 
-**Melee** ◆ bite +20 (reach <15 feet>); **Damage** 2d10+10 piercing plus Grab plus Grab
+**Melee** ◆ bite +20/+15/+10 (reach <15 feet>); **Damage** 2d10+10 piercing plus Grab plus Grab
 
-**Melee** ◆ root +20 (agile, reach <15 feet>); **Damage** 2d8+10 bludgeoning
+**Melee** ◆ root +20/+16/+12 (agile, reach <15 feet>); **Damage** 2d8+10 bludgeoning
 
 **Light Pulse** ◆◆ (evocation, light, primal, visual) 50 feet. The moonflower releases a pulse of bright light. Each non-moonflower creature in the emanation must attempt a DC 23 Fortitude save. The moonflower can't use Light Pulse again for 1d4 rounds. **Success** The creature is unaffected.
 **Failure** The creature is dazzled for 1d4 rounds.

@@ -11,6 +11,8 @@ le, medium, asura, fiend
 
 **Skills** Acrobatics +15, Intimidation +15, Performance +15, Stealth +15
 
+**Recall Knowledge - Fiend** (Religion): DC 23
+
 **STR** +6, **DEX** +4, **CON** +4, **INT** +2, **WIS** +2, **CHA** +4
 
 **Items** kukri (4)
@@ -37,8 +39,8 @@ le, medium, asura, fiend
 
 Speed 40 feet
 
-**Melee** ◆ kukri +18 (agile, trip); **Damage** 1d6+9 slashing plus 2d6 persistent bleed and 1d4 evil
+**Melee** ◆ kukri +18/+14/+10 (agile, trip); **Damage** 1d6+9 slashing plus 2d6 persistent bleed and 1d4 evil
 
-**Melee** ◆ claw +18 (agile); **Damage** 1d6+9 slashing and 1d4 evil
+**Melee** ◆ claw +18/+14/+10 (agile); **Damage** 1d6+9 slashing and 1d4 evil
 
 **Dance of Destruction** ◆ **Requirements** The adhukait's last action was a Strike that dealt damage; The adhukait Strides up to 10 feet and Strikes.

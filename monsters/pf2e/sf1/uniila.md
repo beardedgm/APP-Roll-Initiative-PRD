@@ -11,6 +11,8 @@ uncommon, le, medium, devil, fiend
 
 **Skills** Acrobatics +20, Arcana +23, Deception +22, Intimidation +20, Occultism +21, Religion +19, Society +21, Stealth +22
 
+**Recall Knowledge - Fiend** (Religion): DC 29
+
 **STR** +3, **DEX** +6, **CON** +4, **INT** +7, **WIS** +5, **CHA** +6
 
 **Items** +1 daggers (4)
@@ -33,7 +35,7 @@ uncommon, le, medium, devil, fiend
 
 Speed 25 feet, fly 40 feet
 
-**Melee** ◆ dagger +23 (agile, deadly <d10>, evil, finesse, magical, versatile <S>); **Damage** 1d4+9 piercing plus 1d6 evil
+**Melee** ◆ dagger +23/+19/+15 (agile, deadly <d10>, evil, finesse, magical, versatile <S>); **Damage** 1d4+9 piercing plus 1d6 evil
 
 **Spontaneous arcane Spells** (DC 29), attack +21
 

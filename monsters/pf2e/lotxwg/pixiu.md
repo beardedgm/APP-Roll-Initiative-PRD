@@ -11,6 +11,8 @@ uncommon, large, dragon
 
 **Skills** Acrobatics +14, Athletics +18, Religion +16
 
+**Recall Knowledge - Dragon** (Arcana): DC 26
+
 **STR** +6, **DEX** +2, **CON** +6, **INT** -2, **WIS** +4, **CHA** +4
 
 **Goldsense** The pixiu can detect the presence, location, and approximate value of gold within 120 feet.
@@ -33,9 +35,9 @@ uncommon, large, dragon
 
 Speed 30 feet, fly 40 feet
 
-**Melee** ◆ jaws +20 (magical); **Damage** 2d10+5 piercing plus 1d4 holy and Devour Wealth plus Devour Wealth
+**Melee** ◆ jaws +20/+15/+10 (magical); **Damage** 2d10+5 piercing plus 1d4 holy and Devour Wealth plus Devour Wealth
 
-**Melee** ◆ claw +20 (agile, magical); **Damage** 2d6+5 slashing plus 1d4 spirit
+**Melee** ◆ claw +20/+16/+12 (agile, magical); **Damage** 2d6+5 slashing plus 1d4 spirit
 
 **Innate divine Spells** (DC 26)
 

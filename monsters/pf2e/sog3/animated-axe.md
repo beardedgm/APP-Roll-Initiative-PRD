@@ -9,6 +9,8 @@ ln, tiny, construct, mindless
 
 **Skills** Acrobatics +13
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 20
+
 **STR** +5, **DEX** +4, **CON** +2, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -27,4 +29,4 @@ ln, tiny, construct, mindless
 
 Speed fly 20 feet
 
-**Melee** ◆ battle axe +14 (sweep); **Damage** 1d8+7 slashing plus 1d6 persistent bleed
+**Melee** ◆ battle axe +14/+9/+4 (sweep); **Damage** 1d8+7 slashing plus 1d6 persistent bleed

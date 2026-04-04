@@ -11,6 +11,8 @@ n, large, air, elemental
 
 **Skills** Acrobatics +20, Stealth +18
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 26
+
 **STR** +4, **DEX** +7, **CON** +4, **INT** -1, **WIS** +3, **CHA** +0
 
 ---
@@ -31,8 +33,8 @@ n, large, air, elemental
 
 Speed fly 75 feet, swiftness
 
-**Melee** ◆ gust +20 (finesse, reach <15 feet>); **Damage** 2d12+10 bludgeoning plus Push 5 feet
+**Melee** ◆ gust +20/+15/+10 (finesse, reach <15 feet>); **Damage** 2d12+10 bludgeoning plus Push 5 feet
 
-**Ranged** ◆ lightning lash +20 (range increment <50 feet>); **Damage** 2d12+4 electricity
+**Ranged** ◆ lightning lash +20/+15/+10 (range increment <50 feet>); **Damage** 2d12+4 electricity
 
 **Swiftness** The storm lord's movement doesn't trigger reactions.

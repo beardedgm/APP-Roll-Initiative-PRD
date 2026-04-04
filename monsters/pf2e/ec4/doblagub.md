@@ -11,6 +11,8 @@ ce, large, amphibious, fey
 
 **Skills** Athletics +25, Deception +28, Intimidation +28, Nature +26, Survival +24
 
+**Recall Knowledge - Fey** (Nature): DC 31
+
 **STR** +8, **DEX** +3, **CON** +6, **INT** +2, **WIS** +5, **CHA** +7
 
 ---
@@ -29,9 +31,9 @@ ce, large, amphibious, fey
 
 Speed 10 feet, swim 10 feet
 
-**Melee** ◆ jaws +27 (reach <10 feet>); **Damage** 4d8+14 bludgeoning plus Grab plus Grab
+**Melee** ◆ jaws +27/+22/+17 (reach <10 feet>); **Damage** 4d8+14 bludgeoning plus Grab plus Grab
 
-**Melee** ◆ tongue +27 (reach <15 feet>); plus Grab and Pull 10 feet
+**Melee** ◆ tongue +27/+22/+17 (reach <15 feet>); plus Grab and Pull 10 feet
 
 **Innate primal Spells** (DC 33), attack +27
 

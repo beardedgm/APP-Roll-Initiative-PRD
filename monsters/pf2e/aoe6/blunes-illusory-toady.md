@@ -35,7 +35,7 @@ rare, cn, medium, incorporeal, protean
 
 Speed 30 feet
 
-**Melee** ◆ chaos hand +35 (agile, chaotic, finesse, magical); **Damage** 3d8+12 chaotic
+**Melee** ◆ chaos hand +35/+31/+27 (agile, chaotic, finesse, magical); **Damage** 3d8+12 chaotic
 
 **Innate arcane Spells** (DC 36), attack +28
 

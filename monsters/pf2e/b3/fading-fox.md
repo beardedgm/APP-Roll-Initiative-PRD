@@ -9,6 +9,8 @@ n, tiny, animal
 
 **Skills** Acrobatics +8, Athletics +5, Stealth +10, Survival +9
 
+**Recall Knowledge - Animal** (Nature): DC 16
+
 **STR** -1, **DEX** +4, **CON** +1, **INT** -4, **WIS** +3, **CHA** +0
 
 ---
@@ -25,7 +27,7 @@ n, tiny, animal
 
 Speed 35 feet
 
-**Melee** ◆ jaws +10 (agile, finesse); **Damage** 1d6+1 piercing
+**Melee** ◆ jaws +10/+6/+2 (agile, finesse); **Damage** 1d6+1 piercing
 
 **Leaping Pounce** ◆ The red fox either Strides or Leaps up to its Speed and makes a Strike at the end of that movement. If the fox began this action hidden, it remains hidden until after this ability's Strike.
 

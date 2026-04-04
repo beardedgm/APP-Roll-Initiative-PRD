@@ -11,6 +11,8 @@ unique, n, medium, human, humanoid
 
 **Skills** Acrobatics +24, Athletics +25, Deception +23, Diplomacy +25, Intimidation +25, Society +20, Willowside Lore +18
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** +5, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** +5
 
 **Items** +1 resilient chain shirt, +1 striking composite longbow (40 arrows), moderate healing potion, +2 greater striking longsword, ring of sustenance
@@ -33,11 +35,11 @@ unique, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ longsword +29 (magical, versatile <P>); **Damage** 3d8+13 slashing
+**Melee** ◆ longsword +29/+24/+19 (magical, versatile <P>); **Damage** 3d8+13 slashing
 
-**Melee** ◆ fist +27 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+11 bludgeoning
+**Melee** ◆ fist +27/+23/+19 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+11 bludgeoning
 
-**Ranged** ◆ composite longbow +27 (deadly <2d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+11 piercing
+**Ranged** ◆ composite longbow +27/+22/+17 (deadly <2d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+11 piercing
 
 **Dueling Parry** ◆ **Requirements** Ledorick has a single one-handed melee weapon in one hand and has his other hand free; Ledorick gains a +2 circumstance bonus to AC until the start of his next turn.
 

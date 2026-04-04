@@ -11,6 +11,8 @@ unique, n, medium, human, humanoid
 
 **Skills** Acrobatics +24, Arcana +25, Deception +28, Diplomacy +28, Intimidation +28, Occultism +25, Performance +28, Religion +23, Society +25
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** +0, **DEX** +4, **CON** +4, **INT** +3, **WIS** +1, **CHA** +6
 
 **Items** +2 striking hand crossbow (20 bolts), +1 resilient leather armor, +2 striking sickle
@@ -31,9 +33,9 @@ unique, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ sickle +27 (agile, finesse, magical, trip); **Damage** 2d4+10 slashing
+**Melee** ◆ sickle +27/+23/+19 (agile, finesse, magical, trip); **Damage** 2d4+10 slashing
 
-**Ranged** ◆ hand crossbow +27 (magical, range increment <60 feet>, reload <1>); **Damage** 2d6+10 piercing
+**Ranged** ◆ hand crossbow +27/+22/+17 (magical, range increment <60 feet>, reload <1>); **Damage** 2d6+10 piercing
 
 **Spontaneous occult Spells** (DC 34), attack +26
 

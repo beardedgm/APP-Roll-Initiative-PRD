@@ -11,6 +11,8 @@ ce, small, amphibious, fey
 
 **Skills** Athletics +16, Deception +16, Intimidation +14, Nature +12, Stealth +15, Survival +16, Sailing Lore +14
 
+**Recall Knowledge - Fey** (Nature): DC 23
+
 **STR** +4, **DEX** +5, **CON** +1, **INT** -1, **WIS** +2, **CHA** +4
 
 **Items** fish hook, oar (functions as mace)
@@ -29,11 +31,11 @@ ce, small, amphibious, fey
 
 Speed 40 feet, swim 40 feet
 
-**Melee** ◆ fish hook +17 (trip); **Damage** 2d10+7 piercing plus hooked plus hooked
+**Melee** ◆ fish hook +17/+12/+7 (trip); **Damage** 2d10+7 piercing plus hooked plus hooked
 
-**Melee** ◆ oar +17 (shove); **Damage** 2d6+7 bludgeoning
+**Melee** ◆ oar +17/+12/+7 (shove); **Damage** 2d6+7 bludgeoning
 
-**Ranged** ◆ fish hook +18 (thrown <30 feet>); **Damage** 2d10+7 piercing plus hooked plus hooked
+**Ranged** ◆ fish hook +18/+13/+8 (thrown <30 feet>); **Damage** 2d10+7 piercing plus hooked plus hooked
 
 **Hooked** A creature struck by the culdewen's fish hook is skewered, taking 1d4 persistent bleed damage as long as the hook remains stuck in it. The fish hook can be removed only if a creature spends an Interact action and succeeds at a DC 25 Athletics check to pull it free.
 

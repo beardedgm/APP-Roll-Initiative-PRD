@@ -11,6 +11,8 @@ uncommon, cn, medium, drow, elf, humanoid
 
 **Skills** Acrobatics +19, Athletics +16, Deception +16, Intimidation +14, Stealth +17, Thievery +17
 
+**Recall Knowledge - Humanoid** (Society): DC 26
+
 **STR** +2, **DEX** +5, **CON** +1, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** +1 repeating hand crossbow (4 magazines; page 73), rapier, shootist bandolier (page 73), stupor poison (4; page 74), studded leather armor
@@ -33,9 +35,9 @@ uncommon, cn, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ rapier +18 (deadly <d8>, disarm, finesse); **Damage** 1d6+9 piercing
+**Melee** ◆ rapier +18/+13/+8 (deadly <d8>, disarm, finesse); **Damage** 1d6+9 piercing
 
-**Ranged** ◆ repeating hand crossbow +20 (range increment <60 feet>, reload <0> [3 to reload magazine], repeating); **Damage** 1d6+9 piercing plus stupor poison plus stupor poison
+**Ranged** ◆ repeating hand crossbow +20/+15/+10 (range increment <60 feet>, reload <0> [3 to reload magazine], repeating); **Damage** 1d6+9 piercing plus stupor poison plus stupor poison
 
 **Innate divine Spells** (DC 24)
 

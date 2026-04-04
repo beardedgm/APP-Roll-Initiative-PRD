@@ -11,6 +11,8 @@ ce, huge, demon, fiend
 
 **Skills** Deception +28, Diplomacy +26, Intimidation +26, Religion +22, Society +22, Stealth +21
 
+**Recall Knowledge - Fiend** (Religion): DC 31
+
 **STR** +7, **DEX** +2, **CON** +7, **INT** +3, **WIS** +3, **CHA** +7
 
 ---
@@ -29,11 +31,11 @@ ce, huge, demon, fiend
 
 Speed 35 feet
 
-**Melee** ◆ pincer +27 (deadly <2d10>, evil, magical, reach <15 feet>); **Damage** 3d10+13 bludgeoning plus 1d6 evil and Grab plus Grab
+**Melee** ◆ pincer +27/+22/+17 (deadly <2d10>, evil, magical, reach <15 feet>); **Damage** 3d10+13 bludgeoning plus 1d6 evil and Grab plus Grab
 
-**Melee** ◆ claw +27 (agile, evil, magical, reach <10 feet>); **Damage** 3d6+13 slashing plus 1d6 evil
+**Melee** ◆ claw +27/+23/+19 (agile, evil, magical, reach <10 feet>); **Damage** 3d6+13 slashing plus 1d6 evil
 
-**Melee** ◆ jaws +27 (evil, magical, reach <10 feet>); **Damage** 3d12+13 piercing plus 1d6 evil
+**Melee** ◆ jaws +27/+22/+17 (evil, magical, reach <10 feet>); **Damage** 3d12+13 piercing plus 1d6 evil
 
 **Innate divine Spells** (DC 34)
 

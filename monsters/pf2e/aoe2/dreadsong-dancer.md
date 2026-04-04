@@ -11,6 +11,8 @@ rare, le, medium, fiend
 
 **Skills** Acrobatics +18, Athletics +16, Deception +18, Occultism +14, Performance +18, Stealth +18
 
+**Recall Knowledge - Fiend** (Religion): DC 29
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +4, **WIS** +3, **CHA** +6
 
 ---
@@ -33,9 +35,9 @@ rare, le, medium, fiend
 
 Speed 25 feet
 
-**Melee** ◆ claw +18 (agile, finesse); **Damage** 2d10+6 slashing
+**Melee** ◆ claw +18/+14/+10 (agile, finesse); **Damage** 2d10+6 slashing
 
-**Melee** ◆ songblade +20 (agile, deadly <d10>, finesse, magical, trip); **Damage** 2d10+8 slashing
+**Melee** ◆ songblade +20/+16/+12 (agile, deadly <d10>, finesse, magical, trip); **Damage** 2d10+8 slashing
 
 **Innate occult Spells** (DC 23)
 

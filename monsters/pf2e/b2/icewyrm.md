@@ -11,6 +11,8 @@ n, huge, amphibious, cold, elemental, water
 
 **Skills** Athletics +21
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 27
+
 **STR** +7, **DEX** +7, **CON** +5, **INT** -1, **WIS** +5, **CHA** +3
 
 ---
@@ -31,11 +33,11 @@ n, huge, amphibious, cold, elemental, water
 
 Speed 25 feet, swim 60 feet, ice burrow 20 feet
 
-**Melee** ◆ jaws +23 (reach <15 feet>); **Damage** 2d12+13 piercing
+**Melee** ◆ jaws +23/+18/+13 (reach <15 feet>); **Damage** 2d12+13 piercing
 
-**Melee** ◆ tail +23 (agile, reach <15 feet>); **Damage** 2d6+13 slashing plus 1d6 persistent cold
+**Melee** ◆ tail +23/+19/+15 (agile, reach <15 feet>); **Damage** 2d6+13 slashing plus 1d6 persistent cold
 
-**Ranged** ◆ ice shard +23 (range increment <60 feet>); **Damage** 1d6+13 piercing plus 1d6 persistent cold
+**Ranged** ◆ ice shard +23/+18/+13 (range increment <60 feet>); **Damage** 1d6+13 piercing plus 1d6 persistent cold
 
 **Breath Weapon** ◆◆ (cold, evocation, primal) The icewyrm breathes a 60-foot line of freezing shards of razor-sharp ice, dealing 3d12 cold damage and 3d12 piercing damage to every creature in the line (DC 29 basic Reflex save). The icewyrm can't use Breath Weapon again for 1d4 rounds.
 

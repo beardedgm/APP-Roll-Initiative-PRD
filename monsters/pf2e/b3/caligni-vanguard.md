@@ -11,6 +11,8 @@ rare, le, medium, caligni, humanoid
 
 **Skills** Athletics +14, Stealth +8
 
+**Recall Knowledge - Humanoid** (Society): DC 25
+
 **STR** +5, **DEX** -1, **CON** +3, **INT** +1, **WIS** +4, **CHA** +1
 
 **Items** composite longbow (40 arrows), full plate (see death blaze), greatsword
@@ -39,9 +41,9 @@ rare, le, medium, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ greatsword +16 (versatile <P>); **Damage** 1d12+8 slashing
+**Melee** ◆ greatsword +16/+11/+6 (versatile <P>); **Damage** 1d12+8 slashing
 
-**Ranged** ◆ composite longbow +10 (deadly <d10>, range increment <100 feet>, volley); **Damage** 1d8+5 piercing
+**Ranged** ◆ composite longbow +10/+5/+0 (deadly <d10>, range increment <100 feet>, volley); **Damage** 1d8+5 piercing
 
 **Call to Arms** ◆ (auditory, mental) Each caligni within 30 feet of the vanguard gains the Attack of Opportunity reaction until the end of the vanguard's next turn. Once a caligni has used this Attack of Opportunity, that caligni is temporarily immune to the same vanguard's Call to Arms for 10 minutes.
 

@@ -9,6 +9,8 @@ rare, ln, medium, undead
 
 **Skills** Acrobatics +21, Athletics +19, Intimidation +20
 
+**Recall Knowledge - Undead** (Religion): DC 32
+
 **STR** +5, **DEX** +7, **CON** +4, **INT** +0, **WIS** +3, **CHA** +2
 
 **Items** +1 striking flintlock pistolG&G (2)
@@ -38,11 +40,11 @@ rare, ln, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ pistol whip +20 (magical); **Damage** 2d6+9 bludgeoning
+**Melee** ◆ pistol whip +20/+15/+10 (magical); **Damage** 2d6+9 bludgeoning
 
-**Melee** ◆ fist +21 (agile, finesse, nonlethal); **Damage** 1d6+9 bludgeoning
+**Melee** ◆ fist +21/+17/+13 (agile, finesse, nonlethal); **Damage** 1d6+9 bludgeoning
 
-**Ranged** ◆ flintlock pistol +24 (concussive, fatal <d8>, range increment <40 feet>); **Damage** 2d4+6 piercing plus bullets of vengeance
+**Ranged** ◆ flintlock pistol +24/+19/+14 (concussive, fatal <d8>, range increment <40 feet>); **Damage** 2d4+6 piercing plus bullets of vengeance
 
 **Bullets of Vengeance** (necromancy, occult) Shots from a pale stranger's firearms deal an additional 1d6 precision damage, or 2d6 precision damage against the one who murdered them. A creature who has never killed a living being doesn't take this precision damage. When a pale stranger critically succeeds at a ranged Strike with a pistol, the target must succeed at a DC 29 Fortitude save or be stunned 1.
 

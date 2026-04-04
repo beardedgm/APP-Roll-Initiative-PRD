@@ -11,6 +11,8 @@ unique, ce, medium, incorporeal, undead, wraith
 
 **Skills** Acrobatics +14, Intimidation +17, Stealth +16
 
+**Recall Knowledge - Undead** (Religion): DC 33
+
 **STR** -5, **DEX** +3, **CON** +0, **INT** +6, **WIS** +3, **CHA** +4
 
 **Manor Bound** The manifestation can't leave Xarwin Manor or the dungeons below.
@@ -36,7 +38,7 @@ unique, ce, medium, incorporeal, undead, wraith
 
 Speed fly 40 feet
 
-**Melee** ◆ spectral hand +17 (finesse); **Damage** 2d8+7 negative plus drain memory
+**Melee** ◆ spectral hand +17/+12/+7 (finesse); **Damage** 2d8+7 negative plus drain memory
 
 **Drain Memory** (necromancy, occult) When the manifestation damages a living creature with its spectral hand Strike, the manifestation gains 5 temporary Hit Points, and the target must succeed at a DC 23 Fortitude save or become stupefied 1. Each time it deals damage to a creature, that creature's stupefied condition increases by 1 on a failed save, to a maximum of stupefied 4.
 

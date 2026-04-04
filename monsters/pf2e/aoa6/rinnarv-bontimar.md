@@ -11,6 +11,8 @@ unique, ln, medium, elf, human, humanoid
 
 **Skills** Arcana +32, Athletics +38, Diplomacy +38, Deception +34, Occultism +34, Religion +38, Hermea Lore +32
 
+**Recall Knowledge - Humanoid** (Society): DC 50
+
 **STR** +8, **DEX** +7, **CON** +8, **INT** +3, **WIS** +4, **CHA** +10
 
 **Items** circlet of persuasion, +3 major striking elven curve blade, +2 greater resilient full plate
@@ -29,7 +31,7 @@ unique, ln, medium, elf, human, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ elven curve blade +38 (finesse, forceful, magical); **Damage** 4d8+24 slashing
+**Melee** ◆ elven curve blade +38/+33/+28 (finesse, forceful, magical); **Damage** 4d8+24 slashing
 
 **Spontaneous divine Spells** (DC 42), attack +38
 

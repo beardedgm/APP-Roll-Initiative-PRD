@@ -11,6 +11,8 @@ unique, n, medium, gnoll, humanoid
 
 **Skills** Arcana +26, Athletics +26
 
+**Recall Knowledge - Humanoid** (Society): DC 41
+
 **STR** +3, **DEX** +3, **CON** +4, **INT** +5, **WIS** +2, **CHA** +0
 
 **Items** +2 greater striking staff
@@ -27,7 +29,7 @@ unique, n, medium, gnoll, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ staff +24 (magical, twohanded 3d8); **Damage** 3d4+9 bludgeoning
+**Melee** ◆ staff +24/+19/+14 (magical, twohanded 3d8); **Damage** 3d4+9 bludgeoning
 
 **Prepared arcane Spells** (DC 35), attack +27
 

@@ -9,6 +9,8 @@ rare, ne, medium, ethereal, incorporeal, phantom, spirit
 
 **Skills** Acrobatics +6, Intimidation +6
 
+**Recall Knowledge - Ethereal** (Occultism, Religion): DC 20
+
 **STR** -5, **DEX** +4, **CON** +1, **INT** -4, **WIS** +2, **CHA** +0
 
 **Walk the Ethereal Line** ◆◆ The phantom walks the thin line between the Ethereal and Material Planes in order to exist on both planes simultaneously. They can shift back to solely the Ethereal Plane by using this ability again.
@@ -31,4 +33,4 @@ rare, ne, medium, ethereal, incorporeal, phantom, spirit
 
 Speed fly 25 feet
 
-**Melee** ◆ jaws +7 (finesse, force, magical); **Damage** 1d6+2 force
+**Melee** ◆ jaws +7/+2/-3 (finesse, force, magical); **Damage** 1d6+2 force

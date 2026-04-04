@@ -11,6 +11,8 @@ n, small, leshy, plant
 
 **Skills** Nature +7, Stealth +6, Survival +7
 
+**Recall Knowledge - Plant** (Nature): DC 16
+
 **STR** +3, **DEX** +2, **CON** +4, **INT** -1, **WIS** +3, **CHA** +0
 
 **Little Oasis** If a cactus leshy is willing, a creature can harvest enough water from the leshy's inner cavity to fill a single waterskin without harming them. Doing so again before the leshy can replenish the water causes the leshy to immediately suffer from dehydration.
@@ -31,9 +33,9 @@ n, small, leshy, plant
 
 Speed 25 feet
 
-**Melee** ◆ spine +11; **Damage** 1d8+3 piercing
+**Melee** ◆ spine +11/+6/+1; **Damage** 1d8+3 piercing
 
-**Ranged** ◆ spine +11 (range increment <30 feet>); **Damage** 1d8+3 piercing
+**Ranged** ◆ spine +11/+6/+1 (range increment <30 feet>); **Damage** 1d8+3 piercing
 
 **Innate primal Spells** (DC 18)
 

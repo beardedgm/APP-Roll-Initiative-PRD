@@ -9,6 +9,8 @@ rare, n, small, construct, mindless
 
 **Skills** Acrobatics +33
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 40
+
 **STR** +6, **DEX** +9, **CON** +6, **INT** -5, **WIS** +5, **CHA** +2
 
 ---
@@ -31,7 +33,7 @@ rare, n, small, construct, mindless
 
 Speed fly 20 feet
 
-**Melee** ◆ briar +30; **Damage** 3d12+12
+**Melee** ◆ briar +30/+25/+20; **Damage** 3d12+12
 
 **Bond with Ward** ◆ (concentrate, move) **Requirements** The thorn guardian is Bonded with its Ward; The thorn guardian removes itself from the ward and enters an adjacent space.
 

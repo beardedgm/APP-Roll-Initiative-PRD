@@ -11,6 +11,8 @@ le, medium, devil, fiend
 
 **Skills** Acrobatics +23, Athletics +22, Intimidation +21, Religion +18, Stealth +21
 
+**Recall Knowledge - Fiend** (Religion): DC 28
+
 **STR** +7, **DEX** +6, **CON** +6, **INT** +3, **WIS** +5, **CHA** +6
 
 **Items** +1 breastplate, +1 striking composite longbow, +1 striking greataxe
@@ -35,11 +37,11 @@ le, medium, devil, fiend
 
 Speed 30 feet, fly 40 feet
 
-**Melee** ◆ flaming greataxe +24 (evil, fire, magical, sweep); **Damage** 2d12+13 slashing plus 1d6 evil and 1d6 fire
+**Melee** ◆ flaming greataxe +24/+19/+14 (evil, fire, magical, sweep); **Damage** 2d12+13 slashing plus 1d6 evil and 1d6 fire
 
-**Melee** ◆ horn +23 (agile, evil, magical); **Damage** 2d8+13 piercing plus 1d6 evil
+**Melee** ◆ horn +23/+19/+15 (agile, evil, magical); **Damage** 2d8+13 piercing plus 1d6 evil
 
-**Ranged** ◆ flaming composite longbow +23 (deadly <d10>, evil, fire, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+6 piercing plus 1d6 evil and 1d6 fire
+**Ranged** ◆ flaming composite longbow +23/+18/+13 (deadly <d10>, evil, fire, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+6 piercing plus 1d6 evil and 1d6 fire
 
 **Innate divine Spells** (DC 27)
 

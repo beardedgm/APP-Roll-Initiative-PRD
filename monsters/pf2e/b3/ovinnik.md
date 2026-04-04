@@ -11,6 +11,8 @@ cn, tiny, fey
 
 **Skills** Intimidation +11, Stealth +13, Household Lore +12
 
+**Recall Knowledge - Fey** (Nature): DC 19
+
 **STR** +0, **DEX** +5, **CON** +0, **INT** +2, **WIS** +5, **CHA** +3
 
 **Master of the Granary** As domovoi, except the ovinnik preserves food from vermin and mold or causes devastating fires and infestations.
@@ -33,7 +35,7 @@ cn, tiny, fey
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ claw +13 (agile, finesse, magical); **Damage** 2d6+2 slashing
+**Melee** ◆ claw +13/+9/+5 (agile, finesse, magical); **Damage** 2d6+2 slashing
 
 **Innate primal Spells** (DC 21)
 

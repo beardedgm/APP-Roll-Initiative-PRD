@@ -11,6 +11,8 @@ rare, ce, medium, fiend, qlippoth
 
 **Skills** Acrobatics +9, Athletics +9, Occultism +9, Stealth +9
 
+**Recall Knowledge - Fiend** (Religion): DC 23
+
 **STR** +2, **DEX** +3, **CON** +4, **INT** +2, **WIS** +2, **CHA** +1
 
 ---
@@ -31,7 +33,7 @@ rare, ce, medium, fiend, qlippoth
 
 Speed 30 feet
 
-**Melee** ◆ bite +11 (agile, chaotic, magical); **Damage** 1d8+4 piercing plus 1d4 chaotic and rust creep|Rust plus rust creep
+**Melee** ◆ bite +11/+7/+3 (agile, chaotic, magical); **Damage** 1d8+4 piercing plus 1d4 chaotic and rust creep|Rust plus rust creep
 
 **Innate occult Spells** (DC 20)
 

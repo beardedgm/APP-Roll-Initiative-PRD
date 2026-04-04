@@ -11,6 +11,8 @@ unique, le, medium, undead
 
 **Skills** Arcana +29, Crafting +25, Diplomacy +27, Intimidation +27, Religion +25, Society +23
 
+**Recall Knowledge - Undead** (Religion): DC 42
+
 **STR** +6, **DEX** +5, **CON** +0, **INT** +7, **WIS** +5, **CHA** +7
 
 **Items** +1 resilient full plate, +2 thundering striking maul, wand of smoldering fireballs (7th-level fireball)
@@ -37,7 +39,7 @@ unique, le, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ thundering maul +28 (magical, shove); **Damage** 2d12+12 bludgeoning plus 1d6 sonic
+**Melee** ◆ thundering maul +28/+23/+18 (magical, shove); **Damage** 2d12+12 bludgeoning plus 1d6 sonic
 
 **Prepared arcane Spells** (DC 35), attack +27
 

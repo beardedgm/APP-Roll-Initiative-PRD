@@ -9,6 +9,8 @@ n, medium, animal
 
 **Skills** Acrobatics +4, Athletics +7, Survival +3
 
+**Recall Knowledge - Animal** (Nature): DC 14
+
 **STR** +3, **DEX** +2, **CON** +3, **INT** -4, **WIS** +1, **CHA** +1
 
 **Powerful Leaper** The kangaroo doesn't need to Stride while attempting a Long Jump, nor does it automatically fail if it doesn't.
@@ -27,6 +29,6 @@ n, medium, animal
 
 Speed 35 feet
 
-**Melee** ◆ claw +7; **Damage** 1d4+3 slashing
+**Melee** ◆ claw +7/+2/-3; **Damage** 1d4+3 slashing
 
-**Melee** ◆ foot +7; **Damage** 1d6+3 slashing plus Push plus Push
+**Melee** ◆ foot +7/+2/-3; **Damage** 1d6+3 slashing plus Push plus Push

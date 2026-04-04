@@ -11,6 +11,8 @@ rare, le, medium, fire, undead
 
 **Skills** Acrobatics +21, Athletics +17, Intimidation +23, Nature +19, Religion +19
 
+**Recall Knowledge - Undead** (Religion): DC 33
+
 **STR** +1, **DEX** +3, **CON** +1, **INT** +0, **WIS** +2, **CHA** +5
 
 **Items** major staff of fire, religious symbol of Walkena|LOGM
@@ -33,11 +35,11 @@ rare, le, medium, fire, undead
 
 Speed 25 feet
 
-**Melee** ◆ fist +19 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+4 bludgeoning plus 2d6 fire
+**Melee** ◆ fist +19/+15/+11 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+4 bludgeoning plus 2d6 fire
 
-**Melee** ◆ staff +17 (magical, two-hand <d8>); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ staff +17/+12/+7 (magical, two-hand <d8>); **Damage** 1d4+4 bludgeoning
 
-**Ranged** ◆ sunfire +19 (fire, magical, range increment <40 feet>); **Damage** 3d6+12 fire
+**Ranged** ◆ sunfire +19/+14/+9 (fire, magical, range increment <40 feet>); **Damage** 3d6+12 fire
 
 **Innate divine Spells** (DC 30), attack +22
 

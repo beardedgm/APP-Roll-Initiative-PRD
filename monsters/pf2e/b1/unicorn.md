@@ -11,6 +11,8 @@ cg, large, beast, fey
 
 **Skills** Acrobatics +10, Diplomacy +11, Stealth +8, Survival +9
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 18
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** +0, **WIS** +4, **CHA** +4
 
 **Wild Empathy** The unicorn has a connection to the creatures of the natural world that allows it to communicate with them. The unicorn can use Diplomacy to Make an Impression on animals and to make very simple Requests of them.
@@ -27,9 +29,9 @@ cg, large, beast, fey
 
 Speed 45 feet
 
-**Melee** ◆ horn +12 (good, magical); **Damage** 1d10+4 piercing plus 1d6 good and ghost touch plus ghost touch
+**Melee** ◆ horn +12/+7/+2 (good, magical); **Damage** 1d10+4 piercing plus 1d6 good and ghost touch plus ghost touch
 
-**Melee** ◆ hoof +12 (agile, magical); **Damage** 1d8+4 bludgeoning and ghost touch plus ghost touch
+**Melee** ◆ hoof +12/+8/+4 (agile, magical); **Damage** 1d8+4 bludgeoning and ghost touch plus ghost touch
 
 **Innate primal Spells** (DC 21)
 

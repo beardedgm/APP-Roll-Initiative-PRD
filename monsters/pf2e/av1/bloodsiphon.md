@@ -11,6 +11,8 @@ unique, ne, medium, amphibious, undead
 
 **Skills** Athletics +12
 
+**Recall Knowledge - Undead** (Religion): DC 29
+
 **STR** +4, **DEX** +1, **CON** +3, **INT** -2, **WIS** +3, **CHA** -2
 
 ---
@@ -32,8 +34,8 @@ unique, ne, medium, amphibious, undead
 
 Speed 10 feet, swim 20 feet
 
-**Melee** ◆ mouth +14; **Damage** 2d8+6 piercing plus Grab plus Grab
+**Melee** ◆ mouth +14/+9/+4; **Damage** 2d8+6 piercing plus Grab plus Grab
 
-**Ranged** ◆ spittle +11 (range <30 feet>); **Damage** 3d6 negative
+**Ranged** ◆ spittle +11/+6/+1 (range <30 feet>); **Damage** 3d6 negative
 
 **Blood Drain** ◆ **Requirements** The bloodsiphon has a creature grabbed or restrained; The bloodsiphon drains blood from the creature it has grabbed. This deals 4d4 damage and the bloodsiphon grows temporarily moist and slimy as it regains 8 Hit Points, gaining any excess as temporary Hit Points that last for 1 minute. A creature that has its blood drained by the bloodsiphon is drained|CRB|drained 1 until it receives any type of healing.

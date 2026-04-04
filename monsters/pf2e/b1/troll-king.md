@@ -31,9 +31,9 @@ ce, large, giant, troll
 
 Speed 30 feet
 
-**Melee** ◆ jaws +23 (reach <10 feet>); **Damage** 2d12+13 piercing
+**Melee** ◆ jaws +23/+18/+13 (reach <10 feet>); **Damage** 2d12+13 piercing
 
-**Melee** ◆ claw +23 (agile, reach <10 feet>); **Damage** 2d8+13 slashing
+**Melee** ◆ claw +23/+19/+15 (agile, reach <10 feet>); **Damage** 2d8+13 slashing
 
 **Rend** ◆ (claw)
 

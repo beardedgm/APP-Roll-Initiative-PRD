@@ -11,6 +11,8 @@ unique, le, large, giant, humanoid
 
 **Skills** Athletics +20, Fortune-telling Lore +19, Intimidation +16, Survival +18
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +0, **WIS** +3, **CHA** -1
 
 **Items** +1 striking dueling pistol (2; 40 rounds; Guns & Gears 152), greataxe, hide armor
@@ -33,9 +35,9 @@ unique, le, large, giant, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ greataxe +19 (reach <10 feet>, sweep); **Damage** 1d12+10 slashing
+**Melee** ◆ greataxe +19/+14/+9 (reach <10 feet>, sweep); **Damage** 1d12+10 slashing
 
-**Ranged** ◆ dueling pistol +21 (concealable, concussive, fatal <d10>, magical, range increment <60 feet>, reload <1>); **Damage** 2d6+3 piercing plus 4d6 precision Deadeye Vewslog's ranged attacks deal an additional 4d6 precision damage.
+**Ranged** ◆ dueling pistol +21/+16/+11 (concealable, concussive, fatal <d10>, magical, range increment <60 feet>, reload <1>); **Damage** 2d6+3 piercing plus 4d6 precision Deadeye Vewslog's ranged attacks deal an additional 4d6 precision damage.
 
 **Firearms Critical Specialization** When Vewslog makes a critical hit with a firearm, the target must succeed at a
 

@@ -11,6 +11,8 @@ unique, le, medium, devil, dwarf, fiend, humanoid
 
 **Skills** Arcana +17, Athletics +14, Crafting +13, Deception +15, Religion +15, Occultism +17, Society +17
 
+**Recall Knowledge - Fiend** (Religion, Society): DC 33
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** +4, **WIS** +0, **CHA** +2
 
 **Items** breastplate,  (20 arrows and 5 sleep arrows), lesser healing potions (3), infernal contract, key ring containing keys to all locks in Lionlodge, warhammer
@@ -33,9 +35,9 @@ unique, le, medium, devil, dwarf, fiend, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ warhammer +15 (shove); **Damage** 1d8+2 bludgeoning
+**Melee** ◆ warhammer +15/+10/+5 (shove); **Damage** 1d8+2 bludgeoning
 
-**Ranged** ◆ shortbow +17 (deadly d10, propulsive, range 60 feet); **Damage** 2d6+5 piercing
+**Ranged** ◆ shortbow +17/+12/+7 (deadly d10, propulsive, range 60 feet); **Damage** 2d6+5 piercing
 
 **Innate divine Spells** (DC 22), attack +14
 

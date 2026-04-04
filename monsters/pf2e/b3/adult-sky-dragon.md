@@ -11,6 +11,8 @@ uncommon, lg, huge, dragon, electricity
 
 **Skills** Acrobatics +21, Athletics +26, Deception +21, Intimidation +23, Religion +26, Society +21, Stealth +21, Survival +19
 
+**Recall Knowledge - Dragon** (Arcana): DC 33
+
 **STR** +7, **DEX** +2, **CON** +4, **INT** +2, **WIS** +5, **CHA** +4
 
 **Mist Vision** Fog and mist don't impair a sky dragon's vision; they ignore the concealed condition from fog and mist.
@@ -31,11 +33,11 @@ uncommon, lg, huge, dragon, electricity
 
 Speed 40 feet, fly 140 feet
 
-**Melee** ◆ jaws +27 (magical, reach <15 feet>); **Damage** 3d8+13 piercing plus 1d12 electricity
+**Melee** ◆ jaws +27/+22/+17 (magical, reach <15 feet>); **Damage** 3d8+13 piercing plus 1d12 electricity
 
-**Melee** ◆ claw +27 (agile, magical, reach <10 feet>); **Damage** 3d8+13 slashing plus Grab plus Grab
+**Melee** ◆ claw +27/+23/+19 (agile, magical, reach <10 feet>); **Damage** 3d8+13 slashing plus Grab plus Grab
 
-**Melee** ◆ tail +27 (magical, reach <25 feet>); **Damage** 3d8+13 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +27/+22/+17 (magical, reach <25 feet>); **Damage** 3d8+13 bludgeoning plus Grab plus Grab
 
 **Innate divine Spells** (DC 33)
 

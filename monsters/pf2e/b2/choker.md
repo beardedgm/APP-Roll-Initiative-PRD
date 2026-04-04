@@ -11,6 +11,8 @@ ce, small, aberration
 
 **Skills** Athletics +9, Stealth +9
 
+**Recall Knowledge - Aberration** (Occultism): DC 16
+
 **STR** +3, **DEX** +3, **CON** +1, **INT** -3, **WIS** +1, **CHA** -2
 
 ---
@@ -27,7 +29,7 @@ ce, small, aberration
 
 Speed 20 feet, climb 15 feet
 
-**Melee** ◆ arm +11 (reach <10 feet>); **Damage** 1d6+3 bludgeoning plus strangling fingers plus strangling fingers
+**Melee** ◆ arm +11/+6/+1 (reach <10 feet>); **Damage** 1d6+3 bludgeoning plus strangling fingers plus strangling fingers
 
 **Constrict** ◆ 1d6+3 bludgeoning, DC 19
 

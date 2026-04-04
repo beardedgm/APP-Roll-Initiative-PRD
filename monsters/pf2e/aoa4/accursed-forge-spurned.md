@@ -11,6 +11,8 @@ rare, ne, large, fire, undead
 
 **Skills** Athletics +29, Crafting +30, Droskar Lore +26
 
+**Recall Knowledge - Undead** (Religion): DC 39
+
 **STR** +8, **DEX** +4, **CON** +6, **INT** +3, **WIS** +5, **CHA** +2
 
 **Items** +2 resilient full plate, soul chain (+2 greater striking flaming adamantine spiked chain, 11th level), +2 striking adamantine warhammer
@@ -35,9 +37,9 @@ rare, ne, large, fire, undead
 
 Speed 20 feet
 
-**Melee** ◆ soul chain +31 (disarm, finesse, reach, trip); **Damage** 3d8+14 slashing plus 1d6 fire and soul siphon plus soul siphon
+**Melee** ◆ soul chain +31/+26/+21 (disarm, finesse, reach, trip); **Damage** 3d8+14 slashing plus 1d6 fire and soul siphon plus soul siphon
 
-**Melee** ◆ warhammer +31 (shove); **Damage** 2d8+14 bludgeoning
+**Melee** ◆ warhammer +31/+26/+21 (shove); **Damage** 2d8+14 bludgeoning
 
 **Inflate Bellows** ◆◆ **Requirements** The accursed forge-spurned has used Forge Breath.; The accursed forge-spurned re-inflates its flaccid lungs, enabling it to use Forge Breath again.
 

@@ -11,6 +11,8 @@ unique, ne, medium, elf, human, humanoid
 
 **Skills** Arcana +25, Deception +20, Diplomacy +20, Occultism +25, Society +23, Stealth +22
 
+**Recall Knowledge - Humanoid** (Society): DC 40
+
 **STR** +1, **DEX** +4, **CON** +0, **INT** +5, **WIS** +4, **CHA** +2
 
 **Items** +1 striking dagger, +1 leather armor, spellbook, wand of manifold missiles (3rd level)
@@ -27,9 +29,9 @@ unique, ne, medium, elf, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +23 (agile, finesse, magical, versatile <S>); **Damage** 2d4+1 piercing
+**Melee** ◆ dagger +23/+19/+15 (agile, finesse, magical, versatile <S>); **Damage** 2d4+1 piercing
 
-**Ranged** ◆ dagger +23 (agile, magical, thrown <10 feet>); **Damage** 2d4+1 piercing
+**Ranged** ◆ dagger +23/+19/+15 (agile, magical, thrown <10 feet>); **Damage** 2d4+1 piercing
 
 **Prepared arcane Spells** (DC 33), attack +25
 

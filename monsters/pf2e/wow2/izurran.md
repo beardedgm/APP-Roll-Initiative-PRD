@@ -11,6 +11,8 @@ unique, medium, catfolk, humanoid
 
 **Skills** Acrobatics +18, Arcana +21, Deception +15, Nature +17, Occultism +21, Stealth +18, Survival +17
 
+**Recall Knowledge - Humanoid** (Society): DC 36
+
 **STR** +0, **DEX** +3, **CON** +3, **INT** +4, **WIS** +2, **CHA** +2
 
 **Items** , moderate potion of resistance (fire)
@@ -33,7 +35,7 @@ unique, medium, catfolk, humanoid
 
 Speed 30 feet
 
-**Melee** ◆ claw blade +19 (agile, deadly <d8>, disarm, finesse, versatile <P>); **Damage** 2d4+3 plus 2d6 persistent bleed
+**Melee** ◆ claw blade +19/+15/+11 (agile, deadly <d8>, disarm, finesse, versatile <P>); **Damage** 2d4+3 plus 2d6 persistent bleed
 
 **Prepared occult Spells** (DC 28), attack +20
 

@@ -11,6 +11,8 @@ rare, ne, medium, undead
 
 **Skills** Arcana +28, Crafting +24, Deception +17, Diplomacy +19, Religion +22, Stealth +20
 
+**Recall Knowledge - Undead** (Religion): DC 35
+
 **STR** +0, **DEX** +4, **CON** +0, **INT** +6, **WIS** +4, **CHA** +3
 
 **Items** potion of invisibility, scroll of teleport, greater staff of fire
@@ -35,7 +37,7 @@ rare, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ hand +24 (finesse, magical); **Damage** 4d8 negative plus paralyzing touch plus paralyzing touch
+**Melee** ◆ hand +24/+19/+14 (finesse, magical); **Damage** 4d8 negative plus paralyzing touch plus paralyzing touch
 
 **Prepared arcane Spells** (DC 36), attack +26
 

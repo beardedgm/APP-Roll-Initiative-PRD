@@ -11,6 +11,8 @@ uncommon, ce, medium, ghoul, undead
 
 **Skills** Acrobatics +9, Athletics +10, Intimidation +10, Occultism +8, Religion +8, Stealth +9
 
+**Recall Knowledge - Undead** (Religion): DC 20
+
 **STR** +4, **DEX** +3, **CON** +1, **INT** +1, **WIS** +3, **CHA** +3
 
 **Items** 2 lumps of decayed flesh strung on a necklace
@@ -29,9 +31,9 @@ uncommon, ce, medium, ghoul, undead
 
 Speed 30 feet, burrow 5 feet
 
-**Melee** ◆ jaws +12; **Damage** 1d8+6 piercing plus ghoul fever and paralysis plus ghoul fever, paralysis
+**Melee** ◆ jaws +12/+7/+2; **Damage** 1d8+6 piercing plus ghoul fever and paralysis plus ghoul fever, paralysis
 
-**Melee** ◆ claw +12 (agile); **Damage** 1d4+6 slashing plus paralysis plus paralysis
+**Melee** ◆ claw +12/+8/+4 (agile); **Damage** 1d4+6 slashing plus paralysis plus paralysis
 
 **Prepared occult Spells** (DC 20), attack +12
 

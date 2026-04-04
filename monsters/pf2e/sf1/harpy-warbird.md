@@ -11,6 +11,8 @@ rare, ce, medium, humanoid
 
 **Skills** Acrobatics +21, Athletics +20, Intimidation +22, Performance +24
 
+**Recall Knowledge - Humanoid** (Society): DC 33
+
 **STR** +5, **DEX** +5, **CON** +3, **INT** +0, **WIS** +3, **CHA** +5
 
 **Items** +1 striking halberd, +1 composite shortbow (20 arrows)
@@ -29,11 +31,11 @@ rare, ce, medium, humanoid
 
 Speed 20 feet, fly 60 feet
 
-**Melee** ◆ halberd +23 (magical, reach, versatile <S>); **Damage** 2d10+11 piercing
+**Melee** ◆ halberd +23/+18/+13 (magical, reach, versatile <S>); **Damage** 2d10+11 piercing
 
-**Melee** ◆ talon +22 (agile, finesse); **Damage** 2d4+11 slashing
+**Melee** ◆ talon +22/+18/+14 (agile, finesse); **Damage** 2d4+11 slashing
 
-**Ranged** ◆ shortbow +23 (deadly <d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+11 piercing
+**Ranged** ◆ shortbow +23/+18/+13 (deadly <d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+11 piercing
 
 **Captivating Song** ◆ (auditory, concentrate, enchantment, incapacitation, mental, primal) As harpy, but DC 29.
 

@@ -11,6 +11,8 @@ cn, tiny, fey, sprite
 
 **Skills** Acrobatics +7, Athletics +2, Performance +7, Stealth +7
 
+**Recall Knowledge - Fey** (Nature): DC 15
+
 **STR** -2, **DEX** +4, **CON** +1, **INT** +0, **WIS** +2, **CHA** +4
 
 ---
@@ -25,9 +27,9 @@ cn, tiny, fey, sprite
 
 Speed 25 feet, fly 30 feet
 
-**Melee** ◆ fist +9 (agile, finesse, magical); **Damage** 1d4 –2 bludgeoning
+**Melee** ◆ fist +9/+5/+1 (agile, finesse, magical); **Damage** 1d4 –2 bludgeoning
 
-**Ranged** ◆ dissonant note +9 (evocation, magical, range <30 feet>, sonic); **Damage** 1d8 sonic
+**Ranged** ◆ dissonant note +9/+4/-1 (evocation, magical, range <30 feet>, sonic); **Damage** 1d8 sonic
 
 **Innate primal Spells** (DC 18)
 

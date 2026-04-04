@@ -9,6 +9,8 @@ gargantuan, cold, fey, troop
 
 **Skills** Acrobatics +10, Athletics +8, Deception +8, Diplomacy +8, Stealth +10
 
+**Recall Knowledge - Fey** (Nature): DC 18
+
 **STR** +1, **DEX** +4, **CON** +0, **INT** +1, **WIS** +1, **CHA** +3
 
 ---

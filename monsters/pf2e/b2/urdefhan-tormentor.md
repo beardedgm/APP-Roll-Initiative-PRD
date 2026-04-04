@@ -11,6 +11,8 @@ ne, medium, humanoid, urdefhan
 
 **Skills** Acrobatics +8, Crafting +9, Intimidation +11, Occultism +11, Religion +13
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +3, **DEX** +1, **CON** +3, **INT** +2, **WIS** +4, **CHA** +2
 
 **Items** warhammer
@@ -33,6 +35,6 @@ ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** ◆ warhammer +12 (shove); **Damage** 1d8+5 bludgeoning
+**Melee** ◆ warhammer +12/+7/+2 (shove); **Damage** 1d8+5 bludgeoning
 
-**Melee** ◆ jaws +14; **Damage** 2d6+5 piercing plus
+**Melee** ◆ jaws +14/+9/+4; **Damage** 2d6+5 piercing plus

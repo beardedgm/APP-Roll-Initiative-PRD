@@ -11,6 +11,8 @@ medium, monitor, psychopomp
 
 **Skills** Athletics +25, Boneyard Lore +26, Diplomacy +28, Religion +28, Society +24, Stealth +24
 
+**Recall Knowledge - Monitor** (Religion): DC 32
+
 **STR** +5, **DEX** +4, **CON** +5, **INT** +4, **WIS** +8, **CHA** +8
 
 **Items** 
@@ -31,7 +33,7 @@ medium, monitor, psychopomp
 
 Speed 25 feet
 
-**Melee** ◆ longsword +29 (versatile <P>); **Damage** 2d8+8 slashing plus reap souls and spirit touch plus reap souls, spirit touch
+**Melee** ◆ longsword +29/+24/+19 (versatile <P>); **Damage** 2d8+8 slashing plus reap souls and spirit touch plus reap souls, spirit touch
 
 **Innate divine Spells** (DC 34)
 

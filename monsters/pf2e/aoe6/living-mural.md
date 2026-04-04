@@ -11,6 +11,8 @@ rare, cn, huge, construct
 
 **Skills** Acrobatics +38, Crafting +27, Deception +37, Stealth +38
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 44
+
 **STR** +6, **DEX** +10, **CON** +5, **INT** -2, **WIS** +2, **CHA** +1
 
 ---
@@ -31,9 +33,9 @@ rare, cn, huge, construct
 
 Speed 25 feet
 
-**Melee** ◆ fist +37 (agile, finesse, magical, reach <15 feet>); **Damage** 4d8+15 bludgeoning
+**Melee** ◆ fist +37/+33/+29 (agile, finesse, magical, reach <15 feet>); **Damage** 4d8+15 bludgeoning
 
-**Ranged** ◆ splatter +35 (magical, nonlethal, range increment <30 feet>); **Damage** 3d8+4 plus splash of color plus 3d8+4, splash of color
+**Ranged** ◆ splatter +35/+30/+25 (magical, nonlethal, range increment <30 feet>); **Damage** 3d8+4 plus splash of color plus 3d8+4, splash of color
 
 **Splash of Color** When the living mural hits with a splatter attack, the target is also blinded for 1 round.
 

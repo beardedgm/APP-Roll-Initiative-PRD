@@ -11,6 +11,8 @@ unique, ne, medium, undead
 
 **Skills** Athletics +24, Intimidation +22, Stealth +20, Survival +20
 
+**Recall Knowledge - Undead** (Religion): DC 38
+
 **STR** +5, **DEX** +7, **CON** +7, **INT** +0, **WIS** +3, **CHA** +5
 
 **Items** +1 breastplate, heavy crossbow (20 bolts and 2 storm bolts [as storm arrows]), trident
@@ -35,13 +37,13 @@ unique, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ shock trident +24 (electricity, magical, shove); **Damage** 3d8+11 piercing plus 1d6 electricity
+**Melee** ◆ shock trident +24/+19/+14 (electricity, magical, shove); **Damage** 3d8+11 piercing plus 1d6 electricity
 
-**Melee** ◆ fist +23 (agile, electricity, magical); **Damage** 2d6+11 bludgeoning plus 1d6 electricity and Push
+**Melee** ◆ fist +23/+19/+15 (agile, electricity, magical); **Damage** 2d6+11 bludgeoning plus 1d6 electricity and Push
 
-**Ranged** ◆ shock heavy crossbow +24 (electricity, magical, range increment <120 feet>, reload <2>); **Damage** 2d10+8 piercing plus 1d6 electricity
+**Ranged** ◆ shock heavy crossbow +24/+19/+14 (electricity, magical, range increment <120 feet>, reload <2>); **Damage** 2d10+8 piercing plus 1d6 electricity
 
-**Ranged** ◆ shock trident +24 (electricity, magical, thrown <20 feet>); **Damage** 3d8+11 piercing plus 1d6 electricity
+**Ranged** ◆ shock trident +24/+19/+14 (electricity, magical, thrown <20 feet>); **Damage** 3d8+11 piercing plus 1d6 electricity
 
 **Brute Strength** Bharlen deals an extra 1d8 damage with tridents, and a trident gains the shove trait while she is using it in melee (both the extra damage die and the shove trait have been included in Bharlen's trident Strikes above).
 

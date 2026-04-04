@@ -11,6 +11,8 @@ uncommon, n, large, humanoid
 
 **Skills** Athletics +14, Stealth +12, Survival +11
 
+**Recall Knowledge - Humanoid** (Society): DC 22
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** -1, **WIS** +4, **CHA** -1
 
 **Snowblind When** Hiding, the yeti is concealed by any snowfall, even if it's not thick enough to make other creatures concealed.
@@ -35,7 +37,7 @@ uncommon, n, large, humanoid
 
 Speed 35 feet, climb 20 feet
 
-**Melee** ◆ claw +15; **Damage** 2d10+5 slashing
+**Melee** ◆ claw +15/+10/+5; **Damage** 2d10+5 slashing
 
 **Grisly Arrival** ◇ (emotion, fear, mental) **Trigger** The yeti hits a creature in the first round of combat and the yeti was hidden from that creature at the start of combat.; Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a DC 23 Will save. On a failure, the creature is frightened 2; on a critical failure, it's frightened 4.
 

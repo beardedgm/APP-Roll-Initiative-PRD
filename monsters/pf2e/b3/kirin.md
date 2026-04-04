@@ -11,6 +11,8 @@ rare, lg, large, air, beast, fire
 
 **Skills** Acrobatics +17, Diplomacy +19, Nature +15, Religion +15, Stealth +17
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 28
+
 **STR** +5, **DEX** +6, **CON** +2, **INT** +2, **WIS** +4, **CHA** +6
 
 ---
@@ -31,9 +33,9 @@ rare, lg, large, air, beast, fire
 
 Speed 40 feet
 
-**Melee** ◆ hoof +18 (magical); **Damage** 2d10+8 bludgeoning
+**Melee** ◆ hoof +18/+13/+8 (magical); **Damage** 2d10+8 bludgeoning
 
-**Melee** ◆ horn +18 (agile, magical); **Damage** 2d8+8 piercing
+**Melee** ◆ horn +18/+14/+10 (agile, magical); **Damage** 2d8+8 piercing
 
 **Innate divine Spells** (DC 25)
 

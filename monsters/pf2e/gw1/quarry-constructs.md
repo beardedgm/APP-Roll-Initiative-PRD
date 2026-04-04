@@ -9,6 +9,8 @@ n, large, construct, earth, mindless
 
 **Skills** Athletics +9
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 16
+
 **STR** +4, **DEX** -2, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 **Items** warhammer
@@ -29,4 +31,4 @@ n, large, construct, earth, mindless
 
 Speed 20 feet
 
-**Melee** ◆ warhammer +10 (shove); **Damage** 1d8+4 bludgeoning
+**Melee** ◆ warhammer +10/+5/+0 (shove); **Damage** 1d8+4 bludgeoning

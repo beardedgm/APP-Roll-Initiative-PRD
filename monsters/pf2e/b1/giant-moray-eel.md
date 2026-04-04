@@ -9,6 +9,8 @@ n, large, animal, aquatic
 
 **Skills** Acrobatics +9, Athletics +13, Stealth +13
 
+**Recall Knowledge - Animal** (Nature): DC 20
+
 **STR** +6, **DEX** +2, **CON** +3, **INT** -4, **WIS** +2, **CHA** -1
 
 ---
@@ -27,7 +29,7 @@ n, large, animal, aquatic
 
 Speed 10 feet, swim 40 feet
 
-**Melee** ◆ jaws +15 (reach <10 feet>); **Damage** 2d6+8 piercing plus Grab plus Grab
+**Melee** ◆ jaws +15/+10/+5 (reach <10 feet>); **Damage** 2d6+8 piercing plus Grab plus Grab
 
 **Pharyngeal Jaws** ◆◆ **Requirements** The giant moray eel has a creature grabbed in its jaws.; The giant moray eel uses its second set of jaws to pull the prey into its gullet. The eel deals 1d6+4 piercing damage to the grabbed creature and gains a +2 circumstance bonus to its Swallow Whole attempts and to the DC for the creature to Escape. This effect ends if the target Escapes or the giant moray eel Swallows it Whole.
 

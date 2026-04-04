@@ -11,6 +11,8 @@ rare, n, huge, beast
 
 **Skills** Athletics +30, Deception +28, Diplomacy +30, Intimidation +28, Occultism +30, Bardic Lore +32
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 40
+
 **STR** +8, **DEX** +5, **CON** +6, **INT** +8, **WIS** +9, **CHA** +6
 
 **Bardic Lore** Sphinxes are naturally curious, and their love of puzzles and mysteries leads them to gather information on a broad range of topics. Sphinxes have the Bardic Lore bard feat, allowing them to Recall Knowledge on any topic.
@@ -27,7 +29,7 @@ rare, n, huge, beast
 
 Speed 40 feet, fly 60 feet
 
-**Melee** ◆ claw +32 (agile); **Damage** 3d8+16 slashing
+**Melee** ◆ claw +32/+28/+24 (agile); **Damage** 3d8+16 slashing
 
 **Innate occult Spells** (DC 37)
 

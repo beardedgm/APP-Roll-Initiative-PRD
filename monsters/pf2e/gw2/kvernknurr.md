@@ -11,6 +11,8 @@ uncommon, ce, large, amphibious, fey, water
 
 **Skills** Athletics +13, Intimidation +13, Stealth +10
 
+**Recall Knowledge - Fey** (Nature): DC 22
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** -1, **WIS** +1, **CHA** -2
 
 ---
@@ -31,9 +33,9 @@ uncommon, ce, large, amphibious, fey, water
 
 Speed 30 feet
 
-**Melee** ◆ jaws +14; **Damage** 2d6+8 piercing plus Grab
+**Melee** ◆ jaws +14/+9/+4; **Damage** 2d6+8 piercing plus Grab
 
-**Melee** ◆ fist +14 (agile, reach <10 feet>); **Damage** 2d4+8 fist
+**Melee** ◆ fist +14/+10/+6 (agile, reach <10 feet>); **Damage** 2d4+8 fist
 
 **Swallow Whole** ◆ (attack) Medium, 1d6+5 bludgeoning, Rupture 15
 

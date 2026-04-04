@@ -9,6 +9,8 @@ large, construct, mindless
 
 **Skills** Athletics +17
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 18
+
 **STR** +4, **DEX** +0, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -27,7 +29,7 @@ large, construct, mindless
 
 Speed 15 feet
 
-**Melee** ◆ jaws +11 (magical); **Damage** 2d8+4 bludgeoning plus Grab plus Grab
+**Melee** ◆ jaws +11/+6/+1 (magical); **Damage** 2d8+4 bludgeoning plus Grab plus Grab
 
 **Spit Wine** ◆◆ (water) The wine vessel opens its mouth and blows a stream of wine in a 15-foot line, dealing 2d8 bludgeoning damage (DC 19 basic Reflex save).
 

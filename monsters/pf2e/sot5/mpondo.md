@@ -11,6 +11,8 @@ unique, ln, medium, human, humanoid
 
 **Skills** Arcana +29, Athletics +28, Diplomacy +23, Religion +24, Stealth +27
 
+**Recall Knowledge - Humanoid** (Society): DC 44
+
 **STR** +5, **DEX** +2, **CON** +2, **INT** +6, **WIS** +3, **CHA** +0
 
 **Items** high-grade black dragonhide buckler (Hardness 5, HP 20, BT 10, immune to acid), chain shirt, +2 greater striking bastard sword, signal horn, +2 striking spear
@@ -29,11 +31,11 @@ unique, ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ bastard sword +30 (magical, two-hand <d12>); **Damage** 3d8+13 slashing
+**Melee** ◆ bastard sword +30/+25/+20 (magical, two-hand <d12>); **Damage** 3d8+13 slashing
 
-**Melee** ◆ spear +30 (magical); **Damage** 2d6+13 piercing
+**Melee** ◆ spear +30/+25/+20 (magical); **Damage** 2d6+13 piercing
 
-**Ranged** ◆ spear +27 (magical, thrown <20 feet>); **Damage** 2d6+13 piercing
+**Ranged** ◆ spear +27/+22/+17 (magical, thrown <20 feet>); **Damage** 2d6+13 piercing
 
 **Prepared arcane Spells** (DC 37), attack +28
 

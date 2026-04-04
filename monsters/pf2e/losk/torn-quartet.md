@@ -11,6 +11,8 @@ uncommon, medium, undead
 
 **Skills** Acrobatics +27, Athletics +27
 
+**Recall Knowledge - Undead** (Religion): DC 33
+
 **STR** +5, **DEX** +8, **CON** +2, **INT** -2, **WIS** +4, **CHA** +2
 
 ---
@@ -37,7 +39,7 @@ uncommon, medium, undead
 
 Speed 10 feet, fly 30 feet
 
-**Melee** ◆ limb +25 (agile, magical, reach <15 feet>); **Damage** 3d8+13 bludgeoning plus
+**Melee** ◆ limb +25/+21/+17 (agile, magical, reach <15 feet>); **Damage** 3d8+13 bludgeoning plus
 
 **Improved Grab**
 

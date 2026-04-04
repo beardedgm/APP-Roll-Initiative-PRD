@@ -11,6 +11,8 @@ ce, medium, beast, human, humanoid, werecreature
 
 **Skills** Acrobatics +7, Athletics +9, Survival +10
 
+**Recall Knowledge - Beast** (Arcana, Nature, Society): DC 18
+
 **STR** +4, **DEX** +2, **CON** +2, **INT** -1, **WIS** +2, **CHA** +1
 
 **Items** battle axe, composite shortbow (20 arrows), studded leather armor
@@ -33,13 +35,13 @@ ce, medium, beast, human, humanoid, werecreature
 
 Speed 25 feet
 
-**Melee** ◆ battle axe +11 (sweep); **Damage** 1d8+8 slashing
+**Melee** ◆ battle axe +11/+6/+1 (sweep); **Damage** 1d8+8 slashing
 
-**Melee** ◆ claw +11 (agile); **Damage** 1d6+8 slashing
+**Melee** ◆ claw +11/+7/+3 (agile); **Damage** 1d6+8 slashing
 
-**Melee** ◆ jaws +11; **Damage** 1d8+8 piercing plus curse of the werewolf plus curse of the werewolf
+**Melee** ◆ jaws +11/+6/+1; **Damage** 1d8+8 piercing plus curse of the werewolf plus curse of the werewolf
 
-**Ranged** ◆ composite shortbow +9 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing
+**Ranged** ◆ composite shortbow +9/+4/-1 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing
 
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) Human with fist +11 for 1d4+8 bludgeoning, or wolf with Speed 40 feet and jaws with Knockdown.
 

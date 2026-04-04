@@ -11,6 +11,8 @@ uncommon, n, large, beast, hantu, incorporeal, spirit
 
 **Skills** Acrobatics +18, Deception +19, Nature +21, Survival +21
 
+**Recall Knowledge - Beast** (Arcana, Nature, Religion): DC 28
+
 **STR** -5, **DEX** +5, **CON** +2, **INT** +0, **WIS** +6, **CHA** +4
 
 ---
@@ -33,9 +35,9 @@ uncommon, n, large, beast, hantu, incorporeal, spirit
 
 Speed fly 25 feet
 
-**Melee** ◆ claw +20 (agile, finesse, magical); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +20/+16/+12 (agile, finesse, magical); **Damage** 2d6+8 slashing
 
-**Melee** ◆ fangs +20 (finesse, magical); **Damage** 2d8+8 piercing plus Grab plus Grab
+**Melee** ◆ fangs +20/+15/+10 (finesse, magical); **Damage** 2d8+8 piercing plus Grab plus Grab
 
 **Terrifying Cry** ◆◆ (auditory, emotion, fear, mental) The hantu denai unleashes a loud animal cry to scare off nearby creatures. Each creature in a 120-foot emanation must attempt a DC 27 Will save and is then immune to the hantu denai's Terrifying Cry for 1 minute. **Critical Success** The creature is unaffected.
 **Success** The creature is frightened|CRB|frightened 1.

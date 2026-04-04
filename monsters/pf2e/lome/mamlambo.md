@@ -9,6 +9,8 @@ uncommon, ne, huge, aquatic, beast
 
 **Skills** Athletics +21, Stealth +19, Survival +17
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 28
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** -3, **WIS** +4, **CHA** +0
 
 **Luminous Lure** (aura, emotion, enchantment, incapacitation, light, mental, primal) 30 feet. The mamlambo emits dim light from its skin. A creature that enters or begins its turn in the aura must attempt a DC 23 Will save. Humanoids take a –2 penalty to this saving throw. Regardless of the save's result, the creature is temporarily immune for 10 minutes. **Critical Success** The creature is unaffected.
@@ -30,9 +32,9 @@ uncommon, ne, huge, aquatic, beast
 
 Speed 10 feet, swim 40 feet
 
-**Melee** ◆ jaws +21 (reach <10 feet>); **Damage** 2d8+11 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +21/+16/+11 (reach <10 feet>); **Damage** 2d8+11 piercing plus Improved Grab plus Improved Grab
 
-**Melee** ◆ tail +21 (agile, reach <15 feet>); **Damage** 2d6+11 bludgeoning
+**Melee** ◆ tail +21/+17/+13 (agile, reach <15 feet>); **Damage** 2d6+11 bludgeoning
 
 **Aquatic Ambush** ◆
 

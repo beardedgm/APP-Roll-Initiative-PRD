@@ -11,6 +11,8 @@ n, medium, earth, elemental
 
 **Skills** Athletics +14, Stealth +8
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 20
+
 **STR** +5, **DEX** -1, **CON** +4, **INT** -2, **WIS** +1, **CHA** -1
 
 **Earthbound** When not touching solid ground, the living landslide is slowed 1 and can't use reactions.
@@ -31,6 +33,6 @@ n, medium, earth, elemental
 
 Speed 25 feet, burrow 25 feet, earth glide
 
-**Melee** ◆ fist +16 (reach <10 feet>); **Damage** 2d8+8 bludgeoning
+**Melee** ◆ fist +16/+11/+6 (reach <10 feet>); **Damage** 2d8+8 bludgeoning
 
 **Earth Glide** The living landslide can Burrow through any earthen matter, including rock. When it does so, the living landslide moves at its full burrow Speed, leaving no tunnels or signs of its passing.

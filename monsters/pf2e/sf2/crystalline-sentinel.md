@@ -11,6 +11,8 @@ rare, n, medium, earth, elemental
 
 **Skills** Athletics +22, Geology Lore +19, Stealth +22, Survival +22
 
+**Recall Knowledge - Elemental** (Arcana, Nature): DC 33
+
 **STR** +7, **DEX** +3, **CON** +5, **INT** +0, **WIS** +5, **CHA** +0
 
 ---
@@ -31,9 +33,9 @@ rare, n, medium, earth, elemental
 
 Speed 20 feet, burrow 20 feet, earth glide
 
-**Melee** ◆ jaw +24 (deadly <d10>); **Damage** 2d12+13 piercing plus crystal corruption
+**Melee** ◆ jaw +24/+19/+14 (deadly <d10>); **Damage** 2d12+13 piercing plus crystal corruption
 
-**Melee** ◆ claw +24 (agile); **Damage** 2d8+13 slashing plus crystal corruption
+**Melee** ◆ claw +24/+20/+16 (agile); **Damage** 2d8+13 slashing plus crystal corruption
 
 **Claw Frenzy** ◆◆ As xorn.
 

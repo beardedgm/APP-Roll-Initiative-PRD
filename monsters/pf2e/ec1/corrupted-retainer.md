@@ -11,6 +11,8 @@ ce, medium, human, humanoid
 
 **Skills** Acrobatics +6, Athletics +6, Survival +6
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +2, **DEX** +2, **CON** +3, **INT** +0, **WIS** +2, **CHA** +0
 
 **Items** hide armor, gray robes, trident, wooden shield (Hardness 3)
@@ -31,7 +33,7 @@ ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ trident +11 (fatal <d10>, thrown <20 feet>); **Damage** 2d8+2 piercing
+**Melee** ◆ trident +11/+6/+1 (fatal <d10>, thrown <20 feet>); **Damage** 2d8+2 piercing
 
 **Demonic Strength** Corrupted retainers deal an extra 1d8 damage with their tridents, and any trident gains the fatal <d10> trait while the corrupted retainer is using it (both the extra weapon damage die and the fatal trait have already been included in the corrupted retainer's trident Strike above).
 

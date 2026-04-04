@@ -11,6 +11,8 @@ ce, medium, fey
 
 **Skills** Acrobatics +13, Intimidation +13, Nature +11, Stealth +13, Survival +12
 
+**Recall Knowledge - Fey** (Nature): DC 20
+
 **STR** +4, **DEX** +4, **CON** +2, **INT** +2, **WIS** +3, **CHA** +2
 
 **Camouflage** A grimstalker can Hide in natural environments, even if it doesn't have cover.
@@ -27,7 +29,7 @@ ce, medium, fey
 
 Speed 40 feet, climb 20 feet, woodland stride
 
-**Melee** ◆ claw +15 (agile); **Damage** 2d6+7 slashing plus grimstalker sap plus grimstalker sap
+**Melee** ◆ claw +15/+11/+7 (agile); **Damage** 2d6+7 slashing plus grimstalker sap plus grimstalker sap
 
 **Innate primal Spells** (DC 22), attack +14
 

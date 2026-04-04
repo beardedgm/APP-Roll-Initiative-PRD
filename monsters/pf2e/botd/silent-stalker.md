@@ -9,6 +9,8 @@ ln, small, undead
 
 **Skills** Athletics +27, Intimidation +24, Stealth +28
 
+**Recall Knowledge - Undead** (Religion): DC 31
+
 **STR** +8, **DEX** +5, **CON** +3, **INT** +0, **WIS** +5, **CHA** +3
 
 **Sense Murderer** As pale stranger.
@@ -35,7 +37,7 @@ ln, small, undead
 
 Speed 25 feet
 
-**Melee** ◆ claw +27 (agile); **Damage** 3d8+14 bludgeoning plus Grab
+**Melee** ◆ claw +27/+23/+19 (agile); **Damage** 3d8+14 bludgeoning plus Grab
 
 **Constrict** ◆ 3d8+7 bludgeoning, DC 33
 

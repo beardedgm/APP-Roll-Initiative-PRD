@@ -11,6 +11,8 @@ cn, medium, aesir, monitor
 
 **Skills** Athletics +25, Crafting +16, Intimidation +21
 
+**Recall Knowledge - Monitor** (Religion): DC 27
+
 **STR** +7, **DEX** +4, **CON** +6, **INT** +0, **WIS** +1, **CHA** +3
 
 ---
@@ -31,13 +33,13 @@ cn, medium, aesir, monitor
 
 Speed 40 feet
 
-**Melee** ◆ longsword +24 (versatile <P>); **Damage** 2d8+13 slashing
+**Melee** ◆ longsword +24/+19/+14 (versatile <P>); **Damage** 2d8+13 slashing
 
-**Melee** ◆ fist +23 (agile); **Damage** 2d6+13 bludgeoning
+**Melee** ◆ fist +23/+19/+15 (agile); **Damage** 2d6+13 bludgeoning
 
-**Melee** ◆ dagger +24 (agile, versatile <S>); **Damage** 2d4+13 piercing
+**Melee** ◆ dagger +24/+20/+16 (agile, versatile <S>); **Damage** 2d4+13 piercing
 
-**Ranged** ◆ dagger +21 (agile, thrown <10 feet>, versatile <S>); **Damage** 2d4+13 piercing
+**Ranged** ◆ dagger +21/+17/+13 (agile, thrown <10 feet>, versatile <S>); **Damage** 2d4+13 piercing
 
 **Champion Devotion Spells** (DC 29)
 

@@ -11,6 +11,8 @@ ln, medium, fey, light, nymph
 
 **Skills** Acrobatics +19, Athletics +11, Deception +19, Diplomacy +21, Intimidation +19, Nature +19, Performance +21, Society +17, Stealth +17
 
+**Recall Knowledge - Fey** (Nature): DC 26
+
 **STR** +0, **DEX** +6, **CON** +4, **INT** +4, **WIS** +4, **CHA** +6
 
 ---
@@ -29,9 +31,9 @@ ln, medium, fey, light, nymph
 
 Speed 30 feet, fly 60 feet
 
-**Melee** ◆ sunset ribbon +21 (agile, finesse); **Damage** 2d10+6 slashing plus 1d6 fire and 1d6 positive
+**Melee** ◆ sunset ribbon +21/+17/+13 (agile, finesse); **Damage** 2d10+6 slashing plus 1d6 fire and 1d6 positive
 
-**Ranged** ◆ sunset ray +21 (magical, range increment <60 feet>); **Damage** 2d12+6 fire plus 1d6 positive
+**Ranged** ◆ sunset ray +21/+16/+11 (magical, range increment <60 feet>); **Damage** 2d12+6 fire plus 1d6 positive
 
 **Innate primal Spells** (DC 28), attack +20
 

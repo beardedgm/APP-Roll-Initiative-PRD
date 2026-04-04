@@ -11,6 +11,8 @@ ng, medium, aasimar, human, humanoid
 
 **Skills** Athletics +11, Diplomacy +12, Medicine +9, Religion +11, Society +7
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +2, **CHA** +3
 
 **Items** crossbow (10 bolts), half plate, steel shield (Hardness 5, 20 HP, BT 10), longsword
@@ -34,9 +36,9 @@ ng, medium, aasimar, human, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ longsword +15 (versatile <P>); **Damage** 1d8+7 slashing
+**Melee** ◆ longsword +15/+10/+5 (versatile <P>); **Damage** 1d8+7 slashing
 
-**Ranged** ◆ crossbow +12 (range increment <120 feet>, reload <1>); **Damage** 1d8+3 piercing
+**Ranged** ◆ crossbow +12/+7/+2 (range increment <120 feet>, reload <1>); **Damage** 1d8+3 piercing
 
 **Innate divine Spells** (DC 20)
 

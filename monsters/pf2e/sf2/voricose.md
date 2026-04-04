@@ -11,6 +11,8 @@ unique, le, large, fiend, velstrac
 
 **Skills** Athletics +31, Brewing Lore +24, Crafting +24, Intimidation +28, Medicine +30, Religion +24, Torture Lore +26
 
+**Recall Knowledge - Fiend** (Religion): DC 44
+
 **STR** +7, **DEX** +4, **CON** +6, **INT** +3, **WIS** +7, **CHA** +6
 
 **Items** +3 greater striking greater frost whip
@@ -37,9 +39,9 @@ unique, le, large, fiend, velstrac
 
 Speed 40 feet
 
-**Melee** ◆ whip +31 (disarm, finesse, magical, nonlethal, reach, trip); **Damage** 3d4+15 slashing plus 1d6 cold
+**Melee** ◆ whip +31/+26/+21 (disarm, finesse, magical, nonlethal, reach, trip); **Damage** 3d4+15 slashing plus 1d6 cold
 
-**Melee** ◆ claw +28 (deadly <2d10>, evil, magical, reach <10 feet>); **Damage** 3d8+15 slashing plus 2d6 persistent bleed
+**Melee** ◆ claw +28/+23/+18 (deadly <2d10>, evil, magical, reach <10 feet>); **Damage** 3d8+15 slashing plus 2d6 persistent bleed
 
 **Innate divine Spells** (DC 36)
 

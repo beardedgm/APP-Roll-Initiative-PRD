@@ -11,6 +11,8 @@ unique, lg, medium, human, humanoid
 
 **Skills** Acrobatics +26, Athletics +25, Diplomacy +22, Medicine +20, Irori Lore +19
 
+**Recall Knowledge - Humanoid** (Society): DC 41
+
 **STR** +4, **DEX** +5, **CON** +4, **INT** +0, **WIS** +1, **CHA** +3
 
 **Items** +1 resilient explorer's clothing, +2 greater striking handwraps of mighty blows, +1 striking flaming temple sword
@@ -29,9 +31,9 @@ unique, lg, medium, human, humanoid
 
 Speed 45 feet
 
-**Melee** ◆ fist +26 (agile, finesse, nonlethal, unarmed); **Damage** 3d8+10 bludgeoning
+**Melee** ◆ fist +26/+22/+18 (agile, finesse, nonlethal, unarmed); **Damage** 3d8+10 bludgeoning
 
-**Melee** ◆ temple sword +24 (trip); **Damage** 2d8+10 slashing plus 1d6 fire
+**Melee** ◆ temple sword +24/+19/+14 (trip); **Damage** 2d8+10 slashing plus 1d6 fire
 
 **Focus Spells** (DC 30)
 

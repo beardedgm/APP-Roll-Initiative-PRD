@@ -11,6 +11,8 @@ rare, ce, medium, incorporeal, spirit, undead
 
 **Skills** Deception +22, Intimidation +24, Occultism +22, Pharasma Lore +24, Religion +22
 
+**Recall Knowledge - Spirit** (Religion): DC 35
+
 **STR** -5, **DEX** +5, **CON** +0, **INT** +4, **WIS** +4, **CHA** +6
 
 ---
@@ -31,7 +33,7 @@ rare, ce, medium, incorporeal, spirit, undead
 
 Speed limited flight 25 feet
 
-**Melee** ◆ apostate's shroud +21 (agile, finesse, magical); **Damage** 3d10+8 mental plus Apostate's Shroud
+**Melee** ◆ apostate's shroud +21/+17/+13 (agile, finesse, magical); **Damage** 3d10+8 mental plus Apostate's Shroud
 
 **Innate occult Spells** (DC 32), attack +24
 

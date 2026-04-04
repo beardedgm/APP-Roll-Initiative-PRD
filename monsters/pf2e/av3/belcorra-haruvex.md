@@ -11,6 +11,8 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Arcana +23, Diplomacy +23, Intimidation +25, Occultism +26, Religion +22, Stealth +22
 
+**Recall Knowledge - Spirit** (Religion): DC 40
+
 **STR** -5, **DEX** +4, **CON** +0, **INT** +5, **WIS** +4, **CHA** +7
 
 **Magic Sense** (detection, divination) Belcorra can sense the presence of magic auras as though she were always using a 1st-level detect magic spell. When she Seeks, she gains the benefits of a 3rd-level detect magic spell on things she sees.
@@ -35,7 +37,7 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ◆ ghostly hand +24 (agile, finesse, magical); **Damage** 3d8+12 negative
+**Melee** ◆ ghostly hand +24/+20/+16 (agile, finesse, magical); **Damage** 3d8+12 negative
 
 **Spontaneous occult Spells** (DC 33), attack +25
 

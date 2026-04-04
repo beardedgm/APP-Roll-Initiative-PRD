@@ -11,6 +11,8 @@ le, medium, incorporeal, spirit, undead
 
 **Skills** Acrobatics +14, Intimidation +15, Stealth +14
 
+**Recall Knowledge - Spirit** (Religion): DC 20
+
 **STR** -5, **DEX** +5, **CON** +0, **INT** -1, **WIS** +2, **CHA** +4
 
 **Site Bound** A poltergeist is tied to a location and can't travel more than 120 feet from the place where it was created or formed. Some poltergeists are instead bound to a specific room, building, or similar area.
@@ -37,7 +39,7 @@ le, medium, incorporeal, spirit, undead
 
 Speed fly 20 feet
 
-**Ranged** ◆ telekinetic object +13 (evocation, magical, occult, range increment <60 feet>); **Damage** 2d12 bludgeoning, piercing, or slashing (depending on object) plus piercing, or slashing (depending on object)
+**Ranged** ◆ telekinetic object +13/+8/+3 (evocation, magical, occult, range increment <60 feet>); **Damage** 2d12 bludgeoning, piercing, or slashing (depending on object) plus piercing, or slashing (depending on object)
 
 **Innate occult Spells** (DC 23), attack +13
 

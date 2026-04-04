@@ -11,6 +11,8 @@ uncommon, ne, large, cold, undead
 
 **Skills** Athletics +39
 
+**Recall Knowledge - Undead** (Religion): DC 42
+
 **STR** +9, **DEX** +2, **CON** +10, **INT** -5, **WIS** +0, **CHA** -2
 
 **Items** +3 greater striking greatsword
@@ -37,9 +39,9 @@ uncommon, ne, large, cold, undead
 
 Speed 25 feet
 
-**Melee** ◆ greatsword +38 (magical, versatile <P>, reach <10 feet>); **Damage** 3d12+15 slashing plus 2d6 cold and frostbite plus frostbite
+**Melee** ◆ greatsword +38/+33/+28 (magical, versatile <P>, reach <10 feet>); **Damage** 3d12+15 slashing plus 2d6 cold and frostbite plus frostbite
 
-**Melee** ◆ fist +38 (magical, reach <10 feet>); **Damage** 3d8+15 bludgeoning plus 2d6 cold, frostbite, and Improved Grab plus frostbite, Improved Grab
+**Melee** ◆ fist +38/+33/+28 (magical, reach <10 feet>); **Damage** 3d8+15 bludgeoning plus 2d6 cold, frostbite, and Improved Grab plus frostbite, Improved Grab
 
 **Innate primal Spells** (DC 39), attack +31
 

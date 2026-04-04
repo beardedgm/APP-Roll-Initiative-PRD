@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Acrobatics +32, Arcana +34, Deception +34, Medicine +32, Nature +34, Occultism +38, Religion +34, Society +32, Thievery +29
 
+**Recall Knowledge - Humanoid** (Society): DC 50
+
 **STR** +3, **DEX** +6, **CON** +2, **INT** +7, **WIS** +3, **CHA** +5
 
 ---
@@ -31,9 +33,9 @@ unique, ne, medium, human, humanoid
 
 Speed 35 feet, ignores terrain
 
-**Melee** ◆ hair +35 (agile, finesse, grapple, reach <15 feet>, trip, unarmed, versatile <S>); **Damage** 6d4+20 bludgeoning
+**Melee** ◆ hair +35/+31/+27 (agile, finesse, grapple, reach <15 feet>, trip, unarmed, versatile <S>); **Damage** 6d4+20 bludgeoning
 
-**Melee** ◆ braid +35 (forceful, reach <10 feet>, shove, unarmed); **Damage** 6d6+20 bludgeoning
+**Melee** ◆ braid +35/+30/+25 (forceful, reach <10 feet>, shove, unarmed); **Damage** 6d6+20 bludgeoning
 
 **Prepared occult Spells** (DC 45), attack +37
 

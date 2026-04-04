@@ -11,6 +11,8 @@ ne, medium, aquatic, fey, water
 
 **Skills** Acrobatics +21, Athletics +22, Deception +25, Diplomacy +21, Nature +21, Performance +23, Stealth +25
 
+**Recall Knowledge - Fey** (Nature): DC 30
+
 **STR** +4, **DEX** +5, **CON** +3, **INT** +1, **WIS** +3, **CHA** +7
 
 ---
@@ -31,7 +33,7 @@ ne, medium, aquatic, fey, water
 
 Speed 25 feet, swim 50 feet, water walk
 
-**Melee** ◆ tresses +24 (agile, finesse, reach <15 feet>); **Damage** 3d8+10 bludgeoning plus Improved Grab
+**Melee** ◆ tresses +24/+20/+16 (agile, finesse, reach <15 feet>); **Damage** 3d8+10 bludgeoning plus Improved Grab
 
 **Innate primal Spells** (DC 35)
 

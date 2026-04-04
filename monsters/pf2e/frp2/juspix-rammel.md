@@ -11,6 +11,8 @@ unique, n, small, halfling, humanoid
 
 **Skills** Acrobatics +27, Arcana +27, Nature +27, Occultism +27, Stealth +27
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** -1, **DEX** +5, **CON** +2, **INT** +5, **WIS** +5, **CHA** +2
 
 **Items** bracers of armor II, +2 striking filcher's fork
@@ -31,9 +33,9 @@ unique, n, small, halfling, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ filcher's fork +25 (agile, backstabber, deadly <1d6>, finesse, magical); **Damage** 2d4+3 piercing plus 3d6 cold
+**Melee** ◆ filcher's fork +25/+21/+17 (agile, backstabber, deadly <1d6>, finesse, magical); **Damage** 2d4+3 piercing plus 3d6 cold
 
-**Ranged** ◆ filcher's fork +25 (agile, backstabber, deadly <1d6>, magical, thrown <20 feet>); **Damage** 2d4+3 piercing plus 3d6 cold
+**Ranged** ◆ filcher's fork +25/+21/+17 (agile, backstabber, deadly <1d6>, magical, thrown <20 feet>); **Damage** 2d4+3 piercing plus 3d6 cold
 
 **Prepared primal Spells** (DC 35), attack +27
 

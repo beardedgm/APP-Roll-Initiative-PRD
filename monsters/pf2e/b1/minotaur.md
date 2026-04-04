@@ -11,6 +11,8 @@ ce, large, humanoid
 
 **Skills** Athletics +14, Intimidation +9, Survival +12
 
+**Recall Knowledge - Humanoid** (Society): DC 19
+
 **STR** +6, **DEX** +0, **CON** +3, **INT** -2, **WIS** +2, **CHA** -1
 
 **Items** greataxe
@@ -29,9 +31,9 @@ ce, large, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ greataxe +14 (reach <10 feet>, sweep); **Damage** 1d12+8 slashing
+**Melee** ◆ greataxe +14/+9/+4 (reach <10 feet>, sweep); **Damage** 1d12+8 slashing
 
-**Melee** ◆ horn +14; **Damage** 1d8+8 piercing
+**Melee** ◆ horn +14/+9/+4; **Damage** 1d8+8 piercing
 
 **Axe Swipe** ◆◆ The minotaur swings its axe in a wide arc, making greataxe Strikes against any two foes who are adjacent to each other and within the minotaur's reach. The multiple attack penalty does not increase until after both attacks are resolved.
 

@@ -11,6 +11,8 @@ ce, medium, amphibious, ghoul, undead
 
 **Skills** Acrobatics +8, Athletics +9, Stealth +8, Survival +7
 
+**Recall Knowledge - Undead** (Religion): DC 16
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** +1, **WIS** +1, **CHA** +3
 
 **Corpse Scent** The lacedon can smell humanoid corpses in the water from up to 1 mile away.
@@ -29,9 +31,9 @@ ce, medium, amphibious, ghoul, undead
 
 Speed 25 feet, swim 30 feet
 
-**Melee** ◆ jaws +10 (finesse); **Damage** 1d6+5 piercing plus ghoul fever
+**Melee** ◆ jaws +10/+5/+0 (finesse); **Damage** 1d6+5 piercing plus ghoul fever
 
-**Melee** ◆ claw +10 (agile, finesse); **Damage** 1d4+5 slashing
+**Melee** ◆ claw +10/+6/+2 (agile, finesse); **Damage** 1d4+5 slashing
 
 **Aquatic Ambush** ◆ 45 feet
 

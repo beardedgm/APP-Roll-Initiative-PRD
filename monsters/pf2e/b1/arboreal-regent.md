@@ -11,6 +11,8 @@ ng, huge, plant
 
 **Skills** Athletics +19, Diplomacy +16, Intimidation +16, Nature +18, Stealth +11
 
+**Recall Knowledge - Plant** (Nature): DC 24
+
 **STR** +7, **DEX** -1, **CON** +6, **INT** +1, **WIS** +4, **CHA** +2
 
 ---
@@ -31,11 +33,11 @@ ng, huge, plant
 
 Speed 25 feet
 
-**Melee** ◆ branch +19 (reach <15 feet>); **Damage** 2d12+7 bludgeoning
+**Melee** ◆ branch +19/+14/+9 (reach <15 feet>); **Damage** 2d12+7 bludgeoning
 
-**Melee** ◆ root +19 (trip); **Damage** 2d8+7 bludgeoning
+**Melee** ◆ root +19/+14/+9 (trip); **Damage** 2d8+7 bludgeoning
 
-**Ranged** ◆ rock +19 (brutal, range increment <120 feet>); **Damage** 2d10+7 bludgeoning
+**Ranged** ◆ rock +19/+14/+9 (brutal, range increment <120 feet>); **Damage** 2d10+7 bludgeoning
 
 **Innate primal Spells** (DC 26)
 

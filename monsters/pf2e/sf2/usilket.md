@@ -11,6 +11,8 @@ unique, lg, medium, humanoid
 
 **Skills** Acrobatics +24, Athletics +22, Diplomacy +25, Katapesh Lore +26, Medicine +24, Mercantile Lore +24, Performance +23, Society +26
 
+**Recall Knowledge - Humanoid** (Society): DC 41
+
 **STR** +3, **DEX** +5, **CON** +1, **INT** +3, **WIS** +5, **CHA** +4
 
 **Items** +1 striking handwraps of mighty blows, guardian aluum charm|SF2, greater hat of disguise
@@ -33,7 +35,7 @@ unique, lg, medium, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ fist +25 (agile, finesse, magical, nonlethal, unarmed); **Damage** 3d10+9 bludgeoning plus Grab
+**Melee** ◆ fist +25/+21/+17 (agile, finesse, magical, nonlethal, unarmed); **Damage** 3d10+9 bludgeoning plus Grab
 
 **Innate arcane Spells** (DC 33)
 

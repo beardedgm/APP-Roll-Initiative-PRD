@@ -11,6 +11,8 @@ unique, le, small, humanoid, kobold
 
 **Skills** Athletics +9, Intimidation +7, Stealth +6
 
+**Recall Knowledge - Humanoid** (Society): DC 26
+
 **STR** +3, **DEX** +2, **CON** +4, **INT** -1, **WIS** +1, **CHA** +1
 
 ---
@@ -25,10 +27,10 @@ unique, le, small, humanoid, kobold
 
 Speed 20 feet
 
-**Melee** ◆ greatpick +12 (fatal <d12>); **Damage** 1d10+3 piercing
+**Melee** ◆ greatpick +12/+7/+2 (fatal <d12>); **Damage** 1d10+3 piercing
 
-**Melee** ◆ longspear +9 (reach); **Damage** 1d8+3 piercing
+**Melee** ◆ longspear +9/+4/-1 (reach); **Damage** 1d8+3 piercing
 
-**Ranged** ◆ sling +10 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+1 bludgeoning
+**Ranged** ◆ sling +10/+5/+0 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+1 bludgeoning
 
 **Haphazard Hack** ◆◆ **Requirements** Rekarek is adjacent to two or more enemies; Rekarek makes three melee weapon Strikes, two of which must be against different enemies. These attacks count toward her multiple attack penalty, but only after all three Strikes have been made. After taking this activity, Rekarek is flat-footed until the beginning of her next turn.

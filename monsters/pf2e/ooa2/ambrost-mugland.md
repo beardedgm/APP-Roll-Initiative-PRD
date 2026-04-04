@@ -11,6 +11,8 @@ unique, ne, small, halfling, humanoid
 
 **Skills** Acrobatics +16, Alkenstar Lore +16, Athletics +14, Deception +18, Intimidation +18, Society +18, Stealth +18, Thievery +18, Underworld Lore +16
 
+**Recall Knowledge - Humanoid** (Society): DC 34
+
 **STR** +1, **DEX** +4, **CON** +3, **INT** +2, **WIS** +0, **CHA** +4
 
 **Items** cane pistol (10 rounds; Guns & Gears 159), +1 striking dueling pistol (10 rounds; Guns & Gears 152), eroding bullet (5; Guns & Gears 169)
@@ -35,11 +37,11 @@ unique, ne, small, halfling, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ cane pistol +15 (critical fusion, thrown <10 feet>); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ cane pistol +15/+10/+5 (critical fusion, thrown <10 feet>); **Damage** 1d6+4 bludgeoning
 
-**Ranged** ◆ dueling pistol +19 (concealable, concussive, fatal <d10>, magical, range increment <60 feet>, reload <1>); **Damage** 2d6+6 piercing
+**Ranged** ◆ dueling pistol +19/+14/+9 (concealable, concussive, fatal <d10>, magical, range increment <60 feet>, reload <1>); **Damage** 2d6+6 piercing
 
-**Ranged** ◆ cane pistol +18 (combination, concussive, fatal <d8>, range increment <30 feet>, reload <1>); **Damage** 1d4+6 piercing
+**Ranged** ◆ cane pistol +18/+13/+8 (combination, concussive, fatal <d8>, range increment <30 feet>, reload <1>); **Damage** 1d4+6 piercing
 
 **Quick Draw** ◆ Mugland Interacts to draw a weapon, then Strikes with that weapon.
 

@@ -11,6 +11,8 @@ n, medium, beast
 
 **Skills** Athletics +24, Stealth +25
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 30
+
 **STR** +6, **DEX** +4, **CON** +7, **INT** -3, **WIS** +2, **CHA** +0
 
 **Thoughtsense** (divination, mental, occult) The cauthooj senses a creatures mental essence at the listed ranged.
@@ -31,7 +33,7 @@ n, medium, beast
 
 Speed 35 feet
 
-**Melee** ◆ beak +26 (agile, deadly <1d12>, reach <10 feet>); **Damage** 2d12+12 piercing
+**Melee** ◆ beak +26/+22/+18 (agile, deadly <1d12>, reach <10 feet>); **Damage** 2d12+12 piercing
 
 **Staccato Strike** ◆ (mental, primal, sonic) With subtle alterations in the pitch and tone of its song, the cauthooj directs one creature confused by its Warbling Song to make a Strike. This works like other Strikes made by confused creatures, except that the cauthooj chooses the target. If no target is in reach or range, or the creature is unable to Strike for any other reason, this ability has no effect.
 

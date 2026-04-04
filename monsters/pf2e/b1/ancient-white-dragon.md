@@ -11,6 +11,8 @@ uncommon, ce, huge, cold, dragon
 
 **Skills** Acrobatics +24, Arcana +23, Athletics +31, Intimidation +28, Stealth +26
 
+**Recall Knowledge - Dragon** (Arcana): DC 36
+
 **STR** +8, **DEX** +3, **CON** +7, **INT** +2, **WIS** +3, **CHA** +3
 
 **Snow Vision** Snow doesn't impair a white dragon's vision; it ignores concealment from snowfall.
@@ -39,11 +41,11 @@ uncommon, ce, huge, cold, dragon
 
 Speed 40 feet, fly 160 feet, ice climb 40 feet
 
-**Melee** ◆ jaws +31 (cold, magical, reach <15 feet>); **Damage** 3d12+16 piercing plus 3d6 cold
+**Melee** ◆ jaws +31/+26/+21 (cold, magical, reach <15 feet>); **Damage** 3d12+16 piercing plus 3d6 cold
 
-**Melee** ◆ claw +31 (agile, magical, reach <10 feet>); **Damage** 3d10+16 slashing
+**Melee** ◆ claw +31/+27/+23 (agile, magical, reach <10 feet>); **Damage** 3d10+16 slashing
 
-**Melee** ◆ tail +29 (magical, reach <20 feet>); **Damage** 2d10+14 bludgeoning
+**Melee** ◆ tail +29/+24/+19 (magical, reach <20 feet>); **Damage** 2d10+14 bludgeoning
 
 **Innate arcane Spells** (DC 36)
 

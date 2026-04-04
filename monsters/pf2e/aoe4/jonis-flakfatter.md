@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Acrobatics +25, Crafting +26, Deception +26, Diplomacy +26, Intimidation +26, Religion +29, Society +24, Stealth +25, Thievery +25, Norgorber Lore +28
 
+**Recall Knowledge - Humanoid** (Society): DC 44
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +3, **WIS** +6, **CHA** +3
 
 **Items** +1 spell storing dagger (contains crisis of faith), high priest robes, religious symbol of Norgorber
@@ -31,9 +33,9 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ dagger +28 (agile, finesse, magical, versatile <S>); **Damage** 2d4+10 piercing plus 2d8 persistent poison and crisis of faith plus crisis of faith
+**Melee** ◆ dagger +28/+24/+20 (agile, finesse, magical, versatile <S>); **Damage** 2d4+10 piercing plus 2d8 persistent poison and crisis of faith plus crisis of faith
 
-**Ranged** ◆ dagger +28 (agile, magical, thrown <10 feet>); **Damage** 2d4+10 piercing plus crisis of faith plus crisis of faith
+**Ranged** ◆ dagger +28/+24/+20 (agile, magical, thrown <10 feet>); **Damage** 2d4+10 piercing plus crisis of faith plus crisis of faith
 
 **Prepared divine Spells** (DC 37), attack +29
 

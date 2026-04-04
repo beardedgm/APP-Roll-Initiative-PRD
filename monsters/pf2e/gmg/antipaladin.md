@@ -11,6 +11,8 @@ ce, medium, human, humanoid
 
 **Skills** Athletics +13, Deception +10, Intimidation +12, Religion +8, Survival +8
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +1, **CHA** +3
 
 **Items** lesser cheetah's elixir, greataxe, half plate, javelin (10)
@@ -29,9 +31,9 @@ ce, medium, human, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ greataxe +15 (sweep); **Damage** 1d12+10 slashing
+**Melee** ◆ greataxe +15/+10/+5 (sweep); **Damage** 1d12+10 slashing
 
-**Ranged** ◆ javelin +12 (thrown <30 feet>); **Damage** 1d6+10 piercing
+**Ranged** ◆ javelin +12/+7/+2 (thrown <30 feet>); **Damage** 1d6+10 piercing
 
 **Champion Devotion Spells** (DC 20)
 

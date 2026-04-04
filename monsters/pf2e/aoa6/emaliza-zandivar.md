@@ -11,6 +11,8 @@ unique, le, medium, human, humanoid
 
 **Skills** Acrobatics +32, Arcana +41, Deception +38, Intimidation +38, Occultism +34, Society +34, Dragon Lore +32, Hermea Lore +38
 
+**Recall Knowledge - Humanoid** (Society): DC 50
+
 **STR** +2, **DEX** +8, **CON** +5, **INT** +10, **WIS** +5, **CHA** +6
 
 **Items** anklets of alacrity, Flawed Orb of Gold Dragonkind|AoA6, ring of spell turning (arcane focus), +3 major striking staff, winged boots
@@ -29,7 +31,7 @@ unique, le, medium, human, humanoid
 
 Speed 25 feet, fly 30 feet
 
-**Melee** ◆ staff +31 (magical, two-hand <d8>); **Damage** 8d4+8 bludgeoning
+**Melee** ◆ staff +31/+26/+21 (magical, two-hand <d8>); **Damage** 8d4+8 bludgeoning
 
 **Prepared arcane Spells** (DC 45), attack +36
 

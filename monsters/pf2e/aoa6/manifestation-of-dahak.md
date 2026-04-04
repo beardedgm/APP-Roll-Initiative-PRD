@@ -11,6 +11,8 @@ unique, ce, gargantuan, acid, cold, dragon, electricity, fire, poison
 
 **Skills** Acrobatics +38, Arcana +45, Athletics +45, Deception +45, Diplomacy +38, Intimidation +48, Occultism +40, Religion +40, Society +38, Dragon Lore +48
 
+**Recall Knowledge - Dragon** (Arcana): DC 58
+
 **STR** +12, **DEX** +8, **CON** +10, **INT** +8, **WIS** +8, **CHA** +9
 
 **Smoke Vision** Smoke doesn't impair a red dragon's vision; it ignores the concealed condition from smoke.
@@ -43,13 +45,13 @@ unique, ce, gargantuan, acid, cold, dragon, electricity, fire, poison
 
 Speed 60 feet, fly 200 feet
 
-**Melee** ◆ claw +44 (agile, magical, reach <15 feet>); **Damage** 8d8+8 slashing
+**Melee** ◆ claw +44/+40/+36 (agile, magical, reach <15 feet>); **Damage** 8d8+8 slashing
 
-**Melee** ◆ jaws +44 (fire, magical, reach <20 feet>); **Damage** 5d10+10 piercing plus 4d6 fire and Improved Grab plus Improved Grab
+**Melee** ◆ jaws +44/+39/+34 (fire, magical, reach <20 feet>); **Damage** 5d10+10 piercing plus 4d6 fire and Improved Grab plus Improved Grab
 
-**Melee** ◆ tail +43 (magical, reach <25 feet>); **Damage** 6d10+12 slashing plus Improved Push plus Improved Push
+**Melee** ◆ tail +43/+38/+33 (magical, reach <25 feet>); **Damage** 6d10+12 slashing plus Improved Push plus Improved Push
 
-**Melee** ◆ wing +43 (agile, magical, reach <20 feet>); **Damage** 8d8+8 slashing
+**Melee** ◆ wing +43/+39/+35 (agile, magical, reach <20 feet>); **Damage** 8d8+8 slashing
 
 **Prepared divine Spells** (DC 48), attack +44
 

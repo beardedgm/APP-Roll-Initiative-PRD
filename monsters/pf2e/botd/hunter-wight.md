@@ -11,6 +11,8 @@ uncommon, le, medium, undead, wight
 
 **Skills** Athletics +14, Crafting +14, Intimidation +12, Stealth +17
 
+**Recall Knowledge - Undead** (Religion): DC 25
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** +1, **WIS** +3, **CHA** +2
 
 **Items** +1 composite longbow, leather armor, snare kit
@@ -31,9 +33,9 @@ uncommon, le, medium, undead, wight
 
 Speed 25 feet
 
-**Melee** ◆ claw +16 (agile); **Damage** 1d8+9 slashing plus drain life
+**Melee** ◆ claw +16/+12/+8 (agile); **Damage** 1d8+9 slashing plus drain life
 
-**Ranged** ◆ composite longbow +18 (deadly <d10>, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 1d8+7 piercing plus drain life
+**Ranged** ◆ composite longbow +18/+13/+8 (deadly <d10>, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 1d8+7 piercing plus drain life
 
 **Drain Life** (divine, necromancy) When the hunter wight damages a living creature using an unarmed attack or their bound weapon, they gain 7 temporary
 

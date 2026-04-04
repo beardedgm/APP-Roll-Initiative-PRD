@@ -11,6 +11,8 @@ rare, ce, large, giant, humanoid
 
 **Skills** Athletics +17, Intimidation +15, Survival +13
 
+**Recall Knowledge - Humanoid** (Society): DC 28
+
 **STR** +6, **DEX** +2, **CON** +4, **INT** -2, **WIS** +2, **CHA** +2
 
 ---
@@ -33,11 +35,11 @@ rare, ce, large, giant, humanoid
 
 Speed 35 feet
 
-**Melee** ◆ headbutt +18; **Damage** 2d10+8 bludgeoning
+**Melee** ◆ headbutt +18/+13/+8; **Damage** 2d10+8 bludgeoning
 
-**Melee** ◆ fist +18 (agile, reach <10 feet>); **Damage** 2d8+8 bludgeoning
+**Melee** ◆ fist +18/+14/+10 (agile, reach <10 feet>); **Damage** 2d8+8 bludgeoning
 
-**Ranged** ◆ shrapnel +16 (range <30 feet>, versatile <P>); **Damage** 2d4+8 bludgeoning
+**Ranged** ◆ shrapnel +16/+11/+6 (range <30 feet>, versatile <P>); **Damage** 2d4+8 bludgeoning
 
 **Explosive Headbutt** ◆◆ The smog giant cracks their neck, triggering pockets of black powder at the base of their skull to impart additional power to their attack. The giant then attempts a headbutt Strike. This counts as two attacks when calculating the giant's attack penalty. If this Strike hits, it deals 2d10+8 bludgeoning damage and the creature struck must attempt a
 

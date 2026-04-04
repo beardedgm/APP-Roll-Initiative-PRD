@@ -11,6 +11,8 @@ rare, le, large, aberration, aquatic
 
 **Skills** Arcana +27, Athletics +24, Deception +28, Intimidation +26, Occultism +29, Society +27, Stealth +24, Lore +29 (any one subcategory)
 
+**Recall Knowledge - Aberration** (Occultism): DC 37
+
 **STR** +6, **DEX** +6, **CON** +8, **INT** +7, **WIS** +5, **CHA** +6
 
 **Mucus Cloud** (aura, disease) 30 feet. While underwater, a vidileth exudes a cloud of transparent slime. An air-breathing creature adjacent to a vidileth must succeed at a DC 36 Fortitude save each round or lose the ability to breathe air but gain the ability to breathe water for 24 hours.
@@ -29,11 +31,11 @@ rare, le, large, aberration, aquatic
 
 Speed 10 feet, swim 80 feet
 
-**Melee** ◆ claw +30 (agile, magical, reach <20 feet>); **Damage** 3d10+12 slashing plus slime plus slime
+**Melee** ◆ claw +30/+26/+22 (agile, magical, reach <20 feet>); **Damage** 3d10+12 slashing plus slime plus slime
 
-**Melee** ◆ fangs +28 (agile, magical, reach <10 feet>, versatile <S>); **Damage** 3d8+12 piercing plus slime and consume memories plus slime, consume memories
+**Melee** ◆ fangs +28/+24/+20 (agile, magical, reach <10 feet>, versatile <S>); **Damage** 3d8+12 piercing plus slime and consume memories plus slime, consume memories
 
-**Melee** ◆ tentacle +28 (agile, electricity, magical, reach <20 feet>); **Damage** 7d6 electricity plus thoughtlance plus thoughtlance
+**Melee** ◆ tentacle +28/+24/+20 (agile, electricity, magical, reach <20 feet>); **Damage** 7d6 electricity plus thoughtlance plus thoughtlance
 
 **Innate occult Spells** (DC 37)
 

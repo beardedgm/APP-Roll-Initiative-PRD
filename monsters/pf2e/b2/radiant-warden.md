@@ -9,6 +9,8 @@ uncommon, n, gargantuan, construct
 
 **Skills** Arcana +32, Athletics +33, Occultism +32, Astronomy Lore +36
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 38
+
 **STR** +9, **DEX** +6, **CON** +5, **INT** +6, **WIS** +5, **CHA** +0
 
 ---
@@ -29,9 +31,9 @@ uncommon, n, gargantuan, construct
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ hammer +32 (magical, reach <15 feet>, shove); **Damage** 3d12+15 bludgeoning plus radiant blow plus radiant blow
+**Melee** ◆ hammer +32/+27/+22 (magical, reach <15 feet>, shove); **Damage** 3d12+15 bludgeoning plus radiant blow plus radiant blow
 
-**Ranged** ◆ radiant beam +32 (magical, reach <15 feet>); **Damage** 4d10 force
+**Ranged** ◆ radiant beam +32/+27/+22 (magical, reach <15 feet>); **Damage** 4d10 force
 
 **Innate occult Spells** (DC 38)
 

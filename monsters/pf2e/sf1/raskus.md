@@ -11,6 +11,8 @@ unique, ce, medium, humanoid, tengu
 
 **Skills** Acrobatics +21, Athletics +19, Intimidation +19, Religion +18, Stealth +21
 
+**Recall Knowledge - Humanoid** (Society): DC 37
+
 **STR** +3, **DEX** +5, **CON** +2, **INT** +0, **WIS** +2, **CHA** +3
 
 **Items** +1 leather armor with Mivanian insignia, manacles, spike launcher|G&G (20 spikes), +1 striking rapier
@@ -29,11 +31,11 @@ unique, ce, medium, humanoid, tengu
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ rapier +22 (deadly <d8>, disarm, finesse, magical); **Damage** 2d6+11 slashing
+**Melee** ◆ rapier +22/+17/+12 (deadly <d8>, disarm, finesse, magical); **Damage** 2d6+11 slashing
 
-**Melee** ◆ beak +21 (finesse); **Damage** 2d4+11 piercing
+**Melee** ◆ beak +21/+16/+11 (finesse); **Damage** 2d4+11 piercing
 
-**Ranged** ◆ spike launcher +22 (backstabber, fatal <d12>, kickback, magical, range increment <120 feet>, reload <1>); **Damage** 2d8+9 piercing
+**Ranged** ◆ spike launcher +22/+17/+12 (backstabber, fatal <d12>, kickback, magical, range increment <120 feet>, reload <1>); **Damage** 2d8+9 piercing
 
 **Innate divine Spells** (DC 26)
 

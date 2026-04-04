@@ -29,7 +29,7 @@ rare, ln, small, kashrishi
 
 Speed 25 feet
 
-**Melee** ◆ dagger +10 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
+**Melee** ◆ dagger +10/+6/+2 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
 
 **Spontaneous occult Spells** (DC 21), attack +13
 

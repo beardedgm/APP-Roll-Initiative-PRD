@@ -11,6 +11,8 @@ le, medium, devil, fiend
 
 **Skills** Acrobatics +23, Arcana +18, Intimidation +21, Religion +20, Stealth +23, Survival +22
 
+**Recall Knowledge - Fiend** (Religion): DC 28
+
 **STR** +7, **DEX** +6, **CON** +5, **INT** +1, **WIS** +5, **CHA** +4
 
 ---
@@ -33,9 +35,9 @@ le, medium, devil, fiend
 
 Speed 25 feet, fly 30 feet
 
-**Melee** ◆ barb +24 (evil, magical); **Damage** 3d8+13 piercing plus 1d6 evil and bloodletting plus bloodletting
+**Melee** ◆ barb +24/+19/+14 (evil, magical); **Damage** 3d8+13 piercing plus 1d6 evil and bloodletting plus bloodletting
 
-**Ranged** ◆ hurled barb +23 (evil, magical, range increment <60 feet>); **Damage** 2d8+13 piercing plus 1d6 evil and bloodletting plus bloodletting
+**Ranged** ◆ hurled barb +23/+18/+13 (evil, magical, range increment <60 feet>); **Damage** 2d8+13 piercing plus 1d6 evil and bloodletting plus bloodletting
 
 **Innate divine Spells** (DC 27), attack +21
 

@@ -11,6 +11,8 @@ ne, huge, giant, humanoid
 
 **Skills** Athletics +30, Intimidation +24, Religion +25, Stealth +26
 
+**Recall Knowledge - Humanoid** (Society): DC 32
+
 **STR** +8, **DEX** +6, **CON** +7, **INT** +3, **WIS** +5, **CHA** +4
 
 **Items** +1 striking flail, sack with 5 rocks
@@ -33,11 +35,11 @@ ne, huge, giant, humanoid
 
 Speed 45 feet
 
-**Melee** ◆ flail +31 (disarm, magical, reach <15 feet>, sweep, trip); **Damage** 2d6+14 bludgeoning plus 3d6 poison and atrophic plague plus atrophic plague
+**Melee** ◆ flail +31/+26/+21 (disarm, magical, reach <15 feet>, sweep, trip); **Damage** 2d6+14 bludgeoning plus 3d6 poison and atrophic plague plus atrophic plague
 
-**Melee** ◆ claw +30 (agile, reach <10 feet>); **Damage** 3d6+14 slashing plus atrophic plague plus atrophic plague
+**Melee** ◆ claw +30/+26/+22 (agile, reach <10 feet>); **Damage** 3d6+14 slashing plus atrophic plague plus atrophic plague
 
-**Ranged** ◆ rock +28 (brutal, range increment <120 feet>); **Damage** 3d8+14 bludgeoning
+**Ranged** ◆ rock +28/+23/+18 (brutal, range increment <120 feet>); **Damage** 3d8+14 bludgeoning
 
 **Innate divine Spells** (DC 34)
 

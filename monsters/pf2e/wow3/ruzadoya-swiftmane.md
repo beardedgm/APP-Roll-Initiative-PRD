@@ -11,6 +11,8 @@ unique, large, undead
 
 **Skills** Athletics +28, Deception +26, Diplomacy +23, Intimidation +28, Nature +24, Society +23, Survival +24, Warfare Lore +27
 
+**Recall Knowledge - Undead** (Religion): DC 42
+
 **STR** +8, **DEX** +4, **CON** +5, **INT** +3, **WIS** +4, **CHA** +6
 
 **Items** +1 resilient duskwood full plate, guisarme, composite longbow (20 arrows)
@@ -39,11 +41,11 @@ unique, large, undead
 
 Speed 40 feet
 
-**Melee** ◆ guisarme +29 (magical, reach <10 feet>, trip); **Damage** 3d10+14 slashing plus 1d6 persistent bleed plus rooting strikes
+**Melee** ◆ guisarme +29/+24/+19 (magical, reach <10 feet>, trip); **Damage** 3d10+14 slashing plus 1d6 persistent bleed plus rooting strikes
 
-**Melee** ◆ hoof +29 (agile, magical); **Damage** 3d8+14 bludgeoning plus 1d6 persistent bleed plus rooting strikes
+**Melee** ◆ hoof +29/+25/+21 (agile, magical); **Damage** 3d8+14 bludgeoning plus 1d6 persistent bleed plus rooting strikes
 
-**Ranged** ◆ composite longbow +25 (deadly <2d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 3d8+10 piercing plus 1d6 persistent bleed
+**Ranged** ◆ composite longbow +25/+20/+15 (deadly <2d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 3d8+10 piercing plus 1d6 persistent bleed
 
 **Graveknight's Curse** (curse, primal)
 

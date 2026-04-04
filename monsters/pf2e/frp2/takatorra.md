@@ -11,6 +11,8 @@ unique, cg, medium, humanoid, tengu
 
 **Skills** Acrobatics +21, Athletics +28, Intimidation +19, Performance +19
 
+**Recall Knowledge - Humanoid** (Society): DC 41
+
 **STR** +5, **DEX** +2, **CON** +5, **INT** +1, **WIS** +3, **CHA** +0
 
 **Items** +1 resilient hide armor, +2 greater striking tengu gale blades (2), +1 striking frost composite longbow (20 arrows)
@@ -29,11 +31,11 @@ unique, cg, medium, humanoid, tengu
 
 Speed 25 feet
 
-**Melee** ◆ tengu gale blade +26 (agile, disarm, finesse, tengu); **Damage** 3d6+13 slashing
+**Melee** ◆ tengu gale blade +26/+22/+18 (agile, disarm, finesse, tengu); **Damage** 3d6+13 slashing
 
-**Melee** ◆ beak +24 (finesse, unarmed); **Damage** 1d6+13 piercing
+**Melee** ◆ beak +24/+19/+14 (finesse, unarmed); **Damage** 1d6+13 piercing
 
-**Ranged** ◆ composite longbow +22 (cold, deadly <d10>, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+8 piercing plus 1d6 cold
+**Ranged** ◆ composite longbow +22/+17/+12 (cold, deadly <d10>, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+8 piercing plus 1d6 cold
 
 **Blade Barrage** ◆◆◆ Takatorra unleashes a flurry of attacks. Takatorra makes five melee Strikes. Their multiple attack penalty applies as normal. They gain a cumulative +2 circumstance bonus to damage for each successful Strike. If one target is hit with at least two of these Strikes, they also take 2d6 persistent bleed damage. They then become stunned|CRB|stunned 1 and flat-footed until the start of their next turn.
 

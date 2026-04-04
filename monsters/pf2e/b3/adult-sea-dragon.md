@@ -11,6 +11,8 @@ uncommon, cg, huge, amphibious, dragon, water
 
 **Skills** Acrobatics +23, Arcana +18, Athletics +26, Deception +19, Intimidation +21, Nature +22, Society +18, Stealth +21, Survival +20
 
+**Recall Knowledge - Dragon** (Arcana): DC 32
+
 **STR** +6, **DEX** +5, **CON** +4, **INT** +2, **WIS** +4, **CHA** +3
 
 ---
@@ -33,11 +35,11 @@ uncommon, cg, huge, amphibious, dragon, water
 
 Speed 30 feet, fly 100 feet, swim 50 feet, water walk
 
-**Melee** ◆ jaws +26 (magical, reach <15 feet>); **Damage** 3d10+12 piercing plus hyponatremia plus hyponatremia
+**Melee** ◆ jaws +26/+21/+16 (magical, reach <15 feet>); **Damage** 3d10+12 piercing plus hyponatremia plus hyponatremia
 
-**Melee** ◆ claw +26 (agile, magical, reach <10 feet>); **Damage** 3d8+12 slashing plus Grab plus Grab
+**Melee** ◆ claw +26/+22/+18 (agile, magical, reach <10 feet>); **Damage** 3d8+12 slashing plus Grab plus Grab
 
-**Melee** ◆ tail +26 (magical, reach <25 feet>); **Damage** 3d8+12 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +26/+21/+16 (magical, reach <25 feet>); **Damage** 3d8+12 bludgeoning plus Grab plus Grab
 
 **Innate arcane Spells** (DC 32)
 

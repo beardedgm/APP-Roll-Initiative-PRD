@@ -11,6 +11,8 @@ uncommon, ne, large, beast
 
 **Skills** Acrobatics +32, Deception +28, Intimidation +28, Stealth +32, Survival +30
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 38
+
 **STR** +8, **DEX** +7, **CON** +9, **INT** -3, **WIS** +5, **CHA** +5
 
 **Magic Sense** (primal) The leydroth detects the source and school of each source of magic within 60 feet as an imprecise sense.
@@ -31,11 +33,11 @@ uncommon, ne, large, beast
 
 Speed 50 feet
 
-**Melee** ◆ jaws +33 (magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 1d10 persistent bleed
+**Melee** ◆ jaws +33/+28/+23 (magical, reach <10 feet>); **Damage** 3d10+16 piercing plus 1d10 persistent bleed
 
-**Melee** ◆ claw +33 (agile, magical, reach <10 feet>); **Damage** 3d10+16 slashing
+**Melee** ◆ claw +33/+29/+25 (agile, magical, reach <10 feet>); **Damage** 3d10+16 slashing
 
-**Melee** ◆ horn sweep +33 (magical, reach <10 feet>, sweep, versatile <P>); **Damage** 3d12+16 bludgeoning
+**Melee** ◆ horn sweep +33/+28/+23 (magical, reach <10 feet>, sweep, versatile <P>); **Damage** 3d12+16 bludgeoning
 
 **Innate primal Spells** (DC 38)
 

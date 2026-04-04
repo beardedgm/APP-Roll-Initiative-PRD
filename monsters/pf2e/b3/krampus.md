@@ -11,6 +11,8 @@ unique, ne, large, humanoid
 
 **Skills** Acrobatics +36, Athletics +39, Intimidation +42, Society +35, Stealth +39, Survival +38, Festival Lore +35
 
+**Recall Knowledge - Humanoid** (Society): DC 52
+
 **STR** +10, **DEX** +7, **CON** +10, **INT** +6, **WIS** +6, **CHA** +10
 
 **Items** +3 greater striking cold iron spiked chain
@@ -39,11 +41,11 @@ unique, ne, large, humanoid
 
 Speed 60 feet, air walk, snowstep
 
-**Melee** ◆ spiked chain +42 (disarm, evil, finesse, magical, reach <60 feet>, trip); **Damage** 3d8+18 slashing plus Improved Grab plus Improved Grab
+**Melee** ◆ spiked chain +42/+37/+32 (disarm, evil, finesse, magical, reach <60 feet>, trip); **Damage** 3d8+18 slashing plus Improved Grab plus Improved Grab
 
-**Melee** ◆ claw +41 (agile, magical, reach <10 feet>); **Damage** 4d6+25 slashing plus
+**Melee** ◆ claw +41/+37/+33 (agile, magical, reach <10 feet>); **Damage** 4d6+25 slashing plus
 
-**Melee** ◆ horn +41 (magical); **Damage** 4d10+25 piercing
+**Melee** ◆ horn +41/+36/+31 (magical); **Damage** 4d10+25 piercing
 
 **Innate primal Spells** (DC 42), attack +34
 

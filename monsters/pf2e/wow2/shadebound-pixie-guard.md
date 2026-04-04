@@ -11,6 +11,8 @@ small, fey, sprite
 
 **Skills** Acrobatics +15, Athletics +13, Deception +12, Nature +12, Stealth +15
 
+**Recall Knowledge - Fey** (Nature): DC 22
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +3, **WIS** +2, **CHA** +3
 
 **Items** longbow (20 arrows), rapier
@@ -29,9 +31,9 @@ small, fey, sprite
 
 Speed 15 feet, fly 45 feet
 
-**Melee** ◆ rapier +17 (deadly <d8>, finesse); **Damage** 1d6+6 piercing
+**Melee** ◆ rapier +17/+12/+7 (deadly <d8>, finesse); **Damage** 1d6+6 piercing
 
-**Ranged** ◆ longbow +15 (deadly <d10>, range increment <100 feet>, reload <0>, volley <20 feet>); **Damage** 1d8+6 piercing
+**Ranged** ◆ longbow +15/+10/+5 (deadly <d10>, range increment <100 feet>, reload <0>, volley <20 feet>); **Damage** 1d8+6 piercing
 
 **Innate primal Spells** (DC 24)
 

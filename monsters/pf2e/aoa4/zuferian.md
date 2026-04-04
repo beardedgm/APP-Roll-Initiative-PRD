@@ -11,6 +11,8 @@ unique, ne, medium, human, humanoid
 
 **Skills** Acrobatics +26, Arcana +27, Crafting +31, Intimidation +23, Occultism +25, Stealth +26, Thievery +28
 
+**Recall Knowledge - Humanoid** (Society): DC 44
+
 **STR** +2, **DEX** +7, **CON** +4, **INT** +8, **WIS** +7, **CHA** +0
 
 **Items** infused greater acid flask (4), greater alchemist goggles, infused greater alchemist's fire (4), alchemist's tools, greater elixirs of life (2), formula book, infused greater frost vial (4), +2 resilient leather armor, +2 striking light mace, infused greater thunderstone (4)
@@ -29,9 +31,9 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ light mace +30 (agile, finesse, shove); **Damage** 2d4+8
+**Melee** ◆ light mace +30/+26/+22 (agile, finesse, shove); **Damage** 2d4+8
 
-**Ranged** ◆ alchemical bomb +30 (range increment <60 feet>, splash); **Damage** varies by bomb
+**Ranged** ◆ alchemical bomb +30/+25/+20 (range increment <60 feet>, splash); **Damage** varies by bomb
 
 **Alchemical Formulas** greater acid flask, greater alchemist's fire, greater bottled lightning, greater darkvision elixir, deathcap powder, greater elixir of life, greater frost vial, lethargy poison, purple worm venom, greater tanglefoot bag.
 

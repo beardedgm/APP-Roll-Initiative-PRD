@@ -9,6 +9,8 @@ rare, n, large, construct, mindless
 
 **Skills** Athletics +15
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 27
+
 **STR** +6, **DEX** -3, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -27,9 +29,9 @@ rare, n, large, construct, mindless
 
 Speed 15 feet
 
-**Melee** ◆ drawer +17 (magical); **Damage** 2d8+9 bludgeoning
+**Melee** ◆ drawer +17/+12/+7 (magical); **Damage** 2d8+9 bludgeoning
 
-**Ranged** ◆ poison bottle +14 (magical, thrown <20 feet>); **Damage** 2d6+3 bludgeoning plus poison stock
+**Ranged** ◆ poison bottle +14/+9/+4 (magical, thrown <20 feet>); **Damage** 2d6+3 bludgeoning plus poison stock
 
 **Poison Stock** When the cabinet hits a creature with its poison bottle Strike, roll 1d4 to determine what kind of poison splashes onto the struck creature: 1 nerve poison (clumsy 1); 2 weakening poison (enfeebled 1); 3 noxious poison (sickened 1); 4 clouded mind poison (stupefied 1). The target must attempt a DC 24 Fortitude save. **Critical Success** 
 **Success** 

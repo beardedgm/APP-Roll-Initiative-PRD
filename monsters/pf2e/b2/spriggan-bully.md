@@ -11,6 +11,8 @@ ce, small, gnome, humanoid, spriggan
 
 **Skills** Acrobatics +9, Athletics +8, Intimidation +10, Society +8, Stealth +11, Survival +10, Thievery +9
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** +1, **WIS** +3, **CHA** +1
 
 **Items** crossbow (10 bolts), morningstar
@@ -29,9 +31,9 @@ ce, small, gnome, humanoid, spriggan
 
 Speed 20 feet
 
-**Melee** ◆ morningstar +10 (versatile <P>); **Damage** 1d6+6 bludgeoning
+**Melee** ◆ morningstar +10/+5/+0 (versatile <P>); **Damage** 1d6+6 bludgeoning
 
-**Ranged** ◆ crossbow +11 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
+**Ranged** ◆ crossbow +11/+6/+1 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
 
 **Innate primal Spells** (DC 20)
 

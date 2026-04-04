@@ -9,6 +9,8 @@ n, large, animal, aquatic, swarm
 
 **Skills** Acrobatics +10, Athletics +8
 
+**Recall Knowledge - Animal** (Nature): DC 18
+
 **STR** +1, **DEX** +3, **CON** +2, **INT** -5, **WIS** +2, **CHA** -2
 
 **Blood Scent** The piranha swarm can smell blood in the water from up to 1 mile away.

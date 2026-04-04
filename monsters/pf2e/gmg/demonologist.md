@@ -11,6 +11,8 @@ ce, medium, human, humanoid
 
 **Skills** Arcana +16, Diplomacy +11, Religion +15, Academia Lore +14, Demon Lore +18
 
+**Recall Knowledge - Humanoid** (Society): DC 23
+
 **STR** +3, **DEX** +1, **CON** +2, **INT** +4, **WIS** +4, **CHA** +0
 
 **Abyssal Temptation** (divine, enchantment, mental) Demonic study has garnered the attention of at least one demon that is actively trying to possess the demonologist. When the demonologist publicly espouses the benefits of demonic power (whether they believe it a good thing or not), they gain a +1 status bonus to skill checks, AC, and saves for 1 day. These bonuses don't apply against demons. At the end of the day, the demonologist must attempt a DC 20 Will save, becoming possessed for 1 day on a failure (permanently on a critical failure).
@@ -27,7 +29,7 @@ ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ longspear +17 (magical, reach); **Damage** 1d8+9 piercing
+**Melee** ◆ longspear +17/+12/+7 (magical, reach); **Damage** 1d8+9 piercing
 
 **Prepared arcane Spells** (DC 26), attack +18
 

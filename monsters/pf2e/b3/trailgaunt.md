@@ -11,6 +11,8 @@ ne, medium, undead
 
 **Skills** Stealth +8, Survival +10
 
+**Recall Knowledge - Undead** (Religion): DC 18
+
 **STR** +4, **DEX** +1, **CON** +3, **INT** +1, **WIS** +3, **CHA** -1
 
 ---
@@ -29,7 +31,7 @@ ne, medium, undead
 
 Speed 10 feet, burrow 10 feet
 
-**Melee** ◆ jaws +12; **Damage** 1d8+6 piercing plus share pain plus share pain
+**Melee** ◆ jaws +12/+7/+2; **Damage** 1d8+6 piercing plus share pain plus share pain
 
 **Create Spawn** (divine, necromancy) Any humanoid creature killed by a trailgaunt and left unburied out of sight of a well-maintained road rises as a free-willed trailgaunt at the next sunset.
 

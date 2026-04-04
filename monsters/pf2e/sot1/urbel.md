@@ -11,6 +11,8 @@ unique, ce, small, fey, gremlin
 
 **Skills** Acrobatics +10, Athletics +9, Intimidation +12, Stealth +10
 
+**Recall Knowledge - Fey** (Nature): DC 29
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** -1, **WIS** +0, **CHA** +2
 
 ---
@@ -29,11 +31,11 @@ unique, ce, small, fey, gremlin
 
 Speed 30 feet, climb 20 feet
 
-**Melee** ◆ pick +14 (fatal <d10>, shove); **Damage** 2d6+5 piercing
+**Melee** ◆ pick +14/+9/+4 (fatal <d10>, shove); **Damage** 2d6+5 piercing
 
-**Melee** ◆ jaws +14 (finesse); **Damage** 1d6+5 piercing plus Grab plus Grab
+**Melee** ◆ jaws +14/+9/+4 (finesse); **Damage** 1d6+5 piercing plus Grab plus Grab
 
-**Melee** ◆ claw +14 (agile, finesse); **Damage** 1d4+5 slashing
+**Melee** ◆ claw +14/+10/+6 (agile, finesse); **Damage** 1d4+5 slashing
 
 **Innate primal Spells** (DC 21), attack +13
 

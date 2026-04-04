@@ -11,6 +11,8 @@ ce, huge, plant
 
 **Skills** Athletics +15, Stealth +12
 
+**Recall Knowledge - Plant** (Nature): DC 22
+
 **STR** +7, **DEX** +2, **CON** +4, **INT** +0, **WIS** +2, **CHA** +0
 
 ---
@@ -31,7 +33,7 @@ ce, huge, plant
 
 Speed 15 feet
 
-**Melee** ◆ scythe branch +18 (backswing, deadly <d10>, reach <15 feet>); **Damage** 2d10+9 slashing
+**Melee** ◆ scythe branch +18/+13/+8 (backswing, deadly <d10>, reach <15 feet>); **Damage** 2d10+9 slashing
 
 **Dead Tree** ◆ (concentrate) Until the scythe tree acts, it appears to be a dead tree. It has an automatic result of 35 on Deception checks and DCs to pass as a dead tree.
 

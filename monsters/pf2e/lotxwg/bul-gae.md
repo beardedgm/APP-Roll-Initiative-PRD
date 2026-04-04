@@ -11,6 +11,8 @@ uncommon, medium, beast, cold, fire
 
 **Skills** Athletics +28, Intimidation +23, Stealth +23, Survival +25
 
+**Recall Knowledge - Beast** (Arcana, Nature): DC 34
+
 **STR** +8, **DEX** +4, **CON** +7, **INT** +5, **WIS** +6, **CHA** +4
 
 ---
@@ -31,7 +33,7 @@ uncommon, medium, beast, cold, fire
 
 Speed 40 feet
 
-**Melee** ◆ jaws +27 (agile); **Damage** 2d8+12 piercing plus 2d6 cold or fire and Knockdown plus Knockdown
+**Melee** ◆ jaws +27/+23/+19 (agile); **Damage** 2d8+12 piercing plus 2d6 cold or fire and Knockdown plus Knockdown
 
 **Lunar Burst** ◆◆ (cold, occult) The bul-gae releases a blast of otherworldly frost that deals 6d8 cold damage to each creature in a 10-foot emanation (DC 34 basic Reflex save). On a critical failure, a creature also becomes slowed 2 for 1 round. After using this ability, the bul-gae's flames heat up and they can't use Lunar Burst again until after they've used their Solar Flare reaction.
 

@@ -9,6 +9,8 @@ n, huge, animal
 
 **Skills** Athletics +19
 
+**Recall Knowledge - Animal** (Nature): DC 24
+
 **STR** +7, **DEX** -1, **CON** +7, **INT** -5, **WIS** +2, **CHA** -4
 
 ---
@@ -25,11 +27,11 @@ n, huge, animal
 
 Speed 20 feet, climb 15 feet
 
-**Melee** ◆ radula +21 (reach <15 feet>); **Damage** 2d10+10 slashing plus mucus plus mucus
+**Melee** ◆ radula +21/+16/+11 (reach <15 feet>); **Damage** 2d10+10 slashing plus mucus plus mucus
 
-**Melee** ◆ foot +21 (reach <10 feet>); **Damage** 2d8+10 bludgeoning plus mucus plus mucus
+**Melee** ◆ foot +21/+16/+11 (reach <10 feet>); **Damage** 2d8+10 bludgeoning plus mucus plus mucus
 
-**Ranged** ◆ disgorged mucus +17 (brutal, range increment <50 feet>, splash); **Damage** 3d6 acid damage plus mucus and 1d6 acid splash damage plus mucus
+**Ranged** ◆ disgorged mucus +17/+12/+7 (brutal, range increment <50 feet>, splash); **Damage** 3d6 acid damage plus mucus and 1d6 acid splash damage plus mucus
 
 **Malleable** The giant slug can fit through tight spaces as if it were a Large creature. While Squeezing, it can move at its full Speed. It can Squeeze through spaces that typically fit only a Medium creature, but it does so at the usual Speed for Squeezing.
 

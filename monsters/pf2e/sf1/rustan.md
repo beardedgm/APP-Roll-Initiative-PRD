@@ -11,6 +11,8 @@ unique, le, medium, human, humanoid
 
 **Skills** Athletics +27, Deception +25, Intimidation +27, Performance +25, Religion +23, Society +23
 
+**Recall Knowledge - Humanoid** (Society): DC 42
+
 **STR** +5, **DEX** +1, **CON** +3, **INT** +1, **WIS** +3, **CHA** +5
 
 **Items** +2 greater striking wounding bastard sword, +1 striking composite longbow (20 arrows), +1 resilient full plate, The Fiend|SF1, The Mountain Man|SF1, potions of flying (3), moderate sturdy shield (Hardness 13, HP 104, BT 52), virtuoso musical instrument (lyre)
@@ -30,7 +32,7 @@ unique, le, medium, human, humanoid
 
 Speed 20 feet
 
-**Melee** ◆ bastard sword +29 (magical, two-hand <d12>); **Damage** 3d8+11 slashing plus 1d6 persistent bleed and 1d6 fire
+**Melee** ◆ bastard sword +29/+24/+19 (magical, two-hand <d12>); **Damage** 3d8+11 slashing plus 1d6 persistent bleed and 1d6 fire
 
 **Champion Devotion Spells** (DC 31)
 

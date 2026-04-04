@@ -11,6 +11,8 @@ rare, ne, medium, aberration, time
 
 **Skills** Acrobatics +17, Athletics +15, Occultism +17, Stealth +17, Survival +13
 
+**Recall Knowledge - Aberration** (Occultism): DC 28
+
 **STR** +4, **DEX** +6, **CON** +2, **INT** +6, **WIS** +4, **CHA** +2
 
 ---
@@ -35,9 +37,9 @@ rare, ne, medium, aberration, time
 
 Speed 30 feet, fly 30 feet
 
-**Melee** ◆ jaws +17; **Damage** 2d10+7 piercing
+**Melee** ◆ jaws +17/+12/+7; **Damage** 2d10+7 piercing
 
-**Melee** ◆ claw +17 (agile); **Damage** 2d8+7 slashing
+**Melee** ◆ claw +17/+13/+9 (agile); **Damage** 2d8+7 slashing
 
 **Innate occult Spells** (DC 21)
 

@@ -11,6 +11,8 @@ uncommon, gargantuan, mindless, troop, undead, unholy
 
 **Skills** Athletics +37
 
+**Recall Knowledge - Undead** (Religion): DC 41
+
 **STR** +10, **DEX** +5, **CON** +6, **INT** +5, **WIS** +6, **CHA** +6
 
 **Mounted** When not mounted, the raised cavalry is slowed|PC1|slowed 1.

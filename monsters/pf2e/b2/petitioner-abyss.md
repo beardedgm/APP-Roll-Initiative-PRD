@@ -21,4 +21,4 @@
 
 ---
 
-**Melee** ◆ jaws +7; **Damage** 1d8+2 piercing
+**Melee** ◆ jaws +7/+2/-3; **Damage** 1d8+2 piercing

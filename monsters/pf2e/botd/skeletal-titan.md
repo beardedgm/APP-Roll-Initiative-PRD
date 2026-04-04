@@ -9,6 +9,8 @@ ne, gargantuan, mindless, skeleton, undead
 
 **Skills** Athletics +28
 
+**Recall Knowledge - Undead** (Religion): DC 31
+
 **STR** +9, **DEX** +3, **CON** +4, **INT** -5, **WIS** +2, **CHA** -1
 
 ---
@@ -27,13 +29,13 @@ ne, gargantuan, mindless, skeleton, undead
 
 Speed 40 feet, air walk
 
-**Melee** ◆ mountain sword +26 (reach <20 feet>); **Damage** 3d12+13 bludgeoning
+**Melee** ◆ mountain sword +26/+21/+16 (reach <20 feet>); **Damage** 3d12+13 bludgeoning
 
-**Melee** ◆ claw +26 (agile, reach <15 feet>); **Damage** 3d8+13 bludgeoning
+**Melee** ◆ claw +26/+22/+18 (agile, reach <15 feet>); **Damage** 3d8+13 bludgeoning
 
-**Melee** ◆ foot +26 (reach <15 feet>); **Damage** 3d8+13 bludgeoning
+**Melee** ◆ foot +26/+21/+16 (reach <15 feet>); **Damage** 3d8+13 bludgeoning
 
-**Ranged** ◆ bone +24 (brutal, range increment <60 feet>); **Damage** 2d10+13 plus bone debris
+**Ranged** ◆ bone +24/+19/+14 (brutal, range increment <60 feet>); **Damage** 2d10+13 plus bone debris
 
 **Innate divine Spells** (DC 31)
 

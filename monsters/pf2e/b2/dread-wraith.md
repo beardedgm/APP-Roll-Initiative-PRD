@@ -11,6 +11,8 @@ le, large, incorporeal, undead, wraith
 
 **Skills** Acrobatics +19, Intimidation +21, Stealth +19
 
+**Recall Knowledge - Undead** (Religion): DC 26
+
 **STR** -5, **DEX** +6, **CON** +3, **INT** +3, **WIS** +4, **CHA** +6
 
 ---
@@ -35,7 +37,7 @@ le, large, incorporeal, undead, wraith
 
 Speed fly 60 feet
 
-**Melee** ◆ spectral hand +21 (finesse, reach <10 feet>); **Damage** 2d10+7 negative plus drain life plus drain life
+**Melee** ◆ spectral hand +21/+16/+11 (finesse, reach <10 feet>); **Damage** 2d10+7 negative plus drain life plus drain life
 
 **Absorb Wraith** ◆◆ The dread wraith extends its hand toward another wraith creature within 100 feet. The target wraith dissolves and streaks toward the dread wraith in a straight line, dealing 6d10 negative damage to each creature along the line (DC 28 basic Fortitude save). The dread wraith absorbs the essence of the target wraith, becoming quickened and gaining a +10-foot status bonus to its fly Speed for a number of rounds equal to the level of the absorbed wraith. It can use its extra action only to Fly or Strike. An unwilling target can attempt a DC 28 Will save to resist being absorbed.
 

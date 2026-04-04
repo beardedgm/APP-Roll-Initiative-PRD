@@ -11,6 +11,8 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Arcana +17, Astronomy Lore +21, Cheliax Lore +17, Deception +19, Intimidation +19, Occultism +21, Society +19, Stealth +18
 
+**Recall Knowledge - Spirit** (Religion): DC 36
+
 **STR** -5, **DEX** +3, **CON** +0, **INT** +6, **WIS** +3, **CHA** +4
 
 **Site Bound**
@@ -40,7 +42,7 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ◆ bloody ectoplasmic lash +19 (agile, finesse, magical, reach <10 feet>); **Damage** 2d8+7 negative
+**Melee** ◆ bloody ectoplasmic lash +19/+15/+11 (agile, finesse, magical, reach <10 feet>); **Damage** 2d8+7 negative
 
 **Innate occult Spells** (DC 28), attack +20
 

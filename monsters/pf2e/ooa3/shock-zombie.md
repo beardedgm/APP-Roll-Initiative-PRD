@@ -9,6 +9,8 @@ uncommon, ne, medium, electricity, mindless, undead, zombie
 
 **Skills** Acrobatics +14, Athletics +15
 
+**Recall Knowledge - Undead** (Religion): DC 24
+
 **STR** +5, **DEX** +4, **CON** +2, **INT** -5, **WIS** +2, **CHA** -2
 
 ---
@@ -33,4 +35,4 @@ uncommon, ne, medium, electricity, mindless, undead, zombie
 
 Speed 25 feet
 
-**Melee** ◆ fist +17; **Damage** 2d6+7 bludgeoning plus 1d12 electricity
+**Melee** ◆ fist +17/+12/+7; **Damage** 2d6+7 bludgeoning plus 1d12 electricity

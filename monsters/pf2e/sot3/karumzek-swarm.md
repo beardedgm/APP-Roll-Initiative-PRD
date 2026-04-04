@@ -9,6 +9,8 @@ uncommon, ne, large, aberration, swarm
 
 **Skills** Acrobatics +21, Crafting +23, Nature +19, Religion +21, Stealth +23
 
+**Recall Knowledge - Aberration** (Occultism): DC 30
+
 **STR** +2, **DEX** +5, **CON** +4, **INT** -1, **WIS** +3, **CHA** +0
 
 **Poison Sense** As karumzek.

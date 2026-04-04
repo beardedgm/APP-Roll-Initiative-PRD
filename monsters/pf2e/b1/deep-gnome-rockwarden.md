@@ -11,6 +11,8 @@ n, small, gnome, humanoid
 
 **Skills** Crafting +9, Diplomacy +11, Nature +14, Stealth +9
 
+**Recall Knowledge - Humanoid** (Society): DC 20
+
 **STR** +1, **DEX** +2, **CON** +3, **INT** +0, **WIS** +5, **CHA** +2
 
 **Items** hide armor, pick, primal focus, scroll of nondetection, sling (10 bullets)
@@ -27,9 +29,9 @@ n, small, gnome, humanoid
 
 Speed 15 feet
 
-**Melee** ◆ pick +10 (fatal <d10>); **Damage** 1d6 piercing
+**Melee** ◆ pick +10/+5/+0 (fatal <d10>); **Damage** 1d6 piercing
 
-**Ranged** ◆ sling +11 (propulsive, range increment <50 feet>); **Damage** 1d6 bludgeoning
+**Ranged** ◆ sling +11/+6/+1 (propulsive, range increment <50 feet>); **Damage** 1d6 bludgeoning
 
 **Prepared primal Spells** (DC 24), attack +14
 

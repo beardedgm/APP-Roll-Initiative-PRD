@@ -11,6 +11,8 @@ uncommon, ce, huge, earth, fey, fire
 
 **Skills** Athletics +29, Nature +23, Survival +23
 
+**Recall Knowledge - Fey** (Nature): DC 33
+
 **STR** +8, **DEX** +4, **CON** +6, **INT** +2, **WIS** +4, **CHA** +2
 
 ---
@@ -35,9 +37,9 @@ uncommon, ce, huge, earth, fey, fire
 
 Speed 30 feet, burrow 20 feet, climb 20 feet
 
-**Melee** ◆ fist +27 (reach <15 feet>); **Damage** 3d8+11 bludgeoning plus 2d6 fire
+**Melee** ◆ fist +27/+22/+17 (reach <15 feet>); **Damage** 3d8+11 bludgeoning plus 2d6 fire
 
-**Ranged** ◆ rock +25 (range increment <150 feet>); **Damage** 2d10+11 bludgeoning
+**Ranged** ◆ rock +25/+20/+15 (range increment <150 feet>); **Damage** 2d10+11 bludgeoning
 
 **Innate primal Spells** (DC 31)
 

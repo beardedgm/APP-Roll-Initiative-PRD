@@ -11,6 +11,8 @@ ne, medium, fiend, sahkil
 
 **Skills** Athletics +12, Deception +10, Intimidation +12, Stealth +10
 
+**Recall Knowledge - Fiend** (Religion): DC 19
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** +0, **WIS** +3, **CHA** +2
 
 **Easy to Call** A sahkil's level is considered 2 lower for the purpose of being conjured by the planar binding ritual (and potentially other rituals, at the GM's discretion), but it is always free to attack or leave instead of negotiate unless the primary caster's check is a critical success.
@@ -31,7 +33,7 @@ ne, medium, fiend, sahkil
 
 Speed 30 feet
 
-**Melee** ◆ tusk +12 (deadly <d10>); **Damage** 2d8+6 piercing plus 1d4 evil and nervous consumption plus nervous consumption
+**Melee** ◆ tusk +12/+7/+2 (deadly <d10>); **Damage** 2d8+6 piercing plus 1d4 evil and nervous consumption plus nervous consumption
 
 **Innate divine Spells** (DC 20)
 

@@ -11,6 +11,8 @@ rare, ne, large, daemon, fiend
 
 **Skills** Acrobatics +33, Deception +33, Intimidation +38, Religion +31, Survival +31
 
+**Recall Knowledge - Fiend** (Religion): DC 44
+
 **STR** +5, **DEX** +6, **CON** +7, **INT** +2, **WIS** +4, **CHA** +7
 
 ---
@@ -33,11 +35,11 @@ rare, ne, large, daemon, fiend
 
 Speed 60 feet, fly 60 feet
 
-**Melee** ◆ jaws +36 (evil, magical, reach <10 feet>); **Damage** 4d8+9 piercing plus 1d6 evil, essence drain, and Grab plus essence drain, Grab
+**Melee** ◆ jaws +36/+31/+26 (evil, magical, reach <10 feet>); **Damage** 4d8+9 piercing plus 1d6 evil, essence drain, and Grab plus essence drain, Grab
 
-**Melee** ◆ claw +32 (agile, evil, magical, reach <10 feet>); **Damage** 4d6+9 slashing plus 1d6 evil and essence drain plus essence drain
+**Melee** ◆ claw +32/+28/+24 (agile, evil, magical, reach <10 feet>); **Damage** 4d6+9 slashing plus 1d6 evil and essence drain plus essence drain
 
-**Melee** ◆ tail +32 (evil, magical, reach <15 feet>); **Damage** 4d10+9 bludgeoning plus 1d6 evil and essence drain plus essence drain
+**Melee** ◆ tail +32/+27/+22 (evil, magical, reach <15 feet>); **Damage** 4d10+9 bludgeoning plus 1d6 evil and essence drain plus essence drain
 
 **Innate divine Spells** (DC 41)
 

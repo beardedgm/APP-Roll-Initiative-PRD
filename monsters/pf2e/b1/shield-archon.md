@@ -11,6 +11,8 @@ lg, large, archon, celestial
 
 **Skills** Athletics +21, Diplomacy +19, Intimidation +19, Religion +19, Survival +17
 
+**Recall Knowledge - Celestial** (Religion): DC 27
+
 **STR** +5, **DEX** +1, **CON** +7, **INT** +2, **WIS** +3, **CHA** +3
 
 **Items** +1 full plate
@@ -37,7 +39,7 @@ lg, large, archon, celestial
 
 Speed 30 feet, fly 60 feet
 
-**Melee** ◆ holy striking spear +22 (magical, reach <10 feet>); **Damage** 2d6+10 piercing plus 1d6 good
+**Melee** ◆ holy striking spear +22/+17/+12 (magical, reach <10 feet>); **Damage** 2d6+10 piercing plus 1d6 good
 
 **Innate divine Spells** (DC 27)
 

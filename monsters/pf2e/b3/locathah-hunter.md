@@ -11,6 +11,8 @@ n, medium, amphibious, humanoid, locathah
 
 **Skills** Athletics +11, Diplomacy +5, Nature +7, Stealth +8, Survival +7
 
+**Recall Knowledge - Humanoid** (Society): DC 18
+
 **STR** +4, **DEX** +3, **CON** +0, **INT** +1, **WIS** +2, **CHA** +0
 
 **Items** crossbow (12 fan bolts), longspear, scale mail
@@ -27,9 +29,9 @@ n, medium, amphibious, humanoid, locathah
 
 Speed 10 feet, swim 40 feet, smooth swimmer
 
-**Melee** ◆ longspear +11 (reach <10 feet>); **Damage** 1d8+4 piercing
+**Melee** ◆ longspear +11/+6/+1 (reach <10 feet>); **Damage** 1d8+4 piercing
 
-**Melee** ◆ crossbow +10 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing plus fan bolt plus fan bolt
+**Melee** ◆ crossbow +10/+5/+0 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing plus fan bolt plus fan bolt
 
 **Cooperative Hunting** After the hunter attempts a Strike at a Large or larger target (regardless of success or failure), the next Strike one of the hunter's allies makes against the same target gains a +2 circumstance bonus to the attack roll.
 

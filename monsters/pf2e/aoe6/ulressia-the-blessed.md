@@ -11,6 +11,8 @@ unique, ne, medium, angel, celestial
 
 **Skills** Acrobatics +35, Diplomacy +35, Intimidation +37, Religion +33
 
+**Recall Knowledge - Celestial** (Religion): DC 49
+
 **STR** +10, **DEX** +6, **CON** +7, **INT** +6, **WIS** +6, **CHA** +8
 
 **Items** +3 greater striking warhammer, +1 vorpal dagger
@@ -40,9 +42,9 @@ unique, ne, medium, angel, celestial
 
 Speed 40 feet, fly 75 feet
 
-**Melee** ◆ warhammer +38 (magical, shove); **Damage** 3d8+20 bludgeoning
+**Melee** ◆ warhammer +38/+33/+28 (magical, shove); **Damage** 3d8+20 bludgeoning
 
-**Melee** ◆ dagger +34 (agile, evocation, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+20 piercing
+**Melee** ◆ dagger +34/+30/+26 (agile, evocation, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+20 piercing
 
 **Innate divine Spells** (DC 39), attack +33
 

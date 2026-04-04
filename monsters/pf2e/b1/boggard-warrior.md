@@ -11,6 +11,8 @@ ce, medium, amphibious, boggard, humanoid
 
 **Skills** Athletics +8, Intimidation +5, Stealth +6
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +4, **DEX** +0, **CON** +4, **INT** -1, **WIS** +2, **CHA** +1
 
 **Items** club, javelin (3), studded leather armor
@@ -27,13 +29,13 @@ ce, medium, amphibious, boggard, humanoid
 
 Speed 20 feet, swim 25 feet, swamp stride
 
-**Melee** ◆ club +10; **Damage** 1d6+6 bludgeoning
+**Melee** ◆ club +10/+5/+0; **Damage** 1d6+6 bludgeoning
 
-**Melee** ◆ tongue +10 (reach <10 feet>); plus tongue grab
+**Melee** ◆ tongue +10/+5/+0 (reach <10 feet>); plus tongue grab
 
-**Ranged** ◆ javelin +6 (thrown <30 feet>); **Damage** 1d6+4 piercing
+**Ranged** ◆ javelin +6/+1/-4 (thrown <30 feet>); **Damage** 1d6+4 piercing
 
-**Ranged** ◆ club +6 (thrown <10 feet>); **Damage** 1d6+6 bludgeoning
+**Ranged** ◆ club +6/+1/-4 (thrown <10 feet>); **Damage** 1d6+6 bludgeoning
 
 **Swamp Stride** A boggard scout ignores terrain caused by swamp terrain features.
 

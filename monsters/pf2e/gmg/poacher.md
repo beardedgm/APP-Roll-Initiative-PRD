@@ -11,6 +11,8 @@ ne, medium, human, humanoid
 
 **Skills** Crafting +4, Deception +4, Nature +7, Stealth +8, Survival +7
 
+**Recall Knowledge - Humanoid** (Society): DC 16
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +0, **WIS** +3, **CHA** +0
 
 **Items** club, composite shortbow (20 arrows), padded armor, snare kit
@@ -31,8 +33,8 @@ ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ club +8; **Damage** 1d6+5 bludgeoning
+**Melee** ◆ club +8/+3/-2; **Damage** 1d6+5 bludgeoning
 
-**Ranged** ◆ composite shortbow +10 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+3 piercing
+**Ranged** ◆ composite shortbow +10/+5/+0 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+3 piercing
 
 **Hunt Prey** ◆ (concentrate) The poacher designates a single creature they can see and hear, or one they're Tracking, as their prey. The poacher gains a +2 circumstance bonus to Perception checks to Seek the prey and to Survival checks to Track the prey. The first time the poacher hits the designated prey in a round, they deal an additional 1d8 precision damage. The poacher also ignores the penalty for making ranged attacks within their second range increment. These effects last until the poacher uses Hunt Prey again.

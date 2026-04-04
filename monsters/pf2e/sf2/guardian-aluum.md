@@ -9,6 +9,8 @@ uncommon, n, large, construct, mindless
 
 **Skills** Athletics +26
 
+**Recall Knowledge - Construct** (Arcana, Crafting): DC 33
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** -5, **WIS** +3, **CHA** -5
 
 ---
@@ -31,7 +33,7 @@ uncommon, n, large, construct, mindless
 
 Speed 25 feet
 
-**Melee** ◆ fist +26 (magical); **Damage** 3d12+13 bludgeoning plus paralyzing force
+**Melee** ◆ fist +26/+21/+16 (magical); **Damage** 3d12+13 bludgeoning plus paralyzing force
 
 **Paralyzing Force** (arcane, incapacitation, necromancy) A creature damaged by the aluum's fist Strike must succeed at a DC 33 Fortitude save or become paralyzed for 1 round. On a critical failure, the creature is paralyzed for 1d4 minutes and falls prone.
 

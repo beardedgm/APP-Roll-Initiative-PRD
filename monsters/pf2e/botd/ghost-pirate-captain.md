@@ -11,6 +11,8 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 **Skills** Acrobatics +18, Diplomacy +15, Intimidation +17, Sailing Lore +16
 
+**Recall Knowledge - Spirit** (Religion): DC 24
+
 **STR** -5, **DEX** +6, **CON** +0, **INT** +2, **WIS** +3, **CHA** +5
 
 **Ship Bound** The ghost is typically bound to a vessel, even one damaged beyond repair. They can't venture more than 120 feet away from the ship or site of its wreckage.
@@ -35,9 +37,9 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ◆ ghostly cutlass +20 (forceful, magical, sweep); **Damage** 2d6+11 negative
+**Melee** ◆ ghostly cutlass +20/+15/+10 (forceful, magical, sweep); **Damage** 2d6+11 negative
 
-**Ranged** ◆ ghostly hand crossbow +20 (magical, range increment <60 feet>); **Damage** 2d6+8 negative
+**Ranged** ◆ ghostly hand crossbow +20/+15/+10 (magical, range increment <60 feet>); **Damage** 2d6+8 negative
 
 **Combat Current** ◆◆ The ghost makes a Strike with its cutlass or hand crossbow, then Flies up to half their Speed and makes a Strike with the other attack. If they moved through an enemy when they Flew, that enemy is flat-footed against the second Strike.
 

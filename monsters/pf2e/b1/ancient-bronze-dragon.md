@@ -11,6 +11,8 @@ uncommon, lg, gargantuan, amphibious, dragon, water
 
 **Skills** Acrobatics +28, Arcana +35, Athletics +34, Diplomacy +32, Intimidation +32, Occultism +33, Society +33, Stealth +28
 
+**Recall Knowledge - Dragon** (Arcana): DC 40
+
 **STR** +8, **DEX** +4, **CON** +6, **INT** +7, **WIS** +6, **CHA** +6
 
 ---
@@ -37,11 +39,11 @@ uncommon, lg, gargantuan, amphibious, dragon, water
 
 Speed 60 feet, fly 200 feet, swim 60 feet
 
-**Melee** ◆ jaws +35 (electricity, magical, reach <20 feet>); **Damage** 3d12+16 piercing plus 2d12 electricity
+**Melee** ◆ jaws +35/+30/+25 (electricity, magical, reach <20 feet>); **Damage** 3d12+16 piercing plus 2d12 electricity
 
-**Melee** ◆ claw +35 (agile, magical, reach <15 feet>); **Damage** 3d10+16 slashing
+**Melee** ◆ claw +35/+31/+27 (agile, magical, reach <15 feet>); **Damage** 3d10+16 slashing
 
-**Melee** ◆ tail +33 (magical, reach <20 feet>); **Damage** 2d10+14 bludgeoning
+**Melee** ◆ tail +33/+28/+23 (magical, reach <20 feet>); **Damage** 2d10+14 bludgeoning
 
 **Innate arcane Spells** (DC 40)
 

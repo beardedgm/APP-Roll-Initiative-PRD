@@ -11,6 +11,8 @@ rare, ne, medium, undead
 
 **Skills** Acrobatics +27, Arcana +31, Crafting +29 (can craft magic items), Deception +27, Intimidation +27, Religion +25, Stealth +27, Thievery +27
 
+**Recall Knowledge - Undead** (Religion): DC 39
+
 **STR** +2, **DEX** +6, **CON** +0, **INT** +8, **WIS** +4, **CHA** +6
 
 **Items** scroll of teleport, wand of dispel magic (6th)
@@ -35,7 +37,7 @@ rare, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** ◆ hand +27 (finesse, magical); **Damage** 5d8 negative
+**Melee** ◆ hand +27/+22/+17 (finesse, magical); **Damage** 5d8 negative
 
 **Prepared arcane Spells** (DC 39), attack +31
 

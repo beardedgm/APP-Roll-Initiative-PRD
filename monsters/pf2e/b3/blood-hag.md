@@ -11,6 +11,8 @@ ce, medium, hag, humanoid
 
 **Skills** Acrobatics +15, Athletics +16, Deception +19, Diplomacy +17, Occultism +14, Stealth +17
 
+**Recall Knowledge - Humanoid** (Society): DC 24
+
 **STR** +4, **DEX** +5, **CON** +2, **INT** +2, **WIS** +3, **CHA** +5
 
 **Bloodsense** A blood hag can sense the presence of blood and creatures with blood. She can tell the difference between spilled blood and the blood within a living creature.
@@ -35,11 +37,11 @@ ce, medium, hag, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ claw +18 (agile); **Damage** 2d8+7 slashing plus Grab plus Grab
+**Melee** ◆ claw +18/+14/+10 (agile); **Damage** 2d8+7 slashing plus Grab plus Grab
 
-**Melee** ◆ jaws +18; **Damage** 2d12+7 piercing
+**Melee** ◆ jaws +18/+13/+8; **Damage** 2d12+7 piercing
 
-**Ranged** ◆ firebolt +19 (agile, fire); **Damage** 2d10+8 fire
+**Ranged** ◆ firebolt +19/+15/+11 (agile, fire); **Damage** 2d10+8 fire
 
 **Innate occult Spells** (DC 26)
 

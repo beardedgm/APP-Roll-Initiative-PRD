@@ -9,6 +9,8 @@ n, medium, aberration
 
 **Skills** Athletics +7
 
+**Recall Knowledge - Aberration** (Occultism): DC 18
+
 **STR** +0, **DEX** +3, **CON** +1, **INT** -4, **WIS** +1, **CHA** +0
 
 **Metal Scent** A rust monster can smell metal as a precise sense.
@@ -27,11 +29,11 @@ n, medium, aberration
 
 Speed 35 feet, climb 10 feet
 
-**Melee** ◆ antenna +10 (finesse); plus rust
+**Melee** ◆ antenna +10/+5/+0 (finesse); plus rust
 
-**Melee** ◆ mandibles +8 (finesse); **Damage** 1d10+4 piercing
+**Melee** ◆ mandibles +8/+3/-2 (finesse); **Damage** 1d10+4 piercing
 
-**Melee** ◆ tail +8 (finesse); **Damage** 1d4+2 bludgeoning plus Improved Knockdown plus Improved Knockdown
+**Melee** ◆ tail +8/+3/-2 (finesse); **Damage** 1d4+2 bludgeoning plus Improved Knockdown plus Improved Knockdown
 
 **Antenna Disarm** ◆ The rust monster attempts to Disarm a metal item a creature is holding using its antenna (with the same modifier as an antenna Strike). On a success, the item is subject to the rust monster's rust ability (see below) in addition to the effects of the Disarm, and if the check to Disarm is a critical success, the rust monster drops the item on the ground in its own space.
 

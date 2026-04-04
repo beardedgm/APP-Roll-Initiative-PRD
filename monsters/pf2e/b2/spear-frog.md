@@ -9,6 +9,8 @@ n, tiny, animal
 
 **Skills** Acrobatics +5, Athletics +0
 
+**Recall Knowledge - Animal** (Nature): DC 14
+
 **STR** -2, **DEX** +3, **CON** +1, **INT** -4, **WIS** +2, **CHA** +0
 
 ---
@@ -25,7 +27,7 @@ n, tiny, animal
 
 Speed 20 feet, swim 20 feet, climb 20 feet
 
-**Melee** ◆ jaws +7 (agile, finesse); **Damage** 1d6 piercing plus spear frog venom plus spear frog venom
+**Melee** ◆ jaws +7/+3/-1 (agile, finesse); **Damage** 1d6 piercing plus spear frog venom plus spear frog venom
 
 **Spear Frog Venom** (poison)
 

@@ -9,6 +9,8 @@ uncommon, n, medium, mindless, ooze
 
 **Skills** Athletics +19
 
+**Recall Knowledge - Ooze** (Occultism): DC 25
+
 **STR** +6, **DEX** -3, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 **Chemical Sense** A fuming sludge detects nearby living and undead creatures by their complex chemical compositions, but it can't detect elementals or other creatures composed of a single element.
@@ -33,9 +35,9 @@ uncommon, n, medium, mindless, ooze
 
 Speed 20 feet, climb 20 feet
 
-**Melee** ◆ pseudopod +17; **Damage** 2d10+6 bludgeoning plus 1d8 persistent fire and Grab plus Grab
+**Melee** ◆ pseudopod +17/+12/+7; **Damage** 2d10+6 bludgeoning plus 1d8 persistent fire and Grab plus Grab
 
-**Ranged** ◆ ejected glob +17 (brutal, range increment <20 feet>); **Damage** 3d6+6 bludgeoning plus 1d8 persistent fire and cooling glob plus cooling glob
+**Ranged** ◆ ejected glob +17/+12/+7 (brutal, range increment <20 feet>); **Damage** 3d6+6 bludgeoning plus 1d8 persistent fire and cooling glob plus cooling glob
 
 **Constrict** ◆ 1d8+6 bludgeoning plus 1d8 persistent fire, DC 24
 

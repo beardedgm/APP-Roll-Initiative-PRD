@@ -11,6 +11,8 @@ unique, ne, large, humanoid
 
 **Skills** Alcohol Lore +22, Arcana +20, Athletics +25, Intimidation +22, Nature +23
 
+**Recall Knowledge - Humanoid** (Society): DC 40
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** +4, **WIS** +5, **CHA** +4
 
 **Items**  (10 bolts), jug of rice wine, , 
@@ -27,9 +29,9 @@ unique, ne, large, humanoid
 
 Speed 25 feet
 
-**Melee** ◆ kukri +26 (agile, magical, reach <10 feet>, trip); **Damage** 2d6+13 slashing
+**Melee** ◆ kukri +26/+22/+18 (agile, magical, reach <10 feet>, trip); **Damage** 2d6+13 slashing
 
-**Ranged** ◆ crossbow +23 (magical, range <120 feet>); **Damage** 2d8+6 piercing plus 1d6 fire
+**Ranged** ◆ crossbow +23/+18/+13 (magical, range <120 feet>); **Damage** 2d8+6 piercing plus 1d6 fire
 
 **Command Onidoshi** ◆ (auditory, linguistic) **Frequency** {"unit":"round","number":1}; Gurglegut barks out a command to a single onidoshi|B2 in area D1. That onidoshi can use a reaction to attempt a melee Strike against an adjacent foe.
 

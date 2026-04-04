@@ -11,6 +11,8 @@ rare, cn, medium, human, humanoid
 
 **Skills** Acrobatics +14, Athletics +14, Intimidation +12, Society +10, Stealth +16, Survival +12
 
+**Recall Knowledge - Humanoid** (Society): DC 27
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** +0, **WIS** +0, **CHA** +2
 
 **Items** composite shortbow (20 arrows), hatchets (2), padded armor
@@ -27,11 +29,11 @@ rare, cn, medium, human, humanoid
 
 Speed 30 feet, mobility
 
-**Melee** ◆ hatchet +16 (agile, sweep); **Damage** 1d6+6 slashing
+**Melee** ◆ hatchet +16/+12/+8 (agile, sweep); **Damage** 1d6+6 slashing
 
-**Ranged** ◆ composite shortbow +16 (deadly <d10>, range increment <60 feet>); **Damage** 1d6+8 piercing plus muscle striker plus muscle striker
+**Ranged** ◆ composite shortbow +16/+11/+6 (deadly <d10>, range increment <60 feet>); **Damage** 1d6+8 piercing plus muscle striker plus muscle striker
 
-**Ranged** ◆ hatchet +16 (agile, sweep, thrown <10 feet>); **Damage** 1d6+6 slashing
+**Ranged** ◆ hatchet +16/+12/+8 (agile, sweep, thrown <10 feet>); **Damage** 1d6+6 slashing
 
 **Experienced Ambusher** Striking from concealment doesn't cause the bandit to become observed.
 

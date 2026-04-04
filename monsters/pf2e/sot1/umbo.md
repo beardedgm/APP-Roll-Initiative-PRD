@@ -11,6 +11,8 @@ rare, ne, medium, fungus
 
 **Skills** Stealth +9, Survival +8
 
+**Recall Knowledge - Fungus** (Nature): DC 23
+
 **STR** +3, **DEX** +3, **CON** +4, **INT** -1, **WIS** +2, **CHA** +0
 
 ---
@@ -29,7 +31,7 @@ rare, ne, medium, fungus
 
 Speed 20 feet
 
-**Melee** ◆ fist +11; **Damage** 1d8+3 bludgeoning plus purple pox plus purple pox
+**Melee** ◆ fist +11/+6/+1; **Damage** 1d8+3 bludgeoning plus purple pox plus purple pox
 
 **Emit Spores** ◆ **Frequency** {"unit":"day","number":1}; Umbo expels spores in a 10-foot burst centered on a corner of his own space. This cloud lasts until the start of the myceloid's next turn. Each creature that is in the cloud or enters it is exposed to purple pox.
 

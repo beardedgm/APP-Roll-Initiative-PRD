@@ -11,6 +11,8 @@ ln, medium, aeon, monitor
 
 **Skills** Arcana +16, Intimidation +16, Religion +18, Stealth +15
 
+**Recall Knowledge - Monitor** (Religion): DC 23
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** +3, **WIS** +5, **CHA** +3
 
 **Envisioning** When a theletos conveys information, it does so wordlessly through psychic projections. This acts as telepathy with a range of 100 feet but is understandable to all creatures regardless of whether they have a language. The meaning to non-aeons can be vague and is often mysterious. A theletos can use this ability to communicate flawlessly with any other aeon on the same plane.
@@ -27,9 +29,9 @@ ln, medium, aeon, monitor
 
 Speed 25 feet, fly 25 feet
 
-**Melee** ◆ fist +17 (lawful, magical); **Damage** 2d10+4 bludgeoning plus 1d6 lawful
+**Melee** ◆ fist +17/+12/+7 (lawful, magical); **Damage** 2d10+4 bludgeoning plus 1d6 lawful
 
-**Melee** ◆ tentacle +17 (agile, lawful, magical); **Damage** 2d8+4 slashing plus 1d6 lawful and fate drain plus fate drain
+**Melee** ◆ tentacle +17/+13/+9 (agile, lawful, magical); **Damage** 2d8+4 slashing plus 1d6 lawful and fate drain plus fate drain
 
 **Innate divine Spells** (DC 25), attack +17
 
