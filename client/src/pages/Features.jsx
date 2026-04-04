@@ -54,11 +54,10 @@ export default function Features() {
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">5,700+ Pre-Loaded Monsters</h2>
             <p className="feature-detail__desc">
-              Search, filter, and browse a massive creature database spanning
-              D&amp;D 5e and Pathfinder 2e. Every creature includes a full stat
-              block with clickable dice notation &mdash; click any roll in the
-              stat block to roll it instantly. Create and save your own custom
-              monsters alongside the official sources.
+              Try 20 iconic creatures in the free demo &mdash; from goblins to
+              dragons. Full Access subscribers unlock the complete library of
+              5,700+ monsters spanning D&amp;D 5e and Pathfinder 2e. Every
+              creature includes a full stat block with clickable dice notation.
             </p>
             <p className="feature-detail__sources">
               <strong>D&amp;D 5e sources:</strong> SRD 5.1, SRD 5.2, Level Up:
@@ -71,6 +70,7 @@ export default function Features() {
               Secrets of Magic, and 70+ adventure path bestiaries
             </p>
             <div className="feature-detail__tags">
+              <span className="feature-tag">Free Demo</span>
               <span className="feature-tag">5e &amp; PF2e</span>
               <span className="feature-tag">Full Stat Blocks</span>
               <span className="feature-tag">Clickable Dice</span>
