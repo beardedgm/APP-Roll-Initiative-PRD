@@ -8,10 +8,8 @@ import asyncHandler from '../utils/asyncHandler.js';
 
 const router = Router();
 
-router.use('/api/user-data', requireAuth, requireSubscription);
-
 // ── Get user data (or create empty doc) ────────────────────
-router.get('/api/user-data', asyncHandler(async (req, res) => {
+router.get('/api/user-data', requireAuth, asyncHandler(async (req, res) => {
   let doc = await UserData.findOne({ userId: req.session.userId }).lean();
   if (!doc) {
     doc = await UserData.create({ userId: req.session.userId });
@@ -26,7 +24,7 @@ router.get('/api/user-data', asyncHandler(async (req, res) => {
 }));
 
 // ── Update user data (merge strategy: newest change wins) ──
-router.put('/api/user-data', validate(updateUserDataSchema), asyncHandler(async (req, res) => {
+router.put('/api/user-data', requireSubscription, validate(updateUserDataSchema), asyncHandler(async (req, res) => {
   const { characters, customMonsters, encounterPresets } = req.validated;
 
   // Get or create current server doc
