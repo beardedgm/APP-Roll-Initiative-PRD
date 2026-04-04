@@ -487,6 +487,11 @@ body.marketing {
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
+.features-grid--five {
+  max-width: 1400px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
 .feature-card {
   position: relative;
   padding: 36px 32px;
@@ -569,6 +574,13 @@ body.marketing {
   border-color: rgba(48, 164, 108, 0.25);
 }
 .feature-card--green::after { background: var(--color-accent-green); }
+
+.feature-card--purple .feature-card__icon {
+  color: #bb7fe2;
+  background: rgba(187, 127, 226, 0.1);
+  border-color: rgba(187, 127, 226, 0.25);
+}
+.feature-card--purple::after { background: #bb7fe2; }
 
 /* ── Showcase Section (Built for DMs) ─────────────────────────── */
 .showcase {
