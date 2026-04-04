@@ -1,5 +1,5 @@
-import { useEffect, useRef, useCallback } from 'react';
-import { BookOpen } from 'lucide-react';
+import { useState, useEffect, useRef, useCallback } from 'react';
+import { BookOpen, Code } from 'lucide-react';
 import { marked } from 'marked';
 import DOMPurify from 'dompurify';
 import { useMonster } from '../../api/useMonsters';
@@ -64,6 +64,8 @@ export default function ContentViewer({ onRollDice, onSpellClick }) {  // eslint
 
 function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
   const detailRef = useRef(null);
+  const [showJson, setShowJson] = useState(false);
+  const [jsonCopied, setJsonCopied] = useState(false);
   const openEditMonster = useUIStore(s => s.openEditMonster);
   const storeMonsters = useUserDataStore(s => s.customMonsters);
   const removeCustomMonster = useUserDataStore(s => s.removeCustomMonster);
@@ -165,6 +167,15 @@ function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
           )}
           {monster.isCustom && (
             <button
+              className="btn btn--sm"
+              onClick={() => setShowJson(prev => !prev)}
+              title="View JSON"
+            >
+              <Code size={14} /> JSON
+            </button>
+          )}
+          {monster.isCustom && (
+            <button
               className="btn btn--danger btn--sm"
               onClick={() => {
                 if (window.confirm(`Delete "${monster.name}"? This cannot be undone.`)) {
@@ -177,6 +188,30 @@ function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
           )}
         </div>
       </div>
+      {/* JSON export panel for custom monsters */}
+      {showJson && monster.isCustom && (() => {
+        // Strip internal fields from JSON export
+        const { isCustom: _ic, sourceKey: _sk, source: _src, createdAt: _ca, updatedAt: _ua, slug: _slug, rawMarkdown: _rm, ...exportable } = monster;
+        const jsonStr = JSON.stringify(exportable, null, 2);
+        return (
+          <div className="content-viewer__json-panel">
+            <div className="content-viewer__json-header">
+              <span>Creature JSON</span>
+              <button
+                className="btn btn--sm btn--primary"
+                onClick={() => {
+                  navigator.clipboard.writeText(jsonStr);
+                  setJsonCopied(true);
+                  setTimeout(() => setJsonCopied(false), 2000);
+                }}
+              >
+                {jsonCopied ? 'Copied!' : 'Copy'}
+              </button>
+            </div>
+            <pre className="content-viewer__json-code">{jsonStr}</pre>
+          </div>
+        );
+      })()}
       {/* Content is sanitized via DOMPurify in renderedHtml computation above */}
       <div
         ref={detailRef}
