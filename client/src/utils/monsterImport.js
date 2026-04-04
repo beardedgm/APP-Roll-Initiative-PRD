@@ -46,72 +46,114 @@ export const MONSTER_JSON_TEMPLATE = {
   conditionImmunities: '',
 };
 
-/** Skeleton template for Pathfinder 2e creatures */
+/**
+ * Filled-out template for Pathfinder 2e creatures.
+ * Based on how a Young Green Dragon would look — shows all sections in use.
+ * Users can modify this to create their own custom creatures.
+ */
 export const PF2E_MONSTER_JSON_TEMPLATE = {
-  name: 'Custom Creature',
-  level: 3,
-  traits: ['N', 'Medium', 'Beast'],
-  perception: {
-    std: 10,
-    senses: [{ name: 'darkvision' }, { name: 'scent', range: 30, type: 'imprecise' }],
+  '_instructions': 'Fill out this template to create a custom PF2e creature. Delete any fields you do not need. The _instructions and _comment fields are ignored by the importer.',
+
+  'name': 'Shadowfang Worg',
+  'level': 4,
+
+  '_comment_traits': 'Traits: Include alignment (N, NG, NE, CG, CE, LG, LE, LN, CN), size (Tiny/Small/Medium/Large/Huge/Gargantuan), rarity if not Common (Uncommon/Rare/Unique), and creature type traits.',
+  'traits': ['NE', 'Medium', 'Beast', 'Shadow'],
+
+  'perception': {
+    'std': 12,
+    'senses': [
+      { 'name': 'darkvision' },
+      { 'name': 'scent', 'range': 30, 'type': 'imprecise' }
+    ]
   },
-  languages: {
-    languages: [{ name: 'Common' }],
+
+  'languages': {
+    'languages': [
+      { 'name': 'Common' },
+      { 'name': 'Shadowtongue' }
+    ]
   },
-  skills: [
-    { name: 'Athletics', std: 11 },
-    { name: 'Stealth', std: 9 },
+
+  'skills': [
+    { 'name': 'Athletics', 'std': 12 },
+    { 'name': 'Intimidation', 'std': 11 },
+    { 'name': 'Stealth', 'std': 13 },
+    { 'name': 'Survival', 'std': 10 }
   ],
-  abilityMods: {
-    '_comment': 'PF2e uses modifiers (-5 to +10), not ability scores',
-    str: 4, dex: 2, con: 3, int: -4, wis: 1, cha: -2,
+
+  '_comment_abilityMods': 'PF2e uses ability MODIFIERS (-5 to +10), not scores. These are the +/- values, not 1-30.',
+  'abilityMods': {
+    'str': 4, 'dex': 3, 'con': 3, 'int': -2, 'wis': 2, 'cha': 1
   },
-  defenses: {
-    ac: { std: 19 },
-    savingThrows: {
-      fort: { std: 12 },
-      ref: { std: 9 },
-      will: { std: 7 },
+
+  'defenses': {
+    'ac': { 'std': 21 },
+    'savingThrows': {
+      'fort': { 'std': 13 },
+      'ref': { 'std': 11 },
+      'will': { 'std': 9 }
     },
-    hp: [{ hp: 52 }],
-    immunities: [],
-    resistances: [],
-    weaknesses: [{ name: 'fire', amount: 5 }],
+    'hp': [{ 'hp': 65 }],
+    'immunities': [],
+    'resistances': [{ 'name': 'cold', 'amount': 5 }],
+    'weaknesses': [{ 'name': 'fire', 'amount': 5 }]
   },
-  speed: { walk: 30, climb: 20 },
-  attacks: [
+
+  'speed': { 'walk': 35 },
+
+  'attacks': [
     {
-      range: 'Melee',
-      name: 'jaws',
-      attack: 12,
-      traits: ['reach <10 feet>'],
-      damage: '1d10+4 piercing',
+      'range': 'Melee',
+      'name': 'jaws',
+      'attack': 14,
+      'traits': [],
+      'damage': '2d8+4 piercing'
     },
     {
-      range: 'Melee',
-      name: 'claw',
-      attack: 12,
-      traits: ['agile'],
-      damage: '1d8+4 slashing',
-    },
+      '_comment': 'Agile weapons use reduced Multiple Attack Penalty: -4/-8 instead of -5/-10',
+      'range': 'Melee',
+      'name': 'claw',
+      'attack': 14,
+      'traits': ['agile'],
+      'damage': '1d8+4 slashing'
+    }
   ],
-  spellcasting: [],
-  abilities: {
-    '_comment_top': 'TOP: Passive abilities and auras that appear BEFORE defenses (e.g., Frightful Presence, At-Will spells, interaction abilities)',
-    top: [
-      { name: 'Keen Scent', entries: ['The creature can smell creatures within 60 feet as a precise sense.'] },
-    ],
-    '_comment_mid': 'MID: Reactive/defensive abilities that appear BETWEEN defenses and offense (e.g., Attack of Opportunity, Shield Block, Ferocity)',
-    mid: [],
-    '_comment_bot': 'BOT: Offensive actions the creature takes on its turn, AFTER attacks (e.g., Breath Weapon, Pounce, special multi-action activities)',
-    bot: [
+
+  'spellcasting': [],
+
+  'abilities': {
+    '_comment_top': 'TOP abilities appear BEFORE the AC/Saves/HP block. Use for: passive auras, always-on effects, and interaction abilities like Frightful Presence.',
+    'top': [
       {
-        name: 'Pounce',
-        activity: { unit: 'action', number: 1 },
-        entries: ['The creature Strides and makes a Strike at the end of that movement.'],
-      },
+        'name': 'Shadow Camouflage',
+        'entries': ['The shadowfang worg gains a +2 circumstance bonus to Stealth checks in dim light or darkness.']
+      }
     ],
-  },
+
+    '_comment_mid': 'MID abilities appear BETWEEN defenses and offense. Use for: reactions, defensive triggers, and abilities like Attack of Opportunity, Shield Block, or Ferocity.',
+    'mid': [
+      {
+        'name': 'Reactive Bite',
+        'activity': { 'unit': 'reaction', 'number': 1 },
+        'trigger': 'A creature within reach of the worg\'s jaws attempts to move away',
+        'entries': ['The worg makes a jaws Strike against the triggering creature.']
+      }
+    ],
+
+    '_comment_bot': 'BOT abilities appear AFTER attacks and spells. Use for: special attack actions, breath weapons, multi-action activities like Draconic Frenzy or Pounce.',
+    'bot': [
+      {
+        'name': 'Shadow Pounce',
+        'activity': { 'unit': 'action', 'number': 2 },
+        'entries': ['The worg Strides twice. If it ends its movement within melee reach of a creature, it can make a jaws Strike against that creature. If the worg is in dim light or darkness, this Strike deals an additional 1d6 cold damage.']
+      },
+      {
+        'name': 'Pack Attack',
+        'entries': ['The worg\'s Strikes deal an additional 1d6 damage to creatures within reach of at least one of the worg\'s allies.']
+      }
+    ]
+  }
 };
 
 /**
