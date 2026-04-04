@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Swords, Undo2, Redo2, Monitor, Share2, Trash2, User, LogIn } from 'lucide-react';
+import { Swords, Undo2, Redo2, Monitor, Share2, Trash2, User, LogIn, HelpCircle } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import useCombatStore from '../../store/useCombatStore';
 import { useShallow } from 'zustand/react/shallow';
@@ -63,6 +63,10 @@ export default function TrackerHeader() {
         )}
         <button className="btn btn--icon btn--icon-danger" onClick={handleReset} title="Reset encounter">
           <Trash2 size={16} />
+        </button>
+
+        <button className="btn btn--icon" onClick={() => navigate('/help')} title="Help">
+          <HelpCircle size={16} />
         </button>
 
         <span className="header-divider" />
