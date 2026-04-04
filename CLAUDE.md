@@ -27,7 +27,7 @@ This file describes the architecture, conventions, and rules for this codebase. 
 | Email | Resend + HTML template literals |
 | Hosting | Render (single service — Express serves the built React SPA) |
 | Error tracking | Sentry |
-| Analytics | PostHog |
+| Analytics | PostHog + Google Analytics |
 | Icons | Lucide React |
 | CI/CD | GitHub Actions |
 
@@ -46,7 +46,7 @@ This file describes the architecture, conventions, and rules for this codebase. 
 │       │   ├── monsters/       # MonsterFormModal, ImportMonsterModal
 │       │   ├── payments/
 │       │   ├── player/         # PlayerViewLayout, PlayerDiceToast, InitiativeItem
-│       │   ├── tracker/        # LeftPanel, CreatureList, SpellList, ContentViewer, RightPanel, DiceRoller, etc.
+│       │   ├── tracker/        # LeftPanel, CreatureList, SpellList, ContentViewer, RightPanel, DiceRoller, ShareLinkModal, etc.
 │       │   └── ui/
 │       ├── constants/          # monsterSources.js, pf2eSources.js, spellSources.js
 │       ├── pages/
@@ -61,7 +61,7 @@ This file describes the architecture, conventions, and rules for this codebase. 
 │   ├── pf2eTagStripper.js      # Strip {@tag} template markup to plain text
 │   └── *.test.js               # Node.js built-in test runner tests
 ├── server/
-│   ├── config/                 # DB, session, logger, Stripe, Resend, Turnstile, Sentry, pf2eSourceLabels
+│   ├── config/                 # DB, session, logger, Stripe, Resend, Turnstile, Sentry, pf2eSourceLabels, demoMonsters
 │   ├── models/                 # User, Encounter, Monster, Spell, UserData, LoginAttempt, EmailToken, ProcessedEvent
 │   ├── validators/             # Zod schemas (auth, encounters, monsters, userData)
 │   ├── middleware/             # requireAuth, requireOwner, requireSubscription, requireCsrf, validate, rateLimitAuth, rateLimitGeneral, verifyTurnstile, errorHandler
@@ -195,6 +195,23 @@ Express serves `client/dist` as static files in production. There is no separate
 - `SpellList` remounts on system toggle via `key={gameSystem}` to reset filter state.
 - Filters are config-driven from `shared/gameSystemConfig.js` — no hardcoded `isPf2e` ternaries.
 
+### Pricing Tiers (Demo + Full Access)
+- **Demo (free)**: 20 curated demo monsters (10 from 5e SRD 5.1, 10 from PF2e Bestiary 1), all spells, dice roller, local player view, localStorage persistence. No custom monsters, no character library, no cloud saves, no share links.
+- **Full Access ($6/mo)**: All 5,700+ monsters, custom monster creation/import, character library, cloud encounter saves, cross-device sync, shareable player view links, encounter dashboard.
+- **Server-side enforcement**: `server/config/demoMonsters.js` exports `DEMO_SLUGS` Set. `hasFullAccess(req)` helper in `server/routes/monsters.js` checks session for `owner` role or `active` subscription. Non-subscribers get `filter.slug = { $in: [...DEMO_SLUGS] }` on search, 403 on non-demo slug access, and filtered sources.
+- **Client-side gating**: `CreatureList` hides Create/Import buttons and Custom source filter for non-subscribers. `LeftPanel` gates Characters and Encounters tabs behind `SubscriptionGate`.
+- **Access check pattern** (used in both server routes and client components):
+  ```js
+  const hasFullAccess = user && (user.subscriptionStatus === 'active' || user.role === 'owner');
+  ```
+- **User data routes**: GET `/api/user-data` requires auth only (free users can read). PUT requires subscription (free users can't sync custom data).
+
+### Shareable Player View Links
+- `ShareLinkModal` in tracker header — generates, copies, and revokes share codes.
+- Backend: `POST /api/encounters/:id/share` generates 8-char hex code, `DELETE /api/encounters/:id/share` revokes it.
+- Player view: `/play/:code` route polls every 2 seconds via `useSharedEncounter(code)`. HP values stripped for security.
+- Premium-only: gated by `SubscriptionGate` in the modal. Requires `cloudId` (cloud-saved encounter).
+
 ### Tracker Layout (Left/Right Panel Architecture)
 - Left panel: 4 tabs — Creatures, Spells, Characters, Encounters. Each tab has a `SystemToggle` for 5E/PF2E.
 - Right panel: Collapsible dice roller (persistent header bar) + `ContentViewer` for stat blocks and spell descriptions.
@@ -228,9 +245,10 @@ Express serves `client/dist` as static files in production. There is no separate
 
 ### API Routes
 - All API routes prefixed with `/api/`
-- Public: `/api/auth/*`, `/api/monsters/*`, `/api/spells/*`, `/api/health`, `/api/shared/:code`
-- Authenticated: `/api/billing/*`
-- Subscription-gated: `/api/encounters/*`, `/api/user-data/*` (owners bypass)
+- Public: `/api/auth/*`, `/api/spells/*`, `/api/health`, `/api/shared/:code`
+- Demo-filtered (public but limited): `/api/monsters/*` — non-subscribers see only 20 demo monsters via `hasFullAccess` check
+- Authenticated: `/api/billing/*`, `GET /api/user-data` (read-only for free users)
+- Subscription-gated: `/api/encounters/*`, `PUT /api/user-data` (owners bypass)
 - Owner-only: `/api/admin/*` (gated by `requireOwner` middleware)
 - Stripe webhooks: `/api/billing/webhook` (raw body parser, no session/CSRF middleware)
 - Sitemap/robots.txt mounted before the SPA catch-all
@@ -266,7 +284,7 @@ These are mandatory for every code change. No exceptions.
 1. **Never push directly to `main`.** Always create a feature branch, push it, and open a PR.
 2. **Run lint before every PR.** Server: `cd server && npx eslint .` Client: `cd client && npm run lint` and `cd client && npx vite build`. All must pass with zero errors.
 3. **One PR per logical change.** Group related commits into a single PR with a clear title and description.
-4. **Re-seed after markdown changes.** If any `monsters/` or `spells/` markdown files change, or if `shared/pf2eMarkdownRenderer.js` or `shared/pf2eSpellRenderer.js` change, re-run the converter (if PF2e) and `npm run seed:monsters` / `npm run seed:spells` against the production database.
+4. **Auto-seed on deploy.** `render.yaml` runs `npm run seed:monsters` and `npm run seed:spells` as part of the build command. Production re-seeds automatically on every deploy. For local development, run seed commands manually after markdown changes.
 5. **Branch naming:** `feat/`, `fix/`, `style/`, `docs/` prefixes matching the change type.
 
 ---
@@ -298,6 +316,8 @@ These are non-negotiable. Do not deviate from them.
 - **Seeding env var**: The seed scripts use `MONGO_URI` (not `MONGODB_URI`). They read `.env` from `../.env` relative to `server/`. If running from a worktree, ensure the `.env` is in the worktree root.
 - **Zustand v5 subscribe**: The 3-argument `subscribe(selector, listener, options)` form requires `subscribeWithSelector` middleware. Without it, callbacks silently never fire. Use the 1-argument `subscribe(listener)` form with manual reference tracking instead.
 - **ContentViewer event delegation + async data**: The `useEffect` that attaches click handlers for dice and spell links must include the computed `renderedHtml` in its dependency array. When spell names load asynchronously, the HTML re-renders but the effect won't re-run unless `renderedHtml` (computed before the effect) is a dependency. Without this, dice clicks silently stop working.
+- **PF2e import template `_comment` fields**: The PF2e JSON import template uses `_comment_*` keys (e.g., `_comment_top`, `_comment_traits`) as inline documentation for users. The parser ignores these — it only reads the actual data fields. Do not remove them from the template.
+- **Demo monster slugs**: If the 20 demo slugs in `server/config/demoMonsters.js` are changed, the corresponding markdown files must exist in `monsters/5e/` and `monsters/pf2e/`. Verify slugs match actual filenames before changing the allowlist.
 
 ---
 
@@ -316,7 +336,7 @@ These are non-negotiable. Do not deviate from them.
 
 When building features beyond the boilerplate:
 
-1. Add routes under `/api/app/*` gated by `requireAuth` + `requireSubscription`.
+1. Add routes gated by `requireAuth` + `requireSubscription` (or use `hasFullAccess` pattern for public routes with tiered access).
 2. Add new Mongoose models to `server/models/`.
 3. Add Zod validators to `server/validators/`.
 4. Add TanStack Query hooks to `client/src/api/`.
