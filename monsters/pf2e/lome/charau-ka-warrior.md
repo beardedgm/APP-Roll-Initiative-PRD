@@ -5,9 +5,11 @@ ne, small, charau-ka, humanoid
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision, scent 30 feet (imprecise)
 
 **Languages** draconic, mwangi
+
+**Skills** Athletics +6, Religion +4, Stealth +6
 
 **STR** +3, **DEX** +3, **CON** +2, **INT** -1, **WIS** +1, **CHA** +0
 
@@ -25,17 +27,17 @@ ne, small, charau-ka, humanoid
 
 Speed 25 feet, climb 25 feet
 
-**Melee** hatchet +7 (agile, sweep); **Damage** 1d6+3 slashing
+**Melee** ◆ hatchet +7 (agile, sweep); **Damage** 1d6+3 slashing
 
-**Melee** dagger +7 (agile, finesse, versatile <S>); **Damage** 1d4+3 piercing
+**Melee** ◆ dagger +7 (agile, finesse, versatile <S>); **Damage** 1d4+3 piercing
 
-**Melee** fist +7 (agile, nonlethal); **Damage** 1d4+3 bludgeoning
+**Melee** ◆ fist +7 (agile, nonlethal); **Damage** 1d4+3 bludgeoning
 
-**Melee** hatchet +7 (agile, deadly <d6>, sweep, thrown <10 feet>); **Damage** 1d6+3 slashing
+**Ranged** ◆ hatchet +7 (agile, deadly <d6>, sweep, thrown <10 feet>); **Damage** 1d6+3 slashing
 
-**Melee** dagger +7 (agile, deadly <d6>, thrown <10 feet>, versatile <S>); **Damage** 1d4+3 piercing
+**Ranged** ◆ dagger +7 (agile, deadly <d6>, thrown <10 feet>, versatile <S>); **Damage** 1d4+3 piercing
 
-**Melee** thrown debris +7 (deadly <d6>, thrown <20 feet>); **Damage** 1d6+3 bludgeoning
+**Ranged** ◆ thrown debris +7 (deadly <d6>, thrown <20 feet>); **Damage** 1d6+3 bludgeoning
 
 **Shrieking Frenzy** ◇ (primal, transmutation) **Trigger** The charau-ka's turn begins; **Frequency** {"unit":"hour","number":1}; The charau-ka is quickened until the end of their turn and can use the extra action only to Stride or Strike. While in the frenzy, the charau-ka can't speak and automatically critically fails Stealth checks, due to their loud wailing.
 

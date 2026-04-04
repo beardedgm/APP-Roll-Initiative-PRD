@@ -5,9 +5,11 @@ uncommon, n, huge, air, dragon, elemental
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, mist vision, scent 60 feet (imprecise)
 
 **Languages** auran, common, draconic, jotun
+
+**Skills** Acrobatics +23, Athletics +28, Deception +26, Diplomacy +26, Intimidation +28, Nature +24, Survival +26
 
 **STR** +7, **DEX** +3, **CON** +5, **INT** +4, **WIS** +6, **CHA** +6
 
@@ -29,19 +31,19 @@ uncommon, n, huge, air, dragon, elemental
 
 ---
 
-Speed 50 feet, fly 160 feet
+Speed 50 feet, fly 160 feet, cloud walk
 
-**Melee** jaws +29 (electricity, magical, reach <15 feet>); **Damage** 3d10+15 piercing plus 2d12 electricity
+**Melee** ◆ jaws +29 (electricity, magical, reach <15 feet>); **Damage** 3d10+15 piercing plus 2d12 electricity
 
-**Melee** claw +29 (agile, magical, reach <10 feet>); **Damage** 3d10+15 slashing
+**Melee** ◆ claw +29 (agile, magical, reach <10 feet>); **Damage** 3d10+15 slashing
 
-**Melee** tail +27 (magical, reach <20 feet>); **Damage** 3d12+15 bludgeoning
+**Melee** ◆ tail +27 (magical, reach <20 feet>); **Damage** 3d12+15 bludgeoning
 
-**Melee** horn +27 (deadly <d10>, magical, reach <15 feet>); **Damage** 2d12+13 piercing
+**Melee** ◆ horn +27 (deadly <d10>, magical, reach <15 feet>); **Damage** 2d12+13 piercing
 
 **Innate primal Spells** (DC 36)
 
-  **2nd** gust of wind, obscuring mist
+  **2nd** gust of wind (at will), obscuring mist
 
   **3rd** wall of wind
 

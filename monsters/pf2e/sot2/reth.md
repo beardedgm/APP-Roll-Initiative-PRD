@@ -9,6 +9,8 @@ unique, ne, medium, humanoid, lizardfolk
 
 **Languages** common, draconic, iruxi
 
+**Skills** Acrobatics +15, Intimidation +15, Society +12, Stealth +15, Survival +13, Thievery +15
+
 **STR** +3, **DEX** +4, **CON** +1, **INT** +1, **WIS** +2, **CHA** +2
 
 **Items** +1 hand crossbow (10 bolts), keyring, leather armor, thieves' tools
@@ -25,11 +27,11 @@ unique, ne, medium, humanoid, lizardfolk
 
 Speed 25 feet, swim 15 feet
 
-**Melee** jaws +16; **Damage** 1d6+5 piercing
+**Melee** ◆ jaws +16; **Damage** 1d6+5 piercing
 
-**Melee** tail +16 (agile); **Damage** 1d4+5 bludgeoning
+**Melee** ◆ tail +16 (agile); **Damage** 1d4+5 bludgeoning
 
-**Melee** hand crossbow +16 (magical, range increment <60 feet>, reload <1>); **Damage** 1d6+2 piercing plus 3d8 precision
+**Ranged** ◆ hand crossbow +16 (magical, range increment <60 feet>, reload <1>); **Damage** 1d6+2 piercing plus 3d8 precision
 
 **Deadly Bolts** ◆ (stance) **Requirements** Reth is wielding a crossbow; Reth gains a deadly focus with crossbows while in this stance. His crossbow Strikes deal an additional 3d8 precision damage. He doesn't provoke reactions for making ranged Strikes with crossbows.
 

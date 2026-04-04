@@ -5,7 +5,9 @@ n, tiny, animal, aquatic
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision, wavesense 30 feet (imprecise)
+
+**Skills** Athletics +4, Stealth +5, Survival +4
 
 **STR** +1, **DEX** +3, **CON** +2, **INT** -5, **WIS** +2, **CHA** +0
 
@@ -23,6 +25,6 @@ n, tiny, animal, aquatic
 
 Speed swim 25 feet
 
-**Melee** gnathobase +7 (agile, finesse); **Damage** 1d4+1 slashing
+**Melee** ◆ gnathobase +7 (agile, finesse); **Damage** 1d4+1 slashing
 
 **Quick Escape** ◆◆ The trilobite swims up to double its.

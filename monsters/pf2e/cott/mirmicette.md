@@ -5,9 +5,11 @@ uncommon, small, fey
 
 ---
 
-**Perception** +16
+**Perception** +16; low-light vision
 
 **Languages** common, fey
+
+**Skills** Acrobatics +12, Crafting +15, Deception +12, Diplomacy +11, Intimidation +11, Stealth +13, Thievery +15
 
 **STR** +1, **DEX** +5, **CON** +1, **INT** +3, **WIS** +3, **CHA** +4
 
@@ -25,7 +27,7 @@ uncommon, small, fey
 
 Speed 30 feet
 
-**Melee** claw +16 (agile, finesse); **Damage** 2d4+7 slashing
+**Melee** ◆ claw +16 (agile, finesse); **Damage** 2d4+7 slashing
 
 **Innate occult Spells** (DC 24), attack +16
 

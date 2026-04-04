@@ -5,9 +5,11 @@ uncommon, ne, medium, aberration, amphibious
 
 ---
 
-**Perception** +24
+**Perception** +24; greater darkvision, host scent 30 feet
 
 **Languages** aklo
+
+**Skills** Acrobatics +22, Athletics +24, Nature +22, Survival +22
 
 **STR** +7, **DEX** +5, **CON** +7, **INT** +3, **WIS** +7, **CHA** +5
 
@@ -27,17 +29,19 @@ uncommon, ne, medium, aberration, amphibious
 
 ---
 
-Speed 25 feet, swim 25 feet
+Speed 25 feet, swim 25 feet, swamp stride
 
-**Melee** tentacle +22 (agile, reach <10 feet>); **Damage** 2d12+11 bludgeoning plus isqulugia plus isqulugia
+**Melee** ◆ tentacle +22 (agile, reach <10 feet>); **Damage** 2d12+11 bludgeoning plus isqulugia plus isqulugia
 
 **Innate primal Spells** (DC 30), attack +22
+
+  **Constant (1st)** pass without trace
 
   **Cantrips (5th)** dancing lights
 
   **4th** fly
 
-  **5th** control water, entangle, hallucinatory terrain, obscuring mist
+  **5th** control water, entangle (at will), hallucinatory terrain, obscuring mist (at will)
 
   **6th** tangling creepers
 

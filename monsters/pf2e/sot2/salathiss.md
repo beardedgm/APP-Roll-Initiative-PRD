@@ -5,9 +5,11 @@ unique, ne, medium, humanoid, mutant, serpentfolk
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision, scent 30 feet (imprecise)
 
-**Languages** aklo, common, draconic, undercommon
+**Languages** aklo, common, draconic, undercommon; telepathy 100 feet
+
+**Skills** Arcana +18, Deception +21, Diplomacy +19, Intimidation +19, Occultism +18, Society +18, Stealth +18
 
 **STR** +4, **DEX** +3, **CON** +2, **INT** +5, **WIS** +4, **CHA** +6
 
@@ -27,9 +29,9 @@ unique, ne, medium, humanoid, mutant, serpentfolk
 
 Speed 25 feet
 
-**Melee** fangs +19; **Damage** 2d8+8 piercing plus serpentfolk venom plus serpentfolk venom
+**Melee** ◆ fangs +19; **Damage** 2d8+8 piercing plus serpentfolk venom plus serpentfolk venom
 
-**Melee** morphic weapon +20 (magical, reach <10 feet>, sweep, versatile <P>); **Damage** 3d10+8 slashing
+**Melee** ◆ morphic weapon +20 (magical, reach <10 feet>, sweep, versatile <P>); **Damage** 3d10+8 slashing
 
 **Prepared arcane Spells** (DC 28), attack +20
 
@@ -47,11 +49,11 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 28)
 
-  **1st** ventriloquism
+  **1st** ventriloquism (at will)
 
-  **2nd** mirror image
+  **2nd** mirror image (at will)
 
-  **3rd** illusory disguise
+  **3rd** illusory disguise (at will)
 
   **4th** suggestion
 

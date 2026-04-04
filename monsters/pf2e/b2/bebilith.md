@@ -5,9 +5,11 @@ ce, huge, beast, fiend
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, scent 30 feet (imprecise), scent demons 60 feet
 
-**Languages** abyssal (can't speak any language)
+**Languages** abyssal (can't speak any language); telepathy 100 feet
+
+**Skills** Acrobatics +19, Athletics +23, Intimidation +21, Stealth +19
 
 **STR** +7, **DEX** +3, **CON** +6, **INT** +3, **WIS** +5, **CHA** +5
 
@@ -29,11 +31,11 @@ ce, huge, beast, fiend
 
 Speed 35 feet, climb 15 feet
 
-**Melee** jaws +23 (magical, reach <10 feet>); **Damage** 2d10+13 piercing plus
+**Melee** ◆ jaws +23 (magical, reach <10 feet>); **Damage** 2d10+13 piercing plus
 
-**Melee** claw +23 (agile, magical, reach <15 feet>); **Damage** 2d8+13 slashing
+**Melee** ◆ claw +23 (agile, magical, reach <15 feet>); **Damage** 2d8+13 slashing
 
-**Melee** web +23 (range increment <60 feet>); plus dimensional tether
+**Ranged** ◆ web +23 (range increment <60 feet>); plus dimensional tether
 
 **Innate divine Spells** (DC 29)
 

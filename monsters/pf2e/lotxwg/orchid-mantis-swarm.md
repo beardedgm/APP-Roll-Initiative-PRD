@@ -5,7 +5,9 @@ large, animal, swarm
 
 ---
 
-**Perception** +12
+**Perception** +12; {@ability low-light vision}
+
+**Skills** Stealth +16
 
 **STR** -2, **DEX** +4, **CON** +1, **INT** -5, **WIS** +2, **CHA** -4
 

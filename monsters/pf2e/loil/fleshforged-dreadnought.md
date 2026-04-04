@@ -5,7 +5,9 @@ rare, n, gargantuan, construct, mindless
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision
+
+**Skills** Athletics +38
 
 **STR** +10, **DEX** +6, **CON** +9, **INT** -5, **WIS** +5, **CHA** -5
 
@@ -29,11 +31,11 @@ rare, n, gargantuan, construct, mindless
 
 Speed 30 feet
 
-**Melee** battering ram +35 (reach <15 feet>); **Damage** 7d8+10 bludgeoning plus Improved Push 15 feet
+**Melee** ◆ battering ram +35 (reach <15 feet>); **Damage** 7d8+10 bludgeoning plus Improved Push 15 feet
 
-**Melee** claw +35 (agile, reach <10 feet>); **Damage** 4d8+18 slashing
+**Melee** ◆ claw +35 (agile, reach <10 feet>); **Damage** 4d8+18 slashing
 
-**Melee** ballista +33 (range increment <120 feet>); **Damage** 4d12+8 piercing
+**Ranged** ◆ ballista +33 (range increment <120 feet>); **Damage** 4d12+8 piercing
 
 **Destructive Charge** ◆◆ The fleshforged dreadnought Strides up to twice its speed and makes a battering ram Strike against a structure or unattended object. The Strike ignores 20 points of the target's Hardness.
 

@@ -5,9 +5,11 @@ uncommon, le, medium, undead, wight
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** common, necril
+
+**Skills** Athletics +12, Intimidation +11, Religion +9, Stealth +12
 
 **STR** +4, **DEX** +2, **CON** +4, **INT** +1, **WIS** +3, **CHA** +3
 
@@ -29,9 +31,9 @@ uncommon, le, medium, undead, wight
 
 Speed 25 feet
 
-**Melee** longsword +14 (versatile <P>); **Damage** 1d8+7 slashing plus drain life plus drain life
+**Melee** ◆ longsword +14 (versatile <P>); **Damage** 1d8+7 slashing plus drain life plus drain life
 
-**Melee** claw +14 (agile); **Damage** 1d6+7 slashing plus drain life plus drain life
+**Melee** ◆ claw +14 (agile); **Damage** 1d6+7 slashing plus drain life plus drain life
 
 **Cairn Wight Spawn** (divine, necromancy) A living humanoid slain by a cairn wight's weapon or claw Strike rises as a spawned wight after 1d4 rounds. This spawned wight is under the command of the cairn wight that killed it. It doesn't have drain life or cairn wight spawn and is clumsy 2 for as long as it is a spawned wight. If its creator dies, the spawned wight becomes a full-fledged, autonomous cairn wight; it regains its free will, gains drain life and cairn wight spawn, and is no longer clumsy.
 

@@ -5,9 +5,11 @@ uncommon, ce, medium, undead, vampire
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision
 
 **Languages** common, necril
+
+**Skills** Acrobatics +17, Arcana +21, Athletics +16, Deception +20, Diplomacy +20, Intimidation +22, Society +19, Stealth +19
 
 **STR** +3, **DEX** +4, **CON** +1, **INT** +6, **WIS** +4, **CHA** +5
 
@@ -25,7 +27,7 @@ uncommon, ce, medium, undead, vampire
 
 **Immunities** poison, death effects, disease, paralyze, sleep
 
-**Resistances** physical 10
+**Resistances** physical 10 (except magical silver)
 
 **Weaknesses** vampire weaknesses
 
@@ -35,13 +37,13 @@ uncommon, ce, medium, undead, vampire
 
 Speed 25 feet, climb 25 feet
 
-**Melee** claw +18 (agile); **Damage** 2d8+9 slashing plus Grab plus Grab
+**Melee** ◆ claw +18 (agile); **Damage** 2d8+9 slashing plus Grab plus Grab
 
 **Prepared arcane Spells** (DC 29), attack +19
 
   **Cantrips (4th)** detect magic, mage hand, message, ray of frost, sigil
 
-  **1st** color spray, fleet step, ray of enfeeblement
+  **1st** color spray (×2), fleet step, ray of enfeeblement
 
   **2nd** flaming sphere, invisibility, mirror image, touch of idiocy
 

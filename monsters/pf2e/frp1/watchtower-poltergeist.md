@@ -5,9 +5,11 @@ unique, le, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision
 
 **Languages** tien
+
+**Skills** Acrobatics +29, Intimidation +30, Stealth +29
 
 **STR** -5, **DEX** +8, **CON** +2, **INT** -1, **WIS** +4, **CHA** +7
 
@@ -33,13 +35,13 @@ unique, le, medium, incorporeal, spirit, undead
 
 Speed fly 20 feet
 
-**Melee** telekinetic object +27 (evocation, magical, occult, range increment <60 feet>); **Damage** 3d12+10 bludgeoning, piercing, or slashing (depending on object) plus piercing, or slashing (depending on object)
+**Ranged** ◆ telekinetic object +27 (evocation, magical, occult, range increment <60 feet>); **Damage** 3d12+10 bludgeoning, piercing, or slashing (depending on object) plus piercing, or slashing (depending on object)
 
 **Innate occult Spells** (DC 35), attack +25
 
   **Cantrips (7th)** mage hand
 
-  **7th** telekinetic maneuver
+  **7th** telekinetic maneuver (at will)
 
 **Frighten** ◆ (concentrate, emotion, fear, incapacitation, mental) **Requirements** The poltergeist must be invisible.; The poltergeist becomes visible, appearing as a skeletal, ghostlike humanoid. Each creature within 30 feet must attempt a DC 33 Will save, becoming frightened|CRB|frightened 2 on a failure. On a critical failure, it's also fleeing for as long as it's frightened. On a success, the creature is temporarily immune for 1 minute. At the start of its next turn, the poltergeist becomes invisible again.
 

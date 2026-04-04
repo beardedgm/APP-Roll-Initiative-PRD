@@ -5,9 +5,11 @@ ne, tiny, undead
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** common (can't speak any language)
+
+**Skills** Acrobatics +10, Athletics +8, Deception +8, Stealth +8
 
 **STR** +2, **DEX** +4, **CON** +0, **INT** -1, **WIS** +0, **CHA** +2
 
@@ -25,9 +27,9 @@ ne, tiny, undead
 
 Speed fly 30 feet
 
-**Melee** claws +10 (agile); **Damage** 1d6+4 slashing plus Grab plus Grab
+**Melee** ◆ claws +10 (agile); **Damage** 1d6+4 slashing plus Grab plus Grab
 
-**Melee** jaws +11; **Damage** 1d8+4 piercing
+**Melee** ◆ jaws +11; **Damage** 1d8+4 piercing
 
 **Constrict** ◆ 1d4+4 bludgeoning, DC 16
 

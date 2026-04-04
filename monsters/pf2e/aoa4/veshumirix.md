@@ -5,9 +5,11 @@ unique, ce, huge, dragon, fire
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, scent 60 feet (imprecise)
 
 **Languages** abyssal, common, draconic, ignan, terran, undercommon
+
+**Skills** Acrobatics +30, Athletics +30, Deception +26, Intimidation +32, Nature +24, Stealth +27, Survival +24
 
 **STR** +7, **DEX** +4, **CON** +5, **INT** +4, **WIS** +4, **CHA** +6
 
@@ -29,21 +31,23 @@ unique, ce, huge, dragon, fire
 
 ---
 
-Speed 50 feet, fly 160 feet
+Speed 50 feet, fly 160 feet, magma swim 50 feet
 
-**Melee** jaws +33 (magical, reach <15 feet>); **Damage** 3d10+15 piercing plus 4d6 fire
+**Melee** ◆ jaws +33 (magical, reach <15 feet>); **Damage** 3d10+15 piercing plus 4d6 fire
 
-**Melee** claw +33 (agile, magical, reach <10 feet>); **Damage** 3d10+15 slashing
+**Melee** ◆ claw +33 (agile, magical, reach <10 feet>); **Damage** 3d10+15 slashing
 
-**Melee** tail +31 (magical, reach <20 feet>); **Damage** 2d12+15 bludgeoning
+**Melee** ◆ tail +31 (magical, reach <20 feet>); **Damage** 2d12+15 bludgeoning
 
-**Melee** horns +31 (magical, reach <15 feet>); **Damage** 2d12+15 piercing
+**Melee** ◆ horns +31 (magical, reach <15 feet>); **Damage** 2d12+15 piercing
 
 **Innate primal Spells** (DC 40)
 
+  **Constant (4th)** fire shield
+
   **Cantrips (8th)** produce flame
 
-  **8th** burning hands, fireball, wall of fire
+  **8th** burning hands (at will), fireball, wall of fire (at will)
 
 **Breath Weapon** ◆◆ (evocation, fire, primal) Veshumirix breathes a blast of magma that deals 9d6 fire damage and 4d12 bludgeoning damage in a 60-foot cone (DC 42 basic Reflex save). He can't use Breath Weapon again for 1d4 rounds.
 

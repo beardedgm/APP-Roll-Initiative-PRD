@@ -5,9 +5,11 @@ uncommon, cn, medium, beast
 
 ---
 
-**Perception** +15
+**Perception** +15; echolocation 120 feet, shimmervision
 
 **Languages** draconic
+
+**Skills** Stealth +17, Survival +17
 
 **STR** +4, **DEX** +6, **CON** +3, **INT** +0, **WIS** +4, **CHA** +0
 
@@ -31,13 +33,13 @@ uncommon, cn, medium, beast
 
 Speed 25 feet
 
-**Melee** jaws +17; **Damage** 2d8+10 piercing
+**Melee** ◆ jaws +17; **Damage** 2d8+10 piercing
 
-**Melee** claw +17 (agile); **Damage** 2d6+10 slashing
+**Melee** ◆ claw +17 (agile); **Damage** 2d6+10 slashing
 
 **Innate primal Spells** (DC 25), attack +17
 
-  **2nd** blur, darkness
+  **2nd** blur, darkness (at will)
 
   **4th** darkness
 

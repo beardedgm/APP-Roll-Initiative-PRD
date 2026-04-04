@@ -5,9 +5,11 @@ le, tiny, fiend, velstrac
 
 ---
 
-**Perception** +8
+**Perception** +8; greater darkvision, painsight
 
 **Languages** common, infernal, shadowtongue (can't speak any language)
+
+**Skills** Acrobatics +8, Deception +6, Intimidation +7, Religion +4, Stealth +8, Torture Lore +7
 
 **STR** -1, **DEX** +3, **CON** +1, **INT** +2, **WIS** +1, **CHA** -1
 
@@ -31,15 +33,15 @@ le, tiny, fiend, velstrac
 
 Speed 20 feet, fly 40 feet
 
-**Melee** blade +8 (agile, evil, finesse, magical, versatile <P>); **Damage** 1d4-1 slashing plus 1d4 persistent bleed
+**Melee** ◆ blade +8 (agile, evil, finesse, magical, versatile <P>); **Damage** 1d4-1 slashing plus 1d4 persistent bleed
 
 **Innate divine Spells** (DC 17)
 
   **Cantrips (1st)** mage hand
 
-  **1st** harm
+  **1st** harm (×3)
 
-  **2nd** augury
+  **2nd** augury (×2)
 
   **4th** read omens
 

@@ -5,9 +5,11 @@ n, tiny, elemental, water
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision, mist vision
 
 **Languages** aquan
+
+**Skills** Athletics +4, Medicine +6, Plane Of Water Lore +4
 
 **STR** +2, **DEX** +2, **CON** +3, **INT** +0, **WIS** +2, **CHA** +0
 
@@ -33,7 +35,7 @@ n, tiny, elemental, water
 
 Speed 25 feet, swim 25 feet
 
-**Melee** tendril +6 (reach <10 feet>); **Damage** 1d6 bludgeoning
+**Melee** ◆ tendril +6 (reach <10 feet>); **Damage** 1d6 bludgeoning
 
 **Drench** ◆ (abjuration, primal, water) The wisp puts out all fires in a single 5-foot square. It extinguishes non-magical fire of that size or smaller automatically and attempts to counteract magical fires (counteract modifier +6).
 

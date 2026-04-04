@@ -5,9 +5,11 @@ cg, large, azata, celestial
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; speak with animals, speak with plants, tongues
+
+**Skills** Acrobatics +14, Deception +16, Diplomacy +18, Nature +14, Performance +20, Religion +14, Survival +12
 
 **STR** +4, **DEX** +3, **CON** +5, **INT** +2, **WIS** +3, **CHA** +5
 
@@ -29,11 +31,17 @@ cg, large, azata, celestial
 
 Speed 25 feet, fly 45 feet
 
-**Melee** longsword +18 (chaotic, magical, versatile <P>); **Damage** 1d8+10 slashing plus 1d6 chaotic and 1d6 good
+**Melee** ◆ longsword +18 (chaotic, magical, versatile <P>); **Damage** 1d8+10 slashing plus 1d6 chaotic and 1d6 good
 
-**Melee** tail +18 (agile, magical, reach <10 feet>); **Damage** 2d6+10 bludgeoning plus 1d6 chaotic, 1d6 good, and Grab plus Grab
+**Melee** ◆ tail +18 (agile, magical, reach <10 feet>); **Damage** 2d6+10 bludgeoning plus 1d6 chaotic, 1d6 good, and Grab plus Grab
 
 **Innate divine Spells** (DC 26)
+
+  **Constant (5th)** tongues
+
+  **Constant (4th)** speak with plants
+
+  **Constant (2nd)** speak with animals
 
   **Cantrips (4th)** daze, detect magic, ghost sound, inspire competence, inspire courage, light
 

@@ -5,7 +5,9 @@ ce, medium, ghoul, undead
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
+
+**Skills** Acrobatics +7, Athletics +4, Stealth +7, Survival +5
 
 **STR** +1, **DEX** +4, **CON** +1, **INT** +1, **WIS** +2, **CHA** +2
 
@@ -23,9 +25,9 @@ ce, medium, ghoul, undead
 
 Speed 30 feet
 
-**Melee** jaws +9 (finesse); **Damage** 1d6 + 1 piercing plus paralysis plus paralysis
+**Melee** ◆ jaws +9 (finesse); **Damage** 1d6 + 1 piercing plus paralysis plus paralysis
 
-**Melee** claw +9 (agile, finesse); **Damage** 1d4 + 1 slashing plus paralysis plus paralysis
+**Melee** ◆ claw +9 (agile, finesse); **Damage** 1d4 + 1 slashing plus paralysis plus paralysis
 
 **Consume Flesh** ◆ (manipulate) The ghoul devours a chunk of a creature that died within the last hour and regains 1d6 Hit Points. The ghoul can regain Hit Points from a given body only once.
 

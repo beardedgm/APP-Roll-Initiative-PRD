@@ -9,6 +9,8 @@ unique, ln, medium, elf, humanoid
 
 **Languages** common, draconic, elven
 
+**Skills** Arcana +27, Intimidation +21, Stealth +27, Legal Lore +25
+
 **STR** +1, **DEX** +5, **CON** +4, **INT** +5, **WIS** +4, **CHA** -1
 
 ---
@@ -25,7 +27,7 @@ unique, ln, medium, elf, humanoid
 
 Speed 30 feet
 
-**Melee** staff +24 (magical, two-hand <d8>); **Damage** 2d4+5 bludgeoning
+**Melee** ◆ staff +24 (magical, two-hand <d8>); **Damage** 2d4+5 bludgeoning
 
 **Prepared arcane Spells** (DC 37), attack +27
 
@@ -41,6 +43,6 @@ Speed 30 feet
 
   **6th** feeblemind, teleport, true seeing
 
-  **7th** prismatic spray, project image
+  **7th** prismatic spray (×2), project image
 
 **Cantrips** (7th) detect magic, ghost sound, message, shield, telekinetic projectile.

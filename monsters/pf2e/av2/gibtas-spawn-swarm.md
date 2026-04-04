@@ -5,7 +5,9 @@ uncommon, cn, large, aberration, swarm
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +15, Survival +12
 
 **STR** -4, **DEX** +5, **CON** +4, **INT** -4, **WIS** +2, **CHA** +2
 

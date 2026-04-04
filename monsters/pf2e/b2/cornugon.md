@@ -5,9 +5,11 @@ le, large, devil, fiend
 
 ---
 
-**Perception** +28
+**Perception** +28; greater darkvision
 
-**Languages** celestial, common, draconic, infernal
+**Languages** celestial, common, draconic, infernal; telepathy 100 feet
+
+**Skills** Acrobatics +28, Athletics +32, Intimidation +30, Religion +28, Stealth +26, Warfare Lore +30
 
 **STR** +8, **DEX** +6, **CON** +7, **INT** +4, **WIS** +6, **CHA** +6
 
@@ -23,7 +25,7 @@ le, large, devil, fiend
 
 **Immunities** fire
 
-**Resistances** physical 15, poison 15
+**Resistances** physical 15 (except silver), poison 15
 
 **Weaknesses** good 15
 
@@ -39,19 +41,19 @@ le, large, devil, fiend
 
 Speed 25 feet, fly 50 feet
 
-**Melee** spiked chain +34 (disarm, evil, finesse, magical, reach <10 feet>, trip); **Damage** 3d8+16 slashing plus 2d6 evil and stunning chain plus stunning chain
+**Melee** ◆ spiked chain +34 (disarm, evil, finesse, magical, reach <10 feet>, trip); **Damage** 3d8+16 slashing plus 2d6 evil and stunning chain plus stunning chain
 
-**Melee** claw +32 (agile, magical, reach <10 feet>); **Damage** 3d10+14 slashing plus 1d6 evil
+**Melee** ◆ claw +32 (agile, magical, reach <10 feet>); **Damage** 3d10+14 slashing plus 1d6 evil
 
-**Melee** tail +32 (magical, reach <10 feet>); **Damage** 3d8+14 slashing plus 1d6 evil and infernal wound plus infernal wound
+**Melee** ◆ tail +32 (magical, reach <10 feet>); **Damage** 3d8+14 slashing plus 1d6 evil and infernal wound plus infernal wound
 
 **Innate divine Spells** (DC 36)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
   **5th** dimension door
 
-  **7th** dispel magic, fireball, lightning bolt
+  **7th** dispel magic, fireball (×2), lightning bolt (×2)
 
 **Chain of Malebolge** ◆ **Requirements** The cornugon's last action was a success with a spiked chain Strike; The devil pulls the creature 5 feet closer and grabs it with the spiked chain (Escape DC 42). The creature is automatically freed if the devil makes another spiked chain attack or moves away.
 

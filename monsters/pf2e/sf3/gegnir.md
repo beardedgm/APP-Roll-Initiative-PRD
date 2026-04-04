@@ -5,9 +5,11 @@ unique, n, huge, giant, mutant, troll
 
 ---
 
-**Perception** +35
+**Perception** +35; darkvision
 
-**Languages** common, jotun
+**Languages** common, jotun; tongues
+
+**Skills** Athletics +38, Fortune-telling Lore +35, Intimidation +37, Occultism +35
 
 **STR** +10, **DEX** +4, **CON** +10, **INT** +2, **WIS** +7, **CHA** +4
 
@@ -33,19 +35,21 @@ unique, n, huge, giant, mutant, troll
 
 Speed 30 feet, climb 40 feet
 
-**Melee** jaws +38 (magical, reach <15 feet>); **Damage** 4d12+18 piercing
+**Melee** ◆ jaws +38 (magical, reach <15 feet>); **Damage** 4d12+18 piercing
 
-**Melee** claw +38 (agile, reach <15 feet>); **Damage** 4d8+18 slashing
+**Melee** ◆ claw +38 (agile, reach <15 feet>); **Damage** 4d8+18 slashing
 
-**Melee** intestine +38 (agile, reach <30 feet>); **Damage** 4d4+10 bludgeoning plus Intestinal Tether
+**Melee** ◆ intestine +38 (agile, reach <30 feet>); **Damage** 4d4+10 bludgeoning plus Intestinal Tether
 
 **Innate occult Spells** (DC 39)
 
+  **Constant (9th)** tongues
+
   **Cantrips (9th)** daze, detect magic, guidance, read aura
 
-  **2nd** augury
+  **2nd** augury (at will)
 
-  **8th** confusion, mind reading, true strike
+  **8th** confusion, mind reading, true strike (×3)
 
   **9th** foresight, true seeing
 

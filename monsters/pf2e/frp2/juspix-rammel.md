@@ -5,9 +5,11 @@ unique, n, small, halfling, humanoid
 
 ---
 
-**Perception** +27
+**Perception** +27; keen eyes
 
 **Languages** goblin, halfling, orc, skald, taldane, tien
+
+**Skills** Acrobatics +27, Arcana +27, Nature +27, Occultism +27, Stealth +27
 
 **STR** -1, **DEX** +5, **CON** +2, **INT** +5, **WIS** +5, **CHA** +2
 
@@ -29,9 +31,9 @@ unique, n, small, halfling, humanoid
 
 Speed 25 feet
 
-**Melee** filcher's fork +25 (agile, backstabber, deadly <1d6>, finesse, magical); **Damage** 2d4+3 piercing plus 3d6 cold
+**Melee** ◆ filcher's fork +25 (agile, backstabber, deadly <1d6>, finesse, magical); **Damage** 2d4+3 piercing plus 3d6 cold
 
-**Melee** filcher's fork +25 (agile, backstabber, deadly <1d6>, magical, thrown <20 feet>); **Damage** 2d4+3 piercing plus 3d6 cold
+**Ranged** ◆ filcher's fork +25 (agile, backstabber, deadly <1d6>, magical, thrown <20 feet>); **Damage** 2d4+3 piercing plus 3d6 cold
 
 **Prepared primal Spells** (DC 35), attack +27
 
@@ -39,13 +41,13 @@ Speed 25 feet
 
   **1st** alarm, fleet step, heal, jump
 
-  **2nd** dispel magic, glitterdust, obscuring mist
+  **2nd** dispel magic, glitterdust (×2), obscuring mist
 
-  **3rd** earthbind, haste, heal
+  **3rd** earthbind (×2), haste, heal
 
-  **4th** air walk, freedom of movement
+  **4th** air walk (×3), freedom of movement
 
-  **5th** cone of cold, dispel magic, wall of ice
+  **5th** cone of cold, dispel magic, wall of ice (×2)
 
   **6th** baleful polymorph, chain lightning, true seeing, blinding fury
 

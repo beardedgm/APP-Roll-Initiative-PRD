@@ -5,9 +5,11 @@ uncommon, n, medium, astral
 
 ---
 
-**Perception** +18
+**Perception** +18; no vision, thoughtsense 120 feet (precise)
 
-**Languages** abyssal, aklo, celestial, common, daemonic, draconic, infernal, protean, requian, utopian
+**Languages** abyssal, aklo, celestial, common, daemonic, draconic, infernal, protean, requian, utopian; telepathy
+
+**Skills** Arcana +17, Deception +15, Intimidation +15, Nature +16, Occultism +19, Religion +14, Society +17
 
 **STR** +2, **DEX** +4, **CON** +3, **INT** +6, **WIS** +5, **CHA** +4
 
@@ -29,17 +31,17 @@ uncommon, n, medium, astral
 
 Speed 25 feet
 
-**Melee** claw +17 (agile, finesse); **Damage** 2d10+5 slashing
+**Melee** ◆ claw +17 (agile, finesse); **Damage** 2d10+5 slashing
 
-**Melee** hand +17 (finesse, mental); **Damage** 2d12 mental
+**Melee** ◆ hand +17 (finesse, mental); **Damage** 2d12 mental
 
 **Innate occult Spells** (DC 25), attack +17
 
   **Cantrips (4th)** daze, detect magic, read aura, shield
 
-  **3rd** hypnotic pattern, mind reading, paralyze
+  **3rd** hypnotic pattern, mind reading (×3), paralyze
 
-  **4th** charm, vampiric touch
+  **4th** charm, vampiric touch (×2)
 
   **7th** plane shift
 

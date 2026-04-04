@@ -5,11 +5,13 @@ ce, medium, drow, elf, humanoid
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
+
+**Skills** Deception +8, Intimidation +8, Religion +9, Society +5, Stealth +7
 
 **STR** +1, **DEX** +2, **CON** +1, **INT** +0, **WIS** +4, **CHA** +1
 
-**Items** {@item chain shirt}, {@item hand crossbow} (10 {@item bolt (generic)||bolts}), {@item steel shield||shield}, {@item rapier}, {@item religious symbol (generic)}
+**Items** chain shirt, hand crossbow (10 bolts), shield, rapier, religious symbol (generic)
 
 **Light Blindness** When first exposed to bright light, the drow can't see until the end of their next turn. All squares are difficult terrain for them, and they take a –4 status penalty to Perception. If they try to attack a creature, the attack fails unless they succeed at a DC 11 flat check. Light doesn't blind them again for 1 hour.
 
@@ -29,9 +31,9 @@ ce, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** rapier +9 (deadly <1d8>, finesse); **Damage** 1d6 + 2 piercing
+**Melee** ◆ rapier +9 (deadly <1d8>, finesse); **Damage** 1d6 + 2 piercing
 
-**Melee** hand crossbow +9 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing
+**Ranged** ◆ hand crossbow +9 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing
 
 **Prepared divine Spells** (DC 21)
 
@@ -39,4 +41,4 @@ Speed 30 feet
 
   **1st** command, fear, magic weapon
 
-  **2nd** dispel magic, heal, resist energy
+  **2nd** dispel magic, heal (×3), resist energy

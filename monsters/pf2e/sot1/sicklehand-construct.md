@@ -5,7 +5,9 @@ rare, n, medium, construct, mindless
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision
+
+**Skills** Acrobatics +7, Athletics +5
 
 **STR** +1, **DEX** +3, **CON** +1, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -31,6 +33,6 @@ rare, n, medium, construct, mindless
 
 Speed 25 feet
 
-**Melee** wooden sickle +8 (agile, finesse, trip); **Damage** 1d4+1 slashing
+**Melee** ◆ wooden sickle +8 (agile, finesse, trip); **Damage** 1d4+1 slashing
 
 **Menacing Sickles** The construct deals an additional 1d4 precision damage to flat-footed or prone creatures.

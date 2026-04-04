@@ -5,13 +5,15 @@ rare, medium, bugbear, humanoid
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, scent
 
 **Languages** common, fey, goblin
 
+**Skills** Acrobatics +22, Athletics +25, Crafting +21, Intimidation +25, Stealth +27, Survival +22
+
 **STR** +6, **DEX** +4, **CON** +4, **INT** +2, **WIS** +2, **CHA** +0
 
-**Items** {@runeItem explorer's clothing||+1 armor potency||resilient|}, {@runeItem battle axe||+2 weapon potency||flaming|}, {@item bogeyman breath|WoW3} (1 dose), {@item hatchet||hatchets} (3), {@item reaper's shadow|WoW3} (2 doses), {@item plague mask|LOtGB}
+**Items** , , bogeyman breath|WoW3 (1 dose), hatchets (3), reaper's shadow|WoW3 (2 doses), plague mask|LOtGB
 
 ---
 
@@ -27,11 +29,11 @@ rare, medium, bugbear, humanoid
 
 Speed 25 feet
 
-**Melee** battle axe +26 (sweep); **Damage** 1d8+12 slashing plus 1d6 fire
+**Melee** ◆ battle axe +26 (sweep); **Damage** 1d8+12 slashing plus 1d6 fire
 
-**Melee** hatchet +24 (agile, sweep); **Damage** 1d6+12 slashing
+**Melee** ◆ hatchet +24 (agile, sweep); **Damage** 1d6+12 slashing
 
-**Melee** hatchet +22 (agile, sweep, thrown <10 feet>); **Damage** 1d6+12 slashing
+**Ranged** ◆ hatchet +22 (agile, sweep, thrown <10 feet>); **Damage** 1d6+12 slashing
 
 **Pinpoint Poisoner** When the Bonebleacher bugbear successfully Strikes an off-guard|PC1 creature with a poisoned weapon or exposes an off-guard|PC1 creature to an inhaled poison, the creature takes a −2 circumstance penalty to its initial save against that poison.
 

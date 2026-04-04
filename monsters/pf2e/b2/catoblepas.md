@@ -5,9 +5,11 @@ ce, large, beast
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** aklo
+
+**Skills** Athletics +25, Intimidation +20, Stealth +22, Survival +20
 
 **STR** +7, **DEX** +4, **CON** +6, **INT** -2, **WIS** +4, **CHA** +2
 
@@ -29,11 +31,11 @@ ce, large, beast
 
 Speed 35 feet, swim 20 feet
 
-**Melee** jaws +25 (magical, reach <10 feet>); **Damage** 3d10+13 piercing
+**Melee** ◆ jaws +25 (magical, reach <10 feet>); **Damage** 3d10+13 piercing
 
-**Melee** antler +25 (magical, reach <15 feet>); **Damage** 3d12+13 piercing
+**Melee** ◆ antler +25 (magical, reach <15 feet>); **Damage** 3d12+13 piercing
 
-**Melee** hoof +23 (magical); **Damage** 3d10+11 bludgeoning
+**Melee** ◆ hoof +23 (magical); **Damage** 3d10+11 bludgeoning
 
 **Breath Weapon** ◆◆ (necromancy, poison, primal) The catoblepas breathes a 60-foot cone of horrid fumes, dealing 13d6 poison damage (DC 32 basic Fortitude save). The area of this cone is reduced to 30 feet underwater. Targets that fail their saving throw also become sickened 1 (sickened 2 on a critical failure). The catoblepas can't use its Breath Weapon again for 1d4 rounds.
 

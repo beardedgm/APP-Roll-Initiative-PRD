@@ -5,9 +5,11 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common, necril
+
+**Skills** Deception +14, Diplomacy +14, Occultism +13, Performance +16, Theater Lore +11
 
 **STR** -5, **DEX** +4, **CON** +2, **INT** +0, **WIS** +3, **CHA** +5
 
@@ -23,15 +25,15 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 ---
 
 Speed fly 25 feet
 
-**Melee** phantom hand +13 (agile, finesse, magical); **Damage** 2d6+5 negative
+**Melee** ◆ phantom hand +13 (agile, finesse, magical); **Damage** 2d6+5 negative
 
-**Melee** resonating note +15 (magical, range <60 feet>, sonic); **Damage** 2d4+5 sonic
+**Ranged** ◆ resonating note +15 (magical, range <60 feet>, sonic); **Damage** 2d4+5 sonic
 
 **Spontaneous occult Spells** (DC 22), attack +14
 
@@ -39,7 +41,7 @@ Speed fly 25 feet
 
   **1st** charm, fear, mindlink
 
-  **2nd** hideous laughter, invisibility
+  **2nd** hideous laughter, invisibility (at will)
 
 **Grand Finale** ◆◆◆ (mental, occult) **Requirements** The muse phantom's thespian aura is active; The muse ceases its thespian aura and deals 4d8 mental damage to creatures in a 30-foot burst, including the creature it is possessing, if any (DC 22 basic Will save). Creatures that fail their Will saves are fascinated by the muse phantom for 1 minute. The muse phantom can't use Grand Finale again for 1d4 rounds.
 

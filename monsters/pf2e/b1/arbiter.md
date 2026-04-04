@@ -5,13 +5,15 @@ ln, tiny, aeon, inevitable, monitor
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision, detect alignment (chaotic only), locate inevitable
 
 **Languages** celestial, common, infernal, utopian
 
+**Skills** Acrobatics +9, Diplomacy +6, Stealth +9, Axis Lore +5
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +0, **WIS** +2, **CHA** +1
 
-**Items** {@item shortsword}
+**Items** shortsword
 
 **Locate Inevitable** An arbiter can always sense the direction of the nearest non-arbiter inevitable on the plane, but it cannot sense the range of the inevitable. Items shortsword.
 
@@ -31,11 +33,11 @@ ln, tiny, aeon, inevitable, monitor
 
 Speed 20 feet, fly 40 feet
 
-**Melee** shortsword +9 (agile, finesse, lawful, magical, versatile <S>); **Damage** 1d6+1 piercing plus 1d4 lawful
+**Melee** ◆ shortsword +9 (agile, finesse, lawful, magical, versatile <S>); **Damage** 1d6+1 piercing plus 1d4 lawful
 
 **Innate divine Spells** (DC 17)
 
-  **1st** command, detect alignment, mending
+  **1st** command, detect alignment (at will), mending (×3)
 
   **4th** read omens
 

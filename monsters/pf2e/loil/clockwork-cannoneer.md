@@ -5,7 +5,9 @@ rare, n, huge, clockwork, construct, mindless
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
+
+**Skills** Athletics +30
 
 **STR** +7, **DEX** +8, **CON** +6, **INT** -5, **WIS** +4, **CHA** -5
 
@@ -21,7 +23,7 @@ rare, n, huge, clockwork, construct, mindless
 
 **Immunities** death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 10
+**Resistances** physical 10 (except adamantine or orichalcum)
 
 **Weaknesses** electricity 15, orichalcum 15
 
@@ -29,9 +31,9 @@ rare, n, huge, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** bore +28 (backswing, shove); **Damage** 3d12+12 bludgeoning
+**Melee** ◆ bore +28 (backswing, shove); **Damage** 3d12+12 bludgeoning
 
-**Melee** cannonball +29 (range increment <100 feet>); **Damage** 6d12 bludgeoning
+**Ranged** ◆ cannonball +29 (range increment <100 feet>); **Damage** 6d12 bludgeoning
 
 **Bombard** ◆◆ (fire) The clockwork cannoneer launches an explosive shot up to a range of 200 feet that explodes in a 20-foot burst. Creatures within the burst take 5d10 bludgeoning damage (DC 36 basic Reflex save).
 

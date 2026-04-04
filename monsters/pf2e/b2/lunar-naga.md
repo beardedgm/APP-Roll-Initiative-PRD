@@ -5,9 +5,11 @@ uncommon, n, large, aberration
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
 **Languages** aklo, celestial, common
+
+**Skills** Acrobatics +14, Deception +15, Diplomacy +15, Nature +13, Survival +14, Astronomy Lore +11
 
 **STR** +2, **DEX** +4, **CON** +4, **INT** +1, **WIS** +4, **CHA** +3
 
@@ -23,7 +25,7 @@ uncommon, n, large, aberration
 
 Speed 25 feet
 
-**Melee** fangs +16 (agile, finesse); **Damage** 2d6+8 piercing plus lunar naga venom plus lunar naga venom
+**Melee** ◆ fangs +16 (agile, finesse); **Damage** 2d6+8 piercing plus lunar naga venom plus lunar naga venom
 
 **Spontaneous primal Spells** (DC 24), attack +16
 

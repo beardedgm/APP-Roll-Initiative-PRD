@@ -5,9 +5,11 @@ rare, n, huge, aquatic, beast, water
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
 **Languages** aquan (can't speak any language)
+
+**Skills** Athletics +22, Stealth +23
 
 **STR** +8, **DEX** +5, **CON** +5, **INT** -3, **WIS** +5, **CHA** +0
 
@@ -27,9 +29,9 @@ rare, n, huge, aquatic, beast, water
 
 Speed 20 feet, swim 50 feet
 
-**Melee** jaws +24 (reach <15 feet>); **Damage** 2d10+11 piercing plus Grab plus Grab
+**Melee** ◆ jaws +24 (reach <15 feet>); **Damage** 2d10+11 piercing plus Grab plus Grab
 
-**Melee** tail +24 (agile, reach <15 feet>); **Damage** 2d6+11 bludgeoning
+**Melee** ◆ tail +24 (agile, reach <15 feet>); **Damage** 2d6+11 bludgeoning
 
 **Swallow Whole** ◆ (attack) Large, 2d8+8 bludgeoning, Rupture 22.
 

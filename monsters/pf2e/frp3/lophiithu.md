@@ -5,9 +5,11 @@ uncommon, ne, gargantuan, aberration, aquatic
 
 ---
 
-**Perception** +38
+**Perception** +38; darkvision
 
-**Languages** aklo, alghollthu, aquan, undercommon
+**Languages** aklo, alghollthu, aquan, undercommon; telepathy 100 feet, tongues
+
+**Skills** Athletics +36, Deception +40, Occultism +43, Stealth +40, Survival +36
 
 **STR** +6, **DEX** +10, **CON** +7, **INT** +10, **WIS** +6, **CHA** +7
 
@@ -23,19 +25,21 @@ uncommon, ne, gargantuan, aberration, aquatic
 
 Speed 10 feet, swim 80 feet
 
-**Melee** jaws +39 (agile, deadly <3d10>, finesse, reach <15 feet>); **Damage** 4d12+18 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +39 (agile, deadly <3d10>, finesse, reach <15 feet>); **Damage** 4d12+18 piercing plus Improved Grab plus Improved Grab
 
-**Melee** lure +37 (agile, finesse, magical, reach <40 feet>); **Damage** 4d6+18 bludgeoning plus 2d6 mental and beguiling lure plus beguiling lure
+**Melee** ◆ lure +37 (agile, finesse, magical, reach <40 feet>); **Damage** 4d6+18 bludgeoning plus 2d6 mental and beguiling lure plus beguiling lure
 
 **Innate occult Spells** (DC 41)
 
+  **Constant (9th)** tongues
+
   **Cantrips (9th)** dancing lights, daze
 
-  **8th** illusory creature, phantasmal killer
+  **8th** illusory creature (×2), phantasmal killer (×2)
 
-  **9th** telepathic demand, unfathomable song
+  **9th** telepathic demand (×2), unfathomable song (×2)
 
-  **10th** fabricated truth, gate
+  **10th** fabricated truth, gate (at will)
 
 **Beguiling Lure** (illusion, mental, occult, visual) A creature hit by a lophiithu's lure must succeed at a DC 41 Will save or be fascinated with the lophiithu's lures for 1 minute. On a critical failure, it can't use reactions while it remains fascinated. A creature that succeeds at its save is temporarily immune for 1 hour.
 

@@ -5,9 +5,11 @@ unique, ng, medium, humanoid, nagaji
 
 ---
 
-**Perception** +23
+**Perception** +23; low-light vision
 
 **Languages** nagaji, taldane, tengu, tien
+
+**Skills** Acrobatics +22, Arcana +26, Diplomacy +24, Intimidation +24, Occultism +21
 
 **STR** +0, **DEX** +3, **CON** +5, **INT** +2, **WIS** +0, **CHA** +5
 
@@ -25,9 +27,9 @@ unique, ng, medium, humanoid, nagaji
 
 Speed 25 feet
 
-**Melee** bo staff +22 (parry, reach, trip); **Damage** 3d8+7 bludgeoning
+**Melee** ◆ bo staff +22 (parry, reach, trip); **Damage** 3d8+7 bludgeoning
 
-**Melee** venom +22 (range <10 feet>); plus nagaji venom
+**Ranged** ◆ venom +22 (range <10 feet>); plus nagaji venom
 
 **Spontaneous arcane Spells** (DC 32), attack +24
 

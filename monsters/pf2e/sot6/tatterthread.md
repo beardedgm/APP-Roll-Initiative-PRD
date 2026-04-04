@@ -5,9 +5,11 @@ unique, ce, large, fey
 
 ---
 
-**Perception** +39
+**Perception** +39; detect magic, greater darkvision, lifesense 120 feet, true seeing
 
-**Languages** common, jotun, sylvan
+**Languages** common, jotun, sylvan; tongues
+
+**Skills** Deception +35, Intimidation +37, Lore +32 (all), Occultism +38, Religion +32, Stealth +36, Thievery +34
 
 **STR** +7, **DEX** +6, **CON** +7, **INT** +10, **WIS** +6, **CHA** +7
 
@@ -31,13 +33,15 @@ unique, ce, large, fey
 
 Speed 35 feet, fly 35 feet
 
-**Melee** caustic shears +38 (deadly <2d12>, magical, reach <10 feet>, versatile <P>); **Damage** 4d6+15 slashing plus 5d6 acid and shadow corrosion
+**Melee** ◆ caustic shears +38 (deadly <2d12>, magical, reach <10 feet>, versatile <P>); **Damage** 4d6+15 slashing plus 5d6 acid and shadow corrosion
 
-**Melee** acid stream +38 (agile, magical, reach <10 feet>); **Damage** 4d10+15 acid plus shadow corrosion
+**Melee** ◆ acid stream +38 (agile, magical, reach <10 feet>); **Damage** 4d10+15 acid plus shadow corrosion
 
 **Innate occult Spells** (DC 42)
 
-  **7th** dispel magic, read omens, spellwrack
+  **Constant (10th)** detect magic, mind blank, tongues, true seeing
+
+  **7th** dispel magic (at will), read omens (at will), spellwrack (at will)
 
   **8th** maze, wind walk
 

@@ -5,9 +5,11 @@ rare, ng, small, humanoid, shoony
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision
 
 **Languages** common, shoony
+
+**Skills** Athletics +7, Crafting +1, Diplomacy +4, Survival +4, Farming Lore +3
 
 **STR** +3, **DEX** +1, **CON** +1, **INT** -1, **WIS** +2, **CHA** +2
 
@@ -25,8 +27,8 @@ rare, ng, small, humanoid, shoony
 
 Speed 25 feet
 
-**Melee** hoe +6; **Damage** 1d4+3 bludgeoning
+**Melee** ◆ hoe +6; **Damage** 1d4+3 bludgeoning
 
-**Melee** dirt clod +4 (range increment <10 feet>, thrown); **Damage** 1 nonlethal
+**Ranged** ◆ dirt clod +4 (range increment <10 feet>, thrown); **Damage** 1 nonlethal
 
 **Dig Quickly** ◆◆ (manipulate) Page 72.

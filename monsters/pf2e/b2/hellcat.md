@@ -5,9 +5,11 @@ le, large, beast, fiend
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision, scent 30 feet (imprecise)
 
-**Languages** infernal (can't speak any language)
+**Languages** infernal (can't speak any language); telepathy 100 feet
+
+**Skills** Acrobatics +17, Athletics +17, Intimidation +14, Stealth +17, Survival +14
 
 **STR** +6, **DEX** +4, **CON** +4, **INT** +0, **WIS** +3, **CHA** +1
 
@@ -29,9 +31,9 @@ le, large, beast, fiend
 
 Speed 35 feet
 
-**Melee** jaws +18; **Damage** 2d12+7 piercing
+**Melee** ◆ jaws +18; **Damage** 2d12+7 piercing
 
-**Melee** claw +18 (agile); **Damage** 2d8+7 slashing
+**Melee** ◆ claw +18 (agile); **Damage** 2d8+7 slashing
 
 **Fearful Attack** The hellcat deals an additional 1d6 precision damage to frightened creatures.
 

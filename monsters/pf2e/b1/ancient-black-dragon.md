@@ -5,9 +5,11 @@ uncommon, ce, huge, acid, amphibious, dragon
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, scent 60 feet (imprecise)
 
 **Languages** common, draconic, goblin, jotun, orcish
+
+**Skills** Acrobatics +25, Arcana +26, Athletics +32, Deception +29, Intimidation +29, Stealth +27
 
 **STR** +8, **DEX** +5, **CON** +6, **INT** +4, **WIS** +5, **CHA** +5
 
@@ -29,17 +31,17 @@ uncommon, ce, huge, acid, amphibious, dragon
 
 Speed 60 feet, fly 150 feet, swim 60 feet
 
-**Melee** jaws +33 (acid, magical, reach <15 feet>); **Damage** 3d10+14 piercing plus 2d6 acid and 2d6 persistent acid
+**Melee** ◆ jaws +33 (acid, magical, reach <15 feet>); **Damage** 3d10+14 piercing plus 2d6 acid and 2d6 persistent acid
 
-**Melee** claw +33 (agile, magical, reach <10 feet>); **Damage** 3d8+14 slashing
+**Melee** ◆ claw +33 (agile, magical, reach <10 feet>); **Damage** 3d8+14 slashing
 
-**Melee** tail +31 (magical, reach <20 feet>); **Damage** 3d10+12 bludgeoning
+**Melee** ◆ tail +31 (magical, reach <20 feet>); **Damage** 3d10+12 bludgeoning
 
-**Melee** horns +31 (magical, reach <15 feet>); **Damage** 2d10+12 piercing
+**Melee** ◆ horns +31 (magical, reach <15 feet>); **Damage** 2d10+12 piercing
 
 **Innate arcane Spells** (DC 37)
 
-  **2nd** darkness
+  **2nd** darkness (at will)
 
 **Breath Weapon** ◆◆ (acid, arcane, evocation) The dragon breathes a spray of acid that deals 17d6 acid damage in a 100-foot line (DC 39 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

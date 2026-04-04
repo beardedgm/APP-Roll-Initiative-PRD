@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +13, Crafting +25, Diplomacy +24, Intimidation +22, Society +21, Architecture Lore +25, Bureaucracy Lore +19
+
 **STR** +3, **DEX** +1, **CON** +1, **INT** +4, **WIS** +2, **CHA** +3
 
 **Items** artisan's tools, construction schematics, guildmaster's uniform (functions as hide armor), +1 striking light hammer, tax ledgers
@@ -25,9 +27,9 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** light hammer +16 (agile); **Damage** 2d6+5 bludgeoning
+**Melee** ◆ light hammer +16 (agile); **Damage** 2d6+5 bludgeoning
 
-**Melee** light hammer +14 (agile, magical, thrown <20 feet>); **Damage** 2d6+5 bludgeoning
+**Ranged** ◆ light hammer +14 (agile, magical, thrown <20 feet>); **Damage** 2d6+5 bludgeoning
 
 **Call to Action** ◆ (auditory, concentrate, emotion, mental) The guildmaster gives a speech to inspire themself and all guild-member allies within 60 feet, granting them a +1 status bonus to attack and damage rolls until the start of the guildmaster's next turn.
 

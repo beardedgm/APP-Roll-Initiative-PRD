@@ -5,9 +5,11 @@ rare, cn, medium, fey, shadow
 
 ---
 
-**Perception** +28
+**Perception** +28; low-light vision
 
 **Languages** common, sylvan
+
+**Skills** Acrobatics +30, Deception +30, Diplomacy +30, Performance +30, Shadow Lore +30, Stealth +36
 
 **STR** +0, **DEX** +9, **CON** +5, **INT** +0, **WIS** +6, **CHA** +9
 
@@ -29,7 +31,7 @@ rare, cn, medium, fey, shadow
 
 Speed 40 feet
 
-**Melee** shadow claw +33 (agile, finesse, magical, reach <10 feet>); **Damage** 3d10+15 slashing damage
+**Melee** ◆ shadow claw +33 (agile, finesse, magical, reach <10 feet>); **Damage** 3d10+15 slashing damage
 
 **Enticing Invitation** ◆◆ (enchantment, incapacitation, mental, primal) The alapolo whispers an invitation to a creature within 30 feet. The creature must attempt a DC 38 Will save. **Critical Success** 
 **Success** 

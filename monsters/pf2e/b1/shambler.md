@@ -5,9 +5,11 @@ n, large, plant
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
 **Languages** common, elven, sylvan (can't speak any language)
+
+**Skills** Athletics +16, Stealth +12
 
 **STR** +6, **DEX** +1, **CON** +5, **INT** -2, **WIS** +2, **CHA** -1
 
@@ -33,6 +35,6 @@ n, large, plant
 
 Speed 20 feet, swim 20 feet
 
-**Melee** vine +17 (reach <10 feet>); **Damage** 2d8+8 bludgeoning plus Grab plus Grab
+**Melee** ◆ vine +17 (reach <10 feet>); **Damage** 2d8+8 bludgeoning plus Grab plus Grab
 
 **Vine Lash** ◆◆ The shambler makes a vine Strike against each creature within reach. Its multiple attack penalty increases only after all the attacks.

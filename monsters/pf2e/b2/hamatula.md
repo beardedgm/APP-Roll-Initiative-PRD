@@ -5,9 +5,11 @@ le, medium, devil, fiend
 
 ---
 
-**Perception** +24
+**Perception** +24; greater darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; telepathy 100 feet
+
+**Skills** Acrobatics +23, Arcana +18, Intimidation +21, Religion +20, Stealth +23, Survival +22
 
 **STR** +7, **DEX** +6, **CON** +5, **INT** +1, **WIS** +5, **CHA** +4
 
@@ -21,7 +23,7 @@ le, medium, devil, fiend
 
 **Immunities** fire
 
-**Resistances** physical 10, poison 10
+**Resistances** physical 10 (except silver), poison 10
 
 **Weaknesses** good 10
 
@@ -31,19 +33,19 @@ le, medium, devil, fiend
 
 Speed 25 feet, fly 30 feet
 
-**Melee** barb +24 (evil, magical); **Damage** 3d8+13 piercing plus 1d6 evil and bloodletting plus bloodletting
+**Melee** ◆ barb +24 (evil, magical); **Damage** 3d8+13 piercing plus 1d6 evil and bloodletting plus bloodletting
 
-**Melee** hurled barb +23 (evil, magical, range increment <60 feet>); **Damage** 2d8+13 piercing plus 1d6 evil and bloodletting plus bloodletting
+**Ranged** ◆ hurled barb +23 (evil, magical, range increment <60 feet>); **Damage** 2d8+13 piercing plus 1d6 evil and bloodletting plus bloodletting
 
 **Innate divine Spells** (DC 27), attack +21
 
   **Cantrips (5th)** produce flame
 
-  **3rd** harm, paralyze
+  **3rd** harm, paralyze (×2)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
-  **5th** dimension door, glyph of warding
+  **5th** dimension door, glyph of warding (at will)
 
 **Bloodletting** On a critical hit, the hamatula's barbs deal 3d6 persistent bleed damage.
 

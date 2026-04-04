@@ -5,7 +5,11 @@ uncommon, n, large, aberration, dream
 
 ---
 
-**Perception** +28
+**Perception** +28; greater darkvision
+
+**Languages** tongues, telepathy 100 feet
+
+**Skills** Acrobatics +26, Diplomacy +27, Stealth +28, Dreamlands Lore +23
 
 **STR** +3, **DEX** +6, **CON** +4, **INT** +1, **WIS** +8, **CHA** +7
 
@@ -29,15 +33,17 @@ uncommon, n, large, aberration, dream
 
 Speed 25 feet, fly 25 feet
 
-**Melee** needle +27 (agile, finesse, reach <10 feet>); **Damage** 3d6+9 piercing plus 2d6 mental
+**Melee** ◆ needle +27 (agile, finesse, reach <10 feet>); **Damage** 3d6+9 piercing plus 2d6 mental
 
-**Melee** needle +27 (agile, thrown <20 feet>); **Damage** 3d6+9 piercing plus 2d6 mental
+**Ranged** ◆ needle +27 (agile, thrown <20 feet>); **Damage** 3d6+9 piercing plus 2d6 mental
 
 **Innate occult Spells** (DC 36)
 
-  **4th** dimension door
+  **Constant (5th)** tongues
 
-  **7th** darkness, mask of terror, nightmare, sleep, soothe
+  **4th** dimension door (at will)
+
+  **7th** darkness, mask of terror, nightmare, sleep, soothe (×2)
 
   **8th** dream council
 

@@ -5,9 +5,11 @@ unique, ce, medium, dwarf, humanoid
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision
 
 **Languages** common, dwarven
+
+**Skills** Academia Lore +31, Acrobatics +33, Arcana +33, Athletics +35, Deception +29, Intimidation +31, Performance +31, Stealth +29, Survival +29
 
 **STR** +5, **DEX** +4, **CON** +4, **INT** +4, **WIS** +2, **CHA** -1
 
@@ -31,9 +33,9 @@ unique, ce, medium, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** mambele +33 (disarm, deadly <d8>, magical); **Damage** 3d6+16 slashing
+**Melee** ◆ mambele +33 (disarm, deadly <d8>, magical); **Damage** 3d6+16 slashing
 
-**Melee** mambele +33 (disarm, deadly <d8>, magical, thrown <20 feet>); **Damage** 3d6+16 slashing
+**Ranged** ◆ mambele +33 (disarm, deadly <d8>, magical, thrown <20 feet>); **Damage** 3d6+16 slashing
 
 **Prepared arcane Spells** (DC 37), attack +29
 
@@ -59,7 +61,7 @@ Speed 20 feet
 
 **Innate occult Spells** (DC 40), attack +32
 
-  **9th** shadow blast, shadow siphon
+  **9th** shadow blast (×2), shadow siphon (×2)
 
 **Rupture Shadow** ◆◆ (acid, conjuration, occult, shadow) Haibram can create immense blisters on a creature's shadow, which immediately burst, dealing 20d6 acid damage. He targets a creature within 60 feet that is casting a shadow, which must attempt a DC 37 Will save. Haibram can't use Rupture Shadow again for 1d4 rounds. **Critical Success** 
 **Success** 

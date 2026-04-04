@@ -5,9 +5,11 @@ uncommon, cn, small, fey
 
 ---
 
-**Perception** +12
+**Perception** +12; low-light vision
 
 **Languages** common, sylvan
+
+**Skills** Acrobatics +11, Crafting +11, Deception +13, Performance +13, Stealth +11
 
 **STR** +4, **DEX** +3, **CON** +2, **INT** +1, **WIS** +2, **CHA** +5
 
@@ -29,15 +31,15 @@ uncommon, cn, small, fey
 
 Speed 25 feet
 
-**Melee** club +14; **Damage** 2d6+7 bludgeoning
+**Melee** ◆ club +14; **Damage** 2d6+7 bludgeoning
 
-**Melee** rock +14 (brutal, range increment <20 feet>); **Damage** 1d6+7 bludgeoning
+**Ranged** ◆ rock +14 (brutal, range increment <20 feet>); **Damage** 1d6+7 bludgeoning
 
-**Melee** club +14 (thrown <10 feet>); **Damage** 2d6+7 bludgeoning
+**Ranged** ◆ club +14 (thrown <10 feet>); **Damage** 2d6+7 bludgeoning
 
 **Innate primal Spells** (DC 21)
 
-  **4th** shape stone, shatter
+  **4th** shape stone (at will), shatter (at will)
 
   **6th** stone tell
 

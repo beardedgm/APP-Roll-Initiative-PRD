@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +15, Athletics +8, Deception +5, Performance +9, Stealth +8, Circus Lore +5
+
 **STR** +2, **DEX** +4, **CON** +2, **INT** +1, **WIS** +0, **CHA** +1
 
 **Items** climbing kit, dagger (5), rope (50 feet)
@@ -31,11 +33,11 @@ n, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** dagger +10 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing
+**Melee** ◆ dagger +10 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing
 
-**Melee** foot +10 (agile, finesse, nonlethal); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ foot +10 (agile, finesse, nonlethal); **Damage** 1d4+4 bludgeoning
 
-**Melee** dagger +11 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
+**Ranged** ◆ dagger +11 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
 
 **Sneak Attack** The acrobat deals an extra 1d6 precision damage to flat-footed creatures.
 

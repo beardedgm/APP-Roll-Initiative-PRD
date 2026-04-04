@@ -5,9 +5,11 @@ cn, large, monitor, protean
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, entropy sense 60 feet (imprecise)
 
-**Languages** abyssal, celestial, protean
+**Languages** abyssal, celestial, protean; telepathy 100 feet, tongues
+
+**Skills** Acrobatics +26, Athletics +30, Deception +33, Diplomacy +35, Intimidation +35, Religion +30, Stealth +28
 
 **STR** +9, **DEX** +5, **CON** +7, **INT** +5, **WIS** +7, **CHA** +7
 
@@ -33,25 +35,29 @@ cn, large, monitor, protean
 
 ---
 
-Speed 40 feet, fly 50 feet, swim 40 feet
+Speed 40 feet, fly 50 feet, swim 40 feet, freedom of movement
 
-**Melee** jaws +33 (chaotic, magical, reach <10 feet>); **Damage** 3d10+15 piercing plus 1d6 chaotic and warpwave strike plus warpwave strike
+**Melee** ◆ jaws +33 (chaotic, magical, reach <10 feet>); **Damage** 3d10+15 piercing plus 1d6 chaotic and warpwave strike plus warpwave strike
 
-**Melee** claw +33 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d10+15 slashing plus 1d6 chaotic and warpwave strike plus warpwave strike
+**Melee** ◆ claw +33 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d10+15 slashing plus 1d6 chaotic and warpwave strike plus warpwave strike
 
-**Melee** tail +33 (reach <15 feet>); **Damage** 2d10+15 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +33 (reach <15 feet>); **Damage** 2d10+15 bludgeoning plus Grab plus Grab
 
 **Innate divine Spells** (DC 42), attack +32
 
-  **2nd** detect alignment
+  **Constant (5th)** tongues
 
-  **4th** confusion, dimension door
+  **Constant (4th)** freedom of movement
 
-  **5th** creation, dimension door, hallucinatory terrain
+  **2nd** detect alignment (at will)
 
-  **6th** teleport
+  **4th** confusion (at will), dimension door (at will)
 
-  **7th** disintegrate, dispel magic, shatter, warp mind
+  **5th** creation (at will), dimension door, hallucinatory terrain (×2)
+
+  **6th** teleport (at will)
+
+  **7th** disintegrate, dispel magic (at will), shatter (at will), warp mind (×3)
 
   **8th** baleful polymorph, confusion
 

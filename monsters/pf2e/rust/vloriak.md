@@ -5,9 +5,11 @@ uncommon, ce, medium, demon, fiend
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
-**Languages** abyssal, common
+**Languages** abyssal, common; telepathy 100 feet
+
+**Skills** Acrobatics +13, Intimidation +12
 
 **STR** +4, **DEX** +2, **CON** +4, **INT** -1, **WIS** +4, **CHA** +3
 
@@ -29,15 +31,15 @@ uncommon, ce, medium, demon, fiend
 
 Speed 25 feet
 
-**Melee** claw +15 (agile, reach <10 feet>); **Damage** 2d6+6 slashing plus 1d6 evil
+**Melee** ◆ claw +15 (agile, reach <10 feet>); **Damage** 2d6+6 slashing plus 1d6 evil
 
-**Melee** tongue +15 (agile, reach <10 feet>); **Damage** 2d6 piercing plus 1d6 evil and rust
+**Melee** ◆ tongue +15 (agile, reach <10 feet>); **Damage** 2d6 piercing plus 1d6 evil and rust
 
 **Innate divine Spells** (DC 22), attack +14
 
   **Cantrips (3rd)** acid splash
 
-  **2nd** acid arrow, shatter
+  **2nd** acid arrow (×3), shatter
 
   **3rd** paralyze
 

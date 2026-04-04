@@ -5,7 +5,9 @@ uncommon, n, large, beast, dragon
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, {@ability tremorsense} 30 feet (imprecise)
+
+**Skills** Acrobatics +17, Athletics +21, Stealth +17, Survival +20
 
 **STR** +6, **DEX** +2, **CON** +5, **INT** -3, **WIS** +5, **CHA** +1
 
@@ -29,9 +31,9 @@ uncommon, n, large, beast, dragon
 
 Speed 20 feet, fly 40 feet
 
-**Melee** jaws +21; **Damage** 2d12+8 piercing
+**Melee** ◆ jaws +21; **Damage** 2d12+8 piercing
 
-**Melee** claw +21 (agile); **Damage** 2d10+8 slashing
+**Melee** ◆ claw +21 (agile); **Damage** 2d10+8 slashing
 
 **Breath Weapon** ◆◆ (arcane, evocation) The dracolisk breathes a gout of energy based on its draconic heritage, as noted below. This breath weapon deals 6d10 damage of the appropriate type, with a DC 28 basic save of a type indicated in parenthesis below. The dracolisk can't use Breath Weapon again for 1d4 rounds.
 

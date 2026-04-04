@@ -5,9 +5,11 @@ rare, le, large, construct
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, magic sense 30 feet (precise)
 
 **Languages** common, necril, osiriani
+
+**Skills** Athletics +15
 
 **STR** +5, **DEX** +2, **CON** +4, **INT** -2, **WIS** +4, **CHA** +2
 
@@ -33,15 +35,15 @@ rare, le, large, construct
 
 Speed 25 feet, climb 25 feet
 
-**Melee** tentacle +15 (agile, magical, reach <10 feet>); **Damage** 2d6+7 bludgeoning
+**Melee** ◆ tentacle +15 (agile, magical, reach <10 feet>); **Damage** 2d6+7 bludgeoning
 
 **Prepared arcane Spells** (DC 24), attack +16
 
   **Cantrips (3rd)** daze, detect magic, electric arc, shield, tanglefoot
 
-  **1st** magic missile, ray of enfeeblement
+  **1st** magic missile (×2), ray of enfeeblement
 
-  **2nd** acid arrow, dispel magic
+  **2nd** acid arrow, dispel magic (×2)
 
   **3rd** fireball, lightning bolt, wall of wind
 

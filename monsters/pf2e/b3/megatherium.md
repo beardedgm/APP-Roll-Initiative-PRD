@@ -5,7 +5,9 @@ n, huge, animal
 
 ---
 
-**Perception** +13
+**Perception** +13; low-light vision, scent 60 feet (imprecise)
+
+**Skills** Athletics +16, Stealth +9, Survival +11
 
 **STR** +7, **DEX** +2, **CON** +4, **INT** -4, **WIS** +2, **CHA** -1
 
@@ -23,8 +25,8 @@ n, huge, animal
 
 Speed 30 feet, climb 10 feet
 
-**Melee** claw +15 (reach <10 feet>); **Damage** 2d8+8 slashing plus Knockdown (page 305) plus Knockdown
+**Melee** ◆ claw +15 (reach <10 feet>); **Damage** 2d8+8 slashing plus Knockdown (page 305) plus Knockdown
 
-**Melee** foot +15 (agile); **Damage** 2d6+8 bludgeoning
+**Melee** ◆ foot +15 (agile); **Damage** 2d6+8 bludgeoning
 
 **Rend** ◆ (claw) (page 306)

@@ -5,9 +5,11 @@ ce, large, demon, fiend
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, true seeing
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +33, Deception +30, Diplomacy +30, Intimidation +32, Religion +29, Stealth +29, Warfare Lore +31
 
 **STR** +8, **DEX** +6, **CON** +6, **INT** +4, **WIS** +4, **CHA** +7
 
@@ -31,17 +33,21 @@ ce, large, demon, fiend
 
 Speed 40 feet, fly 40 feet
 
-**Melee** cold iron silver longsword +35 (evil, magical, reach <10 feet>, versatile <P>); **Damage** 3d8+16 slashing plus 1d6 evil
+**Melee** ◆ cold iron silver longsword +35 (evil, magical, reach <10 feet>, versatile <P>); **Damage** 3d8+16 slashing plus 1d6 evil
 
-**Melee** tail +33 (evil, magical, reach <10 feet>); **Damage** 3d12+16 bludgeoning plus 1d6 evil and Grab plus Grab
+**Melee** ◆ tail +33 (evil, magical, reach <10 feet>); **Damage** 3d12+16 bludgeoning plus 1d6 evil and Grab plus Grab
 
 **Innate divine Spells** (DC 38)
 
-  **4th** dimension door
+  **Constant (6th)** true seeing
+
+  **Constant (4th)** fly
+
+  **4th** dimension door (at will)
 
   **5th** dimension door
 
-  **9th** blade barrier, weapon storm
+  **9th** blade barrier (×2), weapon storm (×2)
 
 **Bladestorm** ◆◆ The marilith makes up to six longsword Strikes, each against a different target. These attacks count toward the marilith's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks.
 

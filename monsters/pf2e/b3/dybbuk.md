@@ -5,9 +5,11 @@ uncommon, ne, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision
 
-**Languages** abyssal, aklo, common
+**Languages** abyssal, aklo, common; telepathy 100 feet
+
+**Skills** Acrobatics +28, Deception +31, Diplomacy +27, Intimidation +29, Stealth +28
 
 **STR** -5, **DEX** +7, **CON** +0, **INT** +1, **WIS** +6, **CHA** +8
 
@@ -21,7 +23,7 @@ uncommon, ne, medium, incorporeal, spirit, undead
 
 **Immunities** poison, precision, death effects, disease, paralyzed, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Frightful Presence** (aura, divine, emotion, enchantment, fear, mental) 30 feet, DC 33 (page 305)
 
@@ -29,19 +31,19 @@ uncommon, ne, medium, incorporeal, spirit, undead
 
 Speed fly 50 feet
 
-**Melee** pain touch +28 (agile, evil, finesse, magical); **Damage** 3d10+14 negative plus 2d6 evil
+**Melee** ◆ pain touch +28 (agile, evil, finesse, magical); **Damage** 3d10+14 negative plus 2d6 evil
 
 **Innate occult Spells** (DC 36), attack +30
 
   **Cantrips (6th)** telekinetic projectile
 
-  **3rd** fear
+  **3rd** fear (at will)
 
   **4th** modify memory
 
-  **5th** chilling darkness, fear
+  **5th** chilling darkness (×2), fear
 
-  **6th** dominate, feeblemind, telekinetic maneuver
+  **6th** dominate, feeblemind, telekinetic maneuver (at will)
 
 **Inhabit Object** ◆ (necromancy, occult, possession) The dybbuk possesses a Large or smaller unattended object within 20 feet, making it an search=animated. This animated object's level can be no higher than the dybbuk's level – 2. This possession ends when the object is destroyed or the dybbuk leaves it by using this ability again. At this point, the dybbuk reappears in the object's square and can't Inhabit an Object again for 1d4 rounds. If the object is destroyed, the dybbuk takes 5d6 force damage.
 

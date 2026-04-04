@@ -5,13 +5,15 @@ unique, ne, large, undead
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision, detect alignment, detect magic, wavesense (imprecise)
 
 **Languages** abyssal, aquan, common, necril, shadowtongue
 
+**Skills** Arcana +29, Athletics +28, Deception +28, Intimidation +30, Occultism +29, Society +27, Stealth +29
+
 **STR** +7, **DEX** +4, **CON** +5, **INT** +6, **WIS** +4, **CHA** +5
 
-**Items** {@item The Beating|SF2}, jewelry worth 2,000 gp, +2 greater striking shock thundering trident
+**Items** The Beating|SF2, jewelry worth 2,000 gp, +2 greater striking shock thundering trident
 
 ---
 
@@ -33,17 +35,19 @@ unique, ne, large, undead
 
 Speed 30 feet, fly 30 feet, swim 40 feet
 
-**Melee** trident +30 (magical, thrown <20 feet>); **Damage** 3d8+15 piercing plus 1d6 electricity and 1d6 sonic
+**Melee** ◆ trident +30 (magical, thrown <20 feet>); **Damage** 3d8+15 piercing plus 1d6 electricity and 1d6 sonic
 
-**Melee** claw +28 (agile, reach <10 feet>); **Damage** 3d8+15 slashing plus drain life
+**Melee** ◆ claw +28 (agile, reach <10 feet>); **Damage** 3d8+15 slashing plus drain life
 
 **Innate arcane Spells** (DC 36), attack +29
 
-  **6th** blur, hydraulic push, illusory object, solid fog
+  **Constant (8th)** detect magic, detect alignment
 
-  **7th** cone of cold, control water, plane shift
+  **6th** blur, hydraulic push (at will), illusory object, solid fog
 
-  **8th** hallucinatory terrain, hydraulic torrent, illusory creature
+  **7th** cone of cold (at will), control water (at will), plane shift (at will)
+
+  **8th** hallucinatory terrain, hydraulic torrent, illusory creature (×2)
 
 **Innate occult Spells** (DC 36)
 

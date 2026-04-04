@@ -5,9 +5,11 @@ uncommon, ln, small, earth, elemental
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision, tremorsense 60 feet (precise)
 
 **Languages** common, terran
+
+**Skills** Arcana +11, Architectural Lore +13, Nature +10, Stealth +9
 
 **STR** -1, **DEX** +2, **CON** +1, **INT** +4, **WIS** +3, **CHA** +2
 
@@ -25,16 +27,16 @@ uncommon, ln, small, earth, elemental
 
 ---
 
-Speed 20 feet, burrow 20 feet
+Speed 20 feet, burrow 20 feet, earth glide
 
-**Melee** earthen shard +9 (evocation, primal, range increment <60 feet>, versatile <B>); **Damage** 1d10+2 piercing
+**Ranged** ◆ earthen shard +9 (evocation, primal, range increment <60 feet>, versatile <B>); **Damage** 1d10+2 piercing
 
 **Innate primal Spells** (DC 20), attack +12
 
   **Cantrips (2nd)** detect magic, telekinetic projectile
 
-  **1st** mindlink, share lore, shockwave
+  **1st** mindlink, share lore, shockwave (×2)
 
-  **2nd** glitterdust, pummeling rubble
+  **2nd** glitterdust, pummeling rubble (×2)
 
 **Gestalt** (mental, primal, transmutation) Two or more kaseshi can combine their scribed words to create something greater than either one alone. This has the effects of the Coven ability but no ritual is necessary, simply close proximity for 8 hours. All gestalts grant the following spells, which the gestalt can cast at any level up to 5th: creation, strange geometry|APG, and telekinetic haul. Individual kaseshi also grant additional spells to any gestalt they join—this one grants meld into stone and shape stone.

@@ -5,7 +5,9 @@ rare, n, large, mindless, ooze
 
 ---
 
-**Perception** +6
+**Perception** +6; motion sense  60 feet, no vision
+
+**Skills** Athletics +7
 
 **STR** +3, **DEX** -2, **CON** +2, **INT** -5, **WIS** -1, **CHA** -5
 
@@ -29,6 +31,10 @@ rare, n, large, mindless, ooze
 
 Speed 20 feet, swim 20 feet
 
-**Melee** pseudopod +9; **Damage** 1d8+3 bludgeoning plus monstrous yeast
+**Melee** ◆ pseudopod +9; **Damage** 1d8+3 bludgeoning plus monstrous yeast
 
-**Monstrous Yeast** (contact, disease) Whenever a creature infected with monstrous yeast takes cold damage, they can make a new saving throw with a +2 circumstance bonus. **Failure**  
+**Monstrous Yeast** (contact, disease) Whenever a creature infected with monstrous yeast takes cold damage, they can make a new saving throw with a +2 circumstance bonus. **Failure**  **Saving Throw** DC 16 Fortitude
+**Onset** 1 round
+**Stage 1** flat-footed (1 hour)
+**Stage 2** enfeebled 1 and flat-footed (1 hour)
+**Stage 3** enfeebled 2 and flat-footed (1 day)

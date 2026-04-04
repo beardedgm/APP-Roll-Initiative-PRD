@@ -5,9 +5,11 @@ rare, ne, huge, incorporeal, spirit, undead
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision, lifesense 10 feet
 
-**Languages** common
+**Languages** common; telepathy 100 feet
+
+**Skills** Intimidation +40, Occultism +34, Performance +38, Society +34
 
 **STR** -5, **DEX** +7, **CON** +4, **INT** +6, **WIS** +7, **CHA** +10
 
@@ -23,7 +25,7 @@ rare, ne, huge, incorporeal, spirit, undead
 
 **Immunities** disease, fear, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 15
+**Resistances** all damage 15 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Weaknesses** mental 15
 
@@ -33,7 +35,7 @@ rare, ne, huge, incorporeal, spirit, undead
 
 Speed fly 60 feet
 
-**Melee** hand +38 (finesse, magical, reach <15 feet>); **Damage** 4d10+16 negative plus life sap
+**Melee** ◆ hand +38 (finesse, magical, reach <15 feet>); **Damage** 4d10+16 negative plus life sap
 
 **Flailing Touch** ◆◆ The gray death makes up to four hand Strikes, each against a different target it can reach. It increases its reach to 100 feet with these Strikes. These Strikes count as one attack for the gray death's multiple attack penalty, and the penalty doesn't increase until after the attacks.
 

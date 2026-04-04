@@ -5,7 +5,9 @@ n, large, mindless, ooze
 
 ---
 
-**Perception** +5
+**Perception** +5; motion sense 60 feet, no vision
+
+**Skills** Athletics +11
 
 **STR** +4, **DEX** -5, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -27,7 +29,7 @@ n, large, mindless, ooze
 
 Speed 15 feet
 
-**Melee** cube face +11; **Damage** 1d6 acid plus paralysis plus paralysis
+**Melee** ◆ cube face +11; **Damage** 1d6 acid plus paralysis plus paralysis
 
 **Engulf** ◆◆ DC 19, 2d6 acid, Escape DC 19, Rupture 7. A creature Engulfed by the gelatinous cube must also attempt a saving throw against paralysis.
 

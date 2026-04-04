@@ -5,9 +5,11 @@ rare, uncommon, ne, medium, aberration
 
 ---
 
-**Perception** +23
+**Perception** +23; low-light vision
 
 **Languages** aklo, common, draconic
+
+**Skills** Arcana +27, Athletics +22, Occultism +27, Lore +27 (any one subcategory)
 
 **STR** +5, **DEX** +6, **CON** +4, **INT** +8, **WIS** +6, **CHA** -1
 
@@ -33,13 +35,13 @@ rare, uncommon, ne, medium, aberration
 
 Speed 25 feet
 
-**Melee** limb +24; **Damage** 3d10+11 bludgeoning
+**Melee** ◆ limb +24; **Damage** 3d10+11 bludgeoning
 
-**Melee** warping ray +27 (deadly <2d8>, magical, range <100 feet>); **Damage** 3d8+8 force
+**Ranged** ◆ warping ray +27 (deadly <2d8>, magical, range <100 feet>); **Damage** 3d8+8 force
 
 **Innate occult Spells** (DC 33)
 
-  **4th** blink
+  **4th** blink (×2)
 
   **7th** ethereal jaunt, warp mind
 

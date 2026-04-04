@@ -5,9 +5,11 @@ uncommon, n, large, dragon
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision, scent 30 feet (imprecise)
 
 **Languages** draconic (can't speak any language)
+
+**Skills** Athletics +10, Stealth +6, Survival +5
 
 **STR** +4, **DEX** +0, **CON** +4, **INT** -3, **WIS** +1, **CHA** -2
 
@@ -27,9 +29,9 @@ uncommon, n, large, dragon
 
 Speed 20 feet, swim 30 feet
 
-**Melee** jaws +10; **Damage** 1d12+4 piercing
+**Melee** ◆ jaws +10; **Damage** 1d12+4 piercing
 
-**Melee** tail +10 (agile); **Damage** 1d8+4 bludgeoning
+**Melee** ◆ tail +10 (agile); **Damage** 1d8+4 bludgeoning
 
 **Body Slam** ◆ **Requirements** More than one enemy is adjacent to the grauladon.; The grauladon swings its tail at each adjacent enemy and attempts to Trip each creature adjacent to it. It rolls only a single Athletics check and compares the result to the Fortitude DC of each target.
 

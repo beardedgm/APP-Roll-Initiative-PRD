@@ -5,9 +5,11 @@ uncommon, ne, huge, aberration
 
 ---
 
-**Perception** +30
+**Perception** +30; greater darkvision, smoke vision
 
-**Languages** aklo
+**Languages** aklo; telepathy 100 feet
+
+**Skills** Athletics +37
 
 **STR** +9, **DEX** +6, **CON** +8, **INT** -1, **WIS** +0, **CHA** +4
 
@@ -23,7 +25,7 @@ uncommon, ne, huge, aberration
 
 **Immunities** fire, poison
 
-**Resistances** physical 10
+**Resistances** physical 10 (except adamantine)
 
 **Weaknesses** cold 10, good 10
 
@@ -33,13 +35,13 @@ uncommon, ne, huge, aberration
 
 Speed 40 feet, climb 40 feet
 
-**Melee** tentacle +35 (agile, reach 20 feet); **Damage** 3d10+17 bludgeoning plus Grab
+**Melee** ◆ tentacle +35 (agile, reach 20 feet); **Damage** 3d10+17 bludgeoning plus Grab
 
-**Melee** lava ball +34 (brutal, range increment 60 feet); **Damage** 4d6+17 bludgeoning plus 3d6 fire
+**Ranged** ◆ lava ball +34 (brutal, range increment 60 feet); **Damage** 4d6+17 bludgeoning plus 3d6 fire
 
 **Innate divine Spells** (DC 38)
 
-  **6th** earthbind, hallucination
+  **6th** earthbind (×3), hallucination
 
   **8th** earthquake
 

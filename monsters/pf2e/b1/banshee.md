@@ -5,9 +5,11 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision, hears heartbeats 60 feet (imprecise)
 
 **Languages** common, elven
+
+**Skills** Acrobatics +31, Intimidation +32, Occultism +25
 
 **STR** -5, **DEX** +6, **CON** +2, **INT** +0, **WIS** +7, **CHA** +7
 
@@ -25,7 +27,7 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 **Immunities** poison, precision, disease, paralyzed, unconscious
 
-**Resistances** all damage 12
+**Resistances** all damage 12 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Vengeful Spite** ◈ (evocation, occult) **Trigger** A foe critically hits the banshee, or the banshee critically fails their save against a foe's damaging effect.; The banshee lashes back at their tormentor, dealing 4d10+14 mental damage (DC 38 basic Will save) and applying the effects of terrifying touch based on the results of the same Will save.
 
@@ -33,7 +35,7 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 Speed fly 60 feet
 
-**Melee** hand +32 (finesse, magical); **Damage** 4d10+14 negative plus terrifying touch plus terrifying touch
+**Melee** ◆ hand +32 (finesse, magical); **Damage** 4d10+14 negative plus terrifying touch plus terrifying touch
 
 **Spectral Ripple** When a banshee Strides at least 10 feet, they're concealed until the start of their next turn.
 

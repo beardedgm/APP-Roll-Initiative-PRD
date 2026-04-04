@@ -5,9 +5,11 @@ rare, ne, tiny, construct
 
 ---
 
-**Perception** +3
+**Perception** +3; darkvision
 
-**Languages** common (can't speak any language)
+**Languages** common (can't speak any language); master link
+
+**Skills** Acrobatics +5, Stealth +5
 
 **STR** -1, **DEX** +3, **CON** +0, **INT** +1, **WIS** +1, **CHA** -2
 
@@ -32,8 +34,8 @@ rare, ne, tiny, construct
 
 Speed 15 feet, fly 40 feet
 
-**Melee** jaws +7 (finesse, magical); **Damage** 1d4 piercing plus 1d4 persistent fire
+**Melee** ◆ jaws +7 (finesse, magical); **Damage** 1d4 piercing plus 1d4 persistent fire
 
-**Melee** wax glob +8 (magical, range increment <20 feet>); **Damage** 1d4 persistent fire
+**Ranged** ◆ wax glob +8 (magical, range increment <20 feet>); **Damage** 1d4 persistent fire
 
 **Dunk in Wax** ◆◆ (move) A scented candle homunculus who is adjacent to the large wax cauldron can dunk itself in wax, healing 2d6 damage.

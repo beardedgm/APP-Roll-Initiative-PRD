@@ -5,9 +5,11 @@ unique, ln, small, humanoid, ratfolk
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common, undercommon
+
+**Skills** Acrobatics +11, Diplomacy +12, Intimidation +12, Performance +12, Society +9, Stealth +11
 
 **STR** +1, **DEX** +3, **CON** +0, **INT** +1, **WIS** +2, **CHA** +4
 
@@ -27,7 +29,7 @@ unique, ln, small, humanoid, ratfolk
 
 Speed 25 feet
 
-**Melee** fangs +13 (agile, finesse); **Damage** 1d4+1 piercing
+**Melee** ◆ fangs +13 (agile, finesse); **Damage** 1d4+1 piercing
 
 **Spontaneous occult Spells** (DC 21), attack +13
 

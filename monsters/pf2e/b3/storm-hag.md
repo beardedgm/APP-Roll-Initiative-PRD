@@ -5,9 +5,11 @@ ce, medium, air, electricity, hag, humanoid
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision, stormsight
 
-**Languages** aklo, auran, common, jotun
+**Languages** aklo, auran, common, jotun; voice of the storm
+
+**Skills** Acrobatics +11, Deception +11, Intimidation +13, Occultism +11, Stealth +9, Weather Lore +13
 
 **STR** +4, **DEX** +2, **CON** +4, **INT** +2, **WIS** +3, **CHA** +4
 
@@ -31,15 +33,15 @@ ce, medium, air, electricity, hag, humanoid
 
 Speed 25 feet, fly 40 feet
 
-**Melee** claw +15 (agile); **Damage** 1d6+7 slashing plus 1d6 electricity
+**Melee** ◆ claw +15 (agile); **Damage** 1d6+7 slashing plus 1d6 electricity
 
-**Melee** jaws +15; **Damage** 1d8+7 piercing plus 1d6 electricity
+**Melee** ◆ jaws +15; **Damage** 1d8+7 piercing plus 1d6 electricity
 
-**Melee** wind blast +13 (air, range <30 feet>); **Damage** 1d10+5 bludgeoning
+**Ranged** ◆ wind blast +13 (air, range <30 feet>); **Damage** 1d10+5 bludgeoning
 
 **Innate occult Spells** (DC 22)
 
-  **3rd** gust of wind, lightning bolt, obscuring mist, wall of wind
+  **3rd** gust of wind (at will), lightning bolt, obscuring mist, wall of wind
 
 **Stormcalling** A storm hag can perform a special control weather ritual, which requires no secondary casters, to change the weather within 5 miles of her location for 4d12 hours. The primary check is a DC 23 Occultism check, and she can't get an outcome worse than a failure. The storm hag can create only hurricanes, thunderstorms, and tornadoes, but she can do so regardless of the current season. She can also quell natural weather events but never willingly does so.
 

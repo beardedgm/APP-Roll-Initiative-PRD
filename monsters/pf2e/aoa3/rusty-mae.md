@@ -5,9 +5,11 @@ unique, le, large, hag, humanoid
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** aklo, common, infernal, jotun
+
+**Skills** Acrobatics +17, Athletics +21, Deception +19, Diplomacy +21, Intimidation +17, Religion +22, Stealth +19
 
 **STR** +7, **DEX** +5, **CON** +5, **INT** +4, **WIS** +6, **CHA** +5
 
@@ -21,13 +23,13 @@ unique, le, large, hag, humanoid
 
 **HP** 155
 
-**Resistances** physical 10
+**Resistances** physical 10 (except bludgeoning)
 
 ---
 
 Speed 40 feet
 
-**Melee** claws +23 (agile, cold iron, magical, reach <10 feet>); **Damage** 2d8+13 slashing plus Grab and rust plus Grab, rust
+**Melee** ◆ claws +23 (agile, cold iron, magical, reach <10 feet>); **Damage** 2d8+13 slashing plus Grab and rust plus Grab, rust
 
 **Bonds of Iron** ◆◆ (attack, conjuration, occult) Once per day, Rusty Mae can cause a cage built of cold iron fingernails to spring out of nothingness at a range of up to 30 feet, attempting an Athletics check to Grapple against the target's Fortitude DC; if the target has a weakness to cold iron, the annis hag gains a +2 circumstance bonus to this check. Unlike a normal Grapple, Rusty Mae doesn't need to be within reach and can move as she pleases, and a successful attempt lasts until the creature escapes (DC 29), causing the cage to crumble into rust. Any creature can attempt to destroy the cage by attacking it. It has an AC of 25, Hardness 14, and 56 Hit Points.
 

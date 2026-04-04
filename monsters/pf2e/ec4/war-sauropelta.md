@@ -5,7 +5,9 @@ uncommon, n, large, animal, dinosaur
 
 ---
 
-**Perception** +23
+**Perception** +23; low-light vision
+
+**Skills** Athletics +25
 
 **STR** +7, **DEX** +2, **CON** +7, **INT** -4, **WIS** +4, **CHA** +0
 
@@ -27,9 +29,9 @@ uncommon, n, large, animal, dinosaur
 
 Speed 25 feet
 
-**Melee** tail +24 (backswing, reach <10 feet>); **Damage** 3d8+13 bludgeoning plus Push and punishing tail plus Push, punishing tail
+**Melee** ◆ tail +24 (backswing, reach <10 feet>); **Damage** 3d8+13 bludgeoning plus Push and punishing tail plus Push, punishing tail
 
-**Melee** foot +24; **Damage** 3d6+13 bludgeoning
+**Melee** ◆ foot +24; **Damage** 3d6+13 bludgeoning
 
 **Punishing Tail** A creature struck by the war sauropelta's tail must attempt a DC 32 Fortitude save. On a failure, it's stunned|CRB|stunned 1; on a critical failure, it's stunned|CRB|stunned 3.
 

@@ -5,11 +5,13 @@ le, medium, goblin, humanoid
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
+
+**Skills** Athletics +6, Stealth +6
 
 **STR** +3, **DEX** +3, **CON** +2, **INT** +0, **WIS** +2, **CHA** -1
 
-**Items** {@item hide||hide armor}, {@item longsword}, {@item shortbow} (10 {@item arrow (generic)||arrows}), {@item steel shield||shield}
+**Items** hide armor, longsword, shortbow (10 arrows), shield
 
 ---
 
@@ -27,6 +29,6 @@ le, medium, goblin, humanoid
 
 Speed 25 feet
 
-**Melee** longsword +8 (versatile <P>); **Damage** 1d8 + 3 slashing
+**Melee** ◆ longsword +8 (versatile <P>); **Damage** 1d8 + 3 slashing
 
-**Melee** shortbow +8 (deadly <1d10>, range increment <60 feet>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +8 (deadly <1d10>, range increment <60 feet>); **Damage** 1d6 piercing

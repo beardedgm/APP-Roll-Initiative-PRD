@@ -5,9 +5,11 @@ rare, ce, medium, fiend, nindoru
 
 ---
 
-**Perception** +23
+**Perception** +23; cursesense, {@ability darkvision}
 
 **Languages** aklo, common, necril
+
+**Skills** Athletics +27, Crafting +26, Deception +24, Occultism +25, Stealth +24
 
 **STR** +8, **DEX** +5, **CON** +6, **INT** +6, **WIS** +4, **CHA** +5
 
@@ -33,13 +35,13 @@ rare, ce, medium, fiend, nindoru
 
 Speed 25 feet
 
-**Melee** silver blade +28 (magical, silver, two-hand <d12>); **Damage** 2d8+11 slashing plus 1d6 persistent bleed and 1d6 mental
+**Melee** ◆ silver blade +28 (magical, silver, two-hand <d12>); **Damage** 2d8+11 slashing plus 1d6 persistent bleed and 1d6 mental
 
 **Innate occult Spells** (DC 33), attack +25
 
   **Cantrips (7th)** daze, mage hand, telekinetic projectile
 
-  **3rd** illusory disguise, item facade
+  **3rd** illusory disguise (at will), item facade
 
   **5th** subconscious suggestion
 

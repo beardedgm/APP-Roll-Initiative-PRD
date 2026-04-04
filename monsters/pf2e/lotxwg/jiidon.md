@@ -5,9 +5,11 @@ uncommon, tiny, beast
 
 ---
 
-**Perception** +10
+**Perception** +10; {@ability darkvision}
 
 **Languages** fey, tien
+
+**Skills** Acrobatics +11, Deception +9, Stealth +11
 
 **STR** +2, **DEX** +4, **CON** +3, **INT** +1, **WIS** +2, **CHA** +2
 
@@ -25,7 +27,7 @@ uncommon, tiny, beast
 
 Speed 30 feet, climb 10 feet
 
-**Melee** jaws +11 (finesse); **Damage** 2d6+4 piercing plus sneak attack plus sneak attack
+**Melee** ◆ jaws +11 (finesse); **Damage** 2d6+4 piercing plus sneak attack plus sneak attack
 
 **Consumed Fragments** ◆ (concentrate, polymorph, primal) The jiidon takes on the form of any Medium or Small humanoid creature whose fingernails or similar fragments they've consumed within the last week, gaining the effects of a 3rd-rank illusory disguise|PC1 spell to impersonate the creature for 8 hours; this is a polymorph effect rather than an illusion effect. Once a jiidon has transformed into a creature in this way, they must eat that creature's fingernails again to transform into it again. If a jiidon consumes the nails of a specific humanoid three nights in a row, they can take the form of that humanoid at will but can't use this ability to imitate any other humanoid thereafter.
 

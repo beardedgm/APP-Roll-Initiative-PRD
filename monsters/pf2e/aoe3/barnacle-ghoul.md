@@ -5,9 +5,11 @@ uncommon, ne, medium, ghoul, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** aquan, common, necril
+
+**Skills** Acrobatics +19, Athletics +19, Stealth +19, Survival +17
 
 **STR** +6, **DEX** +6, **CON** +3, **INT** +1, **WIS** +4, **CHA** +4
 
@@ -27,11 +29,11 @@ uncommon, ne, medium, ghoul, undead
 
 Speed 25 feet, swim 40 feet, climb 10 feet
 
-**Melee** jaws +21 (finesse); **Damage** 2d10+10 piercing plus fill lungs and paralysis plus fill lungs, paralysis
+**Melee** ◆ jaws +21 (finesse); **Damage** 2d10+10 piercing plus fill lungs and paralysis plus fill lungs, paralysis
 
-**Melee** claw +21 (agile, finesse); **Damage** 2d6+10 plus Grab and paralysis plus 2d6+10, Grab, paralysis
+**Melee** ◆ claw +21 (agile, finesse); **Damage** 2d6+10 plus Grab and paralysis plus 2d6+10, Grab, paralysis
 
-**Melee** water jet +21 (range increment <10 feet>); **Damage** 2d6+10 plus fill lungs plus 2d6+10, fill lungs
+**Ranged** ◆ water jet +21 (range increment <10 feet>); **Damage** 2d6+10 plus fill lungs plus 2d6+10, fill lungs
 
 **Consume Flesh** ◆ (manipulate) **Requirements** The barnacle ghoul is adjacent to the corpse of a creature that died within the last hour.; The barnacle ghoul regains 5d6 Hit Points. It can regain Hit Points from any given corpse only once.
 

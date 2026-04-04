@@ -5,7 +5,9 @@ uncommon, n, gargantuan, construct
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision
+
+**Skills** Arcana +32, Athletics +33, Occultism +32, Astronomy Lore +36
 
 **STR** +9, **DEX** +6, **CON** +5, **INT** +6, **WIS** +5, **CHA** +0
 
@@ -19,7 +21,7 @@ uncommon, n, gargantuan, construct
 
 **Immunities** bleed, poison, death effects, disease, doomed, drained, fatigued, necromancy, nonlethal attacks, paralyzed, sickened, unconscious
 
-**Resistances** mental 15, physical 15
+**Resistances** mental 15, physical 15 (except adamantine)
 
 **Gatekeeper Aura** (abjuration, aura, occult) 60 feet. A creature that uses a teleportation ability within the aura's emanation or enters it via a teleportation ability must succeed a DC 38 Will save or become sickened 1 and have its destination changed to a point of the radiant warden's choosing within the emanation. On a successful save, the creature arrives as intended but is still sickened 1.
 
@@ -27,17 +29,17 @@ uncommon, n, gargantuan, construct
 
 Speed 30 feet, fly 30 feet
 
-**Melee** hammer +32 (magical, reach <15 feet>, shove); **Damage** 3d12+15 bludgeoning plus radiant blow plus radiant blow
+**Melee** ◆ hammer +32 (magical, reach <15 feet>, shove); **Damage** 3d12+15 bludgeoning plus radiant blow plus radiant blow
 
-**Melee** radiant beam +32 (magical, reach <15 feet>); **Damage** 4d10 force
+**Ranged** ◆ radiant beam +32 (magical, reach <15 feet>); **Damage** 4d10 force
 
 **Innate occult Spells** (DC 38)
 
-  **5th** dimension door
+  **5th** dimension door (at will)
 
   **7th** dimensional lock, prismatic spray
 
-  **8th** collective transposition, scintillating pattern
+  **8th** collective transposition (×3), scintillating pattern
 
   **9th** teleport
 

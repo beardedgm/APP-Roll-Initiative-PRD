@@ -5,9 +5,11 @@ ce, small, humanoid, morlock
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** undercommon
+
+**Skills** Acrobatics +7, Athletics +5, Stealth +7
 
 **STR** +2, **DEX** +4, **CON** +1, **INT** -2, **WIS** +3, **CHA** +1
 
@@ -27,11 +29,11 @@ ce, small, humanoid, morlock
 
 Speed 30 feet, climb 20 feet
 
-**Melee** dagger +9 (agile, finesse, versatile <S>); **Damage** 1d4+2 piercing
+**Melee** ◆ dagger +9 (agile, finesse, versatile <S>); **Damage** 1d4+2 piercing
 
-**Melee** jaws +7 (agile); **Damage** 1d4+2 piercing
+**Melee** ◆ jaws +7 (agile); **Damage** 1d4+2 piercing
 
-**Melee** dagger +9 (agile, thrown <10 ft.>, versatile <S>); **Damage** 1d4+2 piercing
+**Ranged** ◆ dagger +9 (agile, thrown <10 ft.>, versatile <S>); **Damage** 1d4+2 piercing
 
 **Scuttling Attack** ◆◆ The morlock scavenger Strides twice, ignoring terrain caused by natural cavern features like rubble or stalagmites. At any point during its movement, the morlock can make a melee Strike against an enemy in its reach.
 

@@ -5,7 +5,9 @@ n, large, animal, swarm
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
+
+**Skills** Acrobatics +11, Athletics +6, Stealth +11
 
 **STR** +0, **DEX** +5, **CON** +2, **INT** -5, **WIS** +0, **CHA** -4
 

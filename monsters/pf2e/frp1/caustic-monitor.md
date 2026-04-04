@@ -5,7 +5,9 @@ rare, n, huge, animal
 
 ---
 
-**Perception** +22
+**Perception** +22; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +24, Athletics +28, Stealth +20
 
 **STR** +7, **DEX** +5, **CON** +5, **INT** -4, **WIS** +4, **CHA** -2
 
@@ -25,9 +27,9 @@ rare, n, huge, animal
 
 Speed 40 feet
 
-**Melee** jaws +27 (reach <10 feet>); **Damage** 2d10+9 piercing plus 2d8 acid,
+**Melee** ◆ jaws +27 (reach <10 feet>); **Damage** 2d10+9 piercing plus 2d8 acid,
 
-**Melee** talon +27; **Damage** 2d8+13 slashing plus 2d6 persistent bleed
+**Melee** ◆ talon +27; **Damage** 2d8+13 slashing plus 2d6 persistent bleed
 
 **Improved** ◆ Grab, and caustic monitor venom Melee talon +27, Damage 2d8+13 slashing plus 2d6 persistent bleed.
 

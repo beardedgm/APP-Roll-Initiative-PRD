@@ -5,9 +5,11 @@ uncommon, ln, medium, fey, light, nymph
 
 ---
 
-**Perception** +34
+**Perception** +34; low-light vision
 
 **Languages** celestial, common, draconic, sylvan, utopian
+
+**Skills** Acrobatics +32, Arcana +30, Athletics +28, Deception +37, Diplomacy +39, Intimidation +37, Nature +32, Performance +35, Society +30, Stealth +32
 
 **STR** +5, **DEX** +9, **CON** +6, **INT** +7, **WIS** +7, **CHA** +10
 
@@ -29,9 +31,9 @@ uncommon, ln, medium, fey, light, nymph
 
 Speed 30 feet, fly 90 feet
 
-**Melee** sunset ribbon +36 (agile, finesse); **Damage** 4d10+13 slashing plus 1d6 fire and 1d6 positive
+**Melee** ◆ sunset ribbon +36 (agile, finesse); **Damage** 4d10+13 slashing plus 1d6 fire and 1d6 positive
 
-**Melee** sunset ray +36 (magical, range increment <120 feet>); **Damage** 4d12+13 fire plus 1d6 positive
+**Ranged** ◆ sunset ray +36 (magical, range increment <120 feet>); **Damage** 4d12+13 fire plus 1d6 positive
 
 **Prepared primal Spells** (DC 44)
 

@@ -5,9 +5,11 @@ n, small, leshy, plant
 
 ---
 
-**Perception** +9
+**Perception** +9; low-light vision
 
-**Languages** common, druidic, sylvan
+**Languages** common, druidic, sylvan; speak with plants (succulents only)
+
+**Skills** Nature +7, Stealth +6, Survival +7
 
 **STR** +3, **DEX** +2, **CON** +4, **INT** -1, **WIS** +3, **CHA** +0
 
@@ -29,9 +31,9 @@ n, small, leshy, plant
 
 Speed 25 feet
 
-**Melee** spine +11; **Damage** 1d8+3 piercing
+**Melee** ◆ spine +11; **Damage** 1d8+3 piercing
 
-**Melee** spine +11 (range increment <30 feet>); **Damage** 1d8+3 piercing
+**Ranged** ◆ spine +11 (range increment <30 feet>); **Damage** 1d8+3 piercing
 
 **Innate primal Spells** (DC 18)
 

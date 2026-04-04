@@ -5,9 +5,11 @@ unique, cn, small, fey, sprite
 
 ---
 
-**Perception** +19
+**Perception** +19; low-light vision
 
 **Languages** common
+
+**Skills** Acrobatics +18, Deception +16, Nature +15, Performance +18, Stealth +21
 
 **STR** +0, **DEX** +6, **CON** +1, **INT** +2, **WIS** +3, **CHA** +4
 
@@ -31,9 +33,9 @@ unique, cn, small, fey, sprite
 
 Speed 15 feet, fly 45 feet
 
-**Melee** shortsword +18 (agile, finesse, magical, versatile <S>); **Damage** 1d6+10 piercing
+**Melee** ◆ shortsword +18 (agile, finesse, magical, versatile <S>); **Damage** 1d6+10 piercing
 
-**Melee** longbow +19 (deadly <d10>, magical, range increment <100 feet>, volley <20 feet>); **Damage** 2d6+10 piercing
+**Ranged** ◆ longbow +19 (deadly <d10>, magical, range increment <100 feet>, volley <20 feet>); **Damage** 2d6+10 piercing
 
 **Innate primal Spells** (DC 26)
 
@@ -43,7 +45,7 @@ Speed 15 feet, fly 45 feet
 
   **3rd** dispel magic, illusory disguise
 
-  **4th** invisibility
+  **4th** invisibility (at will)
 
 **Sprinkle Pixie Dust** ◆ (manipulate) Pin sprinkles pixie dust onto one of his arrows. If Pin hits a creature with that arrow before his next turn, the arrow inflicts one of the following special effects instead of dealing damage. Each effect depends on the target's DC 26 Will save. On a critical hit, the target treats its save result as one degree worse. - Befuddlement (enchantment, mental) On a failed Will save, the target is stupefied|CRB|stupefied 1 for 1 minute (stupefied|CRB|stupefied 2 on a critical failure).
 - Charm (emotion, enchantment, incapacitation, mental) The target suffers the result of a 4th-level charm spell, except it doesn't gain a bonus to its save if the only hostile act was Pin firing his bow, and Pin can choose to direct the target's adoration to another creature rather than himself.

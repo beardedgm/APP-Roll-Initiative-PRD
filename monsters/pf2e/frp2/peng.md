@@ -9,6 +9,8 @@ rare, ng, gargantuan, air, beast, cold
 
 **Languages** auran, common
 
+**Skills** Acrobatics +23, Athletics +22, Nature +25
+
 **STR** +4, **DEX** +6, **CON** +5, **INT** +3, **WIS** +5, **CHA** +7
 
 **Heaven's View** Clouds don't impair a peng's vision.
@@ -29,15 +31,15 @@ rare, ng, gargantuan, air, beast, cold
 
 ---
 
-Speed 10 feet, fly 70 feet
+Speed 10 feet, fly 70 feet, windslice
 
-**Melee** beak +22 (reach <10 feet>); **Damage** 3d8+10 piercing
+**Melee** ◆ beak +22 (reach <10 feet>); **Damage** 3d8+10 piercing
 
-**Melee** talon +22 (agile); **Damage** 3d6+10 slashing
+**Melee** ◆ talon +22 (agile); **Damage** 3d6+10 slashing
 
 **Innate primal Spells** (DC 31)
 
-  **5th** cone of cold, gust of wind, wall of wind
+  **5th** cone of cold, gust of wind (at will), wall of wind (at will)
 
 **Windslice** Pengs can move in any wind with easy grace. A peng ignores terrain caused by wind and doesn't need to Maneuver in Flight in high winds.
 

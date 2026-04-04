@@ -5,9 +5,11 @@ uncommon, n, large, dragon
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
 **Languages** draconic
+
+**Skills** Acrobatics +22, Athletics +24, Intimidation +20, Stealth +20, Survival +19
 
 **STR** +7, **DEX** +3, **CON** +5, **INT** -1, **WIS** +2, **CHA** +3
 
@@ -27,13 +29,13 @@ uncommon, n, large, dragon
 
 Speed 30 feet, fly 130 feet, swim 30 feet
 
-**Melee** beak +24 (magical, reach <15 feet>); **Damage** 2d12+13 piercing plus boat breaker and Grab plus boat breaker, Grab
+**Melee** ◆ beak +24 (magical, reach <15 feet>); **Damage** 2d12+13 piercing plus boat breaker and Grab plus boat breaker, Grab
 
-**Melee** claw +24 (agile, reach <10 feet>); **Damage** 2d8+13 slashing
+**Melee** ◆ claw +24 (agile, reach <10 feet>); **Damage** 2d8+13 slashing
 
-**Melee** wing +22 (agile, reach <15 feet>); **Damage** 2d10+11 bludgeoning
+**Melee** ◆ wing +22 (agile, reach <15 feet>); **Damage** 2d10+11 bludgeoning
 
-**Melee** tail +22 (agile, reach <20 feet>); **Damage** 2d8+11 bludgeoning
+**Melee** ◆ tail +22 (agile, reach <20 feet>); **Damage** 2d8+11 bludgeoning
 
 **Boat Breaker** A kongamato's beak is supernaturally hard. Their beak Strikes ignore half the Hardness of any object they hit.
 

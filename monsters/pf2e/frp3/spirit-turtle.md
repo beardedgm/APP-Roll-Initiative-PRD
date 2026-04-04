@@ -7,7 +7,9 @@ rare, cg, gargantuan, fey
 
 **Perception** +35
 
-**Languages** common, sylvan
+**Languages** common, sylvan; tongues
+
+**Skills** Diplomacy +36, Medicine +40, Nature +36, Occultism +34, Survival +40, Lore +34 (all subcategories)
 
 **STR** +8, **DEX** +6, **CON** +11, **INT** +6, **WIS** +10, **CHA** +7
 
@@ -29,23 +31,25 @@ rare, cg, gargantuan, fey
 
 Speed 30 feet, swim 40 feet
 
-**Melee** jaws +37 (magical, reach <20 feet>); **Damage** 4d12+14 piercing plus 2d6 energy and Improved Grab plus Improved Grab
+**Melee** ◆ jaws +37 (magical, reach <20 feet>); **Damage** 4d12+14 piercing plus 2d6 energy and Improved Grab plus Improved Grab
 
-**Melee** foot +37 (magical, reach <15 feet>); **Damage** 4d10+14 bludgeoning plus 2d6 energy and Improved Knockdown plus Improved Knockdown
+**Melee** ◆ foot +37 (magical, reach <15 feet>); **Damage** 4d10+14 bludgeoning plus 2d6 energy and Improved Knockdown plus Improved Knockdown
 
 **Innate primal Spells** (DC 44)
 
-  **4th** heal, vital beacon
+  **Constant (10th)** tongues
 
-  **5th** breath of life
+  **4th** heal (at will), vital beacon (at will)
 
-  **6th** restoration
+  **5th** breath of life (×3)
 
-  **7th** plane shift, regenerate
+  **6th** restoration (×2)
 
-  **8th** moment of renewal
+  **7th** plane shift, regenerate (×2)
 
-  **9th** field of life
+  **8th** moment of renewal (×2)
+
+  **9th** field of life (×2)
 
   **10th** primal phenomenon, revival
 

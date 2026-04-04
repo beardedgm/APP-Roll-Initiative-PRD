@@ -5,7 +5,9 @@ unique, n, medium, animal
 
 ---
 
-**Perception** +7
+**Perception** +7; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +9, Athletics +8, Stealth +8, Survival +6
 
 **STR** +2, **DEX** +4, **CON** +3, **INT** -4, **WIS** +1, **CHA** -2
 
@@ -25,7 +27,7 @@ unique, n, medium, animal
 
 Speed 20 feet, swim 20 feet, climb 20 feet
 
-**Melee** fangs +11 (finesse); **Damage** 1d8+2 piercing plus 1d4 electricity
+**Melee** ◆ fangs +11 (finesse); **Damage** 1d8+2 piercing plus 1d4 electricity
 
 **Coil** ◆ The serpent uses an action to coil itself; increasing its reach with its fangs from 5 feet to 10 feet. After the serpent strikes with its fangs, it becomes uncoiled.
 

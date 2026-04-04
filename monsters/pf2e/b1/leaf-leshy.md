@@ -5,9 +5,11 @@ n, small, leshy, plant
 
 ---
 
-**Perception** +4
+**Perception** +4; low-light vision
 
-**Languages** common, druidic, sylvan
+**Languages** common, druidic, sylvan; speak with plants (trees only)
+
+**Skills** Acrobatics +4, Nature +4, Stealth +4
 
 **STR** -1, **DEX** +2, **CON** +2, **INT** -2, **WIS** +2, **CHA** +1
 
@@ -27,11 +29,11 @@ n, small, leshy, plant
 
 ---
 
-Speed 25 feet
+Speed 25 feet, glide
 
-**Melee** longspear +3 (reach <10 feet>); **Damage** 1d8-1 piercing
+**Melee** ◆ longspear +3 (reach <10 feet>); **Damage** 1d8-1 piercing
 
-**Melee** seedpod +6 (range increment <30 feet>); **Damage** 1d6 bludgeoning plus deafening blow plus deafening blow
+**Ranged** ◆ seedpod +6 (range increment <30 feet>); **Damage** 1d6 bludgeoning plus deafening blow plus deafening blow
 
 **Innate primal Spells** (DC 14)
 

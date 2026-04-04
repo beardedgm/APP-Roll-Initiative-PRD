@@ -5,9 +5,11 @@ uncommon, ce, huge, earth, fey, fire
 
 ---
 
-**Perception** +23
+**Perception** +23; low-light vision
 
 **Languages** ignan, sylvan, terran
+
+**Skills** Athletics +29, Nature +23, Survival +23
 
 **STR** +8, **DEX** +4, **CON** +6, **INT** +2, **WIS** +4, **CHA** +2
 
@@ -21,7 +23,7 @@ uncommon, ce, huge, earth, fey, fire
 
 **Immunities** fire
 
-**Resistances** physical 15
+**Resistances** physical 15 (except bludgeoning)
 
 **Weaknesses** cold 10, cold iron 10
 
@@ -33,13 +35,13 @@ uncommon, ce, huge, earth, fey, fire
 
 Speed 30 feet, burrow 20 feet, climb 20 feet
 
-**Melee** fist +27 (reach <15 feet>); **Damage** 3d8+11 bludgeoning plus 2d6 fire
+**Melee** ◆ fist +27 (reach <15 feet>); **Damage** 3d8+11 bludgeoning plus 2d6 fire
 
-**Melee** rock +25 (range increment <150 feet>); **Damage** 2d10+11 bludgeoning
+**Ranged** ◆ rock +25 (range increment <150 feet>); **Damage** 2d10+11 bludgeoning
 
 **Innate primal Spells** (DC 31)
 
-  **7th** earthbind, slow, stinking cloud
+  **7th** earthbind (×3), slow, stinking cloud
 
 **Belch Smoke** ◆◆◆ The dalos blasts smoke from its head, creating a 20-foot-radius cloud of smoke that drifts to a location within 120 feet. This has the effects of obscuring mist.
 

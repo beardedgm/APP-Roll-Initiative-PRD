@@ -5,9 +5,11 @@ n, small, elemental, fire
 
 ---
 
-**Perception** +3
+**Perception** +3; darkvision, smoke vision
 
 **Languages** ignan
+
+**Skills** Acrobatics +7, Deception +7
 
 **STR** +0, **DEX** +4, **CON** +0, **INT** -2, **WIS** +0, **CHA** +2
 
@@ -27,7 +29,7 @@ n, small, elemental, fire
 
 Speed 20 feet, fly 25 feet
 
-**Melee** jaws +9 (finesse); **Damage** 1d6 piercing and 1d4 fire
+**Melee** ◆ jaws +9 (finesse); **Damage** 1d6 piercing and 1d4 fire
 
 **Innate arcane Spells** (DC 15)
 

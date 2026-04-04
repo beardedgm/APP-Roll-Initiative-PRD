@@ -5,9 +5,11 @@ rare, n, gargantuan, plant
 
 ---
 
-**Perception** +32
+**Perception** +32; low-light vision, {@ability tremorsense} 120 feet (imprecise)
 
-**Languages** arboreal, common, sylvan
+**Languages** arboreal, common, sylvan; speak with animals, speak with plants
+
+**Skills** Athletics +37, Diplomacy +35, Intimidation +35, Nature +40, Stealth +31, Forest Lore +35
 
 **STR** +10, **DEX** +4, **CON** +9, **INT** +6, **WIS** +8, **CHA** +5
 
@@ -29,15 +31,17 @@ rare, n, gargantuan, plant
 
 Speed 40 feet
 
-**Melee** branch +37 (reach <15 feet>); **Damage** 4d12+18 bludgeoning and Improved Push 20 feet
+**Melee** ◆ branch +37 (reach <15 feet>); **Damage** 4d12+18 bludgeoning and Improved Push 20 feet
 
-**Melee** root +37 (reach <30 feet>); **Damage** 4d8+18 bludgeoning plus Trip plus Trip
+**Melee** ◆ root +37 (reach <30 feet>); **Damage** 4d8+18 bludgeoning plus Trip plus Trip
 
-**Melee** vine +37 (agile, reach <40 feet>); **Damage** 4d6+18 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ vine +37 (agile, reach <40 feet>); **Damage** 4d6+18 bludgeoning plus Improved Grab plus Improved Grab
 
 **Innate primal Spells** (DC 38)
 
-  **9th** nature's enmity
+  **Constant (9th)** speak with animals, speak with plants
+
+  **9th** nature's enmity (×4)
 
 **Fungal Web** ◆ The canopy elder launches a rapidly growing net of fungus from the mushrooms growing on its body at a single creature within 80 feet. The target must attempt a DC 39 Reflex save or become restrained by the fungal web (Escape DC 39). While restrained, the creature takes 4d6 poison damage at the end of each of their turns.
 

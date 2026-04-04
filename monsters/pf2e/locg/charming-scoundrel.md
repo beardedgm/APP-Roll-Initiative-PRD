@@ -5,13 +5,15 @@ cg, small, gnome, humanoid
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision
 
 **Languages** common, gnome, sylvan
 
+**Skills** Acrobatics +12, Athletics +7, Deception +11, Diplomacy +9, Intimidation +9, Medicine +9, Performance +9, Society +7, Stealth +10, Theater Lore +7, Thievery +10
+
 **STR** +1, **DEX** +4, **CON** +2, **INT** +1, **WIS** +0, **CHA** +3
 
-**Items** {@item hand crossbow} (20 {@item bolt (generic)||bolts}), {@item sap}, {@item studded leather||studded leather armor}
+**Items** hand crossbow (20 bolts), sap, studded leather armor
 
 ---
 
@@ -27,11 +29,11 @@ cg, small, gnome, humanoid
 
 Speed 25 feet
 
-**Melee** shortsword +12 (agile, versatile S); **Damage** 1d6+6 piercing
+**Melee** ◆ shortsword +12 (agile, versatile S); **Damage** 1d6+6 piercing
 
-**Melee** sap +9 (agile, nonlethal); **Damage** 1d6+2 bludgeoning
+**Melee** ◆ sap +9 (agile, nonlethal); **Damage** 1d6+2 bludgeoning
 
-**Melee** hand crossbow +12 (range increment 60 feet, reload 1); **Damage** 1d6+2 piercing
+**Ranged** ◆ hand crossbow +12 (range increment 60 feet, reload 1); **Damage** 1d6+2 piercing
 
 **Advancing Flourish** ◆◆ The charming scoundrel Strides twice. If they end their movement within melee reach of an enemy, they can Feint.
 

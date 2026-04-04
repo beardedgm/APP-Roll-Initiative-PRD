@@ -5,9 +5,11 @@ cn, tiny, monitor, protean
 
 ---
 
-**Perception** +4
+**Perception** +4; darkvision, entropy sense 30 feet (imprecise)
 
 **Languages** abyssal, protean
+
+**Skills** Acrobatics +7, Deception +6, Religion +4, Stealth +7
 
 **STR** -1, **DEX** +4, **CON** +0, **INT** -1, **WIS** -1, **CHA** +1
 
@@ -27,17 +29,19 @@ cn, tiny, monitor, protean
 
 ---
 
-Speed 20 feet, fly 40 feet
+Speed 20 feet, fly 40 feet, freedom of movement
 
-**Melee** jaws +9 (chaotic, finesse, magical); **Damage** 1d8-1 piercing plus 1d4 chaotic
+**Melee** ◆ jaws +9 (chaotic, finesse, magical); **Damage** 1d8-1 piercing plus 1d4 chaotic
 
-**Melee** tail +9 (chaotic, finesse, magical); **Damage** 1d4-1 slashing plus 1d4 chaotic and confounding lash plus confounding lash
+**Melee** ◆ tail +9 (chaotic, finesse, magical); **Damage** 1d4-1 slashing plus 1d4 chaotic and confounding lash plus confounding lash
 
 **Innate divine Spells** (DC 16)
 
+  **Constant (4th)** freedom of movement
+
   **Cantrips (4th)** dancing lights, ghost sound, prestidigitation
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
   **2nd** blur, obscuring mist
 

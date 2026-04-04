@@ -5,13 +5,15 @@ uncommon, ne, medium, fire, undead
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision, guardian sense
 
 **Languages** common, draconic, necril
 
+**Skills** Athletics +25, Intimidation +21, Dragon Lore +22
+
 **STR** +6, **DEX** +5, **CON** +4, **INT** +1, **WIS** +1, **CHA** +2
 
-**Items** {@condition broken} greatsword
+**Items** broken greatsword
 
 **Guardian Sense** (arcane, detection, divination) The dragonscarred dead is immediately aware of any intruder that enters the lair of its creator dragon. It does not know the exact location of the intruder but remains aware of the intruder's presence until the intruder either leaves or is destroyed.
 
@@ -33,7 +35,7 @@ uncommon, ne, medium, fire, undead
 
 Speed 25 feet
 
-**Melee** breath-seared greatsword +27 (magical, versatile <P>); **Damage** 1d12+9 slashing plus 2d6 negative plus 3d6 fire
+**Melee** ◆ breath-seared greatsword +27 (magical, versatile <P>); **Damage** 1d12+9 slashing plus 2d6 negative plus 3d6 fire
 
 **Breath-Seared Sword** The dragonscarred dead's weapon is magically scorched by a dragon's breath. When wielded by the dragonscarred dead who carried it in life, the sword deals an extra 2d6 negative damage and 3d6 fire damage. In the hands of any other creature, it is merely a broken greatsword.
 

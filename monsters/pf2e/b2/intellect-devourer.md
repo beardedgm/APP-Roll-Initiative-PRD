@@ -5,9 +5,11 @@ uncommon, ce, small, aberration
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision, lifesense 60 feet
 
-**Languages** aklo, common, undercommon (can't speak any languages)
+**Languages** aklo, common, undercommon (can't speak any languages); telepathy 100 feet
+
+**Skills** Athletics +14, Deception +20, Diplomacy +16, Occultism +17, Society +17, Stealth +18
 
 **STR** +2, **DEX** +4, **CON** +4, **INT** +5, **WIS** +4, **CHA** +6
 
@@ -23,15 +25,15 @@ uncommon, ce, small, aberration
 
 Speed 35 feet
 
-**Melee** talon +18 (agile, finesse); **Damage** 2d10+5 slashing
+**Melee** ◆ talon +18 (agile, finesse); **Damage** 2d10+5 slashing
 
 **Innate occult Spells** (DC 27)
 
   **Cantrips (4th)** daze, detect magic, read aura
 
-  **2nd** gentle repose, invisibility, paranoia
+  **2nd** gentle repose, invisibility (at will), paranoia (at will)
 
-  **3rd** soothe
+  **3rd** soothe (×3)
 
   **4th** confusion, globe of invulnerability
 

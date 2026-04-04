@@ -5,9 +5,11 @@ rare, le, medium, aberration
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +28, Athletics +22, Intimidation +27, Stealth +26
 
 **STR** +4, **DEX** +8, **CON** +4, **INT** +5, **WIS** +6, **CHA** +5
 
@@ -31,7 +33,7 @@ rare, le, medium, aberration
 
 Speed 30 feet
 
-**Melee** silver scissors +30 (agile, backstabber, fatal <d12>, finesse); **Damage** 3d6+12 slashing
+**Melee** ◆ silver scissors +30 (agile, backstabber, fatal <d12>, finesse); **Damage** 3d6+12 slashing
 
 **Rend** ◆ silver scissors
 

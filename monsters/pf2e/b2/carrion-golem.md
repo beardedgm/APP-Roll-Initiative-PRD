@@ -5,7 +5,9 @@ uncommon, n, medium, construct, golem, mindless
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
+
+**Skills** Athletics +14
 
 **STR** +4, **DEX** -2, **CON** +3, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -19,7 +21,7 @@ uncommon, n, medium, construct, golem, mindless
 
 **Immunities** bleed, electricity, death effects, disease, doomed, drained, fatigued, healing, magic (see Golem Antimagic below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 5
+**Resistances** physical 5 (except adamantine or slashing)
 
 **Golem Antimagic** harmed by fire (4d6, 1d8 from areas or persistent damage); healed by electricity (area 1d6 HP); slowed by cold.
 
@@ -31,8 +33,8 @@ uncommon, n, medium, construct, golem, mindless
 
 Speed 25 feet
 
-**Melee** jaws +14 (magical); **Damage** 2d10+4 piercing plus filth fever plus filth fever
+**Melee** ◆ jaws +14 (magical); **Damage** 2d10+4 piercing plus filth fever plus filth fever
 
-**Melee** claw +14 (agile, magical); **Damage** 2d6+4 slashing plus filth fever plus filth fever
+**Melee** ◆ claw +14 (agile, magical); **Damage** 2d6+4 slashing plus filth fever plus filth fever
 
 **Filth Fever** (disease)

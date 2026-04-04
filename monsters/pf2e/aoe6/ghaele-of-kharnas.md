@@ -5,9 +5,11 @@ rare, cg, medium, azata, celestial
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision, see invisibility
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Acrobatics +30, Athletics +33, Diplomacy +30, Nature +28, Religion +28, Stealth +24, Warfare Lore +25
 
 **STR** +8, **DEX** +5, **CON** +6, **INT** +4, **WIS** +5, **CHA** +7
 
@@ -21,7 +23,7 @@ rare, cg, medium, azata, celestial
 
 **HP** 315
 
-**Resistances** energy 15
+**Resistances** energy 15 (see Choose Weakness)
 
 **Weaknesses** cold iron 15, evil 15
 
@@ -33,21 +35,25 @@ rare, cg, medium, azata, celestial
 
 Speed 35 feet, fly 100 feet
 
-**Melee** holy greatsword +33 (good, magical, versatile <P>); **Damage** 3d12+16 slashing plus 1d6 good and 1d6 other (see Choose Weakness)
+**Melee** ◆ holy greatsword +33 (good, magical, versatile <P>); **Damage** 3d12+16 slashing plus 1d6 good and 1d6 other (see Choose Weakness)
 
-**Melee** light ray +31 (chaotic, good, light, range <300 feet>); **Damage** 2d12 chaotic plus 1d12 good plus 2d6+6 other (see Choose Weakness)
+**Ranged** ◆ light ray +31 (chaotic, good, light, range <300 feet>); **Damage** 2d12 chaotic plus 1d12 good plus 2d6+6 other (see Choose Weakness)
 
 **Innate divine Spells** (DC 38)
 
+  **Constant (7th)** see invisibility
+
+  **Constant (5th)** tongues
+
   **Cantrips (7th)** dancing lights, detect magic, light
 
-  **1st** charm, detect alignment, illusory disguise
+  **1st** charm, detect alignment (at will), illusory disguise (at will)
 
-  **2nd** continual flame, dispel magic
+  **2nd** continual flame (at will), dispel magic (at will)
 
   **3rd** mind reading
 
-  **4th** heal, invisibility, restoration
+  **4th** heal (×4), invisibility (at will), restoration
 
   **5th** banishment
 

@@ -5,9 +5,11 @@ ce, medium, ghoul, undead
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
 **Languages** common, necril
+
+**Skills** Acrobatics +7, Athletics +4, Stealth +7, Survival +5
 
 **STR** +1, **DEX** +4, **CON** +1, **INT** +1, **WIS** +2, **CHA** +2
 
@@ -23,9 +25,9 @@ ce, medium, ghoul, undead
 
 Speed 30 feet, burrow 5 feet
 
-**Melee** jaws +9 (finesse); **Damage** 1d6+1 piercing plus ghoul fever and paralysis plus ghoul fever, paralysis
+**Melee** ◆ jaws +9 (finesse); **Damage** 1d6+1 piercing plus ghoul fever and paralysis plus ghoul fever, paralysis
 
-**Melee** claw +9 (agile, finesse); **Damage** 1d4+1 slashing plus paralysis plus paralysis
+**Melee** ◆ claw +9 (agile, finesse); **Damage** 1d4+1 slashing plus paralysis plus paralysis
 
 **Consume Flesh** ◆ (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour.; The ghoul regains 1d6 Hit Points. It can regain Hit Points from any given corpse only once.
 

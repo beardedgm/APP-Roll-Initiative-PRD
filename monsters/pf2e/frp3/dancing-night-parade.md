@@ -5,9 +5,11 @@ unique, cn, gargantuan, spirit, troop
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision
 
 **Languages** senzar
+
+**Skills** Acrobatics +34, Athletics +33, Deception +37, Performance +37, Society +32, Dancing Lore +34
 
 **STR** +8, **DEX** +7, **CON** +5, **INT** +5, **WIS** +5, **CHA** +6
 
@@ -32,7 +34,7 @@ unique, cn, gargantuan, spirit, troop
 
 ---
 
-Speed 25 feet
+Speed 25 feet, troop movement
 
 **Seiya! Soiya!** ◆◆ (emotion, mental, sonic) The night parade shouts a series of energetic call-and-responses, dealing 3d10 sonic damage and 4d6 mental damage to all creatures in a 10-foot burst within 20 feet (DC 41 basic Will save). If the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst.
 

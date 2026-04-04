@@ -5,7 +5,9 @@ ne, medium, aberration
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
+
+**Skills** Acrobatics +9, Athletics +9, Crafting +8, Stealth +11
 
 **STR** +4, **DEX** +4, **CON** +3, **INT** +1, **WIS** +3, **CHA** -1
 
@@ -23,11 +25,11 @@ ne, medium, aberration
 
 Speed 25 feet, climb 25 feet
 
-**Melee** fangs +11; **Damage** 1d8 + 6 piercing plus web lurker venom plus web lurker venom
+**Melee** ◆ fangs +11; **Damage** 1d8 + 6 piercing plus web lurker venom plus web lurker venom
 
-**Melee** claw +11 (agile); **Damage** 1d8 + 6 slashing
+**Melee** ◆ claw +11 (agile); **Damage** 1d8 + 6 slashing
 
-**Melee** web +11; **Damage** web trap plus web trap
+**Melee** ◆ web +11; **Damage** web trap plus web trap
 
 **Web Lurker Venom** (poison) A target damaged by the web lurker's fangs must succeed at a DC 19 Fortitude save or take 1d12 poison damage and gain the flat-footed condition for 1 round.
 

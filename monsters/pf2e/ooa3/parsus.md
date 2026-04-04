@@ -9,6 +9,8 @@ unique, ne, medium, dhampir, human, humanoid
 
 **Languages** common, necril
 
+**Skills** Arcana +24, Deception +19, Geb Lore +22, Intimidation +19, Society +19, Undead Lore +22
+
 **STR** +4, **DEX** +3, **CON** +3, **INT** +5, **WIS** +0, **CHA** +0
 
 **Items** clockwork key to clockwork bomb in area F8, corpse compass (page 76), corpsecaller round (page 76), +2 striking slide pistol (Guns & Gears 153)
@@ -25,25 +27,25 @@ unique, ne, medium, dhampir, human, humanoid
 
 Speed 25 feet
 
-**Melee** claw +21 (agile); **Damage** 3d8+7 slashing
+**Melee** ◆ claw +21 (agile); **Damage** 3d8+7 slashing
 
-**Melee** necromechanical innovation +21; **Damage** 2d10+7 bludgeoning
+**Melee** ◆ necromechanical innovation +21; **Damage** 2d10+7 bludgeoning
 
-**Melee** slide pistol +20 (capacity <5>, concussive, fatal <d10>, magical, range increment <30 feet>, reload <1>); **Damage** 2d6+3 piercing
+**Ranged** ◆ slide pistol +20 (capacity <5>, concussive, fatal <d10>, magical, range increment <30 feet>, reload <1>); **Damage** 2d6+3 piercing
 
 **Prepared arcane Spells** (DC 31), attack +23
 
   **Cantrips (5th)** acid splash, chill touch, detect magic, message, ray of frost
 
-  **1st** grim tendrils, unseen servant
+  **1st** grim tendrils (×2), unseen servant
 
   **2nd** false life, mirror image, spectral hand
 
-  **3rd** bind undead, vampiric touch
+  **3rd** bind undead, vampiric touch (×2)
 
   **4th** fly, seal fate, vampiric maiden
 
-  **5th** cloudkill, enervation
+  **5th** cloudkill, enervation (×2)
 
 **Clockwork Necromancy** ◆◆ (evil, necromancy, unstable) Parsus winds their necromechanical innovation (see below) to infuse a corpse-riddled area with necromantic energy. The innovation casts black tentacles on a point within 100 feet, causing the dead body parts in a 10-foot burst to briefly animate and scrabble at creatures within the area for 1 round.
 

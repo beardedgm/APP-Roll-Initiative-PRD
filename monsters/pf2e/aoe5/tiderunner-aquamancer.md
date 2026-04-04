@@ -9,6 +9,8 @@ uncommon, n, medium, amphibious, azarketi, humanoid
 
 **Languages** aklo, aquan, common
 
+**Skills** Arcana +26, Diplomacy +19, Medicine +23, Aquatic Lore +26, Warfare Lore +26
+
 **STR** +0, **DEX** +5, **CON** +3, **INT** +5, **WIS** +4, **CHA** +0
 
 **Items** +2 striking spear
@@ -27,9 +29,9 @@ uncommon, n, medium, amphibious, azarketi, humanoid
 
 Speed 25 feet, swim 30 feet
 
-**Melee** spear +21 (magical, thrown <20 feet>); **Damage** 2d6+3 piercing
+**Melee** ◆ spear +21 (magical, thrown <20 feet>); **Damage** 2d6+3 piercing
 
-**Melee** spear +24 (magical, thrown <20 feet>); **Damage** 2d6+3 piercing
+**Ranged** ◆ spear +24 (magical, thrown <20 feet>); **Damage** 2d6+3 piercing
 
 **Prepared arcane Spells** (DC 34), attack +26
 
@@ -37,7 +39,7 @@ Speed 25 feet, swim 30 feet
 
   **1st** grease, hydraulic push, mage armor
 
-  **2nd** acid arrow, water walk
+  **2nd** acid arrow (×2), water walk
 
   **3rd** haste, slow, stinking cloud
 
@@ -45,6 +47,6 @@ Speed 25 feet, swim 30 feet
 
   **5th** cone of cold, elemental form, wall of ice
 
-  **6th** hydraulic push, hydraulic torrent
+  **6th** hydraulic push (×2), hydraulic torrent
 
   **7th** disintegrate, spell turning

@@ -5,9 +5,11 @@ ne, medium, fey, fire
 
 ---
 
-**Perception** +27
+**Perception** +27; low-light vision
 
 **Languages** common, elven, sylvan
+
+**Skills** Acrobatics +25, Athletics +25, Deception +30, Intimidation +30, Nature +30, Stealth +27, Survival +27
 
 **STR** +6, **DEX** +4, **CON** +8, **INT** +4, **WIS** +6, **CHA** +8
 
@@ -36,15 +38,15 @@ ne, medium, fey, fire
 
 Speed 30 feet, fly 30 feet
 
-**Melee** claw +29; **Damage** 3d6+14 slashing plus 3d6 fire and 1d6 persistent fire
+**Melee** ◆ claw +29; **Damage** 3d6+14 slashing plus 3d6 fire and 1d6 persistent fire
 
-**Melee** flame jet +29 (fire, range increment <40 feet>); **Damage** 6d6 fire plus 2d6 persistent fire
+**Ranged** ◆ flame jet +29 (fire, range increment <40 feet>); **Damage** 6d6 fire plus 2d6 persistent fire
 
 **Innate primal Spells** (DC 36), attack +28
 
   **Cantrips (8th)** produce flame
 
-  **6th** fire shield, fireball, tree shape
+  **6th** fire shield (×3), fireball (×3), tree shape (at will)
 
   **7th** elemental form, volcanic eruption, wall of fire
 

@@ -5,7 +5,9 @@ rare, n, large, mindless, ooze
 
 ---
 
-**Perception** +30
+**Perception** +30; motion sense  240 feet, no vision
+
+**Skills** Athletics +35
 
 **STR** +9, **DEX** -5, **CON** +10, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -29,7 +31,7 @@ rare, n, large, mindless, ooze
 
 Speed 20 feet, swim 20 feet, climb 20 feet
 
-**Melee** pseudopod +35 (reach <10 feet>); **Damage** 3d10+17 bludgeoning plus chromatic slam and Improved Grab
+**Melee** ◆ pseudopod +35 (reach <10 feet>); **Damage** 3d10+17 bludgeoning plus chromatic slam and Improved Grab
 
 **Chromatic Slam** The ooze's pseudopod Strikes deal an additional 2d10 damage of the same type it resists from its Chromatic Shift ability, if any.
 

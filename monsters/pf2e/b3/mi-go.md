@@ -5,9 +5,11 @@ uncommon, ne, medium, fungus
 
 ---
 
-**Perception** +14
+**Perception** +14; low-light vision, {@ability tremorsense} 30 feet (precise)
 
 **Languages** aklo, common, mi-go
+
+**Skills** Acrobatics +13, Arcana +15, Athletics +12, Deception +14, Medicine +17, Occultism +15, Religion +14, Stealth +13, Thievery +13
 
 **STR** +2, **DEX** +5, **CON** +3, **INT** +5, **WIS** +4, **CHA** +2
 
@@ -29,7 +31,7 @@ uncommon, ne, medium, fungus
 
 Speed 25 feet, fly 40 feet
 
-**Melee** claw +15 (agile, finesse); **Damage** 2d6+4 slashing plus Grab plus Grab
+**Melee** ◆ claw +15 (agile, finesse); **Damage** 2d6+4 slashing plus Grab plus Grab
 
 **Clever Disguises** A mi-go can use Deception to impersonate any Medium humanoid creature, although creating such a disguise takes 1 hour. It can't impersonate a specific individual with this ability.
 

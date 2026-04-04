@@ -9,6 +9,8 @@ unique, ng, medium, human, humanoid
 
 **Languages** celestial, draconic, gnoll, orc, keleshite, mwangi, taldane, tien
 
+**Skills** Arcana +34, Diplomacy +30, Nature +30, Society +30, Stealth +32, Academia Lore +32
+
 **STR** +0, **DEX** +4, **CON** +2, **INT** +6, **WIS** +4, **CHA** +4
 
 **Items** bracers of armor III, +2 greater striking staff
@@ -29,7 +31,7 @@ unique, ng, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** staff +28 (magical, two-handed 3d8); **Damage** 3d4+6 bludgeoning
+**Melee** ◆ staff +28 (magical, two-handed 3d8); **Damage** 3d4+6 bludgeoning
 
 **Prepared arcane Spells** (DC 41), attack +33
 
@@ -37,13 +39,13 @@ Speed 25 feet
 
   **1st** alarm, fleet step, heal, ventriloquism
 
-  **2nd** dispel magic, glitterdust, obscuring mist
+  **2nd** dispel magic, glitterdust (×2), obscuring mist
 
-  **3rd** heal, stinking cloud, wall of wind
+  **3rd** heal (×2), stinking cloud, wall of wind
 
-  **4th** dimension door, fly, resilient sphere
+  **4th** dimension door, fly (×2), resilient sphere
 
-  **5th** black tentacles, heal, tongues
+  **5th** black tentacles (×2), heal, tongues
 
   **6th** dispel magic, flesh to stone, mislead, tangling creepers
 

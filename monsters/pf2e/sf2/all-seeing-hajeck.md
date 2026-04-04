@@ -5,9 +5,11 @@ unique, cn, large, beast
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** common, varisian
+
+**Skills** Arcana +21, Deception +25, Diplomacy +23, Fortune-telling Lore +25, Occultism +23, Performance +23, Society +21, Thievery +21
 
 **STR** +4, **DEX** +5, **CON** +5, **INT** +5, **WIS** +4, **CHA** +7
 
@@ -31,17 +33,17 @@ unique, cn, large, beast
 
 Speed 30 feet, swim 30 feet, climb 30 feet
 
-**Melee** claw +22 (agile); **Damage** 3d8+10 slashing
+**Melee** ◆ claw +22 (agile); **Damage** 3d8+10 slashing
 
 **Innate occult Spells** (DC 32)
 
-  **1st** ventriloquism
+  **1st** ventriloquism (at will)
 
-  **2nd** illusory disguise, illusory object, mirror image
+  **2nd** illusory disguise (at will), illusory object (at will), mirror image
 
   **3rd** glibness, sleep
 
-  **4th** charm, suggestion
+  **4th** charm (×3), suggestion (×3)
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) All-Seeing Hajeck can take on the appearance of a Varisian woman—her appearance from her previous life. This doesn't change her Speed or her attack and damage modifiers, but does prevent her from using Hajeck's Caress.
 

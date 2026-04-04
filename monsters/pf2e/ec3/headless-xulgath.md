@@ -5,9 +5,11 @@ unique, ce, large, humanoid, xulgath
 
 ---
 
-**Perception** +20
+**Perception** +20; motion sense, no vision
 
 **Languages** draconic, undercommon (can't speak any
+
+**Skills** Athletics +23, Intimidation +21, Survival +21
 
 **STR** +7, **DEX** +3, **CON** +5, **INT** +0, **WIS** +3, **CHA** +3
 
@@ -29,6 +31,6 @@ unique, ce, large, humanoid, xulgath
 
 Speed 20 feet
 
-**Melee** claw +22 (agile, reach <15 feet>); **Damage** 2d8+13 slashing plus Grab plus Grab
+**Melee** ◆ claw +22 (agile, reach <15 feet>); **Damage** 2d8+13 slashing plus Grab plus Grab
 
 **Choke Slam** ◆ **Frequency** {"unit":"round","number":1}; Requirements The headless xulgath has a creature grabbed; The headless.

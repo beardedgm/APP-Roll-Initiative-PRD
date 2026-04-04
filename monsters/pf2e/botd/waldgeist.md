@@ -5,9 +5,11 @@ uncommon, ne, small, incorporeal, spirit, undead
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
-**Languages** arboreal, common, sylvan
+**Languages** arboreal, common, sylvan; speak with plants
+
+**Skills** Acrobatics +16, Intimidation +16, Nature +18, Stealth +18, Woodland Lore +21 (applies only to the woodland the waldgeist is bonded to)
 
 **STR** -5, **DEX** +6, **CON** +3, **INT** +3, **WIS** +6, **CHA** +4
 
@@ -21,7 +23,7 @@ uncommon, ne, small, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Forest Guardian** A waldgeist is compelled to investigate the sound of wood or trees being damaged, such as by being burned or chopped down. A waldgeist that hears such a sound must succeed at a DC 26 Will save or spend all their actions moving toward the sound until they identify the cause. This can't be used to compel a waldgeist to leave their bonded woodland. A waldgeist that succeeds at their saving throw is temporarily immune for 10 minutes.
 
@@ -31,15 +33,17 @@ uncommon, ne, small, incorporeal, spirit, undead
 
 Speed fly 30 feet
 
-**Melee** lignifying hand +18 (finesse, magical); **Damage** 2d8+7 negative plus lignify
+**Melee** ◆ lignifying hand +18 (finesse, magical); **Damage** 2d8+7 negative plus lignify
 
-**Melee** branch +20 (reach <15 feet>); **Damage** 2d12+9 bludgeoning. While a waldgeist possesses a tree, any damage that would be dealt to the waldgeist is instead dealt to the tree. The tree has 60 Hit Points. When the tree is reduced to 0 Hit Points, the waldgeist is immediately ejected, and the tree is destroyed.
+**Melee** ◆ branch +20 (reach <15 feet>); **Damage** 2d12+9 bludgeoning. While a waldgeist possesses a tree, any damage that would be dealt to the waldgeist is instead dealt to the tree. The tree has 60 Hit Points. When the tree is reduced to 0 Hit Points, the waldgeist is immediately ejected, and the tree is destroyed.
 
 **Innate primal Spells** (DC 24), attack +16
 
+  **Constant (4th)** speak with plants
+
   **Cantrips (4th)** tanglefoot
 
-  **2nd** entangle
+  **2nd** entangle (at will)
 
   **3rd** wall of thorns
 

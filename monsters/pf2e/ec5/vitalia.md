@@ -5,7 +5,9 @@ rare, n, large, aberration, aquatic, mindless
 
 ---
 
-**Perception** +30
+**Perception** +30; bloodsense 30 feet (precise), no vision, {@ability tremorsense} 60 feet (imprecise)
+
+**Skills** Athletics +33
 
 **STR** +7, **DEX** +5, **CON** +9, **INT** -5, **WIS** +0, **CHA** +0
 
@@ -29,13 +31,13 @@ rare, n, large, aberration, aquatic, mindless
 
 Speed 15 feet, swim 30 feet
 
-**Melee** vein +33 (magical, reach <15 feet>); **Damage** 4d8+15 bludgeoning plus Grab plus Grab
+**Melee** ◆ vein +33 (magical, reach <15 feet>); **Damage** 4d8+15 bludgeoning plus Grab plus Grab
 
-**Melee** blood squirt +33 (acid, magical, range increment <40 feet>); **Damage** 3d10 bludgeoning plus 3d10 acid
+**Ranged** ◆ blood squirt +33 (acid, magical, range increment <40 feet>); **Damage** 3d10 bludgeoning plus 3d10 acid
 
 **Innate occult Spells** (DC 36)
 
-  **6th** status, vampiric touch
+  **6th** status (at will), vampiric touch
 
   **8th** vampiric exsanguination
 

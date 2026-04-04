@@ -5,9 +5,11 @@ uncommon, n, medium, aberration, construct
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** undercommon
+
+**Skills** Acrobatics +11, Athletics +12, Intimidation +10, Stealth +13
 
 **STR** +4, **DEX** +5, **CON** +2, **INT** -2, **WIS** +3, **CHA** +2
 
@@ -35,9 +37,9 @@ uncommon, n, medium, aberration, construct
 
 Speed 30 feet, climb 30 feet
 
-**Melee** claw +13 (agile, finesse); **Damage** 2d6+4 slashing
+**Melee** ◆ claw +13 (agile, finesse); **Damage** 2d6+4 slashing
 
-**Melee** needle +13 (range increment <30 feet>); **Damage** 1d4 piercing plus 2d8 electricity
+**Ranged** ◆ needle +13 (range increment <30 feet>); **Damage** 1d4 piercing plus 2d8 electricity
 
 **Needle Spray** ◆◆◆ The dreshkan braces itself on all four limbs and sprays needles at as many creatures as it would like in a 30-foot cone, dealing 2d4 piercing plus 2d8 electricity damage. Each targeted creature in the area must attempt a basic Reflex save.
 

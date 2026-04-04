@@ -9,6 +9,8 @@ le, medium, human, humanoid, ifrit
 
 **Languages** common, ignan
 
+**Skills** Acrobatics +6, Crafting +6, Intimidation +4, Nature +3, Survival +3, Thievery +6
+
 **STR** +0, **DEX** +3, **CON** +2, **INT** +3, **WIS** +0, **CHA** +1
 
 **Items** alchemist's tools, dagger, flint and steel, formula book, studded leather
@@ -27,8 +29,8 @@ le, medium, human, humanoid, ifrit
 
 Speed 25 feet
 
-**Melee** dagger +8 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
+**Melee** ◆ dagger +8 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
 
-**Melee** lesser alchemist's fire +8 (range increment <30 feet>); **Damage** 1d8 fire plus 1 persistent fire damage and 1 fire splash damage
+**Ranged** ◆ lesser alchemist's fire +8 (range increment <30 feet>); **Damage** 1d8 fire plus 1 persistent fire damage and 1 fire splash damage
 
 **Quick Bomber** ◆ The ifrit pyrochemist draws an alchemical bomb with an Interact action and throws it as a ranged Strike.

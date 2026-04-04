@@ -5,9 +5,11 @@ cn, small, monitor, protean
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision, entropy sense 30 feet (imprecise)
 
 **Languages** abyssal, celestial, protean
+
+**Skills** Acrobatics +11, Arcana +11, Athletics +9, Deception +13, Performance +13, Stealth +13, Survival +11, Thievery +13
 
 **STR** +2, **DEX** +4, **CON** +4, **INT** +4, **WIS** +2, **CHA** +4
 
@@ -31,17 +33,19 @@ cn, small, monitor, protean
 
 ---
 
-Speed 25 feet, fly 25 feet, swim 25 feet
+Speed 25 feet, fly 25 feet, swim 25 feet, freedom of movement
 
-**Melee** jaws +15 (chaotic, finesse, magical); **Damage** 2d10+4 piercing plus 1d6 chaotic
+**Melee** ◆ jaws +15 (chaotic, finesse, magical); **Damage** 2d10+4 piercing plus 1d6 chaotic
 
-**Melee** claw +15 (agile, chaotic, finesse, magical); **Damage** 2d8+4 slashing plus 1d6 chaotic
+**Melee** ◆ claw +15 (agile, chaotic, finesse, magical); **Damage** 2d8+4 slashing plus 1d6 chaotic
 
-**Melee** tail +13 (chaotic, magical, reach <15 feet>); **Damage** 2d12+4 bludgeoning plus 1d6 chaotic and Grab plus Grab
+**Melee** ◆ tail +13 (chaotic, magical, reach <15 feet>); **Damage** 2d12+4 bludgeoning plus 1d6 chaotic and Grab plus Grab
 
 **Innate divine Spells** (DC 22)
 
-  **1st** detect alignment
+  **Constant (4th)** freedom of movement
+
+  **1st** detect alignment (at will)
 
   **2nd** hideous laughter
 

@@ -5,9 +5,11 @@ uncommon, n, large, humanoid
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision, scent (imprecise)
 
 **Languages** auran, common
+
+**Skills** Acrobatics +11, Athletics +13, Survival +11
 
 **STR** +5, **DEX** +2, **CON** +3, **INT** +0, **WIS** +2, **CHA** +0
 
@@ -25,11 +27,11 @@ uncommon, n, large, humanoid
 
 Speed 25 feet, fly 35 feet, climb 25 feet
 
-**Melee** falchion +14 (forceful, reach <10 feet>, sweep); **Damage** 1d10+7 slashing
+**Melee** ◆ falchion +14 (forceful, reach <10 feet>, sweep); **Damage** 1d10+7 slashing
 
-**Melee** fist +14 (agile, reach <10 feet>); **Damage** 2d6+7 bludgeoning
+**Melee** ◆ fist +14 (agile, reach <10 feet>); **Damage** 2d6+7 bludgeoning
 
-**Melee** javelin +14 (thrown <30 feet>); **Damage** 1d6+8 piercing
+**Ranged** ◆ javelin +14 (thrown <30 feet>); **Damage** 1d6+8 piercing
 
 **Booming Voice** (auditory, evocation, primal) A derhii can use its voice as a signal. The sound can be heard up to 12 miles away as a thrumming in the air that conveys 20 words of information over the course of 5 minutes.
 

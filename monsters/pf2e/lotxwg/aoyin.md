@@ -5,7 +5,9 @@ rare, large, animal
 
 ---
 
-**Perception** +19
+**Perception** +19; bloodsense 60 feet (precise), {@ability low-light vision}, {@ability scent} 30 feet (precise)
+
+**Skills** Athletics +21, Stealth +18, Survival +19
 
 **STR** +7, **DEX** +4, **CON** +6, **INT** -4, **WIS** +3, **CHA** -2
 
@@ -23,11 +25,11 @@ rare, large, animal
 
 ---
 
-Speed 40 feet
+Speed 40 feet, mountain stride
 
-**Melee** horn +21 (deadly <d12>, reach <10 feet>); **Damage** 2d12+7 piercing plus 2d6 persistent bleed
+**Melee** ◆ horn +21 (deadly <d12>, reach <10 feet>); **Damage** 2d12+7 piercing plus 2d6 persistent bleed
 
-**Melee** hoof +21 (agile, reach <10 feet>); **Damage** 2d8+7 bludgeoning
+**Melee** ◆ hoof +21 (agile, reach <10 feet>); **Damage** 2d8+7 bludgeoning
 
 **Horn Toss** ◆◆ The aoyin Strides and makes a horn Strike. If the Strike hits, the target is flung 20 feet in a direction of the aoyin's choice.
 

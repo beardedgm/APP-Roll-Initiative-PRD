@@ -5,9 +5,11 @@ ne, large, daemon, fiend
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision, plaguesense 60 feet
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Acrobatics +18, Intimidation +18, Medicine +20, Religion +20, Stealth +18, Survival +16
 
 **STR** +6, **DEX** +5, **CON** +1, **INT** +3, **WIS** +5, **CHA** +3
 
@@ -33,17 +35,17 @@ ne, large, daemon, fiend
 
 Speed 25 feet, fly 40 feet
 
-**Melee** jaws +21 (disease, evil, magical, reach <10 feet>); **Damage** 2d12+9 piercing plus 1d6 evil and daemonic pestilence plus daemonic pestilence
+**Melee** ◆ jaws +21 (disease, evil, magical, reach <10 feet>); **Damage** 2d12+9 piercing plus 1d6 evil and daemonic pestilence plus daemonic pestilence
 
-**Melee** claw +21 (agile, disease, evil, magical, reach <10 feet>); **Damage** 2d8+9 slashing plus 1d6 evil and daemonic pestilence plus daemonic pestilence
+**Melee** ◆ claw +21 (agile, disease, evil, magical, reach <10 feet>); **Damage** 2d8+9 slashing plus 1d6 evil and daemonic pestilence plus daemonic pestilence
 
-**Melee** composite longbow +21 (deadly <1d10>, disease, evil, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+9 piercing plus 1d6 evil and Daemonic Pestilence plus Daemonic Pestilence
+**Ranged** ◆ composite longbow +21 (deadly <1d10>, disease, evil, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+9 piercing plus 1d6 evil and Daemonic Pestilence plus Daemonic Pestilence
 
 **Innate divine Spells** (DC 26)
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
-  **4th** dimension door, dispel magic
+  **4th** dimension door (at will), dispel magic (×2)
 
   **5th** dimension door
 

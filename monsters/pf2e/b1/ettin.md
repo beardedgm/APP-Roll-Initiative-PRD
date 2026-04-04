@@ -5,9 +5,11 @@ ce, large, giant, humanoid
 
 ---
 
-**Perception** +16
+**Perception** +16; low-light vision
 
 **Languages** pidgin of goblin, jotun, and orcish
+
+**Skills** Athletics +16, Intimidation +10
 
 **STR** +6, **DEX** -1, **CON** +4, **INT** -2, **WIS** +2, **CHA** +0
 
@@ -29,6 +31,6 @@ ce, large, giant, humanoid
 
 Speed 35 feet
 
-**Melee** flail +16 (disarm, reach <10 feet>, sweep, trip); **Damage** 2d6+10 bludgeoning
+**Melee** ◆ flail +16 (disarm, reach <10 feet>, sweep, trip); **Damage** 2d6+10 bludgeoning
 
-**Melee** fist +16 (agile, reach <10 feet>); **Damage** 1d6+10 bludgeoning
+**Melee** ◆ fist +16 (agile, reach <10 feet>); **Damage** 1d6+10 bludgeoning

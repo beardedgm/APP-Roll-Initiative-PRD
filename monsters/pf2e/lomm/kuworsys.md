@@ -5,11 +5,13 @@ unique, le, large, aberration
 
 ---
 
-**Perception** +22
+**Perception** +22; infect scent 60 feet (imprecise)
+
+**Skills** Acrobatics +25, Athletics +22, Crafting +25, Stealth +28, Thievery +28
 
 **STR** +7, **DEX** +8, **CON** +5, **INT** +7, **WIS** +5, **CHA** +4
 
-**Items** {@runeItem sling||+1 weapon potency||striking|} (10 {@item sling bullets}, 3 {@item standard explosive ammunition||explosive ammunition}, 3 {@item freezing ammunition}
+**Items**  (10 sling bullets, 3 explosive ammunition, 3 freezing ammunition
 
 **Infect Scent** Kuworsys can smell creatures infected with addictive exhaustion|LOMM, as the scent ability.
 
@@ -33,9 +35,9 @@ unique, le, large, aberration
 
 Speed 35 feet, climb 35 feet
 
-**Melee** limb +27 (finesse, reach <15 feet>, shove); **Damage** 3d12+7 bludgeoning
+**Melee** ◆ limb +27 (finesse, reach <15 feet>, shove); **Damage** 3d12+7 bludgeoning
 
-**Melee** sling +28 (propulsive, range increment <50 feet>, reload <1>); **Damage** 2d6+13 bludgeoning
+**Ranged** ◆ sling +28 (propulsive, range increment <50 feet>, reload <1>); **Damage** 2d6+13 bludgeoning
 
 **Addictive Exhaustion** (disease)
 

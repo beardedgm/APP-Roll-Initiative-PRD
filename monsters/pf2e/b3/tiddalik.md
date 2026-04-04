@@ -5,9 +5,11 @@ ne, huge, amphibious, beast
 
 ---
 
-**Perception** +15
+**Perception** +15; low-light vision
 
 **Languages** common
+
+**Skills** Athletics +19, Stealth +11
 
 **STR** +6, **DEX** +2, **CON** +6, **INT** -2, **WIS** +4, **CHA** +0
 
@@ -23,10 +25,10 @@ ne, huge, amphibious, beast
 
 ---
 
-Speed 25 feet
+Speed 25 feet, or 10 feet while waterlogged
 
-**Melee** bite +19 (reach <10 feet>); **Damage** 2d10+9 piercing plus Grab plus Grab
+**Melee** ◆ bite +19 (reach <10 feet>); **Damage** 2d10+9 piercing plus Grab plus Grab
 
-**Melee** spit +15 (range increment <30 feet>); **Damage** 2d10+9 bludgeoning
+**Ranged** ◆ spit +15 (range increment <30 feet>); **Damage** 2d10+9 bludgeoning
 
 **Drink Abundance** (downtime) The tiddalik spends a day or more drinking from a water source. If the water source is equal to or greater in volume than itself, the tiddalik consumes 5,000 gallons of water per day and becomes waterlogged. While waterlogged, it can use its spit Strike, Expel Wave, and its deluge ability, but its.

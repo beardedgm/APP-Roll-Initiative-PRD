@@ -5,9 +5,11 @@ uncommon, n, large, aberration
 
 ---
 
-**Perception** +14
+**Perception** +14; blindsight 120 feet (precise)
 
 **Languages** aklo
+
+**Skills** Acrobatics +10, Athletics +10, Deception +10, Stealth +12
 
 **STR** +5, **DEX** +3, **CON** +3, **INT** +2, **WIS** +3, **CHA** +2
 
@@ -27,13 +29,13 @@ uncommon, n, large, aberration
 
 Speed fly 25 feet
 
-**Melee** jaws +14; **Damage** 2d8+5 piercing plus paralysis plus Paralysis
+**Melee** ◆ jaws +14; **Damage** 2d8+5 piercing plus paralysis plus Paralysis
 
-**Melee** tentacle +14 (agile, reach <20 feet>); **Damage** 2d6+5 bludgeoning plus Tentacle Grab plus Tentacle Grab
+**Melee** ◆ tentacle +14 (agile, reach <20 feet>); **Damage** 2d6+5 bludgeoning plus Tentacle Grab plus Tentacle Grab
 
 **Innate primal Spells** (DC 18)
 
-  **1st** ventriloquism
+  **1st** ventriloquism (at will)
 
   **2nd** illusory object
 

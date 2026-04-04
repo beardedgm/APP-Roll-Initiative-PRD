@@ -5,9 +5,11 @@ rare, ne, gargantuan, ghost, incorporeal, spirit, troop, undead
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision
 
 **Languages** common
+
+**Skills** Religion +26, Stealth +24
 
 **STR** -5, **DEX** +5, **CON** +3, **INT** +2, **WIS** +5, **CHA** +4
 
@@ -19,7 +21,7 @@ rare, ne, gargantuan, ghost, incorporeal, spirit, troop, undead
 
 **HP** 234
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Weaknesses** area damage 15, good 15, splash damage 15
 
@@ -29,9 +31,11 @@ rare, ne, gargantuan, ghost, incorporeal, spirit, troop, undead
 
 ---
 
-Speed 30 feet
+Speed 30 feet, air walk, troop movement
 
 **Innate divine Spells** (DC 30)
+
+  **Constant (4th)** air walk
 
 **Cosmic Explosion** ◆◆ The soul swarm unleashes a blast of burning sunlight or moonlight, dealing 4d8+6 fire damage to creatures in a 10-foot burst within 20 feet (DC 30 basic Reflex save). When the soul swarm is reduced to 8 or fewer squares, this decreases to a 5-foot burst.
 

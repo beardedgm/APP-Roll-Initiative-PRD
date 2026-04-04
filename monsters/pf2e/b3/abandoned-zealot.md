@@ -5,9 +5,11 @@ ce, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, sense apostate, {@ability lifesense} 60 feet
 
 **Languages** common, necril
+
+**Skills** Acrobatics +14, Intimidation +14, Religion +12, Stealth +16, Boneyard Lore +12
 
 **STR** -5, **DEX** +4, **CON** +0, **INT** +2, **WIS** +2, **CHA** +4
 
@@ -23,7 +25,7 @@ ce, medium, incorporeal, spirit, undead
 
 **Immunities** poison, precision, death effects, disease, paralyzed, unconscious
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance against non-magical)
 
 **Anathematic Aversion** (emotion, fear, mental) If they encounter a priest of their former faith, an abandoned zealot must attempt a Will save against the highest spell DC among those priests, or the highest Will DC if none of them can cast spells. The zealot attempts this saving throw only once per minute, even if more priests arrive later. **Critical Success** The abandoned zealot spends their reaction to Stride directly toward a priest of their former faith. For 1 minute, the abandoned zealot's hand of despair deals one additional damage die against priests of the creature's former faith.
 **Success** The abandoned zealot spends their reaction to Stride directly toward a priest of their former faith.
@@ -36,7 +38,7 @@ ce, medium, incorporeal, spirit, undead
 
 Speed fly 40 feet
 
-**Melee** hand of despair +16 (finesse, magical); **Damage** 2d10+4 negative plus rend faith plus rend faith
+**Melee** ◆ hand of despair +16 (finesse, magical); **Damage** 2d10+4 negative plus rend faith plus rend faith
 
 **Innate divine Spells** (DC 24)
 

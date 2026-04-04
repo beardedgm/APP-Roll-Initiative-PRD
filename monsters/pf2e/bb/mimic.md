@@ -5,7 +5,9 @@ n, medium, aberration
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
+
+**Skills** Athletics +12, Deception +8
 
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +1, **CHA** +0
 
@@ -25,6 +27,6 @@ n, medium, aberration
 
 Speed 10 feet
 
-**Melee** pseudopod +14; **Damage** 2d8 + 4 bludgeoning plus adhesive plus adhesive
+**Melee** ◆ pseudopod +14; **Damage** 2d8 + 4 bludgeoning plus adhesive plus adhesive
 
 **Mimic Object** ◆ (concentrate) The mimic assumes the shape of any Medium object. This alters its visual appearance but not its size. It takes a DC 28 Perception check to tell the object is a creature.

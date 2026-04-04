@@ -5,13 +5,15 @@ unique, ne, medium, skeleton, undead
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
 **Languages** abyssal, infernal, jotun, thassilonian, varisian
 
+**Skills** Athletics +10, Crafting +9, Intimidation +11, Occultism +11, Religion +13, Stealth +10
+
 **STR** +2, **DEX** +4, **CON** +0, **INT** +3, **WIS** +5, **CHA** +3
 
-**Items** rusted ({@condition broken}) {@item chain mail}
+**Items** rusted (broken) chain mail
 
 ---
 
@@ -31,7 +33,7 @@ unique, ne, medium, skeleton, undead
 
 Speed 25 feet
 
-**Melee** claw +12 (agile, finesse); **Damage** 2d6+4 slashing
+**Melee** ◆ claw +12 (agile, finesse); **Damage** 2d6+4 slashing
 
 **Spontaneous divine Spells** (DC 21), attack +13
 

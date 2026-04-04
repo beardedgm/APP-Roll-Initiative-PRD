@@ -5,9 +5,11 @@ unique, ce, small, dero, humanoid
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** aklo, common, undercommon
+
+**Skills** Acrobatics +24, Athletics +20, Intimidation +19, Medicine +20, Stealth +26, Thievery +24, Anatomy Lore +24
 
 **STR** +3, **DEX** +7, **CON** +3, **INT** +5, **WIS** +3, **CHA** +2
 
@@ -33,11 +35,11 @@ unique, ce, small, dero, humanoid
 
 ---
 
-Speed 20 feet
+Speed 20 feet, light step, mobility
 
-**Melee** shortsword +24 (agile, finesse, magical, versatile <S>); **Damage** 2d6+13 piercing
+**Melee** ◆ shortsword +24 (agile, finesse, magical, versatile <S>); **Damage** 2d6+13 piercing
 
-**Melee** heavy crossbow +25 (magical, range increment <120 feet>, reload <2>); **Damage** 2d10+13 piercing plus shadow essence plus shadow essence
+**Ranged** ◆ heavy crossbow +25 (magical, range increment <120 feet>, reload <2>); **Damage** 2d10+13 piercing plus shadow essence plus shadow essence
 
 **Innate divine Spells** (DC 30), attack +24
 

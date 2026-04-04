@@ -5,9 +5,11 @@ le, large, asura, fiend
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, detect alignment, see invisibility
 
-**Languages** common, infernal
+**Languages** common, infernal; telepathy 100 feet
+
+**Skills** Athletics +24, Deception +28, Religion +25, Stealth +25
 
 **STR** +8, **DEX** +3, **CON** +2, **INT** +1, **WIS** +5, **CHA** +8
 
@@ -31,17 +33,19 @@ le, large, asura, fiend
 
 Speed 50 feet
 
-**Melee** jaws +29 (reach <10 feet>); **Damage** 3d10+14 piercing plus 2d6 evil
+**Melee** ◆ jaws +29 (reach <10 feet>); **Damage** 3d10+14 piercing plus 2d6 evil
 
-**Melee** claw +29 (agile, reach <10 feet>); **Damage** 3d6+14 slashing plus 2d6 evil
+**Melee** ◆ claw +29 (agile, reach <10 feet>); **Damage** 3d6+14 slashing plus 2d6 evil
 
-**Melee** tongue +29 (reach <20 feet>); **Damage** 3d6+14 bludgeoning plus 2d6 evil plus Improved Knockdown (page 305) plus Improved Knockdown
+**Melee** ◆ tongue +29 (reach <20 feet>); **Damage** 3d6+14 bludgeoning plus 2d6 evil plus Improved Knockdown (page 305) plus Improved Knockdown
 
 **Innate divine Spells** (DC 34), attack +26
 
-  **4th** dimension door
+  **Constant (7th)** detect alignment, magic
 
-  **7th** bane, bless, dimension door, divine decree, dream message, heal, illusory disguise, invisibility, mind reading, neutralize poison, remove disease, remove curse, restore senses, ventriloquism
+  **4th** dimension door (at will)
+
+  **7th** bane, bless, dimension door, divine decree, dream message, heal (×3), illusory disguise (at will), invisibility (at will), mind reading, neutralize poison, remove disease, remove curse, restore senses, ventriloquism (at will)
 
 **Sap Mind** ◆ (divine, enchantment, mental) The nikaramsa focuses their gaze on one creature within 60 feet. That target must attempt a DC 34 Will save. Regardless of the outcome of the saving throw, the target then becomes temporarily immune for 1 day. **Critical Success** The nikaramsa is caught off guard by the strength of the target's resistance and becomes stupefied 2 until the end of their next turn.
 **Success** The target resists the nikaramsa's influence.

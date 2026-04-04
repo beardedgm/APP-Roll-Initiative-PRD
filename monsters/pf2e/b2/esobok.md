@@ -5,9 +5,11 @@ n, medium, monitor, psychopomp
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision, lifesense 60 feet, scent 60 feet (imprecise)
 
 **Languages** abyssal, celestial, infernal, requian
+
+**Skills** Acrobatics +8, Athletics +10, Intimidation +9, Religion +4, Stealth +8, Survival +10
 
 **STR** +3, **DEX** +3, **CON** +4, **INT** -3, **WIS** +3, **CHA** +2
 
@@ -25,13 +27,13 @@ n, medium, monitor, psychopomp
 
 Speed 30 feet
 
-**Melee** jaws +12 (magical); **Damage** 1d10+3 piercing plus Grab and spirit touch plus Grab, spirit touch
+**Melee** ◆ jaws +12 (magical); **Damage** 1d10+3 piercing plus Grab and spirit touch plus Grab, spirit touch
 
-**Melee** claw +12 (agile, magical); **Damage** 1d6+3 slashing plus spirit touch plus spirit touch
+**Melee** ◆ claw +12 (agile, magical); **Damage** 1d6+3 slashing plus spirit touch plus spirit touch
 
 **Innate divine Spells** (DC 17)
 
-  **2nd** invisibility
+  **2nd** invisibility (×3)
 
 **Pounce** ◆ The esobok Strides and then makes a Strike. If it began this action hidden, it remains hidden until after the Strike.
 

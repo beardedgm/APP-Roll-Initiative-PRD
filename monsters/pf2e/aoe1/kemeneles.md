@@ -9,6 +9,8 @@ ng, medium, human, humanoid
 
 **Languages** celestial, common, elven, draconic, dwarven
 
+**Skills** Arcana +8, Crafting +8, Occultism +8
+
 **STR** +0, **DEX** +4, **CON** -2, **INT** +4, **WIS** +3, **CHA** +1
 
 ---
@@ -23,7 +25,7 @@ ng, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** fist +6 (agile, finesse, nonlethal, unarmed); **Damage** 1d4 bludgeoning
+**Melee** ◆ fist +6 (agile, finesse, nonlethal, unarmed); **Damage** 1d4 bludgeoning
 
 **Prepared arcane Spells** (DC 18), attack +12
 

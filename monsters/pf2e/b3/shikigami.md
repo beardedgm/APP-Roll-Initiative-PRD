@@ -5,9 +5,11 @@ ln, tiny, kami, spirit
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common
+
+**Skills** Diplomacy +6, Medicine +7, Nature +7, Society +6, Stealth +5
 
 **STR** +2, **DEX** +2, **CON** +3, **INT** +1, **WIS** +4, **CHA** +3
 
@@ -27,11 +29,11 @@ ln, tiny, kami, spirit
 
 Speed 25 feet
 
-**Melee** fist +7 (agile); **Damage** 1d4+2 bludgeoning
+**Melee** ◆ fist +7 (agile); **Damage** 1d4+2 bludgeoning
 
-**Melee** spade +7 (agile, versatile <S>); **Damage** 1d6+2 piercing
+**Melee** ◆ spade +7 (agile, versatile <S>); **Damage** 1d6+2 piercing
 
-**Melee** spade +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d6+2 piercing
+**Ranged** ◆ spade +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d6+2 piercing
 
 **Innate divine Spells** (DC 17)
 

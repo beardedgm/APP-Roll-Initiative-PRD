@@ -5,7 +5,11 @@ ln, medium, aeon, monitor
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
+
+**Languages** envisioning
+
+**Skills** Arcana +16, Intimidation +16, Religion +18, Stealth +15
 
 **STR** +4, **DEX** +4, **CON** +3, **INT** +3, **WIS** +5, **CHA** +3
 
@@ -23,13 +27,13 @@ ln, medium, aeon, monitor
 
 Speed 25 feet, fly 25 feet
 
-**Melee** fist +17 (lawful, magical); **Damage** 2d10+4 bludgeoning plus 1d6 lawful
+**Melee** ◆ fist +17 (lawful, magical); **Damage** 2d10+4 bludgeoning plus 1d6 lawful
 
-**Melee** tentacle +17 (agile, lawful, magical); **Damage** 2d8+4 slashing plus 1d6 lawful and fate drain plus fate drain
+**Melee** ◆ tentacle +17 (agile, lawful, magical); **Damage** 2d8+4 slashing plus 1d6 lawful and fate drain plus fate drain
 
 **Innate divine Spells** (DC 25), attack +17
 
-  **4th** augury, charm, dispel magic, enthrall, outcast's curse, remove curse, suggestion, touch of idiocy
+  **4th** augury (at will), charm, dispel magic, enthrall, outcast's curse, remove curse, suggestion, touch of idiocy
 
 **Fate Drain** (curse, divine, mental) A creature damaged by the theletos's tentacle must succeed at a DC 22 Will save or become stupefied 1. As long as the creature is stupefied, it can no longer benefit from fortune effects. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours.
 

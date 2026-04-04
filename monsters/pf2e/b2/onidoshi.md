@@ -5,9 +5,11 @@ le, large, fiend, giant, humanoid, oni
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** common, jotun
+
+**Skills** Acrobatics +15, Arcana +13, Athletics +16, Deception +18, Intimidation +18, Nature +17
 
 **STR** +6, **DEX** +3, **CON** +4, **INT** +3, **WIS** +3, **CHA** +4
 
@@ -27,15 +29,15 @@ le, large, fiend, giant, humanoid, oni
 
 Speed 30 feet, fly 30 feet
 
-**Melee** falchion +21 (forceful, magical, reach <10 feet>, sweep); **Damage** 2d10+9 slashing
+**Melee** ◆ falchion +21 (forceful, magical, reach <10 feet>, sweep); **Damage** 2d10+9 slashing
 
-**Melee** fist +20 (agile, evil, magical, reach <10 feet>); **Damage** 2d8+9 bludgeoning
+**Melee** ◆ fist +20 (agile, evil, magical, reach <10 feet>); **Damage** 2d8+9 bludgeoning
 
-**Melee** composite shortbow +17 (deadly <1d10>, range increment <100 feet>, reload <0>); **Damage** 2d6+9 piercing
+**Ranged** ◆ composite shortbow +17 (deadly <1d10>, range increment <100 feet>, reload <0>); **Damage** 2d6+9 piercing
 
 **Innate primal Spells** (DC 24)
 
-  **2nd** darkness, invisibility
+  **2nd** darkness, invisibility (at will)
 
   **3rd** fear
 

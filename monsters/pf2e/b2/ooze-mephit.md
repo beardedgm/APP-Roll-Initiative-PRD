@@ -5,9 +5,11 @@ uncommon, n, small, amphibious, earth, elemental, water
 
 ---
 
-**Perception** +3
+**Perception** +3; darkvision
 
 **Languages** aquan, terran
+
+**Skills** Athletics +6, Diplomacy +7
 
 **STR** +3, **DEX** +1, **CON** +2, **INT** -2, **WIS** +0, **CHA** +2
 
@@ -25,7 +27,7 @@ uncommon, n, small, amphibious, earth, elemental, water
 
 Speed 20 feet, fly 20 feet
 
-**Melee** fist +8; **Damage** 1d6+3 bludgeoning
+**Melee** ◆ fist +8; **Damage** 1d6+3 bludgeoning
 
 **Innate arcane Spells** (DC 17)
 

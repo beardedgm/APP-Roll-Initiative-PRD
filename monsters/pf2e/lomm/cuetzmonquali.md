@@ -5,9 +5,11 @@ unique, ne, huge, beast, fire
 
 ---
 
-**Perception** +32
+**Perception** +32; greater darkvision, scent 60 feet (imprecise), smoke vision
 
 **Languages** abyssal, ignan, razatlani, requian (can't speak any language)
+
+**Skills** Acrobatics +30, Athletics +33, Intimidation +30, Stealth +28, Survival +30
 
 **STR** +9, **DEX** +5, **CON** +8, **INT** -2, **WIS** +4, **CHA** +3
 
@@ -35,17 +37,17 @@ unique, ne, huge, beast, fire
 
 Speed 40 feet, fly 20 feet, climb 30 feet
 
-**Melee** jaws +33 (magical, reach <10 feet>); **Damage** 2d12+15 piercing plus 2d10 fire
+**Melee** ◆ jaws +33 (magical, reach <10 feet>); **Damage** 2d12+15 piercing plus 2d10 fire
 
-**Melee** claws +31 (agile, magical, reach <15 feet>); **Damage** 2d6+15 slashing plus 2d10 fire and Improved Grab plus Improved Grab
+**Melee** ◆ claws +31 (agile, magical, reach <15 feet>); **Damage** 2d6+15 slashing plus 2d10 fire and Improved Grab plus Improved Grab
 
-**Melee** tail +31 (magical, reach <25 feet>); **Damage** 2d4+15 piercing plus 2d10 fire and burning venom plus burning venom
+**Melee** ◆ tail +31 (magical, reach <25 feet>); **Damage** 2d4+15 piercing plus 2d10 fire and burning venom plus burning venom
 
-**Melee** horn +33 (magical, reach <10 feet>); **Damage** 2d8+15 piercing plus 2d10 fire
+**Melee** ◆ horn +33 (magical, reach <10 feet>); **Damage** 2d8+15 piercing plus 2d10 fire
 
 **Innate primal Spells** (DC 34)
 
-  **5th** wall of ice
+  **5th** wall of ice (×3)
 
   **7th** summon animal
 

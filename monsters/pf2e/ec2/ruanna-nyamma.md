@@ -5,9 +5,11 @@ unique, ce, medium, elf, human, humanoid
 
 ---
 
-**Perception** +9
+**Perception** +9; low-light vision
 
 **Languages** common, elven
+
+**Skills** Acrobatics +11, Deception +11, Diplomacy +11, Occultism +6, Performance +14, Society +6, Stealth +11
 
 **STR** +1, **DEX** +3, **CON** +0, **INT** +0, **WIS** +1, **CHA** +4
 
@@ -25,9 +27,9 @@ unique, ce, medium, elf, human, humanoid
 
 Speed 25 feet
 
-**Melee** kukri +11 (agile, finesse, trip); **Damage** 1d6+3 slashing
+**Melee** ◆ kukri +11 (agile, finesse, trip); **Damage** 1d6+3 slashing
 
-**Melee** shortbow +11 (deadly d10, range increment 60 feet, reload 0); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +11 (deadly d10, range increment 60 feet, reload 0); **Damage** 1d6 piercing
 
 **Spontaneous occult Spells** (DC 19), attack +12
 

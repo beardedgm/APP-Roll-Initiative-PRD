@@ -5,9 +5,11 @@ unique, n, small, leshy, plant
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision
 
-**Languages** common, druidic, sylvan
+**Languages** common, druidic, sylvan; speak with plants (same type as leshy)
+
+**Skills** Athletics +6, Nature +6, Stealth +8
 
 **STR** +2, **DEX** +4, **CON** +2, **INT** -1, **WIS** +2, **CHA** +0
 
@@ -25,7 +27,7 @@ unique, n, small, leshy, plant
 
 Speed 25 feet
 
-**Melee** fist +10 (agile, finesse); **Damage** 1d6+4 bludgeoning plus Grab
+**Melee** ◆ fist +10 (agile, finesse); **Damage** 1d6+4 bludgeoning plus Grab
 
 **Innate primal Spells** (DC 16)
 

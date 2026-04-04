@@ -5,7 +5,9 @@ rare, n, medium, mindless, ooze
 
 ---
 
-**Perception** +9
+**Perception** +9; no vision, {@ability tremorsense} 60 feet (imprecise)
+
+**Skills** Athletics +18, Stealth +10
 
 **STR** +7, **DEX** -5, **CON** +7, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -27,7 +29,7 @@ rare, n, medium, mindless, ooze
 
 Speed 10 feet
 
-**Melee** pseudopod +18 (reach <10 feet>); **Damage** 2d8+9 bludgeoning plus Improved Grab plus Improved
+**Melee** ◆ pseudopod +18 (reach <10 feet>); **Damage** 2d8+9 bludgeoning plus Improved Grab plus Improved
 
 **Flurry of Pods** ◆◆ The slithering pit makes a single pseudopod Strike against each target within range it doesn't already have grabbed. These attacks count toward the slithering pit's multiple attack penalty, but the penalty doesn't increase until after all of these attacks.
 

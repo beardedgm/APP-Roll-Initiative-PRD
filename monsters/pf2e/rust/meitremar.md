@@ -9,9 +9,11 @@ unique, ce, medium, human, humanoid
 
 **Languages** abyssal, aklo, common, thassilonian, varisian
 
+**Skills** Arcana +7, Crafting +7, Deception +9, Diplomacy +9, Intimidation +9, Occultism +7, Religion +8
+
 **STR** +2, **DEX** +1, **CON** +0, **INT** +2, **WIS** +1, **CHA** +4
 
-**Items** {@item Horn of Rust|Rust}, rusted ({@condition broken}) {@item breastplate}, tarnished {@item silver religious symbol} (Xar-Azmak), {@runeItem pick||+1 weapon potency||striking|}, {@item wand of create food}, {@item wand of restoration}, key to chest in area {@b E2}
+**Items** Horn of Rust|Rust, rusted (broken) breastplate, tarnished silver religious symbol (Xar-Azmak), , wand of create food, wand of restoration, key to chest in area E2
 
 ---
 
@@ -27,7 +29,7 @@ unique, ce, medium, human, humanoid
 
 Speed 20 feet
 
-**Melee** pick +8 (fatal <d10>); **Damage** 2d6+2 piercing
+**Melee** ◆ pick +8 (fatal <d10>); **Damage** 2d6+2 piercing
 
 **Spontaneous divine Spells** (DC 21), attack +12
 

@@ -5,11 +5,13 @@ unique, le, medium, dwarf, humanoid
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
+
+**Skills** Athletics +12, Crafting +8, Intimidation +9, Society +8, Survival +10
 
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +2, **CHA** +1
 
-**Items** {@item half plate}, {@item javelin} (6), {@item maul}
+**Items** half plate, javelin (6), maul
 
 ---
 
@@ -25,9 +27,9 @@ unique, le, medium, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** maul +14 (shove); **Damage** 1d12 + 8 bludgeoning
+**Melee** ◆ maul +14 (shove); **Damage** 1d12 + 8 bludgeoning
 
-**Melee** javelin +11 (thrown <30 feet>); **Damage** 1d6 + 8 piercing
+**Ranged** ◆ javelin +11 (thrown <30 feet>); **Damage** 1d6 + 8 piercing
 
 **Brutish Shove** ◆ If Kotgar has already attacked this turn and is holding a two-handed melee weapon, he can make a Strike with his two-handed melee weapon. If he hits a target that's Medium or smaller, he can push it back 5 feet, or 10 feet if his Strike was a critical hit. Kotgar can move to follow the target. Whether he hits or misses, the target is flat-footed until the end of his current turn unless he critically fails.
 

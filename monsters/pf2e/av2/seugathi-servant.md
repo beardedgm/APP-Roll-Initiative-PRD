@@ -5,9 +5,11 @@ uncommon, ce, large, aberration, seugathi
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, {@ability tremorsense} 30 feet
 
-**Languages** aklo, undercommon
+**Languages** aklo, undercommon; telepathy 100 feet
+
+**Skills** Acrobatics +15, Crafting +12, Intimidation +15, Occultism +12, Stealth +13, Survival +10
 
 **STR** +2, **DEX** +5, **CON** +2, **INT** +2, **WIS** +4, **CHA** +5
 
@@ -33,15 +35,15 @@ uncommon, ce, large, aberration, seugathi
 
 Speed 25 feet
 
-**Melee** bite +17 (agile, finesse); **Damage** 2d6+5 piercing plus seugathi venom plus seugathi venom
+**Melee** ◆ bite +17 (agile, finesse); **Damage** 2d6+5 piercing plus seugathi venom plus seugathi venom
 
-**Melee** longsword +14 (reach <10 feet>, versatile <P>); **Damage** 1d8+5 piercing
+**Melee** ◆ longsword +14 (reach <10 feet>, versatile <P>); **Damage** 1d8+5 piercing
 
 **Innate occult Spells** (DC 24), attack +16
 
   **Cantrips (3rd)** daze, detect magic, mage hand, telekinetic projectile
 
-  **3rd** hypercognition, levitate, mind reading
+  **3rd** hypercognition, levitate, mind reading (×3)
 
 **Envenom Weapon** ◆ (manipulate) The seugathi applies their seugathi venom to one weapon they wield.
 

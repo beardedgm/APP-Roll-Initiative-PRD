@@ -5,9 +5,11 @@ le, tiny, fey, gremlin
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** undercommon
+
+**Skills** Acrobatics +7, Athletics +6, Crafting +6, Nature +6, Stealth +5, Thievery +7
 
 **STR** +1, **DEX** +4, **CON** +2, **INT** +1, **WIS** +1, **CHA** +0
 
@@ -27,4 +29,4 @@ le, tiny, fey, gremlin
 
 Speed 20 feet, climb 20 feet
 
-**Melee** maul +8 (shove); **Damage** 1d12+1 bludgeoning plus
+**Melee** ◆ maul +8 (shove); **Damage** 1d12+1 bludgeoning plus

@@ -5,9 +5,11 @@ n, medium, fetchling, humanoid, shadow
 
 ---
 
-**Perception** +5
+**Perception** +5; darkvision
 
 **Languages** common, shadowtongue
+
+**Skills** Acrobatics +7, Athletics +4, Deception +5, Diplomacy +5, Society +3, Stealth +7, Thievery +7
 
 **STR** +1, **DEX** +4, **CON** +2, **INT** +0, **WIS** +0, **CHA** +2
 
@@ -27,9 +29,9 @@ n, medium, fetchling, humanoid, shadow
 
 Speed 25 feet
 
-**Melee** dagger +9 (agile, finesse, versatile <S>); **Damage** 1d4+1 piercing
+**Melee** ◆ dagger +9 (agile, finesse, versatile <S>); **Damage** 1d4+1 piercing
 
-**Melee** dagger +9 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+1 piercing
+**Ranged** ◆ dagger +9 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+1 piercing
 
 **Innate occult Spells** (DC 15)
 

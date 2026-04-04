@@ -5,9 +5,11 @@ cn, medium, earth, fey, nymph
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
 **Languages** aklo, common, sylvan, undercommon
+
+**Skills** Acrobatics +12, Athletics +9, Diplomacy +14, Nature +10, Occultism +11, Performance +14, Society +9, Stealth +12
 
 **STR** +0, **DEX** +5, **CON** +4, **INT** +2, **WIS** +3, **CHA** +5
 
@@ -27,9 +29,9 @@ cn, medium, earth, fey, nymph
 
 Speed 25 feet, climb 25 feet
 
-**Melee** earthen fist +14 (agile, finesse); **Damage** 2d10+2 bludgeoning
+**Melee** ◆ earthen fist +14 (agile, finesse); **Damage** 2d10+2 bludgeoning
 
-**Melee** light wisp +14 (magical, range increment <30 feet>); **Damage** 1d8+2 mental plus 1d6 fire and 1d6 positive
+**Ranged** ◆ light wisp +14 (magical, range increment <30 feet>); **Damage** 1d8+2 mental plus 1d6 fire and 1d6 positive
 
 **Innate primal Spells** (DC 22)
 
@@ -37,7 +39,7 @@ Speed 25 feet, climb 25 feet
 
   **2nd** faerie fire, heal
 
-  **3rd** meld into stone, pummeling rubble
+  **3rd** meld into stone (at will), pummeling rubble
 
   **4th** shape stone
 

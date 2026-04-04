@@ -5,9 +5,11 @@ le, medium, devil, fiend
 
 ---
 
-**Perception** +28
+**Perception** +28; greater darkvision, true seeing
 
-**Languages** celestial, common, draconic, infernal
+**Languages** celestial, common, draconic, infernal; telepathy 100 feet
+
+**Skills** Acrobatics +27, Arcana +25, Athletics +28, Deception +30, Diplomacy +28, Religion +26, Stealth +27
 
 **STR** +4, **DEX** +7, **CON** +4, **INT** +5, **WIS** +6, **CHA** +8
 
@@ -21,7 +23,7 @@ le, medium, devil, fiend
 
 **Immunities** fire
 
-**Resistances** physical 10
+**Resistances** physical 10 (except silver)
 
 **Weaknesses** good 10
 
@@ -29,15 +31,17 @@ le, medium, devil, fiend
 
 Speed 35 feet, climb 35 feet
 
-**Melee** claw +30 (agile, evil, finesse, magical); **Damage** 3d8+12 slashing plus 1d6 evil
+**Melee** ◆ claw +30 (agile, evil, finesse, magical); **Damage** 3d8+12 slashing plus 1d6 evil
 
-**Melee** tentacle +30 (evil, magical, reach <10 feet>); **Damage** 3d12+12 bludgeoning plus Grab plus Grab
+**Melee** ◆ tentacle +30 (evil, magical, reach <10 feet>); **Damage** 3d12+12 bludgeoning plus Grab plus Grab
 
 **Innate divine Spells** (DC 36), attack +28
 
-  **4th** charm, dimension door, enthrall
+  **Constant (7th)** true seeing
 
-  **5th** black tentacles, dimension door, illusory object
+  **4th** charm (×3), dimension door (at will), enthrall (at will)
+
+  **5th** black tentacles, dimension door, illusory object (at will)
 
   **7th** dispel magic, dominate
 

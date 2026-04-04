@@ -5,9 +5,11 @@ cn, medium, construct
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** common (can't speak any language)
+
+**Skills** Acrobatics +11, Crafting +5, Deception +10, Stealth +11
 
 **STR** +2, **DEX** +4, **CON** +1, **INT** -2, **WIS** +2, **CHA** +1
 
@@ -29,6 +31,6 @@ cn, medium, construct
 
 Speed 25 feet
 
-**Melee** fist +13 (agile, finesse); **Damage** 2d4+4 bludgeoning
+**Melee** ◆ fist +13 (agile, finesse); **Damage** 2d4+4 bludgeoning
 
-**Melee** splatter +11 (nonlethal, range increment <20 feet>); **Damage** 1d4+4 plus blinded|CRB|blinded 1 round plus 1d4+4
+**Ranged** ◆ splatter +11 (nonlethal, range increment <20 feet>); **Damage** 1d4+4 plus blinded|CRB|blinded 1 round plus 1d4+4

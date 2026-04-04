@@ -5,9 +5,11 @@ unique, cg, medium, elf, humanoid, tiefling
 
 ---
 
-**Perception** +12
+**Perception** +12; low-light vision, spirit sight 30 feet (precise)
 
 **Languages** aklo, common, elven, sylvan, varisian
+
+**Skills** Acrobatics +12, Nature +12, Occultism +12, Performance +10, Religion +13, Astrology Lore +12, Spirit Lore +16
 
 **STR** +0, **DEX** +3, **CON** +0, **INT** +2, **WIS** +3, **CHA** +4
 
@@ -29,11 +31,11 @@ unique, cg, medium, elf, humanoid, tiefling
 
 Speed 25 feet
 
-**Melee** starknife +12 (agile, deadly <d6>, finesse, magical, versatile <S>); **Damage** 1d4 piercing
+**Melee** ◆ starknife +12 (agile, deadly <d6>, finesse, magical, versatile <S>); **Damage** 1d4 piercing
 
-**Melee** tail +10 (agile, finesse, unarmed); **Damage** 1d4 bludgeoning
+**Melee** ◆ tail +10 (agile, finesse, unarmed); **Damage** 1d4 bludgeoning
 
-**Melee** starknife +12 (agile, deadly <d6>, magical, thrown <20 feet>, versatile <S>); **Damage** 1d4 piercing
+**Ranged** ◆ starknife +12 (agile, deadly <d6>, magical, thrown <20 feet>, versatile <S>); **Damage** 1d4 piercing
 
 **Spontaneous primal Spells** (DC 22), attack +14
 

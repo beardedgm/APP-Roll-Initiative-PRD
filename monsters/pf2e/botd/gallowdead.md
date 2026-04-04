@@ -5,9 +5,11 @@ ne, medium, undead
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision
 
 **Languages** common, necril
+
+**Skills** Acrobatics +27, Athletics +29, Intimidation +26, Stealth +27
 
 **STR** +8, **DEX** +4, **CON** +5, **INT** +2, **WIS** +4, **CHA** +5
 
@@ -38,9 +40,9 @@ ne, medium, undead
 
 Speed 25 feet
 
-**Melee** [one-action]spiked chain +31 (disarm, reach <20 feet>, trip); **Damage** 3d8+14 slashing
+**Melee** ◆ [one-action]spiked chain +31 (disarm, reach <20 feet>, trip); **Damage** 3d8+14 slashing
 
-**Melee** claw +29 (agile); **Damage** 3d12+14 slashing
+**Melee** ◆ claw +29 (agile); **Damage** 3d12+14 slashing
 
 **Chain Capture** ◈ **Trigger** The gallowdead critically hits a target with their spiked chain; The gallowdead attempts an Athletics check to Grapple the target. On a success, the gallowdead can also pull the target adjacent toward them to the distance the gallowdead chooses. Most often, a gallowdead chooses to pull a creature close enough that it's in their reach and out of defensive position, but so the creature still can't reach the gallowdead's body. At the start of the gallowdead's next turn, if the target hasn't Escaped, the target takes the damage of a spiked chain Strike, and the chain releases the creature.
 

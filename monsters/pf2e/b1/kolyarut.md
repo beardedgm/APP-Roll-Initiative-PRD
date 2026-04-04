@@ -5,9 +5,11 @@ ln, medium, aeon, inevitable, monitor
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision
 
-**Languages** celestial, infernal, utopian
+**Languages** celestial, infernal, utopian; truespeech
+
+**Skills** Acrobatics +22, Athletics +27, Deception +20, Diplomacy +20, Survival +22, Axis Lore +22
 
 **STR** +7, **DEX** +4, **CON** +5, **INT** +1, **WIS** +4, **CHA** +2
 
@@ -29,19 +31,19 @@ ln, medium, aeon, inevitable, monitor
 
 Speed 25 feet
 
-**Melee** bastard sword +26 (lawful, magical, two-hand <d12>); **Damage** 2d8+13 slashing plus 1d6 lawful
+**Melee** ◆ bastard sword +26 (lawful, magical, two-hand <d12>); **Damage** 2d8+13 slashing plus 1d6 lawful
 
-**Melee** fist +23 (agile, lawful, magical); **Damage** 1d10+11 bludgeoning plus 1d6 lawful
+**Melee** ◆ fist +23 (agile, lawful, magical); **Damage** 1d10+11 bludgeoning plus 1d6 lawful
 
 **Innate divine Spells** (DC 32)
 
-  **1st** command
+  **1st** command (at will)
 
   **2nd** invisibility
 
-  **3rd** paralyze
+  **3rd** paralyze (×2)
 
-  **4th** illusory disguise, suggestion
+  **4th** illusory disguise (at will), suggestion (×2)
 
   **5th** command
 

@@ -7,6 +7,8 @@ n, large, animal, swarm
 
 **Perception** +8
 
+**Skills** Acrobatics +8, Thievery +8
+
 **STR** +0, **DEX** +4, **CON** +0, **INT** -4, **WIS** +2, **CHA** +0
 
 ---

@@ -5,7 +5,9 @@ n, small, animal
 
 ---
 
-**Perception** +5
+**Perception** +5; low-light vision
+
+**Skills** Acrobatics +5, Athletics +2, Stealth +5
 
 **STR** +1, **DEX** +3, **CON** +2, **INT** -4, **WIS** +1, **CHA** -3
 
@@ -21,4 +23,4 @@ n, small, animal
 
 Speed 30 feet, climb 10 feet
 
-**Melee** jaws +7 (agile, finesse); **Damage** 1d6 + 1 piercing
+**Melee** ◆ jaws +7 (agile, finesse); **Damage** 1d6 + 1 piercing

@@ -5,9 +5,11 @@ uncommon, cn, small, earth, fey
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision, {@ability tremorsense} 60 feet (imprecise)
 
 **Languages** gnomish, sylvan, undercommon
+
+**Skills** Intimidation +8, Society +7, Survival +9, Farming Lore +7, Labor Lore +7
 
 **STR** +1, **DEX** +3, **CON** +2, **INT** +1, **WIS** +3, **CHA** +4
 
@@ -25,7 +27,7 @@ uncommon, cn, small, earth, fey
 
 Speed 25 feet
 
-**Melee** toenail cutter +10 (agile, backstabber, finesse); **Damage** 1d6+3 slashing
+**Melee** ◆ toenail cutter +10 (agile, backstabber, finesse); **Damage** 1d6+3 slashing
 
 **Innate occult Spells** (DC 18), attack +10
 

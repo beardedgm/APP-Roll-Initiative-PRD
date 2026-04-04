@@ -5,9 +5,11 @@ cg, large, dragon, earth
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision, scent 60 feet (imprecise)
 
 **Languages** common, draconic, gnomish
+
+**Skills** Acrobatics +17, Athletics +17, Crafting +14, Deception +15, Performance +16, Society +16, Stealth +17
 
 **STR** +5, **DEX** +3, **CON** +2, **INT** +2, **WIS** +2, **CHA** +3
 
@@ -27,17 +29,17 @@ cg, large, dragon, earth
 
 ---
 
-Speed 30 feet, fly 120 feet
+Speed 30 feet, fly 120 feet, climb stone 30 feet
 
-**Melee** jaws +20 (acid, reach <10 feet>); **Damage** 2d8+8 piercing plus 1d8 acid
+**Melee** ◆ jaws +20 (acid, reach <10 feet>); **Damage** 2d8+8 piercing plus 1d8 acid
 
-**Melee** claw +20 (agile); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +20 (agile); **Damage** 2d6+8 slashing
 
-**Melee** tail +18 (reach <15 feet>); **Damage** 1d8+7 bludgeoning
+**Melee** ◆ tail +18 (reach <15 feet>); **Damage** 1d8+7 bludgeoning
 
 **Innate arcane Spells** (DC 27)
 
-  **1st** grease
+  **1st** grease (at will)
 
 **Breath Weapon** ◆◆ The copper dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 rounds. - Acid (acid, arcane, evocation); The dragon breathes acid in a 60-foot line that deals 8d6 acid damage (DC 26 basic Fortitude save).
 - Slowing Gas (arcane, transmutation); The dragon breathes a 60-foot line of slowing gas. Each creature in the area must succeed at a DC 26 Fortitude save or be slowed 1 for 1 round (or slowed 2 on a critical failure).

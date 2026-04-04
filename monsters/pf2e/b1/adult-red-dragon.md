@@ -5,9 +5,11 @@ ce, huge, dragon, fire
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision, scent 60 feet (imprecise), smoke vision
 
 **Languages** common, draconic, dwarven, orcish
+
+**Skills** Acrobatics +23, Arcana +25, Athletics +29, Deception +25, Diplomacy +25, Intimidation +27, Stealth +23
 
 **STR** +7, **DEX** +3, **CON** +6, **INT** +3, **WIS** +4, **CHA** +5
 
@@ -35,13 +37,13 @@ ce, huge, dragon, fire
 
 Speed 50 feet, fly 150 feet
 
-**Melee** jaws +29 (fire, magical, reach <15 feet>); **Damage** 3d12+15 piercing plus 2d6 fire
+**Melee** ◆ jaws +29 (fire, magical, reach <15 feet>); **Damage** 3d12+15 piercing plus 2d6 fire
 
-**Melee** claw +29 (agile, magical, reach <10 feet>); **Damage** 3d10+15 slashing
+**Melee** ◆ claw +29 (agile, magical, reach <10 feet>); **Damage** 3d10+15 slashing
 
-**Melee** tail +27 (magical, reach <20 feet>); **Damage** 3d12+13 slashing
+**Melee** ◆ tail +27 (magical, reach <20 feet>); **Damage** 3d12+13 slashing
 
-**Melee** wing +27 (agile, magical, reach <15 feet>); **Damage** 2d10+13 slashing
+**Melee** ◆ wing +27 (agile, magical, reach <15 feet>); **Damage** 2d10+13 slashing
 
 **Innate arcane Spells** (DC 35)
 

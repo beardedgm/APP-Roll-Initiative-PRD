@@ -5,9 +5,11 @@ lg, medium, archon, celestial
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Athletics +12, Intimidation +10, Religion +9, Stealth +10
 
 **STR** +4, **DEX** +2, **CON** +4, **INT** +0, **WIS** +3, **CHA** +2
 
@@ -29,11 +31,13 @@ lg, medium, archon, celestial
 
 Speed 35 feet
 
-**Melee** greatsword +14 (good, magical, versatile <P>); **Damage** 1d12+6 slashing plus 1d6 good
+**Melee** ◆ greatsword +14 (good, magical, versatile <P>); **Damage** 1d12+6 slashing plus 1d6 good
 
-**Melee** jaws +14 (agile, good, magical); **Damage** 1d6+6 piercing plus 1d6 good
+**Melee** ◆ jaws +14 (agile, good, magical); **Damage** 1d6+6 piercing plus 1d6 good
 
 **Innate divine Spells** (DC 19)
+
+  **Constant (5th)** tongues
 
   **Cantrips (2nd)** message
 

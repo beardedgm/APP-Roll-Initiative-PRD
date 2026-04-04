@@ -5,9 +5,11 @@ ce, tiny, aquatic, fey, gremlin
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
 
 **Languages** aquan
+
+**Skills** Acrobatics +7, Deception +4, Nature +6, Stealth +7, Thievery +7, Sailing Lore +6
 
 **STR** +1, **DEX** +4, **CON** +2, **INT** +1, **WIS** +3, **CHA** -1
 
@@ -29,9 +31,9 @@ ce, tiny, aquatic, fey, gremlin
 
 Speed 20 feet, swim 30 feet
 
-**Melee** claw +9 (agile, finesse); **Damage** 1d6+1 slashing
+**Melee** ◆ claw +9 (agile, finesse); **Damage** 1d6+1 slashing
 
-**Melee** dart +9 (agile, range increment <20 feet>); **Damage** 1d4+1 piercing
+**Ranged** ◆ dart +9 (agile, range increment <20 feet>); **Damage** 1d4+1 piercing
 
 **Innate primal Spells** (DC 17)
 

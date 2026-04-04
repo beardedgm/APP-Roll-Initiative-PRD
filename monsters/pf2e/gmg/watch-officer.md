@@ -9,6 +9,8 @@ ln, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +11, Diplomacy +6, Intimidation +9, Society +5, Legal Lore +7
+
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +1, **CHA** +1
 
 ---
@@ -31,8 +33,8 @@ ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** warhammer +13 (shove); **Damage** 1d8+7 bludgeoning
+**Melee** ◆ warhammer +13 (shove); **Damage** 1d8+7 bludgeoning
 
-**Melee** crossbow +10 (range increment <120 feet>, reload <1>); **Damage** 1d8+3 piercing
+**Ranged** ◆ crossbow +10 (range increment <120 feet>, reload <1>); **Damage** 1d8+3 piercing
 
 **Sudden Charge** ◆◆ **Frequency** {"unit":"round","number":1}; The watch officer Strides twice. If they end their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy.

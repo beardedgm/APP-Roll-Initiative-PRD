@@ -5,9 +5,11 @@ uncommon, ln, large, formian
 
 ---
 
-**Perception** +31
+**Perception** +31; darkvision, scent 60 feet (precise), tremorsense  60 feet
 
-**Languages** akitonian, formian
+**Languages** akitonian, formian; telepathy 200 feet
+
+**Skills** Athletics +27, Arcana +30, Diplomacy +33, Intimidation +33, Medicine +31, Nature +31, Society +30
 
 **STR** +8, **DEX** +5, **CON** +9, **INT** +5, **WIS** +6, **CHA** +8
 
@@ -27,11 +29,11 @@ uncommon, ln, large, formian
 
 Speed 10 feet
 
-**Melee** claw +33 (agile, magic, reach <15 feet>); **Damage** 3d12+12 slashing
+**Melee** ◆ claw +33 (agile, magic, reach <15 feet>); **Damage** 3d12+12 slashing
 
 **Innate primal Spells** (DC 38), attack +30
 
-  **7th** magic missile
+  **7th** magic missile (at will)
 
   **8th** disappearance, illusory scene, repulsion, teleport
 

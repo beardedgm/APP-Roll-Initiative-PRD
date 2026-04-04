@@ -5,9 +5,11 @@ uncommon, ne, gargantuan, daemon, fiend
 
 ---
 
-**Perception** +35
+**Perception** +35; darkvision, true seeing
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Acrobatics +33, Athletics +39, Deception +34, Intimidation +36, Religion +32, Warfare Lore +36
 
 **STR** +10, **DEX** +4, **CON** +8, **INT** +4, **WIS** +5, **CHA** +7
 
@@ -35,15 +37,17 @@ uncommon, ne, gargantuan, daemon, fiend
 
 Speed 25 feet, fly 50 feet
 
-**Melee** halberd +36 (evil, magical, reach, versatile <S>); **Damage** 4d10+18 slashing plus 1d6 evil
+**Melee** ◆ halberd +36 (evil, magical, reach, versatile <S>); **Damage** 4d10+18 slashing plus 1d6 evil
 
-**Melee** jaws +36 (evil, magical, reach <15 feet>); **Damage** 4d6+18 piercing plus 1d6 evil and Grab
+**Melee** ◆ jaws +36 (evil, magical, reach <15 feet>); **Damage** 4d6+18 piercing plus 1d6 evil and Grab
 
 **Innate divine Spells** (DC 38), attack +30
 
-  **1st** detect alignment
+  **Constant (10th)** true seeing
 
-  **4th** dimension door
+  **1st** detect alignment (at will)
+
+  **4th** dimension door (at will)
 
   **5th** dimension door
 

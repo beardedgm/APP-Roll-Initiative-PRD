@@ -5,9 +5,11 @@ rare, ce, gargantuan, humanoid, titan
 
 ---
 
-**Perception** +36
+**Perception** +36; darkvision, true seeing
 
-**Languages** abyssal, celestial, common
+**Languages** abyssal, celestial, common; telepathy 100 feet
+
+**Skills** Athletics +45, Crafting +41, Deception +36, Intimidation +38, Religion +38, Stealth +36
 
 **STR** +10, **DEX** +4, **CON** +9, **INT** +8, **WIS** +6, **CHA** +8
 
@@ -29,23 +31,25 @@ rare, ce, gargantuan, humanoid, titan
 
 ---
 
-Speed 40 feet
+Speed 40 feet, air walk
 
-**Melee** halberd +42 (magical, reach <40 feet>, versatile <S>); **Damage** 4d10+25 piercing
+**Melee** ◆ halberd +42 (magical, reach <40 feet>, versatile <S>); **Damage** 4d10+25 piercing
 
-**Melee** foot +39 (agile, reach <30 feet>); **Damage** 4d8+20 bludgeoning
+**Melee** ◆ foot +39 (agile, reach <30 feet>); **Damage** 4d8+20 bludgeoning
 
-**Melee** rock +39 (brutal, range increment <200 feet>); **Damage** 3d12+20 bludgeoning
+**Ranged** ◆ rock +39 (brutal, range increment <200 feet>); **Damage** 3d12+20 bludgeoning
 
 **Innate divine Spells** (DC 45)
 
+  **Constant (10th)** air walk, true seeing
+
   **5th** sending
 
-  **6th** scrying
+  **6th** scrying (×3)
 
   **7th** spell turning
 
-  **8th** dispel magic, spiritual epidemic, suggestion
+  **8th** dispel magic (at will), spiritual epidemic (at will), suggestion (at will)
 
   **10th** massacre, meteor swarm
 

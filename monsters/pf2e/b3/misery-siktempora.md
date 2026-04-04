@@ -5,9 +5,11 @@ rare, ce, large, siktempora, time
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
 
-**Languages** aklo (can't speak any language)
+**Languages** aklo (can't speak any language); telepathy 300 feet (page 308)
+
+**Skills** Acrobatics +23, Intimidation +23, Occultism +22, Stealth +23, Dimension Of Time Lore +26
 
 **STR** +7, **DEX** +5, **CON** +4, **INT** +4, **WIS** +7, **CHA** +5
 
@@ -29,15 +31,17 @@ rare, ce, large, siktempora, time
 
 ---
 
-Speed 35 feet
+Speed 35 feet, air walk
 
-**Melee** claw +26 (agile); **Damage** 3d8+13 slashing
+**Melee** ◆ claw +26 (agile); **Damage** 3d8+13 slashing
 
 **Innate occult Spells** (DC 29)
 
-  **2nd** invisibility
+  **Constant (6th)** air walk
 
-  **4th** dimension door
+  **2nd** invisibility (×3)
+
+  **4th** dimension door (at will)
 
   **6th** blink
 

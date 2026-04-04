@@ -5,9 +5,11 @@ n, medium, amphibious, elemental, water
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision, mist vision
 
 **Languages** aquan
+
+**Skills** Athletics +11, Stealth +12
 
 **STR** +4, **DEX** +4, **CON** +2, **INT** +1, **WIS** +5, **CHA** +0
 
@@ -27,7 +29,7 @@ n, medium, amphibious, elemental, water
 
 Speed 20 feet, swim 30 feet, climb 20 feet
 
-**Melee** tentacle +14 (finesse, sweep, reach <10 feet>); **Damage** 2d8+4 bludgeoning plus Grab plus Grab
+**Melee** ◆ tentacle +14 (finesse, sweep, reach <10 feet>); **Damage** 2d8+4 bludgeoning plus Grab plus Grab
 
 **Constrict** ◆ 1d8+4 bludgeoning, DC 21
 

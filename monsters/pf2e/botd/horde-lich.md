@@ -5,9 +5,11 @@ rare, ne, medium, undead
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
 
 **Languages** abyssal, aklo, common, draconic, dwarven, infernal, jotun, necril, undercommon
+
+**Skills** Acrobatics +27, Arcana +31, Crafting +29 (can craft magic items), Deception +27, Intimidation +27, Religion +25, Stealth +27, Thievery +27
 
 **STR** +2, **DEX** +6, **CON** +0, **INT** +8, **WIS** +4, **CHA** +6
 
@@ -23,7 +25,7 @@ rare, ne, medium, undead
 
 **Immunities** death effects, disease, paralyzed, poison, unconscious
 
-**Resistances** cold 10, physical 10
+**Resistances** cold 10, physical 10 (except magic bludgeoning)
 
 **Rejuvenation** (arcane, necromancy) When a lich is destroyed, their soul immediately transfers to their soul cage. A lich can be permanently destroyed only if their soul cage is found and destroyed.
 
@@ -33,7 +35,7 @@ rare, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** hand +27 (finesse, magical); **Damage** 5d8 negative
+**Melee** ◆ hand +27 (finesse, magical); **Damage** 5d8 negative
 
 **Prepared arcane Spells** (DC 39), attack +31
 
@@ -41,7 +43,7 @@ Speed 25 feet
 
   **1st** alarm, command, illusory disguise, unseen servant
 
-  **2nd** hideous laughter, invisibility, mirror image
+  **2nd** hideous laughter, invisibility, mirror image (×2)
 
   **3rd** haste, paralyze, slow, stinking cloud
 

@@ -5,9 +5,11 @@ ne, medium, undead
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +5, Athletics +7, Stealth +7, Survival +5
 
 **STR** +4, **DEX** +2, **CON** +2, **INT** +0, **WIS** +1, **CHA** +1
 
@@ -27,9 +29,9 @@ ne, medium, undead
 
 Speed 30 feet
 
-**Melee** jaws +9; **Damage** 1d6+4 piercing
+**Melee** ◆ jaws +9; **Damage** 1d6+4 piercing
 
-**Melee** claw +9 (agile); **Damage** 1d4+4 slashing
+**Melee** ◆ claw +9 (agile); **Damage** 1d4+4 slashing
 
 **Feast** ◆ (manipulate) **Requirements** The festrog's last action was a jaws Strike that damaged a living creature; The festrog tears into the creature's flesh and gulps it down voraciously, dealing 1d4 slashing damage to the creature and gaining temporary Hit Points equal to the damage dealt. These temporary HP last for 1 minute.
 

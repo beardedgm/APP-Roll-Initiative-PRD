@@ -5,9 +5,11 @@ rare, n, medium, aberration
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision, thoughtsense  60 feet
 
-**Languages** akitonian
+**Languages** akitonian; telepathy 60 feet, tongues
+
+**Skills** Arcana +31, Deception +27
 
 **STR** +0, **DEX** +6, **CON** +0, **INT** +8, **WIS** +6, **CHA** +4
 
@@ -35,15 +37,17 @@ rare, n, medium, aberration
 
 Speed 5 feet, fly 25 feet
 
-**Melee** claw +27 (finesse, magical); **Damage** 3d6+4 slashing plus 4d6 mental
+**Melee** ◆ claw +27 (finesse, magical); **Damage** 3d6+4 slashing plus 4d6 mental
 
 **Innate occult Spells** (DC 39), attack +29
+
+  **Constant (8th)** tongues
 
   **Cantrips (8th)** daze, ghost sound, mage hand, read aura, telekinetic projectile
 
   **6th** sanctuary, slow
 
-  **7th** haste, magic missile, return to essence
+  **7th** haste, magic missile (×3), return to essence
 
   **8th** dimensional anchor, disappearance, discern location
 

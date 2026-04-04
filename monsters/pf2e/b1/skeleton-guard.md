@@ -5,7 +5,9 @@ ne, medium, mindless, skeleton, undead
 
 ---
 
-**Perception** +2
+**Perception** +2; darkvision
+
+**Skills** Acrobatics +6, Athletics +3
 
 **STR** +2, **DEX** +4, **CON** +0, **INT** -5, **WIS** +0, **CHA** +0
 
@@ -27,8 +29,8 @@ ne, medium, mindless, skeleton, undead
 
 Speed 25 feet
 
-**Melee** scimitar +6 (forceful, sweep); **Damage** 1d6+2 slashing
+**Melee** ◆ scimitar +6 (forceful, sweep); **Damage** 1d6+2 slashing
 
-**Melee** claw +6 (agile, finesse); **Damage** 1d4+2 slashing
+**Melee** ◆ claw +6 (agile, finesse); **Damage** 1d4+2 slashing
 
-**Melee** shortbow +6 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +6 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing

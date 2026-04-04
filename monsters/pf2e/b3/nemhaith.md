@@ -5,9 +5,11 @@ uncommon, ne, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +31
+**Perception** +31; darkvision
 
-**Languages** common
+**Languages** common; telepathy 100 feet
+
+**Skills** Deception +27, Diplomacy +27, Intimidation +29, Religion +31, Stealth +29, Dwelling Lore +25
 
 **STR** -5, **DEX** +6, **CON** +0, **INT** +4, **WIS** +8, **CHA** +6
 
@@ -33,13 +35,13 @@ uncommon, ne, medium, incorporeal, spirit, undead
 
 Speed fly 40 feet
 
-**Melee** spirit tendril +29 (agile, finesse, magical); **Damage** 3d10+14 negative plus drain life plus drain life
+**Melee** ◆ spirit tendril +29 (agile, finesse, magical); **Damage** 3d10+14 negative plus drain life plus drain life
 
-**Melee** spirit dart +29 (agile, magical, range <100 feet>); **Damage** 3d8+14 negative plus drain life plus drain life
+**Ranged** ◆ spirit dart +29 (agile, magical, range <100 feet>); **Damage** 3d8+14 negative plus drain life plus drain life
 
 **Innate divine Spells** (DC 36), attack +28
 
-  **8th** finger of death, harm, wall of force
+  **8th** finger of death (×3), harm (×3), wall of force
 
 **Drain Life** (divine, necromancy) When the nemhaith damages a living creature with its spirit tendril Strike, the creature must succeed at a DC 36 Fortitude save or become drained 2. Further damage dealt by the nemhaith increases the condition value by 1 on a failed save, to a maximum of drained 4.
 

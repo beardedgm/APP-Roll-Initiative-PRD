@@ -5,9 +5,11 @@ le, medium, fiend, velstrac
 
 ---
 
-**Perception** +34
+**Perception** +34; greater darkvision, painsight, true seeing
 
-**Languages** common, infernal, shadowtongue
+**Languages** common, infernal, shadowtongue; telepathy 100 feet
+
+**Skills** Athletics +35, Deception +38, Diplomacy +36, Intimidation +40, Medicine +36, Religion +34, Stealth +36, Torture Lore +36
 
 **STR** +9, **DEX** +6, **CON** +7, **INT** +6, **WIS** +6, **CHA** +10
 
@@ -31,15 +33,17 @@ le, medium, fiend, velstrac
 
 Speed 30 feet, fly 50 feet
 
-**Melee** jaws +39 (evil, magical); **Damage** 4d8+19 piercing plus 2d6 persistent bleed and exquisite pain plus exquisite pain
+**Melee** ◆ jaws +39 (evil, magical); **Damage** 4d8+19 piercing plus 2d6 persistent bleed and exquisite pain plus exquisite pain
 
-**Melee** claw +39 (agile, evil, magical); **Damage** 3d6+19 slashing plus 2d6 persistent bleed, exquisite pain, and Improved Grab plus exquisite pain, Improved Grab
+**Melee** ◆ claw +39 (agile, evil, magical); **Damage** 3d6+19 slashing plus 2d6 persistent bleed, exquisite pain, and Improved Grab plus exquisite pain, Improved Grab
 
 **Innate divine Spells** (DC 42)
 
-  **7th** dimension door, dimensional lock, plane shift, shadow siphon, warp mind
+  **Constant (9th)** true seeing
 
-  **9th** bind soul, blade barrier, harm, heal, shadow blast, shadow walk
+  **7th** dimension door (at will), dimensional lock, plane shift, shadow siphon (at will), warp mind
+
+  **9th** bind soul, blade barrier, harm (×2), heal (×2), shadow blast, shadow walk (at will)
 
 **Evisceration** ◆ (attack) **Requirements** The eremite has a creature grabbed; The eremite excises flesh or bone from a creature it has grabbed. The target takes 6d10 persistent bleed damage.
 

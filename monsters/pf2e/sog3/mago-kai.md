@@ -9,9 +9,11 @@ unique, n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +22, Crafting +16, Deception +19, Intimidation +21, Ghost Lore +18, Society +16, Sze Lore +18
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** +1, **WIS** +0, **CHA** +4
 
-**Items** {@item buzzsaw axe|SoM}, {@runeItem lamellar breastplate|TV|+1 armor potency||resilient|}, {@item hatchet||hatchets} (5), Karahai fortress key (opens all locks in Karahai), temple bell ringer
+**Items** buzzsaw axe|SoM, , hatchets (5), Karahai fortress key (opens all locks in Karahai), temple bell ringer
 
 ---
 
@@ -27,10 +29,10 @@ unique, n, medium, human, humanoid
 
 Speed 20 feet
 
-**Melee** buzzsaw axe +24 (sweep); **Damage** 2d8+11 slashing plus 2d6 mental
+**Melee** ◆ buzzsaw axe +24 (sweep); **Damage** 2d8+11 slashing plus 2d6 mental
 
-**Melee** headbutt +22 (agile, nonlethal, press); **Damage** 2d4+11 bludgeoning plus 2d6 mental
+**Melee** ◆ headbutt +22 (agile, nonlethal, press); **Damage** 2d4+11 bludgeoning plus 2d6 mental
 
-**Melee** hatchet +19 (agile, sweep, thrown <10 feet>); **Damage** 1d6+11 slashing
+**Ranged** ◆ hatchet +19 (agile, sweep, thrown <10 feet>); **Damage** 1d6+11 slashing
 
 **Ghost Killer** Mago Kai had intricate magical tattoos inscribed on his back and chest to interact more easily with his ghostly masters. Weapons and unarmed attacks wielded by Mago Kai function as ghost touch weapons, and he inflicts an additional 2d6 mental damage with melee Strikes against incorporeal creatures or transmigrate|SoG3|transmigrated PCs.

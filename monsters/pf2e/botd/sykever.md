@@ -5,7 +5,9 @@ ce, huge, darvakka, shadow, undead
 
 ---
 
-**Perception** +29
+**Perception** +29; greater darkvision, lifesense 60 feet
+
+**Skills** Arcana +27, Athletics +29, Intimidation +28, Negative Energy Plane Lore +27, Religion +27, Shadow Plane Lore +27, Stealth +27, Warfare Lore +27
 
 **STR** +8, **DEX** +4, **CON** +6, **INT** +6, **WIS** +6, **CHA** +7
 
@@ -29,21 +31,23 @@ ce, huge, darvakka, shadow, undead
 
 ---
 
-Speed 40 feet
+Speed 40 feet, air walk
 
-**Melee** horn +31 (magical, reach <10 feet>); **Damage** 3d8+12 bludgeoning plus 1d10 cold and 2d8 persistent bleed
+**Melee** ◆ horn +31 (magical, reach <10 feet>); **Damage** 3d8+12 bludgeoning plus 1d10 cold and 2d8 persistent bleed
 
-**Melee** arm spike +31 (agile, magical, reach <10 feet>); **Damage** 3d8+12 piercing plus 1d10 cold
+**Melee** ◆ arm spike +31 (agile, magical, reach <10 feet>); **Damage** 3d8+12 piercing plus 1d10 cold
 
 **Innate divine Spells** (DC 36)
 
+  **Constant (8th)** air walk
+
   **Cantrips (8th)** detect magic
 
-  **4th** darkness, invisibility
+  **4th** darkness (at will), invisibility (×3)
 
   **6th** true seeing
 
-  **7th** harm, paralyze, plane shift
+  **7th** harm (×3), paralyze, plane shift
 
 **Change Posture** ◆ The sykever changes between their bipedal and quadrupedal stance. In their bipedal stance, the sykever can use all the abilities in their stat block except Horned Rush. In their quadrupedal stance, the sykever has a Speed of 80 feet but can't make arm spike Strikes, Disarm, cast spells, or use Crush Item.
 

@@ -5,9 +5,11 @@ ng, tiny, agathion, celestial
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
 
-**Languages** celestial, common, draconic, infernal
+**Languages** celestial, common, draconic, infernal; speak
+
+**Skills** Acrobatics +7, Arcana +3, Medicine +6, Nirvana Lore +3, Stealth +7
 
 **STR** -2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +3, **CHA** +2
 
@@ -25,15 +27,17 @@ ng, tiny, agathion, celestial
 
 Speed 25 feet, fly 40 feet
 
-**Melee** jaws +9 (finesse, good, magical); **Damage** 1d6 –2 piercing plus 1d4 good
+**Melee** ◆ jaws +9 (finesse, good, magical); **Damage** 1d6 –2 piercing plus 1d4 good
 
-**Melee** claw +9 (agile, finesse, good, magical); **Damage** 1d4 –2 slashing plus 1d4 good
+**Melee** ◆ claw +9 (agile, finesse, good, magical); **Damage** 1d4 –2 slashing plus 1d4 good
 
 **Innate divine Spells** (DC 16)
 
+  **Constant (2nd)** speak with animals
+
   **Cantrips (1st)** dancing lights, know direction, prestidigitation, stabilize
 
-  **4th** gaseous form, read omens
+  **4th** gaseous form (×3), read omens
 
 **Champion Focus Spell** DC 16, 1 Focus Point; 1st lay on hands (Core Rulebook 387)
 

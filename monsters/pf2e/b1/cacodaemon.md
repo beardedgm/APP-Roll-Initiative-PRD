@@ -5,9 +5,11 @@ ne, tiny, daemon, fiend
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Acrobatics +8, Deception +5, Religion +6, Stealth +8
 
 **STR** +0, **DEX** +3, **CON** +2, **INT** -1, **WIS** +1, **CHA** +2
 
@@ -25,15 +27,15 @@ ne, tiny, daemon, fiend
 
 Speed 5 feet, fly 40 feet
 
-**Melee** jaws +8 (agile, disease, evil, finesse, magical); **Damage** 1d8 piercing plus 1d4 evil and cacodaemonia plus cacodaemonia
+**Melee** ◆ jaws +8 (agile, disease, evil, finesse, magical); **Damage** 1d8 piercing plus 1d4 evil and cacodaemonia plus cacodaemonia
 
 **Innate divine Spells** (DC 17)
 
   **Cantrips (1st)** detect magic
 
-  **1st** detect alignment, fear
+  **1st** detect alignment (at will), fear
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
   **4th** read omens
 

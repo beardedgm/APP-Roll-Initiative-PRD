@@ -9,6 +9,8 @@ unique, lg, medium, ghost, incorporeal, spirit, undead
 
 **Languages** aklo, common
 
+**Skills** Acrobatics +15, Diplomacy +17, Medicine +17, Nature +15, Occultism +13, Religion +17, Survival +15
+
 **STR** -5, **DEX** +4, **CON** +2, **INT** +4, **WIS** +6, **CHA** +6
 
 ---
@@ -21,7 +23,7 @@ unique, lg, medium, ghost, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Rejuvenation** (divine, necromancy) Purifying the four statues and defeating Xin Yue in Kugaptee's Grave below the Tan Sugi monastery allows Zhi Hui's ghost to fade.
 
@@ -29,7 +31,7 @@ unique, lg, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 35 feet
 
-**Melee** ghostly hand +15 (agile, finesse, magical); **Damage** 2d8+7 negative
+**Melee** ◆ ghostly hand +15 (agile, finesse, magical); **Damage** 2d8+7 negative
 
 **Innate divine Spells** (DC 25), attack +17
 
@@ -39,7 +41,7 @@ Speed fly 35 feet
 
   **2nd** restoration, restore senses
 
-  **3rd** heal, remove disease
+  **3rd** heal (×3), remove disease
 
   **4th** life's fresh bloom, remove curse
 

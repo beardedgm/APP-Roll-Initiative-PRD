@@ -5,9 +5,11 @@ uncommon, ce, huge, aberration, dream
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision, detect magic, greater web sense
 
-**Languages** aklo
+**Languages** aklo; tongues
+
+**Skills** Acrobatics +24, Athletics +27, Crafting +22, Deception +22, Occultism +26, Religion +24, Stealth +26
 
 **STR** +6, **DEX** +7, **CON** +5, **INT** +7, **WIS** +5, **CHA** +5
 
@@ -25,21 +27,23 @@ uncommon, ce, huge, aberration, dream
 
 ---
 
-Speed 40 feet, climb 40 feet
+Speed 40 feet, climb 40 feet, air walk
 
-**Melee** web war flail +27 (disarm, magical, reach <15 feet>, sweep, trip); **Damage** 3d10+14 bludgeoning
+**Melee** ◆ web war flail +27 (disarm, magical, reach <15 feet>, sweep, trip); **Damage** 3d10+14 bludgeoning
 
-**Melee** fangs +27 (reach <10 feet>); **Damage** 3d12+14 piercing plus
+**Melee** ◆ fangs +27 (reach <10 feet>); **Damage** 3d12+14 piercing plus
 
-**Melee** leg +27 (agile, reach <10 feet>); **Damage** 3d8+14 slashing
+**Melee** ◆ leg +27 (agile, reach <10 feet>); **Damage** 3d8+14 slashing
 
-**Melee** web bola +28 (magical, nonlethal, ranged trip, thrown <20 feet>); **Damage** 2d6+14 bludgeoning
+**Ranged** ◆ web bola +28 (magical, nonlethal, ranged trip, thrown <20 feet>); **Damage** 2d6+14 bludgeoning
 
 **Innate occult Spells** (DC 33)
 
+  **Constant (7th)** air walk, tongues
+
   **Cantrips (7th)** detect magic
 
-  **4th** charm, freedom of movement
+  **4th** charm (×3), freedom of movement
 
   **6th** illusory scene, mislead
 

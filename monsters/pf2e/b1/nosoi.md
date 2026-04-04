@@ -5,9 +5,11 @@ n, tiny, monitor, psychopomp
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision, lifesense 60 feet
 
 **Languages** abyssal, celestial, infernal, requian
+
+**Skills** Acrobatics +6, Performance +6, Religion +6, Society +2, Stealth +6, Boneyard Lore +8, Library Lore +8
 
 **STR** -1, **DEX** +3, **CON** +1, **INT** +1, **WIS** +1, **CHA** +3
 
@@ -27,11 +29,11 @@ n, tiny, monitor, psychopomp
 
 Speed 15 feet, fly 40 feet
 
-**Melee** beak +6 (finesse, magical); **Damage** 1d4-1 piercing plus spirit touch plus spirit touch
+**Melee** ◆ beak +6 (finesse, magical); **Damage** 1d4-1 piercing plus spirit touch plus spirit touch
 
 **Innate divine Spells** (DC 16)
 
-  **2nd** invisibility, sound burst
+  **2nd** invisibility (at will), sound burst
 
   **4th** read omens, talking corpse
 

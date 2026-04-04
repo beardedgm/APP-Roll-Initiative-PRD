@@ -5,9 +5,11 @@ uncommon, ce, large, fiend, qlippoth
 
 ---
 
-**Perception** +30
+**Perception** +30; greater darkvision, true seeing
 
-**Languages** abyssal
+**Languages** abyssal; telepathy 100 feet
+
+**Skills** Acrobatics +32, Athletics +35, Occultism +33, Stealth +32
 
 **STR** +9, **DEX** +6, **CON** +6, **INT** +5, **WIS** +6, **CHA** +9
 
@@ -25,21 +27,25 @@ uncommon, ce, large, fiend, qlippoth
 
 ---
 
-Speed 30 feet, fly 50 feet, climb 30 feet
+Speed 30 feet, fly 50 feet, climb 30 feet, freedom of movement
 
-**Melee** stinger +35 (reach <10 feet>); **Damage** 3d12+17 piercing plus 3d6 mental, 1d6 chaotic, and thulgant venom plus thulgant venom
+**Melee** ◆ stinger +35 (reach <10 feet>); **Damage** 3d12+17 piercing plus 3d6 mental, 1d6 chaotic, and thulgant venom plus thulgant venom
 
-**Melee** tentacle +35 (agile, reach <10 feet>); **Damage** 3d8+17 bludgeoning plus 2d6 acid, 1d6 chaotic, and Grab plus Grab
+**Melee** ◆ tentacle +35 (agile, reach <10 feet>); **Damage** 3d8+17 bludgeoning plus 2d6 acid, 1d6 chaotic, and Grab plus Grab
 
 **Innate occult Spells** (DC 40)
+
+  **Constant (6th)** true seeing
+
+  **Constant (4th)** freedom of movement
 
   **Cantrips (9th)** daze, detect magic
 
   **7th** plane shift
 
-  **8th** dispel magic, divine aura, divine decree, phantom pain
+  **8th** dispel magic, divine aura, divine decree, phantom pain (×3)
 
-  **9th** flesh to stone, phantasmal calamity
+  **9th** flesh to stone (×3), phantasmal calamity
 
 **Demon Hunter** ◆ (divination, occult) The thulgant causes a demon within 30 feet to suffer the effect of its sinful vulnerability.
 

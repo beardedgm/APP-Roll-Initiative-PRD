@@ -5,7 +5,11 @@ rare, ln, small, construct
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, true seeing
+
+**Languages** truescript
+
+**Skills** Arcana +27, Deception +24, Stealth +25
 
 **STR** +1, **DEX** +6, **CON** +1, **INT** +8, **WIS** +8, **CHA** +5
 
@@ -29,14 +33,16 @@ rare, ln, small, construct
 
 Speed 25 feet
 
-**Melee** electrical blast +25 (electricity, evocation, range increment <60 feet>); **Damage** 4d12 electricity
+**Ranged** ◆ electrical blast +25 (electricity, evocation, range increment <60 feet>); **Damage** 4d12 electricity
 
 **Innate arcane Spells** (DC 35), attack +27
 
+  **Constant (6th)** true seeing
+
   **Cantrips (7th)** detect magic
 
-  **5th** black tentacles, cloudkill
+  **5th** black tentacles (×2), cloudkill (×2)
 
-  **6th** chain lightning, disintegrate, glyph of warding, wall of force
+  **6th** chain lightning, disintegrate, glyph of warding (at will), wall of force
 
-  **7th** prismatic spray
+  **7th** prismatic spray (×2)

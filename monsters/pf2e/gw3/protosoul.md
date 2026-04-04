@@ -5,7 +5,9 @@ unique, n, large, divine, necromancy, mindless
 
 ---
 
-**Perception** +19
+**Perception** +19; lifesense
+
+**Skills** Acrobatics +22
 
 **STR** +5, **DEX** +5, **CON** +7, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -25,19 +27,19 @@ unique, n, large, divine, necromancy, mindless
 
 Speed fly 40 feet
 
-**Melee** necromantic tendril +22 (divine, magical, necromancy, reach <10 feet>); **Damage** 3d10+11 force
+**Melee** ◆ necromantic tendril +22 (divine, magical, necromancy, reach <10 feet>); **Damage** 3d10+11 force
 
-**Melee** necromantic bolt +22 (divine, magical, necromancy, range increment <30 feet>); **Damage** 2d10+11 force
+**Ranged** ◆ necromantic bolt +22 (divine, magical, necromancy, range increment <30 feet>); **Damage** 2d10+11 force
 
 **Innate divine Spells** (DC 30), attack +22
 
   **Cantrips (5th)** chill touch
 
-  **3rd** sudden blight
+  **3rd** sudden blight (at will)
 
-  **4th** enervation
+  **4th** enervation (at will)
 
-  **5th** harm
+  **5th** harm (at will)
 
 **Engulf** ◆◆ DC 30, 2d8 force plus 3d8 negative, Escape DC 30, Rupture 25
 

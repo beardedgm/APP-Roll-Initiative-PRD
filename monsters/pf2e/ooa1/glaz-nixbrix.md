@@ -5,9 +5,11 @@ unique, cn, small, goblin, humanoid
 
 ---
 
-**Perception** +9
+**Perception** +9; low-light vision
 
 **Languages** common, goblin
+
+**Skills** Acrobatics +14, Athletics +11, Crafting +9, Intimidation +10, Stealth +14, Underworld Lore +9
 
 **STR** +3, **DEX** +6, **CON** +4, **INT** +3, **WIS** +1, **CHA** +2
 
@@ -21,7 +23,7 @@ unique, cn, small, goblin, humanoid
 
 **HP** 60
 
-**Resistances** physical 5
+**Resistances** physical 5 (except adamantine or orichalcum)
 
 **Weaknesses** electricity 5
 
@@ -35,9 +37,9 @@ unique, cn, small, goblin, humanoid
 
 Speed 20 feet, climb 30 feet
 
-**Melee** buzz-saw knuckles +14 (finesse, free-hand); **Damage** 2d6+5 slashing plus 1d6 persistent bleed
+**Melee** ◆ buzz-saw knuckles +14 (finesse, free-hand); **Damage** 2d6+5 slashing plus 1d6 persistent bleed
 
-**Melee** really big gun +12 (deadly <d12>, free-hand, range <60 feet>, reload special [see below], volley <30 feet>); **Damage** 2d12 piercing
+**Ranged** ◆ really big gun +12 (deadly <d12>, free-hand, range <60 feet>, reload special [see below], volley <30 feet>); **Damage** 2d12 piercing
 
 **Buzz-Saw Knuckles** Nixbrix has custom-built knuckledusters called buzz-saw knuckles. Only he knows how to operate them.
 

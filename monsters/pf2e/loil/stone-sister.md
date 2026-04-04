@@ -5,9 +5,11 @@ rare, n, medium, undead
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** celestial, drooni (can't speak)
+
+**Skills** Athletics +17, Deception +14, Intimidation +14, Stealth +12
 
 **STR** +5, **DEX** +2, **CON** +2, **INT** +0, **WIS** +1, **CHA** +4
 
@@ -23,7 +25,7 @@ rare, n, medium, undead
 
 **Immunities** death effects, disease, paralyzed, poison, unconscious
 
-**Resistances** physical 5
+**Resistances** physical 5 (except adamantine)
 
 **Reconstitution Until** Geb's curse is broken, any stone sister who's destroyed gradually reforms in her original shape. A stone sister who's reduced to 0 Hit Points will reform after 24 hours, while one reduced to rubble or dust might take a year or more to reform. Stone sisters who are removed from the Field of Maidens always attempt to return to it when they reconstitute.
 
@@ -36,9 +38,9 @@ rare, n, medium, undead
 
 Speed 25 feet
 
-**Melee** scimitar +17 (earth, forceful, sweep); **Damage** 1d6+8 slashing plus 1d6 bludgeoning and curse of stone
+**Melee** ◆ scimitar +17 (earth, forceful, sweep); **Damage** 1d6+8 slashing plus 1d6 bludgeoning and curse of stone
 
-**Melee** fist +17 (agile, earth); **Damage** 2d6+8 bludgeoning plus curse of stone
+**Melee** ◆ fist +17 (agile, earth); **Damage** 2d6+8 bludgeoning plus curse of stone
 
 **Curse of Stone** (curse) The creature must succeed at a DC 21 Fortitude save or become clumsy 2 (clumsy 3 on a critical failure) and gain a +1 status bonus to AC as their skin hardens to stone. The clumsy condition can be temporarily relieved for 24 hours by casting stone to flesh on the cursed creature but can't be removed or reduced by any other means short of removing the curse; during this time, the cursed creature also no longer receives the status bonus to AC.
 

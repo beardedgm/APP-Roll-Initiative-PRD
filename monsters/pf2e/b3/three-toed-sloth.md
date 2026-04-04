@@ -5,7 +5,9 @@ n, tiny, animal
 
 ---
 
-**Perception** +5
+**Perception** +5; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +5, Stealth +5, Survival +4
 
 **STR** +2, **DEX** +1, **CON** +3, **INT** -4, **WIS** +2, **CHA** +0
 
@@ -21,6 +23,6 @@ n, tiny, animal
 
 Speed 5 feet, climb 10 feet
 
-**Melee** claw +6; **Damage** 1d6+2 slashing
+**Melee** ◆ claw +6; **Damage** 1d6+2 slashing
 
 **Rend** ◆ (claw) (page 306)

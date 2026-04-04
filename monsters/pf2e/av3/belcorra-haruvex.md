@@ -5,9 +5,11 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision, magic sense
 
 **Languages** aklo, common, undercommon
+
+**Skills** Arcana +23, Diplomacy +23, Intimidation +25, Occultism +26, Religion +22, Stealth +22
 
 **STR** -5, **DEX** +4, **CON** +0, **INT** +5, **WIS** +4, **CHA** +7
 
@@ -25,7 +27,7 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Rejuvenation** (divine, necromancy) When Belcorra is destroyed, she re-forms in 2d4 days within the Empty Vault (though she can reduce that time by empowering herself with glimmers of Nhimbaloth|LOGM's essence using the Ebon Fulcrum Lens|av3). Belcorra can only be permanently destroyed if she enacts her full revenge on Absalom or if Nhimbaloth|LOGM devours her soul.
 
@@ -33,7 +35,7 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ghostly hand +24 (agile, finesse, magical); **Damage** 3d8+12 negative
+**Melee** ◆ ghostly hand +24 (agile, finesse, magical); **Damage** 3d8+12 negative
 
 **Spontaneous occult Spells** (DC 33), attack +25
 

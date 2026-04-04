@@ -5,9 +5,11 @@ rare, ce, gargantuan, dragon, incorporeal, undead, wraith
 
 ---
 
-**Perception** +40
+**Perception** +40; darkvision, lifesense 120 feet
 
 **Languages** common, draconic, necril
+
+**Skills** Acrobatics +38, Arcana +38, Intimidation +43, Religion +43, Stealth +43
 
 **STR** -5, **DEX** +11, **CON** +0, **INT** +9, **WIS** +9, **CHA** +11
 
@@ -33,9 +35,9 @@ rare, ce, gargantuan, dragon, incorporeal, undead, wraith
 
 Speed 50 feet, fly 100 feet
 
-**Melee** spectral jaws +42 (reach <20 feet>); **Damage** 4d12+23 negative plus drain life plus drain life
+**Melee** ◆ spectral jaws +42 (reach <20 feet>); **Damage** 4d12+23 negative plus drain life plus drain life
 
-**Melee** spectral claw +42 (agile, reach <15 feet>); **Damage** 4d8+23 negative plus divine dispelling and drain life plus divine dispelling, drain life
+**Melee** ◆ spectral claw +42 (agile, reach <15 feet>); **Damage** 4d8+23 negative plus divine dispelling and drain life plus divine dispelling, drain life
 
 **Innate divine Spells** (DC 46)
 

@@ -7,7 +7,9 @@ unique, ne, medium, human, humanoid
 
 **Perception** +18
 
-**Languages** aklo, common, elven, erutaki, hallit, varisian
+**Languages** aklo, common, elven, erutaki, hallit, varisian; telepathy 30 feet
+
+**Skills** Academia Lore +19, Arcana +17, Crafting +19, Deception +18, Medicine +20, Occultism +21, Society +19, Survival +18
 
 **STR** +1, **DEX** +3, **CON** +1, **INT** +4, **WIS** +3, **CHA** +2
 
@@ -27,15 +29,15 @@ unique, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +19 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 2d4+4 piercing
+**Melee** ◆ dagger +19 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 2d4+4 piercing
 
-**Melee** moderate alchemist's fire +19 (range <30 feet>); **Damage** 2d8 fire plus 2 persistent fire and 2 fire splash damage
+**Ranged** ◆ moderate alchemist's fire +19 (range <30 feet>); **Damage** 2d8 fire plus 2 persistent fire and 2 fire splash damage
 
 **Innate occult Spells** (DC 28), attack +20
 
   **Cantrips (5th)** daze, detect magic, read aura, telekinetic projectile
 
-  **2nd** telekinetic maneuver
+  **2nd** telekinetic maneuver (×3)
 
   **4th** dream message, nightmare
 

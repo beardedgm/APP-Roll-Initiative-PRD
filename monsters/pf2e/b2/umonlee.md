@@ -5,9 +5,11 @@ uncommon, n, huge, amphibious, beast, cold
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, {@ability tremorsense} 80 feet (imprecise)
 
 **Languages** aklo
+
+**Skills** Athletics +31, Stealth +24
 
 **STR** +8, **DEX** +3, **CON** +7, **INT** -3, **WIS** +2, **CHA** +3
 
@@ -27,9 +29,9 @@ uncommon, n, huge, amphibious, beast, cold
 
 Speed 50 feet, burrow 25 feet, swim 40 feet
 
-**Melee** jaws +31 (reach <10 feet>); **Damage** 3d6+16 piercing plus 3d6 cold
+**Melee** ◆ jaws +31 (reach <10 feet>); **Damage** 3d6+16 piercing plus 3d6 cold
 
-**Melee** pincers +31 (agile, reach <15 feet>); **Damage** 3d8+16 slashing plus Improved Grab plus Improved Grab
+**Melee** ◆ pincers +31 (agile, reach <15 feet>); **Damage** 3d8+16 slashing plus Improved Grab plus Improved Grab
 
 **Freezing Breath** ◆◆ (cold, evocation, incapacitation, primal) The umonlee breathes a cone of extremely cold air that damages its prey and can freeze them to the ground. Its breath deals 12d8 cold damage to creatures in the 50-foot cone (DC 38 Reflex save). The umonlee can't use Freezing Breath again for 1d4 rounds. **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage and is slowed 1 for 1 round.

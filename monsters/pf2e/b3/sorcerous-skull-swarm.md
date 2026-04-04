@@ -5,7 +5,9 @@ rare, ne, large, swarm, undead
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision, true seeing
+
+**Skills** Acrobatics +26, Arcana +28, Occultism +28
 
 **STR** -3, **DEX** +6, **CON** +4, **INT** +8, **WIS** +4, **CHA** +5
 
@@ -27,9 +29,11 @@ Speed fly 40 feet
 
 **Innate arcane Spells** (DC 36), attack +26
 
+  **Constant (7th)** true seeing
+
   **Cantrips (7th)** detect magic, mage hand, telekinetic projectile
 
-  **7th** dispel magic, spell turning
+  **7th** dispel magic (at will), spell turning
 
 **Siphon Magic** ◆◆ (arcane, illusion, mental) The sorcerous skull swarm saps magic from nearby creatures. Any creature with the ability to cast spells (including innate spells) in the swarm's space takes 15d6 mental damage (DC 34 basic Will save); on a failure, the creature is also stupefied 2 (stupefied 3 on a critical failure).
 

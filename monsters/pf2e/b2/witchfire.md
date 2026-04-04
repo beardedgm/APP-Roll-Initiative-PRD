@@ -5,9 +5,11 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
 **Languages** aklo, common, necril
+
+**Skills** Acrobatics +17, Deception +19, Intimidation +21, Occultism +18, Stealth +19
 
 **STR** -5, **DEX** +6, **CON** +0, **INT** +3, **WIS** +3, **CHA** +6
 
@@ -31,15 +33,15 @@ uncommon, ce, medium, incorporeal, spirit, undead
 
 Speed fly 40 feet
 
-**Melee** witchflame caress +21 (agile, evil, finesse, magical); **Damage** 3d6 fire plus 3d6 negative and witchflame plus witchflame
+**Melee** ◆ witchflame caress +21 (agile, evil, finesse, magical); **Damage** 3d6 fire plus 3d6 negative and witchflame plus witchflame
 
-**Melee** witchflame bolt +21 (evil, magical, range <100 feet>); **Damage** 2d6 fire plus 2d6 negative and witchflame plus witchflame
+**Ranged** ◆ witchflame bolt +21 (evil, magical, range <100 feet>); **Damage** 2d6 fire plus 2d6 negative and witchflame plus witchflame
 
 **Innate occult Spells** (DC 28)
 
   **Cantrips (5th)** dancing lights, ghost sound
 
-  **2nd** illusory disguise
+  **2nd** illusory disguise (at will)
 
   **3rd** phantom pain
 

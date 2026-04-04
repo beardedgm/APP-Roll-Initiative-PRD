@@ -5,9 +5,11 @@ rare, ce, gargantuan, dragon, fire, undead
 
 ---
 
-**Perception** +37
+**Perception** +37; darkvision, scent 60 feet (imprecise), smoke vision, soulsense 60 feet
 
 **Languages** abyssal, common, draconic, dwarven, jotun, necril, orcish
+
+**Skills** Acrobatics +32, Arcana +37, Athletics +39, Deception +38, Diplomacy +38, Intimidation +40, Stealth +35
 
 **STR** +9, **DEX** +5, **CON** +9, **INT** +5, **WIS** +6, **CHA** +8
 
@@ -41,19 +43,19 @@ rare, ce, gargantuan, dragon, fire, undead
 
 Speed 60 feet, fly 180 feet
 
-**Melee** jaws +39 (fire, magical, reach <20 feet>); **Damage** 4d10+17 piercing plus 3d6 fire and 2d6 negative
+**Melee** ◆ jaws +39 (fire, magical, reach <20 feet>); **Damage** 4d10+17 piercing plus 3d6 fire and 2d6 negative
 
-**Melee** claw +39 (agile, magical, reach <15 feet>); **Damage** 4d8+17 slashing plus 2d6 negative
+**Melee** ◆ claw +39 (agile, magical, reach <15 feet>); **Damage** 4d8+17 slashing plus 2d6 negative
 
-**Melee** tail +37 (magical, reach <25 feet>); **Damage** 4d10+15 slashing plus 2d6 negative
+**Melee** ◆ tail +37 (magical, reach <25 feet>); **Damage** 4d10+15 slashing plus 2d6 negative
 
-**Melee** wing +37 (agile, magical, reach <20 feet>); **Damage** 3d8+15 slashing plus 2d6 negative
+**Melee** ◆ wing +37 (agile, magical, reach <20 feet>); **Damage** 3d8+15 slashing plus 2d6 negative
 
 **Innate arcane Spells** (DC 44)
 
-  **4th** suggestion
+  **4th** suggestion (at will)
 
-  **8th** wall of fire
+  **8th** wall of fire (at will)
 
 **Consume Soul** ◇ (death, divine, necromancy) **Trigger** A living creature within 30 feet of the ravener dies; The ravener tears the creature's soul from its body with their maw and gulps it down. The dying creature must attempt a DC 44 Fortitude save. **Critical Success** The creature is unaffected.
 **Success** The ravener tears off a small chunk of the creature's soul. If the victim is restored to life, they are drained 1 in addition to any other side effects of returning to life. The ravener adds a number of Hit Points to their soul ward equal to half the creature's level.

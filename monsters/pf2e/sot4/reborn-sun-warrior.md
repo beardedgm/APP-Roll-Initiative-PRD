@@ -5,13 +5,15 @@ rare, le, medium, fire, undead
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
 **Languages** common, necril
 
+**Skills** Acrobatics +21, Athletics +23, Intimidation +16, Religion +19, Stealth +21
+
 **STR** +5, **DEX** +4, **CON** +5, **INT** +1, **WIS** +2, **CHA** -1
 
-**Items** flame spike (as a flame tongue, but a spear rather than a longsword), religious symbol of {@deity Walkena|LOGM}
+**Items** flame spike (as a flame tongue, but a spear rather than a longsword), religious symbol of Walkena|LOGM
 
 ---
 
@@ -31,11 +33,11 @@ rare, le, medium, fire, undead
 
 Speed 25 feet
 
-**Melee** spear +24 (magical); **Damage** 3d8+11 piercing plus 1d6 fire
+**Melee** ◆ spear +24 (magical); **Damage** 3d8+11 piercing plus 1d6 fire
 
-**Melee** fist +23 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+11 bludgeoning plus 1d6 fire and Grab
+**Melee** ◆ fist +23 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+11 bludgeoning plus 1d6 fire and Grab
 
-**Melee** spear +23 (magical, thrown <20 feet>); **Damage** 3d8+11 piercing plus 1d6 fire
+**Ranged** ◆ spear +23 (magical, thrown <20 feet>); **Damage** 3d8+11 piercing plus 1d6 fire
 
 **Innate divine Spells** (DC 27), attack +19
 

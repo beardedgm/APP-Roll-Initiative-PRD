@@ -5,9 +5,11 @@ unique, le, medium, goblin, humanoid
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision
 
 **Languages** goblin, taldane, tien, ysoki
+
+**Skills** Acrobatics +32, Athletics +41, Intimidation +34, Survival +32, Warfare Lore +32
 
 **STR** +7, **DEX** +4, **CON** +5, **INT** +2, **WIS** +3, **CHA** +1
 
@@ -27,7 +29,7 @@ unique, le, medium, goblin, humanoid
 
 Speed 25 feet, fly 60 feet
 
-**Melee** gauntlet +40 (agile, free-hand, magical); **Damage** 4d4+21 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ gauntlet +40 (agile, free-hand, magical); **Damage** 4d4+21 bludgeoning plus Improved Grab plus Improved Grab
 
 **Body Slam** ◆ **Requirements** Ran-to is grabbing a creature; Ran-to throws his foe against the ground. The grabbed creature takes 12d6 bludgeoning damage (DC 43 basic Fortitude save) and is knocked prone. The creature is no longer grabbed.
 

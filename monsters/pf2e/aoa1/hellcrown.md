@@ -5,9 +5,11 @@ uncommon, le, tiny, undead
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common
+
+**Skills** Intimidation +8, Stealth +7
 
 **STR** -2, **DEX** +4, **CON** +3, **INT** -1, **WIS** +1, **CHA** +1
 
@@ -25,7 +27,7 @@ uncommon, le, tiny, undead
 
 Speed fly 25 feet
 
-**Melee** nail +9 (range increment <20 feet>); **Damage** 1d4+2 piercing plus bleeding nail plus bleeding nail
+**Ranged** ◆ nail +9 (range increment <20 feet>); **Damage** 1d4+2 piercing plus bleeding nail plus bleeding nail
 
 **Bleeding Nail** If the hellcrown hits with a nail Strike, the target must attempt a DC 16 Fortitude save. On a failure, the nail is embedded in the creature, making it enfeebled|CRB|enfeebled 1 for 1 minute and giving it 1 persistent bleed damage (enfeebled|CRB|enfeebled 2 and 1d4 persistent bleed damage on a critical failure). Each additional embedded nail increases the enfeebled value by 1 (to a maximum of enfeebled|CRB|enfeebled 4) and the bleed damage by 1. A creature can remove a nail with an Interact action to reduce the enfeeblement and amount of bleed damage. Pulling out the last nail removes both conditions.
 

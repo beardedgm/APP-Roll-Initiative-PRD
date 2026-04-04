@@ -5,7 +5,9 @@ rare, n, large, construct, mindless, soulbound
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision
+
+**Skills** Athletics +33
 
 **STR** +9, **DEX** +3, **CON** +6, **INT** -5, **WIS** +4, **CHA** -2
 
@@ -19,7 +21,7 @@ rare, n, large, construct, mindless, soulbound
 
 **Immunities** bleed, disease, death effects, doomed, drained, fatigued, magic (see below), mental, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 15
+**Resistances** physical 15 (except adamantine)
 
 **Attack of Opportunity** ◈
 
@@ -27,13 +29,13 @@ rare, n, large, construct, mindless, soulbound
 
 Speed 25 feet, fly 25 feet
 
-**Melee** fist +33 (magical); **Damage** 3d10+17 bludgeoning plus paralyzing force plus paralyzing force
+**Melee** ◆ fist +33 (magical); **Damage** 3d10+17 bludgeoning plus paralyzing force plus paralyzing force
 
 **Innate arcane Spells** (DC 38)
 
   **5th** locate
 
-  **9th** bind soul
+  **9th** bind soul (×3)
 
 **Aluum Antimagic** Spiritbound aluum are immune to spells and magical abilities, with two exceptions. A negative spell or magical ability grants a spiritbound aluum the quickened condition until the end of its next turn instead of its normal effects. A positive spell or ability makes a spiritbound aluum slowed|CRB|slowed 1 until the end of its next turn instead of its normal effects.
 

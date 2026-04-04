@@ -9,6 +9,8 @@ unique, lg, medium, human, humanoid
 
 **Languages** common, draconic
 
+**Skills** Arcana +32, Athletics +38, Diplomacy +38, Medicine +34, Society +38, Hermea Lore +41
+
 **STR** +7, **DEX** +1, **CON** +5, **INT** +3, **WIS** +2, **CHA** +4
 
 **Items** +3 greater resilient full plate, potion of flying (4), +3 major striking returning spear, supreme sturdy shield (Hardness 20, HP 160, BT 80)
@@ -35,8 +37,8 @@ unique, lg, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** spear +38; **Damage** 6d6+20 piercing
+**Melee** ◆ spear +38; **Damage** 6d6+20 piercing
 
-**Melee** spear +38 (thrown <20 feet>); **Damage** 6d6+8 piercing
+**Ranged** ◆ spear +38 (thrown <20 feet>); **Damage** 6d6+8 piercing
 
 **Weapon Supremacy** Inizra is permanently quickened|CRB|quickened 1. She can use her extra action only to Strike.

@@ -5,13 +5,15 @@ ce, tiny, fey, gremlin
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
 **Languages** undercommon
 
+**Skills** Acrobatics +7, Crafting +5, Deception +5, Nature +5, Stealth +7, Thievery +7
+
 **STR** -2, **DEX** +4, **CON** +0, **INT** +2, **WIS** +2, **CHA** +2
 
-**Items** {@item shortsword}
+**Items** shortsword
 
 ---
 
@@ -25,7 +27,7 @@ ce, tiny, fey, gremlin
 
 Speed 30 feet
 
-**Melee** shortsword +9 (agile, finesse, magical, versatile <S>); **Damage** 1d6 –2 piercing
+**Melee** ◆ shortsword +9 (agile, finesse, magical, versatile <S>); **Damage** 1d6 –2 piercing
 
 **Innate primal Spells** (DC 17)
 

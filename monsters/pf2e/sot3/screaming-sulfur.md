@@ -5,9 +5,11 @@ uncommon, ne, huge, incorporeal, spirit
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** common
+
+**Skills** Stealth +22
 
 **STR** -5, **DEX** +7, **CON** +0, **INT** +3, **WIS** +7, **CHA** +3
 
@@ -23,7 +25,7 @@ uncommon, ne, huge, incorporeal, spirit
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Agonizing Cries** (auditory, aura, emotion, mental) 30 feet. The screaming sulfur constantly shrieks with the pained wails of countless spirits. A living creature that enters or starts its turn in the aura must succeed at a DC 26 Will save or become frightened 1 as long as it remains in the aura (frightened 2 on a critical failure). A creature that succeeds is temporarily immune for 1 hour.
 
@@ -33,6 +35,6 @@ uncommon, ne, huge, incorporeal, spirit
 
 Speed fly 40 feet
 
-**Melee** ghostly hand +21 (agile, finesse, magical, reach <15 feet>); **Damage** 2d8+15 negative damage
+**Melee** ◆ ghostly hand +21 (agile, finesse, magical, reach <15 feet>); **Damage** 2d8+15 negative damage
 
 **Choke** ◆◆ (divine, illusion, mental) The screaming sulfur bombards all creatures within its Agonizing Cries aura with visions of death and a feeling of suffocation. Each creature takes 4d6 mental damage (DC 26 basic Will save).

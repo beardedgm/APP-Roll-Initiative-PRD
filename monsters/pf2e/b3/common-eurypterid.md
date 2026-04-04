@@ -5,7 +5,9 @@ n, medium, amphibious, animal
 
 ---
 
-**Perception** +2
+**Perception** +2; low-light vision, wavesense 30 feet (imprecise)
+
+**Skills** Athletics +4, Stealth +4
 
 **STR** +2, **DEX** +0, **CON** +3, **INT** -5, **WIS** +0, **CHA** -3
 
@@ -23,8 +25,8 @@ n, medium, amphibious, animal
 
 Speed 30 feet, swim 30 feet
 
-**Melee** pincer +6; **Damage** 1d6+2 slashing plus Grab plus Grab
+**Melee** ◆ pincer +6; **Damage** 1d6+2 slashing plus Grab plus Grab
 
-**Melee** stinger +6; **Damage** 1d4+2 piercing plus eurypterid venom plus eurypterid venom
+**Melee** ◆ stinger +6; **Damage** 1d4+2 piercing plus eurypterid venom plus eurypterid venom
 
 **Eurypterid Venom** (poison)

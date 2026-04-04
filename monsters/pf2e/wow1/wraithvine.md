@@ -5,9 +5,11 @@ huge, fungus, plant, wraithvine
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, lifesense 30 feet
 
-**Languages** fey (can't speak any language)
+**Languages** fey (can't speak any language); telepathy 120 feet (wraithvine children only)
+
+**Skills** Acrobatics +17, Stealth +16
 
 **STR** +7, **DEX** +2, **CON** +5, **INT** -2, **WIS** +3, **CHA** +0
 
@@ -33,9 +35,9 @@ huge, fungus, plant, wraithvine
 
 Speed 20 feet
 
-**Melee** bite +18 (reach <10 feet>); **Damage** 2d10+11 piercing plus wraithvine venom
+**Melee** ◆ bite +18 (reach <10 feet>); **Damage** 2d10+11 piercing plus wraithvine venom
 
-**Melee** tentacle +18 (agile, reach <15 feet>); **Damage** 2d6+11 bludgeoning plus Grab
+**Melee** ◆ tentacle +18 (agile, reach <15 feet>); **Damage** 2d6+11 bludgeoning plus Grab
 
 **Parasitic Rejuvenation** ◆ **Requirements** A creature the wraithvine has Grabbed took damage from wraithvine venom (either from itself, or from a wraithvine child's venom) on its last turn, and the wraithvine hasn't used any other actions this turn; The wraithvine regains 3d8 HP and recovers from the fatigued and slowed conditions. It reduces any enfeebled value it has by 2.
 

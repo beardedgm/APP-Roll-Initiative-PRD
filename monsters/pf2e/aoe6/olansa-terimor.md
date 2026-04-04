@@ -5,9 +5,11 @@ unique, ne, medium, daemon, human, humanoid
 
 ---
 
-**Perception** +43
+**Perception** +43; darkvision
 
 **Languages** abyssal, common, daemonic, gnomish, infernal, osirian
+
+**Skills** Acrobatics +45, Athletics +38, Deception +46, Diplomacy +42, Intimidation +40, Religion +39, Society +41, Stealth +45, Thievery +45
 
 **STR** +7, **DEX** +10, **CON** +8, **INT** +8, **WIS** +8, **CHA** +9
 
@@ -33,19 +35,25 @@ unique, ne, medium, daemon, human, humanoid
 
 ---
 
-Speed 40 feet
+Speed 40 feet, freedom of movement, spider climb
 
-**Melee** dagger +41 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 4d4+22 piercing plus 1d6 persistent bleed damage and tears of death plus tears of death
+**Melee** ◆ dagger +41 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 4d4+22 piercing plus 1d6 persistent bleed damage and tears of death plus tears of death
 
-**Melee** Cane of the Maelstrom +40 (magical, thrown <10 feet>); **Damage** 3d6+22 bludgeoning plus warpwave plus warpwave
+**Melee** ◆ Cane of the Maelstrom +40 (magical, thrown <10 feet>); **Damage** 3d6+22 bludgeoning plus warpwave plus warpwave
 
 **Innate divine Spells** (DC 47), attack +37
+
+  **Constant (6th)** true seeing
+
+  **Constant (5th)** spider climb
+
+  **Constant (4th)** freedom of movement
 
   **4th** dimensional anchor, stoneskin
 
   **5th** banishment
 
-  **6th** slow, teleport
+  **6th** slow, teleport (at will)
 
   **7th** energy aegis, finger of death
 

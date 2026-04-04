@@ -5,9 +5,11 @@ uncommon, medium, aquatic, ghost, incorporeal, spirit, undead, water
 
 ---
 
-**Perception** +14
+**Perception** +14; {@ability darkvision}
 
 **Languages** tien
+
+**Skills** Athletics +13, Deception +13, Diplomacy +11, Ghost Lore +15, Religion +12, Stealth +16
 
 **STR** +0, **DEX** +5, **CON** +0, **INT** +4, **WIS** +3, **CHA** +4
 
@@ -23,7 +25,7 @@ uncommon, medium, aquatic, ghost, incorporeal, spirit, undead, water
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except fire, force, ghost touch, or vitality; double resistance vs. non-magical)
 
 **Weaknesses** fire 10
 
@@ -35,7 +37,7 @@ uncommon, medium, aquatic, ghost, incorporeal, spirit, undead, water
 
 Speed 10 feet, swim 40 feet
 
-**Melee** ghostly hand +17 (agile, finesse, magical); **Damage** 2d6+4 void plus Grab plus Grab
+**Melee** ◆ ghostly hand +17 (agile, finesse, magical); **Damage** 2d6+4 void plus Grab plus Grab
 
 **Drag Under** ◆ The shui gui Swims at half Speed, along with any creature it has grabbed.
 

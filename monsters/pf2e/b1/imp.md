@@ -5,9 +5,11 @@ le, tiny, devil, fiend
 
 ---
 
-**Perception** +7
+**Perception** +7; greater darkvision
 
-**Languages** common, infernal
+**Languages** common, infernal; telepathy (touch)
+
+**Skills** Acrobatics +7, Arcana +6, Deception +7, Religion +5
 
 **STR** -1, **DEX** +4, **CON** +0, **INT** +1, **WIS** +2, **CHA** +2
 
@@ -27,15 +29,15 @@ le, tiny, devil, fiend
 
 Speed 20 feet, fly 30 feet
 
-**Melee** stinger +9 (agile, evil, finesse, magical); **Damage** 1d4-1 piercing plus 1d4 evil and imp venom plus imp venom
+**Melee** ◆ stinger +9 (agile, evil, finesse, magical); **Damage** 1d4-1 piercing plus 1d4 evil and imp venom plus imp venom
 
 **Innate divine Spells** (DC 17)
 
   **Cantrips (1st)** detect magic
 
-  **1st** charm, detect alignment
+  **1st** charm, detect alignment (at will)
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
   **4th** read omens
 

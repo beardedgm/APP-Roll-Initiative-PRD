@@ -5,11 +5,13 @@ le, small, humanoid, kobold
 
 ---
 
-**Perception** +3
+**Perception** +3; darkvision
+
+**Skills** Acrobatics +5, Crafting +2, Stealth +5
 
 **STR** +1, **DEX** +3, **CON** +0, **INT** +0, **WIS** +1, **CHA** -1
 
-**Items** {@item leather||leather armor}, {@item spear} (3)
+**Items** leather armor, spear (3)
 
 ---
 
@@ -23,9 +25,9 @@ le, small, humanoid, kobold
 
 Speed 25 feet
 
-**Melee** spear +3; **Damage** 1d6 + 1 piercing
+**Melee** ◆ spear +3; **Damage** 1d6 + 1 piercing
 
-**Melee** spear +5 (thrown <20 feet>); **Damage** 1d6 + 1 piercing
+**Ranged** ◆ spear +5 (thrown <20 feet>); **Damage** 1d6 + 1 piercing
 
 **Hurried Retreat** ◆ If the kobold is adjacent to at least one enemy, the kobold Strides up to 30 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. The kobold must end this movement in a space that's not adjacent to an enemy.
 

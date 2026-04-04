@@ -5,7 +5,9 @@ uncommon, n, medium, construct, golem, mindless
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
+
+**Skills** Athletics +17
 
 **STR** +5, **DEX** +4, **CON** +3, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -19,7 +21,7 @@ uncommon, n, medium, construct, golem, mindless
 
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see Golem Antimagic below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 5
+**Resistances** physical 5 (except adamantine)
 
 **Golem Antimagic** harmed by fire (4d8, 2d6 from areas or persistent damage); healed by plant (area 2d6 HP); slowed by earth.
 
@@ -31,8 +33,8 @@ uncommon, n, medium, construct, golem, mindless
 
 Speed 25 feet
 
-**Melee** fist +17 (magical); **Damage** 2d8+8 bludgeoning
+**Melee** ◆ fist +17 (magical); **Damage** 2d8+8 bludgeoning
 
-**Melee** splinter +16 (magical, range increment <30 feet>); **Damage** 2d4+8 piercing
+**Ranged** ◆ splinter +16 (magical, range increment <30 feet>); **Damage** 2d4+8 piercing
 
 **Splinter Volley** ◆◆ (arcane, evocation) The wood golem makes up to four splinter Strikes, each against a different target. These attacks count toward the wood golem's multiple attack penalty, but the multiple attack penalty doesn't increase until after the wood golem makes all of its attacks.

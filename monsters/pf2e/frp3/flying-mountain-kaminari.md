@@ -9,6 +9,8 @@ rare, cn, huge, humanoid, kami
 
 **Languages** senzar, tien
 
+**Skills** Acrobatics +31, Athletics +31, Nature +37, Religion +35, Flying Mountains Lore +35
+
 **STR** +9, **DEX** +6, **CON** +8, **INT** +5, **WIS** +5, **CHA** +4
 
 **Stormsight** Wind, precipitation, and clouds don't impair a kaminari's vision; they ignore the concealed condition from storms, mist, precipitation, and the like.
@@ -25,11 +27,11 @@ rare, cn, huge, humanoid, kami
 
 ---
 
-Speed 25 feet, fly 60 feet
+Speed 25 feet, fly 60 feet, stormflight
 
-**Melee** fist +35 (agile, reach <15 feet>, unarmed); **Damage** 5d6+17 bludgeoning
+**Melee** ◆ fist +35 (agile, reach <15 feet>, unarmed); **Damage** 5d6+17 bludgeoning
 
-**Melee** storm blast +32 (air, electricity, magical, range <120 feet>); **Damage** 4d6 bludgeoning plus 3d12 electricity
+**Ranged** ◆ storm blast +32 (air, electricity, magical, range <120 feet>); **Damage** 4d6 bludgeoning plus 3d12 electricity
 
 **Hurricane Bag** ◆◆ (air) A kaminari's bag holds the four winds. The kaminari unleashes four 20-foot bursts within 60 feet with the effects of a 9th-level wall of wind. In addition, a creature that enters one of the bursts takes 6d6 slashing damage (DC 40 basic Reflex save). The bursts can't overlap. After using this activity the kaminari can't use Hurricane Bag for 1d4 rounds. If a kaminari creates a column of lighting using Thunder Drums that intersects one of the areas of the wind, the wind explodes in a peal of thunder, dealing 6d10 sonic damage to creatures in the area of that wall of wind burst. Affected creatures must attempt a DC 40 Fortitude save. The kaminari can detonate only one burst per use of Thunder Drums. **Critical Success** The target is unaffected.
 **Success** The target takes half damage.

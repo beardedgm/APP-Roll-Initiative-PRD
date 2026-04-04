@@ -5,7 +5,9 @@ uncommon, ne, huge, incorporeal, spirit, undead
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision, lifesense 60 feet
+
+**Skills** Acrobatics +28, Driving Lore +25, Intimidation +25, Society +21, Survival +22
 
 **STR** -5, **DEX** +8, **CON** +2, **INT** +3, **WIS** +4, **CHA** +5
 
@@ -19,7 +21,7 @@ uncommon, ne, huge, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Aura of Doom** (aura, emotion, fear, mental, necromancy) 30 feet. A living creature that enters the area must succeed at a DC 31 Will save or gain the doomed 1 condition. A critical failure increases this condition to doomed 2. Regardless of the result of the saving throw, the creature is temporarily immune to this death coach's aura of doom for 1 minute.
 
@@ -27,19 +29,19 @@ uncommon, ne, huge, incorporeal, spirit, undead
 
 ---
 
-Speed 60 feet, fly 60 feet
+Speed 60 feet, fly 60 feet, soulbound gallop
 
-**Melee** incorporeal wheel +30 (agile, magical); **Damage** 3d12+8 negative
+**Melee** ◆ incorporeal wheel +30 (agile, magical); **Damage** 3d12+8 negative
 
 **Innate divine Spells** (DC 34)
 
-  **2nd** death knell
+  **2nd** death knell (×3)
 
   **3rd** fear
 
-  **6th** agonizing despair
+  **6th** agonizing despair (×2)
 
-  **7th** finger of death
+  **7th** finger of death (×2)
 
 **Soulbound Gallop** When a death coach has Collected a Soul, its Speeds double.
 

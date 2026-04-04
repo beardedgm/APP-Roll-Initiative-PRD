@@ -5,7 +5,9 @@ n, small, elemental, fire
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision, smoke vision
+
+**Skills** Acrobatics +10, Stealth +10, Survival +9
 
 **STR** +2, **DEX** +3, **CON** +2, **INT** -4, **WIS** +2, **CHA** +0
 
@@ -29,4 +31,4 @@ n, small, elemental, fire
 
 Speed 40 feet
 
-**Melee** jaws +10 (finesse); **Damage** 1d8 + 4 fire plus 1d4 persistent fire
+**Melee** ◆ jaws +10 (finesse); **Damage** 1d8 + 4 fire plus 1d4 persistent fire

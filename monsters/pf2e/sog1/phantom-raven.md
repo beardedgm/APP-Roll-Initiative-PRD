@@ -5,9 +5,11 @@ rare, ne, tiny, ethereal, incorporeal, phantom, spirit
 
 ---
 
-**Perception** +5
+**Perception** +5; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +5, Intimidation +4
 
 **STR** -5, **DEX** +3, **CON** +0, **INT** -3, **WIS** +3, **CHA** +0
 
@@ -23,7 +25,7 @@ rare, ne, tiny, ethereal, incorporeal, phantom, spirit
 
 **Immunities** disease, paralyzed, poison, precision
 
-**Resistances** all damage 1
+**Resistances** all damage 1 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Susceptible to Death** Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death. A phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like finger of death) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife.
 
@@ -36,7 +38,7 @@ rare, ne, tiny, ethereal, incorporeal, phantom, spirit
 
 Speed fly 40 feet
 
-**Melee** beak +7 (finesse, force, magical); **Damage** 1d6 force
+**Melee** ◆ beak +7 (finesse, force, magical); **Damage** 1d6 force
 
 **Innate occult Spells** (DC 13), attack +5
 

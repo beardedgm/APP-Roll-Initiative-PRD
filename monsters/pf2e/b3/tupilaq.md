@@ -5,7 +5,9 @@ n, small, construct
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
+
+**Skills** Athletics +15
 
 **STR** +2, **DEX** +6, **CON** +4, **INT** -5, **WIS** +3, **CHA** -5
 
@@ -25,10 +27,10 @@ n, small, construct
 
 Speed 40 feet, swim 40 feet
 
-**Melee** jaws +19 (agile, finesse); **Damage** 2d8+5 slashing plus Grab plus Grab
+**Melee** ◆ jaws +19 (agile, finesse); **Damage** 2d8+5 slashing plus Grab plus Grab
 
 **Innate primal Spells** (DC 24)
 
-  **3rd** fireball
+  **3rd** fireball (×3)
 
 **Carver's Curse** When a tupilaq is created, the curse imparted by its creator manifests in the form of a single 3rd-level primal spell the tupilaq can cast three times per day. The particular spell is a reflection of the creator's wish for vengeance. By default, and for a found or summoned tupilaq, this spell is fireball.

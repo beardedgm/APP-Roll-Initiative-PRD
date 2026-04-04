@@ -5,7 +5,9 @@ uncommon, n, huge, aberration, amphibious
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, otherworldly vision 30 feet
+
+**Skills** Acrobatics +23, Athletics +27, Stealth +27
 
 **STR** +8, **DEX** +6, **CON** +7, **INT** -4, **WIS** +6, **CHA** +4
 
@@ -27,11 +29,11 @@ uncommon, n, huge, aberration, amphibious
 
 Speed 20 feet, swim 30 feet
 
-**Melee** jaws +27 (reach <10 feet>); **Damage** 3d12+14 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +27 (reach <10 feet>); **Damage** 3d12+14 piercing plus Improved Grab plus Improved Grab
 
-**Melee** tentacle +27 (agile, reach <15 feet>); **Damage** 3d8+14 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tentacle +27 (agile, reach <15 feet>); **Damage** 3d8+14 bludgeoning plus Improved Grab plus Improved Grab
 
-**Melee** tongue +27 (agile, reach <30 feet>); **Damage** 2d10+14 piercing plus barbed tongue plus barbed tongue
+**Melee** ◆ tongue +27 (agile, reach <30 feet>); **Damage** 2d10+14 piercing plus barbed tongue plus barbed tongue
 
 **Aquatic Ambush** ◆
 

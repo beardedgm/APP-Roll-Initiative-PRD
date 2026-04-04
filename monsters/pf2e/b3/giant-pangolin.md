@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +12
+**Perception** +12; scent 30 feet (imprecise)
+
+**Skills** Athletics +13, Stealth +8, Survival +10
 
 **STR** +5, **DEX** +0, **CON** +3, **INT** -4, **WIS** +2, **CHA** +0
 
@@ -21,9 +23,9 @@ n, large, animal
 
 Speed 30 feet, burrow 20 feet, climb 20 feet
 
-**Melee** claw +13 (agile); **Damage** 1d10+7 piercing damage
+**Melee** ◆ claw +13 (agile); **Damage** 1d10+7 piercing damage
 
-**Melee** tongue +13; **Damage** 1d6+7 bludgeoning damage plus Grab plus Grab
+**Melee** ◆ tongue +13; **Damage** 1d6+7 bludgeoning damage plus Grab plus Grab
 
 **Devourer of Swarms** The giant pangolin ignores the resistances of swarms, and its tongue Strike deals an additional 2d6 damage against swarms.
 

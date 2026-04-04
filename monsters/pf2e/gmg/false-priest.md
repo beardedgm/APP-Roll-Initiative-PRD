@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +10, Athletics +8, Deception +12, Performance +12, Religion +8, Society +6
+
 **STR** +0, **DEX** +4, **CON** +3, **INT** +0, **WIS** +2, **CHA** +4
 
 **Items** alchemical tools (used as "blessed items" to fool marks), backpack, cloak, hand crossbow (20 bolts), collection of fake relics, wooden religious symbol, studded leather armor, rapier
@@ -25,9 +27,9 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** rapier +12 (deadly <1d8>, disarm, finesse); **Damage** 1d6+8 piercing
+**Melee** ◆ rapier +12 (deadly <1d8>, disarm, finesse); **Damage** 1d6+8 piercing
 
-**Melee** hand crossbow +12 (range increment <60 feet>, reload <1>); **Damage** 1d6+4 piercing
+**Ranged** ◆ hand crossbow +12 (range increment <60 feet>, reload <1>); **Damage** 1d6+4 piercing
 
 **Deceiver's Surprise** On the first round of combat, if the false priest rolls Deception or Performance for initiative, creatures that haven't acted yet are flat-footed to the false priest.
 

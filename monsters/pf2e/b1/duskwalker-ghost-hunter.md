@@ -5,9 +5,11 @@ n, medium, duskwalker, human, humanoid
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common, necril
+
+**Skills** Acrobatics +10, Athletics +8, Deception +6, Intimidation +6, Nature +8, Stealth +12, Survival +8
 
 **STR** +2, **DEX** +4, **CON** +1, **INT** +0, **WIS** +2, **CHA** +0
 
@@ -27,11 +29,11 @@ n, medium, duskwalker, human, humanoid
 
 Speed 25 feet
 
-**Melee** hatchet +12 (agile, sweep); **Damage** 1d6+5 slashing
+**Melee** ◆ hatchet +12 (agile, sweep); **Damage** 1d6+5 slashing
 
-**Melee** composite longbow +14 (deadly <1d10>, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+4 piercing
+**Ranged** ◆ composite longbow +14 (deadly <1d10>, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+4 piercing
 
-**Melee** hatchet +14 (agile, sweep, thrown <10 feet>); **Damage** 1d6+5 slashing
+**Ranged** ◆ hatchet +14 (agile, sweep, thrown <10 feet>); **Damage** 1d6+5 slashing
 
 **Ghost Hunter** The duskwalker's weapons have the benefits of the ghost touch property rune on attacks against incorporeal undead.
 

@@ -5,7 +5,9 @@ uncommon, n, large, mindless, ooze
 
 ---
 
-**Perception** +10
+**Perception** +10; motion sense 60 feet (imprecise)
+
+**Skills** Thievery +17
 
 **STR** +4, **DEX** +2, **CON** +7, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -31,7 +33,7 @@ uncommon, n, large, mindless, ooze
 
 Speed 20 feet, climb 10 feet
 
-**Melee** pseudopod +17; **Damage** 1d8+8 bludgeoning plus 2d6 acid
+**Melee** ◆ pseudopod +17; **Damage** 1d8+8 bludgeoning plus 2d6 acid
 
 **Engulf** ◆◆ DC 23, 2d8+9 acid, Escape DC 23, Rupture 14 (19 when using Metallify)
 

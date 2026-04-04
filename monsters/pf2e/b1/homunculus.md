@@ -5,9 +5,11 @@ n, tiny, construct
 
 ---
 
-**Perception** +3
+**Perception** +3; darkvision
 
-**Languages** common (can't speak any language)
+**Languages** common (can't speak any language); master link
+
+**Skills** Acrobatics +5, Stealth +5
 
 **STR** -1, **DEX** +3, **CON** +0, **INT** +0, **WIS** +1, **CHA** -2
 
@@ -25,6 +27,6 @@ n, tiny, construct
 
 Speed 15 feet, fly 40 feet
 
-**Melee** jaws +7 (finesse, magical); **Damage** 1d4 piercing plus homunculus poison plus homunculus poison
+**Melee** ◆ jaws +7 (finesse, magical); **Damage** 1d4 piercing plus homunculus poison plus homunculus poison
 
 **Homunculus Poison** (poison)

@@ -5,9 +5,11 @@ uncommon, n, medium, incorporeal, shadow, spirit
 
 ---
 
-**Perception** +22
+**Perception** +22; fearsense 60 feet (precise), greater darkvision
 
 **Languages** common, shadowtongue
+
+**Skills** Deception +23, Intimidation +23, Stealth +27
 
 **STR** +4, **DEX** +7, **CON** +5, **INT** +4, **WIS** +4, **CHA** +5
 
@@ -25,7 +27,7 @@ uncommon, n, medium, incorporeal, shadow, spirit
 
 **Immunities** poison, disease, paralyzed, precision
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Ominous Footsteps** (auditory, aura, emotion, fear, illusion, mental, occult) 60 feet. The betobeto-san's footsteps seem to draw ever closer, yet the source remains difficult to pinpoint. Each creature that starts its turn within 60 feet of the betobeto-san must attempt a DC 29 Will save. **Critical Success** The creature is unaffected and is temporarily immune for 1 minute.
 **Success** The creature becomes frightened 1.
@@ -40,6 +42,6 @@ uncommon, n, medium, incorporeal, shadow, spirit
 
 Speed 40 feet
 
-**Melee** claw +25 (agile, finesse, magical); **Damage** 3d12+10 negative
+**Melee** ◆ claw +25 (agile, finesse, magical); **Damage** 3d12+10 negative
 
 **Stepping Decoy** ◆ (auditory, illusion, occult) The betobeto-san Steps. They then create two illusory decoys of sound within 15 feet of them that mimic the sounds of their ominous footsteps. These decoys act independently on the betobeto-san's initiative with 2 actions apiece. They can only Sneak or Stride, and they have a.

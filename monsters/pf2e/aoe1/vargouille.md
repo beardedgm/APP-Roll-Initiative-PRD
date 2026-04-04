@@ -5,9 +5,11 @@ ne, small, beast, fiend
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** infernal
+
+**Skills** Acrobatics +8, Stealth +8
 
 **STR** +3, **DEX** +4, **CON** +4, **INT** -2, **WIS** +3, **CHA** -1
 
@@ -23,7 +25,7 @@ ne, small, beast, fiend
 
 Speed fly 25 feet
 
-**Melee** fangs +10 (finesse); **Damage** 1d8+3 piercing plus vargouille venom plus vargouille venom
+**Melee** ◆ fangs +10 (finesse); **Damage** 1d8+3 piercing plus vargouille venom plus vargouille venom
 
 **Kiss** ◆ The vargouille kisses an adjacent creature that's asleep, paralyzed, or unconscious, exposing it to the vargouille transformation disease.
 

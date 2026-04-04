@@ -5,9 +5,11 @@ uncommon, ne, large, aberration, dream
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
-**Languages** aklo
+**Languages** aklo; telepathy 100 feet
+
+**Skills** Acrobatics +17, Athletics +13, Deception +13, Stealth +17, Thievery +15
 
 **STR** +2, **DEX** +6, **CON** +4, **INT** +2, **WIS** +4, **CHA** +2
 
@@ -29,17 +31,19 @@ uncommon, ne, large, aberration, dream
 
 ---
 
-Speed 20 feet, fly 40 feet
+Speed 20 feet, fly 40 feet, freedom of movement
 
-**Melee** claws +17 (agile, finesse, magical, reach <5 feet>); **Damage** 2d8+8 negative and stolen dreams
+**Melee** ◆ claws +17 (agile, finesse, magical, reach <5 feet>); **Damage** 2d8+8 negative and stolen dreams
 
-**Melee** dream barb +16 (incorporeal, magical, range <60 feet>); **Damage** stolen dreams
+**Ranged** ◆ dream barb +16 (incorporeal, magical, range <60 feet>); **Damage** stolen dreams
 
 **Innate occult Spells** (DC 25), attack +17
 
+  **Constant (4th)** freedom of movement
+
   **2nd** darkness
 
-  **4th** sleep
+  **4th** sleep (×3)
 
 **Dream Step** ◆ The dreamscraper shifts to either the Dimension of Dreams or the Material Plane. While in the Dimension of Dreams, it can see clearly onto the Material Plane with a range of 60 feet. On its first round in an encounter, the dreamscraper can use this ability once as a free action.
 

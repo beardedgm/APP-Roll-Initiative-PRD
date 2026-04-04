@@ -7,6 +7,8 @@ n, medium, construct, mindless
 
 **Perception** +6
 
+**Skills** Athletics +9
+
 **STR** +3, **DEX** +0, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -25,6 +27,6 @@ n, medium, construct, mindless
 
 Speed 25 feet
 
-**Melee** headbutt +8; **Damage** 1d8+2 Bludgeoning
+**Melee** ◆ headbutt +8; **Damage** 1d8+2 Bludgeoning
 
 **Trample** ◆◆◆ Small or smaller, headbutt, DC 14

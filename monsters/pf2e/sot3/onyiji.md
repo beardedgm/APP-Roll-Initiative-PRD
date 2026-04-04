@@ -5,9 +5,11 @@ unique, ln, medium, human, humanoid, orc
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
 **Languages** common, orc
+
+**Skills** Acrobatics +14, Arcana +16, Athletics +18, Intimidation +16, Nature +14, Warfare Lore +16
 
 **STR** +4, **DEX** +2, **CON** +2, **INT** +4, **WIS** +2, **CHA** +0
 
@@ -29,7 +31,7 @@ unique, ln, medium, human, humanoid, orc
 
 Speed 25 feet
 
-**Melee** staff +20 (agile, two-handed d8); **Damage** 2d6+8 bludgeoning
+**Melee** ◆ staff +20 (agile, two-handed d8); **Damage** 2d6+8 bludgeoning
 
 **Prepared arcane Spells** (DC 26), attack +18
 

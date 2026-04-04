@@ -5,13 +5,15 @@ unique, ce, huge, amphibious, demon, fiend
 
 ---
 
-**Perception** +46
+**Perception** +46; darkvision, true seeing
 
-**Languages** abyssal, common, elven, sylvan
+**Languages** abyssal, common, elven, sylvan; telepathy 300 ft.
+
+**Skills** Acrobatics +40, Arcana +38, Athletics +45, Intimidation +46, Nature +49, Occultism +38, Religion +45, Stealth +40
 
 **STR** +12, **DEX** +9, **CON** +11, **INT** +7, **WIS** +8, **CHA** +8
 
-**Items** {@item Blackaxe|B1}
+**Items** Blackaxe|B1
 
 ---
 
@@ -23,7 +25,7 @@ unique, ce, huge, amphibious, demon, fiend
 
 **Immunities** mental, poison, death effects, disease
 
-**Resistances** acid 20, cold 15, fire 15, physical 20
+**Resistances** acid 20, cold 15, fire 15, physical 20 (except cold iron)
 
 **Weaknesses** good 20
 
@@ -33,25 +35,29 @@ unique, ce, huge, amphibious, demon, fiend
 
 ---
 
-Speed 60 feet, fly 60 feet, swim 40 feet
+Speed 60 feet, fly 60 feet, swim 40 feet, freedom of movement
 
-**Melee** Blackaxe +47 (acid, chaotic, evil, magical, reach <15 feet>, sweep); **Damage** 4d12+15 slashing plus 1d6 acid, 1d6 chaotic, and 1d6 evil, and 2d6 slashing vs. plants
+**Melee** ◆ Blackaxe +47 (acid, chaotic, evil, magical, reach <15 feet>, sweep); **Damage** 4d12+15 slashing plus 1d6 acid, 1d6 chaotic, and 1d6 evil, and 2d6 slashing vs. plants
 
-**Melee** jaws +45 (agile, chaotic, evil, magical, reach <15 feet>); **Damage** 4d10+18 slashing plus 2d6 chaotic and 2d6 evil
+**Melee** ◆ jaws +45 (agile, chaotic, evil, magical, reach <15 feet>); **Damage** 4d10+18 slashing plus 2d6 chaotic and 2d6 evil
 
 **Innate primal Spells** (DC 49), attack +43
 
+  **Constant (8th)** true seeing
+
+  **Constant (4th)** freedom of movement
+
   **Cantrips (9th)** telekinetic projectile
 
-  **2nd** telekinetic maneuver
+  **2nd** telekinetic maneuver (at will)
 
-  **3rd** earthbind
+  **3rd** earthbind (at will)
 
-  **5th** Abyssal plague
+  **5th** Abyssal plague (at will)
 
-  **6th** tangling creepers
+  **6th** tangling creepers (at will)
 
-  **9th** Abyssal wrath, dispel magic
+  **9th** Abyssal wrath (at will), dispel magic (at will)
 
   **10th** horrid wilting, time stop, wall of thorns
 

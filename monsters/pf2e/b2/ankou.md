@@ -5,9 +5,11 @@ le, large, fey
 
 ---
 
-**Perception** +25
+**Perception** +25; lifesense 120 feet, low-light vision
 
-**Languages** aklo, common, sylvan
+**Languages** aklo, common, sylvan; telepathy 100 feet
+
+**Skills** Acrobatics +28, Deception +25, Intimidation +27, Nature +22, Stealth +28
 
 **STR** +7, **DEX** +8, **CON** +4, **INT** +2, **WIS** +2, **CHA** +5
 
@@ -23,9 +25,9 @@ le, large, fey
 
 Speed fly 75 feet
 
-**Melee** claw +29 (agile, cold iron); **Damage** 3d6+15 slashing
+**Melee** ◆ claw +29 (agile, cold iron); **Damage** 3d6+15 slashing
 
-**Melee** wing +29 (cold iron, reach <10 feet>); **Damage** 2d6+15 piercing plus 2d6 persistent bleed
+**Melee** ◆ wing +29 (cold iron, reach <10 feet>); **Damage** 2d6+15 piercing plus 2d6 persistent bleed
 
 **Innate primal Spells** (DC 34), attack +26
 
@@ -33,7 +35,7 @@ Speed fly 75 feet
 
   **2nd** silence
 
-  **4th** darkness, dimensional anchor
+  **4th** darkness (at will), dimensional anchor
 
   **6th** true seeing
 

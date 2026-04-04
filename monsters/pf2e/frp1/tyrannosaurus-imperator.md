@@ -5,7 +5,9 @@ rare, n, gargantuan, animal, dinosaur
 
 ---
 
-**Perception** +25
+**Perception** +25; low-light vision, scent 60 feet (imprecise)
+
+**Skills** Acrobatics +20, Athletics +30
 
 **STR** +9, **DEX** +2, **CON** +5, **INT** -4, **WIS** +3, **CHA** +0
 
@@ -21,9 +23,9 @@ rare, n, gargantuan, animal, dinosaur
 
 Speed 40 feet
 
-**Melee** jaws +28 (deadly <d12>, reach <20 feet>); **Damage** 3d12+12 piercing plus Grab plus Grab
+**Melee** ◆ jaws +28 (deadly <d12>, reach <20 feet>); **Damage** 3d12+12 piercing plus Grab plus Grab
 
-**Melee** foot +28 (reach <15 feet>); **Damage** 3d10+12 bludgeoning
+**Melee** ◆ foot +28 (reach <15 feet>); **Damage** 3d10+12 bludgeoning
 
 **Fling** ◆ As tyrannosaurus, but DC 29.
 

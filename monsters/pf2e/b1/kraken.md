@@ -5,9 +5,11 @@ uncommon, ne, gargantuan, aquatic, beast
 
 ---
 
-**Perception** +34
+**Perception** +34; darkvision
 
 **Languages** aquan, common
+
+**Skills** Athletics +38, Intimidation +32, Nature +35, Stealth +33
 
 **STR** +9, **DEX** +4, **CON** +9, **INT** +5, **WIS** +6, **CHA** +5
 
@@ -29,11 +31,11 @@ uncommon, ne, gargantuan, aquatic, beast
 
 Speed 10 feet, swim 40 feet
 
-**Melee** arm +37 (reach <40 feet>, magical); **Damage** 4d10+17 bludgeoning plus Grab plus Grab
+**Melee** ◆ arm +37 (reach <40 feet>, magical); **Damage** 4d10+17 bludgeoning plus Grab plus Grab
 
-**Melee** tentacle +37 (reach <60 feet>, agile, magical); **Damage** 3d10+17 bludgeoning plus Grab plus Grab
+**Melee** ◆ tentacle +37 (reach <60 feet>, agile, magical); **Damage** 3d10+17 bludgeoning plus Grab plus Grab
 
-**Melee** beak +37 (reach <20 feet>, magical); **Damage** 3d10+17 piercing
+**Melee** ◆ beak +37 (reach <20 feet>, magical); **Damage** 3d10+17 piercing
 
 **Innate primal Spells** (DC 40)
 

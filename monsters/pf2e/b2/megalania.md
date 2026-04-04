@@ -5,7 +5,9 @@ n, huge, animal
 
 ---
 
-**Perception** +15
+**Perception** +15; low-light vision, scent 60 feet (imprecise)
+
+**Skills** Athletics +18, Stealth +15
 
 **STR** +7, **DEX** +2, **CON** +4, **INT** -4, **WIS** +2, **CHA** -2
 

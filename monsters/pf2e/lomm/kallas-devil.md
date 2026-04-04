@@ -5,13 +5,15 @@ unique, ne, medium, amphibious, hag, humanoid
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, lifesense 30 feet (imprecise), wavesense 30 feet (imprecise), {@spell see invisibility}
 
 **Languages** common, aklo, aquan, hallit
 
+**Skills** Athletics +18, Deception +18, Intimidation +18, Occultism +20, Stealth +16
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** +6, **WIS** +5, **CHA** +5
 
-**Items** {@item Devil's Trident|LOMM}, skinned cloak
+**Items** Devil's Trident|LOMM, skinned cloak
 
 **Coven** The Kallas Devil adds dominate, false vision, invisibility, and subconscious suggestion to her coven's spells.
 
@@ -41,21 +43,23 @@ unique, ne, medium, amphibious, hag, humanoid
 
 Speed 30 feet, swim 30 feet
 
-**Melee** jaws +21; **Damage** 2d12+7 piercing
+**Melee** ◆ jaws +21; **Damage** 2d12+7 piercing
 
-**Melee** claw +21 (agile); **Damage** 2d8+7 slashing plus Grab plus Grab
+**Melee** ◆ claw +21 (agile); **Damage** 2d8+7 slashing plus Grab plus Grab
 
-**Melee** {@item Devil's Trident|LOMM} +21; **Damage** 2d8+7 piercing plus sewer haze plus Sewer Haze
+**Melee** ◆ {@item Devil's Trident|LOMM} +21; **Damage** 2d8+7 piercing plus sewer haze plus Sewer Haze
 
-**Melee** {@item Devil's Trident|LOMM} +21 (thrown <20 feet>); **Damage** 2d8+7 piercing plus sewer haze plus Sewer Haze
+**Ranged** ◆ {@item Devil's Trident|LOMM} +21 (thrown <20 feet>); **Damage** 2d8+7 piercing plus sewer haze plus Sewer Haze
 
 **Innate occult Spells** (DC 28), attack +20
 
-  **1st** illusory disguise, sleep
+  **Constant (2nd)** see invisibility
 
-  **2nd** invisibility
+  **1st** illusory disguise (at will), sleep (at will)
 
-  **3rd** haste, mind reading
+  **2nd** invisibility (at will)
+
+  **3rd** haste, mind reading (at will)
 
   **5th** false vision, invisibility, subconscious suggestion
 

@@ -5,9 +5,11 @@ cg, medium, amphibious, fey, nymph, water
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision
 
-**Languages** common, elven, sylvan
+**Languages** common, elven, sylvan; speak with animals
+
+**Skills** Acrobatics +6, Athletics +3, Diplomacy +7, Nature +6, Stealth +6, Survival +4
 
 **STR** +0, **DEX** +3, **CON** +0, **INT** +1, **WIS** +1, **CHA** +4
 
@@ -31,9 +33,11 @@ cg, medium, amphibious, fey, nymph, water
 
 Speed 25 feet, swim 25 feet
 
-**Melee** aqueous fist +8 (agile, finesse, magical, water); **Damage** 1d6 bludgeoning
+**Melee** ◆ aqueous fist +8 (agile, finesse, magical, water); **Damage** 1d6 bludgeoning
 
 **Innate primal Spells** (DC 17)
+
+  **Constant (2nd)** speak with animals
 
   **1st** charm, create water, tidal surge
 

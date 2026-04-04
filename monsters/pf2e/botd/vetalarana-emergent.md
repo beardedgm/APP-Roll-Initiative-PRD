@@ -5,9 +5,11 @@ ce, medium, undead, vampire
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, thoughtsense 100 feet (precise)
 
 **Languages** common, necril
+
+**Skills** Acrobatics +15, Athletics +18, Intimidation +16, Occultism +13, Stealth +17
 
 **STR** +6, **DEX** +5, **CON** +4, **INT** +3, **WIS** +4, **CHA** +4
 
@@ -23,7 +25,7 @@ ce, medium, undead, vampire
 
 **Immunities** death effects, disease, paralyzed, poison, sleep
 
-**Resistances** mental 10, physical 10
+**Resistances** mental 10, physical 10 (except cold iron)
 
 **Weaknesses** vetalarana vulnerabilities
 
@@ -31,9 +33,9 @@ ce, medium, undead, vampire
 
 Speed 25 feet, climb 25 feet
 
-**Melee** claw +20 (agile); **Damage** 2d8+9 slashing plus Grab
+**Melee** ◆ claw +20 (agile); **Damage** 2d8+9 slashing plus Grab
 
-**Melee** crossbow +20 (magical, range increment <120 feet>, reload <1>); **Damage** 2d8+3 piercing
+**Ranged** ◆ crossbow +20 (magical, range increment <120 feet>, reload <1>); **Damage** 2d8+3 piercing
 
 **Anticipatory Attack** The vetalarana emergent uses consumed memories to anticipate their prey's movements. The vetalarana emergent's Strikes deal an additional 1d8 precision damage to creatures stupefied due to the vetalarana's Drain Thoughts.
 

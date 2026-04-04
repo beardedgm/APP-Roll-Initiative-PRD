@@ -5,9 +5,11 @@ huge, plant
 
 ---
 
-**Perception** +15
+**Perception** +15; low-light vision
 
-**Languages** arboreal, common, fey
+**Languages** arboreal, common, fey; speak with animals|PC1
+
+**Skills** Athletics +11, Diplomacy +12, Nature +14, Stealth +8
 
 **STR** +4, **DEX** +1, **CON** +3, **INT** +2, **WIS** +5, **CHA** +3
 
@@ -31,13 +33,15 @@ huge, plant
 
 Speed 25 feet
 
-**Melee** branch +15 (reach <15 feet>); **Damage** 2d8+6 bludgeoning
+**Melee** ◆ branch +15 (reach <15 feet>); **Damage** 2d8+6 bludgeoning
 
 **Innate primal Spells** (DC 22)
 
+  **Constant (2nd)** speak with animals
+
   **2nd** animal messenger
 
-  **3rd** animal allies
+  **3rd** animal allies (×2)
 
 **Exalt the Little Ones** ◆ (auditory, linguistic, primal) The arboreal shepherd encourages its friends to overcome titanic odds. For 1 round, allies with the animal trait in a 50-foot radius gain a +1 status bonus to attack rolls, damage rolls, and saving throws. If the animals have the swarm trait, the saving throw DCs to resist their damaging actions gain a +1 status bonus. This bonus increases to +2 for allies whose level is 2 or lower.
 

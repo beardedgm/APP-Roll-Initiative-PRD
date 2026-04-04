@@ -5,9 +5,11 @@ unique, cg, medium, humanoid, kitsune
 
 ---
 
-**Perception** +26
+**Perception** +26; low-light vision
 
 **Languages** kitsune, nagaji, taldane, tengu, tien
+
+**Skills** Acrobatics +26, Deception +25, Stealth +24, Thievery +24
 
 **STR** +0, **DEX** +5, **CON** +3, **INT** +4, **WIS** +1, **CHA** +4
 
@@ -25,11 +27,11 @@ unique, cg, medium, humanoid, kitsune
 
 Speed 25 feet
 
-**Melee** claw +26 (agile, finesse, nonlethal, unarmed); **Damage** 3d4+11 slashing
+**Melee** ◆ claw +26 (agile, finesse, nonlethal, unarmed); **Damage** 3d4+11 slashing
 
-**Melee** dart +26 (agile, reload <0>, thrown <20 feet>); **Damage** 2d4+6 piercing
+**Ranged** ◆ dart +26 (agile, reload <0>, thrown <20 feet>); **Damage** 2d4+6 piercing
 
-**Melee** foxfire +24 (range <20 feet>); **Damage** 3d4 electricity
+**Ranged** ◆ foxfire +24 (range <20 feet>); **Damage** 3d4 electricity
 
 **Innate divine Spells** (DC 33)
 

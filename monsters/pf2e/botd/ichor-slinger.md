@@ -5,9 +5,11 @@ uncommon, ne, medium, undead
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common, necril
+
+**Skills** Athletics +11, Crafting +13, Deception +13, Performance +11, Stealth +9
 
 **STR** +3, **DEX** +1, **CON** +4, **INT** +3, **WIS** +2, **CHA** +5
 
@@ -29,7 +31,7 @@ uncommon, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** fist +13 (agile); **Damage** 2d6+3 bludgeoning plus Grab
+**Melee** ◆ fist +13 (agile); **Damage** 2d6+3 bludgeoning plus Grab
 
 **Brew Tomb Juice** ◆ (manipulate) The ichor slinger creates a vial of tomb juice, an alchemical tonic that has the infused trait and becomes inert after 24 hours. Tomb juice has the effects of snake oil, and maybe more depending on the results of the ichor slinger's DC 20 Crafting check. **Critical Success** 
 **Success** 

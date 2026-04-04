@@ -5,9 +5,11 @@ ce, huge, aberration, aquatic
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, see invisibility
 
 **Languages** aklo
+
+**Skills** Arcana +33, Athletics +33, Deception +31, Intimidation +29, Sea Lore +33
 
 **STR** +8, **DEX** +4, **CON** +6, **INT** +8, **WIS** +5, **CHA** +6
 
@@ -32,15 +34,17 @@ ce, huge, aberration, aquatic
 
 Speed 20 feet, swim 50 feet
 
-**Melee** tentacle +33 (agile, magical, reach <20 feet>); **Damage** 3d10+16 bludgeoning plus hallucinatory brine plus hallucinatory brine
+**Melee** ◆ tentacle +33 (agile, magical, reach <20 feet>); **Damage** 3d10+16 bludgeoning plus hallucinatory brine plus hallucinatory brine
 
-**Melee** water blast +33 (brutal, magical, range increment <100 feet>, water); **Damage** 2d8+16 bludgeoning plus hallucinatory brine plus hallucinatory brine
+**Ranged** ◆ water blast +33 (brutal, magical, range increment <100 feet>, water); **Damage** 2d8+16 bludgeoning plus hallucinatory brine plus hallucinatory brine
 
 **Innate arcane Spells** (DC 41)
 
-  **5th** control water
+  **Constant (7th)** see invisibility
 
-  **6th** spellwrack
+  **5th** control water (at will)
+
+  **6th** spellwrack (×3)
 
   **7th** regenerate
 

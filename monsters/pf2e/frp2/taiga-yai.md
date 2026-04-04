@@ -5,9 +5,11 @@ ne, huge, fiend, giant, humanoid, oni
 
 ---
 
-**Perception** +30
+**Perception** +30; greater darkvision
 
-**Languages** common, jotun
+**Languages** common, jotun; speak with animals
+
+**Skills** Acrobatics +29, Arcana +26, Athletics +27, Deception +27, Intimidation +27, Nature +30, Survival +32
 
 **STR** +6, **DEX** +8, **CON** +8, **INT** +5, **WIS** +7, **CHA** +6
 
@@ -29,23 +31,25 @@ ne, huge, fiend, giant, humanoid, oni
 
 Speed 40 feet, fly 40 feet
 
-**Melee** fist +27 (agile, evil, magical, reach <15 feet>); **Damage** 3d8+12 bludgeoning plus 2d6 acid
+**Melee** ◆ fist +27 (agile, evil, magical, reach <15 feet>); **Damage** 3d8+12 bludgeoning plus 2d6 acid
 
-**Melee** acid missile +29 (acid, evil, magical, range increment <60 feet>, reload <0>); **Damage** 3d8+10 acid plus flat-footed for 1 round
+**Ranged** ◆ acid missile +29 (acid, evil, magical, range increment <60 feet>, reload <0>); **Damage** 3d8+10 acid plus flat-footed for 1 round
 
-**Melee** shortbow +31 (deadly <2d10>, range increment <60 feet>); **Damage** 3d6 piercing
+**Ranged** ◆ shortbow +31 (deadly <2d10>, range increment <60 feet>); **Damage** 3d6 piercing
 
 **Innate primal Spells** (DC 34)
 
-  **2nd** entangle, invisibility
+  **Constant (8th)** speak with animals
+
+  **2nd** entangle (at will), invisibility (at will)
 
   **4th** darkness
 
-  **6th** tangling creepers
+  **6th** tangling creepers (×2)
 
-  **7th** shifting sand
+  **7th** shifting sand (×2)
 
-  **8th** earthquake, summon animal
+  **8th** earthquake (×2), summon animal
 
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The taiga yai takes on the appearance of a taiga giant. This doesn't change their Speed or Strike attack and damage.
 

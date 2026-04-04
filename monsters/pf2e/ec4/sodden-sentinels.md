@@ -5,7 +5,9 @@ rare, ne, medium, undead
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
+
+**Skills** Athletics +26
 
 **STR** +8, **DEX** -1, **CON** +7, **INT** -5, **WIS** +0, **CHA** -2
 
@@ -29,7 +31,7 @@ rare, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** fist +24; **Damage** 2d12+16 bludgeoning plus
+**Melee** ◆ fist +24; **Damage** 2d12+16 bludgeoning plus
 
 **Improved Knockdown**
 

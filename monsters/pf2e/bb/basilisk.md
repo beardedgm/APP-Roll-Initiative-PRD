@@ -5,7 +5,9 @@ n, medium, beast
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
+
+**Skills** Athletics +13, Stealth +8
 
 **STR** +4, **DEX** -1, **CON** +5, **INT** -3, **WIS** +2, **CHA** +1
 
@@ -23,6 +25,6 @@ n, medium, beast
 
 Speed 20 feet
 
-**Melee** jaws +15; **Damage** 2d8 + 4 piercing
+**Melee** ◆ jaws +15; **Damage** 2d8 + 4 piercing
 
 **Petrifying Gaze** ◆◆ (arcane, concentrate, transmutation) The basilisk stares at a creature it can see within 30 feet. If the creature can see the basilisk, that creature must attempt a DC 22 Fortitude save. If it fails and hasn't already gained the slowed condition from Petrifying Glance or this ability, it gains the slowed 1 condition. If the creature fails this save when it already has the slowed condition from this ability or Petrifying Glance, the creature is permanently turned to stone. A creature petrified in this manner that is coated with fresh basilisk blood is instantly restored to flesh. A single basilisk contains enough blood to coat up to 2 creatures in this manner.

@@ -5,9 +5,11 @@ unique, ce, medium, ghoul, undead
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
 **Languages** common, necril
+
+**Skills** Acrobatics +9, Athletics +9, Intimidation +9, Stealth +9
 
 **STR** +3, **DEX** +4, **CON** +2, **INT** +1, **WIS** +2, **CHA** +4
 
@@ -27,11 +29,11 @@ unique, ce, medium, ghoul, undead
 
 Speed 30 feet, burrow 5 feet
 
-**Melee** jaws +12 (finesse); **Damage** 2d6+4 piercing plus ghast fever and paralysis plus ghast fever, paralysis
+**Melee** ◆ jaws +12 (finesse); **Damage** 2d6+4 piercing plus ghast fever and paralysis plus ghast fever, paralysis
 
-**Melee** claw +12 (agile, finesse); **Damage** 2d4+4 slashing plus paralysis plus paralysis
+**Melee** ◆ claw +12 (agile, finesse); **Damage** 2d4+4 slashing plus paralysis plus paralysis
 
-**Melee** shortbow +12 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing
+**Ranged** ◆ shortbow +12 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing
 
 **Consume Flesh** ◆ (manipulate) **Requirements** Smiler is adjacent to the corpse of a creature that died within the last hour; Smiler devours a chunk of the corpse and regains 3d6 Hit Points. He can regain Hit Points from any given corpse only once.
 

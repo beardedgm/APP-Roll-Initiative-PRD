@@ -5,7 +5,9 @@ uncommon, n, medium, cold, construct, golem, mindless
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
+
+**Skills** Athletics +15
 
 **STR** +5, **DEX** +0, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -19,7 +21,7 @@ uncommon, n, medium, cold, construct, golem, mindless
 
 **Immunities** bleed, cold, electricity, death effects, disease, doomed, drained, fatigued, healing, magic (see Golem Antimagic below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 5
+**Resistances** physical 5 (except adamantine and slashing)
 
 **Golem Antimagic** harmed by fire (4d6, 1d10 from areas or persistent damage); healed by cold (area 1d6 HP); slowed by water.
 
@@ -31,7 +33,7 @@ uncommon, n, medium, cold, construct, golem, mindless
 
 Speed 25 feet
 
-**Melee** fist +15 (magical, versatile <P>); **Damage** 2d6+7 bludgeoning plus 1d6 cold
+**Melee** ◆ fist +15 (magical, versatile <P>); **Damage** 2d6+7 bludgeoning plus 1d6 cold
 
 **Breath Weapon** ◆◆ (arcane, cold, evocation) The ice golem exhales a blast of freezing mist that deals 6d6 cold damage in a 30-foot cone (DC 22 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

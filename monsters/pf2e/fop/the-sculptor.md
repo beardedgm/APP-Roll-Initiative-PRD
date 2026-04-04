@@ -5,9 +5,11 @@ unique, ce, medium, humanoid, orc
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** common, orcish
+
+**Skills** Acrobatics +9, Crafting +13, Diplomacy +8, Medicine +9, Stealth +9
 
 **STR** +1, **DEX** +3, **CON** +3, **INT** +4, **WIS** +1, **CHA** +0
 
@@ -29,11 +31,11 @@ unique, ce, medium, humanoid, orc
 
 Speed 25 feet
 
-**Melee** orc knuckle dagger +7 (agile, disarm); **Damage** 1d6+1 piercing
+**Melee** ◆ orc knuckle dagger +7 (agile, disarm); **Damage** 1d6+1 piercing
 
-**Melee** fist +9 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+1 bludgeoning
+**Melee** ◆ fist +9 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+1 bludgeoning
 
-**Melee** alchemical bomb +12 (range increment <20 feet>, splash); plus varies by bomb
+**Ranged** ◆ alchemical bomb +12 (range increment <20 feet>, splash); plus varies by bomb
 
 **Alchemy** The Sculptor has used his alchemy ability to create 4 moderate alchemist's fire, 2 lesser elixirs of life, and 4 moderate frost vials. These are infusions. He can spend an action to create an additional vial of any one of those, lesser bottled lightning, or a lesser acid flask.
 

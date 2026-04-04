@@ -5,9 +5,11 @@ rare, ce, large, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** necril
+
+**Skills** Acrobatics +14, Athletics +17, Stealth +15
 
 **STR** +6, **DEX** +3, **CON** +4, **INT** -2, **WIS** +6, **CHA** +2
 
@@ -29,9 +31,9 @@ rare, ce, large, undead
 
 Speed 25 feet
 
-**Melee** claw +17 (agile, reach <10 feet>); **Damage** 2d8+8 slashing plus Grab
+**Melee** ◆ claw +17 (agile, reach <10 feet>); **Damage** 2d8+8 slashing plus Grab
 
-**Melee** hurled bone +17 (brutal, range 30 feet); **Damage** 2d4+8 bludgeoning
+**Ranged** ◆ hurled bone +17 (brutal, range 30 feet); **Damage** 2d4+8 bludgeoning
 
 **Eerie Flexibility** A tanglebones can shift and adjust its mass to fit into smaller areas, allowing it to fit through tight spaces as if it were a Medium creature. While Squeezing, it can move at its full Speed.
 

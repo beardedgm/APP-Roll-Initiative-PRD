@@ -5,9 +5,11 @@ unique, le, medium, mummy, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** aklo, common, necril
+
+**Skills** Acrobatics +16, Arcana +19, Athletics +15, Diplomacy +16, Intimidation +16, Occultism +17, Religion +15
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** +7, **WIS** +3, **CHA** +4
 
@@ -37,9 +39,9 @@ unique, le, medium, mummy, undead
 
 Speed 20 feet
 
-**Melee** fist +19 (agile, finesse); **Damage** 2d6+7 bludgeoning plus mummy rot plus mummy rot
+**Melee** ◆ fist +19 (agile, finesse); **Damage** 2d6+7 bludgeoning plus mummy rot plus mummy rot
 
-**Melee** staff +18 (two-hand <d8>); **Damage** 1d4+7 bludgeoning
+**Melee** ◆ staff +18 (two-hand <d8>); **Damage** 1d4+7 bludgeoning
 
 **Prepared arcane Spells** (DC 26), attack +18
 

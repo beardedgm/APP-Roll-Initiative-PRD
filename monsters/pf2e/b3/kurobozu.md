@@ -5,9 +5,11 @@ uncommon, le, medium, undead
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +14, Athletics +15, Stealth +14, Monastic Lore +11
 
 **STR** +5, **DEX** +4, **CON** +2, **INT** +1, **WIS** +4, **CHA** +2
 
@@ -23,7 +25,7 @@ uncommon, le, medium, undead
 
 Speed 35 feet
 
-**Melee** fist +17 (agile, magical); **Damage** 1d6+8 bludgeoning plus 1d4 negative and sagebane plus sagebane
+**Melee** ◆ fist +17 (agile, magical); **Damage** 1d6+8 bludgeoning plus 1d4 negative and sagebane plus sagebane
 
 **Black Apoxia** (disease)
 

@@ -5,9 +5,11 @@ unique, medium, ghost, incorporeal, spirit, undead, unholy, wood
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision
 
 **Languages** arboreal, muan
+
+**Skills** Acrobatics +22, Nature +26, Plane Of Wood Lore +25, Stealth +22
 
 **STR** -5, **DEX** +5, **CON** +5, **INT** +2, **WIS** +7, **CHA** +6
 
@@ -21,13 +23,13 @@ unique, medium, ghost, incorporeal, spirit, undead, unholy, wood
 
 **Immunities** bleed, death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, spirit, or vitality; double resistance vs. non-magical)
 
 ---
 
 Speed fly 25 feet
 
-**Melee** ghostly hand +25 (agile, finesse, magical); **Damage** 2d10+13 void
+**Melee** ◆ ghostly hand +25 (agile, finesse, magical); **Damage** 2d10+13 void
 
 **Innate primal Spells** (DC 33), attack +25
 

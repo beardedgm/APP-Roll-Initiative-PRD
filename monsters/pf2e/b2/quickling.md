@@ -5,9 +5,11 @@ uncommon, ce, small, fey
 
 ---
 
-**Perception** +9
+**Perception** +9; low-light vision
 
 **Languages** aklo, common, sylvan
+
+**Skills** Acrobatics +13, Crafting +8, Deception +8, Nature +8, Stealth +11, Survival +6, Thievery +11
 
 **STR** +0, **DEX** +4, **CON** +1, **INT** +3, **WIS** +1, **CHA** +3
 
@@ -31,7 +33,7 @@ uncommon, ce, small, fey
 
 Speed 100 feet
 
-**Melee** shortsword +11 (agile, finesse, versatile <S>); **Damage** 1d6+2 piercing plus lethargy poison plus lethargy poison
+**Melee** ◆ shortsword +11 (agile, finesse, versatile <S>); **Damage** 1d6+2 piercing plus lethargy poison plus lethargy poison
 
 **Innate primal Spells** (DC 20)
 

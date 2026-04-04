@@ -5,9 +5,11 @@ ne, small, charau-ka, humanoid
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision, scent 30 feet (imprecise)
 
 **Languages** abyssal, draconic, mwangi
+
+**Skills** Athletics +7, Intimidation +7, Nature +9, Religion +11, Stealth +7
 
 **STR** +2, **DEX** +2, **CON** +1, **INT** +0, **WIS** +4, **CHA** +2
 
@@ -25,13 +27,13 @@ ne, small, charau-ka, humanoid
 
 Speed 25 feet, climb 25 feet
 
-**Melee** spear +10 (thrown <20 feet>); **Damage** 1d6+5 piercing
+**Melee** ◆ spear +10 (thrown <20 feet>); **Damage** 1d6+5 piercing
 
-**Melee** fist +10 (agile, nonlethal); **Damage** 1d4+5 bludgeoning
+**Melee** ◆ fist +10 (agile, nonlethal); **Damage** 1d4+5 bludgeoning
 
-**Melee** spear +10 (deadly <d6>, thrown <20 feet>); **Damage** 1d6+5 piercing
+**Ranged** ◆ spear +10 (deadly <d6>, thrown <20 feet>); **Damage** 1d6+5 piercing
 
-**Melee** thrown debris +10 (deadly <d6>, thrown <20 feet>); **Damage** 1d6+5 bludgeoning
+**Ranged** ◆ thrown debris +10 (deadly <d6>, thrown <20 feet>); **Damage** 1d6+5 bludgeoning
 
 **Prepared divine Spells** (DC 17), attack +11
 

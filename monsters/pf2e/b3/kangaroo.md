@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +7
+**Perception** +7; scent 60 feet (imprecise)
+
+**Skills** Acrobatics +4, Athletics +7, Survival +3
 
 **STR** +3, **DEX** +2, **CON** +3, **INT** -4, **WIS** +1, **CHA** +1
 
@@ -25,6 +27,6 @@ n, medium, animal
 
 Speed 35 feet
 
-**Melee** claw +7; **Damage** 1d4+3 slashing
+**Melee** ◆ claw +7; **Damage** 1d4+3 slashing
 
-**Melee** foot +7; **Damage** 1d6+3 slashing plus Push plus Push
+**Melee** ◆ foot +7; **Damage** 1d6+3 slashing plus Push plus Push

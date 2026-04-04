@@ -5,9 +5,11 @@ unique, medium, undead, unholy, vampire
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision
 
 **Languages** common, draconic, necril
+
+**Skills** Acrobatics +37, Athletics +31, Deception +35, Intimidation +32, Poison Lore +35, Society +33, Stealth +40, Thievery +38
 
 **STR** +4, **DEX** +10, **CON** +5, **INT** +4, **WIS** +4, **CHA** +6
 
@@ -25,7 +27,7 @@ unique, medium, undead, unholy, vampire
 
 **Immunities** death effects, disease, paralyze, poison, sleep
 
-**Resistances** physical 15
+**Resistances** physical 15 (except magical silver)
 
 **Vampire Vulnerabilities**
 
@@ -35,11 +37,11 @@ unique, medium, undead, unholy, vampire
 
 Speed 25 feet, climb 25 feet
 
-**Melee** claws +33 (agile); **Damage** 4d8+17 slashing plus Grab
+**Melee** ◆ claws +33 (agile); **Damage** 4d8+17 slashing plus Grab
 
-**Melee** dagger +35 (agile, finesse, magical, versatile <S>); **Damage** 4d4+17 piercing
+**Melee** ◆ dagger +35 (agile, finesse, magical, versatile <S>); **Damage** 4d4+17 piercing
 
-**Melee** dagger +35 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 4d4+17 piercing
+**Ranged** ◆ dagger +35 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 4d4+17 piercing
 
 **Change Shape** ◆ (concentrate, divine, polymorph) Giant bat with fangs +33 for 4d8+17 piercing.
 

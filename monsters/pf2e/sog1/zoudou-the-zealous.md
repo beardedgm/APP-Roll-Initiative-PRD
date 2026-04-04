@@ -5,13 +5,15 @@ unique, ce, medium, aberration
 
 ---
 
-**Perception** +8
+**Perception** +8; no face
 
-**Languages** common
+**Languages** common; telepathy 30 feet
+
+**Skills** Acrobatics +9, Deception +11, Diplomacy +9, Occultism +10, Religion +9, Society +8
 
 **STR** +2, **DEX** +4, **CON** +3, **INT** +3, **WIS** +2, **CHA** +4
 
-**Items** {@item Fiend's Hunger|SoG1}, tattered ledger, twisted knot of wood ({@item religious symbol (generic)||religious symbol} of Kugaptee)
+**Items** Fiend's Hunger|SoG1, tattered ledger, twisted knot of wood (religious symbol of Kugaptee)
 
 **No Face** Noppera-bos have no sense of vision, but their sense of hearing is precise. They don't breathe and are immune to effects that require breathing. They gain sustenance by absorbing fluids through their skin—traditionally by immersing their hands or faceless head into the fluid to "drink" through osmosis; they can also benefit from consumables, such as potions or elixirs, in this way.
 
@@ -37,7 +39,7 @@ unique, ce, medium, aberration
 
 Speed 25 feet
 
-**Melee** Fiend's Hunger +9 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
+**Melee** ◆ Fiend's Hunger +9 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
 
 **Prepared divine Spells** (DC 21)
 

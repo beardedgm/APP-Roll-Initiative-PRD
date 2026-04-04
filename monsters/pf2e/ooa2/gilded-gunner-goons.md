@@ -9,6 +9,8 @@ uncommon, le, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +11, Acrobatics +12, Deception +10, Stealth +12
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** +1, **WIS** +0, **CHA** +0
 
 **Items** black powder horn (Pathfinder Guns & Gears 169), chain shirt, dagger, flintlock pistol (20 rounds; Guns & Gears 153)
@@ -25,10 +27,10 @@ uncommon, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +14 (agile, finesse, thrown <10 feet>, versatile S); **Damage** 1d4+4 piercing
+**Melee** ◆ dagger +14 (agile, finesse, thrown <10 feet>, versatile S); **Damage** 1d4+4 piercing
 
-**Melee** fist +13 (agile, nonlethal); **Damage** 1d4+3 bludgeoning
+**Melee** ◆ fist +13 (agile, nonlethal); **Damage** 1d4+3 bludgeoning
 
-**Melee** flintlock pistol +14 (concussive, fatal <d8>, range <40 feet>, reload <1>); **Damage** 1d4+4 piercing
+**Ranged** ◆ flintlock pistol +14 (concussive, fatal <d8>, range <40 feet>, reload <1>); **Damage** 1d4+4 piercing
 
 **Sneak Attack A Gilded** Gunner goon's Strikes deal 1d6 additional precision damage to flat-footed creatures.

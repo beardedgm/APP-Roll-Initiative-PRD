@@ -5,7 +5,9 @@ uncommon, n, medium, clockwork, construct, mindless
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision, smoke vision
+
+**Skills** Acrobatics +29, Athletics +25, Stealth +27
 
 **STR** +6, **DEX** +8, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -35,9 +37,9 @@ uncommon, n, medium, clockwork, construct, mindless
 
 Speed 30 feet, climb 20 feet
 
-**Melee** rapier hand +27 (deadly <d8>, disarm, finesse, magical); **Damage** 3d6+12 piercing plus unbalancing blow plus unbalancing blow
+**Melee** ◆ rapier hand +27 (deadly <d8>, disarm, finesse, magical); **Damage** 3d6+12 piercing plus unbalancing blow plus unbalancing blow
 
-**Melee** spinning blade +27 (agile, deadly <d10>, magical, range increment <120 feet>); **Damage** 2d10+9 slashing
+**Ranged** ◆ spinning blade +27 (agile, deadly <d10>, magical, range increment <120 feet>); **Damage** 2d10+9 slashing
 
 **Rapid Repair** (manipulate) The clockwork assassin spends 1 hour of its operational time to repair itself, regaining 25 Hit Points and refilling its integrated projectile launcher with 4 spinning blades (to a maximum of 10) and 2 smoke bombs (to a maximum of 5).
 

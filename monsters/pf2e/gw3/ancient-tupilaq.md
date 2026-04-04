@@ -5,7 +5,9 @@ unique, n, medium, construct
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
+
+**Skills** Athletics +24
 
 **STR** +7, **DEX** +5, **CON** +5, **INT** -5, **WIS** +5, **CHA** -5
 
@@ -25,10 +27,10 @@ unique, n, medium, construct
 
 Speed 40 feet, swim 40 feet
 
-**Melee** jaws +24 (agile); **Damage** 2d8+13 slashing plus
+**Melee** ◆ jaws +24 (agile); **Damage** 2d8+13 slashing plus
 
 **Innate primal Spells** (DC 30)
 
-  **5th** lightning bolt
+  **5th** lightning bolt (×3)
 
 **Carver's Curse** As tupilaq, but a 5th-level primal spell.

@@ -5,9 +5,11 @@ unique, ne, medium, daemon, fiend, human, humanoid
 
 ---
 
-**Perception** +41
+**Perception** +41; greater darkvision, true seeing
 
 **Languages** abyssal, aquan, common, daemonic, infernal
+
+**Skills** Acrobatics +41, Deception +37, Diplomacy +37, Occultism +38, Thievery +39, Engineering Lore +38
 
 **STR** +6, **DEX** +9, **CON** +4, **INT** +8, **WIS** +8, **CHA** +7
 
@@ -27,15 +29,17 @@ unique, ne, medium, daemon, fiend, human, humanoid
 
 ---
 
-Speed 45 feet, swim 30 feet
+Speed 45 feet, swim 30 feet, water walk
 
-**Melee** claw +41 (agile, evil, finesse, magical); **Damage** 4d8+17 slashing plus 2d6 evil and black ink delirium plus black ink delirium
+**Melee** ◆ claw +41 (agile, evil, finesse, magical); **Damage** 4d8+17 slashing plus 2d6 evil and black ink delirium plus black ink delirium
 
-**Melee** broken quills +39 (evil, magical, range increment <40 feet>); **Damage** 2d6+17 piercing plus 2d6 evil and black ink delirium plus black ink delirium
+**Ranged** ◆ broken quills +39 (evil, magical, range increment <40 feet>); **Damage** 2d6+17 piercing plus 2d6 evil and black ink delirium plus black ink delirium
 
 **Innate divine Spells** (DC 45)
 
-  **4th** dimension door
+  **Constant (6th)** true seeing, water walk
+
+  **4th** dimension door (at will)
 
   **5th** dimension door
 

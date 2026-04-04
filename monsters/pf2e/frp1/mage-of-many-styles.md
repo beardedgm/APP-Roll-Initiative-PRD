@@ -9,6 +9,8 @@ uncommon, n, medium, human, humanoid
 
 **Languages** taldane, tien
 
+**Skills** Acrobatics +23, Arcana +28, Occultism +26, Academia Lore +26
+
 **STR** +3, **DEX** +4, **CON** +3, **INT** +5, **WIS** +1, **CHA** +1
 
 **Items** bracers of armor I, +1 striking handwraps of mighty blows, +1 striking longsword
@@ -25,9 +27,9 @@ uncommon, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** fist +22 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d6+5 bludgeoning
+**Melee** ◆ fist +22 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d6+5 bludgeoning
 
-**Melee** longsword +23 (magical, versatile <P>); **Damage** 2d8+5 slashing
+**Melee** ◆ longsword +23 (magical, versatile <P>); **Damage** 2d8+5 slashing
 
 **Wizard Prepared Spells** (DC 32), attack +26
 

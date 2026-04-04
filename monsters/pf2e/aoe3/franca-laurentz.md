@@ -9,6 +9,8 @@ unique, cn, medium, elf, human, humanoid
 
 **Languages** common, hallit
 
+**Skills** Acrobatics +26, Deception +22, Intimidation +22, Society +20, Stealth +28, Thievery +28, Absalom Lore +20
+
 **STR** +3, **DEX** +5, **CON** +3, **INT** +1, **WIS** +2, **CHA** +3
 
 **Items** blackfinger blight (2 doses; page 78), +1 striking crossbow (with 3 shining bolts and 2 explosive bolts), crowbar, greater darkvision elixir, moderate elixir of life, grappling hook, infiltrator thieves' tools, +1 leather armor, +1 striking shortsword, sunrods (3), 88 gp
@@ -27,9 +29,9 @@ unique, cn, medium, elf, human, humanoid
 
 Speed 30 feet
 
-**Melee** shortsword +27 (agile, finesse, magical, versatile <S>); **Damage** 2d6+9 piercing
+**Melee** ◆ shortsword +27 (agile, finesse, magical, versatile <S>); **Damage** 2d6+9 piercing
 
-**Melee** crossbow +27 (magical, range <120 feet>, reload <1>); **Damage** 2d8 piercing
+**Ranged** ◆ crossbow +27 (magical, range <120 feet>, reload <1>); **Damage** 2d8 piercing
 
 **Bloody Rebel** ◆◆ Franca quickly slashes at nearby foes, aiming to maim rather than disable. She makes up to three melee Strikes, each against a different creature within reach. These Strikes count toward Franca's multiple attack penalty, but the penalty doesn't increase until after all three Strikes are made. On a hit, the Strike deals 3 persistent bleed damage instead of its normal damage. On a critical hit, the creature is flat-footed until the beginning of Franca's next turn or until they spend an action to remove the condition, whichever comes first.
 

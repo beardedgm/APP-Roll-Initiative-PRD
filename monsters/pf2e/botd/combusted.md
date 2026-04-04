@@ -5,9 +5,11 @@ ce, medium, fire, undead
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** common, necril (can't speak any language)
+
+**Skills** Acrobatics +9, Athletics +10
 
 **STR** +4, **DEX** +3, **CON** +3, **INT** -2, **WIS** -1, **CHA** +0
 
@@ -31,8 +33,8 @@ ce, medium, fire, undead
 
 Speed 25 feet
 
-**Melee** fire fist +12; **Damage** 1d6+4 bludgeoning plus 1d6 persistent fire
+**Melee** ◆ fire fist +12; **Damage** 1d6+4 bludgeoning plus 1d6 persistent fire
 
-**Melee** fire mote +11 (range increment <60 feet>); **Damage** 1d4+4 fire plus 1d6 persistent fire
+**Ranged** ◆ fire mote +11 (range increment <60 feet>); **Damage** 1d4+4 fire plus 1d6 persistent fire
 
 **Blazing Howl** ◆ (evocation, fire, occult) The combusted screams in agony, causing creatures in a 15-foot emanation to burst into flame, which deals 4d6 fire damage to each creature in the area (DC 17 basic Will save). A creature that critically fails its save is frightened 1; this frightened condition is an emotion, fear, and mental effect. The combusted can't use Blazing Howl for 1d4 rounds.

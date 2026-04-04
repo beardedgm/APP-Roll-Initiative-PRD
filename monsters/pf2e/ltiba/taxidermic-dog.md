@@ -5,7 +5,9 @@ ne, small, mindless, undead
 
 ---
 
-**Perception** +7
+**Perception** +7; low-light vision
+
+**Skills** Acrobatics +5, Athletics +7, Survival +5
 
 **STR** +2, **DEX** +2, **CON** +2, **INT** -5, **WIS** +2, **CHA** -1
 
@@ -25,6 +27,6 @@ ne, small, mindless, undead
 
 Speed 30 feet
 
-**Melee** jaws +7; **Damage** 1d6+2 piercing
+**Melee** ◆ jaws +7; **Damage** 1d6+2 piercing
 
 **Pack Attack** A taxidermic dog's Strikes deal 1d4 extra damage to creatures within the reach of the taxidermic dog's two allies.

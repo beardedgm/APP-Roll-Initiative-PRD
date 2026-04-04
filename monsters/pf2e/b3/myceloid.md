@@ -5,9 +5,11 @@ ne, medium, fungus
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision, scent 30 feet (imprecise)
 
-**Languages** undercommon
+**Languages** undercommon; telepathy 100 feet (myceloids and those afflicted by purple
+
+**Skills** Stealth +11, Survival +10
 
 **STR** +4, **DEX** +3, **CON** +4, **INT** -1, **WIS** +2, **CHA** +0
 
@@ -27,7 +29,7 @@ ne, medium, fungus
 
 Speed 20 feet
 
-**Melee** fist +14; **Damage** 2d6+4 bludgeoning plus purple pox plus purple pox
+**Melee** ◆ fist +14; **Damage** 2d6+4 bludgeoning plus purple pox plus purple pox
 
 **Emit Spores** ◆ **Frequency** {"unit":"day","number":1}; The myceloid expels spores in a 10-foot burst centered on a corner of its own space. This cloud lasts until the start of the myceloid's next turn. Each creature that is in the cloud or enters it is exposed to purple pox.
 

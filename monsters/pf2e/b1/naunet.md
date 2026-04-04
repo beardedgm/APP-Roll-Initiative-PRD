@@ -5,9 +5,11 @@ cn, large, monitor, protean
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, entropy sense 30 feet (imprecise)
 
 **Languages** abyssal, celestial, protean
+
+**Skills** Acrobatics +14, Athletics +16, Intimidation +16, Stealth +14, Survival +12
 
 **STR** +5, **DEX** +3, **CON** +5, **INT** +0, **WIS** +3, **CHA** +3
 
@@ -29,21 +31,23 @@ cn, large, monitor, protean
 
 ---
 
-Speed 25 feet, fly 30 feet, swim 25 feet
+Speed 25 feet, fly 30 feet, swim 25 feet, freedom of movement
 
-**Melee** jaws +18 (chaotic, magical, reach <10 feet>); **Damage** 2d10+8 piercing plus 1d6 chaotic
+**Melee** ◆ jaws +18 (chaotic, magical, reach <10 feet>); **Damage** 2d10+8 piercing plus 1d6 chaotic
 
-**Melee** tail +18 (chaotic, magical, reach <15 feet>); **Damage** 2d8+8 bludgeoning plus 1d6 chaotic and Grab plus Grab
+**Melee** ◆ tail +18 (chaotic, magical, reach <15 feet>); **Damage** 2d8+8 bludgeoning plus 1d6 chaotic and Grab plus Grab
 
-**Melee** tentacle +18 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d8+6 piercing plus 1d6 chaotic and confounding slam plus confounding slam
+**Melee** ◆ tentacle +18 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d8+6 piercing plus 1d6 chaotic and confounding slam plus confounding slam
 
 **Innate divine Spells** (DC 26), attack +16
 
-  **1st** detect alignment
+  **Constant (4th)** freedom of movement
 
-  **2nd** obscuring mist
+  **1st** detect alignment (at will)
 
-  **3rd** shatter
+  **2nd** obscuring mist (at will)
+
+  **3rd** shatter (at will)
 
   **4th** acid arrow, solid fog
 

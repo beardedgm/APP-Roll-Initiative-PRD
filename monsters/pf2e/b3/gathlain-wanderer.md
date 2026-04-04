@@ -5,9 +5,11 @@ uncommon, cg, small, fey, plant
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision
 
 **Languages** common, sylvan
+
+**Skills** Acrobatics +7, Deception +5, Nature +4, Performance +5, Society +3, Stealth +7, Survival +4, Forest Lore +5
 
 **STR** +2, **DEX** +4, **CON** +0, **INT** +0, **WIS** +1, **CHA** +2
 
@@ -29,7 +31,7 @@ uncommon, cg, small, fey, plant
 
 Speed 20 feet, fly 30 feet
 
-**Melee** dagger +9 (agile, finesse, versatile <S>); **Damage** 1d4+2 piercing
+**Melee** ◆ dagger +9 (agile, finesse, versatile <S>); **Damage** 1d4+2 piercing
 
 **Hide and Seek** The gathlain ignores terrain from non-magical foliage.
 

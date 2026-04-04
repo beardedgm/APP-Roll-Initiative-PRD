@@ -5,9 +5,11 @@ ne, medium, fiend, sahkil
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, true seeing
 
-**Languages** abyssal, celestial, infernal, requian
+**Languages** abyssal, celestial, infernal, requian; telepathy 100
+
+**Skills** Acrobatics +18, Deception +21, Diplomacy +21, Intimidation +21, Stealth +18
 
 **STR** +4, **DEX** +5, **CON** +4, **INT** +2, **WIS** +3, **CHA** +6
 
@@ -31,17 +33,19 @@ ne, medium, fiend, sahkil
 
 Speed 30 feet
 
-**Melee** vine +18 (finesse, reach, versatile <P>); **Damage** 2d10+6 slashing plus 1d6 evil, 1d6 persistent bleed, and betrayal toxin plus betrayal toxin
+**Melee** ◆ vine +18 (finesse, reach, versatile <P>); **Damage** 2d10+6 slashing plus 1d6 evil, 1d6 persistent bleed, and betrayal toxin plus betrayal toxin
 
-**Melee** claw +18 (agile, finesse); **Damage** 2d10+6 slashing plus 1d6 evil
+**Melee** ◆ claw +18 (agile, finesse); **Damage** 2d10+6 slashing plus 1d6 evil
 
-**Melee** thorn +18 (agile, range increment <50 feet>); **Damage** 2d4+6 piercing plus 1d6 evil, 1d6 persistent bleed, and betrayal toxin plus betrayal toxin
+**Ranged** ◆ thorn +18 (agile, range increment <50 feet>); **Damage** 2d4+6 piercing plus 1d6 evil, 1d6 persistent bleed, and betrayal toxin plus betrayal toxin
 
 **Innate divine Spells** (DC 30)
 
+  **Constant (6th)** tongues, true seeing
+
   **Cantrips (5th)** detect magic
 
-  **5th** charm, calm emotions, suggestion
+  **5th** charm, calm emotions, suggestion (at will)
 
   **6th** dominate
 

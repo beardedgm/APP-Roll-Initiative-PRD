@@ -21,6 +21,6 @@
 
 Speed 25 feet
 
-**Melee** bite +7; **Damage** 1d8+2 piercing
+**Melee** ◆ bite +7; **Damage** 1d8+2 piercing
 
 **Rend** ◆ bite

@@ -5,9 +5,11 @@ uncommon, ce, gargantuan, dragon, fire
 
 ---
 
-**Perception** +37
+**Perception** +37; darkvision, scent 60 feet (imprecise), true seeing
 
 **Languages** aklo, draconic, sylvan
+
+**Skills** Acrobatics +35, Athletics +40, Stealth +37
 
 **STR** +11, **DEX** +8, **CON** +9, **INT** -1, **WIS** +8, **CHA** +9
 
@@ -31,15 +33,19 @@ uncommon, ce, gargantuan, dragon, fire
 
 ---
 
-Speed 35 feet, fly 100 feet, swim 60 feet, climb 35 feet
+Speed 35 feet, fly 100 feet, swim 60 feet, climb 35 feet, freedom of movement
 
-**Melee** jaws +40 (reach <30 feet>, magical); **Damage** 4d12+19 piercing plus tor linnorm venom plus tor linnorm venom
+**Melee** ◆ jaws +40 (reach <30 feet>, magical); **Damage** 4d12+19 piercing plus tor linnorm venom plus tor linnorm venom
 
-**Melee** claw +40 (reach <30 feet>, agile, magical); **Damage** 4d8+19 slashing
+**Melee** ◆ claw +40 (reach <30 feet>, agile, magical); **Damage** 4d8+19 slashing
 
-**Melee** tail +40 (reach <30 feet>, agile, magical); **Damage** 4d6+19 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tail +40 (reach <30 feet>, agile, magical); **Damage** 4d6+19 bludgeoning plus Improved Grab plus Improved Grab
 
 **Innate primal Spells** (DC 44)
+
+  **Constant (9th)** freedom of movement
+
+  **Constant (8th)** true seeing
 
 **Breath Weapon** ◆◆ (evocation, fire, primal) The tor linnorm expels a 60-foot cone of flame and ash dealing 20d6 fire damage to creatures within the area (DC 46 basic Reflex save). At the start of the tor linnorm's next turn, the area affected by the breath weapon is covered in thick, scorching smoke that burns both the lungs and eyes, dealing an additional 10d6 fire damage to all creatures in the area (DC 46 basic Reflex save). A creature that spends an entire round in the smoke with open eyes must succeed at a DC 44 Fortitude save or is blinded for 1 minute. The smoke dissipates after 1 minute; in strong winds, the smoke dissipates in 5 rounds, and in more powerful winds, it may clear even more quickly. The tor linnorm can't use Breath Weapon again for 1d4 rounds.
 

@@ -9,6 +9,8 @@ unique, le, medium, human, humanoid
 
 **Languages** goblin, tien, taldane
 
+**Skills** Acrobatics +31, Athletics +29, Deception +30, Intimidation +30, Stealth +31, Thievery +31, Crime Lore +27
+
 **STR** +4, **DEX** +6, **CON** +0, **INT** +2, **WIS** +3, **CHA** +5
 
 **Items** bracers of armor II, +2 greater striking greater corrosive handwraps of mighty blows, potion of undetectability
@@ -27,9 +29,9 @@ unique, le, medium, human, humanoid
 
 Speed 50 feet, climb 35 feet
 
-**Melee** fist +31 (agile, finesse, magical, nonlethal, unarmed); **Damage** 3d6+12 bludgeoning plus 1d6 acid
+**Melee** ◆ fist +31 (agile, finesse, magical, nonlethal, unarmed); **Damage** 3d6+12 bludgeoning plus 1d6 acid
 
-**Melee** lashing branch +31 (agile, finesse, magical, nonlethal, unarmed); **Damage** 3d8+12 slashing plus 1d6 acid
+**Melee** ◆ lashing branch +31 (agile, finesse, magical, nonlethal, unarmed); **Damage** 3d8+12 slashing plus 1d6 acid
 
 **Monk Ki Spells** (DC 38)
 

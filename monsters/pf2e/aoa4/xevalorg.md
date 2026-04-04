@@ -5,9 +5,11 @@ unique, ce, large, aberration
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision
 
 **Languages** aklo, terran, undercommon
+
+**Skills** Acrobatics +23, Athletics +27, Religion +26, Stealth +23, Survival +24
 
 **STR** +8, **DEX** +4, **CON** +5, **INT** +2, **WIS** +7, **CHA** +4
 
@@ -25,17 +27,19 @@ unique, ce, large, aberration
 
 Speed 40 feet, climb 20 feet
 
-**Melee** jaws +27 (reach <15 feet>); **Damage** 3d12+14 piercing
+**Melee** ◆ jaws +27 (reach <15 feet>); **Damage** 3d12+14 piercing
 
-**Melee** claw +27 (agile, reach <15 feet>); **Damage** 3d8+14 slashing
+**Melee** ◆ claw +27 (agile, reach <15 feet>); **Damage** 3d8+14 slashing
 
 **Innate occult Spells** (DC 33), attack +27
+
+  **Constant (4th)** freedom of movement, see invisibility
 
   **2nd** invisibility
 
   **3rd** earthbind, vampiric touch
 
-  **4th** divine wrath, shape stone
+  **4th** divine wrath, shape stone (×3)
 
   **5th** black tentacles, wall of stone
 

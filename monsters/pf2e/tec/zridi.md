@@ -5,13 +5,15 @@ unique, le, medium, div, fiend
 
 ---
 
-**Perception** +16
+**Perception** +16; greater darkvision
 
-**Languages** daemonic, osiriani
+**Languages** daemonic, osiriani; telepathy 100 feet
+
+**Skills** Acrobatics +15, Arcana +14, Deception +21, Diplomacy +21, Intimidation +17, Religion +14, Society +14, Stealth +17
 
 **STR** +3, **DEX** +5, **CON** +3, **INT** +3, **WIS** +4, **CHA** +7
 
-**Items** {@item horn of fog}
+**Items** horn of fog
 
 ---
 
@@ -31,13 +33,13 @@ unique, le, medium, div, fiend
 
 Speed 25 feet, fly 35 feet
 
-**Melee** claw +18 (agile, evil, finesse, magical); **Damage** 2d8+7 slashing plus 1d6 evil and bubonic plague
+**Melee** ◆ claw +18 (agile, evil, finesse, magical); **Damage** 2d8+7 slashing plus 1d6 evil and bubonic plague
 
 **Innate divine Spells** (DC 26)
 
   **Cantrips (4th)** detect magic
 
-  **4th** charm, dimension door, misdirection, outcast's curse, suggestion
+  **4th** charm (at will), dimension door (at will), misdirection (at will), outcast's curse (at will), suggestion (at will)
 
 **Bubonic Plague** (disease)
 

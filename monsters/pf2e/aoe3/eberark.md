@@ -5,9 +5,11 @@ ne, huge, beast, fire
 
 ---
 
-**Perception** +19
+**Perception** +19; low-light vision, scent 30 feet (imprecise)
 
 **Languages** common, ignan
+
+**Skills** Acrobatics +18, Athletics +21, Intimidation +21, Stealth +18, Survival +19
 
 **STR** +7, **DEX** +4, **CON** +5, **INT** +2, **WIS** +3, **CHA** +3
 
@@ -23,11 +25,11 @@ ne, huge, beast, fire
 
 Speed 40 feet
 
-**Melee** jaws +23 (magical, reach <15 feet>); **Damage** 2d10+11 piercing
+**Melee** ◆ jaws +23 (magical, reach <15 feet>); **Damage** 2d10+11 piercing
 
-**Melee** claw +23 (agile, fire, magical, reach <15 feet>); **Damage** 2d6+11 slashing plus 1d4 fire
+**Melee** ◆ claw +23 (agile, fire, magical, reach <15 feet>); **Damage** 2d6+11 slashing plus 1d4 fire
 
-**Melee** spit +21 (agile, range increment <30 feet>); plus incendiary spit
+**Ranged** ◆ spit +21 (agile, range increment <30 feet>); plus incendiary spit
 
 **Arrogant Taunts** ◆ (auditory, emotion, fear, mental) The eberark utters crude insults and growls threateningly. Each creature within 30 feet must attempt a DC 27 Will save. The creature is then temporarily immune for 10 minutes. **Critical Success** The creature is unaffected.
 **Success** The creature is frightened|CRB|frightened 1.

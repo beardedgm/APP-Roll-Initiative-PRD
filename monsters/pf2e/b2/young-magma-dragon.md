@@ -5,9 +5,11 @@ uncommon, cn, large, dragon, elemental, fire
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, scent 60 feet (imprecise)
 
 **Languages** common, draconic, ignan
+
+**Skills** Acrobatics +16, Athletics +19, Deception +14, Intimidation +18, Nature +15, Stealth +16, Survival +18
 
 **STR** +6, **DEX** +1, **CON** +4, **INT** +0, **WIS** +3, **CHA** +3
 
@@ -29,21 +31,21 @@ uncommon, cn, large, dragon, elemental, fire
 
 ---
 
-Speed 30 feet, fly 100 feet, swim 30 feet
+Speed 30 feet, fly 100 feet, swim 30 feet, magma swim
 
-**Melee** jaws +21 (fire, reach <10 feet>); **Damage** 2d10+10 piercing plus 2d6 fire
+**Melee** ◆ jaws +21 (fire, reach <10 feet>); **Damage** 2d10+10 piercing plus 2d6 fire
 
-**Melee** claw +21 (agile); **Damage** 2d10+10 slashing
+**Melee** ◆ claw +21 (agile); **Damage** 2d10+10 slashing
 
-**Melee** tail +19 (reach <15 feet>); **Damage** 2d12+10 bludgeoning
+**Melee** ◆ tail +19 (reach <15 feet>); **Damage** 2d12+10 bludgeoning
 
-**Melee** horns +19 (reach <10 feet>); **Damage** 1d10+10 piercing
+**Melee** ◆ horns +19 (reach <10 feet>); **Damage** 1d10+10 piercing
 
 **Innate primal Spells** (DC 26), attack +18
 
   **Cantrips (4th)** produce flame
 
-  **4th** burning hands
+  **4th** burning hands (at will)
 
 **Breath Weapon** ◆◆ (evocation, fire, primal) The dragon breathes a blast of magma that deals 5d6 fire damage and 3d12 bludgeoning damage in a 30-foot cone (DC 28 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.
 

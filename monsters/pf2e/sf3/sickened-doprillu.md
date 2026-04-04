@@ -5,9 +5,11 @@ ne, medium, aberration
 
 ---
 
-**Perception** +0
+**Perception** +0; darkvision, see invisibility
 
 **Languages** aklo, common, undercommon
+
+**Skills** Acrobatics +24, Athletics +28, Intimidation +20, Stealth +22
 
 **STR** +8, **DEX** +6, **CON** +7, **INT** +1, **WIS** +4, **CHA** +2
 
@@ -33,9 +35,11 @@ ne, medium, aberration
 
 Speed 40 feet, climb 40 feet
 
-**Melee** fist +28 (agile, magical); **Damage** 3d8+16 plus 2d6 fire and Improved Grab
+**Melee** ◆ fist +28 (agile, magical); **Damage** 3d8+16 plus 2d6 fire and Improved Grab
 
 **Innate occult Spells** (DC 26)
+
+  **Constant (6th)** see invisibility
 
 **Body Strike** ◆ **Requirements** The doprillu has a creature grabbed; The doprillu swings the grabbed creature as a weapon. This Strike has a +28 attack modifier and deals 3d8+16 bludgeoning damage. The Strike is magical and has a reach of 10 feet. On a hit, the grabbed creature takes half the damage dealt to the target.
 

@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Crafting +5, Medicine +10, Nature +8
+
 **STR** +0, **DEX** +1, **CON** +1, **INT** +3, **WIS** +3, **CHA** +1
 
 **Medical Wisdom** The apothecary can identify the effect of any alchemical composition or medical ingredient using only their senses. This typically takes 1 minute.
@@ -25,8 +27,8 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** stone pestle +4; **Damage** 1d6 bludgeoning
+**Melee** ◆ stone pestle +4; **Damage** 1d6 bludgeoning
 
-**Melee** fist +5 (agile, nonlethal); **Damage** 1d4 bludgeoning
+**Melee** ◆ fist +5 (agile, nonlethal); **Damage** 1d4 bludgeoning
 
-**Melee** acid flask +5 (range increment <20 feet>, splash); **Damage** 1 acid plus 1d6 persistent acid and 1 splash acid
+**Ranged** ◆ acid flask +5 (range increment <20 feet>, splash); **Damage** 1 acid plus 1d6 persistent acid and 1 splash acid

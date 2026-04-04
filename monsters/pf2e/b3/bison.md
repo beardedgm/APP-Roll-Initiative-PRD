@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +8
+**Perception** +8; scent 60 feet (imprecise)
+
+**Skills** Athletics +14, Survival +10
 
 **STR** +6, **DEX** +3, **CON** +5, **INT** -5, **WIS** +2, **CHA** -1
 
@@ -23,9 +25,9 @@ n, large, animal
 
 Speed 30 feet
 
-**Melee** hoof +12; **Damage** 2d6+6 bludgeoning
+**Melee** ◆ hoof +12; **Damage** 2d6+6 bludgeoning
 
-**Melee** horn +12; **Damage** 2d8+6 piercing plus Knockdown plus Knockdown
+**Melee** ◆ horn +12; **Damage** 2d8+6 piercing plus Knockdown plus Knockdown
 
 **Pointed Charge** ◆◆ The bison surges forward at its foe, horns lowered. It Strides twice. If the bison ends its movement within melee range of an enemy, it makes a horn Strike against that enemy. This Strike gains the fatal <d12> trait.
 

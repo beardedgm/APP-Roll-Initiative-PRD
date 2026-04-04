@@ -5,9 +5,11 @@ uncommon, ce, medium, fey
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision, scent 60 feet (imprecise)
 
 **Languages** common, sylvan
+
+**Skills** Acrobatics +30, Deception +33, Diplomacy +33, Society +28, Stealth +30
 
 **STR** +4, **DEX** +8, **CON** +5, **INT** +6, **WIS** +6, **CHA** +9
 
@@ -32,9 +34,9 @@ uncommon, ce, medium, fey
 
 Speed 40 feet
 
-**Melee** claw +31 (agile, finesse); **Damage** 3d8+18 slashing
+**Melee** ◆ claw +31 (agile, finesse); **Damage** 3d8+18 slashing
 
-**Melee** jaws +31 (finesse); **Damage** 3d12+18 piercing
+**Melee** ◆ jaws +31 (finesse); **Damage** 3d12+18 piercing
 
 **Spontaneous occult Spells** (DC 38), attack +30
 

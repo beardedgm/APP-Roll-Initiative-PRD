@@ -5,9 +5,11 @@ uncommon, cg, medium, amphibious, fey, nymph, water
 
 ---
 
-**Perception** +18
+**Perception** +18; low-light vision, speak with animals
 
 **Languages** common, elven, sylvan
+
+**Skills** Acrobatics +16, Athletics +9, Diplomacy +20, Medicine +15, Nature +15, Performance +20, Stealth +14, Survival +15
 
 **STR** +0, **DEX** +5, **CON** +4, **INT** +3, **WIS** +4, **CHA** +7
 
@@ -33,7 +35,7 @@ uncommon, cg, medium, amphibious, fey, nymph, water
 
 Speed 25 feet, swim 25 feet
 
-**Melee** aqueous fist +17 (agile, finesse, magical, water); **Damage** 2d6+6 bludgeoning
+**Melee** ◆ aqueous fist +17 (agile, finesse, magical, water); **Damage** 2d6+6 bludgeoning
 
 **Prepared primal Spells** (DC 28), attack +18
 
@@ -51,7 +53,7 @@ Speed 25 feet, swim 25 feet
 
   **1st** charm, create water
 
-  **4th** tidal surge
+  **4th** tidal surge (at will)
 
 **Change Shape** ◆ (polymorph, primal, transmutation)
 

@@ -5,9 +5,11 @@ rare, n, huge, beast
 
 ---
 
-**Perception** +31
+**Perception** +31; darkvision, true seeing
 
-**Languages** common, draconic, sphinx
+**Languages** common, draconic, sphinx; tongues
+
+**Skills** Athletics +30, Deception +28, Diplomacy +30, Intimidation +28, Occultism +30, Bardic Lore +32
 
 **STR** +8, **DEX** +5, **CON** +6, **INT** +8, **WIS** +9, **CHA** +6
 
@@ -25,13 +27,15 @@ rare, n, huge, beast
 
 Speed 40 feet, fly 60 feet
 
-**Melee** claw +32 (agile); **Damage** 3d8+16 slashing
+**Melee** ◆ claw +32 (agile); **Damage** 3d8+16 slashing
 
 **Innate occult Spells** (DC 37)
 
+  **Constant (6th)** tongues, true seeing
+
   **Cantrips (8th)** detect magic, read aura
 
-  **8th** clairaudience, clairvoyance, dispel magic, hallucinatory terrain, locate, read omens, remove curse, shape stone, true seeing, ventriloquism
+  **8th** clairaudience (at will), clairvoyance (at will), dispel magic, hallucinatory terrain, locate, read omens (at will), remove curse (at will), shape stone, true seeing, ventriloquism (at will)
 
 **Guardian Monolith** ◆◆ The elder sphinx transforms their body into stone or back to flesh. In stone form, the sphinx is paralyzed but has Hardness 14 and gains immunity to bleed, clumsy, disease, drained, enfeebled, fatigued, negative damage, petrified, poison, sickened, and wounded. They don't age or require food, water, or sleep. They can perceive their surroundings and cast their innate spells. Stone to flesh turns the elder sphinx from stone form back to flesh, and flesh to stone turns it from flesh form to stone form.
 

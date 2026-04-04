@@ -5,13 +5,15 @@ unique, ce, medium, humanoid
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
 
 **Languages** abyssal, undercommon
 
+**Skills** Acrobatics +24, Athletics +23, Religion +27, Stealth +24, Survival +25
+
 **STR** +4, **DEX** +5, **CON** +5, **INT** +2, **WIS** +6, **CHA** +5
 
-**Items** bone symbol of {@deity Lamashtu}, +1 striking wounding falchion, {@item The Lost|SF2}, material component pouch, +1 resilient studded leather armor
+**Items** bone symbol of Lamashtu, +1 striking wounding falchion, The Lost|SF2, material component pouch, +1 resilient studded leather armor
 
 **Light Blindness**
 
@@ -29,9 +31,9 @@ unique, ce, medium, humanoid
 
 Speed 30 feet, climb 20 feet
 
-**Melee** falchion +24 (forceful, magical, sweep); **Damage** 2d10+10 slashing
+**Melee** ◆ falchion +24 (forceful, magical, sweep); **Damage** 2d10+10 slashing
 
-**Melee** jaws +25 (agile); **Damage** 3d4+10 piercing
+**Melee** ◆ jaws +25 (agile); **Damage** 3d4+10 piercing
 
 **Innate divine Spells** (DC 33)
 
@@ -53,7 +55,7 @@ Speed 30 feet, climb 20 feet
 
   **6th** dispel magic, heal, repulsion
 
-  **7th** divine vessel, harm, regenerate
+  **7th** divine vessel, harm (×4), regenerate
 
 **Cleric Domain Spells** (DC 33)
 

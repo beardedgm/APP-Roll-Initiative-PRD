@@ -5,9 +5,11 @@ ne, medium, aberration
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision, {@ability tremorsense} 30 feet (imprecise)
 
-**Languages** aklo
+**Languages** aklo; spider speak
+
+**Skills** Acrobatics +9, Athletics +9, Crafting +8, Stealth +11
 
 **STR** +4, **DEX** +4, **CON** +3, **INT** +1, **WIS** +3, **CHA** -1
 
@@ -27,11 +29,11 @@ ne, medium, aberration
 
 Speed 25 feet, climb 25 feet
 
-**Melee** fangs +11 (poison); **Damage** 1d8+6 piercing plus web lurker venom plus web lurker venom
+**Melee** ◆ fangs +11 (poison); **Damage** 1d8+6 piercing plus web lurker venom plus web lurker venom
 
-**Melee** claw +11 (agile); **Damage** 1d8+6 slashing
+**Melee** ◆ claw +11 (agile); **Damage** 1d8+6 slashing
 
-**Melee** web +11; plus web trap
+**Melee** ◆ web +11; plus web trap
 
 **Web Lurker Venom** (poison)
 

@@ -5,9 +5,11 @@ ln, small, aquatic, elemental, water
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
 **Languages** aquan, common
+
+**Skills** Athletics +15, Diplomacy +12, Occultism +17, Society +17, Stealth +13, Elemental Lore +17
 
 **STR** +4, **DEX** +2, **CON** +0, **INT** +4, **WIS** +3, **CHA** +1
 
@@ -29,10 +31,10 @@ ln, small, aquatic, elemental, water
 
 Speed 25 feet, swim 25 feet
 
-**Melee** tentacle +16 (reach <10 feet>); **Damage** 2d12+6 bludgeoning plus Grab plus Grab
+**Melee** ◆ tentacle +16 (reach <10 feet>); **Damage** 2d12+6 bludgeoning plus Grab plus Grab
 
 **Innate primal Spells** (DC 27), attack +17
 
-  **2nd** hydraulic push
+  **2nd** hydraulic push (at will)
 
 **Constrict** ◆ 1d12+6 bludgeoning, DC 25

@@ -5,9 +5,11 @@ uncommon, ng, medium, celestial
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
-**Languages** common, celestial
+**Languages** common, celestial; telepathy 60 feet
+
+**Skills** Acrobatics +7, Athletics +7, Religion +8, Meteorology Lore +7
 
 **STR** +3, **DEX** +3, **CON** +0, **INT** +1, **WIS** +4, **CHA** +0
 
@@ -31,11 +33,11 @@ uncommon, ng, medium, celestial
 
 Speed fly 25 feet
 
-**Melee** jaws +10 (agile); **Damage** 1d6+5 bludgeoning plus Grab plus Grab
+**Melee** ◆ jaws +10 (agile); **Damage** 1d6+5 bludgeoning plus Grab plus Grab
 
 **Innate divine Spells** (DC 17)
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
 **Inhabit Vessel** ◆◆ (manipulate) The cub touches and melds with its bonded vessel, bringing the statue to life. It can cease Inhabiting its Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, it loses its fly Speed and gains Immunities healing, nonlethal; Resistances physical 3 (except bludgeoning); Speed 20 feet; and the following Strike. - Melee 1 jaws +10 (agile), Damage 1d6+5 bludgeoning plus Grab
 

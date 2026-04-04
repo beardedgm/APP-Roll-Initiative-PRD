@@ -5,13 +5,15 @@ rare, ce, medium, fiend, nindoru|SoG2
 
 ---
 
-**Perception** +16
+**Perception** +16; {@ability darkvision}
 
 **Languages** aklo, common, necril
 
+**Skills** Deception +18, Occultism +15, Society +17, Stealth +18, Survival +16, Thievery +18
+
 **STR** +4, **DEX** +6, **CON** +3, **INT** +3, **WIS** +6, **CHA** +4
 
-**Items** {@condition broken} {@item kusarigama|TV}
+**Items** broken kusarigama|TV
 
 ---
 
@@ -33,9 +35,9 @@ rare, ce, medium, fiend, nindoru|SoG2
 
 Speed 25 feet
 
-**Melee** kusarigama +19 (disarm, magical, monk, reach, trip, versatile <B>); **Damage** 2d8+7 slashing plus 1d6 mental
+**Melee** ◆ kusarigama +19 (disarm, magical, monk, reach, trip, versatile <B>); **Damage** 2d8+7 slashing plus 1d6 mental
 
-**Melee** bite +18 (agile, reach <10 feet>); **Damage** 2d6+7 piercing plus 1d6 mental
+**Melee** ◆ bite +18 (agile, reach <10 feet>); **Damage** 2d6+7 piercing plus 1d6 mental
 
 **Innate occult Spells** (DC 26), attack +18
 

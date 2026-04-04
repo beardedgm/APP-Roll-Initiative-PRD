@@ -5,9 +5,11 @@ ce, medium, humanoid, xulgath
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
 **Languages** draconic, undercommon
+
+**Skills** Acrobatics +22, Athletics +22, Stealth +20
 
 **STR** +4, **DEX** +6, **CON** +7, **INT** -2, **WIS** +1, **CHA** -1
 
@@ -29,10 +31,10 @@ ce, medium, humanoid, xulgath
 
 Speed 40 feet
 
-**Melee** jaws +21; **Damage** 2d6+8 piercing plus 2d6 acid
+**Melee** ◆ jaws +21; **Damage** 2d6+8 piercing plus 2d6 acid
 
-**Melee** claw +23 (agile, finesse); **Damage** 2d8+8 slashing
+**Melee** ◆ claw +23 (agile, finesse); **Damage** 2d8+8 slashing
 
-**Melee** bile jet +23 (acid, range increment <60 feet>); **Damage** 4d8+7 acid
+**Ranged** ◆ bile jet +23 (acid, range increment <60 feet>); **Damage** 4d8+7 acid
 
 **Corrosive Kiss** ◆◆ (acid) **Frequency** {"unit":"round","number":1}; The gutrager propels its esophagus out of its body to deliver an acidic blow. It makes an unarmed Strike against a creature or unattended object within 30 feet with a +23 attack bonus. On a hit, the target takes 2d6+8 bludgeoning plus 4d6 acid damage. On a critical hit, the target also takes 2d6 persistent acid damage. The gutrager is clumsy|CRB|clumsy 1 for 1 round as it re-coils its esophagus.

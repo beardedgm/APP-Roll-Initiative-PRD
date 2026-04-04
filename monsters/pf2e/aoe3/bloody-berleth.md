@@ -5,13 +5,15 @@ unique, ne, medium, human, humanoid, orc
 
 ---
 
-**Perception** +24
+**Perception** +24; low-light vision
 
 **Languages** common, orcish
 
+**Skills** Athletics +22, Deception +22, Diplomacy +18, Intimidation +22, Stealth +17, Gang Lore +18
+
 **STR** +5, **DEX** +2, **CON** +4, **INT** +1, **WIS** +1, **CHA** +3
 
-**Items** +1 chain mail, moderate elixir of life, heavy crossbow (with 4 spellstrike arrows [type III, blindness; {@dc 24}]), greater juggernaut mutagen, ring of lies, +1 striking shovel (same stats as a scythe, but with the versatile B trait), greater smokestick, moderate tanglefoot bag
+**Items** +1 chain mail, moderate elixir of life, heavy crossbow (with 4 spellstrike arrows [type III, blindness; DC 24]), greater juggernaut mutagen, ring of lies, +1 striking shovel (same stats as a scythe, but with the versatile B trait), greater smokestick, moderate tanglefoot bag
 
 ---
 
@@ -25,9 +27,9 @@ unique, ne, medium, human, humanoid, orc
 
 Speed 20 feet
 
-**Melee** shovel +24 (deadly <1d10>, magical, trip, versatile <B>); **Damage** 2d10+11 slashing
+**Melee** ◆ shovel +24 (deadly <1d10>, magical, trip, versatile <B>); **Damage** 2d10+11 slashing
 
-**Melee** heavy crossbow +19 (range increment <120 feet>, reload <2>); **Damage** 1d10 piercing
+**Ranged** ◆ heavy crossbow +19 (range increment <120 feet>, reload <2>); **Damage** 1d10 piercing
 
 **Concussive Beatdown** ◆ **Requirements** Berleth has just used his shovel to Trip a creature; Berleth brutally brings his shovel down on the prone foe, making a shovel Strike. On a hit, the Strike deals damage as normal, plus the target must make a DC 30 Fortitude save. **Critical Success** The creature is unaffected.
 **Success** The creature is stunned|CRB|stunned 1.

@@ -5,7 +5,9 @@ ce, gargantuan, aquatic, darvakka, shadow, undead
 
 ---
 
-**Perception** +36
+**Perception** +36; greater darkvision, lifesense 60 feet
+
+**Skills** Arcana +36, Athletics +39, Negative Energy Plane Lore +36, Religion +36, Shadow Plane Lore +36, Stealth +34
 
 **STR** +11, **DEX** +6, **CON** +7, **INT** +8, **WIS** +8, **CHA** +7
 
@@ -31,9 +33,9 @@ ce, gargantuan, aquatic, darvakka, shadow, undead
 
 Speed fly 60 feet, swim 80 feet
 
-**Melee** jaws +39 (magical, reach <15 feet>); **Damage** 3d10+19 piercing plus 2d10 cold and Improved Grab
+**Melee** ◆ jaws +39 (magical, reach <15 feet>); **Damage** 3d10+19 piercing plus 2d10 cold and Improved Grab
 
-**Melee** tail +39 (agile, magical, reach <20 feet>); **Damage** 3d6+19 bludgeoning plus 2d10 cold
+**Melee** ◆ tail +39 (agile, magical, reach <20 feet>); **Damage** 3d6+19 bludgeoning plus 2d10 cold
 
 **Innate divine Spells** (DC 43)
 
@@ -41,7 +43,7 @@ Speed fly 60 feet, swim 80 feet
 
   **7th** plane shift, true seeing
 
-  **8th** eclipse burst, harm
+  **8th** eclipse burst (×3), harm (×3)
 
 **Broken Barb** ◆ **Requirements** A creature is grabbed or restrained in the nasurgeth's jaws; The nasurgeth breaks a tooth off in the target, who takes 3d10 persistent bleed damage and is no longer grabbed or restrained. If the target is adjacent to a surface, the tooth also pins it in place, making it immobilized (Escape DC 45).
 

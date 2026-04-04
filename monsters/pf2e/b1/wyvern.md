@@ -5,9 +5,11 @@ ne, large, dragon
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision, scent 30 feet (imprecise)
 
 **Languages** draconic
+
+**Skills** Acrobatics +14, Athletics +15, Stealth +12
 
 **STR** +5, **DEX** +2, **CON** +4, **INT** -2, **WIS** +3, **CHA** +0
 
@@ -29,11 +31,11 @@ ne, large, dragon
 
 Speed 20 feet, fly 60 feet
 
-**Melee** fangs +17; **Damage** 2d12+5 piercing
+**Melee** ◆ fangs +17; **Damage** 2d12+5 piercing
 
-**Melee** claw +17; **Damage** 2d8+5 slashing plus Grab plus Grab
+**Melee** ◆ claw +17; **Damage** 2d8+5 slashing plus Grab plus Grab
 
-**Melee** stinger +15 (agile, reach <10 feet>); **Damage** 2d6+5 piercing plus wyvern venom plus wyvern venom
+**Melee** ◆ stinger +15 (agile, reach <10 feet>); **Damage** 2d6+5 piercing plus wyvern venom plus wyvern venom
 
 **Powerful Dive** ◆◆ (move) The wyvern Flies up to its fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If it ends the movement within melee reach of at least one enemy its size or smaller, it can make a claw Strike against that enemy. If the claw hits, as a free action the wyvern can either automatically Grab the target or knock it prone.
 

@@ -5,7 +5,9 @@ rare, n, huge, construct, mindless
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision
+
+**Skills** Athletics +35
 
 **STR** +9, **DEX** +7, **CON** +9, **INT** -5, **WIS** +5, **CHA** -5
 
@@ -29,7 +31,7 @@ rare, n, huge, construct, mindless
 
 Speed 30 feet
 
-**Melee** fist +35 (deadly <3d12>, magical, reach <15 feet>); **Damage** 5d10+12 bludgeoning plus dragonstorm strike plus dragonstorm strike
+**Melee** ◆ fist +35 (deadly <3d12>, magical, reach <15 feet>); **Damage** 5d10+12 bludgeoning plus dragonstorm strike plus dragonstorm strike
 
 **Channel Dragonstorm** ◆◆ (divine) The animated dragonstorm directs a 30-foot cone of dragonstorm energy. This deals 3d8 acid, 3d8 cold, 3d8 electricity, 3d8 fire, and 3d8 poison damage to creatures in the cone (DC 40 basic Reflex save). The animated dragonstorm can't use Channel Dragonstorm again for 1d4 rounds.
 

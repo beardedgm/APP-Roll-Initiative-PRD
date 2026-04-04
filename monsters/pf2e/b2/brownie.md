@@ -5,9 +5,11 @@ n, tiny, fey
 
 ---
 
-**Perception** +7
+**Perception** +7; low-light vision
 
 **Languages** common, elven, gnomish, sylvan
+
+**Skills** Acrobatics +7, Crafting +5, Deception +6, Stealth +9
 
 **STR** -2, **DEX** +4, **CON** +1, **INT** +2, **WIS** +4, **CHA** +3
 
@@ -25,7 +27,7 @@ n, tiny, fey
 
 Speed 20 feet
 
-**Melee** shortsword +7 (agile, finesse); **Damage** 1d6 plus 1d6
+**Melee** ◆ shortsword +7 (agile, finesse); **Damage** 1d6 plus 1d6
 
 **Innate primal Spells** (DC 17)
 

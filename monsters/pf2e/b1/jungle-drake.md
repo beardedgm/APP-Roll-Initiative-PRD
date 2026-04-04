@@ -5,9 +5,11 @@ ne, large, dragon, earth
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision, scent 30 feet (imprecise)
 
 **Languages** draconic
+
+**Skills** Acrobatics +15, Athletics +13, Stealth +13, Survival +11
 
 **STR** +5, **DEX** +3, **CON** +4, **INT** -1, **WIS** +1, **CHA** +1
 
@@ -25,11 +27,11 @@ ne, large, dragon, earth
 
 ---
 
-Speed 20 feet, fly 50 feet
+Speed 20 feet, fly 50 feet, woodland stride
 
-**Melee** fangs +17; **Damage** 2d10+7 piercing plus predatory grab plus predatory grab
+**Melee** ◆ fangs +17; **Damage** 2d10+7 piercing plus predatory grab plus predatory grab
 
-**Melee** stinger +17 (reach <10 feet>); **Damage** 2d6+7 piercing plus jungle drake venom plus jungle drake venom
+**Melee** ◆ stinger +17 (reach <10 feet>); **Damage** 2d6+7 piercing plus jungle drake venom plus jungle drake venom
 
 **Draconic Frenzy** ◆◆ The jungle drake makes one fangs Strike and two stinger Strikes in any order.
 

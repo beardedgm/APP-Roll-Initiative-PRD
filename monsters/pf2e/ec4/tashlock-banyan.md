@@ -9,6 +9,8 @@ unique, n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +23, Athletics +19, Deception +19, Diplomacy +17, Intimidation +19, Society +16, Stealth +23, Survival +16, Thievery +21
+
 **STR** +3, **DEX** +5, **CON** +0, **INT** +2, **WIS** +2, **CHA** +3
 
 **Items** chalk, +1 striking composite shortbow (20 arrows), lesser darkvision elixir, invisibility potion, +1 resilient leather armor, +1 rapier
@@ -31,9 +33,9 @@ unique, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** rapier +24 (deadly <1d8>, disarm, finesse, magical); **Damage** 1d6+11 piercing
+**Melee** ◆ rapier +24 (deadly <1d8>, disarm, finesse, magical); **Damage** 1d6+11 piercing
 
-**Melee** composite shortbow +26 (deadly <2d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 2d6+11 piercing
+**Ranged** ◆ composite shortbow +26 (deadly <2d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 2d6+11 piercing
 
 **Pierced Tendon** When Tashlock deals damage to a target on a critical hit, the target is slowed|CRB|slowed 2 until the end of Tashlock's next turn.
 

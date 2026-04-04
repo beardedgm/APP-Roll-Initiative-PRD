@@ -5,9 +5,11 @@ unique, le, medium, duergar, dwarf, humanoid
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
 
 **Languages** common, dwarven, undercommon
+
+**Skills** Athletics +11, Crafting +8, Intimidation +12, Occultism +10, Performance +12, Survival +8
 
 **STR** +3, **DEX** +0, **CON** +4, **INT** +2, **WIS** +0, **CHA** +2
 
@@ -29,9 +31,9 @@ unique, le, medium, duergar, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** drumstick +13 (agile); **Damage** 2d6+3 bludgeoning
+**Melee** ◆ drumstick +13 (agile); **Damage** 2d6+3 bludgeoning
 
-**Melee** drumstick +10 (agile, thrown <20 feet>); **Damage** 2d6+3 bludgeoning
+**Ranged** ◆ drumstick +10 (agile, thrown <20 feet>); **Damage** 2d6+3 bludgeoning
 
 **Spontaneous occult Spells** (DC 21), attack +13
 

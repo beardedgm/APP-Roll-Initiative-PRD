@@ -5,7 +5,9 @@ ce, large, fey, swarm
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
+
+**Skills** Acrobatics +10, Stealth +10, Thievery +12
 
 **STR** -2, **DEX** +3, **CON** +0, **INT** -1, **WIS** +2, **CHA** +2
 

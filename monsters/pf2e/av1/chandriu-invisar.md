@@ -5,9 +5,11 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** common, elven, undercommon
+
+**Skills** Society +16, Stealth +15, Scriptorium Lore +18
 
 **STR** -5, **DEX** +5, **CON** +0, **INT** +4, **WIS** +3, **CHA** +2
 
@@ -27,6 +29,6 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ghostly hand +16 (agile, finesse, magical); **Damage** 3d8+4 negative
+**Melee** ◆ ghostly hand +16 (agile, finesse, magical); **Damage** 3d8+4 negative
 
 **Despairing Cry** ◆◆ (auditory, divine, emotion, enchantment, mental) Chandriu wails in despair at her loss and betrayal, forcing each living creature within 30 feet to attempt a DC 24 Will save. On a failure, a creature becomes slowed|CRB|slowed 1 (slowed|CRB|slowed 2 on a critical failure) for 1 round as they are overcome with sadness over their own missed opportunities. On a success, a creature is temporarily immune to Chandriu's Despairing Cry for 1 minute.

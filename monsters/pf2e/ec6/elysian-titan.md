@@ -5,9 +5,11 @@ rare, cg, gargantuan, humanoid, titan
 
 ---
 
-**Perception** +36
+**Perception** +36; darkvision, true seeing
 
-**Languages** abyssal, celestial, common
+**Languages** abyssal, celestial, common; telepathy 100 feet
+
+**Skills** Acrobatics +36, Athletics +43, Crafting +37, Diplomacy +37, Religion +37, Survival +37
 
 **STR** +10, **DEX** +7, **CON** +8, **INT** +6, **WIS** +8, **CHA** +6
 
@@ -27,23 +29,25 @@ rare, cg, gargantuan, humanoid, titan
 
 ---
 
-Speed 40 feet
+Speed 40 feet, air walk
 
-**Melee** greatpick +41 (fatal <d12>, magical, reach <30 feet>); **Damage** 4d10+20 piercing
+**Melee** ◆ greatpick +41 (fatal <d12>, magical, reach <30 feet>); **Damage** 4d10+20 piercing
 
-**Melee** fist +38 (agile, reach <30 feet>); **Damage** 4d8+20 bludgeoning
+**Melee** ◆ fist +38 (agile, reach <30 feet>); **Damage** 4d8+20 bludgeoning
 
-**Melee** rock +38 (brutal, range increment <200 feet>); **Damage** 3d12+20 bludgeoning
+**Ranged** ◆ rock +38 (brutal, range increment <200 feet>); **Damage** 3d12+20 bludgeoning
 
 **Innate divine Spells** (DC 44)
 
-  **5th** sending
+  **Constant (10th)** air
 
-  **6th** scrying
+  **5th** sending (×3)
 
-  **7th** plane shift
+  **6th** scrying (×3)
 
-  **8th** dispel magic, freedom of movement
+  **7th** plane shift (at will)
+
+  **8th** dispel magic (at will), freedom of movement (at will)
 
   **10th** meteor swarm, revival
 

@@ -5,7 +5,9 @@ uncommon, ne, medium, undead, vampire
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision, thoughtsense 100 feet (precise)
+
+**Skills** Athletics +22, Deception +24, Diplomacy +24, Intimidation +22, Occultism +23, Society +23
 
 **STR** +4, **DEX** +4, **CON** +4, **INT** +6, **WIS** +7, **CHA** +7
 
@@ -19,7 +21,7 @@ uncommon, ne, medium, undead, vampire
 
 **Immunities** death effects, disease, paralyzed, poison, sleep
 
-**Resistances** mental 10, physical 10
+**Resistances** mental 10, physical 10 (except magical cold iron)
 
 **Weaknesses** vetalarana vulnerabilities
 
@@ -29,17 +31,19 @@ uncommon, ne, medium, undead, vampire
 
 Speed 25 feet, climb 25 feet
 
-**Melee** claw +21 (agile, finesse, magic); **Damage** 3d8+10 slashing plus
+**Melee** ◆ claw +21 (agile, finesse, magic); **Damage** 3d8+10 slashing plus
 
 **Innate occult Spells** (DC 30)
+
+  **Constant (5th)** tongues
 
 **Prepared occult Spells** (DC 30), attack +22
 
   **Cantrips (6th)** daze, mage hand, read aura, sigil, telekinetic projectile
 
-  **1st** bane, command, unseen servant
+  **1st** bane, command (×2), unseen servant
 
-  **2nd** blur, darkness, telekinetic maneuver
+  **2nd** blur, darkness, telekinetic maneuver (×2)
 
   **3rd** false life, hypercognition, mind reading, paralyze
 
@@ -47,7 +51,7 @@ Speed 25 feet, climb 25 feet
 
   **5th** command, mind probe, subconscious suggestion, synaptic pulse
 
-  **6th** dominate, shadow blast
+  **6th** dominate (×2), shadow blast
 
 **Grab**
 

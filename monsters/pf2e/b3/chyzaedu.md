@@ -5,9 +5,11 @@ rare, ce, gargantuan, aberration
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, {@ability tremorsense} 60 feet (imprecise)
 
-**Languages** abyssal, aklo, common, draconic, protean, undercommon
+**Languages** abyssal, aklo, common, draconic, protean, undercommon; telepathy 100 feet
+
+**Skills** Athletics +21, Diplomacy +17, Intimidation +19, Occultism +22, Religion +21, Survival +19
 
 **STR** +7, **DEX** +3, **CON** +4, **INT** +2, **WIS** +7, **CHA** +3
 
@@ -32,9 +34,9 @@ rare, ce, gargantuan, aberration
 
 Speed 25 feet, burrow 20 feet, climb 20 feet
 
-**Melee** jaws +21; **Damage** 2d12+9 piercing plus Grab plus Grab
+**Melee** ◆ jaws +21; **Damage** 2d12+9 piercing plus Grab plus Grab
 
-**Melee** claw +21 (agile); **Damage** 2d8+9 slashing
+**Melee** ◆ claw +21 (agile); **Damage** 2d8+9 slashing
 
 **Prepared divine Spells** (DC 29), attack +21
 
@@ -48,6 +50,6 @@ Speed 25 feet, burrow 20 feet, climb 20 feet
 
   **4th** air walk, dimensional anchor, heal
 
-  **5th** command, harm, sending
+  **5th** command, harm (×4), sending
 
 **Swallow Whole** ◆ Medium, 3d8+7 bludgeoning, Rupture 26

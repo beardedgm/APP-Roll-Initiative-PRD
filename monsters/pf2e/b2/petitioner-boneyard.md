@@ -23,4 +23,4 @@
 
 Speed 25 feet
 
-**Melee** claw +7; **Damage** 1d8+2 slashing
+**Melee** ◆ claw +7; **Damage** 1d8+2 slashing

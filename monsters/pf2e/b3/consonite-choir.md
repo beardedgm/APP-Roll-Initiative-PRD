@@ -5,9 +5,11 @@ uncommon, n, gargantuan, earth, elemental, swarm
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision, echolocation 120 feet (precise)
 
 **Languages** terran
+
+**Skills** Acrobatics +24, Performance +27
 
 **STR** +0, **DEX** +5, **CON** +8, **INT** -2, **WIS** +2, **CHA** +6
 
@@ -33,6 +35,6 @@ uncommon, n, gargantuan, earth, elemental, swarm
 
 Speed 10 feet, fly 40 feet
 
-**Melee** launched blade +26 (magical, range <120 feet>, sonic); **Damage** 6d6 piercing plus 2d6 sonic
+**Ranged** ◆ launched blade +26 (magical, range <120 feet>, sonic); **Damage** 6d6 piercing plus 2d6 sonic
 
 **Swarming Chimes** ◆ The swarm deals 4d6 slashing damage plus 2d6 sonic damage to each enemy in the swarm's space (DC 33 basic Reflex save). On a critical failure, the enemy is also deafened for 1 minute.

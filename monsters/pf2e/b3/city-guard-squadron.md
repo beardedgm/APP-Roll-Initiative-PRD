@@ -9,6 +9,8 @@ ln, gargantuan, human, humanoid, troop
 
 **Languages** common
 
+**Skills** Athletics +14, Intimidation +11, Settlement Lore +9
+
 **STR** +5, **DEX** +0, **CON** +3, **INT** +0, **WIS** +2, **CHA** +2
 
 **Seek Quarry** City guards can spend 1 minute to designate a single creature for whom they have a physical description as their quarry. They gain a +2 circumstance bonus to Perception against their quarry.
@@ -27,7 +29,7 @@ ln, gargantuan, human, humanoid, troop
 
 ---
 
-Speed 25 feet
+Speed 25 feet, troop movement
 
 **Fire Crossbows!** ◆◆ The city guards draw or reload their crossbows, then launch a ranged attack in the form of a volley. This volley is a 10-foot burst within 120 feet that deals 3d8 piercing damage (DC 19 basic Reflex save). When the city guards are reduced to 8 or fewer squares, this area decreases to a 5-foot burst.
 

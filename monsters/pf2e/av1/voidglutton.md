@@ -5,9 +5,11 @@ rare, ce, medium, aberration, air
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
 **Languages** aklo, common
+
+**Skills** Acrobatics +18, Deception +15, Intimidation +15, Occultism +18, Stealth +18
 
 **STR** +0, **DEX** +6, **CON** +3, **INT** +6, **WIS** +4, **CHA** +3
 
@@ -29,13 +31,13 @@ rare, ce, medium, aberration, air
 
 Speed fly 40 feet
 
-**Melee** claw +20 (agile, finesse); **Damage** 1d6+2 piercing plus 4d6 force and fearful strike plus fearful strike
+**Melee** ◆ claw +20 (agile, finesse); **Damage** 1d6+2 piercing plus 4d6 force and fearful strike plus fearful strike
 
-**Melee** ectoplasmic web +20 (range increment <10 feet>); plus ectoplasmic web trap
+**Ranged** ◆ ectoplasmic web +20 (range increment <10 feet>); plus ectoplasmic web trap
 
 **Innate occult Spells** (DC 26)
 
-  **4th** darkness
+  **4th** darkness (at will)
 
 **Consume Light** ◇ (darkness, evocation, occult) **Trigger** The voidglutton casts darkness; The voidglutton extinguishes its Glow as part of Casting the Spell. It becomes invisible as long as it remains in the area of darkness. If the voidglutton uses a hostile action, its invisibility ends as soon as the hostile action is completed.
 

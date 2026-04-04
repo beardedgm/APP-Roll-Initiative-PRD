@@ -9,6 +9,8 @@ uncommon, ne, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +17, Athletics +20, Intimidation +16, Stealth +17, Survival +17
+
 **STR** +3, **DEX** +2, **CON** +4, **INT** +0, **WIS** +2, **CHA** +3
 
 **Items** steel-colored bird feather token, +1 chainmail, +1 composite longbow (20 arrows), +1 striking longsword, signal whistle, steel shield (Hardness 5, 20 HP, BT 10)
@@ -31,9 +33,9 @@ uncommon, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** longsword +19 (magical, versatile <P>); **Damage** 2d8+9 slashing
+**Melee** ◆ longsword +19 (magical, versatile <P>); **Damage** 2d8+9 slashing
 
-**Melee** longbow +18 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley 30 feet); **Damage** 2d8+9 piercing
+**Ranged** ◆ longbow +18 (deadly <d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley 30 feet); **Damage** 2d8+9 piercing
 
 **Cat Fall** The mercenary treats falls as 25 feet shorter.
 

@@ -5,9 +5,11 @@ rare, ne, medium, undead
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** common
+
+**Skills** Athletics +25, Intimidation +24, Occultism +17, Stealth +22
 
 **STR** +7, **DEX** +4, **CON** +6, **INT** -1, **WIS** +6, **CHA** +4
 
@@ -29,15 +31,15 @@ rare, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** ranseur +26 (disarm, magical, reach); **Damage** 2d10+13 piercing plus drain life plus drain life
+**Melee** ◆ ranseur +26 (disarm, magical, reach); **Damage** 2d10+13 piercing plus drain life plus drain life
 
-**Melee** claw +25; **Damage** 3d6+13 bludgeoning plus drain life plus drain life
+**Melee** ◆ claw +25; **Damage** 3d6+13 bludgeoning plus drain life plus drain life
 
 **Innate divine Spells** (DC 29)
 
   **Cantrips (6th)** daze, shield
 
-  **3rd** paralyze
+  **3rd** paralyze (at will)
 
   **5th** confusion, downpour
 

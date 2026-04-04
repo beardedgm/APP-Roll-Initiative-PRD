@@ -5,7 +5,9 @@ rare, large, elemental, mutant, plant, swarm, wood
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, tremorsense 60 feet (imprecise)
+
+**Skills** Athletics +22
 
 **STR** +6, **DEX** +5, **CON** +6, **INT** -4, **WIS** +2, **CHA** -1
 
@@ -19,7 +21,7 @@ rare, large, elemental, mutant, plant, swarm, wood
 
 **Immunities** acid, poison, precision, swarm mind
 
-**Resistances** bludgeoning 10, piercing 10, slashing 7
+**Resistances** bludgeoning 10, piercing 10, slashing 7 (except axes)
 
 **Weaknesses** area damage 7, axes 10, fire 10, splash damage 7
 

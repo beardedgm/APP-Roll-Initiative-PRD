@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +9
+**Perception** +9; blood scent, scent 60 feet (imprecise)
+
+**Skills** Athletics +8, Stealth +5
 
 **STR** +5, **DEX** +3, **CON** +3, **INT** -5, **WIS** +1, **CHA** -5
 
@@ -23,7 +25,7 @@ n, large, animal
 
 Speed 10 feet, fly 40 feet
 
-**Melee** proboscis +11; **Damage** 1d6+5 piercing plus sleeping sickness plus sleeping sickness
+**Melee** ◆ proboscis +11; **Damage** 1d6+5 piercing plus sleeping sickness plus sleeping sickness
 
 **Blood Draw** ◆ If the fly's last action was a successful proboscis Strike, it sucks its target's blood. The target takes 1d4 bleed damage (or 1d6 bleed damage if the target is an animal).
 

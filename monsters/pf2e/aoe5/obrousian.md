@@ -5,9 +5,11 @@ uncommon, ne, medium, undead
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision
 
 **Languages** aquan, common, necril
+
+**Skills** Athletics +26, Deception +27, Intimidation +25, Nature +24, Stealth +26
 
 **STR** +6, **DEX** +4, **CON** +3, **INT** +0, **WIS** +4, **CHA** +7
 
@@ -27,13 +29,13 @@ uncommon, ne, medium, undead
 
 Speed 5 feet, swim 30 feet
 
-**Melee** claw +29 (agile, magical); **Damage** 3d8+12 slashing plus Grab plus Grab
+**Melee** ◆ claw +29 (agile, magical); **Damage** 3d8+12 slashing plus Grab plus Grab
 
 **Innate divine Spells** (DC 34)
 
-  **3rd** enthrall
+  **3rd** enthrall (at will)
 
-  **7th** warp mind
+  **7th** warp mind (×3)
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The obrousian can take on the appearance of any Small or Medium humanoid. This increases their Speed to 25 feet. It doesn't change their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).
 

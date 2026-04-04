@@ -5,9 +5,11 @@ rare, cn, medium, fey
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision
 
 **Languages** common, sylvan
+
+**Skills** Acrobatics +21, Athletics +19, Nature +25, Survival +25, Forest Lore +22
 
 **STR** +3, **DEX** +5, **CON** +4, **INT** +4, **WIS** +5, **CHA** +7
 
@@ -31,11 +33,11 @@ rare, cn, medium, fey
 
 ---
 
-Speed 25 feet
+Speed 25 feet, forest jaunt
 
-**Melee** claw +23 (magical); **Damage** 3d8+6 piercing
+**Melee** ◆ claw +23 (magical); **Damage** 3d8+6 piercing
 
-**Melee** rock +25 (range increment <30 feet>); **Damage** 2d8+6 bludgeoning
+**Ranged** ◆ rock +25 (range increment <30 feet>); **Damage** 2d8+6 bludgeoning
 
 **Innate primal Spells** (DC 33)
 
@@ -43,7 +45,7 @@ Speed 25 feet
 
   **2nd** pass without trace
 
-  **3rd** blindness, wanderer's guide
+  **3rd** blindness (×3), wanderer's guide
 
 **Flail** ◆ The bugul noz swings its limbs about wildly. It makes up to three claw Strikes, each against a different creature and each with a –2 circumstance penalty. Its multiple attack penalty doesn't increase until after it makes all the attacks.
 

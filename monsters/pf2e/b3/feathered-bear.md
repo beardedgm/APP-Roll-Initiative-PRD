@@ -5,9 +5,11 @@ n, large, beast, incorporeal, spirit
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, scent 60 feet (imprecise)
 
-**Languages** common, sylvan
+**Languages** common, sylvan; tongues
+
+**Skills** Athletics +23, Intimidation +20, Survival +16
 
 **STR** +7, **DEX** +2, **CON** +5, **INT** +0, **WIS** +2, **CHA** +3
 
@@ -29,9 +31,9 @@ n, large, beast, incorporeal, spirit
 
 Speed 35 feet
 
-**Melee** jaws +21 (magical); **Damage** 3d10+9 force
+**Melee** ◆ jaws +21 (magical); **Damage** 3d10+9 force
 
-**Melee** claw +21 (agile, magical); **Damage** 3d6+9 force plus Grab plus Grab
+**Melee** ◆ claw +21 (agile, magical); **Damage** 3d6+9 force plus Grab plus Grab
 
 **Innate primal Spells** (DC 27)
 

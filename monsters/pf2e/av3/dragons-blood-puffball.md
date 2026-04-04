@@ -5,7 +5,9 @@ uncommon, n, large, fungus, mindless
 
 ---
 
-**Perception** +12
+**Perception** +12; motion sense 60 feet, no vision
+
+**Skills** Stealth +14
 
 **STR** +6, **DEX** +1, **CON** +4, **INT** -5, **WIS** +0, **CHA** -2
 
@@ -29,6 +31,6 @@ uncommon, n, large, fungus, mindless
 
 Speed 10 feet
 
-**Melee** bloom +18; **Damage** 2d10+8 bludgeoning plus 1d6 poison
+**Ranged** ◆ bloom +18; **Damage** 2d10+8 bludgeoning plus 1d6 poison
 
-**Melee** spore jet +18 (range increment <30 feet>); **Damage** 3d8 poison
+**Ranged** ◆ spore jet +18 (range increment <30 feet>); **Damage** 3d8 poison

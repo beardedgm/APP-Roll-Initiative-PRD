@@ -5,9 +5,11 @@ le, large, devil, fiend
 
 ---
 
-**Perception** +26
+**Perception** +26; greater darkvision
 
-**Languages** celestial, common, draconic, infernal
+**Languages** celestial, common, draconic, infernal; telepathy 100 feet
+
+**Skills** Acrobatics +22, Athletics +23, Deception +25, Diplomacy +25, Intimidation +23, Religion +26, Society +25, Stealth +22, Warfare Lore +30
 
 **STR** +6, **DEX** +5, **CON** +5, **INT** +8, **WIS** +5, **CHA** +4
 
@@ -23,7 +25,7 @@ le, large, devil, fiend
 
 **Immunities** cold, fire
 
-**Resistances** physical 10, poison 10
+**Resistances** physical 10 (except silver), poison 10
 
 **Weaknesses** good 10
 
@@ -35,20 +37,22 @@ le, large, devil, fiend
 
 Speed 35 feet, fly 35 feet
 
-**Melee** frost longspear +28 (cold, evil, magical, reach <15 feet>); **Damage** 2d8+12 piercing plus 1d6 cold, 1d6 evil, and slowing frost plus slowing frost
+**Melee** ◆ frost longspear +28 (cold, evil, magical, reach <15 feet>); **Damage** 2d8+12 piercing plus 1d6 cold, 1d6 evil, and slowing frost plus slowing frost
 
-**Melee** tail +25 (agile, cold, evil, magical, reach <10 feet>); **Damage** 2d6+12 bludgeoning plus 2d6 cold, 1d6 evil, and slowing frost plus slowing frost
+**Melee** ◆ tail +25 (agile, cold, evil, magical, reach <10 feet>); **Damage** 2d6+12 bludgeoning plus 2d6 cold, 1d6 evil, and slowing frost plus slowing frost
 
-**Melee** frost longspear +27 (cold, magical, thrown <20 feet>); **Damage** 2d8+12 piercing plus 1d6 cold
+**Ranged** ◆ frost longspear +27 (cold, magical, thrown <20 feet>); **Damage** 2d8+12 piercing plus 1d6 cold
 
 **Innate divine Spells** (DC 33)
 
+  **Constant (4th)** fly
+
   **Cantrips (7th)** ray of frost
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
-  **5th** dimension door, wall of ice
+  **5th** dimension door, wall of ice (×3)
 
   **6th** illusory scene
 
-  **7th** cone of cold
+  **7th** cone of cold (×2)

@@ -5,7 +5,9 @@ ne, huge, mindless, undead, zombie
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
+
+**Skills** Athletics +24
 
 **STR** +7, **DEX** +0, **CON** +5, **INT** -5, **WIS** +2, **CHA** -3
 
@@ -33,11 +35,11 @@ ne, huge, mindless, undead, zombie
 
 Speed 45 feet
 
-**Melee** tusk +24 (reach <15 feet>); **Damage** 3d10+13 piercing
+**Melee** ◆ tusk +24 (reach <15 feet>); **Damage** 3d10+13 piercing
 
-**Melee** trunk +24 (reach <15 feet>); **Damage** 2d10+7 bludgeoning plus
+**Melee** ◆ trunk +24 (reach <15 feet>); **Damage** 2d10+7 bludgeoning plus
 
-**Melee** foot +24 (reach <10 feet>); **Damage** 2d10+13 bludgeoning
+**Melee** ◆ foot +24 (reach <10 feet>); **Damage** 2d10+13 bludgeoning
 
 **Improved Grab**
 

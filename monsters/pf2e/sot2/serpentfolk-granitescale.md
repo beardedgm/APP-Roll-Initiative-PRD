@@ -5,9 +5,11 @@ uncommon, ne, medium, humanoid, mutant, serpentfolk
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision, scent 30 feet (imprecise)
 
-**Languages** aklo, common, undercommon
+**Languages** aklo, common, undercommon; telepathy 100 feet
+
+**Skills** Acrobatics +13, Athletics +15, Intimidation +13
 
 **STR** +5, **DEX** +4, **CON** +4, **INT** -2, **WIS** +1, **CHA** +1
 
@@ -31,11 +33,11 @@ uncommon, ne, medium, humanoid, mutant, serpentfolk
 
 Speed 25 feet
 
-**Melee** longspear +17 (reach); **Damage** 2d8+6 piercing
+**Melee** ◆ longspear +17 (reach); **Damage** 2d8+6 piercing
 
-**Melee** fangs +17; **Damage** 2d8+6 piercing plus serpentfolk venom plus serpentfolk venom
+**Melee** ◆ fangs +17; **Damage** 2d8+6 piercing plus serpentfolk venom plus serpentfolk venom
 
-**Melee** javelin +16 (range increment <30 feet>); **Damage** 2d6+4 piercing
+**Ranged** ◆ javelin +16 (range increment <30 feet>); **Damage** 2d6+4 piercing
 
 **Rattling Spear** ◆ (auditory, emotion, mental) **Requirements** The granitescale's last action was a successful spear Strike; The granitescale rattles the base of their spear, attempting an Intimidation check to Demoralize all enemies within 30 feet (compare the granitescale's Intimidation check result to the targets' Will DCs individually).
 

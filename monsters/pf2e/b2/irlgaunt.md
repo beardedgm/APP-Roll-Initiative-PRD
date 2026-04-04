@@ -5,9 +5,11 @@ ne, large, aberration, earth
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision
 
 **Languages** aklo, common, jotun, terran
+
+**Skills** Acrobatics +25, Athletics +26, Deception +23, Stealth +27, Survival +22
 
 **STR** +7, **DEX** +8, **CON** +5, **INT** +4, **WIS** +5, **CHA** +4
 
@@ -23,15 +25,15 @@ ne, large, aberration, earth
 
 ---
 
-Speed 30 feet, climb 30 feet
+Speed 30 feet, climb 30 feet, stone step
 
-**Melee** jaws +26; **Damage** 3d8+13 piercing plus 2d6 acid
+**Melee** ◆ jaws +26; **Damage** 3d8+13 piercing plus 2d6 acid
 
-**Melee** legs +26 (agile); **Damage** 3d10+13 bludgeoning
+**Melee** ◆ legs +26 (agile); **Damage** 3d10+13 bludgeoning
 
 **Innate primal Spells** (DC 31)
 
-  **4th** meld into stone, shape stone
+  **4th** meld into stone (at will), shape stone (at will)
 
   **6th** stone tell
 

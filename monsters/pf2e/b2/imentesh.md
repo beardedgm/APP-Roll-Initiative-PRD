@@ -5,9 +5,11 @@ cn, large, monitor, protean
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision, entropy sense 60 feet (imprecise)
 
-**Languages** abyssal, celestial, protean
+**Languages** abyssal, celestial, protean; tongues
+
+**Skills** Acrobatics +17, Athletics +19, Deception +21, Diplomacy +19, Performance +21, Stealth +21, Thievery +17
 
 **STR** +7, **DEX** +5, **CON** +5, **INT** +7, **WIS** +3, **CHA** +5
 
@@ -29,21 +31,25 @@ cn, large, monitor, protean
 
 ---
 
-Speed 25 feet, fly 25 feet, swim 25 feet
+Speed 25 feet, fly 25 feet, swim 25 feet, freedom of movement
 
-**Melee** jaws +23 (chaotic, magical, reach <10 feet>); **Damage** 2d10+11 piercing plus 1d6 chaotic and warpwave strike plus warpwave strike
+**Melee** ◆ jaws +23 (chaotic, magical, reach <10 feet>); **Damage** 2d10+11 piercing plus 1d6 chaotic and warpwave strike plus warpwave strike
 
-**Melee** claw +23 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d6+11 slashing plus 1d6 chaotic
+**Melee** ◆ claw +23 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d6+11 slashing plus 1d6 chaotic
 
-**Melee** tail +23 (chaotic, magical, reach <15 feet>); **Damage** 2d10+11 bludgeoning plus 1d6 chaotic and Grab plus Grab
+**Melee** ◆ tail +23 (chaotic, magical, reach <15 feet>); **Damage** 2d10+11 bludgeoning plus 1d6 chaotic and Grab plus Grab
 
 **Innate divine Spells** (DC 29)
 
-  **1st** detect alignment
+  **Constant (5th)** tongues
+
+  **Constant (4th)** freedom of movement
+
+  **1st** detect alignment (at will)
 
   **3rd** haste, mending, shrink item, slow
 
-  **4th** creation, dimension door, shatter
+  **4th** creation, dimension door (at will), shatter
 
   **5th** dimension door, dispel magic, divine wrath, sending
 

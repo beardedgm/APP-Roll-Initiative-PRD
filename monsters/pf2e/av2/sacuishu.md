@@ -5,9 +5,11 @@ unique, ce, small, aberration, air
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
 **Languages** aklo, common, infernal, undercommon
+
+**Skills** Acrobatics +19, Deception +17, Intimidation +17, Religion +19, Stealth +19
 
 **STR** -5, **DEX** +6, **CON** +0, **INT** +3, **WIS** +6, **CHA** +4
 
@@ -29,7 +31,7 @@ unique, ce, small, aberration, air
 
 Speed fly 50 feet
 
-**Melee** shock +21 (electricity, magical); **Damage** 2d8+8 electricity
+**Melee** ◆ shock +21 (electricity, magical); **Damage** 2d8+8 electricity
 
 **Prepared divine Spells** (DC 28), attack +20
 
@@ -39,7 +41,7 @@ Speed fly 50 feet
 
   **2nd** augury, darkness, grim tendrils, see invisibility
 
-  **3rd** blindness, chilling darkness, fear
+  **3rd** blindness, chilling darkness, fear (×2)
 
   **4th** crisis of faith, dispel magic, divine wrath, read omens
 

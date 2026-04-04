@@ -5,9 +5,11 @@ n, small, leshy, plant
 
 ---
 
-**Perception** +5
+**Perception** +5; low-light vision
 
-**Languages** common, druidic, sylvan
+**Languages** common, druidic, sylvan; speak with plants (gourds only)
+
+**Skills** Nature +5, Stealth +7
 
 **STR** +2, **DEX** +4, **CON** +2, **INT** -1, **WIS** +2, **CHA** +0
 
@@ -27,9 +29,9 @@ n, small, leshy, plant
 
 Speed 25 feet
 
-**Melee** fist +7 (agile, finesse); **Damage** 1d4+2 bludgeoning plus ensnare plus ensnare
+**Melee** ◆ fist +7 (agile, finesse); **Damage** 1d4+2 bludgeoning plus ensnare plus ensnare
 
-**Melee** seed +9 (range increment <30 feet>); **Damage** 1d6+2 bludgeoning plus ensnare plus ensnare
+**Ranged** ◆ seed +9 (range increment <30 feet>); **Damage** 1d6+2 bludgeoning plus ensnare plus ensnare
 
 **Innate primal Spells** (DC 15)
 

@@ -5,9 +5,11 @@ uncommon, cn, medium, drow, elf, humanoid
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
 **Languages** elven, undercommon
+
+**Skills** Athletics +14, Nature +14, Stealth +15, Survival +16
 
 **STR** +3, **DEX** +4, **CON** +2, **INT** +0, **WIS** +3, **CHA** +1
 
@@ -31,15 +33,15 @@ uncommon, cn, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** longsword +16 (versatile <P>); **Damage** 1d8+7 slashing
+**Melee** ◆ longsword +16 (versatile <P>); **Damage** 1d8+7 slashing
 
-**Melee** composite longbow +18 (deadly <d10>, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+7 piercing
+**Ranged** ◆ composite longbow +18 (deadly <d10>, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+7 piercing
 
 **Innate divine Spells** (DC 23)
 
   **Cantrips (4th)** dancing lights
 
-  **2nd** darkness, faerie fire
+  **2nd** darkness (at will), faerie fire (at will)
 
 **Hunter's Wound** ◆ **Frequency** {"unit":"round","number":1}; The hunter makes two ranged Strikes against their prey. If both hit and deal damage, the target takes an additional 1d8 persistent bleed damage.
 

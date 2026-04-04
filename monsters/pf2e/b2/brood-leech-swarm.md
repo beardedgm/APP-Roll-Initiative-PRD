@@ -5,7 +5,9 @@ n, large, amphibious, animal, swarm
 
 ---
 
-**Perception** +9
+**Perception** +9; {@ability tremorsense} 30 feet
+
+**Skills** Athletics +8, Stealth +11
 
 **STR** +0, **DEX** +3, **CON** +4, **INT** -5, **WIS** +1, **CHA** -5
 

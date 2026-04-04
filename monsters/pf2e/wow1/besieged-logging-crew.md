@@ -9,6 +9,8 @@ gargantuan, human, humanoid, troop
 
 **Languages** common, fey
 
+**Skills** Acrobatics +9, Athletics +12, Lumber Lore +10, Nature +8, Survival +10
+
 **STR** +3, **DEX** +2, **CON** +2, **INT** +1, **WIS** +2, **CHA** +1
 
 ---
@@ -25,7 +27,7 @@ gargantuan, human, humanoid, troop
 
 ---
 
-Speed 25 feet
+Speed 25 feet, troop movement
 
 **Form Up** ◆
 

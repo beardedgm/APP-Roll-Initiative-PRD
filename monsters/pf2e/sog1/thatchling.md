@@ -5,9 +5,11 @@ uncommon, ce, small, undead
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +5, Stealth +5
 
 **STR** +0, **DEX** +3, **CON** +2, **INT** +0, **WIS** +2, **CHA** +3
 
@@ -31,9 +33,9 @@ uncommon, ce, small, undead
 
 ---
 
-Speed 30 feet
+Speed 30 feet, thicket walker
 
-**Melee** frond +8 (agile, finesse); **Damage** 1d6 slashing
+**Melee** ◆ frond +8 (agile, finesse); **Damage** 1d6 slashing
 
 **Thatchling's Curse** ◆◆ (curse, enchantment, mental, occult) The thatchling focuses its attention on a single target within 30 feet that it can see, and then begins muttering and whispering nonsense. The target must attempt a DC 16 Will save. **Critical Success** The target is unaffected and is temporarily immune to Thatchling's Curse for 24 hours.
 **Success** The target is momentarily disoriented and has difficulty moving in the right direction. The target takes a –5-foot status penalty to its Speeds for 1 round.

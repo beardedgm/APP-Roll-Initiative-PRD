@@ -5,9 +5,11 @@ unique, n, medium, gnoll, humanoid
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision
 
 **Languages** draconic, gnoll, keleshite, mwangi, taldane
+
+**Skills** Arcana +26, Athletics +26
 
 **STR** +3, **DEX** +3, **CON** +4, **INT** +5, **WIS** +2, **CHA** +0
 
@@ -25,19 +27,19 @@ unique, n, medium, gnoll, humanoid
 
 Speed 25 feet
 
-**Melee** staff +24 (magical, twohanded 3d8); **Damage** 3d4+9 bludgeoning
+**Melee** ◆ staff +24 (magical, twohanded 3d8); **Damage** 3d4+9 bludgeoning
 
 **Prepared arcane Spells** (DC 35), attack +27
 
   **1st** fear, fleet step, true strike, unseen servant
 
-  **2nd** glitterdust, invisibility, longstrider
+  **2nd** glitterdust (×2), invisibility, longstrider
 
-  **3rd** haste, jump, slow
+  **3rd** haste, jump (×2), slow
 
-  **4th** enlarge, heal, fly
+  **4th** enlarge, heal, fly (×2)
 
-  **5th** black tentacles, heal, tongues
+  **5th** black tentacles (×2), heal, tongues
 
   **6th** baleful polymorph, barkskin, flesh to stone, moon frenzy
 

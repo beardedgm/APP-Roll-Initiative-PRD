@@ -5,13 +5,15 @@ uncommon, ln, large, monitor
 
 ---
 
-**Perception** +31
+**Perception** +31; {@spell detect alignment} (chaotic and lawful only), {@spell true seeing}
 
-**Languages** celestial, common, draconic, infernal, necril, requian, utopian
+**Languages** celestial, common, draconic, infernal, necril, requian, utopian; tongues
+
+**Skills** Acrobatics +31, Arcana +30, Boneyard Lore +32, Diplomacy +32, Intimidation +34, Occultism +30, Religion +33, Society +30, Stealth +31
 
 **STR** +8, **DEX** +6, **CON** +7, **INT** +5, **WIS** +6, **CHA** +9
 
-**Items** {@runeItem naginata|TV|+2 weapon potency||greater striking||axiomatic|}, pouch of four gems
+**Items** , pouch of four gems
 
 ---
 
@@ -23,7 +25,7 @@ uncommon, ln, large, monitor
 
 **Immunities** death effects, disease, negative
 
-**Resistances** all physical 15, cold 15, poison 15
+**Resistances** all physical 15 (except chaotic and silver), cold 15, poison 15
 
 **Weaknesses** silver 15
 
@@ -33,15 +35,17 @@ uncommon, ln, large, monitor
 
 Speed 25 feet, fly 30 feet
 
-**Melee** naginata +33 (deadly <2d8>, reach, versatile <P>); **Damage** 3d8+16 slashing plus 1d6 lawful and spirit touch
+**Melee** ◆ naginata +33 (deadly <2d8>, reach, versatile <P>); **Damage** 3d8+16 slashing plus 1d6 lawful and spirit touch
 
 **Innate divine Spells** (DC 38)
 
-  **7th** enervation, plane shift
+  **Constant (9th)** detect alignment, tongues, true seeing
 
-  **8th** finger of death, scrying
+  **7th** enervation (×3), plane shift
 
-  **9th** bind soul
+  **8th** finger of death (×3), scrying
+
+  **9th** bind soul (×3)
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The shinigami takes on the appearance of a specific Small or Medium humanoid creature. This doesn't change their statistics, other than to remove the reach trait from their Strikes. The shinigami's human shape is unique to the shinigami and can't be used to Impersonate a creature.
 

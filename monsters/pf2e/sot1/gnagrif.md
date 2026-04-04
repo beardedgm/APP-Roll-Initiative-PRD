@@ -5,9 +5,11 @@ uncommon, ne, tiny, fey, gremlin
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
 
 **Languages** undercommon
+
+**Skills** Acrobatics +8, Athletics +6, Intimidation +6, Stealth +8, Survival +5
 
 **STR** +2, **DEX** +4, **CON** +3, **INT** -1, **WIS** -1, **CHA** +2
 
@@ -29,9 +31,9 @@ uncommon, ne, tiny, fey, gremlin
 
 Speed 20 feet, burrow 10 feet, climb 10 feet
 
-**Melee** light hammer +10 (agile); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ light hammer +10 (agile); **Damage** 1d6+4 bludgeoning
 
-**Melee** light hammer +10 (agile, thrown <20 feet>); **Damage** 1d6+4 bludgeoning
+**Ranged** ◆ light hammer +10 (agile, thrown <20 feet>); **Damage** 1d6+4 bludgeoning
 
 **Innate primal Spells** (DC 16)
 
@@ -39,7 +41,7 @@ Speed 20 feet, burrow 10 feet, climb 10 feet
 
   **1st** ant haul, feather fall
 
-  **2nd** shatter, speak with animals
+  **2nd** shatter, speak with animals (at will)
 
 **Eat Rocks** ◆ The gnagrif gnashes and tears at an object or structure, dealing 2d4+2 piercing damage and ignoring Hardness 2 or lower.
 

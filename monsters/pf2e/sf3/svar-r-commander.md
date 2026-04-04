@@ -5,9 +5,11 @@ rare, cn, medium, aesir, monitor
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision
 
-**Languages** common, jotun
+**Languages** common, jotun; ravenspeaker, tongues
+
+**Skills** Acrobatics +34, Athletics +38, Diplomacy +34, Intimidation +34, Religion +33
 
 **STR** +10, **DEX** +7, **CON** +7, **INT** +3, **WIS** +6, **CHA** +7
 
@@ -35,11 +37,13 @@ rare, cn, medium, aesir, monitor
 
 Speed 25 feet, fly 60 feet
 
-**Melee** spear +38 (magical); **Damage** 3d6+17 piercing plus 2d12 electricity
+**Melee** ◆ spear +38 (magical); **Damage** 3d6+17 piercing plus 2d12 electricity
 
-**Melee** spear +36 (magical, thrown <20 feet>); **Damage** 3d6+17 piercing plus 2d12 electricity
+**Ranged** ◆ spear +36 (magical, thrown <20 feet>); **Damage** 3d6+17 piercing plus 2d12 electricity
 
 **Innate divine Spells** (DC 38), attack +30
+
+  **Constant (9th)** tongues
 
   **3rd** augury, sanctified ground, status, wanderer's guide
 

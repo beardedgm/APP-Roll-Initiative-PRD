@@ -5,13 +5,15 @@ unique, lg, huge, celestial, construct, herald
 
 ---
 
-**Perception** +29
+**Perception** +29; {@ability darkvision}, {@spell true seeing}
 
-**Languages** common, celestial, dwarven, ignan, terran
+**Languages** common, celestial, dwarven, ignan, terran; telepathy 100 feet
+
+**Skills** Athletics +30, Crafting +28, Religion +28
 
 **STR** +8, **DEX** +2, **CON** +4, **INT** +1, **WIS** +6, **CHA** +3
 
-**Items** defender's shield (Hardness 15, can't be damaged), {@item warhammer}
+**Items** defender's shield (Hardness 15, can't be damaged), warhammer
 
 ---
 
@@ -23,7 +25,7 @@ unique, lg, huge, celestial, construct, herald
 
 **Immunities** bleed, death effects, disease, doomed, drained, fatigue, magic (see below), necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 15
+**Resistances** physical 15 (except adamantine)
 
 **Weaknesses** evil 15
 
@@ -41,13 +43,13 @@ unique, lg, huge, celestial, construct, herald
 
 Speed 35 feet, burrow 35 feet
 
-**Melee** warhammer +30 (shove); **Damage** 3d12+14 bludgeoning plus Knockdown plus Knockdown
+**Melee** ◆ warhammer +30 (shove); **Damage** 3d12+14 bludgeoning plus Knockdown plus Knockdown
 
-**Melee** force blast +28 (magical, range <60 feet>); **Damage** 3d12+8 force
+**Ranged** ◆ force blast +28 (magical, range <60 feet>); **Damage** 3d12+8 force
 
 **Innate divine Spells** (DC 36)
 
-  **5th** flame strike, repelling pulse
+  **5th** flame strike, repelling pulse (×2)
 
   **6th** blade barrier
 

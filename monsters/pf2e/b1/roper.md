@@ -5,9 +5,11 @@ uncommon, ce, large, aberration
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
 **Languages** aklo, undercommon
+
+**Skills** Athletics +22, Nature +17, Religion +19, Stealth +17
 
 **STR** +6, **DEX** +1, **CON** +6, **INT** +1, **WIS** +3, **CHA** +1
 
@@ -29,9 +31,9 @@ uncommon, ce, large, aberration
 
 Speed 10 feet, climb 10 feet
 
-**Melee** jaws +21; **Damage** 2d12+12 piercing
+**Melee** ◆ jaws +21; **Damage** 2d12+12 piercing
 
-**Melee** strand +23 (reach <50 feet>); plus sticky strand
+**Melee** ◆ strand +23 (reach <50 feet>); plus sticky strand
 
 **Extend Strands** ◆ The roper extends or retracts six thin, sticky tendrils from its body. While the strands are extended, the roper takes a –4 circumstance penalty to Stealth checks, and while they're retracted, it can't use its strand Strikes.
 

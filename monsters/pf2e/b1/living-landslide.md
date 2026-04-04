@@ -5,9 +5,11 @@ n, medium, earth, elemental
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision, {@ability tremorsense} 60 feet (imprecise)
 
 **Languages** terran
+
+**Skills** Athletics +14, Stealth +8
 
 **STR** +5, **DEX** -1, **CON** +4, **INT** -2, **WIS** +1, **CHA** -1
 
@@ -27,8 +29,8 @@ n, medium, earth, elemental
 
 ---
 
-Speed 25 feet, burrow 25 feet
+Speed 25 feet, burrow 25 feet, earth glide
 
-**Melee** fist +16 (reach <10 feet>); **Damage** 2d8+8 bludgeoning
+**Melee** ◆ fist +16 (reach <10 feet>); **Damage** 2d8+8 bludgeoning
 
 **Earth Glide** The living landslide can Burrow through any earthen matter, including rock. When it does so, the living landslide moves at its full burrow Speed, leaving no tunnels or signs of its passing.

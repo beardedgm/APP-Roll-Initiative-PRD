@@ -9,9 +9,11 @@ uncommon, medium, human, humanoid, wood
 
 **Languages** arboreal, common, fey, wildsong
 
+**Skills** Acrobatics +13, Athletics +16, Nature +17, Survival +17
+
 **STR** +3, **DEX** +1, **CON** +4, **INT** +1, **WIS** +4, **CHA** +1
 
-**Items** {@item leather||leather armor}, {@runeItem staff||+1 weapon potency|}
+**Items** leather armor, 
 
 **Luminant Aura** (aura, light) 20 feet.
 
@@ -33,9 +35,9 @@ uncommon, medium, human, humanoid, wood
 
 Speed 25 feet
 
-**Melee** staff +18 (two-hand <d8>); **Damage** 1d4+6 bludgeoning
+**Melee** ◆ staff +18 (two-hand <d8>); **Damage** 1d4+6 bludgeoning
 
-**Melee** splinter surge +16 (range increment <30 feet>); **Damage** 2d8 piercing
+**Ranged** ◆ splinter surge +16 (range increment <30 feet>); **Damage** 2d8 piercing
 
 **Innate primal Spells** (DC 25)
 

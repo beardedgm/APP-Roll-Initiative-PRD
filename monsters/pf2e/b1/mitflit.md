@@ -5,13 +5,15 @@ le, small, fey, gremlin
 
 ---
 
-**Perception** +4
+**Perception** +4; darkvision, scent 30 feet (imprecise)
 
 **Languages** undercommon
 
+**Skills** Acrobatics +5, Diplomacy +1, Nature +3, Stealth +5, Thievery +5
+
 **STR** -1, **DEX** +3, **CON** +0, **INT** -1, **WIS** +1, **CHA** -1
 
-**Items** {@item dart} (10), {@item shortsword}
+**Items** dart (10), shortsword
 
 **Self-Loathing** (emotion, mental) A mitflit's self-loathing makes it easy to influence. It takes a –4 penalty to its Will DC against checks to Coerce, Demoralize, Make an Impression, and Request.
 
@@ -29,11 +31,11 @@ le, small, fey, gremlin
 
 ---
 
-Speed 20 feet
+Speed 20 feet, climb 20 feet
 
-**Melee** shortsword +8 (agile, finesse, versatile <S>); **Damage** 1d6-1 piercing
+**Melee** ◆ shortsword +8 (agile, finesse, versatile <S>); **Damage** 1d6-1 piercing
 
-**Melee** dart +8 (agile, range increment <20 feet>, thrown); **Damage** 1d4-1 piercing
+**Ranged** ◆ dart +8 (agile, range increment <20 feet>, thrown); **Damage** 1d4-1 piercing
 
 **Innate primal Spells** (DC 16)
 
@@ -41,6 +43,6 @@ Speed 20 feet
 
   **1st** bane
 
-  **2nd** speak with animals
+  **2nd** speak with animals (at will)
 
 **Vengeful Anger** (emotion, mental) As long as it isn't frightened, a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it.

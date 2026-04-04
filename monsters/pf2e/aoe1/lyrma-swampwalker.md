@@ -5,9 +5,11 @@ cg, small, gnome, humanoid
 
 ---
 
-**Perception** +11
+**Perception** +11; low-light vision
 
 **Languages** common, gnomish, sylvan
+
+**Skills** Acrobatics +8, Athletics +9, Medicine +9, Nature +7, Stealth +8, Survival +9
 
 **STR** +3, **DEX** +4, **CON** +1, **INT** -1, **WIS** +3, **CHA** +0
 
@@ -25,4 +27,4 @@ cg, small, gnome, humanoid
 
 Speed 25 feet
 
-**Melee** trident +11 (thrown <20 feet>); **Damage** 1d8+6 piercing
+**Melee** ◆ trident +11 (thrown <20 feet>); **Damage** 1d8+6 piercing

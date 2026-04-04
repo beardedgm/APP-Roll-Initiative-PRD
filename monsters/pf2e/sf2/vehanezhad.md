@@ -5,9 +5,11 @@ unique, le, gargantuan, dragon, earth, elemental
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision, scent (imprecise), tremorsense (imprecise)
 
 **Languages** auran, common, draconic, infernal
+
+**Skills** Acrobatics +32, Arcana +32, Deception +34, Diplomacy +34, Intimidation +34, Society +32, Stealth +32, Survival +30
 
 **STR** +9, **DEX** +6, **CON** +7, **INT** +6, **WIS** +6, **CHA** +8
 
@@ -35,11 +37,11 @@ unique, le, gargantuan, dragon, earth, elemental
 
 Speed 60 feet, fly 140 feet, burrow 40 feet
 
-**Melee** jaws +35 (magical, reach <20 feet>); **Damage** 3d8+17 slashing plus 4d6 piercing plus crystal corruption
+**Melee** ◆ jaws +35 (magical, reach <20 feet>); **Damage** 3d8+17 slashing plus 4d6 piercing plus crystal corruption
 
-**Melee** claw +35 (agile, magical, reach <15 feet>); **Damage** 3d10+17 slashing plus crystal corruption
+**Melee** ◆ claw +35 (agile, magical, reach <15 feet>); **Damage** 3d10+17 slashing plus crystal corruption
 
-**Melee** tail +33 (magical, reach <25 feet>); **Damage** 2d12+17 bludgeoning plus crystal corruption
+**Melee** ◆ tail +33 (magical, reach <25 feet>); **Damage** 2d12+17 bludgeoning plus crystal corruption
 
 **Innate arcane Spells** (DC 43)
 
@@ -49,9 +51,9 @@ Speed 60 feet, fly 140 feet, burrow 40 feet
 
   **7th** project image
 
-  **8th** hallucinatory terrain, ventriloquism
+  **8th** hallucinatory terrain (at will), ventriloquism (at will)
 
-  **9th** illusory creature, illusory object
+  **9th** illusory creature (at will), illusory object (at will)
 
 **Breath Weapon** ◆◆ (evocation, primal) Vehanezhad breathes a flurry of piercing crystals that deals 19d6 piercing damage in a 60-foot cone (DC 40 basic Reflex save). A creature who takes damage from this breath weapon is exposed to crystal corruption. Vehanezhad can't use Breath Weapon again for 1d4 rounds.
 

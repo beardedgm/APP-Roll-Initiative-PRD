@@ -5,9 +5,11 @@ rare, ne, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +19
+**Perception** +19; greater darkvision
 
 **Languages** caligni
+
+**Skills** Acrobatics +19, Intimidation +18, Stealth +19
 
 **STR** -5, **DEX** +6, **CON** +0, **INT** +0, **WIS** +4, **CHA** +3
 
@@ -32,11 +34,11 @@ rare, ne, medium, incorporeal, spirit, undead
 
 ---
 
-Speed fly 25 feet
+Speed fly 25 feet, landbound
 
-**Melee** radiant touch +21 (agile, finesse, fire, light, magical); **Damage** 2d8+11 fire
+**Melee** ◆ radiant touch +21 (agile, finesse, fire, light, magical); **Damage** 2d8+11 fire
 
-**Melee** radiant ray +21 (fire, light, magical, range increment <60 feet>); **Damage** 2d6+11 fire
+**Ranged** ◆ radiant ray +21 (fire, light, magical, range increment <60 feet>); **Damage** 2d6+11 fire
 
 **Landbound** A bright walker can't fly higher than 1 foot above the ground. If they fly higher than this distance, they fall but don't take any damage from falling.
 

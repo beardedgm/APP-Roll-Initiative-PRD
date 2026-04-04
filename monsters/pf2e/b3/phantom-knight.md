@@ -5,9 +5,11 @@ uncommon, ln, medium, ethereal, incorporeal, phantom, spirit
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
 **Languages** common
+
+**Skills** Intimidation +12
 
 **STR** -5, **DEX** +4, **CON** +0, **INT** +0, **WIS** +5, **CHA** +4
 
@@ -31,6 +33,6 @@ uncommon, ln, medium, ethereal, incorporeal, phantom, spirit
 
 Speed fly 25 feet
 
-**Melee** phantom sword +14 (finesse, force, magical); **Damage** 1d8+7 force
+**Melee** ◆ phantom sword +14 (finesse, force, magical); **Damage** 1d8+7 force
 
-**Melee** phantom bow +14 (deadly <d10>, force, magical, range increment <120 feet>, volley <30 feet>); **Damage** 1d8+5 force
+**Ranged** ◆ phantom bow +14 (deadly <d10>, force, magical, range increment <120 feet>, volley <30 feet>); **Damage** 1d8+5 force

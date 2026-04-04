@@ -5,9 +5,11 @@ ne, medium, skeleton, undead
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
 
 **Languages** common, necril
+
+**Skills** Acrobatics +8, Athletics +8, Intimidation +7
 
 **STR** +4, **DEX** +4, **CON** +1, **INT** -1, **WIS** +2, **CHA** +1
 
@@ -33,8 +35,8 @@ ne, medium, skeleton, undead
 
 Speed 25 feet
 
-**Melee** longsword +10 (versatile <P>); **Damage** 1d8+4 slashing
+**Melee** ◆ longsword +10 (versatile <P>); **Damage** 1d8+4 slashing
 
-**Melee** claw +10 (agile); **Damage** 1d6+4 slashing
+**Melee** ◆ claw +10 (agile); **Damage** 1d6+4 slashing
 
-**Melee** lance +10 (deadly <d8>, jousting <d6>, reach <10 feet>); **Damage** 1d8+4 piercing
+**Melee** ◆ lance +10 (deadly <d8>, jousting <d6>, reach <10 feet>); **Damage** 1d8+4 piercing

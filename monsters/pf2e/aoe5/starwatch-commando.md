@@ -9,6 +9,8 @@ uncommon, ln, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +21, Diplomacy +18, Intimidation +20, Society +18, Stealth +20, Legal Lore +20
+
 **STR** +4, **DEX** +3, **CON** +5, **INT** +1, **WIS** +2, **CHA** +1
 
 **Items** +1 chain shirt, +1 striking crossbow (with 20 bolts), infused greater thunderstone (3), +1 striking longsword, tinted goggles
@@ -25,11 +27,11 @@ uncommon, ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** longsword +24 (versatile <P>); **Damage** 2d8+10 slashing
+**Melee** ◆ longsword +24 (versatile <P>); **Damage** 2d8+10 slashing
 
-**Melee** crossbow +23 (magical, range increment <120 feet>, reload <1>); **Damage** 2d8+6 piercing
+**Ranged** ◆ crossbow +23 (magical, range increment <120 feet>, reload <1>); **Damage** 2d8+6 piercing
 
-**Melee** thunderstone +22 (range increment <30 feet>, splash); **Damage** 3d4 sonic plus 3 sonic splash, deafened, and blinding blast (DC 28) plus deafened, blinding blast (DC 28)
+**Ranged** ◆ thunderstone +22 (range increment <30 feet>, splash); **Damage** 3d4 sonic plus 3 sonic splash, deafened, and blinding blast (DC 28) plus deafened, blinding blast (DC 28)
 
 **Binding Blast** A commando's thunderstone is infused with special reagents to produce a blinding flash of light. In addition to the thunderstone's normal effects, creatures that fail the saving throw against the thunderstone are also dazzled for 1 round. Creatures that critically fail are blinded for 1 round. Creatures who protect their eyes, such as by wearing tinted goggles, are immune to the infused thunderstone's blinding effect.
 

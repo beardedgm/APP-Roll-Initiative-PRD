@@ -5,9 +5,11 @@ rare, ce, medium, humanoid, xulgath
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, thoughtsense 60 feet (imprecise)
 
-**Languages** draconic, undercommon
+**Languages** draconic, undercommon; telepathy 100 feet
+
+**Skills** Acrobatics +25, Arcana +27, Deception +29, Diplomacy +27, Occultism +31, Society +27, Xulgath Lore +31
 
 **STR** +4, **DEX** +6, **CON** +4, **INT** +8, **WIS** +5, **CHA** +6
 
@@ -31,13 +33,13 @@ rare, ce, medium, humanoid, xulgath
 
 Speed 25 feet, fly 35 feet
 
-**Melee** spear +30 (magical); **Damage** 2d6+10 piercing
+**Melee** ◆ spear +30 (magical); **Damage** 2d6+10 piercing
 
-**Melee** jaws +28; **Damage** 3d8+10 piercing
+**Melee** ◆ jaws +28; **Damage** 3d8+10 piercing
 
-**Melee** claw +28 (agile, finesse); **Damage** 3d4+10 slashing
+**Melee** ◆ claw +28 (agile, finesse); **Damage** 3d4+10 slashing
 
-**Melee** spear +30 (magical, thrown <20 feet>); **Damage** 2d6+10 piercing
+**Ranged** ◆ spear +30 (magical, thrown <20 feet>); **Damage** 2d6+10 piercing
 
 **Spontaneous occult Spells** (DC 36)
 
@@ -53,11 +55,11 @@ Speed 25 feet, fly 35 feet
 
 **Innate occult Spells** (DC 36), attack +28
 
-  **2nd** telekinetic maneuver
+  **2nd** telekinetic maneuver (at will)
 
-  **5th** telekinetic haul
+  **5th** telekinetic haul (at will)
 
-  **8th** phantom pain
+  **8th** phantom pain (×3)
 
 **Cantrips** (8th) telekinetic projectile; Constant (8th) fly Occult Rituals DC 36; inveigle.
 

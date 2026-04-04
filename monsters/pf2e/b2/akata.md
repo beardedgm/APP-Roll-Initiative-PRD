@@ -5,7 +5,9 @@ rare, n, medium, aberration
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision, no hearing, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +7, Athletics +7, Stealth +7
 
 **STR** +4, **DEX** +2, **CON** +4, **INT** -4, **WIS** +3, **CHA** +0
 
@@ -33,6 +35,6 @@ rare, n, medium, aberration
 
 Speed 30 feet, climb 15 feet
 
-**Melee** jaws +9 (agile); **Damage** 1d6+4 piercing plus void death plus void death
+**Melee** ◆ jaws +9 (agile); **Damage** 1d6+4 piercing plus void death plus void death
 
 **Void Death** (disease)

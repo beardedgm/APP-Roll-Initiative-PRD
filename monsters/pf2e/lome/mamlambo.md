@@ -5,7 +5,9 @@ uncommon, ne, huge, aquatic, beast
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
+
+**Skills** Athletics +21, Stealth +19, Survival +17
 
 **STR** +7, **DEX** +4, **CON** +5, **INT** -3, **WIS** +4, **CHA** +0
 
@@ -28,9 +30,9 @@ uncommon, ne, huge, aquatic, beast
 
 Speed 10 feet, swim 40 feet
 
-**Melee** jaws +21 (reach <10 feet>); **Damage** 2d8+11 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +21 (reach <10 feet>); **Damage** 2d8+11 piercing plus Improved Grab plus Improved Grab
 
-**Melee** tail +21 (agile, reach <15 feet>); **Damage** 2d6+11 bludgeoning
+**Melee** ◆ tail +21 (agile, reach <15 feet>); **Damage** 2d6+11 bludgeoning
 
 **Aquatic Ambush** ◆
 

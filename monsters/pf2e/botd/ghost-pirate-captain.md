@@ -5,9 +5,11 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** common, necril
+
+**Skills** Acrobatics +18, Diplomacy +15, Intimidation +17, Sailing Lore +16
 
 **STR** -5, **DEX** +6, **CON** +0, **INT** +2, **WIS** +3, **CHA** +5
 
@@ -23,7 +25,7 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Curse Ye Scallywags!** (curse, divine, necromancy) When the ghost pirate captain is reduced to 0 HP, all creatures within 60 feet are subjected to a DC 25 mariner's curse spell. The locations of those that critically fail are known to the ghost until the curse is removed. This curse ends if the ghost is permanently destroyed.
 
@@ -33,9 +35,9 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ghostly cutlass +20 (forceful, magical, sweep); **Damage** 2d6+11 negative
+**Melee** ◆ ghostly cutlass +20 (forceful, magical, sweep); **Damage** 2d6+11 negative
 
-**Melee** ghostly hand crossbow +20 (magical, range increment <60 feet>); **Damage** 2d6+8 negative
+**Ranged** ◆ ghostly hand crossbow +20 (magical, range increment <60 feet>); **Damage** 2d6+8 negative
 
 **Combat Current** ◆◆ The ghost makes a Strike with its cutlass or hand crossbow, then Flies up to half their Speed and makes a Strike with the other attack. If they moved through an enemy when they Flew, that enemy is flat-footed against the second Strike.
 

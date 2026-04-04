@@ -7,6 +7,8 @@ gargantuan, cold, fey, troop
 
 **Perception** +12
 
+**Skills** Acrobatics +10, Athletics +8, Deception +8, Diplomacy +8, Stealth +10
+
 **STR** +1, **DEX** +4, **CON** +0, **INT** +1, **WIS** +1, **CHA** +3
 
 ---
@@ -27,12 +29,12 @@ gargantuan, cold, fey, troop
 
 ---
 
-Speed 25 feet, fly 30 feet
+Speed 25 feet, fly 30 feet, troop movement
 
 **Innate primal Spells** (DC 17)
 
   **Cantrips (2nd)** frostbite
 
-  **1st** chilling spray
+  **1st** chilling spray (×3)
 
 **Icy Japes** (cold) **Frequency** {"number":1,"unit":"round"}; The beirans descend on their prey, biting and clawing at each enemy in a 5-foot emanation, with a DC 17 basic Reflex save. The damage depends on the number of actions. 

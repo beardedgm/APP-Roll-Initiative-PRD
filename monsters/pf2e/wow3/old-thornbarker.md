@@ -5,9 +5,11 @@ unique, huge, plant, wood
 
 ---
 
-**Perception** +25
+**Perception** +25; all-around vision, low-light vision,, tremorsense 60 feet (imprecise)
 
-**Languages** arboreal, common, fey, muan
+**Languages** arboreal, common, fey, muan; speak with plants
+
+**Skills** Athletics +23, Deception +22, Cradle Of Knot Lore +28, Intimidation +22, Nature +25, Stealth +19
 
 **STR** +7, **DEX** +0, **CON** +5, **INT** +4, **WIS** +5, **CHA** +7
 
@@ -31,15 +33,17 @@ unique, huge, plant, wood
 
 Speed 25 feet
 
-**Melee** branch +25 (reach <15 feet>); **Damage** 3d10+10 bludgeoning plus Improved Knockdown (Monster Core 359)
+**Melee** ◆ branch +25 (reach <15 feet>); **Damage** 3d10+10 bludgeoning plus Improved Knockdown (Monster Core 359)
 
-**Melee** scamp +22 (splash, thrown <60 feet>); **Damage** 4d6+10 piercing plus 4 persistent piercing damage and 4 poison splash damage
+**Ranged** ◆ scamp +22 (splash, thrown <60 feet>); **Damage** 4d6+10 piercing plus 4 persistent piercing damage and 4 poison splash damage
 
 **Innate primal Spells** (DC 32), attack +24
 
+  **Constant (4th)** speak with plants
+
   **2nd** entangling flora
 
-  **3rd** earthbind
+  **3rd** earthbind (at will)
 
   **6th** tangling creepers
 

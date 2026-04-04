@@ -5,7 +5,9 @@ n, medium, earth, mindless, ooze
 
 ---
 
-**Perception** +15
+**Perception** +15; motion sense 60 feet, no vision
+
+**Skills** Athletics +24
 
 **STR** +7, **DEX** -5, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -33,7 +35,7 @@ n, medium, earth, mindless, ooze
 
 Speed 10 feet, climb 10 feet
 
-**Melee** pseudopod +24 (versatile <S>); **Damage** 4d8+7 piercing
+**Melee** ◆ pseudopod +24 (versatile <S>); **Damage** 4d8+7 piercing
 
 **Crystallize** ◆ (attack) **Requirements** The crystal has a creature engulfed.; The engulfed creature must succeed at a DC 28 Fortitude save or become slowed|CRB|slowed 1 until it is no longer engulfed. If the creature is already slowed, it becomes petrified as it is turned into crystal and expelled by the carnivorous crystal onto the ground. In 1d4 hours, the petrified victim shatters and a new carnivorous crystal emerges from the remains.
 

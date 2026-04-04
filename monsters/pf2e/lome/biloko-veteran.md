@@ -5,9 +5,11 @@ ne, small, fey
 
 ---
 
-**Perception** +11
+**Perception** +11; low-light vision, scent 30 feet (imprecise)
 
 **Languages** mwangi, sylvan
+
+**Skills** Athletics +10, Crafting +10, Intimidation +12, Nature +9, Stealth +13, Survival +11
 
 **STR** +4, **DEX** +4, **CON** +0, **INT** +0, **WIS** +3, **CHA** +2
 
@@ -27,11 +29,11 @@ ne, small, fey
 
 Speed 20 feet
 
-**Melee** jaws +12; **Damage** 2d8+4 piercing
+**Melee** ◆ jaws +12; **Damage** 2d8+4 piercing
 
-**Melee** longspear +12 (reach <10 feet>); **Damage** 1d8+4 piercing
+**Melee** ◆ longspear +12 (reach <10 feet>); **Damage** 1d8+4 piercing
 
-**Melee** shortbow +12 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing
+**Ranged** ◆ shortbow +12 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing
 
 **Innate primal Spells** (DC 18)
 

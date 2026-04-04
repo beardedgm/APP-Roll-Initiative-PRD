@@ -5,9 +5,11 @@ n, medium, monitor, psychopomp
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, lifesense 60 feet
 
-**Languages** abyssal, celestial, infernal, necril, requian
+**Languages** abyssal, celestial, infernal, necril, requian; speak with animals, tongues
+
+**Skills** Athletics +27, Diplomacy +27, Intimidation +29, Religion +29, Society +24, Stealth +27, Boneyard Lore +28
 
 **STR** +8, **DEX** +4, **CON** +4, **INT** +3, **WIS** +6, **CHA** +4
 
@@ -33,9 +35,9 @@ n, medium, monitor, psychopomp
 
 Speed 30 feet, climb 30 feet
 
-**Melee** bo staff +31 (magical, parry, reach <10 feet>, trip); **Damage** 2d8+14 bludgeoning plus spirit touch plus spirit touch
+**Melee** ◆ bo staff +31 (magical, parry, reach <10 feet>, trip); **Damage** 2d8+14 bludgeoning plus spirit touch plus spirit touch
 
-**Melee** web wrappings +29 (magical, reach <10 feet>); **Damage** 3d12+14 bludgeoning plus Grab and spirit touch plus Grab, spirit touch
+**Melee** ◆ web wrappings +29 (magical, reach <10 feet>); **Damage** 3d12+14 bludgeoning plus Grab and spirit touch plus Grab, spirit touch
 
 **Spontaneous divine Spells** (DC 35), attack +30
 
@@ -54,6 +56,8 @@ Speed 30 feet, climb 30 feet
   **6th (4 slots)** field of life, heal, spirit blast
 
 **Innate divine Spells** (DC 37)
+
+  **Constant (5th)** tongues, 2nd) speak with animals, spider climb
 
   **4th** talking corpse
 

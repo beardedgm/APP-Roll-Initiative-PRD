@@ -5,9 +5,11 @@ unique, le, medium, changeling, elf, humanoid
 
 ---
 
-**Perception** +24
+**Perception** +24; low-light vision
 
 **Languages** common, dwarven, elven
+
+**Skills** Acrobatics +26, Crafting +21, Intimidation +23, Legal Lore +19, Thievery +21
 
 **STR** +3, **DEX** +7, **CON** +3, **INT** +0, **WIS** +0, **CHA** +3
 
@@ -27,11 +29,11 @@ unique, le, medium, changeling, elf, humanoid
 
 Speed 25 feet
 
-**Melee** reinforced stock +24 (finesse, magical, two-hand <d6>); **Damage** 2d4+6 bludgeoning plus plant pyronite charge
+**Melee** ◆ reinforced stock +24 (finesse, magical, two-hand <d6>); **Damage** 2d4+6 bludgeoning plus plant pyronite charge
 
-**Melee** hex blaster +24 (concussive, fatal <d12>, kickback, magical, range increment <150 feet>, reload <1>); **Damage** 2d8+6 piercing
+**Ranged** ◆ hex blaster +24 (concussive, fatal <d12>, kickback, magical, range increment <150 feet>, reload <1>); **Damage** 2d8+6 piercing
 
-**Melee** redeemer's pistol +24 (concealable, concussive, fatal <d10>, magical, range increment <60 feet>, reload <1>); **Damage** 2d6+6 piercing
+**Ranged** ◆ redeemer's pistol +24 (concealable, concussive, fatal <d10>, magical, range increment <60 feet>, reload <1>); **Damage** 2d6+6 piercing
 
 **Firearms Critical Specialization When** Anjelique makes a critical hit with a firearm, the target must succeed a DC 34 Fortitude save or be stunned 1.
 

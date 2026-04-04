@@ -5,9 +5,11 @@ n, small, grippli, humanoid
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
 **Languages** common, grippli
+
+**Skills** Acrobatics +11, Athletics +9, Diplomacy +10, Medicine +11, Nature +14, Religion +11, Stealth +11, Survival +11
 
 **STR** +2, **DEX** +4, **CON** +1, **INT** +1, **WIS** +4, **CHA** +0
 
@@ -27,9 +29,9 @@ n, small, grippli, humanoid
 
 Speed 25 feet, climb 20 feet
 
-**Melee** staff +11 (two-hand <d8>); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ staff +11 (two-hand <d8>); **Damage** 1d4+4 bludgeoning
 
-**Melee** dart +13 (agile, thrown <20 feet>); **Damage** 1d4+4 piercing
+**Melee** ◆ dart +13 (agile, thrown <20 feet>); **Damage** 1d4+4 piercing
 
 **Prepared primal Spells** (DC 23), attack +13
 

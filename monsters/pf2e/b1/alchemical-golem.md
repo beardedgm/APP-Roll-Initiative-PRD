@@ -5,7 +5,9 @@ uncommon, n, large, alchemical, construct, golem, mindless
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
+
+**Skills** Athletics +22
 
 **STR** +6, **DEX** +4, **CON** +3, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -19,7 +21,7 @@ uncommon, n, large, alchemical, construct, golem, mindless
 
 **Immunities** acid, bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, magic (see below), necromancy, nonlethal attacks, paralyzed, sickened, unconscious
 
-**Resistances** physical 12
+**Resistances** physical 12 (except adamantine or bludgeoning)
 
 **Alchemical Chambers** An alchemical golem's body contains six alchemical chambers filled with different substances. When an alchemical golem ability calls upon a randomly determined alchemical effect, roll 1d6 and consult the following (if you roll the result of a chamber that was shattered, there is no alchemical effect): 1 acid damage; 2 cold damage; 3 electricity damage; 4 fire damage; 5 poison damage; 6 sickness: DC 26 Fortitude save or sickened 1 (sickened 2 on a critical failure)
 
@@ -33,9 +35,9 @@ uncommon, n, large, alchemical, construct, golem, mindless
 
 Speed 25 feet
 
-**Melee** syringe +22 (magical, reach <10 feet>); **Damage** 2d10+6 piercing plus alchemical injection plus alchemical injection
+**Melee** ◆ syringe +22 (magical, reach <10 feet>); **Damage** 2d10+6 piercing plus alchemical injection plus alchemical injection
 
-**Melee** bomb +20 (magical, thrown <20 feet>); plus see Generate Bomb
+**Ranged** ◆ bomb +20 (magical, thrown <20 feet>); plus see Generate Bomb
 
 **Alchemical Injection** When an alchemical golem hits a creature with a syringe Strike, roll 1d6 on the alchemical chambers list to determine the additional effect of the attack. The syringe deals an additional 2d6 damage of the appropriate type (or exposes the target to the sickness effect, as appropriate).
 

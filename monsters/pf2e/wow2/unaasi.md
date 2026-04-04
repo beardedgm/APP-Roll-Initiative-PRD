@@ -5,13 +5,15 @@ unique, medium, ghoran, humanoid, plant
 
 ---
 
-**Perception** +21
+**Perception** +21; low-light vision
 
 **Languages** common, draconic, fey, wildsong
 
+**Skills** Acrobatics +18, Arcana +21, Deception +24, Diplomacy +24, Intimidation +24, Nature +21, Occultism +21, Performance +22, Society +21, Stealth +18, Survival +21
+
 **STR** +0, **DEX** +3, **CON** +1, **INT** +4, **WIS** +4, **CHA** +5
 
-**Items** {@runeItem fighting fan|TV|+1 weapon potency||striking|}, {@item passage charm|WoW2}, {@item 4th-level spell scroll} of {@spell sound body|PC1} (4th), {@item 6th-level spell scroll} of {@spell soothe|PC1} (6th), {@item 4th-level spell wand of thundering echoes|LOtGB|wand of thundering echoes (4th)}, 1,000 gp
+**Items** , passage charm|WoW2, 4th-level spell scroll of sound body|PC1 (4th), 6th-level spell scroll of soothe|PC1 (6th), 4th-level spell wand of thundering echoes|LOtGB|wand of thundering echoes (4th), 1,000 gp
 
 **Explosive End** (fire, primal) When Unaasi dies, the planar portal inside them collapses, causing them to explode in a burst of scouring energy that deals 11d6 fire damage to all creatures in their luminant aura (DC 32 basic Reflex save). Their body is completely consumed, leaving behind only their gear.
 
@@ -39,9 +41,9 @@ unique, medium, ghoran, humanoid, plant
 
 Speed 25 feet
 
-**Melee** fighting fan +22 (agile, backstabber, deadly <d6>, finesse); **Damage** 2d4+6 slashing
+**Melee** ◆ fighting fan +22 (agile, backstabber, deadly <d6>, finesse); **Damage** 2d4+6 slashing
 
-**Melee** energy surge +22 (range increment <30 feet>); **Damage** 4d6+6 fire
+**Ranged** ◆ energy surge +22 (range increment <30 feet>); **Damage** 4d6+6 fire
 
 **Spontaneous occult Spells** (DC 32), attack +24
 

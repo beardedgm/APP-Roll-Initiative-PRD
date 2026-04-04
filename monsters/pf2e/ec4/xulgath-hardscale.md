@@ -5,9 +5,11 @@ ne, medium, humanoid, xulgath
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
 **Languages** draconic, undercommon
+
+**Skills** Acrobatics +19, Athletics +23, Diplomacy +19, Intimidation +21, Nature +19, Stealth +19, Survival +21
 
 **STR** +5, **DEX** +3, **CON** +4, **INT** +0, **WIS** +3, **CHA** +1
 
@@ -37,12 +39,12 @@ ne, medium, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** warhammer +24 (deadly <2d8>, magical, shove); **Damage** 3d8+11 bludgeoning
+**Melee** ◆ warhammer +24 (deadly <2d8>, magical, shove); **Damage** 3d8+11 bludgeoning
 
-**Melee** jaws +23; **Damage** 3d6+11 piercing
+**Melee** ◆ jaws +23; **Damage** 3d6+11 piercing
 
-**Melee** claw +23 (agile); **Damage** 3d4+11 slashing
+**Melee** ◆ claw +23 (agile); **Damage** 3d4+11 slashing
 
-**Melee** javelin +21 (thrown <20 feet>); **Damage** 1d6+11 piercing
+**Ranged** ◆ javelin +21 (thrown <20 feet>); **Damage** 1d6+11 piercing
 
 **Hammer Mastery** The hardscale deals an extra 1d8 damage with weapons with the shove trait, and weapons with the shove trait gain the deadly 2d8 trait when the hardscale uses them (both the extra weapon damage die and the deadly trait have already been included in the hardscale's warhammer Strike above).

@@ -5,9 +5,11 @@ uncommon, lg, large, aberration
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** celestial, common
+
+**Skills** Acrobatics +22, Deception +18, Diplomacy +21, Stealth +20, Heaven Lore +21
 
 **STR** +5, **DEX** +6, **CON** +5, **INT** +3, **WIS** +5, **CHA** +4
 
@@ -23,9 +25,9 @@ uncommon, lg, large, aberration
 
 Speed 25 feet
 
-**Melee** fangs +22 (agile, finesse); **Damage** 2d8+8 piercing plus guardian naga venom plus guardian naga venom
+**Melee** ◆ fangs +22 (agile, finesse); **Damage** 2d8+8 piercing plus guardian naga venom plus guardian naga venom
 
-**Melee** spit +22 (agile, poison, range increment <30 feet>); plus guardian naga venom
+**Ranged** ◆ spit +22 (agile, poison, range increment <30 feet>); plus guardian naga venom
 
 **Spontaneous divine Spells** (DC 29), attack +21
 

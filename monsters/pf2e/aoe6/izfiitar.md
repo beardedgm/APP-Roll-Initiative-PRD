@@ -5,9 +5,11 @@ uncommon, cn, medium, monitor, protean
 
 ---
 
-**Perception** +36
+**Perception** +36; darkvision, entropy sense 120 feet (imprecise)
 
-**Languages** abyssal, celestial, protean
+**Languages** abyssal, celestial, protean; telepathy 100 feet, tongues
+
+**Skills** Acrobatics +38, Arcana +35, Athletics +35, Deception +37, Diplomacy +37, Occultism +36, Religion +38, Society +35, Stealth +38, Maelstrom Lore +37
 
 **STR** +9, **DEX** +10, **CON** +9, **INT** +7, **WIS** +8, **CHA** +9
 
@@ -33,27 +35,31 @@ uncommon, cn, medium, monitor, protean
 
 ---
 
-Speed 40 feet, fly 50 feet, swim 40 feet
+Speed 40 feet, fly 50 feet, swim 40 feet, freedom of movement
 
-**Melee** jaws +38 (chaotic, finesse, magical); **Damage** 4d8+17 piercing plus 2d6 chaotic and greater warpwave strike plus greater warpwave strike
+**Melee** ◆ jaws +38 (chaotic, finesse, magical); **Damage** 4d8+17 piercing plus 2d6 chaotic and greater warpwave strike plus greater warpwave strike
 
-**Melee** claw +38 (agile, chaotic, finesse, magical); **Damage** 4d6+17 slashing plus 2d6 chaotic and greater warpwave strike plus greater warpwave strike
+**Melee** ◆ claw +38 (agile, chaotic, finesse, magical); **Damage** 4d6+17 slashing plus 2d6 chaotic and greater warpwave strike plus greater warpwave strike
 
-**Melee** tail +38 (chaotic, magical, reach <10 feet>); **Damage** 4d10+17 bludgeoning plus 2d6 chaotic and Improved Grab plus Improved Grab
+**Melee** ◆ tail +38 (chaotic, magical, reach <10 feet>); **Damage** 4d10+17 bludgeoning plus 2d6 chaotic and Improved Grab plus Improved Grab
 
 **Innate divine Spells** (DC 47)
 
-  **2nd** detect alignment
+  **Constant (5th)** tongues
 
-  **4th** dimension door
+  **Constant (4th)** freedom of movement
 
-  **5th** creation, dimension door, hallucinatory terrain
+  **2nd** detect alignment (at will)
 
-  **6th** teleport
+  **4th** dimension door (at will)
 
-  **7th** warp mind
+  **5th** creation (at will), dimension door, hallucinatory terrain (at will)
 
-  **8th** baleful polymorph, confusion, disintegrate, dispel magic, prismatic wall
+  **6th** teleport (at will)
+
+  **7th** warp mind (at will)
+
+  **8th** baleful polymorph, confusion (at will), disintegrate, dispel magic (at will), prismatic wall
 
   **9th** divine wrath, massacre, overwhelming presence, prismatic sphere
 

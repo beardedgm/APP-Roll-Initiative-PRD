@@ -9,6 +9,8 @@ ln, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +15, Diplomacy +11, Intimidation +13, Society +10, Legal Lore +12, Warfare Lore +8
+
 **STR** +5, **DEX** +0, **CON** +2, **INT** +0, **WIS** +3, **CHA** +3
 
 **Items** crossbow (20 bolts), dagger, full plate, +1 longsword, steel shield (Hardness 5, 20 HP, BT 10)
@@ -35,8 +37,8 @@ ln, medium, human, humanoid
 
 Speed 20 feet
 
-**Melee** longsword +18 (magical, versatile <P>); **Damage** 1d8+11 slashing
+**Melee** ◆ longsword +18 (magical, versatile <P>); **Damage** 1d8+11 slashing
 
-**Melee** crossbow +12 (range increment <120 feet>, reload <1>); **Damage** 1d8+6 piercing
+**Ranged** ◆ crossbow +12 (range increment <120 feet>, reload <1>); **Damage** 1d8+6 piercing
 
 **Shielded Advance** ◆ **Requirements** The captain of the guard has their shield raised; The captain of the guard presses forward, using their shield to push back foes. The captain Strides and Shoves, in either order. The multiple attack penalty doesn't apply to this Shove, though the Shove does count toward the captain's multiple attack penalty.

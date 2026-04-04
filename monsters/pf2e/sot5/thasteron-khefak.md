@@ -5,7 +5,9 @@ uncommon, n, medium, beast
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision, tremorsense 60 feet (precise)
+
+**Skills** Acrobatics +9, Athletics +10, Stealth +9
 
 **STR** +3, **DEX** +2, **CON** +3, **INT** -5, **WIS** +2, **CHA** -3
 
@@ -29,4 +31,4 @@ uncommon, n, medium, beast
 
 Speed 20 feet, burrow 5 feet, climb 20 feet
 
-**Melee** mandibles +11 (agile); **Damage** 1d8+5 piercing
+**Melee** ◆ mandibles +11 (agile); **Damage** 1d8+5 piercing

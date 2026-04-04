@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +12
+**Perception** +12; low-light vision
+
+**Skills** Athletics +10, Stealth +9
 
 **STR** +3, **DEX** +2, **CON** +4, **INT** -4, **WIS** +1, **CHA** -1
 
@@ -21,9 +23,9 @@ n, large, animal
 
 Speed 10 feet, fly 35 feet
 
-**Melee** beak +10; **Damage** 1d10+5 piercing plus carrion fever plus carrion fever
+**Melee** ◆ beak +10; **Damage** 1d10+5 piercing plus carrion fever plus carrion fever
 
-**Melee** talon +10 (agile); **Damage** 1d8+5 slashing
+**Melee** ◆ talon +10 (agile); **Damage** 1d8+5 slashing
 
 **Carrion Fever** (disease)
 

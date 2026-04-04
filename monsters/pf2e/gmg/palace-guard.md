@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +12, Diplomacy +10, Intimidation +8
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** chain mail with palace insignia, halberd, simple manacles
@@ -27,8 +29,8 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** halberd +14 (reach, versatile <S>); **Damage** 1d10+7 piercing
+**Melee** ◆ halberd +14 (reach, versatile <S>); **Damage** 1d10+7 piercing
 
-**Melee** fist +12 (agile, nonlethal); **Damage** 1d4+7 bludgeoning
+**Melee** ◆ fist +12 (agile, nonlethal); **Damage** 1d4+7 bludgeoning
 
 **Royal Defender** Ever loyal, the palace guard gains a +2 circumstance bonus to attack rolls when defending their liege.

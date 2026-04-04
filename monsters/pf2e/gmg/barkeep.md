@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +6, Deception +6, Diplomacy +8, Performance +6, Society +5, Thievery +3, Alcohol Lore +9
+
 **STR** +3, **DEX** +0, **CON** +2, **INT** +0, **WIS** +1, **CHA** +3
 
 **Items** barkeep's apron (functions as padded armor), flask of whiskey, pewter mug, sap
@@ -25,11 +27,11 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** sap +6 (agile, nonlethal); **Damage** 1d6+3 bludgeoning
+**Melee** ◆ sap +6 (agile, nonlethal); **Damage** 1d6+3 bludgeoning
 
-**Melee** fist +6 (agile, nonlethal); **Damage** 1d4+3 bludgeoning
+**Melee** ◆ fist +6 (agile, nonlethal); **Damage** 1d4+3 bludgeoning
 
-**Melee** pewter mug +3 (thrown <10 feet>); **Damage** 1d4+3 bludgeoning
+**Ranged** ◆ pewter mug +3 (thrown <10 feet>); **Damage** 1d4+3 bludgeoning
 
 **Bar Brawler** The barkeep has been in enough bar fights to know how to throw a few punches. When fighting in their bar and making a nonlethal attack, the barkeep gains a +1 circumstance bonus to attack rolls and deals an additional 1d4 damage.
 

@@ -5,9 +5,11 @@ cg, tiny, fey, sprite
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision
 
-**Languages** common, sylvan
+**Languages** common, sylvan; telepathy (touch, page 306)
+
+**Skills** Acrobatics +9, Deception +10, Diplomacy +8, Nature +6, Stealth +11
 
 **STR** -1, **DEX** +4, **CON** +1, **INT** +3, **WIS** +1, **CHA** +3
 
@@ -23,15 +25,15 @@ cg, tiny, fey, sprite
 
 Speed 15 feet, fly 40 feet
 
-**Melee** jaws +11 (agile, finesse, magical); **Damage** 1d8+3 bludgeoning damage
+**Melee** ◆ jaws +11 (agile, finesse, magical); **Damage** 1d8+3 bludgeoning damage
 
-**Melee** euphoric spark +7 (enchantment, magical, range <20 feet>); **Damage** 2d4+3 mental
+**Ranged** ◆ euphoric spark +7 (enchantment, magical, range <20 feet>); **Damage** 2d4+3 mental
 
 **Innate primal Spells** (DC 20)
 
   **Cantrips (1st)** dancing lights, ghost sound, prestidigitation
 
-  **1st** illusory disguise
+  **1st** illusory disguise (×3)
 
   **2nd** faerie fire, invisibility
 

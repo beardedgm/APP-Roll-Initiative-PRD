@@ -5,9 +5,11 @@ unique, ce, medium, incorporeal, undead
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
 
 **Languages** necril, tien
+
+**Skills** Acrobatics +28, Stealth +33
 
 **STR** -5, **DEX** +7, **CON** +0, **INT** +0, **WIS** +4, **CHA** +6
 
@@ -35,11 +37,11 @@ unique, ce, medium, incorporeal, undead
 
 Speed fly 30 feet
 
-**Melee** shadow hand +30 (finesse, magical); **Damage** 4d10+10 negative
+**Melee** ◆ shadow hand +30 (finesse, magical); **Damage** 4d10+10 negative
 
 **Innate divine Spells** (DC 36)
 
-  **5th** darkness
+  **5th** darkness (at will)
 
 **Shadow Spawn** When a creature's shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the watchtower shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably clumsy 2. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.
 

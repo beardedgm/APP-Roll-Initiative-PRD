@@ -23,9 +23,9 @@ unique, n, medium, construct
 
   **Cantrips (8th)** daze, detect magic, ghost sound, telekinetic projectile
 
-  **1st** ill omen
+  **1st** ill omen (at will)
 
-  **2nd** augury, hideous laughter
+  **2nd** augury, hideous laughter (×3)
 
   **4th** confusion
 

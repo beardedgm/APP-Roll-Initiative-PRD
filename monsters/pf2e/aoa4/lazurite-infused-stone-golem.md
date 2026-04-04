@@ -7,6 +7,8 @@ rare, n, large, construct, golem, mindless
 
 **Perception** +22
 
+**Skills** Athletics +28
+
 **STR** +8, **DEX** -1, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
 ---
@@ -19,7 +21,7 @@ rare, n, large, construct, golem, mindless
 
 **Immunities** acid, bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see below), mental, necromancy, nonlethal, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 10
+**Resistances** physical 10 (except adamantine)
 
 **Golem Antimagic** harmed by cold and positive (5d10, 2d8 from areas and persistent damage); healed by negative (area 2d8 HP); slowed by earth.
 
@@ -31,7 +33,7 @@ rare, n, large, construct, golem, mindless
 
 Speed 20 feet
 
-**Melee** fist +26 (magical, reach <10 feet>); **Damage** 2d10+11 bludgeoning plus 2d6 negative
+**Melee** ◆ fist +26 (magical, reach <10 feet>); **Damage** 2d10+11 bludgeoning plus 2d6 negative
 
 **Inexorable March** ◆ The golem Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can bar the way by succeeding at a DC 36 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise, it takes damage equal to that dealt by the golem's fist Strike.
 

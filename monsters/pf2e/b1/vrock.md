@@ -5,9 +5,11 @@ ce, large, demon, fiend
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +18, Intimidation +18, Performance +18, Religion +18, Stealth +18, Survival +16
 
 **STR** +6, **DEX** +3, **CON** +5, **INT** +2, **WIS** +3, **CHA** +3
 
@@ -31,17 +33,17 @@ ce, large, demon, fiend
 
 Speed 25 feet, fly 35 feet
 
-**Melee** beak +21 (evil, magical, reach <10 feet>); **Damage** 3d8+9 piercing plus 1d6 evil
+**Melee** ◆ beak +21 (evil, magical, reach <10 feet>); **Damage** 3d8+9 piercing plus 1d6 evil
 
-**Melee** claw +21 (agile, evil, magical, reach <10 feet>); **Damage** 3d6+9 slashing plus 1d6 evil
+**Melee** ◆ claw +21 (agile, evil, magical, reach <10 feet>); **Damage** 3d6+9 slashing plus 1d6 evil
 
-**Melee** talon +19 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+8 slashing plus 1d6 evil
+**Melee** ◆ talon +19 (agile, evil, magical, reach <10 feet>); **Damage** 2d6+8 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 26)
 
   **2nd** mirror image
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
   **5th** dimension door
 

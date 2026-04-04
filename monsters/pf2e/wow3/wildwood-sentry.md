@@ -9,9 +9,11 @@ uncommon, medium, human, humanoid
 
 **Languages** common, fey
 
+**Skills** Forest Lore +16, Medicine +18, Nature +20, Stealth +20, Survival +20
+
 **STR** +4, **DEX** +4, **CON** +2, **INT** +1, **WIS** +4, **CHA** +0
 
-**Items** {@runeItem composite longbow||+1 weapon potency|} (20 {@item arrow (generic)||arrows}), {@item battle axe}, {@item dagger}, {@item leather||leather armor}
+**Items**  (20 arrows), battle axe, dagger, leather armor
 
 **Forager** While using Survival to Subsist, if the sentry rolls a failure or a critical failure, they get a success instead. If the sentry rolls a success, they can provide food for 16 additional creatures that eat about as much as a human, or 32 creatures on a critical success.
 
@@ -31,17 +33,17 @@ uncommon, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +21 (agile, finesse, versatile <S>); **Damage** 1d4+12 piercing
+**Melee** ◆ dagger +21 (agile, finesse, versatile <S>); **Damage** 1d4+12 piercing
 
-**Melee** battle axe +21 (sweep); **Damage** 1d8+12 slashing
+**Melee** ◆ battle axe +21 (sweep); **Damage** 1d8+12 slashing
 
-**Melee** composite longbow +22 (deadly <1d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+11 piercing
+**Ranged** ◆ composite longbow +22 (deadly <1d10>, magical, propulsive, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 1d8+11 piercing
 
 **Innate primal Spells** (DC 25), attack +17
 
   **Cantrips (3rd)** know the way, sigil
 
-  **2nd** revealing light, speak with animals
+  **2nd** revealing light, speak with animals (at will)
 
   **3rd** cleanse affliction, earthbind
 

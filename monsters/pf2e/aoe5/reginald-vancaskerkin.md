@@ -9,6 +9,8 @@ unique, ne, medium, aberration, humanoid
 
 **Languages** abyssal, aquan, common, daemonic, infernal
 
+**Skills** Acrobatics +32, Deception +34, Diplomacy +34, Occultism +31, Religion +28, Thievery +29, Absalom Lore +31, Engineering Lore +31
+
 **STR** +6, **DEX** +3, **CON** +0, **INT** +5, **WIS** +2, **CHA** +8
 
 ---
@@ -33,9 +35,9 @@ unique, ne, medium, aberration, humanoid
 
 Speed 25 feet
 
-**Melee** bronze fist +34 (agile, magical); **Damage** 3d12+14 bludgeoning
+**Melee** ◆ bronze fist +34 (agile, magical); **Damage** 3d12+14 bludgeoning
 
-**Melee** steel quill +31 (agile, magical, thrown <20 feet>); **Damage** 3d8+14 piercing
+**Ranged** ◆ steel quill +31 (agile, magical, thrown <20 feet>); **Damage** 3d8+14 piercing
 
 **Breath Weapon** ◆◆ (clockwork, evocation, magical, poison) Reginald's lungs are equipped with ink canisters, allowing him to spew a 60-foot line of ink that deals 9d6 poison damage (DC 39 basic Reflex save; on a failure, the creature is also subjected to Reginald's poison ink).
 

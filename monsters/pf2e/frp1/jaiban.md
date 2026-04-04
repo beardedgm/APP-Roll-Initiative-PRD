@@ -5,7 +5,9 @@ unique, n, gargantuan, beast
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision, scent 30 feet (imprecise)
+
+**Skills** Athletics +30, Stealth +28, Survival +26
 
 **STR** +9, **DEX** +4, **CON** +8, **INT** -4, **WIS** +3, **CHA** +1
 
@@ -21,11 +23,11 @@ unique, n, gargantuan, beast
 
 Speed 30 feet, swim 30 feet
 
-**Melee** jaws +31 (reach <20 feet>); **Damage** 3d12+14 piercing plus Grab plus Grab
+**Melee** ◆ jaws +31 (reach <20 feet>); **Damage** 3d12+14 piercing plus Grab plus Grab
 
-**Melee** tail +31 (reach <25 feet>); **Damage** 3d6+14 bludgeoning
+**Melee** ◆ tail +31 (reach <25 feet>); **Damage** 3d6+14 bludgeoning
 
-**Melee** foot +31 (reach <15 feet>); **Damage** 3d8+14 bludgeoning
+**Melee** ◆ foot +31 (reach <15 feet>); **Damage** 3d8+14 bludgeoning
 
 **Trample** ◆◆◆ Huge or smaller, foot, DC 36
 

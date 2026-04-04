@@ -5,9 +5,11 @@ unique, ce, gargantuan, dragon
 
 ---
 
-**Perception** +38
+**Perception** +38; darkvision, scent 120 feet (imprecise), {@spell true seeing}
 
 **Languages** aklo, common, draconic, skald, sylvan
+
+**Skills** Acrobatics +40, Arcana +35, Athletics +48, First World Lore +40, Intimidation +45, Nature +35, Saga Lands Lore +35, Stealth +40, Survival +40
 
 **STR** +12, **DEX** +9, **CON** +12, **INT** +4, **WIS** +9, **CHA** +9
 
@@ -37,19 +39,21 @@ unique, ce, gargantuan, dragon
 
 ---
 
-Speed 50 feet, fly 160 feet, burrow 25 feet, swim 80 feet
+Speed 50 feet, fly 160 feet, burrow 25 feet, swim 80 feet, freedom of movement
 
-**Melee** jaws +44 (magical, reach <25 feet>); **Damage** 4d12+26 piercing plus boiling blood plus Boiling Blood
+**Melee** ◆ jaws +44 (magical, reach <25 feet>); **Damage** 4d12+26 piercing plus boiling blood plus Boiling Blood
 
-**Melee** claw +44 (agile, magical, reach <25 feet>); **Damage** 4d10+22 slashing
+**Melee** ◆ claw +44 (agile, magical, reach <25 feet>); **Damage** 4d10+22 slashing
 
-**Melee** horns +44 (deadly <d12>, magical, reach <25 feet>); **Damage** 4d12+26 bludgeoning
+**Melee** ◆ horns +44 (deadly <d12>, magical, reach <25 feet>); **Damage** 4d12+26 bludgeoning
 
-**Melee** tail +44 (agile, magical, reach <30 feet>); **Damage** 4d10+22 bludgeoning plus Improved Grab plus Improved Grab
+**Melee** ◆ tail +44 (agile, magical, reach <30 feet>); **Damage** 4d10+22 bludgeoning plus Improved Grab plus Improved Grab
 
 **Innate primal Spells** (DC 45)
 
-  **10th** plane shift, spell turning
+  **Constant (10th)** freedom of movement, true seeing
+
+  **10th** plane shift (at will), spell turning (at will)
 
 **Blasting Breath** ◆◆ (electricity, evocation, fire, primal) Fafnheir exhales a cataclysmic firestorm laced with lightning and hurricane-strength winds, dealing 20d6 fire damage in a 90-foot cone (DC 48 basic Reflex save). Additionally, Fafnheir deals 10d6 additional electricity damage to one creature within the area of Blasting Breath of Fafnheir's choice, determined by the same basic Reflex save. Creatures in the area must also attempt a DC 48 Fortitude save to resist the powerful winds and deafening thunderclaps of the breath. Creatures that fail experience the effects of gust of wind, affecting Large or smaller creatures as normal. Finally, creatures that fail their Fortitude save become deafened for 1 minute (permanently deafened on a critical failure).
 

@@ -5,7 +5,9 @@ rare, n, tiny, clockwork, construct, mindless
 
 ---
 
-**Perception** +10
+**Perception** +10; low-light vision
+
+**Skills** Acrobatics +7
 
 **STR** +0, **DEX** +4, **CON** +0, **INT** -5, **WIS** +3, **CHA** +0
 
@@ -31,4 +33,4 @@ rare, n, tiny, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** sharpened gear +7 (finesse); **Damage** 1d6-1 slashing plus bleeding gash
+**Melee** ◆ sharpened gear +7 (finesse); **Damage** 1d6-1 slashing plus bleeding gash

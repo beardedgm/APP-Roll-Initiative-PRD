@@ -5,9 +5,11 @@ cn, huge, giant, humanoid
 
 ---
 
-**Perception** +23
+**Perception** +23; low-light vision, see invisibility
 
 **Languages** common, jotun
+
+**Skills** Athletics +22, Religion +20, Stealth +10, Survival +25, Genealogy Lore +16
 
 **STR** +7, **DEX** +1, **CON** +5, **INT** +1, **WIS** +4, **CHA** +2
 
@@ -33,11 +35,11 @@ cn, huge, giant, humanoid
 
 Speed 30 feet
 
-**Melee** longspear +26 (magical, reach <20 feet>); **Damage** 2d8+15 piercing
+**Melee** ◆ longspear +26 (magical, reach <20 feet>); **Damage** 2d8+15 piercing
 
-**Melee** fist +25 (agile, reach <15 feet>); **Damage** 3d6+15 bludgeoning
+**Melee** ◆ fist +25 (agile, reach <15 feet>); **Damage** 3d6+15 bludgeoning
 
-**Melee** rock +25 (brutal, range increment <120 feet>); **Damage** 2d10+15 bludgeoning
+**Ranged** ◆ rock +25 (brutal, range increment <120 feet>); **Damage** 2d10+15 bludgeoning
 
 **Ancestral Guardian** ◆ (concentrate) **Requirements** The taiga giant must be protected by the ancestors; The taiga giant calls upon their ancestors' spirits to rise up and protect them, causing a cloak of spectral faces to shimmer and swirl around them. The taiga giant's AC increases to 34 until the start of its next turn. Protected by the Ancestors (divine) A taiga giant's prayers to their ancestors grant them spiritual protection. If a taiga giant loses this protection (such as by taking too much damage when using Guardian Spirit, or if the ancestors are counteracted by dispel magic), it loses its immunity to the controlled condition and its status bonus to saving throws against enchantment and illusion effects. A taiga giant can once again be Protected by the Ancestors by performing a 10-minute prayer as an activity that has the concentrate trait.
 

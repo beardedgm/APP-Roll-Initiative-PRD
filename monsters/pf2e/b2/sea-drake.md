@@ -5,9 +5,11 @@ ne, large, amphibious, dragon, water
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, scent 30 feet (imprecise)
 
 **Languages** draconic
+
+**Skills** Acrobatics +14, Athletics +16, Stealth +12
 
 **STR** +6, **DEX** +2, **CON** +4, **INT** -1, **WIS** +2, **CHA** +0
 
@@ -27,9 +29,9 @@ ne, large, amphibious, dragon, water
 
 Speed 15 feet, fly 40 feet, swim 50 feet
 
-**Melee** jaws +17; **Damage** 2d8+9 piercing plus briny wound plus briny wound
+**Melee** ◆ jaws +17; **Damage** 2d8+9 piercing plus briny wound plus briny wound
 
-**Melee** tail +17 (agile, reach <10 feet>); **Damage** 2d6+9 bludgeoning
+**Melee** ◆ tail +17 (agile, reach <10 feet>); **Damage** 2d6+9 bludgeoning
 
 **Ball Lightning Breath** ◆◆ (arcane, electricity, evocation) The sea drake spews a ball of electricity that strikes a primary target within 100 feet, dealing 7d6 electricity damage (DC 24 basic Reflex save). The lightning then arcs to up to three secondary targets within 30 feet of the primary target, striking the closest available targets first. The secondary bolts each strike one secondary target and deal the same rolled damage value as the primary bolt (DC 22 basic Reflex save). The sea drake can't use Ball Lightning Breath again for 1d6 rounds.
 

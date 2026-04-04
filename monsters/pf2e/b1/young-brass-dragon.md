@@ -5,9 +5,11 @@ cg, large, dragon, fire
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, scent 60 feet (imprecise), {@ability tremorsense} 30 feet (imprecise)
 
-**Languages** common, draconic, gnome, halfling, sylvan
+**Languages** common, draconic, gnome, halfling, sylvan; speak with animals
+
+**Skills** Acrobatics +13, Athletics +18, Deception +15, Diplomacy +15, Society +14
 
 **STR** +5, **DEX** +2, **CON** +3, **INT** +1, **WIS** +1, **CHA** +2
 
@@ -29,13 +31,15 @@ cg, large, dragon, fire
 
 Speed 40 feet, fly 120 feet, burrow 30 feet
 
-**Melee** jaws +19 (fire, reach <10 feet>); **Damage** 2d6+8 piercing plus 1d8 fire
+**Melee** ◆ jaws +19 (fire, reach <10 feet>); **Damage** 2d6+8 piercing plus 1d8 fire
 
-**Melee** claw +19 (agile); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +19 (agile); **Damage** 2d6+8 slashing
 
-**Melee** wing +17 (reach <10 feet>); **Damage** 1d8+7 slashing
+**Melee** ◆ wing +17 (reach <10 feet>); **Damage** 1d8+7 slashing
 
 **Innate arcane Spells** (DC 25)
+
+  **Constant (2nd)** speak with animals
 
 **Breath Weapon** ◆◆ (arcane, evocation, fire) The brass dragon breathes fire in a 60-foot line that deals 8d6 fire damage (DC 26 basic Reflex save). The dragon can't use Breath Weapon again for 1d4 rounds.
 

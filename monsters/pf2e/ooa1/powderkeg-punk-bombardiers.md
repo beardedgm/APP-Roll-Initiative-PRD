@@ -9,6 +9,8 @@ uncommon, ne, medium, humanoid
 
 **Languages** common, goblin
 
+**Skills** Acrobatics +7, Athletics +3, Crafting +5, Intimidation +8, Stealth +7, Gunpowder Lore +7
+
 **STR** +0, **DEX** +4, **CON** +3, **INT** +2, **WIS** +0, **CHA** +3
 
 **Items** blaze (page 77), lesser alchemist's fire (4)
@@ -29,9 +31,9 @@ uncommon, ne, medium, humanoid
 
 Speed 25 feet
 
-**Melee** fist +7 (agile, finesse, nonlethal, unarmed); **Damage** 1d4 bludgeoning
+**Melee** ◆ fist +7 (agile, finesse, nonlethal, unarmed); **Damage** 1d4 bludgeoning
 
-**Melee** alchemist's fire +9 (bomb, range increment <20 feet>, splash); **Damage** 1d8 fire plus 1 persistent fire plus 1 fire splash
+**Ranged** ◆ alchemist's fire +9 (bomb, range increment <20 feet>, splash); **Damage** 1d8 fire plus 1 persistent fire plus 1 fire splash
 
 **Bombing Run** ◆◆ The bombardier draws two bombs, and then Strides and makes two Strikes with a bomb before, after, or during the movement.
 

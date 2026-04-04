@@ -5,9 +5,11 @@ ce, medium, drow, elf, humanoid
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
 **Languages** abyssal, elven, undercommon
+
+**Skills** Deception +8, Intimidation +8, Religion +9, Society +5, Stealth +7
 
 **STR** +1, **DEX** +2, **CON** +1, **INT** +0, **WIS** +4, **CHA** +1
 
@@ -31,9 +33,9 @@ ce, medium, drow, elf, humanoid
 
 Speed 30 feet
 
-**Melee** rapier +9 (deadly <1d8>, disarm, finesse); **Damage** 1d6+2 piercing
+**Melee** ◆ rapier +9 (deadly <1d8>, disarm, finesse); **Damage** 1d6+2 piercing
 
-**Melee** hand crossbow +9 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing plus lethargy poison plus lethargy poison
+**Ranged** ◆ hand crossbow +9 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing plus lethargy poison plus lethargy poison
 
 **Prepared divine Spells** (DC 21)
 
@@ -41,16 +43,16 @@ Speed 30 feet
 
   **1st** bless, command, fear
 
-  **2nd** harm, silence, spiritual weapon
+  **2nd** harm (×3), silence, spiritual weapon
 
 **Innate divine Spells** (DC 17)
 
   **Cantrips (4th)** dancing lights
 
-  **1st** command
+  **1st** command (at will)
 
-  **2nd** darkness, faerie fire
+  **2nd** darkness (at will), faerie fire (at will)
 
-  **3rd** dispel magic, levitate
+  **3rd** dispel magic, levitate (×3)
 
   **4th** darkness

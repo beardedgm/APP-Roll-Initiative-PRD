@@ -5,9 +5,11 @@ uncommon, le, huge, dragon, electricity
 
 ---
 
-**Perception** +31
+**Perception** +31; darkvision, scent 60 feet (imprecise)
 
 **Languages** auran, common, draconic, jotun, ignan, infernal
+
+**Skills** Acrobatics +28, Arcana +33, Deception +35, Diplomacy +35, Intimidation +33, Society +35, Stealth +28, Survival +29
 
 **STR** +7, **DEX** +4, **CON** +6, **INT** +7, **WIS** +5, **CHA** +7
 
@@ -31,23 +33,23 @@ uncommon, le, huge, dragon, electricity
 
 Speed 50 feet, fly 200 feet, burrow 30 feet
 
-**Melee** jaws +35 (electricity, magical, reach <20 feet>); **Damage** 3d10+15 piercing plus 2d12 electricity
+**Melee** ◆ jaws +35 (electricity, magical, reach <20 feet>); **Damage** 3d10+15 piercing plus 2d12 electricity
 
-**Melee** claw +35 (agile, magical, reach <15 feet>); **Damage** 3d10+15 slashing
+**Melee** ◆ claw +35 (agile, magical, reach <15 feet>); **Damage** 3d10+15 slashing
 
-**Melee** tail +33 (magical, reach <25 feet>); **Damage** 3d10+13 bludgeoning
+**Melee** ◆ tail +33 (magical, reach <25 feet>); **Damage** 3d10+13 bludgeoning
 
-**Melee** horns +33 (magical, reach <20 feet>); **Damage** 2d10+13 piercing
+**Melee** ◆ horns +33 (magical, reach <20 feet>); **Damage** 2d10+13 piercing
 
 **Innate arcane Spells** (DC 43)
 
   **Cantrips (8th)** ghost sound
 
-  **1st** create water
+  **1st** create water (at will)
 
   **7th** project image
 
-  **8th** hallucinatory terrain, illusory creature, illusory object, ventriloquism
+  **8th** hallucinatory terrain (at will), illusory creature (at will), illusory object (at will), ventriloquism (at will)
 
 **Breath Weapon** (arcane, electricity, evocation) The dragon breathes lightning that deals 12d12 electricity damage in a 120-foot line (DC 40 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds. Each time the dragon uses Breath Weapon, a 20-foot-radius storm cloud appears 80 feet above a point of the dragon's choosing along the Breath Weapon's path. Clouds last for 10 minutes and allow the dragon to use Storm Breath.
 

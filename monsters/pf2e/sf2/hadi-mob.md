@@ -5,9 +5,11 @@ rare, ne, gargantuan, humanoid, ratfolk, troop
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
 
-**Languages** common, daemonic
+**Languages** common, daemonic; ratspeak
+
+**Skills** Athletics +27, Stealth +29
 
 **STR** +6, **DEX** +8, **CON** +6, **INT** +4, **WIS** +4, **CHA** +2
 

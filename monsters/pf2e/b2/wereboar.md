@@ -5,9 +5,11 @@ cn, medium, beast, human, humanoid, werecreature
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision, scent 30 feet (imprecise)
 
-**Languages** common
+**Languages** common; boar empathy
+
+**Skills** Acrobatics +7, Athletics +8, Intimidation +5, Survival +7
 
 **STR** +4, **DEX** +1, **CON** +4, **INT** +0, **WIS** +2, **CHA** -1
 
@@ -31,13 +33,13 @@ cn, medium, beast, human, humanoid, werecreature
 
 Speed 25 feet
 
-**Melee** dagger +10 (agile, versatile <S>); **Damage** 1d4+6 piercing
+**Melee** ◆ dagger +10 (agile, versatile <S>); **Damage** 1d4+6 piercing
 
-**Melee** tusk +10; **Damage** 1d8+6 piercing plus curse of the wereboar plus curse of the wereboar
+**Melee** ◆ tusk +10; **Damage** 1d8+6 piercing plus curse of the wereboar plus curse of the wereboar
 
-**Melee** claw +10 (agile); **Damage** 1d4+6 piercing
+**Melee** ◆ claw +10 (agile); **Damage** 1d4+6 piercing
 
-**Melee** dagger +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
+**Ranged** ◆ dagger +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
 
 **Boar Charge** ◆◆ The wereboar Strides twice and then makes a melee Strike. As long as they moved at least 20 feet, they gain a +2 circumstance bonus to their attack roll.
 

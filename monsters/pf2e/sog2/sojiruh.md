@@ -5,13 +5,15 @@ uncommon, ce, medium, fiend, nindoru
 
 ---
 
-**Perception** +11
+**Perception** +11; {@ability darkvision}
 
 **Languages** aklo, common, necril
 
+**Skills** Acrobatics +11, Athletics +11, Intimidation +11, Occultism +10, Religion +9
+
 **STR** +5, **DEX** +3, **CON** +2, **INT** +2, **WIS** +3, **CHA** +3
 
-**Items** {@condition broken} {@item shortsword}
+**Items** broken shortsword
 
 ---
 
@@ -33,7 +35,7 @@ uncommon, ce, medium, fiend, nindoru
 
 Speed 25 feet
 
-**Melee** broken shortsword +14 (agile, finesse, magical, versatile <s>); **Damage** 1d6+7 slashing plus 1d6 mental
+**Melee** ◆ broken shortsword +14 (agile, finesse, magical, versatile <s>); **Damage** 1d6+7 slashing plus 1d6 mental
 
 **Innate occult Spells** (DC 21), attack +13
 

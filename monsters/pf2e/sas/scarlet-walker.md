@@ -5,9 +5,11 @@ rare, le, huge, aberration, dream
 
 ---
 
-**Perception** +23
+**Perception** +23; bloodsense  [object Object] feet, darkvision
 
-**Languages** aklo, infernal
+**Languages** aklo, infernal; telepathy 300 feet
+
+**Skills** Acrobatics +25, Arcana +22, Athletics +22, Blood Lore +26, Intimidate +23, Medicine +23, Occultism +24, Stealth +25
 
 **STR** +6, **DEX** +7, **CON** +5, **INT** +4, **WIS** +5, **CHA** +4
 
@@ -33,19 +35,21 @@ rare, le, huge, aberration, dream
 
 ---
 
-Speed 30 feet, climb 30 feet
+Speed 30 feet, climb 30 feet, air walk
 
-**Melee** claw +24 (magical, reach 15 feet); **Damage** 3d6+12 piercing plus 2d12 persistent bleed
+**Melee** ◆ claw +24 (magical, reach 15 feet); **Damage** 3d6+12 piercing plus 2d12 persistent bleed
 
-**Melee** tentacle +24 (agile, magical, reach 15 feet); **Damage** 3d8+12 bludgeoning plus paralysis
+**Melee** ◆ tentacle +24 (agile, magical, reach 15 feet); **Damage** 3d8+12 bludgeoning plus paralysis
 
 **Innate occult Spells** (DC 32)
 
+  **Constant (6th)** air walk
+
   **Cantrips (6th)** daze
 
-  **4th** confusion
+  **4th** confusion (×3)
 
-  **5th** mind probe, sending, subconscious suggestion
+  **5th** mind probe, sending (×3), subconscious suggestion
 
   **6th** feeblemind, true seeing, vampiric exsanguination
 

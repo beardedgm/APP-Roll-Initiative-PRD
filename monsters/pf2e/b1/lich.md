@@ -5,9 +5,11 @@ rare, ne, medium, undead
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision
 
 **Languages** abyssal, aklo, common, draconic, elf, infernal, necril, undercommon
+
+**Skills** Arcana +28, Crafting +24, Deception +17, Diplomacy +19, Religion +22, Stealth +20
 
 **STR** +0, **DEX** +4, **CON** +0, **INT** +6, **WIS** +4, **CHA** +3
 
@@ -23,7 +25,7 @@ rare, ne, medium, undead
 
 **Immunities** poison, death effects, disease, paralyzed, unconscious
 
-**Resistances** cold 10, physical 10
+**Resistances** cold 10, physical 10 (except magic bludgeoning)
 
 **Frightful Presence** (aura, emotion, fear, mental) 60 feet, DC 29
 
@@ -33,13 +35,13 @@ rare, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** hand +24 (finesse, magical); **Damage** 4d8 negative plus paralyzing touch plus paralyzing touch
+**Melee** ◆ hand +24 (finesse, magical); **Damage** 4d8 negative plus paralyzing touch plus paralyzing touch
 
 **Prepared arcane Spells** (DC 36), attack +26
 
   **Cantrips (6th)** detect magic, mage hand, message, ray of frost, shield
 
-  **1st** fleet step, ray of enfeeblement, true strike
+  **1st** fleet step, ray of enfeeblement (×2), true strike
 
   **2nd** false life, mirror image, resist energy, see invisibility
 
@@ -47,7 +49,7 @@ Speed 25 feet
 
   **4th** dimension door, dispel magic, fire shield, fly
 
-  **5th** cloudkill, cone of cold, wall of ice
+  **5th** cloudkill, cone of cold (×2), wall of ice
 
   **6th** chain lightning, dominate, vampiric exsanguination
 

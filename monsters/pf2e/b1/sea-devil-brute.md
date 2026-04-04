@@ -5,9 +5,11 @@ le, medium, amphibious, humanoid, sea devil
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision, wavesense 30 feet
 
-**Languages** aquan
+**Languages** aquan; shark commune 150 feet
+
+**Skills** Athletics +12, Intimidation +9, Survival +9
 
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +1, **CHA** +0
 
@@ -27,13 +29,13 @@ le, medium, amphibious, humanoid, sea devil
 
 Speed 25 feet, swim 35 feet
 
-**Melee** trident +14; **Damage** 1d8+8 piercing
+**Melee** ◆ trident +14; **Damage** 1d8+8 piercing
 
-**Melee** claw +14 (agile); **Damage** 1d6+6 slashing
+**Melee** ◆ claw +14 (agile); **Damage** 1d6+6 slashing
 
-**Melee** jaws +14; **Damage** 1d8+6 piercing
+**Melee** ◆ jaws +14; **Damage** 1d8+6 piercing
 
-**Melee** trident +11 (thrown <20 feet>); **Damage** 1d8+8 piercing
+**Ranged** ◆ trident +11 (thrown <20 feet>); **Damage** 1d8+8 piercing
 
 **Blood Frenzy** ◇ (rage) As sea devil scout, 11 temporary HP.
 

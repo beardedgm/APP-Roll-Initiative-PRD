@@ -5,7 +5,9 @@ n, medium, mindless, ooze
 
 ---
 
-**Perception** +14
+**Perception** +14; motion sense 60 feet, no vision
+
+**Skills** Athletics +23
 
 **STR** +6, **DEX** -5, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -33,7 +35,7 @@ n, medium, mindless, ooze
 
 Speed 20 feet, swim 20 feet
 
-**Melee** pseudopod +23; **Damage** 2d10+10 bludgeoning plus residual grease plus residual grease
+**Melee** ◆ pseudopod +23; **Damage** 2d10+10 bludgeoning plus residual grease plus residual grease
 
 **Engulf** ◆◆ DC 30, 4d10 bludgeoning, Escape DC 26, Rupture 25.
 

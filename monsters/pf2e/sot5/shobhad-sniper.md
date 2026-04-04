@@ -5,9 +5,11 @@ uncommon, n, large, humanoid
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision
 
 **Languages** akitonian, shobhad
+
+**Skills** Athletics +31, Intimidation +30, Stealth +34, Survival +30
 
 **STR** +6, **DEX** +9, **CON** +5, **INT** +2, **WIS** +5, **CHA** +2
 
@@ -31,9 +33,9 @@ uncommon, n, large, humanoid
 
 Speed 30 feet
 
-**Melee** fist +31 (agile, finesse, magical, nonlethal, reach <10 feet>, unarmed); **Damage** 2d10+14 bludgeoning
+**Melee** ◆ fist +31 (agile, finesse, magical, nonlethal, reach <10 feet>, unarmed); **Damage** 2d10+14 bludgeoning
 
-**Melee** longrifle +34 (backstabber, concussive, fatal <d12>, kickback, volley; range increment <120 feet>, reload <1>); **Damage** 3d8+9 bludgeoning; this includes the additional damage from kickback
+**Ranged** ◆ longrifle +34 (backstabber, concussive, fatal <d12>, kickback, volley; range increment <120 feet>, reload <1>); **Damage** 3d8+9 bludgeoning; this includes the additional damage from kickback
 
 **Sniping Shot** ◆◆ The shobhad sniper makes a Strike with their longrifle, gaining a +2 circumstance bonus to this Strike's attack roll and ignoring the target's concealment.
 

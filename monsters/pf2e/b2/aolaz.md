@@ -5,7 +5,9 @@ rare, n, gargantuan, construct
 
 ---
 
-**Perception** +33
+**Perception** +33; flawless hearing, low-light vision
+
+**Skills** Athletics +35
 
 **STR** +9, **DEX** +4, **CON** +8, **INT** -4, **WIS** +6, **CHA** +3
 
@@ -23,13 +25,15 @@ rare, n, gargantuan, construct
 
 ---
 
-Speed 50 feet
+Speed 50 feet, air walk, water walk
 
-**Melee** trunk +35 (magical, reach <20 feet>, sweep, trip); **Damage** 5d10+17 bludgeoning plus Grab plus Grab
+**Melee** ◆ trunk +35 (magical, reach <20 feet>, sweep, trip); **Damage** 5d10+17 bludgeoning plus Grab plus Grab
 
-**Melee** foot +33 (magical, reach <10 feet>); **Damage** 5d8+15 bludgeoning
+**Melee** ◆ foot +33 (magical, reach <10 feet>); **Damage** 5d8+15 bludgeoning
 
 **Innate arcane Spells** (DC 40)
+
+  **Constant (9th)** air walk, water walk
 
 **Roll** ◆ The aolaz tucks its head down and rolls up into an armored sphere. While Rolling, an aolaz has AC 44, Fort +37, Ref +29, Will +33, and Speed 100 feet, but it can't use its trunk Strikes or its Ultrasonic Blast. It can make foot Strikes while rolling, but only as part of a Trample. The aolaz can use this action again to unroll and resume its standing form.
 

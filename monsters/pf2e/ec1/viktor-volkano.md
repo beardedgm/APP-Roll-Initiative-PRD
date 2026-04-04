@@ -7,6 +7,8 @@ unique, cn, medium, human, humanoid
 
 **Perception** +7
 
+**Skills** Arcana +6, Athletics +6, Crafting +4, Performance +8
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** +0, **WIS** +0, **CHA** +2
 
 **Items** batons doused in flammable oil (2)
@@ -23,9 +25,9 @@ unique, cn, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** flaming baton +10; **Damage** 1d6+2 bludgeoning plus 1d6 fire
+**Melee** ◆ flaming baton +10; **Damage** 1d6+2 bludgeoning plus 1d6 fire
 
-**Melee** flame spit +10 (range <10 feet>); **Damage** 2d8 fire
+**Ranged** ◆ flame spit +10 (range <10 feet>); **Damage** 2d8 fire
 
 **Breathe Fire** ◆ (primal, fire) **Requirements** Viktor is holding an ignited baton; Viktor breathes fire in a 20-foot cone. Creatures within the cone take 3d6 fire damage (DC 18 basic Reflex save). Once Viktor breathes fire, he cannot do so again for 1d4 rounds.
 

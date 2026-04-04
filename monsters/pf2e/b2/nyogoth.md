@@ -5,9 +5,11 @@ uncommon, ce, medium, fiend, qlippoth
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
-**Languages** abyssal
+**Languages** abyssal; telepathy 100 ft.
+
+**Skills** Acrobatics +21, Athletics +21, Intimidation +19, Occultism +16, Stealth +21
 
 **STR** +7, **DEX** +5, **CON** +6, **INT** +0, **WIS** +5, **CHA** +3
 
@@ -21,7 +23,7 @@ uncommon, ce, medium, fiend, qlippoth
 
 **Immunities** acid, controlled, fear
 
-**Resistances** mental 10, physical 10
+**Resistances** mental 10, physical 10 (except cold iron)
 
 **Weaknesses** lawful 10
 
@@ -31,15 +33,15 @@ uncommon, ce, medium, fiend, qlippoth
 
 Speed 5 feet, fly 25 feet
 
-**Melee** jaws +23 (chaotic, magical); **Damage** 2d6+13 piercing plus 2d6 acid, 1d6 chaotic, and Grab plus Grab
+**Melee** ◆ jaws +23 (chaotic, magical); **Damage** 2d6+13 piercing plus 2d6 acid, 1d6 chaotic, and Grab plus Grab
 
-**Melee** tentacle mouth +23 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d6+13 piercing plus 1d6 acid, 1d6 chaotic, and Grab plus Grab
+**Melee** ◆ tentacle mouth +23 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d6+13 piercing plus 1d6 acid, 1d6 chaotic, and Grab plus Grab
 
 **Innate occult Spells** (DC 26), attack +20
 
-  **3rd** fear
+  **3rd** fear (at will)
 
-  **4th** acid arrow, dimension door
+  **4th** acid arrow (at will), dimension door
 
   **5th** cloudkill
 

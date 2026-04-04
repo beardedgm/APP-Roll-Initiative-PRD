@@ -9,6 +9,8 @@ n, gargantuan, construct, troop
 
 **Languages** common (can't speak any language)
 
+**Skills** Athletics +26, Intimidation +23
+
 **STR** +7, **DEX** +2, **CON** +6, **INT** +2, **WIS** +3, **CHA** +4
 
 ---
@@ -31,7 +33,7 @@ n, gargantuan, construct, troop
 
 ---
 
-Speed 25 feet
+Speed 25 feet, troop movement
 
 **Form Up** ◆
 

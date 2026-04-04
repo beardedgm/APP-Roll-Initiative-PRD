@@ -5,13 +5,15 @@ unique, ce, medium, dwarf, humanoid
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** common, dwarven, jotun
 
+**Skills** Athletics +25, Intimidation +21, Performance +21, Religion +22, Survival +22
+
 **STR** +5, **DEX** +1, **CON** +3, **INT** +0, **WIS** +4, **CHA** +3
 
-**Items** steel-colored bird feather token, +1 striking greatsword, +1 resilient half plate, The Publican, religious symbol of {@deity Gorum}
+**Items** steel-colored bird feather token, +1 striking greatsword, +1 resilient half plate, The Publican, religious symbol of Gorum
 
 ---
 
@@ -29,7 +31,7 @@ unique, ce, medium, dwarf, humanoid
 
 Speed 20 feet
 
-**Melee** greatsword +26 (magical, versatile <P>); **Damage** 3d12+11 slashing
+**Melee** ◆ greatsword +26 (magical, versatile <P>); **Damage** 3d12+11 slashing
 
 **Spontaneous divine Spells** (DC 30), attack +22
 

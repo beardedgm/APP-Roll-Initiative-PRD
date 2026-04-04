@@ -5,9 +5,11 @@ ce, medium, human, humanoid, tiefling
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** abyssal, common
+
+**Skills** Acrobatics +7, Arcana +9, Deception +9, Intimidation +7, Occultism +9, Religion +6, Society +9, Stealth +7, Abyss Lore +9
 
 **STR** +0, **DEX** +2, **CON** +0, **INT** +4, **WIS** +1, **CHA** +2
 
@@ -25,11 +27,11 @@ ce, medium, human, humanoid, tiefling
 
 Speed 25 feet
 
-**Melee** staff +6 (two-handed 1d8); **Damage** 1d6 bludgeoning
+**Melee** ◆ staff +6 (two-handed 1d8); **Damage** 1d6 bludgeoning
 
-**Melee** dagger +7 (agile, finesse, versatile <S>); **Damage** 1d4 piercing
+**Melee** ◆ dagger +7 (agile, finesse, versatile <S>); **Damage** 1d4 piercing
 
-**Melee** dagger +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+1 piercing
+**Ranged** ◆ dagger +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+1 piercing
 
 **Prepared arcane Spells** (DC 21), attack +11
 

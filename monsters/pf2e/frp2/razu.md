@@ -5,9 +5,11 @@ unique, ne, medium, humanoid, tengu
 
 ---
 
-**Perception** +30
+**Perception** +30; low-light vision
 
 **Languages** taldane, tengu, tien
+
+**Skills** Acrobatics +32, Deception +35, Diplomacy +33, Intimidation +33, Performance +35, Goka Lore +25, Theater Lore +27, Warfare Lore +27
 
 **STR** +0, **DEX** +6, **CON** +3, **INT** +1, **WIS** +4, **CHA** +6
 
@@ -23,7 +25,7 @@ unique, ne, medium, humanoid, tengu
 
 Speed 25 feet, fly 80 feet
 
-**Melee** erhu bow +30 (agile, finesse, magical, thrown <20 feet>, versatile <P>); **Damage** 3d6+10 slashing plus 3d6 sonic
+**Melee** ◆ erhu bow +30 (agile, finesse, magical, thrown <20 feet>, versatile <P>); **Damage** 3d6+10 slashing plus 3d6 sonic
 
 **Spontaneous occult Spells** (DC 42), attack +32
 

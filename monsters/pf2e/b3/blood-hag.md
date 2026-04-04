@@ -5,9 +5,11 @@ ce, medium, hag, humanoid
 
 ---
 
-**Perception** +17
+**Perception** +17; bloodsense 90 feet (imprecise), darkvision
 
 **Languages** abyssal, aklo, common, infernal, jotun
+
+**Skills** Acrobatics +15, Athletics +16, Deception +19, Diplomacy +17, Occultism +14, Stealth +17
 
 **STR** +4, **DEX** +5, **CON** +2, **INT** +2, **WIS** +3, **CHA** +5
 
@@ -33,15 +35,15 @@ ce, medium, hag, humanoid
 
 Speed 25 feet
 
-**Melee** claw +18 (agile); **Damage** 2d8+7 slashing plus Grab plus Grab
+**Melee** ◆ claw +18 (agile); **Damage** 2d8+7 slashing plus Grab plus Grab
 
-**Melee** jaws +18; **Damage** 2d12+7 piercing
+**Melee** ◆ jaws +18; **Damage** 2d12+7 piercing
 
-**Melee** firebolt +19 (agile, fire); **Damage** 2d10+8 fire
+**Ranged** ◆ firebolt +19 (agile, fire); **Damage** 2d10+8 fire
 
 **Innate occult Spells** (DC 26)
 
-  **4th** charm, sleep
+  **4th** charm, sleep (×3)
 
 **Assume Fiery Form** ◆◆◆ (concentrate, fire, occult, polymorph, transmutation) The blood hag removes her borrowed skin and transforms into a brilliant ball of fire. She becomes amorphous, gains the fire trait and a fly Speed of 60 feet, becomes immune to fire, and emits light as a torch. She loses her melee Strikes and can't Drain Blood, but she deals 3d10 fire damage (DC 26 basic Reflex save) to each creature that touches her, as well as to each creature that succeeds at a melee Strike against her with an unarmed attack or from an adjacent space. If her skin is intact, she can return to her normal form by spending a single action that has the manipulate trait while adjacent to the skin. The hag can instead Assume Fiery Form as a single action, bursting through her skin in a blast of flames. Doing so destroys her borrowed skin and deals 9d6 fire damage (DC 26 basic Reflex save) in a 20-foot emanation.
 

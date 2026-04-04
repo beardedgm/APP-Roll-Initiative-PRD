@@ -5,13 +5,15 @@ uncommon, ce, medium, aberration
 
 ---
 
-**Perception** +8
+**Perception** +8; no face
 
-**Languages** common
+**Languages** common; telepathy 30 feet
+
+**Skills** Acrobatics +7, Athletics +5, Crafting +7, Deception +9, Occultism +7, Stealth +7
 
 **STR** +1, **DEX** +3, **CON** +2, **INT** +3, **WIS** +0, **CHA** +3
 
-**Items** {@item staff}
+**Items** staff
 
 **No Face** Noppera-bos have no sense of vision, but their sense of hearing is precise. They don't breathe and are immune to effects that require breathing. They gain sustenance by absorbing fluids through their skin—traditionally by immersing their hands or faceless head into the fluid to "drink" through osmosis; they can also benefit from consumables, such as potions or elixirs, in this way.
 
@@ -33,7 +35,7 @@ uncommon, ce, medium, aberration
 
 Speed 25 feet
 
-**Melee** staff +7 (two-hand <d8>); **Damage** 1d4+3 bludgeoning
+**Melee** ◆ staff +7 (two-hand <d8>); **Damage** 1d4+3 bludgeoning
 
 **Innate occult Spells** (DC 18), attack +9
 

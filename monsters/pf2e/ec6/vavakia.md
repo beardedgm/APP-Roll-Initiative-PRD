@@ -5,9 +5,11 @@ uncommon, ce, huge, demon, fiend
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision, true seeing
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Athletics +35, Deception +32, Intimidation +34, Religion +30, Stealth +32
 
 **STR** +9, **DEX** +4, **CON** +6, **INT** +4, **WIS** +6, **CHA** +6
 
@@ -31,21 +33,23 @@ uncommon, ce, huge, demon, fiend
 
 Speed 40 feet, fly 40 feet
 
-**Melee** ranseur +36 (disarm, magical, reach <25 feet>); **Damage** 3d10+17 piercing plus 1d10 acid and Grab plus Grab
+**Melee** ◆ ranseur +36 (disarm, magical, reach <25 feet>); **Damage** 3d10+17 piercing plus 1d10 acid and Grab plus Grab
 
-**Melee** jaws +35 (magical, reach <15 feet>); **Damage** 3d8+17 piercing plus 2d8 persistent bleed and smoking wound plus smoking wound
+**Melee** ◆ jaws +35 (magical, reach <15 feet>); **Damage** 3d8+17 piercing plus 2d8 persistent bleed and smoking wound plus smoking wound
 
-**Melee** claw +35 (agile, magical, reach <15 feet>); **Damage** 3d10+17 slashing
+**Melee** ◆ claw +35 (agile, magical, reach <15 feet>); **Damage** 3d10+17 slashing
 
-**Melee** tail +35 (backswing, magical, reach <20 feet>); **Damage** 3d12+17 bludgeoning plus stunning tail plus stunning tail
+**Melee** ◆ tail +35 (backswing, magical, reach <20 feet>); **Damage** 3d12+17 bludgeoning plus stunning tail plus stunning tail
 
 **Innate divine Spells** (DC 40)
 
-  **4th** dimension door
+  **Constant (9th)** true seeing
+
+  **4th** dimension door (at will)
 
   **5th** dimension door
 
-  **8th** divine aura, divine wrath, earthquake
+  **8th** divine aura, divine wrath (at will), earthquake
 
   **9th** massacre, power word stun
 

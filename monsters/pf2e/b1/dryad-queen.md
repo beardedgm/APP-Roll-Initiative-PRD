@@ -5,9 +5,11 @@ uncommon, cg, medium, fey, nymph, plant
 
 ---
 
-**Perception** +25
+**Perception** +25; low-light vision
 
-**Languages** common, elven, sylvan
+**Languages** common, elven, sylvan; speak with plants
+
+**Skills** Acrobatics +25, Athletics +19, Crafting +23, Deception +30, Diplomacy +30, Intimidation +27, Nature +24, Performance +28, Stealth +25, Survival +24
 
 **STR** +2, **DEX** +6, **CON** +6, **INT** +4, **WIS** +4, **CHA** +8
 
@@ -31,9 +33,9 @@ uncommon, cg, medium, fey, nymph, plant
 
 Speed 30 feet
 
-**Melee** branch +27 (finesse, magical); **Damage** 3d12+8 bludgeoning
+**Melee** ◆ branch +27 (finesse, magical); **Damage** 3d12+8 bludgeoning
 
-**Melee** leaves +27 (conjuration, plant, primal, range increment <60 feet>); **Damage** 3d8+6 slashing
+**Ranged** ◆ leaves +27 (conjuration, plant, primal, range increment <60 feet>); **Damage** 3d8+6 slashing
 
 **Prepared primal Spells** (DC 35), attack +25
 
@@ -55,15 +57,17 @@ Speed 30 feet
 
 **Innate primal Spells** (DC 35), attack +25
 
+  **Constant (4th)** speak with plants
+
   **Cantrips (5th)** tanglefoot
 
-  **2nd** shape wood, tree shape
+  **2nd** shape wood (at will), tree shape (at will)
 
-  **3rd** entangle, sleep
+  **3rd** entangle (at will), sleep (at will)
 
-  **4th** charm, suggestion
+  **4th** charm (at will), suggestion (at will)
 
-  **5th** tree stride
+  **5th** tree stride (×3)
 
   **8th** impaling briars
 

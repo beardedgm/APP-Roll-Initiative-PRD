@@ -5,9 +5,11 @@ ln, medium, aeon, monitor
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
 **Languages** abyssal, celestial, common, draconic, infernal, utopian
+
+**Skills** Acrobatics +16, Diplomacy +15, Occultism +17, Religion +17, Axis Lore +17
 
 **STR** +5, **DEX** +4, **CON** +3, **INT** +5, **WIS** +5, **CHA** +3
 
@@ -29,21 +31,21 @@ ln, medium, aeon, monitor
 
 Speed 25 feet
 
-**Melee** warhammer +20 (lawful, magical, shove); **Damage** 2d8+11 bludgeoning plus 1d6 lawful
+**Melee** ◆ warhammer +20 (lawful, magical, shove); **Damage** 2d8+11 bludgeoning plus 1d6 lawful
 
-**Melee** fist +17 (agile, lawful, magical); **Damage** 1d8+5 bludgeoning plus 1d6 lawful
+**Melee** ◆ fist +17 (agile, lawful, magical); **Damage** 1d8+5 bludgeoning plus 1d6 lawful
 
 **Innate divine Spells** (DC 27), attack +17
 
   **Cantrips (4th)** telekinetic projectile
 
-  **1st** true strike
+  **1st** true strike (at will)
 
   **2nd** telekinetic maneuver
 
-  **3rd** haste, paralyze
+  **3rd** haste (×3), paralyze
 
-  **4th** dispel magic, divine wrath, lightning bolt
+  **4th** dispel magic, divine wrath, lightning bolt (×3)
 
   **5th** telekinetic haul
 

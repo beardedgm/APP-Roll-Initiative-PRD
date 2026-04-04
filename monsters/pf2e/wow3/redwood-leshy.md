@@ -5,13 +5,15 @@ uncommon, small, leshy, plant
 
 ---
 
-**Perception** +22
+**Perception** +22; low-light vision
 
-**Languages** common, fey
+**Languages** common, fey; speak with plants|PC1 (trees only)
+
+**Skills** Athletics +22, Intimidation +18, Nature +19
 
 **STR** +6, **DEX** +2, **CON** +6, **INT** +3, **WIS** +5, **CHA** +4
 
-**Items** {@runeItem bo staff||+1 weapon potency||striking|}
+**Items** 
 
 ---
 
@@ -29,11 +31,13 @@ uncommon, small, leshy, plant
 
 Speed 25 feet
 
-**Melee** bo staff +23 (monk, parry, reach, trip); **Damage** 2d8+12 bludgeoning
+**Melee** ◆ bo staff +23 (monk, parry, reach, trip); **Damage** 2d8+12 bludgeoning
 
-**Melee** fist +23 (agile, finesse); **Damage** 2d6+12 bludgeoning
+**Melee** ◆ fist +23 (agile, finesse); **Damage** 2d6+12 bludgeoning
 
 **Innate primal Spells** (DC 28)
+
+  **Constant (3rd)** speak with plants
 
   **4th** enlarge
 

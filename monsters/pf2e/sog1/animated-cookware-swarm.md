@@ -5,7 +5,9 @@ n, large, construct, mindless, swarm
 
 ---
 
-**Perception** +5
+**Perception** +5; darkvision
+
+**Skills** Acrobatics +8
 
 **STR** +1, **DEX** +3, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 

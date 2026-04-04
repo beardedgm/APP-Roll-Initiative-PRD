@@ -5,7 +5,9 @@ n, medium, construct, earth, mindless
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
+
+**Skills** Athletics +11
 
 **STR** +4, **DEX** -2, **CON** +5, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -25,4 +27,4 @@ n, medium, construct, earth, mindless
 
 Speed 20 feet
 
-**Melee** fist +11 (magical); **Damage** 1d8+6 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +11 (magical); **Damage** 1d8+6 bludgeoning plus Grab plus Grab

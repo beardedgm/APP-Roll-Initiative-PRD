@@ -5,7 +5,9 @@ uncommon, n, medium, mindless, ooze
 
 ---
 
-**Perception** +6
+**Perception** +6; motion sense  60 feet, no vision
+
+**Skills** Athletics +9, Stealth +5
 
 **STR** +4, **DEX** -4, **CON** +3, **INT** -5, **WIS** +1, **CHA** -5
 
@@ -33,6 +35,6 @@ uncommon, n, medium, mindless, ooze
 
 Speed 15 feet, swim 30 feet
 
-**Melee** pseudopod +11; **Damage** 1d6+5 bludgeoning plus rust and tetanus (Pathfinder Gamemastery Guide 118)
+**Melee** ◆ pseudopod +11; **Damage** 1d6+5 bludgeoning plus rust and tetanus (Pathfinder Gamemastery Guide 118)
 
 **Rust** When a rust ooze critically succeeds at a pseudopod Strike, it deals 2d6 acid damage to a metal item the target is wearing or holding, ignoring the item's Hardness. If a creature uses the Shield Block reaction with a metal shield against a rust ooze's pseudopod attack, the shield is automatically broken, but no other item is rusted.

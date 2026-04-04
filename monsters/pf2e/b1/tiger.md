@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +12
+**Perception** +12; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +11, Athletics +13, Stealth +13
 
 **STR** +5, **DEX** +3, **CON** +3, **INT** -4, **WIS** +2, **CHA** -2
 
@@ -21,9 +23,9 @@ n, large, animal
 
 Speed 30 feet
 
-**Melee** jaws +13; **Damage** 1d10+7 piercing plus Grab plus Grab
+**Melee** ◆ jaws +13; **Damage** 1d10+7 piercing plus Grab plus Grab
 
-**Melee** claw +13 (agile); **Damage** 1d8+7 slashing
+**Melee** ◆ claw +13 (agile); **Damage** 1d8+7 slashing
 
 **Pounce** ◆ The tiger Strides and makes a Strike at the end of that movement. If the tiger began this action hidden, it remains hidden until after this ability's Strike.
 

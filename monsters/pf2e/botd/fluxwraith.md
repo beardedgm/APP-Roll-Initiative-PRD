@@ -5,7 +5,9 @@ rare, ne, medium, incorporeal, spirit, undead
 
 ---
 
-**Perception** +35
+**Perception** +35; darkvision  60 feet, lifesense 60 feet (precise)
+
+**Skills** Acrobatics +34, Arcana +30, Intimidation +29, Occultism +30, Stealth +28
 
 **STR** -5, **DEX** +9, **CON** +0, **INT** +5, **WIS** +7, **CHA** +6
 
@@ -19,15 +21,15 @@ rare, ne, medium, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 15
+**Resistances** all damage 15 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 ---
 
 Speed fly 40 feet
 
-**Melee** time-shifting touch +34 (agile, finesse, magical); **Damage** 3d8+14 force plus time shift
+**Melee** ◆ time-shifting touch +34 (agile, finesse, magical); **Damage** 3d8+14 force plus time shift
 
-**Melee** temporal fracturing ray +34 (magical, range <30 feet>); **Damage** 3d6+14 mental plus terrible foresight
+**Ranged** ◆ temporal fracturing ray +34 (magical, range <30 feet>); **Damage** 3d6+14 mental plus terrible foresight
 
 **Innate occult Spells** (DC 39), attack +31
 
@@ -39,7 +41,7 @@ Speed fly 40 feet
 
   **7th** cast into time, day's weight, paralyze
 
-  **8th** deja vu
+  **8th** deja vu (at will)
 
   **10th** time stop
 

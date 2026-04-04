@@ -5,9 +5,11 @@ n, huge, plant
 
 ---
 
-**Perception** +13
+**Perception** +13; low-light vision
 
 **Languages** arboreal (can't speak any language)
+
+**Skills** Athletics +14, Stealth +9
 
 **STR** +6, **DEX** -1, **CON** +6, **INT** -5, **WIS** +3, **CHA** +0
 
@@ -29,6 +31,6 @@ n, huge, plant
 
 Speed 20 feet
 
-**Melee** branch +16 (reach <15 feet>); **Damage** 2d8+6 bludgeoning
+**Melee** ◆ branch +16 (reach <15 feet>); **Damage** 2d8+6 bludgeoning
 
-**Melee** root +16 (trip); **Damage** 2d6+6 bludgeoning
+**Melee** ◆ root +16 (trip); **Damage** 2d6+6 bludgeoning

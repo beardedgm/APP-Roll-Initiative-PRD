@@ -5,7 +5,9 @@ n, large, mindless, plant
 
 ---
 
-**Perception** +7
+**Perception** +7; {@ability tremorsense} 30 feet (imprecise)
+
+**Skills** Athletics +11, Stealth +10
 
 **STR** +2, **DEX** +3, **CON** +5, **INT** -5, **WIS** +2, **CHA** -2
 
@@ -29,7 +31,7 @@ n, large, mindless, plant
 
 Speed 15 feet
 
-**Melee** leaf +11 (reach <10 feet>); **Damage** 1d8+2 piercing plus 1d6 acid and Improved Grab plus Improved Grab
+**Melee** ◆ leaf +11 (reach <10 feet>); **Damage** 1d8+2 piercing plus 1d6 acid and Improved Grab plus Improved Grab
 
 **Focused Assault** ◆◆ The flytrap attacks a single target with both its leaves. The flytrap makes one leaf Strike. On a success, the flytrap deals the damage from one leaf Strike plus an additional 1d8 damage for every leaf beyond the first. On a failure, the flytrap deals the damage from one leaf Strike, but it can't use Improved Grab. It deals no damage on a critical failure. This counts toward the flytrap's multiple attack penalty as a number of attacks equal to the number of leaves the flytrap has.
 

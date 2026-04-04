@@ -5,9 +5,11 @@ ne, medium, aberration
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision, sin scent 30 feet (imprecise)
 
 **Languages** aklo
+
+**Skills** Acrobatics +9, Athletics +8, Stealth +9, Survival +6
 
 **STR** +4, **DEX** +3, **CON** +4, **INT** +0, **WIS** +2, **CHA** +1
 
@@ -33,9 +35,9 @@ ne, medium, aberration
 
 Speed 30 feet
 
-**Melee** jaws +10 (agile); **Damage** 1d8+4 piercing plus sinful bite plus sinful bite
+**Melee** ◆ jaws +10 (agile); **Damage** 1d8+4 piercing plus sinful bite plus sinful bite
 
-**Melee** claw +10; **Damage** 1d6+4 slashing
+**Melee** ◆ claw +10; **Damage** 1d6+4 slashing
 
 **Sinful Bite** (arcane, emotion, mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will save as it is assailed by sinful thoughts. **Critical Success** Unaffected.
 **Success** Sickened 1.

@@ -5,9 +5,11 @@ rare, n, medium, ghoran, humanoid, plant
 
 ---
 
-**Perception** +9
+**Perception** +9; low-light vision
 
 **Languages** common, sylvan
+
+**Skills** Deception +11, Diplomacy +9, Nature +9, Performance +11, Stealth +6
 
 **STR** +0, **DEX** +1, **CON** +3, **INT** +0, **WIS** +2, **CHA** +4
 
@@ -34,11 +36,11 @@ rare, n, medium, ghoran, humanoid, plant
 
 Speed 25 feet
 
-**Melee** spear +7; **Damage** 1d6+2 piercing
+**Melee** ◆ spear +7; **Damage** 1d6+2 piercing
 
-**Melee** spear +8 (thrown <20 feet>); **Damage** 1d6+2 piercing
+**Ranged** ◆ spear +8 (thrown <20 feet>); **Damage** 1d6+2 piercing
 
-**Melee** shortbow +8 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+2 piercing
+**Ranged** ◆ shortbow +8 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+2 piercing
 
 **Spontaneous occult Spells** (DC 20)
 

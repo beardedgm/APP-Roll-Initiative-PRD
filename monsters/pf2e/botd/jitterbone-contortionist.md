@@ -5,9 +5,11 @@ rare, cn, small, halfling, humanoid, mortic
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common, halfling, necril
+
+**Skills** Acrobatics +12, Athletics +10, Deception +9, Stealth +12
 
 **STR** +2, **DEX** +4, **CON** +3, **INT** +0, **WIS** +1, **CHA** +1
 
@@ -25,13 +27,13 @@ rare, cn, small, halfling, humanoid, mortic
 
 ---
 
-Speed 25 feet
+Speed 25 feet, compression
 
-**Melee** fist +14 (agile, finesse, nonlethal, unarmed); **Damage** 2d6+2 bludgeoning
+**Melee** ◆ fist +14 (agile, finesse, nonlethal, unarmed); **Damage** 2d6+2 bludgeoning
 
-**Melee** bone spike +14 (finesse); **Damage** 2d8+2 piercing plus 1d6 persistent bleed
+**Melee** ◆ bone spike +14 (finesse); **Damage** 2d8+2 piercing plus 1d6 persistent bleed
 
-**Melee** bone dart +14 (agile, thrown <20 feet>); **Damage** 2d6+2 piercing
+**Ranged** ◆ bone dart +14 (agile, thrown <20 feet>); **Damage** 2d6+2 piercing
 
 **Compression** The jitterbone can move through a gap at least 6 inches wide without Squeezing and can Squeeze through a gap at least 2 inches wide. When the jitterbone successfully Squeezes, they move through the tight space at full Speed. Narrow confines aren't terrain for a jitterbone.
 

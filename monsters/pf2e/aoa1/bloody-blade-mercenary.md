@@ -9,6 +9,8 @@ ne, medium, half-orc, human, humanoid, orc
 
 **Languages** common, orcish
 
+**Skills** Acrobatics +6, Athletics +7, Intimidation +2, Nature +4, Stealth +6, Survival +4, Thievery +6
+
 **STR** +4, **DEX** +3, **CON** +1, **INT** +0, **WIS** +1, **CHA** -1
 
 **Items** longsword, shortbow (20 arrows), studded leather, 15 sp
@@ -25,9 +27,9 @@ ne, medium, half-orc, human, humanoid, orc
 
 Speed 25 feet
 
-**Melee** longsword +9 (versatile <P>); **Damage** 1d8+4 slashing
+**Melee** ◆ longsword +9 (versatile <P>); **Damage** 1d8+4 slashing
 
-**Melee** shortbow +8 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +8 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
 
 **Hunt Prey** ◆
 

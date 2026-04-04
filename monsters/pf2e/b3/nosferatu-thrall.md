@@ -9,6 +9,8 @@ uncommon, ne, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +13, Athletics +14, Deception +15, Religion +14
+
 **STR** +4, **DEX** +3, **CON** +2, **INT** +2, **WIS** +2, **CHA** +1
 
 **Items** +1 striking greatclub
@@ -33,8 +35,8 @@ uncommon, ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** greatclub +19 (backswing, magical, shove); **Damage** 2d10+10 bludgeoning
+**Melee** ◆ greatclub +19 (backswing, magical, shove); **Damage** 2d10+10 bludgeoning
 
-**Melee** fist +18 (agile, nonlethal); **Damage** 2d6+10 bludgeoning
+**Melee** ◆ fist +18 (agile, nonlethal); **Damage** 2d6+10 bludgeoning
 
 **Swing Back** ◆ **Frequency** {"unit":"round","number":1}; **Requirements** The nosferatu thrall's last action was a greatclub Strike that missed; The nosferatu thrall makes another greatclub Strike against the same target, using the previous Strike's multiple attack penalty.

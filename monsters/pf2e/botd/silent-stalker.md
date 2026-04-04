@@ -5,7 +5,9 @@ ln, small, undead
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision, sense murderer
+
+**Skills** Athletics +27, Intimidation +24, Stealth +28
 
 **STR** +8, **DEX** +5, **CON** +3, **INT** +0, **WIS** +5, **CHA** +3
 
@@ -21,7 +23,7 @@ ln, small, undead
 
 **Immunities** death effects, disease, paralyzed, poison, sleep
 
-**Resistances** physical 15
+**Resistances** physical 15 (except slashing)
 
 **Silent Aura** (aura, illusion, occult) 10 feet. A silent stalker makes no sound, preventing creatures from noticing them using hearing or a similar sense alone. This silence stops all sound within it or passing through. The silent stalker and all creatures in the aura can't use sonic attacks or actions that have the auditory trait; this prevents creatures from casting spells with verbal components or activating items with command components.
 
@@ -33,7 +35,7 @@ ln, small, undead
 
 Speed 25 feet
 
-**Melee** claw +27 (agile); **Damage** 3d8+14 bludgeoning plus Grab
+**Melee** ◆ claw +27 (agile); **Damage** 3d8+14 bludgeoning plus Grab
 
 **Constrict** ◆ 3d8+7 bludgeoning, DC 33
 

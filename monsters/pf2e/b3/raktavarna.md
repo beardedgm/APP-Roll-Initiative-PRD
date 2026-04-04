@@ -5,9 +5,11 @@ uncommon, le, tiny, fiend, rakshasa
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** common, infernal, undercommon
+
+**Skills** Acrobatics +7, Athletics +6, Deception +7, Stealth +7
 
 **STR** +1, **DEX** +4, **CON** +2, **INT** +1, **WIS** +1, **CHA** +2
 
@@ -25,7 +27,7 @@ uncommon, le, tiny, fiend, rakshasa
 
 Speed 20 feet, swim 20 feet, climb 20 feet
 
-**Melee** fangs +9 (agile, finesse); **Damage** 1d6+1 piercing plus raktavarna venom plus raktavarna venom
+**Melee** ◆ fangs +9 (agile, finesse); **Damage** 1d6+1 piercing plus raktavarna venom plus raktavarna venom
 
 **Innate occult Spells** (DC 16)
 

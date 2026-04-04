@@ -5,13 +5,15 @@ ce, medium, humanoid, skulk
 
 ---
 
-**Perception** +5
+**Perception** +5; low-light vision
 
 **Languages** common
 
+**Skills** Acrobatics +6, Deception +6, Society +4, Stealth +8, Thievery +6
+
 **STR** +0, **DEX** +3, **CON** +2, **INT** +1, **WIS** +2, **CHA** +1
 
-**Items** {@item dagger} (2), {@item shortsword}
+**Items** dagger (2), shortsword
 
 **Camouflaged Step** The skulk gains the benefit of the Cover Tracks action in forests and subterranean settings without moving at half Speed.
 
@@ -29,8 +31,8 @@ ce, medium, humanoid, skulk
 
 Speed 25 feet
 
-**Melee** shortsword +8 (agile, finesse, versatile <S>); **Damage** 1d6+2 piercing
+**Melee** ◆ shortsword +8 (agile, finesse, versatile <S>); **Damage** 1d6+2 piercing
 
-**Melee** dagger +8 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
+**Ranged** ◆ dagger +8 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
 
 **Sneak Attack** A skulk's Strikes deal an extra 1d6 precision damage to flat-footed creatures.

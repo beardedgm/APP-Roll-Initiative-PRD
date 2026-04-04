@@ -5,9 +5,11 @@ rare, ln, gargantuan, fey
 
 ---
 
-**Perception** +32
+**Perception** +32; detect magic, greater darkvision, scent (precise), true, seeing
 
-**Languages** common, jotun, sylvan
+**Languages** common, jotun, sylvan; tongues
+
+**Skills** Acrobatics +30, Athletics +35, Deception +31, Diplomacy +31, Intimidation +33, Occultism +30
 
 **STR** +9, **DEX** +4, **CON** +8, **INT** +4, **WIS** +6, **CHA** +5
 
@@ -31,17 +33,19 @@ rare, ln, gargantuan, fey
 
 Speed 40 feet, fly 40 feet
 
-**Melee** jaws +35 (magical); **Damage** 3d12+17 piercing damage plus Improved Grab
+**Melee** ◆ jaws +35 (magical); **Damage** 3d12+17 piercing damage plus Improved Grab
 
-**Melee** tail +35 (agile, magical, reach <15 feet>); **Damage** 3d8+17 bludgeoning plus Knockdown
+**Melee** ◆ tail +35 (agile, magical, reach <15 feet>); **Damage** 3d8+17 bludgeoning plus Knockdown
 
-**Melee** temporal blast +33 (evocation, magical, range increment <120 feet>); **Damage** 6d8 force
+**Ranged** ◆ temporal blast +33 (evocation, magical, range increment <120 feet>); **Damage** 6d8 force
 
 **Innate occult Spells** (DC 37)
 
+  **Constant (10th)** detect magic, tongues, true seeing
+
   **6th** slow
 
-  **8th** inevitable disaster, teleport
+  **8th** inevitable disaster, teleport (at will)
 
   **9th** cast into time
 

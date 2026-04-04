@@ -5,9 +5,11 @@ n, medium, elemental, genie
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
-**Languages** common
+**Languages** common; telepathy 100 feet
+
+**Skills** Acrobatics +8, Arcana +10, Crafting +8, Deception +7, Survival +11
 
 **STR** +4, **DEX** +2, **CON** +2, **INT** +2, **WIS** +3, **CHA** +1
 
@@ -29,17 +31,17 @@ n, medium, elemental, genie
 
 Speed 20 feet, fly 15 feet
 
-**Melee** scimitar +14 (forceful +1, sweep); **Damage** 1d6+10 slashing
+**Melee** ◆ scimitar +14 (forceful +1, sweep); **Damage** 1d6+10 slashing
 
-**Melee** fist +14 (agile, magical, nonlethal); **Damage** 1d4+10 bludgeoning
+**Melee** ◆ fist +14 (agile, magical, nonlethal); **Damage** 1d4+10 bludgeoning
 
-**Melee** composite shortbow +12 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+5 piercing
+**Ranged** ◆ composite shortbow +12 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+5 piercing
 
 **Innate arcane Spells** (DC 21)
 
   **1st** create water
 
-  **2nd** create food, invisibility, speak with animals
+  **2nd** create food, invisibility (×3), speak with animals
 
   **7th** plane shift
 

@@ -5,9 +5,11 @@ unique, ln, medium, humanoid, goblin
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
 **Languages** goblin, taldane, tien
+
+**Skills** Acrobatics +22, Athletics +27, Intimidation +24, Stealth +22, Underworld Lore +20
 
 **STR** +5, **DEX** +4, **CON** +3, **INT** +0, **WIS** +3, **CHA** +0
 
@@ -25,7 +27,7 @@ unique, ln, medium, humanoid, goblin
 
 Speed 25 feet
 
-**Melee** fist +25 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d6+10 bludgeoning
+**Melee** ◆ fist +25 (agile, finesse, magical, nonlethal, unarmed); **Damage** 2d6+10 bludgeoning
 
 **Flurry of Blows** ◆ (flourish) Gomwai makes two Strikes with his fist. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.
 

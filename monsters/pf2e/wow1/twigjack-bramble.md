@@ -5,7 +5,9 @@ uncommon, gargantuan, fey, plant, troop
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
+
+**Skills** Acrobatics +16, Athletics +13, Nature +11, Stealth +16
 
 **STR** +3, **DEX** +5, **CON** +3, **INT** +1, **WIS** +3, **CHA** +2
 
@@ -23,7 +25,7 @@ uncommon, gargantuan, fey, plant, troop
 
 ---
 
-Speed 25 feet
+Speed 25 feet, troop movement
 
 **Clear Cut** ◆◆◆ The twigjack bramble swarms over any creatures in their path, shredding their foes with razor-sharp thorns. The bramble Forms Up and Strides twice, moving through the space of any Medium or smaller creatures. Each creature whose space the bramble moves through takes 4d6 slashing damage (DC 21 basic Reflex save). On a critical failure, the creature is also knocked prone.
 

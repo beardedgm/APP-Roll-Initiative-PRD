@@ -5,9 +5,11 @@ rare, ln, medium, aberration, amphibious
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
 **Languages** aklo, common, elder thing, mi-go, yithian
+
+**Skills** Acrobatics +17, Arcana +21, Athletics +19, Crafting +21, Medicine +21, Occultism +23, Survival +19, Thievery +19, Notes plus Eldritch Insight
 
 **STR** +5, **DEX** +3, **CON** +5, **INT** +7, **WIS** +5, **CHA** +3
 
@@ -29,7 +31,7 @@ rare, ln, medium, aberration, amphibious
 
 Speed 25 feet, fly 20 feet, swim 30 feet
 
-**Melee** tentacle +20 (agile); **Damage** 2d8+11 bludgeoning plus Grab
+**Melee** ◆ tentacle +20 (agile); **Damage** 2d8+11 bludgeoning plus Grab
 
 **Innate occult Spells** (DC 29), attack +21
 

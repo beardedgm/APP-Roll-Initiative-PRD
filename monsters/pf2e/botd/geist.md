@@ -5,9 +5,11 @@ ce, medium, incorporeal, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
-**Languages** common, necril
+**Languages** common, necril; telepathy 100 feet
+
+**Skills** Acrobatics +20, Deception +18, Intimidation +20, Religion +17, Stealth +20
 
 **STR** -5, **DEX** +5, **CON** +0, **INT** +2, **WIS** +2, **CHA** +5
 
@@ -21,7 +23,7 @@ ce, medium, incorporeal, undead
 
 **Immunities** death effects, disease, paralyze, poison, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Power of the Haunt** If a geist is within 100 feet of a haunt that isn't disabled or destroyed, they gain a +2 status bonus to AC and saving throws and deal an additional 1d6 negative damage with bite Strikes. A creature that succeeds at a DC 20 check to Seek or Recall Knowledge about the geist sees that the tendrils from the geist's cloak grow thicker and more agitated the closer it gets to the haunt.
 
@@ -29,7 +31,7 @@ ce, medium, incorporeal, undead
 
 Speed fly 30 feet
 
-**Melee** bite +20 (agile, magical); **Damage** 1d10+11 piercing
+**Melee** ◆ bite +20 (agile, magical); **Damage** 1d10+11 piercing
 
 **Terrifying Laugh** ◆ (divine, emotion, enchantment, fear, mental) **Frequency** {"number":1,"unit":"minute"}; The geist unleashes soul-piercing laughter in a 20-foot emanation, lasting until the beginning of their next turn. Any creature in the area or entering it must succeed at a DC 26 Will save or be overcome with panicked laughter, becoming frightened 2 (or frightened 3 on a critical failure). A creature attempts only one save per Terrifying Laugh, and a creature that succeeds on its saving throw is temporarily immune for 24 hours.
 

@@ -5,13 +5,15 @@ unique, le, medium, devil, dwarf, fiend, humanoid
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** common, dwarven, infernal
 
+**Skills** Arcana +17, Athletics +14, Crafting +13, Deception +15, Religion +15, Occultism +17, Society +17
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** +4, **WIS** +0, **CHA** +2
 
-**Items** {@item breastplate}, {@runeItem composite shortbow||+1 weapon potency||striking|} (20 {@item arrow (generic)||arrows} and 5 {@item sleep arrow||sleep arrows}), {@item lesser healing potion||lesser healing potions} (3), infernal contract, key ring containing keys to all locks in Lionlodge, {@item warhammer}
+**Items** breastplate,  (20 arrows and 5 sleep arrows), lesser healing potions (3), infernal contract, key ring containing keys to all locks in Lionlodge, warhammer
 
 ---
 
@@ -21,7 +23,7 @@ unique, le, medium, devil, dwarf, fiend, humanoid
 
 **HP** 125
 
-**Resistances** fire 5, physical 5
+**Resistances** fire 5, physical 5 (except silver)
 
 **Weaknesses** silver 5
 
@@ -31,13 +33,13 @@ unique, le, medium, devil, dwarf, fiend, humanoid
 
 Speed 25 feet
 
-**Melee** warhammer +15 (shove); **Damage** 1d8+2 bludgeoning
+**Melee** ◆ warhammer +15 (shove); **Damage** 1d8+2 bludgeoning
 
-**Melee** shortbow +17 (deadly d10, propulsive, range 60 feet); **Damage** 2d6+5 piercing
+**Ranged** ◆ shortbow +17 (deadly d10, propulsive, range 60 feet); **Damage** 2d6+5 piercing
 
 **Innate divine Spells** (DC 22), attack +14
 
-  **1st** true strike
+  **1st** true strike (×3)
 
   **2nd** undetectable alignment
 

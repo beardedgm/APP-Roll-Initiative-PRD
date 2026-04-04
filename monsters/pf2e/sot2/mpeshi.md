@@ -5,7 +5,9 @@ rare, n, large, beast, electricity
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
+
+**Skills** Athletics +16, Nature +14, Stealth +12
 
 **STR** +6, **DEX** +2, **CON** +4, **INT** -2, **WIS** +4, **CHA** +0
 
@@ -27,11 +29,11 @@ rare, n, large, beast, electricity
 
 ---
 
-Speed 30 feet
+Speed 30 feet, cloud walk
 
-**Melee** horn +17 (electricity, reach <10 feet>, versatile <P>); **Damage** 2d6+8 bludgeoning plus 1d6 electricity
+**Melee** ◆ horn +17 (electricity, reach <10 feet>, versatile <P>); **Damage** 2d6+8 bludgeoning plus 1d6 electricity
 
-**Melee** tail +17 (agile, reach <15 feet>); **Damage** 2d6+8 bludgeoning
+**Melee** ◆ tail +17 (agile, reach <15 feet>); **Damage** 2d6+8 bludgeoning
 
 **Charging Leap** ◆◆ The mpeshi leaps up to 40 feet in any direction, including straight up. The mpeshi makes a horn Strike at any point during this leap.
 

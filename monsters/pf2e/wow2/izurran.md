@@ -5,13 +5,15 @@ unique, medium, catfolk, humanoid
 
 ---
 
-**Perception** +19
+**Perception** +19; low-light vision
 
 **Languages** amurrun, common
 
+**Skills** Acrobatics +18, Arcana +21, Deception +15, Nature +17, Occultism +21, Stealth +18, Survival +17
+
 **STR** +0, **DEX** +3, **CON** +3, **INT** +4, **WIS** +2, **CHA** +2
 
-**Items** {@runeItem claw blade|APG|+1 weapon potency||striking|}, {@item moderate potion of resistance} (fire)
+**Items** , moderate potion of resistance (fire)
 
 ---
 
@@ -25,13 +27,13 @@ unique, medium, catfolk, humanoid
 
 **Cat's Luck** ◈ (fortune) **Trigger** Izurran fails or critically fails a Reflex saving throw; **Frequency** {"number":1,"unit":"day"}; Izurran rerolls that saving throw and takes the better result.
 
-**Spiteful Curse** ◈ (misfortune, occult) **Trigger** A creature within 30 feet that Izurran can see would succeed at a save; **Frequency** {"special":"One per day"}; Izurran hisses a spiteful curse at the triggering creature. The target must reroll the triggering saving throw and use the worse result.
+**Spiteful Curse** ◈ (misfortune, occult) **Trigger** A creature within 30 feet that Izurran can see would succeed at a save; **Frequency** One per day; Izurran hisses a spiteful curse at the triggering creature. The target must reroll the triggering saving throw and use the worse result.
 
 ---
 
 Speed 30 feet
 
-**Melee** claw blade +19 (agile, deadly <d8>, disarm, finesse, versatile <P>); **Damage** 2d4+3 plus 2d6 persistent bleed
+**Melee** ◆ claw blade +19 (agile, deadly <d8>, disarm, finesse, versatile <P>); **Damage** 2d4+3 plus 2d6 persistent bleed
 
 **Prepared occult Spells** (DC 28), attack +20
 
@@ -43,7 +45,7 @@ Speed 30 feet
 
   **3rd** blindness, dispel magic, false vitality, illusory disguise
 
-  **4th** blood vendetta, grim tendrils, phantom pain
+  **4th** blood vendetta, grim tendrils (×2), phantom pain
 
   **5th** biting words, vampiric feast, wave of despair
 

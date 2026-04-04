@@ -5,9 +5,11 @@ ce, huge, demon, fiend
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision, true seeing
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet, tongues
+
+**Skills** Deception +28, Diplomacy +26, Intimidation +26, Religion +22, Society +22, Stealth +21
 
 **STR** +7, **DEX** +2, **CON** +7, **INT** +3, **WIS** +3, **CHA** +7
 
@@ -27,25 +29,29 @@ ce, huge, demon, fiend
 
 Speed 35 feet
 
-**Melee** pincer +27 (deadly <2d10>, evil, magical, reach <15 feet>); **Damage** 3d10+13 bludgeoning plus 1d6 evil and Grab plus Grab
+**Melee** ◆ pincer +27 (deadly <2d10>, evil, magical, reach <15 feet>); **Damage** 3d10+13 bludgeoning plus 1d6 evil and Grab plus Grab
 
-**Melee** claw +27 (agile, evil, magical, reach <10 feet>); **Damage** 3d6+13 slashing plus 1d6 evil
+**Melee** ◆ claw +27 (agile, evil, magical, reach <10 feet>); **Damage** 3d6+13 slashing plus 1d6 evil
 
-**Melee** jaws +27 (evil, magical, reach <10 feet>); **Damage** 3d12+13 piercing plus 1d6 evil
+**Melee** ◆ jaws +27 (evil, magical, reach <10 feet>); **Damage** 3d12+13 piercing plus 1d6 evil
 
 **Innate divine Spells** (DC 34)
 
+  **Constant (6th)** true seeing
+
+  **Constant (5th)** tongues
+
   **Cantrips (7th)** telekinetic projectile
 
-  **2nd** mirror image
+  **2nd** mirror image (at will)
 
-  **4th** confusion, dimension door
+  **4th** confusion (at will), dimension door (at will)
 
   **5th** dimension door
 
-  **6th** dispel magic
+  **6th** dispel magic (at will)
 
-  **7th** illusory disguise, reverse gravity
+  **7th** illusory disguise (at will), reverse gravity
 
 **Captive Rake** ◆ **Requirements** A creature is grabbed in the glabrezu's pincer.; The glabrezu pulls the grabbed creature up to 5 feet closer, then makes two claw Strikes against it. Those Strikes count as one attack when determining a treachery demon's multiple attack penalty, and the penalty doesn't increase until after both Strikes.
 

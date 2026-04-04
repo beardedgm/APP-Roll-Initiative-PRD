@@ -5,7 +5,9 @@ rare, n, huge, construct, golem, mindless
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
+
+**Skills** Athletics +30
 
 **STR** +8, **DEX** -1, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -19,7 +21,7 @@ rare, n, huge, construct, golem, mindless
 
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (see page 50), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 15
+**Resistances** physical 15 (except adamantine)
 
 **Death Throes** When the gold defender is destroyed, it melts into worthless slag. As it melts, it releases a 10-foot radius cloud of fumes and a 10-foot radius puddle of molten metal. Creatures that breathe fumes are exposed to gold defender poison. Creatures that move through the puddle take 10d6 fire damage. The fumes dissipate after 1 round and the puddle cools after 1 minute.
 
@@ -33,7 +35,7 @@ rare, n, huge, construct, golem, mindless
 
 Speed 20 feet
 
-**Melee** fist +28 (magical, reach <10 feet>); **Damage** 3d10+12 bludgeoning
+**Melee** ◆ fist +28 (magical, reach <10 feet>); **Damage** 3d10+12 bludgeoning
 
 **Inexorable March** ◆ The gold defender Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 37 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise, it is damaged as if hit by the defender's fist Strike.
 
@@ -42,4 +44,8 @@ Speed 20 feet
 **Failure** 
 **Critical Failure** 
 
-**Gold Defender Poison** (poison) Any drained value from this poison is reduced by 1 every hour; 
+**Gold Defender Poison** (poison) Any drained value from this poison is reduced by 1 every hour; **Saving Throw** DC 33 Fortitude
+**Maximum Duration** 4 rounds
+**Stage 1** 2d6 poison and drained 1 (1 round)
+**Stage 2** 4d6 poison and drained 2 (1 round)
+**Stage 3** 8d6 poison and drained 3 (1 round)

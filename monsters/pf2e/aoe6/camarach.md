@@ -5,9 +5,11 @@ uncommon, cn, gargantuan, monitor
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision, thoughtsense 120 feet (imprecise)
 
-**Languages** abyssal, celestial, infernal, protean
+**Languages** abyssal, celestial, infernal, protean; telepathy 100 feet, tongues
+
+**Skills** Athletics +33, Deception +36, Intimidation +30, Religion +31, Stealth +28, Survival +31
 
 **STR** +10, **DEX** +5, **CON** +6, **INT** +6, **WIS** +6, **CHA** +9
 
@@ -21,7 +23,7 @@ uncommon, cn, gargantuan, monitor
 
 **HP** 320
 
-**Resistances** physical 15
+**Resistances** physical 15 (except bludgeoning)
 
 **Weaknesses** lawful 15
 
@@ -29,15 +31,17 @@ uncommon, cn, gargantuan, monitor
 
 Speed fly 60 feet, swim 60 feet
 
-**Melee** jaws +35 (magical, reach <20 feet>); **Damage** 3d10+18 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +35 (magical, reach <20 feet>); **Damage** 3d10+18 piercing plus Improved Grab plus Improved Grab
 
 **Innate occult Spells** (DC 43)
 
-  **5th** mind probe
+  **Constant (7th)** tongues
 
-  **8th** hallucination
+  **5th** mind probe (×3)
 
-  **9th** project image
+  **8th** hallucination (×3)
+
+  **9th** project image (at will)
 
 **Disgorge Portal** ◆◆ (evocation, light, occult) The camarach vomits a spray of coruscating light. This has the effect of a DC 42 prismatic spray, except that each creature is affected by one violet beam and one other beam (roll 1d6 instead of 1d8 to determine which other beam). The camarach can't Disgorge a Portal again for 1d4 rounds.
 

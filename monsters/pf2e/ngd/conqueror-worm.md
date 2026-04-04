@@ -5,9 +5,11 @@ rare, ne, gargantuan, aberration
 
 ---
 
-**Perception** +37
+**Perception** +37; greater darkvision, tremorsense 100 feet (precise), true seeing
 
 **Languages** abyssal, aklo, celestial, common, draconic
+
+**Skills** Arcana +37, Athletics +39, Deception +41, Diplomacy +39, Intimidation +41, Occultism +39, Religion +35, Society +41
 
 **STR** +10, **DEX** +5, **CON** +7, **INT** +10, **WIS** +6, **CHA** +10
 
@@ -38,9 +40,9 @@ rare, ne, gargantuan, aberration
 
 ---
 
-Speed 40 feet, burrow 30 feet
+Speed 40 feet, burrow 30 feet, air walk
 
-**Melee** jaws +39 (acid, magical, reach <20 feet>); **Damage** 4d10+18 piercing plus 2d6 acid and Improved Grab
+**Melee** ◆ jaws +39 (acid, magical, reach <20 feet>); **Damage** 4d10+18 piercing plus 2d6 acid and Improved Grab
 
 **Spontaneous occult Spells** (DC 48), attack +38
 
@@ -68,7 +70,9 @@ Speed 40 feet, burrow 30 feet
 
 **Innate occult Spells** (DC 48)
 
-  **9th** mind reading
+  **Constant (9th)** air walk, true seeing
+
+  **9th** mind reading (at will)
 
   **10th** dominate
 

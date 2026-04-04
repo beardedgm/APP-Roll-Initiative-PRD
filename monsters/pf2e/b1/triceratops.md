@@ -5,7 +5,9 @@ n, huge, animal, dinosaur
 
 ---
 
-**Perception** +16
+**Perception** +16; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +21
 
 **STR** +7, **DEX** +0, **CON** +4, **INT** -4, **WIS** +2, **CHA** -1
 
@@ -23,9 +25,9 @@ n, huge, animal, dinosaur
 
 Speed 30 feet
 
-**Melee** horns +19 (reach <15 feet>); **Damage** 2d8+9 piercing plus Knockdown plus Knockdown
+**Melee** ◆ horns +19 (reach <15 feet>); **Damage** 2d8+9 piercing plus Knockdown plus Knockdown
 
-**Melee** foot +19 (reach <10 feet>); **Damage** 2d6+9 bludgeoning
+**Melee** ◆ foot +19 (reach <10 feet>); **Damage** 2d6+9 bludgeoning
 
 **Lumbering Charge** ◆ The triceratops Strides up to 10 feet and then makes a Strike.
 

@@ -5,9 +5,11 @@ ce, large, beast
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
 **Languages** abyssal, common
+
+**Skills** Deception +15, Diplomacy +11, Intimidation +13, Stealth +15, Survival +11, Cult Lore +11
 
 **STR** +5, **DEX** +3, **CON** +2, **INT** +1, **WIS** +3, **CHA** +3
 
@@ -25,22 +27,22 @@ ce, large, beast
 
 Speed 40 feet
 
-**Melee** spear +17; **Damage** 1d6+8 piercing
+**Melee** ◆ spear +17; **Damage** 1d6+8 piercing
 
-**Melee** claw +17 (agile); **Damage** 1d6+8 slashing plus Grab plus Grab
+**Melee** ◆ claw +17 (agile); **Damage** 1d6+8 slashing plus Grab plus Grab
 
-**Melee** spear +14 (thrown <20 feet>, versatile <S>); **Damage** 1d4+8 piercing
+**Ranged** ◆ spear +14 (thrown <20 feet>, versatile <S>); **Damage** 1d4+8 piercing
 
-**Melee** javelin +15 (thrown <30 feet>); **Damage** 1d6+8 piercing
+**Ranged** ◆ javelin +15 (thrown <30 feet>); **Damage** 1d6+8 piercing
 
 **Innate occult Spells** (DC 25)
 
-  **1st** illusory disguise, illusory object, ventriloquism
+  **1st** illusory disguise (at will), illusory object (at will), ventriloquism (at will)
 
-  **2nd** humanoid form, mirror image
+  **2nd** humanoid form (at will), mirror image
 
   **3rd** sleep
 
-  **4th** charm, suggestion
+  **4th** charm (×3), suggestion
 
 **Lamia's Caress** ◆◆ (curse, enchantment, mental, occult) The lamia touches a creature, who must succeed at a DC 23 Will save or become stupefied 1. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). This condition value decreases by 1 every 24 hours.

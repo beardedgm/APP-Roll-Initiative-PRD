@@ -5,9 +5,11 @@ uncommon, cg, tiny, dragon
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
-**Languages** common, draconic, sylvan
+**Languages** common, draconic, sylvan; telepathy 100 feet
+
+**Skills** Acrobatics +8, Deception +8, Diplomacy +8, Nature +4, Stealth +10
 
 **STR** -2, **DEX** +4, **CON** +0, **INT** +2, **WIS** +0, **CHA** +2
 
@@ -23,7 +25,7 @@ uncommon, cg, tiny, dragon
 
 Speed 15 feet, fly 40 feet, swim 20 feet
 
-**Melee** jaws +10 (magical, finesse); **Damage** 1d4 piercing
+**Melee** ◆ jaws +10 (magical, finesse); **Damage** 1d4 piercing
 
 **Innate arcane Spells** (DC 21)
 

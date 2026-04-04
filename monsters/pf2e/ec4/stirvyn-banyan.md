@@ -5,9 +5,11 @@ unique, n, medium, human, humanoid
 
 ---
 
-**Perception** +21
+**Perception** +21; detect magic
 
 **Languages** common
+
+**Skills** Arcana +20, Deception +23, Diplomacy +21, Intimidation +23, Society +20
 
 **STR** +0, **DEX** +4, **CON** +3, **INT** +2, **WIS** +3, **CHA** +5
 
@@ -27,9 +29,11 @@ unique, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** staff +24 (magical, two-hand <d8>); **Damage** 1d4+6 bludgeoning
+**Melee** ◆ staff +24 (magical, two-hand <d8>); **Damage** 1d4+6 bludgeoning
 
 **Spontaneous arcane Spells** (DC 32), attack +24
+
+  **Constant (6th)** detect magic
 
   **Cantrips (6th)** chill touch, daze, prestidigitation, ray of frost, shield
 

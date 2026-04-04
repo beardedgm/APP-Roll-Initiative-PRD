@@ -5,7 +5,9 @@ n, large, animal, swarm
 
 ---
 
-**Perception** +13
+**Perception** +13; low-light vision
+
+**Skills** Acrobatics +17, Stealth +17
 
 **STR** +2, **DEX** +6, **CON** +4, **INT** -4, **WIS** +2, **CHA** +4
 

@@ -5,9 +5,11 @@ unique, cn, medium, human, humanoid, ifrit
 
 ---
 
-**Perception** +9
+**Perception** +9; low-light vision
 
 **Languages** common, dwarven, elven, gnoll, gnomish, ignan, kelish, osiriani
+
+**Skills** Acrobatics +8, Arcana +9, Crafting +12, Deception +9, Diplomacy +9, Society +9, Stealth +10, Thievery +10, Underworld Lore +9
 
 **STR** +1, **DEX** +3, **CON** +1, **INT** +4, **WIS** +1, **CHA** +4
 
@@ -29,9 +31,9 @@ unique, cn, medium, human, humanoid, ifrit
 
 Speed 25 feet
 
-**Melee** fist +8 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+1 plus 1d6 fire
+**Melee** ◆ fist +8 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+1 plus 1d6 fire
 
-**Melee** bomb +10 (thrown <30 feet>); **Damage** varies
+**Ranged** ◆ bomb +10 (thrown <30 feet>); **Damage** varies
 
 **Far Lob** Lyzerius's bombs have a range increment of 30 feet (instead of 20 feet).
 

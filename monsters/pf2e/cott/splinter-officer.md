@@ -5,9 +5,11 @@ uncommon, medium, undead, unholy
 
 ---
 
-**Perception** +35
+**Perception** +35; darkvision 120 feet, splintersense
 
 **Languages** common, necril
+
+**Skills** Acrobatics +30, Deception +37, Diplomacy +37, Warfare Lore +39
 
 **STR** +4, **DEX** +6, **CON** +5, **INT** +5, **WIS** +4, **CHA** +10
 
@@ -35,9 +37,9 @@ uncommon, medium, undead, unholy
 
 Speed 30 feet
 
-**Melee** rapier +34 (deadly d8, disarm, finesse, magical); **Damage** 4d6+15 piercing
+**Melee** ◆ rapier +34 (deadly d8, disarm, finesse, magical); **Damage** 4d6+15 piercing
 
-**Melee** longbow +34 (deadly <d10>, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 4d8+15 piercing
+**Ranged** ◆ longbow +34 (deadly <d10>, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 4d8+15 piercing
 
 **Raise Defenses** ◆◆ (concentrate, divine) The splinter officer mentally commands its undead allies to strengthen their defenses. For 1 round, each undead that shares the officer's splintered soul gains a +1 circumstance bonus to AC.
 

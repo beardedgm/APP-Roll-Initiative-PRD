@@ -5,9 +5,11 @@ small, fey
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, low-light vision
 
 **Languages** aklo, common, fey
+
+**Skills** Acrobatics +15, Deception +13, Intimidation +13, Nature +13, Stealth +15
 
 **STR** +1, **DEX** +5, **CON** +1, **INT** +2, **WIS** +3, **CHA** +2
 
@@ -29,15 +31,15 @@ small, fey
 
 Speed 15 feet, fly 45 feet
 
-**Melee** claw +16 (agile, finesse, magical); **Damage** 2d4+7 slashing
+**Melee** ◆ claw +16 (agile, finesse, magical); **Damage** 2d4+7 slashing
 
-**Melee** shortbow +17 (deadly <d10>, magical, range increment <60 feet>, reload <0>); **Damage** 1d6+6 piercing
+**Ranged** ◆ shortbow +17 (deadly <d10>, magical, range increment <60 feet>, reload <0>); **Damage** 1d6+6 piercing
 
 **Innate primal Spells** (DC 24), attack +16
 
   **Cantrips (3rd)** detect magic, ignition, prestidigitation, shield
 
-  **2nd** floating flame
+  **2nd** floating flame (×2)
 
   **3rd** blindness, dispel magic
 

@@ -5,9 +5,11 @@ ne, small, fey
 
 ---
 
-**Perception** +15
+**Perception** +15; low-light vision, scent 30 feet (imprecise)
 
 **Languages** aklo, mwangi, sylvan
+
+**Skills** Athletics +18, Crafting +13, Deception +15, Nature +13, Stealth +16, Survival +13
 
 **STR** +6, **DEX** +5, **CON** +1, **INT** +0, **WIS** +4, **CHA** +1
 
@@ -25,13 +27,13 @@ ne, small, fey
 
 Speed 20 feet
 
-**Melee** jaws +16; **Damage** 2d8+6 piercing
+**Melee** ◆ jaws +16; **Damage** 2d8+6 piercing
 
-**Melee** dagger +16 (agile, magical, versatile <S>); **Damage** 1d4+8 piercing
+**Melee** ◆ dagger +16 (agile, magical, versatile <S>); **Damage** 1d4+8 piercing
 
-**Melee** blowgun +16 (agile, nonlethal, range increment <20 feet>, reload <1>); **Damage** 1 piercing plus 2d4 persistent poison
+**Ranged** ◆ blowgun +16 (agile, nonlethal, range increment <20 feet>, reload <1>); **Damage** 1 piercing plus 2d4 persistent poison
 
-**Melee** dagger +16 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
+**Ranged** ◆ dagger +16 (agile, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
 
 **Innate primal Spells** (DC 22)
 

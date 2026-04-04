@@ -5,7 +5,9 @@ unique, n, huge, clockwork, construct, mindless
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
+
+**Skills** Athletics +25
 
 **STR** +8, **DEX** +0, **CON** +5, **INT** -5, **WIS** +3, **CHA** -5
 
@@ -21,7 +23,7 @@ unique, n, huge, clockwork, construct, mindless
 
 **Immunities** death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poisoned, sickened, unconscious
 
-**Resistances** physical 10
+**Resistances** physical 10 (except adamantine or bludgeoning)
 
 **Weaknesses** sonic 15
 
@@ -33,11 +35,11 @@ unique, n, huge, clockwork, construct, mindless
 
 Speed 45 feet
 
-**Melee** tusk +21 (reach <15 feet>); **Damage** 3d8+15 piercing
+**Melee** ◆ tusk +21 (reach <15 feet>); **Damage** 3d8+15 piercing
 
-**Melee** trunk +21 (reach <15 feet>); **Damage** grabbing trunk
+**Melee** ◆ trunk +21 (reach <15 feet>); **Damage** grabbing trunk
 
-**Melee** foot +21 (reach <10 feet>); **Damage** 3d10+15 bludgeoning
+**Melee** ◆ foot +21 (reach <10 feet>); **Damage** 3d10+15 bludgeoning
 
 **Dual Tusks** ◆ The glass elephant makes two tusk Strikes, each against a different creature. This counts as one attack for the elephant's multiple attack penalty, and the penalty doesn't increase until after both attacks.
 

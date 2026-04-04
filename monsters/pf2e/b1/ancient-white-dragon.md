@@ -5,9 +5,11 @@ uncommon, ce, huge, cold, dragon
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, scent 60 feet (imprecise), snow vision
 
 **Languages** common, draconic, jotun
+
+**Skills** Acrobatics +24, Arcana +23, Athletics +31, Intimidation +28, Stealth +26
 
 **STR** +8, **DEX** +3, **CON** +7, **INT** +2, **WIS** +3, **CHA** +3
 
@@ -35,21 +37,21 @@ uncommon, ce, huge, cold, dragon
 
 ---
 
-Speed 40 feet, fly 160 feet
+Speed 40 feet, fly 160 feet, ice climb 40 feet
 
-**Melee** jaws +31 (cold, magical, reach <15 feet>); **Damage** 3d12+16 piercing plus 3d6 cold
+**Melee** ◆ jaws +31 (cold, magical, reach <15 feet>); **Damage** 3d12+16 piercing plus 3d6 cold
 
-**Melee** claw +31 (agile, magical, reach <10 feet>); **Damage** 3d10+16 slashing
+**Melee** ◆ claw +31 (agile, magical, reach <10 feet>); **Damage** 3d10+16 slashing
 
-**Melee** tail +29 (magical, reach <20 feet>); **Damage** 2d10+14 bludgeoning
+**Melee** ◆ tail +29 (magical, reach <20 feet>); **Damage** 2d10+14 bludgeoning
 
 **Innate arcane Spells** (DC 36)
 
-  **1st** gust of wind
+  **1st** gust of wind (at will)
 
-  **2nd** obscuring mist
+  **2nd** obscuring mist (at will)
 
-  **6th** wall of ice
+  **6th** wall of ice (at will)
 
 **Breath Weapon** ◆◆ (arcane, cold, evocation) The dragon breathes a cloud of frost that deals 16d6 cold damage in a 50-foot cone (DC 36 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
 

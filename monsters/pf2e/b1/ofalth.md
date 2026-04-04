@@ -5,9 +5,11 @@ ce, large, aberration
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
 **Languages** common (can't speak any language)
+
+**Skills** Athletics +23, Stealth +19
 
 **STR** +7, **DEX** +3, **CON** +6, **INT** -2, **WIS** +2, **CHA** -2
 
@@ -29,8 +31,8 @@ ce, large, aberration
 
 Speed 30 feet
 
-**Melee** fist +23 (reach <10 feet>); **Damage** 2d12+13 bludgeoning plus wretched weeps plus wretched weeps
+**Melee** ◆ fist +23 (reach <10 feet>); **Damage** 2d12+13 bludgeoning plus wretched weeps plus wretched weeps
 
-**Melee** fling offal +19 (range increment <30 feet>); **Damage** 2d10+7 bludgeoning plus wretched weeps plus wretched weeps
+**Ranged** ◆ fling offal +19 (range increment <30 feet>); **Damage** 2d10+7 bludgeoning plus wretched weeps plus wretched weeps
 
 **Wretched Weeps** (disease)

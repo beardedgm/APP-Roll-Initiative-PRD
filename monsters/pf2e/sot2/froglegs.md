@@ -5,9 +5,11 @@ unique, ne, small, grippli, humanoid
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
 **Languages** common, elven, grippli, iruxi
+
+**Skills** Acrobatics +16, Athletics +15, Deception +16, Intimidation +16, Stealth +16, Thievery +18, Underworld Lore +15
 
 **STR** +3, **DEX** +4, **CON** +0, **INT** +1, **WIS** +2, **CHA** +4
 
@@ -27,11 +29,11 @@ unique, ne, small, grippli, humanoid
 
 Speed 30 feet, climb 20 feet
 
-**Melee** dagger +20 (agile, deadly <d10>, finesse, magical, versatile <S>); **Damage** 1d4+5 piercing plus knife fighter plus knife fighter
+**Melee** ◆ dagger +20 (agile, deadly <d10>, finesse, magical, versatile <S>); **Damage** 1d4+5 piercing plus knife fighter plus knife fighter
 
-**Melee** Habu's Cudgel +19 (magical); **Damage** 2d6+5 bludgeoning
+**Melee** ◆ Habu's Cudgel +19 (magical); **Damage** 2d6+5 bludgeoning
 
-**Melee** dagger +20 (agile, deadly <d10>, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing plus knife fighter plus knife fighter
+**Ranged** ◆ dagger +20 (agile, deadly <d10>, magical, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing plus knife fighter plus knife fighter
 
 **Knife Fighter** Froglegs deals an additional 2d6 precision damage with weapons from the knife group, and knives gain the deadly <d10> weapon property while she wields them.
 

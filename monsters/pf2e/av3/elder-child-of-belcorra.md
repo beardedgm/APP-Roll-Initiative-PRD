@@ -5,9 +5,11 @@ rare, le, small, mummy, undead
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, {@ability tremorsense} 30 feet (imprecise)
 
 **Languages** common, gnome, undercommon
+
+**Skills** Athletics +19, Nature +19, Stealth +19
 
 **STR** +6, **DEX** +3, **CON** +0, **INT** +0, **WIS** +3, **CHA** +0
 
@@ -29,9 +31,9 @@ rare, le, small, mummy, undead
 
 ---
 
-Speed 20 feet
+Speed 20 feet, burrow 15 feet
 
-**Melee** fist +21; **Damage** 2d10+8 bludgeoning plus bog rot plus bog rot
+**Melee** ◆ fist +21; **Damage** 2d10+8 bludgeoning plus bog rot plus bog rot
 
 **Prepared primal Spells** (DC 28), attack +20
 

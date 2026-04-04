@@ -5,9 +5,11 @@ n, medium, shadow
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** aklo, auran, common, shae, undercommon
+
+**Skills** Acrobatics +13, Deception +9, Occultism +11, Stealth +13, Shadow Plane Lore +11
 
 **STR** +3, **DEX** +5, **CON** +1, **INT** +3, **WIS** +2, **CHA** +3
 
@@ -33,17 +35,17 @@ n, medium, shadow
 
 ---
 
-Speed 25 feet, fly 35 feet
+Speed 25 feet, fly 35 feet, swift steps, tenebral form
 
-**Melee** dagger +13 (agile, finesse, versatile <S>); **Damage** 1d4+5 piercing and 1d6 cold
+**Melee** ◆ dagger +13 (agile, finesse, versatile <S>); **Damage** 1d4+5 piercing and 1d6 cold
 
-**Melee** dagger +13 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing and 1d6 cold
+**Ranged** ◆ dagger +13 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing and 1d6 cold
 
 **Innate occult Spells** (DC 21)
 
   **Cantrips (2nd)** chill touch, detect magic
 
-  **4th** gaseous form
+  **4th** gaseous form (at will)
 
   **7th** plane shift
 

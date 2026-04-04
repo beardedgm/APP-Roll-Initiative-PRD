@@ -5,7 +5,9 @@ n, large, animal, aquatic, swarm
 
 ---
 
-**Perception** +9
+**Perception** +9; blood scent, low-light vision, scent 100 feet (imprecise)
+
+**Skills** Acrobatics +10, Athletics +8
 
 **STR** +1, **DEX** +3, **CON** +2, **INT** -5, **WIS** +2, **CHA** -2
 

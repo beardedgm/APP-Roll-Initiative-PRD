@@ -5,9 +5,11 @@ uncommon, ce, large, giant, humanoid
 
 ---
 
-**Perception** +19
+**Perception** +19; scent 30 feet (imprecise)
 
 **Languages** mwangi
+
+**Skills** Athletics +18, Intimidation +16, Stealth +14
 
 **STR** +6, **DEX** +4, **CON** +6, **INT** -2, **WIS** +3, **CHA** +0
 
@@ -27,9 +29,9 @@ uncommon, ce, large, giant, humanoid
 
 Speed 30 feet
 
-**Melee** claw +20 (agile, reach <10 feet>); **Damage** 2d8+9 slashing plus Grab plus Grab
+**Melee** ◆ claw +20 (agile, reach <10 feet>); **Damage** 2d8+9 slashing plus Grab plus Grab
 
-**Melee** jaws +20; **Damage** 2d12+9 piercing
+**Melee** ◆ jaws +20; **Damage** 2d12+9 piercing
 
 **Burrowed Ambush** ◆◆ **Requirements** The aigamuxa is Hiding in dirt, sand, or another soft surface; The aigamuxa makes a claw Strike against a creature within reach. On a hit, the aigamuxa automatically Grabs the creature. Whether or not they hit, the aigamuxa then Strides. If they have a creature grabbed, the creature moves with the aigamuxa.
 

@@ -5,9 +5,11 @@ rare, ce, medium, fiend, qlippoth
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
 
-**Languages** abyssal
+**Languages** abyssal; telepathy (touch only)
+
+**Skills** Acrobatics +9, Athletics +9, Occultism +9, Stealth +9
 
 **STR** +2, **DEX** +3, **CON** +4, **INT** +2, **WIS** +2, **CHA** +1
 
@@ -21,7 +23,7 @@ rare, ce, medium, fiend, qlippoth
 
 **Immunities** controlled, fear
 
-**Resistances** mental 3, physical 3
+**Resistances** mental 3, physical 3 (except cold iron)
 
 **Weaknesses** lawful 3
 
@@ -29,7 +31,7 @@ rare, ce, medium, fiend, qlippoth
 
 Speed 30 feet
 
-**Melee** bite +11 (agile, chaotic, magical); **Damage** 1d8+4 piercing plus 1d4 chaotic and rust creep|Rust plus rust creep
+**Melee** ◆ bite +11 (agile, chaotic, magical); **Damage** 1d8+4 piercing plus 1d4 chaotic and rust creep|Rust plus rust creep
 
 **Innate occult Spells** (DC 20)
 
@@ -37,7 +39,7 @@ Speed 30 feet
 
   **1st** phantom pain
 
-  **2nd** detect alignment, paranoia
+  **2nd** detect alignment (at will), paranoia
 
   **4th** read omens
 

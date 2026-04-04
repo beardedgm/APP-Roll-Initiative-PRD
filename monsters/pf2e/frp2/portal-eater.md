@@ -5,9 +5,11 @@ rare, ce, gargantuan, astral
 
 ---
 
-**Perception** +30
+**Perception** +30; greater darkvision
 
-**Languages** aklo
+**Languages** aklo; telepathy 100 feet
+
+**Skills** Athletics +36, Intimidation +35
 
 **STR** +10, **DEX** +5, **CON** +8, **INT** +0, **WIS** +6, **CHA** +9
 
@@ -33,11 +35,11 @@ rare, ce, gargantuan, astral
 
 Speed 35 feet, fly 35 feet
 
-**Melee** beak +34 (reach <25 feet>); **Damage** 3d12+20 piercing and Improved Grab plus Improved Grab
+**Melee** ◆ beak +34 (reach <25 feet>); **Damage** 3d12+20 piercing and Improved Grab plus Improved Grab
 
-**Melee** claw +34 (agile, reach <30 feet>); **Damage** 3d8+20 slashing plus Improved Push 20 feet
+**Melee** ◆ claw +34 (agile, reach <30 feet>); **Damage** 3d8+20 slashing plus Improved Push 20 feet
 
-**Melee** cloak +34 (reach <40 feet>); **Damage** 3d8+20 bludgeoning plus Pull 20 feet
+**Melee** ◆ cloak +34 (reach <40 feet>); **Damage** 3d8+20 bludgeoning plus Pull 20 feet
 
 **Swallow Whole** ◆ (attack) Gargantuan, 17d6+8 force, Rupture 33.
 

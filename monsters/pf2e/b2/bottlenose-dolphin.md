@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +7
+**Perception** +7; aquatic echolocation 120 feet, low-light vision
+
+**Skills** Athletics +6
 
 **STR** +2, **DEX** +3, **CON** +2, **INT** -4, **WIS** +3, **CHA** +0
 
@@ -25,8 +27,8 @@ n, medium, animal
 
 Speed swim 60 feet
 
-**Melee** snout +6; **Damage** 1d6+2 bludgeoning
+**Melee** ◆ snout +6; **Damage** 1d6+2 bludgeoning
 
-**Melee** jaws +6; **Damage** 1d6+2 piercing
+**Melee** ◆ jaws +6; **Damage** 1d6+2 piercing
 
 **Ramming Speed** ◆◆ The bottlenose dolphin Swims twice and then makes a snout Strike. As long as it moved at least 20 feet, it gains a +1 circumstance bonus to its attack roll. A Large or smaller creature hit by this attack must succeed at a DC 16 Fortitude save or be slowed 1 for 1 round.

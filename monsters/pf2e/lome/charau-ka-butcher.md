@@ -5,9 +5,11 @@ ne, small, charau-ka, humanoid
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision, scent 30 feet (imprecise)
 
 **Languages** draconic, mwangi
+
+**Skills** Acrobatics +11, Athletics +15, Intimidation +14, Religion +9, Stealth +13
 
 **STR** +5, **DEX** +3, **CON** +3, **INT** +0, **WIS** +1, **CHA** +2
 
@@ -29,13 +31,13 @@ ne, small, charau-ka, humanoid
 
 Speed 25 feet, climb 25 feet
 
-**Melee** trident +17 (magical); **Damage** 2d8+8 slashing
+**Melee** ◆ trident +17 (magical); **Damage** 2d8+8 slashing
 
-**Melee** fist +15 (agile, nonlethal); **Damage** 1d4+8 bludgeoning
+**Melee** ◆ fist +15 (agile, nonlethal); **Damage** 1d4+8 bludgeoning
 
-**Melee** trident +16 (deadly <d6>, magical, thrown <20 feet>); **Damage** 2d8+6 piercing
+**Ranged** ◆ trident +16 (deadly <d6>, magical, thrown <20 feet>); **Damage** 2d8+6 piercing
 
-**Melee** thrown debris +15 (deadly <d6>, thrown <20 feet>); **Damage** 2d6+8 bludgeoning
+**Ranged** ◆ thrown debris +15 (deadly <d6>, thrown <20 feet>); **Damage** 2d6+8 bludgeoning
 
 **Mauler** While the charau-ka butcher is raging, their melee Strikes deal an additional 1d4 persistent bleed damage.
 

@@ -5,9 +5,11 @@ ln, large, aeon, inevitable, monitor
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision, true seeing
 
-**Languages** celestial, infernal, utopian
+**Languages** celestial, infernal, utopian; truespeech
+
+**Skills** Athletics +31, Diplomacy +27, Intimidation +29, Religion +26, Survival +28, Axis Lore +22
 
 **STR** +8, **DEX** +4, **CON** +6, **INT** +1, **WIS** +5, **CHA** +6
 
@@ -29,13 +31,15 @@ ln, large, aeon, inevitable, monitor
 
 ---
 
-Speed 25 feet
+Speed 25 feet, air walk
 
-**Melee** fist +30 (lawful, magical, reach <10 feet>); **Damage** 3d8+11 bludgeoning plus 1d6 lawful and fists of thunder and lightning plus fists of thunder, lightning
+**Melee** ◆ fist +30 (lawful, magical, reach <10 feet>); **Damage** 3d8+11 bludgeoning plus 1d6 lawful and fists of thunder and lightning plus fists of thunder, lightning
 
 **Innate divine Spells** (DC 37)
 
-  **4th** dimension door
+  **Constant (8th)** air walk, true seeing
+
+  **4th** dimension door (at will)
 
   **5th** command, locate
 

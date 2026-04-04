@@ -5,9 +5,11 @@ unique, ne, medium, mummy, undead
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision
 
 **Languages** abyssal, common, elven, necril, undercommon
+
+**Skills** Acrobatics +31, Arcana +33, Deception +38, Diplomacy +34, Intimidation +36, Occultism +35, Religion +28, Society +33, Stealth +31, Shraen Lore +31
 
 **STR** +2, **DEX** +6, **CON** +4, **INT** +6, **WIS** +3, **CHA** +9
 
@@ -37,9 +39,9 @@ unique, ne, medium, mummy, undead
 
 Speed 25 feet
 
-**Melee** fist +34 (agile, finesse); **Damage** 4d10+12 bludgeoning plus insidious mummy rot plus insidious mummy rot
+**Melee** ◆ fist +34 (agile, finesse); **Damage** 4d10+12 bludgeoning plus insidious mummy rot plus insidious mummy rot
 
-**Melee** hand crossbow +36 (range increment <60 feet>, reload <1>); **Damage** 3d6+12 piercing plus insidious mummy rot plus insidious mummy rot
+**Ranged** ◆ hand crossbow +36 (range increment <60 feet>, reload <1>); **Damage** 3d6+12 piercing plus insidious mummy rot plus insidious mummy rot
 
 **Spontaneous occult Spells** (DC 41)
 
@@ -69,7 +71,7 @@ Speed 25 feet
 
   **Cantrips (10th)** dancing lights
 
-  **2nd** darkness, faerie fire
+  **2nd** darkness (at will), faerie fire (at will)
 
   **8th** moment of renewal
 

@@ -5,7 +5,9 @@ n, small, animal
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, scent 30 feet (imprecise)
+
+**Skills** Athletics +20, Stealth +18
 
 **STR** +6, **DEX** +2, **CON** +4, **INT** -4, **WIS** +3, **CHA** +0
 
@@ -25,9 +27,9 @@ n, small, animal
 
 Speed 35 feet, burrow 10 feet
 
-**Melee** jaws +21; **Damage** 2d10+12 piercing plus Grab plus Grab
+**Melee** ◆ jaws +21; **Damage** 2d10+12 piercing plus Grab plus Grab
 
-**Melee** claw +21 (agile); **Damage** 2d8+12 slashing plus Grab plus Grab
+**Melee** ◆ claw +21 (agile); **Damage** 2d8+12 slashing plus Grab plus Grab
 
 **Bleeding Critical** When an aurumvorax scores a critical hit, the target takes 1d6 persistent bleed damage.
 

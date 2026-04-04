@@ -5,7 +5,9 @@ rare, n, large, construct, mindless
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision
+
+**Skills** Athletics +8
 
 **STR** +4, **DEX** +1, **CON** +3, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -31,4 +33,4 @@ rare, n, large, construct, mindless
 
 Speed 20 feet
 
-**Melee** wooden sword +11 (versatile <P>); **Damage** 1d8+4 slashing
+**Melee** ◆ wooden sword +11 (versatile <P>); **Damage** 1d8+4 slashing

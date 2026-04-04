@@ -5,7 +5,9 @@ medium, petitioner, varies
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision
+
+**Skills** Athletics +7, Planar Lore +7
 
 **STR** +2, **DEX** +2, **CON** +2, **INT** +2, **WIS** +2, **CHA** +2
 

@@ -5,9 +5,11 @@ rare, ne, medium, undead
 
 ---
 
-**Perception** +31
+**Perception** +31; darkvision, tremorsense 60 feet (precise)
 
 **Languages** aklo, common, draconic, elven, necril, sylvan, undercommon
+
+**Skills** Athletics +28, Acrobatics +24, Crafting +26, Intimidation +24, Nature +33, Religion +29, Stealth +26, Survival +31
 
 **STR** +6, **DEX** +4, **CON** +6, **INT** +4, **WIS** +9, **CHA** +2
 
@@ -23,15 +25,15 @@ rare, ne, medium, undead
 
 **Immunities** death effects, disease, paralyzed, poison, unconscious
 
-**Resistances** fire 20, physical 15
+**Resistances** fire 20, physical 15 (except magic bludgeoning)
 
 **Miasma** (aura, disease, primal) 20 feet, DC 37
 
 ---
 
-Speed 25 feet, burrow 25 feet
+Speed 25 feet, burrow 25 feet, earth glide
 
-**Melee** stone antler +28 (magical); **Damage** 5d6+12 bludgeoning plus stony shards
+**Melee** ◆ stone antler +28 (magical); **Damage** 5d6+12 bludgeoning plus stony shards
 
 **Prepared primal Spells** (DC 41), attack +33
 
@@ -47,7 +49,7 @@ Speed 25 feet, burrow 25 feet
 
   **5th** cloudkill, cone of cold, tree stride
 
-  **6th** flesh to stone, tangling creepers
+  **6th** flesh to stone (×2), tangling creepers
 
   **7th** chain lightning, eclipse burst, finger of death
 

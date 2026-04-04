@@ -5,9 +5,11 @@ unique, cg, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
 **Languages** common, elven, gnomish
+
+**Skills** Acrobatics +18, Society +18, Stealth +20, Thievery +20
 
 **STR** -5, **DEX** +6, **CON** +0, **INT** +4, **WIS** +3, **CHA** +4
 
@@ -23,7 +25,7 @@ unique, cg, medium, ghost, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Rejuvenation** Securing the four icons of the Roseguard and placing them on the altar in area D13 allows Otari to move on to the afterlife.
 
@@ -31,7 +33,7 @@ unique, cg, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ghostly hand +19 (agile, finesse, magical); **Damage** 3d6+6 negative
+**Melee** ◆ ghostly hand +19 (agile, finesse, magical); **Damage** 3d6+6 negative
 
 **Filth Fever** (disease)
 

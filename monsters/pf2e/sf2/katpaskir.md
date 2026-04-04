@@ -5,9 +5,11 @@ uncommon, ce, medium, demon, fiend
 
 ---
 
-**Perception** +31
+**Perception** +31; darkvision, see invisibility, warp sense
 
-**Languages** abyssal, aklo, celestial, common, draconic
+**Languages** abyssal, aklo, celestial, common, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +31, Arcana +35, Deception +31, Occultism +33, Religion +32, Stealth +31, Thievery +31
 
 **STR** +6, **DEX** +5, **CON** +9, **INT** +7, **WIS** +6, **CHA** +5
 
@@ -35,19 +37,21 @@ uncommon, ce, medium, demon, fiend
 
 Speed 35 feet, fly 35 feet, burrow 15 feet
 
-**Melee** claw +34 (evil, magical); **Damage** 3d12+14 slashing plus 1d6 evil
+**Melee** ◆ claw +34 (evil, magical); **Damage** 3d12+14 slashing plus 1d6 evil
 
-**Melee** talon +34 (agile, evil, magical); **Damage** 3d8+14 slashing plus 1d6 evil
+**Melee** ◆ talon +34 (agile, evil, magical); **Damage** 3d8+14 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 40), attack +32
 
-  **4th** dimensional anchor
+  **Constant (9th)** freedom of movement, see invisibility
 
-  **5th** dimension door, prying eye
+  **4th** dimensional anchor (at will)
+
+  **5th** dimension door (at will), prying eye (at will)
 
   **7th** plane shift, teleport
 
-  **8th** banishment, blink, disintegrate
+  **8th** banishment (×3), blink, disintegrate
 
   **9th** summon fiend
 

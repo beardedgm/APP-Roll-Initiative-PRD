@@ -5,9 +5,11 @@ rare, ne, medium, amphibious, fey, water
 
 ---
 
-**Perception** +31
+**Perception** +31; low-light vision, true seeing
 
 **Languages** aquan, common, sylvan
+
+**Skills** Acrobatics +35, Athletics +31, Deception +35, Nature +33, Performance +37, Stealth +35, Survival +33
 
 **STR** +6, **DEX** +10, **CON** +2, **INT** +3, **WIS** +6, **CHA** +10
 
@@ -27,19 +29,21 @@ rare, ne, medium, amphibious, fey, water
 
 ---
 
-Speed 25 feet, swim 50 feet
+Speed 25 feet, swim 50 feet, water walk
 
-**Melee** hair +24 (agile, finesse, reach <15 feet>); **Damage** 4d10+12 bludgeoning plus Improved Grab
+**Melee** ◆ hair +24 (agile, finesse, reach <15 feet>); **Damage** 4d10+12 bludgeoning plus Improved Grab
 
 **Innate primal Spells** (DC 41), attack +33
 
-  **2nd** invisibility, obscuring mist
+  **Constant (9th)** true seeing, water walk
 
-  **5th** control water
+  **2nd** invisibility (at will), obscuring mist (at will)
 
-  **6th** baleful polymorph
+  **5th** control water (at will)
 
-  **8th** charm, fire seeds
+  **6th** baleful polymorph (×3)
+
+  **8th** charm (at will), fire seeds (×3)
 
   **9th** hydraulic torrent, nature's enmity
 

@@ -5,7 +5,9 @@ n, tiny, animal
 
 ---
 
-**Perception** +5
+**Perception** +5; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +5, Athletics +1, Stealth +5, Survival +3
 
 **STR** -3, **DEX** +4, **CON** +0, **INT** -4, **WIS** +1, **CHA** -2
 
@@ -23,6 +25,6 @@ n, tiny, animal
 
 Speed 20 feet, swim 20 feet, climb 20 feet
 
-**Melee** fangs +8 (agile, finesse); **Damage** 1d8-3 piercing plus viper venom plus viper venom
+**Melee** ◆ fangs +8 (agile, finesse); **Damage** 1d8-3 piercing plus viper venom plus viper venom
 
 **Viper Venom** (poison)

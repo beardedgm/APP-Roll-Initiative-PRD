@@ -5,9 +5,11 @@ rare, large, fungus, mutant
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, sporesight (imprecise)
 
-**Languages** muan, wildsong
+**Languages** muan, wildsong; shaped tongue, spore matrix
+
+**Skills** Acrobatics +22, Athletics +24, Intimidation +21, Nature +27, Survival +27
 
 **STR** +7, **DEX** +3, **CON** +4, **INT** -2, **WIS** +8, **CHA** +2
 
@@ -37,8 +39,10 @@ rare, large, fungus, mutant
 
 ---
 
-Speed 40 feet
+Speed 40 feet, fly
 
-**Melee** tendril +28 (reach <10 feet>); **Damage** 3d10+13 bludgeoning plus 1d6 persistent poison
+**Melee** ◆ tendril +28 (reach <10 feet>); **Damage** 3d10+13 bludgeoning plus 1d6 persistent poison
 
 **Innate primal Spells** (DC 33)
+
+  **Constant (5th)** environmental endurance, fly

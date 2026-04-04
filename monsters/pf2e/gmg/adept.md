@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Arcana +5, Diplomacy +3, Occultism +7, Society +5, Scribing Lore +5
+
 **STR** +0, **DEX** +2, **CON** +0, **INT** +3, **WIS** +2, **CHA** +1
 
 **Items** journal, robes, scroll case, writing set
@@ -27,9 +29,9 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** fist +6 (agile, nonlethal); **Damage** 1d4 bludgeoning
+**Melee** ◆ fist +6 (agile, nonlethal); **Damage** 1d4 bludgeoning
 
-**Melee** journal +6 (nonlethal, thrown <10 feet>); **Damage** 1d6 bludgeoning
+**Ranged** ◆ journal +6 (nonlethal, thrown <10 feet>); **Damage** 1d6 bludgeoning
 
 **Occult Spells Known Spells** (DC 14)
 

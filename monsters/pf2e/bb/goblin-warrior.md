@@ -5,11 +5,13 @@ ce, small, goblin, humanoid
 
 ---
 
-**Perception** +2
+**Perception** +2; darkvision
+
+**Skills** Acrobatics +5, Athletics +2, Nature +1, Stealth +5
 
 **STR** +0, **DEX** +3, **CON** +1, **INT** +0, **WIS** -1, **CHA** +1
 
-**Items** {@item shortsword}, {@item leather||leather armor}, {@item shortbow} (10 {@item arrow (generic)||arrows})
+**Items** shortsword, leather armor, shortbow (10 arrows)
 
 ---
 
@@ -25,6 +27,6 @@ ce, small, goblin, humanoid
 
 Speed 25 feet
 
-**Melee** shortsword +8 (agile, finesse, versatile <P>); **Damage** 1d6 slashing
+**Melee** ◆ shortsword +8 (agile, finesse, versatile <P>); **Damage** 1d6 slashing
 
-**Melee** shortbow +8 (deadly <1d10>, range increment <60 feet>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +8 (deadly <1d10>, range increment <60 feet>); **Damage** 1d6 piercing

@@ -5,9 +5,11 @@ ng, medium, angel, celestial
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Acrobatics +24, Diplomacy +26, Intimidation +28, Religion +24
 
 **STR** +8, **DEX** +4, **CON** +5, **INT** +4, **WIS** +4, **CHA** +6
 
@@ -31,17 +33,19 @@ ng, medium, angel, celestial
 
 Speed 40 feet, fly 75 feet
 
-**Melee** holy warhammer +30 (good, magical, shove); **Damage** 2d8+22 bludgeoning plus 1d6 good
+**Melee** ◆ holy warhammer +30 (good, magical, shove); **Damage** 2d8+22 bludgeoning plus 1d6 good
 
 **Innate divine Spells** (DC 36), attack +28
 
+  **Constant (5th)** tongues
+
   **Cantrips (7th)** light
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
-  **4th** discern lies
+  **4th** discern lies (at will)
 
   **7th** blade barrier, divine decree, divine wrath, heal, remove curse, remove disease, remove fear
 

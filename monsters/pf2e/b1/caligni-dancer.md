@@ -5,9 +5,11 @@ cn, small, caligni, humanoid
 
 ---
 
-**Perception** +6
+**Perception** +6; greater darkvision, light blindness
 
 **Languages** caligni
+
+**Skills** Acrobatics +7, Performance +6, Stealth +7, Thievery +7
 
 **STR** +0, **DEX** +4, **CON** +2, **INT** -1, **WIS** +1, **CHA** +3
 
@@ -29,11 +31,11 @@ cn, small, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** baton +9 (agile, finesse, shove); **Damage** 1d4 bludgeoning
+**Melee** ◆ baton +9 (agile, finesse, shove); **Damage** 1d4 bludgeoning
 
-**Melee** dagger +9 (agile, finesse, versatile <S>); **Damage** 1d4 piercing
+**Melee** ◆ dagger +9 (agile, finesse, versatile <S>); **Damage** 1d4 piercing
 
-**Melee** dagger +9 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
+**Ranged** ◆ dagger +9 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4 piercing
 
 **Innate occult Spells** (DC 16)
 

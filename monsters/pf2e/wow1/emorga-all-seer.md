@@ -5,9 +5,11 @@ unique, gargantuan, animal
 
 ---
 
-**Perception** +21
+**Perception** +21; low-light vision, scent (imprecise)
 
-**Languages** common, druidic, fey
+**Languages** common, druidic, fey; speak with animals|PC1, speak with plants|PC1
+
+**Skills** Athletics +16, Diplomacy +18, Medicine +19, Nature +21, Society +18, Soothsaying Lore +23, Survival +19
 
 **STR** +4, **DEX** +0, **CON** +5, **INT** +4, **WIS** +6, **CHA** +4
 
@@ -32,11 +34,15 @@ unique, gargantuan, animal
 
 Speed 10 feet, swim 20 feet
 
-**Melee** jaws +19; **Damage** 2d10+10 piercing
+**Melee** ◆ jaws +19; **Damage** 2d10+10 piercing
 
-**Melee** foot +19; **Damage** 2d8+10 bludgeoning
+**Melee** ◆ foot +19; **Damage** 2d8+10 bludgeoning
 
 **Innate primal Spells** (DC 28), attack +20
+
+  **Constant (4th)** speak with plants
+
+  **Constant (2nd)** speak with animals
 
   **Cantrips (5th)** guidance, read aura, tangle vine
 

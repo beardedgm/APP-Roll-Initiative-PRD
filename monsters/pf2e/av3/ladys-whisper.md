@@ -5,9 +5,11 @@ unique, ne, medium, undead
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, see invisibility, true seeing
 
 **Languages** aklo, common, necril, undercommon
+
+**Skills** Acrobatics +22, Athletics +20, Deception +21, Diplomacy +21, Intimidation +21, Occultism +21, Religion +23, Society +21, Stealth +22
 
 **STR** +3, **DEX** +5, **CON** +3, **INT** +4, **WIS** +8, **CHA** +4
 
@@ -31,9 +33,15 @@ unique, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** claw +23 (agile, finesse); **Damage** 2d10+7 slashing plus unwilling teleportation plus unwilling teleportation
+**Melee** ◆ claw +23 (agile, finesse); **Damage** 2d10+7 slashing plus unwilling teleportation plus unwilling teleportation
 
 **Innate divine Spells** (DC 30), attack +22
+
+  **Constant (6th)** true seeing
+
+  **Constant (3rd)** haste
+
+  **Constant (2nd)** see invisibility
 
 **Spontaneous occult Spells** (DC 30), attack +22
 

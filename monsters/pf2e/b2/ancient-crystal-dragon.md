@@ -5,9 +5,11 @@ rare, ng, gargantuan, dragon, earth, elemental
 
 ---
 
-**Perception** +28
+**Perception** +28; darkvision, scent 60 feet (imprecise), {@ability tremorsense} 60 feet (imprecise)
 
 **Languages** celestial, common, draconic, terran, undercommon
+
+**Skills** Acrobatics +22, Athletics +33, Deception +29, Intimidation +29, Nature +27, Stealth +28, Survival +26
 
 **STR** +9, **DEX** +5, **CON** +6, **INT** +5, **WIS** +5, **CHA** +7
 
@@ -37,17 +39,17 @@ rare, ng, gargantuan, dragon, earth, elemental
 
 Speed 60 feet, fly 140 feet, burrow 40 feet
 
-**Melee** jaws +33 (magical, reach <20 feet>); **Damage** 3d8+17 slashing plus 4d6 piercing
+**Melee** ◆ jaws +33 (magical, reach <20 feet>); **Damage** 3d8+17 slashing plus 4d6 piercing
 
-**Melee** claw +33 (agile, magical, reach <15 feet>); **Damage** 3d8+17 slashing
+**Melee** ◆ claw +33 (agile, magical, reach <15 feet>); **Damage** 3d8+17 slashing
 
-**Melee** tail +31 (magical, reach <25 feet>); **Damage** 2d10+17 slashing
+**Melee** ◆ tail +31 (magical, reach <25 feet>); **Damage** 2d10+17 slashing
 
 **Innate primal Spells** (DC 37)
 
   **Cantrips (7th)** dancing lights
 
-  **5th** color spray, glitterdust, hypnotic pattern
+  **5th** color spray (at will), glitterdust (at will), hypnotic pattern (at will)
 
   **7th** prismatic spray
 

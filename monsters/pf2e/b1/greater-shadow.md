@@ -5,9 +5,11 @@ ce, medium, incorporeal, undead
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision
 
 **Languages** necril
+
+**Skills** Acrobatics +16, Stealth +20
 
 **STR** -5, **DEX** +5, **CON** +0, **INT** +0, **WIS** +2, **CHA** +4
 
@@ -21,7 +23,7 @@ ce, medium, incorporeal, undead
 
 **Immunities** poison, precision, death effects, disease, paralyzed, unconscious
 
-**Resistances** all 10
+**Resistances** all 10 (except force, ghost touch, or positive; double resistance against non-magical)
 
 **Weaknesses** light vulnerability
 
@@ -31,11 +33,11 @@ ce, medium, incorporeal, undead
 
 Speed fly 30 feet
 
-**Melee** shadow hand +18 (finesse, magical); **Damage** 2d10+6 negative
+**Melee** ◆ shadow hand +18 (finesse, magical); **Damage** 2d10+6 negative
 
 **Innate divine Spells** (DC 25)
 
-  **2nd** darkness
+  **2nd** darkness (at will)
 
 **Shadow Spawn** When a creature's shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.
 

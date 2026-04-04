@@ -5,9 +5,11 @@ uncommon, ne, medium, fiend, sahkil
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision, detect magic
 
-**Languages** abyssal, celestial, infernal, requian
+**Languages** abyssal, celestial, infernal, requian; telepathy 100 feet
+
+**Skills** Acrobatics +33, Arcana +39, Deception +33, Intimidation +37, Occultism +37, Stealth +33, Dream Lore +33
 
 **STR** +5, **DEX** +8, **CON** +6, **INT** +10, **WIS** +6, **CHA** +8
 
@@ -29,19 +31,21 @@ uncommon, ne, medium, fiend, sahkil
 
 ---
 
-Speed 50 feet
+Speed 50 feet, air walk
 
-**Melee** fist +35 (agile, finesse, magical); **Damage** 4d8+13 bludgeoning plus 5d6 evil
+**Melee** ◆ fist +35 (agile, finesse, magical); **Damage** 4d8+13 bludgeoning plus 5d6 evil
 
-**Melee** mindtwisting utterance +36 (auditory, magical, mental, range <100 feet>); **Damage** 4d12 mental plus 5d6 evil
+**Ranged** ◆ mindtwisting utterance +36 (auditory, magical, mental, range <100 feet>); **Damage** 4d12 mental plus 5d6 evil
 
 **Innate divine Spells** (DC 41)
 
-  **4th** fear, freedom of movement, nightmare
+  **Constant (9th)** air walk, detect magic, mask of terror
+
+  **4th** fear (at will), freedom of movement, nightmare (at will)
 
   **8th** mind blank
 
-  **9th** dispel magic, weird
+  **9th** dispel magic (at will), weird
 
 **Tainted Backlash** A creature frightened by the sahkil's mask of terror is gripped with fear of the ways magic can go wrong. The creature is stupefied|CRB|stupefied 2 for as long as it is frightened. If the creature Casts a Spell during its turn, it can't reduce its frightened condition at the end of that turn.
 

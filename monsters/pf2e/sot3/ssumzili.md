@@ -5,9 +5,11 @@ uncommon, ce, medium, fey
 
 ---
 
-**Perception** +25
+**Perception** +25; low-light vision
 
 **Languages** aklo, common, sylvan
+
+**Skills** Acrobatics +23, Athletics +21, Intimidation +19, Nature +17, Stealth +25, Survival +21
 
 **STR** +5, **DEX** +7, **CON** +4, **INT** +3, **WIS** +5, **CHA** +3
 
@@ -31,15 +33,17 @@ uncommon, ce, medium, fey
 
 ---
 
-Speed 40 feet
+Speed 40 feet, puddle stride
 
-**Melee** claw +24 (agile, finesse); **Damage** 3d8+7 slashing
+**Melee** ◆ claw +24 (agile, finesse); **Damage** 3d8+7 slashing
 
 **Innate primal Spells** (DC 29)
 
+  **Constant (2nd)** endure elements
+
   **1st** negate aroma
 
-  **2nd** pass without trace, quench, waterwalk
+  **2nd** pass without trace, quench (at will), waterwalk
 
   **3rd** earthbind
 

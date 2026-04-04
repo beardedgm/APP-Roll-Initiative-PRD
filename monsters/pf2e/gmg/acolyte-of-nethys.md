@@ -9,9 +9,11 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Arcana +5, Crafting +5, Diplomacy +4, Occultism +5, Religion +7
+
 **STR** +1, **DEX** +2, **CON** -1, **INT** +2, **WIS** +4, **CHA** +1
 
-**Items** {@item crossbow} ({@item bolt (generic)||10 bolts}), {@item religious symbol (generic)||religious symbol} of {@deity Nethys}, {@item religious text} of {@deity Nethys}, {@item staff}
+**Items** crossbow (10 bolts), religious symbol of Nethys, religious text of Nethys, staff
 
 ---
 
@@ -25,9 +27,9 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** staff +4 (two-hand <d8>); **Damage** 1d4+1 bludgeoning
+**Melee** ◆ staff +4 (two-hand <d8>); **Damage** 1d4+1 bludgeoning
 
-**Melee** crossbow +5 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
+**Ranged** ◆ crossbow +5 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
 
 **Cleric Domain Spells** (DC 17)
 

@@ -5,9 +5,11 @@ rare, ne, medium, ooze
 
 ---
 
-**Perception** +20
+**Perception** +20; motion sense 60 feet, no vision
 
-**Languages** abyssal, aklo, infernal, undercommon
+**Languages** abyssal, aklo, infernal, undercommon; telepathy 100 feet
+
+**Skills** Arcana +30, Religion +29, Ancient History Lore +30
 
 **STR** +6, **DEX** +3, **CON** +9, **INT** +7, **WIS** +6, **CHA** +6
 
@@ -29,21 +31,21 @@ rare, ne, medium, ooze
 
 Speed 20 feet, fly 20 feet
 
-**Melee** pseudopod +27; **Damage** 3d8+12 bludgeoning plus mental erosion plus mental erosion
+**Melee** ◆ pseudopod +27; **Damage** 3d8+12 bludgeoning plus mental erosion plus mental erosion
 
 **Innate divine Spells** (DC 37), attack +31
 
   **Cantrips (7th)** telekinetic projectile
 
-  **1st** charm, command
+  **1st** charm (at will), command (at will)
 
-  **2nd** telekinetic maneuver
+  **2nd** telekinetic maneuver (at will)
 
-  **3rd** mind reading
+  **3rd** mind reading (at will)
 
-  **6th** crisis of faith, telekinetic haul
+  **6th** crisis of faith, telekinetic haul (at will)
 
-  **7th** charm, feeblemind, possession, suggestion
+  **7th** charm (×3), feeblemind, possession, suggestion
 
 **Cleric Domain Spells** (DC 37), attack +31
 

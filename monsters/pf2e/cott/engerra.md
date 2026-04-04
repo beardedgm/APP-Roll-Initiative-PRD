@@ -5,9 +5,11 @@ uncommon, tiny, agathion, celestial, holy
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision
 
-**Languages** common, diabolic, empyrean
+**Languages** common, diabolic, empyrean; truespeech
+
+**Skills** Arcana +16, Diplomacy +16, Performance +18, Religion +17, Society +20
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** +6, **WIS** +4, **CHA** +5
 
@@ -27,9 +29,11 @@ uncommon, tiny, agathion, celestial, holy
 
 Speed 25 feet, fly 30 feet
 
-**Melee** swarming bite +19 (agile, finesse); **Damage** 3d6+10 piercing
+**Melee** ◆ swarming bite +19 (agile, finesse); **Damage** 3d6+10 piercing
 
 **Innate divine Spells** (DC 26), attack +18
+
+  **Constant (5th)** truespeech
 
   **Cantrips (4th)** light, stabilize
 

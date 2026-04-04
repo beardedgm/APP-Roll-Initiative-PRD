@@ -5,9 +5,11 @@ uncommon, ce, large, aberration, seugathi
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision, {@ability tremorsense} 30 feet
 
-**Languages** aklo, undercommon
+**Languages** aklo, undercommon; telepathy 100 feet
+
+**Skills** Acrobatics +19, Arcana +19, Crafting +19, Deception +20, Intimidation +18, Nature +17, Occultism +19, Stealth +19
 
 **STR** +4, **DEX** +6, **CON** +3, **INT** +4, **WIS** +2, **CHA** +5
 
@@ -33,17 +35,17 @@ uncommon, ce, large, aberration, seugathi
 
 Speed 25 feet
 
-**Melee** bite +19 (agile, finesse); **Damage** 2d6+8 piercing plus 1d10 chaotic plus seugathi venom plus seugathi venom
+**Melee** ◆ bite +19 (agile, finesse); **Damage** 2d6+8 piercing plus 1d10 chaotic plus seugathi venom plus seugathi venom
 
-**Melee** battle axe +18 (magical, sweep, reach <10 feet>); **Damage** 1d8+8 bludgeoning plus 1d10 chaotic
+**Melee** ◆ battle axe +18 (magical, sweep, reach <10 feet>); **Damage** 1d8+8 bludgeoning plus 1d10 chaotic
 
 **Innate occult Spells** (DC 28), attack +20
 
   **Cantrips (5th)** daze, detect magic, mage hand, telekinetic projectile
 
-  **3rd** hypercognition, levitate, mind reading
+  **3rd** hypercognition (×3), levitate (×3), mind reading (×3)
 
-  **4th** confusion, phantasmal killer, suggestion
+  **4th** confusion (×3), phantasmal killer, suggestion
 
   **5th** black tentacles, crushing despair, hallucination, synesthesia
 

@@ -5,9 +5,11 @@ rare, ne, large, fiend
 
 ---
 
-**Perception** +42
+**Perception** +42; greater darkvision, true seeing
 
-**Languages** abyssal, celestial, infernal, requian
+**Languages** abyssal, celestial, infernal, requian; telepathy 100 feet, tongues
+
+**Skills** Acrobatics +36, Arcana +38, Athletics +42, Deception +43, Religion +38, Stealth +36, Survival +40
 
 **STR** +10, **DEX** +8, **CON** +6, **INT** +6, **WIS** +8, **CHA** +11
 
@@ -33,19 +35,21 @@ rare, ne, large, fiend
 
 Speed 40 feet, fly 80 feet
 
-**Melee** spiked chain +43 (disarm, evil, magical, reach <10 feet>, trip); **Damage** 3d8+18 slashing plus 3d6 evil
+**Melee** ◆ spiked chain +43 (disarm, evil, magical, reach <10 feet>, trip); **Damage** 3d8+18 slashing plus 3d6 evil
 
-**Melee** claw +40 (evil, magical); **Damage** 4d6+18 slashing plus 3d6 evil
+**Melee** ◆ claw +40 (evil, magical); **Damage** 4d6+18 slashing plus 3d6 evil
 
 **Innate divine Spells** (DC 45)
 
-  **4th** dimension door
+  **Constant (5th)** detect alignment, tongues, true seeing
+
+  **4th** dimension door (at will)
 
   **5th** dimension door, scrying
 
-  **7th** plane shift
+  **7th** plane shift (at will)
 
-  **9th** bind soul, dimensional anchor, dispel magic, possession
+  **9th** bind soul (at will), dimensional anchor (at will), dispel magic, possession
 
   **10th** dominate
 

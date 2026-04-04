@@ -5,9 +5,11 @@ unique, ce, gargantuan, aberration, undead
 
 ---
 
-**Perception** +38
+**Perception** +38; darkvision, lifesense 60 feet (imprecise), scent 60 feet (imprecise), {@ability tremorsense} 60 feet (imprecise)
 
 **Languages** aklo, necril
+
+**Skills** Athletics +40, Intimidation +36
 
 **STR** +11, **DEX** +9, **CON** +10, **INT** +0, **WIS** +8, **CHA** +7
 
@@ -33,13 +35,13 @@ unique, ce, gargantuan, aberration, undead
 
 Speed 40 feet, burrow 40 feet, climb 25 feet
 
-**Melee** pseudopod +38 (magical, reach <30 feet>); **Damage** 5d10+21 piercing plus Grab plus Grab
+**Melee** ◆ pseudopod +38 (magical, reach <30 feet>); **Damage** 5d10+21 piercing plus Grab plus Grab
 
 **Innate occult Spells** (DC 42)
 
   **7th** hallucinatory terrain
 
-  **8th** disappearance, hallucination
+  **8th** disappearance (at will), hallucination
 
   **9th** overwhelming presence
 

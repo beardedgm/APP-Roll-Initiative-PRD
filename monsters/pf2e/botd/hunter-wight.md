@@ -5,9 +5,11 @@ uncommon, le, medium, undead, wight
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
 **Languages** common, necril
+
+**Skills** Athletics +14, Crafting +14, Intimidation +12, Stealth +17
 
 **STR** +3, **DEX** +4, **CON** +2, **INT** +1, **WIS** +3, **CHA** +2
 
@@ -29,9 +31,9 @@ uncommon, le, medium, undead, wight
 
 Speed 25 feet
 
-**Melee** claw +16 (agile); **Damage** 1d8+9 slashing plus drain life
+**Melee** ◆ claw +16 (agile); **Damage** 1d8+9 slashing plus drain life
 
-**Melee** composite longbow +18 (deadly <d10>, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 1d8+7 piercing plus drain life
+**Ranged** ◆ composite longbow +18 (deadly <d10>, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 1d8+7 piercing plus drain life
 
 **Drain Life** (divine, necromancy) When the hunter wight damages a living creature using an unarmed attack or their bound weapon, they gain 7 temporary
 

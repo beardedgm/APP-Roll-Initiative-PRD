@@ -5,9 +5,11 @@ ce, medium, undead
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision
 
 **Languages** elven, necril, undercommon
+
+**Skills** Acrobatics +31, Intimidation +27, Religion +24, Stealth +27
 
 **STR** +4, **DEX** +8, **CON** +4, **INT** +2, **WIS** +3, **CHA** +6
 
@@ -33,21 +35,21 @@ ce, medium, undead
 
 Speed 30 feet
 
-**Melee** greater frost rapier +31 (cold, deadly <2d8>, disarm, finesse, magical); **Damage** 3d6+14 piercing plus 1d6 cold
+**Melee** ◆ greater frost rapier +31 (cold, deadly <2d8>, disarm, finesse, magical); **Damage** 3d6+14 piercing plus 1d6 cold
 
-**Melee** greater frost main-gauche +31 (agile, cold, disarm, finesse, magical, parry, versatile <S>); **Damage** 3d4+14 piercing plus 1d6 cold
+**Melee** ◆ greater frost main-gauche +31 (agile, cold, disarm, finesse, magical, parry, versatile <S>); **Damage** 3d4+14 piercing plus 1d6 cold
 
-**Melee** fist +29 (agile, cold); **Damage** 3d6+10 piercing plus 1d6 cold
+**Melee** ◆ fist +29 (agile, cold); **Damage** 3d6+10 piercing plus 1d6 cold
 
-**Melee** greater frost hand crossbow +31 (cold, magical, range increment <60 feet>, reload <1>); **Damage** 3d6+14 piercing plus 1d6 cold and purple worm venom plus purple worm venom
+**Ranged** ◆ greater frost hand crossbow +31 (cold, magical, range increment <60 feet>, reload <1>); **Damage** 3d6+14 piercing plus 1d6 cold and purple worm venom plus purple worm venom
 
 **Innate divine Spells** (DC 36)
 
   **Cantrips (6th)** dancing lights
 
-  **2nd** faerie fire
+  **2nd** faerie fire (at will)
 
-  **4th** darkness
+  **4th** darkness (at will)
 
 **Devastating Blast** ◆◆ (arcane, cold, evocation) The graveknight unleashes a 30-foot cone of lightning. Creatures in the area take 8d12 cold damage (DC 36 basic Reflex save). The graveknight can use this ability once every 1d4 rounds.
 

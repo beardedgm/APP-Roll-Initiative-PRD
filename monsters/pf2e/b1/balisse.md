@@ -5,9 +5,11 @@ ng, medium, angel, celestial
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Acrobatics +14, Diplomacy +17, Religion +18
 
 **STR** +5, **DEX** +2, **CON** +4, **INT** +1, **WIS** +6, **CHA** +5
 
@@ -31,15 +33,15 @@ ng, medium, angel, celestial
 
 Speed 30 feet, fly 40 feet
 
-**Melee** flaming scimitar +20 (fire, forceful, good, magical, sweep); **Damage** 2d6+8 slashing plus 1d6 fire and 1d6 good
+**Melee** ◆ flaming scimitar +20 (fire, forceful, good, magical, sweep); **Damage** 2d6+8 slashing plus 1d6 fire and 1d6 good
 
 **Innate divine Spells** (DC 26)
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
-  **3rd** remove fear
+  **3rd** remove fear (at will)
 
   **4th** divine wrath, heal, paralyze, remove curse, remove disease
 

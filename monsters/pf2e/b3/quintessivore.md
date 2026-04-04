@@ -5,9 +5,11 @@ rare, ne, medium, beast
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** abyssal, aklo, common, infernal, undercommon
+
+**Skills** Arcana +25, Athletics +17, Intimidation +19, Stealth +20
 
 **STR** +3, **DEX** +6, **CON** +6, **INT** +7, **WIS** +3, **CHA** +3
 
@@ -27,7 +29,7 @@ rare, ne, medium, beast
 
 Speed 40 feet, climb 20 feet
 
-**Melee** blade-leg +22 (finesse, magical); **Damage** 1d10+9 slashing damage plus 1d10 negative damage and tattered soul plus tattered soul
+**Melee** ◆ blade-leg +22 (finesse, magical); **Damage** 1d10+9 slashing damage plus 1d10 negative damage and tattered soul plus tattered soul
 
 **Prepared arcane Spells** (DC 29), attack +21
 
@@ -37,9 +39,9 @@ Speed 40 feet, climb 20 feet
 
   **2nd** comprehend language, see invisibility, web
 
-  **3rd** slow, vampiric touch
+  **3rd** slow, vampiric touch (×2)
 
-  **4th** clairvoyance, enervation
+  **4th** clairvoyance, enervation (×2)
 
   **5th** black tentacles, grim tendrils, passwall
 

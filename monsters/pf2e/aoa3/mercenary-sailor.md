@@ -9,6 +9,8 @@ ne, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +11, Athletics +13, Survival +11, Thievery +11, Sailing Lore +13
+
 **STR** +4, **DEX** +4, **CON** +3, **INT** +0, **WIS** +2, **CHA** -1
 
 **Items** leather armor, scimitar, shortbow (20 arrows)
@@ -27,9 +29,9 @@ ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** scimitar +15 (forceful, sweep); **Damage** 1d6+7 slashing
+**Melee** ◆ scimitar +15 (forceful, sweep); **Damage** 1d6+7 slashing
 
-**Melee** shortbow +15 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+3 piercing
+**Ranged** ◆ shortbow +15 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+3 piercing
 
 **Mobility** When the sailor takes a Stride action to move half their Speed or less, that movement does not trigger reactions.
 

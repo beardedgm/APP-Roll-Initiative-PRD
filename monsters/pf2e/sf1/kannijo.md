@@ -5,9 +5,11 @@ unique, ne, medium, undead, vampire
 
 ---
 
-**Perception** +23
+**Perception** +23; breathsense (precise), darkvision
 
 **Languages** aklo, common, necril, tien
+
+**Skills** Acrobatics +23, Athletics +23, Deception +25, Intimidation +25, Nature +23, Occultism +25, Stealth +25
 
 **STR** +4, **DEX** +6, **CON** +3, **INT** +4, **WIS** +4, **CHA** +6
 
@@ -25,7 +27,7 @@ unique, ne, medium, undead, vampire
 
 **Immunities** death effects, disease, paralyzed, poison, prone, sleep
 
-**Resistances** physical 10
+**Resistances** physical 10 (except darkwood)
 
 **Jiang-Shi Vulnerabilities** As vampire, jiang-shi|BotD|jiangi-shi.
 
@@ -35,9 +37,9 @@ unique, ne, medium, undead, vampire
 
 ---
 
-Speed 15 feet, swim 15 feet
+Speed 15 feet, swim 15 feet, rigor mortis
 
-**Melee** fangs +26 (agile, finesse); **Damage** 3d10+10 piercing plus Grab and spirit naga venom
+**Melee** ◆ fangs +26 (agile, finesse); **Damage** 3d10+10 piercing plus Grab and spirit naga venom
 
 **Spontaneous occult Spells** (DC 33), attack +25
 

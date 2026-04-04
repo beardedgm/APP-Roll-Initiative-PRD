@@ -5,9 +5,11 @@ ne, gargantuan, construct, undead
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
 
-**Languages** common
+**Languages** common; other languages typical to the region
+
+**Skills** Athletics +30, Deception +26
 
 **STR** +10, **DEX** +0, **CON** +6, **INT** +4, **WIS** +4, **CHA** +3
 
@@ -21,7 +23,7 @@ ne, gargantuan, construct, undead
 
 **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 10
+**Resistances** physical 10 (except adamantine)
 
 **Weaknesses** positive 15
 
@@ -31,7 +33,9 @@ ne, gargantuan, construct, undead
 
 ---
 
-**Melee** edifice +30; **Damage** 4d10+9 bludgeoning
+Speed can't move
+
+**Melee** ◆ edifice +30; **Damage** 4d10+9 bludgeoning
 
 **Collapse Ceiling** ◆◆◆ The ruin collapses up to three 10-footby- 10-foot sections of its ceiling. The ruin takes 10 damage per section it collapses, and it can't collapse the same section until it has been repaired. Each creature in one of these areas takes 8d10 bludgeoning damage with a DC 35 basic Reflex save. On a failed save, the creature is also restrained under the rubble until it Escapes (DC 33)
 

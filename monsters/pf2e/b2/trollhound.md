@@ -5,7 +5,9 @@ n, medium, beast, troll
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +6, Athletics +11, Stealth +8, Survival +6
 
 **STR** +4, **DEX** +1, **CON** +5, **INT** -4, **WIS** +1, **CHA** -2
 
@@ -21,7 +23,7 @@ n, medium, beast, troll
 
 Speed 35 feet
 
-**Melee** jaws +11; **Damage** 1d12+4 piercing plus Knockdown and bloodfire fever plus Knockdown, bloodfire fever
+**Melee** ◆ jaws +11; **Damage** 1d12+4 piercing plus Knockdown and bloodfire fever plus Knockdown, bloodfire fever
 
 **Bloodfire Fever** (disease)
 

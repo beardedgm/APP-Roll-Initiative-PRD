@@ -5,9 +5,11 @@ unique, ce, medium, humanoid, xulgath
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
 **Languages** common, draconic, undercommon
+
+**Skills** Athletics +12, Intimidation +10, Performance +12, Stealth +10
 
 **STR** +4, **DEX** +2, **CON** +1, **INT** +0, **WIS** +2, **CHA** +2
 
@@ -29,14 +31,14 @@ unique, ce, medium, humanoid, xulgath
 
 Speed 30 feet
 
-**Melee** battle lute +14 (shove, two-hand <d8>); **Damage** 1d4+6 bludgeoning
+**Melee** ◆ battle lute +14 (shove, two-hand <d8>); **Damage** 1d4+6 bludgeoning
 
-**Melee** jaws +13; **Damage** 1d6+6 piercing
+**Melee** ◆ jaws +13; **Damage** 1d6+6 piercing
 
-**Melee** claw +13 (agile); **Damage** 1d4+6 slashing
+**Melee** ◆ claw +13 (agile); **Damage** 1d4+6 slashing
 
-**Melee** dagger +13 (agile, versatile <S>); **Damage** 1d4+6 piercing
+**Melee** ◆ dagger +13 (agile, versatile <S>); **Damage** 1d4+6 piercing
 
-**Melee** dagger +11 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
+**Ranged** ◆ dagger +11 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
 
 **Mosh** ◆ Gulzash Leaps to a square adjacent to a creature, then Shoves that creature. If Gulzash rolls a success on the Shove, he gets a critical success instead.

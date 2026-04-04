@@ -5,9 +5,11 @@ n, medium, humanoid, kovintus
 
 ---
 
-**Perception** +11
+**Perception** +11; low-light vision
 
 **Languages** common, kovintal, sylvan
+
+**Skills** Athletics +8, Nature +11, Survival +9
 
 **STR** +3, **DEX** +3, **CON** +1, **INT** +0, **WIS** +4, **CHA** -1
 
@@ -29,11 +31,13 @@ n, medium, humanoid, kovintus
 
 Speed 25 feet
 
-**Melee** mace +12 (shove); **Damage** 1d6+6 bludgeoning
+**Melee** ◆ mace +12 (shove); **Damage** 1d6+6 bludgeoning
 
-**Melee** sling +12 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+4 bludgeoning
+**Ranged** ◆ sling +12 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+4 bludgeoning
 
 **Innate primal Spells** (DC 21)
+
+  **Constant (3rd)** endure elements, pass without trace, water breathing
 
   **2nd** entangle, gust of wind, obscuring mist, pummeling rubble
 

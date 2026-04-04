@@ -9,6 +9,8 @@ rare, le, medium, human, humanoid
 
 **Languages** tien
 
+**Skills** Acrobatics +26, Athletics +27, Intimidation +26, Stealth +26, Thievery +26
+
 **STR** +5, **DEX** +4, **CON** +4, **INT** +0, **WIS** +3, **CHA** +2
 
 **Items** +2 striking shock dagger
@@ -25,9 +27,9 @@ rare, le, medium, human, humanoid
 
 Speed 25 feet, climb 15 feet
 
-**Melee** dagger +28 (agile, finesse, versatile <S>); **Damage** 2d4+13 piercing plus 1d6 electricity
+**Melee** ◆ dagger +28 (agile, finesse, versatile <S>); **Damage** 2d4+13 piercing plus 1d6 electricity
 
-**Melee** dagger +28 (agile, finesse, thrown <10 feet>); **Damage** 2d4+13 piercing plus 1d6 electricity
+**Ranged** ◆ dagger +28 (agile, finesse, thrown <10 feet>); **Damage** 2d4+13 piercing plus 1d6 electricity
 
 **Lasting Debilitating Strike** ◇ **Trigger** The xun's Strike hits a flat-footed creature and deals damage; The xun applies one of the following debilitations, which lasts until the end of the xun's next turn or for 1 week on a critical hit.
 

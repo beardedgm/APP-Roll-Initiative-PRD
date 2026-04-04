@@ -5,7 +5,9 @@ rare, n, large, clockwork, construct, mindless
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision
+
+**Skills** Stealth +25
 
 **STR** +6, **DEX** +6, **CON** +2, **INT** -5, **WIS** +2, **CHA** -5
 
@@ -21,7 +23,7 @@ rare, n, large, clockwork, construct, mindless
 
 **Immunities** death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poisoned, sickened, unconscious
 
-**Resistances** physical 10
+**Resistances** physical 10 (except adamantine or orichalcum)
 
 **Weaknesses** electricity 10, orichalcum 10
 
@@ -31,9 +33,9 @@ rare, n, large, clockwork, construct, mindless
 
 Speed 25 feet, climb 25 feet
 
-**Melee** claw +24; **Damage** 3d10+9 slashing
+**Melee** ◆ claw +24; **Damage** 3d10+9 slashing
 
-**Melee** string +24 (range <60 feet>); **Damage** 3d8+9 slashing plus clockwork string
+**Ranged** ◆ string +24 (range <60 feet>); **Damage** 3d8+9 slashing plus clockwork string
 
 **Clockwork String** Any creature hit by the puppeteer's string is grabbed. The puppeteer can move while it has a creature grabbed with its string, but it automatically releases the creature if the puppeteer moves beyond the string's 60-foot length. The puppeteer can use up to six strings at a time. It can release any creature grabbed by a string as a free action. Each string has AC 30, and its Escape DC is 32. A string can be severed by a Strike that deals at least 20 slashing damage to it. This doesn't deal any damage to the clockwork puppeteer.
 

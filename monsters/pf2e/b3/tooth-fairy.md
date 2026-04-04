@@ -5,9 +5,11 @@ ce, tiny, fey
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
 **Languages** sylvan
+
+**Skills** Acrobatics +5, Stealth +5, Thievery +6
 
 **STR** -2, **DEX** +3, **CON** +0, **INT** -1, **WIS** +2, **CHA** +1
 
@@ -29,7 +31,7 @@ ce, tiny, fey
 
 Speed 10 feet, fly 25 feet
 
-**Melee** pliers +7 (disarm, finesse); **Damage** 1d6 bludgeoning plus Tooth Tug plus Tooth Tug
+**Melee** ◆ pliers +7 (disarm, finesse); **Damage** 1d6 bludgeoning plus Tooth Tug plus Tooth Tug
 
 **Innate primal Spells** (DC 13)
 

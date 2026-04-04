@@ -5,9 +5,11 @@ uncommon, ne, large, undead
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** common, jotun, necril
+
+**Skills** Acrobatics +19, Arcana +27, Athletics +25, Intimidation +23, Stealth +21
 
 **STR** +6, **DEX** +2, **CON** +4, **INT** +5, **WIS** +3, **CHA** +4
 
@@ -23,7 +25,7 @@ uncommon, ne, large, undead
 
 **Immunities** death effects, disease, paralyzed, poison, unconscious
 
-**Resistances** cold 20, physical 15
+**Resistances** cold 20, physical 15 (except magic bludgeoning)
 
 **Catch Rock** ◈
 
@@ -31,17 +33,17 @@ uncommon, ne, large, undead
 
 Speed 35 feet
 
-**Melee** staff +26 (two-hand <d8>); **Damage** 2d4+12 bludgeoning
+**Melee** ◆ staff +26 (two-hand <d8>); **Damage** 2d4+12 bludgeoning
 
-**Melee** hand +25 (magical); **Damage** 4d8 negative plus paralyzing touch
+**Melee** ◆ hand +25 (magical); **Damage** 4d8 negative plus paralyzing touch
 
-**Melee** rock +25 (brutal, range increment <120 feet>); **Damage** 2d6+12 bludgeoning
+**Ranged** ◆ rock +25 (brutal, range increment <120 feet>); **Damage** 2d6+12 bludgeoning
 
 **Prepared arcane Spells** (DC 34), attack +26
 
   **Cantrips (7th)** acid splash, detect magic, mage hand, ray of frost, read aura, shield
 
-  **1st** grim tendrils, ray of enfeeblement
+  **1st** grim tendrils, ray of enfeeblement (×2)
 
   **2nd** magic missile, mirror image, telekinetic maneuver
 

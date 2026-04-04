@@ -5,7 +5,9 @@ cn, small, aberration, amphibious, mindless
 
 ---
 
-**Perception** +7
+**Perception** +7; a taste for skin 60 feet (precise)
+
+**Skills** Acrobatics +7, Athletics +5, Stealth +7
 
 **STR** +2, **DEX** +4, **CON** +1, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -29,6 +31,6 @@ cn, small, aberration, amphibious, mindless
 
 Speed 20 feet, swim 20 feet
 
-**Melee** nail +9 (finesse); **Damage** 1d8+1 piercing plus Grab
+**Melee** ◆ nail +9 (finesse); **Damage** 1d8+1 piercing plus Grab
 
 **Share the Skin** ◆ **Requirements** A grabbed, paralyzed, restrained, unconscious, or willing creature is within the skinskitter's reach; The skinskitter scrapes and shears away large sheets of the victim's skin. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The massive pain causes the victim to become clumsy 1 for 1 minute, and the skinskitter drapes itself in the flapping skin, granting it 10 temporary Hit Points for 1 minute.

@@ -5,9 +5,11 @@ uncommon, cn, medium, aberration, dream
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision, thoughtsense 60 feet (precise)
 
 **Languages** aklo (can't speak any language)
+
+**Skills** Acrobatics +11, Athletics +13, Stealth +11
 
 **STR** +5, **DEX** +3, **CON** +2, **INT** -2, **WIS** +2, **CHA** +0
 
@@ -31,9 +33,9 @@ uncommon, cn, medium, aberration, dream
 
 Speed 25 feet, fly 30 feet
 
-**Melee** claw +13 (agile); **Damage** 2d6+7 plus Grab plus 2d6+7, Grab
+**Melee** ◆ claw +13 (agile); **Damage** 2d6+7 plus Grab plus 2d6+7, Grab
 
-**Melee** tail +13 (agile, reach <10 feet>); plus tickle
+**Melee** ◆ tail +13 (agile, reach <10 feet>); plus tickle
 
 **Clutches** A nightgaunt can Fly at full Speed while it has a Medium or smaller creature grabbed or restrained in its claws, carrying that creature along with it.
 

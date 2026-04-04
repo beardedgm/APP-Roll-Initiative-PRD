@@ -5,9 +5,11 @@ rare, cn, medium, caligni, humanoid
 
 ---
 
-**Perception** +16
+**Perception** +16; greater darkvision
 
 **Languages** caligni, undercommon
+
+**Skills** Acrobatics +17, Athletics +18, Intimidation +16, Stealth +17, Survival +16
 
 **STR** +4, **DEX** +5, **CON** +1, **INT** -1, **WIS** +2, **CHA** +2
 
@@ -33,14 +35,14 @@ rare, cn, medium, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** shortsword +19 (agile, finesse, versatile <S>); **Damage** 1d6+8 piercing plus black smear poison plus black smear poison
+**Melee** ◆ shortsword +19 (agile, finesse, versatile <S>); **Damage** 1d6+8 piercing plus black smear poison plus black smear poison
 
-**Melee** shortbow +19 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+8 piercing plus black smear poison plus black smear poison
+**Ranged** ◆ shortbow +19 (deadly <d10>, range increment <60 feet>, reload <0>); **Damage** 1d6+8 piercing plus black smear poison plus black smear poison
 
 **Innate occult Spells** (DC 24)
 
   **Cantrips (3rd)** detect magic
 
-  **2nd** darkness, obscuring mist
+  **2nd** darkness (at will), obscuring mist (at will)
 
 **Shoulder to Shoulder** When adjacent to one or more defenders they can see, the defender deals an additional 2d6 damage with their Strikes.

@@ -5,9 +5,11 @@ rare, n, large, beast
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
-**Languages** aklo, common, sylvan
+**Languages** aklo, common, sylvan; telepathy 100 feet
+
+**Skills** Acrobatics +16, Athletics +16, Diplomacy +17, Lore +15 (any one), Nature +15, Occultism +15, Society +13
 
 **STR** +3, **DEX** +5, **CON** +4, **INT** +2, **WIS** +4, **CHA** +6
 
@@ -29,17 +31,17 @@ rare, n, large, beast
 
 Speed 40 feet, fly 20 feet, climb 20 feet
 
-**Melee** antler +16; **Damage** 2d12+6 piercing
+**Melee** ◆ antler +16; **Damage** 2d12+6 piercing
 
-**Melee** hoof +16 (reach <10 feet>); **Damage** 2d8+6 bludgeoning
+**Melee** ◆ hoof +16 (reach <10 feet>); **Damage** 2d8+6 bludgeoning
 
 **Innate primal Spells** (DC 25)
 
   **Cantrips (3rd)** guidance, know direction
 
-  **1st** true strike
+  **1st** true strike (×3)
 
-  **2nd** augury
+  **2nd** augury (×2)
 
   **3rd** hypercognition
 

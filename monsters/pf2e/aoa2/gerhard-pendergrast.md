@@ -9,9 +9,11 @@ unique, le, medium, human, humanoid
 
 **Languages** azlanti, common
 
+**Skills** Azlanti Lore +14, Deception +18, Diplomacy +12, Engineering Lore +14, Intimidation +18, Nature +16, Performance +16, Survival +18
+
 **STR** +3, **DEX** +4, **CON** +5, **INT** +0, **WIS** -1, **CHA** +6
 
-**Items** bag of holding type I (containing three kegs of black powder he intends to use at area {@b A10}, or empty if the PCs already confronted him at {@b A10}; see that area for more details), shoddy blunderbuss, daggers (10), grapeshot (10), gunpowder (10), +1 leather armor, monocle, tindertwigs (5), +1 striking whip
+**Items** bag of holding type I (containing three kegs of black powder he intends to use at area A10, or empty if the PCs already confronted him at A10; see that area for more details), shoddy blunderbuss, daggers (10), grapeshot (10), gunpowder (10), +1 leather armor, monocle, tindertwigs (5), +1 striking whip
 
 ---
 
@@ -27,13 +29,13 @@ unique, le, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** whip +19 (disarm, finesse, nonlethal, magical, reach <10 feet>, trip); **Damage** 2d4+6 slashing
+**Melee** ◆ whip +19 (disarm, finesse, nonlethal, magical, reach <10 feet>, trip); **Damage** 2d4+6 slashing
 
-**Melee** fist (agile, finesse) +18; **Damage** 1d4+6 bludgeoning plus manly left hook plus manly left hook
+**Melee** ◆ fist (agile, finesse) +18; **Damage** 1d4+6 bludgeoning plus manly left hook plus manly left hook
 
-**Melee** dagger +18 (agile, finesse, versatile <S>); **Damage** 1d4+6 piercing
+**Melee** ◆ dagger +18 (agile, finesse, versatile <S>); **Damage** 1d4+6 piercing
 
-**Melee** dagger +18 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
+**Ranged** ◆ dagger +18 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
 
 **Manly Left Hook** A creature struck by Gerhard's punch must succeed at a DC 23 Fortitude save or be stunned|CRB|stunned 1 (or stunned|CRB|stunned 3 on a critical failure).
 

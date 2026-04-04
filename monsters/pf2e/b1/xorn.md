@@ -5,9 +5,11 @@ n, medium, earth, elemental
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, {@ability tremorsense} 60 feet (imprecise)
 
 **Languages** common, terran
+
+**Skills** Athletics +17, Stealth +11, Survival +15, Geology Lore +15
 
 **STR** +6, **DEX** +0, **CON** +5, **INT** +0, **WIS** +2, **CHA** +0
 
@@ -25,11 +27,11 @@ n, medium, earth, elemental
 
 ---
 
-Speed 20 feet, burrow 20 feet
+Speed 20 feet, burrow 20 feet, earth glide
 
-**Melee** jaw +18 (deadly <1d10>); **Damage** 2d10+8 piercing
+**Melee** ◆ jaw +18 (deadly <1d10>); **Damage** 2d10+8 piercing
 
-**Melee** claw +18 (agile); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +18 (agile); **Damage** 2d6+8 slashing
 
 **Claw Frenzy** ◆◆ The xorn makes three claw Strikes; no more than two can be against the same target. These attacks count toward the xorn's multiple attack penalty, but the penalty doesn't increase until after all the attacks have been made.
 

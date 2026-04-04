@@ -5,9 +5,11 @@ unique, ce, medium, humanoid, xulgath
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision, {@ability tremorsense} 30 feet (imprecise)
 
 **Languages** aklo, common, draconic, undercommon
+
+**Skills** Arcana +24, Athletics +28, Crafting +28, Intimidation +23, Medicine +24, Nature +22, Survival +22
 
 **STR** +6, **DEX** +1, **CON** +4, **INT** +4, **WIS** +2, **CHA** +1
 
@@ -31,11 +33,11 @@ unique, ce, medium, humanoid, xulgath
 
 Speed 20 feet, burrow 10 feet
 
-**Melee** jaws +28; **Damage** 3d8+12 piercing
+**Melee** ◆ jaws +28; **Damage** 3d8+12 piercing
 
-**Melee** claw +28 (agile); **Damage** 3d6+12 slashing plus Grab plus Grab
+**Melee** ◆ claw +28 (agile); **Damage** 3d6+12 slashing plus Grab plus Grab
 
-**Melee** alchemical bomb +27 (range increment <30 feet>, splash); **Damage** varies by bomb
+**Ranged** ◆ alchemical bomb +27 (range increment <30 feet>, splash); **Damage** varies by bomb
 
 **Innate primal Spells** (DC 34)
 

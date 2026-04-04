@@ -5,13 +5,15 @@ unique, ce, large, aberration, seugathi
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision, {@ability tremorsense} 30 feet
 
-**Languages** aklo, common, undercommon
+**Languages** aklo, common, undercommon; telepathy 100 feet
+
+**Skills** Acrobatics +18, Crafting +18, Diplomacy +15, Intimidation +17, Medicine +16, Nature +16, Occultism +18, Stealth +18
 
 **STR** +3, **DEX** +6, **CON** +4, **INT** +4, **WIS** +4, **CHA** +3
 
-**Items** +1 striking rapier, wand of gentle repose, wand of 2nd-level magic missile, expanded alchemist's tools, keys to areas {@b B11} and {@b C7}
+**Items** +1 striking rapier, wand of gentle repose, wand of 2nd-level magic missile, expanded alchemist's tools, keys to areas B11 and C7
 
 **Infused Items** Jafaki carries these infused items: 2 moderate acid flasks, 2 moderate bottled lightnings, 2 moderate cognitive mutagens, 2 lesser elixirs of life, 2 moderate mistform elixirs, and 2 doses of wyvern poison (one of which they have already applied to their rapier). These items last for 24 hours, or until the next time Jafaki makes their daily preparations.
 
@@ -35,21 +37,21 @@ unique, ce, large, aberration, seugathi
 
 Speed 25 feet
 
-**Melee** bite +18 (agile, finesse); **Damage** 2d6+5 piercing plus seugathi venom plus seugathi venom
+**Melee** ◆ bite +18 (agile, finesse); **Damage** 2d6+5 piercing plus seugathi venom plus seugathi venom
 
-**Melee** rapier +19 (deadly <1d8>, disarm, finesse, reach <10 feet>); **Damage** 2d6+5 piercing plus wyvern poison plus wyvern poison
+**Melee** ◆ rapier +19 (deadly <1d8>, disarm, finesse, reach <10 feet>); **Damage** 2d6+5 piercing plus wyvern poison plus wyvern poison
 
-**Melee** acid flask +19 (bomb, range increment <20 feet>, splash); **Damage** 5 acid plus 2d6+2 persistent acid and 6 acid splash
+**Ranged** ◆ acid flask +19 (bomb, range increment <20 feet>, splash); **Damage** 5 acid plus 2d6+2 persistent acid and 6 acid splash
 
-**Melee** bottled lightning +19 (bomb, range increment <20 feet>, splash); **Damage** 2d6+2 electricity plus 6 electricity splash
+**Ranged** ◆ bottled lightning +19 (bomb, range increment <20 feet>, splash); **Damage** 2d6+2 electricity plus 6 electricity splash
 
 **Innate occult Spells** (DC 26), attack +18
 
   **Cantrips (4th)** daze, detect magic, mage hand, telekinetic projectile
 
-  **3rd** hypercognition, levitate, mind reading
+  **3rd** hypercognition, levitate, mind reading (×3)
 
-  **4th** confusion, phantasmal killer
+  **4th** confusion (×3), phantasmal killer
 
 **Envenom Weapon** ◆ (manipulate) Jafaki applies their innate seugathi venom to one weapon they wield.
 

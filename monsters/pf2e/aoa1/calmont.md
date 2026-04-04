@@ -5,9 +5,11 @@ unique, le, small, halfling, humanoid
 
 ---
 
-**Perception** +6
+**Perception** +6; keen eyes
 
 **Languages** common, goblin, halfling
+
+**Skills** Acrobatics +9, Athletics +7, Deception +7, Intimidation +7, Society +7, Stealth +11, Thievery +11, Breachill Lore +8, Mercantile Lore +4
 
 **STR** +2, **DEX** +4, **CON** +1, **INT** -1, **WIS** -1, **CHA** +2
 
@@ -29,11 +31,11 @@ unique, le, small, halfling, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +9 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing
+**Melee** ◆ dagger +9 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing
 
-**Melee** shortbow +9 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
+**Ranged** ◆ shortbow +9 (deadly <1d10>, range increment <60 feet>, reload <0>); **Damage** 1d6 piercing
 
-**Melee** dagger +9 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
+**Ranged** ◆ dagger +9 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
 
 **Quick Draw** ◆
 

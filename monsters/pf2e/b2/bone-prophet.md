@@ -5,9 +5,11 @@ uncommon, ne, medium, humanoid, serpentfolk
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, scent 30 feet (imprecise)
 
-**Languages** aklo, common, necril, undercommon
+**Languages** aklo, common, necril, undercommon; telepathy 100 feet
+
+**Skills** Arcana +15, Deception +18, Intimidation +16, Occultism +17, Religion +19, Society +15, Stealth +13
 
 **STR** +3, **DEX** +3, **CON** +2, **INT** +5, **WIS** +5, **CHA** +6
 
@@ -25,9 +27,9 @@ uncommon, ne, medium, humanoid, serpentfolk
 
 Speed 25 feet
 
-**Melee** staff +18 (magical, two-hand <d8>); **Damage** 2d4+9 bludgeoning
+**Melee** ◆ staff +18 (magical, two-hand <d8>); **Damage** 2d4+9 bludgeoning
 
-**Melee** fangs +17 (finesse); **Damage** 2d6+9 piercing plus serpentfolk venom plus serpentfolk venom
+**Melee** ◆ fangs +17 (finesse); **Damage** 2d6+9 piercing plus serpentfolk venom plus serpentfolk venom
 
 **Spontaneous divine Spells** (DC 28), attack +20
 
@@ -41,11 +43,11 @@ Speed 25 feet
 
 **Innate occult Spells** (DC 28)
 
-  **1st** ventriloquism
+  **1st** ventriloquism (at will)
 
-  **2nd** mirror image
+  **2nd** mirror image (at will)
 
-  **3rd** illusory disguise
+  **3rd** illusory disguise (at will)
 
   **5th** illusory scene, suggestion
 

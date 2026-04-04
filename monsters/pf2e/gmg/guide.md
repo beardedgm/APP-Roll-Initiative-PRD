@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +14, Stealth +11, Survival +12, Scouting Lore +12
+
 **STR** +4, **DEX** +1, **CON** +2, **INT** +1, **WIS** +3, **CHA** +0
 
 **Items** composite shortbow (40 arrows), greataxe, scale mail
@@ -27,8 +29,8 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** greataxe +12 (sweep); **Damage** 1d12+6 slashing
+**Melee** ◆ greataxe +12 (sweep); **Damage** 1d12+6 slashing
 
-**Melee** composite shortbow +9 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+2 piercing
+**Ranged** ◆ composite shortbow +9 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+2 piercing
 
 **Guiding Words** ◆ The guide points out a weakness of a creature within 30 feet. The guide and all allies that can hear or see the guide gain a +1 status bonus to attack and damage rolls against that creature until the beginning of the guide's next turn. The guide adds an extra 1d6 precision damage to their weapon and unarmed attacks that hit that creature during the duration.

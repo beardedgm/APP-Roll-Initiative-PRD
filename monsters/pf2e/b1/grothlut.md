@@ -5,7 +5,9 @@ n, medium, aberration, mindless
 
 ---
 
-**Perception** +5
+**Perception** +5; darkvision
+
+**Skills** Athletics +11
 
 **STR** +4, **DEX** -2, **CON** +4, **INT** -5, **WIS** +0, **CHA** -3
 
@@ -27,6 +29,6 @@ n, medium, aberration, mindless
 
 Speed 20 feet
 
-**Melee** claw +11 (agile); **Damage** 1d10+8 slashing
+**Melee** ◆ claw +11 (agile); **Damage** 1d10+8 slashing
 
-**Melee** digestive spew +7 (acid, range increment <15 feet>, splash); **Damage** 2d6 acid damage plus 1d6 splash acid damage
+**Ranged** ◆ digestive spew +7 (acid, range increment <15 feet>, splash); **Damage** 2d6 acid damage plus 1d6 splash acid damage

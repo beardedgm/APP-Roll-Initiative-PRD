@@ -9,6 +9,8 @@ rare, gargantuan, air, beast, cold, holy|PC1
 
 **Languages** sussuran
 
+**Skills** Acrobatics +23, Athletics +22, Nature +25
+
 **STR** +4, **DEX** +6, **CON** +5, **INT** +3, **WIS** +5, **CHA** +7
 
 **Heaven's View** Clouds don't impair a peng's vision.
@@ -29,17 +31,17 @@ rare, gargantuan, air, beast, cold, holy|PC1
 
 ---
 
-Speed 10 feet, fly 70 feet
+Speed 10 feet, fly 70 feet, windslice
 
-**Melee** beak +24 (reach <10 feet>); **Damage** 3d8+10 piercing
+**Melee** ◆ beak +24 (reach <10 feet>); **Damage** 3d8+10 piercing
 
-**Melee** talon +24 (agile); **Damage** 3d6+10 piercing
+**Melee** ◆ talon +24 (agile); **Damage** 3d6+10 piercing
 
 **Innate primal Spells** (DC 32)
 
-  **1st** gust of wind
+  **1st** gust of wind (at will)
 
-  **3rd** wall of wind
+  **3rd** wall of wind (at will)
 
   **5th** howling blizzard
 

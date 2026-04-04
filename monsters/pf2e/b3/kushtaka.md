@@ -5,9 +5,11 @@ ne, small, amphibious, beast
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision, scent 30 feet (imprecise)
 
 **Languages** common, sylvan
+
+**Skills** Acrobatics +11, Athletics +9, Deception +11, Stealth +11
 
 **STR** +3, **DEX** +5, **CON** +2, **INT** +0, **WIS** +4, **CHA** +3
 
@@ -31,14 +33,16 @@ ne, small, amphibious, beast
 
 Speed 25 feet, swim 40 feet
 
-**Melee** jaws +14 (finesse); **Damage** 2d8+5 piercing plus Grab plus Grab
+**Melee** ◆ jaws +14 (finesse); **Damage** 2d8+5 piercing plus Grab plus Grab
 
-**Melee** claw +14 (agile, finesse); **Damage** 2d6+5 slashing
+**Melee** ◆ claw +14 (agile, finesse); **Damage** 2d6+5 slashing
 
 **Innate occult Spells** (DC 21), attack +13
 
+  **Constant (2nd)** undetectable alignment
+
   **Cantrips (2nd)** ghost sound, mage hand, telekinetic projectile
 
-  **2nd** charm, invisibility, sleep
+  **2nd** charm (×2), invisibility (×2), sleep
 
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) The kushtaka takes on the specific appearance of a unique Small or Medium humanoid (page 304). Every time the kushtaka uses this ability, it takes on the same chosen form, though it can use non-magical disguises to further alter its appearance. This doesn't change the kushtaka's Speed or its attack and damage bonuses with its Strikes, though it does change the damage to an appropriate type, typically bludgeoning.

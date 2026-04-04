@@ -5,7 +5,9 @@ n, large, fungus, mindless, swarm
 
 ---
 
-**Perception** +10
+**Perception** +10; no vision, {@ability tremorsense} 60 feet
+
+**Skills** Athletics +12, Stealth +13
 
 **STR** +3, **DEX** +4, **CON** +5, **INT** -5, **WIS** +1, **CHA** -3
 
@@ -27,7 +29,7 @@ n, large, fungus, mindless, swarm
 
 ---
 
-Speed 20 feet, climb 20 feet
+Speed 20 feet, climb 20 feet, suction
 
 **Swarming Slither** ◆ The wizard sponge slithers over each creature in its space, dealing 2d10 acid damage (DC 20 basic Reflex save). A creature that critically fails is sickened 1.
 

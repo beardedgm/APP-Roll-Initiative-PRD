@@ -5,9 +5,11 @@ le, medium, devil, fiend
 
 ---
 
-**Perception** +24
+**Perception** +24; greater darkvision
 
-**Languages** celestial, common, draconic, infernal
+**Languages** celestial, common, draconic, infernal; telepathy 100 feet
+
+**Skills** Acrobatics +23, Athletics +22, Intimidation +21, Religion +18, Stealth +21
 
 **STR** +7, **DEX** +6, **CON** +6, **INT** +3, **WIS** +5, **CHA** +6
 
@@ -23,7 +25,7 @@ le, medium, devil, fiend
 
 **Immunities** fire
 
-**Resistances** physical 10
+**Resistances** physical 10 (except silver)
 
 **Weaknesses** good 10
 
@@ -33,15 +35,15 @@ le, medium, devil, fiend
 
 Speed 30 feet, fly 40 feet
 
-**Melee** flaming greataxe +24 (evil, fire, magical, sweep); **Damage** 2d12+13 slashing plus 1d6 evil and 1d6 fire
+**Melee** ◆ flaming greataxe +24 (evil, fire, magical, sweep); **Damage** 2d12+13 slashing plus 1d6 evil and 1d6 fire
 
-**Melee** horn +23 (agile, evil, magical); **Damage** 2d8+13 piercing plus 1d6 evil
+**Melee** ◆ horn +23 (agile, evil, magical); **Damage** 2d8+13 piercing plus 1d6 evil
 
-**Melee** flaming composite longbow +23 (deadly <d10>, evil, fire, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+6 piercing plus 1d6 evil and 1d6 fire
+**Ranged** ◆ flaming composite longbow +23 (deadly <d10>, evil, fire, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+6 piercing plus 1d6 evil and 1d6 fire
 
 **Innate divine Spells** (DC 27)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
   **5th** dimension door
 

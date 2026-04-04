@@ -5,9 +5,11 @@ ne, medium, humanoid, urdefhan
 
 ---
 
-**Perception** +16
+**Perception** +16; greater darkvision
 
 **Languages** aklo, daemonic, undercommon
+
+**Skills** Athletics +17, Intimidation +13, Religion +14, Survival +14
 
 **STR** +5, **DEX** +3, **CON** +4, **INT** +0, **WIS** +3, **CHA** +2
 
@@ -31,13 +33,13 @@ ne, medium, humanoid, urdefhan
 
 Speed 25 feet
 
-**Melee** shauth lash +18 (deadly <d8>, trip); **Damage** 2d8+7 slashing plus Grab and Wicked Bite plus Grab, Wicked Bite
+**Melee** ◆ shauth lash +18 (deadly <d8>, trip); **Damage** 2d8+7 slashing plus Grab and Wicked Bite plus Grab, Wicked Bite
 
-**Melee** jaws +17; **Damage** 2d6+7 plus Wicked Bite plus 2d6+7, Wicked Bite
+**Melee** ◆ jaws +17; **Damage** 2d6+7 plus Wicked Bite plus 2d6+7, Wicked Bite
 
 **Innate divine Spells** (DC 22), attack +14
 
-  **1st** feather fall, ray of enfeeblement
+  **1st** feather fall (at will), ray of enfeeblement
 
   **2nd** death knell
 

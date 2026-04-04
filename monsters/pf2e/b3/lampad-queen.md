@@ -5,9 +5,11 @@ uncommon, cn, medium, earth, fey, nymph
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision
 
-**Languages** aklo, common, sylvan, terran, undercommon
+**Languages** aklo, common, sylvan, terran, undercommon; stone tell
+
+**Skills** Acrobatics +27, Athletics +28, Deception +31, Diplomacy +33, Intimidation +33, Nature +27, Occultism +27, Performance +29, Society +25, Stealth +27
 
 **STR** +3, **DEX** +8, **CON** +7, **INT** +4, **WIS** +4, **CHA** +8
 
@@ -31,9 +33,9 @@ uncommon, cn, medium, earth, fey, nymph
 
 Speed 30 feet, climb 30 feet
 
-**Melee** earthen fist +29 (agile, finesse); **Damage** 3d10+9 bludgeoning plus 1d6 mental
+**Melee** ◆ earthen fist +29 (agile, finesse); **Damage** 3d10+9 bludgeoning plus 1d6 mental
 
-**Melee** light wisp +29 (magical, range increment <60 feet>); **Damage** 2d8+9 mental plus 2d6 fire and 2d6 positive
+**Ranged** ◆ light wisp +29 (magical, range increment <60 feet>); **Damage** 2d8+9 mental plus 2d6 fire and 2d6 positive
 
 **Prepared primal Spells** (DC 38)
 
@@ -43,7 +45,7 @@ Speed 30 feet, climb 30 feet
 
   **2nd** animal messenger, enlarge, faerie fire
 
-  **3rd** earthbind, haste
+  **3rd** earthbind (×2), haste
 
   **4th** fly, freedom of movement, resist energy
 
@@ -57,11 +59,13 @@ Speed 30 feet, climb 30 feet
 
 **Innate primal Spells** (DC 38)
 
+  **Constant (6th)** stone tell
+
   **Cantrips (8th)** dancing lights
 
   **2nd** faerie fire
 
-  **3rd** meld into stone
+  **3rd** meld into stone (at will)
 
   **4th** shape stone
 

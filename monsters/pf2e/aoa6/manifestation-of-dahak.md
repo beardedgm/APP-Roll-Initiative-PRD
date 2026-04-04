@@ -5,9 +5,11 @@ unique, ce, gargantuan, acid, cold, dragon, electricity, fire, poison
 
 ---
 
-**Perception** +46
+**Perception** +46; darkvision, scent 120 feet (precise), smoke vision
 
-**Languages** abyssal, celestial, common, draconic, elven, infernal, jotun, orcish, sylvan
+**Languages** abyssal, celestial, common, draconic, elven, infernal, jotun, orcish, sylvan; telepathy 200 feet
+
+**Skills** Acrobatics +38, Arcana +45, Athletics +45, Deception +45, Diplomacy +38, Intimidation +48, Occultism +40, Religion +40, Society +38, Dragon Lore +48
 
 **STR** +12, **DEX** +8, **CON** +10, **INT** +8, **WIS** +8, **CHA** +9
 
@@ -41,29 +43,29 @@ unique, ce, gargantuan, acid, cold, dragon, electricity, fire, poison
 
 Speed 60 feet, fly 200 feet
 
-**Melee** claw +44 (agile, magical, reach <15 feet>); **Damage** 8d8+8 slashing
+**Melee** ◆ claw +44 (agile, magical, reach <15 feet>); **Damage** 8d8+8 slashing
 
-**Melee** jaws +44 (fire, magical, reach <20 feet>); **Damage** 5d10+10 piercing plus 4d6 fire and Improved Grab plus Improved Grab
+**Melee** ◆ jaws +44 (fire, magical, reach <20 feet>); **Damage** 5d10+10 piercing plus 4d6 fire and Improved Grab plus Improved Grab
 
-**Melee** tail +43 (magical, reach <25 feet>); **Damage** 6d10+12 slashing plus Improved Push plus Improved Push
+**Melee** ◆ tail +43 (magical, reach <25 feet>); **Damage** 6d10+12 slashing plus Improved Push plus Improved Push
 
-**Melee** wing +43 (agile, magical, reach <20 feet>); **Damage** 8d8+8 slashing
+**Melee** ◆ wing +43 (agile, magical, reach <20 feet>); **Damage** 8d8+8 slashing
 
 **Prepared divine Spells** (DC 48), attack +44
 
   **Cantrips (10th)** detect magic, divine lance, guidance, read aura, shield
 
-  **1st** command, ray of enfeeblement
+  **1st** command, ray of enfeeblement (×2)
 
-  **2nd** heal, see invisibility
+  **2nd** heal (×2), see invisibility
 
   **3rd** blindness, chilling darkness, vampiric touch
 
-  **4th** divine wrath, heal
+  **4th** divine wrath, heal (×2)
 
   **5th** Abyssal plague, drop dead, heal
 
-  **6th** blade barrier, spirit blast
+  **6th** blade barrier (×2), spirit blast
 
   **7th** dispel magic, eclipse burst, finger of death
 

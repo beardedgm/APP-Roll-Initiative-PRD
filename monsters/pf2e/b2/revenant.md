@@ -5,7 +5,9 @@ ln, medium, undead
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, sense murderer
+
+**Skills** Athletics +15, Intimidation +14
 
 **STR** +5, **DEX** +3, **CON** +4, **INT** +0, **WIS** +3, **CHA** +2
 
@@ -21,7 +23,7 @@ ln, medium, undead
 
 **Immunities** poison, death effects, disease, paralyzed, sleep
 
-**Resistances** physical 5
+**Resistances** physical 5 (except slashing)
 
 **Self-Loathing** (emotion, mental, visual) If a revenant sees their own reflection or any object that was important to them in life, they must attempt a DC 25 Will save. **Critical Success** The revenant is unaffected and can no longer be affected by that reflection or object in this way.
 **Success** The revenant is distracted by self-loathing and becomes slowed 1 for 1 round.
@@ -34,7 +36,7 @@ ln, medium, undead
 
 Speed 25 feet
 
-**Melee** claw +17 (agile); **Damage** 2d8+5 slashing plus Grab plus Grab
+**Melee** ◆ claw +17 (agile); **Damage** 2d8+5 slashing plus Grab plus Grab
 
 **Baleful Shriek** ◆◆ (auditory, emotion, fear, incapacitation, mental) The revenant wails horribly. Each creature within a 60-foot burst must attempt a DC 23 Will save. Regardless of the outcome of their saving throw, affected creatures are then immune to Baleful Shriek for 1 hour. The revenant's murderer never improves their degree of success due to this ability's incapacitation trait. The revenant can't use Baleful Shriek again for 1d4 rounds. **Critical Success** The creature is unaffected.
 **Success** The creature is frightened 2.

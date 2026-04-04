@@ -5,9 +5,11 @@ unique, le, medium, fiend, rakshasa
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** common, infernal, vudrani
+
+**Skills** Crafting +23, Deception +26, Diplomacy +22, Intimidation +22, Performance +20, Occultism +25, Stealth +22
 
 **STR** +5, **DEX** +6, **CON** +4, **INT** +5, **WIS** +3, **CHA** +4
 
@@ -21,7 +23,7 @@ unique, le, medium, fiend, rakshasa
 
 **HP** 185
 
-**Resistances** physical 12
+**Resistances** physical 12 (except piercing)
 
 **Weaknesses** good 10
 
@@ -31,9 +33,9 @@ unique, le, medium, fiend, rakshasa
 
 Speed 35 feet
 
-**Melee** fangs +23 (agile, magical); **Damage** 3d10+11 piercing
+**Melee** ◆ fangs +23 (agile, magical); **Damage** 3d10+11 piercing
 
-**Melee** claw +24 (agile, finesse, magical); **Damage** 3d8+11 slashing
+**Melee** ◆ claw +24 (agile, finesse, magical); **Damage** 3d8+11 slashing
 
 **Spontaneous occult Spells** (DC 32), attack +24
 
@@ -53,7 +55,7 @@ Speed 35 feet
 
 **Innate occult Spells** (DC 32)
 
-  **3rd** mind reading
+  **3rd** mind reading (at will)
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) Vaklish takes on the appearance of any Medium humanoid. This doesn't change Vaklish's Speed or his attack and damage modifiers with his Strikes but might change the damage type his Strikes deal (typically to bludgeoning). He typically loses his fangs Strike unless the humanoid form has fangs or a similar unarmed attack.
 

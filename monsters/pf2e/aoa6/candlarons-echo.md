@@ -5,9 +5,11 @@ n, medium, ghost, incorporeal, spirit
 
 ---
 
-**Perception** +35
+**Perception** +35; darkvision
 
 **Languages** draconic, elven, sylvan
+
+**Skills** Arcana +40, Diplomacy +36, Occultism +40, Religion +36, Stealth +34
 
 **STR** -5, **DEX** +10, **CON** +0, **INT** +10, **WIS** +7, **CHA** +8
 
@@ -23,7 +25,7 @@ n, medium, ghost, incorporeal, spirit
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 15
+**Resistances** all damage 15 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Rejuvenation** (divine, necromancy) Candlaron's echo rejuvenates so long as Dahak|LOGM's manifestation lives.
 
@@ -31,23 +33,23 @@ n, medium, ghost, incorporeal, spirit
 
 Speed fly 25 feet
 
-**Melee** ghostly hand +39 (agile, finesse, magical); **Damage** 8d8+8 negative
+**Melee** ◆ ghostly hand +39 (agile, finesse, magical); **Damage** 8d8+8 negative
 
 **Innate arcane Spells** (DC 44), attack +39
 
   **Cantrips (10th)** detect magic, ghost sound, mage hand, prestidigitation, read magic
 
-  **1st** grease, ray of enfeeblement
+  **1st** grease, ray of enfeeblement (×2)
 
-  **2nd** blur, telekinetic maneuver
+  **2nd** blur, telekinetic maneuver (×2)
 
   **3rd** blindness, dispel magic, slow
 
-  **4th** resilient sphere, suggestion
+  **4th** resilient sphere, suggestion (×2)
 
   **5th** cone of cold, crushing despair, hallucination
 
-  **6th** chain lighting, mislead
+  **6th** chain lighting (×2), mislead
 
   **7th** duplicate foe, prismatic spray, reverse gravity
 

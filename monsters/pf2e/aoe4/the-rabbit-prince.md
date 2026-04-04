@@ -5,9 +5,11 @@ unique, ce, small, halfling, humanoid
 
 ---
 
-**Perception** +31
+**Perception** +31; superior senses
 
 **Languages** common, halfling
+
+**Skills** Acrobatics +32, Crafting +26, Deception +29, Intimidation +29, Occultism +28, Stealth +32, Thievery +32, Harrow Lore +28
 
 **STR** +1, **DEX** +7, **CON** +2, **INT** +1, **WIS** +5, **CHA** +4
 
@@ -31,15 +33,17 @@ unique, ce, small, halfling, humanoid
 
 ---
 
-Speed 25 feet
+Speed 25 feet, freedom of movement, quick movements
 
-**Melee** blade of the Rabbit Prince +34 (agile, finesse, magical, versatile <S>); **Damage** 3d6+13 piercing plus 2d10 persistent bleed
+**Melee** ◆ blade of the Rabbit Prince +34 (agile, finesse, magical, versatile <S>); **Damage** 3d6+13 piercing plus 2d10 persistent bleed
 
-**Melee** harrow card +34 (agile, deadly <1d10>, magical, thrown <20 feet>); **Damage** 3d4+13 piercing plus 2d10 persistent bleed
+**Ranged** ◆ harrow card +34 (agile, deadly <1d10>, magical, thrown <20 feet>); **Damage** 3d4+13 piercing plus 2d10 persistent bleed
 
 **Innate occult Spells** (DC 38)
 
-  **6th** baleful polymorph
+  **Constant (8th)** freedom of movement
+
+  **6th** baleful polymorph (at will)
 
   **7th** resist energy
 

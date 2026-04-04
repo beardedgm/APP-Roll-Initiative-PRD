@@ -5,9 +5,11 @@ uncommon, n, huge, monitor, psychopomp
 
 ---
 
-**Perception** +37
+**Perception** +37; darkvision, lifesense 240 feet, true seeing
 
-**Languages** abyssal, celestial, infernal, requian
+**Languages** abyssal, celestial, infernal, requian; telepathy 120 feet, tongues
+
+**Skills** Acrobatics +33, Athletics +36, Deception +34, Diplomacy +34, Intimidation +36, Occultism +38, Religion +38, Society +38, Boneyard Lore +40, Legal Lore +40
 
 **STR** +10, **DEX** +7, **CON** +7, **INT** +10, **WIS** +7, **CHA** +6
 
@@ -31,17 +33,19 @@ uncommon, n, huge, monitor, psychopomp
 
 Speed 35 feet, fly 50 feet, swim 30 feet
 
-**Melee** jaws +38 (magical, reach <15 feet>); **Damage** 4d8+18 piercing plus Improved Grab and yamaraj venom and spirit touch plus Improved Grab, yamaraj venom, spirit touch
+**Melee** ◆ jaws +38 (magical, reach <15 feet>); **Damage** 4d8+18 piercing plus Improved Grab and yamaraj venom and spirit touch plus Improved Grab, yamaraj venom, spirit touch
 
-**Melee** claw +38 (agile, magical, reach <15 feet>); **Damage** 4d4+18 slashing plus spirit touch plus spirit touch
+**Melee** ◆ claw +38 (agile, magical, reach <15 feet>); **Damage** 4d4+18 slashing plus spirit touch plus spirit touch
 
-**Melee** tail +38 (magical, reach <20 feet>); **Damage** 4d10+18 bludgeoning plus spirit touch plus spirit touch
+**Melee** ◆ tail +38 (magical, reach <20 feet>); **Damage** 4d10+18 bludgeoning plus spirit touch plus spirit touch
 
 **Innate divine Spells** (DC 44)
 
-  **5th** dimension door, mind probe
+  **Constant (10th)** true seeing
 
-  **8th** chain lightning, dispel magic, spirit song, wall of force
+  **5th** dimension door (at will), mind probe (at will)
+
+  **8th** chain lightning (×3), dispel magic (×3), spirit song, wall of force
 
   **9th** bind soul, harm, heal, wail of the banshee
 

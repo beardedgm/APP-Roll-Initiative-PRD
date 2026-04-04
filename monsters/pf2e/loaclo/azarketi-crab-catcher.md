@@ -9,9 +9,11 @@ cg, medium, amphibious, azarketi, humanoid
 
 **Languages** common
 
+**Skills** Athletics +4, Diplomacy +3, Nature +3, Stealth +5, Survival +5, Underwater Lore +4
+
 **STR** +2, **DEX** +3, **CON** +2, **INT** +0, **WIS** +1, **CHA** +1
 
-**Items** crab cage, {@item dagger}, sack
+**Items** crab cage, dagger, sack
 
 ---
 
@@ -31,6 +33,6 @@ cg, medium, amphibious, azarketi, humanoid
 
 Speed 25 feet, swim 25 feet
 
-**Melee** dagger +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
+**Melee** ◆ dagger +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
 
-**Melee** dagger +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
+**Ranged** ◆ dagger +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing

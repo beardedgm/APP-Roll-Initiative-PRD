@@ -5,9 +5,11 @@ n, medium, fire, humanoid, positive
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
 **Languages** common, jyoti
+
+**Skills** Acrobatics +20, Intimidation +18, Occultism +20, Society +18
 
 **STR** +3, **DEX** +5, **CON** +4, **INT** +5, **WIS** +6, **CHA** +3
 
@@ -31,19 +33,19 @@ n, medium, fire, humanoid, positive
 
 Speed 25 feet, fly 60 feet
 
-**Melee** flaming ghost touch longspear +20 (magical, reach <10 feet>); **Damage** 2d8+6 piercing plus 1d6 fire
+**Melee** ◆ flaming ghost touch longspear +20 (magical, reach <10 feet>); **Damage** 2d8+6 piercing plus 1d6 fire
 
-**Melee** beak +21 (finesse); **Damage** 2d12+6 piercing plus 1d6 fire
+**Melee** ◆ beak +21 (finesse); **Damage** 2d12+6 piercing plus 1d6 fire
 
-**Melee** talon +21 (agile, finesse); **Damage** 2d8+6 slashing plus 1d6 fire
+**Melee** ◆ talon +21 (agile, finesse); **Damage** 2d8+6 slashing plus 1d6 fire
 
 **Innate occult Spells** (DC 28), attack +20
 
   **Cantrips (5th)** disrupt undead, light
 
-  **2nd** restoration
+  **2nd** restoration (×3)
 
-  **3rd** heal
+  **3rd** heal (×3)
 
   **4th** dimension door, heal, searing light
 

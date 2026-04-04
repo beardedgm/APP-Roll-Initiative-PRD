@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +6, Nature +11, Society +8, Survival +9, Sailing Lore +14
+
 **STR** +0, **DEX** +2, **CON** +1, **INT** +4, **WIS** +3, **CHA** +0
 
 **Items** dagger, scroll case with ship's charts, writing set
@@ -27,8 +29,8 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +8 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing plus navigator's edge plus navigator's edge
+**Melee** ◆ dagger +8 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing plus navigator's edge plus navigator's edge
 
-**Melee** dagger +8 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing plus navigator's edge plus navigator's edge
+**Ranged** ◆ dagger +8 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing plus navigator's edge plus navigator's edge
 
 **Navigator's Edge** The navigator deals an additional 1d6 weapon damage when on a ship.

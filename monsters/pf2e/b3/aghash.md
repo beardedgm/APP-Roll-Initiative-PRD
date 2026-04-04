@@ -5,9 +5,11 @@ le, medium, div, fiend
 
 ---
 
-**Perception** +12
+**Perception** +12; greater darkvision
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Arcana +9, Athletics +8, Deception +12, Intimidation +12, Religion +10, Stealth +10
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** +1, **WIS** +2, **CHA** +4
 
@@ -29,15 +31,15 @@ le, medium, div, fiend
 
 Speed 25 feet
 
-**Melee** claw +14 (agile, evil, finesse, magical); **Damage** 1d6+5 slashing plus 1d6 evil
+**Melee** ◆ claw +14 (agile, evil, finesse, magical); **Damage** 1d6+5 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 21)
 
   **Cantrips (2nd)** detect magic
 
-  **1st** illusory object
+  **1st** illusory object (at will)
 
-  **2nd** touch of idiocy
+  **2nd** touch of idiocy (at will)
 
   **4th** dimension door, outcast's curse
 

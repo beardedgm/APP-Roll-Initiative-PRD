@@ -5,9 +5,11 @@ rare, ce, large, aberration
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, fear scent 60 feet
 
 **Languages** aklo
+
+**Skills** Athletics +22, Deception +19, Intimidation +23, Stealth +21, Survival +19
 
 **STR** +7, **DEX** +6, **CON** +7, **INT** +3, **WIS** +4, **CHA** +3
 
@@ -35,13 +37,13 @@ rare, ce, large, aberration
 
 Speed 35 feet, fly 15 feet, swim 30 feet, climb 20 feet
 
-**Melee** claw +24 (agile, reach <10 feet>); **Damage** 2d10+13 slashing plus Grab plus Grab
+**Melee** ◆ claw +24 (agile, reach <10 feet>); **Damage** 2d10+13 slashing plus Grab plus Grab
 
-**Melee** spit +23 (range <30 feet>); **Damage** 1d6 fire plus 1d6 mental and paralytic secretion plus Paralytic Secretion
+**Ranged** ◆ spit +23 (range <30 feet>); **Damage** 1d6 fire plus 1d6 mental and paralytic secretion plus Paralytic Secretion
 
 **Innate occult Spells** (DC 27)
 
-  **2nd** invisibility, mirror image
+  **2nd** invisibility (at will), mirror image
 
   **4th** dimension door, hallucinatory terrain
 

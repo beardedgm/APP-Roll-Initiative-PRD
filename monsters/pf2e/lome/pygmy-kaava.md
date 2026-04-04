@@ -5,9 +5,11 @@ n, small, humanoid
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision
 
 **Languages** kaava, mwangi
+
+**Skills** Acrobatics +5, Intimidation +4, Stealth +7, Survival +6
 
 **STR** +2, **DEX** +3, **CON** +1, **INT** +1, **WIS** +2, **CHA** +0
 
@@ -29,10 +31,10 @@ n, small, humanoid
 
 Speed 30 feet
 
-**Melee** sickle +8 (agile, finesse, trip); **Damage** 1d4+2 slashing
+**Melee** ◆ sickle +8 (agile, finesse, trip); **Damage** 1d4+2 slashing
 
-**Melee** jaws +7; **Damage** 1d6+2 piercing
+**Melee** ◆ jaws +7; **Damage** 1d6+2 piercing
 
-**Melee** spear +8 (thrown <20 feet>); **Damage** 1d6+2 piercing
+**Ranged** ◆ spear +8 (thrown <20 feet>); **Damage** 1d6+2 piercing
 
 **Woodland Stride** A kaava ignores terrain and terrain from non-magical foliage.

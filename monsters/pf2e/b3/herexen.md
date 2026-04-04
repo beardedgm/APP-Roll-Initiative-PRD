@@ -5,13 +5,15 @@ uncommon, ne, medium, undead
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
 
 **Languages** common, necril
 
+**Skills** Athletics +6, Deception +7, Religion +10, Stealth +6
+
 **STR** +2, **DEX** +2, **CON** +1, **INT** +0, **WIS** +4, **CHA** +3
 
-**Items** {@item dagger}, defiled religious symbol of {@deity Pharasma}
+**Items** dagger, defiled religious symbol of Pharasma
 
 ---
 
@@ -29,11 +31,11 @@ uncommon, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** dagger +10 (agile, versatile <S>); **Damage** 1d6+4 piercing plus heretic's smite plus heretic's smite
+**Melee** ◆ dagger +10 (agile, versatile <S>); **Damage** 1d6+4 piercing plus heretic's smite plus heretic's smite
 
 **Prepared divine Spells** (DC 18)
 
-  **1st** harm
+  **1st** harm (×4)
 
 **Focus divine Spells** (DC 18)
 

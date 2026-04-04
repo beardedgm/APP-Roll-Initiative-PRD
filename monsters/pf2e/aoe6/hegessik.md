@@ -5,9 +5,11 @@ cn, large, monitor, protean
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision, entropy sense 60 feet (imprecise)
 
-**Languages** abyssal, celestial, protean
+**Languages** abyssal, celestial, protean; telepathy 100 feet, tongues
+
+**Skills** Acrobatics +25, Athletics +27, Diplomacy +29, Intimidation +27, Religion +29, Stealth +27, Survival +27
 
 **STR** +8, **DEX** +6, **CON** +7, **INT** +4, **WIS** +6, **CHA** +6
 
@@ -31,25 +33,29 @@ cn, large, monitor, protean
 
 ---
 
-Speed 30 feet, fly 30 feet, swim 30 feet
+Speed 30 feet, fly 30 feet, swim 30 feet, freedom of movement
 
-**Melee** jaws +30 (chaotic, magical, reach <10 feet>); **Damage** 3d8+14 piercing plus 1d6 chaotic and warpwave strike plus warpwave strike
+**Melee** ◆ jaws +30 (chaotic, magical, reach <10 feet>); **Damage** 3d8+14 piercing plus 1d6 chaotic and warpwave strike plus warpwave strike
 
-**Melee** claw +30 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d8+14 slashing plus 1d6 chaotic
+**Melee** ◆ claw +30 (agile, chaotic, magical, reach <10 feet>); **Damage** 2d8+14 slashing plus 1d6 chaotic
 
-**Melee** tail +30 (chaotic, magical, reach <15 feet>); **Damage** 2d8+14 bludgeoning plus 1d6 chaotic and Grab plus Grab
+**Melee** ◆ tail +30 (chaotic, magical, reach <15 feet>); **Damage** 2d8+14 bludgeoning plus 1d6 chaotic and Grab plus Grab
 
 **Innate divine Spells** (DC 38)
 
-  **2nd** detect alignment
+  **Constant (5th)** tongues
 
-  **4th** dimension door
+  **Constant (4th)** freedom of movement
+
+  **2nd** detect alignment (at will)
+
+  **4th** dimension door (at will)
 
   **5th** dimension door
 
-  **6th** baleful polymorph, slow, teleport
+  **6th** baleful polymorph, slow (at will), teleport (at will)
 
-  **7th** dispel magic, plane shift
+  **7th** dispel magic (at will), plane shift
 
   **8th** confusion, divine aura
 

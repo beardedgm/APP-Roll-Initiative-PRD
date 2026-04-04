@@ -7,7 +7,9 @@ le, medium, devil, fiend
 
 **Perception** +32
 
-**Languages** abyssal, celestial, common, draconic, infernal
+**Languages** abyssal, celestial, common, draconic, infernal; indomitable oration, telepathy 100 feet
+
+**Skills** Acrobatics +29, Deception +34, Diplomacy +36, Intimidation +30, Religion +30, Society +27, Stealth +33
 
 **STR** +7, **DEX** +8, **CON** +6, **INT** +4, **WIS** +7, **CHA** +9
 
@@ -25,7 +27,7 @@ le, medium, devil, fiend
 
 **Immunities** fire
 
-**Resistances** physical 15
+**Resistances** physical 15 (except silver)
 
 **Whispers of Discord** ◈ **Trigger** A creature within 60 feet is targeted by a spell that would restore Hit Points or provide a status bonus (the deimavigga automatically recognizes such effects); The deimavigga whispers disturbing lies, audible only to the target, to shake the target's faith in the spell's caster. The target must attempt a DC 43 Will save. **Critical Success** The target disbelieves the lies and receives the intended benefit of the spell; the target becomes temporarily immune to Whispers of Discord for 24 hours.
 **Success** As critical success, but the target isn't temporarily immune.
@@ -36,17 +38,17 @@ le, medium, devil, fiend
 
 Speed 30 feet, fly 40 feet
 
-**Melee** claw +33 (agile, evil, finesse, magical); **Damage** 3d8+15 slashing plus 1d6 evil
+**Melee** ◆ claw +33 (agile, evil, finesse, magical); **Damage** 3d8+15 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 42), attack +34
 
-  **3rd** dream message
+  **3rd** dream message (at will)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
-  **7th** dimension door, scrying, touch of idiocy, veil, warp mind
+  **7th** dimension door, scrying, touch of idiocy (at will), veil, warp mind
 
-  **9th** divine decree, dominate, illusory scene
+  **9th** divine decree, dominate, illusory scene (at will)
 
 **Boundless Reach** (conjuration, divine, teleportation) A deimavigga's razor-sharp claws can slice through reality, allowing them to make claw Strikes and use spells with a range of touch against any creature they can see directly or via divination magic. A creature targeted this way can retaliate until the start of the deimavigga's next turn; it can target the devil's claws as if the devil were physically present and adjacent to the target, though the claws are concealed.
 

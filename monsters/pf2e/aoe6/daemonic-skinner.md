@@ -5,13 +5,15 @@ unique, ce, large, daemon, fiend, human, humanoid
 
 ---
 
-**Perception** +36
+**Perception** +36; greater darkvision
 
 **Languages** common, daemonic
 
+**Skills** Acrobatics +34, Athletics +40, Intimidation +34, Religion +34, Stealth +34, Thievery +32
+
 **STR** +10, **DEX** +6, **CON** +9, **INT** +3, **WIS** +6, **CHA** +6
 
-**Items** Large +3 wounding greater striking cleaver (functions as orc neck-splitter without the {@trait orc} trait)
+**Items** Large +3 wounding greater striking cleaver (functions as orc neck-splitter without the orc trait)
 
 ---
 
@@ -39,13 +41,15 @@ unique, ce, large, daemon, fiend, human, humanoid
 
 Speed 30 feet
 
-**Melee** cleaver +38 (evil, forceful, magical, necromancy, reach <10 feet>, sweep); **Damage** 4d8+20 slashing plus 2d6 evil and 1d6 persistent bleed
+**Melee** ◆ cleaver +38 (evil, forceful, magical, necromancy, reach <10 feet>, sweep); **Damage** 4d8+20 slashing plus 2d6 evil and 1d6 persistent bleed
 
-**Melee** blood chain +36 (disarm, evil, finesse, magical, reach <20 feet>, trip); **Damage** 4d8+20 piercing plus 2d6 evil and Grab plus Grab
+**Melee** ◆ blood chain +36 (disarm, evil, finesse, magical, reach <20 feet>, trip); **Damage** 4d8+20 piercing plus 2d6 evil and Grab plus Grab
 
 **Innate divine Spells** (DC 38)
 
-  **4th** dimension door
+  **Constant (6th)** true seeing
+
+  **4th** dimension door (at will)
 
   **5th** dimension door
 

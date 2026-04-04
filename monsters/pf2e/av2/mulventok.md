@@ -5,9 +5,11 @@ uncommon, n, medium, aberration
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
 **Languages** aklo, daemonic, undercommon
+
+**Skills** Athletics +17, Intimidation +17, Survival +15, Purpose Lore +15
 
 **STR** +6, **DEX** +0, **CON** +4, **INT** +2, **WIS** +4, **CHA** +6
 
@@ -31,11 +33,11 @@ uncommon, n, medium, aberration
 
 Speed 25 feet
 
-**Melee** tamchal chakram +18 (agile, deadly <1d6>, finesse, magical); **Damage** 1d6+8 slashing plus 1d6 mental
+**Melee** ◆ tamchal chakram +18 (agile, deadly <1d6>, finesse, magical); **Damage** 1d6+8 slashing plus 1d6 mental
 
-**Melee** fist +17; **Damage** 2d8+8 bludgeoning
+**Melee** ◆ fist +17; **Damage** 2d8+8 bludgeoning
 
-**Melee** tamchal chakram +13 (agile, deadly <1d6>, magical, thrown <20 feet>); **Damage** 1d6+8 slashing plus 1d6 mental
+**Ranged** ◆ tamchal chakram +13 (agile, deadly <1d6>, magical, thrown <20 feet>); **Damage** 1d6+8 slashing plus 1d6 mental
 
 **Fervent Command** ◆ (auditory, mental) The mulventok shouts an order to one of its allies within 30 feet. That ally immediately takes a Raise a Shield or Step action. A creature can benefit from Fervent Command only once per round.
 

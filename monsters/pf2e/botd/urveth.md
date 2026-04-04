@@ -5,7 +5,9 @@ ce, gargantuan, darvakka, shadow, undead
 
 ---
 
-**Perception** +32
+**Perception** +32; greater darkvision, lifesense 60 feet
+
+**Skills** Arcana +29, Athletics +35, Negative Energy Plane Lore +31, Religion +32, Shadow Plane Lore +31, Stealth +31
 
 **STR** +10, **DEX** +5, **CON** +8, **INT** +5, **WIS** +6, **CHA** +6
 
@@ -31,24 +33,31 @@ ce, gargantuan, darvakka, shadow, undead
 
 ---
 
-Speed 25 feet, burrow 60 feet
+Speed 25 feet, burrow 60 feet, air walk
 
-**Melee** jaws +36 (magical, reach <15 feet>); **Damage** 3d10+14 slashing plus 2d10 cold and Improved Grab
+**Melee** ◆ jaws +36 (magical, reach <15 feet>); **Damage** 3d10+14 slashing plus 2d10 cold and Improved Grab
 
-**Melee** claw +36 (agile, magical, reach <15 feet>); **Damage** 3d6+14 slashing plus 2d10 cold
+**Melee** ◆ claw +36 (agile, magical, reach <15 feet>); **Damage** 3d6+14 slashing plus 2d10 cold
 
-**Melee** stinger +36 (poison, magical, reach <20 feet>); **Damage** 3d6+14 piercing plus 2d10 cold and urveth venom
+**Melee** ◆ stinger +36 (poison, magical, reach <20 feet>); **Damage** 3d6+14 piercing plus 2d10 cold and urveth venom
 
 **Innate divine Spells** (DC 40)
 
+  **Constant (9th)** air walk
+
   **Cantrips (9th)** detect magic
 
-  **4th** darkness
+  **4th** darkness (at will)
 
   **7th** eclipse burst, plane shift, true seeing
 
-  **8th** harm
+  **8th** harm (×3)
 
 **Frenzy** ◆◆ The urveth makes two claw Strikes and one stinger Strike in any order.
 
-**Swallow Whole** ◆ Huge, 2d10+5 bludgeoning, Rupture 35. A living creature that ends its turn swallowed whole by an urveth becomes drained 1 or increases its drained condition by 1, and the urveth gains 10 temporary Hit Points. A creature whose drained condition increases to 5 in this way dies. 
+**Swallow Whole** ◆ Huge, 2d10+5 bludgeoning, Rupture 35. A living creature that ends its turn swallowed whole by an urveth becomes drained 1 or increases its drained condition by 1, and the urveth gains 10 temporary Hit Points. A creature whose drained condition increases to 5 in this way dies. **Urveth Venom**
+(poison); **Saving Throw** DC 37 Fortitude
+**Maximum Duration** 6 rounds
+**Stage 1** 3d6 negative damage and 2d6 poison damage (1 round)
+**Stage 2** 3d6 negative damage, 2d6 poison damage, and enfeebled 2 (1 round)
+**Stage 3** 3d6 negative damage, 2d6 poison damage, and enfeebled 4 (1 round)

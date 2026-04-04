@@ -5,7 +5,9 @@ n, huge, animal
 
 ---
 
-**Perception** +18
+**Perception** +18; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +22, Survival +19
 
 **STR** +8, **DEX** +1, **CON** +5, **INT** -4, **WIS** +1, **CHA** -2
 
@@ -23,11 +25,11 @@ n, huge, animal
 
 Speed 45 feet
 
-**Melee** tusk +22 (reach <15 feet>); **Damage** 3d8+12 piercing
+**Melee** ◆ tusk +22 (reach <15 feet>); **Damage** 3d8+12 piercing
 
-**Melee** trunk +22 (reach <15 feet>); plus grabbing trunk
+**Melee** ◆ trunk +22 (reach <15 feet>); plus grabbing trunk
 
-**Melee** foot +22 (reach <10 feet>); **Damage** 2d10+12 bludgeoning
+**Melee** ◆ foot +22 (reach <10 feet>); **Damage** 2d10+12 bludgeoning
 
 **Dual Tusks** ◆ The mammoth makes two tusk Strikes, each against a different creature. This counts as one attack for the mammoth's multiple attack penalty, and the penalty doesn't increase until after both attacks.
 

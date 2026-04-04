@@ -5,9 +5,11 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
 **Languages** common, draconic
+
+**Skills** Arcana +22, Intimidation +22, Stealth +21
 
 **STR** -5, **DEX** +3, **CON** +0, **INT** +6, **WIS** +3, **CHA** +6
 
@@ -23,7 +25,7 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 **Immunities** poison, precision, death effects, disease, paralyzed, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 **Rejuvenation** (divine, necromancy) Completing the ghost mage's project allows it to move on to the afterlife.
 
@@ -31,15 +33,15 @@ ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ghostly hand +21 (agile, finesse, magical); **Damage** 2d8+12 negative
+**Melee** ◆ ghostly hand +21 (agile, finesse, magical); **Damage** 2d8+12 negative
 
 **Innate arcane Spells** (DC 29), attack +23
 
   **Cantrips (5th)** detect magic, ghost sound, mage hand, prestidigitation, read magic
 
-  **1st** ray of enfeeblement
+  **1st** ray of enfeeblement (×2)
 
-  **2nd** telekinetic maneuver
+  **2nd** telekinetic maneuver (×2)
 
   **3rd** blindness, dispel magic, nondetection
 

@@ -5,9 +5,11 @@ unique, ce, medium, humanoid, xulgath
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** draconic, undercommon
+
+**Skills** Arcana +9, Athletics +13, Intimidation +11, Religion +9, Stealth +10, Survival +11
 
 **STR** +4, **DEX** +1, **CON** +2, **INT** +0, **WIS** +4, **CHA** +2
 
@@ -27,21 +29,21 @@ unique, ce, medium, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** spiked gauntlet +16 (agile, magical); **Damage** 2d4+4 piercing plus demonic condemnation
+**Melee** ◆ spiked gauntlet +16 (agile, magical); **Damage** 2d4+4 piercing plus demonic condemnation
 
-**Melee** jaws +15; **Damage** 2d8+4 piercing
+**Melee** ◆ jaws +15; **Damage** 2d8+4 piercing
 
-**Melee** claw +15 (agile); **Damage** 2d6+4 slashing
+**Melee** ◆ claw +15 (agile); **Damage** 2d6+4 slashing
 
-**Melee** javelin +12 (thrown <30 feet>); **Damage** 1d6+4 piercing
+**Ranged** ◆ javelin +12 (thrown <30 feet>); **Damage** 1d6+4 piercing
 
 **Prepared divine Spells** (DC 24), attack +16
 
   **Cantrips (3rd)** detect magic, forbidding ward, guidance, shield
 
-  **1st** bane, command, heal
+  **1st** bane, command (×2), heal
 
-  **2nd** death knell, dispel magic, spiritual weapon
+  **2nd** death knell, dispel magic, spiritual weapon (×2)
 
   **3rd** blindness, harm, vampiric touch
 

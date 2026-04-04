@@ -5,9 +5,11 @@ uncommon, ne, medium, cold, mummy, undead
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision, snow vision
 
 **Languages** common, necril
+
+**Skills** Deception +18, Intimidation +16, Occultism +17, Stealth +17
 
 **STR** +5, **DEX** +3, **CON** +2, **INT** +5, **WIS** +4, **CHA** +6
 
@@ -35,12 +37,14 @@ uncommon, ne, medium, cold, mummy, undead
 
 Speed 20 feet
 
-**Melee** staff +20 (magical, two-hand <d8>); **Damage** 2d4+7 bludgeoning plus 1d6 cold and cold rot
+**Melee** ◆ staff +20 (magical, two-hand <d8>); **Damage** 2d4+7 bludgeoning plus 1d6 cold and cold rot
 
-**Melee** fist +19 (agile, magical); **Damage** 2d6+7 bludgeoning plus 1d6 cold and cold rot
+**Melee** ◆ fist +19 (agile, magical); **Damage** 2d6+7 bludgeoning plus 1d6 cold and cold rot
 
 **Channel Rot** (occult, necromancy) The ice mummy can deliver cold rot through melee weapons they wield.
 
-**Cold Rot** (cold, curse, disease, divine, necromancy) This affliction can't be reduced below stage 1, nor can damage from it be healed, until successfully treated with remove curse or a similar effect. The affliction can then be removed as normal for a disease. A creature killed by cold rot turns to ice crystals and can't be resurrected except by a 7th-level resurrect ritual or similar magic 
+**Cold Rot** (cold, curse, disease, divine, necromancy) This affliction can't be reduced below stage 1, nor can damage from it be healed, until successfully treated with remove curse or a similar effect. The affliction can then be removed as normal for a disease. A creature killed by cold rot turns to ice crystals and can't be resurrected except by a 7th-level resurrect ritual or similar magic **Saving Throw** DC 24 Fortitude
+**Stage 1** slowed 1 for 1 round, then carrier with no ill effect (1 minute)
+**Stage 2** 5d6 negative damage plus 2d6 cold damage and stupefied 2 (1 day)
 
 **Frozen Breath** ◆◆ (cold, concentrate, divine, evocation) The ice mummy exhales a 60-foot cone of razor-sharp ice that deals 5d6 cold and 4d6 slashing damage (DC 26 basic Reflex save). The ice mummy can't use Frozen Breath again for 1d4 rounds.

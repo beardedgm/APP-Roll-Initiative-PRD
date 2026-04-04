@@ -5,9 +5,11 @@ ce, huge, amphibious, beast
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
-**Languages** boggard
+**Languages** boggard; speak with animals
+
+**Skills** Acrobatics +19, Athletics +23, Nature +21, Stealth +19
 
 **STR** +7, **DEX** +5, **CON** +6, **INT** -2, **WIS** +5, **CHA** +7
 
@@ -21,15 +23,17 @@ ce, huge, amphibious, beast
 
 ---
 
-Speed 25 feet, fly 20 feet, swim 30 feet
+Speed 25 feet, fly 20 feet, swim 30 feet, swamp stride
 
-**Melee** jaws +23 (reach <10 feet>); **Damage** 2d12+13 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +23 (reach <10 feet>); **Damage** 2d12+13 piercing plus Improved Grab plus Improved Grab
 
-**Melee** tongue +23 (agile, reach <30 feet>); **Damage** 2d6+13 bludgeoning plus tongue grab plus tongue grab
+**Melee** ◆ tongue +23 (agile, reach <30 feet>); **Damage** 2d6+13 bludgeoning plus tongue grab plus tongue grab
 
 **Innate primal Spells** (DC 27)
 
-  **4th** create water, entangle, obscuring mist, sound burst
+  **Constant (2nd)** pass without trace, speak
+
+  **4th** create water (at will), entangle, obscuring mist, sound burst (at will)
 
   **5th** control water
 

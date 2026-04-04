@@ -5,7 +5,9 @@ uncommon, n, tiny, clockwork, construct, mindless
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision
+
+**Skills** Acrobatics +5
 
 **STR** -1, **DEX** +3, **CON** +0, **INT** -5, **WIS** +2, **CHA** +0
 
@@ -29,4 +31,4 @@ uncommon, n, tiny, clockwork, construct, mindless
 
 Speed 25 feet, fly 25 feet
 
-**Melee** spherical body +7 (finesse); **Damage** 1d6-1 bludgeoning
+**Melee** ◆ spherical body +7 (finesse); **Damage** 1d6-1 bludgeoning

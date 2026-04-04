@@ -5,7 +5,9 @@ uncommon, n, gargantuan, animal, swarm
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, scent 30 feet (precise)
+
+**Skills** Athletics +27
 
 **STR** -1, **DEX** +9, **CON** +7, **INT** -5, **WIS** +6, **CHA** -4
 

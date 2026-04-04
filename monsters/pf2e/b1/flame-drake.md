@@ -5,9 +5,11 @@ ce, large, dragon, fire
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision, scent 30 feet (imprecise), smoke vision
 
 **Languages** draconic
+
+**Skills** Acrobatics +10, Athletics +12, Stealth +9, Survival +10
 
 **STR** +5, **DEX** +1, **CON** +3, **INT** -1, **WIS** +3, **CHA** +0
 
@@ -31,9 +33,9 @@ ce, large, dragon, fire
 
 Speed 20 feet, fly 50 feet
 
-**Melee** fangs +14; **Damage** 2d8+5 piercing plus 1d6 fire
+**Melee** ◆ fangs +14; **Damage** 2d8+5 piercing plus 1d6 fire
 
-**Melee** tail +14 (reach <10 feet>); **Damage** 2d6+5 bludgeoning
+**Melee** ◆ tail +14 (reach <10 feet>); **Damage** 2d6+5 bludgeoning
 
 **Draconic Frenzy** ◆◆ The flame drake makes two fangs Strikes and one tail Strike in any order.
 

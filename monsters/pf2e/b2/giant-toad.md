@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +9, Stealth +6
 
 **STR** +5, **DEX** +2, **CON** +3, **INT** -4, **WIS** +2, **CHA** -2
 
@@ -23,9 +25,9 @@ n, large, animal
 
 Speed 25 feet
 
-**Melee** bite +11; **Damage** 1d8+5 piercing plus Grab plus Grab
+**Melee** ◆ bite +11; **Damage** 1d8+5 piercing plus Grab plus Grab
 
-**Melee** tongue +11 (reach <10 feet>); plus tongue grab
+**Melee** ◆ tongue +11 (reach <10 feet>); plus tongue grab
 
 **Giant Toad Poison** (poison)
 

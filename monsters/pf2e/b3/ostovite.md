@@ -5,9 +5,11 @@ ce, small, fiend
 
 ---
 
-**Perception** +4
+**Perception** +4; darkvision
 
 **Languages** abyssal
+
+**Skills** Crafting +4, Stealth +7
 
 **STR** +0, **DEX** +4, **CON** +3, **INT** -4, **WIS** +1, **CHA** +0
 
@@ -29,6 +31,6 @@ ce, small, fiend
 
 Speed 25 feet
 
-**Melee** mandibles +9 (finesse, magic); **Damage** 1d4 piercing plus 1d4 acid
+**Melee** ◆ mandibles +9 (finesse, magic); **Damage** 1d4 piercing plus 1d4 acid
 
-**Melee** bone spike +9 (finesse); **Damage** 1d12 piercing plus 1d4 persistent bleed
+**Melee** ◆ bone spike +9 (finesse); **Damage** 1d12 piercing plus 1d4 persistent bleed

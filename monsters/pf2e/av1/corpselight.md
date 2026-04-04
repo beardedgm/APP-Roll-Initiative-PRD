@@ -5,9 +5,11 @@ rare, ce, medium, undead
 
 ---
 
-**Perception** +7
+**Perception** +7; corpse sense 30 feet (precise), darkvision
 
 **Languages** common, necril
+
+**Skills** Athletics +7, Intimidation +8, Stealth +8
 
 **STR** +3, **DEX** +4, **CON** +1, **INT** +1, **WIS** +1, **CHA** +2
 
@@ -33,9 +35,9 @@ rare, ce, medium, undead
 
 Speed 25 feet, fly 25 feet
 
-**Melee** jaws +10; **Damage** 1d8+6 piercing
+**Melee** ◆ jaws +10; **Damage** 1d8+6 piercing
 
-**Melee** claw +10 (agile); **Damage** 1d6+6 slashing
+**Melee** ◆ claw +10 (agile); **Damage** 1d6+6 slashing
 
 **Claim Corpse** ◆ (necromancy) The corpselight merges with the corpse, causes the corpse to Stand, and regains 3d6 Hit Points.
 

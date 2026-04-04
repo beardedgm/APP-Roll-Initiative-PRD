@@ -5,9 +5,11 @@ unique, n, medium, elf, humanoid
 
 ---
 
-**Perception** +21
+**Perception** +21; low-light vision
 
 **Languages** elven, hallit, mwangi, taldane, tien, vudrani
+
+**Skills** Arcana +23, Diplomacy +26, Occultism +25, Performance +28, Bardic Lore +23
 
 **STR** +3, **DEX** +4, **CON** +1, **INT** +4, **WIS** +0, **CHA** +5
 
@@ -25,9 +27,9 @@ unique, n, medium, elf, humanoid
 
 Speed 25 feet
 
-**Melee** fist +19 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+6 bludgeoning
+**Ranged** ◆ fist +19 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+6 bludgeoning
 
-**Melee** composite longbow +23 (deadly <1d10>, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+11 piercing
+**Ranged** ◆ composite longbow +23 (deadly <1d10>, magical, propulsive, range increment <100 feet>, volley <30 feet>); **Damage** 2d8+11 piercing
 
 **Spontaneous occult Spells** (DC 34)
 

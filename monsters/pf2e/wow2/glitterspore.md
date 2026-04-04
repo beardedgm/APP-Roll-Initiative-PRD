@@ -5,7 +5,9 @@ uncommon, large, fungus, mindless, swarm
 
 ---
 
-**Perception** +17
+**Perception** +17; no vision, tremorsense 60 feet (precise)
+
+**Skills** Athletics +18, Stealth +18
 
 **STR** +4, **DEX** +4, **CON** +5, **INT** -5, **WIS** +3, **CHA** -3
 

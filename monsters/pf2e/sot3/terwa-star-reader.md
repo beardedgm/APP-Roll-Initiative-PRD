@@ -9,6 +9,8 @@ uncommon, n, medium, humanoid, lizardfolk
 
 **Languages** common, draconic, iruxi
 
+**Skills** Acrobatics +19, Astrology Lore +19, Diplomacy +22, Nature +22, Religion +22
+
 **STR** +1, **DEX** +5, **CON** +3, **INT** +4, **WIS** +6, **CHA** +3
 
 **Items** hide armor, staff of fire
@@ -29,7 +31,7 @@ uncommon, n, medium, humanoid, lizardfolk
 
 Speed 25 feet
 
-**Melee** claw +16 (agile, finesse); **Damage** 2d6+5 slashing
+**Melee** ◆ claw +16 (agile, finesse); **Damage** 2d6+5 slashing
 
 **Spontaneous occult Spells** (DC 25), attack +17
 

@@ -9,6 +9,8 @@ ne, medium, kami
 
 **Languages** common
 
+**Skills** Acrobatics +12, Deception +10, Stealth +16
+
 **STR** +2, **DEX** +4, **CON** +4, **INT** +3, **WIS** +5, **CHA** +0
 
 ---
@@ -29,8 +31,8 @@ ne, medium, kami
 
 Speed fly 20 feet
 
-**Melee** tendril +16 (finesse, reach <15 feet>); **Damage** 2d8 negative plus 2d6 fire plus Grab
+**Melee** ◆ tendril +16 (finesse, reach <15 feet>); **Damage** 2d8 negative plus 2d6 fire plus Grab
 
-**Melee** flame +16 (range increment <30 feet>); **Damage** 2d4 negative plus 2d6 fire
+**Ranged** ◆ flame +16 (range increment <30 feet>); **Damage** 2d4 negative plus 2d6 fire
 
 **Constrict** ◆ 2d8 negative plus 1d6 fire, DC 26

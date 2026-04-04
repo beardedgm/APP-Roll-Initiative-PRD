@@ -5,9 +5,11 @@ ce, small, demon, fiend
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision, smoke vision
 
-**Languages** abyssal, celestial, draconic, ignan
+**Languages** abyssal, celestial, draconic, ignan; telepathy 60 feet
+
+**Skills** Acrobatics +12, Deception +11, Religion +10, Stealth +12
 
 **STR** +4, **DEX** +3, **CON** +4, **INT** +1, **WIS** +1, **CHA** +2
 
@@ -33,9 +35,9 @@ ce, small, demon, fiend
 
 Speed 30 feet
 
-**Melee** flaming sword +15 (magical); **Damage** 2d8+4 slashing plus 1d6 evil and 1d6 fire
+**Melee** ◆ flaming sword +15 (magical); **Damage** 2d8+4 slashing plus 1d6 evil and 1d6 fire
 
-**Melee** hoof +15 (agile); **Damage** 2d4+4 bludgeoning plus 1d6 evil and 1d6 fire
+**Melee** ◆ hoof +15 (agile); **Damage** 2d4+4 bludgeoning plus 1d6 evil and 1d6 fire
 
 **Innate divine Spells** (DC 21)
 

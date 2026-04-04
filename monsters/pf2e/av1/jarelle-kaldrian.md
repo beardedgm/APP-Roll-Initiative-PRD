@@ -5,9 +5,11 @@ unique, le, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
 **Languages** aklo, common, necril, undercommon
+
+**Skills** Stealth +14, Library Lore +15
 
 **STR** -5, **DEX** +5, **CON** +0, **INT** +2, **WIS** +3, **CHA** +0
 
@@ -29,7 +31,7 @@ unique, le, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** ghostly hand +14 (agile, finesse, magical); **Damage** 3d8 negative
+**Melee** ◆ ghostly hand +14 (agile, finesse, magical); **Damage** 3d8 negative
 
 **Malevolent Possession** ◆◆ (divine, incapacitation, mental, necromancy, possession) Jarelle attempts to possess an adjacent corporeal creature. This has the same effect as the possession spell (with a spell DC of 22), except since Jarelle doesn't have a physical body, she is unaffected by that restriction of the spell.
 

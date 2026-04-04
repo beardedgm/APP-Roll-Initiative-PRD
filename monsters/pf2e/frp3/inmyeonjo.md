@@ -5,9 +5,11 @@ rare, ln, huge, air, beast
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision
 
-**Languages** auran, common
+**Languages** auran, common; telepathy 100 feet
+
+**Skills** Acrobatics +30, Athletics +28, Diplomacy +32, Medicine +32, Nature +32, Occultism +27
 
 **STR** +6, **DEX** +9, **CON** +7, **INT** +7, **WIS** +9, **CHA** +5
 
@@ -34,9 +36,9 @@ rare, ln, huge, air, beast
 
 Speed 40 feet, fly 100 feet
 
-**Melee** talon +30 (agile, finesse, reach <15 feet>); **Damage** 3d10+18 bludgeoning
+**Melee** ◆ talon +30 (agile, finesse, reach <15 feet>); **Damage** 3d10+18 bludgeoning
 
-**Melee** tail +30 (agile, finesse, reach <25 feet>); **Damage** 3d8+18 bludgeoning
+**Melee** ◆ tail +30 (agile, finesse, reach <25 feet>); **Damage** 3d8+18 bludgeoning
 
 **Spontaneous occult Spells** (DC 34), attack +26
 

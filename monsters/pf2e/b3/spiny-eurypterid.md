@@ -5,7 +5,9 @@ n, large, amphibious, animal
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision, wavesense 30 feet (imprecise)
+
+**Skills** Athletics +13, Stealth +13
 
 **STR** +4, **DEX** +2, **CON** +5, **INT** -5, **WIS** +1, **CHA** -3
 
@@ -25,8 +27,8 @@ n, large, amphibious, animal
 
 Speed 40 feet, swim 40 feet
 
-**Melee** pincer +15; **Damage** 2d8+4 slashing plus Grab plus Grab
+**Melee** ◆ pincer +15; **Damage** 2d8+4 slashing plus Grab plus Grab
 
-**Melee** stinger +15; **Damage** 2d6+4 piercing plus spiny eurypterid venom plus spiny eurypterid venom
+**Melee** ◆ stinger +15; **Damage** 2d6+4 piercing plus spiny eurypterid venom plus spiny eurypterid venom
 
 **Spiny Eurypterid Venom** (poison)

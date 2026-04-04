@@ -5,9 +5,11 @@ rare, le, medium, mummy, undead
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision
 
 **Languages** necril
+
+**Skills** Deception +18, Intimidation +20, Occultism +15, Religion +20, Stealth +13
 
 **STR** +5, **DEX** +2, **CON** +4, **INT** +0, **WIS** +5, **CHA** +5
 
@@ -37,9 +39,9 @@ rare, le, medium, mummy, undead
 
 Speed 20 feet
 
-**Melee** fist +20 (agile); **Damage** 1d10+11 bludgeoning plus insidious mummy rot plus insidious mummy rot
+**Melee** ◆ fist +20 (agile); **Damage** 1d10+11 bludgeoning plus insidious mummy rot plus insidious mummy rot
 
-**Melee** longspear +21 (magical, reach <10 feet>); **Damage** 2d8+11 piercing plus insidious mummy rot plus insidious mummy rot
+**Melee** ◆ longspear +21 (magical, reach <10 feet>); **Damage** 2d8+11 piercing plus insidious mummy rot plus insidious mummy rot
 
 **Channel Rot** (divine, necromancy) The mummy pharaoh can deliver insidious mummy rot through melee weapons it wields.
 

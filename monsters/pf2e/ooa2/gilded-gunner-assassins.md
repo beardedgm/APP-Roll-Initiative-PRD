@@ -7,9 +7,11 @@ rare, ne, medium, humanoid
 
 **Perception** +15
 
+**Skills** Acrobatics +13, Athletics +12, Deception +12, Intimidation +10, Stealth +13
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** +1, **WIS** +1, **CHA** +1
 
-**Items** {@condition concealed} holster (Guns & Gears 179), dueling pistol (Guns & Gears 152; 10 rounds), golden silencer (page 76; affixed to dueling pistol), knuckle duster (Guns & Gears 153), moderate thunderstone (2)
+**Items** concealed holster (Guns & Gears 179), dueling pistol (Guns & Gears 152; 10 rounds), golden silencer (page 76; affixed to dueling pistol), knuckle duster (Guns & Gears 153), moderate thunderstone (2)
 
 ---
 
@@ -25,10 +27,10 @@ rare, ne, medium, humanoid
 
 Speed 25 feet
 
-**Melee** knuckle duster +15 (agile, free-hand); **Damage** 1d4+6 bludgeoning
+**Melee** ◆ knuckle duster +15 (agile, free-hand); **Damage** 1d4+6 bludgeoning
 
-**Melee** thunderstone +15 (alchemical, bomb, sonic, splash, thrown <20 feet>); **Damage** 2d4 sonic damage plus 2 sonic splash and deafened (DC 20)
+**Ranged** ◆ thunderstone +15 (alchemical, bomb, sonic, splash, thrown <20 feet>); **Damage** 2d4 sonic damage plus 2 sonic splash and deafened (DC 20)
 
-**Melee** dueling pistol +15 (concealable, concussive, fatal <d10>, range increment <60 feet>, reload <1>); **Damage** 1d6+6 piercing
+**Ranged** ◆ dueling pistol +15 (concealable, concussive, fatal <d10>, range increment <60 feet>, reload <1>); **Damage** 1d6+6 piercing
 
 **Sneak Attack The Gilded** Gunner assassin deals an additional 2d6 precision damage to flat-footed creatures.

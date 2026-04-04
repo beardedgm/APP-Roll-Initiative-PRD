@@ -5,7 +5,11 @@ ln, large, aeon, monitor
 
 ---
 
-**Perception** +37
+**Perception** +37; darkvision, lifesense 120 feet, true seeing
+
+**Languages** envisioning
+
+**Skills** Acrobatics +33, Arcana +38, Deception +34, Diplomacy +34, Occultism +38, Religion +39, Stealth +35
 
 **STR** +6, **DEX** +7, **CON** +6, **INT** +8, **WIS** +9, **CHA** +6
 
@@ -27,27 +31,31 @@ ln, large, aeon, monitor
 
 ---
 
-Speed fly 40 feet
+Speed fly 40 feet, freedom of movement
 
-**Melee** energy touch +36 (agile, lawful, magical); **Damage** 5d8+18 positive or negative damage plus 1d6 lawful
+**Melee** ◆ energy touch +36 (agile, lawful, magical); **Damage** 5d8+18 positive or negative damage plus 1d6 lawful
 
-**Melee** Sphere of Oblivion +37 (magical); plus see Sphere of Oblivion
+**Ranged** ◆ Sphere of Oblivion +37 (magical); plus see Sphere of Oblivion
 
 **Innate divine Spells** (DC 47), attack +37
 
-  **1st** create water
+  **Constant (8th)** true seeing
 
-  **2nd** detect alignment, shape wood
+  **Constant (4th)** freedom of movement
 
-  **3rd** hypercognition
+  **1st** create water (at will)
 
-  **4th** create food, shape stone
+  **2nd** detect alignment (at will), shape wood (at will)
 
-  **5th** creation
+  **3rd** hypercognition (at will)
+
+  **4th** create food (at will), shape stone (at will)
+
+  **5th** creation (at will)
 
   **7th** plane shift, retrocognition
 
-  **8th** disintegrate, unrelenting observation
+  **8th** disintegrate (×2), unrelenting observation
 
   **9th** banishment, blade barrier, disjunction, overwhelming presence
 

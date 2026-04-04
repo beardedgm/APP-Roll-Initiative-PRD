@@ -5,9 +5,11 @@ uncommon, ce, large, beast, cold
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision, heatsight 60 feet
 
-**Languages** aklo, common, jotun
+**Languages** aklo, common, jotun; telepathy 1 mile
+
+**Skills** Acrobatics +32, Deception +29, Intimidation +33, Nature +28, Occultism +29, Religion +28, Stealth +30, Survival +30
 
 **STR** +8, **DEX** +7, **CON** +9, **INT** +6, **WIS** +5, **CHA** +6
 
@@ -27,15 +29,15 @@ uncommon, ce, large, beast, cold
 
 Speed fly 100 feet
 
-**Melee** jaws +33 (cold, magical, reach <10 feet>); **Damage** 3d10+12 piercing plus 2d6 cold
+**Melee** ◆ jaws +33 (cold, magical, reach <10 feet>); **Damage** 3d10+12 piercing plus 2d6 cold
 
-**Melee** claw +33 (cold, magical, agile, reach <10 feet>); **Damage** 3d8+12 slashing plus 2d6 cold and Grab plus Grab
+**Melee** ◆ claw +33 (cold, magical, agile, reach <10 feet>); **Damage** 3d8+12 slashing plus 2d6 cold and Grab plus Grab
 
 **Innate primal Spells** (DC 38)
 
   **4th** nightmare
 
-  **8th** wind walk
+  **8th** wind walk (at will)
 
 **Dream Haunting** A target that fails its save against the wendigo's nightmare is exposed to wendigo torment.
 

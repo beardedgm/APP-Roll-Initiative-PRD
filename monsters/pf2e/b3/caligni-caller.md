@@ -5,9 +5,11 @@ uncommon, ce, medium, caligni, humanoid
 
 ---
 
-**Perception** +11
+**Perception** +11; greater darkvision
 
 **Languages** caligni, undercommon
+
+**Skills** Arcana +9, Intimidation +14, Occultism +13, Stealth +15
 
 **STR** +2, **DEX** +5, **CON** +1, **INT** +1, **WIS** +1, **CHA** +4
 
@@ -31,15 +33,15 @@ uncommon, ce, medium, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +15 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing plus 1d6 negative
+**Melee** ◆ dagger +15 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing plus 1d6 negative
 
 **Innate occult Spells** (DC 24), attack +16
 
   **Cantrips (3rd)** chill touch, detect magic
 
-  **2nd** darkness
+  **2nd** darkness (at will)
 
-  **3rd** chilling darkness, grim tendrils
+  **3rd** chilling darkness (×2), grim tendrils (×3)
 
   **4th** darkness
 

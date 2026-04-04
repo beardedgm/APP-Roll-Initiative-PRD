@@ -5,9 +5,11 @@ unique, ce, large, aberration, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision
 
-**Languages** abyssal, aklo, common, draconic, protean, undercommon
+**Languages** abyssal, aklo, common, draconic, protean, undercommon; telepathy 100 feet
+
+**Skills** Acrobatics +16, Athletics +17, Occultism +12, Stealth +16
 
 **STR** +6, **DEX** +3, **CON** +5, **INT** -1, **WIS** +4, **CHA** +0
 
@@ -27,9 +29,9 @@ unique, ce, large, aberration, undead
 
 Speed 25 feet
 
-**Melee** jaws +18; **Damage** 2d10+8 piercing plus mind-rotting toxin
+**Melee** ◆ jaws +18; **Damage** 2d10+8 piercing plus mind-rotting toxin
 
-**Melee** claw +18 (agile); **Damage** 2d8+8 slashing
+**Melee** ◆ claw +18 (agile); **Damage** 2d8+8 slashing
 
 **Brainlash** ◆◆ (mental, necromancy, occult) The undead brain collector extrudes a writhing tangle of ectoplasm from its bursted brain blisters. These ectoplasmic strands lash out at all living targets within 30 feet. Targets in this area must attempt a DC 25 Will save. After the undead brain collector uses this ability, seven phantom brains glow and shimmer where its brain blisters once were. It can't use Brainlash again until all seven phantom brains are Absorbed. **Critical Success** 
 **Success** 

@@ -5,13 +5,15 @@ rare, ne, small, agathion, celestial
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
-**Languages** celestial, common, draconic, infernal
+**Languages** celestial, common, draconic, infernal; speak with animals, tongues
+
+**Skills** Acrobatics +12, Arcana +15, Deception +14, Medicine +11, Nirvana Lore +15, Performance +16, Religion +13, Society +13, Stealth +12
 
 **STR** +2, **DEX** +4, **CON** +4, **INT** +5, **WIS** +3, **CHA** +6
 
-**Items** {@item handheld musical instrument||handheld instrument}
+**Items** handheld instrument
 
 ---
 
@@ -27,13 +29,15 @@ rare, ne, small, agathion, celestial
 
 Speed 30 feet
 
-**Melee** jaws +15 (evil, finesse, magical); **Damage** 2d10+4 piercing plus 1d6 evil
+**Melee** ◆ jaws +15 (evil, finesse, magical); **Damage** 2d10+4 piercing plus 1d6 evil
 
-**Melee** claw +15 (agile, evil, finesse, magical); **Damage** 2d6+4 slashing plus 1d6 evil
+**Melee** ◆ claw +15 (agile, evil, finesse, magical); **Damage** 2d6+4 slashing plus 1d6 evil
 
 **Innate divine Spells** (DC 24)
 
-  **2nd** deafness, detect alignment, invisibility
+  **Constant (5th)** speak with animals, tongues
+
+  **2nd** deafness, detect alignment (at will), invisibility (at will)
 
   **3rd** agonizing despair, blindness, sound burst
 

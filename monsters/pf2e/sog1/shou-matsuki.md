@@ -5,13 +5,15 @@ unique, ng, medium, human, humanoid
 
 ---
 
-**Perception** +12
+**Perception** +12; cataracts, wood-grain speaker
 
 **Languages** common, hwan, minkaian, tengu
 
+**Skills** Crafting +13, Diplomacy +12, Nature +12, Society +11, Willowshore Lore +13
+
 **STR** +2, **DEX** -1, **CON** +1, **INT** +4, **WIS** +3, **CHA** +3
 
-**Items** calabash bottle worth 20 gp, {@runeItem staff||+1 weapon potency||striking|}, {@item sterling artisan's tools||sterling carpenter's artisan tools}
+**Items** calabash bottle worth 20 gp, , sterling carpenter's artisan tools
 
 **Cataracts** Old Matsuki's deteriorating eyesight imposes a –2 circumstance penalty to vision-based Perception checks.
 
@@ -31,7 +33,7 @@ unique, ng, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** staff +11 (magical, two-hand <d8>); **Damage** 2d4+4 slashing
+**Melee** ◆ staff +11 (magical, two-hand <d8>); **Damage** 2d4+4 slashing
 
 **A Drink for Good Luck** ◆◆◆ (emotion, enchantment, fortune, mental, occult) **Frequency** {"unit":"season","number":1}; **Requirements** Old Matsuki has a drink in hand; Old Matsuki toasts to good fortune, then selects up to six other creatures within 30 feet before he drinks his drink. He, and all creatures that drink before the end of their next turn, become infused with good luck. Once before the end of the current season, each target can reroll a failed saving throw as a free action, taking the second result.
 

@@ -5,9 +5,11 @@ uncommon, ce, medium, humanoid, mutant
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
 **Languages** common, sphinx
+
+**Skills** Acrobatics +13, Arcana +11, Athletics +13, Intimidation +10, Spellscar Desert Lore +13, Stealth +13
 
 **STR** +4, **DEX** +4, **CON** +5, **INT** +0, **WIS** +3, **CHA** -1
 
@@ -33,18 +35,23 @@ uncommon, ce, medium, humanoid, mutant
 
 Speed 30 feet, fly 40 feet
 
-**Melee** scimitar +15 (forceful, magical, sweep); **Damage** 2d6+6 slashing
+**Melee** ◆ scimitar +15 (forceful, magical, sweep); **Damage** 2d6+6 slashing
 
-**Melee** talon +15 (agile, finesse); **Damage** 2d4+6 plus mana fever
+**Melee** ◆ talon +15 (agile, finesse); **Damage** 2d4+6 plus mana fever
 
 **Innate arcane Spells** (DC 22)
 
   **Cantrips (3rd)** sigil
 
-  **1st** sanctuary, true strike
+  **1st** sanctuary (×3), true strike
 
 **Paired Strike** ◆◆ As maftet guardian.
 
-**Mana Fever** (disease) A creature can't remove the fatigued condition while infected; 
+**Mana Fever** (disease) A creature can't remove the fatigued condition while infected; **Saving Throw** DC 22 Fortitude
+**Onset** 1 day
+**Stage 1** fatigued and stupefied 1 (1 day)
+**Stage 2** fatigued and stupefied 2 (1 day)
+**Stage 3** fatigued and stupefied 3 (1 day)
+**Stage 4** gain immunity to mana fever and become a Mana Wastes mutant Powerful Scimitars (arcane, evocation)
 
 **Raptor Dive** ◆◆◆ As maftet guardian.

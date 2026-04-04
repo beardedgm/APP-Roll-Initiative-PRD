@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +6, Athletics +7, Stealth +6
 
 **STR** +3, **DEX** +3, **CON** +2, **INT** -4, **WIS** +1, **CHA** -2
 
@@ -21,7 +23,7 @@ n, medium, animal
 
 Speed 40 feet
 
-**Melee** jaws +8; **Damage** 1d8+3 piercing plus Knockdown plus Knockdown
+**Melee** ◆ jaws +8; **Damage** 1d8+3 piercing plus Knockdown plus Knockdown
 
 **Drag** ◆ The hyena makes a jaws Strike against a prone enemy. If it hits, in addition to dealing damage, the hyena Strides up to 10 feet, dragging the enemy along.
 

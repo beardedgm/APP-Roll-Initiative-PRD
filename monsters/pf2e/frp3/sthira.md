@@ -5,9 +5,11 @@ uncommon, ne, large, cold, undead
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision
 
 **Languages** common (can't speak any language)
+
+**Skills** Athletics +39
 
 **STR** +9, **DEX** +2, **CON** +10, **INT** -5, **WIS** +0, **CHA** -2
 
@@ -35,15 +37,15 @@ uncommon, ne, large, cold, undead
 
 Speed 25 feet
 
-**Melee** greatsword +38 (magical, versatile <P>, reach <10 feet>); **Damage** 3d12+15 slashing plus 2d6 cold and frostbite plus frostbite
+**Melee** ◆ greatsword +38 (magical, versatile <P>, reach <10 feet>); **Damage** 3d12+15 slashing plus 2d6 cold and frostbite plus frostbite
 
-**Melee** fist +38 (magical, reach <10 feet>); **Damage** 3d8+15 bludgeoning plus 2d6 cold, frostbite, and Improved Grab plus frostbite, Improved Grab
+**Melee** ◆ fist +38 (magical, reach <10 feet>); **Damage** 3d8+15 bludgeoning plus 2d6 cold, frostbite, and Improved Grab plus frostbite, Improved Grab
 
 **Innate primal Spells** (DC 39), attack +31
 
   **Cantrips (10th)** ray of frost
 
-  **9th** polar ray, storm of vengeance, wall of ice
+  **9th** polar ray (×2), storm of vengeance, wall of ice
 
   **10th** massacre
 

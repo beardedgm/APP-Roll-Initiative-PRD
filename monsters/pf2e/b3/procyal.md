@@ -5,9 +5,11 @@ ng, medium, agathion, celestial
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
-**Languages** celestial, common, draconic, halfling, infernal
+**Languages** celestial, common, draconic, halfling, infernal; speak with animals, tongues
+
+**Skills** Acrobatics +14, Deception +18, Diplomacy +16, Medicine +16, Nature +16, Nirvana Lore +15, Society +17, Stealth +16, Survival +16, Thievery +14
 
 **STR** +4, **DEX** +4, **CON** +6, **INT** +5, **WIS** +6, **CHA** +4
 
@@ -25,17 +27,19 @@ ng, medium, agathion, celestial
 
 Speed 25 feet
 
-**Melee** claw +18 (agile, good, magical); **Damage** 2d8+10 plus 1d6 good plus 2d8+10
+**Melee** ◆ claw +18 (agile, good, magical); **Damage** 2d8+10 plus 1d6 good plus 2d8+10
 
-**Melee** shortsword +19 (agile, finesse, good, magical, versatile <S>); **Damage** 2d6+10 plus 1d6 good plus 2d6+10
+**Melee** ◆ shortsword +19 (agile, finesse, good, magical, versatile <S>); **Damage** 2d6+10 plus 1d6 good plus 2d6+10
 
 **Innate divine Spells** (DC 26), attack +18
+
+  **Constant (5th)** speak
 
   **2nd** invisibility
 
   **3rd** heroism
 
-  **4th** calm emotions, charm, dimension door, dispel magic, illusory creature, magic aura, suggestion
+  **4th** calm emotions, charm, dimension door, dispel magic, illusory creature, magic aura (at will), suggestion (at will)
 
 **Champion Focus Spell** DC 26, 1 Focus Point; 4th lay on hands (Core Rulebook 387)
 

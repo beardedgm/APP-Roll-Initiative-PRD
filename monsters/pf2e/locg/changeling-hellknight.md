@@ -5,9 +5,11 @@ ln, medium, changeling, humanoid, human
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
 **Languages** common
+
+**Skills** Deception +13, Medicine +11, Nature +13, Stealth +10, Survival +11
 
 **STR** +4, **DEX** +0, **CON** +0, **INT** +0, **WIS** +4, **CHA** +4
 
@@ -29,9 +31,9 @@ ln, medium, changeling, humanoid, human
 
 Speed 20 feet
 
-**Melee** claw +12 (agile); **Damage** 1d4+4 slashing
+**Melee** ◆ claw +12 (agile); **Damage** 1d4+4 slashing
 
-**Melee** halberd +12 (reach 10 feet, versatile S); **Damage** 1d10+6 piercing
+**Melee** ◆ halberd +12 (reach 10 feet, versatile S); **Damage** 1d10+6 piercing
 
 **Spontaneous primal Spells** (DC 22), attack +12
 

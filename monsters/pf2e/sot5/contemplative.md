@@ -5,9 +5,11 @@ uncommon, n, medium, aberration
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision, thoughtsense 30 feet (precise)
 
-**Languages** akitonian
+**Languages** akitonian; telepathy 30 feet
+
+**Skills** Arcana +8, Medicine +6, Nature +8, Occultism +10, Society +8
 
 **STR** -2, **DEX** +3, **CON** +0, **INT** +4, **WIS** +2, **CHA** +3
 
@@ -31,10 +33,10 @@ uncommon, n, medium, aberration
 
 Speed 5 feet, fly 25 feet
 
-**Melee** claw +7 (finesse); **Damage** 1d6 slashing
+**Melee** ◆ claw +7 (finesse); **Damage** 1d6 slashing
 
 **Innate occult Spells** (DC 18), attack +10
 
   **Cantrips (1st)** daze, ghost sound, mage hand, read aura, telekinetic projectile
 
-  **1st** magic missile, mindlink
+  **1st** magic missile (×3), mindlink

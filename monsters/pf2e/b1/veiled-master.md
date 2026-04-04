@@ -5,9 +5,11 @@ rare, le, large, aberration, aquatic
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
 
-**Languages** aklo, alghollthu, aquan, common, undercommon
+**Languages** aklo, alghollthu, aquan, common, undercommon; tongues
+
+**Skills** Arcana +27, Athletics +24, Deception +28, Intimidation +26, Occultism +29, Society +27, Stealth +24, Lore +29 (any one subcategory)
 
 **STR** +6, **DEX** +6, **CON** +8, **INT** +7, **WIS** +5, **CHA** +6
 
@@ -27,25 +29,27 @@ rare, le, large, aberration, aquatic
 
 Speed 10 feet, swim 80 feet
 
-**Melee** claw +30 (agile, magical, reach <20 feet>); **Damage** 3d10+12 slashing plus slime plus slime
+**Melee** ◆ claw +30 (agile, magical, reach <20 feet>); **Damage** 3d10+12 slashing plus slime plus slime
 
-**Melee** fangs +28 (agile, magical, reach <10 feet>, versatile <S>); **Damage** 3d8+12 piercing plus slime and consume memories plus slime, consume memories
+**Melee** ◆ fangs +28 (agile, magical, reach <10 feet>, versatile <S>); **Damage** 3d8+12 piercing plus slime and consume memories plus slime, consume memories
 
-**Melee** tentacle +28 (agile, electricity, magical, reach <20 feet>); **Damage** 7d6 electricity plus thoughtlance plus thoughtlance
+**Melee** ◆ tentacle +28 (agile, electricity, magical, reach <20 feet>); **Damage** 7d6 electricity plus thoughtlance plus thoughtlance
 
 **Innate occult Spells** (DC 37)
 
-  **3rd** hypnotic pattern, levitate, mind reading, secret page
+  **Constant (5th)** tongues
 
-  **5th** dimension door, hallucinatory terrain, illusory object
+  **3rd** hypnotic pattern (at will), levitate (at will), mind reading (at will), secret page (at will)
 
-  **6th** dominate
+  **5th** dimension door (×3), hallucinatory terrain (at will), illusory object (at will)
 
-  **7th** veil
+  **6th** dominate (×3)
 
-  **8th** illusory scene, suggestion
+  **7th** veil (at will)
 
-  **9th** project image
+  **8th** illusory scene (at will), suggestion (×3)
+
+  **9th** project image (at will)
 
 **Change Shape** ◇ (concentrate, occult, polymorph, transmutation) Once per round, a veiled master can take on the appearance of a humanoid of Large, Medium, or Small size or resume its true form. While in humanoid form, the veiled master's Speed is 30 feet, and it loses its mucus cloud aura and swim Speed. If the humanoid form assumed lacks the aquatic trait, the veiled master loses its own aquatic trait as well. In humanoid form, the veiled master can use weapons, or it can make Strikes that work like its tentacle attack but use the reach of its current form. If the assumed form has fangs or claws, the veiled master can also make such Strikes, but these attacks lack the veiled master's slime.
 

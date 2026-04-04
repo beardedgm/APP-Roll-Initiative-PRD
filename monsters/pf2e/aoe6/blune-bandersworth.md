@@ -5,9 +5,11 @@ unique, ne, small, gnome, humanoid
 
 ---
 
-**Perception** +36
+**Perception** +36; low-light vision
 
 **Languages** arcadian, common, draconic, elven, gnomish, goblin, halfling, protean, sylvan
+
+**Skills** Acrobatics +36, Arcana +37, Architecture Lore +35, Deception +31, Occultism +33, Society +33, Stealth +36, Thievery +36
 
 **STR** +1, **DEX** +6, **CON** +3, **INT** +7, **WIS** +2, **CHA** +3
 
@@ -25,7 +27,7 @@ unique, ne, small, gnome, humanoid
 
 Speed 25 feet
 
-**Melee** rapier +34 (deadly <3d8>, disarm, finesse, magical); **Damage** 4d6+11 piercing
+**Melee** ◆ rapier +34 (deadly <3d8>, disarm, finesse, magical); **Damage** 4d6+11 piercing
 
 **Prepared arcane Spells** (DC 42), attack +38
 

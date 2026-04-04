@@ -5,9 +5,11 @@ uncommon, gargantuan, incorporeal, spirit, troop, undead, unholy
 
 ---
 
-**Perception** +33
+**Perception** +33; darkvision, lifesense  [object Object] feet
 
 **Languages** common, elven, necril
+
+**Skills** Acrobatics +38, Stealth +38, Warfare Lore +35
 
 **STR** -5, **DEX** +10, **CON** +10, **INT** +7, **WIS** +7, **CHA** +6
 
@@ -23,7 +25,7 @@ uncommon, gargantuan, incorporeal, spirit, troop, undead, unholy
 
 **Immunities** bleed, death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, spirit, or vitality; double resistance vs. non-magical)
 
 **Weaknesses** area damage 20, splash damage 10
 
@@ -33,7 +35,7 @@ uncommon, gargantuan, incorporeal, spirit, troop, undead, unholy
 
 ---
 
-Speed fly 40 feet
+Speed fly 40 feet, troop movement
 
 **Frightful Battle Cry** ◆◆ (auditory, divine, emotion, fear, mental, sonic) The last guards unleash a soul-shaking bellow in unison. All creatures in a 60-foot cone take 7d6 sonic damage (DC 42 basic Will save). Any creature that fails its save is also frightened|PC1|frightened 3 (or frightened|PC1|frightened 4 on a critical failure). If the troop occupies 2 or fewer segments, this area decreases to a 30-foot cone.
 

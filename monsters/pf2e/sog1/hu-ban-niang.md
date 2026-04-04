@@ -9,9 +9,11 @@ unique, ln, medium, human, humanoid
 
 **Languages** common, halfling
 
+**Skills** Athletics +11, Crafting +11, Deception +13, Diplomacy +11, Intimidation +13, Society +11, Willowshore Lore +11
+
 **STR** +2, **DEX** +1, **CON** +1, **INT** +2, **WIS** +2, **CHA** +4
 
-**Items** {@runeItem longsword||+1 weapon potency||striking|}, smoking pipe worth 20 gp, {@item spider lily tattoo|SoG1}
+**Items** , smoking pipe worth 20 gp, spider lily tattoo|SoG1
 
 **So Have You Heard?** (exploration) **Frequency** {"unit":"day","number":1}; Granny Hu can shift a PC's reputation in Willowshore over the course of 2 hours of work. She attempts a Deception check against the target's Deception, Diplomacy, or Intimidation DC, whichever is highest. If the target is admired or revered by at least one faction in Willowshore, Granny Hu takes a –1 status penalty to her check, or –2 if the target is admired or revered by both factions. The target is then temporarily immune to So Have You Heard? for 1 week. **Critical Success** The target takes a –2 circumstance penalty to Charisma-based skill checks when interacting with Willowshore residents for a week.
 **Success** As critical success, but only a –1 circumstance penalty and for only 1 day.
@@ -39,4 +41,4 @@ unique, ln, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** longsword +13 (magical, versatile <P>); **Damage** 2d8+3 slashing
+**Melee** ◆ longsword +13 (magical, versatile <P>); **Damage** 2d8+3 slashing

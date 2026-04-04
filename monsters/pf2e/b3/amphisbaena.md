@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +10
+**Perception** +10; {@ability tremorsense} 60 feet
+
+**Skills** Acrobatics +10, Athletics +13, Stealth +12
 
 **STR** +5, **DEX** +4, **CON** +2, **INT** -4, **WIS** +0, **CHA** -4
 
@@ -21,9 +23,9 @@ n, medium, animal
 
 Speed 25 feet, swim 25 feet, climb 25 feet
 
-**Melee** fangs +13; **Damage** 2d6+5 piercing plus amphisbaena venom plus amphisbaena venom
+**Melee** ◆ fangs +13; **Damage** 2d6+5 piercing plus amphisbaena venom plus amphisbaena venom
 
-**Melee** spit +12 (range increment <15 feet>); **Damage** 1d6 poison plus amphisbaena venom and blinding spittle plus amphisbaena venom, blinding spittle
+**Ranged** ◆ spit +12 (range increment <15 feet>); **Damage** 1d6 poison plus amphisbaena venom and blinding spittle plus amphisbaena venom, blinding spittle
 
 **Amphisbaena Venom** (poison)
 

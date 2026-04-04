@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +10
+**Perception** +10; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +8, Athletics +12, Stealth +8, Survival +10
 
 **STR** +5, **DEX** +3, **CON** +4, **INT** -4, **WIS** +3, **CHA** -2
 
@@ -23,7 +25,7 @@ n, large, animal
 
 Speed 35 feet
 
-**Melee** jaws +12 (reach <10 feet>); **Damage** 1d10+5 piercing plus Knockdown or Grab plus Knockdown or Grab
+**Melee** ◆ jaws +12 (reach <10 feet>); **Damage** 1d10+5 piercing plus Knockdown or Grab plus Knockdown or Grab
 
 **Pack Attack** The dire wolf's Strikes deal 1d6 extra damage to creatures within reach of at least two of the wolf's allies.
 

@@ -5,9 +5,11 @@ ne, large, daemon, fiend
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision, lifesense 30 feet (imprecise)
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Acrobatics +20, Deception +23, Intimidation +23, Religion +20, Stealth +23, Survival +19
 
 **STR** +7, **DEX** +5, **CON** +6, **INT** +3, **WIS** +4, **CHA** +6
 
@@ -31,17 +33,17 @@ ne, large, daemon, fiend
 
 Speed 25 feet, fly 50 feet
 
-**Melee** bite +24 (evil, magical, reach <10 feet>); **Damage** 2d12+13 plus 1d6 evil and daemonic famine plus 2d12+13, daemonic famine
+**Melee** ◆ bite +24 (evil, magical, reach <10 feet>); **Damage** 2d12+13 plus 1d6 evil and daemonic famine plus 2d12+13, daemonic famine
 
-**Melee** claw +24 (agile, evil, magical, reach <10 feet>); **Damage** 2d8+13 slashing plus 1d6 evil, Grab, and withering touch plus Grab, withering touch
+**Melee** ◆ claw +24 (agile, evil, magical, reach <10 feet>); **Damage** 2d8+13 slashing plus 1d6 evil, Grab, and withering touch plus Grab, withering touch
 
 **Innate divine Spells** (DC 31)
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
-  **5th** dimension door, fear, magic missile
+  **5th** dimension door, fear, magic missile (at will)
 
   **6th** phantom pain
 

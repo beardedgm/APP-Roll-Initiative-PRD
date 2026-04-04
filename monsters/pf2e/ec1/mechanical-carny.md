@@ -5,9 +5,11 @@ n, medium, construct, mindless
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision
 
 **Languages** common (can speak pre-recorded phrases only)
+
+**Skills** Acrobatics +7, Athletics +9, Performance +6
 
 **STR** +3, **DEX** +1, **CON** +0, **INT** -5, **WIS** +0, **CHA** +2
 
@@ -21,7 +23,7 @@ n, medium, construct, mindless
 
 **Immunities** bleed, death effects, disease, doomed
 
-**Resistances** physical 3
+**Resistances** physical 3 (except adamantine)
 
 **Weaknesses** electricity
 
@@ -31,6 +33,6 @@ n, medium, construct, mindless
 
 Speed 25 feet
 
-**Melee** spring-loaded fist +11 (nonlethal, reach <10 feet>); **Damage** 2d4+4 bludgeoning
+**Melee** ◆ spring-loaded fist +11 (nonlethal, reach <10 feet>); **Damage** 2d4+4 bludgeoning
 
-**Melee** headbutt +11; **Damage** 2d4+4 bludgeoning
+**Melee** ◆ headbutt +11; **Damage** 2d4+4 bludgeoning

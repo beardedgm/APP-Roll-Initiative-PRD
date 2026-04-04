@@ -5,7 +5,9 @@ n, huge, animal
 
 ---
 
-**Perception** +17
+**Perception** +17; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +21, Survival +17
 
 **STR** +8, **DEX** +0, **CON** +5, **INT** -4, **WIS** +2, **CHA** -2
 
@@ -21,11 +23,11 @@ n, huge, animal
 
 Speed 45 feet
 
-**Melee** tusk +21 (reach <15 feet>); **Damage** 3d8+12 piercing
+**Melee** ◆ tusk +21 (reach <15 feet>); **Damage** 3d8+12 piercing
 
-**Melee** trunk +21 (reach <15 feet>); plus grabbing trunk
+**Melee** ◆ trunk +21 (reach <15 feet>); plus grabbing trunk
 
-**Melee** foot +21 (reach <10 feet>); **Damage** 2d10+12 bludgeoning
+**Melee** ◆ foot +21 (reach <10 feet>); **Damage** 2d10+12 bludgeoning
 
 **Dual Tusks** ◆ The mastodon makes two tusk Strikes, each against a different creature. This counts as one attack for the mastodon's multiple attack penalty, and the penalty doesn't increase until after both attacks.
 

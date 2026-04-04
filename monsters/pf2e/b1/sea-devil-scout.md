@@ -5,9 +5,11 @@ le, medium, amphibious, humanoid, sea devil
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision, wavesense 30 feet
 
-**Languages** aquan
+**Languages** aquan; shark commune 150 feet
+
+**Skills** Athletics +9, Intimidation +5, Survival +7
 
 **STR** +3, **DEX** +4, **CON** +1, **INT** +0, **WIS** +3, **CHA** -1
 
@@ -27,11 +29,11 @@ le, medium, amphibious, humanoid, sea devil
 
 Speed 25 feet, swim 35 feet
 
-**Melee** longspear +11 (reach <10 feet>); **Damage** 1d8+3 piercing
+**Melee** ◆ longspear +11 (reach <10 feet>); **Damage** 1d8+3 piercing
 
-**Melee** claw +11 (agile); **Damage** 1d6+3 slashing
+**Melee** ◆ claw +11 (agile); **Damage** 1d6+3 slashing
 
-**Melee** jaws +11; **Damage** 1d8+3 piercing
+**Melee** ◆ jaws +11; **Damage** 1d8+3 piercing
 
 **Blood Frenzy** ◇ (rage) **Trigger** The sea devil deals bleed damage to a living creature.; **Requirements** The sea devil is not fatigued or already in a frenzy.; The sea devil flies into a frenzy that lasts 1 minute. While frenzied, the sea devil gains a +1 status bonus to attack rolls with its claws and jaws, gains a +4 status bonus to damage rolls with its claws and jaws, gains 7 temporary HP until the end of the frenzy, and takes a –2 status penalty to AC. The sea devil can't voluntarily stop its frenzy. After its frenzy, the sea devil is fatigued.
 

@@ -5,9 +5,11 @@ unique, ne, small, undead
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
 **Languages** aklo, common
+
+**Skills** Deception +14, Occultism +13, Stealth +15
 
 **STR** +0, **DEX** +5, **CON** +2, **INT** +3, **WIS** +5, **CHA** +4
 
@@ -29,9 +31,9 @@ unique, ne, small, undead
 
 Speed 20 feet
 
-**Melee** jaws +17 (agile, finesse); **Damage** 3d8 piercing plus steal breath
+**Melee** ◆ jaws +17 (agile, finesse); **Damage** 3d8 piercing plus steal breath
 
-**Melee** bony hand +17 (agile); **Damage** 2d12 negative plus steal voice
+**Melee** ◆ bony hand +17 (agile); **Damage** 2d12 negative plus steal voice
 
 **Steal Breath** (curse, incapacitation, necromancy, occult) The attic whisperer siphons the breath from living creatures, sapping their strength. A living creature hit by a jaws Strike must attempt a DC 24 Fortitude save. **Critical Success** The target is unaffected.
 **Success** The target is enfeebled 1 for 1 round.

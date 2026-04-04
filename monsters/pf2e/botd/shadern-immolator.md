@@ -5,9 +5,11 @@ rare, ce, small, fire, goblin, humanoid, mortic
 
 ---
 
-**Perception** +5
+**Perception** +5; darkvision, smoke vision
 
 **Languages** common, goblin, necril
+
+**Skills** Acrobatics +7, Athletics +5, Stealth +7, Survival +3
 
 **STR** +2, **DEX** +4, **CON** +3, **INT** -1, **WIS** +0, **CHA** +1
 
@@ -29,7 +31,7 @@ rare, ce, small, fire, goblin, humanoid, mortic
 
 Speed 25 feet
 
-**Melee** fist +9 (agile, finesse, unarmed); **Damage** 1d4+2 bludgeoning plus 1 fire and smoldering fist
+**Melee** ◆ fist +9 (agile, finesse, unarmed); **Damage** 1d4+2 bludgeoning plus 1 fire and smoldering fist
 
 **Death Gasp** ◆ (divine, necromancy) The shadern draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The shadern gains the undead trait and becomes immune to bleed, death effects, disease, paralyzed, poison, and sleep. Any such effects the shadern is currently inflicted with are suspended but take effect again once they take a breath. Death Gasp lasts as long as the shadern holds their breath (up to 8 rounds; Core Rulebook 478).
 

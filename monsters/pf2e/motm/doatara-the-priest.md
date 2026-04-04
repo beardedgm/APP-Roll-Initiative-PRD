@@ -9,9 +9,11 @@ unique, ne, medium, human, humanoid
 
 **Languages** common, daemonic, osiriani
 
+**Skills** Acrobatics +16, Assassin Lore +12, Crafting +12, Deception +16, Intimidation +14, Religion +17, Stealth +16, Thievery +14
+
 **STR** +1, **DEX** +5, **CON** +1, **INT** +1, **WIS** +4, **CHA** +3
 
-**Items** {@item dagger||daggers} (4), {@item moderate darkvision elixir}, {@item moderate elixir of life}, {@item giant scorpion venom} (2), {@item giant wasp venom}, {@item leather||leather armor}, silver {@item religious symbol (generic)||religious symbol}, {@runeItem shortsword||+1 weapon potency||striking|}
+**Items** daggers (4), moderate darkvision elixir, moderate elixir of life, giant scorpion venom (2), giant wasp venom, leather armor, silver religious symbol, 
 
 ---
 
@@ -27,11 +29,11 @@ unique, ne, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** shortsword +17 (agile, finesse, versatile <S>); **Damage** 2d6+7 piercing
+**Melee** ◆ shortsword +17 (agile, finesse, versatile <S>); **Damage** 2d6+7 piercing
 
-**Melee** dagger +16 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
+**Melee** ◆ dagger +16 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
 
-**Melee** dagger +16 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
+**Ranged** ◆ dagger +16 (agile, finesse, thrown <10 feet>, versatile <S>); **Damage** 1d4+7 piercing
 
 **Prepared divine Spells** (DC 25), attack +17
 
@@ -41,7 +43,7 @@ Speed 30 feet
 
   **3rd** dispel magic, fear, vampiric touch
 
-  **4th** harm, heal, invisibility
+  **4th** harm (×4), heal, invisibility
 
 **Focus divine Spells** (DC 25)
 

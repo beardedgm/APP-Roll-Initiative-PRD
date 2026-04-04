@@ -5,9 +5,11 @@ uncommon, le, medium, undead
 
 ---
 
-**Perception** +14
+**Perception** +14; lifesense 60 feet
 
 **Languages** common, necril
+
+**Skills** Athletics +15, Intimidation +17, Stealth +13, Survival +15
 
 **STR** +6, **DEX** +2, **CON** +2, **INT** +2, **WIS** +3, **CHA** +4
 
@@ -33,13 +35,13 @@ uncommon, le, medium, undead
 
 Speed 20 feet
 
-**Melee** keen longsword +18 (magical, versatile <P>); **Damage** 1d8+10 slashing
+**Melee** ◆ keen longsword +18 (magical, versatile <P>); **Damage** 1d8+10 slashing
 
-**Melee** keen returning hatchet +17 (agile, sweep); **Damage** 1d6+10 slashing
+**Melee** ◆ keen returning hatchet +17 (agile, sweep); **Damage** 1d6+10 slashing
 
-**Melee** fist +18 (agile, nonlethal); **Damage** 1d4+10 bludgeoning
+**Melee** ◆ fist +18 (agile, nonlethal); **Damage** 1d4+10 bludgeoning
 
-**Melee** keen returning hatchet +14 (agile, thrown <10 feet>); **Damage** 2d8+10 slashing
+**Ranged** ◆ keen returning hatchet +14 (agile, thrown <10 feet>); **Damage** 2d8+10 slashing
 
 **Head Hunter** Any slashing weapon a dullahan wields becomes keen, and any hatchet it wields becomes returning. If the dullahan kills a creature with a critical hit using a slashing weapon, the target is decapitated as though the dullahan had used Reap on the target. These effects remain only while the dullahan holds the weapon.
 

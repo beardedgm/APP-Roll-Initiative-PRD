@@ -9,6 +9,8 @@ ce, gargantuan, humanoid, troop
 
 **Languages** abyssal, common
 
+**Skills** Athletics +22, Intimidation +21, Religion +22
+
 **STR** +7, **DEX** +2, **CON** +6, **INT** +2, **WIS** +5, **CHA** +4
 
 ---

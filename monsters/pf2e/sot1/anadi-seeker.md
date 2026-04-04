@@ -9,6 +9,8 @@ uncommon, cg, medium, anadi, humanoid
 
 **Languages** anadi, common
 
+**Skills** Acrobatics +6, Arcana +7, Athletics +4, Crafting +7, Nature +5, Occultism +7
+
 **STR** +1, **DEX** +3, **CON** -1, **INT** +4, **WIS** +2, **CHA** +0
 
 **Items** sling (20 sling bullets)
@@ -25,9 +27,9 @@ uncommon, cg, medium, anadi, humanoid
 
 Speed 25 feet, climb 25 feet
 
-**Melee** fangs +8 (finesse); **Damage** 1d6+1 piercing plus anadi venom plus anadi venom
+**Melee** ◆ fangs +8 (finesse); **Damage** 1d6+1 piercing plus anadi venom plus anadi venom
 
-**Melee** sling +8 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6 bludgeoning
+**Ranged** ◆ sling +8 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6 bludgeoning
 
 **Innate arcane Spells** (DC 17)
 

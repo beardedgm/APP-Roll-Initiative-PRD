@@ -9,6 +9,8 @@ uncommon, cg, medium, anadi, humanoid
 
 **Languages** anadi, mwangi
 
+**Skills** Athletics +12, Crafting +10, Deception +8, Diplomacy +10, Nature +12, Survival +10
+
 **STR** +0, **DEX** +2, **CON** +0, **INT** +1, **WIS** +4, **CHA** +2
 
 **Items** hide armor, shortsword
@@ -25,9 +27,9 @@ uncommon, cg, medium, anadi, humanoid
 
 Speed 25 feet, climb 25 feet
 
-**Melee** shortsword +12 (agile, finesse, versatile <S>); **Damage** 1d6+3 piercing
+**Melee** ◆ shortsword +12 (agile, finesse, versatile <S>); **Damage** 1d6+3 piercing
 
-**Melee** fangs +12 (finesse); **Damage** 2d6+3 piercing plus anadi venom plus anadi venom
+**Melee** ◆ fangs +12 (finesse); **Damage** 2d6+3 piercing plus anadi venom plus anadi venom
 
 **Innate arcane Spells** (DC 21)
 

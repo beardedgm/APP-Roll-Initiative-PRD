@@ -5,9 +5,11 @@ unique, ce, large, aberration
 
 ---
 
-**Perception** +26
+**Perception** +26; darkvision
 
 **Languages** aklo, common, draconic, undercommon
+
+**Skills** Acrobatics +26, Arcana +29, Athletics +28, Deception +21, Occultism +27, Stealth +24, Survival +22
 
 **STR** +7, **DEX** +3, **CON** +4, **INT** +6, **WIS** +3, **CHA** +0
 
@@ -27,15 +29,15 @@ unique, ce, large, aberration
 
 Speed 40 feet, climb 20 feet
 
-**Melee** jaws +30 (reach <15 feet>); **Damage** 3d12+13 piercing
+**Melee** ◆ jaws +30 (reach <15 feet>); **Damage** 3d12+13 piercing
 
-**Melee** claw +30 (agile, reach <15 feet>); **Damage** 3d8+13 slashing
+**Melee** ◆ claw +30 (agile, reach <15 feet>); **Damage** 3d8+13 slashing
 
 **Prepared arcane Spells** (DC 36), attack +28
 
   **Cantrips (8th)** chill touch, daze, detect magic, light, read aura
 
-  **1st** fear, mending, ray of enfeeblement
+  **1st** fear (×2), mending, ray of enfeeblement
 
   **2nd** acid arrow, grim tendrils, hideous laughter, see invisibility
 
@@ -47,9 +49,9 @@ Speed 40 feet, climb 20 feet
 
   **6th** acid arrow, phantasmal calamity, purple worm sting, wall of force
 
-  **7th** entrancing eyes, vampiric exsanguination, warp mind
+  **7th** entrancing eyes, vampiric exsanguination, warp mind (×2)
 
-  **8th** horrid wilting, maze
+  **8th** horrid wilting (×2), maze
 
 **Wizard School Spells** (DC 36)
 

@@ -5,9 +5,11 @@ unique, cn, huge, monitor, protean
 
 ---
 
-**Perception** +40
+**Perception** +40; entropy sense 60 feet (imprecise), darkvision
 
-**Languages** abyssal, celestial, protean
+**Languages** abyssal, celestial, protean; telepathy 100 feet, tongues
+
+**Skills** Acrobatics +41, Athletics +43, Deception +42, Diplomacy +42, Intimidation +42, Religion +42, Stealth +38
 
 **STR** +11, **DEX** +8, **CON** +8, **INT** +7, **WIS** +9, **CHA** +9
 
@@ -33,25 +35,29 @@ unique, cn, huge, monitor, protean
 
 ---
 
-Speed 50 feet, fly 60 feet, swim 50 feet
+Speed 50 feet, fly 60 feet, swim 50 feet, freedom of movement
 
-**Melee** jaws +41 (chaotic, magical, reach <15 feet>); **Damage** 4d12+21 piercing plus 2d6 chaotic and warpwave strike plus warpwave strike
+**Melee** ◆ jaws +41 (chaotic, magical, reach <15 feet>); **Damage** 4d12+21 piercing plus 2d6 chaotic and warpwave strike plus warpwave strike
 
-**Melee** claws +41 (agile, chaotic, magical, reach <15 feet>); **Damage** 3d12+21 slashing plus 2d6 chaotic and warpwave strike plus warpwave strike
+**Melee** ◆ claws +41 (agile, chaotic, magical, reach <15 feet>); **Damage** 3d12+21 slashing plus 2d6 chaotic and warpwave strike plus warpwave strike
 
-**Melee** tail +41 (magical); **Damage** 3d12+21 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +41 (magical); **Damage** 3d12+21 bludgeoning plus Grab plus Grab
 
 **Innate divine Spells** (DC 45), attack +39
 
-  **2nd** detect alignment
+  **Constant (5th)** tongues
 
-  **4th** confusion, dimension door
+  **Constant (4th)** freedom of movement
 
-  **5th** creation, dimension door, hallucinatory terrain
+  **2nd** detect alignment (at will)
 
-  **6th** teleport
+  **4th** confusion (at will), dimension door (at will)
 
-  **7th** disintegrate, dispel magic, shatter, warp mind
+  **5th** creation (at will), dimension door, hallucinatory terrain (×2)
+
+  **6th** teleport (at will)
+
+  **7th** disintegrate, dispel magic (at will), shatter (at will), warp mind (×3)
 
   **8th** baleful polymorph, confusion
 

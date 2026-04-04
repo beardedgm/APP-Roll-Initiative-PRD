@@ -5,9 +5,11 @@ uncommon, ne, medium, undead
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +25, Athletics +20, Stealth +25, Survival +23
 
 **STR** +2, **DEX** +7, **CON** +5, **INT** +2, **WIS** +5, **CHA** +6
 
@@ -21,15 +23,17 @@ uncommon, ne, medium, undead
 
 **Immunities** death effects, disease, paralyzed, poison, unconscious
 
-**Resistances** all damage 8
+**Resistances** all damage 8 (except force)
 
 ---
 
-Speed 35 feet, climb 35 feet
+Speed 35 feet, climb 35 feet, flicker, spider climb, water walk
 
-**Melee** claw +25 (agile, finesse); **Damage** 3d8+8 slashing plus 2d6 mental
+**Melee** ◆ claw +25 (agile, finesse); **Damage** 3d8+8 slashing plus 2d6 mental
 
 **Innate occult Spells** (DC 32)
+
+  **Constant (4th)** blink, spider climb, water walk
 
   **6th** nightmare
 

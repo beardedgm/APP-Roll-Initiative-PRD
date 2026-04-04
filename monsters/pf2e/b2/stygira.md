@@ -5,9 +5,11 @@ uncommon, le, medium, earth, fey
 
 ---
 
-**Perception** +17
+**Perception** +17; gemsight
 
 **Languages** aklo, cyclops, jotun, terran
+
+**Skills** Athletics +15, Deception +15, Nature +17, Occultism +17, Gem Lore +17
 
 **STR** +4, **DEX** +4, **CON** +5, **INT** +4, **WIS** +6, **CHA** +2
 
@@ -25,7 +27,7 @@ uncommon, le, medium, earth, fey
 
 **Immunities** paralyzed, petrified, visual
 
-**Resistances** physical 10
+**Resistances** physical 10 (except adamantine)
 
 **Weaknesses** cold iron 5
 
@@ -35,7 +37,7 @@ uncommon, le, medium, earth, fey
 
 Speed 25 feet
 
-**Melee** claw +17 (agile); **Damage** 2d6+10 slashing plus stone curse plus stone curse
+**Melee** ◆ claw +17 (agile); **Damage** 2d6+10 slashing plus stone curse plus stone curse
 
 **Innate occult Spells** (DC 25)
 

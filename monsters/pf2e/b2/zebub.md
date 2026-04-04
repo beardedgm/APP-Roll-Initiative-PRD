@@ -5,9 +5,11 @@ le, small, devil, fiend
 
 ---
 
-**Perception** +12
+**Perception** +12; greater darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; telepathy 100 feet
+
+**Skills** Acrobatics +10, Arcana +7, Deception +8, Religion +9, Stealth +10
 
 **STR** +1, **DEX** +4, **CON** +1, **INT** +0, **WIS** +3, **CHA** +1
 
@@ -29,15 +31,15 @@ le, small, devil, fiend
 
 Speed 15 feet, fly 50 feet
 
-**Melee** mandibles +12 (evil, finesse, magical); **Damage** 1d10+3 piercing plus 1d6 evil and Cocytan filth plus Cocytan filth
+**Melee** ◆ mandibles +12 (evil, finesse, magical); **Damage** 1d10+3 piercing plus 1d6 evil and Cocytan filth plus Cocytan filth
 
 **Innate divine Spells** (DC 17)
 
   **Cantrips (2nd)** message
 
-  **2nd** invisibility, summon animal
+  **2nd** invisibility (at will), summon animal
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
   **5th** dimension door
 

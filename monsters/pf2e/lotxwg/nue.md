@@ -5,9 +5,11 @@ large, beast
 
 ---
 
-**Perception** +21
+**Perception** +21; {@ability darkvision}
 
 **Languages** tien
+
+**Skills** Acrobatics +20, Athletics +22, Deception +18, Intimidation +18, Occultism +18, Survival +17
 
 **STR** +7, **DEX** +6, **CON** +4, **INT** +1, **WIS** +3, **CHA** +4
 
@@ -29,11 +31,11 @@ large, beast
 
 Speed 40 feet
 
-**Melee** jaws +24 (finesse, reach <10 feet>); **Damage** 3d10+7 piercing
+**Melee** ◆ jaws +24 (finesse, reach <10 feet>); **Damage** 3d10+7 piercing
 
-**Melee** claw +24 (agile, disarm, finesse, reach <10 feet>); **Damage** 3d8+7 slashing
+**Melee** ◆ claw +24 (agile, disarm, finesse, reach <10 feet>); **Damage** 3d8+7 slashing
 
-**Melee** tail +24 (agile, finesse, reach <15 feet>); **Damage** 3d4+7 piercing plus 2d4 poison
+**Melee** ◆ tail +24 (agile, finesse, reach <15 feet>); **Damage** 3d4+7 piercing plus 2d4 poison
 
 **Cloud Form** ◆ (concentrate, polymorph) The nue changes its shape into that of a dark storm cloud. In Cloud Form, the nue is concealed, gains a 60-foot fly Speed, gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise, and can't make attacks, though it can use its howl abilities. The nue can Dismiss this effect.
 

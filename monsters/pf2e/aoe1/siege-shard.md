@@ -5,7 +5,9 @@ uncommon, n, tiny, construct
 
 ---
 
-**Perception** +9
+**Perception** +9; darkvision
+
+**Skills** Athletics +9, Stealth +10
 
 **STR** +2, **DEX** +3, **CON** +2, **INT** -4, **WIS** +2, **CHA** -4
 
@@ -29,13 +31,13 @@ uncommon, n, tiny, construct
 
 Speed fly 25 feet
 
-**Melee** slam +11; **Damage** 1d8+4 bludgeoning
+**Melee** ◆ slam +11; **Damage** 1d8+4 bludgeoning
 
 **Innate occult Spells** (DC 20), attack +12
 
   **2nd** telekinetic maneuver
 
-  **3rd** meld into stone
+  **3rd** meld into stone (at will)
 
 **Cantrips** (2nd) mage hand, telekinetic projectile.
 

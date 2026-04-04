@@ -5,9 +5,11 @@ uncommon, cn, tiny, anugobu, humanoid
 
 ---
 
-**Perception** +12
+**Perception** +12; low-light vision
 
 **Languages** anugobu, common, sylvan, terran
+
+**Skills** Acrobatics +10, Athletics +6, Crafting +13, Diplomacy +8, Stealth +10, Survival +7
 
 **STR** -1, **DEX** +3, **CON** +1, **INT** +4, **WIS** +0, **CHA** +3
 
@@ -23,23 +25,23 @@ uncommon, cn, tiny, anugobu, humanoid
 
 ---
 
-Speed 20 feet
+Speed 20 feet, stone step
 
-**Melee** hammer +8 (agile); **Damage** 1d8+2 bludgeoning
+**Melee** ◆ hammer +8 (agile); **Damage** 1d8+2 bludgeoning
 
-**Melee** chisel +8 (agile, parry, versatile <B>); **Damage** 1d6+2 piercing
+**Melee** ◆ chisel +8 (agile, parry, versatile <B>); **Damage** 1d6+2 piercing
 
-**Melee** foot +10 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+4 bludgeoning
+**Melee** ◆ foot +10 (agile, finesse, nonlethal, unarmed); **Damage** 1d4+4 bludgeoning
 
-**Melee** hammer +12 (agile, thrown <20 feet>); **Damage** 1d8+2 bludgeoning
+**Ranged** ◆ hammer +12 (agile, thrown <20 feet>); **Damage** 1d8+2 bludgeoning
 
 **Innate occult Spells** (DC 20), attack +12
 
   **Cantrips (2nd)** prestidigitation, telekinetic projectile
 
-  **1st** create water, floating disk, unseen servant
+  **1st** create water, floating disk, unseen servant (at will)
 
-  **2nd** dispel magic, mending
+  **2nd** dispel magic, mending (at will)
 
 **Planar Workshop** An anugobu is intrinsically connected to small, pocket dimension that they typically refer to as their workshop. The workshop is an extradimensional 10-foot cube. The workshop holds an anugobu's collected tools and materials. An anugobu can enter or leave their planar workshop as an action, which has the concentrate and manipulate traits. The anugobu gains resistance 5 to all damage (except force) and concealment while within the workshop. The workshop is only visible while the anugobu is inside it.
 

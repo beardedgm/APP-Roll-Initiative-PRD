@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Deception +15, Diplomacy +13, Intimidation +15, Society +12, Stealth +14, Thievery +12, Local Court Lore +16
+
 **STR** +0, **DEX** +4, **CON** +1, **INT** +2, **WIS** +4, **CHA** +4
 
 **Items** dagger (4), disguise kit, fine clothes, leather armor, +1 rapier, thieves' tools
@@ -27,9 +29,9 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** rapier +16 (deadly <1d8>, disarm, finesse, magical); **Damage** 1d6+7 piercing
+**Melee** ◆ rapier +16 (deadly <1d8>, disarm, finesse, magical); **Damage** 1d6+7 piercing
 
-**Melee** dagger +14 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
+**Melee** ◆ dagger +14 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
 
 **Hidden Blade** ◆ **Frequency** {"unit":"round","number":1}; The spy draws a weapon and then Strikes with it. The target of the Strike is flat-footed against the attack.
 

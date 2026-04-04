@@ -5,9 +5,11 @@ unique, cn, medium, ganzi, humanoid
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, entropy sense 60 feet (imprecise)
 
 **Languages** abyssal, aklo, celestial, common, daemonic, draconic, protean
+
+**Skills** Acrobatics +28, Arcana +34, Deception +35, Diplomacy +33, Occultism +32, Society +32, Stealth +30, Maelstrom Lore +34
 
 **STR** +0, **DEX** +4, **CON** +2, **INT** +6, **WIS** +1, **CHA** +7
 
@@ -31,9 +33,9 @@ unique, cn, medium, ganzi, humanoid
 
 ---
 
-Speed 30 feet
+Speed 30 feet, freedom of movement
 
-**Melee** dagger +30 (agile, chaotic, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 3d4+12 piercing plus 1d6 chaotic (plus warpwave on critical hit)
+**Melee** ◆ dagger +30 (agile, chaotic, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 3d4+12 piercing plus 1d6 chaotic (plus warpwave on critical hit)
 
 **Spontaneous arcane Spells** (DC 39), attack +33
 
@@ -58,6 +60,8 @@ Speed 30 feet
   **9th (2 slots)** disjunction, shapechange
 
 **Innate divine Spells** (DC 39)
+
+  **Constant (4th)** freedom of movement
 
 **Dimensional Slide** ◆ (arcane, move, teleport) **Frequency** {"unit":"day","number":2}; Il'setsya steps through a transient hole in space, instantly teleporting to a space within 60 feet that she can see.
 

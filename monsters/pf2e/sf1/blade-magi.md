@@ -9,6 +9,8 @@ uncommon, le, medium, human, humanoid
 
 **Languages** common, draconic, thassilonian
 
+**Skills** Arcana +23, Athletics +22, Society +21, Survival +20
+
 **STR** +5, **DEX** +2, **CON** +2, **INT** +4, **WIS** +3, **CHA** +0
 
 **Items** steel-colored bird feather token, +1 striking halberd, moderate healing potion, +1 scale mail, spellbook (contains all prepared spells)
@@ -29,7 +31,7 @@ uncommon, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** halberd +23 (magical, reach, versatile <S>); **Damage** 2d10+11 piercing
+**Melee** ◆ halberd +23 (magical, reach, versatile <S>); **Damage** 2d10+11 piercing
 
 **Prepared arcane Spells** (DC 30), attack +22
 

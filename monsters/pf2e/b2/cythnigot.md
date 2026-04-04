@@ -5,9 +5,11 @@ uncommon, ce, tiny, fiend, qlippoth
 
 ---
 
-**Perception** +5
+**Perception** +5; darkvision
 
-**Languages** abyssal
+**Languages** abyssal; telepathy (touch only)
+
+**Skills** Acrobatics +6, Occultism +7, Stealth +6
 
 **STR** +1, **DEX** +3, **CON** +4, **INT** +2, **WIS** +2, **CHA** +1
 
@@ -27,7 +29,7 @@ uncommon, ce, tiny, fiend, qlippoth
 
 Speed 30 feet, fly 40 feet
 
-**Melee** bite +8 (agile, chaotic, finesse, magical); **Damage** 1d10+1 piercing plus 1d4 chaotic and tangle spores plus tangle spores
+**Melee** ◆ bite +8 (agile, chaotic, finesse, magical); **Damage** 1d10+1 piercing plus 1d4 chaotic and tangle spores plus tangle spores
 
 **Innate occult Spells** (DC 17)
 
@@ -35,7 +37,7 @@ Speed 30 feet, fly 40 feet
 
   **1st** phantom pain
 
-  **2nd** detect alignment, paranoia
+  **2nd** detect alignment (at will), paranoia
 
   **4th** read omens
 

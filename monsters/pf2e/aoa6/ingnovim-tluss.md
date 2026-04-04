@@ -9,6 +9,8 @@ unique, le, medium, human, humanoid
 
 **Languages** common, draconic
 
+**Skills** Athletics +36, Crafting +39, Deception +32, Intimidation +32, Medicine +38, Society +36
+
 **STR** +8, **DEX** +6, **CON** +9, **INT** +10, **WIS** +5, **CHA** +2
 
 **Items** alchemist's tools, +2 greater resilient chain shirt, +2 greater striking dagger, formula book (contains formulas for all common alchemical items of 19th level or lower), syringe filled with unstable mutagen (4)
@@ -29,11 +31,11 @@ unique, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +29 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 4d4+10 piercing
+**Melee** ◆ dagger +29 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 4d4+10 piercing
 
-**Melee** syringe +34 (agile); **Damage** 2d8+10 piercing
+**Melee** ◆ syringe +34 (agile); **Damage** 2d8+10 piercing
 
-**Melee** bomb +36 (range increment <20 feet>, splash); plus varies by bomb
+**Ranged** ◆ bomb +36 (range increment <20 feet>, splash); plus varies by bomb
 
 **Inject Unstable Mutagen** ◇ (alchemical, mutagen, polymorph) **Trigger** Ingnovim damages a creature with a syringe Strike; The creature injected with unstable mutagen must attempt a DC 41 Fortitude save to resist the injection. **Critical Success** The target is unaffected.
 **Success** The target is sickened|CRB|sickened 2.

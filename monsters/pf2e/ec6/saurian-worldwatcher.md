@@ -5,9 +5,11 @@ uncommon, ne, huge, dinosaur, humanoid
 
 ---
 
-**Perception** +34
+**Perception** +34; darkvision
 
-**Languages** common, ignan, sylvan
+**Languages** common, ignan, sylvan; speak with animals
+
+**Skills** Acrobatics +35, Athletics +33, Diplomacy +32, Intimidation +32, Nature +34, Stealth +35, Survival +34
 
 **STR** +7, **DEX** +9, **CON** +6, **INT** +5, **WIS** +8, **CHA** +6
 
@@ -29,21 +31,23 @@ uncommon, ne, huge, dinosaur, humanoid
 
 Speed 40 feet
 
-**Melee** naginata +35 (deadly <d8>, magical, reach <20 feet>, versatile <P>); **Damage** 3d8+19 slashing plus stunning blow plus stunning blow
+**Melee** ◆ naginata +35 (deadly <d8>, magical, reach <20 feet>, versatile <P>); **Damage** 3d8+19 slashing plus stunning blow plus stunning blow
 
-**Melee** jaws +33 (deadly <d12>, magical, reach <15 feet>); **Damage** 3d10+17 piercing
+**Melee** ◆ jaws +33 (deadly <d12>, magical, reach <15 feet>); **Damage** 3d10+17 piercing
 
-**Melee** fist +35 (agile, finesse, magical, reach <10 feet>); **Damage** 4d10+19 bludgeoning plus stunning blow plus stunning blow
+**Melee** ◆ fist +35 (agile, finesse, magical, reach <10 feet>); **Damage** 4d10+19 bludgeoning plus stunning blow plus stunning blow
 
-**Melee** tail +35 (agile, finesse, magical, reach <10 feet>, trip); **Damage** 3d6+19 bludgeoning
+**Melee** ◆ tail +35 (agile, finesse, magical, reach <10 feet>, trip); **Damage** 3d6+19 bludgeoning
 
-**Melee** javelin +35 (thrown <30 feet>); **Damage** 1d6+19 piercing
+**Ranged** ◆ javelin +35 (thrown <30 feet>); **Damage** 1d6+19 piercing
 
 **Innate primal Spells** (DC 40)
 
+  **Constant (2nd)** speak with animals
+
   **2nd** animal messenger
 
-  **3rd** animal vision
+  **3rd** animal vision (at will)
 
   **4th** air walk
 

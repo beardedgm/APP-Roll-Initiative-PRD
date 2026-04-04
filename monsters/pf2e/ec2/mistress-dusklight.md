@@ -5,9 +5,11 @@ unique, ce, medium, catfolk, humanoid
 
 ---
 
-**Perception** +19
+**Perception** +19; low-light vision
 
 **Languages** amurrun, celestial, common, draconic
+
+**Skills** Acrobatics +21, Arcana +19, Deception +24, Diplomacy +22, Intimidation +24, Occultism +19, Performance +26, Society +19, Stealth +21, Thievery +21, Circus Lore +19
 
 **STR** +0, **DEX** +5, **CON** +1, **INT** +3, **WIS** +2, **CHA** +7
 
@@ -27,9 +29,9 @@ unique, ce, medium, catfolk, humanoid
 
 Speed 30 feet
 
-**Melee** whip of compliance +23 (finesse, reach <10 feet>, trip); **Damage** 2d4+12 slashing
+**Melee** ◆ whip of compliance +23 (finesse, reach <10 feet>, trip); **Damage** 2d4+12 slashing
 
-**Melee** dagger +22 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
+**Melee** ◆ dagger +22 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+5 piercing
 
 **Spontaneous occult Spells** (DC 30), attack +24
 

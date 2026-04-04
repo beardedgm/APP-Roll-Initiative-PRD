@@ -5,9 +5,11 @@ n, small, fungus, leshy
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
 
-**Languages** common, druidic, sylvan
+**Languages** common, druidic, sylvan; speak with plants (fungi only)
+
+**Skills** Athletics +6, Nature +6, Stealth +8
 
 **STR** +2, **DEX** +4, **CON** +2, **INT** -1, **WIS** +2, **CHA** +0
 
@@ -25,9 +27,9 @@ n, small, fungus, leshy
 
 Speed 25 feet
 
-**Melee** fist +10 (agile, finesse); **Damage** 1d6+2 bludgeoning
+**Melee** ◆ fist +10 (agile, finesse); **Damage** 1d6+2 bludgeoning
 
-**Melee** spore pod +10 (range increment <30 feet>); **Damage** 1d6+2 bludgeoning plus spores plus spores
+**Ranged** ◆ spore pod +10 (range increment <30 feet>); **Damage** 1d6+2 bludgeoning plus spores plus spores
 
 **Innate primal Spells** (DC 16)
 

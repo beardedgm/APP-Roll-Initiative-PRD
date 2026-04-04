@@ -9,6 +9,8 @@ unique, cg, small, halfling, humanoid
 
 **Languages** common, elven, infernal, halfling
 
+**Skills** Acrobatics +22, Athletics +19, Deception +20, Diplomacy +18, Society +22, Stealth +22, Thievery +20
+
 **STR** +2, **DEX** +5, **CON** +1, **INT** +1, **WIS** +4, **CHA** +3
 
 **Items** dagger (2), +1 leather armor, Nolly's hoe (+1 anarchic striking halfling sling staff; 10 bullets), infiltrator thieves' tools
@@ -27,13 +29,13 @@ unique, cg, small, halfling, humanoid
 
 ---
 
-Speed 25 feet
+Speed 25 feet, quick movements
 
-**Melee** dagger +22 (agile, finesse, versatile <S>); **Damage** 1d4+8 piercing
+**Melee** ◆ dagger +22 (agile, finesse, versatile <S>); **Damage** 1d4+8 piercing
 
-**Melee** Nolly's hoe +23 (magical, propulsive, range increment <80 feet>, reload <1>); **Damage** 2d10+7 bludgeoning plus 1d6 chaotic
+**Ranged** ◆ Nolly's hoe +23 (magical, propulsive, range increment <80 feet>, reload <1>); **Damage** 2d10+7 bludgeoning plus 1d6 chaotic
 
-**Melee** dagger +22 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
+**Ranged** ◆ dagger +22 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
 
 **Designate Bellflower Crop** ◆◆◆ Nolly designates an ally within 30 feet as a member of her Bellflower crop. Nolly can have up to 10 members in her crop at once; any member added in excess of this number automatically removes a crop member of Nolly's choice. When Nolly or a member of her crop Aids a crop member and rolls a success, they get a critical success to Aid instead. When a crop member within 60 feet of Nolly fails a saving throw against an effect that would impose the confused or paralyzed condition, the crop member can use a reaction to reroll the saving throw and use the better of the two results. This is a fortune effect.
 

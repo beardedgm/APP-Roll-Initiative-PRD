@@ -5,7 +5,9 @@ n, tiny, animal, aquatic
 
 ---
 
-**Perception** +4
+**Perception** +4; low-light vision
+
+**Skills** Acrobatics +2, Athletics +4
 
 **STR** +2, **DEX** +0, **CON** +2, **INT** -5, **WIS** +1, **CHA** -2
 
@@ -23,7 +25,7 @@ n, tiny, animal, aquatic
 
 Speed swim 15 feet
 
-**Melee** bite +6; **Damage** 1d6+1 piercing plus pufferfish venom plus pufferfish venom
+**Melee** ◆ bite +6; **Damage** 1d6+1 piercing plus pufferfish venom plus pufferfish venom
 
 **Inflating Rush** ◆◆ The pufferfish Swims up to its Speed and then inflates. Each creature within 5 feet of its space at the end of its movement must succeed at a DC 13 Reflex save or take 1 piercing damage and be exposed to pufferfish venom.
 

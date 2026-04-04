@@ -5,9 +5,11 @@ rare, ce, gargantuan, demon, fiend, troop
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Athletics +25, Intimidation +25
 
 **STR** +6, **DEX** +4, **CON** +5, **INT** +0, **WIS** +4, **CHA** +4
 

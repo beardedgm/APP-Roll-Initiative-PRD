@@ -5,9 +5,11 @@ uncommon, cg, large, amphibious, dragon, water
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, wavesense 60 feet (imprecise)
 
 **Languages** aquan, common, draconic
+
+**Skills** Acrobatics +16, Arcana +14, Athletics +19, Deception +14, Intimidation +16, Nature +15, Society +14, Stealth +16, Survival +13
 
 **STR** +5, **DEX** +4, **CON** +3, **INT** +2, **WIS** +3, **CHA** +2
 
@@ -31,17 +33,19 @@ uncommon, cg, large, amphibious, dragon, water
 
 ---
 
-Speed 30 feet, fly 100 feet, swim 50 feet
+Speed 30 feet, fly 100 feet, swim 50 feet, water walk
 
-**Melee** jaws +20 (reach <10 feet>); **Damage** 2d10+11 piercing plus hyponatremia (page 78) plus hyponatremia (page 78)
+**Melee** ◆ jaws +20 (reach <10 feet>); **Damage** 2d10+11 piercing plus hyponatremia (page 78) plus hyponatremia (page 78)
 
-**Melee** claw +20 (agile); **Damage** 2d8+11 slashing plus Grab plus Grab
+**Melee** ◆ claw +20 (agile); **Damage** 2d8+11 slashing plus Grab plus Grab
 
-**Melee** tail +20 (reach <20 feet>); **Damage** 2d8+11 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +20 (reach <20 feet>); **Damage** 2d8+11 bludgeoning plus Grab plus Grab
 
 **Innate arcane Spells** (DC 26)
 
-  **1st** create water
+  **Constant (2nd)** water walk
+
+  **1st** create water (at will)
 
   **2nd** endure elements
 

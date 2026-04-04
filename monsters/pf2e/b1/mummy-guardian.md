@@ -5,9 +5,11 @@ le, medium, mummy, undead
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
 **Languages** necril
+
+**Skills** Athletics +15, Stealth +11
 
 **STR** +4, **DEX** +0, **CON** +2, **INT** -2, **WIS** +4, **CHA** +2
 
@@ -29,6 +31,6 @@ le, medium, mummy, undead
 
 Speed 20 feet
 
-**Melee** fist +16; **Damage** 2d6+7 bludgeoning plus mummy rot plus mummy rot
+**Melee** ◆ fist +16; **Damage** 2d6+7 bludgeoning plus mummy rot plus mummy rot
 
 **Mummy Rot** (curse, disease, divine, necromancy, negative)

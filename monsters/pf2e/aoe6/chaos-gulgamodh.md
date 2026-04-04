@@ -5,7 +5,9 @@ unique, cn, gargantuan, construct, mindless
 
 ---
 
-**Perception** +35
+**Perception** +35; darkvision
+
+**Skills** Athletics +40
 
 **STR** +11, **DEX** +0, **CON** +10, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -25,13 +27,13 @@ unique, cn, gargantuan, construct, mindless
 
 Speed 40 feet
 
-**Melee** massive scythe +38 (deadly <4d10>, magical, reach <25 feet>, trip); **Damage** 4d10+19 slashing
+**Melee** ◆ massive scythe +38 (deadly <4d10>, magical, reach <25 feet>, trip); **Damage** 4d10+19 slashing
 
-**Melee** cannon arm +38 (chaotic, magical, reach <20 feet>); **Damage** 4d10+19 bludgeoning plus 1d6 chaotic and 1d6 fire
+**Melee** ◆ cannon arm +38 (chaotic, magical, reach <20 feet>); **Damage** 4d10+19 bludgeoning plus 1d6 chaotic and 1d6 fire
 
-**Melee** foot +40 (chaotic, magical, reach <20 feet>); **Damage** 4d8+19 bludgeoning plus 1d6 chaotic and Knockdown plus Knockdown
+**Melee** ◆ foot +40 (chaotic, magical, reach <20 feet>); **Damage** 4d8+19 bludgeoning plus 1d6 chaotic and Knockdown plus Knockdown
 
-**Melee** arcane cannon +29 (chaotic, magical, range <60 feet>); **Damage** 6d8+12 fire plus 1d6 chaotic and warpwave (page 81) plus warpwave (page 81)
+**Ranged** ◆ arcane cannon +29 (chaotic, magical, range <60 feet>); **Damage** 6d8+12 fire plus 1d6 chaotic and warpwave (page 81) plus warpwave (page 81)
 
 **Adamantine Strikes Chaos** Gulgamodh's body—including the appendages it uses to make melee Strikes—is made of adamantine.
 

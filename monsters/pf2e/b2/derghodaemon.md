@@ -5,9 +5,11 @@ ne, large, daemon, fiend
 
 ---
 
-**Perception** +24
+**Perception** +24; darkvision, scent 60 feet (imprecise)
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy 100 feet
+
+**Skills** Acrobatics +22, Athletics +25, Intimidation +24, Stealth +24
 
 **STR** +7, **DEX** +6, **CON** +5, **INT** +1, **WIS** +6, **CHA** +6
 
@@ -25,19 +27,19 @@ ne, large, daemon, fiend
 
 Speed 35 feet
 
-**Melee** claw +25 (deadly <1d12>, evil, magical, reach <10 feet>); **Damage** 3d8+10 slashing plus 1d6 evil
+**Melee** ◆ claw +25 (deadly <1d12>, evil, magical, reach <10 feet>); **Damage** 3d8+10 slashing plus 1d6 evil
 
-**Melee** swarm spit +25 (evil, magical, range <60 feet>); **Damage** 2d6+13 piercing plus 1d6 evil
+**Ranged** ◆ swarm spit +25 (evil, magical, range <60 feet>); **Damage** 2d6+13 piercing plus 1d6 evil
 
 **Innate divine Spells** (DC 32)
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
   **5th** dimension door
 
-  **6th** blade barrier, feeblemind
+  **6th** blade barrier, feeblemind (×3)
 
 **Derghodaemon's Stare** ◆ (divine, emotion, enchantment, incapacitation, mental, visual) A non-evil target must succeed at a DC 32 Will save or become confused for 1 round, or 1 minute on a critical failure. It is temporarily immune for 10 minutes.
 

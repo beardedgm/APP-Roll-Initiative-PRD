@@ -5,7 +5,9 @@ n, small, animal
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +5, Athletics +4, Stealth +5, Survival +4
 
 **STR** +1, **DEX** +2, **CON** +2, **INT** -4, **WIS** +1, **CHA** -1
 
@@ -21,6 +23,6 @@ n, small, animal
 
 Speed 30 feet
 
-**Melee** jaws +6; **Damage** 1d4+1 piercing
+**Melee** ◆ jaws +6; **Damage** 1d4+1 piercing
 
 **Pack Attack** The dog's Strikes deal 1d4 extra damage to creatures within the reach of at least two of the dog's allies.

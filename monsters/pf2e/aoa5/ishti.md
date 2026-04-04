@@ -5,11 +5,13 @@ unique, ce, large, beast
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision
+
+**Skills** Athletics +33, Crafting +31, Deception +32, Intimidation +30, Occultism +29, Stealth +33
 
 **STR** +9, **DEX** +7, **CON** +3, **INT** +3, **WIS** +3, **CHA** +6
 
-**Items** +2 corrosive greater striking dagger, {@item nightmare salt|TV|nightmare salt poison} (2), {@item oblivion essence|AoA5|oblivion essence poison}, {@item weeping midnight|AoA5|weeping midnight poison} (3)
+**Items** +2 corrosive greater striking dagger, nightmare salt|TV|nightmare salt poison (2), oblivion essence|AoA5|oblivion essence poison, weeping midnight|AoA5|weeping midnight poison (3)
 
 ---
 
@@ -27,15 +29,17 @@ unique, ce, large, beast
 
 Speed 40 feet, fly 40 feet, swim 40 feet, climb 40 feet
 
-**Melee** corrosive dagger +37 (agile, magical, versatile <S>); **Damage** 3d4+17 piercing plus 1d6 acid
+**Melee** ◆ corrosive dagger +37 (agile, magical, versatile <S>); **Damage** 3d4+17 piercing plus 1d6 acid
 
 **Innate occult Spells** (DC 40)
 
-  **6th** illusory disguise, illusory object, mirror image, ventriloquism
+  **Constant (4th)** fly
+
+  **6th** illusory disguise (at will), illusory object (at will), mirror image, ventriloquism (at will)
 
   **8th** sleep
 
-  **9th** charm, nondetection, suggestion
+  **9th** charm (×3), nondetection, suggestion (×3)
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The lamia matriarch can take on the appearance of a Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it does prevent them from using their cursed touch. Each lamia matriarch has a fixed humanoid form—they cannot adopt a different appearance each time they use this ability, and the appearance resembles that of their upper torso when in their true form.
 

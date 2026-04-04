@@ -5,9 +5,11 @@ uncommon, cn, medium, beast
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, detect magic, scent 30 feet (imprecise)
 
 **Languages** common, sylvan
+
+**Skills** Acrobatics +17, Arcana +16, Nature +15, Stealth +17, Survival +15
 
 **STR** +4, **DEX** +4, **CON** +3, **INT** +3, **WIS** +4, **CHA** +5
 
@@ -41,13 +43,15 @@ uncommon, cn, medium, beast
 
 Speed 35 feet
 
-**Melee** jaws +17 (magical); **Damage** 2d10+7 piercing plus Grab plus Grab
+**Melee** ◆ jaws +17 (magical); **Damage** 2d10+7 piercing plus Grab plus Grab
 
-**Melee** claw +17 (agile, magical); **Damage** 2d8+7 slashing
+**Melee** ◆ claw +17 (agile, magical); **Damage** 2d8+7 slashing
 
 **Innate arcane Spells** (DC 26)
 
-  **4th** dimension door, dispel magic, globe of invulnerability
+  **Constant (4th)** detect magic
+
+  **4th** dimension door (×3), dispel magic (at will), globe of invulnerability
 
 **Dweomer Leap** ◆◆ (arcane, conjuration, teleportation) The dweomercat casts dimension door, then can make a melee Strike against one creature adjacent to it at the end of its teleport. If the dweomercat ends its teleport adjacent to a creature under an ongoing spell effect or who cast a spell since the dweomercat's last turn, this does not expend a casting of dimension door.
 

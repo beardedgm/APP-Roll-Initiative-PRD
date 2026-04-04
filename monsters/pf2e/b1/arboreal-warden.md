@@ -5,9 +5,11 @@ ng, large, plant
 
 ---
 
-**Perception** +11
+**Perception** +11; low-light vision
 
 **Languages** arboreal, common, sylvan
+
+**Skills** Athletics +13, Stealth +9
 
 **STR** +5, **DEX** +1, **CON** +3, **INT** +1, **WIS** +3, **CHA** +1
 
@@ -35,8 +37,8 @@ ng, large, plant
 
 Speed 25 feet
 
-**Melee** stone longsword +13 (reach <10 feet>); **Damage** 1d8+10 bludgeoning
+**Melee** ◆ stone longsword +13 (reach <10 feet>); **Damage** 1d8+10 bludgeoning
 
-**Melee** shield bash +13; **Damage** 1d6+10 bludgeoning
+**Melee** ◆ shield bash +13; **Damage** 1d6+10 bludgeoning
 
 **Shield Push** ◆◆ The arboreal warden Strides and then makes a shield bash Strike. If the attack hits, the target is pushed 10 feet.

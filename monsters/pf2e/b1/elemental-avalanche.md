@@ -5,9 +5,11 @@ n, huge, earth, elemental
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision, {@ability tremorsense} 90 feet (imprecise)
 
 **Languages** terran
+
+**Skills** Athletics +24, Stealth +14
 
 **STR** +7, **DEX** -1, **CON** +8, **INT** +0, **WIS** +3, **CHA** -1
 
@@ -29,11 +31,11 @@ n, huge, earth, elemental
 
 ---
 
-Speed 25 feet, burrow 25 feet
+Speed 25 feet, burrow 25 feet, earth glide
 
-**Melee** fist +24 (reach <20 feet>); **Damage** 2d12+11 bludgeoning
+**Melee** ◆ fist +24 (reach <20 feet>); **Damage** 2d12+11 bludgeoning
 
-**Melee** rock +24 (brutal, range increment <80 feet>); **Damage** 2d12+7 bludgeoning
+**Ranged** ◆ rock +24 (brutal, range increment <80 feet>); **Damage** 2d12+7 bludgeoning
 
 **Earth Glide** The elemental avalanche can Burrow through any earthen matter, including rock. When it does so, the elemental avalanche moves at its full burrow Speed, leaving no tunnels or signs of its passing.
 

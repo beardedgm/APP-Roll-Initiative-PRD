@@ -5,9 +5,11 @@ le, tiny, div, fiend
 
 ---
 
-**Perception** +7
+**Perception** +7; greater darkvision
 
-**Languages** common, daemonic
+**Languages** common, daemonic; telepathy (touch; page 306)
+
+**Skills** Acrobatics +7, Arcana +8, Deception +6, Religion +5, Stealth +7, Lore +10 (any one)
 
 **STR** +0, **DEX** +4, **CON** +1, **INT** +3, **WIS** +2, **CHA** +3
 
@@ -27,7 +29,7 @@ le, tiny, div, fiend
 
 Speed 15 feet, fly 30 feet
 
-**Melee** bite +9 (agile, evil, finesse, magic, poison); **Damage** 1d6 piercing plus 1 evil and doru venom plus doru venom
+**Melee** ◆ bite +9 (agile, evil, finesse, magic, poison); **Damage** 1d6 piercing plus 1 evil and doru venom plus doru venom
 
 **Innate divine Spells** (DC 17)
 
@@ -35,7 +37,7 @@ Speed 15 feet, fly 30 feet
 
   **1st** charm, illusory object
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
   **4th** read omens
 

@@ -5,7 +5,9 @@ n, medium, mindless, plant
 
 ---
 
-**Perception** +0
+**Perception** +0; low-light vision
+
+**Skills** Athletics +5
 
 **STR** +3, **DEX** -2, **CON** +2, **INT** -5, **WIS** +0, **CHA** -2
 
@@ -29,7 +31,7 @@ n, medium, mindless, plant
 
 Speed 25 feet
 
-**Melee** fist +7; **Damage** 1d4+3 bludgeoning plus Grab and pollen touch plus Grab, pollen touch
+**Melee** ◆ fist +7; **Damage** 1d4+3 bludgeoning plus Grab and pollen touch plus Grab, pollen touch
 
 **Limb Extension** ◇ **Trigger** The yellow musk thrall is reduced to 4 HP or fewer; Creeper tendrils tear through the thrall's limbs, causing its forearms to tear loose. The thrall's melee reach increases by 5 feet.
 

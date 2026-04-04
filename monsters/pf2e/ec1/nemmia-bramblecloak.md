@@ -5,9 +5,11 @@ unique, ne, small, halfling, humanoid
 
 ---
 
-**Perception** +9
+**Perception** +9; keen eyes
 
 **Languages** abyssal, common, druidic
+
+**Skills** Diplomacy +8, Nature +11, Religion +9, Stealth +8, Survival +11
 
 **STR** -1, **DEX** +3, **CON** +1, **INT** +1, **WIS** +4, **CHA** +1
 
@@ -27,17 +29,17 @@ unique, ne, small, halfling, humanoid
 
 Speed 20 feet
 
-**Melee** sickle +9 (agile, finesse, magical, trip); **Damage** 1d4+3 slashing
+**Melee** ◆ sickle +9 (agile, finesse, magical, trip); **Damage** 1d4+3 slashing
 
-**Melee** staff +5 (two-hand <d8>); **Damage** 1d4-1 bludgeoning
+**Melee** ◆ staff +5 (two-hand <d8>); **Damage** 1d4-1 bludgeoning
 
 **Innate primal Spells** (DC 19)
 
-  **1st** charm
+  **1st** charm (×3)
 
   **2nd** paranoia
 
-  **3rd** animal vision
+  **3rd** animal vision (at will)
 
 **Spontaneous primal Spells** (DC 21), attack +11
 

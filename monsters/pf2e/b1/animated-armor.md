@@ -5,7 +5,9 @@ n, medium, construct, mindless
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision
+
+**Skills** Athletics +9
 
 **STR** +3, **DEX** -3, **CON** +4, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -25,6 +27,6 @@ n, medium, construct, mindless
 
 Speed 20 feet
 
-**Melee** glaive +11 (deadly <1d8>, forceful, magical, reach <10 feet>); **Damage** 1d8+4 slashing
+**Melee** ◆ glaive +11 (deadly <1d8>, forceful, magical, reach <10 feet>); **Damage** 1d8+4 slashing
 
-**Melee** gauntlet +9 (agile, free-hand, magical); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ gauntlet +9 (agile, free-hand, magical); **Damage** 1d6+4 bludgeoning

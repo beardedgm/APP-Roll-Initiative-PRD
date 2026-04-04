@@ -9,6 +9,8 @@ ng, medium, human, humanoid
 
 **Languages** common, mwangi
 
+**Skills** Acrobatics +18, Arcana +23, Diplomacy +16, Intimidation +16, Magaambya Lore +23, Medicine +19, Nature +21, Survival +21
+
 **STR** +0, **DEX** +4, **CON** +3, **INT** +5, **WIS** +3, **CHA** +1
 
 **Items** +1 crossbow (20 bolts), +1 explorer's clothing, lesser healing potion, Magaambya mask, staff of abjuration
@@ -25,9 +27,9 @@ ng, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** staff of abjuration +16 (two-hand d8); **Damage** 1d4+2 bludgeoning
+**Melee** ◆ staff of abjuration +16 (two-hand d8); **Damage** 1d4+2 bludgeoning
 
-**Melee** crossbow +20 (range increment 120 feet, reload 1); **Damage** 1d8+2 piercing
+**Ranged** ◆ crossbow +20 (range increment 120 feet, reload 1); **Damage** 1d8+2 piercing
 
 **Prepared arcane Spells** (DC 30), attack +20
 

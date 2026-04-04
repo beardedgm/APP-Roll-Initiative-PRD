@@ -5,9 +5,11 @@ uncommon, n, large, beast, earth
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
 
 **Languages** common, dwarven, terran, undercommon
+
+**Skills** Athletics +14, Crafting +13, Deception +14, Diplomacy +12, Society +11, Stealth +14, Thievery +14, Jewelry Lore +18
 
 **STR** +4, **DEX** +4, **CON** +3, **INT** +1, **WIS** +3, **CHA** +4
 
@@ -25,11 +27,11 @@ uncommon, n, large, beast, earth
 
 Speed 30 feet, climb 10 feet
 
-**Melee** jaws +16; **Damage** 1d8+7 piercing plus 1d6 persistent acid and philanthropic bile plus philanthropic bile
+**Melee** ◆ jaws +16; **Damage** 1d8+7 piercing plus 1d6 persistent acid and philanthropic bile plus philanthropic bile
 
-**Melee** leg +16 (agile); **Damage** 1d10+7 bludgeoning
+**Melee** ◆ leg +16 (agile); **Damage** 1d10+7 bludgeoning
 
-**Melee** bile +16 (acid, range increment <30 feet>); **Damage** 2d8 acid plus 1d6 persistent acid and philanthropic bile plus philanthropic bile
+**Ranged** ◆ bile +16 (acid, range increment <30 feet>); **Damage** 2d8 acid plus 1d6 persistent acid and philanthropic bile plus philanthropic bile
 
 **Philanthropic Bile** Exposure to the bauble beast's magical stomach fluids enchants the mind. A creature critically hit by the beast's jaws or bile Strike is subject to a charitable urge|apg spell (DC 23).
 

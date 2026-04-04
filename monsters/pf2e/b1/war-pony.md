@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +5
+**Perception** +5; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +7, Athletics +7
 
 **STR** +4, **DEX** +4, **CON** +3, **INT** -4, **WIS** +2, **CHA** +0
 
@@ -23,6 +25,6 @@ n, medium, animal
 
 Speed 35 feet
 
-**Melee** hoof +7; **Damage** 1d4+4 bludgeoning
+**Melee** ◆ hoof +7; **Damage** 1d4+4 bludgeoning
 
 **Gallop** ◆◆ The riding pony Strides twice. It has a +10-foot circumstance bonus to its Speed during these Strides.

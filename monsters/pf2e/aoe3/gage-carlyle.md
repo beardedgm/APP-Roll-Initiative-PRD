@@ -9,6 +9,8 @@ unique, n, medium, human, humanoid
 
 **Languages** common, dwarven, elven, gnomish, halfling
 
+**Skills** Arcana +19, Deception +24, Diplomacy +22, Intimidation +20, Occultism +19, Performance +22, Society +23, Thievery +21
+
 **STR** +0, **DEX** +2, **CON** +1, **INT** +4, **WIS** +5, **CHA** +5
 
 **Items** apartment key, +2 greater striking dagger, +2 greater striking hand crossbow with 10 bolts, +2 leather armor, vault key
@@ -25,9 +27,9 @@ unique, n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +22 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 3d4+3 piercing
+**Melee** ◆ dagger +22 (agile, finesse, magical, thrown <10 feet>, versatile <S>); **Damage** 3d4+3 piercing
 
-**Melee** hand crossbow +22 (magical, range <60 feet>, reload <1>); **Damage** 3d6 piercing
+**Ranged** ◆ hand crossbow +22 (magical, range <60 feet>, reload <1>); **Damage** 3d6 piercing
 
 **Charming Liar** When Gage gets a critical success using the Lie action, the target's attitude toward him improves by one step, as though he'd succeeded at using Diplomacy to Make an Impression. This works only once per conversation, and if he critically succeeds against multiple targets using the same result, he chooses one creature's attitude to improve. To use this ability, Gage must be lying to impart seemingly important information, inflate his status, or ingratiate himself, which trivial or irrelevant lies can't achieve.
 

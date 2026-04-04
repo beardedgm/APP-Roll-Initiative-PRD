@@ -5,7 +5,9 @@ uncommon, n, medium, clockwork, construct, mindless
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
+
+**Skills** Athletics +7
 
 **STR** +4, **DEX** +2, **CON** +3, **INT** -5, **WIS** +3, **CHA** -5
 
@@ -25,7 +27,7 @@ uncommon, n, medium, clockwork, construct, mindless
 
 **Immunities** death effects, diseased, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 2
+**Resistances** physical 2 (except adamantine or orichalcum)
 
 **Weaknesses** electricity 2, orichalcum 2
 
@@ -35,9 +37,9 @@ uncommon, n, medium, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** fist +7 (agile, nonlethal, unarmed); **Damage** 1d4+4 bludgeoning plus Grab
+**Melee** ◆ fist +7 (agile, nonlethal, unarmed); **Damage** 1d4+4 bludgeoning plus Grab
 
-**Melee** javelin +5 (thrown <30 feet>); **Damage** 1d6+4 piercing
+**Ranged** ◆ javelin +5 (thrown <30 feet>); **Damage** 1d6+4 piercing
 
 **Hog-tie** ◆◆ **Requirements** The clockwork handler has a creature restrained; The clockwork handler cuts a length of rope from the supply in its chassis to tie up the restrained creature. The creature is restrained until it
 

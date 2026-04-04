@@ -5,9 +5,11 @@ uncommon, ln, medium, humanoid
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
-**Languages** common, draconic
+**Languages** common, draconic; tongues
+
+**Skills** Arcana +16, Deception +15, Diplomacy +15, Intimidation +15, Desert Lore +14, Notes one or more Lore skills related to a specific plane
 
 **STR** +3, **DEX** +3, **CON** +1, **INT** +4, **WIS** +3, **CHA** +5
 
@@ -29,21 +31,23 @@ uncommon, ln, medium, humanoid
 
 Speed 25 feet
 
-**Melee** ranseur +16 (disarm, magical, reach <10 feet>); **Damage** 1d10+6 piercing
+**Melee** ◆ ranseur +16 (disarm, magical, reach <10 feet>); **Damage** 1d10+6 piercing
 
-**Melee** fist +15 (agile, nonlethal); **Damage** 1d6+6 bludgeoning plus Grab plus Grab
+**Melee** ◆ fist +15 (agile, nonlethal); **Damage** 1d6+6 bludgeoning plus Grab plus Grab
 
 **Innate arcane Spells** (DC 23)
 
+  **Constant (5th)** tongues
+
   **Cantrips (3rd)** detect magic
 
-  **1st** floating disk, unseen servant
+  **1st** floating disk (at will), unseen servant (at will)
 
   **2nd** mirror image
 
   **3rd** dispel magic
 
-  **4th** resist energy, suggestion, resilient sphere
+  **4th** resist energy (×2), suggestion, resilient sphere
 
   **5th** dimension door
 

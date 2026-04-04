@@ -5,9 +5,11 @@ uncommon, le, medium, fiend, velstrac
 
 ---
 
-**Perception** +32
+**Perception** +32; greater darkvision, painsight, true seeing
 
-**Languages** common, infernal, shadowtongue
+**Languages** common, infernal, shadowtongue; telepathy 100 feet
+
+**Skills** Acrobatics +31, Athletics +35, Crafting +29, Deception +32, Intimidation +34, Medicine +32, Religion +30, Stealth +31, Survival +30, Torture Lore +31
 
 **STR** +9, **DEX** +6, **CON** +6, **INT** +5, **WIS** +6, **CHA** +6
 
@@ -37,17 +39,19 @@ uncommon, le, medium, fiend, velstrac
 
 Speed 25 feet
 
-**Melee** war flail +35 (disarm, sweep, trip); **Damage** 3d10+17 bludgeoning plus 2d6 persistent bleed
+**Melee** ◆ war flail +35 (disarm, sweep, trip); **Damage** 3d10+17 bludgeoning plus 2d6 persistent bleed
 
-**Melee** animated manacles +32 (magic, range increment <20 feet>); **Damage** 3d8+8 piercing plus 2d6 persistent bleed
+**Ranged** ◆ animated manacles +32 (magic, range increment <20 feet>); **Damage** 3d8+8 piercing plus 2d6 persistent bleed
 
 **Innate divine Spells** (DC 40)
+
+  **Constant (9th)** discern lies, true seeing
 
   **Cantrips (9th)** daze, sigil
 
   **8th** command, mind blank, mind probe, teleport
 
-  **9th** darkness, divine wrath, prying eye
+  **9th** darkness (at will), divine wrath, prying eye
 
 **Focus Gaze** ◆ (concentrate, divine, enchantment, fear, mental, visual) The vincuvicar stares at a creature they can see within 30 feet. The creature must attempt a Will save against the alone and forgotten aura. If the creature was already enfeebled and slowed, on a failed save, its hopelessness causes it to be enfeebled 2 and unable to take the Escape action as long as they remain enfeebled. After attempting this save, the creature is then temporarily immune until the start of the vincuvicar's next turn.
 

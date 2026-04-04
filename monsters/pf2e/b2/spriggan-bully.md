@@ -5,9 +5,11 @@ ce, small, gnome, humanoid, spriggan
 
 ---
 
-**Perception** +10
+**Perception** +10; low-light vision
 
 **Languages** aklo, common, gnome
+
+**Skills** Acrobatics +9, Athletics +8, Intimidation +10, Society +8, Stealth +11, Survival +10, Thievery +9
 
 **STR** +3, **DEX** +4, **CON** +2, **INT** +1, **WIS** +3, **CHA** +1
 
@@ -27,9 +29,9 @@ ce, small, gnome, humanoid, spriggan
 
 Speed 20 feet
 
-**Melee** morningstar +10 (versatile <P>); **Damage** 1d6+6 bludgeoning
+**Melee** ◆ morningstar +10 (versatile <P>); **Damage** 1d6+6 bludgeoning
 
-**Melee** crossbow +11 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
+**Ranged** ◆ crossbow +11 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
 
 **Innate primal Spells** (DC 20)
 

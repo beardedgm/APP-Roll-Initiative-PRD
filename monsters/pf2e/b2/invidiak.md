@@ -5,9 +5,11 @@ ce, medium, demon, fiend, incorporeal
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
-**Languages** abyssal, common
+**Languages** abyssal, common; telepathy 100 feet
+
+**Skills** Acrobatics +15, Deception +18, Religion +13, Society +15, Stealth +17
 
 **STR** -5, **DEX** +4, **CON** +3, **INT** +2, **WIS** +2, **CHA** +5
 
@@ -29,13 +31,13 @@ ce, medium, demon, fiend, incorporeal
 
 Speed fly 30 feet
 
-**Melee** claw +13 (agile, evil, finesse, magical); **Damage** 2d8 cold plus 2d6 evil
+**Melee** ◆ claw +13 (agile, evil, finesse, magical); **Damage** 2d8 cold plus 2d6 evil
 
 **Innate divine Spells** (DC 26)
 
   **3rd** fear
 
-  **4th** darkness, dimension door
+  **4th** darkness, dimension door (at will)
 
   **5th** dimension door, shadow blast
 

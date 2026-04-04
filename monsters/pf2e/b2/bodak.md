@@ -5,9 +5,11 @@ uncommon, ce, medium, undead
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision, lifesense 60 feet
 
 **Languages** abyssal, common
+
+**Skills** Acrobatics +18, Athletics +15, Intimidation +19, Stealth +18
 
 **STR** +3, **DEX** +4, **CON** +1, **INT** -2, **WIS** +5, **CHA** +5
 
@@ -31,7 +33,7 @@ uncommon, ce, medium, undead
 
 Speed 20 feet
 
-**Melee** fist +18 (agile, finesse); **Damage** 2d6+6 bludgeoning plus 1d6 negative
+**Melee** ◆ fist +18 (agile, finesse); **Damage** 2d6+6 bludgeoning plus 1d6 negative
 
 **Bodak Spawn** (necromancy, occult) Any humanoid who dies while drained or doomed by a bodak rises as an autonomous bodak 24 hours after its death.
 

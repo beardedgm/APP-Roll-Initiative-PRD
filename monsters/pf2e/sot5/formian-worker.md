@@ -5,9 +5,11 @@ ln, medium, formian
 
 ---
 
-**Perception** +6
+**Perception** +6; darkvision, scent 30 feet (precise)
 
-**Languages** akitonian, formian
+**Languages** akitonian, formian; telepathy 30 feet
+
+**Skills** Athletics +7, Survival +6
 
 **STR** +4, **DEX** +1, **CON** +3, **INT** +0, **WIS** +1, **CHA** +0
 
@@ -29,6 +31,6 @@ ln, medium, formian
 
 Speed 30 feet, burrow 5 feet
 
-**Melee** jaws +7; **Damage** 1d4+4 slashing
+**Melee** ◆ jaws +7; **Damage** 1d4+4 slashing
 
 **Heavy Lifter** Formian workers excel at heavy labor. A formian worker can carry 5 additional bulk beyond the normal limits for their Strength before becoming encumbered or overburdened.

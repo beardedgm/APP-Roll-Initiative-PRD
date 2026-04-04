@@ -5,9 +5,11 @@ uncommon, ce, medium, earth, undead
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, {@ability tremorsense} 60 feet (imprecise)
 
 **Languages** common, necril
+
+**Skills** Acrobatics +16, Athletics +18, Intimidation +15, Stealth +16
 
 **STR** +6, **DEX** +4, **CON** +3, **INT** +4, **WIS** +3, **CHA** +3
 
@@ -21,17 +23,17 @@ uncommon, ce, medium, earth, undead
 
 **Immunities** poison, death effects, disease, paralyzed, unconscious
 
-**Resistances** electricity 10, physical 10
+**Resistances** electricity 10, physical 10 (except bludgeoning)
 
 ---
 
-Speed 25 feet, burrow 15 feet
+Speed 25 feet, burrow 15 feet, earth glide
 
-**Melee** jaws +20 (agile); **Damage** 2d8+8 piercing plus wrathful misfortune plus wrathful misfortune
+**Melee** ◆ jaws +20 (agile); **Damage** 2d8+8 piercing plus wrathful misfortune plus wrathful misfortune
 
 **Innate primal Spells** (DC 26)
 
-  **4th** shape stone
+  **4th** shape stone (at will)
 
 **Break Ground** ◆◆ (arcane, earth, transmutation) The guecubu stomps, and the ground breaks and ripples in a 30-foot emanation, erupting in razor-sharp, crisscrossing spikes of rock that deal 3d8 piercing damage to creatures in the area (DC 26 basic Reflex save). The area becomes terrain and hazardous terrain, with each square dealing 3 piercing damage to a creature that moves through it. A guecubu is immune to these effects. Ground under the effects of a consecrate ritual or a circle of protection spell tuned against evil or chaos can't be affected by this ability.
 

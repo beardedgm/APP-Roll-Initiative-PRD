@@ -5,9 +5,11 @@ unique, le, medium, undead
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision
 
 **Languages** aklo, celestial, draconic, dwarven, necril, undercommon
+
+**Skills** Arcana +29, Crafting +25, Diplomacy +27, Intimidation +27, Religion +25, Society +23
 
 **STR** +6, **DEX** +5, **CON** +0, **INT** +7, **WIS** +5, **CHA** +7
 
@@ -23,7 +25,7 @@ unique, le, medium, undead
 
 **Immunities** death effects, disease, paralysis, poison, unconscious
 
-**Resistances** cold 10, physical 10
+**Resistances** cold 10, physical 10 (except magic bludgeoning)
 
 **Frightful Presence** (aura, emotion, fear, mental) 60 feet, DC 33
 
@@ -35,23 +37,23 @@ unique, le, medium, undead
 
 Speed 25 feet
 
-**Melee** thundering maul +28 (magical, shove); **Damage** 2d12+12 bludgeoning plus 1d6 sonic
+**Melee** ◆ thundering maul +28 (magical, shove); **Damage** 2d12+12 bludgeoning plus 1d6 sonic
 
 **Prepared arcane Spells** (DC 35), attack +27
 
   **Cantrips (7th)** detect magic, electric arc, mage hand, message, shield
 
-  **1st** fleet step, ray of enfeeblement, true strike
+  **1st** fleet step, ray of enfeeblement (×2), true strike
 
   **2nd** deafness, false life, mirror image, see invisibility
 
-  **3rd** blindness, magic missile, vampiric touch
+  **3rd** blindness, magic missile (×2), vampiric touch
 
   **4th** dimension door, fire shield, fly, freedom of movement
 
-  **5th** black tentacles, cloudkill, dispel magic
+  **5th** black tentacles (×2), cloudkill, dispel magic
 
-  **6th** disintegrate, vampiric exsanguination, wall of force
+  **6th** disintegrate (×2), vampiric exsanguination, wall of force
 
   **7th** duplicate foe, eclipse burst, reverse gravity
 

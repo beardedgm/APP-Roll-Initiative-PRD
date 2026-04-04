@@ -5,9 +5,11 @@ unique, ne, medium, aberration, time
 
 ---
 
-**Perception** +21
+**Perception** +21; greater darkvision, lamp vision 30 feet
 
-**Languages** aklo (can't speak any language)
+**Languages** aklo (can't speak any language); telepathy 300 feet
+
+**Skills** Acrobatics +22, Athletics +19, Occultism +22, Stealth +22, Survival +17
 
 **STR** +5, **DEX** +7, **CON** +3, **INT** +7, **WIS** +5, **CHA** +3
 
@@ -35,13 +37,13 @@ unique, ne, medium, aberration, time
 
 Speed 30 feet, fly 30 feet
 
-**Melee** jaws +22; **Damage** 2d10+11 piercing
+**Melee** ◆ jaws +22; **Damage** 2d10+11 piercing
 
-**Melee** claw +22 (agile); **Damage** 2d8+11 slashing
+**Melee** ◆ claw +22 (agile); **Damage** 2d8+11 slashing
 
 **Innate occult Spells** (DC 28)
 
-  **2nd** invisibility
+  **2nd** invisibility (at will)
 
   **3rd** agonizing despair, haste, slow
 

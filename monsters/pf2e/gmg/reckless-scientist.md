@@ -9,9 +9,11 @@ ne, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +12, Crafting +17, Deception +9, Medicine +10, Stealth +12, Engineering Lore +15, Underworld Lore +13
+
 **STR** +1, **DEX** +4, **CON** +5, **INT** +5, **WIS** +2, **CHA** -1
 
-**Items** alchemist's tools, moderate antidote, moderate antiplague, bandolier, {@runeItem sickle||+1 weapon potency|}, work coat (functions as {@item padded armor})
+**Items** alchemist's tools, moderate antidote, moderate antiplague, bandolier, , work coat (functions as padded armor)
 
 **Infused Items** A reckless scientist carries the following infused items: 2 moderate acid flasks, 2 moderate alchemist's fires, 1 lesser bomber's eye elixir, 2 moderate frost vials, and 3 lesser elixirs of life. These items last for 24 hours, or until the next time the scientist makes their daily preparations.
 
@@ -31,9 +33,9 @@ ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** sickle +17 (agile, finesse, magical, trip); **Damage** 1d4+7 slashing
+**Melee** ◆ sickle +17 (agile, finesse, magical, trip); **Damage** 1d4+7 slashing
 
-**Melee** alchemical bomb +16 (range increment <20 feet>, splash); plus varies by bomb
+**Ranged** ◆ alchemical bomb +16 (range increment <20 feet>, splash); plus varies by bomb
 
 **Quick Bomber** ◆ The reckless scientist Interacts to draw a bomb, then Strikes with it.
 

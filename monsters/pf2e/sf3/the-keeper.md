@@ -5,9 +5,11 @@ unique, ne, medium, fey
 
 ---
 
-**Perception** +36
+**Perception** +36; greater darkvision, true seeing
 
-**Languages** aklo, common, infernal, sylvan
+**Languages** aklo, common, infernal, sylvan; tongues
+
+**Skills** Acrobatics +37, Athletics +39, Deception +39, Heraldry Lore +34, Society +36, Stealth +35, Warfare Lore +36
 
 **STR** +8, **DEX** +6, **CON** +6, **INT** +5, **WIS** +5, **CHA** +8
 
@@ -35,17 +37,19 @@ unique, ne, medium, fey
 
 Speed 40 feet, fly 120 feet
 
-**Melee** greatsword +40 (magical, versatile <P>); **Damage** 4d12+16 slashing plus bloodbird
+**Melee** ◆ greatsword +40 (magical, versatile <P>); **Damage** 4d12+16 slashing plus bloodbird
 
-**Melee** jaws +37 (magical); **Damage** 4d6+16 piercing plus bloodbird
+**Melee** ◆ jaws +37 (magical); **Damage** 4d6+16 piercing plus bloodbird
 
-**Melee** talon +37 (agile, magical); **Damage** 4d6+16 slashing plus bloodbird
+**Melee** ◆ talon +37 (agile, magical); **Damage** 4d6+16 slashing plus bloodbird
 
 **Innate occult Spells** (DC 41)
 
-  **7th** outcast's curse, suggestion
+  **Constant (9th)** tongues, true seeing
 
-  **8th** crushing despair, modify memory
+  **7th** outcast's curse (at will), suggestion (at will)
+
+  **8th** crushing despair (at will), modify memory
 
   **9th** ethereal jaunt, suggestion
 

@@ -9,6 +9,8 @@ unique, ne, medium, humanoid, lizardfolk
 
 **Languages** common, draconic, iruxi
 
+**Skills** Acrobatics +12, Athletics +14, Thievery +12, Cooking Lore +10
+
 **STR** +4, **DEX** +4, **CON** +1, **INT** +0, **WIS** +3, **CHA** +0
 
 **Items** +1 greatclub, recipe books
@@ -25,13 +27,13 @@ unique, ne, medium, humanoid, lizardfolk
 
 Speed 25 feet, swim 15 feet
 
-**Melee** greatclub +17 (backswing, magical, shove); **Damage** 1d10+6 bludgeoning
+**Melee** ◆ greatclub +17 (backswing, magical, shove); **Damage** 1d10+6 bludgeoning
 
-**Melee** tail (agile) +16; **Damage** 1d8+6 bludgeoning
+**Melee** ◆ tail (agile) +16; **Damage** 1d8+6 bludgeoning
 
-**Melee** jaws +16; **Damage** 1d6+6 piercing
+**Melee** ◆ jaws +16; **Damage** 1d6+6 piercing
 
-**Melee** book +16 (range increment <10 feet>); **Damage** 1d4+6 bludgeoning
+**Ranged** ◆ book +16 (range increment <10 feet>); **Damage** 1d4+6 bludgeoning
 
 **Battering Tail** ◆◆ Loakan makes a greatclub Strike and two tail Strikes against the same creature. If the greatclub Strike hits, the target is flat-footed against both tail Strikes.
 

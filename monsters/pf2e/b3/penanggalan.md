@@ -5,9 +5,11 @@ ce, medium, aberration, tanggal
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** aklo, common
+
+**Skills** Deception +14, Intimidation +12, Stealth +14, Midwifery Lore +9
 
 **STR** +3, **DEX** +5, **CON** +2, **INT** +0, **WIS** +2, **CHA** +5
 
@@ -27,9 +29,9 @@ ce, medium, aberration, tanggal
 
 Speed fly 40 feet
 
-**Melee** proboscis tongue +14 (finesse); **Damage** 2d6+5 piercing plus penanggalan bile plus penanggalan bile
+**Melee** ◆ proboscis tongue +14 (finesse); **Damage** 2d6+5 piercing plus penanggalan bile plus penanggalan bile
 
-**Melee** entrails +14; **Damage** 2d4+5 bludgeoning plus Grab plus Grab
+**Melee** ◆ entrails +14; **Damage** 2d4+5 bludgeoning plus Grab plus Grab
 
 **Constrict** ◆ 2d4+3 bludgeoning, DC 21
 

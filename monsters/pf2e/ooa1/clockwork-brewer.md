@@ -5,7 +5,9 @@ uncommon, n, medium, clockwork, construct, mindless
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
+
+**Skills** Athletics +9, Brewing Lore +8
 
 **STR** +4, **DEX** +3, **CON** +1, **INT** -5, **WIS** +3, **CHA** +1
 
@@ -27,7 +29,7 @@ uncommon, n, medium, clockwork, construct, mindless
 
 **Immunities** death effects, diseased, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
 
-**Resistances** physical 3
+**Resistances** physical 3 (except adamantine or orichalcum)
 
 **Weaknesses** electricity 3, orichalcum 3
 
@@ -35,7 +37,7 @@ uncommon, n, medium, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** leg +9 (agile, unarmed); **Damage** 2d4+4 bludgeoning plus Grab
+**Melee** ◆ leg +9 (agile, unarmed); **Damage** 2d4+4 bludgeoning plus Grab
 
 **Bottoms Up** ◆ **Requirements** The clockwork brewer has a creature grappled; The clockwork brewer forcefeeds the grappled creature 1 serving of whatever liquid is in the clockwork brewer's tank (typically beer such as Smokeside Sour; see sidebar). The creature is exposed to the liquid's effects, and it can't breathe or speak until the start of its turn.
 

@@ -9,9 +9,11 @@ cn, medium, amphibious, azarketi, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +8, Athletics +7, Nature +5, Sailing Lore +6, Stealth +8, Survival +7
+
 **STR** +3, **DEX** +4, **CON** +2, **INT** +0, **WIS** +1, **CHA** +1
 
-**Items** {@item composite longbow} (20 {@item arrow (generic)||arrows}), {@item scimitar}, {@item studded leather}
+**Items** composite longbow (20 arrows), scimitar, studded leather
 
 ---
 
@@ -31,8 +33,8 @@ cn, medium, amphibious, azarketi, humanoid
 
 Speed 25 feet, swim 25 feet
 
-**Melee** scimitar +9 (forceful, sweep); **Damage** 1d6+5 slashing
+**Melee** ◆ scimitar +9 (forceful, sweep); **Damage** 1d6+5 slashing
 
-**Melee** composite longbow +10 (deadly <d10>, range increment <100 feet>, volley); **Damage** 1d8+1 piercing
+**Ranged** ◆ composite longbow +10 (deadly <d10>, range increment <100 feet>, volley); **Damage** 1d8+1 piercing
 
 **Swinging Strike** ◆◆ (move) **Requirements** The azarketi sailor is hanging from a rope or vine; The azarketi sailor swings a distance equal to up to twice their Speed, moving in a straight line, and makes a single Strike at any point during the movement.

@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +6
+**Perception** +6; low-light vision
+
+**Skills** Acrobatics +9, Athletics +10
 
 **STR** +4, **DEX** +3, **CON** +3, **INT** -4, **WIS** +0, **CHA** +0
 
@@ -21,9 +23,9 @@ n, large, animal
 
 Speed 50 feet
 
-**Melee** beak +10 (reach <10 feet>); **Damage** 1d8+4 piercing plus tearing clutch plus tearing clutch
+**Melee** ◆ beak +10 (reach <10 feet>); **Damage** 1d8+4 piercing plus tearing clutch plus tearing clutch
 
-**Melee** talon +10 (agile); **Damage** 1d6+4 piercing plus Knockdown (page 305) plus Knockdown
+**Melee** ◆ talon +10 (agile); **Damage** 1d6+4 piercing plus Knockdown (page 305) plus Knockdown
 
 **Sprint** ◆◆ **Frequency** {"unit":"minute","number":1}; The terror bird Strides three times in a straight line.
 

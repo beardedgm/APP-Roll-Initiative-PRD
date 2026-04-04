@@ -5,9 +5,11 @@ ne, medium, goblin, humanoid
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision, scent 30 feet (imprecise)
 
 **Languages** common, goblin
+
+**Skills** Acrobatics +8, Athletics +9, Intimidation +7, Stealth +8, Thievery +8
 
 **STR** +4, **DEX** +3, **CON** +2, **INT** -1, **WIS** +1, **CHA** +0
 
@@ -25,11 +27,11 @@ ne, medium, goblin, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +11 (agile, versatile <S>); **Damage** 1d4+6 piercing
+**Melee** ◆ dagger +11 (agile, versatile <S>); **Damage** 1d4+6 piercing
 
-**Melee** sickle +11 (agile, finesse, trip); **Damage** 1d4+6 slashing
+**Melee** ◆ sickle +11 (agile, finesse, trip); **Damage** 1d4+6 slashing
 
-**Melee** dagger +10 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
+**Ranged** ◆ dagger +10 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+6 piercing
 
 **Sneak Attack** The bugbear tormentor deals 1d6 extra precision damage to flatfooted creatures.
 

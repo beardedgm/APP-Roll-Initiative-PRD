@@ -5,7 +5,9 @@ n, medium, mindless, plant
 
 ---
 
-**Perception** +4
+**Perception** +4; {@ability tremorsense} 30 feet (imprecise)
+
+**Skills** Stealth +6
 
 **STR** +3, **DEX** +2, **CON** +4, **INT** -5, **WIS** +0, **CHA** -1
 
@@ -23,7 +25,7 @@ n, medium, mindless, plant
 
 Speed 5 feet
 
-**Melee** tendril +9 (reach <10 feet>); **Damage** 1d10+3 piercing
+**Melee** ◆ tendril +9 (reach <10 feet>); **Damage** 1d10+3 piercing
 
 **Bore into Brain** ◆◆◆ (manipulate, mental) The creeper bores dozens of tendrils into the brain of a Small, Medium, or Large humanoid creature that's unconscious, willing, or fascinated by Spray Pollen, and within reach of the creeper's tendrils. The creature must succeed at a DC 18 Fortitude save or become stupefied 1 (stupefied 2 on a critical failure). Subsequent failed saves against Bore into Brain increase the stupefied value. If the creature reaches stupefied 5, it is turned into a yellow musk thrall (see below). Boring into a creature's brain doesn't end fascination caused by Spray Pollen.
 

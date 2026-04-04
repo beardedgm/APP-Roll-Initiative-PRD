@@ -5,7 +5,9 @@ uncommon, n, small, clockwork, construct, mindless
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision
+
+**Skills** Athletics +12, Stealth +12
 
 **STR** +2, **DEX** +4, **CON** +1, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -21,7 +23,7 @@ uncommon, n, small, clockwork, construct, mindless
 
 **Immunities** death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poisoned, sickened, unconscious
 
-**Resistances** physical 5
+**Resistances** physical 5 (except adamantine or orichalcum)
 
 **Weaknesses** electricity 5, orichalcum 5
 
@@ -29,8 +31,8 @@ uncommon, n, small, clockwork, construct, mindless
 
 Speed 25 feet
 
-**Melee** gripper +15 (agile, finesse); **Damage** 2d8+4 bludgeoning
+**Melee** ◆ gripper +15 (agile, finesse); **Damage** 2d8+4 bludgeoning
 
-**Melee** spike +15 (agile, finesse); **Damage** 2d8+4 piercing
+**Melee** ◆ spike +15 (agile, finesse); **Damage** 2d8+4 piercing
 
 **Furnace Belch** ◆◆ (fire) The clockwork disposer coughs up a cloud of hot ash and embers that deals 6d6 fire damage in a 15-foot cone (DC 22 basic Reflex save). The clockwork disposer can't use Furnace Belch again for 1d4 rounds.

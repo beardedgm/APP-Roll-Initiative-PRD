@@ -5,7 +5,9 @@ n, gargantuan, mindless, ooze
 
 ---
 
-**Perception** +23
+**Perception** +23; motion sense 240 feet, no vision
+
+**Skills** Athletics +27
 
 **STR** +8, **DEX** -3, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -29,7 +31,7 @@ n, gargantuan, mindless, ooze
 
 Speed 20 feet, swim 20 feet, climb 20 feet
 
-**Melee** pseudopod +26 (reach <30 feet>); **Damage** 2d12+12 bludgeoning plus 2d6 acid and Grab plus Grab
+**Melee** ◆ pseudopod +26 (reach <30 feet>); **Damage** 2d12+12 bludgeoning plus 2d6 acid and Grab plus Grab
 
 **Carnivorous Blob Acid** A carnivorous blob's acid damages only flesh—not bone, stone, wood, or other materials—but is nonetheless devastating. Whenever a creature takes damage from this acid, it must succeed at a DC 33 Fortitude save or become drained 1 (drained 2 on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4.
 

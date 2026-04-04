@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +8, Deception +9, Diplomacy +9, Occultism +7, Performance +13, Society +7, Stealth +8, Theater Lore +9
+
 **STR** +0, **DEX** +3, **CON** +0, **INT** +2, **WIS** +1, **CHA** +4
 
 **Items** crossbow (10 bolts), leather armor, lute, poetry book, rapier
@@ -27,9 +29,9 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** rapier +12 (deadly <1d8>, disarm, finesse); **Damage** 1d6+3 piercing
+**Melee** ◆ rapier +12 (deadly <1d8>, disarm, finesse); **Damage** 1d6+3 piercing
 
-**Melee** crossbow +12 (range increment <120 feet>, reload <1>); **Damage** 1d8+3 piercing
+**Ranged** ◆ crossbow +12 (range increment <120 feet>, reload <1>); **Damage** 1d8+3 piercing
 
 **Spontaneous occult Spells** (DC 21)
 

@@ -5,9 +5,11 @@ unique, ne, medium, beast, human, humanoid, werecreature
 
 ---
 
-**Perception** +14
+**Perception** +14; low-light vision, scent 30 feet (imprecise)
 
-**Languages** common
+**Languages** common; wolf empathy
+
+**Skills** Acrobatics +12, Athletics +15, Deception +12, Survival +14
 
 **STR** +5, **DEX** +2, **CON** +0, **INT** -1, **WIS** +4, **CHA** +2
 
@@ -27,11 +29,11 @@ unique, ne, medium, beast, human, humanoid, werecreature
 
 Speed 25 feet
 
-**Melee** katar +17 (agile, deadly <d6>, magical, monk); **Damage** 2d4+7 piercing
+**Melee** ◆ katar +17 (agile, deadly <d6>, magical, monk); **Damage** 2d4+7 piercing
 
-**Melee** claw +16 (agile); **Damage** 2d6+7 slashing
+**Melee** ◆ claw +16 (agile); **Damage** 2d6+7 slashing
 
-**Melee** jaws +16; **Damage** 2d8+7 piercing plus curse of the werewolf plus curse of the werewolf
+**Melee** ◆ jaws +16; **Damage** 2d8+7 piercing plus curse of the werewolf plus curse of the werewolf
 
 **Prepared primal Spells** (DC 24), attack +15
 

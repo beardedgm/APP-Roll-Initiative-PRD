@@ -5,7 +5,9 @@ n, huge, construct, mindless
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
+
+**Skills** Athletics +22
 
 **STR** +7, **DEX** -2, **CON** +6, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -25,7 +27,7 @@ n, huge, construct, mindless
 
 Speed 15 feet
 
-**Melee** door +21 (magical); **Damage** 2d12+9 bludgeoning plus 1d8 fire and Improved Grab plus Improved
+**Melee** ◆ door +21 (magical); **Damage** 2d12+9 bludgeoning plus 1d8 fire and Improved Grab plus Improved
 
 **Fan the Flames** ◆◆ The animated furnace opens its door and fans its flames in a 30-foot cone that deals 5d6 fire damage (DC 28 basic Reflex save).
 

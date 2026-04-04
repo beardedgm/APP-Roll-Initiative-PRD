@@ -5,9 +5,11 @@ rare, ln, gargantuan, amphibious, dragon, elemental, water
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision, scent 60 feet (imprecise)
 
 **Languages** aquan, common, draconic, sylvan, utopian
+
+**Skills** Acrobatics +28, Athletics +32, Deception +32, Intimidation +34, Nature +30, Society +30, Survival +29
 
 **STR** +9, **DEX** +5, **CON** +6, **INT** +5, **WIS** +5, **CHA** +6
 
@@ -29,19 +31,19 @@ rare, ln, gargantuan, amphibious, dragon, elemental, water
 
 Speed 50 feet, fly 140 feet, swim 70 feet
 
-**Melee** jaws +34 (acid, magical, reach <20 feet>); **Damage** 3d10+17 piercing plus 5d4 acid
+**Melee** ◆ jaws +34 (acid, magical, reach <20 feet>); **Damage** 3d10+17 piercing plus 5d4 acid
 
-**Melee** claw +34 (agile, magical, reach <15 feet>); **Damage** 3d10+17 slashing
+**Melee** ◆ claw +34 (agile, magical, reach <15 feet>); **Damage** 3d10+17 slashing
 
-**Melee** tail +32 (magical, reach <25 feet>); **Damage** 3d12+17 bludgeoning
+**Melee** ◆ tail +32 (magical, reach <25 feet>); **Damage** 3d12+17 bludgeoning
 
-**Melee** wing +32 (magical, reach <20 feet>); **Damage** 2d12+17 piercing
+**Melee** ◆ wing +32 (magical, reach <20 feet>); **Damage** 2d12+17 piercing
 
 **Innate primal Spells** (DC 38), attack +30
 
-  **4th** hydraulic push, obscuring mist
+  **4th** hydraulic push (at will), obscuring mist (at will)
 
-  **5th** control water, mariner's curse
+  **5th** control water (×3), mariner's curse
 
   **6th** hydraulic torrent
 

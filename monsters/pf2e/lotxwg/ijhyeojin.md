@@ -5,9 +5,11 @@ medium, fiend, sahkil, unholy|PC1
 
 ---
 
-**Perception** +28
+**Perception** +28; {@ability darkvision}, {@ability lifesense} 60 feet
 
-**Languages** chthonian, diabolic, empyrean, requian
+**Languages** chthonian, diabolic, empyrean, requian; telepathy 100 feet, truespeech|PC1
+
+**Skills** Acrobatics +25, Boneyard Lore +28, Deception +28, Intimidation +28, Religion +28, Stealth +25
 
 **STR** +6, **DEX** +5, **CON** +4, **INT** +4, **WIS** +8, **CHA** +8
 
@@ -31,13 +33,15 @@ medium, fiend, sahkil, unholy|PC1
 
 Speed 30 feet
 
-**Melee** claw +28 (agile); **Damage** 3d8+14 slashing plus swipe countenance plus swipe countenance
+**Melee** ◆ claw +28 (agile); **Damage** 3d8+14 slashing plus swipe countenance plus swipe countenance
 
 **Innate divine Spells** (DC 34)
 
-  **2nd** invisibility
+  **Constant (5th)** truespeech
 
-  **4th** rewrite memory
+  **2nd** invisibility (at will)
+
+  **4th** rewrite memory (at will)
 
 **Overwrite Memory** ◆◆ (emotion, fear, mental) ijhyeojin alters the memories of a target within 30 feet, insinuating their faceless visage in the place of others. The target must attempt a DC 34 Will save. **Critical Success** The target is unaffected.
 **Success** The target is frightened 1 and treats no one as an ally for as long as it's frightened.

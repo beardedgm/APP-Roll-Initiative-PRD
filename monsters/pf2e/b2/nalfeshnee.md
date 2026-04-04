@@ -5,9 +5,11 @@ ce, huge, demon, fiend
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, true seeing
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Arcana +25, Athletics +28, Deception +26, Diplomacy +24, Intimidation +28, Religion +25, Abyss Lore +25
 
 **STR** +8, **DEX** +2, **CON** +8, **INT** +5, **WIS** +5, **CHA** +4
 
@@ -29,17 +31,19 @@ ce, huge, demon, fiend
 
 Speed 30 feet, fly 40 feet
 
-**Melee** jaws +29 (magical, reach <15 feet>); **Damage** 3d12+14 piercing
+**Melee** ◆ jaws +29 (magical, reach <15 feet>); **Damage** 3d12+14 piercing
 
-**Melee** claw +29 (agile, magical, reach <15 feet>); **Damage** 3d8+14 slashing
+**Melee** ◆ claw +29 (agile, magical, reach <15 feet>); **Damage** 3d8+14 slashing
 
 **Innate divine Spells** (DC 34)
 
-  **4th** dimension door
+  **Constant (6th)** true seeing
 
-  **5th** dimension door, illusory object
+  **4th** dimension door (at will)
 
-  **6th** dispel magic, divine wrath
+  **5th** dimension door, illusory object (at will)
+
+  **6th** dispel magic (at will), divine wrath (at will)
 
 **Claim Wealth** ◆ (conjuration, divine, extradimensional) The nalfeshnee steals all unattended items glowing with its Light of Avarice into an extradimensional space. The demon can Interact to regurgitate any number of these items into their hand or onto the ground. If the demon dies, is affected by a teleportation effect, or consumes an extradimensional space (such as a bag of holding (generic)), they vomit up all the items.
 

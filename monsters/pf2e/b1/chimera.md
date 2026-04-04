@@ -5,9 +5,11 @@ uncommon, ce, large, beast
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision, scent 30 feet (imprecise)
 
 **Languages** draconic
+
+**Skills** Acrobatics +14, Athletics +18, Stealth +18
 
 **STR** +6, **DEX** +2, **CON** +4, **INT** -3, **WIS** +2, **CHA** +0
 
@@ -29,13 +31,13 @@ uncommon, ce, large, beast
 
 Speed 25 feet, fly 40 feet
 
-**Melee** dragon jaws +20; **Damage** 2d6+9 piercing plus 2d6 energy damage (see draconic bite)
+**Melee** ◆ dragon jaws +20; **Damage** 2d6+9 piercing plus 2d6 energy damage (see draconic bite)
 
-**Melee** lion jaws +20; **Damage** 2d10+9 piercing
+**Melee** ◆ lion jaws +20; **Damage** 2d10+9 piercing
 
-**Melee** goat horns +20; **Damage** 2d10+9 piercing
+**Melee** ◆ goat horns +20; **Damage** 2d10+9 piercing
 
-**Melee** claw +20 (agile); **Damage** 2d6+9 slashing
+**Melee** ◆ claw +20 (agile); **Damage** 2d6+9 slashing
 
 **Breath Weapon** ◆◆ (arcane, evocation) The chimera breathes a cone or line that deals 9d6 damage to all creatures in the area (DC 26 basic save of a type indicated below). The color of the chimera's dragon head determines the area of the Breath Weapon, the type of damage it deals, and the type of save to avoid it. The chimera can't use Breath Weapon again for 1d4 rounds. - Black 60-foot line of acid (Reflex)
 - Blue 60-foot line of electricity (Reflex)

@@ -5,7 +5,9 @@ unique, n, medium, animal
 
 ---
 
-**Perception** +8
+**Perception** +8; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +8, Intimidation +8, Stealth +8, Survival +8
 
 **STR** +2, **DEX** +4, **CON** +2, **INT** -4, **WIS** +2, **CHA** +2
 
@@ -21,7 +23,7 @@ unique, n, medium, animal
 
 Speed 35 feet
 
-**Melee** jaws +11; **Damage** 1d6+2 piercing plus 1d4 acid plus Knockdown plus Knockdown
+**Melee** ◆ jaws +11; **Damage** 1d6+2 piercing plus 1d4 acid plus Knockdown plus Knockdown
 
 **Acid Breath** ◆◆ The wolf unleashes a stream of bright green acid from its mouth, coating all creatures in a 30-foot line. All creatures in the line take 3d6 acid damage (DC 16 basic Reflex save). The caustic wolf cannot use this ability again for 1 minute.
 

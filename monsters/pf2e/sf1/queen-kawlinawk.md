@@ -5,9 +5,11 @@ unique, ne, medium, humanoid
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +24, Athletics +25, Deception +26, Intimidation +26, Performance +26
 
 **STR** +6, **DEX** +5, **CON** +4, **INT** +0, **WIS** +4, **CHA** +7
 
@@ -27,11 +29,11 @@ unique, ne, medium, humanoid
 
 Speed 20 feet, fly 60 feet
 
-**Melee** falchion +26 (forceful, magical, sweep); **Damage** 2d10+12 slashing
+**Melee** ◆ falchion +26 (forceful, magical, sweep); **Damage** 2d10+12 slashing
 
-**Melee** talon +25 (agile, finesse); **Damage** 3d4+12 slashing
+**Melee** ◆ talon +25 (agile, finesse); **Damage** 3d4+12 slashing
 
-**Melee** shortbow +25 (deadly <d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 2d6+12 piercing
+**Ranged** ◆ shortbow +25 (deadly <d10>, magical, propulsive, range increment <60 feet>, reload <0>); **Damage** 2d6+12 piercing
 
 **Captivating Song** ◆ (auditory, concentrate, enchantment, incapacitation, mental, primal) As harpy, but DC 33.
 

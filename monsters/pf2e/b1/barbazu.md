@@ -5,9 +5,11 @@ le, medium, devil, fiend
 
 ---
 
-**Perception** +13
+**Perception** +13; greater darkvision
 
-**Languages** celestial, common, draconic, infernal
+**Languages** celestial, common, draconic, infernal; telepathy 100 feet
+
+**Skills** Acrobatics +11, Athletics +13, Intimidation +10, Religion +11, Stealth +11
 
 **STR** +4, **DEX** +2, **CON** +4, **INT** -2, **WIS** +2, **CHA** +1
 
@@ -23,7 +25,7 @@ le, medium, devil, fiend
 
 **Immunities** fire
 
-**Resistances** physical 5, poison 10
+**Resistances** physical 5 (except silver), poison 10
 
 **Weaknesses** good 5
 
@@ -33,15 +35,15 @@ le, medium, devil, fiend
 
 Speed 35 feet
 
-**Melee** glaive +15 (deadly <1d8>, evil, forceful, magical, reach <10 feet>); **Damage** 1d8+7 slashing plus 2d6 evil and infernal wound plus infernal wound
+**Melee** ◆ glaive +15 (deadly <1d8>, evil, forceful, magical, reach <10 feet>); **Damage** 1d8+7 slashing plus 2d6 evil and infernal wound plus infernal wound
 
-**Melee** claw +15 (agile, evil, magical); **Damage** 2d6+7 slashing plus 1d6 evil
+**Melee** ◆ claw +15 (agile, evil, magical); **Damage** 2d6+7 slashing plus 1d6 evil
 
-**Melee** beard +15 (magical); **Damage** 1d6+7 piercing plus Avernal fever plus Avernal fever
+**Melee** ◆ beard +15 (magical); **Damage** 1d6+7 piercing plus Avernal fever plus Avernal fever
 
 **Innate divine Spells** (DC 19)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
   **5th** dimension door
 

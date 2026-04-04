@@ -5,9 +5,11 @@ cn, medium, aberration
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
 **Languages** aklo, common
+
+**Skills** Arcana +15, Deception +17, Fleshwarp Lore +17, Medicine +17, Occultism +15, Society +15, Stealth +18
 
 **STR** +0, **DEX** +6, **CON** +3, **INT** +3, **WIS** +3, **CHA** +3
 
@@ -25,7 +27,7 @@ cn, medium, aberration
 
 Speed 25 feet
 
-**Melee** fanged-maw finger +20 (agile, finesse); **Damage** 2d10+3 piercing plus 1d8 persistent bleed
+**Melee** ◆ fanged-maw finger +20 (agile, finesse); **Damage** 2d10+3 piercing plus 1d8 persistent bleed
 
 **Innate occult Spells** (DC 25)
 

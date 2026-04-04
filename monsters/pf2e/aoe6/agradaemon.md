@@ -5,9 +5,11 @@ rare, ne, gargantuan, daemon, fiend, fire
 
 ---
 
-**Perception** +31
+**Perception** +31; darkvision, smoke vision
 
-**Languages** common, daemonic, ignan
+**Languages** common, daemonic, ignan; telepathy 100 feet
+
+**Skills** Acrobatics +37, Deception +37, Diplomacy +37, Intimidation +39
 
 **STR** +6, **DEX** +10, **CON** +5, **INT** +6, **WIS** +5, **CHA** +10
 
@@ -31,19 +33,19 @@ rare, ne, gargantuan, daemon, fiend, fire
 
 Speed 40 feet, climb 40 feet
 
-**Melee** claw +35 (agile, evil, finesse, magical, reach <15 feet>); **Damage** 2d12+14 slashing plus 2d6 fire and 2d6 evil
+**Melee** ◆ claw +35 (agile, evil, finesse, magical, reach <15 feet>); **Damage** 2d12+14 slashing plus 2d6 fire and 2d6 evil
 
-**Melee** lava bomb +35 (range increment <100 feet>, splash); **Damage** 4d8 fire plus 2d6 persistent fire plus 8 fire splash
+**Ranged** ◆ lava bomb +35 (range increment <100 feet>, splash); **Damage** 4d8 fire plus 2d6 persistent fire plus 8 fire splash
 
 **Innate divine Spells** (DC 41)
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
   **5th** dimension door
 
-  **8th** volcanic eruption
+  **8th** volcanic eruption (×3)
 
   **10th** massacre
 

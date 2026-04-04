@@ -9,6 +9,8 @@ ce, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +13, Athletics +13, Deception +15, Intimidation +17, Society +11, Thievery +15, Underworld Lore +15
+
 **STR** +4, **DEX** +4, **CON** +2, **INT** +2, **WIS** -1, **CHA** +4
 
 ---
@@ -31,9 +33,9 @@ ce, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** shortsword +18 (agile, magical, versatile <S>); **Damage** 1d6+10 piercing
+**Melee** ◆ shortsword +18 (agile, magical, versatile <S>); **Damage** 1d6+10 piercing
 
-**Melee** sling +18 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+8 bludgeoning
+**Ranged** ◆ sling +18 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+8 bludgeoning
 
 **Brutal Rally** ◈ (auditory, emotion, linguistic, mental) **Trigger** The gang leader rolls a critical hit against a creature; All allies that can see the gang leader gain a +1 circumstance bonus to attack rolls until the start of the gang leader's next turn.
 

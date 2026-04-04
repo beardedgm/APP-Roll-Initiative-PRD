@@ -5,9 +5,11 @@ uncommon, ce, large, fiend
 
 ---
 
-**Perception** +23
+**Perception** +23; darkvision, psionic scent 120 feet (imprecise)
 
 **Languages** abyssal
+
+**Skills** Athletics +25, Intimidation +22, Stealth +23, Survival +25
 
 **STR** +7, **DEX** +5, **CON** +6, **INT** +0, **WIS** +5, **CHA** +4
 
@@ -35,17 +37,17 @@ uncommon, ce, large, fiend
 
 Speed 40 feet, swim 30 feet
 
-**Melee** jaws +25 (chaotic, evil, magical); **Damage** 3d10+13 piercing
+**Melee** ◆ jaws +25 (chaotic, evil, magical); **Damage** 3d10+13 piercing
 
-**Melee** claw +27 (agile, chaotic, evil, magical, reach <10 feet>); **Damage** 2d8+13 slashing plus Grab plus Grab
+**Melee** ◆ claw +27 (agile, chaotic, evil, magical, reach <10 feet>); **Damage** 2d8+13 slashing plus Grab plus Grab
 
-**Melee** tail +25 (chaotic, evil, magical, reach <15 feet>, versatile <P>); **Damage** 3d6+13 bludgeoning plus Knockdown plus Knockdown
+**Melee** ◆ tail +25 (chaotic, evil, magical, reach <15 feet>, versatile <P>); **Damage** 3d6+13 bludgeoning plus Knockdown plus Knockdown
 
 **Innate divine Spells** (DC 28)
 
-  **2nd** darkness
+  **2nd** darkness (at will)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
   **6th** teleport
 

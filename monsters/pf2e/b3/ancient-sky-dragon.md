@@ -5,9 +5,11 @@ rare, lg, gargantuan, dragon, electricity
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision, scent 60 feet (imprecise)
 
 **Languages** auran, celestial, common, draconic, elven, infernal, sylvan
+
+**Skills** Acrobatics +28, Athletics +35, Deception +28, Intimidation +32, Religion +34, Society +26, Stealth +28, Survival +28
 
 **STR** +8, **DEX** +4, **CON** +5, **INT** +4, **WIS** +6, **CHA** +6
 
@@ -29,11 +31,11 @@ rare, lg, gargantuan, dragon, electricity
 
 Speed 60 feet, fly 160 feet
 
-**Melee** jaws +36 (magical, reach <20 feet>); **Damage** 3d10+16 piercing plus 1d12 electricity
+**Melee** ◆ jaws +36 (magical, reach <20 feet>); **Damage** 3d10+16 piercing plus 1d12 electricity
 
-**Melee** claw +36 (agile, magical, reach <15 feet>); **Damage** 3d10+16 slashing plus Grab plus Grab
+**Melee** ◆ claw +36 (agile, magical, reach <15 feet>); **Damage** 3d10+16 slashing plus Grab plus Grab
 
-**Melee** tail +36 (magical, reach <30 feet>); **Damage** 3d10+16 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +36 (magical, reach <30 feet>); **Damage** 3d10+16 bludgeoning plus Grab plus Grab
 
 **Innate divine Spells** (DC 42)
 

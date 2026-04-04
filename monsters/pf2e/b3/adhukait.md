@@ -5,9 +5,11 @@ le, medium, asura, fiend
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
-**Languages** common, infernal
+**Languages** common, infernal; telepathy 30 feet
+
+**Skills** Acrobatics +15, Intimidation +15, Performance +15, Stealth +15
 
 **STR** +6, **DEX** +4, **CON** +4, **INT** +2, **WIS** +2, **CHA** +4
 
@@ -35,8 +37,8 @@ le, medium, asura, fiend
 
 Speed 40 feet
 
-**Melee** kukri +18 (agile, trip); **Damage** 1d6+9 slashing plus 2d6 persistent bleed and 1d4 evil
+**Melee** ◆ kukri +18 (agile, trip); **Damage** 1d6+9 slashing plus 2d6 persistent bleed and 1d4 evil
 
-**Melee** claw +18 (agile); **Damage** 1d6+9 slashing and 1d4 evil
+**Melee** ◆ claw +18 (agile); **Damage** 1d6+9 slashing and 1d4 evil
 
 **Dance of Destruction** ◆ **Requirements** The adhukait's last action was a Strike that dealt damage; The adhukait Strides up to 10 feet and Strikes.

@@ -5,9 +5,11 @@ uncommon, n, small, beast, incorporeal, spirit
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
-**Languages** common, sylvan
+**Languages** common, sylvan; tongues
+
+**Skills** Acrobatics +12, Diplomacy +13, Nature +14, Survival +12
 
 **STR** +0, **DEX** +3, **CON** +0, **INT** +2, **WIS** +5, **CHA** +2
 
@@ -21,7 +23,7 @@ uncommon, n, small, beast, incorporeal, spirit
 
 **Immunities** disease, paralyzed, poison, precision
 
-**Resistances** all damage 5
+**Resistances** all damage 5 (except force, ghost touch, or positive; double resistance vs non-magical)
 
 **Warning Hoot** ◇ (auditory) **Trigger** The stone-breasted owl is about to roll a Perception or Survival check to determine initiative; The stone-breasted owl lets out a hoot to warn allies, granting each ally a +1 circumstance bonus to their initiative roll.
 
@@ -29,9 +31,11 @@ uncommon, n, small, beast, incorporeal, spirit
 
 Speed 10 feet, fly 40 feet
 
-**Melee** talon +13 (agile, finesse, magical); **Damage** 2d6+3 force
+**Melee** ◆ talon +13 (agile, finesse, magical); **Damage** 2d6+3 force
 
 **Innate primal Spells** (DC 25)
+
+  **Constant (5th)** tongues
 
   **Cantrips (2nd)** guidance, know direction, stabilize
 
@@ -39,7 +43,7 @@ Speed 10 feet, fly 40 feet
 
   **2nd** remove fear, restore senses
 
-  **3rd** heal, remove disease
+  **3rd** heal (×2), remove disease
 
 **Bond with Mortal** ◆◆ (mental, necromancy, primal) As nimble green monkey, except HP increases by 14.
 

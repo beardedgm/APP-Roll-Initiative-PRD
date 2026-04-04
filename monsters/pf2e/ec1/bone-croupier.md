@@ -5,9 +5,11 @@ ne, medium, undead
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
 **Languages** common
+
+**Skills** Acrobatics +14, Deception +14, Diplomacy +14, Stealth +14, Thievery +14, Gambling Lore +12
 
 **STR** +2, **DEX** +5, **CON** +2, **INT** +1, **WIS** +2, **CHA** +5
 
@@ -27,7 +29,7 @@ ne, medium, undead
 
 Speed 25 feet
 
-**Melee** claw +14 (agile, finesse); **Damage** 2d8+5 slashing
+**Melee** ◆ claw +14 (agile, finesse); **Damage** 2d8+5 slashing
 
 **Innate occult Spells** (DC 22)
 

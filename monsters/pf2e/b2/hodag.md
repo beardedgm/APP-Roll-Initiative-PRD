@@ -5,9 +5,11 @@ uncommon, n, large, beast
 
 ---
 
-**Perception** +14
+**Perception** +14; darkvision, scent 30 feet (imprecise)
 
 **Languages** common (can't speak any language)
+
+**Skills** Athletics +15, Stealth +14, Survival +12
 
 **STR** +5, **DEX** +4, **CON** +5, **INT** -2, **WIS** +4, **CHA** +0
 
@@ -27,11 +29,11 @@ uncommon, n, large, beast
 
 Speed 25 feet, burrow 15 feet
 
-**Melee** jaws +17; **Damage** 2d8+8 piercing
+**Melee** ◆ jaws +17; **Damage** 2d8+8 piercing
 
-**Melee** claw +17 (agile); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +17 (agile); **Damage** 2d6+8 slashing
 
-**Melee** spiked tail +17 (reach <10 feet>, versatile <P>); **Damage** 2d6+8 bludgeoning plus Knockdown plus Knockdown
+**Melee** ◆ spiked tail +17 (reach <10 feet>, versatile <P>); **Damage** 2d6+8 bludgeoning plus Knockdown plus Knockdown
 
 **Rip and Tear** ◆◆ The hodag makes two claw Strikes and one jaws Strike in any order.
 

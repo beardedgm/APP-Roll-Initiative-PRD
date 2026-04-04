@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common, druidic
 
+**Skills** Athletics +8, Diplomacy +8, Intimidation +8, Nature +12, Performance +8, Survival +10, Circus Lore +6
+
 **STR** +2, **DEX** +1, **CON** +2, **INT** +0, **WIS** +4, **CHA** +2
 
 **Items** holly and mistletoe, leather armor, rope (50 feet), whip
@@ -27,7 +29,7 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** whip +11 (disarm, nonlethal, reach, trip); **Damage** 1d4+5 slashing
+**Melee** ◆ whip +11 (disarm, nonlethal, reach, trip); **Damage** 1d4+5 slashing
 
 **Prepared primal Spells** (DC 22), attack +14
 

@@ -5,9 +5,11 @@ unique, ce, small, charau-ka, dragon, fire, humanoid
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision, scent 30 feet (imprecise)
 
 **Languages** draconic, mwangi
+
+**Skills** Arcana +12, Athletics +18, Crafting +10, Religion +14, Stealth +15, Survival +14
 
 **STR** +6, **DEX** +3, **CON** +5, **INT** +0, **WIS** +4, **CHA** +1
 
@@ -27,13 +29,13 @@ unique, ce, small, charau-ka, dragon, fire, humanoid
 
 Speed 30 feet, climb 30 feet
 
-**Melee** jaws +20; **Damage** 2d8+9 piercing plus 2d4 fire
+**Melee** ◆ jaws +20; **Damage** 2d8+9 piercing plus 2d4 fire
 
-**Melee** claw +20 (agile); **Damage** 2d8+9 slashing
+**Melee** ◆ claw +20 (agile); **Damage** 2d8+9 slashing
 
-**Melee** tail +20 (reach <10 feet>); **Damage** 2d8+9 slashing
+**Melee** ◆ tail +20 (reach <10 feet>); **Damage** 2d8+9 slashing
 
-**Melee** thrown rock +17 (deadly <1d6>, thrown <20 feet>); **Damage** 2d6+9 bludgeoning
+**Ranged** ◆ thrown rock +17 (deadly <1d6>, thrown <20 feet>); **Damage** 2d6+9 bludgeoning
 
 **Breath Weapon** ◆◆ (divine, evocation, fire) Racharak breathes flames that deals 9d6 fire damage to all creatures in a 30-foot cone (DC 26 basic Reflex save) She can't use Breath Weapon again for 1d4 rounds.
 

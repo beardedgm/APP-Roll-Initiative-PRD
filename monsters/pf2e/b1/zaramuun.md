@@ -5,9 +5,11 @@ ce, large, earth, elemental
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, {@ability tremorsense} 60 feet
 
 **Languages** abyssal, terran
+
+**Skills** Athletics +31, Religion +26, Stealth +27
 
 **STR** +9, **DEX** +5, **CON** +6, **INT** +0, **WIS** +5, **CHA** -1
 
@@ -25,19 +27,21 @@ ce, large, earth, elemental
 
 ---
 
-Speed 35 feet, burrow 35 feet
+Speed 35 feet, burrow 35 feet, sand glide
 
-**Melee** fist +33; **Damage** 4d12+13 bludgeoning
+**Melee** ◆ fist +33; **Damage** 4d12+13 bludgeoning
 
-**Melee** rock or metal debris +29 (range increment <120 feet>); **Damage** 4d8+13 bludgeoning
+**Ranged** ◆ rock or metal debris +29 (range increment <120 feet>); **Damage** 4d8+13 bludgeoning
 
 **Innate divine Spells** (DC 37), attack +31
 
-  **4th** suggestion
+  **Constant (8th)** dimensional anchor
+
+  **4th** suggestion (at will)
 
   **6th** disintegrate, spirit blast
 
-  **8th** dimensional anchor
+  **8th** dimensional anchor (at will)
 
 **Dune** ◆ (concentrate) Until the next time it acts, the zaramuun appears to be a sand dune. It has an automatic result of 47 (50 in sandy terrain) on Deception and Stealth checks and DCs to pass as a sand dune. Any creature that walks onto the zaramuun moves into its body and is Engulfed.
 

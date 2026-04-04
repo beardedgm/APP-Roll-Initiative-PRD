@@ -9,6 +9,8 @@ n, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Nature +14, Society +12, Survival +14, Map Lore +17, Scribing Lore +17
+
 **STR** +2, **DEX** +2, **CON** +1, **INT** +4, **WIS** +4, **CHA** +0
 
 ---
@@ -25,11 +27,11 @@ n, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** dagger +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
+**Melee** ◆ dagger +7 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+2 piercing
 
-**Melee** staff +7 (two-hand <d8>); **Damage** 1d4+2 bludgeoning
+**Melee** ◆ staff +7 (two-hand <d8>); **Damage** 1d4+2 bludgeoning
 
-**Melee** crossbow +7 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
+**Ranged** ◆ crossbow +7 (range increment <120 feet>, reload <1>); **Damage** 1d8 piercing
 
 **Prepared primal Spells** (DC 20), attack +12
 

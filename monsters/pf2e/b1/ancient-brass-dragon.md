@@ -5,9 +5,11 @@ uncommon, cg, huge, dragon, fire
 
 ---
 
-**Perception** +30
+**Perception** +30; darkvision, scent 60 feet (imprecise), {@ability tremorsense} 60 feet (imprecise)
 
-**Languages** auran, common, draconic, gnome, halfling, sphinx, sylvan
+**Languages** auran, common, draconic, gnome, halfling, sphinx, sylvan; speak with animals
+
+**Skills** Acrobatics +27, Athletics +31, Deception +27, Diplomacy +29, Society +28
 
 **STR** +7, **DEX** +5, **CON** +6, **INT** +4, **WIS** +4, **CHA** +5
 
@@ -29,11 +31,13 @@ uncommon, cg, huge, dragon, fire
 
 Speed 50 feet, fly 150 feet, burrow 40 feet
 
-**Melee** jaws +32 (fire, magical, reach <15 feet>); **Damage** 3d10+15 piercing plus 3d6 fire and 2d6 persistent fire
+**Melee** ◆ jaws +32 (fire, magical, reach <15 feet>); **Damage** 3d10+15 piercing plus 3d6 fire and 2d6 persistent fire
 
-**Melee** claw +32 (agile, magical, reach <10 feet>); **Damage** 3d10+15 slashing
+**Melee** ◆ claw +32 (agile, magical, reach <10 feet>); **Damage** 3d10+15 slashing
 
 **Innate arcane Spells** (DC 37)
+
+  **Constant (2nd)** speak with animals
 
 **Breath Weapon** ◆◆ The brass dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 rounds. - Flame (arcane, evocation, fire) The dragon breathes fire in a 100-foot line that deals 16d6 fire damage (DC 39 basic Reflex save).
 - Sleep Gas (arcane, enchantment, incapacitation, sleep); The dragon breathes an 80-foot cone of sleep gas. Each creature within the cone must succeed at a DC 39 Fortitude save or fall unconscious for 1d6 rounds, or 1 minute on a critical failure.

@@ -5,9 +5,11 @@ cn, medium, caligni, humanoid
 
 ---
 
-**Perception** +10
+**Perception** +10; greater darkvision, light blindness
 
 **Languages** caligni, undercommon
+
+**Skills** Acrobatics +13, Athletics +8, Stealth +13, Thievery +11
 
 **STR** +2, **DEX** +5, **CON** +2, **INT** -1, **WIS** +2, **CHA** +1
 
@@ -27,13 +29,13 @@ cn, medium, caligni, humanoid
 
 Speed 25 feet
 
-**Melee** shortsword +13 (agile, finesse, versatile <S>); **Damage** 1d6+7 piercing plus black smear poison (see below) plus black smear poison (see below)
+**Melee** ◆ shortsword +13 (agile, finesse, versatile <S>); **Damage** 1d6+7 piercing plus black smear poison (see below) plus black smear poison (see below)
 
 **Innate occult Spells** (DC 19)
 
   **Cantrips (2nd)** detect magic
 
-  **2nd** darkness, obscuring mist
+  **2nd** darkness (at will), obscuring mist (at will)
 
 **Double Slice** ◆◆ The caligni stalker makes two Strikes against the same target, one with each of their shortswords. The stalker combines the damage of any attacks that hit and applies precision damage, resistances, and weaknesses only once. Both attacks count toward the stalker's multiple attack penalty, but the penalty increases only after both attacks.
 

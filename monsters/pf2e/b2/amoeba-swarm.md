@@ -5,7 +5,9 @@ n, large, amphibious, mindless, ooze, swarm
 
 ---
 
-**Perception** +3
+**Perception** +3; motion sense 60 feet, no vision
+
+**Skills** Stealth +1
 
 **STR** +0, **DEX** -2, **CON** +3, **INT** -5, **WIS** +0, **CHA** -5
 

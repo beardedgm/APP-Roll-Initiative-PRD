@@ -9,9 +9,11 @@ unique, ln, medium, human, humanoid
 
 **Languages** aklo, celestial, common, draconic, minkaian, nagaji, samsaran, tengu
 
+**Skills** Arcana +19, Crafting +17, Deception +17, Diplomacy +19, Intimidation +17, Religion +13, Society +19, Willowshore Lore +19
+
 **STR** +3, **DEX** +2, **CON** +1, **INT** +4, **WIS** +0, **CHA** +4
 
-**Items** {@item greater choker of elocution} (grants Celestial, Draconic, and Nagaji), {@runeItem longsword||+1 weapon potency||striking|}, {@runeItem padded armor||+1 armor potency||resilient|}, ritual notes and journals held within a {@item gloves of storing||glove of storing}
+**Items** greater choker of elocution (grants Celestial, Draconic, and Nagaji), , , ritual notes and journals held within a glove of storing
 
 **Temporary Scrolls** scroll of crisis of faith (4th level), scroll of fire shield, scroll of flame strike, scroll of haste, scroll of hydraulic torrent, scroll of illusory creature (5th level), scroll of illusory scene, scroll of mirror image, scroll of soothe (4th level)
 
@@ -27,7 +29,7 @@ unique, ln, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** longsword +17 (magical, versatile <P>); **Damage** 2d8+5 slashing
+**Melee** ◆ longsword +17 (magical, versatile <P>); **Damage** 2d8+5 slashing
 
 **Esoteric Lore** Heh Shan-Bao can attempt to Recall Knowledge on any topic with a +15 modifier.
 

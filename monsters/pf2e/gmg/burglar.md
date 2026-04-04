@@ -9,6 +9,8 @@ ne, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Acrobatics +10, Athletics +8, Deception +7, Society +7, Stealth +12, Thievery +12, Underworld Lore +7
+
 **STR** +2, **DEX** +4, **CON** +1, **INT** +1, **WIS** +2, **CHA** +1
 
 ---
@@ -27,11 +29,11 @@ ne, medium, human, humanoid
 
 Speed 30 feet
 
-**Melee** shortsword +14 (agile, finesse, versatile <S>); **Damage** 1d6+6 piercing
+**Melee** ◆ shortsword +14 (agile, finesse, versatile <S>); **Damage** 1d6+6 piercing
 
-**Melee** sap +12 (agile, nonlethal); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ sap +12 (agile, nonlethal); **Damage** 1d6+4 bludgeoning
 
-**Melee** composite shortbow +14 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing
+**Ranged** ◆ composite shortbow +14 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+4 piercing
 
 **Mobility** When the burglar Strides half their Speed or less, that movement does not trigger reactions.
 

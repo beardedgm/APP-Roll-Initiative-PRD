@@ -5,9 +5,11 @@ ng, huge, plant
 
 ---
 
-**Perception** +18
+**Perception** +18; low-light vision
 
-**Languages** arboreal, common, sylvan
+**Languages** arboreal, common, sylvan; speak with plants
+
+**Skills** Athletics +19, Diplomacy +16, Intimidation +16, Nature +18, Stealth +11
 
 **STR** +7, **DEX** -1, **CON** +6, **INT** +1, **WIS** +4, **CHA** +2
 
@@ -29,11 +31,11 @@ ng, huge, plant
 
 Speed 25 feet
 
-**Melee** branch +19 (reach <15 feet>); **Damage** 2d12+7 bludgeoning
+**Melee** ◆ branch +19 (reach <15 feet>); **Damage** 2d12+7 bludgeoning
 
-**Melee** root +19 (trip); **Damage** 2d8+7 bludgeoning
+**Melee** ◆ root +19 (trip); **Damage** 2d8+7 bludgeoning
 
-**Melee** rock +19 (brutal, range increment <120 feet>); **Damage** 2d10+7 bludgeoning
+**Ranged** ◆ rock +19 (brutal, range increment <120 feet>); **Damage** 2d10+7 bludgeoning
 
 **Innate primal Spells** (DC 26)
 

@@ -5,9 +5,11 @@ le, large, fiend, velstrac
 
 ---
 
-**Perception** +24
+**Perception** +24; greater darkvision, painsight
 
 **Languages** common, infernal, shadowtongue
+
+**Skills** Athletics +25, Crafting +22, Intimidation +25, Medicine +26, Religion +22, Stealth +19, Torture Lore +20
 
 **STR** +7, **DEX** +3, **CON** +5, **INT** +2, **WIS** +6, **CHA** +5
 
@@ -33,13 +35,13 @@ le, large, fiend, velstrac
 
 Speed 40 feet
 
-**Melee** claw +25 (deadly <2d10>, evil, magical, reach <10 feet>); **Damage** 3d10+13 slashing plus 2d6 persistent bleed
+**Melee** ◆ claw +25 (deadly <2d10>, evil, magical, reach <10 feet>); **Damage** 3d10+13 slashing plus 2d6 persistent bleed
 
 **Innate divine Spells** (DC 33)
 
   **Cantrips (6th)** stabilize
 
-  **4th** heal, restoration
+  **4th** heal (×2), restoration (×2)
 
   **5th** breath of life
 

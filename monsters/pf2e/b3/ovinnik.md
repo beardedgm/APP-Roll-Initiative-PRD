@@ -5,9 +5,11 @@ cn, tiny, fey
 
 ---
 
-**Perception** +14
+**Perception** +14; {@ability tremorsense} within their entire bound granary or storeroom (imprecise)
 
 **Languages** common, sylvan
+
+**Skills** Intimidation +11, Stealth +13, Household Lore +12
 
 **STR** +0, **DEX** +5, **CON** +0, **INT** +2, **WIS** +5, **CHA** +3
 
@@ -31,13 +33,13 @@ cn, tiny, fey
 
 Speed 30 feet, climb 20 feet
 
-**Melee** claw +13 (agile, finesse, magical); **Damage** 2d6+2 slashing
+**Melee** ◆ claw +13 (agile, finesse, magical); **Damage** 2d6+2 slashing
 
 **Innate primal Spells** (DC 21)
 
   **Cantrips (2nd)** daze, produce flame
 
-  **2nd** augury, burning hands, flaming sphere, purify food and drink
+  **2nd** augury, burning hands, flaming sphere, purify food and drink (at will)
 
   **4th** read omens
 

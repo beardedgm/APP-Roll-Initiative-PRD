@@ -5,9 +5,11 @@ le, large, fiend, swarm
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
 **Languages** infernal (can't speak any language)
+
+**Skills** Acrobatics +18, Stealth +18
 
 **STR** +0, **DEX** +4, **CON** +6, **INT** -3, **WIS** +2, **CHA** -2
 
@@ -25,7 +27,7 @@ le, large, fiend, swarm
 
 ---
 
-Speed 20 feet
+Speed 20 feet, fly 40 feet
 
 **Abandon Corpse** ◆ **Requirements** The hellwasp swarm is controlling a corpse with Infest Corpse; The hellwasp swarm leaves its host corpse, which dies instantly and becomes a normal corpse in all respects. The hellwasp swarm expands out from that space to its normal size.
 

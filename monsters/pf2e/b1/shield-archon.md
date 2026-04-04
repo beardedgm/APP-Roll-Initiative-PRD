@@ -5,9 +5,11 @@ lg, large, archon, celestial
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Athletics +21, Diplomacy +19, Intimidation +19, Religion +19, Survival +17
 
 **STR** +5, **DEX** +1, **CON** +7, **INT** +2, **WIS** +3, **CHA** +3
 
@@ -35,17 +37,19 @@ lg, large, archon, celestial
 
 Speed 30 feet, fly 60 feet
 
-**Melee** holy striking spear +22 (magical, reach <10 feet>); **Damage** 2d6+10 piercing plus 1d6 good
+**Melee** ◆ holy striking spear +22 (magical, reach <10 feet>); **Damage** 2d6+10 piercing plus 1d6 good
 
 **Innate divine Spells** (DC 27)
 
+  **Constant (5th)** tongues
+
   **Cantrips (5th)** message
 
-  **1st** true strike
+  **1st** true strike (×3)
 
-  **2nd** shield other
+  **2nd** shield other (×3)
 
-  **4th** dimension door
+  **4th** dimension door (at will)
 
 **Archon's Door** Once per day, if an archon sees another creature cast dimension door, it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon's dimension door. If the archon's dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door.
 

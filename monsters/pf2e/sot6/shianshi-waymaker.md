@@ -5,9 +5,11 @@ unique, le, large, humanoid, negative
 
 ---
 
-**Perception** +32
+**Perception** +32; greater darkvision, scent 30 feet (precise)
 
 **Languages** aklo, common, necril
+
+**Skills** Arcana +35, Athletics +34, Intimidation +32, Occultism +31, Stealth +38, Survival +31
 
 **STR** +8, **DEX** +8, **CON** +3, **INT** +9, **WIS** +5, **CHA** +4
 
@@ -29,9 +31,9 @@ unique, le, large, humanoid, negative
 
 Speed 50 feet
 
-**Melee** greatsword +36 (death, magical, versatile <P>); **Damage** 3d12+14 slashing plus huntblade brutality
+**Melee** ◆ greatsword +36 (death, magical, versatile <P>); **Damage** 3d12+14 slashing plus huntblade brutality
 
-**Melee** shadow whip +36 (agile, death, disarm, finesse, magical, reach <10 feet>, trip); **Damage** 3d4+14 bludgeoning plus Improved Grab
+**Melee** ◆ shadow whip +36 (agile, death, disarm, finesse, magical, reach <10 feet>, trip); **Damage** 3d4+14 bludgeoning plus Improved Grab
 
 **Prepared arcane Spells** (DC 40), attack +32
 

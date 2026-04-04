@@ -9,9 +9,11 @@ ne, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +9, Deception +10, Intimidation +10, Religion +10, Society +7
+
 **STR** +4, **DEX** +1, **CON** +1, **INT** +0, **WIS** +3, **CHA** +2
 
-**Items** {@item composite shortbow} (20 arrows), {@item half plate}, {@item mace}, {@item steel shield} (Hardness 5, HP 20, BT 10)
+**Items** composite shortbow (20 arrows), half plate, mace, steel shield (Hardness 5, HP 20, BT 10)
 
 ---
 
@@ -29,9 +31,9 @@ ne, medium, human, humanoid
 
 Speed 20 feet
 
-**Melee** mace +12 (shove); **Damage** 1d8+4 bludgeoning
+**Melee** ◆ mace +12 (shove); **Damage** 1d8+4 bludgeoning
 
-**Melee** composite shortbow +9 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+2 piercing
+**Ranged** ◆ composite shortbow +9 (deadly <1d10>, propulsive, range increment <60 feet>, reload <0>); **Damage** 1d6+2 piercing
 
 **Prepared divine Spells** (DC 19), attack +11
 
@@ -39,7 +41,7 @@ Speed 20 feet
 
   **1st** detect alignment, magic weapon, spirit link
 
-  **2nd** harm, restoration, see invisibility, shield other
+  **2nd** harm (×3), restoration, see invisibility, shield other
 
 **Channel Smite** ◆◆ (divine, necromancy) The zealot expends a prepared harm spell and makes a melee Strike. Instead of the normal effect of the spell, its negative damage is added to the Strike's damage.
 

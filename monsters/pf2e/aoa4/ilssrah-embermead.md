@@ -5,13 +5,15 @@ unique, ne, medium, dwarf, humanoid
 
 ---
 
-**Perception** +29
+**Perception** +29; darkvision
 
 **Languages** common, dwarven, gnoll, undercommon
 
+**Skills** Acrobatics +25, Athletics +27, Deception +26, Intimidation +28, Religion +31
+
 **STR** +6, **DEX** +4, **CON** +5, **INT** +4, **WIS** +8, **CHA** +5
 
-**Items** +2 resilient adamantine breastplate, Fleshroaster (+2 striking flaming spiked chain), +1 striking returning light hammer, good manacles (4), religious symbol of {@deity Droskar}
+**Items** +2 resilient adamantine breastplate, Fleshroaster (+2 striking flaming spiked chain), +1 striking returning light hammer, good manacles (4), religious symbol of Droskar
 
 ---
 
@@ -27,11 +29,11 @@ unique, ne, medium, dwarf, humanoid
 
 Speed 25 feet
 
-**Melee** Fleshroaster +31 (disarm, finesse, magical, trip); **Damage** 2d8+14 slashing plus 1d6 fire
+**Melee** ◆ Fleshroaster +31 (disarm, finesse, magical, trip); **Damage** 2d8+14 slashing plus 1d6 fire
 
-**Melee** returning light hammer +30 (agile, magical); **Damage** 2d6+14 bludgeoning
+**Melee** ◆ returning light hammer +30 (agile, magical); **Damage** 2d6+14 bludgeoning
 
-**Melee** returning light hammer +28 (agile, magical, thrown <20 feet>); **Damage** 2d6+14 bludgeoning
+**Ranged** ◆ returning light hammer +28 (agile, magical, thrown <20 feet>); **Damage** 2d6+14 bludgeoning
 
 **Prepared divine Spells** (DC 36), attack +32
 
@@ -41,7 +43,7 @@ Speed 25 feet
 
   **2nd** augury, darkness, silence
 
-  **3rd** circle of protection, locate
+  **3rd** circle of protection, locate (×2)
 
   **4th** air walk, anathematic reprisal, divine wrath
 
@@ -51,7 +53,7 @@ Speed 25 feet
 
   **7th** divine decree, energy aegis, heal
 
-  **8th** divine aura, harm, spiritual epidemic
+  **8th** divine aura, harm (×6), spiritual epidemic
 
 **Cleric Domain Spells** (DC 36)
 

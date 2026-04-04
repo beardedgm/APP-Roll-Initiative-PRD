@@ -5,11 +5,13 @@ ce, large, giant, humanoid
 
 ---
 
-**Perception** +5
+**Perception** +5; darkvision
+
+**Skills** Athletics +12, Intimidation +9
 
 **STR** +5, **DEX** -1, **CON** +4, **INT** -2, **WIS** +0, **CHA** -2
 
-**Items** {@item greataxe}, {@item hide||hide armor}, {@item javelin||javelins} (6)
+**Items** greataxe, hide armor, javelins (6)
 
 ---
 
@@ -23,6 +25,6 @@ ce, large, giant, humanoid
 
 Speed 25 feet
 
-**Melee** greataxe +12 (reach <10 feet>, sweep); **Damage** 1d12 + 7 piercing
+**Melee** ◆ greataxe +12 (reach <10 feet>, sweep); **Damage** 1d12 + 7 piercing
 
-**Melee** javelin +6 (thrown <30 feet>); **Damage** 1d6 + 7 piercing
+**Ranged** ◆ javelin +6 (thrown <30 feet>); **Damage** 1d6 + 7 piercing

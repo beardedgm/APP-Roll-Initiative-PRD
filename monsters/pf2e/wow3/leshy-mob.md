@@ -5,9 +5,11 @@ gargantuan, leshy, plant, troop
 
 ---
 
-**Perception** +21
+**Perception** +21; low-light vision
 
-**Languages** common, fey
+**Languages** common, fey; speak with plants|PC1
+
+**Skills** Acrobatics +19, Athletics +22, Nature +22, Stealth +19
 
 **STR** +5, **DEX** +4, **CON** +7, **INT** +3, **WIS** +5, **CHA** +6
 
@@ -25,9 +27,11 @@ gargantuan, leshy, plant, troop
 
 ---
 
-Speed 25 feet
+Speed 25 feet, troop movement
 
 **Innate primal Spells** (DC 30)
+
+  **Constant (3rd)** speak with plants
 
   **5th** wall of thorns
 

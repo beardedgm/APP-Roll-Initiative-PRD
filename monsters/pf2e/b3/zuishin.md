@@ -5,9 +5,11 @@ lg, medium, kami, spirit
 
 ---
 
-**Perception** +21
+**Perception** +21; darkvision
 
-**Languages** common
+**Languages** common; telepathy 100 feet
+
+**Skills** Acrobatics +23, Athletics +22, Intimidation +19, Medicine +21, Nature +21, Stealth +21
 
 **STR** +6, **DEX** +7, **CON** +5, **INT** +1, **WIS** +5, **CHA** +3
 
@@ -31,19 +33,19 @@ lg, medium, kami, spirit
 
 Speed fly 25 feet
 
-**Melee** katana +23 (deadly <d8>, magical, two-hand <d10>, versatile <P>); **Damage** 2d6+9 slashing plus 1d6 good
+**Melee** ◆ katana +23 (deadly <d8>, magical, two-hand <d10>, versatile <P>); **Damage** 2d6+9 slashing plus 1d6 good
 
-**Melee** composite longbow +24 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+9 piercing plus 1d6 good
+**Ranged** ◆ composite longbow +24 (deadly <d10>, magical, range increment <100 feet>, reload <0>, volley <30 feet>); **Damage** 2d8+9 piercing plus 1d6 good
 
 **Innate divine Spells** (DC 29)
 
-  **2nd** detect alignment, shield other
+  **2nd** detect alignment (at will), shield other
 
-  **3rd** heal
+  **3rd** heal (×2)
 
   **4th** remove disease, remove paralysis
 
-  **5th** breath of life, dimension door, dispel magic, heal
+  **5th** breath of life, dimension door (×3), dispel magic, heal
 
 **Healing Arrow** ◆◆ (divine, healing, necromancy) The zuishin blesses an arrow with healing magic and makes a composite longbow Strike against an ally. If it hits, rather than dealing damage, the arrow is infused with the effects of one of the following of the zuishin's innate divine spells: breath of life, heal, remove disease, or remove paralysis. The zuishin must have the spell available to cast, and using this ability expends the spell. If the zuishin rolls a failure on the attack roll against an ally who's aware of the arrow and wants to be hit, the attack hits, but on a critical failure, it still misses.
 

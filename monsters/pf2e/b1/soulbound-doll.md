@@ -5,7 +5,9 @@ any, tiny, construct, soulbound
 
 ---
 
-**Perception** +8
+**Perception** +8; darkvision
+
+**Skills** Acrobatics +8, Occultism +4, Stealth +8
 
 **STR** -2, **DEX** +4, **CON** +3, **INT** +0, **WIS** +2, **CHA** +0
 
@@ -25,7 +27,7 @@ any, tiny, construct, soulbound
 
 Speed 20 feet
 
-**Melee** fist +10 (agile, finesse, magical); **Damage** 1d6+2 bludgeoning
+**Melee** ◆ fist +10 (agile, finesse, magical); **Damage** 1d6+2 bludgeoning
 
 **Innate occult Spells** (DC 18), attack +8
 

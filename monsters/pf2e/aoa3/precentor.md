@@ -5,9 +5,11 @@ uncommon, le, medium, fiend, velstrac
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision, detect magic, painsight, true seeing
 
 **Languages** common, infernal, shadowtongue
+
+**Skills** Acrobatics +27, Athletics +28, Deception +32, Diplomacy +34, Performance +34, Religion +30, Stealth +29, Torture Lore +26
 
 **STR** +6, **DEX** +7, **CON** +3, **INT** +6, **WIS** +6, **CHA** +8
 
@@ -31,15 +33,19 @@ uncommon, le, medium, fiend, velstrac
 
 Speed 30 feet, fly 30 feet
 
-**Melee** claw +31 (agile, finesse, reach <10 feet>); **Damage** 4d10+6 slashing plus 1d6 persistent bleed
+**Melee** ◆ claw +31 (agile, finesse, reach <10 feet>); **Damage** 4d10+6 slashing plus 1d6 persistent bleed
 
 **Innate divine Spells** (DC 38)
 
+  **Constant (8th)** detect magic, mind blank
+
+  **Constant (6th)** fly, true seeing
+
   **Cantrips (8th)** daze, sigil
 
-  **5th** sound burst, synesthesia
+  **5th** sound burst (at will), synesthesia (at will)
 
-  **8th** harm, plane shift
+  **8th** harm, plane shift (at will)
 
   **9th** wail of the banshee
 

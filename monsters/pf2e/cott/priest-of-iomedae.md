@@ -9,9 +9,11 @@ uncommon, medium, humanoid
 
 **Languages** common
 
+**Skills** Diplomacy +13, Intimidation +15, Iomedae Lore +17, Medicine +16, Religion +17, Society +12, Survival +12
+
 **STR** +4, **DEX** +2, **CON** +3, **INT** +2, **WIS** +6, **CHA** +3
 
-**Items** dagger, +1 longsword, religious symbol of {@deity Iomedae|PC1}
+**Items** dagger, +1 longsword, religious symbol of Iomedae|PC1
 
 ---
 
@@ -25,11 +27,11 @@ uncommon, medium, humanoid
 
 Speed 25 feet
 
-**Melee** longsword +16 (magical, versatile <P>); **Damage** 1d8+9 slashing
+**Melee** ◆ longsword +16 (magical, versatile <P>); **Damage** 1d8+9 slashing
 
-**Melee** dagger +15 (agile, versatile <S>); **Damage** 1d4+8 piercing
+**Melee** ◆ dagger +15 (agile, versatile <S>); **Damage** 1d4+8 piercing
 
-**Melee** dagger +15 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
+**Ranged** ◆ dagger +15 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+8 piercing
 
 **Prepared divine Spells** (DC 25), attack +17
 
@@ -39,7 +41,7 @@ Speed 25 feet
 
   **2nd** enlarge, dispel magic, see the unseen
 
-  **3rd** crisis of faith, heal, heroism, holy light
+  **3rd** crisis of faith, heal (×3), heroism, holy light
 
 **Cleric Domain Spells** (DC 25)
 

@@ -5,9 +5,11 @@ lg, medium, archon, celestial
 
 ---
 
-**Perception** +35
+**Perception** +35; darkvision, true seeing
 
-**Languages** celestial, draconic, infernal
+**Languages** celestial, draconic, infernal; tongues
+
+**Skills** Acrobatics +31, Arcana +33, Athletics +37, Diplomacy +33, Intimidation +33, Occultism +33, Religion +37, Society +33, Warfare Lore +39
 
 **STR** +8, **DEX** +9, **CON** +6, **INT** +9, **WIS** +9, **CHA** +6
 
@@ -35,13 +37,17 @@ lg, medium, archon, celestial
 
 Speed 35 feet, fly 75 feet
 
-**Melee** returning starknife +38 (agile, deadly <1d8>, finesse, good, magical, reach <10 feet>, versatile <S>); **Damage** 3d4+16 piercing plus 2d6 good and 3d6 fire
+**Melee** ◆ returning starknife +38 (agile, deadly <1d8>, finesse, good, magical, reach <10 feet>, versatile <S>); **Damage** 3d4+16 piercing plus 2d6 good and 3d6 fire
 
-**Melee** starknife +38 (agile, deadly <1d8>, good, magical, thrown <60 feet>, versatile <S>); **Damage** 3d4+16 piercing plus 2d6 good and 3d6 fire
+**Ranged** ◆ starknife +38 (agile, deadly <1d8>, good, magical, thrown <60 feet>, versatile <S>); **Damage** 3d4+16 piercing plus 2d6 good and 3d6 fire
 
 **Innate divine Spells** (DC 43)
 
-  **4th** dimension door
+  **Constant (6th)** true seeing
+
+  **Constant (5th)** tongues
+
+  **4th** dimension door (at will)
 
   **5th** sending
 

@@ -5,9 +5,11 @@ cn, medium, aquatic, fey, water
 
 ---
 
-**Perception** +20
+**Perception** +20; low-light vision
 
 **Languages** aquan, common, sylvan
+
+**Skills** Athletics +12, Deception +20, Diplomacy +22, Stealth +22
 
 **STR** +0, **DEX** +7, **CON** +5, **INT** +3, **WIS** +5, **CHA** +7
 
@@ -29,13 +31,13 @@ cn, medium, aquatic, fey, water
 
 Speed 25 feet, swim 50 feet
 
-**Melee** poisonous touch +23 (agile, finesse, magical); **Damage** 6d6 poison
+**Melee** ◆ poisonous touch +23 (agile, finesse, magical); **Damage** 6d6 poison
 
 **Innate primal Spells** (DC 29)
 
   **4th** suggestion
 
-  **5th** control water, elemental form
+  **5th** control water, elemental form (×3)
 
   **6th** summon elemental
 

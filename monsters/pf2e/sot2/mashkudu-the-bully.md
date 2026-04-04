@@ -9,6 +9,8 @@ unique, ce, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +13, Deception +9, Intimidation +11, Stealth +11, Thievery +13
+
 **STR** +4, **DEX** +4, **CON** +2, **INT** +0, **WIS** +4, **CHA** +0
 
 **Items** hand crossbow (10 bolts), leather armor, longsword, thieves' tools
@@ -25,9 +27,9 @@ unique, ce, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** longsword +15 (versatile <P>); **Damage** 1d8+6 slashing
+**Melee** ◆ longsword +15 (versatile <P>); **Damage** 1d8+6 slashing
 
-**Melee** hand crossbow +15 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing
+**Ranged** ◆ hand crossbow +15 (range increment <60 feet>, reload <1>); **Damage** 1d6 piercing
 
 **Opportunistic Maneuver** ◈ **Trigger** Mashkudu Shoves, Trips, or Disarms a creature; Mashkudu attempts a Thievery check to Steal an object the target carries.
 

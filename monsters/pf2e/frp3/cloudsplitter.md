@@ -5,9 +5,11 @@ unique, lg, large, air, fire, phantom, spirit
 
 ---
 
-**Perception** +32
+**Perception** +32; greater darkvision, scent 60 feet (imprecise)
 
-**Languages** auran, celestial, draconic, tien
+**Languages** auran, celestial, draconic, tien; telepathy 100 feet
+
+**Skills** Acrobatics +35, Diplomacy +37, Nature +30, Stealth +35
 
 **STR** +7, **DEX** +9, **CON** +5, **INT** +5, **WIS** +6, **CHA** +9
 
@@ -31,17 +33,19 @@ unique, lg, large, air, fire, phantom, spirit
 
 Speed 60 feet
 
-**Melee** phantom hoof +35 (force, magical); **Damage** 4d10+15 force
+**Melee** ◆ phantom hoof +35 (force, magical); **Damage** 4d10+15 force
 
-**Melee** phantom horn +35 (agile, force, magical); **Damage** 4d8+15 force
+**Melee** ◆ phantom horn +35 (agile, force, magical); **Damage** 4d8+15 force
 
 **Innate divine Spells** (DC 41)
 
+  **Constant (9th)** air walk
+
   **Cantrips (9th)** light
 
-  **2nd** detect alignment
+  **2nd** detect alignment (at will)
 
-  **8th** calm emotions, gust of wind, heal, punishing winds, spirit link
+  **8th** calm emotions (at will), gust of wind (×3), heal (×2), punishing winds, spirit link
 
 **Breath Weapon** ◆◆ (divine, evocation, fire) Cloudsplitter breathes fire in a 30-foot cone, dealing 18d6 fire damage (DC 40 basic Reflex save). Cloudsplitter can't use Breath Weapon again for 1d4 rounds.
 

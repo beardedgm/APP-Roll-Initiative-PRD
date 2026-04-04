@@ -5,9 +5,11 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
 **Languages** aklo, common, infernal
+
+**Skills** Arcana +17, Astronomy Lore +21, Cheliax Lore +17, Deception +19, Intimidation +19, Occultism +21, Society +19, Stealth +18
 
 **STR** -5, **DEX** +3, **CON** +0, **INT** +6, **WIS** +3, **CHA** +4
 
@@ -23,7 +25,7 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive, double resistance vs. non-magical)
 
 **Recoil** If a character forcefully presents Fulvia's ring to Ioseff as an action with the manipulate trait, he must attempt a DC 26 Will save he's thereafter immune to Recoil for 24 hours. **Critical Success** 
 **Success** 
@@ -38,7 +40,7 @@ unique, ce, medium, ghost, incorporeal, spirit, undead
 
 Speed fly 25 feet
 
-**Melee** bloody ectoplasmic lash +19 (agile, finesse, magical, reach <10 feet>); **Damage** 2d8+7 negative
+**Melee** ◆ bloody ectoplasmic lash +19 (agile, finesse, magical, reach <10 feet>); **Damage** 2d8+7 negative
 
 **Innate occult Spells** (DC 28), attack +20
 

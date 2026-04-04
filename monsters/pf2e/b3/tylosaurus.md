@@ -5,7 +5,9 @@ n, gargantuan, animal
 
 ---
 
-**Perception** +18
+**Perception** +18; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Athletics +19, Stealth +19
 
 **STR** +7, **DEX** +5, **CON** +5, **INT** -4, **WIS** +4, **CHA** -2
 
@@ -23,9 +25,9 @@ n, gargantuan, animal
 
 Speed 5 feet, swim 80 feet
 
-**Melee** jaws +21; **Damage** 2d12+10 piercing plus Improved Grab plus Improved Grab
+**Melee** ◆ jaws +21; **Damage** 2d12+10 piercing plus Improved Grab plus Improved Grab
 
-**Melee** tail +19; **Damage** 2d6+10 bludgeoning
+**Melee** ◆ tail +19; **Damage** 2d6+10 bludgeoning
 
 **Aquatic Drag** ◆ **Requirements** The platecarpus has a creature grabbed; The platecarpus Swims up to half its Speed, carrying the grabbed creature with it. Strafing Chomp 1 The platecarpus Swims up to its Speed, making one jaws Strike at any point along the way. The Strike deals half damage.
 

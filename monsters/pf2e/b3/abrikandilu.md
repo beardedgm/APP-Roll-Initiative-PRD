@@ -5,9 +5,11 @@ ce, medium, demon, fiend
 
 ---
 
-**Perception** +10
+**Perception** +10; darkvision
 
-**Languages** abyssal, celestial, draconic
+**Languages** abyssal, celestial, draconic; telepathy 100 feet
+
+**Skills** Athletics +12, Intimidation +8
 
 **STR** +4, **DEX** +1, **CON** +3, **INT** -2, **WIS** +2, **CHA** +0
 
@@ -27,15 +29,15 @@ ce, medium, demon, fiend
 
 Speed 25 feet
 
-**Melee** claw +14 (agile); **Damage** 2d6+4 slashing
+**Melee** ◆ claw +14 (agile); **Damage** 2d6+4 slashing
 
-**Melee** jaws +14; **Damage** 3d6+4 piercing plus mutilating bite plus mutilating bite
+**Melee** ◆ jaws +14; **Damage** 3d6+4 piercing plus mutilating bite plus mutilating bite
 
-**Melee** hurled debris +11 (range increment <20 feet>); **Damage** 2d6+4 bludgeoning
+**Ranged** ◆ hurled debris +11 (range increment <20 feet>); **Damage** 2d6+4 bludgeoning
 
 **Innate divine Spells** (DC 20)
 
-  **2nd** fear
+  **2nd** fear (×2)
 
 **Mutilating Bite** (curse, divine, necromancy) When the abrikandilu hits a creature with a jaws Strike, the creature must succeed at a DC 21 Fortitude save or become physically mutilated. The creature then takes a –1 status penalty to Charisma-based checks. This penalty is cumulative up to –3 and remains even if the wounds are healed. The penalty is reduced by 1 every 24 hours until it reaches 0.
 

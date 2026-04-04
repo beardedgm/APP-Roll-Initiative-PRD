@@ -5,7 +5,9 @@ n, medium, animal
 
 ---
 
-**Perception** +5
+**Perception** +5; low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +4, Stealth +4
 
 **STR** +1, **DEX** +2, **CON** +0, **INT** -4, **WIS** +1, **CHA** -2
 
@@ -21,6 +23,6 @@ n, medium, animal
 
 Speed 35 feet
 
-**Melee** jaws +6 (finesse); **Damage** 1d6+1 piercing plus fleas plus fleas
+**Melee** ◆ jaws +6 (finesse); **Damage** 1d6+1 piercing plus fleas plus fleas
 
 **Fleas** Anyone bitten by a mangy wolf is sickened|CRB|sickened 1 for 1 minute unless they succeed at a DC 14 Fortitude save, but they can spend an Interact action to scratch away the fleas and remove the condition.

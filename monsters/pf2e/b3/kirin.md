@@ -5,9 +5,11 @@ rare, lg, large, air, beast, fire
 
 ---
 
-**Perception** +17
+**Perception** +17; darkvision, scent 60 feet (imprecise)
 
-**Languages** auran, celestial, common, draconic
+**Languages** auran, celestial, common, draconic; telepathy 100 feet
+
+**Skills** Acrobatics +17, Diplomacy +19, Nature +15, Religion +15, Stealth +17
 
 **STR** +5, **DEX** +6, **CON** +2, **INT** +2, **WIS** +4, **CHA** +6
 
@@ -29,17 +31,19 @@ rare, lg, large, air, beast, fire
 
 Speed 40 feet
 
-**Melee** hoof +18 (magical); **Damage** 2d10+8 bludgeoning
+**Melee** ◆ hoof +18 (magical); **Damage** 2d10+8 bludgeoning
 
-**Melee** horn +18 (agile, magical); **Damage** 2d8+8 piercing
+**Melee** ◆ horn +18 (agile, magical); **Damage** 2d8+8 piercing
 
 **Innate divine Spells** (DC 25)
 
+  **Constant (4th)** air walk
+
   **Cantrips (4th)** light
 
-  **1st** detect alignment
+  **1st** detect alignment (at will)
 
-  **3rd** calm emotions, heal, gust of wind
+  **3rd** calm emotions (at will), heal (×2), gust of wind (×3)
 
 **Breath Weapon** ◆◆ (divine, evocation, fire) The kirin breathes fire in a 30-foot cone, dealing 8d6 fire damage (DC 25 basic Reflex save). The kirin can't use Breath Weapon again for 1d4 rounds.
 

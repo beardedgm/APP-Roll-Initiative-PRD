@@ -5,9 +5,11 @@ rare, n, gargantuan, dragon, earth
 
 ---
 
-**Perception** +36
+**Perception** +36; darkvision, scent 60 feet (imprecise)
 
 **Languages** abyssal, auran, celestial, common, draconic, ignan, infernal, terran
+
+**Skills** Acrobatics +31, Athletics +38, Deception +37, Diplomacy +41, Intimidation +37, Occultism +31, Society +31, Stealth +31, Survival +34
 
 **STR** +10, **DEX** +5, **CON** +7, **INT** +5, **WIS** +8, **CHA** +9
 
@@ -33,17 +35,17 @@ rare, n, gargantuan, dragon, earth
 
 Speed 60 feet, fly 180 feet
 
-**Melee** jaws +38 (magical, reach <20 feet>); **Damage** 4d8+18 piercing plus 3d6 mental
+**Melee** ◆ jaws +38 (magical, reach <20 feet>); **Damage** 4d8+18 piercing plus 3d6 mental
 
-**Melee** claw +38 (agile, magical, reach <15 feet>); **Damage** 4d8+18 slashing plus Grab plus Grab
+**Melee** ◆ claw +38 (agile, magical, reach <15 feet>); **Damage** 4d8+18 slashing plus Grab plus Grab
 
-**Melee** tail +38 (magical, reach <30 feet>); **Damage** 4d8+18 bludgeoning plus Grab plus Grab
+**Melee** ◆ tail +38 (magical, reach <30 feet>); **Damage** 4d8+18 bludgeoning plus Grab plus Grab
 
 **Innate occult Spells** (DC 43)
 
-  **2nd** detect alignment
+  **2nd** detect alignment (at will)
 
-  **7th** suggestion
+  **7th** suggestion (at will)
 
   **9th** shape stone, suggestion, wall of stone
 

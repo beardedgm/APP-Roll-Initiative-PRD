@@ -5,7 +5,9 @@ ne, medium, animal
 
 ---
 
-**Perception** +15
+**Perception** +15; bloodsense 60 feet, low-light vision, scent 30 feet (imprecise)
+
+**Skills** Acrobatics +10, Athletics +15, Survival +15
 
 **STR** +5, **DEX** +2, **CON** +4, **INT** -4, **WIS** +2, **CHA** -2
 
@@ -27,7 +29,7 @@ ne, medium, animal
 
 Speed 40 feet
 
-**Melee** jaws +17; **Damage** 2d8+8 piercing
+**Melee** ◆ jaws +17; **Damage** 2d8+8 piercing
 
 **Chase Down** ◆ The blood boar Strides toward its quarry, ignoring terrain and gaining a +10-foot circumstance bonus to its Speed during the movement.
 

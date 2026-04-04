@@ -5,9 +5,11 @@ ne, medium, beast, human, humanoid, werecreature
 
 ---
 
-**Perception** +9
+**Perception** +9; echolocation 40 feet (precise), low-light vision
 
-**Languages** common
+**Languages** common; bat empathy
+
+**Skills** Acrobatics +8, Athletics +6, Deception +4, Society +5, Stealth +8
 
 **STR** +2, **DEX** +4, **CON** +3, **INT** +1, **WIS** +3, **CHA** +0
 
@@ -33,13 +35,13 @@ ne, medium, beast, human, humanoid, werecreature
 
 Speed 25 feet, fly 25 feet
 
-**Melee** fangs +10 (finesse); **Damage** 1d8+4 slashing plus curse of the werebat plus curse of the werebat
+**Melee** ◆ fangs +10 (finesse); **Damage** 1d8+4 slashing plus curse of the werebat plus curse of the werebat
 
-**Melee** wing +10 (agile, finesse); **Damage** 1d6+4 bludgeoning
+**Melee** ◆ wing +10 (agile, finesse); **Damage** 1d6+4 bludgeoning
 
-**Melee** dagger +10 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing
+**Melee** ◆ dagger +10 (agile, finesse, versatile <S>); **Damage** 1d4+4 piercing
 
-**Melee** dagger +10 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
+**Ranged** ◆ dagger +10 (agile, thrown <10 feet>, versatile <S>); **Damage** 1d4+4 piercing
 
 **Change Shape** ◆ (concentrate, polymorph, primal, transmutation) Human with fist for 1d4+2 bludgeoning and no fly Speed, or Medium giant bat with Speed 15 feet and fly 30 feet.
 

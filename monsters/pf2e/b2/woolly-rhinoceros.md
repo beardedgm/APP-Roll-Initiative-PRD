@@ -5,7 +5,9 @@ n, large, animal
 
 ---
 
-**Perception** +11
+**Perception** +11; scent 30 feet (imprecise)
+
+**Skills** Athletics +16, Survival +13
 
 **STR** +6, **DEX** +1, **CON** +5, **INT** -4, **WIS** +3, **CHA** -1
 
@@ -25,9 +27,9 @@ n, large, animal
 
 Speed 35 feet
 
-**Melee** horn +16 (reach <10 feet>); **Damage** 2d12+6 piercing
+**Melee** ◆ horn +16 (reach <10 feet>); **Damage** 2d12+6 piercing
 
-**Melee** foot +16; **Damage** 2d8+6 bludgeoning
+**Melee** ◆ foot +16; **Damage** 2d8+6 bludgeoning
 
 **Rhinoceros Charge** ◆◆ As rhinoceros, except 3d12+6 damage and DC 24
 

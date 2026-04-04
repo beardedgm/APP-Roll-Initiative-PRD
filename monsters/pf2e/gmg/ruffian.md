@@ -9,6 +9,8 @@ ne, medium, human, humanoid
 
 **Languages** common
 
+**Skills** Athletics +7, Intimidation +6, Stealth +6
+
 **STR** +3, **DEX** +2, **CON** +3, **INT** -1, **WIS** +2, **CHA** +0
 
 **Items** club, sling (10 bullets), studded leather armor
@@ -27,11 +29,11 @@ ne, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** club +9; **Damage** 1d6+5 bludgeoning
+**Melee** ◆ club +9; **Damage** 1d6+5 bludgeoning
 
-**Melee** sling +8 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+5 bludgeoning
+**Ranged** ◆ sling +8 (propulsive, range increment <50 feet>, reload <1>); **Damage** 1d6+5 bludgeoning
 
-**Melee** club +8 (thrown <10 feet>); **Damage** 1d6+5 bludgeoning
+**Ranged** ◆ club +8 (thrown <10 feet>); **Damage** 1d6+5 bludgeoning
 
 **Brutal Beating** The ruffian's brutality shakes foes' confidence. When the ruffian deals damage on a critical hit, the target is frightened 1, and the ruffian can knock the target up to 10 feet away (this is forced movement).
 

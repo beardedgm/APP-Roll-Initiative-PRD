@@ -5,7 +5,9 @@ uncommon, n, huge, animal
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, scent 30 feet (imprecise)
+
+**Skills** Athletics +20, Stealth +19, Survival +17
 
 **STR** +7, **DEX** +4, **CON** +6, **INT** -4, **WIS** +2, **CHA** +0
 
@@ -21,11 +23,11 @@ uncommon, n, huge, animal
 
 Speed 30 feet, swim 30 feet
 
-**Melee** jaws +22 (reach <15 feet>); **Damage** 2d12+10 piercing
+**Melee** ◆ jaws +22 (reach <15 feet>); **Damage** 2d12+10 piercing
 
-**Melee** tail +22 (agile, reach <20 feet>); **Damage** 2d6+10 bludgeoning
+**Melee** ◆ tail +22 (agile, reach <20 feet>); **Damage** 2d6+10 bludgeoning
 
-**Melee** foot +22 (reach <10 feet>); **Damage** 2d8+10 bludgeoning
+**Melee** ◆ foot +22 (reach <10 feet>); **Damage** 2d8+10 bludgeoning
 
 **Trample** ◆◆◆ Large or smaller, foot, DC 28
 

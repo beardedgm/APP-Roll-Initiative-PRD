@@ -5,9 +5,11 @@ rare, n, medium, leshy, plant
 
 ---
 
-**Perception** +42
+**Perception** +42; darkvision, plantsense 60 feet
 
-**Languages** arboreal, druidic, sylvan
+**Languages** arboreal, druidic, sylvan; green tongue
+
+**Skills** Acrobatics +39, Athletics +42, Deception +40, Diplomacy +40, Intimidation +40, Nature +48, Stealth +41, Survival +44
 
 **STR** +12, **DEX** +9, **CON** +11, **INT** +7, **WIS** +10, **CHA** +8
 
@@ -40,9 +42,9 @@ rare, n, medium, leshy, plant
 
 Speed 40 feet, climb 40 feet
 
-**Melee** vine +46 (deadly <3d12>, versatile <P>); **Damage** 4d10+27 bludgeoning plus absorb magic and Improved Grab plus absorb magic, Improved Grab
+**Melee** ◆ vine +46 (deadly <3d12>, versatile <P>); **Damage** 4d10+27 bludgeoning plus absorb magic and Improved Grab plus absorb magic, Improved Grab
 
-**Melee** thorn +43 (fatal <d12>, range increment <120 feet>, reload <0>); **Damage** 4d8+27 piercing plus embed plus embed
+**Ranged** ◆ thorn +43 (fatal <d12>, range increment <120 feet>, reload <0>); **Damage** 4d8+27 piercing plus embed plus embed
 
 **Innate primal Spells** (DC 48)
 
@@ -52,7 +54,7 @@ Speed 40 feet, climb 40 feet
 
   **9th** energy aegis
 
-  **10th** heal, regenerate, tree stride, true seeing, primal phenomenon
+  **10th** heal (×3), regenerate (×3), tree stride (at will), true seeing, primal phenomenon (×3)
 
 **Absorb Magic** ◆ The green man's vines leach away magic and transform it into life essence for the green man. On a successful vine Strike, the green man attempts to counteract one spell active on the target (typically one vexing the green man, or determined randomly if they aren't aware of specific effects), with a counteract level of 10 and a modifier of 1d20+38|+38. If the effect is counteracted, the green man gains 30 temporary Hit Points that last for 10 minutes.
 

@@ -5,9 +5,11 @@ cn, tiny, fey, sprite
 
 ---
 
-**Perception** +4
+**Perception** +4; low-light vision
 
-**Languages** common, sylvan
+**Languages** common, sylvan; speak with arthropods
+
+**Skills** Acrobatics +6, Crafting +6, Stealth +6, Confectionery Lore +6
 
 **STR** -1, **DEX** +4, **CON** +2, **INT** +2, **WIS** +0, **CHA** +3
 
@@ -23,9 +25,9 @@ cn, tiny, fey, sprite
 
 Speed 10 feet, fly 40 feet
 
-**Melee** stinger +8 (agile, finesse, magical); **Damage** 1d6-1 bludgeoning damage
+**Melee** ◆ stinger +8 (agile, finesse, magical); **Damage** 1d6-1 bludgeoning damage
 
-**Melee** sting shot +8 (evocation, magical, range <20 feet>); **Damage** 1d6 poison
+**Ranged** ◆ sting shot +8 (evocation, magical, range <20 feet>); **Damage** 1d6 poison
 
 **Innate primal Spells** (DC 17)
 

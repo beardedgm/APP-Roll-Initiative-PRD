@@ -5,13 +5,15 @@ unique, ne, medium, dhampir, human, humanoid
 
 ---
 
-**Perception** +11
+**Perception** +11; {@ability darkvision}
 
 **Languages** common, draconic, kelish, necril, osiriani
 
+**Skills** Arcana +13, Crafting +13, Deception +12, Intimidation +10, Religion +11, Society +11
+
 **STR** +0, **DEX** +2, **CON** +1, **INT** +4, **WIS** +2, **CHA** +3
 
-**Items** {@item explorer's clothing}, {@item lesser oil of unlife|APG}, {@item Nyctessa's staff|WtD5}, {@item void salts|WtD5}, spellbook
+**Items** explorer's clothing, lesser oil of unlife|APG, Nyctessa's staff|WtD5, void salts|WtD5, spellbook
 
 **Adept Crafter** Nyctessa can use the Craft activity to create alchemical and magical items. In addition to her known spells, her spellbook contains the formulas for bottled night|WtD5, lesser antiplague, lesser comprehension elixir, steelscour (moderate)|WtD5|moderate steelscour, oil of unlife (generic)|APG, unholy water, void salts|WtD5
 
@@ -29,17 +31,17 @@ unique, ne, medium, dhampir, human, humanoid
 
 Speed 25 feet
 
-**Melee** Nyctessa's staff +11 (two-hand <1d8>); **Damage** 1d4 bludgeoning plus sepulchral drain plus sepulchral drain
+**Melee** ◆ Nyctessa's staff +11 (two-hand <1d8>); **Damage** 1d4 bludgeoning plus sepulchral drain plus sepulchral drain
 
-**Melee** fangs +11 (grapple, unarmed); **Damage** 1d6 piercing
+**Melee** ◆ fangs +11 (grapple, unarmed); **Damage** 1d6 piercing
 
 **Prepared arcane Spells** (DC 23), attack +15
 
   **Cantrips (3rd)** chill touch, daze, detect magic, electric arc, ray of frost, shield
 
-  **1st** fear, grim tendrils, magic weapon
+  **1st** fear, grim tendrils (×2), magic weapon
 
-  **2nd** acid arrow, blood vendetta, dispel magic
+  **2nd** acid arrow, blood vendetta, dispel magic (×2)
 
   **3rd** bind undead, lightning bolt, vampiric touch
 

@@ -5,9 +5,11 @@ unique, ce, large, aberration
 
 ---
 
-**Perception** +33
+**Perception** +33; {@ability tremorsense} 60 feet (imprecise)
 
-**Languages** aklo (can't speak any language);
+**Languages** aklo (can't speak any language);; telepathy 100 feet
+
+**Skills** Athletics +32, Deception +35, Intimidation +35, Medicine +33, Occultism +31, Stealth +31
 
 **STR** +6, **DEX** +5, **CON** +4, **INT** +5, **WIS** +7, **CHA** +9
 
@@ -23,19 +25,21 @@ unique, ce, large, aberration
 
 ---
 
-Speed 40 feet
+Speed 40 feet, air walk
 
-**Melee** claw +35 (agile, magical, reach <10 feet>); **Damage** 3d10+14 slashing
+**Melee** ◆ claw +35 (agile, magical, reach <10 feet>); **Damage** 3d10+14 slashing
 
 **Innate occult Spells** (DC 42)
 
+  **Constant (4th)** air walk
+
   **2nd** hideous laughter
 
-  **3rd** fear
+  **3rd** fear (at will)
 
   **4th** restoration
 
-  **7th** crushing despair, warp mind
+  **7th** crushing despair (×3), warp mind (×3)
 
   **9th** unfathomable song
 

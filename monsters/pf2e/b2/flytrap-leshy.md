@@ -5,9 +5,11 @@ n, small, leshy, plant
 
 ---
 
-**Perception** +11
+**Perception** +11; darkvision
 
-**Languages** common, druidic, sylvan
+**Languages** common, druidic, sylvan; speak with plants (carnivorous plants only)
+
+**Skills** Athletics +12, Nature +10, Stealth +12
 
 **STR** +4, **DEX** +2, **CON** +1, **INT** +0, **WIS** +3, **CHA** +2
 
@@ -29,11 +31,11 @@ n, small, leshy, plant
 
 Speed 25 feet
 
-**Melee** flytrap mouth +13 (versatile <S>); **Damage** 1d8+6 piercing plus 1d6 acid and flytrap toxin plus flytrap toxin
+**Melee** ◆ flytrap mouth +13 (versatile <S>); **Damage** 1d8+6 piercing plus 1d6 acid and flytrap toxin plus flytrap toxin
 
-**Melee** flytrap hand +13 (agile, versatile <S>); **Damage** 1d6+6 piercing plus 1d6 acid and flytrap toxin plus flytrap toxin
+**Melee** ◆ flytrap hand +13 (agile, versatile <S>); **Damage** 1d6+6 piercing plus 1d6 acid and flytrap toxin plus flytrap toxin
 
-**Melee** spittle +11 (acid, range increment <10 feet>); **Damage** 1d6+6 acid plus flytrap toxin plus flytrap toxin
+**Ranged** ◆ spittle +11 (acid, range increment <10 feet>); **Damage** 1d6+6 acid plus flytrap toxin plus flytrap toxin
 
 **Innate primal Spells** (DC 21)
 

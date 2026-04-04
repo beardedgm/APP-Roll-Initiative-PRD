@@ -5,9 +5,11 @@ unique, cn, large, amphibious, beast, fey, water
 
 ---
 
-**Perception** +16
+**Perception** +16; darkvision
 
 **Languages** aquan, common, sylvan
+
+**Skills** Athletics +17, Intimidation +15, Nature +15, Performance +17, Survival +14
 
 **STR** +5, **DEX** +1, **CON** +4, **INT** +1, **WIS** +2, **CHA** +4
 
@@ -25,11 +27,11 @@ unique, cn, large, amphibious, beast, fey, water
 
 Speed 25 feet, swim 50 feet
 
-**Melee** jaws +18; **Damage** 2d10+9 piercing
+**Melee** ◆ jaws +18; **Damage** 2d10+9 piercing
 
-**Melee** tentacle +18 (reach <10 feet>); **Damage** 1d12+9 bludgeoning plus Knockdown plus Knockdown
+**Melee** ◆ tentacle +18 (reach <10 feet>); **Damage** 1d12+9 bludgeoning plus Knockdown plus Knockdown
 
-**Melee** water jet +16 (range increment <60 feet>); **Damage** 4d6 bludgeoning plus Push 10 feet
+**Ranged** ◆ water jet +16 (range increment <60 feet>); **Damage** 4d6 bludgeoning plus Push 10 feet
 
 **Spontaneous primal Spells** (DC 25)
 

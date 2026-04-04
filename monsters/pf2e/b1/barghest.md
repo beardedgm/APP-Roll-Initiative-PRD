@@ -5,9 +5,11 @@ ce, medium, fiend
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision, scent 30 feet (imprecise)
 
 **Languages** abyssal, common, goblin
+
+**Skills** Acrobatics +10, Deception +12, Diplomacy +9, Intimidation +11, Stealth +10, Survival +8
 
 **STR** +5, **DEX** +2, **CON** +3, **INT** +2, **WIS** +2, **CHA** +3
 
@@ -19,7 +21,7 @@ ce, medium, fiend
 
 **HP** 50
 
-**Resistances** fire 5, physical 5
+**Resistances** fire 5, physical 5 (except magical)
 
 **Attack of Opportunity** ◈
 
@@ -27,17 +29,17 @@ ce, medium, fiend
 
 Speed 25 feet
 
-**Melee** jaws +13; **Damage** 2d8+5 piercing
+**Melee** ◆ jaws +13; **Damage** 2d8+5 piercing
 
-**Melee** claw +13 (agile); **Damage** 2d6+5 slashing
+**Melee** ◆ claw +13 (agile); **Damage** 2d6+5 slashing
 
 **Innate divine Spells** (DC 21)
 
   **1st** charm
 
-  **3rd** levitate
+  **3rd** levitate (at will)
 
-  **4th** blink, confusion, dimension door
+  **4th** blink (at will), confusion, dimension door
 
 **Change Shape** ◆ (concentrate, divine, polymorph, transmutation) The barghest takes on the shape of a goblinoid (a goblin, hobgoblin, or bugbear) or a wolf, or it transforms back into its true form. When the barghest is a goblinoid, it loses its jaws and claw Strikes, it becomes Small if it is a goblin, and its Speed changes to 20 feet. When the barghest is a wolf, its Speed changes to 40 feet and its jaws gain Knockdown. Each individual barghest has only one goblinoid form and one wolf form.
 

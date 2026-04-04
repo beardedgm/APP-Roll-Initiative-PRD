@@ -9,6 +9,8 @@ rare, n, medium, construct, troop
 
 **Languages** tien (can't speak any language)
 
+**Skills** Athletics +18, Intimidation +20
+
 **STR** +8, **DEX** +4, **CON** +8, **INT** +1, **WIS** +3, **CHA** +4
 
 ---

@@ -5,9 +5,11 @@ unique, large, angel, celestial, holy
 
 ---
 
-**Perception** +32
+**Perception** +32; darkvision
 
-**Languages** diabolic, draconic, empyrean
+**Languages** diabolic, draconic, empyrean; truespeech
+
+**Skills** Athletics +36, Intimidation +34, Religion +36
 
 **STR** +8, **DEX** +4, **CON** +6, **INT** +5, **WIS** +6, **CHA** +7
 
@@ -29,17 +31,19 @@ unique, large, angel, celestial, holy
 
 Speed 25 feet, fly 60 feet
 
-**Melee** holy greatsword +36 (holy, magical, versatile <P>); **Damage** 3d12+19 slashing plus 1d4 spirit (or 2d4 spirit vs. an unholy target)
+**Melee** ◆ holy greatsword +36 (holy, magical, versatile <P>); **Damage** 3d12+19 slashing plus 1d4 spirit (or 2d4 spirit vs. an unholy target)
 
 **Innate divine Spells** (DC 41), attack +33
 
-  **2nd** invisibility, sure footing
+  **Constant (5th)** truespeech
 
-  **5th** breath of life, cleanse affliction, unfettered movement
+  **2nd** invisibility (at will), sure footing
 
-  **6th** blessed boundary, dispel magic
+  **5th** breath of life, cleanse affliction (×3), unfettered movement
 
-  **7th** charm, clear mind, divine decree, interplanar teleport
+  **6th** blessed boundary, dispel magic (at will)
+
+  **7th** charm, clear mind (at will), divine decree, interplanar teleport
 
   **8th** dispel magic, divine wrath, earthquake, heal, sunburst
 

@@ -5,7 +5,9 @@ n, small, animal
 
 ---
 
-**Perception** +7
+**Perception** +7; greater electrolocation 20 feet, low-light vision
+
+**Skills** Acrobatics +8, Athletics +5, Stealth +8
 
 **STR** +1, **DEX** +4, **CON** +3, **INT** -4, **WIS** +3, **CHA** +0
 
@@ -23,9 +25,9 @@ n, small, animal
 
 Speed 35 feet, swim 15 feet, climb 15 feet
 
-**Melee** jaws +10 (agile, finesse); **Damage** 1d8+3 piercing
+**Melee** ◆ jaws +10 (agile, finesse); **Damage** 1d8+3 piercing
 
-**Melee** shock +10 (nonlethal, range increment <5 feet>); **Damage** 2d6 electricity
+**Ranged** ◆ shock +10 (nonlethal, range increment <5 feet>); **Damage** 2d6 electricity
 
 **Amplify Voltage** ◈ **Trigger** A shocker lizard within 20 feet makes a shock Strike or uses Discharge; The shocker lizard lends some of its electrical power to the nearby lizard. This either causes the other lizard's shock Strike to lose the nonlethal trait or increases the DC of its Discharge to 20.
 

@@ -5,9 +5,11 @@ uncommon, ne, huge, dinosaur, humanoid
 
 ---
 
-**Perception** +31
+**Perception** +31; darkvision
 
-**Languages** common, ignan, sylvan
+**Languages** common, ignan, sylvan; speak with animals
+
+**Skills** Athletics +32, Crafting +28, Intimidation +28, Nature +30, Survival +30
 
 **STR** +8, **DEX** +5, **CON** +6, **INT** +4, **WIS** +6, **CHA** +4
 
@@ -25,19 +27,21 @@ uncommon, ne, huge, dinosaur, humanoid
 
 Speed 40 feet
 
-**Melee** spear +32 (magical, reach <15 feet>); **Damage** 3d6+16 piercing
+**Melee** ◆ spear +32 (magical, reach <15 feet>); **Damage** 3d6+16 piercing
 
-**Melee** mancatcher +31 (grab, magical, reach <20 feet>); **Damage** 2d6+16 slashing plus restrain plus restrain
+**Melee** ◆ mancatcher +31 (grab, magical, reach <20 feet>); **Damage** 2d6+16 slashing plus restrain plus restrain
 
-**Melee** jaws +30 (deadly <d12>, reach <15 feet>); **Damage** 3d10+16 piercing
+**Melee** ◆ jaws +30 (deadly <d12>, reach <15 feet>); **Damage** 3d10+16 piercing
 
-**Melee** tail +30 (agile, finesse, reach <10 feet>, trip); **Damage** 3d6+16 bludgeoning
+**Melee** ◆ tail +30 (agile, finesse, reach <10 feet>, trip); **Damage** 3d6+16 bludgeoning
 
-**Melee** spear +32 (magical, thrown <20 feet>); **Damage** 3d6+16 piercing
+**Ranged** ◆ spear +32 (magical, thrown <20 feet>); **Damage** 3d6+16 piercing
 
 **Innate primal Spells** (DC 37)
 
-  **3rd** animal vision
+  **Constant (2nd)** speak with animals
+
+  **3rd** animal vision (at will)
 
   **4th** air walk
 

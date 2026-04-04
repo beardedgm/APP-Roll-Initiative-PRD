@@ -9,6 +9,8 @@ rare, ln, medium, human, humanoid
 
 **Languages** taldane, tien
 
+**Skills** Acrobatics +32, Athletics +30, Diplomacy +27, Performance +26, Religion +32
+
 **STR** +8, **DEX** +9, **CON** +6, **INT** +5, **WIS** +6, **CHA** +5
 
 ---
@@ -23,11 +25,11 @@ rare, ln, medium, human, humanoid
 
 Speed 40 feet
 
-**Melee** fist +33 (agile, finesse, magical, nonlethal, unarmed); **Damage** 4d6+14 bludgeoning
+**Melee** ◆ fist +33 (agile, finesse, magical, nonlethal, unarmed); **Damage** 4d6+14 bludgeoning
 
-**Melee** sal blossom +33 (deadly <d10>, finesse, magical, unarmed); **Damage** 4d10+14 negative
+**Melee** ◆ sal blossom +33 (deadly <d10>, finesse, magical, unarmed); **Damage** 4d10+14 negative
 
-**Melee** temple bell +33 (magical, range increment <60 feet>, sonic); **Damage** 4d10+6 sonic
+**Ranged** ◆ temple bell +33 (magical, range increment <60 feet>, sonic); **Damage** 4d10+6 sonic
 
 **Monk Ki Spells** (DC 37), attack +28
 

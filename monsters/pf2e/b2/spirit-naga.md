@@ -5,9 +5,11 @@ uncommon, ne, large, aberration
 
 ---
 
-**Perception** +18
+**Perception** +18; darkvision
 
 **Languages** aklo, common
+
+**Skills** Acrobatics +18, Athletics +16, Deception +17, Intimidation +19, Occultism +20, Stealth +20
 
 **STR** +3, **DEX** +4, **CON** +3, **INT** +1, **WIS** +3, **CHA** +5
 
@@ -25,7 +27,7 @@ uncommon, ne, large, aberration
 
 Speed 25 feet, swim 15 feet
 
-**Melee** fangs +19 (agile, finesse); **Damage** 2d8+9 piercing plus spirit naga venom plus spirit naga venom
+**Melee** ◆ fangs +19 (agile, finesse); **Damage** 2d8+9 piercing plus spirit naga venom plus spirit naga venom
 
 **Spontaneous occult Spells** (DC 28), attack +20
 

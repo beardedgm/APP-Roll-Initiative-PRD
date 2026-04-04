@@ -5,13 +5,15 @@ le, medium, fiend, rakshasa
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
 **Languages** common, infernal, undercommon
 
+**Skills** Deception +23, Diplomacy +21, Intimidation +21, Occultism +18, Performance +19, Stealth +20
+
 **STR** +4, **DEX** +6, **CON** +4, **INT** +2, **WIS** +1, **CHA** +5
 
-**Items** {@runeItem kukri||+1 weapon potency||striking|}
+**Items** 
 
 ---
 
@@ -21,7 +23,7 @@ le, medium, fiend, rakshasa
 
 **HP** 155
 
-**Resistances** physical 10
+**Resistances** physical 10 (except piercing)
 
 **Weaknesses** good 10
 
@@ -31,11 +33,11 @@ le, medium, fiend, rakshasa
 
 Speed 35 feet
 
-**Melee** kukri +23 (agile, finesse, magical, trip); **Damage** 2d6+10 slashing
+**Melee** ◆ kukri +23 (agile, finesse, magical, trip); **Damage** 2d6+10 slashing
 
-**Melee** fangs +20 (agile, magical); **Damage** 2d12+10 piercing
+**Melee** ◆ fangs +20 (agile, magical); **Damage** 2d12+10 piercing
 
-**Melee** claw +22 (agile, finesse, magical); **Damage** 2d8+10 slashing
+**Melee** ◆ claw +22 (agile, finesse, magical); **Damage** 2d8+10 slashing
 
 **Spontaneous occult Spells** (DC 31)
 
@@ -53,7 +55,7 @@ Speed 35 feet
 
 **Innate occult Spells** (DC 31)
 
-  **3rd** mind reading
+  **3rd** mind reading (at will)
 
 **Change Shape** ◆ (concentrate, occult, polymorph, transmutation) The raja rakshasa takes on the appearance of any Medium humanoid. This doesn't change the raja rakshasa's Speed or its attack and damage modifiers with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning). It typically loses its fangs Strike unless the humanoid form has fangs or a similar unarmed attack.
 

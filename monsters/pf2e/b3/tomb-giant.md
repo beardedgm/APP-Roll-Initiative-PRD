@@ -5,9 +5,11 @@ ne, large, giant, humanoid
 
 ---
 
-**Perception** +25
+**Perception** +25; darkvision, lifesense 60 feet (imprecise)
 
 **Languages** common, jotun, necril
+
+**Skills** Athletics +25, Medicine +25, Religion +25, Stealth +21
 
 **STR** +7, **DEX** +3, **CON** +6, **INT** +3, **WIS** +7, **CHA** +4
 
@@ -29,15 +31,15 @@ ne, large, giant, humanoid
 
 Speed 30 feet
 
-**Melee** scythe +27 (deadly <d10>, magical, reach <10 feet>, trip); **Damage** 2d10+13 slashing
+**Melee** ◆ scythe +27 (deadly <d10>, magical, reach <10 feet>, trip); **Damage** 2d10+13 slashing
 
-**Melee** claw +26 (agile, reach <10 feet>); **Damage** 3d6+13 slashing plus dooming touch plus dooming touch
+**Melee** ◆ claw +26 (agile, reach <10 feet>); **Damage** 3d6+13 slashing plus dooming touch plus dooming touch
 
-**Melee** rock +24 (brutal, range increment <120 feet>); **Damage** 3d8+13 bludgeoning
+**Ranged** ◆ rock +24 (brutal, range increment <120 feet>); **Damage** 3d8+13 bludgeoning
 
 **Innate divine Spells** (DC 32)
 
-  **5th** bind undead, harm
+  **5th** bind undead (×3), harm (×3)
 
 **Dooming Touch** (divine, necromancy) The tomb giant's claws carry the accursed power of their foul gods. A creature hit by the tomb giant's claw Strike becomes doomed 1.
 

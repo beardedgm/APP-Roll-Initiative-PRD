@@ -5,9 +5,11 @@ unique, cn, small, ghost, incorporeal, kitsune, spirit, undead
 
 ---
 
-**Perception** +15
+**Perception** +15; {@ability darkvision}
 
 **Languages** common
+
+**Skills** Stealth +18, Survival +17
 
 **STR** -5, **DEX** +6, **CON** +2, **INT** +0, **WIS** +3, **CHA** +6
 
@@ -23,13 +25,13 @@ unique, cn, small, ghost, incorporeal, kitsune, spirit, undead
 
 **Immunities** death effects, disease, paralyzed, poison, precision, unconscious
 
-**Resistances** all damage 10
+**Resistances** all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
 
 ---
 
 Speed 30 feet
 
-**Melee** burning touch +18 (agile, finesse); **Damage** 2d8+12 fire plus foxfire curse
+**Melee** ◆ burning touch +18 (agile, finesse); **Damage** 2d8+12 fire plus foxfire curse
 
 **Change Shape** (divine, polymorph, transmutation, concentrate) Rin transforms into the tailless form of a specific small human. The tailless form can't be altered and resembles her fox-like humanoid form.
 

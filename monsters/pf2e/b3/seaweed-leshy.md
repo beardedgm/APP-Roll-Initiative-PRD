@@ -5,9 +5,11 @@ n, small, amphibious, leshy, plant
 
 ---
 
-**Perception** +10
+**Perception** +10; low-light vision
 
-**Languages** aquan, common, druidic, sylvan
+**Languages** aquan, common, druidic, sylvan; speak with plants (seaweed only)
+
+**Skills** Athletics +9, Nature +10, Stealth +9, Survival +8, Ocean Lore +9
 
 **STR** +2, **DEX** +4, **CON** +3, **INT** +0, **WIS** +3, **CHA** +1
 
@@ -25,9 +27,9 @@ n, small, amphibious, leshy, plant
 
 Speed 20 feet, swim 20 feet
 
-**Melee** seaweed strand +11 (agile, finesse, reach <10 feet>); **Damage** 1d8+4 bludgeoning
+**Melee** ◆ seaweed strand +11 (agile, finesse, reach <10 feet>); **Damage** 1d8+4 bludgeoning
 
-**Melee** water jet +11 (range increment <30 feet>); **Damage** 1d8+4 bludgeoning plus sea spray plus sea spray
+**Ranged** ◆ water jet +11 (range increment <30 feet>); **Damage** 1d8+4 bludgeoning plus sea spray plus sea spray
 
 **Innate primal Spells** (DC 20)
 

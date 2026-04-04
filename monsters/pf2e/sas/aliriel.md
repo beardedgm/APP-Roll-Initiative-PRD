@@ -5,13 +5,15 @@ unique, le, shadow, undead, vampire
 
 ---
 
-**Perception** +27
+**Perception** +27; darkvision
 
 **Languages** abyssal, common, infernal, jotun, necril, shadowtongue, thassilonian, varisian
 
+**Skills** Acrobatics +27, Arcana +29, Athletics +25, Deception +27, Occultism +27, Society +25, Stealth +29, Thassilon Lore +29
+
 **STR** +6, **DEX** +8, **CON** +4, **INT** +8, **WIS** +4, **CHA** +6
 
-**Items** {@item bracers of armor (type II)||bracers of armor type II}, {@item ring of wizardry (type IV)||ring of wizardry type IV}
+**Items** bracers of armor type II, ring of wizardry type IV
 
 ---
 
@@ -23,7 +25,7 @@ unique, le, shadow, undead, vampire
 
 **Immunities** death effects, disease, paralyze, poison, sleep
 
-**Resistances** all physical 15
+**Resistances** all physical 15 (except magical silver weapons or magical weapons shedding bright light)
 
 **Weaknesses** strigoi weaknesses
 
@@ -35,19 +37,19 @@ unique, le, shadow, undead, vampire
 
 Speed 25 feet, fly 25 feet
 
-**Melee** claw +29 (agile, magic); **Damage** 3d10+12 slashing plus Grab
+**Melee** ◆ claw +29 (agile, magic); **Damage** 3d10+12 slashing plus Grab
 
 **Wizard Spells Prepared** (DC 36), attack +28
 
   **Cantrips (8th)** chill touch, detect magic, electric arc, mage hand, prestidigitation
 
-  **1st** ray of enfeeblement, true strike
+  **1st** ray of enfeeblement (×2), true strike
 
   **2nd** deafness, mirror image, spectral hand
 
-  **3rd** blindness, mind reading, slow
+  **3rd** blindness, mind reading, slow (×2)
 
-  **4th** dimension door, grim tendrils, nightmare
+  **4th** dimension door (×2), grim tendrils (×2), nightmare
 
   **5th** cloudkill, mind probe, sending, shadow walk
 

@@ -5,9 +5,11 @@ uncommon, ne, large, undead
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** abyssal, celestial, common, infernal, necril
+
+**Skills** Arcana +21, Deception +21, Intimidation +23, Occultism +23, Stealth +19
 
 **STR** +7, **DEX** +3, **CON** +5, **INT** +5, **WIS** +4, **CHA** +5
 
@@ -27,7 +29,7 @@ uncommon, ne, large, undead
 
 Speed 30 feet, fly 30 feet
 
-**Melee** claw +24 (agile, reach <10 feet>); **Damage** 2d10+13 slashing plus drain life plus drain life
+**Melee** ◆ claw +24 (agile, reach <10 feet>); **Damage** 2d10+13 slashing plus drain life plus drain life
 
 **Innate occult Spells** (DC 31)
 

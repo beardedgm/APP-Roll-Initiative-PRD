@@ -5,9 +5,11 @@ ce, small, charau-ka, dragon, fire, humanoid, uncommon
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision, scent 30 feet (imprecise)
 
 **Languages** abyssal, draconic, mwangi
+
+**Skills** Acrobatics +12, Athletics +13, Intimidation +15, Religion +15, Survival +13
 
 **STR** +4, **DEX** +3, **CON** +2, **INT** +0, **WIS** +5, **CHA** +3
 
@@ -29,21 +31,21 @@ ce, small, charau-ka, dragon, fire, humanoid, uncommon
 
 Speed 25 feet, climb 25 feet
 
-**Melee** longsword +17 (magical, versatile <P>); **Damage** 2d8+6 slashing
+**Melee** ◆ longsword +17 (magical, versatile <P>); **Damage** 2d8+6 slashing
 
-**Melee** bite +16; **Damage** 1d10+6 piercing plus 1d6 fire
+**Melee** ◆ bite +16; **Damage** 1d10+6 piercing plus 1d6 fire
 
-**Melee** claw +16 (agile); **Damage** 1d10+6 slashing
+**Melee** ◆ claw +16 (agile); **Damage** 1d10+6 slashing
 
-**Melee** tail +16 (reach <10 feet>); **Damage** 1d8+6 slashing
+**Melee** ◆ tail +16 (reach <10 feet>); **Damage** 1d8+6 slashing
 
-**Melee** thrown rock +15 (deadly <d6>, thrown <20 feet>); **Damage** 2d6+6 bludgeoning
+**Ranged** ◆ thrown rock +15 (deadly <d6>, thrown <20 feet>); **Damage** 2d6+6 bludgeoning
 
 **Prepared divine Spells** (DC 25), attack +17
 
   **Cantrips (3rd)** daze, divine lance, produce flame, shield
 
-  **1st** burning hands, ray of enfeeblement
+  **1st** burning hands (×2), ray of enfeeblement
 
   **2nd** flaming sphere, heal
 

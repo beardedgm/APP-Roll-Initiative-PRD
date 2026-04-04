@@ -5,9 +5,11 @@ uncommon, cn, medium, aberration, humanoid
 
 ---
 
-**Perception** +12
+**Perception** +12; darkvision
 
 **Languages** common
+
+**Skills** Athletics +15, Intimidation +9, Medicine +14, Stealth +13, Survival +10
 
 **STR** +5, **DEX** +3, **CON** +4, **INT** +1, **WIS** +2, **CHA** +1
 
@@ -31,11 +33,11 @@ uncommon, cn, medium, aberration, humanoid
 
 Speed 35 feet
 
-**Melee** claw +17 (agile); **Damage** 2d6+8 slashing
+**Melee** ◆ claw +17 (agile); **Damage** 2d6+8 slashing
 
-**Melee** shield spikes +17; **Damage** 1d6+8 piercing
+**Melee** ◆ shield spikes +17; **Damage** 1d6+8 piercing
 
-**Melee** blowgun +16 (magical, range increment <20 feet>, reload <1>); **Damage** 1 piercing plus harvester poison plus harvester poison
+**Ranged** ◆ blowgun +16 (magical, range increment <20 feet>, reload <1>); **Damage** 1 piercing plus harvester poison plus harvester poison
 
 **Consume Organ** ◆ (manipulate) **Requirements** The umasi is adjacent to the corpse of a Small or larger creature that died within the last minute; The umasi harvests and consumes a vital organ from the corpse, gaining 15 temporary Hit Points and a +1 status bonus to attack and damage rolls for 10 minutes. They can gain this benefit only once from any given corpse.
 

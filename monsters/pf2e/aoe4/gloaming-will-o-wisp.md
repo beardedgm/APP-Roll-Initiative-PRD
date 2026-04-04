@@ -5,9 +5,11 @@ uncommon, ce, small, aberration, air
 
 ---
 
-**Perception** +25
+**Perception** +25; greater darkvision
 
 **Languages** aklo, common
+
+**Skills** Acrobatics +29, Deception +23, Intimidation +23, Stealth +27
 
 **STR** -5, **DEX** +8, **CON** +2, **INT** +2, **WIS** +6, **CHA** +4
 
@@ -29,7 +31,7 @@ uncommon, ce, small, aberration, air
 
 Speed fly 50 feet
 
-**Melee** shock +27 (electricity, magical); **Damage** 4d8+13 electricity
+**Melee** ◆ shock +27 (electricity, magical); **Damage** 4d8+13 electricity
 
 **Feed on Fear** ◆ (concentrate) **Requirements** An enemy is under a fear effect or dying within 15 feet of the will-o'-wisp; The will-o'-wisp feeds on the creature's terror. They regains 4d8 Hit Points, and if they've Gone Dark, their glow reignites. A will-o'-wisp can take this action only once per round.
 

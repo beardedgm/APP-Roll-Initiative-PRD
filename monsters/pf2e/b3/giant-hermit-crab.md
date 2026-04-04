@@ -5,7 +5,9 @@ n, large, amphibious, animal
 
 ---
 
-**Perception** +13
+**Perception** +13; darkvision, {@ability tremorsense} 15 feet (imprecise)
+
+**Skills** Acrobatics +9, Athletics +15, Stealth +9
 
 **STR** +6, **DEX** +2, **CON** +4, **INT** -4, **WIS** +2, **CHA** +0
 
@@ -25,9 +27,9 @@ n, large, amphibious, animal
 
 Speed 20 feet, swim 15 feet, climb 10 feet
 
-**Melee** big claw +15; **Damage** 2d8+8 piercing plus Grab plus Grab
+**Melee** ◆ big claw +15; **Damage** 2d8+8 piercing plus Grab plus Grab
 
-**Melee** claw +15 (agile); **Damage** 2d4+8 piercing
+**Melee** ◆ claw +15 (agile); **Damage** 2d4+8 piercing
 
 **Constrict** ◆ 1d8+6 bludgeoning, DC 22
 

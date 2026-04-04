@@ -5,9 +5,11 @@ uncommon, ce, gargantuan, aberration
 
 ---
 
-**Perception** +29
+**Perception** +29; greater darkvision, thoughtsense 100 feet
 
-**Languages** aklo, alghollthu, undercommon
+**Languages** aklo, alghollthu, undercommon; telepathy 100 feet
+
+**Skills** Acrobatics +25, Athletics +28, Deception +29, Diplomacy +27, Intimidation +29, Occultism +29
 
 **STR** +9, **DEX** +4, **CON** +6, **INT** +8, **WIS** +6, **CHA** +8
 
@@ -33,17 +35,17 @@ uncommon, ce, gargantuan, aberration
 
 Speed 30 feet, fly 50 feet
 
-**Melee** jaws +28 (reach <15 feet>); **Damage** 3d12+13 piercing plus Improved Grab
+**Melee** ◆ jaws +28 (reach <15 feet>); **Damage** 3d12+13 piercing plus Improved Grab
 
-**Melee** rasping tongue +28 (agile, fatal <d10>, reach <25 feet>); **Damage** 3d8+13 slashing
+**Melee** ◆ rasping tongue +28 (agile, fatal <d10>, reach <25 feet>); **Damage** 3d8+13 slashing
 
 **Innate occult Spells** (DC 38), attack +30
 
   **Cantrips (8th)** daze, detect magic, mage hand, telekinetic projectile
 
-  **5th** mind probe, telekinetic haul
+  **5th** mind probe (at will), telekinetic haul (at will)
 
-  **6th** scrying, suggestion
+  **6th** scrying (×3), suggestion (at will)
 
   **7th** phantasmal calamity, teleport
 

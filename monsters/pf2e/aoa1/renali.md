@@ -9,6 +9,8 @@ unique, cg, medium, anadi, humanoid
 
 **Languages** anadi, common
 
+**Skills** Athletics +6, Crafting +10, Deception +7, Medicine +12, Nature +10, Stealth +10, Survival +10
+
 **STR** +0, **DEX** +2, **CON** +0, **INT** +2, **WIS** +4, **CHA** +1
 
 ---
@@ -23,7 +25,7 @@ unique, cg, medium, anadi, humanoid
 
 Speed 25 feet, climb 25 feet
 
-**Melee** fangs +12 (finesse); **Damage** 2d6+3 piercing plus anadi venom plus anadi venom
+**Melee** ◆ fangs +12 (finesse); **Damage** 2d6+3 piercing plus anadi venom plus anadi venom
 
 **Innate arcane Spells** (DC 22)
 

@@ -5,9 +5,11 @@ rare, ne, large, construct
 
 ---
 
-**Perception** +19
+**Perception** +19; darkvision
 
 **Languages** common
+
+**Skills** Lore +19 (any known by its preserved heads), Occultism +22, Religion +22
 
 **STR** +7, **DEX** +0, **CON** +3, **INT** +5, **WIS** +0, **CHA** +0
 
@@ -29,9 +31,9 @@ rare, ne, large, construct
 
 Speed 25 feet
 
-**Melee** cranium remover +23 (deadly <d12>, sweep); **Damage** 3d8+9 slashing
+**Melee** ◆ cranium remover +23 (deadly <d12>, sweep); **Damage** 3d8+9 slashing
 
-**Melee** embalming fluid +21 (range <120 feet>); **Damage** 2d8+3 mental plus 2d8+3 negative
+**Ranged** ◆ embalming fluid +21 (range <120 feet>); **Damage** 2d8+3 mental plus 2d8+3 negative
 
 **Jettison Cranium** ◆◆ (incapacitation, mental, negative) The cranium preserver ejects one of its preserved-head jars at a point within 100 feet. The jar explodes, and all creatures in a 10-foot burst must attempt a DC 28 Will save. **Critical Success** 
 **Success** 

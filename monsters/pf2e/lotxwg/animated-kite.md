@@ -5,7 +5,9 @@ small, construct, mindless
 
 ---
 
-**Perception** +6
+**Perception** +6; {@ability darkvision}
+
+**Skills** Acrobatics +7
 
 **STR** +0, **DEX** +3, **CON** +0, **INT** -5, **WIS** +0, **CHA** -5
 
@@ -25,7 +27,7 @@ small, construct, mindless
 
 Speed fly 30 feet
 
-**Melee** frame +7 (magical, finesse); **Damage** 1d6 bludgeoning
+**Melee** ◆ frame +7 (magical, finesse); **Damage** 1d6 bludgeoning
 
 **Attach Line** ◆ (manipulate) The animated kite gives its line to an adjacent ally with a free hand. The kite remains attached until the creature releases it or the kite flies more than 60 feet away. A creature between them can also sever the line with a successful Strike against AC 13 that deals any amount of slashing damage.
 

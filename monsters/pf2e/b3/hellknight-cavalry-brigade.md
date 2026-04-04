@@ -9,6 +9,8 @@ ln, gargantuan, animal, human, humanoid, troop
 
 **Languages** common, infernal
 
+**Skills** Acrobatics +13, Athletics +18, Intimidation +17, Religion +12, Society +12, Hell Lore +12
+
 **STR** +6, **DEX** +1, **CON** +4, **INT** +2, **WIS** +2, **CHA** +3
 
 ---
@@ -27,7 +29,7 @@ ln, gargantuan, animal, human, humanoid, troop
 
 ---
 
-Speed 40 feet
+Speed 40 feet, troop movement
 
 **Arrow Volley** ◆◆ The Hellknights draw or reload their longbows, then launch a ranged attack in the form of a volley. This volley is a 10-foot burst within 100 feet that deals 4d8 piercing damage (DC 23 basic Reflex save). When the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst.
 

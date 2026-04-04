@@ -5,9 +5,11 @@ unique, le, medium, human, humanoid
 
 ---
 
-**Perception** +17
+**Perception** +17; sharp eyes
 
 **Languages** common
+
+**Skills** Athletics +17, Deception +14, Diplomacy +16, Intimidation +16, Society +14, Criminal Lore +13
 
 **STR** +5, **DEX** +1, **CON** +0, **INT** +1, **WIS** +3, **CHA** +4
 
@@ -29,9 +31,9 @@ unique, le, medium, human, humanoid
 
 Speed 25 feet
 
-**Melee** bastard sword +21 (magical, two-hand d12); **Damage** 2d8+9 slashing
+**Melee** ◆ bastard sword +21 (magical, two-hand d12); **Damage** 2d8+9 slashing
 
-**Melee** composite shortbow +16 (deadly 1d10, propulsive, range increment 60 feet, reload 0); **Damage** 1d6+6 piercing
+**Ranged** ◆ composite shortbow +16 (deadly 1d10, propulsive, range increment 60 feet, reload 0); **Damage** 1d6+6 piercing
 
 **Power Attack** ◆◆ Darricus makes a melee Strike that counts as two attacks when calculating his multiple attack penalty. If this strike hits, it deals an extra die of weapon damage.
 

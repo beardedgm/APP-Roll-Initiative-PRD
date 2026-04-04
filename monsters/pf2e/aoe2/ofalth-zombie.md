@@ -5,7 +5,9 @@ rare, ne, large, aberration, mindless, undead, zombie
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
+
+**Skills** Athletics +20
 
 **STR** +7, **DEX** +3, **CON** +6, **INT** -5, **WIS** +0, **CHA** +2
 
@@ -29,9 +31,9 @@ rare, ne, large, aberration, mindless, undead, zombie
 
 Speed 30 feet
 
-**Melee** fist +18 (reach <10 feet>); **Damage** 2d8+11 bludgeoning plus wretched weeps plus wretched weeps
+**Melee** ◆ fist +18 (reach <10 feet>); **Damage** 2d8+11 bludgeoning plus wretched weeps plus wretched weeps
 
-**Melee** fling offal +17 (range increment <30 feet>); **Damage** 2d6+11 bludgeoning plus wretched weeps plus wretched weeps
+**Ranged** ◆ fling offal +17 (range increment <30 feet>); **Damage** 2d6+11 bludgeoning plus wretched weeps plus wretched weeps
 
 **Bury in Offal** ◆ The ofalth zombie makes a fling offal Strike and compares the attack roll result to the AC of any foes within the area of a 15-foot cone emanating from the ofalth zombie. This counts as two attacks for the ofalth zombie's multiple attack penalty. The ofalth zombie can't use Bury in Offal again until it moves at least 10 feet to a different space.
 

@@ -5,9 +5,11 @@ uncommon, ng, huge, dragon, earth, elemental
 
 ---
 
-**Perception** +20
+**Perception** +20; darkvision, scent 60 feet (imprecise), {@ability tremorsense} 30 feet (imprecise)
 
 **Languages** common, draconic, terran, undercommon
+
+**Skills** Acrobatics +19, Athletics +24, Deception +22, Intimidation +22, Nature +19, Stealth +21, Survival +20
 
 **STR** +7, **DEX** +2, **CON** +5, **INT** +2, **WIS** +3, **CHA** +5
 
@@ -31,15 +33,15 @@ uncommon, ng, huge, dragon, earth, elemental
 
 Speed 50 feet, fly 120 feet, burrow 35 feet
 
-**Melee** jaws +24 (sonic, reach <15 feet>); **Damage** 2d8+13 slashing plus 3d6 piercing
+**Melee** ◆ jaws +24 (sonic, reach <15 feet>); **Damage** 2d8+13 slashing plus 3d6 piercing
 
-**Melee** claw +24 (agile, magical, reach <10 feet>); **Damage** 2d8+13 slashing
+**Melee** ◆ claw +24 (agile, magical, reach <10 feet>); **Damage** 2d8+13 slashing
 
-**Melee** tail +22 (magical, reach <20 feet>); **Damage** 1d10+13 slashing
+**Melee** ◆ tail +22 (magical, reach <20 feet>); **Damage** 1d10+13 slashing
 
 **Innate primal Spells** (DC 30)
 
-  **3rd** color spray, glitterdust, hypnotic pattern
+  **3rd** color spray (×3), glitterdust, hypnotic pattern
 
 **Breath Weapon** ◆◆ (evocation, primal) The dragon breathes a flurry of piercing crystals that deal 12d6 piercing damage in a 40-foot cone (DC 30 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.
 

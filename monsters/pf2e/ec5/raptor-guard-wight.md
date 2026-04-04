@@ -5,9 +5,11 @@ rare, ne, medium, undead
 
 ---
 
-**Perception** +22
+**Perception** +22; darkvision
 
 **Languages** draconic, necril, undercommon
+
+**Skills** Acrobatics +24, Athletics +27, Intimidation +27, Stealth +24, Survival +22
 
 **STR** +8, **DEX** +5, **CON** +3, **INT** +0, **WIS** +3, **CHA** +4
 
@@ -31,13 +33,13 @@ rare, ne, medium, undead
 
 Speed 25 feet
 
-**Melee** spear +27 (magical); **Damage** 2d6+14 piercing plus drain life and terror master plus drain life, terror master
+**Melee** ◆ spear +27 (magical); **Damage** 2d6+14 piercing plus drain life and terror master plus drain life, terror master
 
-**Melee** claw +26 (agile); **Damage** 3d6+14 slashing plus drain life and terror master plus drain life, terror master
+**Melee** ◆ claw +26 (agile); **Damage** 3d6+14 slashing plus drain life and terror master plus drain life, terror master
 
-**Melee** jaws +26; **Damage** 3d8+14 piercing plus drain life and terror master plus drain life, terror master
+**Melee** ◆ jaws +26; **Damage** 3d8+14 piercing plus drain life and terror master plus drain life, terror master
 
-**Melee** spear +24 (magical, range increment <20 feet>); **Damage** 2d6+14 piercing plus terror master and hungry spear plus terror master, hungry spear
+**Ranged** ◆ spear +24 (magical, range increment <20 feet>); **Damage** 2d6+14 piercing plus terror master and hungry spear plus terror master, hungry spear
 
 **Drain Life** (divine, necromancy) When the Raptor Guard wight damages a living creature with a melee Strike, the wight gains 13 temporary Hit Points and the target creature must succeed at a DC 32 Fortitude save or become drained|CRB|drained 1. Further damage dealt by the wight increases the drained condition by 1 on a failed save, to a maximum of drained|CRB|drained 4.
 

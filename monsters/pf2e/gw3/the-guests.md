@@ -5,7 +5,9 @@ unique, cn, medium, aberration, humanoid
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
+
+**Skills** Acrobatics +14, Athletics +17
 
 **STR** +4, **DEX** +3, **CON** +4, **INT** -4, **WIS** +2, **CHA** +0
 
@@ -27,7 +29,7 @@ unique, cn, medium, aberration, humanoid
 
 Speed 25 feet
 
-**Melee** claw +17 (versatile <B>); **Damage** 2d6+10 slashing plus 1d6 cold
+**Melee** ◆ claw +17 (versatile <B>); **Damage** 2d6+10 slashing plus 1d6 cold
 
 **Frozen Wind** ◆◆ The guest exhales a blast of freezing wind from its body in a 20-foot cone. All creatures in this area take 8d6 cold damage (DC 25 basic Reflex save). The Guest can't use Frozen Wind again for 1d4 rounds.
 

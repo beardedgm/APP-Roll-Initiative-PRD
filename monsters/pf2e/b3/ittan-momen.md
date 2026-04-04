@@ -5,9 +5,11 @@ n, medium, kami
 
 ---
 
-**Perception** +7
+**Perception** +7; darkvision, {@ability tremorsense} 30 feet (imprecise)
 
 **Languages** common
+
+**Skills** Acrobatics +8, Deception +6, Stealth +8
 
 **STR** +2, **DEX** +4, **CON** +2, **INT** +0, **WIS** +1, **CHA** +0
 
@@ -29,7 +31,7 @@ n, medium, kami
 
 Speed fly 30 feet
 
-**Melee** body +10 (finesse); **Damage** 1d8+2 bludgeoning plus Grab plus Grab
+**Melee** ◆ body +10 (finesse); **Damage** 1d8+2 bludgeoning plus Grab plus Grab
 
 **Constrict** ◆ Damage 1d8 bludgeoning, DC 18
 

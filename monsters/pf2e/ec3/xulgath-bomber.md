@@ -5,9 +5,11 @@ uncommon, ce, medium, humanoid, xulgath
 
 ---
 
-**Perception** +15
+**Perception** +15; darkvision
 
 **Languages** draconic, undercommon
+
+**Skills** Acrobatics +17, Athletics +14, Crafting +17, Stealth +15, Thievery +15
 
 **STR** +3, **DEX** +4, **CON** +1, **INT** +4, **WIS** +2, **CHA** +0
 
@@ -31,15 +33,15 @@ uncommon, ce, medium, humanoid, xulgath
 
 Speed 25 feet
 
-**Melee** greatpick +16 (fatal <d12>); **Damage** 1d12+5 piercing plus concentrated xulgath bile plus concentrated xulgath bile
+**Melee** ◆ greatpick +16 (fatal <d12>); **Damage** 1d12+5 piercing plus concentrated xulgath bile plus concentrated xulgath bile
 
-**Melee** jaws +16; **Damage** 2d6+5 piercing
+**Melee** ◆ jaws +16; **Damage** 2d6+5 piercing
 
-**Melee** claw +16 (agile, finesse); **Damage** 2d4+5 slashing
+**Melee** ◆ claw +16 (agile, finesse); **Damage** 2d4+5 slashing
 
-**Melee** acid flask +17 (range increment <20 feet>, splash); **Damage** 5 acid damage plus 2d6+2 persistent acid and 4 acid splash
+**Ranged** ◆ acid flask +17 (range increment <20 feet>, splash); **Damage** 5 acid damage plus 2d6+2 persistent acid and 4 acid splash
 
-**Melee** alchemist's fire +17 (range increment <20 feet>, splash); **Damage** 2d8+2 fire plus 4 persistent fire and 4 fire splash
+**Ranged** ◆ alchemist's fire +17 (range increment <20 feet>, splash); **Damage** 2d8+2 fire plus 4 persistent fire and 4 fire splash
 
 **Concentrated Xulgath Bile** (poison)
 
