@@ -13,7 +13,7 @@ const VALID_CRS = [
   '21', '22', '23', '24', '25', '26', '27', '28', '29', '30',
 ];
 
-/** Skeleton template users can start from */
+/** Skeleton template for D&D 5e monsters */
 export const MONSTER_JSON_TEMPLATE = {
   name: 'Custom Monster',
   size: 'Medium',
@@ -44,6 +44,116 @@ export const MONSTER_JSON_TEMPLATE = {
   damageImmunities: '',
   damageVulnerabilities: '',
   conditionImmunities: '',
+};
+
+/**
+ * Filled-out template for Pathfinder 2e creatures.
+ * Based on how a Young Green Dragon would look — shows all sections in use.
+ * Users can modify this to create their own custom creatures.
+ */
+export const PF2E_MONSTER_JSON_TEMPLATE = {
+  '_instructions': 'Fill out this template to create a custom PF2e creature. Delete any fields you do not need. The _instructions and _comment fields are ignored by the importer.',
+
+  'name': 'Shadowfang Worg',
+  'level': 4,
+
+  '_comment_traits': 'Traits: Include alignment (N, NG, NE, CG, CE, LG, LE, LN, CN), size (Tiny/Small/Medium/Large/Huge/Gargantuan), rarity if not Common (Uncommon/Rare/Unique), and creature type traits.',
+  'traits': ['NE', 'Medium', 'Beast', 'Shadow'],
+
+  'perception': {
+    'std': 12,
+    'senses': [
+      { 'name': 'darkvision' },
+      { 'name': 'scent', 'range': 30, 'type': 'imprecise' }
+    ]
+  },
+
+  'languages': {
+    'languages': [
+      { 'name': 'Common' },
+      { 'name': 'Shadowtongue' }
+    ]
+  },
+
+  'skills': [
+    { 'name': 'Athletics', 'std': 12 },
+    { 'name': 'Intimidation', 'std': 11 },
+    { 'name': 'Stealth', 'std': 13 },
+    { 'name': 'Survival', 'std': 10 }
+  ],
+
+  '_comment_abilityMods': 'PF2e uses ability MODIFIERS (-5 to +10), not scores. These are the +/- values, not 1-30.',
+  'abilityMods': {
+    'str': 4, 'dex': 3, 'con': 3, 'int': -2, 'wis': 2, 'cha': 1
+  },
+
+  'defenses': {
+    'ac': { 'std': 21 },
+    'savingThrows': {
+      'fort': { 'std': 13 },
+      'ref': { 'std': 11 },
+      'will': { 'std': 9 }
+    },
+    'hp': [{ 'hp': 65 }],
+    'immunities': [],
+    'resistances': [{ 'name': 'cold', 'amount': 5 }],
+    'weaknesses': [{ 'name': 'fire', 'amount': 5 }]
+  },
+
+  'speed': { 'walk': 35 },
+
+  'attacks': [
+    {
+      'range': 'Melee',
+      'name': 'jaws',
+      'attack': 14,
+      'traits': [],
+      'damage': '2d8+4 piercing'
+    },
+    {
+      '_comment': 'Agile weapons use reduced Multiple Attack Penalty: -4/-8 instead of -5/-10',
+      'range': 'Melee',
+      'name': 'claw',
+      'attack': 14,
+      'traits': ['agile'],
+      'damage': '1d8+4 slashing'
+    }
+  ],
+
+  'spellcasting': [],
+
+  'abilities': {
+    '_comment_top': 'TOP abilities appear BEFORE the AC/Saves/HP block. Use for: passive auras, always-on effects, and interaction abilities like Frightful Presence.',
+    'top': [
+      {
+        'name': 'Shadow Camouflage',
+        'entries': ['The shadowfang worg gains a +2 circumstance bonus to Stealth checks in dim light or darkness.']
+      }
+    ],
+
+    '_comment_mid': 'MID abilities appear BETWEEN defenses and offense. Use for: reactions, defensive triggers, and abilities like Attack of Opportunity, Shield Block, or Ferocity.',
+    'mid': [
+      {
+        'name': 'Reactive Bite',
+        'activity': { 'unit': 'reaction', 'number': 1 },
+        'trigger': 'A creature within reach of the worg\'s jaws attempts to move away',
+        'entries': ['The worg makes a jaws Strike against the triggering creature.']
+      }
+    ],
+
+    '_comment_bot': 'BOT abilities appear AFTER attacks and spells. Use for: special attack actions, breath weapons, multi-action activities like Draconic Frenzy or Pounce.',
+    'bot': [
+      {
+        'name': 'Shadow Pounce',
+        'activity': { 'unit': 'action', 'number': 2 },
+        'entries': ['The worg Strides twice. If it ends its movement within melee reach of a creature, it can make a jaws Strike against that creature. If the worg is in dim light or darkness, this Strike deals an additional 1d6 cold damage.']
+      },
+      {
+        'name': 'Pack Attack',
+        'entries': ['The worg\'s Strikes deal an additional 1d6 damage to creatures within reach of at least one of the worg\'s allies.']
+      }
+    ]
+  }
 };
 
 /**

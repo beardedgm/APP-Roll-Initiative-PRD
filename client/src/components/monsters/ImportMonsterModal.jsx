@@ -2,7 +2,7 @@ import { useState, useRef } from 'react';
 import Modal from '../ui/Modal';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
-import { parseMonsterJSON, validateMonsterData, MONSTER_JSON_TEMPLATE, parsePf2eMonsterJSON, validatePf2eMonsterData } from '../../utils/monsterImport';
+import { parseMonsterJSON, validateMonsterData, MONSTER_JSON_TEMPLATE, PF2E_MONSTER_JSON_TEMPLATE, parsePf2eMonsterJSON, validatePf2eMonsterData } from '../../utils/monsterImport';
 
 export default function ImportMonsterModal() {
   const closeModal = useUIStore(s => s.closeModal);
@@ -80,7 +80,8 @@ export default function ImportMonsterModal() {
   }
 
   function handleLoadTemplate() {
-    const text = JSON.stringify(MONSTER_JSON_TEMPLATE, null, 2);
+    const template = isPf2e ? PF2E_MONSTER_JSON_TEMPLATE : MONSTER_JSON_TEMPLATE;
+    const text = JSON.stringify(template, null, 2);
     setJsonText(text);
     setParsed(null);
     setErrors([]);
