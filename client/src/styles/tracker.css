@@ -888,7 +888,6 @@ body.is-resizing .resize-handle::after {
   font-size: 0.8rem;
   color: var(--color-text-secondary);
   letter-spacing: 0.06em;
-  text-transform: uppercase;
 }
 
 .dice-toast__total {
@@ -2669,6 +2668,10 @@ body.is-resizing .resize-handle::after {
   letter-spacing: 0.05em;
   font-size: 0.75rem;
   color: var(--color-accent-gold);
+}
+
+.right-panel__dice-collapsed-last {
+  text-transform: none;
 }
 
 .right-panel__dice-collapsed-last {
