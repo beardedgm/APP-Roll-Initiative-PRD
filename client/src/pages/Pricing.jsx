@@ -3,6 +3,7 @@ import { useCurrentUser } from '../api/useAuth';
 import { useCreateCheckout } from '../api/useSubscription';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import SEO from '../components/layout/SEO';
 import '../styles/marketing.css';
 
 export default function Pricing() {
@@ -22,6 +23,11 @@ export default function Pricing() {
 
   return (
     <>
+      <SEO
+        title="Pricing — Free Demo & Full Access Plans | Roll Initiative"
+        description="Try Roll Initiative free with 20 demo monsters and all 3,600+ spells. Unlock 5,700+ D&D 5e and Pathfinder 2e monsters, custom creatures, cloud saves, and shareable player view for $6/month."
+        path="/pricing"
+      />
       <Navbar />
       <main className="pricing-page">
         <h1 className="pricing-page__title">Choose Your Path</h1>

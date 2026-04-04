@@ -3,6 +3,7 @@ import { Swords, Heart, Monitor, Dices, Save, RotateCcw, BookOpen, Scroll } from
 import useScrollReveal from '../hooks/useScrollReveal';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import SEO from '../components/layout/SEO';
 import '../styles/marketing.css';
 
 export default function Features() {
@@ -10,6 +11,11 @@ export default function Features() {
 
   return (
     <div className="marketing">
+      <SEO
+        title="Features — Monsters, Spells, Dice Roller & More | Roll Initiative"
+        description="Explore Roll Initiative's combat tools: 5,700+ D&D 5e and Pathfinder 2e monsters with full stat blocks, 3,600+ spells, built-in dice roller, real-time player view, and cloud encounter saves."
+        path="/features"
+      />
       <Navbar />
 
       {/* Hero */}

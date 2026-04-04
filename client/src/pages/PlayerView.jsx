@@ -1,5 +1,6 @@
 import useCombatStore from '../store/useCombatStore';
 import PlayerViewLayout from '../components/player/PlayerViewLayout';
+import SEO from '../components/layout/SEO';
 
 export default function PlayerView() {
   const combatState = useCombatStore(s => s.state);
@@ -16,11 +17,14 @@ export default function PlayerView() {
   };
 
   return (
+    <>
+    <SEO title="Player View | Roll Initiative" description="Player view for Roll Initiative combat tracker." path="/play" noindex />
     <PlayerViewLayout
       encounter={encounter}
       isLoading={false}
       error={false}
       latestSharedRoll={latestSharedRoll}
     />
+    </>
   );
 }

@@ -1,5 +1,6 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
+import { HelmetProvider } from 'react-helmet-async';
 import * as Sentry from '@sentry/react';
 import posthog from 'posthog-js';
 import './styles/shared.css';
@@ -24,6 +25,8 @@ if (import.meta.env.VITE_POSTHOG_KEY) {
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <App />
+    <HelmetProvider>
+      <App />
+    </HelmetProvider>
   </StrictMode>,
 );

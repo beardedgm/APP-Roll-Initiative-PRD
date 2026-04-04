@@ -1,10 +1,16 @@
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import SEO from '../components/layout/SEO';
 import '../styles/marketing.css';
 
 export default function Privacy() {
   return (
     <>
+      <SEO
+        title="Privacy Policy | Roll Initiative"
+        description="Privacy Policy for Roll Initiative. Learn how we handle your data, what cookies we use, and your privacy rights."
+        path="/privacy"
+      />
       <Navbar />
       <main className="legal-page">
         <div className="legal-container">

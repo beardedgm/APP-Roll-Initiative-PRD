@@ -3,6 +3,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { useLogin } from '../api/useAuth';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import SEO from '../components/layout/SEO';
 import TurnstileWidget from '../components/ui/TurnstileWidget';
 import '../styles/marketing.css';
 
@@ -30,6 +31,7 @@ export default function Login() {
 
   return (
     <>
+      <SEO title="Log In | Roll Initiative" description="Log in to Roll Initiative." path="/login" noindex />
       <Navbar />
       <main className="auth-page">
         <div className="auth-card">

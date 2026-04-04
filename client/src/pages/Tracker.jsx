@@ -17,6 +17,7 @@ import ShareLinkModal from '../components/tracker/ShareLinkModal';
 import ImportMonsterModal from '../components/monsters/ImportMonsterModal';
 import MonsterFormModal from '../components/monsters/MonsterFormModal';
 import { migrateLocalStorageToStore } from '../utils/migrateLocalStorage';
+import SEO from '../components/layout/SEO';
 import '../styles/tracker.css';
 
 const DEFAULT_LEFT_WIDTH = 320;
@@ -170,6 +171,12 @@ export default function Tracker() {
 
   return (
     <>
+      <SEO
+        title="Combat Tracker | Roll Initiative"
+        description="Run D&D 5e and Pathfinder 2e combat encounters with initiative tracking, HP management, dice roller, and real-time player view."
+        path="/tracker"
+        noindex
+      />
       <TrackerHeader />
       <main
         className="dm-main dm-main--3col"

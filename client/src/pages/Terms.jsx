@@ -1,10 +1,16 @@
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import SEO from '../components/layout/SEO';
 import '../styles/marketing.css';
 
 export default function Terms() {
   return (
     <>
+      <SEO
+        title="Terms of Service | Roll Initiative"
+        description="Terms of Service for Roll Initiative, a free online D&D 5e and Pathfinder 2e initiative tracker and combat management tool."
+        path="/terms"
+      />
       <Navbar />
       <main className="legal-page">
         <div className="legal-container">
