@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Swords, Monitor, Heart, Dices, BookOpen, Check } from 'lucide-react';
+import { Swords, Monitor, Heart, Dices, BookOpen, Scroll, Check } from 'lucide-react';
 import useScrollReveal from '../hooks/useScrollReveal';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
@@ -35,9 +35,9 @@ export default function Landing() {
           </h1>
           <p className="hero__subtitle reveal">
             The D&amp;D encounter tracker built for speed. Manage initiative, HP,
-            and dice rolls with 5,700+ pre-loaded creatures from official SRDs.
-            Works as a Pathfinder 2e encounter tracker too &mdash; share the turn
-            order with your players in real time, no login required.
+            and dice rolls with 5,700+ creatures and 3,600+ spells from official
+            SRDs. Works as a Pathfinder 2e encounter tracker too &mdash; share
+            the turn order with your players in real time, no login required.
           </p>
           <div className="hero__actions reveal">
             <Link to="/tracker" className="btn btn--lg btn--primary">Launch App</Link>
@@ -57,7 +57,7 @@ export default function Landing() {
           </p>
         </div>
 
-        <div className="features-grid features-grid--four reveal-stagger">
+        <div className="features-grid features-grid--five reveal-stagger">
           <div className="feature-card feature-card--blue reveal">
             <div className="feature-card__icon"><Monitor size={28} /></div>
             <h3 className="feature-card__title">Real-Time Player Display</h3>
@@ -95,6 +95,16 @@ export default function Landing() {
               own custom monsters.
             </p>
           </div>
+
+          <div className="feature-card feature-card--purple reveal">
+            <div className="feature-card__icon"><Scroll size={28} /></div>
+            <h3 className="feature-card__title">3,600+ Spells</h3>
+            <p className="feature-card__desc">
+              Browse spells from D&amp;D 5e and Pathfinder 2e. Filter by level,
+              school, tradition, or category. Spell names in stat blocks are
+              clickable &mdash; tap to view full descriptions mid-combat.
+            </p>
+          </div>
         </div>
       </section>
 
@@ -120,7 +130,7 @@ export default function Landing() {
               </li>
               <li>
                 <span className="showcase__list-icon"><Check size={16} /></span>
-                5,700+ searchable monsters with full stat blocks
+                5,700+ monsters and 3,600+ spells with full stat blocks
               </li>
               <li>
                 <span className="showcase__list-icon"><Check size={16} /></span>

@@ -44,7 +44,9 @@ export default function Pricing() {
               <li>Add unlimited combatants</li>
               <li>Dice roller with advantage</li>
               <li>5,700+ monsters from official SRDs</li>
+              <li>3,600+ spells with full descriptions</li>
               <li>Full stat blocks with clickable dice</li>
+              <li>Clickable spell names in stat blocks</li>
               <li>Custom monster creation</li>
               <li>Character library</li>
               <li>JSON export/import</li>

@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Swords, Heart, Monitor, Dices, Save, RotateCcw, BookOpen } from 'lucide-react';
+import { Swords, Heart, Monitor, Dices, Save, RotateCcw, BookOpen, Scroll } from 'lucide-react';
 import useScrollReveal from '../hooks/useScrollReveal';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
@@ -75,6 +75,38 @@ export default function Features() {
               <span className="feature-tag">Full Stat Blocks</span>
               <span className="feature-tag">Clickable Dice</span>
               <span className="feature-tag">Custom Monsters</span>
+            </div>
+          </div>
+        </div>
+
+        {/* Spell Library */}
+        <div className="feature-detail feature-detail--purple reveal">
+          <div className="feature-detail__icon-wrap"><Scroll size={32} /></div>
+          <div className="feature-detail__text">
+            <h2 className="feature-detail__title">3,600+ Spells</h2>
+            <p className="feature-detail__desc">
+              Browse and search a complete spell library for D&amp;D 5e and
+              Pathfinder 2e. Filter by level, school, tradition, or category
+              to find the spell you need in seconds. Every spell includes a full
+              description with clickable dice notation. Spell names in creature
+              stat blocks are clickable &mdash; tap any spell to view its full
+              description without leaving the encounter.
+            </p>
+            <p className="feature-detail__sources">
+              <strong>D&amp;D 5e sources:</strong> SRD 5.1, SRD 5.2, Deep
+              Magic, Level Up: Advanced 5e
+            </p>
+            <p className="feature-detail__sources">
+              <strong>Pathfinder 2e sources:</strong> Core Rulebook, Advanced
+              Player&rsquo;s Guide, Secrets of Magic, Gods &amp; Magic, Book of
+              the Dead, Dark Archive, Rage of Elements, and 50+ adventure path
+              supplements
+            </p>
+            <div className="feature-detail__tags">
+              <span className="feature-tag">5e &amp; PF2e</span>
+              <span className="feature-tag">Full Descriptions</span>
+              <span className="feature-tag">Clickable in Stat Blocks</span>
+              <span className="feature-tag">Filter &amp; Search</span>
             </div>
           </div>
         </div>
