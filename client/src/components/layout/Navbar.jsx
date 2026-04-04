@@ -86,6 +86,15 @@ export default function Navbar() {
             Features
           </Link>
         </li>
+        <li>
+          <Link
+            to="/help"
+            onClick={closeMenu}
+            className={`site-nav__link${location.pathname === '/help' ? ' site-nav__link--active' : ''}`}
+          >
+            Help
+          </Link>
+        </li>
         {user ? (
           <>
             <li>

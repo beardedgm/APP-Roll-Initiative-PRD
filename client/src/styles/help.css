@@ -1,0 +1,268 @@
+/* ============================================================
+   help.css — Help / User Guide page styles
+   Built on shared.css design tokens
+   ============================================================ */
+
+/* ── Page Layout ─────────────────────────────────────────────── */
+.help-page {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  min-height: 100vh;
+  padding-top: 72px; /* Navbar height */
+  background: var(--color-bg-dark);
+}
+
+/* ── Sidebar ─────────────────────────────────────────────────── */
+.help-sidebar {
+  position: sticky;
+  top: 72px;
+  height: calc(100vh - 72px);
+  overflow-y: auto;
+  padding: var(--space-lg) 0;
+  background: var(--color-bg-mid);
+  border-right: 1px solid var(--color-border);
+}
+
+.help-sidebar__title {
+  padding: 0 var(--space-lg) var(--space-md);
+  font-family: var(--font-heading);
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-accent-gold);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.help-sidebar__nav {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.help-sidebar__link {
+  display: block;
+  padding: 10px var(--space-lg);
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  border-left: 3px solid transparent;
+  transition: color var(--transition-fast), background var(--transition-fast), border-color var(--transition-fast);
+}
+
+.help-sidebar__link:hover {
+  color: var(--color-text-primary);
+  background: rgba(201, 162, 103, 0.06);
+}
+
+.help-sidebar__link--active {
+  color: var(--color-accent-gold);
+  border-left-color: var(--color-accent-gold);
+  background: rgba(201, 162, 103, 0.08);
+}
+
+/* Mobile toggle — hidden on desktop */
+.help-sidebar__toggle {
+  display: none;
+}
+
+/* ── Content Area ────────────────────────────────────────────── */
+.help-content {
+  max-width: 800px;
+  padding: var(--space-xl) clamp(var(--space-lg), 5vw, 64px);
+  padding-bottom: 80px;
+}
+
+/* ── Section ─────────────────────────────────────────────────── */
+.help-section {
+  margin-bottom: 56px;
+  scroll-margin-top: 96px; /* Offset for fixed navbar */
+}
+
+.help-section:last-child {
+  margin-bottom: 0;
+}
+
+.help-section h2 {
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-md);
+  padding-bottom: var(--space-sm);
+  border-bottom: 1px solid var(--color-border);
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.help-section h3 {
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-sm);
+}
+
+.help-section p {
+  font-family: var(--font-body);
+  font-size: 0.9375rem;
+  line-height: 1.7;
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-md);
+}
+
+.help-section ul {
+  list-style: none;
+  margin-bottom: var(--space-md);
+  padding-left: 0;
+}
+
+.help-section li {
+  position: relative;
+  padding-left: 20px;
+  font-family: var(--font-body);
+  font-size: 0.9375rem;
+  line-height: 1.7;
+  color: var(--color-text-secondary);
+  margin-bottom: 6px;
+}
+
+.help-section li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--color-accent-gold);
+  opacity: 0.6;
+}
+
+.help-section code {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.85em;
+  padding: 2px 6px;
+  border-radius: var(--radius-sm);
+  background: rgba(201, 162, 103, 0.1);
+  color: var(--color-accent-gold);
+}
+
+.help-section strong {
+  color: var(--color-text-primary);
+  font-weight: 600;
+}
+
+.help-section a {
+  color: var(--color-accent-gold);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(201, 162, 103, 0.3);
+  transition: border-color var(--transition-fast);
+}
+
+.help-section a:hover {
+  border-bottom-color: var(--color-accent-gold);
+}
+
+/* ── Full Access Badge ───────────────────────────────────────── */
+.help-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 10px;
+  font-family: var(--font-body);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-accent-gold);
+  background: rgba(201, 162, 103, 0.12);
+  border: 1px solid rgba(201, 162, 103, 0.25);
+  border-radius: var(--radius-full);
+  white-space: nowrap;
+}
+
+/* ── FAQ Items ───────────────────────────────────────────────── */
+.help-faq-item {
+  margin-bottom: var(--space-lg);
+  padding: var(--space-md) var(--space-lg);
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+}
+
+.help-faq-item dt {
+  font-family: var(--font-body);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-sm);
+}
+
+.help-faq-item dd {
+  font-family: var(--font-body);
+  font-size: 0.9375rem;
+  line-height: 1.7;
+  color: var(--color-text-secondary);
+  margin: 0;
+}
+
+/* ── Mobile Responsive ───────────────────────────────────────── */
+@media (max-width: 768px) {
+  .help-page {
+    grid-template-columns: 1fr;
+  }
+
+  .help-sidebar {
+    position: fixed;
+    top: 72px;
+    left: 0;
+    right: 0;
+    height: auto;
+    max-height: calc(100vh - 72px);
+    z-index: 50;
+    border-right: none;
+    border-bottom: 1px solid var(--color-border);
+    transform: translateY(-100%);
+    opacity: 0;
+    pointer-events: none;
+    transition: transform 250ms ease, opacity 250ms ease;
+  }
+
+  .help-sidebar--open {
+    transform: translateY(0);
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .help-sidebar__toggle {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    position: fixed;
+    top: 80px;
+    left: var(--space-md);
+    z-index: 51;
+    padding: 8px 14px;
+    font-family: var(--font-body);
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    background: var(--color-bg-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition: color var(--transition-fast), border-color var(--transition-fast);
+  }
+
+  .help-sidebar__toggle:hover {
+    color: var(--color-text-primary);
+    border-color: var(--color-border-light);
+  }
+
+  .help-content {
+    padding-top: 56px; /* Room for the toggle button */
+  }
+}

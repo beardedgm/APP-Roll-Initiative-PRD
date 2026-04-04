@@ -7,6 +7,7 @@ export default function Footer() {
       <ul className="site-footer__links">
         <li><Link to="/" className="site-footer__link">Home</Link></li>
         <li><Link to="/features" className="site-footer__link">Features</Link></li>
+        <li><Link to="/help" className="site-footer__link">Help</Link></li>
         <li><Link to="/tracker" className="site-footer__link">Launch App</Link></li>
         <li><Link to="/terms" className="site-footer__link">Terms</Link></li>
         <li><Link to="/privacy" className="site-footer__link">Privacy</Link></li>
