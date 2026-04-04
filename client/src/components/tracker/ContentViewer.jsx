@@ -79,10 +79,21 @@ function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
   const { data: spellNames } = useSpellNames(monsterGameSystem);
   const pushContent = useUIStore(s => s.pushContent);
 
+  // Compute the rendered HTML before the effect so we can use it as a dependency.
+  // This ensures the click handler is re-attached whenever the HTML content changes.
+  const renderedHtml = (!loading && monster)
+    ? DOMPurify.sanitize(
+        makeSpellsClickable(
+          makeDiceClickable(marked.parse(monster.rawMarkdown || buildFallbackMarkdown(monster))),
+          spellNames || []
+        ),
+        { ADD_ATTR: ['data-dice', 'data-spell-slug'], ADD_TAGS: ['span'] }
+      )
+    : null;
+
   // Event delegation for dice clicks and spell link clicks in the rendered HTML.
-  // Must re-run when monster loads (detailRef is null during loading state).
   useEffect(() => {
-    if (!detailRef.current) return;
+    if (!detailRef.current || !renderedHtml) return;
 
     const el = detailRef.current;
     const handler = (e) => {
@@ -104,7 +115,7 @@ function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
 
     el.addEventListener('click', handler);
     return () => el.removeEventListener('click', handler);
-  }, [onRollDice, monster, loading, spellNames, pushContent]);
+  }, [onRollDice, renderedHtml, pushContent]);
 
   const handleDelete = useCallback((deleteSlug) => {
     try {
@@ -137,14 +148,6 @@ function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
     );
   }
 
-  const markdown = monster.rawMarkdown || buildFallbackMarkdown(monster);
-  const htmlWithDice = makeDiceClickable(marked.parse(markdown));
-  const htmlWithSpells = makeSpellsClickable(htmlWithDice, spellNames || []);
-  const html = DOMPurify.sanitize(htmlWithSpells, {
-    ADD_ATTR: ['data-dice', 'data-spell-slug'],
-    ADD_TAGS: ['span'],
-  });
-
   return (
     <div className="content-viewer">
       <div className="content-viewer__header">
@@ -174,10 +177,11 @@ function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
           )}
         </div>
       </div>
+      {/* Content is sanitized via DOMPurify in renderedHtml computation above */}
       <div
         ref={detailRef}
         className="stat-block-content"
-        dangerouslySetInnerHTML={{ __html: html }}
+        dangerouslySetInnerHTML={{ __html: renderedHtml }}
       />
     </div>
   );
