@@ -13,7 +13,7 @@ const VALID_CRS = [
   '21', '22', '23', '24', '25', '26', '27', '28', '29', '30',
 ];
 
-/** Skeleton template users can start from */
+/** Skeleton template for D&D 5e monsters */
 export const MONSTER_JSON_TEMPLATE = {
   name: 'Custom Monster',
   size: 'Medium',
@@ -44,6 +44,74 @@ export const MONSTER_JSON_TEMPLATE = {
   damageImmunities: '',
   damageVulnerabilities: '',
   conditionImmunities: '',
+};
+
+/** Skeleton template for Pathfinder 2e creatures */
+export const PF2E_MONSTER_JSON_TEMPLATE = {
+  name: 'Custom Creature',
+  level: 3,
+  traits: ['N', 'Medium', 'Beast'],
+  perception: {
+    std: 10,
+    senses: [{ name: 'darkvision' }, { name: 'scent', range: 30, type: 'imprecise' }],
+  },
+  languages: {
+    languages: [{ name: 'Common' }],
+  },
+  skills: [
+    { name: 'Athletics', std: 11 },
+    { name: 'Stealth', std: 9 },
+  ],
+  abilityMods: {
+    '_comment': 'PF2e uses modifiers (-5 to +10), not ability scores',
+    str: 4, dex: 2, con: 3, int: -4, wis: 1, cha: -2,
+  },
+  defenses: {
+    ac: { std: 19 },
+    savingThrows: {
+      fort: { std: 12 },
+      ref: { std: 9 },
+      will: { std: 7 },
+    },
+    hp: [{ hp: 52 }],
+    immunities: [],
+    resistances: [],
+    weaknesses: [{ name: 'fire', amount: 5 }],
+  },
+  speed: { walk: 30, climb: 20 },
+  attacks: [
+    {
+      range: 'Melee',
+      name: 'jaws',
+      attack: 12,
+      traits: ['reach <10 feet>'],
+      damage: '1d10+4 piercing',
+    },
+    {
+      range: 'Melee',
+      name: 'claw',
+      attack: 12,
+      traits: ['agile'],
+      damage: '1d8+4 slashing',
+    },
+  ],
+  spellcasting: [],
+  abilities: {
+    '_comment_top': 'TOP: Passive abilities and auras that appear BEFORE defenses (e.g., Frightful Presence, At-Will spells, interaction abilities)',
+    top: [
+      { name: 'Keen Scent', entries: ['The creature can smell creatures within 60 feet as a precise sense.'] },
+    ],
+    '_comment_mid': 'MID: Reactive/defensive abilities that appear BETWEEN defenses and offense (e.g., Attack of Opportunity, Shield Block, Ferocity)',
+    mid: [],
+    '_comment_bot': 'BOT: Offensive actions the creature takes on its turn, AFTER attacks (e.g., Breath Weapon, Pounce, special multi-action activities)',
+    bot: [
+      {
+        name: 'Pounce',
+        activity: { unit: 'action', number: 1 },
+        entries: ['The creature Strides and makes a Strike at the end of that movement.'],
+      },
+    ],
+  },
 };
 
 /**
