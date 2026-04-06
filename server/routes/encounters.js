@@ -108,13 +108,13 @@ router.post('/api/encounters/:id/share', asyncHandler(async (req, res) => {
 
   if (!encounter.shareCode) {
     // Try up to 3 times in case of collision
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < 5; i++) {
       try {
         encounter.shareCode = Encounter.generateShareCode();
         await encounter.save();
         break;
       } catch (err) {
-        if (err.code !== 11000 || i === 2) throw err;
+        if (err.code !== 11000 || i === 4) throw err;
       }
     }
   }

@@ -52,7 +52,7 @@ const EncounterSchema = new mongoose.Schema({
 }, { timestamps: true });
 
 EncounterSchema.statics.generateShareCode = function () {
-  return crypto.randomBytes(4).toString('hex'); // 8-char hex code
+  return crypto.randomBytes(8).toString('hex'); // 16-char hex code
 };
 
 const Encounter = mongoose.model('Encounter', EncounterSchema);

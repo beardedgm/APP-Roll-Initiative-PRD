@@ -10,7 +10,6 @@ export function migrateLocalStorageToStore() {
   if (localStorage.getItem(MIGRATION_KEY)) return;
 
   const store = useUserDataStore.getState();
-  let migrated = false;
 
   // Migrate characters
   try {
@@ -24,7 +23,7 @@ export function migrateLocalStorageToStore() {
           }
         }
         localStorage.removeItem('saved_characters');
-        migrated = true;
+
       }
     }
   } catch { /* ignore */ }
@@ -41,7 +40,7 @@ export function migrateLocalStorageToStore() {
           }
         }
         localStorage.removeItem('custom_monsters');
-        migrated = true;
+
       }
     }
   } catch { /* ignore */ }
@@ -67,14 +66,10 @@ export function migrateLocalStorageToStore() {
           }
         }
         localStorage.removeItem('dnd_saved_encounters');
-        migrated = true;
+
       }
     }
   } catch { /* ignore */ }
-
-  if (migrated) {
-    console.log('[migration] Migrated localStorage data to UserData store');
-  }
 
   localStorage.setItem(MIGRATION_KEY, '1');
 }
