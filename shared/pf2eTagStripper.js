@@ -21,6 +21,7 @@ const ABILITY_MAP = {
  */
 export function stripPf2eTags(text) {
   if (!text || typeof text !== 'string') return '';
+  if (text.length > 50000) return text;
 
   let result = text;
   let prev;

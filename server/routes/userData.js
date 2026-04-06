@@ -24,7 +24,7 @@ router.get('/api/user-data', requireAuth, asyncHandler(async (req, res) => {
 }));
 
 // ── Update user data (merge strategy: newest change wins) ──
-router.put('/api/user-data', requireSubscription, validate(updateUserDataSchema), asyncHandler(async (req, res) => {
+router.put('/api/user-data', requireAuth, requireSubscription, validate(updateUserDataSchema), asyncHandler(async (req, res) => {
   const { characters, customMonsters, encounterPresets } = req.validated;
 
   // Get or create current server doc

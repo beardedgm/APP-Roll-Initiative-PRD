@@ -90,7 +90,7 @@ const allowedOrigins = process.env.NODE_ENV === 'production'
   : ['http://localhost:5173'];
 
 if (process.env.NODE_ENV === 'production' && allowedOrigins.length === 0) {
-  logger.warn('Neither CORS_ORIGINS nor APP_URL is set — CORS will block all browser requests');
+  throw new Error('CORS_ORIGINS or APP_URL must be set in production');
 }
 
 app.use(cors({

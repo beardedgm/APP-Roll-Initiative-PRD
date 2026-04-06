@@ -8,8 +8,8 @@ const presetCombatantSchema = z.object({
   initiativeModifier: z.number().default(0),
   ac: z.number().min(0).max(99).default(10),
   hp: z.object({
-    current: z.number(),
-    max: z.number().min(1),
+    current: z.number().int().min(0).max(99999),
+    max: z.number().int().min(1).max(99999),
   }),
   status: z.enum(['normal', 'unconscious']).default('normal'),
   monsterSlug: z.string().optional(),
@@ -26,7 +26,7 @@ const presetDiceHistoryEntrySchema = z.object({
 });
 
 const characterSchema = z.object({
-  id: z.string().min(1),
+  id: z.string().min(1).max(100).regex(/^[\w-]+$/, 'ID must contain only word characters and hyphens'),
   name: z.string().min(1).max(100),
   type: z.enum(['player', 'npc']).default('player'),
   maxHP: z.number().int().min(1).max(99999).nullable().default(null),
@@ -42,7 +42,7 @@ const entrySchema = z.object({
 });
 
 const customMonsterSchema = z.object({
-  slug: z.string().min(1).max(200),
+  slug: z.string().min(1).max(200).regex(/^[a-z0-9._-]+$/i, 'Slug must contain only letters, numbers, dots, hyphens, and underscores'),
   name: z.string().min(1).max(100),
   isCustom: z.boolean().optional().default(true),
   sourceKey: z.string().max(50).optional().default('custom'),

@@ -18,8 +18,8 @@ const combatantSchema = z.object({
   initiativeModifier: z.number().default(0),
   ac: z.number().min(0).max(99).default(10),
   hp: z.object({
-    current: z.number(),
-    max: z.number().min(1),
+    current: z.number().int().min(0).max(99999),
+    max: z.number().int().min(1).max(99999),
   }),
   status: z.enum(['normal', 'unconscious']).default('normal'),
   monsterSlug: z.string().optional(),

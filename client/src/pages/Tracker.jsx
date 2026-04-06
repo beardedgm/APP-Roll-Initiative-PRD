@@ -31,14 +31,14 @@ export default function Tracker() {
   // ── Left panel resize ──
   const [leftWidth, setLeftWidth] = useState(() => {
     const saved = localStorage.getItem('tracker-left-width');
-    return saved ? Math.max(MIN_LEFT_WIDTH, parseInt(saved)) : DEFAULT_LEFT_WIDTH;
+    return saved ? Math.max(MIN_LEFT_WIDTH, Math.min(800, parseInt(saved) || DEFAULT_LEFT_WIDTH)) : DEFAULT_LEFT_WIDTH;
   });
   const isResizingLeft = useRef(false);
 
   // ── Right panel resize ──
   const [rightWidth, setRightWidth] = useState(() => {
     const saved = localStorage.getItem('tracker-right-width');
-    return saved ? Math.max(MIN_RIGHT_WIDTH, parseInt(saved)) : DEFAULT_RIGHT_WIDTH;
+    return saved ? Math.max(MIN_RIGHT_WIDTH, Math.min(800, parseInt(saved) || DEFAULT_RIGHT_WIDTH)) : DEFAULT_RIGHT_WIDTH;
   });
   const isResizingRight = useRef(false);
 
