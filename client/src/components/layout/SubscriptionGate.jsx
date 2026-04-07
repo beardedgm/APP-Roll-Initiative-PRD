@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import { useCurrentUser } from '../../api/useAuth';
 
-export default function SubscriptionGate({ children, fallback }) {
+export default function SubscriptionGate({ children, fallback, message }) {
   const { data: user } = useCurrentUser();
 
   const hasAccess = user && (
@@ -16,7 +16,7 @@ export default function SubscriptionGate({ children, fallback }) {
   return (
     <div className="subscription-gate">
       <h2>Premium Feature</h2>
-      <p>Cloud saves and shared player views require a premium subscription.</p>
+      <p>{message || 'Cloud saves and shared player views require a premium subscription.'}</p>
       <Link to="/pricing" className="btn btn--primary">View Pricing</Link>
     </div>
   );

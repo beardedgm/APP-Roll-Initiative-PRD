@@ -45,13 +45,17 @@ export default function InitiativeList({ onViewStatBlock }) {
   }, [reorderCombatant]);
 
   if (combatants.length === 0) {
-    const msg = combatState === 'pre-combat'
-      ? 'No combatants yet. Add one above.'
-      : 'No combatants remaining.';
     return (
       <div className="panel panel--grow" id="panel-initiative">
         <h2 className="panel__title">Initiative Order</h2>
-        <p className="empty-message">{msg}</p>
+        {combatState === 'pre-combat' ? (
+          <div className="empty-message">
+            <p>No combatants yet.</p>
+            <p className="text-muted">Browse the <strong>Creatures</strong> tab to add monsters, or use the form above to add players and NPCs manually.</p>
+          </div>
+        ) : (
+          <p className="empty-message">No combatants remaining.</p>
+        )}
       </div>
     );
   }

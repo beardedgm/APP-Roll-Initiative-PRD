@@ -12,7 +12,7 @@ const TABS = [
   { id: 'creatures', label: 'Creatures' },
   { id: 'spells', label: 'Spells' },
   { id: 'characters', label: 'Characters' },
-  { id: 'encounters', label: 'Encounters' },
+  { id: 'encounters', label: 'Saved Encounters' },
 ];
 
 const LeftPanel = forwardRef(function LeftPanel({ onAddToEncounter }, ref) {
@@ -74,10 +74,10 @@ const LeftPanel = forwardRef(function LeftPanel({ onAddToEncounter }, ref) {
           </>
         )}
         {activeTab === 'characters' && (
-          hasFullAccess ? <CharacterLibrary /> : <SubscriptionGate />
+          hasFullAccess ? <CharacterLibrary /> : <SubscriptionGate message="Save your player characters for quick re-use across sessions." />
         )}
         {activeTab === 'encounters' && (
-          hasFullAccess ? <EncounterLibrary /> : <SubscriptionGate />
+          hasFullAccess ? <EncounterLibrary /> : <SubscriptionGate message="Save and load encounter presets across devices." />
         )}
       </div>
     </div>
