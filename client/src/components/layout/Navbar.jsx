@@ -95,6 +95,15 @@ export default function Navbar() {
             Help
           </Link>
         </li>
+        <li>
+          <Link
+            to="/pricing"
+            onClick={closeMenu}
+            className={`site-nav__link${location.pathname === '/pricing' ? ' site-nav__link--active' : ''}`}
+          >
+            Pricing
+          </Link>
+        </li>
         {user ? (
           <>
             <li>
