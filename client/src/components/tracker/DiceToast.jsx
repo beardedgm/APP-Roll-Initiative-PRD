@@ -42,17 +42,16 @@ function getNatClass(entry) {
 
 export default function DiceToast() {
   const diceHistory = useCombatStore(s => s.diceHistory);
-  const [dismissedLen, setDismissedLen] = useState(0);
+  const [dismissedId, setDismissedId] = useState(null);
 
-  const len = diceHistory?.length ?? 0;
-  const entry = len > 0 ? diceHistory[0] : null;
-  const visible = len > 0 && len !== dismissedLen;
+  const entry = diceHistory?.length > 0 ? diceHistory[0] : null;
+  const visible = entry !== null && entry.id !== dismissedId;
 
   if (!entry) return null;
 
   return (
-    <div className={`dice-toast${visible ? ' dice-toast--visible' : ''} ${getNatClass(entry)}`} key={`${len}-${entry.total}`}>
-      <button className="dice-toast__close" onClick={() => setDismissedLen(len)} title="Dismiss"><X size={14} /></button>
+    <div className={`dice-toast${visible ? ' dice-toast--visible' : ''} ${getNatClass(entry)}`} key={entry.id}>
+      <button className="dice-toast__close" onClick={() => setDismissedId(entry.id)} title="Dismiss"><X size={14} /></button>
       <span className="dice-toast__label">{buildLabel(entry)}</span>
       <span className="dice-toast__total">{entry.total}</span>
       <Breakdown entry={entry} />

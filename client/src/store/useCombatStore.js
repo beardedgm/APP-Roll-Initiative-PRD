@@ -88,30 +88,68 @@ const useCombatStore = create(
       addCombatant({ name, maxHP, ac, initMod, quantity, type, initiative, monsterSlug }) {
         get()._pushUndo();
         const combatState = get().state;
-        const newCombatants = [];
         const count = Math.min(10, Math.max(1, quantity || 1));
 
-        for (let i = 0; i < count; i++) {
-          const c = {
-            id: generateId(),
-            name: count > 1 ? `${name} ${i + 1}` : name,
-            type,
-            initiative: combatState === 'combat' ? initiative : 0,
-            initiativeModifier: initMod || 0,
-            ac: ac || 10,
-            hp: { current: maxHP, max: maxHP },
-            status: 'normal',
-          };
-          if (monsterSlug) c.monsterSlug = monsterSlug;
-          newCombatants.push(c);
-        }
-
         set(s => {
-          const updated = [...s.combatants, ...newCombatants];
-          if (s.state === 'combat') {
-            updated.sort((a, b) => b.initiative - a.initiative);
+          // Match existing combatants with the same base name (exact or "Name N")
+          const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          const namePattern = new RegExp(`^${escaped}( (\\d+))?$`);
+          let highestNum = 0;
+          let hasUnnumbered = false;
+          let existingCount = 0;
+
+          for (const c of s.combatants) {
+            const m = c.name.match(namePattern);
+            if (!m) continue;
+            existingCount++;
+            if (m[2]) {
+              highestNum = Math.max(highestNum, parseInt(m[2], 10));
+            } else {
+              hasUnnumbered = true;
+            }
           }
-          return { combatants: updated };
+
+          const needsNumbering = existingCount + count > 1;
+
+          // Rename the first unnumbered match to "Name 1" when numbering kicks in
+          let updated = s.combatants;
+          if (needsNumbering && hasUnnumbered) {
+            let renamed = false;
+            updated = s.combatants.map(c => {
+              if (!renamed && c.name === name) {
+                renamed = true;
+                highestNum = Math.max(highestNum, 1);
+                return { ...c, name: `${name} 1` };
+              }
+              return c;
+            });
+          }
+
+          const startNum = needsNumbering
+            ? Math.max(highestNum, existingCount) + 1
+            : 1;
+
+          const newCombatants = [];
+          for (let i = 0; i < count; i++) {
+            const c = {
+              id: generateId(),
+              name: needsNumbering ? `${name} ${startNum + i}` : name,
+              type,
+              initiative: combatState === 'combat' ? initiative : 0,
+              initiativeModifier: initMod || 0,
+              ac: ac || 10,
+              hp: { current: maxHP, max: maxHP },
+              status: 'normal',
+            };
+            if (monsterSlug) c.monsterSlug = monsterSlug;
+            newCombatants.push(c);
+          }
+
+          const allCombatants = [...updated, ...newCombatants];
+          if (s.state === 'combat') {
+            allCombatants.sort((a, b) => b.initiative - a.initiative);
+          }
+          return { combatants: allCombatants };
         });
       },
 
