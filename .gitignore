@@ -5,8 +5,8 @@ server/node_modules/
 
 # Environment
 .env
-.env.local
-.env.production
+.env.*
+!.env.example
 
 # Build output
 client/dist/
@@ -14,24 +14,44 @@ client/dist/
 # OS files
 .DS_Store
 Thumbs.db
+Desktop.ini
 
 # IDE
 .vscode/
 !.vscode/settings.json
 !.vscode/extensions.json
+.idea/
 *.swp
 *.swo
+*~
 
 # Logs
 logs/
 *.log
 npm-debug.log*
+pids/
+*.pid
+*.seed
 
 # Testing
 coverage/
 client/coverage/
 
-# Misc
-.cache/
+# Claude Code
+.claude/settings.local.json
+.claude/worktrees/
+.claude/plans/
+.claude/todos/
+.claude/scheduled-tasks/
+
+# AI agent tools
+.agents/
 .superpowers/
 docs/superpowers/
+skills-lock.json
+.remember/
+
+# Misc
+.cache/
+*.tgz
+*.tsbuildinfo
