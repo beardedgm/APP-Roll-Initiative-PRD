@@ -42,7 +42,7 @@ const entrySchema = z.object({
 });
 
 const customMonsterSchema = z.object({
-  slug: z.string().min(1).max(200).regex(/^[a-z0-9._-]+$/i, 'Slug must contain only letters, numbers, dots, hyphens, and underscores'),
+  slug: z.string().min(1).max(200).regex(/^[a-z0-9._-]+$/, 'Slug must contain only lowercase letters, numbers, dots, hyphens, and underscores'),
   name: z.string().min(1).max(100),
   isCustom: z.boolean().optional().default(true),
   sourceKey: z.string().max(50).optional().default('custom'),
@@ -84,7 +84,7 @@ const customMonsterSchema = z.object({
 });
 
 const encounterPresetSchema = z.object({
-  id: z.string().min(1),
+  id: z.string().min(1).max(100).regex(/^[\w-]+$/, 'ID must contain only word characters and hyphens'),
   name: z.string().min(1).max(100),
   combatants: z.array(presetCombatantSchema).max(100).default([]),
   state: z.enum(['pre-combat', 'combat']).default('pre-combat'),
