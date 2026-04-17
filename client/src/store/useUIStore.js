@@ -18,10 +18,11 @@ const useUIStore = create((set, get) => ({
 
   pushContent: (entry) => {
     const { contentStack } = get();
-    // If pushing same type as current top, replace (new selection from list).
+    // If pushing same type as current top, replace only the top entry — preserves
+    // prior navigation history (e.g. creature → spell → creature still allows back).
     // If pushing different type (e.g. spell from stat block), push on top.
     if (contentStack.length > 0 && contentStack[contentStack.length - 1].type === entry.type) {
-      set({ contentStack: [entry] });
+      set({ contentStack: [...contentStack.slice(0, -1), entry] });
     } else {
       set({ contentStack: [...contentStack, entry] });
     }
