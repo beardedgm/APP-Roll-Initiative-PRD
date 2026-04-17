@@ -17,6 +17,7 @@ const CustomMonsterSchema = new mongoose.Schema({
   isCustom:             { type: Boolean, default: true },
   sourceKey:            { type: String, default: 'custom' },
   source:               { type: String, default: 'Custom' },
+  gameSystem:           { type: String, enum: ['5e', 'pf2e'], default: '5e' },
   size:                 { type: String },
   type:                 { type: String },
   alignment:            { type: String },

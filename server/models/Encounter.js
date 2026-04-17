@@ -39,7 +39,7 @@ const SharedRollSchema = new mongoose.Schema({
 }, { _id: false });
 
 const EncounterSchema = new mongoose.Schema({
-  userId:           { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true, index: true },
+  userId:           { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
   name:             { type: String, required: true, trim: true, default: 'New Encounter' },
   shareCode:        { type: String, unique: true, sparse: true },
   state:            { type: String, enum: ['pre-combat', 'combat'], default: 'pre-combat' },
@@ -50,6 +50,10 @@ const EncounterSchema = new mongoose.Schema({
   latestSharedRoll: { type: SharedRollSchema, default: null },
   lastSyncedAt:     { type: Date, default: Date.now },
 }, { timestamps: true });
+
+// Compound index supports the common "list a user's encounters by recency" query
+// (scoped by userId, sorted by updatedAt desc) without an in-memory sort.
+EncounterSchema.index({ userId: 1, updatedAt: -1 });
 
 EncounterSchema.statics.generateShareCode = function () {
   return crypto.randomBytes(8).toString('hex'); // 16-char hex code
