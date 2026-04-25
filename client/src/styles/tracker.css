@@ -414,6 +414,30 @@ body.is-resizing .resize-handle::after {
   color: var(--color-text-muted);
   opacity: 0.5;
 }
+.combatant-card__initiative--editable {
+  cursor: pointer;
+  transition: background var(--transition-fast), border-color var(--transition-fast);
+}
+.combatant-card__initiative--editable:hover {
+  background: var(--color-bg-card-hover);
+  border-color: var(--color-accent-gold-dim);
+}
+.combatant-card__initiative-input {
+  -moz-appearance: textfield;
+  appearance: textfield;
+  padding: 0;
+  outline: none;
+  cursor: text;
+}
+.combatant-card__initiative-input::-webkit-outer-spin-button,
+.combatant-card__initiative-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.combatant-card__initiative-input:focus {
+  border-color: var(--color-accent-gold);
+  box-shadow: 0 0 0 1px var(--color-accent-gold-dim);
+}
 .combatant-card--active .combatant-card__initiative {
   color: var(--color-accent-gold);
   background: rgba(201,162,103,0.18);

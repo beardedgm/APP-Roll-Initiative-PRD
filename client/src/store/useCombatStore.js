@@ -263,6 +263,20 @@ const useCombatStore = create(
         set({ state: 'pre-combat', activeCreatureId: null });
       },
 
+      // Manually set a combatant's initiative and re-sort the list.
+      // Lets the DM click-edit the number on any card to fix ordering
+      // by hand (e.g. resolving ties the way they want).
+      setCombatantInitiative(id, initiative) {
+        get()._pushUndo();
+        set(s => {
+          const combatants = s.combatants.map(c =>
+            c.id === id ? { ...c, initiative } : c
+          );
+          combatants.sort((a, b) => b.initiative - a.initiative);
+          return { combatants };
+        });
+      },
+
       // ── Drag & Drop Reorder ─────────────────────────────────
       // Splice the source into its new position and give it an integer
       // initiative that fits the slot. Ties are allowed — array position
