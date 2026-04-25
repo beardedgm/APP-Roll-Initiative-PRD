@@ -56,7 +56,10 @@ export function verifyResendSignature({ headers, rawBody, secret, now = Date.now
   });
 }
 
-const BOUNCE_TYPES = new Set(['email.bounced', 'email.bounce', 'email.delivery_delayed']);
+// Note: email.delivery_delayed is intentionally NOT here — a delay is not
+// a bounce and Resend will still retry. Suppressing on delay would
+// permanently disable accounts whose MX is just slow.
+const BOUNCE_TYPES = new Set(['email.bounced', 'email.bounce']);
 const COMPLAINT_TYPES = new Set(['email.complained', 'email.complaint']);
 
 export function classifyEvent(event) {

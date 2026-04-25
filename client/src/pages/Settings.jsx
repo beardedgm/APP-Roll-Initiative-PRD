@@ -66,7 +66,19 @@ export default function Settings() {
       document.body.removeChild(a);
       URL.revokeObjectURL(url);
     } catch (err) {
-      setExportError(err.response?.data?.error || 'Export failed. Please try again.');
+      // responseType: 'blob' means err.response.data is a Blob, not JSON —
+      // read it out explicitly so we can surface the server's error message.
+      let message = 'Export failed. Please try again.';
+      const blob = err.response?.data;
+      if (blob && typeof blob.text === 'function') {
+        try {
+          const parsed = JSON.parse(await blob.text());
+          if (parsed?.error) message = parsed.error;
+        } catch { /* not JSON — keep generic message */ }
+      } else if (err.response?.data?.error) {
+        message = err.response.data.error;
+      }
+      setExportError(message);
     } finally {
       setExporting(false);
     }
@@ -142,7 +154,7 @@ export default function Settings() {
                 {billing?.subscriptionStatus === 'active' ? 'Active'
                   : billing?.subscriptionStatus === 'past_due' ? 'Past Due'
                   : billing?.subscriptionStatus === 'canceled' ? 'Canceled'
-                  : user.role === 'admin' ? 'Admin (full access)' : 'Free'}
+                  : user.role === 'owner' ? 'Owner (full access)' : 'Free'}
               </span>
             </div>
             {billing?.currentPeriodEnd && (
@@ -161,7 +173,7 @@ export default function Settings() {
               >
                 {portalSession.isPending ? 'Redirecting...' : 'Manage Subscription'}
               </button>
-            ) : user.role !== 'admin' ? (
+            ) : user.role !== 'owner' ? (
               <a href="/pricing" className="btn btn--primary">Upgrade to Premium</a>
             ) : null}
           </section>

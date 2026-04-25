@@ -32,7 +32,11 @@ emailWebhookRouter.post(
     try {
       event = JSON.parse(req.body.toString('utf8'));
     } catch {
-      return res.status(400).json({ error: 'Invalid JSON' });
+      // Return 200 so Resend doesn't retry a permanently-unparseable
+      // payload. Signature already verified, so this is Resend's bug
+      // to fix, not ours to retry against.
+      logger.warn({ svixId: req.headers['svix-id'] }, 'Resend webhook JSON parse failed');
+      return res.json({ received: true, handled: false, reason: 'parse_failed' });
     }
 
     const classified = classifyEvent(event);
