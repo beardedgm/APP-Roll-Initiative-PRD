@@ -10,6 +10,7 @@ import { destroyOtherSessions, destroyAllSessions } from '../utils/sessionUtils.
 import verifyTurnstile from '../middleware/verifyTurnstile.js';
 import { registerSchema, loginSchema, forgotPasswordSchema, resetPasswordSchema, changePasswordSchema, updateProfileSchema, deleteAccountSchema } from '../validators/auth.js';
 import { sendVerificationEmail, sendPasswordResetEmail, sendWelcomeEmail } from '../services/emailService.js';
+import { buildExportPayload } from '../services/dataExport.js';
 import Encounter from '../models/Encounter.js';
 import UserData from '../models/UserData.js';
 import stripe from '../config/stripe.js';
@@ -234,6 +235,30 @@ router.patch('/api/auth/profile', requireAuth, validate(updateProfileSchema), as
   }
   logger.info({ userId: user._id }, 'Profile updated');
   res.json({ user: user.toSafeJSON() });
+}));
+
+/**
+ * GET /api/auth/export (authenticated) — GDPR data export
+ *
+ * Returns a JSON file with the user's account, encounters, and saved
+ * library data (characters, custom monsters, encounter presets).
+ * Excludes secrets (password hash, salt, Stripe IDs).
+ */
+router.get('/api/auth/export', requireAuth, rateLimitByIP('export', 5), asyncHandler(async (req, res) => {
+  const userId = req.session.userId;
+  const [user, encounters, userData] = await Promise.all([
+    User.findById(userId).lean(),
+    Encounter.find({ userId }).lean(),
+    UserData.findOne({ userId }).lean(),
+  ]);
+  if (!user) {
+    return res.status(404).json({ error: 'User not found' });
+  }
+  const payload = buildExportPayload({ user, encounters, userData });
+  logger.info({ userId, encounterCount: encounters.length }, 'Data export generated');
+  res.setHeader('Content-Disposition', 'attachment; filename="roll-initiative-export.json"');
+  res.setHeader('Content-Type', 'application/json');
+  res.send(JSON.stringify(payload, null, 2));
 }));
 
 /**

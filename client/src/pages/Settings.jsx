@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useCurrentUser, useChangePassword, useUpdateProfile, useDeleteAccount } from '../api/useAuth';
 import { useBillingStatus, useCreatePortalSession } from '../api/useSubscription';
+import api from '../api/axiosInstance';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 import '../styles/marketing.css';
@@ -23,6 +24,8 @@ export default function Settings() {
   const [deletePassword, setDeletePassword] = useState('');
   const [deleteError, setDeleteError] = useState('');
   const [showDeleteConfirm, setShowDeleteConfirm] = useState(false);
+  const [exporting, setExporting] = useState(false);
+  const [exportError, setExportError] = useState('');
 
   async function handleChangePassword(e) {
     e.preventDefault();
@@ -46,6 +49,26 @@ export default function Settings() {
       setEditingName(false);
     } catch (err) {
       setNameMsg(err.response?.data?.error || 'Failed to update name');
+    }
+  }
+
+  async function handleExportData() {
+    setExportError('');
+    setExporting(true);
+    try {
+      const response = await api.get('/auth/export', { responseType: 'blob' });
+      const url = URL.createObjectURL(new Blob([response.data], { type: 'application/json' }));
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'roll-initiative-export.json';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    } catch (err) {
+      setExportError(err.response?.data?.error || 'Export failed. Please try again.');
+    } finally {
+      setExporting(false);
     }
   }
 
@@ -180,6 +203,22 @@ export default function Settings() {
                 {changePassword.isPending ? 'Updating...' : 'Update Password'}
               </button>
             </form>
+          </section>
+
+          {/* Your Data */}
+          <section className="settings-section">
+            <h2 className="settings-section__title">Your Data</h2>
+            <p className="settings__danger-warning" style={{ color: '#9ca3af' }}>
+              Download a JSON file containing your account, encounters, characters, and custom monsters.
+            </p>
+            {exportError && <div className="settings-msg settings-msg--error">{exportError}</div>}
+            <button
+              className="btn btn--outline"
+              onClick={handleExportData}
+              disabled={exporting}
+            >
+              {exporting ? 'Preparing…' : 'Export My Data'}
+            </button>
           </section>
 
           {/* Danger Zone */}
