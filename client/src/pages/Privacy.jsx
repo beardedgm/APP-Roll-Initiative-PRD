@@ -174,11 +174,9 @@ export default function Privacy() {
             <ul>
               <li><strong>Access:</strong> View your account information in the Settings page.</li>
               <li><strong>Correction:</strong> Update your display name through the Settings page.</li>
+              <li><strong>Portability:</strong> Download a JSON copy of your account, encounters, characters, and custom monsters from Settings &gt; Your Data.</li>
               <li><strong>Deletion:</strong> Delete your account and all associated data through Settings &gt; Danger Zone.</li>
             </ul>
-            <p>
-              Data portability (exporting your encounter data) is not currently available but may be added in a future update.
-            </p>
           </section>
 
           <section className="legal-section">

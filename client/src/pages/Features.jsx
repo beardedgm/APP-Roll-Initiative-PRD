@@ -184,9 +184,10 @@ export default function Features() {
             <h2 className="feature-detail__title">Encounter Management</h2>
             <p className="feature-detail__desc">
               Save encounters to your browser&rsquo;s local storage and reload
-              them in future sessions. Export encounters as portable JSON files
-              to share with other DMs or back up your data. Premium users get
-              cloud saves with cross-device sync and an encounter dashboard.
+              them in future sessions. Export your full account &mdash; encounters,
+              characters, and custom monsters &mdash; as a portable JSON file from
+              Settings. Premium users get cloud saves with cross-device sync and
+              an encounter dashboard.
             </p>
             <div className="feature-detail__tags">
               <span className="feature-tag">Save &amp; Load</span>
