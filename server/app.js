@@ -29,6 +29,7 @@ import authRouter from './routes/auth.js';
 import encountersRouter, { sharedEncounterRouter } from './routes/encounters.js';
 import userDataRouter from './routes/userData.js';
 import billingRouter, { webhookRouter } from './routes/billing.js';
+import { emailWebhookRouter } from './routes/emailWebhooks.js';
 import sitemapRouter from './routes/sitemap.js';
 import requireCsrf from './middleware/requireCsrf.js';
 import errorHandler from './middleware/errorHandler.js';
@@ -108,8 +109,9 @@ app.use(cors({
 // Request logging
 app.use(requestLogger);
 
-// Stripe webhook needs raw body — mount BEFORE express.json()
+// Stripe + Resend webhooks need raw body — mount BEFORE express.json()
 app.use(webhookRouter);
+app.use(emailWebhookRouter);
 
 app.use(express.json());
 
@@ -123,8 +125,8 @@ if (dbConnected) {
 // ── CSRF Protection ────────────────────────────────────────
 // Applied to all /api/* routes except the Stripe webhook (which uses its own signature verification)
 app.use('/api', (req, res, next) => {
-  // Skip CSRF for the webhook route — it has its own auth via stripe-signature
-  if (req.path === '/billing/webhook') return next();
+  // Skip CSRF for webhook routes — they verify with HMAC signatures instead
+  if (req.path === '/billing/webhook' || req.path === '/email/webhook') return next();
   requireCsrf(req, res, next);
 });
 
