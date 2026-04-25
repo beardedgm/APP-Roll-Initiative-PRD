@@ -266,6 +266,10 @@ const useCombatStore = create(
       // Manually set a combatant's initiative and re-sort the list.
       // Lets the DM click-edit the number on any card to fix ordering
       // by hand (e.g. resolving ties the way they want).
+      //
+      // The sort is stable (ES2019+), so any tie clusters that the DM
+      // arranged via reorderCombatant retain their relative order after
+      // this call — only the edited combatant moves.
       setCombatantInitiative(id, initiative) {
         get()._pushUndo();
         set(s => {
@@ -280,8 +284,10 @@ const useCombatStore = create(
       // ── Drag & Drop Reorder ─────────────────────────────────
       // Splice the source into its new position and give it an integer
       // initiative that fits the slot. Ties are allowed — array position
-      // orders them (JS Array.sort is stable since ES2019). No fractional
-      // values, and only the dragged creature's number ever changes.
+      // orders them (JS Array.sort is stable since ES2019), so any later
+      // re-sort in setCombatantInitiative/startCombat preserves the drag
+      // order within equal-initiative clusters. No fractional values, and
+      // only the dragged creature's number ever changes.
       reorderCombatant(sourceId, targetId) {
         get()._pushUndo();
         set(s => {

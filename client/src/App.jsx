@@ -52,9 +52,10 @@ function RouteFallback() {
 
 function AnalyticsBootstrap() {
   const { data: user } = useCurrentUser();
+  const userId = user?._id;
   useEffect(() => {
     if (user) identifyUser(user);
-  }, [user]);
+  }, [userId, user]);
   return null;
 }
 
