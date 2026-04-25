@@ -2,6 +2,7 @@ import { Helmet } from 'react-helmet-async';
 
 const SITE_NAME = 'Roll Initiative';
 const BASE_URL = 'https://rollinitiative.app';
+const DEFAULT_OG_IMAGE = `${BASE_URL}/og-image.png`;
 
 export default function SEO({
   title,
@@ -11,8 +12,10 @@ export default function SEO({
   type = 'website',
   jsonLd,
   breadcrumbs,
+  image,
 }) {
   const canonical = `${BASE_URL}${path}`;
+  const ogImage = image || DEFAULT_OG_IMAGE;
 
   const crumbs = breadcrumbs || [
     { name: 'Home', url: BASE_URL },
@@ -43,11 +46,16 @@ export default function SEO({
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:site_name" content={SITE_NAME} />
+      <meta property="og:image" content={ogImage} />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="630" />
+      <meta property="og:image:alt" content={title} />
 
-      <meta property="twitter:card" content="summary" />
+      <meta property="twitter:card" content="summary_large_image" />
       <meta property="twitter:url" content={canonical} />
       <meta property="twitter:title" content={title} />
       <meta property="twitter:description" content={description} />
+      <meta property="twitter:image" content={ogImage} />
 
       {!noindex && (
         <script type="application/ld+json">
