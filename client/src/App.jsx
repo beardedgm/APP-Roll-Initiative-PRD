@@ -1,6 +1,8 @@
-import { lazy, Suspense } from 'react';
+import { lazy, Suspense, useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import { useCurrentUser } from './api/useAuth';
+import { identifyUser } from './lib/analytics';
 import Landing from './pages/Landing';
 import ProtectedRoute from './components/layout/ProtectedRoute';
 import ErrorBoundary from './components/layout/ErrorBoundary';
@@ -48,10 +50,19 @@ function RouteFallback() {
   );
 }
 
+function AnalyticsBootstrap() {
+  const { data: user } = useCurrentUser();
+  useEffect(() => {
+    if (user) identifyUser(user);
+  }, [user]);
+  return null;
+}
+
 export default function App() {
   return (
     <ErrorBoundary>
       <QueryClientProvider client={queryClient}>
+        <AnalyticsBootstrap />
         <BrowserRouter>
           <Suspense fallback={<RouteFallback />}>
             <Routes>
