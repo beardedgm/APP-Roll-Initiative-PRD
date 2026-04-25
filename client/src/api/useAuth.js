@@ -1,5 +1,6 @@
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import api from './axiosInstance';
+import { identifyUser, resetUser } from '../lib/analytics';
 
 export function useCurrentUser() {
   return useQuery({
@@ -31,6 +32,7 @@ export function useLogin() {
     },
     onSuccess: (user) => {
       qc.setQueryData(['auth', 'me'], user);
+      identifyUser(user);
     },
   });
 }
@@ -42,6 +44,7 @@ export function useLogout() {
     onSuccess: () => {
       qc.setQueryData(['auth', 'me'], null);
       qc.invalidateQueries({ queryKey: ['auth'] });
+      resetUser();
     },
   });
 }
@@ -79,6 +82,7 @@ export function useUpdateProfile() {
     },
     onSuccess: (user) => {
       qc.setQueryData(['auth', 'me'], user);
+      identifyUser(user);
     },
   });
 }
@@ -90,6 +94,7 @@ export function useDeleteAccount() {
     onSuccess: () => {
       qc.setQueryData(['auth', 'me'], null);
       qc.invalidateQueries({ queryKey: ['auth'] });
+      resetUser();
     },
   });
 }
