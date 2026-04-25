@@ -264,10 +264,10 @@ const useCombatStore = create(
       },
 
       // ── Drag & Drop Reorder ─────────────────────────────────
-      // Splice the source into its new position, then cascade-enforce
-      // strictly-decreasing integer initiatives so ties never appear.
-      // If two neighbors already share a number, the lower creature
-      // absorbs a -1 bump; the pass is idempotent on clean lists.
+      // Splice the source into its new position and give it an integer
+      // initiative that fits the slot. Ties are allowed — array position
+      // orders them (JS Array.sort is stable since ES2019). No fractional
+      // values, and only the dragged creature's number ever changes.
       reorderCombatant(sourceId, targetId) {
         get()._pushUndo();
         set(s => {
@@ -280,10 +280,16 @@ const useCombatStore = create(
           const newTargetIdx = combatants.findIndex(c => c.id === targetId);
           combatants.splice(newTargetIdx, 0, source);
 
-          for (let i = 1; i < combatants.length; i++) {
-            if (combatants[i].initiative >= combatants[i - 1].initiative) {
-              combatants[i].initiative = combatants[i - 1].initiative - 1;
-            }
+          const insertedIdx = combatants.findIndex(c => c.id === sourceId);
+          const prev = combatants[insertedIdx - 1];
+          const next = combatants[insertedIdx + 1];
+
+          if (!prev && next) {
+            source.initiative = next.initiative + 1;
+          } else if (prev && !next) {
+            source.initiative = prev.initiative - 1;
+          } else if (prev && next) {
+            source.initiative = Math.floor((prev.initiative + next.initiative) / 2);
           }
 
           return { combatants };
