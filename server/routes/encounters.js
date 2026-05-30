@@ -141,7 +141,11 @@ router.delete('/api/encounters/:id/share', asyncHandler(async (req, res) => {
 // This route is mounted separately without auth middleware
 export const sharedEncounterRouter = Router();
 
-sharedEncounterRouter.get('/api/shared/:code', rateLimitByIP('shared-encounter', 120), asyncHandler(async (req, res) => {
+// The player view (useSharedEncounter) polls this endpoint every 2s — that is
+// ~450 requests per 15-min window for a single viewer. The cap must comfortably
+// exceed that (and leave room for a few viewers behind one NAT) while still
+// stopping abusive scraping/flooding of this public, unauthenticated route.
+sharedEncounterRouter.get('/api/shared/:code', rateLimitByIP('shared-encounter', 1000), asyncHandler(async (req, res) => {
   const encounter = await Encounter.findOne({ shareCode: req.params.code })
     .select('name state currentRound activeCreatureId combatants latestSharedRoll updatedAt')
     .lean();

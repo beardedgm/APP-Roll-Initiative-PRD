@@ -22,6 +22,10 @@ export default function useCloudSync(enabled) {
   const timerRef = useRef(null);
   const prevSnapshotRef = useRef(null);
   const syncedTimerRef = useRef(null);
+  const retryTimerRef = useRef(null);
+  // Holds the latest sync() so the retry timer can call it without sync
+  // depending on itself (which would be a circular useCallback dep).
+  const syncRef = useRef(null);
   const setSyncStatus = useSyncStatus(s => s.setSyncStatus);
 
   const sync = useCallback(async () => {
@@ -35,8 +39,9 @@ export default function useCloudSync(enabled) {
     const previousSnapshot = prevSnapshotRef.current;
     prevSnapshotRef.current = snapshot;
 
-    // Clear any pending "synced" auto-clear timer
+    // Clear any pending "synced" auto-clear timer and any scheduled retry
     if (syncedTimerRef.current) clearTimeout(syncedTimerRef.current);
+    if (retryTimerRef.current) clearTimeout(retryTimerRef.current);
 
     setSyncStatus('syncing');
 
@@ -54,12 +59,21 @@ export default function useCloudSync(enabled) {
       // Auto-clear back to idle after 3 seconds
       syncedTimerRef.current = setTimeout(() => setSyncStatus('idle'), 3000);
     } catch (err) {
-      // Reset so the next sync attempt will retry
+      // Reset so the next sync attempt re-detects the change and retries.
       prevSnapshotRef.current = previousSnapshot;
       setSyncStatus('error');
       Sentry.captureException(err);
+      // Schedule an automatic retry. Without this, a failed sync that happens
+      // to be the LAST change of a session would never be persisted (the store
+      // only re-triggers sync on a new edit), silently dropping cloud data.
+      // The retry re-reads the latest store state, so it also captures any
+      // edits made while the failed request was in flight.
+      retryTimerRef.current = setTimeout(() => { syncRef.current?.(); }, 3000);
     }
   }, [updateEncounter, setSyncStatus]);
+
+  // Keep syncRef pointed at the latest sync() for the retry timer.
+  useEffect(() => { syncRef.current = sync; });
 
   useEffect(() => {
     if (!enabled) return;
@@ -76,6 +90,7 @@ export default function useCloudSync(enabled) {
       unsub();
       if (timerRef.current) clearTimeout(timerRef.current);
       if (syncedTimerRef.current) clearTimeout(syncedTimerRef.current);
+      if (retryTimerRef.current) clearTimeout(retryTimerRef.current);
     };
   }, [enabled, sync]);
 }
