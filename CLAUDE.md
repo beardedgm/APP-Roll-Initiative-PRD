@@ -19,7 +19,7 @@ This file describes the architecture, conventions, and rules for this codebase. 
 | Logging | pino |
 | Auth | express-session + connect-mongo (session-based, HTTP-only cookies) |
 | Password hashing | Node.js crypto.scrypt (built-in, no bcrypt) |
-| CSRF | X-header double-submit + constant-time comparison |
+| CSRF | Custom-header check (X-Requested-With) + strict CORS |
 | Rate limiting | MongoDB sliding window (no Redis) |
 | Bot protection | Cloudflare Turnstile |
 | Security headers | Helmet.js |
@@ -136,7 +136,8 @@ Express serves `client/dist` as static files in production. There is no separate
 - `timingSafeEqual` for all password and token comparisons — no string equality.
 
 ### CSRF
-- Custom X-header double-submit pattern via `requireCsrf.js` middleware.
+- Custom-header pattern via `requireCsrf.js` middleware: every state-changing request (non-GET/HEAD/OPTIONS) must carry `X-Requested-With: XMLHttpRequest`, else it gets a 403. There is no double-submit token and no `timingSafeEqual` — the request is rejected solely on the header's presence.
+- Why this is safe: browsers forbid cross-origin requests from setting custom headers without a passing CORS preflight, and CORS is locked to the app's own origin — so an attacker's page cannot forge the header. The defense lives in the header requirement *combined with* strict CORS; do not loosen either.
 - Mounted on all `/api/*` routes in `app.js`, except `/api/billing/webhook` (which uses Stripe signature verification).
 - Axios instance sends `X-Requested-With: XMLHttpRequest` on all requests.
 - CORS must whitelist only the app's own origin. Never `origin: '*'` in production.

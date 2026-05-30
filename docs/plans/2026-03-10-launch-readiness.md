@@ -1,5 +1,19 @@
 # Roll Initiative — Launch Readiness Plan
 
+> ## ⚠️ STATUS: COMPLETED & SUPERSEDED — HISTORICAL ARTIFACT, DO NOT EXECUTE
+> This plan has been fully implemented and the live app has launched. It is kept
+> for history only. **Do not treat the tasks below as outstanding work**, and do
+> not trust its code snippets as current — several no longer match the codebase:
+> - CSRF, `.node-version`, data export, email bounce/complaint webhooks, and test
+>   infrastructure **already exist** (`requireCsrf.js`, `.node-version`,
+>   `dataExport.test.js`, `resendWebhook.test.js`, `server/__tests__/`).
+> - The actual CSRF middleware is a **custom-header check**, not the double-submit
+>   token shown in Task 1 (see CLAUDE.md → CSRF for the real design).
+> - Snippets reference `role === 'admin'`; the real `User` model uses `'owner'`.
+> - URLs/domains in the snippets are placeholders, not the production host.
+>
+> For current architecture and conventions, **CLAUDE.md is the source of truth.**
+
 > **For Claude:** REQUIRED SUB-SKILL: Use superpowers:executing-plans to implement this plan task-by-task.
 
 **Goal:** Close every gap between the current codebase and a production-ready SaaS that can accept paying customers.
