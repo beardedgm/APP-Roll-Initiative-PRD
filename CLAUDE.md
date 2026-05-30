@@ -113,8 +113,10 @@ cd server && npx eslint .     # Server lint
 cd client && npm run lint     # Client lint (eslint)
 cd client && npx vite build   # Client build check
 
-# Tests (shared utilities)
-node --test shared/pf2eTagStripper.test.js
+# Tests
+cd server && npm test         # Server unit tests (Vitest)
+cd client && npm test         # Client unit tests (Vitest + jsdom) — store/hook logic
+node --test shared/pf2eTagStripper.test.js        # Shared utilities (Node test runner)
 node --test shared/pf2eMarkdownRenderer.test.js
 
 # Build (Render runs this on deploy)
