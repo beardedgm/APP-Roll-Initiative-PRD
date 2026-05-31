@@ -141,6 +141,22 @@ router.delete('/api/encounters/:id/share', asyncHandler(async (req, res) => {
 // This route is mounted separately without auth middleware
 export const sharedEncounterRouter = Router();
 
+/**
+ * Strip a shared dice roll down to what players should see: the result only.
+ * The full roll (dice notation label, modifier, individual die faces) would
+ * leak a creature's bonuses, so it is never sent to the player view. A `crit`
+ * flag is kept so the view can still highlight nat-20 / nat-1 on d20 rolls.
+ */
+export function toSafeSharedRoll(roll) {
+  if (!roll) return null;
+  let crit = null;
+  if (roll.sides === 20 && Array.isArray(roll.rolls)) {
+    if (roll.rolls.includes(20)) crit = 'nat20';
+    else if (roll.rolls.includes(1)) crit = 'nat1';
+  }
+  return { id: roll.id, total: roll.total, timestamp: roll.timestamp, crit };
+}
+
 // The player view (useSharedEncounter) polls this endpoint every 2s — that is
 // ~450 requests per 15-min window for a single viewer. The cap must comfortably
 // exceed that (and leave room for a few viewers behind one NAT) while still
@@ -180,7 +196,7 @@ sharedEncounterRouter.get('/api/shared/:code', rateLimitByIP('shared-encounter',
     encounter: {
       ...encounter,
       combatants: safeCombatants,
-      latestSharedRoll: encounter.latestSharedRoll || null,
+      latestSharedRoll: toSafeSharedRoll(encounter.latestSharedRoll),
     },
   });
 }));
