@@ -2,8 +2,8 @@ import { Router } from 'express';
 import UserData from '../models/UserData.js';
 import requireAuth from '../middleware/requireAuth.js';
 import requireSubscription from '../middleware/requireSubscription.js';
-import validate from '../middleware/validate.js';
-import { updateUserDataSchema } from '../validators/userData.js';
+import { parseUserDataResilient } from '../validators/userData.js';
+import logger from '../config/logger.js';
 import asyncHandler from '../utils/asyncHandler.js';
 
 const router = Router();
@@ -24,8 +24,23 @@ router.get('/api/user-data', requireAuth, asyncHandler(async (req, res) => {
 }));
 
 // ── Update user data (merge strategy: newest change wins) ──
-router.put('/api/user-data', requireAuth, requireSubscription, validate(updateUserDataSchema), asyncHandler(async (req, res) => {
-  const { characters, customMonsters, encounterPresets } = req.validated;
+router.put('/api/user-data', requireAuth, requireSubscription, asyncHandler(async (req, res) => {
+  const parsed = parseUserDataResilient(req.body);
+  if (!parsed.ok) {
+    const details = parsed.error.issues.map(i => ({ path: i.path.join('.'), message: i.message }));
+    return res.status(400).json({ error: 'Validation failed', details });
+  }
+
+  const { characters, customMonsters, encounterPresets } = parsed.data;
+
+  // Skip+log invalid items instead of rejecting the whole sync — one bad
+  // record must never blackhole a user's other custom data.
+  if (parsed.dropped.length) {
+    logger.warn(
+      { userId: req.session.userId, dropped: parsed.dropped },
+      'user-data sync dropped invalid items'
+    );
+  }
 
   // Get or create current server doc
   let current = await UserData.findOne({ userId: req.session.userId });

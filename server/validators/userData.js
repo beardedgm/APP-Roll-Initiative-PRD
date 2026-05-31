@@ -106,3 +106,63 @@ export const updateUserDataSchema = z.object({
   customMonsters: z.array(customMonsterSchema).max(500).default([]),
   encounterPresets: z.array(encounterPresetSchema).max(500).default([]),
 });
+
+// Envelope-level checks only: version is sane and each collection is an array
+// within the flood cap. Individual items are validated separately so one bad
+// record can't 400 the whole sync.
+const userDataEnvelopeSchema = z.object({
+  version: z.number().int().min(0),
+  characters: z.array(z.unknown()).max(500).default([]),
+  customMonsters: z.array(z.unknown()).max(500).default([]),
+  encounterPresets: z.array(z.unknown()).max(500).default([]),
+});
+
+const ITEM_SCHEMAS = {
+  characters: characterSchema,
+  customMonsters: customMonsterSchema,
+  encounterPresets: encounterPresetSchema,
+};
+
+/**
+ * Validate a user-data sync payload resiliently: the envelope (version + array
+ * shape + flood cap) must be well-formed, but individual items are validated
+ * one at a time. Valid items are kept (parsed/stripped); invalid ones are
+ * dropped and reported in `dropped` rather than failing the whole request.
+ *
+ * Why: PUT /api/user-data validates the entire batch, and a single bad record
+ * used to 400 the request — silently blocking ALL of a user's cloud sync
+ * (custom monsters, characters, AND encounter presets). One corrupt item must
+ * never blackhole an otherwise-valid sync.
+ *
+ * Returns { ok: false, error } on envelope failure (caller sends 400), or
+ * { ok: true, data, dropped } where data holds only the valid items and
+ * dropped lists what was skipped ({ collection, index, name, issues }).
+ */
+export function parseUserDataResilient(body) {
+  const env = userDataEnvelopeSchema.safeParse(body);
+  if (!env.success) return { ok: false, error: env.error };
+
+  const dropped = [];
+  const data = { version: env.data.version };
+
+  for (const collection of Object.keys(ITEM_SCHEMAS)) {
+    const schema = ITEM_SCHEMAS[collection];
+    const valid = [];
+    env.data[collection].forEach((item, index) => {
+      const result = schema.safeParse(item);
+      if (result.success) {
+        valid.push(result.data);
+      } else {
+        dropped.push({
+          collection,
+          index,
+          name: item && typeof item === 'object' ? item.name : undefined,
+          issues: result.error.issues.map(i => `${i.path.join('.')}: ${i.message}`),
+        });
+      }
+    });
+    data[collection] = valid;
+  }
+
+  return { ok: true, data, dropped };
+}

@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { updateUserDataSchema } from '../../validators/userData.js';
+import { updateUserDataSchema, parseUserDataResilient } from '../../validators/userData.js';
 
 // A custom monster as the client store/serializers produce it. The userData PUT
 // validates the WHOLE body atomically, so a single rejected monster 400s the
@@ -61,5 +61,54 @@ describe('updateUserDataSchema — custom monster cloud sync', () => {
     const good = monster({ slug: 'custom-good-1', name: 'Good', ac: 12 });
     const bad = monster({ slug: 'custom-bad-1', name: 'Bad', ac: 999 });
     expect(updateUserDataSchema.safeParse(body([good, bad])).success).toBe(false);
+  });
+});
+
+describe('parseUserDataResilient — per-item validation', () => {
+  it('keeps valid items and drops only the invalid one', () => {
+    const good = monster({ slug: 'custom-good-1', name: 'Good', ac: 12 });
+    const bad = monster({ slug: 'custom-bad-1', name: 'Bad', ac: 999 });
+    const result = parseUserDataResilient(body([good, bad]));
+
+    expect(result.ok).toBe(true);
+    expect(result.data.customMonsters).toHaveLength(1);
+    expect(result.data.customMonsters[0].name).toBe('Good');
+    expect(result.dropped).toHaveLength(1);
+    expect(result.dropped[0]).toMatchObject({ collection: 'customMonsters', index: 1, name: 'Bad' });
+    expect(result.dropped[0].issues.join(' ')).toContain('ac');
+  });
+
+  it('reports nothing dropped when everything is valid', () => {
+    const m = monster({ ac: 14, abilities: { str: 12, dex: 14, con: 12, int: 10, wis: 10, cha: 8 } });
+    const result = parseUserDataResilient(body([m]));
+    expect(result.ok).toBe(true);
+    expect(result.dropped).toHaveLength(0);
+    expect(result.data.customMonsters).toHaveLength(1);
+  });
+
+  it('drops invalid items independently across collections', () => {
+    const result = parseUserDataResilient({
+      version: 0,
+      characters: [{ id: 'c1', name: 'Hero', ac: 18 }, { id: 'bad', name: 'NoAC', ac: 999 }],
+      customMonsters: [monster({ ac: 14 })],
+      encounterPresets: [],
+    });
+    expect(result.ok).toBe(true);
+    expect(result.data.characters).toHaveLength(1);
+    expect(result.data.characters[0].name).toBe('Hero');
+    expect(result.data.customMonsters).toHaveLength(1);
+    expect(result.dropped).toHaveLength(1);
+    expect(result.dropped[0]).toMatchObject({ collection: 'characters', name: 'NoAC' });
+  });
+
+  it('rejects the request at the envelope level (missing version)', () => {
+    const result = parseUserDataResilient({ characters: [], customMonsters: [], encounterPresets: [] });
+    expect(result.ok).toBe(false);
+  });
+
+  it('rejects the request when a collection exceeds the flood cap', () => {
+    const tooMany = Array.from({ length: 501 }, (_, i) => monster({ slug: `custom-${i}`, name: `M${i}` }));
+    const result = parseUserDataResilient(body(tooMany));
+    expect(result.ok).toBe(false);
   });
 });
