@@ -9,13 +9,13 @@ export default function VerifyEmail() {
   const [searchParams] = useSearchParams();
   const token = searchParams.get('token') || '';
   const verify = useVerifyEmail();
-  const [status, setStatus] = useState('loading');
+  // Derive the no-token case from initial state instead of calling setState
+  // synchronously inside the effect (which triggers a cascading re-render and
+  // is flagged by eslint-plugin-react-hooks' set-state-in-effect rule).
+  const [status, setStatus] = useState(token ? 'loading' : 'invalid');
 
   useEffect(() => {
-    if (!token) {
-      setStatus('invalid');
-      return;
-    }
+    if (!token) return;
 
     verify.mutateAsync({ token })
       .then(() => setStatus('success'))
