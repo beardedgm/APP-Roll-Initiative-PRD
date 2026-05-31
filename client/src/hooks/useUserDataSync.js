@@ -13,12 +13,13 @@ export default function useUserDataSync(enabled) {
   const prevSnapshotRef = useRef(null);
   const syncedTimerRef = useRef(null);
 
-  const sync = useCallback(async () => {
+  const sync = useCallback(async (force = false) => {
     const { characters, customMonsters, encounterPresets, version, _loaded } = useUserDataStore.getState();
     if (!_loaded) return;
 
     const snapshot = JSON.stringify({ characters, customMonsters, encounterPresets });
-    if (snapshot === prevSnapshotRef.current) return;
+    // Skip if nothing changed — unless forced (manual "sync now" click).
+    if (!force && snapshot === prevSnapshotRef.current) return;
 
     const previousSnapshot = prevSnapshotRef.current;
     prevSnapshotRef.current = snapshot;
@@ -52,6 +53,13 @@ export default function useUserDataSync(enabled) {
       Sentry.captureException(err);
     }
   }, []);
+
+  // Register a manual "sync now" trigger that force-pushes the current data.
+  useEffect(() => {
+    if (!enabled) return;
+    useUserDataStore.getState().setTriggerSync(() => sync(true));
+    return () => useUserDataStore.getState().setTriggerSync(null);
+  }, [enabled, sync]);
 
   useEffect(() => {
     if (!enabled) return;

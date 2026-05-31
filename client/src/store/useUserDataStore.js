@@ -12,6 +12,11 @@ const useUserDataStore = create(
       syncStatus: 'idle', // 'idle' | 'syncing' | 'synced' | 'error'
       _loaded: false,
 
+      // Manual "sync now" trigger registered by useUserDataSync; null when no
+      // syncing page is mounted. SyncIndicator calls it on click.
+      triggerSync: null,
+      setTriggerSync: (triggerSync) => set({ triggerSync }),
+
       // ── Load from server ───────────────────────────
       loadFromServer: (data) => {
         set({
