@@ -8,6 +8,13 @@ updates:
     labels:
       - "dependencies"
       - "root"
+    # Bundle all non-major bumps into a single PR per run; majors stay as
+    # individual PRs so breaking upgrades get reviewed on their own.
+    groups:
+      minor-and-patch:
+        update-types:
+          - "minor"
+          - "patch"
 
   - package-ecosystem: "npm"
     directory: "/server"
@@ -17,6 +24,11 @@ updates:
     labels:
       - "dependencies"
       - "server"
+    groups:
+      minor-and-patch:
+        update-types:
+          - "minor"
+          - "patch"
 
   - package-ecosystem: "npm"
     directory: "/client"
@@ -26,6 +38,11 @@ updates:
     labels:
       - "dependencies"
       - "client"
+    groups:
+      minor-and-patch:
+        update-types:
+          - "minor"
+          - "patch"
 
   - package-ecosystem: "github-actions"
     directory: "/"
@@ -35,3 +52,8 @@ updates:
     labels:
       - "dependencies"
       - "ci"
+    groups:
+      minor-and-patch:
+        update-types:
+          - "minor"
+          - "patch"
