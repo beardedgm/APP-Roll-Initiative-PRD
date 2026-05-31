@@ -51,18 +51,22 @@ const customMonsterSchema = z.object({
   size: z.string().max(50).optional(),
   type: z.string().max(100).optional(),
   alignment: z.string().max(100).optional(),
-  ac: z.number().int().min(0).max(30).optional(),
+  // AC up to 99 to match the form input; high-level PF2e/5e creatures exceed 30.
+  ac: z.number().int().min(0).max(99).optional(),
   acDesc: z.string().max(200).optional(),
   hp: z.number().int().min(1).max(99999).optional(),
   hpFormula: z.string().max(50).optional(),
   speed: z.string().max(200).optional(),
+  // Stores 5e ability SCORES (1-30) OR PF2e ability MODIFIERS (negative..+12).
+  // The range must accept both systems — one bad value here 400s the whole
+  // user-data sync, silently blocking ALL custom data from reaching the cloud.
   abilities: z.object({
-    str: z.number().int().min(1).max(30).optional(),
-    dex: z.number().int().min(1).max(30).optional(),
-    con: z.number().int().min(1).max(30).optional(),
-    int: z.number().int().min(1).max(30).optional(),
-    wis: z.number().int().min(1).max(30).optional(),
-    cha: z.number().int().min(1).max(30).optional(),
+    str: z.number().int().min(-10).max(30).optional(),
+    dex: z.number().int().min(-10).max(30).optional(),
+    con: z.number().int().min(-10).max(30).optional(),
+    int: z.number().int().min(-10).max(30).optional(),
+    wis: z.number().int().min(-10).max(30).optional(),
+    cha: z.number().int().min(-10).max(30).optional(),
   }).optional(),
   savingThrows: z.string().max(500).optional(),
   skills: z.string().max(500).optional(),
@@ -73,7 +77,8 @@ const customMonsterSchema = z.object({
   senses: z.string().max(500).optional(),
   languages: z.string().max(500).optional(),
   cr: z.string().max(10).optional(),
-  initMod: z.number().int().min(-10).max(20).optional(),
+  // 5e: DEX modifier (-5..+10). PF2e: Perception (-10..+50 via the form).
+  initMod: z.number().int().min(-10).max(50).optional(),
   traits: z.array(entrySchema).max(50).optional().default([]),
   actions: z.array(entrySchema).max(50).optional().default([]),
   reactions: z.array(entrySchema).max(50).optional().default([]),
