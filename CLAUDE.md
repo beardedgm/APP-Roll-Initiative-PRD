@@ -144,7 +144,7 @@ Express serves `client/dist` as static files in production. There is no separate
 ### Rate Limiting
 - MongoDB sliding window collection via `LoginAttempt` model — no Redis, no external service.
 - All rate limiters use `rateLimitByIP()` from `rateLimitGeneral.js` (reuses the 15-min TTL window).
-- Thresholds: login 10/15 min, registration 5/15 min, password reset 5/15 min, health/sitemap/shared 30/15 min.
+- Thresholds: login 10/15 min, registration 5/15 min, password reset 5/15 min, health/sitemap 30/15 min. The shared player-view endpoint (`/api/shared/:code`) is 1000/15 min because the player view polls it every 2s (~450 req/window per viewer) — the cap must clear real polling while still stopping floods.
 - TTL indexes auto-clean expired records.
 
 ### Stripe Webhooks
