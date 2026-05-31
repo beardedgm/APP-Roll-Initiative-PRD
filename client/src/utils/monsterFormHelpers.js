@@ -97,17 +97,45 @@ export function getDefaultFormData() {
   };
 }
 
+// ── Repeatable entry identity (UI-only) ──
+// Form entries (traits/actions/reactions/legendary) carry a stable `id` so
+// React can key them by identity instead of array index — index keys corrupt
+// controlled-input values when a middle entry is removed. The id is a pure UI
+// concern and is stripped before the payload reaches the API.
+export const ENTRY_KEYS = ['traits', 'actions', 'reactions', 'legendaryActions'];
+
+let _entryIdCounter = 0;
+export function newEntryId() {
+  return `entry_${Date.now()}_${(_entryIdCounter++).toString(36)}`;
+}
+
+/** Ensure every repeatable entry in the form has a stable id (backfills on edit). */
+export function withEntryIds(formData) {
+  const next = { ...formData };
+  for (const key of ENTRY_KEYS) {
+    if (Array.isArray(next[key])) {
+      next[key] = next[key].map(e => (e.id ? e : { ...e, id: newEntryId() }));
+    }
+  }
+  return next;
+}
+
+/** Drop the UI-only id from entries before serializing to the API. */
+export function stripEntryIds(entries) {
+  return entries.map(e => ({ name: e.name, description: e.description }));
+}
+
 /** Convert form data to the API payload format */
 export function formDataToMonsterAPI(formData) {
   const payload = { ...formData };
   // Calculate initMod from DEX
   payload.initMod = calculateModifier(formData.abilities.dex);
-  // Remove empty arrays/strings to keep payload clean
+  // Remove empty arrays/strings to keep payload clean; strip UI-only entry ids
   if (!payload.rawMarkdown) delete payload.rawMarkdown;
-  if (payload.traits?.length === 0) delete payload.traits;
-  if (payload.actions?.length === 0) delete payload.actions;
-  if (payload.reactions?.length === 0) delete payload.reactions;
-  if (payload.legendaryActions?.length === 0) delete payload.legendaryActions;
+  for (const key of ENTRY_KEYS) {
+    if (payload[key]?.length) payload[key] = stripEntryIds(payload[key]);
+    else delete payload[key];
+  }
   return payload;
 }
 
@@ -205,9 +233,9 @@ export function pf2eFormDataToMonsterAPI(formData) {
     speed: f.speed,
     gameSystem: 'pf2e',
     rawMarkdown,
-    traits: f.traits?.length > 0 ? f.traits : undefined,
-    actions: f.actions?.length > 0 ? f.actions : undefined,
-    reactions: f.reactions?.length > 0 ? f.reactions : undefined,
+    traits: f.traits?.length > 0 ? stripEntryIds(f.traits) : undefined,
+    actions: f.actions?.length > 0 ? stripEntryIds(f.actions) : undefined,
+    reactions: f.reactions?.length > 0 ? stripEntryIds(f.reactions) : undefined,
   };
 }
 
