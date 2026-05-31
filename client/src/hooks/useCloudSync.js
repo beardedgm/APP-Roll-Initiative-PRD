@@ -11,6 +11,10 @@ import { useUpdateEncounter } from '../api/useEncounters';
 export const useSyncStatus = create((set) => ({
   syncStatus: 'idle',
   setSyncStatus: (syncStatus) => set({ syncStatus }),
+  // Manual "sync now" trigger registered by useCloudSync; null when no tracker
+  // with cloud sync is mounted. SyncIndicator calls it on click.
+  triggerSync: null,
+  setTriggerSync: (triggerSync) => set({ triggerSync }),
 }));
 
 /**
@@ -27,15 +31,16 @@ export default function useCloudSync(enabled) {
   // depending on itself (which would be a circular useCallback dep).
   const syncRef = useRef(null);
   const setSyncStatus = useSyncStatus(s => s.setSyncStatus);
+  const setTriggerSync = useSyncStatus(s => s.setTriggerSync);
 
-  const sync = useCallback(async () => {
+  const sync = useCallback(async (force = false) => {
     const { cloudId, name, state, currentRound, activeCreatureId, combatants, diceHistory } = useCombatStore.getState();
     if (!cloudId) return;
 
     const snapshot = JSON.stringify({ name, state, currentRound, activeCreatureId, combatants, diceHistory });
 
-    // Skip if nothing changed
-    if (snapshot === prevSnapshotRef.current) return;
+    // Skip if nothing changed — unless forced (manual "sync now" click).
+    if (!force && snapshot === prevSnapshotRef.current) return;
     const previousSnapshot = prevSnapshotRef.current;
     prevSnapshotRef.current = snapshot;
 
@@ -74,6 +79,13 @@ export default function useCloudSync(enabled) {
 
   // Keep syncRef pointed at the latest sync() for the retry timer.
   useEffect(() => { syncRef.current = sync; });
+
+  // Register a manual "sync now" trigger that force-pushes the current state.
+  useEffect(() => {
+    if (!enabled) return;
+    setTriggerSync(() => syncRef.current?.(true));
+    return () => setTriggerSync(null);
+  }, [enabled, setTriggerSync]);
 
   useEffect(() => {
     if (!enabled) return;
