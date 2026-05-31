@@ -15,6 +15,12 @@ updates:
         update-types:
           - "minor"
           - "patch"
+    # concurrently@10 requires Node >=22, but this project targets Node 20
+    # (.node-version, engines, CI, Render). Ignore its major bumps until we
+    # intentionally move the runtime to Node 22.
+    ignore:
+      - dependency-name: "concurrently"
+        update-types: ["version-update:semver-major"]
 
   - package-ecosystem: "npm"
     directory: "/server"
