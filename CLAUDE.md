@@ -249,6 +249,7 @@ Express serves `client/dist` as static files in production. There is no separate
 ### API Routes
 - All API routes prefixed with `/api/`
 - Public: `/api/auth/*`, `/api/spells/*`, `/api/health`, `/api/shared/:code`
+- `GET /api/health` returns `{ status, db, commit }`. `commit` is the deployed Git SHA from Render's injected `RENDER_GIT_COMMIT` env var (`'local'` off-platform) — `curl .../api/health` and compare `commit` to `git rev-parse origin/main` to confirm the latest code is live, since Render doesn't report deploys to GitHub.
 - Demo-filtered (public but limited): `/api/monsters/*` — non-subscribers see only 20 demo monsters via `hasFullAccess` check
 - Authenticated: `/api/billing/*`, `GET /api/user-data` (read-only for free users)
 - Subscription-gated: `/api/encounters/*`, `PUT /api/user-data` (owners bypass)
