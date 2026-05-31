@@ -1,34 +1,25 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 
+// Players see only the result — never the dice notation, modifier, or
+// individual die faces (those would leak a creature's bonuses). The nat-20
+// (gold) / nat-1 (red) highlight on d20 rolls is preserved.
+//
+// The shared (/play/:code) endpoint sends a precomputed `crit` flag. The local
+// same-device player view passes the full combat-store roll, so fall back to
+// deriving the crit from sides/rolls when no flag is present.
+function deriveCrit(entry) {
+  if (entry.sides !== 20 || !Array.isArray(entry.rolls)) return null;
+  if (entry.rolls.some(r => r === 20)) return 'nat20';
+  if (entry.rolls.some(r => r === 1)) return 'nat1';
+  return null;
+}
+
 function getNatClass(entry) {
-  if (!entry || entry.sides !== 20) return '';
-  if (entry.rolls.some(r => r === 20)) return 'player-dice-toast--nat20';
-  if (entry.rolls.some(r => r === 1)) return 'player-dice-toast--nat1';
+  if (!entry) return '';
+  const crit = entry.crit ?? deriveCrit(entry);
+  if (crit === 'nat20') return 'player-dice-toast--nat20';
+  if (crit === 'nat1') return 'player-dice-toast--nat1';
   return '';
-}
-
-function formatMod(modifier) {
-  if (modifier > 0) return `+${modifier}`;
-  if (modifier < 0) return `${modifier}`;
-  return '+0';
-}
-
-function Breakdown({ entry }) {
-  const { rolls, modifier, advantage } = entry;
-  const modStr = formatMod(modifier);
-
-  if (advantage !== 'normal') {
-    const used = advantage === 'advantage' ? Math.max(...rolls) : Math.min(...rolls);
-    const parts = rolls.map((r, i) => (
-      r === used
-        ? <b key={`r${i}`}>{r}</b>
-        : <s key={`r${i}`} style={{ opacity: 0.5 }}>{r}</s>
-    )).reduce((acc, el, i) => i === 0 ? [el] : [...acc, ', ', el], []);
-    return <span className="player-dice-toast__breakdown">({parts}, <span className="player-dice-toast__mod">{modStr}</span>)</span>;
-  }
-
-  const parts = rolls.map((r, i) => (i === 0 ? String(r) : `, ${r}`));
-  return <span className="player-dice-toast__breakdown">({parts}, <span className="player-dice-toast__mod">{modStr}</span>)</span>;
 }
 
 export default function PlayerDiceToast({ latestSharedRoll }) {
@@ -58,9 +49,7 @@ export default function PlayerDiceToast({ latestSharedRoll }) {
 
   return (
     <div className={`player-dice-toast ${getNatClass(latestSharedRoll)}`} key={timestamp}>
-      <span className="player-dice-toast__label">{latestSharedRoll.label}</span>
       <span className="player-dice-toast__total">{latestSharedRoll.total}</span>
-      <Breakdown entry={latestSharedRoll} />
       <div className="player-dice-toast__timer" />
     </div>
   );
