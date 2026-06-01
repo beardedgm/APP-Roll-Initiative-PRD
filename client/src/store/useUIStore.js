@@ -73,6 +73,18 @@ const useUIStore = create((set, get) => ({
     }
   })(),
 
+  // Persisted size { w, h }, or null to use the CSS default dimensions.
+  diceRollerSize: (() => {
+    try {
+      const saved = localStorage.getItem('dice-roller-size');
+      if (!saved) return null;
+      const parsed = JSON.parse(saved);
+      return (parsed && typeof parsed.w === 'number' && typeof parsed.h === 'number') ? parsed : null;
+    } catch {
+      return null;
+    }
+  })(),
+
   toggleDiceRoller: () => set((state) => {
     const next = !state.diceRollerOpen;
     try { localStorage.setItem('dice-roller-open', String(next)); } catch { /* noop */ }
@@ -87,6 +99,11 @@ const useUIStore = create((set, get) => ({
   setDiceRollerPos: (pos) => set(() => {
     try { localStorage.setItem('dice-roller-pos', JSON.stringify(pos)); } catch { /* noop */ }
     return { diceRollerPos: pos };
+  }),
+
+  setDiceRollerSize: (size) => set(() => {
+    try { localStorage.setItem('dice-roller-size', JSON.stringify(size)); } catch { /* noop */ }
+    return { diceRollerSize: size };
   }),
 
   // ── Per-tab game system toggles ──

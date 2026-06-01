@@ -2789,8 +2789,10 @@ body.is-resizing .resize-handle::after {
   bottom: var(--space-lg);
   z-index: 450;
   width: 300px;
+  min-width: 260px;
+  min-height: 220px;
   max-width: calc(100vw - 2 * var(--space-md));
-  max-height: min(70vh, 640px);
+  max-height: calc(100vh - 2 * var(--space-lg));
   display: flex;
   flex-direction: column;
   background: var(--color-bg-card);
@@ -2832,8 +2834,29 @@ body.is-resizing .resize-handle::after {
 }
 
 .dice-roller-float__body {
+  flex: 1 1 auto;
   overflow-y: auto;
   min-height: 0;
+}
+
+/* Bottom-right resize grip */
+.dice-roller-float__resize {
+  position: absolute;
+  right: 2px;
+  bottom: 2px;
+  width: 16px;
+  height: 16px;
+  cursor: nwse-resize;
+  border-right: 2px solid var(--color-accent-gold-dim);
+  border-bottom: 2px solid var(--color-accent-gold-dim);
+  border-bottom-right-radius: var(--radius-sm);
+  opacity: 0.55;
+  transition: opacity var(--transition);
+}
+
+.dice-roller-float:hover .dice-roller-float__resize,
+.dice-roller-float__resize:hover {
+  opacity: 1;
 }
 
 /* The reused DiceRoller renders a .panel; drop its card chrome inside the float
