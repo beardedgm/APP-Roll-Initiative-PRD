@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Swords, Undo2, Redo2, Monitor, Share2, Trash2, User, LogIn, HelpCircle } from 'lucide-react';
+import { Swords, Undo2, Redo2, Monitor, Share2, Trash2, User, LogIn, HelpCircle, Dices } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import useCombatStore from '../../store/useCombatStore';
 import { useShallow } from 'zustand/react/shallow';
@@ -13,6 +13,8 @@ export default function TrackerHeader() {
   const { data: user } = useCurrentUser();
   const navigate = useNavigate();
   const openModal = useUIStore(s => s.openModal);
+  const diceRollerOpen = useUIStore(s => s.diceRollerOpen);
+  const toggleDiceRoller = useUIStore(s => s.toggleDiceRoller);
 
   const {
     undoLen, redoLen,
@@ -47,6 +49,15 @@ export default function TrackerHeader() {
         </button>
         <button className="btn btn--icon" disabled={redoLen === 0} onClick={redo} title="Redo (Ctrl+Y)">
           <Redo2 size={16} />
+        </button>
+
+        <button
+          className={`btn btn--icon${diceRollerOpen ? ' btn--icon-active' : ''}`}
+          onClick={toggleDiceRoller}
+          aria-pressed={diceRollerOpen}
+          title="Dice roller"
+        >
+          <Dices size={16} />
         </button>
 
         <SyncIndicator />
