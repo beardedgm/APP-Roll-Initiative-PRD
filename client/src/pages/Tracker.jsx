@@ -13,6 +13,7 @@ import RightPanel from '../components/tracker/RightPanel';
 import StartCombatModal from '../components/tracker/StartCombatModal';
 import StatBlockModal from '../components/tracker/StatBlockModal';
 import DiceToast from '../components/tracker/DiceToast';
+import FloatingDiceRoller from '../components/tracker/FloatingDiceRoller';
 import ShareLinkModal from '../components/tracker/ShareLinkModal';
 import ImportMonsterModal from '../components/monsters/ImportMonsterModal';
 import MonsterFormModal from '../components/monsters/MonsterFormModal';
@@ -225,6 +226,7 @@ export default function Tracker() {
       <ImportMonsterModal />
       <MonsterFormModal />
       <DiceToast />
+      <FloatingDiceRoller />
     </>
   );
 }
