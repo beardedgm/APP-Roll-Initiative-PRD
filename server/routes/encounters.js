@@ -6,6 +6,7 @@ import validate from '../middleware/validate.js';
 import { createEncounterSchema, updateEncounterSchema } from '../validators/encounters.js';
 import { rateLimitByIP } from '../middleware/rateLimitGeneral.js';
 import asyncHandler from '../utils/asyncHandler.js';
+import logger from '../config/logger.js';
 
 const router = Router();
 
@@ -23,7 +24,7 @@ router.use('/api/encounters', requireAuth, requireSubscription);
 // ── List encounters ───────────────────────────────────────────
 router.get('/api/encounters', asyncHandler(async (req, res) => {
   const encounters = await Encounter.find({ userId: req.session.userId })
-    .select('name state currentRound shareCode combatants updatedAt')
+    .select('name state currentRound shareCode combatants updatedAt rev')
     .sort({ updatedAt: -1 })
     .limit(50)
     .lean();
@@ -68,17 +69,24 @@ router.post('/api/encounters', validate(createEncounterSchema), asyncHandler(asy
 
 // ── Update encounter (used by cloud sync) ─────────────────────
 router.put('/api/encounters/:id', validate(updateEncounterSchema), asyncHandler(async (req, res) => {
+  const { baseRev, ...updates } = req.validated;
   const encounter = await Encounter.findOneAndUpdate(
-    { _id: req.params.id, userId: req.session.userId },
-    { ...req.validated, lastSyncedAt: new Date() },
-    { new: true }
+    { _id: req.params.id, userId: req.session.userId, rev: baseRev },
+    { $set: { ...updates, lastSyncedAt: new Date() }, $inc: { rev: 1 } },
+    { returnDocument: 'after' }
   );
 
-  if (!encounter) {
-    return res.status(404).json({ error: 'Encounter not found' });
+  if (encounter) {
+    return res.json({ encounter });
   }
 
-  res.json({ encounter });
+  // CAS missed: either the encounter is gone (404) or rev moved on (409 conflict)
+  const current = await Encounter.findOne({ _id: req.params.id, userId: req.session.userId });
+  if (!current) {
+    return res.status(404).json({ error: 'Encounter not found' });
+  }
+  logger.warn({ userId: req.session.userId, id: req.params.id, baseRev, serverRev: current.rev }, 'encounter sync conflict (409)');
+  return res.status(409).json({ error: 'Conflict', encounter: current, serverRev: current.rev });
 }));
 
 // ── Delete encounter ──────────────────────────────────────────
