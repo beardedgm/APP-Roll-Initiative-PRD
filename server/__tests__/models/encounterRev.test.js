@@ -11,7 +11,7 @@ function casUpdate(id, userId, baseRev, updates) {
   return Encounter.findOneAndUpdate(
     { _id: id, userId, rev: baseRev },
     { $set: { ...updates, lastSyncedAt: new Date() }, $inc: { rev: 1 } },
-    { new: true }
+    { returnDocument: 'after' }
   );
 }
 
@@ -54,7 +54,7 @@ describe('Encounter optimistic concurrency', () => {
     const updated = await Encounter.findOneAndUpdate(
       { _id: enc._id, userId, $or: [{ rev: 0 }, { rev: { $exists: false } }] },
       { $set: { name: 'migrated' }, $inc: { rev: 1 } },
-      { new: true }
+      { returnDocument: 'after' }
     );
     expect(updated).not.toBeNull();
     expect(updated.rev).toBe(1);

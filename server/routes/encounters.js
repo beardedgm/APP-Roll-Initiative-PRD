@@ -81,7 +81,7 @@ router.put('/api/encounters/:id', validate(updateEncounterSchema), asyncHandler(
   const encounter = await Encounter.findOneAndUpdate(
     { _id: req.params.id, userId: req.session.userId, ...revMatch },
     { $set: { ...updates, lastSyncedAt: new Date() }, $inc: { rev: 1 } },
-    { new: true }
+    { returnDocument: 'after' }
   );
 
   if (encounter) {
