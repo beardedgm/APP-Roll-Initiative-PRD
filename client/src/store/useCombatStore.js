@@ -456,7 +456,10 @@ const useCombatStore = create(
 );
 
 // ── Cross-Tab Sync via BroadcastChannel ──────────────────────
-// Keeps the /play player view tab in sync with the /tracker tab
+// Keeps the /play player view tab in sync with the /tracker tab.
+// Note: `cloudRev` is intentionally NOT broadcast — it is the cloud-sync
+// concurrency token for the tab that owns cloud sync (the tracker). Each tab
+// keeps its own; the shallow setState merge on receive leaves it untouched.
 if (typeof BroadcastChannel !== 'undefined') {
   const channel = new BroadcastChannel('combat-store');
   let isBroadcasting = false;
