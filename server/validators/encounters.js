@@ -52,6 +52,7 @@ export const createEncounterSchema = z.object({
 });
 
 export const updateEncounterSchema = z.object({
+  baseRev: z.number().int().min(0),
   name: z.string().min(1).max(100).trim().optional(),
   state: z.enum(['pre-combat', 'combat']).optional(),
   currentRound: z.number().int().min(1).optional(),

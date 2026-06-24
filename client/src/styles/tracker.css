@@ -2590,6 +2590,9 @@ body.is-resizing .resize-handle::after {
 .sync-icon--error {
   color: #f87171;
 }
+.sync-icon--conflict {
+  color: #d9a441;
+}
 
 /* ── Show Rolls Toggle ───────────────────────────────────── */
 .panel__title-row {

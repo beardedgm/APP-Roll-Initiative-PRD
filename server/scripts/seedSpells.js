@@ -12,8 +12,9 @@
  *   - **Source**: 5.1 SRD (D&D 2014)
  *   [description paragraphs]
  *
- * Usage: node scripts/seedSpells.js
+ * Usage: node scripts/seedSpells.js [--dry-run] [--fail-on-invalid]
  * Idempotent — uses bulkWrite with upsert on slug.
+ * Self-cleaning — deletes DB docs whose markdown file is gone (guarded, whole collection scoped).
  */
 
 import dotenv from 'dotenv';
@@ -24,6 +25,8 @@ import fs from 'fs';
 import mongoose from 'mongoose';
 import Spell from '../models/Spell.js';
 import PF2E_SOURCE_LABELS from '../config/pf2eSourceLabels.js';
+import { parseArgs, writeInBatches, reconcileStale } from './seedCore.js';
+import { seedSpellSchema, validateSeedRecords } from '../validators/seedContent.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -99,11 +102,11 @@ function parseTraits(md) {
 
 function normalizeActionCost(castStr) {
   if (!castStr) return null;
-  if (castStr.includes('\u25C6\u25C6\u25C6')) return '3';
-  if (castStr.includes('\u25C6\u25C6')) return '2';
-  if (castStr.includes('\u25C6') && !castStr.includes('\u25C6\u25C6')) return '1';
-  if (castStr.includes('\u25C8')) return 'reaction';
-  if (castStr.includes('\u25C7')) return 'free';
+  if (castStr.includes('◆◆◆')) return '3';
+  if (castStr.includes('◆◆')) return '2';
+  if (castStr.includes('◆') && !castStr.includes('◆◆')) return '1';
+  if (castStr.includes('◈')) return 'reaction';
+  if (castStr.includes('◇')) return 'free';
   if (/1 to 3/i.test(castStr) || /2 or 3/i.test(castStr)) return '1 to 3';
   if (/varies/i.test(castStr)) return '1 to 3';
   if (/minute|hour/i.test(castStr)) return 'long';
@@ -180,62 +183,68 @@ function parseSpellMarkdown(md, isPf2e = false) {
   return result;
 }
 
-// ── Process a single source folder ───────────────────────────
-async function processFolder(folderPath, sourceKey, sourceLabel, gameSystem, isPf2e) {
+// ── Process a single source folder into records ───────────────
+// onDiskSlugs is populated from filenames regardless of parse success.
+function processFolder(folderPath, sourceKey, sourceLabel, gameSystem, isPf2e, records, onDiskSlugs) {
   const files = fs.readdirSync(folderPath).filter(f => f.endsWith('.md'));
   console.log(`\nProcessing: ${sourceLabel} (${files.length} files)`);
   let errors = 0;
-  const ops = [];
 
   for (const file of files) {
+    const fileSlug = slugFromFilename(file);
+    const slug = `${sourceKey}--${fileSlug}`;
+    // Always register slug from filename so parse failure never triggers deletion
+    onDiskSlugs.add(slug);
+
     try {
       const md = fs.readFileSync(path.join(folderPath, file), 'utf-8');
       const parsed = parseSpellMarkdown(md, isPf2e);
-      const fileSlug = slugFromFilename(file);
-      const slug = `${sourceKey}--${fileSlug}`;
 
-      ops.push({
-        updateOne: {
-          filter: { slug },
-          update: {
-            $set: {
-              name: parsed.name, slug, source: sourceLabel, sourceKey, gameSystem,
-              level: parsed.level, school: parsed.school, classes: parsed.classes,
-              castingTime: parsed.castingTime, range: parsed.range,
-              components: parsed.components, duration: parsed.duration,
-              traditions: parsed.traditions || [],
-              traits: parsed.traits || [],
-              actionCost: parsed.actionCost || null,
-              spellType: parsed.spellType || null,
-              rarity: parsed.rarity || null,
-              rawMarkdown: md,
-            },
-          },
-          upsert: true,
+      records.push({
+        file,
+        doc: {
+          name: parsed.name,
+          slug,
+          source: sourceLabel,
+          sourceKey,
+          gameSystem,
+          level: parsed.level,
+          school: parsed.school,
+          classes: parsed.classes,
+          castingTime: parsed.castingTime,
+          range: parsed.range,
+          components: parsed.components,
+          duration: parsed.duration,
+          traditions: parsed.traditions || [],
+          traits: parsed.traits || [],
+          actionCost: parsed.actionCost || null,
+          spellType: parsed.spellType || null,
+          rarity: parsed.rarity || null,
+          rawMarkdown: md,
         },
       });
-    } catch (err) { console.error(`  Error: ${file}: ${err.message}`); errors++; }
+    } catch (err) {
+      console.error(`  Error: ${file}: ${err.message}`);
+      errors++;
+    }
   }
 
-  let upserted = 0;
-  for (let i = 0; i < ops.length; i += 500) {
-    const chunk = ops.slice(i, i + 500);
-    const result = await Spell.bulkWrite(chunk);
-    upserted += result.upsertedCount + result.modifiedCount;
-  }
-  console.log(`  Processed ${ops.length} spells from ${sourceLabel}`);
-  return { upserted, errors };
+  return errors;
 }
 
 // ── Main ─────────────────────────────────────────────────────
 async function main() {
+  const args = parseArgs(process.argv.slice(2));
+  if (args.dryRun) console.log('[DRY RUN] No writes will occur.\n');
+
   const uri = process.env.MONGO_URI;
   if (!uri) { console.error('MONGO_URI not set in .env'); process.exit(1); }
   await mongoose.connect(uri);
   console.log('Connected to MongoDB');
 
-  let totalUpserted = 0;
-  let totalErrors = 0;
+  const records = [];
+  const onDiskSlugs = new Set();
+  let totalReadErrors = 0;
 
   // Process 5e spells
   if (fs.existsSync(SPELLS_5E_DIR)) {
@@ -244,11 +253,9 @@ async function main() {
     for (const folder of folders) {
       const config = SOURCE_MAP_5E[folder];
       if (!config) { console.log(`  Skipping unknown 5e folder: ${folder}`); continue; }
-      const result = await processFolder(
-        path.join(SPELLS_5E_DIR, folder), config.key, config.label, '5e', false
+      totalReadErrors += processFolder(
+        path.join(SPELLS_5E_DIR, folder), config.key, config.label, '5e', false, records, onDiskSlugs
       );
-      totalUpserted += result.upserted;
-      totalErrors += result.errors;
     }
   }
 
@@ -259,19 +266,93 @@ async function main() {
     for (const folder of folders) {
       const sourceKey = `pf2e_${folder}`;
       const sourceLabel = PF2E_SOURCE_LABELS[folder] || `PF2e ${folder.toUpperCase()}`;
-      const result = await processFolder(
-        path.join(SPELLS_PF2E_DIR, folder), sourceKey, sourceLabel, 'pf2e', true
+      totalReadErrors += processFolder(
+        path.join(SPELLS_PF2E_DIR, folder), sourceKey, sourceLabel, 'pf2e', true, records, onDiskSlugs
       );
-      totalUpserted += result.upserted;
-      totalErrors += result.errors;
     }
   }
 
-  console.log(`\nDone! ${totalUpserted} spells upserted, ${totalErrors} errors.`);
+  console.log(`\nScanned ${records.length} spells (${totalReadErrors} read/parse errors).`);
+
+  // ── Validate ─────────────────────────────────────────────────
+  const { valid, invalid } = validateSeedRecords(records, seedSpellSchema);
+  console.log(`Validation: ${valid.length} valid, ${invalid.length} invalid.`);
+  if (invalid.length > 0) {
+    console.warn('\nInvalid records (will be skipped):');
+    for (const r of invalid) {
+      console.warn(`  [${r.file}] ${r.slug}`);
+      for (const issue of r.issues) {
+        console.warn(`    - ${issue}`);
+      }
+    }
+  }
+
+  // ── Write valid records ──────────────────────────────────────
+  const ops = valid.map(r => ({
+    updateOne: {
+      filter: { slug: r.doc.slug },
+      update: { $set: r.doc },
+      upsert: true,
+    },
+  }));
+
+  console.log('\nWriting to MongoDB...');
+  const writeReport = await writeInBatches(Spell, ops, { dryRun: args.dryRun });
+
+  if (args.dryRun) {
+    console.log(`DRY RUN: would write ${writeReport.wouldWrite} upsert operations.`);
+  } else {
+    console.log(`Upserted: ${writeReport.upserted}, Modified: ${writeReport.modified}`);
+    if (writeReport.batchErrors.length > 0) {
+      console.error('Batch errors:');
+      for (const e of writeReport.batchErrors) {
+        console.error(`  Batch starting at ${e.batchStart}: ${e.message}`);
+      }
+    }
+  }
+
+  // ── Reconcile stale docs ─────────────────────────────────────
+  // No custom spells exist, so scopeFilter is the whole collection ({})
+  console.log('\nReconciling stale docs...');
+  const reconcile = await reconcileStale(Spell, {
+    onDiskSlugs,
+    scopeFilter: {},
+    dryRun: args.dryRun,
+    deleteThreshold: args.deleteThreshold,
+    log: console.log,
+  });
+
+  if (reconcile.aborted) {
+    console.error(`Reconcile aborted: ${reconcile.stale} stale docs flagged for deletion.`);
+  } else if (args.dryRun) {
+    console.log(`DRY RUN: ${reconcile.stale} stale docs found.`);
+  } else {
+    console.log(`Reconcile: deleted ${reconcile.deleted} stale docs (${reconcile.stale} identified).`);
+  }
+
+  // ── Summary ──────────────────────────────────────────────────
+  console.log('\n── Seed Summary ──');
+  console.log(`  Files scanned:   ${records.length}`);
+  console.log(`  Read errors:     ${totalReadErrors}`);
+  console.log(`  Valid records:   ${valid.length}`);
+  console.log(`  Invalid records: ${invalid.length}`);
+  if (!args.dryRun) {
+    console.log(`  Upserted:        ${writeReport.upserted}`);
+    console.log(`  Modified:        ${writeReport.modified}`);
+    console.log(`  Batch errors:    ${writeReport.batchErrors.length}`);
+    console.log(`  Stale deleted:   ${reconcile.deleted}`);
+  }
+
+  // ── Exit code ────────────────────────────────────────────────
+  if (reconcile.aborted || writeReport.batchErrors.length > 0 || (args.failOnInvalid && invalid.length > 0)) {
+    process.exitCode = 1;
+  }
+
   await mongoose.disconnect();
 }
 
 main().catch(err => {
   console.error('Fatal error:', err);
-  process.exit(1);
+  process.exitCode = 1;
+  mongoose.connection.close().catch(() => {});
 });

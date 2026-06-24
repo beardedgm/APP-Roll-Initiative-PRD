@@ -49,6 +49,7 @@ const EncounterSchema = new mongoose.Schema({
   diceHistory:      [DiceHistoryEntrySchema],
   latestSharedRoll: { type: SharedRollSchema, default: null },
   lastSyncedAt:     { type: Date, default: Date.now },
+  rev:              { type: Number, default: 0 },
 }, { timestamps: true });
 
 // Compound index supports the common "list a user's encounters by recency" query

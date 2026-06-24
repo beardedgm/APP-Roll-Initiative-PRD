@@ -15,10 +15,12 @@ export default function SyncIndicator() {
   const userDataTrigger = useUserDataStore(s => s.triggerSync);
   const encounterTrigger = useSyncStatus(s => s.triggerSync);
 
-  // Derive combined status: error > syncing > synced/idle
+  // Derive combined status: error > conflict > syncing > synced/idle
   let status = 'synced';
   if (userDataStatus === 'error' || encounterStatus === 'error') {
     status = 'error';
+  } else if (encounterStatus === 'conflict') {
+    status = 'conflict';
   } else if (userDataStatus === 'syncing' || encounterStatus === 'syncing') {
     status = 'syncing';
   } else if (userDataStatus === 'synced' || encounterStatus === 'synced') {
@@ -29,6 +31,7 @@ export default function SyncIndicator() {
   const syncing = status === 'syncing';
 
   const tooltip = syncing ? 'Saving…'
+    : status === 'conflict' ? 'Updated on another device — your copy was kept'
     : status === 'error' ? 'Sync failed — click to retry'
     : 'Saved — click to sync now';
 

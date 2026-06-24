@@ -6,7 +6,7 @@ import { useUpdateEncounter } from '../api/useEncounters';
 
 /**
  * Tiny store for cloud sync status.
- * States: 'idle' | 'syncing' | 'synced' | 'error'
+ * States: 'idle' | 'syncing' | 'synced' | 'error' | 'conflict'
  */
 export const useSyncStatus = create((set) => ({
   syncStatus: 'idle',
@@ -34,7 +34,7 @@ export default function useCloudSync(enabled) {
   const setTriggerSync = useSyncStatus(s => s.setTriggerSync);
 
   const sync = useCallback(async (force = false) => {
-    const { cloudId, name, state, currentRound, activeCreatureId, combatants, diceHistory } = useCombatStore.getState();
+    const { cloudId, cloudRev, name, state, currentRound, activeCreatureId, combatants, diceHistory } = useCombatStore.getState();
     if (!cloudId) return;
 
     const snapshot = JSON.stringify({ name, state, currentRound, activeCreatureId, combatants, diceHistory });
@@ -51,19 +51,31 @@ export default function useCloudSync(enabled) {
     setSyncStatus('syncing');
 
     try {
-      await updateEncounter.mutateAsync({
+      const updated = await updateEncounter.mutateAsync({
         id: cloudId,
-        name,
-        state,
-        currentRound,
-        activeCreatureId,
-        combatants,
-        diceHistory,
+        baseRev: cloudRev,
+        name, state, currentRound, activeCreatureId, combatants, diceHistory,
       });
+      useCombatStore.getState().setCloudRev(updated.rev);
       setSyncStatus('synced');
       // Auto-clear back to idle after 3 seconds
       syncedTimerRef.current = setTimeout(() => setSyncStatus('idle'), 3000);
     } catch (err) {
+      if (err.response?.status === 409) {
+        // Another device advanced the encounter. KEEP LOCAL (do not adopt
+        // server state — that would wipe an in-progress offline combat) but
+        // re-base to the server rev so the next push wins, and flag conflict.
+        const serverRev = err.response.data?.serverRev;
+        if (typeof serverRev === 'number') useCombatStore.getState().setCloudRev(serverRev);
+        setSyncStatus('conflict');
+        prevSnapshotRef.current = previousSnapshot; // force the retry to re-detect our local change
+        // setCloudRev above fires the combat-store subscription, which would
+        // schedule a 500ms debounce sync that races this explicit retry. Cancel
+        // it so only one retry is in flight per conflict cycle.
+        if (timerRef.current) clearTimeout(timerRef.current);
+        retryTimerRef.current = setTimeout(() => { syncRef.current?.(); }, 1000);
+        return;
+      }
       // Reset so the next sync attempt re-detects the change and retries.
       prevSnapshotRef.current = previousSnapshot;
       setSyncStatus('error');

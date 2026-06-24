@@ -1,3 +1,5 @@
+import { liveItems } from '../validators/userData.js';
+
 function serializeAccount(user) {
   return {
     email: user.email,
@@ -31,10 +33,12 @@ function serializeUserData(userData) {
   if (!userData) {
     return { characters: [], customMonsters: [], encounterPresets: [] };
   }
+  // Export live items only — soft-delete tombstones are internal sync state,
+  // not user-facing data.
   return {
-    characters: userData.characters || [],
-    customMonsters: userData.customMonsters || [],
-    encounterPresets: userData.encounterPresets || [],
+    characters: liveItems(userData.characters || []),
+    customMonsters: liveItems(userData.customMonsters || []),
+    encounterPresets: liveItems(userData.encounterPresets || []),
   };
 }
 

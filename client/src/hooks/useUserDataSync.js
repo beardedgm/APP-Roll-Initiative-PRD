@@ -5,8 +5,9 @@ import api from '../api/axiosInstance';
 
 /**
  * Subscribes to useUserDataStore changes and auto-syncs to PUT /api/user-data
- * with a 2-second debounce. Server merges by name (newest wins), returns the
- * merged result which we accept back into the local store.
+ * with a 2-second debounce. The payload includes live items plus pending
+ * tombstones; the server merges per item (keyed on id/slug, higher rev wins)
+ * and returns the live result, which we accept back into the local store.
  */
 export default function useUserDataSync(enabled) {
   const timerRef = useRef(null);
@@ -14,13 +15,29 @@ export default function useUserDataSync(enabled) {
   const syncedTimerRef = useRef(null);
 
   const sync = useCallback(async (force = false) => {
-    const { characters, customMonsters, encounterPresets, version, _loaded } = useUserDataStore.getState();
-    if (!_loaded) return;
+    const st = useUserDataStore.getState();
+    if (!st._loaded) return;
 
-    const snapshot = JSON.stringify({ characters, customMonsters, encounterPresets });
-    // Skip if nothing changed — unless forced (manual "sync now" click).
+    const { characters, customMonsters, encounterPresets, version,
+            deletedCharacters, deletedCustomMonsters, deletedEncounterPresets } = st;
+
+    // Payload = live items + pending tombstones (a tombstone is an item with deleted:true).
+    const payload = {
+      version,
+      characters: [...characters, ...deletedCharacters],
+      customMonsters: [...customMonsters, ...deletedCustomMonsters],
+      encounterPresets: [...encounterPresets, ...deletedEncounterPresets],
+    };
+
+    // Dedup on the DATA, not `version` — the success handler stores the
+    // server's live arrays here, and `version` changes on every write, so
+    // including it would make the snapshot never match and re-sync forever.
+    const snapshot = JSON.stringify({
+      characters: payload.characters,
+      customMonsters: payload.customMonsters,
+      encounterPresets: payload.encounterPresets,
+    });
     if (!force && snapshot === prevSnapshotRef.current) return;
-
     const previousSnapshot = prevSnapshotRef.current;
     prevSnapshotRef.current = snapshot;
 
@@ -28,21 +45,16 @@ export default function useUserDataSync(enabled) {
     useUserDataStore.setState({ syncStatus: 'syncing' });
 
     try {
-      const { data } = await api.put('/user-data', {
-        version,
-        characters,
-        customMonsters,
-        encounterPresets,
-      });
-
-      // Server merges and returns the merged result — accept it back
-      // Update snapshot to the merged state so we don't re-sync what the server just gave us
+      const { data } = await api.put('/user-data', payload);
       prevSnapshotRef.current = JSON.stringify({
         characters: data.characters,
         customMonsters: data.customMonsters,
         encounterPresets: data.encounterPresets,
       });
       useUserDataStore.getState().loadFromServer(data);
+      // Server has stored our tombstones (it defends them against stale
+      // re-adds via rev) — safe to clear the local pending set now.
+      useUserDataStore.getState().clearPendingDeletions();
       useUserDataStore.setState({ syncStatus: 'synced' });
       syncedTimerRef.current = setTimeout(() => {
         useUserDataStore.setState({ syncStatus: 'idle' });
@@ -68,18 +80,27 @@ export default function useUserDataSync(enabled) {
     let prevCharacters = useUserDataStore.getState().characters;
     let prevCustomMonsters = useUserDataStore.getState().customMonsters;
     let prevPresets = useUserDataStore.getState().encounterPresets;
+    let prevDelChars = useUserDataStore.getState().deletedCharacters;
+    let prevDelMons = useUserDataStore.getState().deletedCustomMonsters;
+    let prevDelPresets = useUserDataStore.getState().deletedEncounterPresets;
 
     const unsub = useUserDataStore.subscribe((state) => {
       // Only trigger sync when actual data changes, not syncStatus/_loaded
       if (
         state.characters === prevCharacters &&
         state.customMonsters === prevCustomMonsters &&
-        state.encounterPresets === prevPresets
+        state.encounterPresets === prevPresets &&
+        state.deletedCharacters === prevDelChars &&
+        state.deletedCustomMonsters === prevDelMons &&
+        state.deletedEncounterPresets === prevDelPresets
       ) return;
 
       prevCharacters = state.characters;
       prevCustomMonsters = state.customMonsters;
       prevPresets = state.encounterPresets;
+      prevDelChars = state.deletedCharacters;
+      prevDelMons = state.deletedCustomMonsters;
+      prevDelPresets = state.deletedEncounterPresets;
 
       if (!state._loaded) return;
 
