@@ -4,7 +4,13 @@ services:
     runtime: node
     plan: starter
     region: oregon
-    buildCommand: npm install && cd client && npm install --include=dev && npm run build && cd ../server && npm install && cd .. && npm run seed:monsters && npm run seed:spells
+    buildCommand: npm install && cd client && npm install --include=dev && npm run build && cd ../server && npm install
+    # Seed runs once per deploy, after build and before the new version goes
+    # live — off the request path. A seed failure fails the deploy instead of
+    # corrupting the live catalog mid-serve. The seed is self-cleaning (deletes
+    # stale docs, guarded at 10%); run `npm run seed:monsters -- --dry-run`
+    # before a deploy that follows large content deletions.
+    preDeployCommand: cd server && npm run seed:monsters && npm run seed:spells
     startCommand: cd server && node app.js
     envVars:
       - key: NODE_ENV
