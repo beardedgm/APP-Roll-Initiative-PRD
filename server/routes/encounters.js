@@ -38,6 +38,7 @@ router.get('/api/encounters', asyncHandler(async (req, res) => {
     shareCode: e.shareCode || null,
     combatantCount: e.combatants?.length || 0,
     updatedAt: e.updatedAt,
+    rev: e.rev,
   }));
 
   res.json({ encounters: list });
