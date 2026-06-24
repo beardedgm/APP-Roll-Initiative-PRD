@@ -34,6 +34,9 @@ const characterSchema = z.object({
   initMod: z.number().int().min(-10).max(20).default(0),
   createdAt: z.string().optional(),
   updatedAt: z.string().optional(),
+  rev: z.number().int().min(0).optional().default(0),
+  deleted: z.boolean().optional().default(false),
+  deletedAt: z.string().optional(),
 });
 
 const entrySchema = z.object({
@@ -86,6 +89,9 @@ const customMonsterSchema = z.object({
   rawMarkdown: z.string().max(50000).optional(),
   createdAt: z.string().optional(),
   updatedAt: z.string().optional(),
+  rev: z.number().int().min(0).optional().default(0),
+  deleted: z.boolean().optional().default(false),
+  deletedAt: z.string().optional(),
 });
 
 const encounterPresetSchema = z.object({
@@ -98,6 +104,9 @@ const encounterPresetSchema = z.object({
   diceHistory: z.array(presetDiceHistoryEntrySchema).max(50).default([]),
   createdAt: z.string().optional(),
   updatedAt: z.string().optional(),
+  rev: z.number().int().min(0).optional().default(0),
+  deleted: z.boolean().optional().default(false),
+  deletedAt: z.string().optional(),
 });
 
 export const updateUserDataSchema = z.object({
@@ -165,4 +174,43 @@ export function parseUserDataResilient(body) {
   }
 
   return { ok: true, data, dropped };
+}
+
+const TOMBSTONE_TTL_MS = 30 * 24 * 60 * 60 * 1000; // 30 days
+
+/**
+ * Merge a server array and a client array of library items keyed on `key`
+ * (id or slug). Membership is explicit: a deletion is an item with
+ * `deleted:true` and a bumped `rev`, never an omission — so an item present
+ * only on the server is always kept (an empty/fresh device cannot wipe the
+ * server), and a stale re-add (lower rev) cannot resurrect a tombstone.
+ * Conflict order is the per-item integer `rev`; ties keep the server copy.
+ */
+export function mergeCollection(serverItems = [], clientItems = [], key) {
+  const map = new Map();
+  for (const s of serverItems) map.set(s[key], s);
+  for (const c of clientItems) {
+    const existing = map.get(c[key]);
+    if (!existing) {
+      map.set(c[key], c);
+    } else if ((c.rev || 0) > (existing.rev || 0)) {
+      map.set(c[key], c);
+    }
+    // tie or lower rev → keep server copy
+  }
+  return [...map.values()];
+}
+
+/** The live (non-deleted) subset, for responses to the client. */
+export function liveItems(items = []) {
+  return items.filter(i => !i.deleted);
+}
+
+/** Drop tombstones older than the TTL; keep all live items. `now` is ms. */
+export function prunedTombstones(items = [], now) {
+  return items.filter(i => {
+    if (!i.deleted) return true;
+    const ts = i.deletedAt ? Date.parse(i.deletedAt) : 0;
+    return now - ts < TOMBSTONE_TTL_MS;
+  });
 }
