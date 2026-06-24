@@ -1,13 +1,14 @@
 /**
- * seedMonsters.js — Parse all .md stat blocks from Monsters/ and upsert into MongoDB.
+ * seedMonsters.js — Parse all .md stat blocks from monsters/ and upsert into MongoDB.
  *
  * Supports 3 format families:
  *   1. Standard (5.1 SRD, CC, ToB1/2/3, A5E): score+mod ability table | 21 (+5) |
  *   2. SRD 5.2: 4-column ability table | STR | 21 | +5 | +5 |, explicit Initiative line
  *   3. Black Flag: modifier-only ability table | +5 |, no alignment
  *
- * Usage: node scripts/seedMonsters.js
+ * Usage: node scripts/seedMonsters.js [--dry-run] [--fail-on-invalid]
  * Idempotent — uses bulkWrite with upsert on slug.
+ * Self-cleaning — deletes DB docs whose markdown file is gone (guarded, scoped to seeded docs).
  */
 
 import dotenv from 'dotenv';
@@ -18,6 +19,8 @@ import fs from 'fs';
 import mongoose from 'mongoose';
 import Monster from '../models/Monster.js';
 import PF2E_SOURCE_LABELS from '../config/pf2eSourceLabels.js';
+import { parseArgs, writeInBatches, reconcileStale } from './seedCore.js';
+import { seedMonsterSchema, validateSeedRecords } from '../validators/seedContent.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -342,8 +345,10 @@ function parsePf2e(md) {
   return result;
 }
 
-// ── Process a folder of .md files into upsert operations ─────
-function processFolder(folderPath, config, ops, stats) {
+// ── Process a folder of .md files into records ───────────────
+// Records are collected (not written) so validation can run first.
+// onDiskSlugs is populated from filenames regardless of parse success.
+function processFolder(folderPath, config, records, stats) {
   if (!fs.existsSync(folderPath)) {
     console.warn(`  Skipping missing folder: ${folderPath}`);
     return;
@@ -353,9 +358,12 @@ function processFolder(folderPath, config, ops, stats) {
   console.log(`  ${config.label}: ${files.length} files`);
 
   for (const file of files) {
+    const slug = `${config.key}--${slugFromFilename(file)}`;
+    // Always register slug from filename so parse failure never triggers deletion
+    stats.onDiskSlugs.add(slug);
+
     try {
       const md = fs.readFileSync(path.join(folderPath, file), 'utf8');
-      const slug = `${config.key}--${slugFromFilename(file)}`;
 
       let parsed;
       if (config.format === 'pf2e') {
@@ -368,37 +376,32 @@ function processFolder(folderPath, config, ops, stats) {
         parsed = parseStandard(md, config.key);
       }
 
-      ops.push({
-        updateOne: {
-          filter: { slug },
-          update: {
-            $set: {
-              name: parsed.name,
-              slug,
-              source: config.label,
-              sourceKey: config.key,
-              gameSystem: config.gameSystem || '5e',
-              cr: parsed.cr || '',
-              crNumeric: parsed.crNumeric || 0,
-              hp: parsed.hp || 0,
-              hpFormula: parsed.hpFormula || '',
-              ac: parsed.ac || 10,
-              acDesc: parsed.acDesc || '',
-              initMod: parsed.initMod || 0,
-              size: parsed.size || '',
-              type: parsed.type || '',
-              alignment: parsed.alignment || '',
-              abilities: parsed.abilities || {},
-              rawMarkdown: md,
-            },
-          },
-          upsert: true,
+      records.push({
+        file,
+        doc: {
+          name: parsed.name,
+          slug,
+          source: config.label,
+          sourceKey: config.key,
+          gameSystem: config.gameSystem || '5e',
+          cr: parsed.cr,
+          crNumeric: parsed.crNumeric,
+          hp: parsed.hp,
+          hpFormula: parsed.hpFormula || '',
+          ac: parsed.ac,
+          acDesc: parsed.acDesc || '',
+          initMod: parsed.initMod || 0,
+          size: parsed.size || '',
+          type: parsed.type || '',
+          alignment: parsed.alignment || '',
+          abilities: parsed.abilities || {},
+          rawMarkdown: md,
         },
       });
 
       stats.totalFiles++;
     } catch (err) {
-      console.error(`  ERROR parsing ${file}: ${err.message}`);
+      console.error(`  ERROR reading/parsing ${file}: ${err.message}`);
       stats.errors++;
     }
   }
@@ -406,21 +409,24 @@ function processFolder(folderPath, config, ops, stats) {
 
 // ── Main seed function ───────────────────────────────────────
 async function seed() {
+  const args = parseArgs(process.argv.slice(2));
+  if (args.dryRun) console.log('[DRY RUN] No writes will occur.\n');
+
   console.log('Connecting to MongoDB...');
   await mongoose.connect(process.env.MONGO_URI);
   console.log('Connected.\n');
 
-  const ops = [];
-  const stats = { totalFiles: 0, errors: 0 };
+  const records = [];
+  const stats = { totalFiles: 0, errors: 0, onDiskSlugs: new Set() };
 
-  // ── 5e sources (from Monsters/5e/) ──
+  // ── 5e sources (from monsters/5e/) ──
   console.log('5e sources:');
   for (const [folder, config] of Object.entries(SOURCE_MAP_5E)) {
     const folderPath = path.join(MONSTERS_5E_DIR, folder);
-    processFolder(folderPath, config, ops, stats);
+    processFolder(folderPath, config, records, stats);
   }
 
-  // ── PF2e sources (from Monsters/pf2e/) ──
+  // ── PF2e sources (from monsters/pf2e/) ──
   console.log('\nPF2e sources:');
   if (fs.existsSync(MONSTERS_PF2E_DIR)) {
     const pf2eFolders = fs.readdirSync(MONSTERS_PF2E_DIR, { withFileTypes: true })
@@ -438,31 +444,92 @@ async function seed() {
         gameSystem: 'pf2e',
       };
       const folderPath = path.join(MONSTERS_PF2E_DIR, folder);
-      processFolder(folderPath, config, ops, stats);
+      processFolder(folderPath, config, records, stats);
     }
   } else {
-    console.warn('  Monsters/pf2e/ directory not found, skipping PF2e sources.');
+    console.warn('  monsters/pf2e/ directory not found, skipping PF2e sources.');
   }
 
-  console.log(`\nParsed ${stats.totalFiles} monsters (${stats.errors} errors).`);
-  console.log('Writing to MongoDB...');
+  console.log(`\nScanned ${stats.totalFiles} monsters (${stats.errors} read/parse errors).`);
 
-  // bulkWrite in batches of 500
-  const BATCH_SIZE = 500;
-  let written = 0;
-  for (let i = 0; i < ops.length; i += BATCH_SIZE) {
-    const batch = ops.slice(i, i + BATCH_SIZE);
-    const result = await Monster.bulkWrite(batch);
-    written += result.upsertedCount + result.modifiedCount;
+  // ── Validate ─────────────────────────────────────────────────
+  const { valid, invalid } = validateSeedRecords(records, seedMonsterSchema);
+  console.log(`Validation: ${valid.length} valid, ${invalid.length} invalid.`);
+  if (invalid.length > 0) {
+    console.warn('\nInvalid records (will be skipped):');
+    for (const r of invalid) {
+      console.warn(`  [${r.file}] ${r.slug}`);
+      for (const issue of r.issues) {
+        console.warn(`    - ${issue}`);
+      }
+    }
   }
 
-  console.log(`Done. ${written} documents upserted/modified.`);
-  console.log(`Total in DB: ${await Monster.countDocuments()}`);
+  // ── Write valid records ──────────────────────────────────────
+  const ops = valid.map(r => ({
+    updateOne: {
+      filter: { slug: r.doc.slug },
+      update: { $set: r.doc },
+      upsert: true,
+    },
+  }));
+
+  console.log('\nWriting to MongoDB...');
+  const writeReport = await writeInBatches(Monster, ops, { dryRun: args.dryRun });
+
+  if (args.dryRun) {
+    console.log(`DRY RUN: would write ${writeReport.wouldWrite} upsert operations.`);
+  } else {
+    console.log(`Upserted: ${writeReport.upserted}, Modified: ${writeReport.modified}`);
+    if (writeReport.batchErrors.length > 0) {
+      console.error('Batch errors:');
+      for (const e of writeReport.batchErrors) {
+        console.error(`  Batch starting at ${e.batchStart}: ${e.message}`);
+      }
+    }
+  }
+
+  // ── Reconcile stale docs ─────────────────────────────────────
+  console.log('\nReconciling stale docs...');
+  const reconcile = await reconcileStale(Monster, {
+    onDiskSlugs: stats.onDiskSlugs,
+    scopeFilter: { isCustom: false },
+    dryRun: args.dryRun,
+    deleteThreshold: args.deleteThreshold,
+    log: console.log,
+  });
+
+  if (reconcile.aborted) {
+    console.error(`Reconcile aborted: stale=${reconcile.stale} docs flagged for deletion.`);
+  } else if (args.dryRun) {
+    console.log(`DRY RUN: ${reconcile.stale} stale docs found.`);
+  } else {
+    console.log(`Reconcile: deleted ${reconcile.deleted} stale docs (${reconcile.stale} identified).`);
+  }
+
+  // ── Summary ──────────────────────────────────────────────────
+  console.log('\n── Seed Summary ──');
+  console.log(`  Files scanned:   ${stats.totalFiles}`);
+  console.log(`  Read errors:     ${stats.errors}`);
+  console.log(`  Valid records:   ${valid.length}`);
+  console.log(`  Invalid records: ${invalid.length}`);
+  if (!args.dryRun) {
+    console.log(`  Upserted:        ${writeReport.upserted}`);
+    console.log(`  Modified:        ${writeReport.modified}`);
+    console.log(`  Batch errors:    ${writeReport.batchErrors.length}`);
+    console.log(`  Stale deleted:   ${reconcile.deleted}`);
+  }
+
+  // ── Exit code ────────────────────────────────────────────────
+  if (reconcile.aborted || writeReport.batchErrors.length > 0 || (args.failOnInvalid && invalid.length > 0)) {
+    process.exitCode = 1;
+  }
 
   await mongoose.connection.close();
 }
 
 seed().catch(err => {
   console.error('Seed failed:', err);
-  process.exit(1);
+  process.exitCode = 1;
+  mongoose.connection.close().catch(() => {});
 });
