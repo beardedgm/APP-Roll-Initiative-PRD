@@ -54,7 +54,10 @@ export async function mergeUserData(userId, payload, now = Date.now()) {
     }
     // version moved under us → retry with fresh state
   }
-  // Extremely unlikely: 4 concurrent writers. Return the freshest state.
+  // Extremely unlikely: 4 concurrent writers for one user. We did NOT persist
+  // this payload — the client re-syncs on its next cycle. Log it so a real
+  // recurrence is visible rather than a silent drop.
+  logger.warn({ userId: String(userId) }, 'user-data merge gave up after 4 CAS attempts; payload not persisted this cycle');
   const fresh = await UserData.findOne({ userId }).lean();
   return {
     version: fresh.version,
