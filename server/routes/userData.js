@@ -39,12 +39,27 @@ export async function mergeUserData(userId, payload, now = Date.now()) {
       encounterPresets: prunedTombstones(mergeCollection(current.encounterPresets, payload.encounterPresets, 'id'), now),
     };
 
+    // Detector: how many live server items did the client omit entirely?
+    // (Not necessarily loss — a fresh device omits everything — but a spike
+    // here is the smoke alarm for a resurrection/clobber regression.)
+    const omitted =
+      liveItems(current.characters).filter(s => !payload.characters.some(c => c.id === s.id)).length +
+      liveItems(current.customMonsters).filter(s => !payload.customMonsters.some(c => c.slug === s.slug)).length +
+      liveItems(current.encounterPresets).filter(s => !payload.encounterPresets.some(c => c.id === s.id)).length;
+    if (omitted > 0) {
+      logger.warn({ userId: String(userId), omitted }, 'user-data sync: client omitted live server items (kept by merge)');
+    }
+
     const doc = await UserData.findOneAndUpdate(
       { userId, version: current.version },
       { $set: merged, $inc: { version: 1 } },
       { returnDocument: 'after' }
     );
     if (doc) {
+      const bytes = JSON.stringify(doc).length;
+      if (bytes > 8 * 1024 * 1024) {
+        logger.warn({ userId: String(userId), bytes }, 'user-data doc exceeds 8MB — consider collection split (Phase 2 trigger)');
+      }
       return {
         version: doc.version,
         characters: liveItems(doc.characters),
