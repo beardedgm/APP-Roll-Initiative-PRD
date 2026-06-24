@@ -5,8 +5,9 @@ import api from '../api/axiosInstance';
 
 /**
  * Subscribes to useUserDataStore changes and auto-syncs to PUT /api/user-data
- * with a 2-second debounce. Server merges by name (newest wins), returns the
- * merged result which we accept back into the local store.
+ * with a 2-second debounce. The payload includes live items plus pending
+ * tombstones; the server merges per item (keyed on id/slug, higher rev wins)
+ * and returns the live result, which we accept back into the local store.
  */
 export default function useUserDataSync(enabled) {
   const timerRef = useRef(null);
