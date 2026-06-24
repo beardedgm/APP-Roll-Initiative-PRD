@@ -37,6 +37,9 @@ export function useCreateEncounter() {
 export function useUpdateEncounter() {
   const qc = useQueryClient();
   return useMutation({
+    // retry:false so the caller sees 409 Conflict immediately (expected
+    // control-flow for optimistic concurrency — not a transient error).
+    retry: false,
     mutationFn: async ({ id, ...updates }) => {
       const { data } = await api.put(`/encounters/${id}`, updates);
       return data.encounter;

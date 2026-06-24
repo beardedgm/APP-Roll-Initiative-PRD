@@ -62,6 +62,7 @@ export default function useEncounterCloudSetup(user) {
         diceHistory: mostRecentEncounter.diceHistory || [],
       });
       setCloudId(mostRecentEncounter._id);
+      useCombatStore.getState().setCloudRev(mostRecentEncounter.rev || 0);
       return;
     }
 
@@ -78,6 +79,7 @@ export default function useEncounterCloudSetup(user) {
         {
           onSuccess: (encounter) => {
             setCloudId(encounter._id);
+            useCombatStore.getState().setCloudRev(encounter.rev || 0);
           },
           onError: () => {
             didSetupRef.current = false;

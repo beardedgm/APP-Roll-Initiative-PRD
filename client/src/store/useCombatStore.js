@@ -16,6 +16,7 @@ function getDefaultState() {
     combatants: [],
     diceHistory: [],
     cloudId: null,     // MongoDB _id when saved to cloud
+    cloudRev: 0,       // optimistic concurrency revision from the server
     shareCode: null,   // share code for player view links
     showRollsToPlayers: false,
   };
@@ -354,6 +355,10 @@ const useCombatStore = create(
         set({ cloudId });
       },
 
+      setCloudRev(cloudRev) {
+        set({ cloudRev });
+      },
+
       setShareCode(shareCode) {
         set({ shareCode });
       },
@@ -426,6 +431,7 @@ const useCombatStore = create(
         combatants: state.combatants,
         diceHistory: state.diceHistory,
         cloudId: state.cloudId,
+        cloudRev: state.cloudRev,
         shareCode: state.shareCode,
         showRollsToPlayers: state.showRollsToPlayers,
       }),
