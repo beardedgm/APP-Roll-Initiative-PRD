@@ -26,7 +26,11 @@ dotenv.config({ path: path.join(__dirname, '..', '..', '.env') });
 dns.setServers(['8.8.8.8', '8.8.4.4']);
 
 // ── Source folder config ──────────────────────────────────────
-const MONSTERS_DIR = path.join(__dirname, '..', '..', 'Monsters');
+// Lowercase 'monsters' — the tracked dir name. A capitalized path works on
+// case-insensitive Windows but finds NOTHING on Render's case-sensitive Linux
+// FS (silently empty catalog), which becomes dangerous once stale-record
+// reconciliation can delete based on the on-disk set.
+const MONSTERS_DIR = path.join(__dirname, '..', '..', 'monsters');
 const MONSTERS_5E_DIR = path.join(MONSTERS_DIR, '5e');
 const MONSTERS_PF2E_DIR = path.join(MONSTERS_DIR, 'pf2e');
 
