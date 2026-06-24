@@ -113,7 +113,10 @@ app.use(requestLogger);
 app.use(webhookRouter);
 app.use(emailWebhookRouter);
 
-app.use(express.json());
+// Custom monster libraries (rawMarkdown stat blocks) make user-data syncs
+// large; the 100KB Express default was silently 413-ing them — a likely
+// direct cause of lost custom-monster data. 2MB is generous headroom.
+app.use(express.json({ limit: '2mb' }));
 
 // Only set up session store if DB is connected
 if (dbConnected) {
@@ -121,6 +124,17 @@ if (dbConnected) {
 } else {
   logger.warn('Sessions disabled — no database connection');
 }
+
+// Investigation breadcrumb: log any user-data sync body that would have failed
+// the old 100KB default, to confirm whether the limit caused the data loss.
+// Placed after session setup so req.session is available.
+app.use('/api/user-data', (req, res, next) => {
+  const len = Number(req.headers['content-length'] || 0);
+  if (len > 100 * 1024) {
+    logger.warn({ userId: req.session?.userId, bytes: len }, 'large user-data sync body (would have failed old 100KB limit)');
+  }
+  next();
+});
 
 // ── CSRF Protection ────────────────────────────────────────
 // Applied to all /api/* routes except the Stripe webhook (which uses its own signature verification)
