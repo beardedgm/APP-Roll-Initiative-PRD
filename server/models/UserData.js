@@ -9,6 +9,9 @@ const CharacterSchema = new mongoose.Schema({
   initMod:            { type: Number, default: 0 },
   createdAt:          { type: Date, default: Date.now },
   updatedAt:          { type: Date, default: Date.now },
+  rev:                { type: Number, default: 0 },
+  deleted:            { type: Boolean, default: false },
+  deletedAt:          { type: String, default: null },
 }, { _id: false });
 
 const CustomMonsterSchema = new mongoose.Schema({
@@ -44,6 +47,9 @@ const CustomMonsterSchema = new mongoose.Schema({
   rawMarkdown:          { type: String },
   createdAt:            { type: Date, default: Date.now },
   updatedAt:            { type: Date, default: Date.now },
+  rev:                  { type: Number, default: 0 },
+  deleted:              { type: Boolean, default: false },
+  deletedAt:            { type: String, default: null },
 }, { _id: false });
 
 const EncounterPresetSchema = new mongoose.Schema({
@@ -56,6 +62,9 @@ const EncounterPresetSchema = new mongoose.Schema({
   diceHistory:       [{ type: mongoose.Schema.Types.Mixed }],
   createdAt:         { type: Date, default: Date.now },
   updatedAt:         { type: Date, default: Date.now },
+  rev:               { type: Number, default: 0 },
+  deleted:           { type: Boolean, default: false },
+  deletedAt:         { type: String, default: null },
 }, { _id: false });
 
 const UserDataSchema = new mongoose.Schema({

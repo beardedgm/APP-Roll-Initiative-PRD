@@ -2,112 +2,81 @@ import { Router } from 'express';
 import UserData from '../models/UserData.js';
 import requireAuth from '../middleware/requireAuth.js';
 import requireSubscription from '../middleware/requireSubscription.js';
-import { parseUserDataResilient } from '../validators/userData.js';
+import { parseUserDataResilient, mergeCollection, liveItems, prunedTombstones } from '../validators/userData.js';
 import logger from '../config/logger.js';
 import asyncHandler from '../utils/asyncHandler.js';
 
 const router = Router();
 
-// ── Get user data (or create empty doc) ────────────────────
+// ── Get user data (live items only) ────────────────────────
 router.get('/api/user-data', requireAuth, asyncHandler(async (req, res) => {
   let doc = await UserData.findOne({ userId: req.session.userId }).lean();
   if (!doc) {
-    doc = await UserData.create({ userId: req.session.userId });
-    doc = doc.toObject();
+    doc = (await UserData.create({ userId: req.session.userId })).toObject();
   }
   res.json({
     version: doc.version,
-    characters: doc.characters,
-    customMonsters: doc.customMonsters,
-    encounterPresets: doc.encounterPresets,
+    characters: liveItems(doc.characters),
+    customMonsters: liveItems(doc.customMonsters),
+    encounterPresets: liveItems(doc.encounterPresets),
   });
 }));
 
-// ── Update user data (merge strategy: newest change wins) ──
+/**
+ * Merge a validated client payload into the user's stored doc using
+ * tombstone-aware, rev-ordered merges, with a whole-doc compare-and-swap on
+ * `version` (retried) so two concurrent syncs cannot lose each other's merge.
+ * Stores tombstones (pruned at TTL); returns the LIVE view. Exported for tests.
+ */
+export async function mergeUserData(userId, payload, now = Date.now()) {
+  for (let attempt = 0; attempt < 4; attempt++) {
+    let current = await UserData.findOne({ userId });
+    if (!current) current = await UserData.create({ userId });
+
+    const merged = {
+      characters: prunedTombstones(mergeCollection(current.characters, payload.characters, 'id'), now),
+      customMonsters: prunedTombstones(mergeCollection(current.customMonsters, payload.customMonsters, 'slug'), now),
+      encounterPresets: prunedTombstones(mergeCollection(current.encounterPresets, payload.encounterPresets, 'id'), now),
+    };
+
+    const doc = await UserData.findOneAndUpdate(
+      { userId, version: current.version },
+      { $set: merged, $inc: { version: 1 } },
+      { returnDocument: 'after' }
+    );
+    if (doc) {
+      return {
+        version: doc.version,
+        characters: liveItems(doc.characters),
+        customMonsters: liveItems(doc.customMonsters),
+        encounterPresets: liveItems(doc.encounterPresets),
+      };
+    }
+    // version moved under us → retry with fresh state
+  }
+  // Extremely unlikely: 4 concurrent writers. Return the freshest state.
+  const fresh = await UserData.findOne({ userId }).lean();
+  return {
+    version: fresh.version,
+    characters: liveItems(fresh.characters),
+    customMonsters: liveItems(fresh.customMonsters),
+    encounterPresets: liveItems(fresh.encounterPresets),
+  };
+}
+
+// ── Update user data ───────────────────────────────────────
 router.put('/api/user-data', requireAuth, requireSubscription, asyncHandler(async (req, res) => {
   const parsed = parseUserDataResilient(req.body);
   if (!parsed.ok) {
     const details = parsed.error.issues.map(i => ({ path: i.path.join('.'), message: i.message }));
     return res.status(400).json({ error: 'Validation failed', details });
   }
-
-  const { characters, customMonsters, encounterPresets } = parsed.data;
-
-  // Skip+log invalid items instead of rejecting the whole sync — one bad
-  // record must never blackhole a user's other custom data.
   if (parsed.dropped.length) {
-    logger.warn(
-      { userId: req.session.userId, dropped: parsed.dropped },
-      'user-data sync dropped invalid items'
-    );
+    logger.warn({ userId: req.session.userId, dropped: parsed.dropped }, 'user-data sync dropped invalid items');
   }
 
-  // Get or create current server doc
-  let current = await UserData.findOne({ userId: req.session.userId });
-  if (!current) {
-    current = await UserData.create({ userId: req.session.userId });
-  }
-
-  // Merge each array: combine both sides, deduplicate by name, newest updatedAt wins
-  const merged = {
-    characters: mergeByName(current.characters, characters),
-    customMonsters: mergeByName(current.customMonsters, customMonsters),
-    encounterPresets: mergeByName(current.encounterPresets, encounterPresets),
-  };
-
-  const doc = await UserData.findOneAndUpdate(
-    { userId: req.session.userId },
-    {
-      $set: merged,
-      $inc: { version: 1 },
-    },
-    { new: true }
-  );
-
-  res.json({
-    version: doc.version,
-    characters: doc.characters,
-    customMonsters: doc.customMonsters,
-    encounterPresets: doc.encounterPresets,
-  });
+  const result = await mergeUserData(req.session.userId, parsed.data);
+  res.json(result);
 }));
-
-/**
- * Merge two arrays of items by name. Items with the same name are
- * deduplicated — the one with the most recent updatedAt wins.
- * Items only on one side are always included.
- *
- * Name matching is case-insensitive and trimmed: "Gandalf" and "GANDALF"
- * are treated as the same item. This prevents accidental duplicates from
- * cross-device sync while preserving the casing of the newest version.
- */
-function mergeByName(serverItems = [], clientItems = []) {
-  const map = new Map();
-
-  // Add server items first
-  for (const item of serverItems) {
-    const key = (item.name || '').toLowerCase().trim();
-    map.set(key, item);
-  }
-
-  // Client items overwrite if newer (or if not on server)
-  for (const item of clientItems) {
-    const key = (item.name || '').toLowerCase().trim();
-    const existing = map.get(key);
-
-    if (!existing) {
-      map.set(key, item);
-    } else {
-      // Newest updatedAt wins; if no timestamps, client wins
-      const existingTime = existing.updatedAt ? new Date(existing.updatedAt).getTime() : 0;
-      const incomingTime = item.updatedAt ? new Date(item.updatedAt).getTime() : 0;
-      if (incomingTime >= existingTime) {
-        map.set(key, item);
-      }
-    }
-  }
-
-  return [...map.values()];
-}
 
 export default router;
