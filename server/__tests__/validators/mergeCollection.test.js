@@ -59,4 +59,13 @@ describe('prunedTombstones', () => {
     const out = prunedTombstones(items, now);
     expect(out.map(i => i.id).sort()).toEqual(['live', 'recent']);
   });
+
+  it('retains a tombstone with a missing or unparseable deletedAt (fail-safe)', () => {
+    const now = Date.parse('2026-06-24T00:00:00.000Z');
+    const items = [
+      { id: 'noDate', rev: 2, deleted: true },
+      { id: 'badDate', rev: 2, deleted: true, deletedAt: 'not-a-date' },
+    ];
+    expect(prunedTombstones(items, now).map(i => i.id).sort()).toEqual(['badDate', 'noDate']);
+  });
 });

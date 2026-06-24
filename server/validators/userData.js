@@ -185,6 +185,16 @@ const TOMBSTONE_TTL_MS = 30 * 24 * 60 * 60 * 1000; // 30 days
  * only on the server is always kept (an empty/fresh device cannot wipe the
  * server), and a stale re-add (lower rev) cannot resurrect a tombstone.
  * Conflict order is the per-item integer `rev`; ties keep the server copy.
+ *
+ * Tradeoff: because the client bumps `rev` on every local edit, two devices
+ * that independently edit the same item from the same base both reach the same
+ * `rev` with different content — the tie resolves to the server copy, so the
+ * other device's edit is dropped (last-writer-undetermined). Acceptable for a
+ * single user across their own devices; deletions are never affected.
+ *
+ * Contract: inputs MUST be validated first (every item has a non-empty `key`);
+ * `parseUserDataResilient` guarantees this. Keyless items would collide on
+ * `undefined`.
  */
 export function mergeCollection(serverItems = [], clientItems = [], key) {
   const map = new Map();
@@ -206,11 +216,17 @@ export function liveItems(items = []) {
   return items.filter(i => !i.deleted);
 }
 
-/** Drop tombstones older than the TTL; keep all live items. `now` is ms. */
+/**
+ * Drop tombstones older than the TTL; keep all live items. `now` is ms.
+ * Fail-safe: a tombstone with a missing or unparseable `deletedAt` is RETAINED,
+ * not dropped — dropping it would let a stale offline device resurrect the
+ * delete, defeating the whole point of tombstones.
+ */
 export function prunedTombstones(items = [], now) {
   return items.filter(i => {
     if (!i.deleted) return true;
-    const ts = i.deletedAt ? Date.parse(i.deletedAt) : 0;
+    const ts = i.deletedAt ? Date.parse(i.deletedAt) : NaN;
+    if (Number.isNaN(ts)) return true; // malformed tombstone → keep (fail-safe)
     return now - ts < TOMBSTONE_TTL_MS;
   });
 }
