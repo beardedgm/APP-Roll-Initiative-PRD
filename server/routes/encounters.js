@@ -71,10 +71,17 @@ router.post('/api/encounters', validate(createEncounterSchema), asyncHandler(asy
 // ── Update encounter (used by cloud sync) ─────────────────────
 router.put('/api/encounters/:id', validate(updateEncounterSchema), asyncHandler(async (req, res) => {
   const { baseRev, ...updates } = req.validated;
+  // Encounters created before the `rev` field existed have no `rev` in Mongo
+  // (Mongoose defaults apply on save, not retroactively). A baseRev of 0 must
+  // therefore also match a missing field, or every legacy doc would 409-loop
+  // on its first sync. $inc treats a missing field as 0, so it becomes 1.
+  const revMatch = baseRev === 0
+    ? { $or: [{ rev: 0 }, { rev: { $exists: false } }] }
+    : { rev: baseRev };
   const encounter = await Encounter.findOneAndUpdate(
-    { _id: req.params.id, userId: req.session.userId, rev: baseRev },
+    { _id: req.params.id, userId: req.session.userId, ...revMatch },
     { $set: { ...updates, lastSyncedAt: new Date() }, $inc: { rev: 1 } },
-    { returnDocument: 'after' }
+    { new: true }
   );
 
   if (encounter) {

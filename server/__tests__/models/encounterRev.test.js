@@ -41,4 +41,23 @@ describe('Encounter optimistic concurrency', () => {
     const fresh = await Encounter.findById(enc._id);
     expect(fresh.name).toBe('first');
   });
+
+  it('accepts baseRev 0 for a legacy doc that has no rev field', async () => {
+    const userId = new mongoose.Types.ObjectId();
+    const enc = await Encounter.create({ userId, name: 'legacy' });
+    // Simulate a pre-`rev` document: strip the field directly in the collection.
+    await mongoose.connection.collection('encounters').updateOne(
+      { _id: enc._id },
+      { $unset: { rev: '' } }
+    );
+    // Route's legacy-tolerant filter for baseRev 0.
+    const updated = await Encounter.findOneAndUpdate(
+      { _id: enc._id, userId, $or: [{ rev: 0 }, { rev: { $exists: false } }] },
+      { $set: { name: 'migrated' }, $inc: { rev: 1 } },
+      { new: true }
+    );
+    expect(updated).not.toBeNull();
+    expect(updated.rev).toBe(1);
+    expect(updated.name).toBe('migrated');
+  });
 });
