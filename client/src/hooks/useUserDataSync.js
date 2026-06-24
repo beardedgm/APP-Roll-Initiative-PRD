@@ -28,7 +28,14 @@ export default function useUserDataSync(enabled) {
       encounterPresets: [...encounterPresets, ...deletedEncounterPresets],
     };
 
-    const snapshot = JSON.stringify(payload);
+    // Dedup on the DATA, not `version` — the success handler stores the
+    // server's live arrays here, and `version` changes on every write, so
+    // including it would make the snapshot never match and re-sync forever.
+    const snapshot = JSON.stringify({
+      characters: payload.characters,
+      customMonsters: payload.customMonsters,
+      encounterPresets: payload.encounterPresets,
+    });
     if (!force && snapshot === prevSnapshotRef.current) return;
     const previousSnapshot = prevSnapshotRef.current;
     prevSnapshotRef.current = snapshot;
