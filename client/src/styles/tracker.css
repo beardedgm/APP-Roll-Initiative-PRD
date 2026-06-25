@@ -285,6 +285,43 @@ body.is-resizing .resize-handle::after {
 .btn--full  { width: 100%; padding: var(--space-sm); }
 .btn--sm    { padding: 4px 10px; font-size: 0.78rem; }
 
+/* ── Touch-target floors ──────────────────────────────────────
+   Dense icon controls get a comfortable hit area without enlarging the icon
+   (the .btn base already centers its contents). On touch / coarse pointers
+   every control meets the 44px guideline so the tracker stays usable on a
+   tablet at the table; mouse layouts stay compact. */
+.btn--icon,
+.btn--remove,
+.btn--reroll,
+.btn--reroll-history,
+.dice-toast__close,
+.monster-db__add-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 30px;
+  min-height: 30px;
+}
+
+@media (pointer: coarse) {
+  .btn,
+  .left-panel__tab,
+  .system-toggle__btn,
+  .monster-db__add-btn,
+  .dice-toast__close,
+  .hp-input,
+  .combatant-card__initiative-input {
+    min-height: 44px;
+  }
+  .btn,
+  .left-panel__tab,
+  .system-toggle__btn,
+  .monster-db__add-btn,
+  .dice-toast__close {
+    min-width: 44px;
+  }
+}
+
 /* ── Start Combat button ────────────────────────────────────── */
 .btn--combat-start {
   background: var(--gradient-gold);
