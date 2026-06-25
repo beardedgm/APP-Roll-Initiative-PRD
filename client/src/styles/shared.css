@@ -79,6 +79,7 @@
   /* Transitions */
   --transition-fast: 150ms ease;
   --transition: 200ms ease;
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
 
   /* Aliases for semantic usage */
   --color-accent-primary: var(--color-accent-gold);
@@ -93,7 +94,6 @@
   --gradient-gold: linear-gradient(135deg, #c9a267, #dbb57e);
   --gradient-gold-subtle: linear-gradient(135deg, rgba(201,162,103,0.15), rgba(201,162,103,0.05));
   --shadow-inset-subtle: inset 0 1px 0 rgba(255,255,255,0.03);
-  --transition-bounce: 200ms cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
 /* ── Base Reset ─────────────────────────────────────────────── */

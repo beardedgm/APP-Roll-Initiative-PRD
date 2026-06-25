@@ -932,7 +932,7 @@ body.is-resizing .resize-handle::after {
   box-shadow: 0 4px 24px rgba(0,0,0,0.5), var(--glow-gold-sm);
   opacity: 0;
   pointer-events: none;
-  transition: transform 350ms cubic-bezier(0.34, 1.56, 0.64, 1), opacity 250ms ease;
+  transition: transform 350ms var(--ease-out-expo), opacity 250ms ease;
 }
 .dice-toast--visible {
   transform: translateX(-50%) translateY(0);
