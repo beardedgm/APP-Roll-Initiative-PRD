@@ -11,7 +11,7 @@ export default function HPBar({ current, max }) {
     <div className="hp-track">
       <div
         className={`hp-bar ${hpClass}`}
-        style={{ width: `${Math.max(0, Math.min(100, pct))}%` }}
+        style={{ transform: `scaleX(${Math.max(0, Math.min(1, pct / 100))})` }}
       />
     </div>
   );
