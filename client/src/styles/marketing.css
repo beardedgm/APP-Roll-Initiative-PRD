@@ -492,37 +492,15 @@ body.marketing {
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 }
 
+/* Distilled: feature items are content blocks, not boxed cards. The gold icon
+   tile anchors each; the grid gap provides separation. */
 .feature-card {
-  position: relative;
-  padding: 36px 32px;
-  background: var(--color-bg-card);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-lg);
-  transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
-  overflow: hidden;
+  padding: 0;
+  transition: color var(--transition);
 }
 
-.feature-card::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
-  background: var(--color-accent-gold);
-  transform: scaleX(0);
-  transform-origin: left;
-  transition: transform 0.3s ease;
-}
-
-.feature-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4);
-  border-color: var(--color-border-light);
-}
-
-.feature-card:hover::after {
-  transform: scaleX(1);
+.feature-card:hover .feature-card__title {
+  color: var(--color-accent-gold);
 }
 
 .feature-card__icon {
@@ -552,35 +530,6 @@ body.marketing {
   color: var(--color-text-secondary);
   line-height: 1.7;
 }
-
-/* Color-coded card variants */
-.feature-card--blue .feature-card__icon {
-  color: var(--color-accent-blue);
-  background: rgba(52, 152, 219, 0.1);
-  border-color: rgba(52, 152, 219, 0.25);
-}
-.feature-card--blue::after { background: var(--color-accent-blue); }
-
-.feature-card--red .feature-card__icon {
-  color: var(--color-accent-red);
-  background: rgba(229, 72, 77, 0.1);
-  border-color: rgba(229, 72, 77, 0.25);
-}
-.feature-card--red::after { background: var(--color-accent-red); }
-
-.feature-card--green .feature-card__icon {
-  color: var(--color-accent-green);
-  background: rgba(48, 164, 108, 0.1);
-  border-color: rgba(48, 164, 108, 0.25);
-}
-.feature-card--green::after { background: var(--color-accent-green); }
-
-.feature-card--purple .feature-card__icon {
-  color: #bb7fe2;
-  background: rgba(187, 127, 226, 0.1);
-  border-color: rgba(187, 127, 226, 0.25);
-}
-.feature-card--purple::after { background: #bb7fe2; }
 
 /* ── Showcase Section (Built for DMs) ─────────────────────────── */
 .showcase {
@@ -670,21 +619,11 @@ body.marketing {
   background: var(--color-bg-mid);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
-  border-left: 4px solid var(--color-accent-blue);
 }
 
 .mockup-item--active {
   background: var(--color-accent-gold);
   border-color: var(--color-accent-gold);
-  border-left-color: var(--color-accent-gold);
-}
-
-.mockup-item--monster {
-  border-left-color: var(--color-accent-red);
-}
-
-.mockup-item--npc {
-  border-left-color: var(--color-accent-green);
 }
 
 .mockup-item__name {

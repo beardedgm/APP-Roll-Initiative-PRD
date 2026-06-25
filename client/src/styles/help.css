@@ -47,8 +47,7 @@
   font-size: 0.875rem;
   color: var(--color-text-secondary);
   text-decoration: none;
-  border-left: 3px solid transparent;
-  transition: color var(--transition-fast), background var(--transition-fast), border-color var(--transition-fast);
+  transition: color var(--transition-fast), background var(--transition-fast);
 }
 
 .help-sidebar__link:hover {
@@ -58,7 +57,6 @@
 
 .help-sidebar__link--active {
   color: var(--color-accent-gold);
-  border-left-color: var(--color-accent-gold);
   background: rgba(201, 162, 103, 0.08);
 }
 

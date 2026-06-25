@@ -46,7 +46,7 @@ export default function InitiativeItem({ combatant, isActive }) {
   const badge = getStatusBadge(combatant);
 
   return (
-    <li className={`initiative-item type-border-${type}${isActive ? ' initiative-item--active' : ''}`}>
+    <li className={`initiative-item${isActive ? ' initiative-item--active' : ''}`}>
       <div className="initiative-item__left">
         {isActive && <span className="initiative-item__arrow"><ChevronRight /></span>}
         {typeIcons[type] || null}

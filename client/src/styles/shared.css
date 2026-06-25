@@ -226,11 +226,6 @@ button:focus-visible {
 .type-badge.monster { background: rgba(229, 72, 77, 0.15);  color: #f1948a; border: 1px solid rgba(229, 72, 77, 0.3); }
 .type-badge.npc     { background: rgba(48, 164, 108, 0.15); color: #6dd4a0; border: 1px solid rgba(48, 164, 108, 0.3); }
 
-/* Type left-border accent used on cards */
-.type-border-player  { border-left: 4px solid var(--color-player); }
-.type-border-monster { border-left: 4px solid var(--color-monster); }
-.type-border-npc     { border-left: 4px solid var(--color-npc); }
-
 /* ── Reduced Motion ────────────────────────────────────────── */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {

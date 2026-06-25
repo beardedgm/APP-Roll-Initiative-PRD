@@ -1521,7 +1521,7 @@ body.is-resizing .resize-handle::after {
 
 .monster-db__item--selected {
   background: rgba(201, 162, 103, 0.1);
-  border-left: 2px solid var(--color-accent-gold);
+  border-color: var(--color-accent-gold-dim);
 }
 
 .monster-db__item-name {
@@ -1686,7 +1686,7 @@ body.is-resizing .resize-handle::after {
 
 .spell-list__item--selected {
   background: rgba(201, 162, 103, 0.1);
-  border-left: 2px solid var(--color-accent-gold);
+  border-color: var(--color-accent-gold-dim);
 }
 
 .spell-list__item-name {
