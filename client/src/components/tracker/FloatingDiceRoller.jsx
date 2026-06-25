@@ -172,6 +172,7 @@ export default function FloatingDiceRoller() {
               type="button"
               role="switch"
               aria-checked={showRollsToPlayers}
+              aria-label="Show dice rolls to players"
               className={`show-rolls-toggle__switch${showRollsToPlayers ? ' show-rolls-toggle__switch--on' : ''}`}
               onClick={toggleShowRolls}
             >

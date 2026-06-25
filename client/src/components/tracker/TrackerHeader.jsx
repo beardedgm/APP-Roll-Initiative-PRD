@@ -44,10 +44,10 @@ export default function TrackerHeader() {
       </div>
 
       <div className="dm-header__right">
-        <button className="btn btn--icon" disabled={undoLen === 0} onClick={undo} title="Undo (Ctrl+Z)">
+        <button className="btn btn--icon" disabled={undoLen === 0} onClick={undo} title="Undo (Ctrl+Z)" aria-label="Undo">
           <Undo2 size={16} />
         </button>
-        <button className="btn btn--icon" disabled={redoLen === 0} onClick={redo} title="Redo (Ctrl+Y)">
+        <button className="btn btn--icon" disabled={redoLen === 0} onClick={redo} title="Redo (Ctrl+Y)" aria-label="Redo">
           <Redo2 size={16} />
         </button>
 
@@ -55,6 +55,7 @@ export default function TrackerHeader() {
           className={`btn btn--icon${diceRollerOpen ? ' btn--icon-active' : ''}`}
           onClick={toggleDiceRoller}
           aria-pressed={diceRollerOpen}
+          aria-label="Toggle dice roller"
           title="Dice roller"
         >
           <Dices size={16} />
@@ -64,29 +65,29 @@ export default function TrackerHeader() {
 
         <span className="header-divider" />
 
-        <button className="btn btn--icon" onClick={handleOpenPlayerView} title="Open player view">
+        <button className="btn btn--icon" onClick={handleOpenPlayerView} title="Open player view" aria-label="Open player view">
           <Monitor size={16} />
         </button>
         {user && (
-          <button className="btn btn--icon" onClick={() => openModal('share-link')} title="Share player view link">
+          <button className="btn btn--icon" onClick={() => openModal('share-link')} title="Share player view link" aria-label="Share player view link">
             <Share2 size={16} />
           </button>
         )}
-        <button className="btn btn--icon btn--icon-danger" onClick={handleReset} title="Reset encounter">
+        <button className="btn btn--icon btn--icon-danger" onClick={handleReset} title="Reset encounter" aria-label="Reset encounter">
           <Trash2 size={16} />
         </button>
 
-        <button className="btn btn--icon" onClick={() => navigate('/help')} title="Help">
+        <button className="btn btn--icon" onClick={() => navigate('/help')} title="Help" aria-label="Help">
           <HelpCircle size={16} />
         </button>
 
         <span className="header-divider" />
         {user ? (
-          <button className="btn btn--icon" onClick={() => setProfileOpen(true)} title="Profile">
+          <button className="btn btn--icon" onClick={() => setProfileOpen(true)} title="Profile" aria-label="Open profile">
             <User size={16} />
           </button>
         ) : (
-          <button className="btn btn--icon" onClick={() => navigate('/login')} title="Log in">
+          <button className="btn btn--icon" onClick={() => navigate('/login')} title="Log in" aria-label="Log in">
             <LogIn size={16} />
           </button>
         )}

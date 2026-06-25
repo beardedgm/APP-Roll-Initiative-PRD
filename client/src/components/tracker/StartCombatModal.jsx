@@ -90,7 +90,7 @@ function StartCombatContent({ combatants, onStart, onClose }) {
                     ({row.rolled}{row.modifier >= 0 ? '+' : ''}{row.modifier})
                   </span>
                 </span>
-                <button className="btn btn--reroll" onClick={() => handleReroll(row.id)}>
+                <button className="btn btn--reroll" onClick={() => handleReroll(row.id)} title="Re-roll initiative" aria-label={`Re-roll initiative for ${row.name}`}>
                   <RotateCcw size={13} />
                 </button>
               </>

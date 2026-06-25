@@ -105,7 +105,7 @@ function EncounterRow({ name, count, date, onLoad, onDelete }) {
       </div>
       <div className="encounter-library__item-actions">
         <button className="btn btn--secondary btn--sm" onClick={onLoad}>Load</button>
-        <button className="btn btn--danger btn--sm" onClick={onDelete}><X size={14} /></button>
+        <button className="btn btn--danger btn--sm" onClick={onDelete} title="Delete" aria-label={`Delete ${name || 'Unnamed'} encounter`}><X size={14} /></button>
       </div>
     </div>
   );

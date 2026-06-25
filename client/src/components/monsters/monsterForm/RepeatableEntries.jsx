@@ -14,7 +14,7 @@ export default function RepeatableEntries({ entries, entryKey, onAdd, onUpdate, 
               onChange={e => onUpdate(entryKey, entry.id, 'name', e.target.value)}
               placeholder="Name"
             />
-            <button className="btn btn--remove btn--sm" onClick={() => onRemove(entryKey, entry.id)} title="Remove">&times;</button>
+            <button className="btn btn--remove btn--sm" onClick={() => onRemove(entryKey, entry.id)} title="Remove" aria-label="Remove entry">&times;</button>
           </div>
           <textarea
             className="monster-form__entry-desc"
