@@ -775,37 +775,6 @@ body.marketing {
   border: 1px solid var(--color-accent-gold-dim);
 }
 
-/* Color variants for feature detail icons */
-.feature-detail--blue .feature-detail__icon-wrap {
-  color: var(--color-accent-blue);
-  background: rgba(52, 152, 219, 0.1);
-  border-color: rgba(52, 152, 219, 0.25);
-}
-
-.feature-detail--red .feature-detail__icon-wrap {
-  color: var(--color-accent-red);
-  background: rgba(229, 72, 77, 0.1);
-  border-color: rgba(229, 72, 77, 0.25);
-}
-
-.feature-detail--green .feature-detail__icon-wrap {
-  color: var(--color-accent-green);
-  background: rgba(48, 164, 108, 0.1);
-  border-color: rgba(48, 164, 108, 0.25);
-}
-
-.feature-detail--purple .feature-detail__icon-wrap {
-  color: #bb7fe2;
-  background: rgba(187, 127, 226, 0.1);
-  border-color: rgba(187, 127, 226, 0.25);
-}
-
-.feature-detail--amber .feature-detail__icon-wrap {
-  color: #f5a623;
-  background: rgba(245, 166, 35, 0.1);
-  border-color: rgba(245, 166, 35, 0.25);
-}
-
 /* ── Footer ───────────────────────────────────────────────────── */
 .site-footer {
   border-top: 1px solid var(--color-border);
@@ -1163,8 +1132,8 @@ body.marketing {
   font-weight: 600;
 }
 .encounter-card__badge--pre-combat {
-  background: rgba(100, 100, 255, 0.15);
-  color: #8888ff;
+  background: var(--color-bg-card-hover);
+  color: var(--color-text-secondary);
 }
 .encounter-card__badge--combat {
   background: rgba(212, 168, 67, 0.15);
