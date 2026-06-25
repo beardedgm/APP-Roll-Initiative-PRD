@@ -9,9 +9,11 @@ import useCloudSync from './useCloudSync';
  * - If cloudId exists in the store (returning user, same device): enables useCloudSync.
  * - If no cloudId and server has encounters: loads the most recent one into the store.
  * - If no cloudId and server has no encounters: creates a new cloud encounter from local state.
- * - If the user just deliberately reset (cloudId went truthy→null): creates a FRESH
- *   encounter instead of auto-reloading the stale one they just cleared.
  * - Free users (no subscription, no owner role): tracker works locally, no cloud sync.
+ *
+ * Note: resetEncounter() reuses the current cloud encounter (it preserves
+ * cloudId), so a reset no longer clears cloudId or creates a new doc — there is
+ * no "deliberate reset" special case to handle here.
  */
 export default function useEncounterCloudSetup(user) {
   const cloudId = useCombatStore(s => s.cloudId);
@@ -21,11 +23,6 @@ export default function useEncounterCloudSetup(user) {
   const createRef = useRef(createEncounter);
   const didSetupRef = useRef(false);
   const isCreatingRef = useRef(false);
-  // True when cloudId went from set → null this session (a deliberate reset),
-  // so the setup effect creates a fresh encounter rather than reloading the
-  // stale one the user just cleared.
-  const justResetRef = useRef(false);
-  const prevCloudIdRef = useRef(cloudId);
 
   const isSubscriber = !!user && (user.role === 'owner' || user.subscriptionStatus === 'active');
   const needsSetup = isSubscriber && !cloudId;
@@ -43,15 +40,12 @@ export default function useEncounterCloudSetup(user) {
   // Keep createRef in sync with latest mutation object
   useEffect(() => { createRef.current = createEncounter; });
 
-  // Detect a deliberate reset (had a cloudId, now cleared) vs a fresh login
-  // (never had one). Only the former should bypass the "load most recent" path.
+  // Reset setup flags when cloudId clears (e.g., logout/clearAll) so setup can re-run.
   useEffect(() => {
-    if (prevCloudIdRef.current && !cloudId) {
-      justResetRef.current = true;
+    if (!cloudId) {
       didSetupRef.current = false;
       isCreatingRef.current = false;
     }
-    prevCloudIdRef.current = cloudId;
   }, [cloudId]);
 
   // Main setup effect
@@ -59,9 +53,8 @@ export default function useEncounterCloudSetup(user) {
     if (!needsSetup || didSetupRef.current || listLoading) return;
     if (!encounters) return; // list not loaded yet
 
-    // Case: server has encounters → load the most recent one,
-    // UNLESS the user just deliberately reset (then fall through to create).
-    if (encounters.length > 0 && !justResetRef.current) {
+    // Case: server has encounters → load the most recent one
+    if (encounters.length > 0) {
       if (encounterLoading || !mostRecentEncounter) return;
 
       didSetupRef.current = true;
@@ -78,8 +71,8 @@ export default function useEncounterCloudSetup(user) {
       return;
     }
 
-    // Case: no encounters OR just reset → create a fresh cloud encounter
-    if (!isCreatingRef.current) {
+    // Case: server has no encounters → create one from current local state
+    if (encounters.length === 0 && !isCreatingRef.current) {
       isCreatingRef.current = true;
       didSetupRef.current = true;
 
@@ -92,7 +85,6 @@ export default function useEncounterCloudSetup(user) {
           onSuccess: (encounter) => {
             setCloudId(encounter._id);
             useCombatStore.getState().setCloudRev(encounter.rev || 0);
-            justResetRef.current = false;
           },
           onError: () => {
             didSetupRef.current = false;

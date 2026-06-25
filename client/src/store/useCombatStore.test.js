@@ -213,4 +213,19 @@ describe('resetEncounter', () => {
     expect(byName('Hero').initiative).toBe(0);
     expect(get().state).toBe('pre-combat');
   });
+
+  it('reuses the same cloud encounter (preserves cloudId and cloudRev)', () => {
+    get().setCloudId('cloud-abc');
+    get().setCloudRev(7);
+    get().addCombatant({ name: 'Hero', maxHP: 20, ac: 15, initMod: 2, quantity: 1, type: 'player' });
+    addMonster('Goblin');
+
+    get().resetEncounter();
+
+    // Same cloud doc is reused — no new encounter is created, so no orphan.
+    expect(get().cloudId).toBe('cloud-abc');
+    expect(get().cloudRev).toBe(7);
+    // Monsters cleared, player kept.
+    expect(names()).toEqual(['Hero']);
+  });
 });

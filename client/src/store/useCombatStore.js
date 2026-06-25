@@ -334,6 +334,12 @@ const useCombatStore = create(
         set({
           ...getDefaultState(),
           name: preservedName,
+          // Reuse the SAME cloud encounter — reset is a clear, not a new
+          // encounter. Preserving cloudId/cloudRev means the cleared state
+          // syncs back to the existing doc (no orphaned encounter docs) and
+          // any active share link keeps working.
+          cloudId: s.cloudId,
+          cloudRev: s.cloudRev,
           combatants: pcs,
           diceHistory: preservedHistory,
           undoStack: [],
