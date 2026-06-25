@@ -106,7 +106,7 @@ export default function PlayerViewLayout({
               <span className="initiative-item__preparing-text"><Swords /> GM is preparing the encounter...</span>
             </li>
             {pcs.map(pc => (
-              <li key={pc.id} className="initiative-item type-border-player">
+              <li key={pc.id} className="initiative-item">
                 <div className="initiative-item__left">
                   <span className="initiative-item__name">{pc.name}</span>
                 </div>

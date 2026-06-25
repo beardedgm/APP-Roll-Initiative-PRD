@@ -81,7 +81,7 @@ export default function Landing() {
         </div>
 
         <div className="features-grid features-grid--five reveal-stagger">
-          <div className="feature-card feature-card--blue reveal">
+          <div className="feature-card reveal">
             <div className="feature-card__icon"><Monitor size={28} /></div>
             <h3 className="feature-card__title">Real-Time Player Display</h3>
             <p className="feature-card__desc">
@@ -100,7 +100,7 @@ export default function Landing() {
             </p>
           </div>
 
-          <div className="feature-card feature-card--red reveal">
+          <div className="feature-card reveal">
             <div className="feature-card__icon"><Dices size={28} /></div>
             <h3 className="feature-card__title">Built-In Dice Roller</h3>
             <p className="feature-card__desc">
@@ -109,7 +109,7 @@ export default function Landing() {
             </p>
           </div>
 
-          <div className="feature-card feature-card--green reveal">
+          <div className="feature-card reveal">
             <div className="feature-card__icon"><BookOpen size={28} /></div>
             <h3 className="feature-card__title">5,700+ Monsters</h3>
             <p className="feature-card__desc">
@@ -119,7 +119,7 @@ export default function Landing() {
             </p>
           </div>
 
-          <div className="feature-card feature-card--purple reveal">
+          <div className="feature-card reveal">
             <div className="feature-card__icon"><Scroll size={28} /></div>
             <h3 className="feature-card__title">3,600+ Spells</h3>
             <p className="feature-card__desc">
@@ -173,7 +173,7 @@ export default function Landing() {
                   <span className="mockup-item__name">&#9654; Aragorn</span>
                   <span className="mockup-item__score">18</span>
                 </div>
-                <div className="mockup-item mockup-item--monster">
+                <div className="mockup-item">
                   <span className="mockup-item__name">Goblin Chief</span>
                   <span className="mockup-item__score">14</span>
                 </div>
@@ -181,11 +181,11 @@ export default function Landing() {
                   <span className="mockup-item__name">Legolas</span>
                   <span className="mockup-item__score">12</span>
                 </div>
-                <div className="mockup-item mockup-item--npc">
+                <div className="mockup-item">
                   <span className="mockup-item__name">Elrond</span>
                   <span className="mockup-item__score">9</span>
                 </div>
-                <div className="mockup-item mockup-item--monster">
+                <div className="mockup-item">
                   <span className="mockup-item__name">Orc Warrior</span>
                   <span className="mockup-item__score">7</span>
                 </div>

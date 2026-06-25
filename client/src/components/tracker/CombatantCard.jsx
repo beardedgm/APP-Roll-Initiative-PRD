@@ -80,7 +80,7 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
 
   return (
     <div
-      className={`combatant-card type-border-${type}${isActive ? ' combatant-card--active' : ''}`}
+      className={`combatant-card${isActive ? ' combatant-card--active' : ''}`}
       data-id={id}
       draggable
       onDragStart={onDragStart}
