@@ -5,7 +5,7 @@
 /* ── localStorage Warning Banner ───────────────────────────── */
 #ls-warning {
   background: rgba(229, 72, 77, 0.1);
-  color: #e5484d;
+  color: var(--color-accent-red);
   font-family: var(--font-body);
   font-size: 0.875rem;
   padding: var(--space-sm) var(--space-md);
@@ -531,9 +531,9 @@ body.is-resizing .resize-handle::after {
   align-items: center;
   flex-shrink: 0;
 }
-.type-icon--player  { color: #5dade2; }
-.type-icon--monster { color: #f1948a; }
-.type-icon--npc     { color: #6dd4a0; }
+.type-icon--player  { color: var(--color-player-tint); }
+.type-icon--monster { color: var(--color-monster-tint); }
+.type-icon--npc     { color: var(--color-npc-tint); }
 
 .ac-badge {
   display: inline-block;
@@ -816,23 +816,23 @@ body.is-resizing .resize-handle::after {
 /* ── Nat 20 / Nat 1 Callouts ── */
 .dice-nat20 .dice-result__total,
 .dice-nat20 .dice-toast__total {
-  color: #30a46c;
+  color: var(--color-accent-green);
   text-shadow: 0 0 12px rgba(48, 164, 108, 0.5), 0 0 4px rgba(48, 164, 108, 0.3);
 }
 .dice-nat20 .dice-result__breakdown,
-.dice-nat20 .dice-toast__breakdown { color: #30a46c; }
-.dice-nat20.dice-history__entry strong { color: #30a46c; text-shadow: 0 0 8px rgba(48, 164, 108, 0.4); }
-.dice-nat20.dice-history__entry .dice-history__die { color: #30a46c; }
+.dice-nat20 .dice-toast__breakdown { color: var(--color-accent-green); }
+.dice-nat20.dice-history__entry strong { color: var(--color-accent-green); text-shadow: 0 0 8px rgba(48, 164, 108, 0.4); }
+.dice-nat20.dice-history__entry .dice-history__die { color: var(--color-accent-green); }
 
 .dice-nat1 .dice-result__total,
 .dice-nat1 .dice-toast__total {
-  color: #e5484d;
+  color: var(--color-accent-red);
   text-shadow: 0 0 12px rgba(229, 72, 77, 0.5), 0 0 4px rgba(229, 72, 77, 0.3);
 }
 .dice-nat1 .dice-result__breakdown,
-.dice-nat1 .dice-toast__breakdown { color: #e5484d; }
-.dice-nat1.dice-history__entry strong { color: #e5484d; text-shadow: 0 0 8px rgba(229, 72, 77, 0.4); }
-.dice-nat1.dice-history__entry .dice-history__die { color: #e5484d; }
+.dice-nat1 .dice-toast__breakdown { color: var(--color-accent-red); }
+.dice-nat1.dice-history__entry strong { color: var(--color-accent-red); text-shadow: 0 0 8px rgba(229, 72, 77, 0.4); }
+.dice-nat1.dice-history__entry .dice-history__die { color: var(--color-accent-red); }
 
 .dice-nat20.dice-toast { border-color: rgba(48, 164, 108, 0.4); }
 .dice-nat1.dice-toast { border-color: rgba(229, 72, 77, 0.4); }
@@ -2389,12 +2389,12 @@ body.is-resizing .resize-handle::after {
 
 .character-library__badge--player {
   background: var(--color-player);
-  color: #fff;
+  color: var(--color-text-primary);
 }
 
 .character-library__badge--npc {
-  background: var(--color-npc, #6a7b8b);
-  color: #fff;
+  background: var(--color-npc);
+  color: var(--color-text-primary);
 }
 
 .character-library__item-actions {
@@ -2421,7 +2421,7 @@ body.is-resizing .resize-handle::after {
 
 .character-library__error {
   background: var(--color-danger);
-  color: #fff;
+  color: var(--color-text-primary);
   padding: 0.25rem 0.5rem;
   border-radius: var(--radius-sm);
   font-size: 0.75rem;
@@ -2585,7 +2585,7 @@ body.is-resizing .resize-handle::after {
   color: var(--color-accent-gold);
 }
 .sync-indicator--synced {
-  color: var(--color-accent-green, #4ade80);
+  color: var(--color-accent-green);
 }
 .sync-indicator--error {
   color: var(--color-accent-red);
@@ -2613,7 +2613,7 @@ body.is-resizing .resize-handle::after {
 }
 .sync-icon--synced,
 .sync-icon--idle {
-  color: #4ade80;
+  color: var(--color-accent-green);
 }
 .sync-icon--syncing {
   color: var(--color-text-secondary);
@@ -2625,7 +2625,7 @@ body.is-resizing .resize-handle::after {
   to { transform: rotate(360deg); }
 }
 .sync-icon--error {
-  color: #f87171;
+  color: var(--color-accent-red-hover);
 }
 .sync-icon--conflict {
   color: #d9a441;
@@ -2667,7 +2667,7 @@ body.is-resizing .resize-handle::after {
   display: block;
   width: 16px;
   height: 16px;
-  background: #fff;
+  background: var(--color-text-primary);
   border-radius: 50%;
   position: absolute;
   top: 2px;

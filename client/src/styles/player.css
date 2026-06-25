@@ -268,13 +268,13 @@ html:has(.player-wrapper), html:has(.player-wrapper) body {
 
 .status-badge--hurt {
   background: rgba(245, 166, 35, 0.12);
-  color: #f5a623;
+  color: var(--color-hp-mid);
   border: 2px solid rgba(245, 166, 35, 0.35);
 }
 
 .status-badge--bloody {
   background: rgba(229, 72, 77, 0.12);
-  color: #e5484d;
+  color: var(--color-hp-low);
   border: 2px solid rgba(229, 72, 77, 0.3);
 }
 
@@ -291,9 +291,9 @@ html:has(.player-wrapper), html:has(.player-wrapper) body {
   width: var(--player-icon-size, 18px);
   height: var(--player-icon-size, 18px);
 }
-.initiative-item__type-icon--player  { color: #3498db; }
-.initiative-item__type-icon--monster { color: #e5484d; }
-.initiative-item__type-icon--npc     { color: #30a46c; }
+.initiative-item__type-icon--player  { color: var(--color-player); }
+.initiative-item__type-icon--monster { color: var(--color-monster); }
+.initiative-item__type-icon--npc     { color: var(--color-npc); }
 
 .initiative-item--active .initiative-item__type-icon {
   color: var(--color-text-dark);
