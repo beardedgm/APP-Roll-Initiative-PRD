@@ -51,7 +51,7 @@ export default function DiceToast() {
 
   return (
     <div className={`dice-toast${visible ? ' dice-toast--visible' : ''} ${getNatClass(entry)}`} key={entry.id}>
-      <button className="dice-toast__close" onClick={() => setDismissedId(entry.id)} title="Dismiss"><X size={14} /></button>
+      <button className="dice-toast__close" onClick={() => setDismissedId(entry.id)} title="Dismiss" aria-label="Dismiss roll"><X size={14} /></button>
       <span className="dice-toast__label">{buildLabel(entry)}</span>
       <span className="dice-toast__total">{entry.total}</span>
       <Breakdown entry={entry} />

@@ -144,7 +144,7 @@ export default function DiceRoller() {
       <div className="dice-history">
         <div className="dice-history__header">
           <h3 className="dice-history__title">History</h3>
-          <button className="btn btn--icon btn--sm" onClick={clearDiceHistory} title="Clear dice history">
+          <button className="btn btn--icon btn--sm" onClick={clearDiceHistory} title="Clear dice history" aria-label="Clear dice history">
             <X size={14} />
           </button>
         </div>
@@ -165,6 +165,7 @@ export default function DiceRoller() {
                     className="btn btn--reroll-history"
                     onClick={() => handleReroll(entry.id)}
                     title={`Re-roll ${label}`}
+                    aria-label={`Re-roll ${label}`}
                   >
                     <RotateCcw size={13} />
                   </button>

@@ -99,9 +99,9 @@ export default function CharacterLibrary() {
                 </span>
               </div>
               <div className="character-library__item-actions">
-                <button className="btn btn--sm" onClick={() => handleEdit(char)} title="Edit"><Pencil size={14} /></button>
-                <button className="btn btn--sm btn--danger" onClick={() => handleDelete(char.id)} title="Delete"><X size={14} /></button>
-                <button className="monster-db__add-btn" onClick={() => handleAdd(char)} title="Add to encounter">+</button>
+                <button className="btn btn--sm" onClick={() => handleEdit(char)} title="Edit" aria-label={`Edit ${char.name}`}><Pencil size={14} /></button>
+                <button className="btn btn--sm btn--danger" onClick={() => handleDelete(char.id)} title="Delete" aria-label={`Delete ${char.name}`}><X size={14} /></button>
+                <button className="monster-db__add-btn" onClick={() => handleAdd(char)} title="Add to encounter" aria-label={`Add ${char.name} to encounter`}>+</button>
               </div>
             </div>
           ))

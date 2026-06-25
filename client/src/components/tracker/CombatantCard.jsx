@@ -108,8 +108,13 @@ export default function CombatantCard({ combatant, isActive, onDragStart, onDrag
           <span
             className={`combatant-card__initiative${isPreCombat ? ' combatant-card__initiative--dim' : ''}${isPreCombat ? '' : ' combatant-card__initiative--editable'}`}
             onClick={isPreCombat ? undefined : (e) => { e.stopPropagation(); startEditInit(); }}
-            title={isPreCombat ? undefined : 'Click to edit'}
+            onKeyDown={isPreCombat ? undefined : (e) => {
+              if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); e.stopPropagation(); startEditInit(); }
+            }}
+            title={isPreCombat ? undefined : 'Edit initiative to reorder'}
             role={isPreCombat ? undefined : 'button'}
+            tabIndex={isPreCombat ? undefined : 0}
+            aria-label={isPreCombat ? undefined : `Initiative ${initDisplay} for ${name}. Edit to reorder.`}
           >
             {initDisplay}
           </span>

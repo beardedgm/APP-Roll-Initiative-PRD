@@ -93,7 +93,7 @@ export default function ProfilePanel({ open, onClose }) {
       <aside className="profile-panel" ref={panelRef} tabIndex={-1}>
         <div className="profile-panel__header">
           <h2>Profile</h2>
-          <button className="btn btn--icon" onClick={onClose} title="Close">
+          <button className="btn btn--icon" onClick={onClose} title="Close" aria-label="Close profile">
             <X size={16} />
           </button>
         </div>
