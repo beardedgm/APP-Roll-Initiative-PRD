@@ -982,7 +982,7 @@ body.marketing {
 .auth-card__error {
   background: rgba(220, 38, 38, 0.15);
   border: 1px solid rgba(220, 38, 38, 0.4);
-  color: #f87171;
+  color: var(--color-accent-red-hover);
   padding: var(--space-sm) var(--space-md);
   border-radius: var(--radius-sm);
   font-size: 0.85rem;
@@ -993,7 +993,7 @@ body.marketing {
 .auth-card__success {
   background: rgba(34, 197, 94, 0.12);
   border: 1px solid rgba(34, 197, 94, 0.35);
-  color: #86efac;
+  color: var(--color-accent-green-hover);
   padding: var(--space-md) var(--space-lg);
   border-radius: var(--radius-sm);
   font-size: 0.95rem;
@@ -1202,7 +1202,7 @@ body.marketing {
 }
 .btn--danger {
   background: rgba(220, 50, 50, 0.2);
-  color: #ff6b6b;
+  color: var(--color-accent-red);
   border: 1px solid rgba(220, 50, 50, 0.3);
 }
 .btn--danger:hover {
@@ -1211,7 +1211,7 @@ body.marketing {
 
 /* Cloud synced indicator in tracker header */
 .cloud-synced {
-  color: #66bb6a;
+  color: var(--color-accent-green);
   cursor: default;
 }
 
@@ -1370,9 +1370,9 @@ body.marketing {
 .settings-field__value {
   color: var(--color-text-primary);
 }
-.settings-status--active { color: #66bb6a; }
-.settings-status--past_due { color: #ff9800; }
-.settings-status--canceled { color: #ef5350; }
+.settings-status--active { color: var(--color-accent-green); }
+.settings-status--past_due { color: var(--color-warning); }
+.settings-status--canceled { color: var(--color-accent-red); }
 .settings-status--none { color: var(--color-text-muted); }
 .settings-msg {
   padding: var(--space-xs) var(--space-sm);
@@ -1382,11 +1382,11 @@ body.marketing {
 }
 .settings-msg--success {
   background: rgba(102, 187, 106, 0.15);
-  color: #66bb6a;
+  color: var(--color-accent-green);
 }
 .settings-msg--error {
   background: rgba(239, 83, 80, 0.15);
-  color: #ef5350;
+  color: var(--color-accent-red);
 }
 .settings__inline-form {
   display: flex;
@@ -1400,19 +1400,19 @@ body.marketing {
   margin-left: 0.5rem;
 }
 .settings__danger-zone {
-  border-top: 2px solid #e74c3c;
+  border-top: 2px solid var(--color-accent-red);
   padding-top: 1.5rem;
   margin-top: 1.5rem;
 }
 .settings__danger-zone .settings-section__title {
-  color: #e74c3c;
+  color: var(--color-accent-red);
 }
 .settings__danger-btn {
-  border-color: #e74c3c;
-  color: #e74c3c;
+  border-color: var(--color-accent-red);
+  color: var(--color-accent-red);
 }
 .settings__danger-warning {
-  color: #e74c3c;
+  color: var(--color-accent-red);
   margin-bottom: 1rem;
 }
 .settings__button-group {
@@ -1420,7 +1420,7 @@ body.marketing {
   gap: 0.5rem;
 }
 .settings__delete-btn {
-  background: #e74c3c;
+  background: var(--color-accent-red);
 }
 
 /* ── Profile Page ──────────────────────────────────── */
@@ -1498,11 +1498,11 @@ body.marketing {
   color: var(--color-text-primary);
 }
 .site-nav__dropdown-link--danger {
-  color: #e5484d;
+  color: var(--color-accent-red);
 }
 .site-nav__dropdown-link--danger:hover {
   background: rgba(229, 72, 77, 0.08);
-  color: #e5484d;
+  color: var(--color-accent-red);
 }
 .site-nav__dropdown-divider {
   height: 1px;
