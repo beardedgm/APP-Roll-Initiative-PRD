@@ -55,7 +55,7 @@ export default function Features() {
         </div>
 
         {/* Monster Database */}
-        <div className="feature-detail feature-detail--reverse feature-detail--green reveal">
+        <div className="feature-detail feature-detail--reverse reveal">
           <div className="feature-detail__icon-wrap"><BookOpen size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">5,700+ Pre-Loaded Monsters</h2>
@@ -86,7 +86,7 @@ export default function Features() {
         </div>
 
         {/* Spell Library */}
-        <div className="feature-detail feature-detail--purple reveal">
+        <div className="feature-detail reveal">
           <div className="feature-detail__icon-wrap"><Scroll size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">3,600+ Spells</h2>
@@ -118,7 +118,7 @@ export default function Features() {
         </div>
 
         {/* HP & Status Tracking */}
-        <div className="feature-detail feature-detail--red reveal">
+        <div className="feature-detail reveal">
           <div className="feature-detail__icon-wrap"><Heart size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">HP &amp; Status Tracking</h2>
@@ -138,7 +138,7 @@ export default function Features() {
         </div>
 
         {/* Real-Time Player View */}
-        <div className="feature-detail feature-detail--reverse feature-detail--blue reveal">
+        <div className="feature-detail feature-detail--reverse reveal">
           <div className="feature-detail__icon-wrap"><Monitor size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">Real-Time Player View</h2>
@@ -159,7 +159,7 @@ export default function Features() {
         </div>
 
         {/* Dice Roller */}
-        <div className="feature-detail feature-detail--purple reveal">
+        <div className="feature-detail reveal">
           <div className="feature-detail__icon-wrap"><Dices size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">Built-In Dice Roller</h2>
@@ -178,7 +178,7 @@ export default function Features() {
         </div>
 
         {/* Encounter Management */}
-        <div className="feature-detail feature-detail--reverse feature-detail--green reveal">
+        <div className="feature-detail feature-detail--reverse reveal">
           <div className="feature-detail__icon-wrap"><Save size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">Encounter Management</h2>
@@ -198,7 +198,7 @@ export default function Features() {
         </div>
 
         {/* Undo / Redo */}
-        <div className="feature-detail feature-detail--amber reveal">
+        <div className="feature-detail reveal">
           <div className="feature-detail__icon-wrap"><RotateCcw size={32} /></div>
           <div className="feature-detail__text">
             <h2 className="feature-detail__title">Full Undo &amp; Redo</h2>
