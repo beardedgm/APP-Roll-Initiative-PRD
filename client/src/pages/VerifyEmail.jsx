@@ -1,13 +1,13 @@
 import { useEffect, useState } from 'react';
-import { Link, useSearchParams } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { useVerifyEmail } from '../api/useAuth';
+import { useConsumeTokenParam } from '../hooks/useConsumeTokenParam';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 import '../styles/marketing.css';
 
 export default function VerifyEmail() {
-  const [searchParams] = useSearchParams();
-  const token = searchParams.get('token') || '';
+  const token = useConsumeTokenParam();
   const verify = useVerifyEmail();
   // Derive the no-token case from initial state instead of calling setState
   // synchronously inside the effect (which triggers a cascading re-render and

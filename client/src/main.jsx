@@ -5,6 +5,7 @@ import * as Sentry from '@sentry/react';
 import posthog from 'posthog-js';
 import './styles/shared.css';
 import App from './App.jsx';
+import { redactAnalyticsEvent } from './lib/redactUrl';
 
 // Sentry — error tracking
 if (import.meta.env.VITE_SENTRY_DSN) {
@@ -20,6 +21,8 @@ if (import.meta.env.VITE_POSTHOG_KEY) {
   posthog.init(import.meta.env.VITE_POSTHOG_KEY, {
     api_host: import.meta.env.VITE_POSTHOG_HOST || 'https://us.i.posthog.com',
     autocapture: true,
+    // Strip auth tokens from URL-valued properties before any event is sent.
+    before_send: redactAnalyticsEvent,
   });
 }
 
