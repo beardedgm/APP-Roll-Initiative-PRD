@@ -18,6 +18,7 @@ import ShareLinkModal from '../components/tracker/ShareLinkModal';
 import ImportMonsterModal from '../components/monsters/ImportMonsterModal';
 import MonsterFormModal from '../components/monsters/MonsterFormModal';
 import { migrateLocalStorageToStore } from '../utils/migrateLocalStorage';
+import { isEditableTarget } from '../utils/isEditableTarget';
 import SEO from '../components/layout/SEO';
 import '../styles/tracker.css';
 
@@ -70,6 +71,10 @@ export default function Tracker() {
   // ── Keyboard shortcuts ──
   useEffect(() => {
     function handleKeyDown(e) {
+      // Don't hijack shortcuts while the user is typing in a field (f17) — this
+      // lets the browser's own undo/redo work and space insert a space.
+      if (isEditableTarget(document.activeElement)) return;
+
       if ((e.ctrlKey || e.metaKey) && e.key === 'z' && !e.shiftKey) {
         e.preventDefault();
         undo();
@@ -78,14 +83,10 @@ export default function Tracker() {
         e.preventDefault();
         redo();
       }
-      // Spacebar -> Next Turn (only during combat, only when no input is focused)
+      // Spacebar -> Next Turn (only during combat)
       if (e.key === ' ' && combatState === 'combat') {
-        const tag = document.activeElement?.tagName?.toLowerCase();
-        const isEditable = tag === 'input' || tag === 'textarea' || tag === 'select' || document.activeElement?.isContentEditable;
-        if (!isEditable) {
-          e.preventDefault();
-          nextTurn();
-        }
+        e.preventDefault();
+        nextTurn();
       }
     }
 

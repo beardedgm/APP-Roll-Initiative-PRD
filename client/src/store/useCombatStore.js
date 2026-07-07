@@ -136,7 +136,10 @@ const useCombatStore = create(
               id: generateId(),
               name: needsNumbering ? `${name} ${startNum + i}` : name,
               type,
-              initiative: combatState === 'combat' ? initiative : 0,
+              // Only carry a caller-provided initiative mid-combat, and only if
+              // it's a real number — otherwise 0. An undefined here becomes NaN
+              // after a drag-reorder, which 400s the encounter sync (f16).
+              initiative: combatState === 'combat' && Number.isFinite(initiative) ? initiative : 0,
               initiativeModifier: initMod || 0,
               ac: ac || 10,
               hp: { current: maxHP, max: maxHP },
@@ -305,12 +308,17 @@ const useCombatStore = create(
           const prev = combatants[insertedIdx - 1];
           const next = combatants[insertedIdx + 1];
 
+          // Treat a non-finite neighbor initiative as 0 so the slot math can
+          // never produce NaN (which would 400 the encounter sync — f16).
+          const prevInit = Number.isFinite(prev?.initiative) ? prev.initiative : 0;
+          const nextInit = Number.isFinite(next?.initiative) ? next.initiative : 0;
+
           if (!prev && next) {
-            source.initiative = next.initiative + 1;
+            source.initiative = nextInit + 1;
           } else if (prev && !next) {
-            source.initiative = prev.initiative - 1;
+            source.initiative = prevInit - 1;
           } else if (prev && next) {
-            source.initiative = Math.floor((prev.initiative + next.initiative) / 2);
+            source.initiative = Math.floor((prevInit + nextInit) / 2);
           }
 
           return { combatants };
@@ -340,6 +348,9 @@ const useCombatStore = create(
           // any active share link keeps working.
           cloudId: s.cloudId,
           cloudRev: s.cloudRev,
+          // Reset reuses the same cloud encounter, so its share link stays live —
+          // keep the local shareCode so the UI can still show/revoke it (l7).
+          shareCode: s.shareCode,
           combatants: pcs,
           diceHistory: preservedHistory,
           undoStack: [],

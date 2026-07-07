@@ -61,6 +61,7 @@ const LeftPanel = forwardRef(function LeftPanel({ onAddToEncounter }, ref) {
           <>
             <SystemToggle value={creaturesSystem} onChange={setCreaturesSystem} />
             <CreatureList
+              key={creaturesSystem}
               ref={creatureListRef}
               gameSystem={creaturesSystem}
               onAddToEncounter={onAddToEncounter}
