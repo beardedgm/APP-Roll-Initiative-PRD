@@ -3,6 +3,7 @@ import * as Sentry from '@sentry/react';
 import useUserDataStore from '../store/useUserDataStore';
 import api from '../api/axiosInstance';
 import { isRetryableSyncError, syncBackoffDelay, MAX_SYNC_RETRIES } from '../utils/syncRetry';
+import { buildUserDataPayload, payloadSnapshot } from '../utils/userDataPayload';
 
 /**
  * Subscribes to useUserDataStore changes and auto-syncs to PUT /api/user-data
@@ -28,25 +29,13 @@ export default function useUserDataSync(enabled) {
     const st = useUserDataStore.getState();
     if (!st._loaded) return;
 
-    const { characters, customMonsters, encounterPresets, version,
-            deletedCharacters, deletedCustomMonsters, deletedEncounterPresets } = st;
-
     // Payload = live items + pending tombstones (a tombstone is an item with deleted:true).
-    const payload = {
-      version,
-      characters: [...characters, ...deletedCharacters],
-      customMonsters: [...customMonsters, ...deletedCustomMonsters],
-      encounterPresets: [...encounterPresets, ...deletedEncounterPresets],
-    };
+    const payload = buildUserDataPayload(st);
 
     // Dedup on the DATA, not `version` — the success handler stores the
     // server's live arrays here, and `version` changes on every write, so
     // including it would make the snapshot never match and re-sync forever.
-    const snapshot = JSON.stringify({
-      characters: payload.characters,
-      customMonsters: payload.customMonsters,
-      encounterPresets: payload.encounterPresets,
-    });
+    const snapshot = payloadSnapshot(payload);
     if (!force && snapshot === prevSnapshotRef.current) return;
     const previousSnapshot = prevSnapshotRef.current;
     prevSnapshotRef.current = snapshot;
@@ -67,6 +56,19 @@ export default function useUserDataSync(enabled) {
           level: 'warning',
           extra: { dropped: data.dropped },
         });
+        return;
+      }
+
+      // If the store changed while the PUT was in flight, the server view
+      // reflects the PRE-edit payload — adopting it would clobber the in-flight
+      // edit (f3). Don't. Re-sync instead; the server rev-merge reconciles the
+      // delta, and tombstones stay pending until a clean (no in-flight) success.
+      const afterSnapshot = payloadSnapshot(buildUserDataPayload(useUserDataStore.getState()));
+      if (afterSnapshot !== snapshot) {
+        prevSnapshotRef.current = snapshot; // we pushed `snapshot`; server merged it
+        useUserDataStore.setState({ syncStatus: 'syncing' });
+        if (timerRef.current) clearTimeout(timerRef.current);
+        timerRef.current = setTimeout(() => syncRef.current?.(true), 0);
         return;
       }
 
@@ -145,8 +147,24 @@ export default function useUserDataSync(enabled) {
       timerRef.current = setTimeout(sync, 2000);
     });
 
+    // Flush a pending debounced sync when the tab is hidden or closing, so an
+    // edit made within the 2s debounce window isn't lost on tab close (f4).
+    // visibilitychange→hidden is the reliable path (page usually stays alive to
+    // finish the request); pagehide is the best-effort backstop on real unload.
+    const flush = () => {
+      if (!timerRef.current) return;
+      clearTimeout(timerRef.current);
+      timerRef.current = null;
+      syncRef.current?.(true);
+    };
+    const onVisibility = () => { if (document.visibilityState === 'hidden') flush(); };
+    document.addEventListener('visibilitychange', onVisibility);
+    window.addEventListener('pagehide', flush);
+
     return () => {
       unsub();
+      document.removeEventListener('visibilitychange', onVisibility);
+      window.removeEventListener('pagehide', flush);
       if (timerRef.current) clearTimeout(timerRef.current);
       if (syncedTimerRef.current) clearTimeout(syncedTimerRef.current);
       if (retryTimerRef.current) clearTimeout(retryTimerRef.current);
