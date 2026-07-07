@@ -1,14 +1,23 @@
 import { Router } from 'express';
 import stripe from '../config/stripe.js';
 import User from '../models/User.js';
-import ProcessedEvent from '../models/ProcessedEvent.js';
 import requireAuth from '../middleware/requireAuth.js';
 import logger from '../config/logger.js';
 import express from 'express';
 import { sendPaymentReceiptEmail, sendPaymentFailedEmail, sendSubscriptionCancelledEmail } from '../services/emailService.js';
 import asyncHandler from '../utils/asyncHandler.js';
+import { claimEvent, releaseEvent } from '../utils/eventIdempotency.js';
 
 const router = Router();
+
+/**
+ * True only when the user already holds an active subscription. Used to block a
+ * second checkout (double-billing); a past_due/canceled/none user may still
+ * check out to (re)subscribe.
+ */
+export function hasActiveSubscription(user) {
+  return user?.subscriptionStatus === 'active';
+}
 
 // ── Create Checkout Session ──────────────────────────────────
 router.post('/api/billing/create-checkout-session', requireAuth, asyncHandler(async (req, res) => {
@@ -16,6 +25,11 @@ router.post('/api/billing/create-checkout-session', requireAuth, asyncHandler(as
 
   const user = await User.findById(req.session.userId);
   if (!user) return res.status(401).json({ error: 'User not found' });
+
+  // Don't let an already-active subscriber start a second subscription.
+  if (hasActiveSubscription(user)) {
+    return res.status(400).json({ error: 'You already have an active subscription' });
+  }
 
   // Create or reuse Stripe customer
   let customerId = user.stripeCustomerId;
@@ -105,13 +119,9 @@ webhookRouter.post('/api/billing/webhook',
       return res.status(400).send('Webhook signature verification failed');
     }
 
-    // Idempotency check (atomic upsert to prevent race conditions)
-    const existing = await ProcessedEvent.findOneAndUpdate(
-      { eventId: event.id },
-      { $setOnInsert: { eventId: event.id, processedAt: new Date() } },
-      { upsert: true, returnDocument: 'before' }
-    );
-    if (existing) {
+    // Idempotency check (atomic claim to prevent race conditions)
+    const claimed = await claimEvent(event.id);
+    if (!claimed) {
       logger.info({ eventId: event.id }, 'Duplicate webhook event, skipping');
       return res.json({ received: true, duplicate: true });
     }
@@ -215,6 +225,9 @@ webhookRouter.post('/api/billing/webhook',
 
       res.json({ received: true });
     } catch (err) {
+      // Release the idempotency claim so Stripe's retry can reprocess this event,
+      // instead of the poisoned record making every retry look like a duplicate.
+      await releaseEvent(event.id);
       logger.error({ err, eventType: event.type }, 'Webhook handler error');
       res.status(500).json({ error: 'Webhook handler failed' });
     }
