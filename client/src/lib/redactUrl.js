@@ -1,11 +1,7 @@
 // Strip auth tokens from URLs before they reach analytics (finding f5).
-// Password-reset and email-verify links carry the raw token in the query string;
-// PostHog and Google Analytics both record the full URL, so the token must be
-// removed from any URL-bearing property before send.
-//
-// NOTE: index.html inlines an equivalent param list for the gtag config call
-// (it runs before this bundle loads and cannot import a module). Keep the two
-// lists in sync.
+// Password-reset and email-verify links carry the raw token in the query string,
+// and PostHog records the full URL, so the token must be removed from any
+// URL-bearing property before send.
 const SENSITIVE_PARAMS = ['token', 'access_token', 'reset_token', 'verify_token'];
 
 /**
