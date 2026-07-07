@@ -39,6 +39,21 @@ const useUserDataStore = create(
         deletedEncounterPresets: [],
       }),
 
+      // ── Reset all per-user state (logout / account switch) ─────────────────
+      // Resets _loaded so the next user's server data loads fresh instead of the
+      // init guard skipping it and leaking the previous user's library.
+      resetAll: () => set({
+        characters: [],
+        customMonsters: [],
+        encounterPresets: [],
+        deletedCharacters: [],
+        deletedCustomMonsters: [],
+        deletedEncounterPresets: [],
+        version: 0,
+        syncStatus: 'idle',
+        _loaded: false,
+      }),
+
       // ── Characters ─────────────────────────────────
       addCharacter: (char) => {
         const now = new Date().toISOString();

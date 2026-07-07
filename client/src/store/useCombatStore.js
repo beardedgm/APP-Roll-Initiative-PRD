@@ -374,6 +374,7 @@ const useCombatStore = create(
           ...getDefaultState(),
           undoStack: [],
           redoStack: [],
+          latestSharedRoll: null,
         });
       },
 

@@ -1,6 +1,22 @@
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import api from './axiosInstance';
 import { identifyUser, resetUser } from '../lib/analytics';
+import useUserDataStore from '../store/useUserDataStore';
+import useCombatStore from '../store/useCombatStore';
+
+// Wipe every per-user client artifact so nothing leaks into the next account on
+// a shared browser (finding f2): both persisted Zustand stores (in-memory state
+// AND their localStorage) plus all cached server queries. Reset the store state
+// before clearing storage so the persist middleware doesn't re-write stale data.
+function clearClientSession(qc) {
+  useUserDataStore.getState().resetAll();
+  useUserDataStore.persist.clearStorage();
+  useCombatStore.getState().clearAll();
+  useCombatStore.persist.clearStorage();
+  qc.clear();
+  qc.setQueryData(['auth', 'me'], null);
+  resetUser();
+}
 
 export function useCurrentUser() {
   return useQuery({
@@ -42,9 +58,7 @@ export function useLogout() {
   return useMutation({
     mutationFn: () => api.post('/auth/logout'),
     onSuccess: () => {
-      qc.setQueryData(['auth', 'me'], null);
-      qc.invalidateQueries({ queryKey: ['auth'] });
-      resetUser();
+      clearClientSession(qc);
     },
   });
 }
@@ -92,9 +106,7 @@ export function useDeleteAccount() {
   return useMutation({
     mutationFn: (body) => api.delete('/auth/account', { data: body }).then(r => r.data),
     onSuccess: () => {
-      qc.setQueryData(['auth', 'me'], null);
-      qc.invalidateQueries({ queryKey: ['auth'] });
-      resetUser();
+      clearClientSession(qc);
     },
   });
 }
