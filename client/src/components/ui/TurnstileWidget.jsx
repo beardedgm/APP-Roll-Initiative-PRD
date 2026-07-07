@@ -2,9 +2,10 @@ import { useEffect, useRef, useState, useCallback } from 'react';
 
 const SITE_KEY = import.meta.env.VITE_TURNSTILE_SITE_KEY;
 
-export default function TurnstileWidget({ onToken }) {
+export default function TurnstileWidget({ onToken, resetSignal = 0 }) {
   const containerRef = useRef(null);
   const widgetIdRef = useRef(null);
+  const didMountRef = useRef(false);
   const [loaded, setLoaded] = useState(!!window.turnstile);
   const [verified, setVerified] = useState(false);
 
@@ -59,6 +60,17 @@ export default function TurnstileWidget({ onToken }) {
       }
     };
   }, [loaded, handleToken]);
+
+  // Reset the widget when the parent bumps resetSignal (e.g. after a failed
+  // submit) so a consumed token isn't reused on retry. Skip the initial mount.
+  useEffect(() => {
+    if (!didMountRef.current) { didMountRef.current = true; return; }
+    if (widgetIdRef.current !== null && window.turnstile) {
+      window.turnstile.reset(widgetIdRef.current);
+      setVerified(false);
+      onTokenRef.current?.(null);
+    }
+  }, [resetSignal]);
 
   if (!SITE_KEY) return null;
 

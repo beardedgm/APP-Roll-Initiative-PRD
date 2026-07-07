@@ -13,6 +13,7 @@ export default function Login() {
   const [form, setForm] = useState({ email: '', password: '' });
   const [error, setError] = useState('');
   const [turnstileToken, setTurnstileToken] = useState(null);
+  const [turnstileReset, setTurnstileReset] = useState(0);
 
   function handleChange(e) {
     setForm(f => ({ ...f, [e.target.name]: e.target.value }));
@@ -26,6 +27,7 @@ export default function Login() {
       navigate('/tracker');
     } catch (err) {
       setError(err.response?.data?.error || 'Login failed');
+      setTurnstileReset(n => n + 1); // consumed token — force a fresh challenge
     }
   }
 
@@ -65,7 +67,7 @@ export default function Login() {
                 autoComplete="current-password"
               />
             </label>
-            <TurnstileWidget onToken={setTurnstileToken} />
+            <TurnstileWidget onToken={setTurnstileToken} resetSignal={turnstileReset} />
             <button
               type="submit"
               className="btn btn--primary auth-form__submit"
