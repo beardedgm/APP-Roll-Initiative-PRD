@@ -19,7 +19,21 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-7ZPVVRPSCM');
+      // Strip auth tokens from the URL before GA records page_location — reset /
+      // verify links carry the token in the query string (finding f5). Param list
+      // mirrors SENSITIVE_PARAMS in src/lib/redactUrl.js.
+      (function () {
+        try {
+          var u = new URL(window.location.href);
+          ['token', 'access_token', 'reset_token', 'verify_token'].forEach(function (p) {
+            u.searchParams.delete(p);
+          });
+          var path = u.pathname + u.search + u.hash;
+          gtag('config', 'G-7ZPVVRPSCM', { page_location: u.origin + path, page_path: path });
+        } catch (e) {
+          gtag('config', 'G-7ZPVVRPSCM');
+        }
+      })();
     </script>
   </head>
   <body>

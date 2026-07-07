@@ -1,13 +1,13 @@
 import { useState } from 'react';
-import { Link, useSearchParams } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { useResetPassword } from '../api/useAuth';
+import { useConsumeTokenParam } from '../hooks/useConsumeTokenParam';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 import '../styles/marketing.css';
 
 export default function ResetPassword() {
-  const [searchParams] = useSearchParams();
-  const token = searchParams.get('token') || '';
+  const token = useConsumeTokenParam();
   const reset = useResetPassword();
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
