@@ -31,7 +31,10 @@ const characterSchema = z.object({
   type: z.enum(['player', 'npc']).default('player'),
   maxHP: z.number().int().min(1).max(99999).nullable().default(null),
   ac: z.number().int().min(0).max(99).default(10),
-  initMod: z.number().int().min(-10).max(20).default(0),
+  // 5e: DEX modifier. PF2e: Perception, which reaches ~+25..+40 at high level.
+  // Must match customMonsterSchema (50) — a too-narrow bound silently drops the
+  // character on sync and then deletes it from the device on the round-trip.
+  initMod: z.number().int().min(-10).max(50).default(0),
   createdAt: z.string().optional(),
   updatedAt: z.string().optional(),
   rev: z.number().int().min(0).optional().default(0),
