@@ -13,6 +13,7 @@ export default function Register() {
   const [error, setError] = useState('');
   const [success, setSuccess] = useState('');
   const [turnstileToken, setTurnstileToken] = useState(null);
+  const [turnstileReset, setTurnstileReset] = useState(0);
 
   function handleChange(e) {
     setForm(f => ({ ...f, [e.target.name]: e.target.value }));
@@ -28,6 +29,7 @@ export default function Register() {
     } catch (err) {
       const msg = err.response?.data?.error || 'Registration failed';
       setError(msg);
+      setTurnstileReset(n => n + 1); // consumed token — force a fresh challenge
     }
   }
 
@@ -89,7 +91,7 @@ export default function Register() {
                 />
                 <span className="auth-form__hint">At least 8 characters</span>
               </label>
-              <TurnstileWidget onToken={setTurnstileToken} />
+              <TurnstileWidget onToken={setTurnstileToken} resetSignal={turnstileReset} />
               <button
                 type="submit"
                 className="btn btn--primary auth-form__submit"

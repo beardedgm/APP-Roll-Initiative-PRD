@@ -10,12 +10,20 @@ export default function ForgotPassword() {
   const forgot = useForgotPassword();
   const [email, setEmail] = useState('');
   const [sent, setSent] = useState(false);
+  const [error, setError] = useState('');
   const [turnstileToken, setTurnstileToken] = useState(null);
+  const [turnstileReset, setTurnstileReset] = useState(0);
 
   async function handleSubmit(e) {
     e.preventDefault();
-    await forgot.mutateAsync({ email, turnstileToken });
-    setSent(true);
+    setError('');
+    try {
+      await forgot.mutateAsync({ email, turnstileToken });
+      setSent(true);
+    } catch (err) {
+      setError(err.response?.data?.error || 'Something went wrong. Please try again.');
+      setTurnstileReset(n => n + 1); // consumed token — force a fresh challenge
+    }
   }
 
   return (
@@ -35,6 +43,7 @@ export default function ForgotPassword() {
           ) : (
             <>
               <p className="auth-card__subtitle">Enter your email and we'll send a reset link</p>
+              {error && <div className="auth-card__error">{error}</div>}
               <form onSubmit={handleSubmit} className="auth-form">
                 <label className="auth-form__label">
                   Email
@@ -47,7 +56,7 @@ export default function ForgotPassword() {
                     autoComplete="email"
                   />
                 </label>
-                <TurnstileWidget onToken={setTurnstileToken} />
+                <TurnstileWidget onToken={setTurnstileToken} resetSignal={turnstileReset} />
                 <button
                   type="submit"
                   className="btn btn--primary auth-form__submit"
