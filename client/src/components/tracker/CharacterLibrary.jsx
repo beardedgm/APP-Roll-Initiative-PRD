@@ -2,6 +2,7 @@ import { useState, useCallback } from 'react';
 import { Pencil, X } from 'lucide-react';
 import useCombatStore from '../../store/useCombatStore';
 import useUserDataStore from '../../store/useUserDataStore';
+import { clampCharacterFields } from '../../utils/characterInput';
 
 const EMPTY_FORM = { name: '', type: 'player', maxHP: '', ac: '10', initMod: '0' };
 
@@ -25,9 +26,13 @@ export default function CharacterLibrary() {
     const charData = {
       name,
       type: form.type,
-      maxHP: form.maxHP ? parseInt(form.maxHP, 10) || null : null,
-      ac: parseInt(form.ac, 10) || 10,
-      initMod: parseInt(form.initMod, 10) || 0,
+      // Clamp to the server's accepted ranges so a typo (e.g. -5 HP) can't be
+      // created and then silently dropped on sync.
+      ...clampCharacterFields({
+        maxHP: form.maxHP ? parseInt(form.maxHP, 10) || null : null,
+        ac: parseInt(form.ac, 10) || 10,
+        initMod: parseInt(form.initMod, 10) || 0,
+      }),
     };
 
     if (editId) {
@@ -140,7 +145,7 @@ export default function CharacterLibrary() {
           </label>
           <label className="character-library__field">
             <span>Init &plusmn;</span>
-            <input type="number" min={-10} max={10} value={form.initMod} onChange={e => setForm(f => ({ ...f, initMod: e.target.value }))} />
+            <input type="number" min={-10} max={50} value={form.initMod} onChange={e => setForm(f => ({ ...f, initMod: e.target.value }))} />
           </label>
         </div>
         <div className="character-library__form-actions">

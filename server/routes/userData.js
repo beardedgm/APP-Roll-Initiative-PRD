@@ -94,7 +94,9 @@ router.put('/api/user-data', requireAuth, requireSubscription, asyncHandler(asyn
   }
 
   const result = await mergeUserData(req.session.userId, parsed.data);
-  res.json(result);
+  // Surface dropped items so the client can flag them and keep the local copy,
+  // instead of silently losing the record on the sync round-trip.
+  res.json({ ...result, dropped: parsed.dropped });
 }));
 
 export default router;

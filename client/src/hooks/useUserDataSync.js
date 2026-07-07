@@ -2,6 +2,7 @@ import { useEffect, useRef, useCallback } from 'react';
 import * as Sentry from '@sentry/react';
 import useUserDataStore from '../store/useUserDataStore';
 import api from '../api/axiosInstance';
+import { isRetryableSyncError, syncBackoffDelay, MAX_SYNC_RETRIES } from '../utils/syncRetry';
 
 /**
  * Subscribes to useUserDataStore changes and auto-syncs to PUT /api/user-data
@@ -13,8 +14,17 @@ export default function useUserDataSync(enabled) {
   const timerRef = useRef(null);
   const prevSnapshotRef = useRef(null);
   const syncedTimerRef = useRef(null);
+  const retryRef = useRef(0);
+  const retryTimerRef = useRef(null);
+  // Holds the latest `sync` so a scheduled retry can call it without referencing
+  // `sync` inside its own definition (temporal-dead-zone / react-hooks rule).
+  const syncRef = useRef(null);
 
-  const sync = useCallback(async (force = false) => {
+  const sync = useCallback(async (force = false, isRetry = false) => {
+    // A fresh (non-retry) sync resets the retry budget and cancels a pending one.
+    if (!isRetry) retryRef.current = 0;
+    if (retryTimerRef.current) { clearTimeout(retryTimerRef.current); retryTimerRef.current = null; }
+
     const st = useUserDataStore.getState();
     if (!st._loaded) return;
 
@@ -46,6 +56,20 @@ export default function useUserDataSync(enabled) {
 
     try {
       const { data } = await api.put('/user-data', payload);
+      retryRef.current = 0;
+
+      // The server rejected some items as invalid (f7). Don't clobber the local
+      // store with the server view (which omits them) — keep the local copy so
+      // the user can fix it, and surface an error instead of losing it silently.
+      if (data.dropped && data.dropped.length) {
+        useUserDataStore.setState({ syncStatus: 'error' });
+        Sentry.captureMessage('user-data sync dropped invalid items', {
+          level: 'warning',
+          extra: { dropped: data.dropped },
+        });
+        return;
+      }
+
       prevSnapshotRef.current = JSON.stringify({
         characters: data.characters,
         customMonsters: data.customMonsters,
@@ -63,8 +87,21 @@ export default function useUserDataSync(enabled) {
       prevSnapshotRef.current = previousSnapshot;
       useUserDataStore.setState({ syncStatus: 'error' });
       Sentry.captureException(err);
+
+      // Retry transient failures (network/5xx/429) with backoff; leave permanent
+      // 4xx alone (a re-send can't fix it) — the next real edit will try again.
+      if (isRetryableSyncError(err) && retryRef.current < MAX_SYNC_RETRIES) {
+        const delay = syncBackoffDelay(retryRef.current);
+        retryRef.current += 1;
+        retryTimerRef.current = setTimeout(() => syncRef.current?.(true, true), delay);
+      }
     }
   }, []);
+
+  // Keep the retry ref pointing at the current sync.
+  useEffect(() => {
+    syncRef.current = sync;
+  }, [sync]);
 
   // Register a manual "sync now" trigger that force-pushes the current data.
   useEffect(() => {
@@ -112,6 +149,7 @@ export default function useUserDataSync(enabled) {
       unsub();
       if (timerRef.current) clearTimeout(timerRef.current);
       if (syncedTimerRef.current) clearTimeout(syncedTimerRef.current);
+      if (retryTimerRef.current) clearTimeout(retryTimerRef.current);
     };
   }, [enabled, sync]);
 }
