@@ -8,6 +8,10 @@ server/node_modules/
 .env.*
 !.env.example
 
+# Local credentials / cookie jars (never commit — these hold live session cookies)
+cookies.txt
+*.cookies
+
 # Build output
 client/dist/
 
