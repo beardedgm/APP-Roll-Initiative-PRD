@@ -174,10 +174,12 @@ export function toSafeSharedRoll(roll) {
 }
 
 // The player view (useSharedEncounter) polls this endpoint every 2s — that is
-// ~450 requests per 15-min window for a single viewer. The cap must comfortably
-// exceed that (and leave room for a few viewers behind one NAT) while still
-// stopping abusive scraping/flooding of this public, unauthenticated route.
-sharedEncounterRouter.get('/api/shared/:code', rateLimitByIP('shared-encounter', 1000), asyncHandler(async (req, res) => {
+// ~450 requests per 15-min window per viewer. A whole table behind one home NAT
+// shares an IP, so the old 1000 cap only cleared ~2 players before 429-ing the
+// rest ("link expired"). 5000 clears a realistic table (~10 viewers) while still
+// stopping abusive flooding; the lookup is a single indexed findOne, so a higher
+// cap is cheap. See f27.
+sharedEncounterRouter.get('/api/shared/:code', rateLimitByIP('shared-encounter', 5000), asyncHandler(async (req, res) => {
   const encounter = await Encounter.findOne({ shareCode: req.params.code })
     .select('name state currentRound activeCreatureId combatants latestSharedRoll updatedAt')
     .lean();
