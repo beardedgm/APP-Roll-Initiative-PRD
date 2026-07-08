@@ -9,6 +9,7 @@ import CreatureList from './CreatureList';
 import SpellList from './SpellList';
 import CharacterLibrary from './CharacterLibrary';
 import EncounterLibrary from './EncounterLibrary';
+import FreePartyPanel from './FreePartyPanel';
 
 const TABS = [
   { id: 'creatures', label: 'Creatures' },
@@ -75,7 +76,9 @@ const LeftPanel = forwardRef(function LeftPanel({ onAddToEncounter }, ref) {
           </>
         )}
         {activeTab === 'characters' && (
-          hasFullAccess ? <CharacterLibrary /> : <SubscriptionGate message="Save your player characters for quick re-use across sessions." />
+          <SubscriptionGate fallback={<FreePartyPanel />}>
+            <CharacterLibrary />
+          </SubscriptionGate>
         )}
         {activeTab === 'encounters' && (
           hasFullAccess ? <EncounterLibrary /> : <SubscriptionGate message="Save and load encounter presets across devices." />

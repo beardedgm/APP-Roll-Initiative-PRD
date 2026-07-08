@@ -2471,6 +2471,30 @@ body.is-resizing .resize-handle::after {
   gap: 0.5rem;
 }
 
+/* ── Free-tier party add (f8) ──────────────────────────────── */
+.free-party {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+  padding: var(--space-sm);
+  overflow-y: auto;
+  min-height: 0;
+}
+
+.free-party__upsell {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--space-sm);
+}
+
+.free-party__upsell-text {
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: var(--color-text-secondary);
+}
+
 /* ── Encounter Library ─────────────────────────────────────── */
 .encounter-library {
   display: flex;

@@ -2,26 +2,6 @@ import { useQuery } from '@tanstack/react-query';
 import api from './axiosInstance';
 
 /**
- * Quick search for add-combatant dropdown (min 2 chars).
- */
-export function useMonsterSearch(query, gameSystem = '5e', options = {}) {
-  return useQuery({
-    queryKey: ['monsters', 'search', query, gameSystem],
-    queryFn: async () => {
-      if (!query || query.trim().length < 2) return { results: [], total: 0 };
-      const { data } = await api.get('/monsters/search', {
-        params: { q: query.trim(), limit: 20, gameSystem },
-      });
-      return data;
-    },
-    enabled: !!query && query.trim().length >= 2,
-    staleTime: 5 * 60 * 1000,
-    placeholderData: prev => prev,
-    ...options,
-  });
-}
-
-/**
  * Browseable paginated listing with filters.
  */
 export function useMonsterBrowse(filters = {}) {
