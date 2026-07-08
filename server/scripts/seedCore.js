@@ -21,7 +21,17 @@ export function parsePf2eTraits(traitsText) {
   return { size, type };
 }
 
-export function parseArgs(argv) {
+const KNOWN_SEED_FLAGS = new Set(['--dry-run', '--fail-on-invalid']);
+
+export function parseArgs(argv = []) {
+  // Reject unknown/typo'd flags so a mistyped --dry-run (e.g. --dryrun) fails
+  // loudly instead of silently running a REAL, destructive seed (l14).
+  const unknown = argv.filter((a) => a.startsWith('-') && !KNOWN_SEED_FLAGS.has(a));
+  if (unknown.length) {
+    throw new Error(
+      `Unknown seed flag(s): ${unknown.join(', ')}. Known flags: ${[...KNOWN_SEED_FLAGS].join(', ')}`
+    );
+  }
   return {
     dryRun: argv.includes('--dry-run'),
     failOnInvalid: argv.includes('--fail-on-invalid'),
