@@ -65,7 +65,15 @@ const COMPLAINT_TYPES = new Set(['email.complained', 'email.complaint']);
 export function classifyEvent(event) {
   if (!event || typeof event.type !== 'string') return { kind: 'ignore' };
   if (BOUNCE_TYPES.has(event.type)) {
-    return { kind: 'bounce', email: extractEmail(event) };
+    // Resend classifies bounces as Permanent (hard), Transient (soft), or
+    // Undetermined. Only hard bounces should suppress — Resend retries the
+    // others, so suppressing them would permanently disable a live address (f14).
+    // A bounce with no type falls back to suppress (don't miss a real hard bounce).
+    const bounceType = event.data?.bounce?.type;
+    const kind = (bounceType === 'Transient' || bounceType === 'Undetermined')
+      ? 'soft-bounce'
+      : 'bounce';
+    return { kind, email: extractEmail(event) };
   }
   if (COMPLAINT_TYPES.has(event.type)) {
     return { kind: 'complaint', email: extractEmail(event) };

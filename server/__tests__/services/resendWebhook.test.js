@@ -112,4 +112,26 @@ describe('classifyEvent', () => {
     expect(classifyEvent(null)).toEqual({ kind: 'ignore' });
     expect(classifyEvent({})).toEqual({ kind: 'ignore' });
   });
+
+  // f14: a transient (soft) bounce must NOT permanently suppress the address —
+  // Resend retries it. Only hard (Permanent) bounces suppress.
+  it('suppresses a permanent (hard) bounce', () => {
+    expect(classifyEvent({ type: 'email.bounced', data: { to: ['a@b.co'], bounce: { type: 'Permanent' } } }))
+      .toEqual({ kind: 'bounce', email: 'a@b.co' });
+  });
+
+  it('does NOT suppress a transient (soft) bounce', () => {
+    expect(classifyEvent({ type: 'email.bounced', data: { to: ['a@b.co'], bounce: { type: 'Transient' } } }))
+      .toEqual({ kind: 'soft-bounce', email: 'a@b.co' });
+  });
+
+  it('does NOT suppress an undetermined bounce', () => {
+    expect(classifyEvent({ type: 'email.bounced', data: { to: ['a@b.co'], bounce: { type: 'Undetermined' } } }))
+      .toEqual({ kind: 'soft-bounce', email: 'a@b.co' });
+  });
+
+  it('falls back to suppressing a bounce that carries no type', () => {
+    expect(classifyEvent({ type: 'email.bounced', data: { to: ['a@b.co'] } }))
+      .toEqual({ kind: 'bounce', email: 'a@b.co' });
+  });
 });
