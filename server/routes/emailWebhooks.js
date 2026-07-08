@@ -48,6 +48,13 @@ emailWebhookRouter.post(
       return res.json({ received: true, handled: false });
     }
 
+    // Soft (transient/undetermined) bounce — log for visibility but DON'T
+    // suppress; Resend will retry and the address may still be deliverable (f14).
+    if (classified.kind === 'soft-bounce') {
+      logger.info({ email: classified.email }, 'Transient email bounce — not suppressing');
+      return res.json({ received: true, handled: true, suppressed: false });
+    }
+
     const update = classified.kind === 'bounce'
       ? { emailBounced: true }
       : { emailSuppressed: true };
