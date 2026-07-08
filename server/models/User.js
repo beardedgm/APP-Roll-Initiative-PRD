@@ -44,6 +44,18 @@ UserSchema.methods.verifyPassword = function (password) {
   });
 };
 
+// Fixed salt for the dummy verify — never used to store a real password.
+const DUMMY_SALT = 'a9f1c3e7b5d20486a9f1c3e7b5d20486';
+
+// Run an equal-cost scrypt for the "unknown email" login path and always resolve
+// false, so a login for a non-existent account takes the same time as a real
+// wrong-password check (prevents timing-based email enumeration — l8).
+UserSchema.statics.verifyPasswordDummy = function (password) {
+  return new Promise((resolve) => {
+    crypto.scrypt(password ?? '', DUMMY_SALT, 64, () => resolve(false));
+  });
+};
+
 // Never return password fields in JSON
 UserSchema.methods.toSafeJSON = function () {
   const { hashedPassword: _hp, salt: _s, __v: _v, ...obj } = this.toObject();
