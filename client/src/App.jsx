@@ -6,6 +6,7 @@ import { identifyUser } from './lib/analytics';
 import Landing from './pages/Landing';
 import ProtectedRoute from './components/layout/ProtectedRoute';
 import ErrorBoundary from './components/layout/ErrorBoundary';
+import ConsentBanner from './components/ui/ConsentBanner';
 
 const Features = lazy(() => import('./pages/Features'));
 const Tracker = lazy(() => import('./pages/Tracker'));
@@ -88,6 +89,7 @@ export default function App() {
               <Route path="*" element={<NotFound />} />
             </Routes>
           </Suspense>
+          <ConsentBanner />
         </BrowserRouter>
       </QueryClientProvider>
     </ErrorBoundary>
