@@ -11,6 +11,7 @@ export default function Footer() {
         <li><Link to="/tracker" className="site-footer__link">Launch App</Link></li>
         <li><Link to="/terms" className="site-footer__link">Terms</Link></li>
         <li><Link to="/privacy" className="site-footer__link">Privacy</Link></li>
+        <li><Link to="/licensing" className="site-footer__link">Licensing</Link></li>
       </ul>
     </footer>
   );
