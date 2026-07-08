@@ -19,7 +19,7 @@ import fs from 'fs';
 import mongoose from 'mongoose';
 import Monster from '../models/Monster.js';
 import PF2E_SOURCE_LABELS from '../config/pf2eSourceLabels.js';
-import { parseArgs, writeInBatches, reconcileStale } from './seedCore.js';
+import { parseArgs, writeInBatches, reconcileStale, parsePf2eTraits } from './seedCore.js';
 import { seedMonsterSchema, validateSeedRecords } from '../validators/seedContent.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -296,17 +296,11 @@ function parsePf2e(md) {
     const traitLines = lines.slice(creatureLine + 1, separatorIdx !== -1 ? separatorIdx : creatureLine + 5);
     const traitsText = traitLines.join(' ');
 
-    // Extract all italic/bold-italic trait segments
-    const traitMatches = traitsText.match(/\*\*?([^*]+)\*\*?/g);
-    if (traitMatches) {
-      const traits = traitMatches.map(t => t.replace(/\*+/g, '').trim()).filter(Boolean);
-      // Size is typically first (Tiny, Small, Medium, Large, Huge, Gargantuan)
-      const sizeWords = ['tiny', 'small', 'medium', 'large', 'huge', 'gargantuan'];
-      const sizeMatch = traits.find(t => sizeWords.includes(t.toLowerCase()));
-      result.size = sizeMatch || '';
-      // Type is the remaining traits joined (creature type traits)
-      result.type = traits.filter(t => t !== sizeMatch).join(', ');
-    }
+    // Traits are a plain-text, comma-separated line with no markup, e.g.
+    // "uncommon, n, large, beast" — parse size + creature type from it (f20).
+    const { size, type } = parsePf2eTraits(traitsText);
+    result.size = size;
+    result.type = type;
   }
 
   // Alignment: PF2e uses traits — store empty string

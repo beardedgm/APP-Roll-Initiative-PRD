@@ -92,6 +92,38 @@ describe('renderPf2eCreatureToMarkdown', () => {
     const md = renderPf2eCreatureToMarkdown(AIR_MEPHIT);
     assert.ok(md.includes('**Breath Weapon** \u25C6\u25C6'));
   });
+
+  // f26: save-outcome degrees and affliction stages were joined with a single \n,
+  // so they rendered as one run-together paragraph. Bold entries need a blank
+  // line between them to render as separate paragraphs.
+  it('separates success-degree outcomes with blank lines', () => {
+    const creature = {
+      ...AIR_MEPHIT,
+      abilities: { top: [], mid: [], bot: [{
+        name: 'Breath Weapon',
+        entries: [{ type: 'successDegree', entries: {
+          'Critical Success': 'CritS', Success: 'Succ', Failure: 'Fail', 'Critical Failure': 'CritF',
+        } }],
+      }] },
+    };
+    const md = renderPf2eCreatureToMarkdown(creature);
+    assert.ok(md.includes('**Success** Succ\n\n**Failure** Fail'), 'degrees must be blank-line separated');
+  });
+
+  it('separates affliction stages with blank lines', () => {
+    const creature = {
+      ...AIR_MEPHIT,
+      abilities: { top: [], mid: [], bot: [{
+        name: 'Venom',
+        entries: [{ type: 'affliction', name: 'Venom', DC: 20, savingThrow: 'Fortitude', stages: [
+          { stage: 1, entry: 'S1', duration: '1 round' },
+          { stage: 2, entry: 'S2', duration: '1 round' },
+        ] }],
+      }] },
+    };
+    const md = renderPf2eCreatureToMarkdown(creature);
+    assert.ok(md.includes('**Stage 1** S1 (1 round)\n\n**Stage 2** S2 (1 round)'), 'stages must be blank-line separated');
+  });
 });
 
 describe('Multiple Attack Penalty (MAP)', () => {
