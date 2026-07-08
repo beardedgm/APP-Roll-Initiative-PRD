@@ -75,6 +75,9 @@ router.post('/api/auth/login', rateLimitAuth, verifyTurnstile, validate(loginSch
 
   const user = await User.findOne({ email });
   if (!user) {
+    // Burn an equal-cost scrypt so an unknown email doesn't respond faster than a
+    // real wrong-password check — otherwise response time enumerates accounts (l8).
+    await User.verifyPasswordDummy(password);
     return res.status(401).json({ error: 'Invalid email or password' });
   }
 
