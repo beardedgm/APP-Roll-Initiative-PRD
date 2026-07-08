@@ -50,7 +50,6 @@ This file describes the architecture, conventions, and rules for this codebase. 
 │       │   └── ui/
 │       ├── constants/          # monsterSources.js, pf2eSources.js, spellSources.js
 │       ├── pages/
-│       │   └── admin/
 │       ├── store/              # Zustand stores (useCombatStore, useUserDataStore, useUIStore)
 │       ├── hooks/              # useCloudSync, useUserDataSync, useEncounterCloudSetup, useUserDataInit
 │       └── utils/              # monsterFormHelpers, monsterImport
@@ -65,9 +64,9 @@ This file describes the architecture, conventions, and rules for this codebase. 
 │   ├── models/                 # User, Encounter, Monster, Spell, UserData, LoginAttempt, EmailToken, ProcessedEvent
 │   ├── validators/             # Zod schemas (auth, encounters, monsters, userData)
 │   ├── middleware/             # requireAuth, requireOwner, requireSubscription, requireCsrf, validate, rateLimitAuth, rateLimitGeneral, verifyTurnstile, errorHandler
-│   ├── routes/                 # auth, billing, encounters, health, monsters, spells, sitemap, userData
+│   ├── routes/                 # auth, billing, emailWebhooks, encounters, health, monsters, spells, sitemap, userData
 │   ├── scripts/                # seedMonsters.js, seedSpells.js
-│   ├── services/               # emailService
+│   ├── services/               # emailService, resendWebhook, dataExport
 │   └── utils/                  # asyncHandler, sessionUtils
 ├── scripts/
 │   ├── promote-owner.js
@@ -96,7 +95,7 @@ cd client && npm install      # Frontend deps
 cd server && npm install      # Backend deps
 
 # Development (from repo root)
-npm run dev                   # Runs server (:3000) + client (:5173) via concurrently
+npm run dev                   # Runs server (:5000) + client (:5173) via concurrently
 npm run dev:client            # Vite only (no backend needed for UI work)
 npm run dev:server            # Express only
 
@@ -123,7 +122,7 @@ node --test shared/pf2eMarkdownRenderer.test.js
 cd client && npm run build    # Outputs to client/dist/
 ```
 
-Express serves `client/dist` as static files in production. There is no separate frontend deployment. Node >= 20 required. Server port defaults to `PORT` env var or 3000. MongoDB connection string uses `MONGO_URI` env var.
+Express serves `client/dist` as static files in production. There is no separate frontend deployment. Node >= 20 required. Server port defaults to `PORT` env var or 5000. MongoDB connection string uses `MONGO_URI` env var.
 
 ---
 
@@ -158,7 +157,7 @@ Express serves `client/dist` as static files in production. There is no separate
 ### Admin / Roles
 - `role` field on User model: `'user'` (default) or `'owner'`.
 - No hardcoded admin emails in env vars. Role is a DB value, changeable via `scripts/promote-owner.js`.
-- `requireOwner` middleware gates all `/api/admin/*` routes.
+- `requireOwner` middleware exists to gate owner-only routes, but there are currently **no** `/api/admin/*` routes (and no `pages/admin/`) — it is defined but not yet wired up.
 
 ### Email
 - Always check `emailBounced` and `emailSuppressed` flags before sending.
@@ -211,7 +210,7 @@ Express serves `client/dist` as static files in production. There is no separate
 
 ### Shareable Player View Links
 - `ShareLinkModal` in tracker header — generates, copies, and revokes share codes.
-- Backend: `POST /api/encounters/:id/share` generates 8-char hex code, `DELETE /api/encounters/:id/share` revokes it.
+- Backend: `POST /api/encounters/:id/share` generates a 16-char hex code (`randomBytes(8)`), `DELETE /api/encounters/:id/share` revokes it.
 - Player view: `/play/:code` route polls every 2 seconds via `useSharedEncounter(code)`. HP values stripped for security.
 - Premium-only: gated by `SubscriptionGate` in the modal. Requires `cloudId` (cloud-saved encounter).
 
@@ -253,7 +252,7 @@ Express serves `client/dist` as static files in production. There is no separate
 - Demo-filtered (public but limited): `/api/monsters/*` — non-subscribers see only 20 demo monsters via `hasFullAccess` check
 - Authenticated: `/api/billing/*`, `GET /api/user-data` (read-only for free users)
 - Subscription-gated: `/api/encounters/*`, `PUT /api/user-data` (owners bypass)
-- Owner-only: `/api/admin/*` (gated by `requireOwner` middleware)
+- Owner-only: none implemented yet — `requireOwner` middleware is available to gate future `/api/admin/*` routes
 - Stripe webhooks: `/api/billing/webhook` (raw body parser, no session/CSRF middleware)
 - Sitemap/robots.txt mounted before the SPA catch-all
 
