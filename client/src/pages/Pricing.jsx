@@ -11,7 +11,7 @@ export default function Pricing() {
   const { data: user } = useCurrentUser();
   const checkout = useCreateCheckout();
 
-  const isFullAccess = user && (user.subscriptionStatus === 'active' || user.role === 'admin');
+  const isFullAccess = user && (user.subscriptionStatus === 'active' || user.role === 'owner');
 
   function handleSubscribe() {
     if (!user) {

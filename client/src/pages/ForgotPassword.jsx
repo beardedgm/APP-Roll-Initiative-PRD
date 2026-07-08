@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { useForgotPassword } from '../api/useAuth';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import SEO from '../components/layout/SEO';
 import TurnstileWidget from '../components/ui/TurnstileWidget';
 import '../styles/marketing.css';
 
@@ -28,6 +29,7 @@ export default function ForgotPassword() {
 
   return (
     <>
+      <SEO title="Forgot Password | Roll Initiative" description="Reset your Roll Initiative password." path="/forgot-password" noindex />
       <Navbar />
       <main className="auth-page">
         <div className="auth-card">

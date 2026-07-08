@@ -4,6 +4,7 @@ import { useResetPassword } from '../api/useAuth';
 import { useConsumeTokenParam } from '../hooks/useConsumeTokenParam';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import SEO from '../components/layout/SEO';
 import '../styles/marketing.css';
 
 export default function ResetPassword() {
@@ -26,6 +27,7 @@ export default function ResetPassword() {
 
   return (
     <>
+      <SEO title="Reset Password | Roll Initiative" description="Set a new Roll Initiative password." path="/reset-password" noindex />
       <Navbar />
       <main className="auth-page">
         <div className="auth-card">

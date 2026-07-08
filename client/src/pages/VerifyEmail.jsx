@@ -4,6 +4,7 @@ import { useVerifyEmail } from '../api/useAuth';
 import { useConsumeTokenParam } from '../hooks/useConsumeTokenParam';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
+import SEO from '../components/layout/SEO';
 import '../styles/marketing.css';
 
 export default function VerifyEmail() {
@@ -25,6 +26,7 @@ export default function VerifyEmail() {
 
   return (
     <>
+      <SEO title="Verify Email | Roll Initiative" description="Verify your Roll Initiative email address." path="/verify-email" noindex />
       <Navbar />
       <main className="auth-page">
         <div className="auth-card">

@@ -7,7 +7,7 @@ const APP_URL = process.env.APP_URL || 'http://localhost:5173';
 
 router.get('/robots.txt', rateLimitByIP('sitemap', 30), (req, res) => {
   res.type('text/plain').send(
-    `User-agent: *\nAllow: /\nDisallow: /api/\nDisallow: /dashboard\nDisallow: /settings\n\nSitemap: ${APP_URL}/sitemap.xml`
+    `User-agent: *\nAllow: /\nDisallow: /api/\nDisallow: /dashboard\nDisallow: /settings\nDisallow: /profile\n\nSitemap: ${APP_URL}/sitemap.xml`
   );
 });
 
