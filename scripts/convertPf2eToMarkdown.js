@@ -8,7 +8,7 @@
  *   node scripts/convertPf2eToMarkdown.js ../Pf2eTools/data/bestiary
  *
  * Reads: creatures-*.json files from the provided directory
- * Writes: Monsters/pf2e/{sourceKey}/{slug}.md files
+ * Writes: monsters/pf2e/{sourceKey}/{slug}.md files
  */
 
 import fs from 'fs';
@@ -18,7 +18,10 @@ import { renderPf2eCreatureToMarkdown } from '../shared/pf2eMarkdownRenderer.js'
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const MONSTERS_DIR = path.join(__dirname, '..', 'Monsters');
+// Lowercase 'monsters' — the tracked dir name. A capitalized 'Monsters' resolves
+// on case-insensitive Windows/macOS but writes to a DIFFERENT dir on Render's
+// case-sensitive Linux FS, so the converted files never reach the seeded set.
+const MONSTERS_DIR = path.join(__dirname, '..', 'monsters');
 
 function sourceToKey(sourceCode) {
   return `pf2e_${sourceCode.toLowerCase().replace(/[^a-z0-9]/g, '')}`;

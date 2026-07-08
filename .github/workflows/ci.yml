@@ -46,6 +46,9 @@ jobs:
       - name: Test server
         run: cd server && npm test
 
+      - name: Test shared
+        run: node --test shared/*.test.js
+
       - name: Audit client dependencies
         run: cd client && npm audit --omit=dev --audit-level=critical
 

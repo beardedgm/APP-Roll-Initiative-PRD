@@ -4,7 +4,7 @@
  * Usage:
  *   node scripts/promote-owner.js user@example.com
  *
- * Requires MONGODB_URI in .env (or as an env var).
+ * Requires MONGO_URI in .env (or as an env var).
  */
 import dotenv from 'dotenv';
 import path from 'path';
@@ -20,9 +20,9 @@ if (!email) {
   process.exit(1);
 }
 
-const uri = process.env.MONGODB_URI;
+const uri = process.env.MONGO_URI;
 if (!uri) {
-  console.error('MONGODB_URI is not set');
+  console.error('MONGO_URI is not set');
   process.exit(1);
 }
 
