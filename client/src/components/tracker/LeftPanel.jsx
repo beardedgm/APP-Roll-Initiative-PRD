@@ -1,5 +1,7 @@
 import { useState, useRef, forwardRef, useImperativeHandle } from 'react';
 import useUIStore from '../../store/useUIStore';
+import useUserDataStore from '../../store/useUserDataStore';
+import { resolveCreatureSystem } from '../../utils/resolveCreatureSystem';
 import { useCurrentUser } from '../../api/useAuth';
 import SubscriptionGate from '../layout/SubscriptionGate';
 import SystemToggle from './SystemToggle';
@@ -31,11 +33,9 @@ const LeftPanel = forwardRef(function LeftPanel({ onAddToEncounter }, ref) {
   useImperativeHandle(ref, () => ({
     showStatBlock(slug) {
       setActiveTab('creatures');
-      if (slug.startsWith('pf2e_')) {
-        setCreaturesSystem('pf2e');
-      } else {
-        setCreaturesSystem('5e');
-      }
+      // Custom monsters carry their system in the store, not the slug prefix (l6).
+      const customMonsters = useUserDataStore.getState().customMonsters;
+      setCreaturesSystem(resolveCreatureSystem(slug, customMonsters));
       setTimeout(() => {
         creatureListRef.current?.selectCreature(slug);
       }, 0);
