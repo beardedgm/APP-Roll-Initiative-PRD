@@ -2,8 +2,13 @@ import { Router } from 'express';
 import Spell from '../models/Spell.js';
 import asyncHandler from '../utils/asyncHandler.js';
 import { flattenQuery } from '../utils/flattenQuery.js';
+import { rateLimitMemory } from '../middleware/rateLimitMemory.js';
 
 const router = Router();
+
+// Same in-memory per-IP cap as the monster catalog; shares the 'catalog' budget
+// so total public-catalog volume per IP is bounded without a DB hit (f12).
+router.use(rateLimitMemory('catalog', 2000));
 
 /**
  * GET /api/spells/search?q=fire&source=5.1_srd&level=3&school=evocation&limit=20&skip=0&gameSystem=5e

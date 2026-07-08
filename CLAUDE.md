@@ -145,7 +145,7 @@ Express serves `client/dist` as static files in production. There is no separate
 
 ### Rate Limiting
 - MongoDB sliding window collection via `LoginAttempt` model — no Redis, no external service.
-- All rate limiters use `rateLimitByIP()` from `rateLimitGeneral.js` (reuses the 15-min TTL window).
+- Auth/webhook/shared routes use `rateLimitByIP()` from `rateLimitGeneral.js` (DB-backed, reuses the 15-min TTL window). The **public catalog** (`/api/monsters/*`, `/api/spells/*`) instead uses the in-memory `rateLimitMemory()` (`rateLimitMemory.js`, `'catalog'` action, 2000/15 min per IP shared across both) — the DB-per-request limiter would add load to the hottest endpoint. In-memory counters are per-process (per-instance on a multi-instance deploy); acceptable as a public-catalog flood cap.
 - Thresholds: login 10/15 min, registration 5/15 min, password reset 5/15 min, change-password & delete-account 5/15 min (both are password-guess oracles), health/sitemap 30/15 min. The shared player-view endpoint (`/api/shared/:code`) is 5000/15 min: the view polls every 2s (~450 req/window per viewer) and a whole table behind one NAT shares an IP, so the cap must clear ~10 viewers (the old 1000 only cleared ~2) while still stopping floods — the lookup is a cheap indexed `findOne`.
 - TTL indexes auto-clean expired records.
 
