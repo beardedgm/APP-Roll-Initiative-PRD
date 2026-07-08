@@ -35,14 +35,14 @@ export default function useCloudSync(enabled) {
   const setTriggerSync = useSyncStatus(s => s.setTriggerSync);
 
   const sync = useCallback(async (force = false) => {
-    const { cloudId, cloudRev, name, state, currentRound, activeCreatureId, combatants, diceHistory } = useCombatStore.getState();
+    const { cloudId, cloudRev, name, state, currentRound, activeCreatureId, combatants, diceHistory, latestSharedRoll } = useCombatStore.getState();
     if (!cloudId) return;
 
     // Guard against a non-finite initiative reaching the server (NaN -> null ->
     // 400), which would block the whole encounter sync and retry forever (f16).
     const safeCombatants = sanitizeCombatantsForSync(combatants);
 
-    const snapshot = JSON.stringify({ name, state, currentRound, activeCreatureId, combatants: safeCombatants, diceHistory });
+    const snapshot = JSON.stringify({ name, state, currentRound, activeCreatureId, combatants: safeCombatants, diceHistory, latestSharedRoll });
 
     // Skip if nothing changed — unless forced (manual "sync now" click).
     if (!force && snapshot === prevSnapshotRef.current) return;
@@ -59,7 +59,7 @@ export default function useCloudSync(enabled) {
       const updated = await updateEncounter.mutateAsync({
         id: cloudId,
         baseRev: cloudRev,
-        name, state, currentRound, activeCreatureId, combatants: safeCombatants, diceHistory,
+        name, state, currentRound, activeCreatureId, combatants: safeCombatants, diceHistory, latestSharedRoll,
       });
       useCombatStore.getState().setCloudRev(updated.rev);
       setSyncStatus('synced');

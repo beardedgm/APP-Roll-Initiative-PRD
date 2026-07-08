@@ -1,7 +1,8 @@
-import { useState, useEffect, useRef, useCallback } from 'react';
+import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { BookOpen, Code } from 'lucide-react';
 import { marked } from 'marked';
 import DOMPurify from 'dompurify';
+import { makeSpellsClickable } from '../../utils/makeSpellsClickable';
 import { useMonster } from '../../api/useMonsters';
 import { useSpell, useSpellNames } from '../../api/useSpells';
 import useUIStore from '../../store/useUIStore';
@@ -83,15 +84,18 @@ function CreatureStatBlock({ slug, breadcrumb, onBack, onRollDice }) {
 
   // Compute the rendered HTML before the effect so we can use it as a dependency.
   // This ensures the click handler is re-attached whenever the HTML content changes.
-  const renderedHtml = (!loading && monster)
-    ? DOMPurify.sanitize(
-        makeSpellsClickable(
-          makeDiceClickable(marked.parse(monster.rawMarkdown || buildFallbackMarkdown(monster))),
-          spellNames || []
-        ),
-        { ADD_ATTR: ['data-dice', 'data-spell-slug'], ADD_TAGS: ['span'] }
-      )
-    : null;
+  // Memoized so the marked + ~2000 regex passes + DOMPurify pipeline runs only
+  // when the monster or spell index actually changes, not on every render (l3).
+  const renderedHtml = useMemo(() => {
+    if (loading || !monster) return null;
+    return DOMPurify.sanitize(
+      makeSpellsClickable(
+        makeDiceClickable(marked.parse(monster.rawMarkdown || buildFallbackMarkdown(monster))),
+        spellNames || []
+      ),
+      { ADD_ATTR: ['data-dice', 'data-spell-slug'], ADD_TAGS: ['span'] }
+    );
+  }, [loading, monster, spellNames]);
 
   // Event delegation for dice clicks and spell link clicks in the rendered HTML.
   useEffect(() => {
@@ -287,28 +291,6 @@ function SpellContent({ slug, breadcrumb, onBack, onRollDice }) {
       />
     </div>
   );
-}
-
-/* ---- Utility: makeSpellsClickable ---- */
-
-/**
- * Scan rendered HTML for known spell names and wrap them in clickable spans.
- * Sorts by name length descending so "Magic Missile" matches before "Magic".
- * Only matches text between HTML tags to avoid corrupting tag attributes.
- */
-function makeSpellsClickable(html, spellIndex) {
-  if (!spellIndex?.length) return html;
-  const sorted = [...spellIndex].sort((a, b) => b.name.length - a.name.length);
-  let result = html;
-  for (const spell of sorted) {
-    const escaped = spell.name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    // Match spell name in text nodes only (between > and <), case-insensitive, word boundary
-    const regex = new RegExp(`(>[^<]*?)(\\b${escaped}\\b)([^<]*?<)`, 'gi');
-    result = result.replace(regex, (match, before, name, after) => {
-      return `${before}<span class="spell-link" data-spell-slug="${spell.slug}" title="View ${spell.name}">${name}</span>${after}`;
-    });
-  }
-  return result;
 }
 
 /* ---- Utility: makeDiceClickable ---- */
