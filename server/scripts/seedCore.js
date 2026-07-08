@@ -1,5 +1,26 @@
 /** Shared seeding utilities: CLI args, stale reconciliation, batching, report. */
 
+const PF2E_SIZES = ['tiny', 'small', 'medium', 'large', 'huge', 'gargantuan'];
+
+/**
+ * Parse a PF2e creature's plain-text traits line into { size, type } (finding f20).
+ * The line is comma-separated with no markup (e.g. "uncommon, n, large, beast").
+ * Size is the recognized size word; type is the trait tokens AFTER the size, which
+ * drops the leading rarity/alignment tokens and leaves the creature-type traits.
+ */
+export function parsePf2eTraits(traitsText) {
+  const traits = (traitsText || '')
+    .replace(/\*/g, '')
+    .split(',')
+    .map((t) => t.trim())
+    .filter(Boolean);
+  if (!traits.length) return { size: '', type: '' };
+  const sizeIdx = traits.findIndex((t) => PF2E_SIZES.includes(t.toLowerCase()));
+  const size = sizeIdx >= 0 ? traits[sizeIdx] : '';
+  const type = (sizeIdx >= 0 ? traits.slice(sizeIdx + 1) : traits).join(', ');
+  return { size, type };
+}
+
 export function parseArgs(argv) {
   return {
     dryRun: argv.includes('--dry-run'),

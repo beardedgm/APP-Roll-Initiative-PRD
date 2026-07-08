@@ -103,7 +103,8 @@ function renderEntry(entry) {
     const lines = degrees
       .filter((d) => entry.entries?.[d])
       .map((d) => `**${d}** ${stripPf2eTags(entry.entries[d])}`);
-    return lines.join('\n');
+    // Blank line between degrees so each renders as its own paragraph (f26).
+    return lines.join('\n\n');
   }
 
   // Affliction / Poison / Disease
@@ -121,7 +122,8 @@ function renderEntry(entry) {
         affLines.push(`**Stage ${stage.stage}** ${stripPf2eTags(stage.entry ?? '')} (${stage.duration ?? ''})`);
       }
     }
-    return affLines.join('\n');
+    // Blank line between affliction components so each renders as its own paragraph (f26).
+    return affLines.join('\n\n');
   }
 
   // Generic object with an 'entry' field

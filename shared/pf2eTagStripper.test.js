@@ -48,4 +48,17 @@ describe('stripPf2eTags', () => {
   it('handles {@quickref} by extracting display text', () => {
     assert.equal(stripPf2eTags('{@quickref persistent damage||3|persistent damage}'), 'persistent damage');
   });
+
+  // f10: single-pipe source tags like {@condition sickened|CRB} used to leak the
+  // source book code ("sickened|CRB"). Drop the source; show display if present,
+  // else the name.
+  it('drops the source from single-pipe {@tag name|source} tags', () => {
+    assert.equal(stripPf2eTags('{@condition sickened|CRB}'), 'sickened');
+    assert.equal(stripPf2eTags("{@item Devil's Trident|LOMM}"), "Devil's Trident");
+    assert.equal(stripPf2eTags('{@creature simple harrowkin|SF3}'), 'simple harrowkin');
+  });
+
+  it('uses the display segment of a single-pipe {@tag name|source|display} tag', () => {
+    assert.equal(stripPf2eTags('{@condition sickened|CRB|sickened 2}'), 'sickened 2');
+  });
 });

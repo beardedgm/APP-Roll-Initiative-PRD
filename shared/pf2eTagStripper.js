@@ -36,6 +36,14 @@ export function stripPf2eTags(text) {
         const subParts = afterPipe.split('|');
         return subParts[subParts.length - 1].trim();
       }
+      // Single-pipe {@tag name|source|display}: drop the source book code; show
+      // the display segment if present, otherwise the name (e.g.
+      // {@condition sickened|CRB} → "sickened", {...|CRB|sickened 2} → "sickened 2").
+      if (content.includes('|')) {
+        const parts = content.split('|');
+        const display = parts.length >= 3 ? parts[2].trim() : '';
+        return display || parts[0].trim();
+      }
       if (tag === 'dc') return `DC ${content.trim()}`;
       if (tag === 'ability') return ABILITY_MAP[content.trim().toLowerCase()] || content.trim();
       return content.trim();
