@@ -12,7 +12,7 @@ router.get('/robots.txt', rateLimitByIP('sitemap', 30), (req, res) => {
 });
 
 router.get('/sitemap.xml', rateLimitByIP('sitemap', 30), (req, res) => {
-  const urls = ['/', '/features', '/pricing', '/help', '/terms', '/privacy', '/cookies'];
+  const urls = ['/', '/features', '/pricing', '/help', '/terms', '/privacy', '/cookies', '/licensing'];
   const lastmod = new Date().toISOString().split('T')[0];
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
