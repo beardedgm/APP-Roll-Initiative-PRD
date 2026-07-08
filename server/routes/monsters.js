@@ -3,6 +3,7 @@ import Monster from '../models/Monster.js';
 import User from '../models/User.js';
 import { DEMO_SLUGS } from '../config/demoMonsters.js';
 import asyncHandler from '../utils/asyncHandler.js';
+import { flattenQuery } from '../utils/flattenQuery.js';
 
 const router = Router();
 
@@ -29,7 +30,7 @@ function crToNumeric(crStr) {
  */
 router.get('/api/monsters/search', asyncHandler(async (req, res) => {
 
-  const { q, source, cr, type, limit = 20, skip = 0, gameSystem = '5e' } = req.query;
+  const { q, source, cr, type, limit = 20, skip = 0, gameSystem = '5e' } = flattenQuery(req.query);
   const filter = {};
 
   filter.gameSystem = gameSystem;

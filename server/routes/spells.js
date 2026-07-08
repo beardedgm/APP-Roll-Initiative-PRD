@@ -1,6 +1,7 @@
 import { Router } from 'express';
 import Spell from '../models/Spell.js';
 import asyncHandler from '../utils/asyncHandler.js';
+import { flattenQuery } from '../utils/flattenQuery.js';
 
 const router = Router();
 
@@ -9,7 +10,7 @@ const router = Router();
  * Public — returns seeded spells.
  */
 router.get('/api/spells/search', asyncHandler(async (req, res) => {
-  const { q, source, level, school, tradition, category, spellType, actionCost, limit = 20, skip = 0, gameSystem = '5e' } = req.query;
+  const { q, source, level, school, tradition, category, spellType, actionCost, limit = 20, skip = 0, gameSystem = '5e' } = flattenQuery(req.query);
   const filter = { gameSystem };
 
   if (q && q.trim()) {
