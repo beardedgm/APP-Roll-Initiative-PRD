@@ -3,6 +3,7 @@ import { create } from 'zustand';
 import * as Sentry from '@sentry/react';
 import useCombatStore from '../store/useCombatStore';
 import { useUpdateEncounter } from '../api/useEncounters';
+import { sanitizeCombatantsForSync } from '../utils/combatantSync';
 
 /**
  * Tiny store for cloud sync status.
@@ -37,7 +38,11 @@ export default function useCloudSync(enabled) {
     const { cloudId, cloudRev, name, state, currentRound, activeCreatureId, combatants, diceHistory } = useCombatStore.getState();
     if (!cloudId) return;
 
-    const snapshot = JSON.stringify({ name, state, currentRound, activeCreatureId, combatants, diceHistory });
+    // Guard against a non-finite initiative reaching the server (NaN -> null ->
+    // 400), which would block the whole encounter sync and retry forever (f16).
+    const safeCombatants = sanitizeCombatantsForSync(combatants);
+
+    const snapshot = JSON.stringify({ name, state, currentRound, activeCreatureId, combatants: safeCombatants, diceHistory });
 
     // Skip if nothing changed — unless forced (manual "sync now" click).
     if (!force && snapshot === prevSnapshotRef.current) return;
@@ -54,7 +59,7 @@ export default function useCloudSync(enabled) {
       const updated = await updateEncounter.mutateAsync({
         id: cloudId,
         baseRev: cloudRev,
-        name, state, currentRound, activeCreatureId, combatants, diceHistory,
+        name, state, currentRound, activeCreatureId, combatants: safeCombatants, diceHistory,
       });
       useCombatStore.getState().setCloudRev(updated.rev);
       setSyncStatus('synced');
