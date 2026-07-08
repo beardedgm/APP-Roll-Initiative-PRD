@@ -264,7 +264,7 @@ router.get('/api/auth/export', requireAuth, rateLimitByIP('export', 5), asyncHan
 /**
  * DELETE /api/auth/account (authenticated)
  */
-router.delete('/api/auth/account', requireAuth, validate(deleteAccountSchema), asyncHandler(async (req, res) => {
+router.delete('/api/auth/account', requireAuth, rateLimitByIP('delete-account', 5), validate(deleteAccountSchema), asyncHandler(async (req, res) => {
   const { password } = req.validated;
   const user = await User.findById(req.session.userId);
   if (!user) {
