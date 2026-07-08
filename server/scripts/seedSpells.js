@@ -193,6 +193,11 @@ function processFolder(folderPath, sourceKey, sourceLabel, gameSystem, isPf2e, r
   for (const file of files) {
     const fileSlug = slugFromFilename(file);
     const slug = `${sourceKey}--${fileSlug}`;
+    // Two files that map to the same slug silently overwrite each other on
+    // upsert — warn so the collision is visible instead of silent (l12).
+    if (onDiskSlugs.has(slug)) {
+      console.warn(`  DUPLICATE SLUG: ${slug} (${file}) — a later file overwrites an earlier one`);
+    }
     // Always register slug from filename so parse failure never triggers deletion
     onDiskSlugs.add(slug);
 
@@ -344,7 +349,10 @@ async function main() {
   }
 
   // ── Exit code ────────────────────────────────────────────────
-  if (reconcile.aborted || writeReport.batchErrors.length > 0 || (args.failOnInvalid && invalid.length > 0)) {
+  // --fail-on-invalid must also fail on read/parse errors, not just schema
+  // validation failures — a file that can't be read is as bad as an invalid one (l13).
+  if (reconcile.aborted || writeReport.batchErrors.length > 0
+      || (args.failOnInvalid && (invalid.length > 0 || totalReadErrors > 0))) {
     process.exitCode = 1;
   }
 
