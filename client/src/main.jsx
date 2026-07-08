@@ -2,12 +2,12 @@ import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { HelmetProvider } from 'react-helmet-async';
 import * as Sentry from '@sentry/react';
-import posthog from 'posthog-js';
 import './styles/shared.css';
 import App from './App.jsx';
-import { redactAnalyticsEvent } from './lib/redactUrl';
+import { initAnalytics } from './lib/analytics';
+import { getConsent, CONSENT_ACCEPTED } from './lib/consent';
 
-// Sentry — error tracking
+// Sentry — error tracking (essential; not gated by analytics consent)
 if (import.meta.env.VITE_SENTRY_DSN) {
   Sentry.init({
     dsn: import.meta.env.VITE_SENTRY_DSN,
@@ -16,14 +16,10 @@ if (import.meta.env.VITE_SENTRY_DSN) {
   });
 }
 
-// PostHog — product analytics
-if (import.meta.env.VITE_POSTHOG_KEY) {
-  posthog.init(import.meta.env.VITE_POSTHOG_KEY, {
-    api_host: import.meta.env.VITE_POSTHOG_HOST || 'https://us.i.posthog.com',
-    autocapture: true,
-    // Strip auth tokens from URL-valued properties before any event is sent.
-    before_send: redactAnalyticsEvent,
-  });
+// PostHog — opt-in only (n2). Initialize on load solely if the user previously
+// accepted; otherwise the consent banner initializes it on Accept.
+if (getConsent() === CONSENT_ACCEPTED) {
+  initAnalytics();
 }
 
 createRoot(document.getElementById('root')).render(

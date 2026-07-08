@@ -241,3 +241,40 @@ button:focus-visible {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* ── Consent Banner (n2) ───────────────────────────────────── */
+.consent-banner {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-md);
+  padding: var(--space-md) var(--space-lg);
+  background: var(--color-bg-card);
+  border-top: 1px solid var(--color-border-light);
+  box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.35);
+}
+
+.consent-banner__text {
+  margin: 0;
+  max-width: 60ch;
+  color: var(--color-text-secondary);
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+.consent-banner__link {
+  color: var(--color-accent-gold);
+  text-decoration: underline;
+}
+
+.consent-banner__actions {
+  display: flex;
+  gap: var(--space-sm);
+  flex-shrink: 0;
+}
