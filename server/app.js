@@ -157,6 +157,13 @@ app.use(userDataRouter);
 app.use(billingRouter);
 app.use(sharedEncounterRouter); // public: no auth required
 
+// Unknown /api/* routes must return a JSON 404 — otherwise they fall through to
+// the SPA catch-all below and get index.html + 200, so a JSON client sees HTML
+// and failures surface as opaque parse errors (f23).
+app.use('/api', (req, res) => {
+  res.status(404).json({ error: 'Not found' });
+});
+
 // ── Serve React build in production ────────────────────────
 if (process.env.NODE_ENV === 'production') {
   // Hashed assets (JS/CSS) — cache forever (filenames change each build)

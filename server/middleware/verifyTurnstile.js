@@ -11,6 +11,12 @@ export default async function verifyTurnstile(req, res, next) {
   const secret = process.env.TURNSTILE_SECRET_KEY;
 
   if (!secret) {
+    // In production a missing secret must NOT silently disable bot protection —
+    // fail closed and log loudly instead of failing open (l9).
+    if (process.env.NODE_ENV === 'production') {
+      logger.error('TURNSTILE_SECRET_KEY is not set in production — rejecting the request rather than skipping CAPTCHA');
+      return res.status(503).json({ error: 'Verification service not configured' });
+    }
     // Development: skip verification
     return next();
   }
