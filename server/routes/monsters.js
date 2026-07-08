@@ -4,8 +4,13 @@ import User from '../models/User.js';
 import { DEMO_SLUGS } from '../config/demoMonsters.js';
 import asyncHandler from '../utils/asyncHandler.js';
 import { flattenQuery } from '../utils/flattenQuery.js';
+import { rateLimitMemory } from '../middleware/rateLimitMemory.js';
 
 const router = Router();
+
+// Cap per-IP request volume on the public catalog (generous for real browsing,
+// stops anonymous scraping / DB exhaustion) without a DB hit per request (f12).
+router.use(rateLimitMemory('catalog', 2000));
 
 async function hasFullAccess(req) {
   if (!req.session?.userId) return false;
