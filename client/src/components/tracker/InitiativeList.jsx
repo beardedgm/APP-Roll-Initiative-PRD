@@ -51,7 +51,7 @@ export default function InitiativeList({ onViewStatBlock }) {
         {combatState === 'pre-combat' ? (
           <div className="empty-message">
             <p>No combatants yet.</p>
-            <p className="text-muted">Browse the <strong>Creatures</strong> tab to add monsters, or the <strong>Characters</strong> tab to add your saved party.</p>
+            <p className="text-muted">Browse the <strong>Creatures</strong> tab to add monsters, or the <strong>Characters</strong> tab to add your party.</p>
           </div>
         ) : (
           <p className="empty-message">No combatants remaining.</p>
