@@ -1,5 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" stroke="#e8a634" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M6 6l14 14M14 6l-8 8 6 6 8-8"/>
-  <path d="M26 26l-14-14M18 26l8-8-6-6-8 8"/>
-  <circle cx="16" cy="16" r="2" fill="#e8a634" stroke="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#161720"/>
+  <g fill="#c9a267">
+    <!-- ears: large, out to the sides, jagged -->
+    <path d="M9 11.5 0.8 8.5 4.5 12.2 2.5 15.8 9 16.5Z"/>
+    <path d="M23 11.5 31.2 8.5 27.5 12.2 29.5 15.8 23 16.5Z"/>
+    <!-- gaunt angular head -->
+    <path d="M10 8.4Q16 6 22 8.4Q25.4 11.5 24.6 15.8Q23.6 21 19 25L16 28.4 13 25Q9 21 7.4 15.8Q6.6 11.5 10 8.4Z"/>
+  </g>
+  <g fill="#161720">
+    <!-- angry V brow -->
+    <path d="M8.8 12.4 15.2 15 15 16.4 8.8 14.1Z"/>
+    <path d="M23.2 12.4 16.8 15 17 16.4 23.2 14.1Z"/>
+    <!-- eyes -->
+    <path d="M10.2 15.4 13.7 16.2 11.4 17.8Z"/>
+    <path d="M21.8 15.4 18.3 16.2 20.6 17.8Z"/>
+    <!-- nose: hook + nostrils + under-shadow -->
+    <path d="M16.3 16.6Q14.6 18.9 14.7 20.7" fill="none" stroke="#161720" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M14.3 21.1Q16 21.9 17.7 21.1" fill="none" stroke="#161720" stroke-width="0.9" stroke-linecap="round"/>
+    <ellipse cx="14.9" cy="20.6" rx="0.85" ry="0.6"/>
+    <ellipse cx="17.3" cy="20.6" rx="0.85" ry="0.6"/>
+    <!-- grin -->
+    <path d="M9.6 22.6Q16 23.2 22.4 22.6Q21 25 16 25.3Q11 25 9.6 22.6Z"/>
+  </g>
+  <!-- teeth: upper row + corner tusks (underbite) -->
+  <g fill="#c9a267">
+    <path d="M11.6 22.8 12.4 24.3 13.2 22.8Z"/>
+    <path d="M13.6 22.9 14.3 24.1 15 22.9Z"/>
+    <path d="M17 22.9 17.7 24.1 18.4 22.9Z"/>
+    <path d="M18.8 22.8 19.6 24.3 20.4 22.8Z"/>
+    <path d="M9.9 23.1 10.7 20.9 11.7 23.1Z"/>
+    <path d="M22.1 23.1 21.3 20.9 20.3 23.1Z"/>
+  </g>
 </svg>
