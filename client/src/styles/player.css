@@ -121,6 +121,7 @@ html:has(.player-wrapper), html:has(.player-wrapper) body {
 
 /* ── Initiative Item ─────────────────────────────────────────── */
 .initiative-item {
+  position: relative;  /* positioning context for the active-glow pseudo-element */
   flex: 1;        /* equal share of list height */
   min-height: 0;
   max-height: 120px;  /* cap height — prevents absurdly tall items with few combatants */
@@ -138,25 +139,35 @@ html:has(.player-wrapper), html:has(.player-wrapper) body {
 .initiative-item--active {
   background: var(--color-accent-gold);
   border-color: var(--color-accent-gold);
+  /* Static base glow (always on). The pulsing bright glow is animated on the
+     ::after pseudo-element via opacity so it composites on the GPU instead of
+     repainting box-shadow every frame — which locks up low-power cast devices. */
   box-shadow:
     0 0 30px rgba(201, 162, 103, 0.5),
     0 0 60px rgba(201, 162, 103, 0.2),
     0 0 4px rgba(201, 162, 103, 0.8);
+}
+
+.initiative-item--active::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  /* Static (never-animated) bright glow — painted once, then only its opacity
+     changes, so the compositor handles the pulse with no per-frame repaint. */
+  box-shadow:
+    0 0 40px rgba(201, 162, 103, 0.7),
+    0 0 80px rgba(201, 162, 103, 0.35),
+    0 0 6px rgba(201, 162, 103, 0.9);
+  opacity: 0;
+  will-change: opacity;
   animation: glow-pulse 2s ease-in-out infinite;
 }
 
 @keyframes glow-pulse {
-  0%, 100% {
-    box-shadow:
-      0 0 30px rgba(201, 162, 103, 0.5),
-      0 0 60px rgba(201, 162, 103, 0.2);
-  }
-  50% {
-    box-shadow:
-      0 0 40px rgba(201, 162, 103, 0.7),
-      0 0 80px rgba(201, 162, 103, 0.35),
-      0 0 6px rgba(201, 162, 103, 0.9);
-  }
+  0%, 100% { opacity: 0; }
+  50% { opacity: 1; }
 }
 
 .initiative-item__left {
@@ -172,6 +183,7 @@ html:has(.player-wrapper), html:has(.player-wrapper) body {
   align-items: center;
   color: var(--color-text-dark);
   flex-shrink: 0;
+  will-change: transform;
   animation: arrow-bounce 0.8s ease-in-out infinite alternate;
 }
 
@@ -183,6 +195,15 @@ html:has(.player-wrapper), html:has(.player-wrapper) body {
 @keyframes arrow-bounce {
   from { transform: translateX(0); }
   to   { transform: translateX(6px); }
+}
+
+/* Respect reduced-motion preferences — disable the perpetual player-view
+   animations for users/devices that ask for it. */
+@media (prefers-reduced-motion: reduce) {
+  .initiative-item--active::after,
+  .initiative-item__arrow {
+    animation: none;
+  }
 }
 
 .initiative-item__name {
