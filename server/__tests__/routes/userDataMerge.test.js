@@ -39,3 +39,21 @@ describe('mergeUserData', () => {
     expect(out.characters).toHaveLength(1);
   });
 });
+
+// M7: the first-ever sync for a user must not crash when racing another
+// request — find-then-create both saw null and the loser threw E11000 on the
+// unique userId index, 500ing a request that should have succeeded.
+describe('mergeUserData first-sync race', () => {
+  it('two concurrent first syncs create exactly one doc and neither throws', async () => {
+    const userId = new mongoose.Types.ObjectId();
+    const empty = { version: 0, characters: [], customMonsters: [], encounterPresets: [] };
+    const [a, b] = await Promise.all([
+      mergeUserData(userId, { ...empty, characters: [{ id: 'c1', name: 'Aria', rev: 1 }] }),
+      mergeUserData(userId, { ...empty, characters: [{ id: 'c2', name: 'Borin', rev: 1 }] }),
+    ]);
+    expect(a).toBeTruthy();
+    expect(b).toBeTruthy();
+    const UserData = (await import('../../models/UserData.js')).default;
+    expect(await UserData.countDocuments({ userId })).toBe(1);
+  });
+});
