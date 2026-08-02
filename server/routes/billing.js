@@ -19,6 +19,38 @@ export function hasActiveSubscription(user) {
   return user?.subscriptionStatus === 'active';
 }
 
+/**
+ * Map a Stripe subscription object to our User.subscriptionStatus enum
+ * ('none' | 'active' | 'past_due' | 'canceled').
+ *
+ * trialing → active: a paid trial IS entitled access — every access check in
+ * the app (requireSubscription, hasFullAccess, client gates) honors only
+ * 'active', so mapping trialing anywhere else locks a paying trial user out.
+ * unpaid → past_due (retries exhausted but the subscription still exists).
+ * An active/trialing status wins over cancel_at_period_end — the user keeps
+ * access until the period ends; customer.subscription.deleted sets 'none'.
+ */
+export function mapSubscriptionStatus(sub) {
+  if (sub.status === 'active' || sub.status === 'trialing') return 'active';
+  if (sub.status === 'past_due' || sub.status === 'unpaid') return 'past_due';
+  return sub.cancel_at_period_end ? 'canceled' : 'none';
+}
+
+/**
+ * Resolve the app user a webhook event belongs to. metadata.userId is only
+ * stamped by our own checkout flow — a subscription created from the Stripe
+ * dashboard, or recreated by the Customer Portal without carrying metadata
+ * forward, arrives without it. Fall back to the indexed stripeCustomerId
+ * lookup so those events still provision the right account instead of being
+ * silently dropped (customer pays, never gets access, nothing logged).
+ */
+export async function resolveWebhookUserId(metadataUserId, customerId) {
+  if (metadataUserId) return metadataUserId;
+  if (!customerId) return null;
+  const user = await User.findOne({ stripeCustomerId: customerId }).select('_id').lean();
+  return user ? user._id : null;
+}
+
 // ── Create Checkout Session ──────────────────────────────────
 router.post('/api/billing/create-checkout-session', requireAuth, asyncHandler(async (req, res) => {
   if (!stripe) return res.status(503).json({ error: 'Billing not configured' });
@@ -131,9 +163,10 @@ webhookRouter.post('/api/billing/webhook',
         case 'checkout.session.completed': {
           const session = event.data.object;
           if (session.mode === 'subscription') {
-            const userId = session.subscription
-              ? (await stripe.subscriptions.retrieve(session.subscription)).metadata.userId
+            const metadataUserId = session.subscription
+              ? (await stripe.subscriptions.retrieve(session.subscription)).metadata?.userId
               : null;
+            const userId = await resolveWebhookUserId(metadataUserId, session.customer);
 
             if (userId) {
               await User.findByIdAndUpdate(userId, {
@@ -142,6 +175,8 @@ webhookRouter.post('/api/billing/webhook',
                 subscriptionStatus: 'active',
               });
               logger.info({ userId }, 'Subscription activated via checkout');
+            } else {
+              logger.warn({ eventId: event.id, eventType: event.type, customerId: session.customer }, 'webhook: could not resolve user');
             }
           }
           break;
@@ -151,7 +186,7 @@ webhookRouter.post('/api/billing/webhook',
           const invoice = event.data.object;
           if (invoice.subscription) {
             const sub = await stripe.subscriptions.retrieve(invoice.subscription);
-            const userId = sub.metadata.userId;
+            const userId = await resolveWebhookUserId(sub.metadata?.userId, invoice.customer);
             if (userId) {
               const paidUser = await User.findByIdAndUpdate(userId, {
                 subscriptionStatus: 'active',
@@ -160,6 +195,8 @@ webhookRouter.post('/api/billing/webhook',
               if (paidUser) {
                 sendPaymentReceiptEmail(paidUser.email, paidUser.displayName, invoice.amount_paid, invoice.currency).catch(() => {});
               }
+            } else {
+              logger.warn({ eventId: event.id, eventType: event.type, customerId: invoice.customer }, 'webhook: could not resolve user');
             }
           }
           break;
@@ -169,7 +206,7 @@ webhookRouter.post('/api/billing/webhook',
           const invoice = event.data.object;
           if (invoice.subscription) {
             const sub = await stripe.subscriptions.retrieve(invoice.subscription);
-            const userId = sub.metadata.userId;
+            const userId = await resolveWebhookUserId(sub.metadata?.userId, invoice.customer);
             if (userId) {
               const failedUser = await User.findByIdAndUpdate(userId, {
                 subscriptionStatus: 'past_due',
@@ -178,6 +215,8 @@ webhookRouter.post('/api/billing/webhook',
                 sendPaymentFailedEmail(failedUser.email, failedUser.displayName).catch(() => {});
               }
               logger.warn({ userId }, 'Subscription payment failed');
+            } else {
+              logger.warn({ eventId: event.id, eventType: event.type, customerId: invoice.customer }, 'webhook: could not resolve user');
             }
           }
           break;
@@ -185,12 +224,9 @@ webhookRouter.post('/api/billing/webhook',
 
         case 'customer.subscription.updated': {
           const sub = event.data.object;
-          const userId = sub.metadata.userId;
+          const userId = await resolveWebhookUserId(sub.metadata?.userId, sub.customer);
           if (userId) {
-            const status = sub.status === 'active' ? 'active'
-              : sub.status === 'past_due' ? 'past_due'
-              : sub.cancel_at_period_end ? 'canceled'
-              : 'none';
+            const status = mapSubscriptionStatus(sub);
 
             await User.findByIdAndUpdate(userId, {
               subscriptionStatus: status,
@@ -198,13 +234,15 @@ webhookRouter.post('/api/billing/webhook',
               currentPeriodEnd: new Date(sub.current_period_end * 1000),
             });
             logger.info({ userId, status }, 'Subscription updated');
+          } else {
+            logger.warn({ eventId: event.id, eventType: event.type, customerId: sub.customer }, 'webhook: could not resolve user');
           }
           break;
         }
 
         case 'customer.subscription.deleted': {
           const sub = event.data.object;
-          const userId = sub.metadata.userId;
+          const userId = await resolveWebhookUserId(sub.metadata?.userId, sub.customer);
           if (userId) {
             const cancelledUser = await User.findByIdAndUpdate(userId, {
               subscriptionStatus: 'none',
@@ -215,6 +253,8 @@ webhookRouter.post('/api/billing/webhook',
               sendSubscriptionCancelledEmail(cancelledUser.email, cancelledUser.displayName).catch(() => {});
             }
             logger.info({ userId }, 'Subscription canceled');
+          } else {
+            logger.warn({ eventId: event.id, eventType: event.type, customerId: sub.customer }, 'webhook: could not resolve user');
           }
           break;
         }
