@@ -1,6 +1,18 @@
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 
+// Product limit: max live items per collection. Enforced here, at creation
+// time, so the sync payload (live items + pending deletion tombstones) always
+// stays well under the server's envelope flood cap (2000) — an over-cap 400
+// is not retried and the tombstones would never clear, deadlocking the sync.
+export const LIVE_ITEM_CAP = 500;
+
+function assertUnderCap(list, label) {
+  if (list.length >= LIVE_ITEM_CAP) {
+    throw new Error(`Limit of ${LIVE_ITEM_CAP} ${label} reached — delete some before adding more.`);
+  }
+}
+
 const useUserDataStore = create(
   persist(
     (set) => ({
@@ -56,6 +68,7 @@ const useUserDataStore = create(
 
       // ── Characters ─────────────────────────────────
       addCharacter: (char) => {
+        assertUnderCap(useUserDataStore.getState().characters, 'characters');
         const now = new Date().toISOString();
         const id = char.id || `char_${Date.now()}_${Math.random().toString(36).slice(2, 8)}`;
         set(s => ({
@@ -95,6 +108,10 @@ const useUserDataStore = create(
 
       /** Add a new custom monster. If overwriteSlug is provided, replaces that monster instead. */
       addCustomMonster: (monster, overwriteSlug) => {
+        // Overwrites replace an existing item — the cap only gates net-new adds.
+        if (!overwriteSlug) {
+          assertUnderCap(useUserDataStore.getState().customMonsters, 'custom monsters');
+        }
         const now = new Date().toISOString();
         const slug = overwriteSlug || monster.slug || `custom-${monster.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}-${Math.random().toString(36).slice(2, 8)}`;
         set(s => {
@@ -142,6 +159,7 @@ const useUserDataStore = create(
 
       // ── Encounter Presets ──────────────────────────
       addEncounterPreset: (preset) => {
+        assertUnderCap(useUserDataStore.getState().encounterPresets, 'encounter presets');
         const now = new Date().toISOString();
         const id = preset.id || `enc_${Date.now()}_${Math.random().toString(36).slice(2, 6)}`;
         set(s => ({

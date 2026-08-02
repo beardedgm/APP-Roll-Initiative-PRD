@@ -21,14 +21,19 @@ export default function EncounterLibrary() {
 
   const handleSave = useCallback(() => {
     if (!saveName.trim()) return;
-    addEncounterPreset({
-      name: saveName.trim(),
-      combatants,
-      state,
-      currentRound,
-      activeCreatureId,
-      diceHistory,
-    });
+    try {
+      addEncounterPreset({
+        name: saveName.trim(),
+        combatants,
+        state,
+        currentRound,
+        activeCreatureId,
+        diceHistory,
+      });
+    } catch (err) {
+      window.alert(err.message); // e.g. the 500-item cap
+      return;
+    }
     setSaveName('');
   }, [saveName, combatants, state, currentRound, activeCreatureId, diceHistory, addEncounterPreset]);
 

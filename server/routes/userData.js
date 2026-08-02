@@ -10,10 +10,15 @@ const router = Router();
 
 // ── Get user data (live items only) ────────────────────────
 router.get('/api/user-data', requireAuth, asyncHandler(async (req, res) => {
-  let doc = await UserData.findOne({ userId: req.session.userId }).lean();
-  if (!doc) {
-    doc = (await UserData.create({ userId: req.session.userId })).toObject();
-  }
+  // Atomic upsert, not find-then-create: two concurrent first-load requests
+  // (the SPA fires this from multiple mounts) would both see null and both
+  // create — the loser throwing E11000 on the unique userId index → 500.
+  // Schema defaults apply on insert (setDefaultsOnInsert is on by default).
+  const doc = await UserData.findOneAndUpdate(
+    { userId: req.session.userId },
+    { $setOnInsert: { userId: req.session.userId } },
+    { new: true, upsert: true }
+  ).lean();
   res.json({
     version: doc.version,
     characters: liveItems(doc.characters),
@@ -30,8 +35,13 @@ router.get('/api/user-data', requireAuth, asyncHandler(async (req, res) => {
  */
 export async function mergeUserData(userId, payload, now = Date.now()) {
   for (let attempt = 0; attempt < 4; attempt++) {
-    let current = await UserData.findOne({ userId });
-    if (!current) current = await UserData.create({ userId });
+    // Atomic upsert — same E11000 race as the GET route: a first-ever sync
+    // racing another request must not crash on the unique userId index.
+    const current = await UserData.findOneAndUpdate(
+      { userId },
+      { $setOnInsert: { userId } },
+      { new: true, upsert: true }
+    );
 
     const merged = {
       characters: prunedTombstones(mergeCollection(current.characters, payload.characters, 'id'), now),

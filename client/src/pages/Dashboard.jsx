@@ -27,14 +27,18 @@ export default function Dashboard() {
     const state = useCombatStore.getState();
     const name = window.prompt('Save encounter as:', state.name || 'New Encounter');
     if (!name?.trim()) return;
-    addEncounterPreset({
-      name: name.trim(),
-      combatants: state.combatants,
-      state: state.state,
-      currentRound: state.currentRound,
-      activeCreatureId: state.activeCreatureId,
-      diceHistory: state.diceHistory,
-    });
+    try {
+      addEncounterPreset({
+        name: name.trim(),
+        combatants: state.combatants,
+        state: state.state,
+        currentRound: state.currentRound,
+        activeCreatureId: state.activeCreatureId,
+        diceHistory: state.diceHistory,
+      });
+    } catch (err) {
+      window.alert(err.message); // e.g. the 500-item cap
+    }
   }, [addEncounterPreset]);
 
   const handleLoad = useCallback((preset) => {

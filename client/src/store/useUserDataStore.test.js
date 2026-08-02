@@ -46,3 +46,29 @@ describe('resetAll', () => {
     expect(get().version).toBe(0);
   });
 });
+
+// M3 (client half): the 500-item product cap is enforced at creation time so
+// the sync payload can never outgrow the server's envelope flood cap.
+describe('live item cap', () => {
+  it('rejects adds past the cap with a user-facing message', () => {
+    const chars = Array.from({ length: 500 }, (_, i) => ({ id: `c${i}`, name: `C${i}`, type: 'player' }));
+    useUserDataStore.setState({ characters: chars.map(c => ({ ...c, rev: 1, deleted: false })) });
+    expect(() => get().addCharacter({ name: 'One Too Many', type: 'player' }))
+      .toThrow(/Limit of 500/);
+    expect(get().characters).toHaveLength(500);
+  });
+
+  it('allows the overwrite path at the cap (replaces, does not grow)', () => {
+    const monsters = Array.from({ length: 500 }, (_, i) => ({ slug: `m${i}`, name: `M${i}`, rev: 1, deleted: false }));
+    useUserDataStore.setState({ customMonsters: monsters });
+    expect(() => get().addCustomMonster({ name: 'Updated M0' }, 'm0')).not.toThrow();
+    expect(get().customMonsters).toHaveLength(500);
+    expect(() => get().addCustomMonster({ name: 'Net New' })).toThrow(/Limit of 500/);
+  });
+
+  it('caps encounter presets too', () => {
+    const presets = Array.from({ length: 500 }, (_, i) => ({ id: `e${i}`, name: `E${i}`, rev: 1, deleted: false }));
+    useUserDataStore.setState({ encounterPresets: presets });
+    expect(() => get().addEncounterPreset({ name: 'Overflow' })).toThrow(/Limit of 500/);
+  });
+});
