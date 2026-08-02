@@ -66,10 +66,11 @@ router.get('/api/monsters/search', asyncHandler(async (req, res) => {
     filter.type = new RegExp(escapedType, 'i');
   }
 
-  // Exclude custom monsters — they now live in UserData
-  if (!filter.sourceKey) {
-    filter.isCustom = false;
-  }
+  // Exclude custom monsters — they live in UserData; any isCustom doc still in
+  // the Monster collection is legacy/foreign and must never be served publicly.
+  // Unconditional: gating this on sourceKey let ?source=custom (or any source)
+  // skip the exclusion and list other users' legacy custom monsters.
+  filter.isCustom = false;
 
   const fullAccess = await hasFullAccess(req);
   if (!fullAccess) {
