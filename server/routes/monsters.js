@@ -10,7 +10,10 @@ const router = Router();
 
 // Cap per-IP request volume on the public catalog (generous for real browsing,
 // stops anonymous scraping / DB exhaustion) without a DB hit per request (f12).
-router.use(rateLimitMemory('catalog', 2000));
+// MUST be path-scoped: this router is mounted at the app root, so a pathless
+// router.use would count (and eventually 429) every request in the app —
+// including the SPA shell and static assets.
+router.use('/api/monsters', rateLimitMemory('catalog-monsters', 2000));
 
 async function hasFullAccess(req) {
   if (!req.session?.userId) return false;

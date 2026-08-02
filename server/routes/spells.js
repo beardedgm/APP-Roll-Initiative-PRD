@@ -6,9 +6,11 @@ import { rateLimitMemory } from '../middleware/rateLimitMemory.js';
 
 const router = Router();
 
-// Same in-memory per-IP cap as the monster catalog; shares the 'catalog' budget
-// so total public-catalog volume per IP is bounded without a DB hit (f12).
-router.use(rateLimitMemory('catalog', 2000));
+// Same in-memory per-IP cap as the monster catalog, with its own budget so
+// heavy monster browsing can't starve spell lookups (f12). MUST be path-scoped:
+// this router is mounted at the app root, so a pathless router.use would count
+// every request in the app against the cap.
+router.use('/api/spells', rateLimitMemory('catalog-spells', 2000));
 
 /**
  * GET /api/spells/search?q=fire&source=5.1_srd&level=3&school=evocation&limit=20&skip=0&gameSystem=5e

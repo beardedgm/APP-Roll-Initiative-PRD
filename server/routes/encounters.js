@@ -4,7 +4,7 @@ import requireAuth from '../middleware/requireAuth.js';
 import requireSubscription from '../middleware/requireSubscription.js';
 import validate from '../middleware/validate.js';
 import { createEncounterSchema, updateEncounterSchema } from '../validators/encounters.js';
-import { rateLimitByIP } from '../middleware/rateLimitGeneral.js';
+import { rateLimitMemory } from '../middleware/rateLimitMemory.js';
 import asyncHandler from '../utils/asyncHandler.js';
 import logger from '../config/logger.js';
 
@@ -177,9 +177,11 @@ export function toSafeSharedRoll(roll) {
 // ~450 requests per 15-min window per viewer. A whole table behind one home NAT
 // shares an IP, so the old 1000 cap only cleared ~2 players before 429-ing the
 // rest ("link expired"). 5000 clears a realistic table (~10 viewers) while still
-// stopping abusive flooding; the lookup is a single indexed findOne, so a higher
-// cap is cheap. See f27.
-sharedEncounterRouter.get('/api/shared/:code', rateLimitByIP('shared-encounter', 5000), asyncHandler(async (req, res) => {
+// stopping abusive flooding. In-memory (not DB-backed): the old rateLimitByIP
+// cost a countDocuments + insert per poll — 2 DB ops every 2s per viewer on the
+// hottest public endpoint — and its rows also polluted the auth limiter's
+// per-IP count. Same per-process tradeoff already accepted for the catalog. See f27.
+sharedEncounterRouter.get('/api/shared/:code', rateLimitMemory('shared-encounter', 5000), asyncHandler(async (req, res) => {
   const encounter = await Encounter.findOne({ shareCode: req.params.code })
     .select('name state currentRound activeCreatureId combatants latestSharedRoll updatedAt')
     .lean();

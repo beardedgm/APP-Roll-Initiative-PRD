@@ -41,13 +41,19 @@ export function rateLimitByIP(action, maxPerWindow = 5) {
     const syntheticEmail = `__${action}__`;
 
     try {
-      const count = await LoginAttempt.countDocuments({ ip, email: syntheticEmail });
+      const windowStart = new Date(Date.now() - WINDOW_MS);
+      const count = await LoginAttempt.countDocuments({
+        ip,
+        email: syntheticEmail,
+        at: { $gte: windowStart },
+      });
 
       if (count >= maxPerWindow) {
         return res.status(429).json({ error: 'Too many requests. Try again in 15 minutes.' });
       }
 
-      await LoginAttempt.create({ ip, email: syntheticEmail });
+      // kind:'action' keeps these rows out of the auth limiter's counts
+      await LoginAttempt.create({ ip, email: syntheticEmail, kind: 'action' });
       next();
     } catch (err) {
       logger.error({ err }, 'DB rate limiter failed, using in-memory fallback');
