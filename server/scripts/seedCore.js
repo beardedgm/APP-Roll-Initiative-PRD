@@ -1,5 +1,7 @@
 /** Shared seeding utilities: CLI args, stale reconciliation, batching, report. */
 
+import fs from 'fs';
+
 const PF2E_SIZES = ['tiny', 'small', 'medium', 'large', 'huge', 'gargantuan'];
 
 /**
@@ -37,6 +39,18 @@ export function parseArgs(argv = []) {
     failOnInvalid: argv.includes('--fail-on-invalid'),
     deleteThreshold: 0.10, // abort if a single run would delete >10% of seeded docs
   };
+}
+
+/**
+ * Return the subset of `paths` that do not exist on disk. Used by the seed
+ * preflight: a CONFIGURED source folder that is missing must hard-abort the
+ * run before any write or reconcile — stale-record reconciliation would
+ * otherwise silently delete that folder's entire book from the catalog (the
+ * 10% mass-delete guard is computed against the whole corpus, so most single
+ * books fall under it). `existsFn` is injectable for tests.
+ */
+export function missingDirs(paths, existsFn = fs.existsSync) {
+  return paths.filter(p => !existsFn(p));
 }
 
 /** DB slugs that have no corresponding file on disk. */
