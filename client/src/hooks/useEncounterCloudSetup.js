@@ -59,6 +59,13 @@ export default function useEncounterCloudSetup(user) {
       if (encounterLoading || !mostRecentEncounter) return;
 
       didSetupRef.current = true;
+      // loadSnapshot spreads over current state, so omitted keys KEEP their
+      // stale values. Share state must come from the server here — otherwise
+      // the store can retain a shareCode belonging to a different (or
+      // deleted) encounter, and ShareLinkModal shows/revokes the wrong link.
+      // (Preset loads in EncounterLibrary/Dashboard intentionally do NOT set
+      // these: presets load into the SAME cloud encounter, whose live share
+      // link legitimately survives.)
       loadSnapshot({
         name: mostRecentEncounter.name,
         state: mostRecentEncounter.state,
@@ -66,6 +73,12 @@ export default function useEncounterCloudSetup(user) {
         activeCreatureId: mostRecentEncounter.activeCreatureId,
         combatants: mostRecentEncounter.combatants || [],
         diceHistory: mostRecentEncounter.diceHistory || [],
+        shareCode: mostRecentEncounter.shareCode || null,
+        latestSharedRoll: mostRecentEncounter.latestSharedRoll || null,
+        // Local-only broadcast toggle (not server-persisted) — never carry it
+        // across encounters: a leftover `true` would broadcast rolls to an
+        // old encounter's viewers.
+        showRollsToPlayers: false,
       });
       setCloudId(mostRecentEncounter._id);
       useCombatStore.getState().setCloudRev(mostRecentEncounter.rev || 0);
