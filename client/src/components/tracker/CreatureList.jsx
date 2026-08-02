@@ -6,6 +6,7 @@ import useCombatStore from '../../store/useCombatStore';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
 import { GAME_SYSTEMS } from '../../../../shared/gameSystemConfig.js';
+import { mergedPageSlice } from '../../utils/mergedPagination';
 import SOURCE_BADGES from '../../constants/monsterSources';
 import PF2E_SOURCE_BADGES from '../../constants/pf2eSources';
 
@@ -52,19 +53,8 @@ const CreatureList = forwardRef(function CreatureList({ gameSystem = '5e', onAdd
   function handleSourceFilter(val) { setSourceFilter(val); setPage(0); }
   function handleCrFilter(val) { setCrFilter(val); setPage(0); }
 
-  const { data, isLoading } = useMonsterBrowse({
-    q: debouncedQuery,
-    source: sourceFilter,
-    cr: crFilter,
-    gameSystem,
-    limit: PAGE_SIZE,
-    skip: page * PAGE_SIZE,
-  });
-
-  const apiResults = data?.results || [];
-  const apiTotal = data?.total || 0;
-
-  // Filter custom monsters by search/CR/system
+  // Filter custom monsters by search/CR/system. Computed BEFORE the API query
+  // because the merged pagination shifts the API skip by the local count.
   const localMonsters = (!sourceFilter || sourceFilter === 'custom' || sourceFilter === 'custom-pf2e')
     ? storeMonsters.filter(m => {
         const monsterSystem = m.gameSystem || '5e';
@@ -78,13 +68,44 @@ const CreatureList = forwardRef(function CreatureList({ gameSystem = '5e', onAdd
       }).sort((a, b) => a.name.localeCompare(b.name))
     : [];
 
-  const results = sourceFilter === 'custom'
-    ? localMonsters
-    : [...localMonsters, ...apiResults];
-  const total = sourceFilter === 'custom'
-    ? localMonsters.length
-    : apiTotal + localMonsters.length;
-  const totalPages = Math.ceil(total / PAGE_SIZE);
+  const isCustomOnly = sourceFilter === 'custom';
+
+  // Merged pagination over [ ...localMonsters, ...api ]: each page takes its
+  // slice of the combined ordering. Naively prepending all customs to every
+  // page duplicated them per page and inflated the page count (M4). The slice
+  // bounds and apiSkip depend only on the local count, so they are computed
+  // before the query; total/totalPages need apiTotal and come after.
+  const { localFrom, localTo, apiSkip, apiNeeded } = mergedPageSlice({
+    page,
+    pageSize: PAGE_SIZE,
+    localCount: localMonsters.length,
+    apiTotal: 0, // slice bounds don't use it
+    isCustomOnly,
+  });
+
+  const { data, isLoading } = useMonsterBrowse({
+    q: debouncedQuery,
+    source: sourceFilter,
+    cr: crFilter,
+    gameSystem,
+    limit: PAGE_SIZE,
+    skip: apiSkip,
+  });
+
+  const apiResults = data?.results || [];
+  const apiTotal = data?.total || 0;
+
+  const { total, totalPages } = mergedPageSlice({
+    page,
+    pageSize: PAGE_SIZE,
+    localCount: localMonsters.length,
+    apiTotal,
+    isCustomOnly,
+  });
+
+  const results = isCustomOnly
+    ? localMonsters.slice(localFrom, localTo)
+    : [...localMonsters.slice(localFrom, localTo), ...apiResults.slice(0, apiNeeded)];
 
   const handleAddToEncounter = useCallback((monster) => {
     if (onAddToEncounter) {
