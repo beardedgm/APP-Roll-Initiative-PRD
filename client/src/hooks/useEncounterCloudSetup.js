@@ -27,8 +27,9 @@ export default function useEncounterCloudSetup(user) {
   const isSubscriber = !!user && (user.role === 'owner' || user.subscriptionStatus === 'active');
   const needsSetup = isSubscriber && !cloudId;
 
-  // Only fetch encounter list when we need to set up (no cloudId)
-  const { data: encounters, isLoading: listLoading } = useEncounters({ enabled: needsSetup });
+  // Only fetch encounter list when we need to set up (no cloudId). Setup only
+  // ever reads encounters[0], so ask for just the most recent one.
+  const { data: encounters, isLoading: listLoading } = useEncounters({ enabled: needsSetup, limit: 1 });
 
   // If server has encounters, fetch the most recent one
   const mostRecentId = needsSetup && encounters?.length > 0 ? encounters[0]._id : null;

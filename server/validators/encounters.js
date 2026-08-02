@@ -51,6 +51,13 @@ export const createEncounterSchema = z.object({
   latestSharedRoll: latestSharedRollSchema.optional().default(null),
 });
 
+// Query params for the encounter list. z.coerce handles the string-typed
+// query values; bounds keep a single request from pulling the whole table.
+export const listEncountersQuerySchema = z.object({
+  limit: z.coerce.number().int().min(1).max(100).default(50),
+  skip: z.coerce.number().int().min(0).default(0),
+});
+
 export const updateEncounterSchema = z.object({
   baseRev: z.number().int().min(0),
   name: z.string().min(1).max(100).trim().optional(),

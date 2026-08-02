@@ -98,10 +98,19 @@ router.get('/api/spells/sources', asyncHandler(async (req, res) => {
  */
 router.get('/api/spells/names', asyncHandler(async (req, res) => {
   const { gameSystem = '5e' } = req.query;
+  // Deliberately NOT paginated: ContentViewer's spell-linking needs the
+  // complete name index per system (~1,540 5e / ~2,060 PF2e) to match spell
+  // names inside stat blocks — a cap would silently break links. The .limit
+  // is a sanity bound far above any real catalog size, so a seeding bug
+  // can't turn this into a multi-MB response.
   const spells = await Spell.find({ gameSystem })
     .select('name slug')
     .sort({ name: 1 })
+    .limit(5000)
     .lean();
+  // Identical for all users (public, unpersonalized) and changes only at
+  // deploy/seed time; the client already holds it with staleTime: 1h.
+  res.set('Cache-Control', 'public, max-age=3600');
   res.json(spells);
 }));
 

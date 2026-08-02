@@ -2,10 +2,16 @@ import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import api from './axiosInstance';
 
 export function useEncounters(options = {}) {
+  const { limit, skip } = options;
   return useQuery({
-    queryKey: ['encounters'],
+    // Params in the key so limit-1 and full-list queries don't share a cache
+    // entry; invalidateQueries(['encounters']) still matches by prefix.
+    queryKey: ['encounters', { limit: limit ?? null, skip: skip ?? null }],
     queryFn: async () => {
-      const { data } = await api.get('/encounters');
+      const params = {};
+      if (limit != null) params.limit = limit;
+      if (skip != null) params.skip = skip;
+      const { data } = await api.get('/encounters', { params });
       return data.encounters;
     },
     enabled: options.enabled !== false,

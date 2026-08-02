@@ -1,9 +1,11 @@
 import { Router } from 'express';
+import mongoose from 'mongoose';
 import Encounter from '../models/Encounter.js';
 import requireAuth from '../middleware/requireAuth.js';
 import requireSubscription from '../middleware/requireSubscription.js';
 import validate from '../middleware/validate.js';
-import { createEncounterSchema, updateEncounterSchema } from '../validators/encounters.js';
+import { createEncounterSchema, updateEncounterSchema, listEncountersQuerySchema } from '../validators/encounters.js';
+import { flattenQuery } from '../utils/flattenQuery.js';
 import { rateLimitMemory } from '../middleware/rateLimitMemory.js';
 import asyncHandler from '../utils/asyncHandler.js';
 import logger from '../config/logger.js';
@@ -22,26 +24,51 @@ router.param('id', (req, res, next, id) => {
 router.use('/api/encounters', requireAuth, requireSubscription);
 
 // ── List encounters ───────────────────────────────────────────
+
+/**
+ * Paginated encounter list for a user. Aggregation projects a $size-computed
+ * combatantCount instead of materializing full combatant arrays (up to 100
+ * subdocs per encounter) just to count them. Exported for tests.
+ */
+export async function listEncounters(userId, { limit, skip }) {
+  // Aggregation does NOT auto-cast strings to ObjectId like find() does —
+  // an un-cast session-string userId would silently match nothing.
+  const uid = new mongoose.Types.ObjectId(String(userId));
+  const [encounters, total] = await Promise.all([
+    Encounter.aggregate([
+      { $match: { userId: uid } },
+      { $sort: { updatedAt: -1 } }, // served by the { userId: 1, updatedAt: -1 } index
+      { $skip: skip },
+      { $limit: limit },
+      {
+        $project: {
+          name: 1,
+          state: 1,
+          currentRound: 1,
+          updatedAt: 1,
+          rev: 1,
+          shareCode: { $ifNull: ['$shareCode', null] },
+          combatantCount: { $size: { $ifNull: ['$combatants', []] } },
+        },
+      },
+    ]),
+    Encounter.countDocuments({ userId }),
+  ]);
+  return { encounters, total };
+}
+
 router.get('/api/encounters', asyncHandler(async (req, res) => {
-  const encounters = await Encounter.find({ userId: req.session.userId })
-    .select('name state currentRound shareCode combatants updatedAt rev')
-    .sort({ updatedAt: -1 })
-    .limit(50)
-    .lean();
+  const parsed = listEncountersQuerySchema.safeParse(flattenQuery(req.query));
+  if (!parsed.success) {
+    const details = parsed.error.issues.map(i => ({ path: i.path.join('.'), message: i.message }));
+    return res.status(400).json({ error: 'Validation failed', details });
+  }
+  const { limit, skip } = parsed.data;
 
-  // Add combatant count for list display
-  const list = encounters.map(e => ({
-    _id: e._id,
-    name: e.name,
-    state: e.state,
-    currentRound: e.currentRound,
-    shareCode: e.shareCode || null,
-    combatantCount: e.combatants?.length || 0,
-    updatedAt: e.updatedAt,
-    rev: e.rev,
-  }));
-
-  res.json({ encounters: list });
+  const { encounters, total } = await listEncounters(req.session.userId, { limit, skip });
+  // total/limit/skip let clients page past the cap — the old fixed limit(50)
+  // made encounters 51+ invisible with no signal that anything was truncated.
+  res.json({ encounters, total, limit, skip });
 }));
 
 // ── Get single encounter ──────────────────────────────────────
