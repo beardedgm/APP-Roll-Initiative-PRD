@@ -3,7 +3,7 @@ import { z } from 'zod';
 export const registerSchema = z.object({
   email: z.string().email('Invalid email address').max(255),
   password: z.string().min(8, 'Password must be at least 8 characters').max(128),
-  displayName: z.string().min(1, 'Display name is required').max(50).trim(),
+  displayName: z.string().trim().min(1, 'Display name is required').max(50),
   turnstileToken: z.string().nullish(),
 });
 
@@ -29,7 +29,7 @@ export const changePasswordSchema = z.object({
 });
 
 export const updateProfileSchema = z.object({
-  displayName: z.string().min(1, 'Display name is required').max(50).trim(),
+  displayName: z.string().trim().min(1, 'Display name is required').max(50),
 });
 
 export const deleteAccountSchema = z.object({
