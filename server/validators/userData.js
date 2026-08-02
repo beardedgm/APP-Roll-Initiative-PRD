@@ -122,11 +122,20 @@ export const updateUserDataSchema = z.object({
 // Envelope-level checks only: version is sane and each collection is an array
 // within the flood cap. Individual items are validated separately so one bad
 // record can't 400 the whole sync.
+//
+// The 2000 cap is a pure FLOOD cap, not the product limit. The product limit
+// (500 live items per collection) is enforced client-side at creation time —
+// the sync payload is live items PLUS pending deletion tombstones, and
+// tombstones only clear after a successful sync while a 4xx is deliberately
+// not retried. An envelope cap at the product limit therefore deadlocks the
+// sync permanently once a user near the cap deletes-and-adds (500 live + N
+// tombstones → 400 → tombstones never clear → every future sync 400s). The
+// envelope must always exceed live cap + worst-case pending tombstones.
 const userDataEnvelopeSchema = z.object({
   version: z.number().int().min(0),
-  characters: z.array(z.unknown()).max(500).default([]),
-  customMonsters: z.array(z.unknown()).max(500).default([]),
-  encounterPresets: z.array(z.unknown()).max(500).default([]),
+  characters: z.array(z.unknown()).max(2000).default([]),
+  customMonsters: z.array(z.unknown()).max(2000).default([]),
+  encounterPresets: z.array(z.unknown()).max(2000).default([]),
 });
 
 const ITEM_SCHEMAS = {

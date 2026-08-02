@@ -3,8 +3,8 @@ import Modal from '../ui/Modal';
 import useUIStore from '../../store/useUIStore';
 import useUserDataStore from '../../store/useUserDataStore';
 import {
-  getDefaultFormData, formDataToMonsterAPI,
-  getDefaultPf2eFormData, pf2eFormDataToMonsterAPI,
+  getDefaultFormData, formDataToMonsterAPI, monsterAPIToFormData,
+  getDefaultPf2eFormData, pf2eFormDataToMonsterAPI, pf2eMonsterAPIToFormData,
   withEntryIds, newEntryId,
 } from '../../utils/monsterFormHelpers';
 import Section from './monsterForm/Section';
@@ -27,8 +27,15 @@ export default function MonsterFormModal({ editMonster: editMonsterProp }) {
   const isPf2e = gameSystem === 'pf2e';
 
   const [form, setForm] = useState(() => {
-    const base = isPf2e ? getDefaultPf2eFormData() : getDefaultFormData();
-    return withEntryIds(editMonster ? { ...base, ...editMonster } : base);
+    // Edits go through the reverse mappers — never spread the raw monster over
+    // form defaults: the saved payload's field names differ from the form's
+    // (PF2e stores level as cr and perception as initMod, and keeps
+    // rarity/saves/list fields only inside generated rawMarkdown), and the
+    // spread also leaked junk keys (slug, rev, deleted, …) into the payload.
+    if (!editMonster) {
+      return withEntryIds(isPf2e ? getDefaultPf2eFormData() : getDefaultFormData());
+    }
+    return withEntryIds(isPf2e ? pf2eMonsterAPIToFormData(editMonster) : monsterAPIToFormData(editMonster));
   });
   const [openSections, setOpenSections] = useState({ basics: true });
   const [saving, setSaving] = useState(false);

@@ -25,7 +25,7 @@ import fs from 'fs';
 import mongoose from 'mongoose';
 import Spell from '../models/Spell.js';
 import PF2E_SOURCE_LABELS from '../config/pf2eSourceLabels.js';
-import { parseArgs, writeInBatches, reconcileStale } from './seedCore.js';
+import { parseArgs, writeInBatches, reconcileStale, missingDirs } from './seedCore.js';
 import { seedSpellSchema, validateSeedRecords } from '../validators/seedContent.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -244,6 +244,25 @@ async function main() {
 
   const uri = process.env.MONGO_URI;
   if (!uri) { console.error('MONGO_URI not set in .env'); process.exit(1); }
+
+  // ── Preflight: every CONFIGURED source folder must exist ─────
+  // Runs BEFORE the DB connection so a broken checkout can never reach the
+  // reconcile step, which would silently delete a missing folder's whole
+  // book (most single books fall under the 10% mass-delete guard). Unknown
+  // extra folders remain skippable; configured-but-absent is fatal. PF2e
+  // folders are discovered from disk, so the parent dir is the guard there.
+  const requiredDirs = [
+    SPELLS_5E_DIR,
+    SPELLS_PF2E_DIR,
+    ...Object.keys(SOURCE_MAP_5E).map(f => path.join(SPELLS_5E_DIR, f)),
+  ];
+  const missing = missingDirs(requiredDirs);
+  if (missing.length) {
+    console.error('FATAL: configured source folder(s) missing — aborting before any write/reconcile:');
+    for (const m of missing) console.error(`  ${m}`);
+    process.exit(1);
+  }
+
   await mongoose.connect(uri);
   console.log('Connected to MongoDB');
 
@@ -251,8 +270,8 @@ async function main() {
   const onDiskSlugs = new Set();
   let totalReadErrors = 0;
 
-  // Process 5e spells
-  if (fs.existsSync(SPELLS_5E_DIR)) {
+  // Process 5e spells (preflight guarantees the parent dir exists)
+  {
     const folders = fs.readdirSync(SPELLS_5E_DIR, { withFileTypes: true })
       .filter(d => d.isDirectory()).map(d => d.name);
     for (const folder of folders) {
@@ -264,8 +283,8 @@ async function main() {
     }
   }
 
-  // Process PF2e spells
-  if (fs.existsSync(SPELLS_PF2E_DIR)) {
+  // Process PF2e spells (preflight guarantees the parent dir exists)
+  {
     const folders = fs.readdirSync(SPELLS_PF2E_DIR, { withFileTypes: true })
       .filter(d => d.isDirectory()).map(d => d.name);
     for (const folder of folders) {

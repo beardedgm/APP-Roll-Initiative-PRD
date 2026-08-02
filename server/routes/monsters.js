@@ -10,7 +10,10 @@ const router = Router();
 
 // Cap per-IP request volume on the public catalog (generous for real browsing,
 // stops anonymous scraping / DB exhaustion) without a DB hit per request (f12).
-router.use(rateLimitMemory('catalog', 2000));
+// MUST be path-scoped: this router is mounted at the app root, so a pathless
+// router.use would count (and eventually 429) every request in the app —
+// including the SPA shell and static assets.
+router.use('/api/monsters', rateLimitMemory('catalog-monsters', 2000));
 
 async function hasFullAccess(req) {
   if (!req.session?.userId) return false;
@@ -63,10 +66,11 @@ router.get('/api/monsters/search', asyncHandler(async (req, res) => {
     filter.type = new RegExp(escapedType, 'i');
   }
 
-  // Exclude custom monsters — they now live in UserData
-  if (!filter.sourceKey) {
-    filter.isCustom = false;
-  }
+  // Exclude custom monsters — they live in UserData; any isCustom doc still in
+  // the Monster collection is legacy/foreign and must never be served publicly.
+  // Unconditional: gating this on sourceKey let ?source=custom (or any source)
+  // skip the exclusion and list other users' legacy custom monsters.
+  filter.isCustom = false;
 
   const fullAccess = await hasFullAccess(req);
   if (!fullAccess) {

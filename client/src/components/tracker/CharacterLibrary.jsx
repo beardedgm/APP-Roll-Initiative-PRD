@@ -35,10 +35,15 @@ export default function CharacterLibrary() {
       }),
     };
 
-    if (editId) {
-      updateCharacter(editId, charData);
-    } else {
-      addCharacter(charData);
+    try {
+      if (editId) {
+        updateCharacter(editId, charData);
+      } else {
+        addCharacter(charData);
+      }
+    } catch (err) {
+      setError(err.message); // e.g. the 500-item cap
+      return;
     }
 
     setForm(EMPTY_FORM);

@@ -36,9 +36,14 @@ export default async function rateLimitAuth(req, res, next) {
   if (!email) return next();
 
   try {
+    // Count only real auth attempts (kind:'auth') inside the exact window.
+    // rateLimitByIP writes kind:'action' rows into the same collection — they
+    // must never count against login. The `at` predicate keeps the window
+    // honest even when Mongo's TTL sweeper (runs ~every 60s) lags.
+    const windowStart = new Date(Date.now() - WINDOW_MS);
     const [ipCount, emailCount] = await Promise.all([
-      LoginAttempt.countDocuments({ ip }),
-      LoginAttempt.countDocuments({ email }),
+      LoginAttempt.countDocuments({ ip, kind: 'auth', at: { $gte: windowStart } }),
+      LoginAttempt.countDocuments({ email, kind: 'auth', at: { $gte: windowStart } }),
     ]);
 
     if (ipCount >= MAX_ATTEMPTS_PER_IP || emailCount >= MAX_ATTEMPTS_PER_EMAIL) {

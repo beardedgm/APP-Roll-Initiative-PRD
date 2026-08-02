@@ -239,6 +239,84 @@ export function pf2eFormDataToMonsterAPI(formData) {
   };
 }
 
+/**
+ * Convert a saved PF2e custom creature back to form data for editing —
+ * the reverse of pf2eFormDataToMonsterAPI.
+ *
+ * The saved payload stores level as `cr` (string) and perception as `initMod`,
+ * and does NOT store rarity, saves (fort/ref/will), senses, skills, languages,
+ * immunities, resistances, or weaknesses at all — those exist only inside the
+ * generated rawMarkdown. Without this reverse mapping, editing a PF2e creature
+ * silently reset level to 1, perception/saves to 0, rarity to Common, and lost
+ * every list field on re-save.
+ *
+ * Form-only fields are recovered by parsing the markdown WE generate (a closed
+ * loop with pf2eFormDataToMonsterAPI, which lives in this file). Hand-written
+ * markdown that doesn't match simply falls back to defaults for those fields —
+ * the direct fields (name/level/perception/AC/HP/abilities/…) map regardless.
+ */
+export function pf2eMonsterAPIToFormData(monster) {
+  const d = getDefaultPf2eFormData();
+  const md = monster.rawMarkdown || '';
+  const num = (re) => { const m = md.match(re); return m ? parseInt(m[1], 10) : undefined; };
+  const str = (re) => { const m = md.match(re); return m ? m[1].trim() : undefined; };
+
+  const level = parseInt(monster.cr, 10); // cr stores the level as a string, including '-1'
+
+  // Rarity: first token of the trait line the generator writes two lines below
+  // the `*Creature N*` line ([rarity, size, type].join(', ')). Validated
+  // against the known options so hand-written markdown can't inject junk —
+  // and so a trait line that starts with a size (rarity absent) falls through.
+  let rarity = d.rarity;
+  const traitLine = str(/^\*Creature -?\d+\*\s*\n\s*\n(.+)$/m);
+  if (traitLine) {
+    const first = traitLine.split(',')[0].trim();
+    const known = PF2E_RARITY_OPTIONS.find(r => r.toLowerCase() === first.toLowerCase());
+    if (known) rarity = known;
+  }
+
+  const form = {
+    ...d,
+    name: monster.name || '',
+    level: Number.isNaN(level) ? d.level : level,
+    size: monster.size || d.size,
+    type: monster.type === 'Creature' ? '' : (monster.type || ''), // 'Creature' is the save-time fallback for an empty type
+    rarity,
+    perception: monster.initMod ?? d.perception,
+    ac: monster.ac ?? d.ac,
+    acDesc: monster.acDesc || '',
+    hp: monster.hp ?? d.hp,
+    fort: num(/\*\*Fort\*\*\s*([+-]?\d+)/) ?? d.fort,
+    ref: num(/\*\*Ref\*\*\s*([+-]?\d+)/) ?? d.ref,
+    will: num(/\*\*Will\*\*\s*([+-]?\d+)/) ?? d.will,
+    speed: monster.speed || d.speed,
+    abilities: { ...d.abilities, ...(monster.abilities || {}) },
+    senses: str(/^\*\*Perception\*\*\s*[+-]?\d+;\s*(.+)$/m) ?? '',
+    languages: str(/^\*\*Languages\*\*\s+(.+)$/m) ?? '',
+    skills: str(/^\*\*Skills\*\*\s+(.+)$/m) ?? '',
+    immunities: str(/^\*\*Immunities\*\*\s+(.+)$/m) ?? '',
+    resistances: str(/^\*\*Resistances\*\*\s+(.+)$/m) ?? '',
+    weaknesses: str(/^\*\*Weaknesses\*\*\s+(.+)$/m) ?? '',
+    traits: monster.traits || [],
+    actions: monster.actions || [],
+    reactions: monster.reactions || [],
+    rawMarkdown: '',
+  };
+
+  // Staleness guard: the save path stores the GENERATED stat block when the
+  // user typed no custom markdown. Spreading that back into the form would
+  // freeze it — from then on it overrides every field edit. If the stored
+  // markdown is exactly what regenerating from the recovered fields produces,
+  // leave the form's rawMarkdown empty so field edits keep flowing into fresh
+  // generated markdown. Anything else is user-customized and is preserved.
+  if (md) {
+    const regenerated = pf2eFormDataToMonsterAPI(form).rawMarkdown;
+    if (md !== regenerated) form.rawMarkdown = md;
+  }
+
+  return form;
+}
+
 /** Convert an API monster to form data for editing */
 export function monsterAPIToFormData(monster) {
   return {

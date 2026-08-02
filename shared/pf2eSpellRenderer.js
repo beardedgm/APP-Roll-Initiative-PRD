@@ -73,11 +73,20 @@ function processEntries(entries, depth = 0) {
         }
         lines.push('');
       } else if (entry.type === 'entries' || entry.type === 'entry') {
+        // Blank line after each bold entry — adjacent **Name** lines joined by
+        // a single \n collapse into one run-on paragraph when rendered (the
+        // documented stat-block markdown gotcha; same fix as the creature
+        // renderer, f26).
         if (entry.name) {
           lines.push(`**${stripPf2eTags(entry.name)}** ${stripPf2eTags(entry.entry || '')}`);
+          lines.push('');
         }
         if (entry.entries) {
-          lines.push(processEntries(entry.entries, depth + 1));
+          const nested = processEntries(entry.entries, depth + 1);
+          if (nested) {
+            lines.push(nested);
+            lines.push('');
+          }
         }
       } else if (entry.type === 'successDegree') {
         const degrees = entry.entries || {};
@@ -94,20 +103,30 @@ function processEntries(entries, depth = 0) {
           lines.push('');
         }
       } else if (entry.type === 'affliction') {
-        if (entry.name) lines.push(`**${stripPf2eTags(entry.name)}**`);
-        if (entry.DC) lines.push(`DC ${entry.DC} ${entry.savingThrow || ''}`);
-        if (entry.onset) lines.push(`**Onset** ${stripPf2eTags(entry.onset)}`);
-        if (entry.maxDuration) lines.push(`**Maximum Duration** ${stripPf2eTags(entry.maxDuration)}`);
+        // Every affliction component gets its own paragraph — adjacent bold
+        // lines separated by a single \n render as one run-on paragraph (f26).
+        const parts = [];
+        if (entry.name) parts.push(`**${stripPf2eTags(entry.name)}**`);
+        if (entry.DC) parts.push(`DC ${entry.DC} ${entry.savingThrow || ''}`);
+        if (entry.onset) parts.push(`**Onset** ${stripPf2eTags(entry.onset)}`);
+        if (entry.maxDuration) parts.push(`**Maximum Duration** ${stripPf2eTags(entry.maxDuration)}`);
         if (entry.stages) {
           for (const stage of entry.stages) {
-            lines.push(`**Stage ${stage.stage}** ${stripPf2eTags(stage.entry)} (${stage.duration || ''})`);
+            parts.push(`**Stage ${stage.stage}** ${stripPf2eTags(stage.entry)} (${stage.duration || ''})`);
           }
         }
-        lines.push('');
+        if (parts.length) {
+          lines.push(parts.join('\n\n'));
+          lines.push('');
+        }
       } else {
         // Fallback: try to get text content
         if (entry.entries) {
-          lines.push(processEntries(entry.entries, depth + 1));
+          const nested = processEntries(entry.entries, depth + 1);
+          if (nested) {
+            lines.push(nested);
+            lines.push('');
+          }
         }
       }
     }
@@ -156,9 +175,11 @@ export function renderPf2eSpellToMarkdown(spell) {
     lines.push('');
   }
 
-  // Level
-  const spellType = spell.focus ? 'Focus' : 'Spell';
-  lines.push(`- **Level**: ${spellType} ${spell.level}`);
+  // Level — omit entirely when absent rather than rendering "Spell undefined"
+  if (spell.level != null) {
+    const spellType = spell.focus ? 'Focus' : 'Spell';
+    lines.push(`- **Level**: ${spellType} ${spell.level}`);
+  }
 
   // Traditions
   if (spell.traditions && spell.traditions.length > 0) {
@@ -193,8 +214,10 @@ export function renderPf2eSpellToMarkdown(spell) {
   const durStr = durationToString(spell.duration);
   if (durStr) lines.push(`- **Duration**: ${durStr}`);
 
-  // Source
-  lines.push(`- **Source**: ${spell.source} p.${spell.page || '?'}`);
+  // Source — omit when absent ("undefined p.?"); page only when present
+  if (spell.source) {
+    lines.push(`- **Source**: ${spell.source}${spell.page != null ? ` p.${spell.page}` : ''}`);
+  }
 
   lines.push('');
   lines.push('---');

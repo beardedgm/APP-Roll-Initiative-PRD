@@ -19,7 +19,9 @@ export function migrateLocalStorageToStore() {
       if (Array.isArray(chars) && chars.length > 0) {
         for (const char of chars) {
           if (char.name && !store.characters.some(c => c.id === char.id)) {
-            store.addCharacter(char);
+            // Per-item catch: hitting the item cap skips the rest instead of
+            // aborting the whole migration pass.
+            try { store.addCharacter(char); } catch { break; }
           }
         }
         localStorage.removeItem('saved_characters');
@@ -36,7 +38,7 @@ export function migrateLocalStorageToStore() {
       if (Array.isArray(monsters) && monsters.length > 0) {
         for (const m of monsters) {
           if (m.name && !store.customMonsters.some(cm => cm.slug === m.slug)) {
-            store.addCustomMonster(m);
+            try { store.addCustomMonster(m); } catch { break; }
           }
         }
         localStorage.removeItem('custom_monsters');
@@ -54,15 +56,17 @@ export function migrateLocalStorageToStore() {
         for (const save of saves) {
           const preset = save.snapshot || save;
           if (preset.combatants && !store.encounterPresets.some(e => e.id === save.id)) {
-            store.addEncounterPreset({
-              id: save.id,
-              name: save.name || preset.name || 'Unnamed',
-              combatants: preset.combatants,
-              state: preset.state || 'pre-combat',
-              currentRound: preset.currentRound || 1,
-              activeCreatureId: preset.activeCreatureId || null,
-              diceHistory: preset.diceHistory || [],
-            });
+            try {
+              store.addEncounterPreset({
+                id: save.id,
+                name: save.name || preset.name || 'Unnamed',
+                combatants: preset.combatants,
+                state: preset.state || 'pre-combat',
+                currentRound: preset.currentRound || 1,
+                activeCreatureId: preset.activeCreatureId || null,
+                diceHistory: preset.diceHistory || [],
+              });
+            } catch { break; }
           }
         }
         localStorage.removeItem('dnd_saved_encounters');

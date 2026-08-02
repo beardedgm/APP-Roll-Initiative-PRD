@@ -107,8 +107,41 @@ describe('parseUserDataResilient — per-item validation', () => {
   });
 
   it('rejects the request when a collection exceeds the flood cap', () => {
-    const tooMany = Array.from({ length: 501 }, (_, i) => monster({ slug: `custom-${i}`, name: `M${i}` }));
+    // The flood cap is 2000, deliberately above the 500-item product limit:
+    // the payload includes pending deletion tombstones, and a 400 here is
+    // never retried — see the "envelope flood cap" suite below.
+    const tooMany = Array.from({ length: 2001 }, (_, i) => monster({ slug: `custom-${i}`, name: `M${i}` }));
     const result = parseUserDataResilient(body(tooMany));
     expect(result.ok).toBe(false);
+  });
+});
+
+// M3: the envelope cap is a FLOOD cap, not the product limit. The client's
+// payload is live items + pending deletion tombstones; tombstones only clear
+// after a successful sync and a 4xx is never retried, so an envelope cap at
+// the product limit (500) permanently deadlocks the sync for a user at the
+// cap who deletes-and-adds. The envelope must accept live cap + tombstones.
+describe('userData envelope flood cap', () => {
+  function envelopeWith(n) {
+    return {
+      version: 0,
+      characters: [],
+      customMonsters: Array.from({ length: n }, (_, i) => ({
+        slug: `custom-m${i}`, name: `M${i}`, isCustom: true, sourceKey: 'custom', source: 'Custom',
+      })),
+      encounterPresets: [],
+    };
+  }
+
+  it('accepts 500 live items plus tombstones (the deadlock case)', () => {
+    expect(parseUserDataResilient(envelopeWith(530)).ok).toBe(true);
+  });
+
+  it('accepts up to the 2000 flood cap', () => {
+    expect(parseUserDataResilient(envelopeWith(2000)).ok).toBe(true);
+  });
+
+  it('rejects above the flood cap', () => {
+    expect(parseUserDataResilient(envelopeWith(2001)).ok).toBe(false);
   });
 });

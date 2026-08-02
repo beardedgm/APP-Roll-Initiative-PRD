@@ -31,4 +31,14 @@ describe('rateLimitMemory', () => {
     expect(run(mw, '2.2.2.2').res.statusCode).toBe(429);      // second from A: blocked
     expect(run(mw, '3.3.3.3').next).toHaveBeenCalled();       // first from B: ok
   });
+
+  // H1: monsters and spells each get their own budget — exhausting one action
+  // key must not consume another's (they share the module-level store Map).
+  it('tracks each action key independently for the same IP', () => {
+    const a = rateLimitMemory('test-key-a', 1);
+    const b = rateLimitMemory('test-key-b', 1);
+    expect(run(a, '4.4.4.4').next).toHaveBeenCalled();        // a: ok
+    expect(run(a, '4.4.4.4').res.statusCode).toBe(429);       // a: exhausted
+    expect(run(b, '4.4.4.4').next).toHaveBeenCalled();        // b: unaffected
+  });
 });

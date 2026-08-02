@@ -19,7 +19,7 @@ import fs from 'fs';
 import mongoose from 'mongoose';
 import Monster from '../models/Monster.js';
 import PF2E_SOURCE_LABELS from '../config/pf2eSourceLabels.js';
-import { parseArgs, writeInBatches, reconcileStale, parsePf2eTraits } from './seedCore.js';
+import { parseArgs, writeInBatches, reconcileStale, parsePf2eTraits, missingDirs } from './seedCore.js';
 import { seedMonsterSchema, validateSeedRecords } from '../validators/seedContent.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -344,8 +344,10 @@ function parsePf2e(md) {
 // onDiskSlugs is populated from filenames regardless of parse success.
 function processFolder(folderPath, config, records, stats) {
   if (!fs.existsSync(folderPath)) {
-    console.warn(`  Skipping missing folder: ${folderPath}`);
-    return;
+    // Unreachable after the preflight in seed(), but keep it fatal: a missing
+    // configured folder means its slugs never enter onDiskSlugs, and the
+    // reconcile step would then delete that whole book from the catalog.
+    throw new Error(`Configured source folder missing: ${folderPath}`);
   }
 
   const files = fs.readdirSync(folderPath).filter(f => f.endsWith('.md'));
@@ -411,6 +413,23 @@ async function seed() {
   const args = parseArgs(process.argv.slice(2));
   if (args.dryRun) console.log('[DRY RUN] No writes will occur.\n');
 
+  // ── Preflight: every CONFIGURED source folder must exist ─────
+  // Runs BEFORE the DB connection so a broken checkout (renamed/missing
+  // folder) can never reach the reconcile step, which would silently delete
+  // that folder's whole book — most single books fall under the 10% guard.
+  // Extra folders on disk are fine; configured-but-absent is fatal.
+  const requiredDirs = [
+    MONSTERS_5E_DIR,
+    MONSTERS_PF2E_DIR,
+    ...Object.keys(SOURCE_MAP_5E).map(f => path.join(MONSTERS_5E_DIR, f)),
+  ];
+  const missing = missingDirs(requiredDirs);
+  if (missing.length) {
+    console.error('FATAL: configured source folder(s) missing — aborting before any write/reconcile:');
+    for (const m of missing) console.error(`  ${m}`);
+    process.exit(1);
+  }
+
   console.log('Connecting to MongoDB...');
   await mongoose.connect(process.env.MONGO_URI);
   console.log('Connected.\n');
@@ -426,27 +445,26 @@ async function seed() {
   }
 
   // ── PF2e sources (from monsters/pf2e/) ──
+  // Parent dir existence is guaranteed by the preflight; individual folders
+  // are discovered from disk, so a deliberately removed PF2e folder is a
+  // legitimate content removal (still covered by the 10% guard + --dry-run).
   console.log('\nPF2e sources:');
-  if (fs.existsSync(MONSTERS_PF2E_DIR)) {
-    const pf2eFolders = fs.readdirSync(MONSTERS_PF2E_DIR, { withFileTypes: true })
-      .filter(e => e.isDirectory())
-      .map(e => e.name)
-      .sort();
+  const pf2eFolders = fs.readdirSync(MONSTERS_PF2E_DIR, { withFileTypes: true })
+    .filter(e => e.isDirectory())
+    .map(e => e.name)
+    .sort();
 
-    for (const folder of pf2eFolders) {
-      const sourceKey = `pf2e_${folder}`;
-      const label = PF2E_SOURCE_LABELS[folder] || `PF2e ${folder.toUpperCase()}`;
-      const config = {
-        key: sourceKey,
-        label,
-        format: 'pf2e',
-        gameSystem: 'pf2e',
-      };
-      const folderPath = path.join(MONSTERS_PF2E_DIR, folder);
-      processFolder(folderPath, config, records, stats);
-    }
-  } else {
-    console.warn('  monsters/pf2e/ directory not found, skipping PF2e sources.');
+  for (const folder of pf2eFolders) {
+    const sourceKey = `pf2e_${folder}`;
+    const label = PF2E_SOURCE_LABELS[folder] || `PF2e ${folder.toUpperCase()}`;
+    const config = {
+      key: sourceKey,
+      label,
+      format: 'pf2e',
+      gameSystem: 'pf2e',
+    };
+    const folderPath = path.join(MONSTERS_PF2E_DIR, folder);
+    processFolder(folderPath, config, records, stats);
   }
 
   console.log(`\nScanned ${stats.totalFiles} monsters (${stats.errors} read/parse errors).`);
