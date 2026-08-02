@@ -38,7 +38,7 @@ const latestSharedRollSchema = z.object({
 }).nullable();
 
 export const createEncounterSchema = z.object({
-  name: z.string().min(1).max(100).trim(),
+  name: z.string().trim().min(1).max(100),
   state: z.enum(['pre-combat', 'combat']).default('pre-combat'),
   currentRound: z.number().int().min(1).default(1),
   activeCreatureId: z.string().nullable().default(null),
@@ -53,7 +53,7 @@ export const createEncounterSchema = z.object({
 
 export const updateEncounterSchema = z.object({
   baseRev: z.number().int().min(0),
-  name: z.string().min(1).max(100).trim().optional(),
+  name: z.string().trim().min(1).max(100).optional(),
   state: z.enum(['pre-combat', 'combat']).optional(),
   currentRound: z.number().int().min(1).optional(),
   activeCreatureId: z.string().nullable().optional(),

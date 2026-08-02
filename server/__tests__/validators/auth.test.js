@@ -152,3 +152,28 @@ describe('deleteAccountSchema', () => {
     expect(deleteAccountSchema.safeParse({ password: '' }).success).toBe(false);
   });
 });
+
+// M8: Zod runs checks in declaration order, so .min(1).max(50).trim()
+// validated the UNTRIMMED input — "   " passed min(1) then trimmed to "",
+// creating users with empty display names ("Welcome aboard, !"). And a
+// 50-char name padded with spaces was rejected by max(50) despite trimming
+// to a valid length. .trim() must come first.
+describe('trim-before-min ordering (M8)', () => {
+  it('rejects whitespace-only displayName on register', () => {
+    const result = registerSchema.safeParse({
+      email: 'a@b.co', password: 'password123', displayName: '   ',
+    });
+    expect(result.success).toBe(false);
+  });
+
+  it('rejects whitespace-only displayName on profile update', () => {
+    expect(updateProfileSchema.safeParse({ displayName: '\t  \n' }).success).toBe(false);
+  });
+
+  it('accepts a max-length displayName padded with whitespace', () => {
+    const padded = `  ${'a'.repeat(50)}  `;
+    const result = updateProfileSchema.safeParse({ displayName: padded });
+    expect(result.success).toBe(true);
+    expect(result.data.displayName).toBe('a'.repeat(50));
+  });
+});

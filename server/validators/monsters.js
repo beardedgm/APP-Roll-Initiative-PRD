@@ -15,7 +15,7 @@ const VALID_CRS = [
 ];
 
 export const createMonsterSchema = z.object({
-  name: z.string().min(1, 'Name is required').max(100).trim(),
+  name: z.string().trim().min(1, 'Name is required').max(100),
   size: z.string().max(50).optional(),
   type: z.string().max(100).optional(),
   alignment: z.string().max(100).optional(),
