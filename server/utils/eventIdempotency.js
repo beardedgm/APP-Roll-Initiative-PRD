@@ -15,12 +15,20 @@ import logger from '../config/logger.js';
  *   false if the event was already claimed (skip as a duplicate).
  */
 export async function claimEvent(eventId) {
-  const existing = await ProcessedEvent.findOneAndUpdate(
-    { eventId },
-    { $setOnInsert: { eventId, processedAt: new Date() } },
-    { upsert: true, returnDocument: 'before' }
-  );
-  return existing === null;
+  try {
+    const existing = await ProcessedEvent.findOneAndUpdate(
+      { eventId },
+      { $setOnInsert: { eventId, processedAt: new Date() } },
+      { upsert: true, returnDocument: 'before' }
+    );
+    return existing === null;
+  } catch (err) {
+    // Two truly concurrent upserts on the unique eventId index can make the
+    // loser throw E11000 (documented Mongo upsert-race behavior). That means
+    // someone else claimed it — a duplicate, not an error. Anything else is real.
+    if (err.code === 11000) return false;
+    throw err;
+  }
 }
 
 /**

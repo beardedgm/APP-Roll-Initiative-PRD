@@ -59,6 +59,11 @@ router.get('/api/monsters/search', asyncHandler(async (req, res) => {
     } else {
       filter.crNumeric = crToNumeric(crStr);
     }
+    // Guard NaN here: letting it reach Mongoose throws a CastError that the
+    // error handler reports as "Invalid ID format" — wrong message, right 400.
+    if (Number.isNaN(filter.crNumeric)) {
+      return res.status(400).json({ error: 'Invalid cr value' });
+    }
   }
 
   if (type && type.trim()) {

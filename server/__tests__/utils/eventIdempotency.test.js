@@ -40,3 +40,19 @@ describe('releaseEvent', () => {
     expect(await ProcessedEvent.countDocuments()).toBe(0);
   });
 });
+
+// L22: two truly concurrent upserts on the unique eventId index can make the
+// loser throw E11000 (documented Mongo upsert-race behavior). That must read
+// as "already claimed" (false), never escape as a 500 to the webhook route.
+describe('claimEvent concurrency', () => {
+  it('concurrent claims of the same event yield exactly one true, no throw', async () => {
+    const results = await Promise.all([
+      claimEvent('evt_race'),
+      claimEvent('evt_race'),
+      claimEvent('evt_race'),
+      claimEvent('evt_race'),
+    ]);
+    expect(results.filter(Boolean)).toHaveLength(1);
+    expect(await ProcessedEvent.countDocuments({ eventId: 'evt_race' })).toBe(1);
+  });
+});

@@ -31,6 +31,10 @@ router.get('/api/spells/search', asyncHandler(async (req, res) => {
 
   if (level !== undefined && level !== '') {
     filter.level = parseInt(level);
+    // Guard NaN: a Mongoose CastError would surface as "Invalid ID format".
+    if (Number.isNaN(filter.level)) {
+      return res.status(400).json({ error: 'Invalid level value' });
+    }
   }
 
   if (school && school.trim()) {

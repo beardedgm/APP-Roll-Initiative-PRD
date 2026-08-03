@@ -6,9 +6,13 @@ import logger from '../config/logger.js';
  * Must be registered AFTER all routes in app.js (4 params = Express error handler).
  */
 export default function errorHandler(err, req, res, _next) {
-  // Mongoose validation errors
+  // Mongoose validation errors. details is masked in production like the 500
+  // path below — Mongoose messages embed schema paths and rejected values.
   if (err.name === 'ValidationError') {
-    return res.status(400).json({ error: 'Validation failed', details: err.message });
+    return res.status(400).json({
+      error: 'Validation failed',
+      ...(process.env.NODE_ENV === 'production' ? {} : { details: err.message }),
+    });
   }
 
   // Mongoose cast errors (invalid ObjectId, etc.)
