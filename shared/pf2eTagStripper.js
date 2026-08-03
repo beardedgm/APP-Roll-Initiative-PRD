@@ -28,6 +28,13 @@ export function stripPf2eTags(text) {
   do {
     prev = result;
     result = result.replace(/\{@(\w+)\s+([^{}]*)\}/g, (_, tag, content) => {
+      // {@dc} must be handled BEFORE the pipe branches: the piped form
+      // {@dc 20|basic} would otherwise take the generic name-segment path and
+      // strip to "20", losing the "DC " prefix (l2). The number is always the
+      // first segment regardless of pipes.
+      if (tag === 'dc') {
+        return `DC ${content.split('|')[0].trim()}`;
+      }
       if (content.includes('||')) {
         const parts = content.split('||');
         const afterPipe = parts[parts.length - 1];
@@ -44,7 +51,6 @@ export function stripPf2eTags(text) {
         const display = parts.length >= 3 ? parts[2].trim() : '';
         return display || parts[0].trim();
       }
-      if (tag === 'dc') return `DC ${content.trim()}`;
       if (tag === 'ability') return ABILITY_MAP[content.trim().toLowerCase()] || content.trim();
       return content.trim();
     });
