@@ -54,6 +54,7 @@ function main() {
 
   let totalSpells = 0;
   let totalErrors = 0;
+  const writtenPaths = new Set(); // detect same-run slug collisions (l5)
   const sourceStats = {};
 
   for (const jsonFile of jsonFiles) {
@@ -89,6 +90,13 @@ function main() {
 
         const markdown = renderPf2eSpellToMarkdown(spell);
         const outPath = path.join(outDir, `${slug}.md`);
+        // Two names that slugify identically silently clobber each other's
+        // file — and the seed's DUPLICATE SLUG guard can't catch it because
+        // the data is lost before the seed ever sees two files. Warn here (l5).
+        if (writtenPaths.has(outPath)) {
+          console.warn(`  DUPLICATE SLUG: ${outPath} ("${spell.name}") — overwriting an earlier spell from this run`);
+        }
+        writtenPaths.add(outPath);
         fs.writeFileSync(outPath, markdown, 'utf8');
 
         totalSpells++;

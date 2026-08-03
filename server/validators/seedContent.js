@@ -10,6 +10,9 @@ export const seedMonsterSchema = z.object({
   hp: z.number().int().min(1),
   cr: z.string().min(1),
   crNumeric: z.number(),            // may be negative (PF2e level -1)
+  // Required: an unparseable initiative/Perception must skip the record, not
+  // silently seed +0 (l7). Range covers 5e DEX −5 through PF2e Perception +36.
+  initMod: z.number().int().min(-20).max(40),
 }).passthrough();
 
 export const seedSpellSchema = z.object({
