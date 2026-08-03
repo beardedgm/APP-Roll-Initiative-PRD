@@ -62,7 +62,7 @@ This file describes the architecture, conventions, and rules for this codebase. 
 ├── server/
 │   ├── config/                 # DB, session, logger, Stripe, Resend, Turnstile, Sentry, pf2eSourceLabels, demoMonsters
 │   ├── models/                 # User, Encounter, Monster, Spell, UserData, LoginAttempt, EmailToken, ProcessedEvent
-│   ├── validators/             # Zod schemas (auth, encounters, monsters, userData)
+│   ├── validators/             # Zod schemas (auth, encounters, userData, seedContent)
 │   ├── middleware/             # requireAuth, requireOwner, requireSubscription, requireCsrf, validate, rateLimitAuth, rateLimitGeneral, verifyTurnstile, errorHandler
 │   ├── routes/                 # auth, billing, emailWebhooks, encounters, health, monsters, spells, sitemap, userData
 │   ├── scripts/                # seedMonsters.js, seedSpells.js

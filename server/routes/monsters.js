@@ -112,6 +112,10 @@ router.get('/api/monsters/sources', asyncHandler(async (req, res) => {
 
   const fullAccess = await hasFullAccess(req);
   if (!fullAccess) {
+    // Non-subscribers see only demo-relevant SOURCES, but the counts are
+    // deliberately the full per-source totals (e.g. "5.1 SRD (300)") even
+    // though only the demo slugs are fetchable — intentional catalog-size
+    // marketing, not a gating bug. Reviewed and kept as-is (l21 wontfix).
     const demoSources = new Set([...DEMO_SLUGS].map(s => s.split('--')[0]));
     const filtered = mapped.filter(s => demoSources.has(s.key));
     return res.json(filtered);

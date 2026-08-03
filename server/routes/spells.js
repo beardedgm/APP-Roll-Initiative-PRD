@@ -42,12 +42,9 @@ router.get('/api/spells/search', asyncHandler(async (req, res) => {
     filter.school = new RegExp(escapedSchool, 'i');
   }
 
-  // PF2e: filter by tradition (using proper traditions field)
-  if (tradition && tradition.trim()) {
-    filter.traditions = tradition.trim().toLowerCase();
-  }
-
-  // PF2e: category filter (tradition or spell type)
+  // PF2e filter precedence — explicit, not last-writer-wins (l20): `category`
+  // is the UI's combined filter (tradition OR focus/ritual) and WINS when
+  // present; otherwise `tradition` and `spellType` apply independently.
   if (category && category.trim()) {
     const cat = category.trim().toLowerCase();
     if (cat === 'focus' || cat === 'ritual') {
@@ -55,11 +52,13 @@ router.get('/api/spells/search', asyncHandler(async (req, res) => {
     } else {
       filter.traditions = cat;
     }
-  }
-
-  // PF2e: filter by spell type
-  if (spellType && spellType.trim()) {
-    filter.spellType = spellType.trim().toLowerCase();
+  } else {
+    if (tradition && tradition.trim()) {
+      filter.traditions = tradition.trim().toLowerCase();
+    }
+    if (spellType && spellType.trim()) {
+      filter.spellType = spellType.trim().toLowerCase();
+    }
   }
 
   // PF2e: filter by action cost

@@ -145,3 +145,29 @@ describe('userData envelope flood cap', () => {
     expect(parseUserDataResilient(envelopeWith(2001)).ok).toBe(false);
   });
 });
+
+// l24: duplicate combatant IDs in a preset make delete/turn-targeting
+// ambiguous when loaded into the tracker. Same rule as the encounter API;
+// per-item resilience means the bad preset is dropped + logged, not a 400.
+describe('encounter preset combatant ID uniqueness', () => {
+  function presetBody(combatants) {
+    return {
+      version: 0, characters: [], customMonsters: [],
+      encounterPresets: [{ id: 'p1', name: 'Ambush', combatants }],
+    };
+  }
+  const combatant = (id) => ({ id, name: `C-${id}`, hp: { current: 10, max: 10 } });
+
+  it('drops a preset with duplicate combatant IDs (sync still succeeds)', () => {
+    const result = parseUserDataResilient(presetBody([combatant('a'), combatant('a')]));
+    expect(result.ok).toBe(true);
+    expect(result.data.encounterPresets).toHaveLength(0);
+    expect(result.dropped.some(d => d.collection === 'encounterPresets')).toBe(true);
+  });
+
+  it('keeps a preset with unique combatant IDs', () => {
+    const result = parseUserDataResilient(presetBody([combatant('a'), combatant('b')]));
+    expect(result.ok).toBe(true);
+    expect(result.data.encounterPresets).toHaveLength(1);
+  });
+});
