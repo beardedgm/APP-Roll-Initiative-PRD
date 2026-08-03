@@ -62,3 +62,27 @@ describe('stripPf2eTags', () => {
     assert.equal(stripPf2eTags('{@condition sickened|CRB|sickened 2}'), 'sickened 2');
   });
 });
+
+// l2: {@dc} must keep its "DC " prefix in ALL forms — the piped form
+// {@dc 20|basic} previously took the generic pipe path and stripped to "20".
+describe('stripPf2eTags — {@dc} forms', () => {
+  it('plain form keeps the DC prefix', () => {
+    assert.equal(stripPf2eTags('{@dc 17}'), 'DC 17');
+  });
+
+  it('piped form keeps the DC prefix', () => {
+    assert.equal(stripPf2eTags('{@dc 20|basic}'), 'DC 20');
+  });
+
+  it('inline in a sentence', () => {
+    assert.equal(
+      stripPf2eTags('must succeed at a {@dc 20|basic} Fortitude save'),
+      'must succeed at a DC 20 Fortitude save'
+    );
+  });
+
+  it('generic pipe/display behavior for other tags is unchanged', () => {
+    assert.equal(stripPf2eTags('{@condition sickened|CRB}'), 'sickened');
+    assert.equal(stripPf2eTags('{@condition sickened|CRB|sickened 2}'), 'sickened 2');
+  });
+});

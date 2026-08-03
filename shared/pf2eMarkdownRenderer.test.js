@@ -329,3 +329,31 @@ describe('edge cases', () => {
     assert.ok(md.startsWith('# Minimal'));
   });
 });
+
+// l26 follow-up: rarity may live in traits (this project's dataset — proven
+// by the converted corpus) OR in a top-level `rarity` field (other PF2eTools
+// variants). Both must adjust the Recall Knowledge DC.
+describe('renderRecallKnowledge rarity sources', () => {
+  it('applies rarity from the traits array (dataset norm)', () => {
+    const md = renderPf2eCreatureToMarkdown({
+      name: 'X', level: 3, traits: ['uncommon', 'construct'],
+    });
+    // level 3 base DC 18 + uncommon 2
+    assert.match(md, /Recall Knowledge - Construct.*DC 20/);
+  });
+
+  it('applies rarity from a top-level rarity field', () => {
+    const md = renderPf2eCreatureToMarkdown({
+      name: 'X', level: 3, rarity: 'Rare', traits: ['construct'],
+    });
+    // level 3 base DC 18 + rare 5
+    assert.match(md, /Recall Knowledge - Construct.*DC 23/);
+  });
+
+  it('defaults to common when neither specifies rarity', () => {
+    const md = renderPf2eCreatureToMarkdown({
+      name: 'X', level: 3, traits: ['construct'],
+    });
+    assert.match(md, /Recall Knowledge - Construct.*DC 18/);
+  });
+});

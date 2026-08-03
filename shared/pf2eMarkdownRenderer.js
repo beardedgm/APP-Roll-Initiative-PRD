@@ -504,8 +504,14 @@ function renderRecallKnowledge(creature) {
   const dcIndex = Math.max(0, Math.min(level + 1, DC_BY_LEVEL.length - 1));
   const baseDC = DC_BY_LEVEL[dcIndex];
 
-  // Rarity from traits (common if not specified)
-  const rarity = traits.find((t) => RARITY_ADJUSTMENT[t] !== undefined && t !== 'common') ?? 'common';
+  // Rarity: prefer an explicit top-level field, else scan traits. In this
+  // project's PF2eTools dataset rarity is carried IN the traits array (the
+  // converted corpus confirms the DC adjustments land — e.g. Siege Shard,
+  // level 3 uncommon, DC 20 = 18 + 2), but some dataset variants carry a
+  // separate `rarity` field; honor it when present.
+  const rarity = (typeof creature.rarity === 'string' && creature.rarity.toLowerCase())
+    || traits.find((t) => RARITY_ADJUSTMENT[t] !== undefined && t !== 'common')
+    || 'common';
   const dc = baseDC + (RARITY_ADJUSTMENT[rarity] ?? 0);
 
   // Use the first matched trait for the label (capitalize)
