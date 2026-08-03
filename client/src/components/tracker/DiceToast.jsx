@@ -42,7 +42,13 @@ function getNatClass(entry) {
 
 export default function DiceToast() {
   const diceHistory = useCombatStore(s => s.diceHistory);
-  const [dismissedId, setDismissedId] = useState(null);
+  // diceHistory is persisted, so on mount the previous session's last roll is
+  // already at [0] — start with it dismissed so only rolls made AFTER mount
+  // raise the toast (l1). Unlike PlayerDiceToast there is no auto-dismiss:
+  // the DM-side toast is intentionally persistent until closed.
+  const [dismissedId, setDismissedId] = useState(
+    () => useCombatStore.getState().diceHistory?.[0]?.id ?? null
+  );
 
   const entry = diceHistory?.length > 0 ? diceHistory[0] : null;
   const visible = entry !== null && entry.id !== dismissedId;
