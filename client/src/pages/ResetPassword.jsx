@@ -5,6 +5,7 @@ import { useConsumeTokenParam } from '../hooks/useConsumeTokenParam';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 import SEO from '../components/layout/SEO';
+import TurnstileWidget from '../components/ui/TurnstileWidget';
 import '../styles/marketing.css';
 
 export default function ResetPassword() {
@@ -13,15 +14,18 @@ export default function ResetPassword() {
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const [done, setDone] = useState(false);
+  const [turnstileToken, setTurnstileToken] = useState(null);
+  const [turnstileReset, setTurnstileReset] = useState(0);
 
   async function handleSubmit(e) {
     e.preventDefault();
     setError('');
     try {
-      await reset.mutateAsync({ token, password });
+      await reset.mutateAsync({ token, password, turnstileToken });
       setDone(true);
     } catch (err) {
       setError(err.response?.data?.error || 'Reset failed');
+      setTurnstileReset(n => n + 1); // consumed token — force a fresh challenge
     }
   }
 
@@ -64,6 +68,7 @@ export default function ResetPassword() {
                   />
                   <span className="auth-form__hint">At least 8 characters</span>
                 </label>
+                <TurnstileWidget onToken={setTurnstileToken} resetSignal={turnstileReset} />
                 <button
                   type="submit"
                   className="btn btn--primary auth-form__submit"
