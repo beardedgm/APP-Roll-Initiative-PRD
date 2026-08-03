@@ -150,11 +150,26 @@ router.post('/api/encounters/:id/share', asyncHandler(async (req, res) => {
   }
 
   if (!encounter.shareCode) {
-    // Try up to 3 times in case of collision
+    // Targeted update, NOT doc.save(): a full-document save validates the
+    // entire legacy doc, so any field predating current schema rules would
+    // 400 the share action even though only shareCode is being written (l18).
+    // Retry on the unique-index collision (11000); the $exists guard means a
+    // concurrent share request can win — adopt its code instead of failing.
     for (let i = 0; i < 5; i++) {
+      const code = Encounter.generateShareCode();
       try {
-        encounter.shareCode = Encounter.generateShareCode();
-        await encounter.save();
+        const updated = await Encounter.findOneAndUpdate(
+          { _id: encounter._id, userId: req.session.userId, shareCode: { $exists: false } },
+          { $set: { shareCode: code } },
+          { new: true }
+        ).select('shareCode').lean();
+        if (updated) {
+          encounter.shareCode = updated.shareCode;
+        } else {
+          const current = await Encounter.findOne({ _id: encounter._id, userId: req.session.userId })
+            .select('shareCode').lean();
+          encounter.shareCode = current?.shareCode ?? null;
+        }
         break;
       } catch (err) {
         if (err.code !== 11000 || i === 4) throw err;
@@ -219,7 +234,9 @@ sharedEncounterRouter.get('/api/shared/:code', rateLimitMemory('shared-encounter
 
   // Strip sensitive data — players should see health status but not HP values
   const safeCombatants = (encounter.combatants || []).map(c => {
-    const hpPct = c.hp && c.hp.max > 0 ? c.hp.current / c.hp.max : 0;
+    // No-HP combatants (legacy/hand-inserted docs) default to healthy (1),
+    // not bloody — a 0 fallback landed them in the <=0.25 bucket (l19).
+    const hpPct = c.hp && c.hp.max > 0 ? c.hp.current / c.hp.max : 1;
     let healthStatus = 'healthy';
     if (c.status === 'unconscious' || (c.hp && c.hp.current <= 0)) {
       healthStatus = 'unconscious';

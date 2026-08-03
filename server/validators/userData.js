@@ -100,7 +100,15 @@ const customMonsterSchema = z.object({
 const encounterPresetSchema = z.object({
   id: z.string().min(1).max(100).regex(/^[\w-]+$/, 'ID must contain only word characters and hyphens'),
   name: z.string().min(1).max(100),
-  combatants: z.array(presetCombatantSchema).max(100).default([]),
+  // Same uniqueness rule as the encounter API's combatantSchema: duplicate IDs
+  // make delete/turn-targeting ambiguous when the preset loads into the
+  // tracker. Per-item resilient parsing means a duplicate-ID preset is
+  // dropped + logged, not a 400 — consistent with the sync design (l24).
+  combatants: z.array(presetCombatantSchema).max(100).default([])
+    .refine(
+      (combatants) => new Set(combatants.map(c => c.id)).size === combatants.length,
+      { message: 'Combatant IDs must be unique' }
+    ),
   state: z.enum(['pre-combat', 'combat']).default('pre-combat'),
   currentRound: z.number().int().min(1).default(1),
   activeCreatureId: z.string().nullable().default(null),
