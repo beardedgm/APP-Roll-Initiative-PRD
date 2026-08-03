@@ -122,10 +122,13 @@ function parseStandard(md, _sourceKey) {
     }
   }
 
-  // Init modifier: derive from DEX
-  result.initMod = result.abilities.dex
-    ? Math.floor((result.abilities.dex - 10) / 2)
-    : 0;
+  // Init modifier: derive from DEX. `!= null`, not truthiness — a DEX score of
+  // 0 (Black-Flag-style modifier −5) is falsy but real. When DEX is genuinely
+  // absent, leave initMod unset so validation reports the file instead of
+  // silently seeding +0.
+  if (result.abilities.dex != null) {
+    result.initMod = Math.floor((result.abilities.dex - 10) / 2);
+  }
 
   return result;
 }
@@ -195,8 +198,8 @@ function parse52(md) {
     }
   }
 
-  // Fallback initMod from DEX if not explicitly set
-  if (result.initMod === undefined && result.abilities.dex) {
+  // Fallback initMod from DEX if not explicitly set (`!= null`: DEX 0 is real)
+  if (result.initMod === undefined && result.abilities.dex != null) {
     result.initMod = Math.floor((result.abilities.dex - 10) / 2);
   }
 
@@ -265,9 +268,12 @@ function parseBlackFlag(md) {
     }
   }
 
-  // Init modifier from DEX
-  const dexMod = result.abilities.dex ? Math.floor((result.abilities.dex - 10) / 2) : 0;
-  result.initMod = dexMod;
+  // Init modifier from DEX. `!= null`, not truthiness: a Black Flag DEX
+  // modifier of −5 converts to score 0, which is falsy but real — the old
+  // check seeded shrieker_bf with initMod 0 instead of −5 (l6).
+  if (result.abilities.dex != null) {
+    result.initMod = Math.floor((result.abilities.dex - 10) / 2);
+  }
 
   return result;
 }
@@ -391,7 +397,11 @@ function processFolder(folderPath, config, records, stats) {
           hpFormula: parsed.hpFormula || '',
           ac: parsed.ac,
           acDesc: parsed.acDesc || '',
-          initMod: parsed.initMod || 0,
+          // No `|| 0` fallback — that is exactly the silent-bad-default this
+          // pipeline forbids. An unparseable initiative/Perception leaves this
+          // undefined, and seedMonsterSchema now rejects the record so it is
+          // reported and skipped instead of seeded at +0 forever (l7).
+          initMod: parsed.initMod,
           size: parsed.size || '',
           type: parsed.type || '',
           alignment: parsed.alignment || '',
@@ -430,8 +440,11 @@ async function seed() {
     process.exit(1);
   }
 
+  const uri = process.env.MONGO_URI;
+  if (!uri) { console.error('MONGO_URI not set in .env'); process.exit(1); }
+
   console.log('Connecting to MongoDB...');
-  await mongoose.connect(process.env.MONGO_URI);
+  await mongoose.connect(uri);
   console.log('Connected.\n');
 
   const records = [];

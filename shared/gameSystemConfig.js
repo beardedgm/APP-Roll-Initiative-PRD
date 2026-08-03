@@ -5,7 +5,9 @@ export const GAME_SYSTEMS = {
   '5e': {
     label: 'D&D 5E',
     creatures: {
-      directory: 'Monsters/5e',
+      // Lowercase — the tracked dir name. A capitalized path resolves on
+      // case-insensitive Windows but finds nothing on a Linux FS.
+      directory: 'monsters/5e',
       crLabel: 'CR',
       crAllLabel: 'All CRs',
       crOptions: [
@@ -49,7 +51,7 @@ export const GAME_SYSTEMS = {
   'pf2e': {
     label: 'PF2E',
     creatures: {
-      directory: 'Monsters/pf2e',
+      directory: 'monsters/pf2e',
       crLabel: 'Level',
       crAllLabel: 'All Levels',
       crOptions: [
