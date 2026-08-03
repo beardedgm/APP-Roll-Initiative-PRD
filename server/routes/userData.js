@@ -84,6 +84,11 @@ export async function mergeUserData(userId, payload, now = Date.now()) {
   // recurrence is visible rather than a silent drop.
   logger.warn({ userId: String(userId) }, 'user-data merge gave up after 4 CAS attempts; payload not persisted this cycle');
   const fresh = await UserData.findOne({ userId }).lean();
+  if (!fresh) {
+    // Doc deleted concurrently (account deletion race) — return the empty
+    // view instead of null-dereferencing into a 500.
+    return { version: 0, characters: [], customMonsters: [], encounterPresets: [] };
+  }
   return {
     version: fresh.version,
     characters: liveItems(fresh.characters),

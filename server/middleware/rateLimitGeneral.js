@@ -57,7 +57,8 @@ export function rateLimitByIP(action, maxPerWindow = 5) {
       next();
     } catch (err) {
       logger.error({ err }, 'DB rate limiter failed, using in-memory fallback');
-      // Fail closed with in-memory fallback
+      // Fail OPEN by design: a DB outage must not reject every rate-limited
+      // action. The in-memory counter still caps abuse per process.
       const limited = checkMemoryLimit(`${action}:${ip}`, maxPerWindow);
       if (limited) {
         return res.status(429).json({ error: 'Too many requests. Try again in 15 minutes.' });

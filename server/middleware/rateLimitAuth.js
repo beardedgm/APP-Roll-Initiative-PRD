@@ -55,7 +55,8 @@ export default async function rateLimitAuth(req, res, next) {
     next();
   } catch (err) {
     logger.error({ err }, 'DB rate limiter failed, using in-memory fallback');
-    // Fail closed with in-memory fallback
+    // Fail OPEN by design: rejecting everyone during a DB outage would lock all
+    // users out of login. The in-memory counter still caps abuse per process.
     const ipLimited = checkMemoryLimit(`ip:${ip}`, MAX_ATTEMPTS_PER_IP);
     const emailLimited = checkMemoryLimit(`email:${email}`, MAX_ATTEMPTS_PER_EMAIL);
     if (ipLimited || emailLimited) {

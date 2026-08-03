@@ -6,10 +6,12 @@ import logger from './logger.js';
 dns.setServers(['8.8.8.8', '8.8.4.4']);
 
 export async function connectDB() {
+  // Set BEFORE connecting, unconditionally: if a dev-mode failed connect later
+  // recovers via Mongoose's buffering, queries must never run unsanitized.
+  mongoose.set('sanitizeFilter', true);
   try {
     const conn = await mongoose.connect(process.env.MONGO_URI);
     logger.info(`MongoDB connected: ${conn.connection.host}`);
-    mongoose.set('sanitizeFilter', true);
     return true;
   } catch (err) {
     logger.error({ err }, 'MongoDB connection failed');
