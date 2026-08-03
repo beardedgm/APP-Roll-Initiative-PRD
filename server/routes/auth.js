@@ -145,7 +145,8 @@ router.post('/api/auth/verify-email', rateLimitByIP('verify-email', 5), asyncHan
     return res.status(400).json({ error: 'Token is required' });
   }
 
-  const emailToken = await EmailToken.findOne({ token, type: 'verify-email' });
+  // Tokens are stored hashed (sha256) — findByRawToken hashes before querying.
+  const emailToken = await EmailToken.findByRawToken(token, 'verify-email');
   if (!emailToken || emailToken.expiresAt < new Date()) {
     return res.status(400).json({ error: 'Invalid or expired token' });
   }
@@ -177,10 +178,11 @@ router.post('/api/auth/forgot-password', rateLimitByIP('forgot-password', 5), ve
 /**
  * POST /api/auth/reset-password
  */
-router.post('/api/auth/reset-password', rateLimitByIP('reset-password', 5), validate(resetPasswordSchema), asyncHandler(async (req, res) => {
+router.post('/api/auth/reset-password', rateLimitByIP('reset-password', 5), verifyTurnstile, validate(resetPasswordSchema), asyncHandler(async (req, res) => {
   const { token, password } = req.validated;
 
-  const emailToken = await EmailToken.findOne({ token, type: 'reset-password' });
+  // Tokens are stored hashed (sha256) — findByRawToken hashes before querying.
+  const emailToken = await EmailToken.findByRawToken(token, 'reset-password');
   if (!emailToken || emailToken.expiresAt < new Date()) {
     return res.status(400).json({ error: 'Invalid or expired token' });
   }
@@ -216,11 +218,17 @@ router.post('/api/auth/change-password', requireAuth, rateLimitByIP('change-pass
   user.salt = salt;
   await user.save();
 
-  // Invalidate all other sessions — keep the current one
+  // Invalidate all other sessions — keep this device logged in, but rotate its
+  // session ID too: a credential change should regenerate the session just like
+  // login does, so a pre-change session ID can never outlive the old password.
   await destroyOtherSessions(user._id, req.sessionID);
-
-  logger.info({ userId: user._id }, 'Password changed');
-  res.json({ success: true });
+  regenerateSession(req, user._id, (err) => {
+    if (err) {
+      return res.status(500).json({ error: 'Password changed, but session refresh failed. Please log in again.' });
+    }
+    logger.info({ userId: user._id }, 'Password changed');
+    res.json({ success: true });
+  });
 }));
 
 /**
